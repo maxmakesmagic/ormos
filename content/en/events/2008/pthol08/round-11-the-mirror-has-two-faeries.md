@@ -298,7 +298,9 @@ Kenji sided in two handfuls of cards, bringing in 4 Thoughtseize, 3 Fledgling Ma
 
 Kenji immediately decided to go fish, caught nothing, and went down to five cards. A small nod expressed that he was keeping. Paulo, perhaps catching mulligan fever, went down to six and kept.
 
-![Paulo Vitor Damo da Rosa orchestrates his moves.](http://www.wizards.com/sideboard/images/pthol08/r11_damo%20da%20rosa.jpg "Paulo Vitor Damo da Rosa orchestrates his moves.")Kenji started with Island and Ancestral Vision, while Paulo had Pendelhaven. Kenji’s second turn of "Island, go" was a bad sign, but Paulo could only make Mutavault. Kenji’s third-turn Pendelhaven acted as a faux Raze, destroying both lands via the legend rule.
+![Paulo Vitor Damo da Rosa orchestrates his moves.](http://www.wizards.com/sideboard/images/pthol08/r11_damo%20da%20rosa.jpg "Paulo Vitor Damo da Rosa orchestrates his moves.")
+
+Kenji started with Island and Ancestral Vision, while Paulo had Pendelhaven. Kenji’s second turn of "Island, go" was a bad sign, but Paulo could only make Mutavault. Kenji’s third-turn Pendelhaven acted as a faux Raze, destroying both lands via the legend rule.
 
 PVD decided it was time for someone to play something, so he played an Island and suspended Ancestral Vision. Kenji whiffed completely on his fourth turn, drawing a card and saying go.
 

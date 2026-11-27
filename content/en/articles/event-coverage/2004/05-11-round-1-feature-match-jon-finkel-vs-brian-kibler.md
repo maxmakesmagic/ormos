@@ -44,7 +44,9 @@ archive_source:
   sha256: d4512802c97447387f75a1cecd1297add6c85e10c1702fdaffdd16334a84134f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi04/fm1_1.jpg)For the Pack Draft event both of these players ended up with similar sets to build from. Finkel had PS/PS/AP/8/OD to Kibler's PS/PS/IN/8/SCG
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mi04/fm1_1.jpg)
+
+For the Pack Draft event both of these players ended up with similar sets to build from. Finkel had PS/PS/AP/8/OD to Kibler's PS/PS/IN/8/SCG
 
 ### Game 1
 

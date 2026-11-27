@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *Por Alejo Zagalsky*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/Barboza.jpg)Paco Barboza eligió el Draw-Go, un mazo con 15 counters que son "alimentados"por las Thieving Magpie. El mazo no tiene Stroke of Genius, pero en su lugar utiliza 4 Accumulet Knowledge.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/Barboza.jpg)
+
+Paco Barboza eligió el Draw-Go, un mazo con 15 counters que son "alimentados"por las Thieving Magpie. El mazo no tiene Stroke of Genius, pero en su lugar utiliza 4 Accumulet Knowledge.
 
 4 Power Kegs, 2 treachery y las 4 Masticore proporcionan el control de criatura, y esta última tambien sirve para el beatdown, junto con Dios, Jesus, o si prefieren su nombre oficial, Morphiling.
 

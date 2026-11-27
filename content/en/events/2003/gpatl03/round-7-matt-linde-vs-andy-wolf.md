@@ -89,7 +89,9 @@ Andy Wolf was once thought of as an old-timer, but his original return to the ga
 
 ### Game 1
 
-![](https://i.ormos.uk/3e/75/3e75808f75ae31117e51601cccd37f85715ca9e1fbc2db177f272ad22cee1ac3.jpg)Linde won the roll and opened with a strong set of Grappler, Mongrel, Mongrel, while Linde just cycled an Eternal Dragon. Linde dropped a morph on his third turn, but it Wolf had the Volcanic Hammer to force through more damage.
+![](https://i.ormos.uk/3e/75/3e75808f75ae31117e51601cccd37f85715ca9e1fbc2db177f272ad22cee1ac3.jpg)
+
+Linde won the roll and opened with a strong set of Grappler, Mongrel, Mongrel, while Linde just cycled an Eternal Dragon. Linde dropped a morph on his third turn, but it Wolf had the Volcanic Hammer to force through more damage.
 
 Linde untapped and threw Wrath of God on the table. Wolf swept his men off the board in silence. He had a heck of a rejoinder at the ready: Blistering Firecat. A nearby Chris Pikula had to turn away and giggle like a schoolgirl. Linde dropped Temple of the False God and a face-up Angel, ending his turn quickly.
 
@@ -109,7 +111,9 @@ Wolf brought in a pair of Callers of the Claw and three Call of the Herd, subbin
 
 Wolf's start was short of spectacular in Game 2, thanks in part to a mulligan, with just a pair of Grapplers serving on the third turn. He still didn't have a forest on his third turn and couldn't cast his hand of green goodies. He made no play on his fourth turn either. Linde Wrathed away his 1/1's.
 
-![](https://i.ormos.uk/2c/66/2c66570f608eae6e8257b5113a73695bec365a801f3ada6741a887f1f2dfca81.jpg)Wolf ripped a Wooded Foothills and got a Mongrel on board. Linde went one better and showed him Temple and Angel. Wolf suited up his Mongrel with a Guide and swung in. Linde took it and fired back. Wolf kept up the pressure with a Blistering Firecat, but Linde had Smother to cut down the Mongrel. He fell to seven, then rose to eleven after cycling a Vengeance. Another Smother got rid of the token. After that came a cycled Decree and then another Angel.
+![](https://i.ormos.uk/2c/66/2c66570f608eae6e8257b5113a73695bec365a801f3ada6741a887f1f2dfca81.jpg)
+
+Wolf ripped a Wooded Foothills and got a Mongrel on board. Linde went one better and showed him Temple and Angel. Wolf suited up his Mongrel with a Guide and swung in. Linde took it and fired back. Wolf kept up the pressure with a Blistering Firecat, but Linde had Smother to cut down the Mongrel. He fell to seven, then rose to eleven after cycling a Vengeance. Another Smother got rid of the token. After that came a cycled Decree and then another Angel.
 
 "I think what I need here is an Anarchy." – Andy Wolf
 

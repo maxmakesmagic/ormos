@@ -1113,7 +1113,9 @@ U/W ‘Tron is everything that Boros isn't. Where Boros is straightforward aggre
 
 Gab is one of my other favorite deck designers, and was my call for 2006 World Champion. His deck is one of the finest solutions to a metagame in recent memory, and painful – excruciating – to play… *against*.
 
-![](https://i.ormos.uk/49/6c/496cf303ade571f539bf006c58239622a8d11004596253c21d6f5eac053364bc.jpg)The key to this version of U/W ‘Tron is that it skews white instead of blue. Instead of triple-blue Teferi, Gab splices the “Snow White” Proclamation of Rebirth engine onto his ‘Tron engine. MartyrTron is a strong hybrid because it adds an additional powerful (in-format) theme (Martyr) onto an actually busted mana configuration. MartyrTron essentially graduates the already viable Martyr of Sands / Proclamation of Rebirth decks to *great*.
+![](https://i.ormos.uk/49/6c/496cf303ade571f539bf006c58239622a8d11004596253c21d6f5eac053364bc.jpg)
+
+The key to this version of U/W ‘Tron is that it skews white instead of blue. Instead of triple-blue Teferi, Gab splices the “Snow White” Proclamation of Rebirth engine onto his ‘Tron engine. MartyrTron is a strong hybrid because it adds an additional powerful (in-format) theme (Martyr) onto an actually busted mana configuration. MartyrTron essentially graduates the already viable Martyr of Sands / Proclamation of Rebirth decks to *great*.
 
 We already know how the ‘Tron side works. Once you have a massive mana engine, it isn't hard to do something absurd with it. If you missed past episodes of Swimming with Sharks, this is how the Proclamation side works:
 
@@ -1151,7 +1153,9 @@ Swimming With Sharks started covering Shaheen's adventures with U/W decks more t
 
 Shaheen rode the deck, which he thinks is tops in the format, to 5-0 but chose to draw against eventual champ Mihara in the final round. This drew Shaheen *out* of Top 8, and put Mihara into the spot that he took to become the eventual World Champion.
 
-![Viashino_Bladescout](https://i.ormos.uk/e3/2f/e32f0fb27256b7f701cacd58a191cf78f20c5e4be7b3b056df11d9b7a92728e5.jpg)“I got a bad scout. Very bad. My friend told me he was Boros. Boros is a true 50/50 matchup, and I didn't want to walk away with only $2,000, and I was Top 8 if Nassif lost, or if Willy Edel won… So I drew.”
+![Viashino_Bladescout](https://i.ormos.uk/e3/2f/e32f0fb27256b7f701cacd58a191cf78f20c5e4be7b3b056df11d9b7a92728e5.jpg)
+
+“I got a bad scout. Very bad. My friend told me he was Boros. Boros is a true 50/50 matchup, and I didn't want to walk away with only $2,000, and I was Top 8 if Nassif lost, or if Willy Edel won… So I drew.”
 
 Mihara, though, was not playing Boros, but The CAL, his innovative deck from the last Extended season. 
 

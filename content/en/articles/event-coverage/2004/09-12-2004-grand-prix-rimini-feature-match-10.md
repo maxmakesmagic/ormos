@@ -44,7 +44,9 @@ archive_source:
   sha256: 8aa052ec5551efb9d0577a91f23a19521504882bcea744d41dd5c6519fc74a17
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm10_1.jpg)Both of these players ran the tables yesterday to leave themselves clear at the top of the standings with 9-0 records. While neither is well known, today should give them a very good chance of making a name for themselves. Rampini is running Affinity while Ottati has blue-green control.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm10_1.jpg)
+
+Both of these players ran the tables yesterday to leave themselves clear at the top of the standings with 9-0 records. While neither is well known, today should give them a very good chance of making a name for themselves. Rampini is running Affinity while Ottati has blue-green control.
 
 Rampini didn't get off to a good start in the morning as he mulliganed down to five going first. Ottati went straight for the throat with an [Oxidize](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oxidize) on Rampini's opening land. Rampini's five cards had fortunately contained a lot of land and he was able to recover with two [Seat of the Synod](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seat+of+the+Synod). A [Myr Retriever](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Retriever) was [Condescend](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Condescend)ed but Rampini was able to resolve first an AEther Vial and then a Ravager to go with his first turn Worker.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: ba37e0ce69c95e1fc2520d657bcb8a5454d8b6ecc640fa202b34877e9c883b2d
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm5_1.jpg)Arelius Areliursarson used to be a fairly frequent visitor to the GP scene but hasn't been seen much recently. The Icelander has played on his national team twice. Tom Harle was the last English national champion before the UK national championships were devolved into their respective countries. He also made the national team back in 2000.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm5_1.jpg)
+
+Arelius Areliursarson used to be a fairly frequent visitor to the GP scene but hasn't been seen much recently. The Icelander has played on his national team twice. Tom Harle was the last English national champion before the UK national championships were devolved into their respective countries. He also made the national team back in 2000.
 
 ### Game 1
 

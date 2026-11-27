@@ -659,7 +659,9 @@ I've halfheartedly tried to strike up spats, feuds, and/or rivalries with my fel
 
 And then one of my columnar mentors (he ranks #2, right behind Jamie Wakefield) went and did the most foolish thing he could have imagined. You want to bring it, Alongi? Well then, consider it brung. It is *on*.
 
-![](https://i.ormos.uk/bf/0d/bf0d38382fe697c2db1d8c87d0f8179a53b08e6b8eb23727fbbf79fa34163139.jpg)In [his last column](/en/articles/seriousfun/2002/04-23-standing-still-in-front-of-the-mirari), Anthony Alongi (a man who will soon lose the distinction of being able to truthfully say “I have never been attacked by a synchronized swarm of albino cyborg chipmunks”) leveled a humongous dis right at me. I know he was talking about me because he defined one of his Multiplayer Monsters as someone afflicted with “Center of the Universe Syndrome.” Syndrome? *Syndrome?!* I call it “keen insight,” buddy. Sharp self-awareness.
+![](https://i.ormos.uk/bf/0d/bf0d38382fe697c2db1d8c87d0f8179a53b08e6b8eb23727fbbf79fa34163139.jpg)
+
+In [his last column](/en/articles/seriousfun/2002/04-23-standing-still-in-front-of-the-mirari), Anthony Alongi (a man who will soon lose the distinction of being able to truthfully say “I have never been attacked by a synchronized swarm of albino cyborg chipmunks”) leveled a humongous dis right at me. I know he was talking about me because he defined one of his Multiplayer Monsters as someone afflicted with “Center of the Universe Syndrome.” Syndrome? *Syndrome?!* I call it “keen insight,” buddy. Sharp self-awareness.
 
 How perfect for Discard Week that it starts with a dis. Let's break down Mr. Alongi's playa-hatin' statements sentence by sentence.
 

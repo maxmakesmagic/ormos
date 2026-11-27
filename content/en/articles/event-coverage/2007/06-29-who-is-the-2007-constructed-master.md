@@ -48,7 +48,9 @@ render_recovery: []
 
 *Profiles by Brian David-Marshall*
 
-![](https://i.ormos.uk/95/e1/95e1ecd747dd66faf2625bfb32f5b00a52e284ff8051513a353b6f7df8b5d20f.jpg)Welcome to the voting for the 11th annual **Magic** Invitational!
+![](https://i.ormos.uk/95/e1/95e1ecd747dd66faf2625bfb32f5b00a52e284ff8051513a353b6f7df8b5d20f.jpg)
+
+Welcome to the voting for the 11th annual **Magic** Invitational!
 
 Click on the image to the right to go to the poll and share your thoughts on our forums. If you do not have a forums account, [go here](https://web.archive.org/web/20070629000000/http://boards1.wizards.com/register.php) to sign up.
 

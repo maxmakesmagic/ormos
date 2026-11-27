@@ -48,7 +48,9 @@ render_recovery:
 
 The **Magic** Arena League program is being redesigned and upgraded for 2003 in an effort to make it as cool as possible.
 
-![](http://www.wizards.com/tournaments/images/ArenaLogo_288.jpg)The goal of Arena League is to help retailers get people playing in their stores and to get players used to playing competitive **Magic** before they take the next important step into sanctioned tournaments.
+![](http://www.wizards.com/tournaments/images/ArenaLogo_288.jpg)
+
+The goal of Arena League is to help retailers get people playing in their stores and to get players used to playing competitive **Magic** before they take the next important step into sanctioned tournaments.
 
 We're giving the public a chance to share their ideas of what they would like to see. Please email your suggestions to dci@wizards.com with the subject line "Arena 2003 Suggestions". 
 

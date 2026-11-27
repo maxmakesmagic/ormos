@@ -44,7 +44,9 @@ archive_source:
   sha256: 7a19c34cb485677faaa026a4be7897aa68d55be77eff88c7ba8a3ad9d0601c5e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a716.jpg)"The last Top 8 I was in, I got 3-0'd. Canadian Nationals, that man right there." – Richard Hoaen
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a716.jpg)
+
+"The last Top 8 I was in, I got 3-0'd. Canadian Nationals, that man right there." – Richard Hoaen
 
 He pointed to teammate Jon Stern, matching from the rail.
 
@@ -70,7 +72,9 @@ Hoaen 1 – Jorstedt 0
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a717.jpg)While shuffling up, the conversation turned to Magic Online. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a717.jpg)
+
+While shuffling up, the conversation turned to Magic Online. 
 
 "It was my summer job, at least, under the old prize structure. I made about a hundred bucks a night." – Richard Hoaen
 
@@ -90,7 +94,9 @@ Hoaen 1 – Jorstedt 1
 
 Hoaen kept a draw short on white mana for the third game and after trading [Festering Goblin](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Festering+Goblin)s with Jorstedt found himself without a third-turn play opposite [Blade Sliver](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blade+Sliver). He cycled [Barren Moor](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Moor) and turned up [Skinthinner](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner). Without any more land in hand he raw dogged it and traded with the Sliver. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a720.jpg)Hoaen continued to fail to draw lands while Jorstedt tattooed him. Murkdiver, [Vile Deacon](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon) and [Goblin Sledder](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder) all got in on the party. Jorstedt even had [Thoughtbound Primoc](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc), but a face-up Exterminator stole it again. Hoaen was still way behind. By the time he drew the plains all he could do was play [Renewed Faith](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith)s to stay in the game. Two turns later they were on to Game 4.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a720.jpg)
+
+Hoaen continued to fail to draw lands while Jorstedt tattooed him. Murkdiver, [Vile Deacon](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vile+Deacon) and [Goblin Sledder](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder) all got in on the party. Jorstedt even had [Thoughtbound Primoc](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc), but a face-up Exterminator stole it again. Hoaen was still way behind. By the time he drew the plains all he could do was play [Renewed Faith](https://web.archive.org/web/20030511000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith)s to stay in the game. Two turns later they were on to Game 4.
 
 Hoaen 1 – Jorstedt 2
 

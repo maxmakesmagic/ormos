@@ -82,7 +82,9 @@ render_recovery:
   - Cruel Revival
   occurrences: 33
 ---
-![](https://www.wizards.com/sideboard/images/gputs02/963.jpg)His jet-black moustache coordinated with a black suitjacket that melted into a black shirt over black pants. His traditional black-mana t-shirt was nowhere to be found, but that hardly mattered. Higashino was here and ready to crush some dreams. Those of amateur Ken Kiyota would do nicely. Kiyota was nervous, and who could blame him? He had a solid deck, though, with plenty of fat and ways to get to it. It was no surprise to see Higashino working with swamps, this time peppered with plains for some flying power and Harsh Mercy. 
+![](https://www.wizards.com/sideboard/images/gputs02/963.jpg)
+
+His jet-black moustache coordinated with a black suitjacket that melted into a black shirt over black pants. His traditional black-mana t-shirt was nowhere to be found, but that hardly mattered. Higashino was here and ready to crush some dreams. Those of amateur Ken Kiyota would do nicely. Kiyota was nervous, and who could blame him? He had a solid deck, though, with plenty of fat and ways to get to it. It was no surprise to see Higashino working with swamps, this time peppered with plains for some flying power and Harsh Mercy. 
 
 The first game was over in a flash. Higashino started with Festering Goblin, then Glory Seeker and Nantuko Husk. Kiyota had trouble finding defenders, and those that did show up were removed almost immediately. Just as he found some large defenders to stop Higashino's attack, Higashino pulled up Shepherd of Rot with two zombies already on board. Two turns later it was over.
 
@@ -90,7 +92,9 @@ Higashino 1 - Kiyota 0
 
 Game two was more of the same. Higashino had the brutal opening of Festering Goblin and Shepherd of Rot. Kiyota was stuck at three lands without any plays, and it was little consolation that Higashino had stalled on just three swamps. The first chance he had to activate the Shepherd he swung with it instead. He wised up on subsequent turns. Finally, Kiyota hit his fourth land and got excited.
 
-![](https://i.ormos.uk/08/3b/083b5fda6fa332e8a2bd7da76fd07a79f02dc9574fbc49a4b5db6b4b14cdc7e9.jpg)It was Wooded Foothills, and he searched out a forest before throwing down Embermage Goblin and finding a twin in his deck. Higashino stopped it with Feeding Frenzy. The second Goblin came down and Kiyota dug through his deck for a third copy! Higashino was ready with Swat, and time was fast running out for Kiyota. Higashino kept the pressure coming with Gustcloak Skirmisher.
+![](https://i.ormos.uk/08/3b/083b5fda6fa332e8a2bd7da76fd07a79f02dc9574fbc49a4b5db6b4b14cdc7e9.jpg)
+
+It was Wooded Foothills, and he searched out a forest before throwing down Embermage Goblin and finding a twin in his deck. Higashino stopped it with Feeding Frenzy. The second Goblin came down and Kiyota dug through his deck for a third copy! Higashino was ready with Swat, and time was fast running out for Kiyota. Higashino kept the pressure coming with Gustcloak Skirmisher.
 
 Kiyota was finally hitting his stride. He busted out Silklash Spider and offed the Festering Goblin with Shock. The Embermage came down the following turn to take out the Shepherd. Higashino got a hit in with the Gustcloak thanks to Pacifism, but Naturalize stopped that line quickly. He tried Harsh Mercy, but realized that since he had to choose first, things were not going to go his way. He kept his Bird, and so Kiyota hung on to his Spider.
 

@@ -87,7 +87,9 @@ render_recovery:
   - City of Traitors
   occurrences: 84
 ---
-![Round 4 Feature Match: Wise vs. Baberowski](http://www.wizards.com/sideboard/images/ptno03/953.jpg "Round 4 Feature Match: Wise vs. Baberowski")Gary Wise and Dirk Baberowski are former teammates meeting for the fifth time at the Pro Tour. Wise is up 3-1 in the series, although Dirk has the momentum with the most recent one being decided in his favor. At Pro Tour Chicago in 2000, Dirk actually taught Gary how to play his blue/white deck in the hallway before the tournament started. Specifically, he told him to bring in his Disrupting Scepters against Green/Red because you needed to knock out the Obliterates from their hand.
+![Round 4 Feature Match: Wise vs. Baberowski](http://www.wizards.com/sideboard/images/ptno03/953.jpg "Round 4 Feature Match: Wise vs. Baberowski")
+
+Gary Wise and Dirk Baberowski are former teammates meeting for the fifth time at the Pro Tour. Wise is up 3-1 in the series, although Dirk has the momentum with the most recent one being decided in his favor. At Pro Tour Chicago in 2000, Dirk actually taught Gary how to play his blue/white deck in the hallway before the tournament started. Specifically, he told him to bring in his Disrupting Scepters against Green/Red because you needed to knock out the Obliterates from their hand.
 
 Of course they ended up being paired up in the Pro Tour that day, and Dirk was playing the Green/Red deck. Gary brought in the Scepters, knocked out the Obliterate, and won the match. This time they aren't teammates, however, as Gary is part of CMU-TOGIT while Dirk is still with Phoenix Foundation. They've both brought Tinker to the table.
 
@@ -103,7 +105,9 @@ Gary won the right to play first, but had to throw his first seven back. Dirk, i
 
 Gary, suitably impressed, responded with, "Could anything in Magic be more profound?"
 
-![Dirk Baberowski, unshaven, unkempt](http://www.wizards.com/sideboard/images/ptno03/954.jpg "Dirk Baberowski, unshaven, unkempt")Gary kept the new hand and led with Ancient Tomb followed by a Chalice of the Void set to one. The players simply laid lands and said go for a few turns, until Gary Tinkered away his Chalice, finding a Gilded Lotus. Dirk could now play his Voltaic Key but still had nothing beyond that.
+![Dirk Baberowski, unshaven, unkempt](http://www.wizards.com/sideboard/images/ptno03/954.jpg "Dirk Baberowski, unshaven, unkempt")
+
+Gary kept the new hand and led with Ancient Tomb followed by a Chalice of the Void set to one. The players simply laid lands and said go for a few turns, until Gary Tinkered away his Chalice, finding a Gilded Lotus. Dirk could now play his Voltaic Key but still had nothing beyond that.
 
 Phyrexian Colossus entered play on Gary's side of the table, although it didn't look too threatening when not backed up by a Voltaic Key. Dirk simply played out a bunch of artifact mana, said go, absorbed a hit for eight, and played a second Grim Monolith, bringing his total available mana to somewhere around twenty.
 
@@ -140,7 +144,9 @@ He Tinkered away a Grim Monolith for Mindslaver and used it. Gary showed Stroke 
 Dirk: "Tap everything, take four \[from the Tombs\]. My turn."  
  Gary: "That's fair."
 
-![A petulant Wise](http://www.wizards.com/sideboard/images/ptno03/952.jpg "A petulant Wise")Dirk then cast Urza's Blueprints, a key card in the matchup. Gary still had no blue mana, and when he did draw a Seat of the Synod, Dirk had the Gainsay for his Tinker. He briefly considered using Voltaic Keys to cast Stroke of Genius that same turn, but opted not to as the damage from his Ancient Tombs would take him down to two. Instead he untapped, made ten mana (falling to four life), and cast Stroke of Genius for seven cards, followed by "Done."
+![A petulant Wise](http://www.wizards.com/sideboard/images/ptno03/952.jpg "A petulant Wise")
+
+Dirk then cast Urza's Blueprints, a key card in the matchup. Gary still had no blue mana, and when he did draw a Seat of the Synod, Dirk had the Gainsay for his Tinker. He briefly considered using Voltaic Keys to cast Stroke of Genius that same turn, but opted not to as the damage from his Ancient Tombs would take him down to two. Instead he untapped, made ten mana (falling to four life), and cast Stroke of Genius for seven cards, followed by "Done."
 
 Gary: "That didn't work out how I planned."  
  Dirk: "Sorry."  

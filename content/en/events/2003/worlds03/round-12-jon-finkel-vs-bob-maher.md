@@ -78,7 +78,9 @@ render_recovery:
 ---
 Back at Worlds in 2000, Jon Finkel and Bob Maher met in the finals, putting an exclamation point on their Magic careers, and establishing themselves as two of the game's top stars. Since then, their careers declined a bit, with Finkel's apathy and Maher's six-month suspension making them look more like past icons than feared competitors. This season, however, both players came back with a vengeance.
 
-![](https://i.ormos.uk/3f/00/3f00709401794a315df688afea37891eddf221dc6066056961888ed665281aac.jpg)Maher made Top 4 at Pro Tour Boston, then Top 8 at Houston, in addition to winning two Grand Prix and making the finals of another. Finkel actually fell off the Pro Tour gravy train, but revived his career with two Pro Tour Top 8's. Without a doubt, both players are back in top form. As they sat down, talk turned to the man who tends to overshadow even the best of players.
+![](https://i.ormos.uk/3f/00/3f00709401794a315df688afea37891eddf221dc6066056961888ed665281aac.jpg)
+
+Maher made Top 4 at Pro Tour Boston, then Top 8 at Houston, in addition to winning two Grand Prix and making the finals of another. Finkel actually fell off the Pro Tour gravy train, but revived his career with two Pro Tour Top 8's. Without a doubt, both players are back in top form. As they sat down, talk turned to the man who tends to overshadow even the best of players.
 
 Maher- "What's Kai's record?"
 
@@ -96,7 +98,9 @@ Maher- 1 Finkel- 0
 
 ### Game 2
 
-![](https://i.ormos.uk/79/81/7981b58a43d19dfc3c3ff232cdbf04aa4701fd264cf7e6fd64de3cb81dad5dbf.jpg)Maher played Stonewood Invoker turn two, and Finkel missed his third land drop. Maher kept pace with a morph, and after cycling Spark Spray, Finkel found his third land. He had already lost a significant amount of tempo, however, and had an uphill battle ahead of him. Maher unmorphed Soul Collector and attacked for five, while Finkel played a morph (Defender of the Order) that blocked and traded with the Invoker.
+![](https://i.ormos.uk/79/81/7981b58a43d19dfc3c3ff232cdbf04aa4701fd264cf7e6fd64de3cb81dad5dbf.jpg)
+
+Maher played Stonewood Invoker turn two, and Finkel missed his third land drop. Maher kept pace with a morph, and after cycling Spark Spray, Finkel found his third land. He had already lost a significant amount of tempo, however, and had an uphill battle ahead of him. Maher unmorphed Soul Collector and attacked for five, while Finkel played a morph (Defender of the Order) that blocked and traded with the Invoker.
 
 A face-up Zombie Cutthroat gave Maher another significant creature, while Finkel was still stuck at three lands and simply played a morph. Needleshot Gourna got a smile out of Finkel, who conceded.
 

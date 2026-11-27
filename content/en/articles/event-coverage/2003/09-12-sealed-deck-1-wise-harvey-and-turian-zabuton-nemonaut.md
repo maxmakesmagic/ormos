@@ -55,7 +55,9 @@ Though the name "Zabuton Nemonaut" may not mean much to you, don't fret. That is
 
 To start off, Wise took the white cards, Harvey the green cards, and Turian the black cards. With only the murmur of dozens of other teams as a backdrop, each player got down to the risky business of forming first impressions and making preliminary cuts.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a988.jpg)"We have no Stingers," Gary noted immediately, before handing the white to Turian to see what he could do with it in combination with the black. Eugene noted that they had a [Slate of Ancestry](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slate+of+Ancestry), a powerful card for a Cleric deck likely to have many creatures alive into the midgame. Unfortunately, the cards were such that no Cleric deck was possible.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a988.jpg)
+
+"We have no Stingers," Gary noted immediately, before handing the white to Turian to see what he could do with it in combination with the black. Eugene noted that they had a [Slate of Ancestry](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slate+of+Ancestry), a powerful card for a Cleric deck likely to have many creatures alive into the midgame. Unfortunately, the cards were such that no Cleric deck was possible.
 
 Wise then laid out the blue, grabbing the red pile in passing, but it quickly became clear that they were short on creatures for a blue-red configuration. The "Wise Words" author quickly handed the red back to Turian with the exception of [Lightning Rift](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Rift) and [Lavamancer's Skill](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill), both of which were left behind as possible splashes.
 

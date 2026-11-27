@@ -1356,7 +1356,9 @@ render_recovery:
   - Ghastly Demise
   occurrences: 1
 ---
-![](https://i.ormos.uk/c2/93/c29383094a1f73370bf327e0dee662b4e24e10af73ddf1a8234de1ac159928a0.jpg)This coming weekend we will be able to once again participate in the various State Championship tournaments (or, as they are now called, the 2002 **Magic** State/Province/Territory/Island Champs). Though many players lament the lack of impact that the State Championships play with regards to "feeding" premiere events, this series of tournaments has historically had quite an impact on the development of the Standard metagame for the following year. States is generally the first opportunity we have to see the newest set in action, just as a previous block disappears from Standard-legal play.
+![](https://i.ormos.uk/c2/93/c29383094a1f73370bf327e0dee662b4e24e10af73ddf1a8234de1ac159928a0.jpg)
+
+This coming weekend we will be able to once again participate in the various State Championship tournaments (or, as they are now called, the 2002 **Magic** State/Province/Territory/Island Champs). Though many players lament the lack of impact that the State Championships play with regards to "feeding" premiere events, this series of tournaments has historically had quite an impact on the development of the Standard metagame for the following year. States is generally the first opportunity we have to see the newest set in action, just as a previous block disappears from Standard-legal play.
 
 Two years ago, States gave us a sneak peek at the Fires of Yavimaya and Rebel decks that would dominate the field at Kai Budde's Chicago (though Kamiel Cornelissen's innovative design would not be revealed until he himself battled to the PT finals). Oddly enough, while Day 3 competitors like Jon Sonne and Brian Kibler managed to take home their respective State Championships crowns in 2001. The eventually dominant archetype of the last 12 months - Psychatog - made very little noise at last year's string of events.
 

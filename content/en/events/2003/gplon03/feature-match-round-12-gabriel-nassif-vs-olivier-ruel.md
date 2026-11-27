@@ -53,7 +53,9 @@ archive_source:
   sha256: 3a082dce64dfe5063fdd0176a18e411e9bcf1628f450fe26fcc8d54a4810f59d
 render_recovery: []
 ---
-![](https://www.wizards.com/sideboard/images/gplon03/a902.jpg)Round 12 sees these two French in a good position to progress to the Top 8. Both were playing WR control so we were all in for a long match.
+![](https://www.wizards.com/sideboard/images/gplon03/a902.jpg)
+
+Round 12 sees these two French in a good position to progress to the Top 8. Both were playing WR control so we were all in for a long match.
 
 Nassif got to go first and the game progressed slowly with just land entering play until Ruel made a turn three Silver Knight. Olivier’s opening hand contained his one maindeck Decree of Annihilation, the silver bullet of the matchup. It would dictate how he played for the rest of the game, trying to set up situation with an Astral Slide where he would leave one of his own men as the only non-enchantment permanent on the board. He made a Slide on his following turn.
 
@@ -61,7 +63,9 @@ Nassif morphed an Exalted Angel that was unmorphed in Ruel’s end step. Ruel Sl
 
 Unfazed, Ruel made an Angel of his own. The two Angels started swinging at each other and a very complicated race began with Gabriel always being one hit in the lead.
 
-![](https://www.wizards.com/sideboard/images/gplon03/a904.jpg)Ruel upped the ante by adding a Lightning Rift to the board but Nassif’s end of turn Decree of Justice for five soldiers was a lot more threatening. Gabriel’s team swung in, leaving the life totals 24-7 in his favour.
+![](https://www.wizards.com/sideboard/images/gplon03/a904.jpg)
+
+Ruel upped the ante by adding a Lightning Rift to the board but Nassif’s end of turn Decree of Justice for five soldiers was a lot more threatening. Gabriel’s team swung in, leaving the life totals 24-7 in his favour.
 
 Olivier added a second Rift top his board position and held back with his Angel. Nassif swung with everyone again, the Angels held each other off and before damage went on the stack Ruel cycled a Starstorm to deal Nassif’s Angel two and to kill a soldier. Once the damage and life gain had all resolved, Ruel had his Rifts and an Angel whilst Nassif had four soldiers. The life totals read 28-7 to Gabriel.
 
@@ -79,7 +83,9 @@ Olivier drew a Plains and slammed it onto the board, two to go.
 
 Olivier Wiped the Rift Clean but only after it had felled him to eight. Nassif flopped out an Eternal Dragon.
 
-![](https://www.wizards.com/sideboard/images/gplon03/a903.jpg)Olivier drew a second Plains, and tapped some of his growing mana to make an Astral Slide and a Morph. He was just a single Red source short of his much-needed Decree. The Slide and the morphed Angel would almost certainly give him the game if he managed to draw a Mountain.
+![](https://www.wizards.com/sideboard/images/gplon03/a903.jpg)
+
+Olivier drew a second Plains, and tapped some of his growing mana to make an Astral Slide and a Morph. He was just a single Red source short of his much-needed Decree. The Slide and the morphed Angel would almost certainly give him the game if he managed to draw a Mountain.
 
 Nassif kept the pressure up with an Akroma which Ruel was forced to Slide out, dropping to three from the Dragon. Ruel made a face-up Angel leaving three land open. 
 

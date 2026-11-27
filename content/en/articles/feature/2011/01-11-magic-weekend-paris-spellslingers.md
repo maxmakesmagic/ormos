@@ -65,7 +65,9 @@ The following Pro Tour Hall of Famers and members of Wizards of the Coast R&D wi
 
 ### Mark Gottlieb, Rules Manager and Card Designer, **Magic** R&D
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/ptams10/cc_gottlieb.jpg)Mark is the longest-tenured Rules Manager in **Magic** history, meaning his brain may explode any minute now. Each set contains new cards, mechanics, and concepts that have never existed before. The Rules Manager's job is to mold the rules to fit those cards—and mold those cards to fit the rules—so the game in its entirety continues to function as a cohesive whole. Mark is involved with the development and templating of each new card set, updates the Comprehensive Rulebook, maintains the Oracle card database, creates FAQ's, and writes the "Planeswalker's Guide" videos. He is also a card designer who recently led his first design team.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/ptams10/cc_gottlieb.jpg)
+
+Mark is the longest-tenured Rules Manager in **Magic** history, meaning his brain may explode any minute now. Each set contains new cards, mechanics, and concepts that have never existed before. The Rules Manager's job is to mold the rules to fit those cards—and mold those cards to fit the rules—so the game in its entirety continues to function as a cohesive whole. Mark is involved with the development and templating of each new card set, updates the Comprehensive Rulebook, maintains the Oracle card database, creates FAQ's, and writes the "Planeswalker's Guide" videos. He is also a card designer who recently led his first design team.
 
 As the Rules Manager, Mark has been involved with every set since *Guildpact*. In addition, Mark was on the design teams of *Dissension*, *Future Sight*, *Shadowmoor*, *Conflux*, *Alara Reborn,* and "Lights" (the fall 2010 set), and was the lead designer of "Camera" (the winter 2011 set).
 
@@ -75,7 +77,9 @@ Mark joined Wizards in 2000. An MIT graduate, Mark enjoys the constant opportuni
 
 ### Dave Humpherys, Development Manager, **Magic** Digital R&D
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/ptams10/cc_guskin.jpg)Dave manages the development team for **Magic: The Gathering**. He playtests upcoming sets and helps coordinate development teams for these sets and any digital projects. When he's not trying to find the most enjoyable ways to deal 20 damage (or 10 poison), he spends a good deal of his time in lively debates with his team focused on refining the game with the big picture in mind.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/ptams10/cc_guskin.jpg)
+
+Dave manages the development team for **Magic: The Gathering**. He playtests upcoming sets and helps coordinate development teams for these sets and any digital projects. When he's not trying to find the most enjoyable ways to deal 20 damage (or 10 poison), he spends a good deal of his time in lively debates with his team focused on refining the game with the big picture in mind.
 
 Dave is a developer on the teams for the ***Magic** 2012* Core and "Shake" sets. He's also scheduled to be on the "Rattle" and "Roll" development teams. You will have to wait awhile before you see any of the cards he's designed or developed.
 

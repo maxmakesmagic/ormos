@@ -44,7 +44,9 @@ archive_source:
   sha256: 5eb2db461270a9e294d5cc03682a4e22c63936f4c05cb2e4a044061f5629ed82
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/r6fm1_1.jpg)Gutierrez is another trial winner riding his deck to a perfect score so far. Across from him sits a player we have been calling a veteran for years. Levy is a perennial top finisher in European Grand Prix's and was one of the victims of the huge crowd in Grand Prix Munich (where despite over one thousand players only sixty-four reached the second day, meaning a 7-1-1 score was NOT enough for day two).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/r6fm1_1.jpg)
+
+Gutierrez is another trial winner riding his deck to a perfect score so far. Across from him sits a player we have been calling a veteran for years. Levy is a perennial top finisher in European Grand Prix's and was one of the victims of the huge crowd in Grand Prix Munich (where despite over one thousand players only sixty-four reached the second day, meaning a 7-1-1 score was NOT enough for day two).
 
 ### Game 1
 

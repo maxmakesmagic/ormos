@@ -44,7 +44,9 @@ archive_source:
   sha256: 0bbd5c6a439187b1ab2630eb051cd8b8bd193ec9181025854e2ae8c7f17eeeaa
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a979.jpg)Only one week ago Patrick Mello was playing at Pro Tour Osaka. Fellow Germans Marco Blume and Kai Budde decided to stay a little longer on Asian ground to celebrate their Masters victory. Patrick decided to come to Spain. After two plain trips completing over eleven hours on airplanes he is opening his deck expecting to perform well in this crowded room.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a979.jpg)
+
+Only one week ago Patrick Mello was playing at Pro Tour Osaka. Fellow Germans Marco Blume and Kai Budde decided to stay a little longer on Asian ground to celebrate their Masters victory. Patrick decided to come to Spain. After two plain trips completing over eleven hours on airplanes he is opening his deck expecting to perform well in this crowded room.
 
 After some disappointment about his deck, he tried to make the best of it. "There are no bombs in my deck" Mello sighed. 
 

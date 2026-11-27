@@ -39,7 +39,9 @@ render_recovery: []
 ---
 ### 
 
-![](https://i.ormos.uk/13/e3/13e3243b5b3c710f3af29501fd155a37193ad85728114cceb82fd042f4112698.jpg)Sideboard.com is pleased to announce that *Sideboard* #40 is now available in North America. 
+![](https://i.ormos.uk/13/e3/13e3243b5b3c710f3af29501fd155a37193ad85728114cceb82fd042f4112698.jpg)
+
+Sideboard.com is pleased to announce that *Sideboard* #40 is now available in North America. 
 
 *Sideboard* is the official source of **Magic: The Gathering** strategy and tournament news. You won't find a magazine with more **Magic** content anywhere in the world.
 

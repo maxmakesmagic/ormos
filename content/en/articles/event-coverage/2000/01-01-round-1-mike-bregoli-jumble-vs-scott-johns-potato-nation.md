@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/915.jpg)Scott played first and started quickly with a second turn Steadfast Guard. Mike was able to quickly stall the ground however as he cast an early Vine Trellis and Battle Rampart. Scott played out a Defender en-vec, and a Ramosian Commander to kick off his Rebel engine. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/915.jpg)
+
+Scott played first and started quickly with a second turn Steadfast Guard. Mike was able to quickly stall the ground however as he cast an early Vine Trellis and Battle Rampart. Scott played out a Defender en-vec, and a Ramosian Commander to kick off his Rebel engine. 
 
 Mike was the first to take the offensive with a Snorting Gahr that is granted haste via his Battle Rampart. Scott cast Angelic Favor and uses the 4/4 token and the Guard to double block the incoming Gahr which forces Mike to use up a Seal of Strength in order to keep the Gahr alive. The following turn a Mike increased the pressure with a Living Terrain, but again Scott has an answer as he was able to double-block the 5/6 beast with his Commander and Defender and use Ramosian Rally to take out the Terrain. Scott used the Defender to keep the Commander alive, and with the ground still stalled by Mike's walls he elects to take his attack to the air with a Voice of Truth on his following turn. 
 

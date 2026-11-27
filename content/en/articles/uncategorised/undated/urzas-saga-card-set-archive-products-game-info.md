@@ -62,7 +62,9 @@ This 75-card pack includes 30 land cards and 45 creatures and other spell cards.
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/7e/aa/7eaaf5d06d9d3c51a9503acca71423d733ee3e6a4b0e5929958cda44c1368b1d.png)This 350-card set marks the beginning of the Urza block, which features new mechanics like Cycling, Echo, Sleeping Enchantments, and Growing Enchantments.
+![](https://i.ormos.uk/7e/aa/7eaaf5d06d9d3c51a9503acca71423d733ee3e6a4b0e5929958cda44c1368b1d.png)
+
+This 350-card set marks the beginning of the Urza block, which features new mechanics like Cycling, Echo, Sleeping Enchantments, and Growing Enchantments.
 
 **Set Name:** *Urza’s Saga*  
 **Block:** Set 1 of 3 of the *Urza* Block  

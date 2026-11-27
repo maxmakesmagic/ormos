@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Omeed Dariani*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b06.JPG)Chris Kelly and Jason Rose sat down for their round 2 match, both coming off of an easy round 1 victory. Jason is the reigning North Carolina State Champion, having won that with Control Black. Chris drove down from Toronto, hoping to take home Magic for Life. Though without much former tournament success, Chris had plenty of experience, having started to play around the release of Fallen Empires. Chris played a fairly standard Angry Hermit, while Jason chose Ponza. Jason won the roll and chose to play first. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b06.JPG)
+
+Chris Kelly and Jason Rose sat down for their round 2 match, both coming off of an easy round 1 victory. Jason is the reigning North Carolina State Champion, having won that with Control Black. Chris drove down from Toronto, hoping to take home Magic for Life. Though without much former tournament success, Chris had plenty of experience, having started to play around the release of Fallen Empires. Chris played a fairly standard Angry Hermit, while Jason chose Ponza. Jason won the roll and chose to play first. 
 
 Game 1
 
@@ -62,6 +64,8 @@ Rose 1, Kelly 1
 
 Game 3 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b07.JPG)Game three started very slowly. With only twelve minutes left in the round, both players were looking for a quick victory. An early Rofellos was Shocked, Jason missed his turn three land drop and Chris began attacking with a Treetop Village. Jason drew a third land and began to attack Chris' mana base with a multitude of land destruction spells. This forced Chris into tapping his Karplusan Forest multiple times, causing him six points of damage over the course of the match. Jason saw his opportunity and playing his opening hand Masticore. Chris, though having trouble with his mana development, was able to cast a huge Splinter, removing all four of Jason's Masticores from the game. Chris started pulling out of the mana slump, casting a Birds of Paradise, but Jason quickly cast a Cursed Totem to counter it. Jason put a little pressure on with an Avalanche Rider (again limiting the Forests), but Chris pulled out an Elder followed by a Blastoderm. Jason dropped a five point Earthquake, clearing the board of everything but a Bird. Time ran out shortly after and neither player was poised to win the match. After five turns, the game was a draw.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b07.JPG)
+
+Game three started very slowly. With only twelve minutes left in the round, both players were looking for a quick victory. An early Rofellos was Shocked, Jason missed his turn three land drop and Chris began attacking with a Treetop Village. Jason drew a third land and began to attack Chris' mana base with a multitude of land destruction spells. This forced Chris into tapping his Karplusan Forest multiple times, causing him six points of damage over the course of the match. Jason saw his opportunity and playing his opening hand Masticore. Chris, though having trouble with his mana development, was able to cast a huge Splinter, removing all four of Jason's Masticores from the game. Chris started pulling out of the mana slump, casting a Birds of Paradise, but Jason quickly cast a Cursed Totem to counter it. Jason put a little pressure on with an Avalanche Rider (again limiting the Forests), but Chris pulled out an Elder followed by a Blastoderm. Jason dropped a five point Earthquake, clearing the board of everything but a Bird. Time ran out shortly after and neither player was poised to win the match. After five turns, the game was a draw.
 
 Rose draws with Kelly, 1-1

@@ -156,17 +156,23 @@ A few of the format’s staples do walk away unscathed. Decks like The Rock and 
 
 ### Grand Prix-Yokohama
 
-![](https://i.ormos.uk/d8/84/d884503dd00ee2d5be64bb84dc0b20be214ca47d8837d03588e507b8ab9d3547.jpg)This tournament did not disappoint in size with just over 800 players attending. However, there was no international attendance as it took place on the same weekend as GP-London. Almost half the field played monowhite or white-red control decks, so it was no surprise that six of the Top 8 decks were r-w. One goblin and one Zombie Bidding deck sneaked into the Top 8, but it came down to a r-w mirror match in the finals, where a relative unknown Shu Komuro emerged victorious. 
+![](https://i.ormos.uk/d8/84/d884503dd00ee2d5be64bb84dc0b20be214ca47d8837d03588e507b8ab9d3547.jpg)
+
+This tournament did not disappoint in size with just over 800 players attending. However, there was no international attendance as it took place on the same weekend as GP-London. Almost half the field played monowhite or white-red control decks, so it was no surprise that six of the Top 8 decks were r-w. One goblin and one Zombie Bidding deck sneaked into the Top 8, but it came down to a r-w mirror match in the finals, where a relative unknown Shu Komuro emerged victorious. 
 
 ### Grand Prix-London
 
-![](http://www.wizards.com/sideboard/images/gplon03/846.jpg)Since GP-London was held only a couple of weeks after Worlds, many pros ended up traveling around Europe for a while in order to attend this event. Many of these – including Canada National Champion Josh Rider, Jose Barbero, Antonino de Rosa and eventual winner Diego Ostrovich ended up in Top 8. 
+![](http://www.wizards.com/sideboard/images/gplon03/846.jpg)
+
+Since GP-London was held only a couple of weeks after Worlds, many pros ended up traveling around Europe for a while in order to attend this event. Many of these – including Canada National Champion Josh Rider, Jose Barbero, Antonino de Rosa and eventual winner Diego Ostrovich ended up in Top 8. 
 
 This tournament advanced Block technology far more than Yokohama. U-w decks were here in force, an archetype previously not seen at Grand Prix level. Brian Kibler placed 9th with his version of the deck, while Mario Pascoli made Top 4 with his. The most interesting deck of the tournament was played by Yann Hamon, who managed to build a strange g-b-r variant with Silklash Spiders and Cabal Conditioning. Although his deck was a metagame choice to beat both goblins and r-w, it was Ostrovich’s goblin deck that eventually took him down in the finals
 
 ### Grand Prix-Atlanta
 
-![](https://i.ormos.uk/fc/f4/fcf44dd39dee92918d434f8f96b4656fd1514c3c1cf139aa206107cc6435b900.jpg)American and recently Latin American players have been invading European Grand Prix for a long time now. This is the first time that European pros struck back in significant numbers. In a similar story to that of Grand Prix-London, this tournament is only two weeks away from a Pro Tour on the same continent, and so many pros opted to come out early, and then spend the next two weeks traveling in America and practicing for Boston.
+![](https://i.ormos.uk/fc/f4/fcf44dd39dee92918d434f8f96b4656fd1514c3c1cf139aa206107cc6435b900.jpg)
+
+American and recently Latin American players have been invading European Grand Prix for a long time now. This is the first time that European pros struck back in significant numbers. In a similar story to that of Grand Prix-London, this tournament is only two weeks away from a Pro Tour on the same continent, and so many pros opted to come out early, and then spend the next two weeks traveling in America and practicing for Boston.
 
 Although Marco was the only non-U.S. player to break into Top 8, there was a slew of Top 16 finishes from players like France’s Gabriel Nassif and Jeroen Remie from the Netherlands. The Top 8 was a mix of established pros and newcomers. Among the more recognizable names were U.S. National Champion Joshua Wagener, Matt Linde, and Zvi Mowshowitz. Like Gab Walls, Wagener has been doing very well since first coming to public light at U.S. Nationals. It was Marco Blume who took the gold though, playing what is arguably the format’s strongest deck – Mirari’s Wake.
 

@@ -85,7 +85,9 @@ render_recovery:
   - Centaur Glade
   occurrences: 46
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a892.jpg)There's a lot of hype surrounding Nick Eisel. When you're the number one limited player on Magic Online people start to expect big things of you. Eisel hasn't disappointed. Top 8's at Grand Prix – Philadelphia and Grand Prix – Los Angeles have shown that he knows his way around *Onslaught* Rochester. His opponent is no slouch either. Chris Benafel has been around a long time, and when he wasn't cleaning house with ABU he was working his smooth styles for the camera. The old glory days are fading quickly, and his 4-0 performance so far is part of a bid to return to the spotlight.
+![](http://www.wizards.com/sideboard/images/ptchi03/a892.jpg)
+
+There's a lot of hype surrounding Nick Eisel. When you're the number one limited player on Magic Online people start to expect big things of you. Eisel hasn't disappointed. Top 8's at Grand Prix – Philadelphia and Grand Prix – Los Angeles have shown that he knows his way around *Onslaught* Rochester. His opponent is no slouch either. Chris Benafel has been around a long time, and when he wasn't cleaning house with ABU he was working his smooth styles for the camera. The old glory days are fading quickly, and his 4-0 performance so far is part of a bid to return to the spotlight.
 
 After painstakingly sorting out a piece of paper and a pen for keeping track of life totals, Benafel was ready to begin.
 
@@ -99,7 +101,9 @@ Eisel drew and started thinking. He held both Wirewood Savage and Barkhide Maule
 
 Now Eisel was rolling. Barkhide Mauler hit and kept him in action thanks to the Savage. Benafel swung and Eisel was happy to trade. Benafel cycled another Guile and made a Mistform Dreamer. Eisel drew from his Anurid Murkdiver and charged his Savage in. Benafel wasted no time in blocking. It meant he could play his Battering Craghorn face-up. Eisel was full of good stuff, though. Next he came down with Husk and Shepherd of Rot. Benafel's Essence Fracture pushed through three more damage, leaving Eisel at eleven.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a896.jpg)Eisel rebuilt with Husk and Buzzard. Still, Benafel was willing to swing in. He traded his Craghorn and a land for Eisel's Screeching Buzzard after a double-block. He had no follow up. Eisel untapped and dropped Prowling Pangolin. Benafel's next card was nothing special, and he scooped.
+![](http://www.wizards.com/sideboard/images/ptchi03/a896.jpg)
+
+Eisel rebuilt with Husk and Buzzard. Still, Benafel was willing to swing in. He traded his Craghorn and a land for Eisel's Screeching Buzzard after a double-block. He had no follow up. Eisel untapped and dropped Prowling Pangolin. Benafel's next card was nothing special, and he scooped.
 
 Eisel 1- Benafel 0
 
@@ -115,7 +119,9 @@ He showed no remorse. He hit for two and added another facedown. Drew still not 
 
 Eisel thought hard, and chose to sacrifice his Headhunter. The first card flipped up was Mage's Guile. Then Benafel hit with facedown and Charging Slateback, apparently forgetting that the Husk was now a 4/4. Eisel took no damage and traded his Festering Goblin for the face-down creature and the Goblin Sledder. Eisel found his fourth land and made a Screeching Buzzard. Benafel attacked, trading his Slateback for the Husk in a double-block, and then played a facedown and another Sledder.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a897.jpg)Eisel's next turn was the big one. A fifth land, and Aphetto Dredging for two Festering Goblins and Nantuko Husk! His one remaining land enabled the Goblin. He blunted Benafel's next attack, taking a point and killing the Sledder with the Husk's ability. Benafel played another morph. Eisel swung and played a pair of Husks. Essence Fracture let Benafel bring Eisel to nine. Eisel rebuilt with Festering Goblin and Barkhide Mauler, swinging the whole time in the air.
+![](http://www.wizards.com/sideboard/images/ptchi03/a897.jpg)
+
+Eisel's next turn was the big one. A fifth land, and Aphetto Dredging for two Festering Goblins and Nantuko Husk! His one remaining land enabled the Goblin. He blunted Benafel's next attack, taking a point and killing the Sledder with the Husk's ability. Benafel played another morph. Eisel swung and played a pair of Husks. Essence Fracture let Benafel bring Eisel to nine. Eisel rebuilt with Festering Goblin and Barkhide Mauler, swinging the whole time in the air.
 
 Benafel was immobilized. He made a Mistform Wall and held back. Eisel dropped the Husk and swung in with Buzzard and Mauler. Benafel tripled up, then unmorphed a Riptide Biologist after damage. He still lost a Commando. Eisel laid out the other Husk and turned it over. Benafel tried another facedown. Eisel went overtop, then busted Centaur Glade. 
 

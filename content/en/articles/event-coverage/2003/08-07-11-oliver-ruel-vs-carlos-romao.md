@@ -55,7 +55,9 @@ render_recovery: []
 
 　しかし欲しいのは島。そう Romao は見事なまでの色事故を起こしていたのだ。その間に Oliver は《尾根の頂の猛禽/[Ridgetop Raptor](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ridgetop+Raptor)》を。Romao もようやく《エイヴンの救い手/[Aven Redeemer](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer)》を召還し場を固めにかかる。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a779.jpg)　一旦は 6 点のダメージをくらった Romao だが、この耐えにより橋頭堡を確保する。Oliver も《岩乗り/[Rock Jockey](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rock+Jockey)》を追加するが、救い手に守られて登場した《草原の十字軍/[Grassland Crusader](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grassland+Crusader)》を突破する事が出来ない。仕方無く次の変異を追加。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a779.jpg)
+
+　一旦は 6 点のダメージをくらった Romao だが、この耐えにより橋頭堡を確保する。Oliver も《岩乗り/[Rock Jockey](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rock+Jockey)》を追加するが、救い手に守られて登場した《草原の十字軍/[Grassland Crusader](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grassland+Crusader)》を突破する事が出来ない。仕方無く次の変異を追加。
 
 　そして耐えの褒美が。
 

@@ -60,7 +60,9 @@ Steroid touch White の Ryan Soh と Neo-Solution の Zhou Yujian。
 
 戦線を根こそぎにされていく Yujian だったが、その直後に 2 体目の Spectral Lynx を展開。Soh はここで Skizzik Kicker なしを召喚し、Yujian はこれを Undermine。純粋に戦線を厚くするために Battlemage 3 号機、Kavu Titan with Kicker と連打した Soh。さすがに Titan は当然のごとく Dromar's Charm でカウンターされてしまったのだったが、Soh の攻勢は続く。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/954.jpg)Yujian はここで Fact or Fiction から Meddling Mage と Stormscape Aprentice を入手し、反撃の狼煙をあげるかにも見えた。しかし、ここで Soh はニヤリと笑みをもらしつつ Keldon Necropolis セット! そこからフルアタックを敢行したのだった。Yujian はこれを Dromar's Charm の Gain 5 Life で実質的に無効化してから Stormscape Apprentice の召喚に繋げてクリーチャー戦線は万全とした。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/954.jpg)
+
+Yujian はここで Fact or Fiction から Meddling Mage と Stormscape Aprentice を入手し、反撃の狼煙をあげるかにも見えた。しかし、ここで Soh はニヤリと笑みをもらしつつ Keldon Necropolis セット! そこからフルアタックを敢行したのだった。Yujian はこれを Dromar's Charm の Gain 5 Life で実質的に無効化してから Stormscape Apprentice の召喚に繋げてクリーチャー戦線は万全とした。
 
 ・・・しかし、いかんせん Yujian はライフに余裕がない。　 Soh はここで本体火力モードにスイッチすれば良いだけであったのだ!
 

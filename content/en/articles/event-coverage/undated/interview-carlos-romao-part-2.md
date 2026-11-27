@@ -61,7 +61,9 @@ render_recovery: []
 
 **Sideboard:** What is it like to be the World Champion?
 
-![](http://wizards.com/sideboard/images/worlds02/814.jpg)**Romao:** Very good. It's amazing. Before Worlds, I came to Pro Tours and I was just another player. Now, I am in Feature Matches, and I think Feature Matches for the Latins is a great thing. I always dreamed of being in Feature Matches. People ask me to sign their cards now; it's great.
+![](http://wizards.com/sideboard/images/worlds02/814.jpg)
+
+**Romao:** Very good. It's amazing. Before Worlds, I came to Pro Tours and I was just another player. Now, I am in Feature Matches, and I think Feature Matches for the Latins is a great thing. I always dreamed of being in Feature Matches. People ask me to sign their cards now; it's great.
 
 **Sideboard:** What do you think are the differences in attitude between Latin American players and the rest of the world, if there are any?
 
@@ -111,7 +113,9 @@ render_recovery: []
 
 **Sideboard:** Anything else you want to add?
 
-![](https://i.ormos.uk/75/04/7504d7ec205070221b678cb7946c48a1f9be092944e0389c9bb127341c76479e.jpg)**Romao:** My parents will read this, and I need to thank them because when I started to play in Pro Tours, they helped me a lot since I didn't have money to go. They never stopped believing in me. Before Worlds, I played in six Pro Tours and one Worlds, and the whole time they kept saying "You're going to win!" 
+![](https://i.ormos.uk/75/04/7504d7ec205070221b678cb7946c48a1f9be092944e0389c9bb127341c76479e.jpg)
+
+**Romao:** My parents will read this, and I need to thank them because when I started to play in Pro Tours, they helped me a lot since I didn't have money to go. They never stopped believing in me. Before Worlds, I played in six Pro Tours and one Worlds, and the whole time they kept saying "You're going to win!" 
 
 **Sideboard:** Now that you've won $35,000, I'm sure they're very happy!
 

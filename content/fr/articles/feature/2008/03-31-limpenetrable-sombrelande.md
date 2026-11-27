@@ -106,7 +106,9 @@ render_recovery:
 
 * * *
 
-![](https://i.ormos.uk/9e/48/9e489e40c32467c5ba06ba75ccb3cb3cb24a8181c95bc2eda15121cb83559614.jpg)Cendrillon avait des sœurs qui se sont coupées des orteils pour chausser la pantoufle de verre et ont eu leurs yeux arrachés par des oiseaux lors du mariage de l’héroïne. Les jambes de la petite sirène lui donnaient l’impression de marcher sur des couteaux avec chaque pas et elle se transformait en écume parce qu’elle n’a pas d’âme. Dans le conte ‘Le fiancé voleur’, lors de la réception de son mariage, une jeune femme condamne son cannibale de futur mari à la mort en exhibant un doigt sectionné d’une des victimes malchanceuses de son fiancé. Voici le genre d’histoires qu’on racontait jadis aux enfants à travers toute l’Europe.
+![](https://i.ormos.uk/9e/48/9e489e40c32467c5ba06ba75ccb3cb3cb24a8181c95bc2eda15121cb83559614.jpg)
+
+Cendrillon avait des sœurs qui se sont coupées des orteils pour chausser la pantoufle de verre et ont eu leurs yeux arrachés par des oiseaux lors du mariage de l’héroïne. Les jambes de la petite sirène lui donnaient l’impression de marcher sur des couteaux avec chaque pas et elle se transformait en écume parce qu’elle n’a pas d’âme. Dans le conte ‘Le fiancé voleur’, lors de la réception de son mariage, une jeune femme condamne son cannibale de futur mari à la mort en exhibant un doigt sectionné d’une des victimes malchanceuses de son fiancé. Voici le genre d’histoires qu’on racontait jadis aux enfants à travers toute l’Europe.
 
 Les contes de fées n’étaient pas toujours les petites histoires rigolotes et innocentes auxquelles on pense aujourd’hui. Jadis, ils étaient un avertissement destiné aux enfants pour être sage, ou respecter des normes culturelles ; les conteurs n’hésitaient pas à utiliser la peur pour faire passer leur message. Ces histoires furent peuplées d’horribles monstres, de morts violentes et d’abominables destins : voici les contes dont l’atmosphère de *Sombrelande* s’inspire. C’est le coté sombre des contes de fée, ceux racontés par les frères Grimm, remplis d’yeux qui brillent dans l’ombre, de lutins avilis et d’une nuit qui ne prendra jamais fin.
 

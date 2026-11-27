@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Rui Oliveira*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/169.jpg)As the first round got on the way two of Portugal's up and coming players faced each other on table six. On what I would like to dub the "Battle of the Long Hair" Luis Sousa faced Bruno Ferreira. Luis Sousa had three byes coming into the Grand Prix from winning a recent Grand Prix Trial. Bruno on the other hand had to go through the long seven rounds of Sealed Deck playing a grand total of twenty games. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/169.jpg)
+
+As the first round got on the way two of Portugal's up and coming players faced each other on table six. On what I would like to dub the "Battle of the Long Hair" Luis Sousa faced Bruno Ferreira. Luis Sousa had three byes coming into the Grand Prix from winning a recent Grand Prix Trial. Bruno on the other hand had to go through the long seven rounds of Sealed Deck playing a grand total of twenty games. 
 
 Their draft pod had a better time staying out of each others colours both Luis' U/R speed deck and Bruno G/B monster deck seemed really consistent. 
 

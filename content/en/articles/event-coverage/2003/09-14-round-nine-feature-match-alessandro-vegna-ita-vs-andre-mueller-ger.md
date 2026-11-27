@@ -48,7 +48,9 @@ The other match - Fiore vs. Blech - might be more recognizable but these two des
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpgen03/a971.jpg)Vegna was wide awake from the start. First turn Prospector, followed by Sledder before Mueller could even lay out a Rift. When a Incinerator joined the table Andre paused to think. He finally decided he had enough time to play Astral Slide.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpgen03/a971.jpg)
+
+Vegna was wide awake from the start. First turn Prospector, followed by Sledder before Mueller could even lay out a Rift. When a Incinerator joined the table Andre paused to think. He finally decided he had enough time to play Astral Slide.
 
 The Italian sent everyone in but could do little other than use Burrows to drop his opponent to eleven. He was clearly out of gas, just riding his three creatures. A cycled land shot the Incinerator away and Spark Spray got the lonely Sledder - the Prospector was Slided away - on the next combat.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 8e6ad24abec52d12dd31f190bf1663c65ce521f2da8da82c3117eb0f83c8d568
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm11_1.jpg)Remember Tuomo? He was undefeated when we featured him yesterday. Well, he still is. In fact he is the only undefeated player at this point with an impressive standing of 10-0. Thirty points. His opponent is also undefeated but he already picked up a draw along the way. No big problem. They're both on the fast track to the Top 8. The winner here is almost certainly in.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm11_1.jpg)
+
+Remember Tuomo? He was undefeated when we featured him yesterday. Well, he still is. In fact he is the only undefeated player at this point with an impressive standing of 10-0. Thirty points. His opponent is also undefeated but he already picked up a draw along the way. No big problem. They're both on the fast track to the Top 8. The winner here is almost certainly in.
 
 ### Game 1
 

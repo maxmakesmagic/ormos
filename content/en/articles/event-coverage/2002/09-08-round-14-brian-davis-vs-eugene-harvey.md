@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a903.jpg)Two of the top players in the game, Invitational Competitor Brian Davis and National Champion Eugene Harvey faced off, with Eugene wanting a win to advance to the top 8 while Brian Davis would be happy with merely a draw.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a903.jpg)
+
+Two of the top players in the game, Invitational Competitor Brian Davis and National Champion Eugene Harvey faced off, with Eugene wanting a win to advance to the top 8 while Brian Davis would be happy with merely a draw.
 
 This matchup favors Eugene Harvey's Timestretch deck over Brian Davis' black/blue [Upheaval](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) deck, combo against control. In most formats control beats combo, but in this block format, combo will usually be able to win because the combo deck in this case is able to generate an amazing amount of mana and lands and this mana advantage makes it difficult for the control deck to counter all the spells that it needs to.
 
@@ -81,7 +83,9 @@ On turn 2 Brian made a [Zombie Infestation](https://web.archive.org/web/20020908
 
 Despite Brian having a creature on the board, with a [Standstill](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Standstill), Eugene was in a good position here. Brian could only top deck cards, while Eugene could [Compulsion](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion) up cards to get the best possible hand until he decided to break the [Standstill](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Standstill). Harvey [Compulsion](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion)ed a few times, letting the [Psychatog](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) hit him, until he decided it was the right time to break [Standstill](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Standstill). Harvey made sure to break it at a time that Brian would have more than seven cards in hand, negating some of the card advantage [Standstill](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Standstill) would have given him.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a905.jpg)However, time was running out and in a desperate move Eugene tapped all of his mana to hard cast [Crush of Wurms](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crush+of+Wurms) tapping nine lands. If had only more time, Eugene would have been in a wonderful position.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a905.jpg)
+
+However, time was running out and in a desperate move Eugene tapped all of his mana to hard cast [Crush of Wurms](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crush+of+Wurms) tapping nine lands. If had only more time, Eugene would have been in a wonderful position.
 
 Brian cast [Upheaval](https://web.archive.org/web/20020908000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval), happy to reset the game with Eugene tapped. Just then time was called, and Eugene extended the hand, offering a handshake for what would have to be a drawn game as you only get five extra turns.
 

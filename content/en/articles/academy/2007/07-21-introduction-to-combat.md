@@ -233,7 +233,9 @@ Combat is the tactical centerpiece of the turn. Though the correct play will be 
 
 ### Attacking
 
-![Relentless_Assault](https://i.ormos.uk/48/50/4850bb6cbde110ef1795ca97719984255392d4a86ece7a5f79941b9b9107e783.jpg)Since you control which creatures attack on your turn, your goal is to select the ones that, attacking, will best further your position in the game. You must of course consider relevant spells (especially combat tricks) in your hand, and the spells your opponent might play. You must consider your opponent's potential counterattack. You must consider life totals. 
+![Relentless_Assault](https://i.ormos.uk/48/50/4850bb6cbde110ef1795ca97719984255392d4a86ece7a5f79941b9b9107e783.jpg)
+
+Since you control which creatures attack on your turn, your goal is to select the ones that, attacking, will best further your position in the game. You must of course consider relevant spells (especially combat tricks) in your hand, and the spells your opponent might play. You must consider your opponent's potential counterattack. You must consider life totals. 
 
 *Tip*: One way to help figure out whether a certain attack is profitable or not is to arrange your creatures against your opponent's in the way you think they will block. A visual display can help clarify which attacks might be irrelevant or useless, or which ones will be overwhelming.
 
@@ -277,7 +279,9 @@ Having creatures with combat-relevant abilities is motivation to save your creat
 
 **Blocking**
 
-![Valor_Made_Real](https://i.ormos.uk/68/e6/68e610516d63e961cafe5378e635b8591ab7fbd2512ae099f014f05f487f5386.jpg)When blocking we must try to find the most positive exchange possible considering the creatures our opponent has selected to attack. Again, we must consider life totals, cards in hand, and opponent's potential cards in hand (partly informed by any suspicious attackers).
+![Valor_Made_Real](https://i.ormos.uk/68/e6/68e610516d63e961cafe5378e635b8591ab7fbd2512ae099f014f05f487f5386.jpg)
+
+When blocking we must try to find the most positive exchange possible considering the creatures our opponent has selected to attack. Again, we must consider life totals, cards in hand, and opponent's potential cards in hand (partly informed by any suspicious attackers).
 
 The five combat steps have different significance for the defending player. The beginning of combat step is your last chance to tap potential attackers. The declare attackers step is your last chance to gather information (by way of seeing how spells and abilities resolve) before committing to blocks. The declare blockers and combat damage steps, again, are key points. The end of combat step is still marginal.
 

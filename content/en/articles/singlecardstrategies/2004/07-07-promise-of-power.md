@@ -423,7 +423,9 @@ Gaining life is another way to deal with the pain of 5 life. Life is survival, a
 
 ### Power in demons
 
-![](https://i.ormos.uk/92/ce/92ce415e434880f241b7dbe72f66caa7f86e3e1b34663f17d417a7a3d01e648a.jpg)So, you want to summon a big, flying demon instead of drawing cards. It's quite simple, really; if you can get out a giant flying demon quickly it could prove quite insurmountable for your opponent. Even a moderately sized demon can hold the fort against any number of attackers. The problem is, even getting a single demon usually requires 6 cards (your 5 mana cards, and the Promise of Power itself). Generally, this means that the faster you can get a demon out, the less big it is.
+![](https://i.ormos.uk/92/ce/92ce415e434880f241b7dbe72f66caa7f86e3e1b34663f17d417a7a3d01e648a.jpg)
+
+So, you want to summon a big, flying demon instead of drawing cards. It's quite simple, really; if you can get out a giant flying demon quickly it could prove quite insurmountable for your opponent. Even a moderately sized demon can hold the fort against any number of attackers. The problem is, even getting a single demon usually requires 6 cards (your 5 mana cards, and the Promise of Power itself). Generally, this means that the faster you can get a demon out, the less big it is.
 
 It may not really matter that much, though. If you're just playing solitaire, it's simple to figure out how worth it making a bigger demon is, compared to a faster demon. Divide 20 life by the potential power of the demon (rounding up) and you have how long before the demon can provide you with a dead opponent. Every turn you might wait to cast Promise of Power can add a single power and toughness to the demon. 
 

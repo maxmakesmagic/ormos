@@ -68,13 +68,17 @@ render_recovery:
   - Decklist
   occurrences: 4
 ---
-![](https://i.ormos.uk/94/1f/941f3baf75ac41a9470c67f6025c618062841667cea7aad2eed51af089a19dfe.jpg)It finally happened. We have the first Japanese Pro Tour champion. In those final minutes of [Pro Tour Kobe](/en/articles/event-coverage/undated/live-coverage-of-2004-pro-tour-kobe-2) the Japanese at last got their Champion, and even at a Japanese Pro Tour no less. 
+![](https://i.ormos.uk/94/1f/941f3baf75ac41a9470c67f6025c618062841667cea7aad2eed51af089a19dfe.jpg)
+
+It finally happened. We have the first Japanese Pro Tour champion. In those final minutes of [Pro Tour Kobe](/en/articles/event-coverage/undated/live-coverage-of-2004-pro-tour-kobe-2) the Japanese at last got their Champion, and even at a Japanese Pro Tour no less. 
 
 Those who have been waiting for such an event have had to wait for years, and through several near misses. First there was Tsuyoshi Fujita – the first Japanese player to make a Pro Tour top 8, he lost to Zvi Mowshowitz in the finals of Pro Tour: Tokyo during the 2000-2001 season. Since then four more Japanese players made Pro Tour top 8's. Two of them – Masashi Ooiso in Yokohama and Jin Okamoto at World Championships in Berlin last year – made it to the finals. Enter Masashiro Kuroda.
 
 Although the name may be virtually unknown to **Magic** fans outside of Japan, Kuroda has an impressive list of accomplishments. He has a total of five Grand Prix top 8 finishes, including a Team Grand Prix win in Nagoya as part of team P.S.2 with rookie of the year Katsuhiro Mori and Masahiko Morita. Kuroda is also well-known for his tendency of going undefeated through the first day of competition in a tournament, and then failing to make top 8. True to that statement, Kuroda went undefeated through eight rounds of swiss in Kobe to end the first day of competition at the top of the standings. Day 2 did not go so well for the Japanese Pro as he played it to a 3-4 record. With so many rounds and so few competitors, a win in the last round would still be enough to secure him a top 8 finish. He swept Eugene Sanchez Mata in the last round and earned himself a top 8 finish and eventually a Pro Tour victory.
 
-![](https://i.ormos.uk/a6/43/a6433f44368ad2e80dcd77fd84d1004444744e58257aae64d9d264fedf6d8ded.jpg)Like the Japanese players, Gabriel Nassif was in a struggle to overcome the title of Finalist. The French Pro arrived on the scene in 2001, when he made his first Pro Tour finals as part of team Les Plus Class with Amiel Tenenbaum and Nicolas Olivieri. Nassif made another top 8 in Pro Tour: Venice and another second place finish at Pro Tour: New Orleans this year. Nassif also has a pair of Grand Prix top 8 finishes – including a second place in London! Although Nassif did not earn the title, he walked away with $20,000 for his trouble, becoming the first French player to break the $100,000 mark on the Lifetime Pro Tour winnings list. He becomes the 22nd player overall to earn this much prize money.
+![](https://i.ormos.uk/a6/43/a6433f44368ad2e80dcd77fd84d1004444744e58257aae64d9d264fedf6d8ded.jpg)
+
+Like the Japanese players, Gabriel Nassif was in a struggle to overcome the title of Finalist. The French Pro arrived on the scene in 2001, when he made his first Pro Tour finals as part of team Les Plus Class with Amiel Tenenbaum and Nicolas Olivieri. Nassif made another top 8 in Pro Tour: Venice and another second place finish at Pro Tour: New Orleans this year. Nassif also has a pair of Grand Prix top 8 finishes – including a second place in London! Although Nassif did not earn the title, he walked away with $20,000 for his trouble, becoming the first French player to break the $100,000 mark on the Lifetime Pro Tour winnings list. He becomes the 22nd player overall to earn this much prize money.
 
 #### Gabriel Nassif
 

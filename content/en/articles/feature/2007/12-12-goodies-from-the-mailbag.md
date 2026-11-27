@@ -85,7 +85,9 @@ archive_source:
   sha256: 8f94dbcfa37de49f46f8f6377e9086043927fa4a639c1344a1d1119235ce9d37
 render_recovery: []
 ---
-[![Feedback_Bolt](https://i.ormos.uk/5c/e0/5ce0173ad351318e7c402c874c527630953376052c4774d38c08b9adefe0d9d2.jpg)](https://web.archive.org/web/20071212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Feedback%2BBolt)When you click the "respond via email" link at the bottom of one of my articles, that piece of feedback goes directly to my inbox, and I read it. All of it. I get more pieces of email than I can respond to individually, but it's high time I got to chipping away at the stack. There are more that I want to get to, but I'll have to save the other goodies for another time. For now, enjoy these piping-hot treats from my inbox.
+[![Feedback_Bolt](https://i.ormos.uk/5c/e0/5ce0173ad351318e7c402c874c527630953376052c4774d38c08b9adefe0d9d2.jpg)](https://web.archive.org/web/20071212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Feedback%2BBolt)
+
+When you click the "respond via email" link at the bottom of one of my articles, that piece of feedback goes directly to my inbox, and I read it. All of it. I get more pieces of email than I can respond to individually, but it's high time I got to chipping away at the stack. There are more that I want to get to, but I'll have to save the other goodies for another time. For now, enjoy these piping-hot treats from my inbox.
 
 > Dear Doug Beyer,  
 >  My dream job would be working on the creative team for Magic. What steps should I take to make myself appealing to whoever does the hiring there?  
@@ -115,7 +117,9 @@ We have more plans for Garruk and the rest of the planeswalkers. Stay tuned.
 >  I'm Vorthos to the core. I usually go daydreaming about stories and flavor, and many of the stories I imagine use elements from Magic. Recently it became important in one of those stories how much a planeswalker can carry with him from plane to plane. I'm figuring he doesn't just come out of the vortex stark naked, and Ajani proves me right in that, because he carries his double-headed axe around. But I'm also thinking that one planeswalker can't take an army with him from one place to another. So what can he take?  
 >  —Sophus
 
-[![Bloodshot_Trainee](https://i.ormos.uk/c1/88/c188890d55be6befd3194202350210822d6451e6a8a93dc01ae814725bfa90ed.jpg)](https://web.archive.org/web/20071212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Bloodshot%2BTrainee)This is a dangerous question for me to answer, because some future novel or other bit of **Magic**-in-the-media could come along and, for story reasons, contradict my answer. It's like asking how fast the Flash can run—I could quote you how fast he *has* run but then some comic might come out and show him running faster than that. I definitely won't nail it down like a D&D *teleport* spell ("the caster can take with him 50 pounds of stuff per level, end of story"), but I'll tell you how I think of it, and you can go from there.
+[![Bloodshot_Trainee](https://i.ormos.uk/c1/88/c188890d55be6befd3194202350210822d6451e6a8a93dc01ae814725bfa90ed.jpg)](https://web.archive.org/web/20071212000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Bloodshot%2BTrainee)
+
+This is a dangerous question for me to answer, because some future novel or other bit of **Magic**-in-the-media could come along and, for story reasons, contradict my answer. It's like asking how fast the Flash can run—I could quote you how fast he *has* run but then some comic might come out and show him running faster than that. I definitely won't nail it down like a D&D *teleport* spell ("the caster can take with him 50 pounds of stuff per level, end of story"), but I'll tell you how I think of it, and you can go from there.
 
 First of all, anything is *possible,* given the right conditions. Planeswalking is a form of magic. With enough time and mana, or with specialized spell knowledge, or with access to enormous power, it's possible for a planeswalker to transfer gobs of material and/or creatures with him as he planeswalks. Planeswalkers are mortal, but they're incredibly creative and resourceful—if there's something a planeswalker wants to hang on to as he planeswalks, then he'll probably pay the price and do the work to make it happen.
 

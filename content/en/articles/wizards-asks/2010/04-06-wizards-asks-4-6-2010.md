@@ -85,6 +85,8 @@ One more caveat: I have a weird view of **Magic** characters and stories. I have
 
 Okay, okay. Time to stop dodging the question. My favorite **Magic** villain at the moment is Tezzeret. I want to say Liliana Vess, but she's just not quite villain material, at least not yet. Tezzeret is compelling because he's smart, resourceful, talented, ambitious ... and just never quite good enough to get what he wants. In a way, he represents what Jace Beleren could become if he made all the wrong choices. And in a way, that makes him more interesting than Jace, to me, anyway.
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/activity/da422_antonio.jpg)My favorite villain outside of **Magic**? Now that's a huge question. I'm tempted to say the Joker (Batman) or Iago (*Othello*), but to me they're not even really characters—they're more like forces of nature. Instead I'll say Antonio Salieri, the mediocre composer from Peter Shaffer's *Amadeus*. That character is so well painted, so thorough in his villainy yet so sympathetic and human at the same time, that he's more memorable to me and more real than any standard "evil incarnate" character.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/activity/da422_antonio.jpg)
+
+My favorite villain outside of **Magic**? Now that's a huge question. I'm tempted to say the Joker (Batman) or Iago (*Othello*), but to me they're not even really characters—they're more like forces of nature. Instead I'll say Antonio Salieri, the mediocre composer from Peter Shaffer's *Amadeus*. That character is so well painted, so thorough in his villainy yet so sympathetic and human at the same time, that he's more memorable to me and more real than any standard "evil incarnate" character.
 
 Who's your favorite villain in **Magic**? Outside of **Magic**? Click the Discuss link below to tell us your story and then see what everybody else has to say!

@@ -366,7 +366,9 @@ This is the fifth installment in my series reviewing the cards of *Judgment* for
 
 ### Green
 
-![](https://i.ormos.uk/6f/d7/6fd7071710dce1c801f9658701fc2ba0f9a72c38a913713dc54a1cd728a49b5d.jpg)Green rules. Sure, in *Torment* it got the short end, but in *Odyssey* it was the powerhouse that had the world buzzing and in *Judgment* it's even better. Be it the power cards, the fatties, the speed or the depth, green pretty much has everything you need in your quest to win games, matches and drafts.
+![](https://i.ormos.uk/6f/d7/6fd7071710dce1c801f9658701fc2ba0f9a72c38a913713dc54a1cd728a49b5d.jpg)
+
+Green rules. Sure, in *Torment* it got the short end, but in *Odyssey* it was the powerhouse that had the world buzzing and in *Judgment* it's even better. Be it the power cards, the fatties, the speed or the depth, green pretty much has everything you need in your quest to win games, matches and drafts.
 
 Green's versatility is what makes it the best color in this environment. It diversifies your mana so you can play more colors than the norm. It plays well with any of the other four colors by its side. It provides a better creature base for mana curve and deck coherency purposes than the other four colors and its sideboard options are as strong if not stronger than its counterparts.
 

@@ -761,7 +761,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/92/69/9269030d4b2172d74870f4314fb90ebc424f8b0820c58ce807910d00e4b82bbd.jpg)Whoah. Well *that's* weird. How did I end up on Monday all of a sudden? And wasn't "Building On A Budget," like, three days ago? And wasn't the topic Ninja decks?
+![](https://i.ormos.uk/92/69/9269030d4b2172d74870f4314fb90ebc424f8b0820c58ce807910d00e4b82bbd.jpg)
+
+Whoah. Well *that's* weird. How did I end up on Monday all of a sudden? And wasn't "Building On A Budget," like, three days ago? And wasn't the topic Ninja decks?
 
 It all started with my ["Preconstructing Constructed" experiment](/en/articles/intotheaether/2004/12-14-excellent-and-anthonys-part-two-puzzle-jay), many moons ago. My four-part deckbuilding adventure felt a little out of scope for [a dedicated ***Magic** Online* column](https://web.archive.org/web/20070810031838/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=IntotheAether), but I was enamored with the idea of taking a preconstructed deck and slowly transforming it into a reasonable deck. Scott Johns gave me some latitude to pursue the idea, and away I went to build a *Kamigawa* Block Samurai deck. When I had finished, I reflected that it was some of the most fun I've had, both playing and writing, in years.
 
@@ -825,7 +827,9 @@ Here are the poll results from my last [Into The Aether article](/en/articles/in
 
 <table><tbody><tr><td colspan="3"><b> Poll #2: For which format will Jay be building his deck?</b></td>&#10;</tr>&#10;<tr><td>Kamigawa Block Constructed</td>&#10;<td>2597</td>&#10;<td>50.0%</td>&#10;</tr>&#10;<tr><td>Standard</td>&#10;<td>2597</td>&#10;<td>50.0%</td>&#10;</tr>&#10;<tr><td><b>Total</b></td>&#10;<td><b>5194</b></td>&#10;<td><b>100.0%</b></td>&#10;</tr>&#10;</tbody></table>
 
-[![](https://i.ormos.uk/a6/54/a654e057449edf3727c68954809bd0053e3b93f1ce914e262732522901a44579.jpg)](https://web.archive.org/web/20070513210755/http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=2&lang=en)Ninjutsu by a landslide and Standard by a *hair*! \[Editor’s note: When we run polls like this we agree on a certain time to take results so that we can allow enough time for the writer to get the article done. When the time came to get the results for this one to Jay it was a mere .4% lead for Standard. Incredibly, when we took the final results today to put the article into the server we had what we believe is the first tie on any **magicthegathering.com** poll ever!\]
+[![](https://i.ormos.uk/a6/54/a654e057449edf3727c68954809bd0053e3b93f1ce914e262732522901a44579.jpg)](https://web.archive.org/web/20070513210755/http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=2&lang=en)
+
+Ninjutsu by a landslide and Standard by a *hair*! \[Editor’s note: When we run polls like this we agree on a certain time to take results so that we can allow enough time for the writer to get the article done. When the time came to get the results for this one to Jay it was a mere .4% lead for Standard. Incredibly, when we took the final results today to put the article into the server we had what we believe is the first tie on any **magicthegathering.com** poll ever!\]
 
 Surely it's my job to be happy no matter what the results, but in this case I'm honestly thrilled. When *I* voted (and yes, I sometimes vote in my own polls), these were the two I voted for. Why? Well, I'm a sucker for "blue weenie" decks (that is, blue decks that rely on small, quick creatures) and have been itching to explore [the new Standard](/en/articles/feature/2005/03-04-eight-plus-one). 
 

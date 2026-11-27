@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/a0/86/a086d3e089edfb822f0eb053f38fe42c652254c6dd272501898ffbef3d6358e4.jpg)Alexander Witt came out of nowhere. He was not qualified for the Masters Event when he arrived in Nice, but he rattled off five straight wins in the Gateway to start, and then five more in the main event to claim the Top Prize. His deck of choice was Blue/Green/White Super-Gro, featuring Quirion Dryad, Winter Orb, and Mystic Enforcer. The Dutchman defeated YMG's Justin Gary and his Oath of Druids deck in two out of three games in the Finals to become the first player to win an individual Masters title from the Gateway. Follow all the results on the [Bracket](/en/articles/event-coverage/2002/05-02-pro-tour-nice-masters-bracket).
+![](https://i.ormos.uk/a0/86/a086d3e089edfb822f0eb053f38fe42c652254c6dd272501898ffbef3d6358e4.jpg)
+
+Alexander Witt came out of nowhere. He was not qualified for the Masters Event when he arrived in Nice, but he rattled off five straight wins in the Gateway to start, and then five more in the main event to claim the Top Prize. His deck of choice was Blue/Green/White Super-Gro, featuring Quirion Dryad, Winter Orb, and Mystic Enforcer. The Dutchman defeated YMG's Justin Gary and his Oath of Druids deck in two out of three games in the Finals to become the first player to win an individual Masters title from the Gateway. Follow all the results on the [Bracket](/en/articles/event-coverage/2002/05-02-pro-tour-nice-masters-bracket).
 
 *[Pro Tour Coverage](https://web.archive.org/web/20211022021845/https://magic.wizards.com/en/events/coverage/ptnic02)*
 

@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![Dissension](https://i.ormos.uk/1a/65/1a65651a5f99d90d777e07407bd21cde2c16fd5605a3dbdec090329714b50c79.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Dissension*. Enjoy! 
+![Dissension](https://i.ormos.uk/1a/65/1a65651a5f99d90d777e07407bd21cde2c16fd5605a3dbdec090329714b50c79.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Dissension*. Enjoy! 
 
   
 

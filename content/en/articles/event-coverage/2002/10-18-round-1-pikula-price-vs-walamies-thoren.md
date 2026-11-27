@@ -44,7 +44,9 @@ archive_source:
   sha256: cf16bbdd0f3f9402b943983be257df5e170a8ae07d579ec9e1dd23e69ce40c9c
 render_recovery: []
 ---
-![](https://i.ormos.uk/31/b1/31b109e015a297899d50c685e0a325d40c5fbc88e6e289ca07efd795575e18f4.jpg)It's hard to get a bad pairing at the invitational, but the teaming up of roomates produced this fabulous combination: The Deadguys versus Team Punisher. Thoren and Walamies are giants of the game, their recent success only heightening the waning glory of Price and Pikula. With the Europeans heavily favored to take the title, the Deadguys had no illusions about their chances.
+![](https://i.ormos.uk/31/b1/31b109e015a297899d50c685e0a325d40c5fbc88e6e289ca07efd795575e18f4.jpg)
+
+It's hard to get a bad pairing at the invitational, but the teaming up of roomates produced this fabulous combination: The Deadguys versus Team Punisher. Thoren and Walamies are giants of the game, their recent success only heightening the waning glory of Price and Pikula. With the Europeans heavily favored to take the title, the Deadguys had no illusions about their chances.
 
  
 

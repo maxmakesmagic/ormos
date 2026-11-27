@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Worth Wollpert* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/fm6a.jpg)Round six saw two relative newcomers (albeit extremely successful ones) to the Pro Tour matched up as two of the undefeateds left alive on Day one. Benafel, sporting the greatest hat I have ever seen worn to a Magic tournament, was running his mouth from minute one. Not only that, but he managed to do it in one of the worst cowboy accents I've ever heard. These two guys were both armed with the same deck, looking nearly identical to most of the 'standard' Trix configurations seen in Phoenix this weekend. Benafel won the roll, and with that we were off to game one... 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/fm6a.jpg)
+
+Round six saw two relative newcomers (albeit extremely successful ones) to the Pro Tour matched up as two of the undefeateds left alive on Day one. Benafel, sporting the greatest hat I have ever seen worn to a Magic tournament, was running his mouth from minute one. Not only that, but he managed to do it in one of the worst cowboy accents I've ever heard. These two guys were both armed with the same deck, looking nearly identical to most of the 'standard' Trix configurations seen in Phoenix this weekend. Benafel won the roll, and with that we were off to game one... 
 
 Things didn't start very well for Benafel, as he was forced into a double mulligan before drawing even a single land. He had a decent draw of 5, with a land or two, a Mox Diamond, a Duress and a Demonic Consultation. Brian's hand however, was flat out amazing.![](https://i.ormos.uk/99/c3/99c339f1f8630ef311f4aac98536fd603f68eb7de55560247d2f92e51a25edbd.jpg) Davis had Necropotence in play by turn two, via a Mox Diamond and an early Brainstorm, and after a turn three Illusions let Davis look through 34 more cards than Benafel, Chris had decided he had enough and scooped em up when Davis showed him the land and Donate. 
 

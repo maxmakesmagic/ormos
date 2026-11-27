@@ -93,7 +93,9 @@ render_recovery:
   - Elvish Soultiller
   occurrences: 47
 ---
-![](https://i.ormos.uk/58/10/58100d7212897ad03a02add9954648c220bfca3f0bb30e2631f2c1adbbcbdd9d.jpg)Olivier Ruel chose Grand Prix – Kyoto knowing that the competition would be stiffer than at Grand Prix – Singapore. For him, the chance to visit a city he was interested in was too great to pass up, and if he managed to pay for the trip along the way, all the better. Don't let his relaxed attitude fool you. The former Invitationalist is always looking for a win. His lack of sleep just might stand in the way. Ryo Tamura is in the same boat, with three byes and two losses. Though better rested, his resume is best described as nearly nonexistent. He's determined to put up a fight and earn himself some recogntion.
+![](https://i.ormos.uk/58/10/58100d7212897ad03a02add9954648c220bfca3f0bb30e2631f2c1adbbcbdd9d.jpg)
+
+Olivier Ruel chose Grand Prix – Kyoto knowing that the competition would be stiffer than at Grand Prix – Singapore. For him, the chance to visit a city he was interested in was too great to pass up, and if he managed to pay for the trip along the way, all the better. Don't let his relaxed attitude fool you. The former Invitationalist is always looking for a win. His lack of sleep just might stand in the way. Ryo Tamura is in the same boat, with three byes and two losses. Though better rested, his resume is best described as nearly nonexistent. He's determined to put up a fight and earn himself some recogntion.
 
 ### Game 1
 
@@ -109,7 +111,9 @@ Ruel 1 – Tamura 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a957.jpg)Tamura led with Deftblade Elite, stopped in its tracks by Wirewood Herald. He took to the air with Gustcloak Harrier, and Ruel had no play but Wellwisher. It was a trade Tamura was happy to make. He added a morph to the table. Ruel dropped Aven Redeemer. Tamura swung in, and the Herald spared Ruel two damage, fetching Symbiotic Elf. Tamura played another morph. Ruel untapped and played the Vegetation.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a957.jpg)
+
+Tamura led with Deftblade Elite, stopped in its tracks by Wirewood Herald. He took to the air with Gustcloak Harrier, and Ruel had no play but Wellwisher. It was a trade Tamura was happy to make. He added a morph to the table. Ruel dropped Aven Redeemer. Tamura swung in, and the Herald spared Ruel two damage, fetching Symbiotic Elf. Tamura played another morph. Ruel untapped and played the Vegetation.
 
 Tamura swung with all his guys. Ruel blocked a morph with the Redeemer and had it rescue itself. Tamura saved his morph, a Liege of the Axe, and then finished the Redeemer by revealing his Marauder. That was Ruel's cue to score a three-for-one with the Vengeance.
 

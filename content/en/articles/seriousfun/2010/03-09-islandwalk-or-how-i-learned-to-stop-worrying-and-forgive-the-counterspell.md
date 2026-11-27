@@ -202,7 +202,9 @@ Blue became a sort of anathema to me. I began to hate it passionately. Bouncing,
 
   
 
-![](https://i.ormos.uk/54/15/54155565346fafeb4a5e006e4c2f5e8bdebd210be8bcd80cbf1d114c5005ead2.jpg)Sure, it was an irrational line of belief, but all I saw in the competitive realm of **Magic** were blue-based decks winning big events. Mystical Teachings seemed so innocent in *Time Spiral* but became an engine unto itself. Remand was a highly sought after card. *Coldsnap* brought Rune Snag into the mix. Blue was definitely a strong color, yet I felt that I couldn't turn to it and that those who did didn't belong with me slinging spells for fun.
+![](https://i.ormos.uk/54/15/54155565346fafeb4a5e006e4c2f5e8bdebd210be8bcd80cbf1d114c5005ead2.jpg)
+
+Sure, it was an irrational line of belief, but all I saw in the competitive realm of **Magic** were blue-based decks winning big events. Mystical Teachings seemed so innocent in *Time Spiral* but became an engine unto itself. Remand was a highly sought after card. *Coldsnap* brought Rune Snag into the mix. Blue was definitely a strong color, yet I felt that I couldn't turn to it and that those who did didn't belong with me slinging spells for fun.
 
 My red and white deck packing lots of burn was loved by the players at college. Sure, there would be random blowouts of massive flaming proportions, but they felt it was fun. They had a chance, somehow, of fighting through an onslaught of damage. They wanted to see cards more like Galvanic Arc than Gifts Ungiven. They liked that Lightning Helix was a Lightning Bolt stapled to a Healing Salve but hated that Glimpse the Unthinkable was just overpowered milling. They thought that Protean Hulk was a fun card and that Flash, its namesake partner in the powerful Hulk Flash competitive deck, had no business ever being near a big green fatty. They showed me creative theme decks and the even crazier cards they contained.
 

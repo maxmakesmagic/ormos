@@ -44,7 +44,9 @@ archive_source:
   sha256: 35a5dae762ea002c17ddd6b1b170def55807633ad1110c19703a5124073b92cf
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fm4_1.jpg)Super Falk Bernhardt finished runner-up to Dirk Baberowski at last years German nationals and is currently playing against the former German champion from 2001 and current World Champion, Daniel Zink.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/fm4_1.jpg)
+
+Super Falk Bernhardt finished runner-up to Dirk Baberowski at last years German nationals and is currently playing against the former German champion from 2001 and current World Champion, Daniel Zink.
 
 "This won't take long," Falk said as they sat down, letting slip he was taking it for the team and had been handed the sacrificial deck.
 

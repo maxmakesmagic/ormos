@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 cards, a foil premium ra
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/6a/41/6a417488d8debe99c65b8f8e869bbcbe346b7a7760c751b26708d1b4391399da.png)This 249-card, black-bordered expansion includes randomly inserted premium versions of all cards in the set, new mechanics (Metalcraft, Infect, and Proliferate), and new Planeswalker cards.
+![](https://i.ormos.uk/6a/41/6a417488d8debe99c65b8f8e869bbcbe346b7a7760c751b26708d1b4391399da.png)
+
+This 249-card, black-bordered expansion includes randomly inserted premium versions of all cards in the set, new mechanics (Metalcraft, Infect, and Proliferate), and new Planeswalker cards.
 
 **Set Name:** *Scars of Mirrodin*  
 **Block:** Set 1 of 3 of the *Scars of Mirrodin* Block  

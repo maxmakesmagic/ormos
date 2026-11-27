@@ -484,7 +484,9 @@ render_recovery:
 
 **Chris:** So let's kick this off talking about the new set, eh?
 
-![](https://i.ormos.uk/aa/aa/aaaaeeec1c284d431921fd652010138a2af29c2beecbb6539ce1976556fe6539.jpg)**Mike:** It's pretty solid. Critics might want to hold back till after States. Buehler and company stuck some subtle stuff in there. Tainted Pact for example... 
+![](https://i.ormos.uk/aa/aa/aaaaeeec1c284d431921fd652010138a2af29c2beecbb6539ce1976556fe6539.jpg)
+
+**Mike:** It's pretty solid. Critics might want to hold back till after States. Buehler and company stuck some subtle stuff in there. Tainted Pact for example... 
 
 **Chris:** The black Impulse? Heck yeah. Good stuff. (eats more Skittles)
 
@@ -531,7 +533,9 @@ Chris: Indeed. *Invasion* Block was a lot of fun, and the new dual lands make it
 
 **Sideboard Suggestions:**Flametongue Kavu, Price of Glory, Disrupt, Repulse (vs. Green Tokens), Wash Out (ditto), Spectral Lynx, Hibernation, Disenchant, Aura Blast, Teferi's Response (vs. Opposition & LD), Mystic Crusader, Dodecapod, Divert, +1-2 Crusade/Divine Sacrament, Worship, Crimson Acolyte, Wrath of God
 
-![](https://i.ormos.uk/f1/5c/f15c8694a5cf7d9f9d2479a1acd43367289a0ac87563ed250128e10bf1821095.jpg)**Chris:** It's pretty hard to argue with White Lightning for States. Fast beats backed by burn is a safe course in uncharted seas. We like Mystic Crusader, Lieutenant Kirtar, and Pianna, Nomad Captain, but they just don't fit the curve. Trenches, Rage, and Divine Sacrament claim the three spot, then Lightning Angel screams out on turn four.
+![](https://i.ormos.uk/f1/5c/f15c8694a5cf7d9f9d2479a1acd43367289a0ac87563ed250128e10bf1821095.jpg)
+
+**Chris:** It's pretty hard to argue with White Lightning for States. Fast beats backed by burn is a safe course in uncharted seas. We like Mystic Crusader, Lieutenant Kirtar, and Pianna, Nomad Captain, but they just don't fit the curve. Trenches, Rage, and Divine Sacrament claim the three spot, then Lightning Angel screams out on turn four.
 
 **Mike:**Devoted Caretaker is a little mother love monkey for one white. She takes devoted care of your Meddling Mages, for example. Be sure Pikula yells "Wrath of God" versus control.
 
@@ -570,7 +574,9 @@ Chris: Indeed. *Invasion* Block was a lot of fun, and the new dual lands make it
 
 **Sideboard Suggestions:**Flametongue Kavu, Price of Glory, Repulse, Wash Out (vs. White Weenie), Spellbane Centaur, Teferi's Response, Dodecapod, Divert, Thunderscape Battlemage, Thornscape Battlemage, Earthquake, Hull Breach, Simplify, Druid Lyrist, Jungle Barrier, Bearscape
 
-![](https://i.ormos.uk/f6/d0/f6d0e7f3bd2dde245daa5930ce7b41061d8ece55498f7a59c63c51562895ff8f.jpg)**Chris:**Birds of Paradise give this archetype a kick in the pants. Bird, Herd, Herd, Burn is going to win you a ton of games. Watch out for Spectral Lynx though.
+![](https://i.ormos.uk/f6/d0/f6d0e7f3bd2dde245daa5930ce7b41061d8ece55498f7a59c63c51562895ff8f.jpg)
+
+**Chris:**Birds of Paradise give this archetype a kick in the pants. Bird, Herd, Herd, Burn is going to win you a ton of games. Watch out for Spectral Lynx though.
 
 **Mike:** Ice can tap one for an alpha strike, but if Lynx's are running wild in your neck of the woods, consider swapping Scorching Lava for Fire/Ice. Two or three Spellbane Centaur might be handy main deck if Opposition is rampant.  
  Nothing about these lists is engraved in stone, ya know... Constructed is all about metagame calls and practice. We're just giving you more arrows for the quiver.
@@ -607,7 +613,9 @@ Chris: Indeed. *Invasion* Block was a lot of fun, and the new dual lands make it
 
 **Sideboard Suggestions:**Repulse, Hibernation, Exclude, Disenchant, Aura Blast, Dismantling Blow, Teferi's Response, Dodecapod, Divert, Gainsay, +1 Wrath of God, +1 Gerrard's Verdict (vs. Beats n' Burn, really devastating), Hobble, Cremate, Sphere of Law, Lobotomy, Rout, Persuasion
 
-![](https://i.ormos.uk/cf/79/cf79e7e4417cc57d85d25c7116199d4309c158f47982cfaec5d854b4990db190.jpg)**Chris:** I was shocked just how smooth "Harry Potter" runs. It's a real powerhouse once you take serious time to practice. Mirari is no joke. Nine mana is not that hard to reach with Armageddon out and Fact or Fiction in.
+![](https://i.ormos.uk/cf/79/cf79e7e4417cc57d85d25c7116199d4309c158f47982cfaec5d854b4990db190.jpg)
+
+**Chris:** I was shocked just how smooth "Harry Potter" runs. It's a real powerhouse once you take serious time to practice. Mirari is no joke. Nine mana is not that hard to reach with Armageddon out and Fact or Fiction in.
 
 **Mike:** There's something to be said for killing most of an opponent's land midgame with one Vindicate. Great synergy with Agenda.  
  Don't get too greedy with Tainted Pact. Think of it as an Impulse except in emergencies.  

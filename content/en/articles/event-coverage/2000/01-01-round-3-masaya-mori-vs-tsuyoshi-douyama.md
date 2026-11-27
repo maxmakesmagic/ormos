@@ -48,7 +48,9 @@ render_recovery: []
 
 Round 3 featured last year's APAC champion Masaya Mori versus this year's Japanese National champion Tsuyoshi Douyama.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM3douyama.JPG)Douyama started off game one with two Lightning Hounds and a Wild Jhovall, while Mori played Lightbringer and then Rhystic Scrying. After drawing two Topples, Mori used them to take out the Jhovall and one of the Hounds. He then played Steadfast Guard and Shield Dancer.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM3douyama.JPG)
+
+Douyama started off game one with two Lightning Hounds and a Wild Jhovall, while Mori played Lightbringer and then Rhystic Scrying. After drawing two Topples, Mori used them to take out the Jhovall and one of the Hounds. He then played Steadfast Guard and Shield Dancer.
 
 Douyama cast Gerrard's Irregulars and Laccolith Warrior, but his hopes to overcome Mori with creatures were dashed when Mori dropped Waterfront Bouncer and Chieftain en-Dal on the table. Douyama decided to try attacking anyway his Laccolith Warrior, the only creature that couldn't be stopped by Shield Dancer. Mori blocked with Chieftain en-Dal and Steadfast Guard, and of course Douyama chose to target the Bouncer with his Laccolith ability.
 
@@ -56,6 +58,8 @@ Mori wasn't too excited about losing his Waterfront Bouncer, however, and he tri
 
 The third game wasn't off to a great start for Douyama, who played Flailing Soldier only to have it destroyed on Mori's second turn. Mori traded Chieftain en-Dal for Lightning Hounds, and played Stinging Barrier to lock up the game. But Douyama played Blaster Mage to take out the Barrier, and Keldon Berserkers provided him with the beatdown he needed.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM3mori.JPG)Mori began to take back control of the game by playing Rhystic Scrying and then laying down a Sliptide Serpent. Douyama tried to attack with his Berserkers, but he accidentally declared the Berserkers as an attacker and tapped out afterwards. This doesn't trigger the Berserkers, so he was stuck attacking with a 2/3 that was quickly gobbled up by the Serpent.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FM3mori.JPG)
+
+Mori began to take back control of the game by playing Rhystic Scrying and then laying down a Sliptide Serpent. Douyama tried to attack with his Berserkers, but he accidentally declared the Berserkers as an attacker and tapped out afterwards. This doesn't trigger the Berserkers, so he was stuck attacking with a 2/3 that was quickly gobbled up by the Serpent.
 
 Mori, riding the card advantage given to him by Rhystic Scrying, laid down Rappelling Scouts, Lightbringer, Waterfront Bouncer, and Defiant Falcon. Douyama played Wild Jhovall and used it in conjunction with Flameshot to take out Mori's Serpent. But the Falcon began to search Steadfast Guards out of Mori's deck, and Douyama couldn't keep up. Mori took a hard-earned 2-1 victory after Douyama scooped up his cards.

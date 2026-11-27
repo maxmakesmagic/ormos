@@ -52,7 +52,9 @@ This was the seating plan:
 
 And so fate dictated that the two French brothers should sit down next to each other on their own turf – a situation that is deemed to be a huge advantage should the players know their own draft preferences. In this case of course, they did...
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a983.jpg)Olivier: " Antoine knew I liked drafting white/blue, so I thought it natural that he might end up black/green to my left.'
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a983.jpg)
+
+Olivier: " Antoine knew I liked drafting white/blue, so I thought it natural that he might end up black/green to my left.'
 
 S.B.: " What would happen to the red then?"
 
@@ -96,7 +98,9 @@ This first set of boosters had worked out ok for Olivier, but Antoine had taken 
 
 Booster 1: **[Firebolt](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt)**, [Beast Attack](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beast+Attack), [Balshan Griffin](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Balshan+Griffin), [Mystic Zealot](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Zealot), [Krosan Avenger](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Avenger), [Patriarch's Desire](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patriarch%27s+Desire), [Muscle Burst](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muscle+Burst). Yes, this booster was pretty nuts and Olivier spent quite some time wondering what the right pick was – his hand straying to the Zealot on numerous occasions.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a985.jpg)Booster 2: [Ember Beast](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ember+Beast), **[Flame Burst](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst)**, [Millikin](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millikin), [Repel](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repel).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a985.jpg)
+
+Booster 2: [Ember Beast](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ember+Beast), **[Flame Burst](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst)**, [Millikin](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millikin), [Repel](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repel).
 
 Booster 3: [Gravedigger](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravedigger), [Recoup](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoup), [Angelic Wall](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelic+Wall), **[Chainflinger](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainflinger)**. I imagine at this stage Olivier resigned himself to being a three colour mage with slightly dodgy mana, but that has proven to be a typically French thing to do.
 

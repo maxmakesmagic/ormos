@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Mark Wraith*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/275.JPG)The reader who has been reading these feature match reports earnestly will have met Bram Snepvangers before. His deck is a very interesting multi-colored Pattern of Rebirth deck with utility creatures. Trey Van Cleave has the Angry Hermit deck, a Red/Green deck with burn, and the Hermit/Poacher engine. He also has a small splash of white for enchantment removal. He is well known for his success in Grand Prix events - he has won in both San Francisco and Philadelphia.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/275.JPG)
+
+The reader who has been reading these feature match reports earnestly will have met Bram Snepvangers before. His deck is a very interesting multi-colored Pattern of Rebirth deck with utility creatures. Trey Van Cleave has the Angry Hermit deck, a Red/Green deck with burn, and the Hermit/Poacher engine. He also has a small splash of white for enchantment removal. He is well known for his success in Grand Prix events - he has won in both San Francisco and Philadelphia.
 
 Interestingly, Trey was an American until fairly recently. He moved to Denmark where his girlfriend lives only a short time ago.
 

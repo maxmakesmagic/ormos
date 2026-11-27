@@ -120,7 +120,9 @@ render_recovery:
 ---
 Kai is 4-0. Big deal.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a914.jpg)Even were he to be 7-0, I'm sure no one would be surprised. But 7-0 is the best he can accomplish today, so that's what he's out to do.
+![](http://www.wizards.com/sideboard/images/ptnice02/a914.jpg)
+
+Even were he to be 7-0, I'm sure no one would be surprised. But 7-0 is the best he can accomplish today, so that's what he's out to do.
 
 He's seated at table 2 between American Gary Talim and Dutchman Kamiel Cornellisen. Directly across the table sits his friend and next-round opponent, Patrick Mello.
 

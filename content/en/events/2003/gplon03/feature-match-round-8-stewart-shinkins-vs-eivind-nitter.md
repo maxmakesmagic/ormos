@@ -53,7 +53,9 @@ archive_source:
   sha256: 20d7eba5ab6d1bd2395a38e6f32f9afdca9e2b8e4d7cab9cfaac2caf337dac8b
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplon03/a930.jpg)Ireland’s Stuart Shinkins has come busting retirement to find himself playing for Day Two of this Grand Prix. Unfortunately for him Pro Tour Champion, Eivind Nitter, is in his way. The loser of this match will find himself on the sidelines spectating tomorrow.
+![](http://www.wizards.com/sideboard/images/gplon03/a930.jpg)
+
+Ireland’s Stuart Shinkins has come busting retirement to find himself playing for Day Two of this Grand Prix. Unfortunately for him Pro Tour Champion, Eivind Nitter, is in his way. The loser of this match will find himself on the sidelines spectating tomorrow.
 
 Both players kept their opening hands, Nitter playing first but it was Shinkins with the first spell of the match, a Silver Knight. Nitter’s third land came into play tapped, a sure sign of imminent mana trouble. Nitter matched Shinkins’ morphed Exalted Angel with one of his own, but held his back the following turn due to his fourth land being a Temple of the False God; Nitter neglected to attack with his either, having peeled the land he need to unmorph his flying, life-gaining monstrosity.
 
@@ -73,7 +75,9 @@ Nitter made a Slide and backed it up by a morphed Angel. Shinkins sat there calm
 
 Shinkins attempted a Vengeance but Nitter had the cycling card and all Akroma’s anger did was kill the soldiers and the Slide. Nitter untapped, cast another Slide and attacked. Shinkins cycled a main phase Eternal Dragon and passed his turn, holding Decree of Justice, Dawn Elemental, Pacifism and another Dragon in his grip.
 
-![](https://i.ormos.uk/f9/13/f913b16b1f06614da3ef02ad635eb10113f06ad60ee4713d7322f83797bfbf98.jpg)Nitter respected Shinkins’ bluff and did not attack with his Angel into Shinkins’ untapped land. The Irishman made two soldiers at the end of turn. The game was hotting up, both players has two Dragons on the go and a multitude of mana, but Nitter was firmly in control, his Slide and Angel dominated the board.
+![](https://i.ormos.uk/f9/13/f913b16b1f06614da3ef02ad635eb10113f06ad60ee4713d7322f83797bfbf98.jpg)
+
+Nitter respected Shinkins’ bluff and did not attack with his Angel into Shinkins’ untapped land. The Irishman made two soldiers at the end of turn. The game was hotting up, both players has two Dragons on the go and a multitude of mana, but Nitter was firmly in control, his Slide and Angel dominated the board.
 
 The Dawn Elemental came into play for Shinkins, whose soldiers had steadily been destroyed by the Slide as a result of random cycling effects on behalf of both players. In Shinkins’ end step, Nitter ‘Slided’the Elemental with a regrown Dragon and his Angel attacked uncontested. He did the same the following turn, knocking Shinkins to one.
 
@@ -85,7 +89,9 @@ The speed of the player’s shuffling and this reporter’s typing greatly incre
 
 Nitter was the first on the board with a turn three morph, no prizes for guessing its identity. He decided again not to attack on his fourth turn into Shinkins land. Turn five saw Shinkins pass over his turn even with a Temple as his fifth land. Nitter’s Angel remained back. Shinkins contributed a Knight to the board but continued to sit back leaving his mana open. Nitter cycled a Dragon so as not to miss a land drop, his Angel stayed back once more.
 
-![](https://i.ormos.uk/47/16/4716b401e7e39c03419a86c3135c2493e568c344e7c3fe0666a198253e0673ea.jpg)With five minutes on the round, Shinkins made a Temple-accelerated Akroma and held back. Nitter Vengeanced. The Irishman made a Dawn Elemental and passed back the turn. Nitter Wing Shardsed the critter when it swung.
+![](https://i.ormos.uk/47/16/4716b401e7e39c03419a86c3135c2493e568c344e7c3fe0666a198253e0673ea.jpg)
+
+With five minutes on the round, Shinkins made a Temple-accelerated Akroma and held back. Nitter Vengeanced. The Irishman made a Dawn Elemental and passed back the turn. Nitter Wing Shardsed the critter when it swung.
 
 Play speed increased rapidly, Nitter made a Dragon and passed. The end step saw Shinkins making eight soldiers, he untapped and Dragon Scalesed three of them and swung. A Decree for six from Eivind chump blocked, he fell to eighteen. He Dragon swung back before a Vengeance from the Norwegian cleared the board.
 

@@ -210,7 +210,9 @@ render_recovery:
 > *And all the drafters say*  
 > *I'm pretty fly for a white guy*
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a991.jpg)That's what the back of Zvi Mowsowitz's shirt said. The front had a picture of Teroh's Faithful with a circle around the white mana symbol in the upper right hand corner and the words "Hint, Hint." Scott Johns was wearing the same shirt and both are gambling that no one else at the Pro Tour will want to fight them for the format's worst color. By advertising their color preference ahead of time, they're surrendering a lot of flexibility and opening themselves up to abuse by anyone who wants to take advantage of the free information. But at the same time it just might work.
+![](http://www.wizards.com/sideboard/images/ptnice02/a991.jpg)
+
+That's what the back of Zvi Mowsowitz's shirt said. The front had a picture of Teroh's Faithful with a circle around the white mana symbol in the upper right hand corner and the words "Hint, Hint." Scott Johns was wearing the same shirt and both are gambling that no one else at the Pro Tour will want to fight them for the format's worst color. By advertising their color preference ahead of time, they're surrendering a lot of flexibility and opening themselves up to abuse by anyone who wants to take advantage of the free information. But at the same time it just might work.
 
 Zvi's first pack had a fair number of good cards and the right pick probably really was whichever one was in the color you prefer to draft. He took Second Thoughts over Chainflinger, Afflict, Dwarven Strike Force, and Springing Tiger. His second pack wasn't exactly a winner – he wound up with Otarian Juggernaut (over Refresh, Elephant Ambush, and Dirty Wererat). After that things started looking up. Resilient Wanderer and Second Thoughts were each still in his third pack (he took the Wanderer). And when he got his fourth pack he greedily slapped a second Resilient Wanderer onto his growing pile of cards.
 

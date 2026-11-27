@@ -143,7 +143,9 @@ I'm going on ten years and I can honestly say I haven't. I think the reason for 
 
 **How often do you play?**
 
-![](https://i.ormos.uk/af/9d/af9d3adce4bb662191515468d29b58b0bba99f3e8ecfbf897595338d75694202.jpg)It varies. When I'm in the middle of a design (or the occasional development) I play a lot more than I do otherwise. In general I play a lot more of “design” **Magic** than I do of printed **Magic**. That said I do make an effort to play with real product. Stickered cards are nice and all but it's not the experience of playing with the real thing. Having three young children means that most of my **Magic** playing is done at work, but I do have spurts where I play at home, especially when my father (who my regular readers know plays **Magic**) visits.
+![](https://i.ormos.uk/af/9d/af9d3adce4bb662191515468d29b58b0bba99f3e8ecfbf897595338d75694202.jpg)
+
+It varies. When I'm in the middle of a design (or the occasional development) I play a lot more than I do otherwise. In general I play a lot more of “design” **Magic** than I do of printed **Magic**. That said I do make an effort to play with real product. Stickered cards are nice and all but it's not the experience of playing with the real thing. Having three young children means that most of my **Magic** playing is done at work, but I do have spurts where I play at home, especially when my father (who my regular readers know plays **Magic**) visits.
 
 **How much interaction do you have with the public?**
 

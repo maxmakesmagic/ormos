@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *Por Alejo Zagalsky*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat90.JPG)Thomas es uno de los 4 Brasileros que pasaron al Top 8, y está jugando con el mazo mas popular del momento: Replenish.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat90.JPG)
+
+Thomas es uno de los 4 Brasileros que pasaron al Top 8, y está jugando con el mazo mas popular del momento: Replenish.
 
 Le pregunté si no le molestaba que todos se lo esperen, y que absolutamente todos los mazos tengan mucho sideboard contra el."No, es un mazo solido y que puede ganar muy rapido" me dijo en inglés ya que en portugués no nos entendemos completamente bien. "Solo tiene problemas contra el Angry Hermit, y el Trinity", completó.
 

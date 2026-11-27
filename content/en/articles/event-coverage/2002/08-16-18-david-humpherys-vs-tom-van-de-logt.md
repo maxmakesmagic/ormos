@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a714.jpg)　決勝進出を賭けた大一番。一昨年の世界選手権ベスト８、昨年優勝者と世界選手権で異様な強さを誇る Tom 。対するはマジック界最高の頭脳の持ち主と噂される YMG の David 。Tom が王道を行く黒コントロールを、David は青緑の高速ウイニー形態。プロツアー大阪の決勝を思わせる勝負だ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a714.jpg)
+
+　決勝進出を賭けた大一番。一昨年の世界選手権ベスト８、昨年優勝者と世界選手権で異様な強さを誇る Tom 。対するはマジック界最高の頭脳の持ち主と噂される YMG の David 。Tom が王道を行く黒コントロールを、David は青緑の高速ウイニー形態。プロツアー大阪の決勝を思わせる勝負だ。
 
 　試合前、デッキチェックが行われる。最初はにこやかに会話を交わしていた二人だが、時が経つにつれ、緊張感が二人を支配する。どちらかといえば、落ち着きなく細かく動く Tom、動かずどっしりと構える David。
 

@@ -85,7 +85,9 @@ render_recovery:
 
 * * *
 
-[![You Make the Card 3 - Art by Rebekah Lynn Osorio](https://i.ormos.uk/55/aa/55aa583ddab7a99570af5c030fd7ed73d0af29ee9255560d8efda1e47d5524d4.jpg)](https://web.archive.org/web/20080509053251/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=YouMaketheCard3)The people have spoken and **Mechanic J** reigns supreme. Here's how the [vote](/en/articles/youmakethecard3/2005/06-08-you-make-the-card-3-step-4-mechanic-vote) broke out (complete with the names of the mechanics' designers; remember that credit goes to the first person to turn in the idea):
+[![You Make the Card 3 - Art by Rebekah Lynn Osorio](https://i.ormos.uk/55/aa/55aa583ddab7a99570af5c030fd7ed73d0af29ee9255560d8efda1e47d5524d4.jpg)](https://web.archive.org/web/20080509053251/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=YouMaketheCard3)
+
+The people have spoken and **Mechanic J** reigns supreme. Here's how the [vote](/en/articles/youmakethecard3/2005/06-08-you-make-the-card-3-step-4-mechanic-vote) broke out (complete with the names of the mechanics' designers; remember that credit goes to the first person to turn in the idea):
 
   
 

@@ -276,11 +276,15 @@ Wise used Last Rites to take away Seton's Desire and Gravegouger from Sonne, lea
 
 Reeves had Barbarian Bully, Skywing Aven, Liberated Dwarf and Phantom Centaur to Fabiano's Wormfang Drake and Soul Scourge. Reeves eventually won the game, as his creatures were simply superior to Fabiano's. 
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a887.jpg)Game 2 saw Maher summon Mystic Familiar, Shieldmage Advocate, Possessed Nomad and Vigilant Sentry. Once again, McCord used Petravark to take away Maher's only island. Maher found another island, but McCord played a second Petravark, and also cast Arcane Teachings on his first one. Maher was now stuck at three plains, while McCord built his forces with every passing turn. Things didn't improve much, and McCord was able to take the game and the match. 
+![](http://www.wizards.com/sideboard/images/ptbos02/a887.jpg)
+
+Game 2 saw Maher summon Mystic Familiar, Shieldmage Advocate, Possessed Nomad and Vigilant Sentry. Once again, McCord used Petravark to take away Maher's only island. Maher found another island, but McCord played a second Petravark, and also cast Arcane Teachings on his first one. Maher was now stuck at three plains, while McCord built his forces with every passing turn. Things didn't improve much, and McCord was able to take the game and the match. 
 
 Sonne played a turn two Nantuko Shade, followed by a turn three Gravegouger. Wise used Prismatic Strands and Embolden in the following combat exchanges, and both were taken out with a second Gravegouger. The Shade was dominating at this point, and Wise told his teammates it wasn't looking good. Sonne used Sudden Strength to make things even worse. Waste Away killed the Nantuko Shade, and Sonne summoned Nullmage Advocate. Morbid Hunger brought Wise down to two, and Sonne attacked with both of his creatures. Fledgling Imp blocked and traded with Gravegouger, and Toxic Stench made the Advocate one power. This let Wise survive the attack at one life, and put Strands and Embolden back in his graveyard. Wise untapped, and played Stitch Together to get back Soul Scourge. Morgue Theft brought back Gravegouger, and it took Prismatic Strands. Psychotic Haze dealt the final point of damage, and gave Slay Pillage Gerard the match. 
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a886.jpg)Fabiano opened Game 2 with Hydromorph Guardian and Elephant Guide, while Reeves had Phantom Centaur. Nullmage Advocate eventually destroyed the powerful enchantment, and Krosan Archer provided some defense. Treetop Sentinel gave Gerard a great blocker, but Reeves had three 2/3 creatures, and was able to attack through for the win.
+![](http://www.wizards.com/sideboard/images/ptbos02/a886.jpg)
+
+Fabiano opened Game 2 with Hydromorph Guardian and Elephant Guide, while Reeves had Phantom Centaur. Nullmage Advocate eventually destroyed the powerful enchantment, and Krosan Archer provided some defense. Treetop Sentinel gave Gerard a great blocker, but Reeves had three 2/3 creatures, and was able to attack through for the win.
 
 **Final Result:** Courtney's Boys- 1 Slay Pillage Gerard- 2
 

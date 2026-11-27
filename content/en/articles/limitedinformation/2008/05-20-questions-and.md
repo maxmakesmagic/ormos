@@ -181,7 +181,9 @@ If I think that my deck is OK, or if I think my deck is good but the other decks
 
 ### Some Picks to Make You Think
 
-[![Advice_from_the_Fae](https://i.ormos.uk/7f/ff/7fff8501b79c05d866836a320569d2550ff64e28c7a88d06aff6657454ef8a6d.jpg)](https://web.archive.org/web/20080520000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Advice%2Bfrom%2Bthe%2BFae)If you enjoy thinking about picks like [Boartusk Liege](https://web.archive.org/web/20080520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boartusk+Liege) vs. [Firespout](https://web.archive.org/web/20080520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firespout), here are some other picks that you might enjoy pondering.
+[![Advice_from_the_Fae](https://i.ormos.uk/7f/ff/7fff8501b79c05d866836a320569d2550ff64e28c7a88d06aff6657454ef8a6d.jpg)](https://web.archive.org/web/20080520000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Advice%2Bfrom%2Bthe%2BFae)
+
+If you enjoy thinking about picks like [Boartusk Liege](https://web.archive.org/web/20080520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boartusk+Liege) vs. [Firespout](https://web.archive.org/web/20080520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firespout), here are some other picks that you might enjoy pondering.
 
 [Mass Calcify](https://web.archive.org/web/20080520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mass+Calcify) vs. [Incremental Blight](https://web.archive.org/web/20080520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incremental+Blight)
 

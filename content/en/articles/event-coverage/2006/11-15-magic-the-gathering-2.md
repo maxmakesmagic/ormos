@@ -91,7 +91,9 @@ When Bob Maher, Jr started playing on the top floor of the Puck Building in the 
 
 "I know that the Hall of Fame doesn't recognize Juniors," recalled Bob, "but to me that is still my first event. I remember thinking of how amazing it was that **Magic** could have an event like that. My first-round match was against Paul McCabe, future Player of the Year. I won. I had hoped to do well, but didn't know what to expect. I believe I ended up around 19th place, and I was happy with my finish."
 
-![](https://i.ormos.uk/47/3d/473dc68eef0526ee2e7cf537aea052a454b19dcd19b2e243aa992d25e00b90c1.jpg)The following season saw Bob earn a berth on the U.S. National team and quietly finish in 10th place at Worlds that year. His breakout finish came two seasons later when he dazzled the hometown Chicago card and made his surname the first name for Oath of Druids for many years after. 
+![](https://i.ormos.uk/47/3d/473dc68eef0526ee2e7cf537aea052a454b19dcd19b2e243aa992d25e00b90c1.jpg)
+
+The following season saw Bob earn a berth on the U.S. National team and quietly finish in 10th place at Worlds that year. His breakout finish came two seasons later when he dazzled the hometown Chicago card and made his surname the first name for Oath of Druids for many years after. 
 
 "My best memory of playing on the Pro Tour was winning [Pro Tour-Chicago in '99](https://web.archive.org/web/20061115000000/http://www.wizards.com/sideboard/article.asp?x=PTCHICAGO9900/welcome)," Bob said, not too surprisingly. "I had been playing on the PT without any real standout performances. It was a great feeling to get a win in front of my home crowd and my family. It was also a great feeling to win because you really start to think after a while that maybe you just aren't good enough to compete at that level. Anyone on the PT for a few years without making the Top 8 has doubts, and I was no different. That win gave me a huge boost in confidence."
 

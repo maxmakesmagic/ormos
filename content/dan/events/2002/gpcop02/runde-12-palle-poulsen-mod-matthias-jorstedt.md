@@ -71,7 +71,9 @@ render_recovery:
   - Sunfire Balm
   occurrences: 16
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a913.jpg)I runde 12 mødtes de to veteraner Palle Poulsen og Matthias Jorstedt. Palle Poulsen var Danmarksmester i 1999, og Matthias blev den førtste nordiske mester for to år siden. De skulle begge to vinde deres resterende kampe for at komme i top 8, så det skulle nok blive spændende. 
+![](http://www.wizards.com/sideboard/images/gpcop02/a913.jpg)
+
+I runde 12 mødtes de to veteraner Palle Poulsen og Matthias Jorstedt. Palle Poulsen var Danmarksmester i 1999, og Matthias blev den førtste nordiske mester for to år siden. De skulle begge to vinde deres resterende kampe for at komme i top 8, så det skulle nok blive spændende. 
 
 Palle spillede rød/grøn med Centaur Glade som det bedste kort, mens Matthias havde draftet hvid og sort. 
 

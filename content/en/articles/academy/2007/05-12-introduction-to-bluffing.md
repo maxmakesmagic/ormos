@@ -251,7 +251,9 @@ Your opponent has an untapped Craw Wurm. You attack him with Grizzly Bears. To y
 *   **How valuable, from your opponent's perspective, is what you're risking?** How important is the Grizzly Bears given the board state? The more important it appears to be, the more credence your opponent will give your bluff, but the more inclined they'll be to block.
 *   **Is someone *winning*?** Unlike poker, where good play means maximizing profit in any given hand (even if that means folding), in **Magic** a game is either won or lost. That is, barring time considerations, winning by a lot is the same as winning by a little.
 
-![Culling_Scales](https://i.ormos.uk/5f/79/5f79575961f1282af7c3954c230ba310a393dbc49abcf973d8fc69840d14ca25.jpg)What this means is that if you're ahead and likely to win, it's worth avoiding risks—even profitable ones. If they go your way, well, you were already ahead. If they happen not to, you might suddenly be facing a loss!
+![Culling_Scales](https://i.ormos.uk/5f/79/5f79575961f1282af7c3954c230ba310a393dbc49abcf973d8fc69840d14ca25.jpg)
+
+What this means is that if you're ahead and likely to win, it's worth avoiding risks—even profitable ones. If they go your way, well, you were already ahead. If they happen not to, you might suddenly be facing a loss!
 
 If you're already ahead, risk is less attractive.
 

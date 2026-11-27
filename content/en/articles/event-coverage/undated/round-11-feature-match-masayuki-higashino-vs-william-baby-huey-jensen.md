@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Mason Peatross* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/801.jpg)In a Mark Rosewater special, all four matches this round feature top Japanese players. Billy Jensen found himself squaring off against Grand Prix Hiroshima winner Masayuki Higashino. Higashino is playing a controllish blue/black/white deck with multiple tappers and Probes, while Huey is playing the ultimate in creature destruction and quick beats - "red/black attack." 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/801.jpg)
+
+In a Mark Rosewater special, all four matches this round feature top Japanese players. Billy Jensen found himself squaring off against Grand Prix Hiroshima winner Masayuki Higashino. Higashino is playing a controllish blue/black/white deck with multiple tappers and Probes, while Huey is playing the ultimate in creature destruction and quick beats - "red/black attack." 
 
 Game 1 was fairly one-sided. Higashino played a second turn tapper that was immediately sent to the graveyard via Scorching Lava. Huey's next play was to start going into the Red Zone with a Sparring Golem, which Higashino couldn't afford to block properly. Huey's curve over the next few turns was amazing. He played a Kavu Runner, a Phyrexian Reaper, Hypnotic Cloud with the kicker (netting a Stand/Deliver, Benalish Lancer, and a land), and a Plague Spores on Higashino's lone Plains and a freshly cast kicked Faerie Squadron. He followed that up with a Tribal Flames to remove Higashino's Shoreline Raider, and a second Kavu Runner. This game took less time to play than the shuffling that occurred before the round had begun. 
 

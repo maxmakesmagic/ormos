@@ -44,7 +44,9 @@ archive_source:
   sha256: 89c935b3aeade68c7acc2f07f9ce5690ce8f60440384488b72ad0154eeb0d362
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/qf4_1.jpg)This is a [Tooth and Nail](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) (Pils) on Affinity (Brodzak) rematch. Both players faced each other in round 14. Brodzak won a close match as Pils won the first game top-decking a couple times in a row, before Brodzak won the next two games getting fortunate in his draws too, especially as he peeled an [Atog](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Atog) for the win in Game 2.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/qf4_1.jpg)
+
+This is a [Tooth and Nail](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) (Pils) on Affinity (Brodzak) rematch. Both players faced each other in round 14. Brodzak won a close match as Pils won the first game top-decking a couple times in a row, before Brodzak won the next two games getting fortunate in his draws too, especially as he peeled an [Atog](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Atog) for the win in Game 2.
 
 Brodzak declined the coin flip and asked for a die, and was glad with his choice as he won a very important roll. He had to mulligan once, but Pils made it even as he too took a trip to Paris. The German had to mulligan a second time though, and if Brodzak's opening hand was decent, it could be a very quick Game 1. 
 

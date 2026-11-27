@@ -79,7 +79,9 @@ render_recovery:
   - Circular Logic
   occurrences: 24
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a869.jpg)Ray Weiss and David Rood came to the Top 8 full of hope. Now only one of them can make the team. Rood is the young hotshot from Quebec; Weiss, an up-and-comer from Manitoba. Weiss is with Squirrel-Opposition, and Rood is running the same red-green deck as the rest of the Quebec contingent.
+![](http://www.wizards.com/sideboard/images/canat02/a869.jpg)
+
+Ray Weiss and David Rood came to the Top 8 full of hope. Now only one of them can make the team. Rood is the young hotshot from Quebec; Weiss, an up-and-comer from Manitoba. Weiss is with Squirrel-Opposition, and Rood is running the same red-green deck as the rest of the Quebec contingent.
 
 Weiss looked at his first seven cards. He was far from pleased.
 
@@ -123,7 +125,9 @@ Rood tried to think a way out of the situation. He decided to work on generating
 
 Rood 1 - Weiss 2
 
-![](http://www.wizards.com/sideboard/images/canat02/a874.jpg)Rood started Game 4 with Grim Lavamancer and Basking Rootwalla, walking right into Weiss's Fire/Ice. He played Call of the Herd and was matched by Wild Mongrel. Rood flashed it back to keep the pressure up. Weiss tried to put a stop to that with Opposition. Rood busted out Hull Breach and Meteor Storm.
+![](http://www.wizards.com/sideboard/images/canat02/a874.jpg)
+
+Rood started Game 4 with Grim Lavamancer and Basking Rootwalla, walking right into Weiss's Fire/Ice. He played Call of the Herd and was matched by Wild Mongrel. Rood flashed it back to keep the pressure up. Weiss tried to put a stop to that with Opposition. Rood busted out Hull Breach and Meteor Storm.
 
 Now Weiss was in trouble. He had Opposition and Squirrel Nest in hand, but not a lot of time to put the pieces together. He chose Squirrel Nest, and hoped his Mongrel would succeed in taking out a Call token on Rood's next attack. Rood chose to activate his Meteor Storm and smash it.
 
@@ -137,7 +141,9 @@ Rood 2 - Weiss 2
 "Everyone's cheering for you." - Ray Weiss  
  "Yeah, where are your supporters? Don't you have any friends?" - David Rood
 
-![](http://www.wizards.com/sideboard/images/canat02/a875.jpg)Rood's draw was sluggish for the deciding game. Weiss got two Birds and a Mongrel on the board while he just sat there. Without a fourth land, Weiss chose to make Llanowar Elf over Opposition. Rood's only play was Call of the Herd.
+![](http://www.wizards.com/sideboard/images/canat02/a875.jpg)
+
+Rood's draw was sluggish for the deciding game. Weiss got two Birds and a Mongrel on the board while he just sat there. Without a fourth land, Weiss chose to make Llanowar Elf over Opposition. Rood's only play was Call of the Herd.
 
 Weiss ripped Shivan Wurm and dropped Opposition, locking down his red. Rood played Karplusan Forest and Hull Breach. Weiss's second in reserve brought out an expletive. Again Weiss tied up his opponent's mana. Rood floated four and tried to Violent Eruption Weiss's team. Weiss got in with Circular Logic.
 

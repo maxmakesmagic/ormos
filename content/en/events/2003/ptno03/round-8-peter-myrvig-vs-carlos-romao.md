@@ -83,7 +83,9 @@ render_recovery:
   - Clockwork Dragon
   occurrences: 42
 ---
-![](http://www.wizards.com/sideboard/images/ptno03/a919.jpg)Both of these players came into this round at 4-3; the winner plays tomorrow, and the loser will have plenty of time to see New Orleans. 
+![](http://www.wizards.com/sideboard/images/ptno03/a919.jpg)
+
+Both of these players came into this round at 4-3; the winner plays tomorrow, and the loser will have plenty of time to see New Orleans. 
 
 ### Game 1
 
@@ -91,12 +93,16 @@ Romao's first turn Grim Monolith was countered with Force Spike, and Metalworker
 
 A turn later, Tinker got Mindslaver into play, and Myrvig cast Intuition to get three Accumulated Knowledge and gain massive card advantage. Brainstorm helped protect Myrvig's most important cards from the Mindslaver, which didn't let Romao do much since he only had two Smothers and a Force Spike to work with. The best Romao could do was play and activate Polluted Delta to deal a point of damage and shuffle back the top cards if they were important. As an added bonus, Myrvig took a point of damage, and Romao chose not to search out a land. The relevant part of all this was that it left Myrvig tapped out, which allowed Upheaval to resolve with two colorless floating. Metalworker along with an island came back down, putting Romao far ahead in resources.
 
-![](http://www.wizards.com/sideboard/images/ptno03/a917.jpg)Still, Romao was lacking threats, and couldn't capitalize on the reset button. Tangle Wire slowed things down a bit, but he would need to draw a threat right away before Myrvig had access to his mana and could use countermagic. Cunning Wish searched up Corpse Dance, and with a previously discarded Psychatog in the graveyard along with plenty of cards to fuel it, the spell was looking very threatening. Romao played a Stroke of Genius to draw two cards on end step, leaving one mana floating to play around Force Spike since Myrvig only had one land untapped. He took his turn, and his only out was Upheaval, which left him with no mana untapped. Sure enough, Myrvig had the Force Spike to counter it, took his turn, and cast Corpse Dance on the Psychatog to win the first game.
+![](http://www.wizards.com/sideboard/images/ptno03/a917.jpg)
+
+Still, Romao was lacking threats, and couldn't capitalize on the reset button. Tangle Wire slowed things down a bit, but he would need to draw a threat right away before Myrvig had access to his mana and could use countermagic. Cunning Wish searched up Corpse Dance, and with a previously discarded Psychatog in the graveyard along with plenty of cards to fuel it, the spell was looking very threatening. Romao played a Stroke of Genius to draw two cards on end step, leaving one mana floating to play around Force Spike since Myrvig only had one land untapped. He took his turn, and his only out was Upheaval, which left him with no mana untapped. Sure enough, Myrvig had the Force Spike to counter it, took his turn, and cast Corpse Dance on the Psychatog to win the first game.
 
 Myrvig- 1 Romao- 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptno03/a918.jpg)Romao opened with Chalice of the Void set to one, and on the following turn played another Chalice set to two, which Myrvig had a Counterspell for. Thran Dynamo resolved, and on end step Myrvig cast Intuition to get three Accumulated Knowledge. He then untapped and played Psychatog, missing his fourth land drop. With Myrvig tapped out, Romao was given the perfect opportunity to play Clockwork Dragon and have it resolve. Myrvig drew some more cards with his Knowledge, and the Psychatog attacked and killed the Dragon in combat, surviving as a 6/7. Soon after, Myrvig played the fourth Accumulated Knowledge, which was enough for Romao to concede.
+![](http://www.wizards.com/sideboard/images/ptno03/a918.jpg)
+
+Romao opened with Chalice of the Void set to one, and on the following turn played another Chalice set to two, which Myrvig had a Counterspell for. Thran Dynamo resolved, and on end step Myrvig cast Intuition to get three Accumulated Knowledge. He then untapped and played Psychatog, missing his fourth land drop. With Myrvig tapped out, Romao was given the perfect opportunity to play Clockwork Dragon and have it resolve. Myrvig drew some more cards with his Knowledge, and the Psychatog attacked and killed the Dragon in combat, surviving as a 6/7. Soon after, Myrvig played the fourth Accumulated Knowledge, which was enough for Romao to concede.
 
 **Final Resut:** Myrvig- 2 Romao- 0

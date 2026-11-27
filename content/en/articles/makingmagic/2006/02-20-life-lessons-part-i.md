@@ -179,7 +179,9 @@ This is a very important part of card design. If you try to make everyone happy,
 
 ### Lesson #2
 
-![](https://i.ormos.uk/56/83/568310624706bfc569b92d3b7e76d9244c3ffec67e660e1b260673652130247e.jpg)One of my great joys of working for Wizards has been the travel. I've always wanted to see the world, and working on **Magic** has literally taken me across the globe. I've been to over twenty countries and to every continent except Antarctica. However, back in eleventh grade this wasn't the case. Other than a few trips to Canada and a short trip to Europe, I had never left the United States. The summer of my junior year that was all going to change, because I had signed up with an organization called AFS to spend my summer living with a family in another country. 
+![](https://i.ormos.uk/56/83/568310624706bfc569b92d3b7e76d9244c3ffec67e660e1b260673652130247e.jpg)
+
+One of my great joys of working for Wizards has been the travel. I've always wanted to see the world, and working on **Magic** has literally taken me across the globe. I've been to over twenty countries and to every continent except Antarctica. However, back in eleventh grade this wasn't the case. Other than a few trips to Canada and a short trip to Europe, I had never left the United States. The summer of my junior year that was all going to change, because I had signed up with an organization called AFS to spend my summer living with a family in another country. 
 
 Most kids might be focused on colleges the summer of their junior year, but not me. Although I had absolutely no idea where I wanted to go, I was pumped to experience the opportunity of a lifetime. I had filled out all the paperwork, done the necessary interviews and was waiting to learn what country I was going to be assigned to when something unexpected happened... I got a letter in the mail that told me I had been rejected. It didn't say why. It just said that AFS had chosen to pass on me. 
 
@@ -213,7 +215,9 @@ The influence of that event had a domino effect. The popularity of the split car
 
 ### Lesson #3
 
-![](https://i.ormos.uk/9e/23/9e23a396b13e8dca51b855fbe3f069143e968307c1e9d620c8e2990085728848.jpg)The irony of my entire college admission process was that Boston University (BU), my first choice for college, ended up being my safety school. Because I knew I had the grades to get into BU, I tried applying to some colleges that were a little more of a stretch. You know, to see if I could get in. I got into every school I applied to, but ended up exactly where I knew I would the day I took the one-hour stroll through campus. 
+![](https://i.ormos.uk/9e/23/9e23a396b13e8dca51b855fbe3f069143e968307c1e9d620c8e2990085728848.jpg)
+
+The irony of my entire college admission process was that Boston University (BU), my first choice for college, ended up being my safety school. Because I knew I had the grades to get into BU, I tried applying to some colleges that were a little more of a stretch. You know, to see if I could get in. I got into every school I applied to, but ended up exactly where I knew I would the day I took the one-hour stroll through campus. 
 
 For my readers that have not attended college, the way college works is that half way through (a.k.a. junior year), the college makes you decide what exactly you're there for. What are you majoring in? The freshman and sophomore years are used taking basic requirements and getting your feet wet so that you can figure out what it is you want to do with your life. (A little trivia sidenote – there was a study done several years back that tracked the most stressful times in people's lives. Picking a major came in the top five.) Now, I knew that I was interested in communications. I mean, after all, who doesn't love a college where watching television or going to the movies is homework. On the other hand, I hadn't decided what I wanted to do in communications.
 
@@ -321,7 +325,9 @@ After some soul searching, I came to the following conclusion:
 
 Yes, there are stories about people who have fortune stumble upon them, but they are the exception. The story behind almost all successes is that the person behind them strove to make something happen. My coming to work for Wizards wasn't a string of good luck. I sought out Wizards to do the puzzle column. I traveled to Gencon to get more writing opportunities. I sought out extra freelance work from other sections of the company. I told R&D I was willing to move to Seattle (more on this in two weeks). At each step, I figured out what I wanted and took steps to make it happen. 
 
-![](https://i.ormos.uk/ac/d9/acd91dfb2efa7cacbea503e6c1da5d5feb43d8d52d6668ff4fd5659fc86dde5e.jpg)How does this tie into **Magic** design? “Making it happen” is what design's all about. When I became Head Designer, for instance, I made a concerted effort to start doing block planning. *Ravnica* didn't fall into my lap. I found the guild model because I was looking for something that could tie the whole block together. It was my desire to give the block identity that caused me to seek out new ways to connect a block together in the first place.
+![](https://i.ormos.uk/ac/d9/acd91dfb2efa7cacbea503e6c1da5d5feb43d8d52d6668ff4fd5659fc86dde5e.jpg)
+
+How does this tie into **Magic** design? “Making it happen” is what design's all about. When I became Head Designer, for instance, I made a concerted effort to start doing block planning. *Ravnica* didn't fall into my lap. I found the guild model because I was looking for something that could tie the whole block together. It was my desire to give the block identity that caused me to seek out new ways to connect a block together in the first place.
 
 It's very easy after something's a success to recognize its value. The trick for a designer is seeing the potential before it exists, and a crucial part of being able to do this is having the foresight to understand that you have to make it happen. Let's continue using *Ravnica* block as the example. When I signed on to the guild model, I realized it would mean that I needed to find a way to make it mechanically relevant. Thus, I started from a premise that it had to be relevant and worked backwards.
 

@@ -79,7 +79,9 @@ render_recovery:
   - Sprouting Vines
   occurrences: 29
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a920.jpg)After a short discussion on the draft Malherbaud won the roll and decided to play.
+![](http://www.wizards.com/sideboard/images/euro03/a920.jpg)
+
+After a short discussion on the draft Malherbaud won the roll and decided to play.
 
 ### Game 1
 
@@ -87,7 +89,9 @@ Both players decided to keep their hands and Clapton started the arms race with 
 
 Clapton's Invoker was joined by two Daunting Defenders before Malherbaud was finally able to find a forest and played his Fierce Empath fetching a Titanic Bulvox. The fact he played a morph creature came as no surprise to anyone. The morph didn't block Clapton's all-out attack but on his next turn Malherbaud used a Deaths Head Buzzard and an Infest to clear the board both of which he topdecked as the only possible way he could survive. Clapton immediately played a Shepherd of Rot which would have made short work of the Frenchman's four point life total but Malherbaud built up a quick army with Stonewood Invoker, Krosan Vorine and a morph, using Chill Haunting to kill the Shepherd before it could do too much damage.
 
-![](http://www.wizards.com/sideboard/images/euro03/a921.jpg)Clapton used Misery Charm to get back a Daunting Defender, Malherbaud added Everglove Courier finally feeling he was in a position to start attacking. Clapton added a morph before attacking with his Defender and Malherbaud was obviously waiting for a combat trick as he gang blocked. However his caution was to no avail as Clapton unmorphed a Wingbeat Warrior and killed the Vorine with the first strike damage.
+![](http://www.wizards.com/sideboard/images/euro03/a921.jpg)
+
+Clapton used Misery Charm to get back a Daunting Defender, Malherbaud added Everglove Courier finally feeling he was in a position to start attacking. Clapton added a morph before attacking with his Defender and Malherbaud was obviously waiting for a combat trick as he gang blocked. However his caution was to no avail as Clapton unmorphed a Wingbeat Warrior and killed the Vorine with the first strike damage.
 
 Malherbaud attacked bringing his opponent down to eight and passed and Clapton played a potentially devastating Smokespew Invoker. Appearing to sense a control game was no longer an option Malherbaud attacked with his four man army and the two morph creatures were blocked but the Frenchman had an Acceleration to pump one of the unblocked creatures.
 
@@ -95,7 +99,9 @@ A good humored discussion during shuffling revealed how fortunate Malherbaud had
 
 ### Game 2
 
-![](https://i.ormos.uk/88/49/88494859fdfdc11f4b0e004c5c700d68d19822f179702e4281f198ddd8d2c5c6.jpg)Clapton decided to draw and both players decided to keep and the Frenchman had turn two Wellwisher, Clapton made a Starlight Invoker and Malherbaud had a turn three morph and turn four Krosan Vorine. This game looks like it could be cut very short as Clapton missed land drops three and four, even having to cycle a Swat to try and find another land. A third Plains on turn five gave him some options and he attacked with the Invoker but the damage was cancelled out by the Wellwisher. It died during the Frenchman's next attack however as it was provoked by the Vorine.
+![](https://i.ormos.uk/88/49/88494859fdfdc11f4b0e004c5c700d68d19822f179702e4281f198ddd8d2c5c6.jpg)
+
+Clapton decided to draw and both players decided to keep and the Frenchman had turn two Wellwisher, Clapton made a Starlight Invoker and Malherbaud had a turn three morph and turn four Krosan Vorine. This game looks like it could be cut very short as Clapton missed land drops three and four, even having to cycle a Swat to try and find another land. A third Plains on turn five gave him some options and he attacked with the Invoker but the damage was cancelled out by the Wellwisher. It died during the Frenchman's next attack however as it was provoked by the Vorine.
 
 Malherbaud had got Clapton down to twelve life but the Englishman had found a Swamp and played another morph. Clapton attacked with one of his morphs but did only one damage due to the Wellwisher. An end of turn Sprouting Vines from Malherbaud to develop his mana and another attack brought Clapton to eight although a morph traded for the Vorine. Both players then played morphs and Malherbaud thought long and hard about his next combat before attacking with everything. The two morph creatures were blocked but when one of them was unmorphed to show a Titanic Bulvox it's five trampling damage combined with the three unblocked damage was enough for the win.
 

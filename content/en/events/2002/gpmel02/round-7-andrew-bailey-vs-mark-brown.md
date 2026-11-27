@@ -96,7 +96,9 @@ Out of answers, Andrew's fate was sealed with a Silent Spectre hitting the table
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a932.jpg)Even playing first and having to mulligan didn't stop Mark coming out of the block quickly again with the Festering goblin bringing Andrew down to 16 in 4 short turns before being halted with a crown of suspicion. The reason for the delay - a Wirewood savage with a Wellwisher from Andrew. Mark found a Nantuko Husk which pushed the issue as far as he could with the elves to a large extent countering it with the similar amount life gain. Andrew's superior card advantage shone through followin the Savage with a Wretched Anurid a morph and the Prowling Pangolin which claimed a Daru healer and a face down silent Spectre. This left Mark with just the Husk a Nightglove courier. Problems were caused as a Shepherd of Rot combined with the wellwisher).
+![](http://www.wizards.com/sideboard/images/gpmel02/a932.jpg)
+
+Even playing first and having to mulligan didn't stop Mark coming out of the block quickly again with the Festering goblin bringing Andrew down to 16 in 4 short turns before being halted with a crown of suspicion. The reason for the delay - a Wirewood savage with a Wellwisher from Andrew. Mark found a Nantuko Husk which pushed the issue as far as he could with the elves to a large extent countering it with the similar amount life gain. Andrew's superior card advantage shone through followin the Savage with a Wretched Anurid a morph and the Prowling Pangolin which claimed a Daru healer and a face down silent Spectre. This left Mark with just the Husk a Nightglove courier. Problems were caused as a Shepherd of Rot combined with the wellwisher).
 
 Andrew found the stop for the Husk in the form of a Leery Fogbeast, and unable to mount a credible attack against his opponent off a mulliganed hand Andrew was able to use his Shepherd for 4 each turn whilst gaing 2 from the ellwisher. Mark (at 4 life) removed the Shepherd with a Crown of Suspicion, but was too late as Andrew now had the creature advantage overwhelm for the victory.
 

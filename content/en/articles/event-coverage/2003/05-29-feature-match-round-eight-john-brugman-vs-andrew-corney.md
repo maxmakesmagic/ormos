@@ -48,7 +48,9 @@ Two of Australia’s nicest magic players are squaring off in the round eight fe
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a969.jpg)Corney leads off with a turn one Tireless Tribe, not to be outdone Brugman has a turn one play of his own, Bird of Paradise. Keepin the beats flowin, Corney summons a Sunstrike Legionnaire and hands back over to Brugman. Brugman has no play and takes 2 more points of beats as the little guys come charging in. At the end of the turn Burgman Smothers the Tireless Tribe and in response Corney Madnesses out an Arrogant Wurm. Chainer’s Edict forces Corney to sacrifice the little Legionnaire and the Arrogant Wurm comes charging in, dealing 4 points, with Corney continuing to add to his team with Benevolent Bodyguard and a morph creature.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a969.jpg)
+
+Corney leads off with a turn one Tireless Tribe, not to be outdone Brugman has a turn one play of his own, Bird of Paradise. Keepin the beats flowin, Corney summons a Sunstrike Legionnaire and hands back over to Brugman. Brugman has no play and takes 2 more points of beats as the little guys come charging in. At the end of the turn Burgman Smothers the Tireless Tribe and in response Corney Madnesses out an Arrogant Wurm. Chainer’s Edict forces Corney to sacrifice the little Legionnaire and the Arrogant Wurm comes charging in, dealing 4 points, with Corney continuing to add to his team with Benevolent Bodyguard and a morph creature.
 
 Ravenous Baloth comes into play for Brugman leaving him three cards in hand. Corney sends with the Arrogant Wurm and the morph, flipping it over before blockers to reveal an Exalted Angel. The Baloth blocks the Arrogant Wurm and the Bodyguard keeps the Wurm alive, sacrificing itself for the good of the team. Brugman summons another Baloth and casts a Living Wish, grabbing Visara, the Dreadful from his sideboard. Corney sends in the Angel all on its lonesome and drops a Tireless Tribe and an Anurid Brushhopper hoping to overwhelm Brugman with sheer weight of numbers.
 
@@ -64,7 +66,9 @@ Corney once again starts quickly with a Tireless Tribe but this time his first l
 
 Corney dropped down a Nantuko Monastery and the Brushhopper attacked for 3, with the Wretch removing the Tireless Tribe at the end of the turn. Phantom Centaur from Brugman threatened to tie up the board and Corney phased out his Brushhopper and Madnessed in an Arrogant Wurm. He then untapped and cast Reprisal on the Centaur and sent in his team, summoning a Wild Mongrel after combat. Brugman once again tried to slow things down casting Ravenous Baloth.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a968.jpg)Corney came crashing into the red zone with all three creatures, and Wretch blocked the Mongrel and Baloth blocked the Brushhopper. With only two cards in hand Corney faced a dilemma, phase out the hopper or keep the Mongrel alive. He decided to keep the Mongrel pitching and Madnessing an Arrogant Wurm into play and drawing a card from Compost as the Wretch hit the graveyard. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a968.jpg)
+
+Corney came crashing into the red zone with all three creatures, and Wretch blocked the Mongrel and Baloth blocked the Brushhopper. With only two cards in hand Corney faced a dilemma, phase out the hopper or keep the Mongrel alive. He decided to keep the Mongrel pitching and Madnessing an Arrogant Wurm into play and drawing a card from Compost as the Wretch hit the graveyard. 
 
 On a precarious four life brugman dropped down a Phantom Centaur and Living Wished for his Visara, leaving his team back, bracing for the incoming beats. Drawing a card, Corney pitched three cards to the Mongrel gaining threshold and allowing him to attack with a 5/5 Mongrel, the Wurms and the Activated Monestry, dealing lethal damage.
 

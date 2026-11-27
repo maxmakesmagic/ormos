@@ -93,7 +93,9 @@ GP 仙台以降メジャーになった八王子組の精鋭 3 人組の Pi-taso
 
 **浅原 2-0 武政**
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a964.jpg)浅原がまず勝利したところで、残りの 2 マッチが両方とも 3 本目という瀬戸際。
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a964.jpg)
+
+浅原がまず勝利したところで、残りの 2 マッチが両方とも 3 本目という瀬戸際。
 
 白黒の荒堀と赤緑の太田の 3 本目を追ってみよう。
 

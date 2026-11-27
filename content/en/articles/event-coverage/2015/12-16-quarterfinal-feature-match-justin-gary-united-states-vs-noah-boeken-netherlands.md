@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Ben Ronaldson* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/162.jpg)Justin had drafted fairly consistently, ending up with a fast black/red Kavu deck (9 Kavu!) with splash for blue. Noah had an amusing 5 colour green deck that he was agonizing over for quite a while before he constructed it, but he did have a reasonably safe green base with two Harrows, two Fertile Grounds and some mana elves. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/162.jpg)
+
+Justin had drafted fairly consistently, ending up with a fast black/red Kavu deck (9 Kavu!) with splash for blue. Noah had an amusing 5 colour green deck that he was agonizing over for quite a while before he constructed it, but he did have a reasonably safe green base with two Harrows, two Fertile Grounds and some mana elves. 
 
 Justin was already sitting down when Noah came along, but he was sitting on Noah's favourite side of the table and didn't feel like moving - and then the talk began. I have never seen Gary playing before and I guess I should have known that, being an American, he would have a fair few things to say, but Noah was up for it. 
 

@@ -52,7 +52,9 @@ archive_source:
   sha256: e9adc1f38ddcdbefee8d0fdc487a7c2c78089287fac372cb34874e0e7b42328c
 render_recovery: []
 ---
-![Duels of the Planeswalkers](http://archive.wizards.com/mtg/images/daily/features/feature43c_dotpLogo.jpg "Duels of the Planeswalkers")Are you ready to take your **Magic: The Gathering – Duels of the Planeswalkers** experience to a higher level? You'll be able to do just that in 2010 as Wizards of the Coast will launch two more expansion packs plus extend the game to PC and PlayStation 3.
+![Duels of the Planeswalkers](http://archive.wizards.com/mtg/images/daily/features/feature43c_dotpLogo.jpg "Duels of the Planeswalkers")
+
+Are you ready to take your **Magic: The Gathering – Duels of the Planeswalkers** experience to a higher level? You'll be able to do just that in 2010 as Wizards of the Coast will launch two more expansion packs plus extend the game to PC and PlayStation 3.
 
 [**Duels of the Planeswalkers**](https://web.archive.org/web/20091109000000/http://archive.wizards.com/Magic/Digital/duelsoftheplaneswalkers.aspx?x=mtg/digital/dotp/whatis) continues to be one of the most downloaded games on Xbox LIVE Arcade. On the heels of the first expansion released in October, the 2010 expansions are scheduled for spring and summer of next year. Similar to the first expansion, the two releases will feature new cards, planeswalkers, and challenges, and will be offered in English, French, Italian, Spanish, and German.
 

@@ -139,7 +139,9 @@ render_recovery:
   - Woodland Druid
   occurrences: 140
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a939.jpg)Consistent French performer Pierre Malherbaud is fresh from success in this format after winning Grand Prix Naples. His opponent, Albertus Law, is also no stranger to Grand Prix success and has Top 8 appearance from Pro Tour Barcelona on top.
+![](http://www.wizards.com/sideboard/images/ptnice02/a939.jpg)
+
+Consistent French performer Pierre Malherbaud is fresh from success in this format after winning Grand Prix Naples. His opponent, Albertus Law, is also no stranger to Grand Prix success and has Top 8 appearance from Pro Tour Barcelona on top.
 
 Malherbaud has a solid green-black deck and is splashing red for some burn, a Pardic Collaborator and a Vampiric Dragon. Law has a quick green-red deck with plenty of burn.
 
@@ -163,7 +165,9 @@ Law didn't really get any quick offence. A Sonic Seizure ensured a Pardic Collab
 
 The Tiger came in regardless and Law chose to let it through, choosing instead to race as a hasty Pardic Firecat sprung into the red zone on the heels of the Elephant. Malherbaud blocked the Firecat with a Twigwalker and Afflicted it.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a938.jpg)Law looked on the receiving end. His lone Elephant had just a Rootwalla for support while Malherbaud had Tiger, Werebear, Twigwalker and Fledgling Imp. The Fenchman cast Vivify for more beats and then turned the screw with a second Fledgling Imp.
+![](http://www.wizards.com/sideboard/images/ptnice02/a938.jpg)
+
+Law looked on the receiving end. His lone Elephant had just a Rootwalla for support while Malherbaud had Tiger, Werebear, Twigwalker and Fledgling Imp. The Fenchman cast Vivify for more beats and then turned the screw with a second Fledgling Imp.
 
 Law was left with just a Rootwalla and 8 life. The next turn Malherbaud attacked with both Imp and a Werebear and then waited for Law to tap out to flashback the Ambush so he could safely give both Imp Flying and sac the Twigwalker to deal lethal damage.
 
@@ -175,7 +179,9 @@ Malherbaud looked to take advantage as an Ambush brought out an Elephant in Law'
 
 Any thoughts of aggression were quickly put aside as Law summoned a Dwarven Strike Force to act as discouragement. Law finally found enough forests to cast an Elephant Ambush but his own attempts to get aggressive were thwarted as an Afflict made an Elephant trade in the red zone uneven. Law had to flashback the Firebolt in his graveyard to finish the other Elephant off.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a940.jpg)Malherbaud replaced the Elephant with a Dirty Wererat and Law chose this moment to switch the Strike Force from defence to offence. Acorn Harvest provided some sacrificial Squirrels to get in the way as Law fished out a Swamp with Far Wanderings.
+![](http://www.wizards.com/sideboard/images/ptnice02/a940.jpg)
+
+Malherbaud replaced the Elephant with a Dirty Wererat and Law chose this moment to switch the Strike Force from defence to offence. Acorn Harvest provided some sacrificial Squirrels to get in the way as Law fished out a Swamp with Far Wanderings.
 
 The next turn was a big one for the Frenchman. He'd discarded a Pardic Collaborator at the end of Law's turn as he didn't have a red source and wanted to get closer towards threshold. He then drew a mountain in his turn. While this might normally have seemed ironic it was still massive for Malherbaud as he was able to pitch a Fiery Temper to the Wererat and kill the Strike Force. He pitched a Crippling Fatigue to gain Threshold, improving both Tiger and Wererat. A Seton's Desire on the Wererat provided a sweeper for the Squirrels and allowed the Tiger through.
 

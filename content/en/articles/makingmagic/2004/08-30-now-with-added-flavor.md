@@ -95,7 +95,9 @@ Lovely history of *Star Trek* villains. What does this have to do with *Champion
 
 ### Flavor of the Week Year
 
-![](https://i.ormos.uk/b5/0a/b50af7cec2a180b3494b5c101f824d4921c583404a10f5b0b441f208f8536bd7.jpg)One day eighteen months or so ago, Bill Rose, **Magic's** Head Designer (yes, I understand that I now have the title, but we work over a year ahead, so when *Champions* was first being created, Bill was still in charge of **Magic** design) was facing this very issue. How would *Champions of Kamigawa* (then called *Earth* – followed by *Wind* and *Fire*) hit the public in a way that no **Magic** set had before? And that's when Bill started thinking up a different kind of “attack”.
+![](https://i.ormos.uk/b5/0a/b50af7cec2a180b3494b5c101f824d4921c583404a10f5b0b441f208f8536bd7.jpg)
+
+One day eighteen months or so ago, Bill Rose, **Magic's** Head Designer (yes, I understand that I now have the title, but we work over a year ahead, so when *Champions* was first being created, Bill was still in charge of **Magic** design) was facing this very issue. How would *Champions of Kamigawa* (then called *Earth* – followed by *Wind* and *Fire*) hit the public in a way that no **Magic** set had before? And that's when Bill started thinking up a different kind of “attack”.
 
 Beginning with the *Invasion* block, the **Magic** design teams started using themes as a tool to build sets around. While the themes varied from year to year, they pretty much had a similar approach. Pick some mechanical aspect of the game and then make the chosen aspect matter. *Invasion* was about multi-color and, as such, encouraged players to play as many colors as possible. Color, you see, mattered. Next came the *Odyssey* block that lived and breathed the graveyard. In this block, players had to be very aware of what was in their graveyard. Because, of course, the graveyard mattered. Then was the Onslaught block where tribal mattered followed by *Mirrodin* where artifacts mattered.
 
@@ -107,19 +109,25 @@ Bill began by building an *Earth* design team:
 
 **Brian Tinsman (lead)**
 
-![](https://i.ormos.uk/2f/fe/2ffe74724be18ddb2b57c3dbc7c58741b852c9719be0112abbe6164083e86dc9.jpg)I first talked about Brian when I reviewed the *Judgment* design team. Back then I was talking about how I felt he was the big up-and-coming designer in R&D. Now that he's upped and come, Brian has begun finding his own voice as a designer. Brian is a big fan of the visceral response. He likes his designs to have an emotional impact with the player. He wants the players to crack open packs, look at the cards, and just say “Cool” to themselves.
+![](https://i.ormos.uk/2f/fe/2ffe74724be18ddb2b57c3dbc7c58741b852c9719be0112abbe6164083e86dc9.jpg)
+
+I first talked about Brian when I reviewed the *Judgment* design team. Back then I was talking about how I felt he was the big up-and-coming designer in R&D. Now that he's upped and come, Brian has begun finding his own voice as a designer. Brian is a big fan of the visceral response. He likes his designs to have an emotional impact with the player. He wants the players to crack open packs, look at the cards, and just say “Cool” to themselves.
 
 As such, Brian is the most “top down” (aka flavor driven) designer in R&D. So who better to put in charge of a flavor themed set? While Brian had run design teams for small sets (*Judgment* & *Scourge*), this is the first time he would lead a large expansion. And as Brian would learn, the large sets (which by their nature dictate the entire block) are a much different animal.
 
 **Bill Rose**
 
-![](https://i.ormos.uk/00/f0/00f0ed808bf783593fa50dc0bb62b0a3c5205959711abf74935e2494c1da60a7.jpg)This was a pretty radical idea. So Bill felt it was a good idea to keep close to the project. In addition, Bill hadn't been on the design team of a large set since *Invasion* (on which he was the lead). Besides, the design sounded like fun.
+![](https://i.ormos.uk/00/f0/00f0ed808bf783593fa50dc0bb62b0a3c5205959711abf74935e2494c1da60a7.jpg)
+
+This was a pretty radical idea. So Bill felt it was a good idea to keep close to the project. In addition, Bill hadn't been on the design team of a large set since *Invasion* (on which he was the lead). Besides, the design sounded like fun.
 
 For those of you that might not know who Bill Rose is, he's the current VP of R&D and former Head **Magic** Designer. Farther back than that, Bill was one of the original playtesters that helped make **Magic**. Along the way Bill had his hand in the design of almost every set since *Mirage*.
 
 **Mike Elliott**
 
-![](https://i.ormos.uk/39/f5/39f527a46007458cea99a766a3e8bf9c9c8428992055b2abee07b9f0c37b389e.jpg)It's odd how much influence Mike has had on **Magic** design comparative to how many people recognize his name. Mike has been on more design teams than anyone in R&D. In addition, he's been on more large set design teams than anyone in R&D (Mike has been on the design of every large set since *Tempest* with the sole exception of *Odyssey*.) So when a design team wants a heavy hitter, Mike's your man.
+![](https://i.ormos.uk/39/f5/39f527a46007458cea99a766a3e8bf9c9c8428992055b2abee07b9f0c37b389e.jpg)
+
+It's odd how much influence Mike has had on **Magic** design comparative to how many people recognize his name. Mike has been on more design teams than anyone in R&D. In addition, he's been on more large set design teams than anyone in R&D (Mike has been on the design of every large set since *Tempest* with the sole exception of *Odyssey*.) So when a design team wants a heavy hitter, Mike's your man.
 
 **Brady Dommermuth**
 
@@ -127,7 +135,9 @@ If you're going to design a set based on flavor, it wouldn't hurt to have a memb
 
 ### The Real World
 
-![](https://i.ormos.uk/d4/dd/d4dd9575e4203541936cb71352e5b30f1183fe19bad527431a4a8d10194227fe.jpg)The team's first assignment was to figure out what real world source to use as inspiration. And so they looked at every Earth based mythology they could think of. Different worlds were rejected for different reasons. Some (like Greek and Roman) seemed too similar to standard **Magic** fare. Others (such as Arabian, Norse, and certain African mythologies) were ruled out as we had done sets in the past that already touched upon the culture. A third grouping (such as Native American and Incan) proved to be a little too distant from some of the needs of a basic **Magic** set such as the ability to use some staple races. In the end, the winner was Japan. It was very flavorful, was unlike anything we'd done thematically, and was close enough to traditional **Magic** to make the set adaptable for our needs.
+![](https://i.ormos.uk/d4/dd/d4dd9575e4203541936cb71352e5b30f1183fe19bad527431a4a8d10194227fe.jpg)
+
+The team's first assignment was to figure out what real world source to use as inspiration. And so they looked at every Earth based mythology they could think of. Different worlds were rejected for different reasons. Some (like Greek and Roman) seemed too similar to standard **Magic** fare. Others (such as Arabian, Norse, and certain African mythologies) were ruled out as we had done sets in the past that already touched upon the culture. A third grouping (such as Native American and Incan) proved to be a little too distant from some of the needs of a basic **Magic** set such as the ability to use some staple races. In the end, the winner was Japan. It was very flavorful, was unlike anything we'd done thematically, and was close enough to traditional **Magic** to make the set adaptable for our needs.
 
 But choosing the proper world was only the beginning. Once the team chose the real world influence, the research began. The Creative Team is responsible for creating the world each year. The limitations are only those that the team sticks upon themselves to craft an interesting world. But for Earth, this meant the team was subject to creating a world that flowed from the essence of an existing culture. World building had to be intertwined with careful study of the Japanese culture. A big help was consultation with Wizards employees and contractors that work with the Japanese market.
 
@@ -153,7 +163,9 @@ But **Magic** has seen a number of wars. How could we create one that felt very 
 
 As the Creative Team fleshed out the spirit/humanoid conflict, the design team started exploring how to make mechanics that captured the essence of a spirit war. What if, for instance, the spirits had their own kind of magic? What if the spirits themselves had different properties from normal creatures? And what if the humanoids had their own means to combat the spirits?
 
-![](https://i.ormos.uk/5b/3f/5b3f61387089cd32a3d0480af0190b36a5aa54ad7748f6ac34ba324d76c2364e.jpg)At each step, the design team looked for inspiration from the world itself. And an interesting thing happened. Something started to matter, but it wasn't quite as cut and dry as the previous themed sets. *Champions of Kamigawa* definitely influenced certain aspects of the game, but with a connection like nothing we've done before. Because the connection was based on the world and the world was like nothing that anyone had ever seen.
+![](https://i.ormos.uk/5b/3f/5b3f61387089cd32a3d0480af0190b36a5aa54ad7748f6ac34ba324d76c2364e.jpg)
+
+At each step, the design team looked for inspiration from the world itself. And an interesting thing happened. Something started to matter, but it wasn't quite as cut and dry as the previous themed sets. *Champions of Kamigawa* definitely influenced certain aspects of the game, but with a connection like nothing we've done before. Because the connection was based on the world and the world was like nothing that anyone had ever seen.
 
 This seems like a good place for an aside paragraph about the goals of the *Kamigawa* block. The idea behind this block was not to emulate a real world culture but to use it as a stepping stone to create an original **Magic** world. As you look through the cards, the set will seem new, but the overall look and feel is still **Magic** at its core. We didn't take **Magic** to Japan, rather we took Japan to **Magic**. I feel quite confident as you see what we've done that you'll see this as another exciting new world just like Mirrodin or Rath or Phyrexia.
 

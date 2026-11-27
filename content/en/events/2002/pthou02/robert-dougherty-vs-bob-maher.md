@@ -476,7 +476,9 @@ Maherは《ドルイド》を失ってしまった直後に《ラノワールの
 
 **Game 2** 
 
-![](http://www.wizards.com/sideboard/images/pthou02/a396.jpg)まったくどうでもいい話なのだが、二人とも日本勢の「ぎゃざ・スリーブ」を使っているようだ。総じて、日本勢のカードサプライ用品はツアーで評判がいい。ちなみに、Phoenix Foundationの面々が愛用しているのがKanon（･･･だったはず）のデッキケースだったりもする。
+![](http://www.wizards.com/sideboard/images/pthou02/a396.jpg)
+
+まったくどうでもいい話なのだが、二人とも日本勢の「ぎゃざ・スリーブ」を使っているようだ。総じて、日本勢のカードサプライ用品はツアーで評判がいい。ちなみに、Phoenix Foundationの面々が愛用しているのがKanon（･･･だったはず）のデッキケースだったりもする。
 
 まあ、脱線はここまで。
 
@@ -528,7 +530,9 @@ Doughertyは第1ターンをドローゴーで終え、Maherは第2ターンに�
 
 という5枚をKeepした。
 
-![](http://www.wizards.com/sideboard/images/pthou02/a405.jpg)そして、開幕《強迫/Duress》で《次元の狭間/Planar Void》を叩き落すも、《ファイレクシアの抹殺者/Phyrexian Negator》が控えていることを確認することになってしまう。
+![](http://www.wizards.com/sideboard/images/pthou02/a405.jpg)
+
+そして、開幕《強迫/Duress》で《次元の狭間/Planar Void》を叩き落すも、《ファイレクシアの抹殺者/Phyrexian Negator》が控えていることを確認することになってしまう。
 
 Doughertyは《陰謀団式療法/Cabal Therapy》で《隠遁ドルイド/Hermit Druid》を指定するというスタート。さらに2ターン目にもDoughertyは《強迫/Duress》で続くのだが、ここでMaherはレスポンスの《納墓/Entomb》。《ファイレクシアの抹殺者》や《悪魔の布告》への耐性を考えて《新緑の魔力/Verdant Force》を墓地に送り込んだ。そう、ダブルマリガンの身ではどのみちトップデッキし続ける以外に勝ち目はないわけで、リアニメイトカードのTop Deckに賭けることにしたのだ。
 

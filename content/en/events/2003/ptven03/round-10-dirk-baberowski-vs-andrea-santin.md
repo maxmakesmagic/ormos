@@ -92,7 +92,9 @@ render_recovery:
   - Naturalize
   occurrences: 78
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a869.jpg)Shhhhh...Don't tell anybody, but Dirk Baberowski has won three Pro Tours. He rolls his eyes when you point this out to him, "Sure, if you count the team events..." An accomplishment he is even more proud of is his consistent strong finishes at virtually every Pro Tour since Phoenix Foundation's first team title. He has finished 24th or better at every Pro Tour he has attended except for Osaka, "We won Masters I that one so I wasn't to concerned with that one." 
+![](http://www.wizards.com/sideboard/images/ptven03/a869.jpg)
+
+Shhhhh...Don't tell anybody, but Dirk Baberowski has won three Pro Tours. He rolls his eyes when you point this out to him, "Sure, if you count the team events..." An accomplishment he is even more proud of is his consistent strong finishes at virtually every Pro Tour since Phoenix Foundation's first team title. He has finished 24th or better at every Pro Tour he has attended except for Osaka, "We won Masters I that one so I wasn't to concerned with that one." 
 
 Andrea Santin teamed up with a deck registration error to eliminate another multiple Pro Tour winner, Jon Finkel, from Day 2 contention in the last round yesterday. He was not exactly confident about his chances going into that round though—after he won he had to get a refund for the PTQ he had signed up for just in case.
 
@@ -132,7 +134,9 @@ Dirk had a twelve-card sideboard for the match taking out Gempalms, a couple of 
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptven03/a867.jpg)"Stupid Goon-sssss," Andrea made the 's' into its own syllable to express his disgust at having to fight though multiple 6/6 goblins. "I'm not happy about it but at least it was the fastest game I have played all tournament."
+![](http://www.wizards.com/sideboard/images/ptven03/a867.jpg)
+
+"Stupid Goon-sssss," Andrea made the 's' into its own syllable to express his disgust at having to fight though multiple 6/6 goblins. "I'm not happy about it but at least it was the fastest game I have played all tournament."
 
 "I have *many* fast games," said Dirk. "Play or draw?"
 
@@ -158,7 +162,9 @@ When a countryman came over to offer Andrea congratulations on evening up the ma
 
 "You finally get to play," teased Andrea. Dirk celebrated the occaision by siding two of his Piledrivers back in. "How many Goons do you play...8? Is that the German tech?"
 
-![](http://www.wizards.com/sideboard/images/ptven03/a866.jpg)Dirk opened with Mountain but no first turn play but did have the turn two 'Driver. There was no Rift for Andrea this time and he just played lands for the early game. He could only shake his head when turn four brought another Goon—he was out of exclamations. He fell to 12 and finally found some breathing room with a Tephraderm—or so he thought. A timely Threaten took him down to one and he managed to summon up a few more politically incorrect exclamations. 
+![](http://www.wizards.com/sideboard/images/ptven03/a866.jpg)
+
+Dirk opened with Mountain but no first turn play but did have the turn two 'Driver. There was no Rift for Andrea this time and he just played lands for the early game. He could only shake his head when turn four brought another Goon—he was out of exclamations. He fell to 12 and finally found some breathing room with a Tephraderm—or so he thought. A timely Threaten took him down to one and he managed to summon up a few more politically incorrect exclamations. 
 
 "C'mon Baloth!" Andrea rapped on his deck looking for the only card that would keep him in the game. He was surprised as anyone when his deck obliged. Dirk had another Threaten and Andrea sacrificed it to go up to 5 and the Goon traded with the Tehraderm but he took 1 from a Goblin Sledder that slipped through the cracks.
 

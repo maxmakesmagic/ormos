@@ -215,7 +215,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/e7/a2/e7a2502fcdea641edc0950d4dc195327dac52165d5a6e0daabe9201b90f234e8.jpg)This is it, the last Masters match. After two years, the circuit has come to an end, and will be replaced by a system that pays money out according to Pro Tour points at the end of each season. It's a welcome change, since now Pros don't feel obligated to spend thousands of dollars to travel to Grand Prix just to have a chance at Masters money.
+![](https://i.ormos.uk/e7/a2/e7a2502fcdea641edc0950d4dc195327dac52165d5a6e0daabe9201b90f234e8.jpg)
+
+This is it, the last Masters match. After two years, the circuit has come to an end, and will be replaced by a system that pays money out according to Pro Tour points at the end of each season. It's a welcome change, since now Pros don't feel obligated to spend thousands of dollars to travel to Grand Prix just to have a chance at Masters money.
 
 Today in front of the cameras, it will be the underdog against The Great One. Nassif got into this tournament through the Gateway, running Enchantress, which was entirely out of the metagame's focus. Maher is playing Tinker, the deck that helped him reach the finals of Worlds in 2000. For him, this match will obviously be the only chance to add a Masters title to his resume. He's won Grand Prix, a Pro Tour, and held the Player of the Year title, and would definitely like this trophy to add to his collection...not to mention the $25,000 that comes with it.
 
@@ -223,7 +225,9 @@ Today in front of the cameras, it will be the underdog against The Great One. Na
 
 Maher had a great start, opening with Ancient Tomb, Grim Monolith and Metalworker. Nassif used Exploration to get two forests out. The Metalworker revealed Thran Dynamo, Masticore and Phyrexian Processor to produce six mana. The Processor came out set to ten on turn two, and was all set to make a 10/10 on Nassif's end step. Nassif cycled Cloud of Faeries, played Yavimaya Coast and a forest, and summoned Argothian Enchantress.
 
-![](https://i.ormos.uk/60/31/603169b67f104d6206c5b58bb7636f5403c4b10335246ea87b5dec417fdad9b8.jpg)The 10/10 got through for an attack, and Maher played Tangle Wire. Nassif tapped mana on upkeep and let the Wire resolve, then used Frantic Search to untap his lands. He ended up tapping one too many, and burned for one. It didn't matter, as he couldn't find an answer to the two 10/10s that would stare him down next turn.
+![](https://i.ormos.uk/60/31/603169b67f104d6206c5b58bb7636f5403c4b10335246ea87b5dec417fdad9b8.jpg)
+
+The 10/10 got through for an attack, and Maher played Tangle Wire. Nassif tapped mana on upkeep and let the Wire resolve, then used Frantic Search to untap his lands. He ended up tapping one too many, and burned for one. It didn't matter, as he couldn't find an answer to the two 10/10s that would stare him down next turn.
 
 Nassif- 0 Maher- 1
 

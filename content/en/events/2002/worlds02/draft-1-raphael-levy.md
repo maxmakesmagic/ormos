@@ -108,7 +108,9 @@ render_recovery:
   - Unhinge
   occurrences: 101
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a887.jpg)Levy may be relatively young, but don't let that fool you- he's one of the Pro Tours most accomplished veterans. The Frenchman made Top 8 at Worlds back in 1998, and had a Top 8 at Chicago 99 with a deck that sported, among other things, Fire Whip/Quirion Ranger technology. Yesterday he ran his somewhat unconventional green/blue threshold deck to a 5-1 record, and sat down at the draft table today in prime position to make a run for another Worlds Top 8 four years after his last one. 
+![](http://www.wizards.com/sideboard/images/worlds02/a887.jpg)
+
+Levy may be relatively young, but don't let that fool you- he's one of the Pro Tours most accomplished veterans. The Frenchman made Top 8 at Worlds back in 1998, and had a Top 8 at Chicago 99 with a deck that sported, among other things, Fire Whip/Quirion Ranger technology. Yesterday he ran his somewhat unconventional green/blue threshold deck to a 5-1 record, and sat down at the draft table today in prime position to make a run for another Worlds Top 8 four years after his last one. 
 
 The first pack contained Flame Burst, Gravedigger, Syncopate and Second Thoughts as viable picks. Despite the fact that Gravedigger and Second Thoughts provide card advantage, Levy decided to force red and took the Flame Burst. Since red is generally considered to be the weakest color in *Odyssey* Block draft, this was a calculated risk. Levy was hoping everyone else would avoid the color, and it certainly paid off. Chainflinger came second, Patriarch's Desire third, another Chainflinger fourth and a second Flame Burst fifth. Last Rites, Innocent Blood and Fledgling Imp rounded out Ruel's black as he headed into *Torment*. 
 

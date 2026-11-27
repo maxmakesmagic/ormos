@@ -61,7 +61,9 @@ archive_source:
   sha256: 1910a6bab0df6b6691d7179ae0c0bdfabc009aa68cf9fe493e8363437eb5d7dd
 render_recovery: []
 ---
-![Leomund's Tiny Hut](https://i.ormos.uk/d6/67/d6670a32c23cf950c3d11dc0026ace9593ef7e4989a1a933c0dc94931568aec5.jpg)This meeting room is not one of R&D’s normal meeting rooms. It’s on the same floor as R&D but way back in a corner. The room used to be part of a bigger room but was chopped up into several small meeting rooms to increase meeting room space. You are the first one to arrive. While you sit there, you study the white board. From the words on the white board, you start guessing as to what other meeting created them.
+![Leomund's Tiny Hut](https://i.ormos.uk/d6/67/d6670a32c23cf950c3d11dc0026ace9593ef7e4989a1a933c0dc94931568aec5.jpg)
+
+This meeting room is not one of R&D’s normal meeting rooms. It’s on the same floor as R&D but way back in a corner. The room used to be part of a bigger room but was chopped up into several small meeting rooms to increase meeting room space. You are the first one to arrive. While you sit there, you study the white board. From the words on the white board, you start guessing as to what other meeting created them.
 
 Soon, the other members of the design team show up.
 

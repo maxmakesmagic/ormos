@@ -88,7 +88,9 @@ render_recovery:
   - Forgotten Cave
   occurrences: 45
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a743.jpg)Eric Froehlich has to be nervous. He is currently teaming with Jon Finkel for the Team Pro Tour that kicks off the impending season. If manages to win his third Pro Tour this afternoon he will have enough pro points to get the band back together. With 50 points could potentially drag the OMS brothers out of retirement and reform Team Antarctica.
+![](http://www.wizards.com/sideboard/images/ptyok03/a743.jpg)
+
+Eric Froehlich has to be nervous. He is currently teaming with Jon Finkel for the Team Pro Tour that kicks off the impending season. If manages to win his third Pro Tour this afternoon he will have enough pro points to get the band back together. With 50 points could potentially drag the OMS brothers out of retirement and reform Team Antarctica.
 
 Come to think of it Kai Budde might have a drop of sweat on his forehead as well. A win here would pull within another Pro Tour of catching up to the German juggernaut on the all time money winners list. Four grand would be the difference—to be precise.
 
@@ -100,7 +102,9 @@ John let out an audible sigh as his next pack had only an Aggravated Assault in 
 
 The tide of the second pack rolled in with some sweet waves for Jon. He opened his second goblin—a second Sparksmith—and was passed a second pick solar Blast. His third pack offered him another Elvish Warrior, a Primal Boost, Whipcorder, and Gustcloak Harrier. Jon seemed to resolve himself to G/R and took the Boost. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a741.jpg)The waves kept on rolling in. Fourth pick Thoughtbound Primoc was followed by a surprising Stag Beetle—the pack also offered Erratic Explosion—and a Skirk Commando and Elvish Warrior broke onto Jon's beach as well. Jon was hard pressed to take the Warrior as he wanted a Goblin Sledder. His eighth pick was a Wirewood Elf and that was about it with only a few off-color morphs and some late counter drafts on the back seven.
+![](http://www.wizards.com/sideboard/images/ptyok03/a741.jpg)
+
+The waves kept on rolling in. Fourth pick Thoughtbound Primoc was followed by a surprising Stag Beetle—the pack also offered Erratic Explosion—and a Skirk Commando and Elvish Warrior broke onto Jon's beach as well. Jon was hard pressed to take the Warrior as he wanted a Goblin Sledder. His eighth pick was a Wirewood Elf and that was about it with only a few off-color morphs and some late counter drafts on the back seven.
 
 Jon's deck went from ramshackle after pack one to a solid G/R with at least 12 playables after pack two. In addition to the pair of Sparksmiths and Elvish Warriors there was a Wirewood Elf would help power out the fatties that *Legions* would likely bring and a wave of Indifference to close the deal.
 
@@ -108,7 +112,9 @@ I might be wrong but I could have sworn I saw a certain German mopping his brow 
 
 Jon had to choose between a Krosan Vorine and a Brontotherium—and he had just passed a Vorine to take the elemental—and he chose the fattie after much debate. After getting a Stonewood Invoker in the next pack Jon was passed another Brontotherium and Jon seemed to be kicking himself over passing on the Vorine. The rest of *Legions* was a stampede of green fatties with Jon seeming to have his choice of Rogons, Needleshots and Branchsnaps every pick. Somewhere in the middle of his green picks he picked up a Goblin Clearcutter—only his fourth goblin that would likely make the deck.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a735.jpg)When the last Dripping Dead was passed to each player Jon turned around with a big grin and made an elaborate pantomime of wiping the sweat from his forehead, "Pheeeew!"
+![](http://www.wizards.com/sideboard/images/ptyok03/a735.jpg)
+
+When the last Dripping Dead was passed to each player Jon turned around with a big grin and made an elaborate pantomime of wiping the sweat from his forehead, "Pheeeew!"
 
 "I had thought about going U/R even though I passed the Arcanis. Like I don't give a &%# about passing him a blue card. Its just that I know the guy to my right—Ikeda—likes to draft blue," explained the last surviving Deadguy as he lay down the pair of Choking Tethers from pack one. "When these came around I knew he wasn't."
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://i.ormos.uk/af/10/af107ea8dd24e9c9ed910cb39e4acfc7b00a9eb1ff8e91e0371c4323e1a2dd52.jpg)Two IRC regulars met in the fifth round of Grand Prix Helsinki. Tomi Walamies (Jelly on IRC) from Finland faced Tony Dobson (Dobson on IRC) at the feature match table. The Finn played a red, green and white kick-ass beatdown deck, while Tony dryly remarked that his deck was so bad that he needed every card he could get - so he chose to draw when he won the die roll. 
+![](https://i.ormos.uk/af/10/af107ea8dd24e9c9ed910cb39e4acfc7b00a9eb1ff8e91e0371c4323e1a2dd52.jpg)
+
+Two IRC regulars met in the fifth round of Grand Prix Helsinki. Tomi Walamies (Jelly on IRC) from Finland faced Tony Dobson (Dobson on IRC) at the feature match table. The Finn played a red, green and white kick-ass beatdown deck, while Tony dryly remarked that his deck was so bad that he needed every card he could get - so he chose to draw when he won the die roll. 
 
 Tomi started out by playing two lands, and then it was time to get some creatures on the table. He cast at turn three Kavu Scout, and then a turn four Glimmering Angel. Tony had a Mourning for the Scout, but quickly figured that it would look far better on the Angel instead, so he switched. He also played a Metathran Zombie. 
 

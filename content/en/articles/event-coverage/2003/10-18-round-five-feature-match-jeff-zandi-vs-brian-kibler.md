@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a957.jpg)Brian Kibler is one of the most popular players on the Pro Tour and he was quite excited about his deck. It featured solid white creatures and powerful equipment. His opponent was popular Texas Guildmage Jeff Zandi. Jeff won a trial in Texas and had three-byes. He won his last round on a deck registration error by his opponent and had yet to test out his deck in battle. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a957.jpg)
+
+Brian Kibler is one of the most popular players on the Pro Tour and he was quite excited about his deck. It featured solid white creatures and powerful equipment. His opponent was popular Texas Guildmage Jeff Zandi. Jeff won a trial in Texas and had three-byes. He won his last round on a deck registration error by his opponent and had yet to test out his deck in battle. 
 
 Brian Kibler noticed that people were commenting on his lack of sleeves and he laughed. “Straight up raw-dog, I hate sleeving in Limited,” he shouted over his headphones.
 
@@ -61,7 +63,9 @@ Jeff drew another laugh from Kibler when he asked, “Is there any country and w
 
 Both players kept and Brian came smoking out of the gate with a Pyrite Spellbomb and a Skyhunter. Zandi played a Granite Shard and Kibler smirked, I’ll just play this little card,” He triumphantly played the powerful Empyrial Plate with a fistful of cards.
 
-![](https://i.ormos.uk/ba/c9/bac90b4c8ca69c77ac8cab0b25b728a25bc134f4197cb0a882c44aac0fcce9ea.jpg)Jeff had the Detonate and Kibler cycled his Spellbomb with no red mana in sight. Brian played a Goblin Replica and Jeff copied it with Sculpting Steel. He was stuck on three mana and had to chump the Replica and Brian killed the Shard with his original Replica with damage on the stack
+![](https://i.ormos.uk/ba/c9/bac90b4c8ca69c77ac8cab0b25b728a25bc134f4197cb0a882c44aac0fcce9ea.jpg)
+
+Jeff had the Detonate and Kibler cycled his Spellbomb with no red mana in sight. Brian played a Goblin Replica and Jeff copied it with Sculpting Steel. He was stuck on three mana and had to chump the Replica and Brian killed the Shard with his original Replica with damage on the stack
 
 Brian kept up the unrelenting pressure with Skyhunter Patrol and a Hematite Golem while all Jeff could muster was a Silver Myr. Jeff blocked the Golem and killed it with Predator’s Strike but a turn later with nothing to deal with a pair of fliers he scooped.
 
@@ -73,7 +77,9 @@ Jeff did some major sideboarding and explained it was less of a sideboard strate
 
 Jeff didn’t like his chances of winning the Legends pack but explained, “I like my Underworld Dreams white bordered anyway.”
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a959.jpg)Both players kept and Jeff got off to a better start than the first game with a Bonesplitter. He followed with a Myr Retriever and got in for three on the next turn but he was tuck on two lands. Brian played a Goblin Replica and passed the turn back to Jeff. Brian played a Moat-like Skyhunter Patrol and blocked the Myr only to draw out a Predator’s Strike. He had another Moat at the ready and played a sideboarded Tel-Jilad Archers. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a959.jpg)
+
+Both players kept and Jeff got off to a better start than the first game with a Bonesplitter. He followed with a Myr Retriever and got in for three on the next turn but he was tuck on two lands. Brian played a Goblin Replica and passed the turn back to Jeff. Brian played a Moat-like Skyhunter Patrol and blocked the Myr only to draw out a Predator’s Strike. He had another Moat at the ready and played a sideboarded Tel-Jilad Archers. 
 
 The Replica was Deconstructed and Jeff used the free mana to play a Dragon Blood. Brian made a Myr Enforcer and sent his Archers into the red zone. Jeff played a Silver Myr and passed back the turn. Brian asked about the timing of the Myr Retriever’s ability and ultimately decided to attack for six and fortify with Leonin Skycub and Hematite Golem.
 

@@ -138,7 +138,9 @@ render_recovery:
   - Zombie Trailblazer
   occurrences: 136
 ---
-![](https://i.ormos.uk/8c/d7/8cd7c588be3c4a75cd852658884046a098a4ed3c0d4d418c31527f3c215b512d.jpg)Raphael Levy has been one of the top French players for a while and is still in form with a Top 8 finish from GP Barcelona to his credit. Jeff Cunningham made Top 8 in Pro Tour San Diego and was part of the Magic Colony experiment for Pro Tour Osaka.
+![](https://i.ormos.uk/8c/d7/8cd7c588be3c4a75cd852658884046a098a4ed3c0d4d418c31527f3c215b512d.jpg)
+
+Raphael Levy has been one of the top French players for a while and is still in form with a Top 8 finish from GP Barcelona to his credit. Jeff Cunningham made Top 8 in Pro Tour San Diego and was part of the Magic Colony experiment for Pro Tour Osaka.
 
 Cunningham has an aggressive red-black deck with a Stalking Bloodsucker to settle the mid to late game. Levy has a blue-black deck.
 
@@ -174,7 +176,9 @@ Gravedigger proved to be a timely draw for Cunningham as he was able to dig back
 
 Cunningham 1-0 Levy
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a951.jpg)Cunningham had another zippy start as Filthy Cur came in on turn 2. A Peek revealed the curve was there and sure enough Cunningham dropped Gravegouger and then Wererat.
+![](http://www.wizards.com/sideboard/images/ptnice02/a951.jpg)
+
+Cunningham had another zippy start as Filthy Cur came in on turn 2. A Peek revealed the curve was there and sure enough Cunningham dropped Gravegouger and then Wererat.
 
 Innocent Blood took care of the Cur and a Dreamwinder put a halt on any attacking.
 
@@ -194,7 +198,9 @@ Cunningham 1-1 Levy
 
 Cunningham repeated game 2 with a turn 2 Filthy Cur. He followed it with a threatening looking Ember Beast.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a950.jpg)Levy couldn't remove the Cur directly and had to look to a Skywing Aven to block it. Cunningham had a back up creature in the form of a Wererat to ensure the Ember Beast would keep coming. Then a Cabal Torturer appeared after it to neutralise Levy's Skywing Aven.
+![](http://www.wizards.com/sideboard/images/ptnice02/a950.jpg)
+
+Levy couldn't remove the Cur directly and had to look to a Skywing Aven to block it. Cunningham had a back up creature in the form of a Wererat to ensure the Ember Beast would keep coming. Then a Cabal Torturer appeared after it to neutralise Levy's Skywing Aven.
 
 Problems for the Frenchman, already short of half his life. A Hydromorph Guardian was not really the answer he needed.
 

@@ -243,7 +243,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a709.jpg)　先手、 Geertsen は初手からこのデッキ入っている 2 強レアである《ラクァタスのチャンピオン》と、《よろめく大群》を携えてゲームを開始する。
+![](http://www.wizards.com/sideboard/images/ptnice02/a709.jpg)
+
+　先手、 Geertsen は初手からこのデッキ入っている 2 強レアである《ラクァタスのチャンピオン》と、《よろめく大群》を携えてゲームを開始する。
 
 　まずは《のぞき見/Peek》で Niedrig の手札を覗くと、あちらにも黒の上位レアである《もぎとり》を発見。  
  　返すターンに Niedrig も《催眠の悪鬼/Mesmeric Fiend》で Geertsen の手札を暴くと恐怖のレア 2 枚を発見し、悩みながら《よろめく大群》をリムーブ。

@@ -44,7 +44,9 @@ archive_source:
   sha256: d32ceaa22a2d1aa99bb396a03d8916ab0ece7c18e3a297c6278a8d2ba132e80f
 render_recovery: []
 ---
-![](https://i.ormos.uk/65/c2/65c2df95fc5a03d58b9df137d769ef1614afa6806b948c326008d5c76ef5ff6a.jpg)&gt;3 度のデッキ構築、総計6ラウンドにわたるチーム・シールドが行われた。通算成績12 point(4勝2敗)以上の全チームが二日目に残れるというわけで、今大会ではちょうど40チームが土曜日へと駒を進めることとなった。
+![](https://i.ormos.uk/65/c2/65c2df95fc5a03d58b9df137d769ef1614afa6806b948c326008d5c76ef5ff6a.jpg)
+
+&gt;3 度のデッキ構築、総計6ラウンドにわたるチーム・シールドが行われた。通算成績12 point(4勝2敗)以上の全チームが二日目に残れるというわけで、今大会ではちょうど40チームが土曜日へと駒を進めることとなった。
 
 スコアボードの最上段に名前を飾ったのは Courtney's Boys。Gary Wise + Neil Reeves + Robert(Bob) Maher という構成のチームだ。  
  ご存知の方も多いだろうが、Courtney というのは Maher 夫人の名前である。当初の彼らは The WotC Fix というパンチの効いたチーム名で登録されていたわけだが、試合開始直前に名前を変更したのだそうだ。まさしく Courtney 夫人は彼らにとって勝利の女神様だったということなのだろう。

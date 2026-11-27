@@ -377,7 +377,9 @@ A lot of this Jay has already gone over to varying degrees, and based on your fe
 
 ### Behind the Curtain: Notes from MTGO's Developers
 
-![](https://i.ormos.uk/f0/d0/f0d0af34aed114de869d2f905a674ce5e0c73b1465ef2231540fed4f4e8db5a1.jpg)Into The Aether will continue to be your source for behind-the-scenes scoops, news, and interviews, and with Vanguard and the pending launch of the new version of MTGO, this year promises to bring a slew of information you're going to want to know about. We'll be kicking things off next week with an amusing note on one *Betrayers* card's functionality in 2-Headed Giant, so check back for that and more!
+![](https://i.ormos.uk/f0/d0/f0d0af34aed114de869d2f905a674ce5e0c73b1465ef2231540fed4f4e8db5a1.jpg)
+
+Into The Aether will continue to be your source for behind-the-scenes scoops, news, and interviews, and with Vanguard and the pending launch of the new version of MTGO, this year promises to bring a slew of information you're going to want to know about. We'll be kicking things off next week with an amusing note on one *Betrayers* card's functionality in 2-Headed Giant, so check back for that and more!
 
 ### From the Trenches: The Standard Online Metagame
 
@@ -391,7 +393,9 @@ Sharp eyes will note that the maindeck is 61 cards, so the deck still requires a
 
 Will gave some thoughts on the deck and his build of it:
 
-> ![](https://i.ormos.uk/84/36/8436b4ff13a5ab8873af8c755179af6b1bcea469771532e833b3a2c0e9700781.jpg)“Ok... in this deck four Witnesses are a must. Cranial plus Witness is sick and broken at the same time. If you don't know why the Vampire and Triskelion are in the sideboard, it's a 2-card combo that's a permanent Wrath of God on the opponent's side of the table. Very good against white weenie and any other purely offensive deck. In the sideboard, Boseiju and Choke are for blue and sacred ground is for Land Destruction or Death Cloud.
+> ![](https://i.ormos.uk/84/36/8436b4ff13a5ab8873af8c755179af6b1bcea469771532e833b3a2c0e9700781.jpg)
+>
+> “Ok... in this deck four Witnesses are a must. Cranial plus Witness is sick and broken at the same time. If you don't know why the Vampire and Triskelion are in the sideboard, it's a 2-card combo that's a permanent Wrath of God on the opponent's side of the table. Very good against white weenie and any other purely offensive deck. In the sideboard, Boseiju and Choke are for blue and sacred ground is for Land Destruction or Death Cloud.
 > 
 > “Night's Whisper is great card advantage, as many Tooth decks rip their hand of land and acceleration on the table and then wait it out for a Tooth or other threat to pop up. Mindslaver is an instant win against many metagame decks. Arc-Slogger, Meloku, Shackles, LD, anything that you can sacrifice, Witnesses and Simulacrums (cast them and choose not to use the ability), Mindslaver is just awesome right now. Also, any deck running more than one color, like Rock (B/G) or whatever, are very weak against Sundering Titan. If they run green and another color, Sundering plus Kiki is basically a one sided Armageddon.
 > 
@@ -407,7 +411,9 @@ I'll kick things off with this tip:
 
 *“Get cozy with your Stops.”*
 
-![](https://i.ormos.uk/27/18/2718b7fe077b7847fbe21b8377d279c5ffdec420ca88a7752d3f3ad16175ad45.jpg)One of the first decks I played online used the awesome Sensei's Divining Top, and the game kept skipping the times when I'd want to be able to use it, particularly during my upkeep *before* I drew my card. By default, MTGO only stops and checks with you during your main phases on your turn and during your opponent's end of turn phase. And that normally works just fine until you start using things like the Top. I ended up turning on **all** the stops just to make sure I didn't miss any crucial opportunities... but that ended up eating a lot of time when I was later playing in a draft tournament where your time is clocked. So I clicked some of the stops back off again... and then realize I'd stranded my ninja in my hand when I couldn't stop during the declare blockers phase. D'oh!! 
+![](https://i.ormos.uk/27/18/2718b7fe077b7847fbe21b8377d279c5ffdec420ca88a7752d3f3ad16175ad45.jpg)
+
+One of the first decks I played online used the awesome Sensei's Divining Top, and the game kept skipping the times when I'd want to be able to use it, particularly during my upkeep *before* I drew my card. By default, MTGO only stops and checks with you during your main phases on your turn and during your opponent's end of turn phase. And that normally works just fine until you start using things like the Top. I ended up turning on **all** the stops just to make sure I didn't miss any crucial opportunities... but that ended up eating a lot of time when I was later playing in a draft tournament where your time is clocked. So I clicked some of the stops back off again... and then realize I'd stranded my ninja in my hand when I couldn't stop during the declare blockers phase. D'oh!! 
 
 For more on stops, make sure to check out [Let's Talk About Stops](/en/articles/feature/2003/01-10-lets-talk-about-stops) by Daniel Myers. The moral of the story though is this: when you play in events (or when you play cranky, impatient people), think about what deck you're playing and make sure to set the right stops ahead of time, but only the ones you're really going to need.
 

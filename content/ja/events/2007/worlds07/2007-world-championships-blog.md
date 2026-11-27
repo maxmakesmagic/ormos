@@ -1365,7 +1365,9 @@ render_recovery:
   - Riftsweeper
   occurrences: 1
 ---
-![](http://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2007/worlds_blog.jpg)Welcome to New York City! The crack reporting squad of Josh Bennett, Bill Stark, Tim Willoughby, and Craig Gibson are combing the halls of the Javits Center for all the inside information as we close out the 2007 Pro Tour season. Who will be Player of the Year? What Standard and Legacy decks are at the top of the standings? What are the top draft cards in *Lorwyn*? All these questions and much more will be answered this weekend.
+![](http://www.wizards.com/Magic/Magazine/magic/images/tournamentcenter/2007/worlds_blog.jpg)
+
+Welcome to New York City! The crack reporting squad of Josh Bennett, Bill Stark, Tim Willoughby, and Craig Gibson are combing the halls of the Javits Center for all the inside information as we close out the 2007 Pro Tour season. Who will be Player of the Year? What Standard and Legacy decks are at the top of the standings? What are the top draft cards in *Lorwyn*? All these questions and much more will be answered this weekend.
 
   
   

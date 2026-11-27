@@ -40,7 +40,9 @@ render_recovery:
 ---
  
 
-![](https://i.ormos.uk/22/68/22680fda65fd71b08a1354b155386a7c4b69431fb3baf7b75e09169611a9c8cc.jpg)Get your *Lorwyn/Shadowmoor* Block Constructed deck ready, because tickets to Berlin are up for grabs in this summer's Pro Tour Qualifier season!
+![](https://i.ormos.uk/22/68/22680fda65fd71b08a1354b155386a7c4b69431fb3baf7b75e09169611a9c8cc.jpg)
+
+Get your *Lorwyn/Shadowmoor* Block Constructed deck ready, because tickets to Berlin are up for grabs in this summer's Pro Tour Qualifier season!
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20220127175352/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

@@ -296,7 +296,9 @@ render_recovery:
 
 **Game 3** 
 
-![](https://i.ormos.uk/a5/b3/a5b35ad9b35bd0376605fbe91607590dc833f432accd104232aa03e31eed4849.jpg)マットもLSVに先行を譲り渡して「ドローファースト」の後手でスタート。そんなマットはまたも３ターン目《エスパーのオベリスク/Obelisk of Esper》という動き。
+![](https://i.ormos.uk/a5/b3/a5b35ad9b35bd0376605fbe91607590dc833f432accd104232aa03e31eed4849.jpg)
+
+マットもLSVに先行を譲り渡して「ドローファースト」の後手でスタート。そんなマットはまたも３ターン目《エスパーのオベリスク/Obelisk of Esper》という動き。
 
 そして、先行をもらったとたんにLSVは奇麗に動き出す。２ターン目に《潮の虚ろの漕ぎ手/Tidehollow Sculler》で相手の《フェアリーの機械論者/Faerie Mechanist》をハンデス。さらに《平地/Plains》、《沼/Swamp》、《山/Mountain》という状態で《森/Forest》を当然のようにトップデッキし、３マナで《マトカの暴動者/Matca Rioters》登場。
 

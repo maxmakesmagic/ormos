@@ -264,4 +264,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Kenneth Nagle](https://i.ormos.uk/73/dc/73dc2c209bef80978eea09781f3075d348fa6472480299108af0945ff889dce7.jpg)This article was written by *Eventide* designer / developer Kenneth Nagle!
+![Kenneth Nagle](https://i.ormos.uk/73/dc/73dc2c209bef80978eea09781f3075d348fa6472480299108af0945ff889dce7.jpg)
+
+This article was written by *Eventide* designer / developer Kenneth Nagle!

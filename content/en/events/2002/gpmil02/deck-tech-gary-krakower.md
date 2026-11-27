@@ -89,7 +89,9 @@ render_recovery:
   - Skeletal Scrying
   occurrences: 43
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/980.jpg)Gary Krakower, two time Canadian National Champion and one-time GP winner, came into Milwaukee with only a single bye. By the end of the third round, he had a perfect 3-0 record. Gary has a reputation as being an innovative deckbuilder, and he did not disappoint with his newest creation.
+![](http://www.wizards.com/sideboard/images/gpmil02/980.jpg)
+
+Gary Krakower, two time Canadian National Champion and one-time GP winner, came into Milwaukee with only a single bye. By the end of the third round, he had a perfect 3-0 record. Gary has a reputation as being an innovative deckbuilder, and he did not disappoint with his newest creation.
 
 **Ben:** So where have you been lately Gary? I haven't seen you at a tournament in a while.
 

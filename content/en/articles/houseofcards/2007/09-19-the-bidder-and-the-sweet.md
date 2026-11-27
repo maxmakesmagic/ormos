@@ -3011,7 +3011,9 @@ render_recovery:
 ---
 * * *
 
-![Thieves_Auction](http://www.wizards.com/magic/images/cardart/MM/Thieves_Auction.jpg)Ladies and gentlemen, the 2007 **Magic** Invitational Auction of the People decks are in my possession! In a few short paragraphs or one short scroll, they will be in your possession, too. For those just tuning in, the challenge was to construct a deck using the Legacy card pool. No problem, huh? The only snag was that you had to jump through another hoop. The deck had to have exactly 26 unique cards, one for each letter of the alphabet. Basic lands didn't count towards this total.
+![Thieves_Auction](http://www.wizards.com/magic/images/cardart/MM/Thieves_Auction.jpg)
+
+Ladies and gentlemen, the 2007 **Magic** Invitational Auction of the People decks are in my possession! In a few short paragraphs or one short scroll, they will be in your possession, too. For those just tuning in, the challenge was to construct a deck using the Legacy card pool. No problem, huh? The only snag was that you had to jump through another hoop. The deck had to have exactly 26 unique cards, one for each letter of the alphabet. Basic lands didn't count towards this total.
 
 This challenge was much more open-ended than past Auctions. In previous years, you had to build around a certain tribe, or artist, or word. Once you chose a suitable one, you were left with a relatively small pool of cards to work with. Not so here. The letter X had its limitations (there are only six cards beginning with that letter), but every other letter had a ton of options, even, surprisingly, the letter Q.
 

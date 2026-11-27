@@ -61,7 +61,9 @@ archive_source:
   sha256: daac1938464fec08231a1e8c4153a6f2860ee8a69d436098ff43602b8e0b52a1
 render_recovery: []
 ---
-![](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg)Welcome again to Mistform Ultimus Watch! In this recurring sub-feature of Magic Arcana we keep track of everybody's favorite legendary illusion (and bane of trivia enthusiasts everywhere) to see what creature types it has gained and/or lost.
+![](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg)
+
+Welcome again to Mistform Ultimus Watch! In this recurring sub-feature of Magic Arcana we keep track of everybody's favorite legendary illusion (and bane of trivia enthusiasts everywhere) to see what creature types it has gained and/or lost.
 
 We last [checked in](https://web.archive.org/web/20061003000000/https://magic.wizards.com/en/articles/archive/mistform-ultimus-watch-coldsnap-edition-2006-07-31) with the Ultimus after the release of *Coldsnap*. Since then, *Time Spiral* and its associated set of [timeshifted cards](https://web.archive.org/web/20061003000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/cardlist/timespiral-timeshifted) have released. Although those hourglass-marked cards are themed around **Magic’s** past, [Mistform Ultimus](https://web.archive.org/web/20061003000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus) has picked up an interesting set of new types.
 

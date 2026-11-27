@@ -169,7 +169,9 @@ render_recovery:
 
 **Game 1** 
 
-![](http://www.wizards.com/sideboard/images/pthou02/a531.jpg)　最近はテレビマッチの裏方仕事（決勝ラウンドの中継オペレーター）が板についてしまった感もあるJutin Garyなわけだが、このマッチではかなり気合が入っている様子。安藤玲二ばりの一人ビンタが炸裂。
+![](http://www.wizards.com/sideboard/images/pthou02/a531.jpg)
+
+　最近はテレビマッチの裏方仕事（決勝ラウンドの中継オペレーター）が板についてしまった感もあるJutin Garyなわけだが、このマッチではかなり気合が入っている様子。安藤玲二ばりの一人ビンタが炸裂。
 
 　そして、そんなJustinの怨念が(？)Nassifをすさまじく事故らせることとなった。
 

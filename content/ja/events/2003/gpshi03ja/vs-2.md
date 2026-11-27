@@ -168,7 +168,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_qf2a_picMain_ja.jpg)ダイスロールの結果、池田が先攻を得る。ダイス目が走ることに喜びの笑みを浮かべる池田。だが、手札をオープンするとともに、喜びの笑みも苦笑に。マリガンスタート。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_qf2a_picMain_ja.jpg)
+
+ダイスロールの結果、池田が先攻を得る。ダイス目が走ることに喜びの笑みを浮かべる池田。だが、手札をオープンするとともに、喜びの笑みも苦笑に。マリガンスタート。
 
 対する原田は1ターン目から《大霊堂の信奉者/Disciple of the Vault》をキャストし、速い立ち上がりを見せる。池田のキャストした《銀のマイア/Silver Myr》も《黄鉄の呪文爆弾/Pyrite Spellbomb》で除去。原田ペースでゲームが進むかと思われた。
 
@@ -182,7 +184,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_qf2a_pic1_ja.jpg)　1ゲームと同様、マリガンスタートの池田に対し、原田は1ターン目に《大霊堂の信奉者/Disciple of the Vault》をキャスト。流れをそのまま維持する。対する池田もなんとかしたいところだが、マナが2マナで止まってしまう。しかもマナ確保のために出した《銀のマイア/Silver Myr》も即座に《爆破/Detonate》され、展開が大幅に遅れてしまう。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_qf2a_pic1_ja.jpg)
+
+　1ゲームと同様、マリガンスタートの池田に対し、原田は1ターン目に《大霊堂の信奉者/Disciple of the Vault》をキャスト。流れをそのまま維持する。対する池田もなんとかしたいところだが、マナが2マナで止まってしまう。しかもマナ確保のために出した《銀のマイア/Silver Myr》も即座に《爆破/Detonate》され、展開が大幅に遅れてしまう。
 
 　池田がもたついている間に《磁石マイア/Lodestone Myr》を出し、2枚の《囁きの大霊堂/Vault of Whispers》の力を《磁石マイア/Lodestone Myr》に与えながらビートする原田。あっという間に池田のライフが危険水域である一ケタ台にまで突入する。
 

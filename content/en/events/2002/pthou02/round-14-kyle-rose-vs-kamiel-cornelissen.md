@@ -84,7 +84,9 @@ render_recovery:
   - Sutured Ghoul
   occurrences: 67
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a457.jpg)These two teammates of old have to play each other in the final round of the Pro Tour. "A little too sick" was heard a couple of times during the match. For these two, the winner will be top 16 for sure, and has a chance for top 8 though a slim one. The loser will still be around top 24 but that's a big difference.
+![](http://www.wizards.com/sideboard/images/pthou02/a457.jpg)
+
+These two teammates of old have to play each other in the final round of the Pro Tour. "A little too sick" was heard a couple of times during the match. For these two, the winner will be top 16 for sure, and has a chance for top 8 though a slim one. The loser will still be around top 24 but that's a big difference.
 
 ### Game 1
 
@@ -100,7 +102,9 @@ Kyle Knowledges at the end of Kamiel's turn, plays a Swamp and the Psychatog. Ka
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/pthou02/a468.jpg)This time Kyle has to mulligan his opening hand and also gets a start of Underground River, Duress. He takes an Exhume leaving a Hermit Druid, Vampiric Tutor and 4 lands in Kamiel's hand. Kamiel plays his Hermit Druid on his second turn, walking straight into the array of two casting cost spells that Kyle has to his disposal to dispatch the Hermit with. Kyle responds with an Accumulated Knowledge, and kills the Hermit with a Diabolic Edict on his own turn. Kamiel also gets his hand Duressed and loses a Vampiric Tutor. Kamiel had another one, and used that during his upkeep to fetch a second Hermit Druid.
+![](http://www.wizards.com/sideboard/images/pthou02/a468.jpg)
+
+This time Kyle has to mulligan his opening hand and also gets a start of Underground River, Duress. He takes an Exhume leaving a Hermit Druid, Vampiric Tutor and 4 lands in Kamiel's hand. Kamiel plays his Hermit Druid on his second turn, walking straight into the array of two casting cost spells that Kyle has to his disposal to dispatch the Hermit with. Kyle responds with an Accumulated Knowledge, and kills the Hermit with a Diabolic Edict on his own turn. Kamiel also gets his hand Duressed and loses a Vampiric Tutor. Kamiel had another one, and used that during his upkeep to fetch a second Hermit Druid.
 
 Kyle can't remove that one, and Kamiel Duresses Kyle to make sure he's safe to mill his entire deck. Kyle responds with a Fact or Fiction, and gets presented with a pile of two Diabolic Edicts, or Counterspell and two Islands. He takes the former and Kamiel took one of them. After that the thinking starts. Kamiel is going through the math, figuring out what Kyle could possible draw in his next one or two draw steps. He settles for milling his entire deck, Reclamating a Cabal Therapy and an Exhume. He then sacrifices his Hermit Druid to flashback another Cabal Therapy, targets himself to get rid of the Sutured Ghoul in his hand. He boarded one out, making this necessary.
 

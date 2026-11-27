@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Henry Stern*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/QFPLNakamura.jpg)Satoshi would have to be considered the favorite in this matchup. Playing out of Tokyo Japan, he is one of that countries top players and was trying to become the first player to ever repeat as Continental Champion (He won the '98 APAC). Nakamura was playing a Blue/White Squirrel Prison deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/QFPLNakamura.jpg)
+
+Satoshi would have to be considered the favorite in this matchup. Playing out of Tokyo Japan, he is one of that countries top players and was trying to become the first player to ever repeat as Continental Champion (He won the '98 APAC). Nakamura was playing a Blue/White Squirrel Prison deck.
 
 Tanaka is from Japan's "other" Magic city, Osaka, and is part of Team Muneo. The rivalry between Osaka and Tokyo is huge, not unlike American baseball's Yankees vs Red Sox. Tanaka was playing a mono black Mercenary deck. Certainly it was the "rogue" deck of the tournament.
 
@@ -60,7 +62,9 @@ The Magic Gods must have been upset with Nakamura as he is forced to double mull
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/QFPLTanaka.jpg)Finally, Nakamura has a strong opening hand that he doesn't need to Mulligan, playing a 1st turn elf. However, Tanaka also opens strong with a turn 1 Duress (grabbing a miscalculate), followed by a turn 2 Flesh Reaver. The Flesh Reaver beats both players down a bit, until Nakamura plays a Blastoderm. However, Tanaka is prepared and plays the ultimate hoser card, Perish, followed by a couple more mercenaries. Nakamura uses Treachery to grab a Merc but fails to draw any more creatures for the rest of the game as Tanaka rolls to the win.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/QFPLTanaka.jpg)
+
+Finally, Nakamura has a strong opening hand that he doesn't need to Mulligan, playing a 1st turn elf. However, Tanaka also opens strong with a turn 1 Duress (grabbing a miscalculate), followed by a turn 2 Flesh Reaver. The Flesh Reaver beats both players down a bit, until Nakamura plays a Blastoderm. However, Tanaka is prepared and plays the ultimate hoser card, Perish, followed by a couple more mercenaries. Nakamura uses Treachery to grab a Merc but fails to draw any more creatures for the rest of the game as Tanaka rolls to the win.
 
 ### Game 4
 

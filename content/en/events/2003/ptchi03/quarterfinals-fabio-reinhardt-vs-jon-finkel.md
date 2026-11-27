@@ -123,7 +123,9 @@ render_recovery:
   - Wirewood Elf
   occurrences: 150
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a698.jpg)In a Top 8 filled with accomplished players, Fabio Reinhardt is the odd man out. His only real accomplishment is winning a few PTQs, but considering the players surrounding him today, his skill can't be questioned.**Jon Finkel used to be considered the best player in the world, until Kai convincingly took that title away from him.**
+![](http://www.wizards.com/sideboard/images/ptchi03/a698.jpg)
+
+In a Top 8 filled with accomplished players, Fabio Reinhardt is the odd man out. His only real accomplishment is winning a few PTQs, but considering the players surrounding him today, his skill can't be questioned.**Jon Finkel used to be considered the best player in the world, until Kai convincingly took that title away from him.**
 
 **His finishes had become less impressive with time, and this weekend's tournament was the last Pro Tour Finkel was qualified for. In fact, he didn't even plan on coming until a few days before the event, and it's a good thing he did. This Top 8 makes Finkel the first player to reach ten Pro Tour Top 8 finishes. It also gives him some extra Pro Tour points to stay on the Tour for a while, and he has an opportunity to make a run at yet another big tournament victory. 
 
@@ -164,7 +166,9 @@ Finkel opened with a second turn Voidmage Prodgy. He had no turn three play, and
 
 Mistform Wall gave Reinhardt a blocker, while Finkel played a morph creature. It flipped over on Reinhardt's end step to reveal Ascending Aven, and it started attacking for three a turn. Reinhardt's morph attacked back for two, since Finkel obviously didn't want to trade with his Voidmage Prodigy. 
 
-![](https://i.ormos.uk/1a/6e/1a6e9323a43af3a69482865ad03cd6bb109b1d391824d8e154d5a0651a515fc6.jpg)At this point in the game, the Prodigy was creating a game of chicken. Reinhardt had Sparksmith and Slipstream Eel in hand, and was looking to force Finkel to sacrifice the Prodigy to a lesser card. He finally bit on Mistform Dreamer, allowing Sparksmith to resolve. Finkel stole it with Threaten, and had the Goblin shoot itself. Finkel's morph blocked and traded with Reinhardt's in combat, leaving the board as Reinhardt's Wall to Finkel's Aven. Finkel's Riptide Shapeshifter was Complicated, and both players cast their own Slipstream Eels.
+![](https://i.ormos.uk/1a/6e/1a6e9323a43af3a69482865ad03cd6bb109b1d391824d8e154d5a0651a515fc6.jpg)
+
+At this point in the game, the Prodigy was creating a game of chicken. Reinhardt had Sparksmith and Slipstream Eel in hand, and was looking to force Finkel to sacrifice the Prodigy to a lesser card. He finally bit on Mistform Dreamer, allowing Sparksmith to resolve. Finkel stole it with Threaten, and had the Goblin shoot itself. Finkel's morph blocked and traded with Reinhardt's in combat, leaving the board as Reinhardt's Wall to Finkel's Aven. Finkel's Riptide Shapeshifter was Complicated, and both players cast their own Slipstream Eels.
 
 Essence Fracture cleared Finkel's side of the board, and the following attack brought him to four life points. At this point, Reinhardt had a full board on the table and the game won in the next turn or two. However, vintage Finkel emerged to take the game at the last moment. His Slipstream Eel came back out, got haste thanks to Fever Charm, and attacked for the win. The crowd was stunned, Reinhardt seemed a bit shaken, and Finkel was the perfect example of confidence.
 

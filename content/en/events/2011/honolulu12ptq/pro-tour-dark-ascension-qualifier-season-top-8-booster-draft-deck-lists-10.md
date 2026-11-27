@@ -45,7 +45,9 @@ archive_source:
   sha256: e736bc13f66e0bc41bf3151dadcd3a101fa561bb071cf1469b4d622284613d08
 render_recovery: []
 ---
-![](https://i.ormos.uk/3d/90/3d90a348d4be6750ba03bbe13702113c7137cf8269bac132a0809d2e7bbe8736.jpg)Get your *Innistrad* Limited skills warmed up, because tickets to Pro Tour *Dark Ascension* in Honolulu are up for grabs this Pro Tour Qualifier season! 
+![](https://i.ormos.uk/3d/90/3d90a348d4be6750ba03bbe13702113c7137cf8269bac132a0809d2e7bbe8736.jpg)
+
+Get your *Innistrad* Limited skills warmed up, because tickets to Pro Tour *Dark Ascension* in Honolulu are up for grabs this Pro Tour Qualifier season! 
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130710150318/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

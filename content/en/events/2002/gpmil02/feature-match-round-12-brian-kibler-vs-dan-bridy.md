@@ -229,7 +229,9 @@ render_recovery:
   - Ghastly Demise
   occurrences: 2
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/905.jpg)This is a mirror match. In fact, this is a 74-card mirror match. Dan Bridy was given a deck by Brain Kibler the day before the tournament, and they have both done well in the field, but now they are in single elimination mode, where they must win out to have a shot at the top 8.
+![](http://www.wizards.com/sideboard/images/gpmil02/905.jpg)
+
+This is a mirror match. In fact, this is a 74-card mirror match. Dan Bridy was given a deck by Brain Kibler the day before the tournament, and they have both done well in the field, but now they are in single elimination mode, where they must win out to have a shot at the top 8.
 
 Brian Kibler won the die role, supposedly his first win on the day, and chose to go first. Dan Bridy managed to resolve the first spell, a Nightscape Familiar, on turn two, despite Kibler having two blue mana untapped. Having gone first, Kibler came back by summoning Psychatog and passing the turn back to Bridy.
 
@@ -237,7 +239,9 @@ Bridy casts a two mana Repulse, sending the Psychatog backs, getting in a swing 
 
 Kibler, quickly falling behind to his opponents Nightscape Familiar, taps out to reset the board with Upheaval. The Nightscape Familiar once again comes down uncontested, despite Kibler untapped land. In an attempt to find something, anything, Kibler casts a Probe without kicker, discarding land. With Kibler tapped out, Bridy summoned the Psychatog. Kibler cast a desperate Opt, and lays a Nightscape Familiar of his own, only to have it Memory Lapsed. With a large hand and graveyard, Bridy's Psychatog was lethal, and Kibler scooped, having draw 17 land.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/908.jpg)Kibler asks Bridy if he told Dan how to sideboard when he gave Bridy a deck. Both players have similar sideboards, and both bring in Lobotomy, Gainsay, and one Deep Analysis. 
+![](http://www.wizards.com/sideboard/images/gpmil02/908.jpg)
+
+Kibler asks Bridy if he told Dan how to sideboard when he gave Bridy a deck. Both players have similar sideboards, and both bring in Lobotomy, Gainsay, and one Deep Analysis. 
 
 Game two started with Brian Kibler casting an Opt at the end of turn two, as all his lands were Salt Marsh. Kibler then cast an EOT Fof, which met Bridy's Gainsay, leaving Kibler open to cast a Psychatog. Dan drew, paused, thought, counted his hand, looked at his graveyard, and said go, failing to play a land, cast a spell, or do anything constructive as once again the deck had given him a poor opening. 
 
@@ -245,7 +249,9 @@ On turn six, Kibler cast a Deep Analysis, targeting himself of course, and count
 
 When Kibler got his turn back, he led with a Nightscape Familiar, followed by a Memory Lapse on Dan's Counterspell, continued with a flashbacked Deep Analysis for one mana and finished with a Repulse on Bridy's Familiar for a total of four. A punishing turn.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/907.jpg)All Dan could do was play a Nightscape Familiar, leaving him with two untapped lands. Kibler saw his opening and went for the throat. He attacked with the Psychatog after playing a Cephalid Collesium. Bridy chose to not block, as he felt his hand would be sufficient defence against a possible Fof. Brian did in fact have the Fof, which he cast before damage on the stack. Bridy came back with a Gainsay, and a Lapse for Kibler's Gainsay. Kibler let the Lapse resolve, activated his Cephalid Collesium, discarded three non-Gainsay cards, and cast the same Gainsay for the second time that turn. When Bridy went to count Kibler's graveyard, Kibler just shot back, "Yea, your dead."
+![](http://www.wizards.com/sideboard/images/gpmil02/907.jpg)
+
+All Dan could do was play a Nightscape Familiar, leaving him with two untapped lands. Kibler saw his opening and went for the throat. He attacked with the Psychatog after playing a Cephalid Collesium. Bridy chose to not block, as he felt his hand would be sufficient defence against a possible Fof. Brian did in fact have the Fof, which he cast before damage on the stack. Bridy came back with a Gainsay, and a Lapse for Kibler's Gainsay. Kibler let the Lapse resolve, activated his Cephalid Collesium, discarded three non-Gainsay cards, and cast the same Gainsay for the second time that turn. When Bridy went to count Kibler's graveyard, Kibler just shot back, "Yea, your dead."
 
 Game two started with Bridy again, and once again a turn two Familiar from the second player resolved despite having two blue mana untapped. Bridy followed the familiar with an EOT Opt. Bridy played a land and said "go." Kibler swings with the Zombie, played a Psychatog with Memory Lapse back up, putting Bridy even further away from his mana. 
 

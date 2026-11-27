@@ -136,7 +136,9 @@ render_recovery:
 
 ### ～Finals～
 
-![](http://www.wizards.com/sideboard/images/jpfin01/971.jpg)直前に行われた GP 仙台ではメイン《変異種/Morphling》のイリュージョンドネイトがベスト 8 を席巻したのが記憶に新しいところですが、Finals においてもその勢力図に大きな変化は見られませんでした。
+![](http://www.wizards.com/sideboard/images/jpfin01/971.jpg)
+
+直前に行われた GP 仙台ではメイン《変異種/Morphling》のイリュージョンドネイトがベスト 8 を席巻したのが記憶に新しいところですが、Finals においてもその勢力図に大きな変化は見られませんでした。
 
 ただ、いわゆるトッププレイヤー達でドネイトを選択したプレイヤーは少数派でした。これは GP 仙台においてのマイクロングの活躍、つまりはドネイトを死滅させたと言っても過言ではない「Miracle Gro」を警戒しての選択だと考えられます。事実、GP 仙台とは打って変わり Finals では Miracle Gro が圧倒的に増加していました。
 

@@ -496,7 +496,9 @@ Finally up to six lands, Scott-Vargas attempted to pull the plug on his opponent
 
 **Emanuele Canavesi 1 – 0 Luis Scot-Vargas** 
 
-![](https://i.ormos.uk/7d/64/7d6442f5a3df6a1b3ada166a6d81139b0b704f13ca2470555fd7b38e49faae53.jpg)Following a second turn where Canavesi had only attacked for 2 with his Mutavault Scott-Vargas played a third-turn Mulldrifter with evoke, but as Canavesi hit him with a Thoughtseize it revealed that the American might not be having such a great start after all as all he was clutching Jace Beleren, Cloudthresher, Oona, and four lands. The Jace was torn away by Thoughtseize and Canavesi sat back to continue attacking with his Mutavault, using a Snakeform on Scott-Vargas’ Plumeveil when it arrived to block. Unfortunately that Snakeform had opened the door for Oona, Queen of the Fae and the American wasted no time in getting her into play while he could.
+![](https://i.ormos.uk/7d/64/7d6442f5a3df6a1b3ada166a6d81139b0b704f13ca2470555fd7b38e49faae53.jpg)
+
+Following a second turn where Canavesi had only attacked for 2 with his Mutavault Scott-Vargas played a third-turn Mulldrifter with evoke, but as Canavesi hit him with a Thoughtseize it revealed that the American might not be having such a great start after all as all he was clutching Jace Beleren, Cloudthresher, Oona, and four lands. The Jace was torn away by Thoughtseize and Canavesi sat back to continue attacking with his Mutavault, using a Snakeform on Scott-Vargas’ Plumeveil when it arrived to block. Unfortunately that Snakeform had opened the door for Oona, Queen of the Fae and the American wasted no time in getting her into play while he could.
 
 Canavesi was in trouble from the second Oona resolved – he played a Stillmoon Cavalier that could block the Queen herself, but the Fae she spawned would be another matter, and then as the Stillmoon Cavalier gained the wings needed to block Oona Scott-Vargas flashed in his Cloudthresher to kill the Cavalier anyway. Canavesi bought himself a turn with Cryptic Command but that was all he bought, and a turn later Oona swept in to level the match 1-1.
 

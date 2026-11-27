@@ -145,7 +145,9 @@ And that is why the Izzet cards in *Guildpact* were designed that way.
 
 Finally, a few pop culture references to add the dash of controversy that I enjoy in many of my columns:
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr217_picMain_en.jpg)**Doc Brown (from *Back to the Future*)** - Inventors in general (and the absent-minded professor archetype in particular) fall into the Red/Blue camp. Doc Brown shows all the signs of Red/Blue. He's a thinker and a scientist, yet highly prone to emotional outbursts. His greatest invention, the time flux capacitor, was the result of a burst of impulse.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr217_picMain_en.jpg)
+
+**Doc Brown (from *Back to the Future*)** - Inventors in general (and the absent-minded professor archetype in particular) fall into the Red/Blue camp. Doc Brown shows all the signs of Red/Blue. He's a thinker and a scientist, yet highly prone to emotional outbursts. His greatest invention, the time flux capacitor, was the result of a burst of impulse.
 
 **Indiana Jones** - Indiana Jones is an interesting mix. He's an archeologist because he clearly has a quest for knowledge, yet he has a great passion for what he does. Even more so, he makes many decisions based on emotion. It is this combination of a desire to learn with a need to do things his way that lands him in the Red/Blue camp.
 

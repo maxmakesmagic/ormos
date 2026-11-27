@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/121.jpg)Two of the top German players were pitted against each other in the fifth round. 1999 World Champion and three times Grand Prix Champion Kai Budde faced the young and talented 2000 World Championship top 8 finisher Dominik Hothow, or "Billy the Kid" as he doesn't like to be called. The two of them had playtested their decks against each other several times as they both had three byes, but none of the decks seemed to beat the other one consistently. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/121.jpg)
+
+Two of the top German players were pitted against each other in the fifth round. 1999 World Champion and three times Grand Prix Champion Kai Budde faced the young and talented 2000 World Championship top 8 finisher Dominik Hothow, or "Billy the Kid" as he doesn't like to be called. The two of them had playtested their decks against each other several times as they both had three byes, but none of the decks seemed to beat the other one consistently. 
 
 Budde won the die roll and chose to let Billy play, and Billy got a good start, playing a turn two Benalish Trapper and a third turn Stormscape Apprentice. Kai Zapped the Apprentice, and after Billy had summoned a Dream Thrush, he dropped an Ancient Kavu and then a Serpentine Kavu. Billy didn't like all the big creatures on the other side of the table. He let the Kavu Mourn for a while and cast a Crosis's Attendant, while keeping the Serpentine Kavu at bay with his Trapper. 
 

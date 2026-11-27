@@ -77,7 +77,9 @@ render_recovery:
   - Persecute
   occurrences: 64
 ---
-![](https://i.ormos.uk/67/ea/67ea67694fc96559d4927aeccadfa6867ca03c71889882176409b6d17dd708f0.jpg)Was Nathon showing a little case of the jitters as he prepared to play against Guillaume for a chance to be the Nationals Champion? The winner of this match is also guaranteed a slot on the Canadian Nationals team—the loser must slug it out in with the other semi-finals loser to determine the third team spot.
+![](https://i.ormos.uk/67/ea/67ea67694fc96559d4927aeccadfa6867ca03c71889882176409b6d17dd708f0.jpg)
+
+Was Nathon showing a little case of the jitters as he prepared to play against Guillaume for a chance to be the Nationals Champion? The winner of this match is also guaranteed a slot on the Canadian Nationals team—the loser must slug it out in with the other semi-finals loser to determine the third team spot.
 
 After splitting a sleeve while shuffling, Nathon could not get his deck to add up to 60 cards while pile shuffling. After coming a short more than once he counted the cards one-by-one. When it came out to 60 he did one last pile that also came out to 60 and he was finally ready to present his deck.
 
@@ -93,7 +95,9 @@ Nathon made the first play of the game. He cast Chainer's Edict with an empty bo
 
 Guillaume cast another Tutor and found a Mind Sludge, which was going to devastate Nathon on his next turn. Nathon ripped Duress off the top and cast it and used Mirari. He saw Mind Sludge, Smother, 2 Mutilates and an Undead Gladiator. He took the Smother and the Sludge. Guillaume cycled his Gladiator.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a899.jpg)Guillaume 'cycled' away a Mutilate and returned the Gladiator. Guillaume played a second Coffers and was close to being able to rip through huge chunks of his deck during his upkeep with a Gladiator fueled by two Coffers. Nathon attempted a Haunting Echoes but Guillaume had the Skeletal Scrying and the only card he could look for was the Skeletal Scrying when it resolved—there weren't any left. Guillaume played a third Coffers and began crafting his hand with the cycling zombie. 
+![](http://www.wizards.com/sideboard/images/natcan03/a899.jpg)
+
+Guillaume 'cycled' away a Mutilate and returned the Gladiator. Guillaume played a second Coffers and was close to being able to rip through huge chunks of his deck during his upkeep with a Gladiator fueled by two Coffers. Nathon attempted a Haunting Echoes but Guillaume had the Skeletal Scrying and the only card he could look for was the Skeletal Scrying when it resolved—there weren't any left. Guillaume played a third Coffers and began crafting his hand with the cycling zombie. 
 
 Nathon plopped down a 6th land and cast Corrupt with a Mirari copy and he had just enough to kill the Quebecer.
 

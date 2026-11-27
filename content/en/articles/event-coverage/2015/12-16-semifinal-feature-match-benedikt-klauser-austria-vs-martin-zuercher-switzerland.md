@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Jamielynn* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/189.jpg)I had the pleasure of covering Benedikt Klauser's match yet again today. Not surprisingly he is still playing Trix and he is still winning. Klauser is matched up against Martin Zuercher who was one the dozen players from Switzerland competing today. He made top 16 at 1999 GP Milan and came to GP Florence for the "top players and the prize money." He's "absolutely happy" with his top four as he only planned on making top 32. Zuercher was playing Trix as well. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/189.jpg)
+
+I had the pleasure of covering Benedikt Klauser's match yet again today. Not surprisingly he is still playing Trix and he is still winning. Klauser is matched up against Martin Zuercher who was one the dozen players from Switzerland competing today. He made top 16 at 1999 GP Milan and came to GP Florence for the "top players and the prize money." He's "absolutely happy" with his top four as he only planned on making top 32. Zuercher was playing Trix as well. 
 
 **Game 1** 
 

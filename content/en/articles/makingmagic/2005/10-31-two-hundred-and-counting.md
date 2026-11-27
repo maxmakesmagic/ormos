@@ -95,7 +95,9 @@ I hope you either enjoy this walk down memory lane or have a chance to catch up 
 
 ### Week #101 (December 1, 2003) – “[The Baby and the Bathwater](/en/articles/makingmagic/2003/12-01-the-baby-and-the-bathwater)” (\*\*)
 
-![](https://i.ormos.uk/92/9e/929e41074c6c71098824db20d050dee89a1518d0cbd38daef6823489d802dfc9.jpg)It was banding week. And so I did what any columnist would do when talking about a mechanic that had been abandoned years earlier, I talked about why R&D abandons mechanics. While this article isn't one of my standouts, it does a decent job of explaining why R&D does something that upsets so many players. (Remember that every mechanic is loved by someone. Even bands with others.) Note that the following week I claim that it should be rated a one star. Upon re-reading I feel I was too harsh and gave it two stars this time around. I should point out though that if you read this column you should also check out the following column as I better elaborate on a few points.
+![](https://i.ormos.uk/92/9e/929e41074c6c71098824db20d050dee89a1518d0cbd38daef6823489d802dfc9.jpg)
+
+It was banding week. And so I did what any columnist would do when talking about a mechanic that had been abandoned years earlier, I talked about why R&D abandons mechanics. While this article isn't one of my standouts, it does a decent job of explaining why R&D does something that upsets so many players. (Remember that every mechanic is loved by someone. Even bands with others.) Note that the following week I claim that it should be rated a one star. Upon re-reading I feel I was too harsh and gave it two stars this time around. I should point out though that if you read this column you should also check out the following column as I better elaborate on a few points.
 
 ### Week #102 (December 8, 2003) – “[Red Letter Day](/en/articles/makingmagic/2003/12-08-red-letter-day)” (\*\*\*)
 
@@ -127,7 +129,9 @@ Writing preview weeks is hard. This is the third and final preview week for *Dar
 
 ### Week #109 (January 26, 2004) – “[Special Delivery](/en/articles/makingmagic/2004/01-26-special-delivery)” (\*\*\*\*\*)
 
-![](https://i.ormos.uk/58/32/58324f60ea84c75ec6edac86fbf8b0f1e132ad02b2d4e69868a725e6a207cd48.jpg)Some columnists feel a great need to separate their column from their personal life. No such problem here. My twins were born and I got kind of sappy. But a good sappy. The topic at hand is how personal things get when you create something. Oh yeah, and I show off cute baby pictures.
+![](https://i.ormos.uk/58/32/58324f60ea84c75ec6edac86fbf8b0f1e132ad02b2d4e69868a725e6a207cd48.jpg)
+
+Some columnists feel a great need to separate their column from their personal life. No such problem here. My twins were born and I got kind of sappy. But a good sappy. The topic at hand is how personal things get when you create something. Oh yeah, and I show off cute baby pictures.
 
 ### Week #110 (February 2, 2004) – “[In the Black](/en/articles/makingmagic/2004/02-02-in-the-black)” (\*\*\*\*\*)
 
@@ -167,7 +171,9 @@ This column took way longer than expected due to the amazing response I got to m
 
 ### Week #119 (April 5, 2004) – “[*Unhinged* or No?](/en/articles/makingmagic/2004/04-05-unhinged-or-no)/[The original April 1st announcement](https://web.archive.org/web/20051031000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/203)” (\*\*\*/\*\*\*\*\*)
 
-![](https://i.ormos.uk/10/b6/10b61ce0abca8e8f3ff26d5d260f8fb93776f496bff1264323d275c484154119.jpg)I have done many April Fools jokes in my life, but the announcement of *Unhinged* is far and away the best prank I have ever played. The day after the “announcement” I took a poll to see if players believed that *Unhinged* was real. The result? Yes – 50.6%, No – 49.4%. In addition, as the *Un* sets' greatest fan, being able to finally talk about the release of the second one was pure joy. Check out the thread on this column if you want to see how happy I made some people. This column by the way is the FAQ where I announce *Unhinged's* existence and answer many questions that I thought players would have. As a little trivia note, this is the only theme week (it was Hidden Gem Week) I did not write in theme.
+![](https://i.ormos.uk/10/b6/10b61ce0abca8e8f3ff26d5d260f8fb93776f496bff1264323d275c484154119.jpg)
+
+I have done many April Fools jokes in my life, but the announcement of *Unhinged* is far and away the best prank I have ever played. The day after the “announcement” I took a poll to see if players believed that *Unhinged* was real. The result? Yes – 50.6%, No – 49.4%. In addition, as the *Un* sets' greatest fan, being able to finally talk about the release of the second one was pure joy. Check out the thread on this column if you want to see how happy I made some people. This column by the way is the FAQ where I announce *Unhinged's* existence and answer many questions that I thought players would have. As a little trivia note, this is the only theme week (it was Hidden Gem Week) I did not write in theme.
 
 ### Week #120 (April 12, 2004) – “[Write Away](/en/articles/makingmagic/2004/04-12-write-away)” (\*\*\*)
 
@@ -183,7 +189,9 @@ Every time I tie my personal life into the topic I seem to get interesting colum
 
 ### Week #123 (May 3, 2004) – “[Dawn of a New Day](/en/articles/makingmagic/2004/05-03-dawn-of-a-new-day)” (\*\*\*)
 
-![](https://i.ormos.uk/6c/d7/6cd7f0f4c54e87c0331c157f86809b4b364d707da4baa6468f50581bc8c0f47e.jpg)This is the first week of *Fifth Dawn* previews. In it I introduce the team (including someone who doesn't even work at Wizards – this prompted a lot of mail) and explain some of the basics the team did when we first started designing the set. Hey, there's even a preview card. Okay, that part might not be so exciting now.
+![](https://i.ormos.uk/6c/d7/6cd7f0f4c54e87c0331c157f86809b4b364d707da4baa6468f50581bc8c0f47e.jpg)
+
+This is the first week of *Fifth Dawn* previews. In it I introduce the team (including someone who doesn't even work at Wizards – this prompted a lot of mail) and explain some of the basics the team did when we first started designing the set. Hey, there's even a preview card. Okay, that part might not be so exciting now.
 
 ### Week #124 (May 10, 2004) – “[Here Comes the Sunburst](/en/articles/makingmagic/2004/05-10-here-comes-the-sunburst)” (\*\*)
 
@@ -233,7 +241,9 @@ This is the final column in the color philosophy series. (Final is a little inac
 
 ### Week #135 (July 26, 2004) – “[On Tour, Part I](/en/articles/makingmagic/2004/07-26-on-tour-part-1)” (\*\*\*\*)
 
-![](https://i.ormos.uk/d1/f5/d1f552e2d7b84b93cd1e71dfb03316a1af8a2684f2a82639b62da2e47375f2f4.jpg)There was a book published recently that deals a lot with the Pro Tour (“Jonny Magic and the Card Shark Kids” by David Kushner). I was the primary person responsible for providing research material for the author. Digging up all that stuff got me a little nostalgic and resulted in my writing a two-part column about the Pro Tour from my perspective. This column is definitely a little of the beaten path, but if you have ever had even the faintest interest in the Pro Tour, it's worth a read.
+![](https://i.ormos.uk/d1/f5/d1f552e2d7b84b93cd1e71dfb03316a1af8a2684f2a82639b62da2e47375f2f4.jpg)
+
+There was a book published recently that deals a lot with the Pro Tour (“Jonny Magic and the Card Shark Kids” by David Kushner). I was the primary person responsible for providing research material for the author. Digging up all that stuff got me a little nostalgic and resulted in my writing a two-part column about the Pro Tour from my perspective. This column is definitely a little of the beaten path, but if you have ever had even the faintest interest in the Pro Tour, it's worth a read.
 
 ### Week #136 (August 2, 2004) – “[*Ice* Guys Finish First](/en/articles/makingmagic/2004/08-02-ice-guys-finish-first)” (\*\*\*)
 
@@ -339,7 +349,9 @@ Due to Wizards of the Coast's holiday schedule, I had a special third week for b
 
 ### Week #159 (January 10, 2005) – “[When Ninjas Attack](https://web.archive.org/web/20051031000000/https://magic.wizards.com/en/node/615501)” (\*\*)
 
-![](https://i.ormos.uk/64/6a/646a5b9d1bfd2cf7c512856108e3a1f39123450fb538707b28e1e1c7f20b598b.jpg)It was the first week of *Betrayers of Kamigawa*. So what else could I talk about but ninjas (and, well, it was Ninja Week). There's some interesting stuff about how ninjutsu came about but other than that this column is a little light on substance.
+![](https://i.ormos.uk/64/6a/646a5b9d1bfd2cf7c512856108e3a1f39123450fb538707b28e1e1c7f20b598b.jpg)
+
+It was the first week of *Betrayers of Kamigawa*. So what else could I talk about but ninjas (and, well, it was Ninja Week). There's some interesting stuff about how ninjutsu came about but other than that this column is a little light on substance.
 
 ### Week #160 (January 17, 2005) – “[Flip Service](https://web.archive.org/web/20051031000000/https://magic.wizards.com/en/node/615521)” (\*\*)
 
@@ -355,7 +367,9 @@ This column introduces the Creative Team and explores some of the many issues th
 
 ### Week #163 (February 7, 2005) – “[Thread Rover](/en/articles/makingmagic/2005/02-07-thread-rover)” (\*\*\*)
 
-![](https://i.ormos.uk/e6/c3/e6c3d0dcac03c513a90d54212547667077cf72c99b390e12bdfa74dba73a526a.jpg)This was kind-of like a letters column. But instead of replying to letters, I replied to posts on “Making **Magic**” threads. As I often explain, the threads tend to be a little more hostile than my e-mail so this letter column is a little more “jumping into the fire” than my average mailbag column.
+![](https://i.ormos.uk/e6/c3/e6c3d0dcac03c513a90d54212547667077cf72c99b390e12bdfa74dba73a526a.jpg)
+
+This was kind-of like a letters column. But instead of replying to letters, I replied to posts on “Making **Magic**” threads. As I often explain, the threads tend to be a little more hostile than my e-mail so this letter column is a little more “jumping into the fire” than my average mailbag column.
 
 ### Week #164 (February 14, 2005) – “[Land of the Rising Fun](/en/articles/makingmagic/2005/02-14-land-of-the-rising-fun)” (\*\*\*)
 
@@ -371,7 +385,9 @@ This is kind of a color philosophy week and kind of not. In it I spend a lot of 
 
 ### Week #167 (March 7, 2005) – “[Topical Blend #1 – To Err Is Human](/en/articles/makingmagic/2005/03-07-topical-blend-1-to-err-is-human)” (\*\*\*\*\*)
 
-![](https://i.ormos.uk/69/97/699722ee96c445fb0805db6723393c6300a30a876189c0993a21b210f1aa92c5.jpg)I often talk about how restrictions breed creativity. This may be the best article I have ever written (there are a few other contenders, but this one is a solid front-runner) and it was based on two unrelated topics picked by all of you (**Magic** design mistakes and women if you haven't read the article). This column is also one my most personal columns ever. From the feedback I got on this column I learned two important things. One, you like when I mix my personal life with my **Magic** design talk (I got more mail on this column than everything except “[When Cards Go Bad](https://web.archive.org/web/20051031000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr5)”, my "why we make bad cards" column). And two, there seems to be a high correlation between “like to play **Magic**” and “have had some issues with women”. (I'll just chalk that up to **Magic** players being primarily men.) Anyway, if you haven't read this column, I'd strongly urge you to take a peek. It's as good as my column gets.
+![](https://i.ormos.uk/69/97/699722ee96c445fb0805db6723393c6300a30a876189c0993a21b210f1aa92c5.jpg)
+
+I often talk about how restrictions breed creativity. This may be the best article I have ever written (there are a few other contenders, but this one is a solid front-runner) and it was based on two unrelated topics picked by all of you (**Magic** design mistakes and women if you haven't read the article). This column is also one my most personal columns ever. From the feedback I got on this column I learned two important things. One, you like when I mix my personal life with my **Magic** design talk (I got more mail on this column than everything except “[When Cards Go Bad](https://web.archive.org/web/20051031000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr5)”, my "why we make bad cards" column). And two, there seems to be a high correlation between “like to play **Magic**” and “have had some issues with women”. (I'll just chalk that up to **Magic** players being primarily men.) Anyway, if you haven't read this column, I'd strongly urge you to take a peek. It's as good as my column gets.
 
 ### Week #168 (March 14, 2005) – “[Feeling the Draft](/en/articles/makingmagic/2005/03-14-feeling-the-draft)” (\*\*\*\*)
 
@@ -443,7 +459,9 @@ No column. I did throw a cool Fourth of July Party though.
 
 ### Week #185 (July 11, 2005) – “[Hanging with Roy G. Biv](/en/articles/makingmagic/2005/07-11-hanging-with-roy-g-biv)” (\*\*\*)
 
-![](https://i.ormos.uk/32/9b/329b5fff618457e73afad5a166ead1bf9fc84d8b245c29cb805ada09a1609b15.jpg)It was Rainbow Week and so I wrote about rainbows. You know, as they apply to **Magic**. If this sounds weird, it was. I rated it a three as I think the seven sections average out to a three. There are one or two sections that actually have four star material.
+![](https://i.ormos.uk/32/9b/329b5fff618457e73afad5a166ead1bf9fc84d8b245c29cb805ada09a1609b15.jpg)
+
+It was Rainbow Week and so I wrote about rainbows. You know, as they apply to **Magic**. If this sounds weird, it was. I rated it a three as I think the seven sections average out to a three. There are one or two sections that actually have four star material.
 
 ### Week #186 (July 18, 2005) – “[The Good, The Bad, and the Ugly Truth](/en/articles/makingmagic/2005/07-18-the-good-the-bad-and-the-ugly-truth)” (\*\*\*\*\*)
 
@@ -463,7 +481,9 @@ It was *Invasion* week so I talked about *Invasion* design. I was on the design 
 
 ### Week #190 (August 15, 2005) – “[By The Letter](/en/articles/makingmagic/2005/08-15-by-the-letter)” (\*\*\*)
 
-![](https://i.ormos.uk/fd/d4/fdd4f7790c07eba33637f4a1c0acd5a6886c95f9b4c98a4d0751689d7684d5a6.jpg)Another mailbag column. Not much more to say really.
+![](https://i.ormos.uk/fd/d4/fdd4f7790c07eba33637f4a1c0acd5a6886c95f9b4c98a4d0751689d7684d5a6.jpg)
+
+Another mailbag column. Not much more to say really.
 
 ### Week #191 (August 22, 2005) – “[Equipment To Be](/en/articles/makingmagic/2005/08-22-equipment-to-be)” (\*\*\*)
 
@@ -495,7 +515,9 @@ This is the first in a ten part series exploring the color philosophies of the t
 
 ### Week #198 (October 10, 2005) – “[Twenty Questions](/en/articles/makingmagic/2005/10-10-twenty-questions)” (\*\*\*\*)
 
-![](https://i.ormos.uk/bc/88/bc889a4fe4297214ab51ada326fbd74f2777421965e7b9e190026a2d41b551ad.jpg)This column is an interview where I face off against the most vicious interviewer I've ever had – myself. I felt like I asked questions that I've always wanted to be asked and then I answered them as honestly and straight-forward as I could.
+![](https://i.ormos.uk/bc/88/bc889a4fe4297214ab51ada326fbd74f2777421965e7b9e190026a2d41b551ad.jpg)
+
+This column is an interview where I face off against the most vicious interviewer I've ever had – myself. I felt like I asked questions that I've always wanted to be asked and then I answered them as honestly and straight-forward as I could.
 
 ### Week #199 (October 17, 2005) – “[Jamuraa, the Merrier](/en/articles/makingmagic/2005/10-17-jamuraa-the-merrier)” – REPEAT
 

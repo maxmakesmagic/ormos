@@ -44,7 +44,9 @@ archive_source:
   sha256: 0b5c413d76bfe9a794a83ef270d353ba91a44a326f723d8e4be164d38ee8a4e2
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a977.jpg)Winning a Last-Chance Qualifier is always a mixed blessing. Sure, you get your shot at Pro Tour glory, but you have to do so on little-to-no sleep, hardly a recipe for success. At the Team Pro Tour, it's even harder, with teams of pros running interference for their friends, or teams like "The Mixed Bag" (Zajdner, Wagener, and Myrvig), getting some much-needed Team Sealed practice. This year, 37 teams were in the running.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a977.jpg)
+
+Winning a Last-Chance Qualifier is always a mixed blessing. Sure, you get your shot at Pro Tour glory, but you have to do so on little-to-no sleep, hardly a recipe for success. At the Team Pro Tour, it's even harder, with teams of pros running interference for their friends, or teams like "The Mixed Bag" (Zajdner, Wagener, and Myrvig), getting some much-needed Team Sealed practice. This year, 37 teams were in the running.
 
 Canadian National Champion Josh Rider had originally planned to spend the months following Worlds backpacking around Europe. Unfortunately, a Top 32 finish and the qualification for New Orleans that went with it threw a wrench in his plans, forcing him to step up his return date. After that, he Top 8'd Grand Prix - London.
 
@@ -52,7 +54,9 @@ Canadian National Champion Josh Rider had originally planned to spend the months
 
 He wound up in Boston with no team, hoping to pick up some stragglers. Paul Sottosanti was on-hand, but with an hour until the qualifier, they still hadn't found a third. Their white knight was Filiberto Piernoli, a player from Italy whose team bailed on him. They rounded up all their friends to block for them, and threw the dice.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a976.jpg)They took an early loss, but managed to hang on until the Top 4. There, they beat Stone Cold Supercuts, composed of Baby-Faced Assassin Zach Parker and pals.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a976.jpg)
+
+They took an early loss, but managed to hang on until the Top 4. There, they beat Stone Cold Supercuts, composed of Baby-Faced Assassin Zach Parker and pals.
 
 The other team to qualify, YMMV, came to the Pro Tour with the intention of qualifying. Chris Manning needed a team, and all the best players in his area already had squads. In order to brainstorm possible teammates, he looked at the Limited rankings for his state. Topping the list were two names that he couldn't believe had slipped his mind: Lucas Glavin and Derek Bruneau.
 

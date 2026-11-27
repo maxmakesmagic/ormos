@@ -70,7 +70,9 @@ render_recovery: []
 ---
 [![](https://i.ormos.uk/25/ee/25ee24f5e4ef5ce7e475385999764f67684544863a18848b8c8766f8a62143de.jpg)](/en/events/2006/mi06/2006-magic-invitational-voting)
 
-![](https://i.ormos.uk/01/3e/013edff47bd97e3c72fb36a4fbc6d45d9a6e5314777b1593d752fee4e4354b9b.jpg)If anyone ever doubted it, Osyp Lebedowicz's larger-than-life persona transcends borders.
+![](https://i.ormos.uk/01/3e/013edff47bd97e3c72fb36a4fbc6d45d9a6e5314777b1593d752fee4e4354b9b.jpg)
+
+If anyone ever doubted it, Osyp Lebedowicz's larger-than-life persona transcends borders.
 
 Dominating a field of 15 worthy candidates, Osyp earned a spot at the 2006 Magic Invitational by securing 63 total points. He appeared on 20 of the 24 possible ballots from an international voting body.
 

@@ -2067,7 +2067,9 @@ See, I must admit to disappointment. Dovescape's a neat way of doing this, but I
 
 ...Fair.
 
-![Yet_Another_Aether_Vortex](https://i.ormos.uk/cd/b8/cdb8bb72293e71bcd78b01c8f42af82b57fccc5fd3e6aecaa476bcf127a4540d.jpg)I don't want a fair card. I want a busted one. And as such, I can only assume that Nacatl is depressingly fair, and thus not the powerhouse it should be. 
+![Yet_Another_Aether_Vortex](https://i.ormos.uk/cd/b8/cdb8bb72293e71bcd78b01c8f42af82b57fccc5fd3e6aecaa476bcf127a4540d.jpg)
+
+I don't want a fair card. I want a busted one. And as such, I can only assume that Nacatl is depressingly fair, and thus not the powerhouse it should be. 
 
 Or is it? Remember, I lost a laptop with at least a hundred emails on it. Perhaps somewhere in there, something I skimmed a little too quickly, is the way to break Nacatl—an entry that is now nothing more than a random cluster of magnetic particles. *Someone* knows how to do it. Someone's found some fiendishly clever way around the "I have to attack" clause and has utilized the tokens in the best way possible.
 

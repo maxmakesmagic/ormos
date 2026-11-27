@@ -109,7 +109,9 @@ The match started with two words of wisdom from Chris Benafel:
 
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpmil02/909.jpg)At least before sideboarding, Chris was right on about the first observation. Mike won the roll and played first, but kept drawing cards that were useless against Benafel's creatureless deck. He stared at Repulse and Aether Burst, discarding them when his own Fact or Fictions brought him above eight cards. Benafel on the other hand kept a tight grip, and played land after land, building his hand with Fact or Fictions of his own, and keeping Mike's mana tight with the Ice half of Fire/Ice.
+![](http://www.wizards.com/sideboard/images/gpmil02/909.jpg)
+
+At least before sideboarding, Chris was right on about the first observation. Mike won the roll and played first, but kept drawing cards that were useless against Benafel's creatureless deck. He stared at Repulse and Aether Burst, discarding them when his own Fact or Fictions brought him above eight cards. Benafel on the other hand kept a tight grip, and played land after land, building his hand with Fact or Fictions of his own, and keeping Mike's mana tight with the Ice half of Fire/Ice.
 
 Mike attempted to slip through an early Psychatog, but it met with a Counterspell. A later Tog was removed from the game with Syncopate. A third one was lost to a Fact or Fiction. The rest of the game was merely a formality, as Chris manhandled Mike with multiple Prophetic Bolts, and a Goblin Trenches which spewed forth a fair bevy of goblin soldiers.
 
@@ -117,7 +119,9 @@ Chris Benafel 1-Mike Pustilnik 0
 
 ### Game Two
 
-![](http://www.wizards.com/sideboard/images/gpmil02/910.jpg)Once again the good doctor chose to play first, and this game he came out blazing. A second turn Nightscape Familiar fueled the way for a third turn Psychatog backed by a Gainsay for Benafel's Counterspell. This time the game went completely in the opposite direction, as Chris drew nothing but lands, and faced down an angry Tog. With his life total rapidly dwindling, Benafel played down a Goblin Trenches. At the end of his turn, Dr. P used Mana Short to force Benafel's hand (Chris made 4 goblins in response), but they met with an Engineered Plague. 
+![](http://www.wizards.com/sideboard/images/gpmil02/910.jpg)
+
+Once again the good doctor chose to play first, and this game he came out blazing. A second turn Nightscape Familiar fueled the way for a third turn Psychatog backed by a Gainsay for Benafel's Counterspell. This time the game went completely in the opposite direction, as Chris drew nothing but lands, and faced down an angry Tog. With his life total rapidly dwindling, Benafel played down a Goblin Trenches. At the end of his turn, Dr. P used Mana Short to force Benafel's hand (Chris made 4 goblins in response), but they met with an Engineered Plague. 
 
 Clearly shaken by this misfortune, Chris attempted to crack a Coliseum with only six cards in his graveyard, but was stopped by Mike before any harm was done. A last ditch Meddling Mage (naming Fact or Fiction) simply served as a roadblock, as the smiling monster completely smashed through all defenses, starting with the hapless Pikula and continuing directly to the remainder of Benafel's life total.
 
@@ -125,7 +129,9 @@ Chris Benafel 1-Mike Pustilnik 1
 
 ### Game Three
 
-![](http://www.wizards.com/sideboard/images/gpmil02/911.jpg)Chris started out the first dozen turns the same way his previous game had began-by playing a land each turn.. The only problem was that lands were the only cards he seemed to be drawing. Mike had the exact opposite problem-he took a one-land mulligan and was stuck at three lands until the 10th turn. 
+![](http://www.wizards.com/sideboard/images/gpmil02/911.jpg)
+
+Chris started out the first dozen turns the same way his previous game had began-by playing a land each turn.. The only problem was that lands were the only cards he seemed to be drawing. Mike had the exact opposite problem-he took a one-land mulligan and was stuck at three lands until the 10th turn. 
 
 Fortunately for the good doctor, an early Psychatog slipped through Chris's low-spell hand. It started nibbling away at Benafel's life, and soon the mana began flowing for the blue/black mage. At the same time they swapped Fact or Fictions (netting Pustilnik a Lobotomy and Exclude, and Benafel a Meddling Mage and Repulse), but Mike used a Mana Short on the 13th turn in order to force through a Lobotomy against a pair of Meddling Mages. 
 

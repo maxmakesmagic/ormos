@@ -117,7 +117,9 @@ render_recovery:
 ---
 * * *
 
-![Headlong_Rush](https://i.ormos.uk/8a/31/8a31beac21beef046de62dfa7f24c76d64ccf3bc796a8c7ac46eb930067bcd01.jpg)Salut tout le monde, et bienvenue à Magic Academy ! Cette semaine, nous continuons d'étudier les aspects techniques du timing : en gros, quand jouer des sorts et des effets, et pourquoi à un moment précis plutôt qu’un autre. [La semaine dernière](/en/articles/academy/2007/04-07-tactical-protocol-your-own-turn) nous avons étudié les options de votre propre tour ; cette semaine, nous allons détailler les difficultés de timing pendant le tour de votre adversaire.
+![Headlong_Rush](https://i.ormos.uk/8a/31/8a31beac21beef046de62dfa7f24c76d64ccf3bc796a8c7ac46eb930067bcd01.jpg)
+
+Salut tout le monde, et bienvenue à Magic Academy ! Cette semaine, nous continuons d'étudier les aspects techniques du timing : en gros, quand jouer des sorts et des effets, et pourquoi à un moment précis plutôt qu’un autre. [La semaine dernière](/en/articles/academy/2007/04-07-tactical-protocol-your-own-turn) nous avons étudié les options de votre propre tour ; cette semaine, nous allons détailler les difficultés de timing pendant le tour de votre adversaire.
 
 N'oubliez pas, pendant le tour de votre adversaire, c'est lui qui a la priorité. En gros, cela veut dire qu'il a la possibilité de faire des choses en premier (mais vous pouvez y répondre immédiatement). C'est souvent un avantage. Il doit prendre des décisions sans savoir si vous avez l'intention de jouer quelque chose. Si vous choisissez de ne rien faire une fois qu'il a passé, l'étape se termine.
 

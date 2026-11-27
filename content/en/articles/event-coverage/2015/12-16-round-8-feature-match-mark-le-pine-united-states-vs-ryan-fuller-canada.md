@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/146.jpg)In the first round of the second day, Mark Le Pine faced Ryan Fuller at the feature match table. Fuller played first in game one, but he didn't exactly get the perfect mana curve. He dropped a Tinder Farm, a plains and a forest, then he missed his land drop and his first creature was a turn four Pincer Spider without kicker. Le Pine, on the other hand, got a rather nice start. He cast a turn two Ravenous Rats, and Fuller put a Yavimaya Barbarian into his graveyard. The rats attacked for one, and then Mark got out a turn four Trench Wurm. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/146.jpg)
+
+In the first round of the second day, Mark Le Pine faced Ryan Fuller at the feature match table. Fuller played first in game one, but he didn't exactly get the perfect mana curve. He dropped a Tinder Farm, a plains and a forest, then he missed his land drop and his first creature was a turn four Pincer Spider without kicker. Le Pine, on the other hand, got a rather nice start. He cast a turn two Ravenous Rats, and Fuller put a Yavimaya Barbarian into his graveyard. The rats attacked for one, and then Mark got out a turn four Trench Wurm. 
 
 During his fifth turn, Fuller attacked with his Spider, and, having drawn a fourth land, he summoned a Razorfoot Griffin. Le Pine wasn't worried about it though, he played a kicked-up Pouncing Kavu and hit for six, knocking Fuller down to 13 life. 
 

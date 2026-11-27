@@ -110,7 +110,9 @@ To come up with deck prices for my articles, I look at what the cards I want to 
 
 ### Marketplace
 
-![](https://i.ormos.uk/23/c3/23c379684c756855541920ff8ad7d118552af37c289fce12f622c61d8fde3e6a.jpg)Going through the **Message Board** is the easiest way to find what you're looking for. But if you're hunting for a bargain you should check out the **Marketplace**. This is the other room inside the **Trading Post**. The **Marketplace** is where all the action occurs -- you won't find static player messages in here! Instead, you'll find the hustle and bustle of a chat-style window where people post what they are selling in auction format and offer bulk deals on strange combinations of cards. It takes longer to get what you want, but you'll certainly get it a little cheaper.
+![](https://i.ormos.uk/23/c3/23c379684c756855541920ff8ad7d118552af37c289fce12f622c61d8fde3e6a.jpg)
+
+Going through the **Message Board** is the easiest way to find what you're looking for. But if you're hunting for a bargain you should check out the **Marketplace**. This is the other room inside the **Trading Post**. The **Marketplace** is where all the action occurs -- you won't find static player messages in here! Instead, you'll find the hustle and bustle of a chat-style window where people post what they are selling in auction format and offer bulk deals on strange combinations of cards. It takes longer to get what you want, but you'll certainly get it a little cheaper.
 
 Most items go through a bidding process -- if you want in just post your bid, but be quick and don't bid unless you are serious. If you win the bid, someone will tell you begin a trade with a player (usually not the player announcing the auctions) to complete your transaction. If things are flying by too quickly, there's a play/pause button to help you read everything being posted.
 

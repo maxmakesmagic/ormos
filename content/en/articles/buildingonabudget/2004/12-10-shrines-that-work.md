@@ -273,7 +273,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/bf/7e/bf7ed824aab28bcf10cd7d0b30b42acd568287be7bb8c5db18d02b1413e22a37.jpg)One of the coolest new mechanics to come out of *Champions of Kamigawa* is the Honden cycle. These legendary shrines all have mediocre abilities attached for their mana cost when you have just one out, but once you get to start combining their powers they become stronger. 
+![](https://i.ormos.uk/bf/7e/bf7ed824aab28bcf10cd7d0b30b42acd568287be7bb8c5db18d02b1413e22a37.jpg)
+
+One of the coolest new mechanics to come out of *Champions of Kamigawa* is the Honden cycle. These legendary shrines all have mediocre abilities attached for their mana cost when you have just one out, but once you get to start combining their powers they become stronger. 
 
 *Much* stronger.
 
@@ -283,7 +285,9 @@ The reason for this is that when you play three of a card, you maximize your cha
 
 Of course, all of this doesn't even tackle the real issue: mana. How do we plan on getting five colors of mana into play in order to cast all these shrines? The answer is rather commonplace these days. We have lots of awesome five-color tools available to us. I would recommend using Kodama's Reach, Sakura-Tribe Elder, and Sylvok Explorer. However, you could easily use Talismans, Wayfarer's Bauble, or Orochi Leafcaller instead of the Explorer. Even Pentad Prism would work.
 
-![](https://i.ormos.uk/50/57/505713bedf10b6ae79f4b582b5bf6d654bb8774aad1267bf4fb545a6c218e687.jpg)After we add these mana fixers we are going to need more meat in the deck. Thirteen Hondens is not enough – we need other cards to help stall the game or creatures to attack and block. Card Drawing would also be very nice, since it will help us find our Hondens faster. I decided to go with a Sunburst theme as well for this deck, since we already have the five color base set up. My theme really only involves two cards: The under-rated Clearwater Goblet and the 'never found a home' Etched Oracle. 
+![](https://i.ormos.uk/50/57/505713bedf10b6ae79f4b582b5bf6d654bb8774aad1267bf4fb545a6c218e687.jpg)
+
+After we add these mana fixers we are going to need more meat in the deck. Thirteen Hondens is not enough – we need other cards to help stall the game or creatures to attack and block. Card Drawing would also be very nice, since it will help us find our Hondens faster. I decided to go with a Sunburst theme as well for this deck, since we already have the five color base set up. My theme really only involves two cards: The under-rated Clearwater Goblet and the 'never found a home' Etched Oracle. 
 
 Clearwater Goblet is really amazing. It isn't the easiest thing to get into play at five mana, but it sure makes up for lost time – especially when you can play it for five counters (which will happen most of the time here). If you manage to live to your next upkeep, it's all gravy. You gain tons of life such that your opponents attacker's don't matter that much. When you combine this with the lifegain from Honden of Cleansing Fire, you opponents might as well forget about killing you with damage. 
 

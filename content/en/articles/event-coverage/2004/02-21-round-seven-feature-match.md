@@ -44,7 +44,9 @@ archive_source:
   sha256: afdf5cc0920027c532ee07c768d65946a75da6ddd21577b87aae12fcd6876af9
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r7fm1_1.jpg)This has been a very, very long day but things seem to be working out well for these two players. They have sailed through six rounds without a scratch and whoever wins this round will almost certainly be guaranteed a seat tomorrow.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r7fm1_1.jpg)
+
+This has been a very, very long day but things seem to be working out well for these two players. They have sailed through six rounds without a scratch and whoever wins this round will almost certainly be guaranteed a seat tomorrow.
 
 ### Game 1
 

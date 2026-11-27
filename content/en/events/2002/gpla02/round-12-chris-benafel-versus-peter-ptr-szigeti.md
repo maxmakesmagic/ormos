@@ -156,7 +156,9 @@ PTR 1, Benafel 0
 
 Benafel, undaunted by the rare beast, attacked with the Buzzard, bringing PTR to 5. He then cast Buzzard #2 and a morph. PTR attacked with the Ravenous Balroth, which was unblocked and brought Benafel to 7. PTR then laid a Wirewood Savage and passed the turn, with 1 card left in his hand. Benafel used Shephard, untapped and studied the situation. 
 
-![](http://www.wizards.com/sideboard/images/gpla02/918.jpg)At this point head judge Sheldon Menery stopped the game and issued Benafel a warning for what he determined to be slow play. Somewhat incredulous, Benafel attacked with the 2 Birds, which was negated by Fogbeast being sacrificed. PTR attacked with his Baloth and his Savage. The last card in PTR’s hand was Primal Boost, giving him the game if either creature were unblocked. Benafel took no chances, putting the morph in front of the Savage and the Shephard chumping the Balroth. Boost was cycled to save Savage. Benafel untapped, slammed down Shade's Breath with many, many swamps in play, and they were shuffling for game 3.
+![](http://www.wizards.com/sideboard/images/gpla02/918.jpg)
+
+At this point head judge Sheldon Menery stopped the game and issued Benafel a warning for what he determined to be slow play. Somewhat incredulous, Benafel attacked with the 2 Birds, which was negated by Fogbeast being sacrificed. PTR attacked with his Baloth and his Savage. The last card in PTR’s hand was Primal Boost, giving him the game if either creature were unblocked. Benafel took no chances, putting the morph in front of the Savage and the Shephard chumping the Balroth. Boost was cycled to save Savage. Benafel untapped, slammed down Shade's Breath with many, many swamps in play, and they were shuffling for game 3.
 
 PTR 1, Chris Benafel 1
 

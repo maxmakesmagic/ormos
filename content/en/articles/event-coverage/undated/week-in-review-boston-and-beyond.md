@@ -104,13 +104,17 @@ render_recovery:
 
 ### Pro Tour-Boston
 
-![](http://www.wizards.com/sideboard/images/ptbos02/727.jpg)A fourth team Pro Tour came and went. It meant different things to different people - there are certainly many stories to be told there - but most importantly it kept driving in the point that Magic is not all about luck. Phoenix Foundation, piloted by none other than Kai Budde, has dominated the tournament, retaining its streak for never losing a sanctioned Team Rochester Draft match over the course of two Pro Tours and a Masters Series.
+![](http://www.wizards.com/sideboard/images/ptbos02/727.jpg)
+
+A fourth team Pro Tour came and went. It meant different things to different people - there are certainly many stories to be told there - but most importantly it kept driving in the point that Magic is not all about luck. Phoenix Foundation, piloted by none other than Kai Budde, has dominated the tournament, retaining its streak for never losing a sanctioned Team Rochester Draft match over the course of two Pro Tours and a Masters Series.
 
 Phoenix Foundation was in a bit of trouble early on. In fact, they were forced to play an elimination match in the final round of Day 1 - had they lost that one, they would not even be competing on Saturday. Instead, Foundation went on to sweep their way through five rounds of Swiss and two rounds of single elimination to retain their dominance of the format. 
 
 There really isn't anything else I can say about Kai and his teammates that has not been written in the coverage of this, or other events. So let's talk about the other teams in the Top 4 instead. The finalist team was definitely the dark horse of this Top 4. Consisting of Canada's Steve Wolfman, David Rood, and Elijah Pollock, the team took the tournament by storm. These guys (well, Rood and Pollock anyway) have been seen consistently at events, with a sprinkle of good finishes but nothing at the level of Pro Tour Top 8's. Could 2020 be this year's Les Plus Class? (the French team consisting of Nassif, Tenenbaum and Olivieri, who went on to become consistent PT money finishers after their 2nd place finish at Pro Tour-New York last year).
 
-![](http://www.wizards.com/sideboard/images/ptbos02/783.jpg)Courtney's Boys was the only mercenary team to do well. Named after Bob Maher's wife, the team also included Gary Wise and Neil Reeves. Although it was a last-minute team, the three got together for nearly ten days in order to practice. Courtney's Boys went undefeated on Day 1 and although their draft performance was not impressive (2020 offered them an intentional draw when they were about to win, sending them to a 3-2 record, then beat them again in Top 4) it was certainly good enough for a Top 4 finish. This is second time Gary Wise has played in a Team Pro Tour Top 4, after winning two years ago as part of Potato Nation. Maher and Reeves have had their share of top finishes, but it's the first Team Pro Tour Top 4 for each of them.
+![](http://www.wizards.com/sideboard/images/ptbos02/783.jpg)
+
+Courtney's Boys was the only mercenary team to do well. Named after Bob Maher's wife, the team also included Gary Wise and Neil Reeves. Although it was a last-minute team, the three got together for nearly ten days in order to practice. Courtney's Boys went undefeated on Day 1 and although their draft performance was not impressive (2020 offered them an intentional draw when they were about to win, sending them to a 3-2 record, then beat them again in Top 4) it was certainly good enough for a Top 4 finish. This is second time Gary Wise has played in a Team Pro Tour Top 4, after winning two years ago as part of Potato Nation. Maher and Reeves have had their share of top finishes, but it's the first Team Pro Tour Top 4 for each of them.
 
 Finally, there was Slay, Pillage, Gerard - the obligatory New York/New Jersey team in the Top 4. Although my home city has been losing ground when it comes to pro events (Antarctica did not even have enough pro points to play together this time), New York seems to dominate team events - thanks to an obscene number of team drafts done daily at Neutral Ground. There is usually a very strong NY presence in Day 2 and in the money. Slay Pillage Gerard, featuring Jon Sonne, Gerard Fabiano (replacing Eric Ziegler) and Scott McCord, were this year's success story.
 
@@ -122,7 +126,9 @@ Outside of the Top 4, there were a number of very interesting teams. Here are a 
 
 **Deadguy** - Invitational invitee extraordinaire Chris Pikula qualified for this one with teammates Tsai and Price. The team placed 117th, but at least this old-school formation got to play together again.
 
-![](https://i.ormos.uk/72/9a/729a219a2a5e386a5accb34718cd5b0e032f9a224e8ebd204e8e43f04f6b53d0.jpg)**Goldmember** - Another old school pro not often seen around the Pro Tour these days is Olle Rade. He too showed up in Boston, with teammates Morgan Karlsson and Rickard Osterberg. Rade signed many copies of his Invitational card and placed a respectable 23rd.
+![](https://i.ormos.uk/72/9a/729a219a2a5e386a5accb34718cd5b0e032f9a224e8ebd204e8e43f04f6b53d0.jpg)
+
+**Goldmember** - Another old school pro not often seen around the Pro Tour these days is Olle Rade. He too showed up in Boston, with teammates Morgan Karlsson and Rickard Osterberg. Rade signed many copies of his Invitational card and placed a respectable 23rd.
 
 **Hobby One** - Black Ops got a new name, but Florent Jeudon, Olivier Ruel and Antoine Ruel played as well as ever, finishing in sixth place overall.
 
@@ -130,7 +136,9 @@ Outside of the Top 4, there were a number of very interesting teams. Here are a 
 
 **Panzer Hunter** - Japanese team that placed in the finals of two team Masters did not own up to their history on the Tour, placing 66th overall.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/915.jpg)**Token European** - If I had to bet against a day when Peter Szigeti would be carrying Jon Finkel onto the Pro Tour, I'd be eating my hat right now. The team was made even stranger by the addition of token European Svend Geertsen. The trio finished in 58th place.
+![](http://www.wizards.com/sideboard/images/ptbos02/915.jpg)
+
+**Token European** - If I had to bet against a day when Peter Szigeti would be carrying Jon Finkel onto the Pro Tour, I'd be eating my hat right now. The team was made even stranger by the addition of token European Svend Geertsen. The trio finished in 58th place.
 
 **Your Move Games** - This powerhouse team consisting of Bostonians Rob Dougherty and Darwin Kastle and ex-Bostonian Dave Humpherys failed to make Day 2 of the Team Pro Tour for the second year in a row. This is a minor setback for one of the most established teams on the Tour and they are sure to be back for more next year.
 
@@ -138,13 +146,17 @@ Outside of the Top 4, there were a number of very interesting teams. Here are a 
 
 ### Kai's Big Weekend
 
-![](https://i.ormos.uk/a1/0a/a10a813d4dce92e2102eb837965cd14ee7e9b35245a9ab8cd30d6fa74ef7a9b8.jpg)In addition to "just" winning another Pro Tour (his sixth!), Kai Budde had other things to celebrate this weekend. His teammates join him at the top of the '# of PTs won" standings. This is a third win for Baberowski who is now in second place, and second with for Blume which ties him with Finkel and Hovi. Another important accomplishment for Budde is overreaching Finkel and becoming the top money winner on the Pro Tour, with just over $260,000. Finkel's last record has fallen, though it will probably take a very long time for anyone other than Kai to reach his $250,000 perch.
+![](https://i.ormos.uk/a1/0a/a10a813d4dce92e2102eb837965cd14ee7e9b35245a9ab8cd30d6fa74ef7a9b8.jpg)
+
+In addition to "just" winning another Pro Tour (his sixth!), Kai Budde had other things to celebrate this weekend. His teammates join him at the top of the '# of PTs won" standings. This is a third win for Baberowski who is now in second place, and second with for Blume which ties him with Finkel and Hovi. Another important accomplishment for Budde is overreaching Finkel and becoming the top money winner on the Pro Tour, with just over $260,000. Finkel's last record has fallen, though it will probably take a very long time for anyone other than Kai to reach his $250,000 perch.
 
 A slightly sour note was the unveiling of Kai's card, Voidmage Prodigy, printed in the *Onslaught* expansion. The card itself is strong and has a lot of tournament possibilities, but the artwork left a few people speechless, Kai included. We are still not sure whether Kai was depicted as pregnant, or his head was drawn on Marco's body. This minor setback hardly ruined the weekend for the German Juggernaut.
 
 ### Grand Prix-Hamburg
 
-![](http://www.wizards.com/sideboard/images/gpham02/881.jpg)I can offer very little insight into this event. First, I was in Boston at the time. Second, there were no instantly recognizable names in the Top 8, with no previous Top 16 GP or PT finishes among them. This is no surprise, as most of the name players you'd normally watch in the event like this were in Boston. Germany's Simon Hockwin won with a Quiet Roar variant defeating countryman Arndt Meier's w-g deck in the finals. Top 8 offered no surprise tech, with a healthy share of u-g, two w-g decks and a monoblack deck making their way to the top.
+![](http://www.wizards.com/sideboard/images/gpham02/881.jpg)
+
+I can offer very little insight into this event. First, I was in Boston at the time. Second, there were no instantly recognizable names in the Top 8, with no previous Top 16 GP or PT finishes among them. This is no surprise, as most of the name players you'd normally watch in the event like this were in Boston. Germany's Simon Hockwin won with a Quiet Roar variant defeating countryman Arndt Meier's w-g deck in the finals. Top 8 offered no surprise tech, with a healthy share of u-g, two w-g decks and a monoblack deck making their way to the top.
 
 Hockwin was one PT attendance away from continuing the streak of amateurs winning GP's this season.
 
@@ -156,7 +168,9 @@ Hockwin was one PT attendance away from continuing the streak of amateurs winnin
 
 Last week's question:
 
-![](https://i.ormos.uk/f3/aa/f3aa04cad82ecb21f2c17f00f404a37f87b7e397a3fbee6719b502846e645159.jpg)What card did Jon Finkel originally submit at the Invitational he won? (The card was deemed way too powerful and Finkel was sent back to the drawing board, eventually coming up with Shadowmage Infiltrator).
+![](https://i.ormos.uk/f3/aa/f3aa04cad82ecb21f2c17f00f404a37f87b7e397a3fbee6719b502846e645159.jpg)
+
+What card did Jon Finkel originally submit at the Invitational he won? (The card was deemed way too powerful and Finkel was sent back to the drawing board, eventually coming up with Shadowmage Infiltrator).
 
 Answer: It was Wrath of Leknif, a sorcery for ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif)![White Mana](https://i.ormos.uk/55/78/55785924f8cda9ab2a85364f807ba172c7530e43d94b14aad222ec4bbf2589ca.gif)![White Mana](https://i.ormos.uk/55/78/55785924f8cda9ab2a85364f807ba172c7530e43d94b14aad222ec4bbf2589ca.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif) that cast Wrath of God and untapped four lands. Way too good for control decks. 
 
@@ -170,7 +184,9 @@ As close to 100 people pointed out via emails, this is incorrect. Rootwallas are
 
 ### Play of the Week
 
-![](https://i.ormos.uk/88/5b/885bac2ddafba3962160984e169101260939901bfffdc2eef3e0eb61fa3dd016.jpg)Freddie Crespo was playing in the first *Onslaught* PTQ on the East Coast held in Harrisburgh, PA. His Jareth, Leonine Titan and a couple of other creatures were racing against an opponent's Thrashing Mudspawn and team. Both players were at over ten life points when the unsuspecting opponent entered his attack step. Crespo cast Inspirit on Jareth and blocked Thrashing Mudspawn. Between the +7/+7 bonus Jareth gets for blocking and +2/+4 provided by Inspirit, he was able to deal 13 damage directly to his opponent and end the game. Attacking never used to hurt so much!
+![](https://i.ormos.uk/88/5b/885bac2ddafba3962160984e169101260939901bfffdc2eef3e0eb61fa3dd016.jpg)
+
+Freddie Crespo was playing in the first *Onslaught* PTQ on the East Coast held in Harrisburgh, PA. His Jareth, Leonine Titan and a couple of other creatures were racing against an opponent's Thrashing Mudspawn and team. Both players were at over ten life points when the unsuspecting opponent entered his attack step. Crespo cast Inspirit on Jareth and blocked Thrashing Mudspawn. Between the +7/+7 bonus Jareth gets for blocking and +2/+4 provided by Inspirit, he was able to deal 13 damage directly to his opponent and end the game. Attacking never used to hurt so much!
 
 * * *
 

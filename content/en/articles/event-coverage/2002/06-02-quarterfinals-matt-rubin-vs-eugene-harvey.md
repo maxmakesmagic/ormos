@@ -44,7 +44,9 @@ archive_source:
   sha256: 58e4a6fdc4a56f19fb037c6bb3a4f09950efdfbad8912e9c7f6e219db2e7c643
 render_recovery: []
 ---
-![](https://i.ormos.uk/c9/eb/c9eb91738cca266b93988624424fc8fdee9b37b79a1cb312075b6287c0c62aae.jpg)Last year, Eugene Harvey used this very tournament as a springboard for his Magic career. Today, Matt Rubin has the opportunity to do the same. Rubin is a very talented, respected player in the Northeast, but this is his first high profile finish. Because this year's Nationals is single elimination, only one of these players will advance, and the loser cannot make the team. The question left to answer is whether the now proven and experienced Harvey will make back-to-back United States National teams, or if Rubin will play the role of this year's Harvey, and go on to become one of Magic's lesser known talents revealed to the world. An interesting thing to note is that Rubin and Harvey are staying in the same house this weekend. Needless to say, they did not help each other playtest last night.
+![](https://i.ormos.uk/c9/eb/c9eb91738cca266b93988624424fc8fdee9b37b79a1cb312075b6287c0c62aae.jpg)
+
+Last year, Eugene Harvey used this very tournament as a springboard for his Magic career. Today, Matt Rubin has the opportunity to do the same. Rubin is a very talented, respected player in the Northeast, but this is his first high profile finish. Because this year's Nationals is single elimination, only one of these players will advance, and the loser cannot make the team. The question left to answer is whether the now proven and experienced Harvey will make back-to-back United States National teams, or if Rubin will play the role of this year's Harvey, and go on to become one of Magic's lesser known talents revealed to the world. An interesting thing to note is that Rubin and Harvey are staying in the same house this weekend. Needless to say, they did not help each other playtest last night.
 
 ### Game 1
 
@@ -56,7 +58,9 @@ At this very moment, America was waking up to the beginning of a new day. It was
 
 Matt Rubin, however, was still thinking about what to do. 
 
-![](https://i.ormos.uk/3a/b0/3ab0a96372ef8abaa8a1b7ef48891b4985680ed0b82309ae7bdb5e83f683adac.jpg)Eventually, mana was floated and AEther Burst #3 was played, slowing down Harvey a bit more. Psychatog then attacked for a point of damage. Harvey brought his creatures back out and tapped down some of Rubin's lands. Enough mana was available to summon Nightscape Familiar. The next turn was not so kind, as Harvey had access to all his creatures, and tapped down all but two of Rubin's lands, as well as the 'Tog. Fact or Fiction was cast in response, giving Rubin a choice between two lands and Counterspell, or land and Recoil. Rubin took the Counterspell pile. The Familiar attacked for one, bringing Harvey down to nine. Most of that damage had been dealt by painlands. 
+![](https://i.ormos.uk/3a/b0/3ab0a96372ef8abaa8a1b7ef48891b4985680ed0b82309ae7bdb5e83f683adac.jpg)
+
+Eventually, mana was floated and AEther Burst #3 was played, slowing down Harvey a bit more. Psychatog then attacked for a point of damage. Harvey brought his creatures back out and tapped down some of Rubin's lands. Enough mana was available to summon Nightscape Familiar. The next turn was not so kind, as Harvey had access to all his creatures, and tapped down all but two of Rubin's lands, as well as the 'Tog. Fact or Fiction was cast in response, giving Rubin a choice between two lands and Counterspell, or land and Recoil. Rubin took the Counterspell pile. The Familiar attacked for one, bringing Harvey down to nine. Most of that damage had been dealt by painlands. 
 
 Deep Analysis drew Harvey some more cards, and he continued to deprive Rubin of most of his mana, while tapping down his creatures as well. A second Opposition gave Harvey insurance against Recoil. The game got very interesting at this point, because Rubin had accumulated enough lands to operate under Opposition. A second Psychatog essentially gave Rubin another mana source to work with, since it absolutely had to be tapped down or blocked. Harvey summoned a pair of Mongrels and cast Call of the Herd, giving Rubin less space. Recoil took out the elephant, but Harvey dealt the final five points of damage to take the first game.
 
@@ -90,7 +94,9 @@ Rubin- 1 Harvey- 2
 
 ### Game 4
 
-![](https://i.ormos.uk/b3/96/b3968bc8fc06b686985998aae26abf311fc51277579a03480f420f82cb21e7b7.jpg)Rubin mulliganed his opening hand. He kept the following one land hand and missed his second land drop. Ice tapped down a land on Rubin's upkeep, and he found a second land. Squirrel Nest was played, and Rubin was still stuck at two lands. Harvey's squirrel army began to increase in numbers and attack Rubin, who was up to three lands. Nightscape Familiar was summoned, but Rubin still had a great deal of catching up to do. Engineered Plague helped out, dealing with the squirrel problem. Standstill helped Rubin catch up even more, and suddenly the game became very interesting. Psychatog resolved after a counterwar, but Harvey got ahead on card advantage thanks to Deep Analysis. 
+![](https://i.ormos.uk/b3/96/b3968bc8fc06b686985998aae26abf311fc51277579a03480f420f82cb21e7b7.jpg)
+
+Rubin mulliganed his opening hand. He kept the following one land hand and missed his second land drop. Ice tapped down a land on Rubin's upkeep, and he found a second land. Squirrel Nest was played, and Rubin was still stuck at two lands. Harvey's squirrel army began to increase in numbers and attack Rubin, who was up to three lands. Nightscape Familiar was summoned, but Rubin still had a great deal of catching up to do. Engineered Plague helped out, dealing with the squirrel problem. Standstill helped Rubin catch up even more, and suddenly the game became very interesting. Psychatog resolved after a counterwar, but Harvey got ahead on card advantage thanks to Deep Analysis. 
 
 Opposition resolved soon after, followed by Static Orb and a fourth creature. Rubin cast Fact or Fiction on end step hoping to see a Recoil. When it wasn't there, he shook his head and knew he had lost. 
 

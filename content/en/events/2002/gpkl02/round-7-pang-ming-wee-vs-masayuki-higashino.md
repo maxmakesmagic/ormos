@@ -91,7 +91,9 @@ render_recovery:
   - Cabal Torturer
   occurrences: 50
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a973.jpg)Pang Ming Wee is a local player and is well recognised for being some good at limited Magic. He is currently the top ranked player in Malaysia and has had a GP Top 8 to his name (Brisbane). Higashino is a former Japanese National Champion (1999), a two-time Grand Prix Champion, and generally a guy you do not want to mess with.
+![](http://www.wizards.com/sideboard/images/gpkl02/a973.jpg)
+
+Pang Ming Wee is a local player and is well recognised for being some good at limited Magic. He is currently the top ranked player in Malaysia and has had a GP Top 8 to his name (Brisbane). Higashino is a former Japanese National Champion (1999), a two-time Grand Prix Champion, and generally a guy you do not want to mess with.
 
 ### Game 1
 
@@ -115,7 +117,9 @@ Wee 1 Higashino 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a974.jpg)Both players elected to bring in Red removal spells for Game 2. Higashino also boarded in a Nantuko Blightcutter.
+![](http://www.wizards.com/sideboard/images/gpkl02/a974.jpg)
+
+Both players elected to bring in Red removal spells for Game 2. Higashino also boarded in a Nantuko Blightcutter.
 
 Higashino started first and played the Crypt Creeper again. He followed up with Blightcutter. PM's first play of the game was a Barbarian Lunatic which traded with the Blightcutter next turn. Higashino's next move was devastating - playing Last Rites for three pitching Basking Rootwalla, Soul Scourge and Metamorphic Wurm (he had a land light hand) for Painbringer, Shadowblood Egg and Aether Burst. To casual observers it didn't seem like a good trade, but when PM is reduced to holding just lands, and Higashino is holding just Narcissism (!) then maybe it wasn't so bad.
 
@@ -129,7 +133,9 @@ Wee kept a hand that had Islands and a Cephalid Looter. Higashino kept a two lan
 
 Higashino's turn four saw him draw the third land he needed, and realizing that he was going to be operating land light, cast Last Rites and exchanged a Metamorphic Wurm and Narcissism for Soul Scourge and Afflict. 
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a975.jpg)PM put even more pressure on H when he found a Swamp off the top of his deck to go with the Barbarian Outcast he had in his hand. PM also played another bear: Phantom Whelp. Possessed Aven served, and it was Higashino's turn again. He could only manage Cabal Torturer. 
+![](http://www.wizards.com/sideboard/images/gpkl02/a975.jpg)
+
+PM put even more pressure on H when he found a Swamp off the top of his deck to go with the Barbarian Outcast he had in his hand. PM also played another bear: Phantom Whelp. Possessed Aven served, and it was Higashino's turn again. He could only manage Cabal Torturer. 
 
 PM's gamble of committing all his forces to the table appeared to be working. Meanwhile Higashino's mana problems were starting to take their toll on the game. Needing to dig deeper through his deck and to mitigate PM's attacking forces, he used the Torturer and Afflict to ice the Outcast. PM undeterred just swung with his remaining forces. Higashino found a blocker in Grotesque Hybrid - it traded with the Possesed Aven but PM found a Soul Scourge to replace it. 
 

@@ -759,7 +759,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/09/81/09817591e3b1458a9cfa076a0ac30bcce16645f98a66133176df2a2f4b4dbae8.jpg)Tom van de Logt is used to being a champion. He is the reigning Dutch National Champion (for the third time), as well as the incumbent Magic World Champion. His current goal, aside from trying for the repeat at Worlds, is to lead his countrymen—considered by some to be heavy favorites—to the Worlds team title.
+![](https://i.ormos.uk/09/81/09817591e3b1458a9cfa076a0ac30bcce16645f98a66133176df2a2f4b4dbae8.jpg)
+
+Tom van de Logt is used to being a champion. He is the reigning Dutch National Champion (for the third time), as well as the incumbent Magic World Champion. His current goal, aside from trying for the repeat at Worlds, is to lead his countrymen—considered by some to be heavy favorites—to the Worlds team title.
 
 The man to his left, Eugene Harvey, has the same goal. Eugene, the current US Champion, carries the bulk of that team's burden. Whereas van de Logt's teammates are PT mainstays Kamiel Cornelissen and Noah Boeken, Eugene's mates have a combined one Pro Tour of experience between them.
 
@@ -788,7 +790,9 @@ Van de Logt's last few picks in *Odyssey* included two Seafloor Debris, a Predic
 
 Eugene stuck to his guns at the beginning of *Torment*, taking a Seton's Scout, Arrogant Wurm, and Aquamoeba. But then his colors dried up again, and he had to start counterdrafting—first a Violent Eruption, then a Sickening Dreams, and later a Pitchstone Wall.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a890.jpg)The Violent Eruption pick proved to be particularly bad for Eugene. Van de Logt had started taking red cards early in *Torment*; after his first-pick Deep Analysis he took a Fiery Temper, and later a Grim Lavamancer. Had Eugene shipped the Eruption, Tom would have certainly cemented himself in red and probably abandoned blue.
+![](http://www.wizards.com/sideboard/images/worlds02/a890.jpg)
+
+The Violent Eruption pick proved to be particularly bad for Eugene. Van de Logt had started taking red cards early in *Torment*; after his first-pick Deep Analysis he took a Fiery Temper, and later a Grim Lavamancer. Had Eugene shipped the Eruption, Tom would have certainly cemented himself in red and probably abandoned blue.
 
 Van de Logt's first *Judgment* pack offered him the choice between Scalpelexis and Shieldmage Advocate. Needing ways to win, he took the flier, and Eugene was out of luck on blue. Van de Logt was rewarded with a second pick Wonder, and he got a decent selection of white and blue cards to flesh out the deck.
 

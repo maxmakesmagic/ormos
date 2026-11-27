@@ -44,7 +44,9 @@ archive_source:
   sha256: 98e8caf869985e671128a4072b15451c928cb8dff63faf8bb39efa5db4f2b56f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gputs02/923.jpg)Rei Hashimoto is a pro player from about four years ago. He was the sort that was always winning qualifiers, but then never attending. The expense and school resposibilities kept him from all but a few tours. He never really left the scene, though, and he's back with a vengeance. His opponent, Masashi Oiso somewhat less of a star, and is frankly blown away by his success thusfar. Coincidentally, these two were the only ones at the table drafting white cards. Hashimoto has the better deck, but it's sure to be a close one. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gputs02/923.jpg)
+
+Rei Hashimoto is a pro player from about four years ago. He was the sort that was always winning qualifiers, but then never attending. The expense and school resposibilities kept him from all but a few tours. He never really left the scene, though, and he's back with a vengeance. His opponent, Masashi Oiso somewhat less of a star, and is frankly blown away by his success thusfar. Coincidentally, these two were the only ones at the table drafting white cards. Hashimoto has the better deck, but it's sure to be a close one. 
 
 Hashimoto started with a mulligan, but his next six were just fine. He led with Disciple, and then both players summoned Morphs. They traded hits, but then Oiso stalled at four land with no swamps. [Battlefield Medic](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic) joined his team, but all offense was shut down by Aurafication. Hashimoto then left himself empty-handed, spilling out [Whipcorder](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipcorder) and [Dive Bomber](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber).
 

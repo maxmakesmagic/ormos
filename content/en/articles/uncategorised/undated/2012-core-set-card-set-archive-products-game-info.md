@@ -76,7 +76,9 @@ Battle like the best, right out of the box. Includes a tournament-ready 60-card 
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/f6/24/f624905bf27b1882c76695004e7fb75c1e98323e440be1f3ada40fee97bc244d.png)The **Magic: The Gathering***2012 Core Set* features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set.
+![](https://i.ormos.uk/f6/24/f624905bf27b1882c76695004e7fb75c1e98323e440be1f3ada40fee97bc244d.png)
+
+The **Magic: The Gathering***2012 Core Set* features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set.
 
 **Set Name:***2012 Core Set*  
 **Number of Cards:** 249

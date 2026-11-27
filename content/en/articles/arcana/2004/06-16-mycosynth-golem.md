@@ -101,6 +101,8 @@ Mycosynth Golem -- in rules terms -- is an artifact creature that grants the "af
 ![Mycosynth Golem art by Paolo Parente](https://i.ormos.uk/2a/04/2a049838e9e54e87258d7d8136393fb6ebbae15d2525b48230dca2fe1c1cd02d.jpg)  
 ***Mycosynth Golem** art by Paolo Parente*
 
-![Memnarch detail](https://i.ormos.uk/62/88/6288b408fdc36aa2e03170001da8197414dc24c27bb281ab8f9d0a86b0ee993e.jpg)Mycosynth Golem's eyes are similar to **Memnarch**'s (see right), which reflects the golem's commanding power. Five of its six arms hold brutal bladed weapons, representing its prowess in combat. Its other arm points forward, leading the way for its armies. The mechanical minions behind it in the art are threshers, artifact creatures covered in deadly blades (see, for example, **Sawtooth Thresher**). The entire scene takes place inside the plane of Mirrodin (compare to the art of **Mirrodin's Core**).
+![Memnarch detail](https://i.ormos.uk/62/88/6288b408fdc36aa2e03170001da8197414dc24c27bb281ab8f9d0a86b0ee993e.jpg)
+
+Mycosynth Golem's eyes are similar to **Memnarch**'s (see right), which reflects the golem's commanding power. Five of its six arms hold brutal bladed weapons, representing its prowess in combat. Its other arm points forward, leading the way for its armies. The mechanical minions behind it in the art are threshers, artifact creatures covered in deadly blades (see, for example, **Sawtooth Thresher**). The entire scene takes place inside the plane of Mirrodin (compare to the art of **Mirrodin's Core**).
 
 Tune in to Mark Gottlieb's column tomorrow for a deck taking advantage of this imposing artifact creature!

@@ -306,7 +306,9 @@ render_recovery:
 
 **◆レギオン**
 
-![](https://i.ormos.uk/2b/12/2b126f6abba7c83487cc39e7cbbe82de84d74a4bb3d500a50d22e200cbfef969.jpg)ここまで好調なパックに恵まれた「PS2」だがレギオンに入ってからはいまいちおいしくないパックを開けてしまい《スカークの匪賊/Skirk Marauder》や《ブロントセリウム/Brontotherium》等のカードの頭数は揃うものの《森林守りのエルフ/Timberwatch Elf》や《皮を剥ぐ者/Skinthinner》のようなデッキとして機能するためのカードが取れない。
+![](https://i.ormos.uk/2b/12/2b126f6abba7c83487cc39e7cbbe82de84d74a4bb3d500a50d22e200cbfef969.jpg)
+
+ここまで好調なパックに恵まれた「PS2」だがレギオンに入ってからはいまいちおいしくないパックを開けてしまい《スカークの匪賊/Skirk Marauder》や《ブロントセリウム/Brontotherium》等のカードの頭数は揃うものの《森林守りのエルフ/Timberwatch Elf》や《皮を剥ぐ者/Skinthinner》のようなデッキとして機能するためのカードが取れない。
 
 一方「2020」はオンスロートの時点でしっかりとしたドラフトを行っていたためレギオンに入ってからは赤緑は各種挑発付きのクリーチャーで《森林守りのエルフ/Timberwatch Elf》《暴れまわるマーロドント/Berserk Murlodont》等の挑発ロックを形成し、青赤は《残響の追跡者/Echo Tracer》、《霧衣のウミツバメ/Mistform Seaswift》、《秘密調査員/Covert Operative》と言った優秀な青いカードで頼りなかったクリーチャー陣を一気に引き締めにかかる。
 

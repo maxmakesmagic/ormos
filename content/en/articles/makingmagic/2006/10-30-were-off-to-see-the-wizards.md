@@ -85,7 +85,9 @@ archive_source:
   sha256: c1b64ad2d4667fa809307176f1f305b121a2a781ab71865747de1d775c87e7a2
 render_recovery: []
 ---
-![Head_to_Head](https://i.ormos.uk/4a/9a/4a9ad95f4c853c2659b8773511bb26b014068fd76719d5d0767333375f258d8f.jpg)Welcometo Wizards Week! This week we’ll be taking a look at a very old and popular creature type. I wasn’t sure what part of wizards I wanted to write about, but then, while working on this week’s installment of [The Great Designer Search](https://web.archive.org/web/20061030000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/designersearch/episode1), I got an idea.
+![Head_to_Head](https://i.ormos.uk/4a/9a/4a9ad95f4c853c2659b8773511bb26b014068fd76719d5d0767333375f258d8f.jpg)
+
+Welcometo Wizards Week! This week we’ll be taking a look at a very old and popular creature type. I wasn’t sure what part of wizards I wanted to write about, but then, while working on this week’s installment of [The Great Designer Search](https://web.archive.org/web/20061030000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/designersearch/episode1), I got an idea.
 
 You see, what few people know is that each card has to audition to get into a set. The designers will hold open auditions and let whoever is interested try their hand at getting into the file. Because different creature types require different temperaments, the design team tends to divide up who gets what. I, for example, try to avoid interviewing zombies. (I’ve had some zombie issues in the past; click [here](https://web.archive.org/web/20061030000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr61) to see what I’m talking about.)
 

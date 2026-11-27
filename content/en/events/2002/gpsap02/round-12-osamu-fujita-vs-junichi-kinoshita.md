@@ -53,7 +53,9 @@ archive_source:
   sha256: a2be4aecdb4e0d102520025b2ddb77e43a56ce77b8c49ee192205703856a4954
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a951.jpg)Osamu Fujita's glower is a familiar one. He's best known for grimacing at cards during team competitions, but this weekend he's been frowning in singles competition. His opponent, Junichi Kinoshita, is a solid player from Osaka who has yet to earn himself a star finish.
+![](http://www.wizards.com/sideboard/images/gpsap02/a951.jpg)
+
+Osamu Fujita's glower is a familiar one. He's best known for grimacing at cards during team competitions, but this weekend he's been frowning in singles competition. His opponent, Junichi Kinoshita, is a solid player from Osaka who has yet to earn himself a star finish.
 
 Fujita was ready for Kinoshita's start of Rootwalla, then Careful Study out a second Rootwalla. A pair of Innocent Blood stopped them cold. Wild Mongrel showed up just in time to fall to Chainer's Edict. Rancid Earth shut down Centaur Garden before it could become a factor.
 
@@ -67,7 +69,9 @@ Kinoshita dropped Mongrel. Fujita wrecked him with Mind Sludge and Mutilate. He 
 
 Kinoshita 1 - Fujita 0
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a952.jpg)Kinoshita had a slow start for the second game, with no pressure on the board after turn two. A Rootwalla showed up late to the party, but was joined by Standstill. Fujita refused to wait, Tutoring up Mirari. Kinoshita drew three and then threw down Wild Mongrel, Studying away Phantom Centaur and land.
+![](http://www.wizards.com/sideboard/images/gpsap02/a952.jpg)
+
+Kinoshita had a slow start for the second game, with no pressure on the board after turn two. A Rootwalla showed up late to the party, but was joined by Standstill. Fujita refused to wait, Tutoring up Mirari. Kinoshita drew three and then threw down Wild Mongrel, Studying away Phantom Centaur and land.
 
 Fujita tapped out for his Mirari. Kinoshita swung for five and dropped another Standstill. Fujita Edicted and copied it. The Standstill served up a second Rootwalla to save the Mongrel. Rancid Earth removed Kinoshita's only forest. Kinoshita hit for three and played a third Standstill.
 

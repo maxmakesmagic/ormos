@@ -190,7 +190,9 @@ Please do not email answers to me. The correct answer will be posted in the next
 
 ### Play of the Week
 
-![](https://i.ormos.uk/d8/87/d887fd1e83bdc0da0fb55c38d7d2bfeee6ffa8ff89e3cdcb613fe76f78198978.jpg)Alex Saltzberg has been hounding me to use his Play of the Week and I have a feeling that unless I post it, he won't stop - so here goes. (and don't get any ideas, unless you talk to me as often as Alex does, I won't post your play just because you ask often enough!)
+![](https://i.ormos.uk/d8/87/d887fd1e83bdc0da0fb55c38d7d2bfeee6ffa8ff89e3cdcb613fe76f78198978.jpg)
+
+Alex Saltzberg has been hounding me to use his Play of the Week and I have a feeling that unless I post it, he won't stop - so here goes. (and don't get any ideas, unless you talk to me as often as Alex does, I won't post your play just because you ask often enough!)
 
 Alex was playing a Standard game on **Magic** Online. His opponent drew a good spell and was ready to make his move. He cast Duress first to make sure Saltzberg could not counter - taking out the only counterspell Alex had, a Circular Logic. He then cast his spell. Saltzberg smiled, and paid the madness cost of Circular Logic, countering it.
 
@@ -198,7 +200,9 @@ Since his opponent never passed priority after casting Duress, Circular Logic re
 
 ### Bad Play of the Week
 
-![](http://www.wizards.com/sideboard/images/PTSD02/a551.jpg)Pro Tour-San Diego champion Farid Meraghni did not go to PT-Osaka. "I have enough points to qualify for the Nice Masters," he reasoned, "and with no points falling off, will pick up more at PT-Nice, qualifying for the next individual Masters as well. In the meantime, I am not very good at Constructed and the ticket to Osaka is quite expensive, so I will sit this one out."
+![](http://www.wizards.com/sideboard/images/PTSD02/a551.jpg)
+
+Pro Tour-San Diego champion Farid Meraghni did not go to PT-Osaka. "I have enough points to qualify for the Nice Masters," he reasoned, "and with no points falling off, will pick up more at PT-Nice, qualifying for the next individual Masters as well. In the meantime, I am not very good at Constructed and the ticket to Osaka is quite expensive, so I will sit this one out."
 
 Invitations to Nice Masters were posted last week, with threshold being 40 points. Meraghni has 39 pro points to his name. Had he showed up in Osaka, he would earn at least 2 pro points and a minimum of $2000 in Nice. Sometimes, the worst play you can make is not to play at all.
 

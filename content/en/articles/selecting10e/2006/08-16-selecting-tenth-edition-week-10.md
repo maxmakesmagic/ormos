@@ -147,7 +147,9 @@ Last' week's flavor text vote featured real-world quotes for [Air Elemental](htt
 
 For the final week of flavor text voting, we turn you back over to Doug Beyer and Matt Cavotta.
 
-![](https://i.ormos.uk/62/a1/62a1b8563db8c75f273162845f792141acee39b2d223d5f42dca0adba4301e99.jpg)**Doug**: This third and final flavor vote comes full circle for Selecting *Tenth Edition*. Way back in the first week, you selected [Hurricane](https://web.archive.org/web/20060816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hurricane) over [Earthquake](https://web.archive.org/web/20060816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earthquake). Now [Hurricane](https://web.archive.org/web/20060816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hurricane) gets brand new flavor text—and you get to choose what it is. Reprinted flavor and real-world quotes aside, all-new flavor text is the main event, the opportunity to bring new life to a classic card. So who are the authors? Well, us—Matt and I wrote these pieces of flavor text from scratch for the stormy sky-sweeper.
+![](https://i.ormos.uk/62/a1/62a1b8563db8c75f273162845f792141acee39b2d223d5f42dca0adba4301e99.jpg)
+
+**Doug**: This third and final flavor vote comes full circle for Selecting *Tenth Edition*. Way back in the first week, you selected [Hurricane](https://web.archive.org/web/20060816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hurricane) over [Earthquake](https://web.archive.org/web/20060816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earthquake). Now [Hurricane](https://web.archive.org/web/20060816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hurricane) gets brand new flavor text—and you get to choose what it is. Reprinted flavor and real-world quotes aside, all-new flavor text is the main event, the opportunity to bring new life to a classic card. So who are the authors? Well, us—Matt and I wrote these pieces of flavor text from scratch for the stormy sky-sweeper.
 
 Like all selected flavor text, the winner will still have to run through editing before its text is final. Don't be surprised if you see slight changes to the winning piece when you see Hurricane poking out of the crinkly wrapper of a *Tenth* booster.
 
@@ -179,7 +181,9 @@ This instantly makes me wonder who Flandarj is, what made him or her compose gra
 
 ### You Be The Brand Manager
 
-![](https://i.ormos.uk/85/8c/858c27a62cfdcc38e5333812eace843c18182ae281966dbdb11ecdb8ce935146.jpg)And, for your final vote, we come to the Brand Manager decision. One of the many decisions for Brand when it comes to new sets is the expansion symbol. For *Tenth Edition*, a special choice comes up. For two core sets (*Fifth Edition* and *Sixth Edition*) Brand went with roman numerals for the core set's symbol. Since then, *Seventh*, *Eighth*, and *Ninth* have all used just the plain number for the symbol. For *Tenth*, Brand wants to return to roman numerals, using "X" as the symbol.
+![](https://i.ormos.uk/85/8c/858c27a62cfdcc38e5333812eace843c18182ae281966dbdb11ecdb8ce935146.jpg)
+
+And, for your final vote, we come to the Brand Manager decision. One of the many decisions for Brand when it comes to new sets is the expansion symbol. For *Tenth Edition*, a special choice comes up. For two core sets (*Fifth Edition* and *Sixth Edition*) Brand went with roman numerals for the core set's symbol. Since then, *Seventh*, *Eighth*, and *Ninth* have all used just the plain number for the symbol. For *Tenth*, Brand wants to return to roman numerals, using "X" as the symbol.
 
 But, this is Selecting *Tenth Edition*, so the choice isn't just theirs. This week, you'll get to choose your own favorite, be it "X" or "10" for the set's expansion symbol. But, in this case, Brand wants "X" so bad that you'll need a larger than normal majority to overrule them. Left to them, "X" would be the winner, so we turn it over to you and see what happens. If at least 75% percent of the readers vote that they'd prefer "10" over "X", you'll overrule Brand and the symbol will be "10". Despite how much they want "X", if that many people vote for "10" they're willing to listen to the masses.
 

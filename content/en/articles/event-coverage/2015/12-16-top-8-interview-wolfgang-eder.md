@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/348.JPG)This Pro Tour season has been good to 19 year old Wolfgang Eder from Wennheim in Germany. He qualified for 1999 Pro Tour Chicago, he qualified for 2000 Pro Tour Los Angeles, he is qualified for 2000 Pro Tour Chicago and he finished third in the German nationals, above far more well-known players. Now, he has another merit to add to his list; a top 8 finish from the 2000 European Championship.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/348.JPG)
+
+This Pro Tour season has been good to 19 year old Wolfgang Eder from Wennheim in Germany. He qualified for 1999 Pro Tour Chicago, he qualified for 2000 Pro Tour Los Angeles, he is qualified for 2000 Pro Tour Chicago and he finished third in the German nationals, above far more well-known players. Now, he has another merit to add to his list; a top 8 finish from the 2000 European Championship.
 
 "I don't know why this season has been good, because I haven't changed anything about my playing style," Wolfgang smiles. He didn't expect anything before the Euros because, "I don't think you should expect too much. If you play well, then it's good, if not, then you just don't. But of course I like to play well."
 

@@ -131,7 +131,9 @@ Now I know that you might be thinking that We Add was the team that should have 
 
 ### Speaking of Winning
 
-[![](https://i.ormos.uk/f9/8c/f98c46503ff49919aca07068dc40762123bc34645a629ef684f9ccaa1e16e36b.jpg)](https://web.archive.org/web/20050317000000/https://magic.wizards.com/en/node/579836)Two more Invitational spots have been determined with the results of the Player's ballot being announced over the weekend and the announcement of the Resident Genius ballot.
+[![](https://i.ormos.uk/f9/8c/f98c46503ff49919aca07068dc40762123bc34645a629ef684f9ccaa1e16e36b.jpg)](https://web.archive.org/web/20050317000000/https://magic.wizards.com/en/node/579836)
+
+Two more Invitational spots have been determined with the results of the Player's ballot being announced over the weekend and the announcement of the Resident Genius ballot.
 
 Sam Gomersall was the most popular choice among the players at the Pro Tour when they were all presented with the question "Who is the most feared side draft opponent?". Gomersall is a perennial money winner from England who is definitely one of the most formidable after-hours drafters on the tour. It may seem like an upset when you contrast his resume with some of the other talent on the ballot, but talking to the players early in the weekend he was the favorite all the way.
 

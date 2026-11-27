@@ -1097,7 +1097,9 @@ a:18:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9
 
 This listing belongs to Greg Wilder, 2007 Alabama Champ.
 
-![Aquitect's Will, Lord of Atlantis, and Riptide Pilferer](https://i.ormos.uk/db/e3/dbe37d935487298bd4660a6b80f4da709ef1f23d4546213d03be48c495bcf305.jpg)Eight "pump" Merfolk really improve the offense to this deck, but to be honest, most of the current Merfolk already have fine bodies for their prices; you can't really argue with 1/1 for one, 2/1 for two with a special ability, &c.
+![Aquitect's Will, Lord of Atlantis, and Riptide Pilferer](https://i.ormos.uk/db/e3/dbe37d935487298bd4660a6b80f4da709ef1f23d4546213d03be48c495bcf305.jpg)
+
+Eight "pump" Merfolk really improve the offense to this deck, but to be honest, most of the current Merfolk already have fine bodies for their prices; you can't really argue with 1/1 for one, 2/1 for two with a special ability, &c.
 
 Special mention *does* have to go to the deadly [Riptide Pilferer](https://web.archive.org/web/20071115000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Pilferer)... This is usually a sideboard card, and a scary one for most blue decks. Greg has three main... and thanks to [Lord of Atlantis](https://web.archive.org/web/20071115000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lord+of+Atlantis), [Riptide Pilferer](https://web.archive.org/web/20071115000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Pilferer) ain't never gettin' blocked. [Aquitect's Will](https://web.archive.org/web/20071115000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquitect%27s+Will) is the perfect cantrip complement for this deck due to the Merfolk synergy with [Island](https://web.archive.org/web/20071115000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)walk, making [Riptide Pilferer](https://web.archive.org/web/20071115000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Pilferer) or any of the Merfolk that much more deadly in non-blue matchups.
 

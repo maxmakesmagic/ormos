@@ -44,7 +44,9 @@ archive_source:
   sha256: 5c6b2f1be1dcb0523da31d62536e561290274bb74e405043eec2e7927a397ce3
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm15_1.jpg)Both players are on 9-2, and a loss puts either out of contention for the top eight, so this is a critical match for both. Richard Moore is an upcoming English player who is starting to find success on the tournament scene after starting out a judge. Richard still holds amateur status so is set to make a fair sum no matter what happens. Armin has been here before, having made the top eight of GP Prague last season.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm15_1.jpg)
+
+Both players are on 9-2, and a loss puts either out of contention for the top eight, so this is a critical match for both. Richard Moore is an upcoming English player who is starting to find success on the tournament scene after starting out a judge. Richard still holds amateur status so is set to make a fair sum no matter what happens. Armin has been here before, having made the top eight of GP Prague last season.
 
 ### Game 1
 

@@ -79,7 +79,9 @@ render_recovery: []
 ---
 **Hello and welcome to Magic Academy!** This week we'll be taking a closer look at Booster Draft.
 
-![Three packs of Ninth Edition](https://i.ormos.uk/8e/3c/8e3c25ebc224a85f3b64bb0f604d696f99a74e5115410e859ef8a9296d398a13.jpg)Ted Knutson addressed the basics in his [introduction to the format](https://web.archive.org/web/20070526000000/https://magic.wizards.com/en/node/704936). In Booster Draft, each player at an 8-man table begins with three packs from designated sets in front of them. Each player opens a pack, picks a card, and then passes it to their left, until there are no cards left. The same with the second pack, except players pass to the right. The third pack goes to the left again. Eventually, all players will have selected 45 cards with which to whittle down to a 40 card deck that includes land.
+![Three packs of Ninth Edition](https://i.ormos.uk/8e/3c/8e3c25ebc224a85f3b64bb0f604d696f99a74e5115410e859ef8a9296d398a13.jpg)
+
+Ted Knutson addressed the basics in his [introduction to the format](https://web.archive.org/web/20070526000000/https://magic.wizards.com/en/node/704936). In Booster Draft, each player at an 8-man table begins with three packs from designated sets in front of them. Each player opens a pack, picks a card, and then passes it to their left, until there are no cards left. The same with the second pack, except players pass to the right. The third pack goes to the left again. Eventually, all players will have selected 45 cards with which to whittle down to a 40 card deck that includes land.
 
 As in most Limited formats (like [Sealed Deck](https://web.archive.org/web/20070526000000/https://magic.wizards.com/en/node/704951)), removal, evasion creatures, and bombs are of high priority. Booster Draft decks tend to be more honed than Sealed Decks, and so two-color decks are the norm, with splashing being somewhat irregular. While making picks, it's important to consider the way the specific deck you're drafting is shaping up, and to manage its colors and synergies. You'll try to stick with your colors, analyze what you're being passed, and stay away from the colors your neighbors are playing. You'll also try to balance considerations of power and synergy (like deciding between the good card and the solid card that fits right into your mana-curve).
 
@@ -87,7 +89,9 @@ Beyond this, several strategies and techniques exist for Booster Draft.
 
 ### Forcing
 
-[![Brute_Force](https://i.ormos.uk/20/af/20affefa44379ce74162e874546c5454982e99d80d88044932511223feb0fec1.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Brute%2BForce)Forcing is the somewhat extreme strategy of entering a draft with the commitment to draft a certain color or color combination, barring only the most extreme circumstances.
+[![Brute_Force](https://i.ormos.uk/20/af/20affefa44379ce74162e874546c5454982e99d80d88044932511223feb0fec1.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Brute%2BForce)
+
+Forcing is the somewhat extreme strategy of entering a draft with the commitment to draft a certain color or color combination, barring only the most extreme circumstances.
 
 This strategy is adopted when a player considers one color or archetype to be considerably better (or better in their hands) than any others, and worth taking risks to ensure. An additional consideration is if the color(s) can be acquired fairly reliably, having many playable commons.
 
@@ -101,7 +105,9 @@ If you're seated beside a player who you know is forcing (it is to their advanta
 
 ### Biasing
 
-[![Crooked_Scales](https://i.ormos.uk/72/b9/72b9cc5d2f46cce0c3d498b59135e05fcbfe89ecd1fe4f8c932d46393a31a9dc.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Crooked%2BScales)Biasing is like forcing but to a lesser extent. It refers to entering a draft with strong, but not extreme, preferences. 
+[![Crooked_Scales](https://i.ormos.uk/72/b9/72b9cc5d2f46cce0c3d498b59135e05fcbfe89ecd1fe4f8c932d46393a31a9dc.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Crooked%2BScales)
+
+Biasing is like forcing but to a lesser extent. It refers to entering a draft with strong, but not extreme, preferences. 
 
 A player's bias reflects their style and sense of the format of the whole.
 
@@ -111,7 +117,9 @@ Biasing is important as it will inform drafting decisions that otherwise seem fa
 
 ### Cutting Off
 
-[![Slice_and_Dice](https://i.ormos.uk/49/b3/49b356ecb955e5846f019e731dde0c341b525feec2f8f9c7da3ff96959afe74b.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Slice%2Band%2BDice)Cutting off is a technique that sees fairly regular employment. When *forcing*, the player automatically tries to cut off his desired colors. But it is not necessary to be forcing in order to cut off.
+[![Slice_and_Dice](https://i.ormos.uk/49/b3/49b356ecb955e5846f019e731dde0c341b525feec2f8f9c7da3ff96959afe74b.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Slice%2Band%2BDice)
+
+Cutting off is a technique that sees fairly regular employment. When *forcing*, the player automatically tries to cut off his desired colors. But it is not necessary to be forcing in order to cut off.
 
 To cut a player off is to prevent them from seeing many or any worthwhile cards of a given color. This is generally done by aggressively taking these cards yourself. Sometimes, this will not be possible; there will be too many worthwhile cards of a color in a pack to take. Sometimes, it won't be necessary to take a card of that color, as there won't be any worthwhile ones in the pack. The desired end result is to have the player being passed to, and even ones further down the line, cement themselves in different colors, so that in the second pack they pass you plenty of top cards in the color you cut.
 
@@ -119,7 +127,9 @@ The value of cutting depends heavily on the amount of top commons and uncommons 
 
 ### Intercepting
 
-[![Foriysian_Interceptor](https://i.ormos.uk/39/54/39545b018f59053e34152494427933143ae4eb27aa5a9847e0819595909a00c4.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Foriysian%2BInterceptor)Intercepting is a sneaky technique that is only employed in fairly specific scenarios.
+[![Foriysian_Interceptor](https://i.ormos.uk/39/54/39545b018f59053e34152494427933143ae4eb27aa5a9847e0819595909a00c4.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Foriysian%2BInterceptor)
+
+Intercepting is a sneaky technique that is only employed in fairly specific scenarios.
 
 In situations where after the second pack you are mainly only one color, but sense that another color has been cut off in front of you, it is sometimes very profitable to dip into that color, intercepting its fruits from the player who went to the trouble of cutting it off!
 
@@ -171,7 +181,9 @@ Though it is rarely justifiable to take an inferior card only to send a good sig
 
 ### Planning
 
-[![Trade_Routes](https://i.ormos.uk/dc/a2/dca24cba85ca48c9f5e1e7f05a46a60a21259456a5d55e12312bc627326de90b.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Trade%2BRoutes)Planning, like forcing and biasing, involves making decisions based on a sense of the format as a whole, and not just the pack at hand. *Planning,* here, is to make picks with consideration to the general cards in the format (commons usually), typically the ones waiting to come in the second and third packs.
+[![Trade_Routes](https://i.ormos.uk/dc/a2/dca24cba85ca48c9f5e1e7f05a46a60a21259456a5d55e12312bc627326de90b.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Trade%2BRoutes)
+
+Planning, like forcing and biasing, involves making decisions based on a sense of the format as a whole, and not just the pack at hand. *Planning,* here, is to make picks with consideration to the general cards in the format (commons usually), typically the ones waiting to come in the second and third packs.
 
 For example, you might deprioritize any five-cost creatures in the first pack while drafting a certain color, knowing that the third pack has an unusual amount of five-cost creatures in this color that tend to go late.
 
@@ -185,7 +197,9 @@ Part of having a thorough grasp of a format involves knowing its general design 
 
 D-Drafting (or hate-drafting) refers to the act of taking cards without the intention of playing them, only to prevent another player from using them. For instance, in the case that you open a pack with only a mediocre card for yourself, but a bomb for a player in other colors, or at the end of a pack with no cards for yourself but a card that would be playable for a player in another color, you would be inclined to D-draft.
 
-[![Gravedigger](https://i.ormos.uk/5d/65/5d65a92b90f5960d013b798f85dc88c4a847dca2423127bca08c4642efbb9499.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Gravedigger)In general, D-drafting should be discouraged. It is more profitable to make your own deck even a little better than to make someone else's deck worse; everyone else at the table gets to enjoy that advantage, while you foot the bill! Even when it's the end of the first or second pack, it is sometimes worthwhile to pass a playable card while you take nothing. The more cemented your neighbors are in *their* colors, the more they'll stay out of *yours*!
+[![Gravedigger](https://i.ormos.uk/5d/65/5d65a92b90f5960d013b798f85dc88c4a847dca2423127bca08c4642efbb9499.jpg)](https://web.archive.org/web/20070526000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Gravedigger)
+
+In general, D-drafting should be discouraged. It is more profitable to make your own deck even a little better than to make someone else's deck worse; everyone else at the table gets to enjoy that advantage, while you foot the bill! Even when it's the end of the first or second pack, it is sometimes worthwhile to pass a playable card while you take nothing. The more cemented your neighbors are in *their* colors, the more they'll stay out of *yours*!
 
 However, if the bomb is powerful enough, or specifically powerful against your deck, and there is virtually nothing for yourself, it is sometimes profitable to D-draft.
 

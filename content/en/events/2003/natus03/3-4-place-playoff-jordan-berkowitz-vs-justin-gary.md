@@ -105,7 +105,9 @@ render_recovery:
   - Threaten
   occurrences: 116
 ---
-![](https://i.ormos.uk/4d/14/4d14fc95ba95a0ce71441b32e712b0defe67490eb9dd74f68870c7693b7c90c9.jpg)So far, the [predictions have panned out](/en/events/2003/natus03/top-8-profiles-and-predictions), with the exception of Justin Gary beating Jon Finkel in the Quarterfinals. The notion was that Finkel would beat Gary, lose to Wagener, then lose to Berkowitz in this playoff match. Because it didn't quite work out that way, Berkowitz will have a harder matchup here. 
+![](https://i.ormos.uk/4d/14/4d14fc95ba95a0ce71441b32e712b0defe67490eb9dd74f68870c7693b7c90c9.jpg)
+
+So far, the [predictions have panned out](/en/events/2003/natus03/top-8-profiles-and-predictions), with the exception of Justin Gary beating Jon Finkel in the Quarterfinals. The notion was that Finkel would beat Gary, lose to Wagener, then lose to Berkowitz in this playoff match. Because it didn't quite work out that way, Berkowitz will have a harder matchup here. 
 
 ### Game 1
 
@@ -154,7 +156,9 @@ Of course, Compost went to the graveyard, and Berkowitz started to send burn at 
 
 Berkowitz- "Is your hand good? If it is, I may just scoop. Compost was my whole game."
 
-![](https://i.ormos.uk/df/71/df71f1094bdcdc07c6ee8cda7f56b959e8933f5a05255c27c684a3f3e453ca8a.jpg)As it turns out, Gary's hand was not that great, as he played Nantuko Shade, missed his third land drop, and said go. Berkowitz missed his fourth land drop, and played a face down Firecat. Smother took care of it, and Berkowitz summoned Phantom Centaur. Duress nailed one of two Violent Eruptions, and Gary finally played a third land. The Shade ran right into the Centaur, and Innocent Blood followed.
+![](https://i.ormos.uk/df/71/df71f1094bdcdc07c6ee8cda7f56b959e8933f5a05255c27c684a3f3e453ca8a.jpg)
+
+As it turns out, Gary's hand was not that great, as he played Nantuko Shade, missed his third land drop, and said go. Berkowitz missed his fourth land drop, and played a face down Firecat. Smother took care of it, and Berkowitz summoned Phantom Centaur. Duress nailed one of two Violent Eruptions, and Gary finally played a third land. The Shade ran right into the Centaur, and Innocent Blood followed.
 
 Berkowitz topdecked another Centaur, getting a huge roar from the crowd, but Gary had the right answer in Edict, getting another big reaction. Basking Rootwalla died to Smother, and Gary played a fourth land. Call of the Herd gave Berkowitz an elephant, and Gary played Cabal Coffers.
 

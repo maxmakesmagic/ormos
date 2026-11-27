@@ -88,7 +88,9 @@ render_recovery:
   - Nantuko Shade
   occurrences: 67
 ---
-![](https://i.ormos.uk/47/a2/47a2c0bf715fdae4a615f467b8fd56eead25f96424381d3d0b2ac9f210e42001.jpg)According to Ryan Fuller, this is all part of his plan. Currently sitting at 0-2, he's going to be using his record so far as a springboard to the Top 8. The former Masters Champion has been working off his ring rust with a lot of practice on Magic Online, so his winlessness has to be coming as a surprise. Fighting him for the chance to dodge the 0-3 table is two-time Grand Prix Champion Matt Vienneau. As you'd expect, the sparks started flying the moment these two characters sat down across from each other.
+![](https://i.ormos.uk/47/a2/47a2c0bf715fdae4a615f467b8fd56eead25f96424381d3d0b2ac9f210e42001.jpg)
+
+According to Ryan Fuller, this is all part of his plan. Currently sitting at 0-2, he's going to be using his record so far as a springboard to the Top 8. The former Masters Champion has been working off his ring rust with a lot of practice on Magic Online, so his winlessness has to be coming as a surprise. Fighting him for the chance to dodge the 0-3 table is two-time Grand Prix Champion Matt Vienneau. As you'd expect, the sparks started flying the moment these two characters sat down across from each other.
 
 ### Game 1
 
@@ -104,7 +106,9 @@ Fuller 1 – Vienneau 0
 
 ### Game 2
 
-![](https://i.ormos.uk/57/36/5736c638fa500543db6936d2d55a710db70012010ded1cb4f8992ddf275152cb.jpg)Fuller started the second game with a Careful Study pitching City of Brass and Wonder, then tried Wild Mongrel, hoping Vienneau was short on removal. Vienneau Smothered at end of turn, then untapped and dropped an Engineered Plague on Merfolk. Fuller Studied again, losing Unsummon and another City, but had no play.
+![](https://i.ormos.uk/57/36/5736c638fa500543db6936d2d55a710db70012010ded1cb4f8992ddf275152cb.jpg)
+
+Fuller started the second game with a Careful Study pitching City of Brass and Wonder, then tried Wild Mongrel, hoping Vienneau was short on removal. Vienneau Smothered at end of turn, then untapped and dropped an Engineered Plague on Merfolk. Fuller Studied again, losing Unsummon and another City, but had no play.
 
 Vienneau started the beats with Rotlung Reanimator, but Fuller showed him who the boss was with Phantom Centaur. Not willing to be outdone, Vienneau busted out Visara the Dreadful. Fuller had Stupefying Touch to render it merely a giant beater, and hit for five. Vienneau returned fire and then showed Ensnaring Bridge.
 
@@ -128,7 +132,9 @@ Fuller 1 – Vienneau 1
 
 With just thirteen minutes left in the round, Fuller had to mulligan to six. He started strong with Rootwalla and Mongrel, but Vienneau had Smother ready, and Fuller could only hit for three with his 'Walla. On four land he had no play, and again on five, while Vienneau rolled with Withered Wretch and Chainer's Edict, and then Rotlung Reanimator.
 
-![](https://i.ormos.uk/ce/59/ce59ed7217abfab610d78007cd71792ec6e44c1136c743eea70f06c6f7a559cc.jpg)Fuller finally found some action with Merfolk Looter, but Vienneau had drawn another Smother. When he finally did hit a Phantom Centaur, Mutilate was on hand to get rid of it and leave Vienneau with tokens. Unsummon took care of one, but Fuller was at four. He needed to spend two Logics to keep a Cabal Archon off the board.
+![](https://i.ormos.uk/ce/59/ce59ed7217abfab610d78007cd71792ec6e44c1136c743eea70f06c6f7a559cc.jpg)
+
+Fuller finally found some action with Merfolk Looter, but Vienneau had drawn another Smother. When he finally did hit a Phantom Centaur, Mutilate was on hand to get rid of it and leave Vienneau with tokens. Unsummon took care of one, but Fuller was at four. He needed to spend two Logics to keep a Cabal Archon off the board.
 
 Fuller tried to cling to life with Wild Mongrel. Engineered Plague for Hounds shrunk it, as Vienneau shrugged off a Circular Logic. Of course, he forgot about the pump effect that discarding it had, so he threw away his zombie by attacking. Fuller drew a Compost and kept hope alive. Vienneau continued to play out men, but Fuller was matching pace, just barely. It helped that Vienneau had forgotten about the Chainer's Edict in his graveyard that would let him push through for the win.
 

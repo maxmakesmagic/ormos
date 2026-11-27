@@ -44,7 +44,9 @@ archive_source:
   sha256: 11761b3861eafa7c07d9ff71736fe3ee68266af96aa93cf12d233b767e13af18
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/126fm4floclegg.jpg)While these two have never met in a match before, they have enjoyed a couple of pizzas. This match-up featured a lot of friendly banter between rounds, but all business during them. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/126fm4floclegg.jpg)
+
+While these two have never met in a match before, they have enjoyed a couple of pizzas. This match-up featured a lot of friendly banter between rounds, but all business during them. 
 
 Mike Flores is with Malka Death, a G/B based deck, oriented around big fat green and black beasties, tons of synergy between them and the ability to recur them over and over again. 
 
@@ -52,7 +54,9 @@ Dan Clegg is playing a G/U control deck, featuring Morphling and a lot of man la
 
 It's hard to say who has the advantage in this match-up, Flores has Dust Bowl and Choke, two cards Clegg really does not want to see, but his Fact or Fictions, if given time to get cooking, can swamp Flores under a mountain of card advantage. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/125fm4clegg.jpg)Flores started off with an onslaught of creatures, Yavimaya Elder, Spike Weaver, Phyrexian Plaguelord, SPIRIT MONGER, and each and every one was slowly, but surely met with counters from Clegg. A main-deck Choke gets cast from Flores, bringing a look of panic from Clegg, but he had the counter for it (as well as a pair of Fairy Conclaves, if it had hit). Another Spirit Monger hits on the following turn for Flores, and it rapidly brings the beats with a pair of Treetop Villages for the kill. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/125fm4clegg.jpg)
+
+Flores started off with an onslaught of creatures, Yavimaya Elder, Spike Weaver, Phyrexian Plaguelord, SPIRIT MONGER, and each and every one was slowly, but surely met with counters from Clegg. A main-deck Choke gets cast from Flores, bringing a look of panic from Clegg, but he had the counter for it (as well as a pair of Fairy Conclaves, if it had hit). Another Spirit Monger hits on the following turn for Flores, and it rapidly brings the beats with a pair of Treetop Villages for the kill. 
 
 1-0 Mike Flores - Dan Clegg
 
@@ -62,6 +66,8 @@ Game two begins much less explosively, with the first play a Gaea's Blessing for
 
 1-1 Mike Flores - Dan Clegg
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/124fm4flores.jpg)Game Three saw few sideboard changes getting made. There were less that 15 minutes to go, and Clegg's deck seems incapable of making a quick kill, so the advantage moves to Flores and his recur deck to pull him to a quick victory. They still had time for a handshake though. Flores tried to get off to another quick start, but Clegg had the answer to each threat. Well... until Choke resolved anyway. Spirit Monger looked to bring a close to the game, but Clegg decided it should be working for the other side and Treacheried it. BP had another in back up, and the ability to regenerate it. However, all those man lands helped out Clegg. While Flores could swing for six a turn, he could fire back for eleven. For perhaps the first time in Magic's history, Dan started taking it to the people and swinging for the fences for all he was worth. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/124fm4flores.jpg)
+
+Game Three saw few sideboard changes getting made. There were less that 15 minutes to go, and Clegg's deck seems incapable of making a quick kill, so the advantage moves to Flores and his recur deck to pull him to a quick victory. They still had time for a handshake though. Flores tried to get off to another quick start, but Clegg had the answer to each threat. Well... until Choke resolved anyway. Spirit Monger looked to bring a close to the game, but Clegg decided it should be working for the other side and Treacheried it. BP had another in back up, and the ability to regenerate it. However, all those man lands helped out Clegg. While Flores could swing for six a turn, he could fire back for eleven. For perhaps the first time in Magic's history, Dan started taking it to the people and swinging for the fences for all he was worth. 
 
 1-2 Mike Flores - Dan Clegg

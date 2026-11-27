@@ -1450,4 +1450,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Kenneth Nagle](https://i.ormos.uk/19/a2/19a2d9eb2943ca4390a0da046866d361fb3b56d151036412851132dc24a44d60.jpg "Kenneth Nagle")This article was written by Building on a Budget author Ben Bleiweiss!
+![Kenneth Nagle](https://i.ormos.uk/19/a2/19a2d9eb2943ca4390a0da046866d361fb3b56d151036412851132dc24a44d60.jpg "Kenneth Nagle")
+
+This article was written by Building on a Budget author Ben Bleiweiss!

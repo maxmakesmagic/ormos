@@ -217,7 +217,9 @@ Nella riga in alto, sulla destra, c’è quello che viene chiamato costo di lanc
 
 Per giocare questa bestia, devi generare due mana rossi e sei mana incolori. Quando parliamo di “mana incolori” significa che puoi pagare questo costo con mana di qualsiasi colore.
 
-![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)Tenendo presente questi concetti, può essere una buona idea presentare il concetto di costo di mana convertito (CMC). Il costo di mana convertito è semplicemente la somma di tutti i mana che una carta costa, indipendentemente dal *tipo*di mana di cui si parla. Per calcolare il costo di mana convertito del colosso, prendi i 2 mana rossi e aggiungi i 6 mana incolori, ottenendo un totale di 8. Semplicemente, devi sommare tutto il mana necessario. Semplice, vero?
+![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)
+
+Tenendo presente questi concetti, può essere una buona idea presentare il concetto di costo di mana convertito (CMC). Il costo di mana convertito è semplicemente la somma di tutti i mana che una carta costa, indipendentemente dal *tipo*di mana di cui si parla. Per calcolare il costo di mana convertito del colosso, prendi i 2 mana rossi e aggiungi i 6 mana incolori, ottenendo un totale di 8. Semplicemente, devi sommare tutto il mana necessario. Semplice, vero?
 
 Quando dobbiamo scrivere i costi di mana, usiamo spesso delle lettere, per rappresentare i simboli di cui vogliamo parlare. Questa è una breve tabella per chi sta imparando ora cos’è il mana. 
 
@@ -233,7 +235,9 @@ Queste possono sembrare un sacco di informazioni all’inizio, ma diventano velo
 
 ### Riga del Tipo
 
-![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)Questa area della carta ti fa capire che tipo di carta hai in mano. Esistono sei tipi base di carte: terre, creature, incantesimi, artefatti, istantanei e stregonerie. Questa riga può avere anche informazioni più specifiche. Se per esempio parliamo di una carta creatura, su questa linea trovi indicazione di quale tipo di creatura è (Goblin, Ninja, ecc). 
+![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)
+
+Questa area della carta ti fa capire che tipo di carta hai in mano. Esistono sei tipi base di carte: terre, creature, incantesimi, artefatti, istantanei e stregonerie. Questa riga può avere anche informazioni più specifiche. Se per esempio parliamo di una carta creatura, su questa linea trovi indicazione di quale tipo di creatura è (Goblin, Ninja, ecc). 
 
 Questa riga è più complessa di quanto la stiamo descrivendo ora, ma la buona notizia è che (per il livello di conoscenza che hai ora), nella maggior parte dei casi tutto ciò che hai bisogno di sapere è proprio qui sulla carta. Se hai una carta che dice che tutti i Goblin ottengono un bonus e la carta che hai in mano ha scritto “goblin" *sulla linea del tipo*, sai subito che prende il bonus anche questa carta e sei pronto a continuare. (man mano che impariamo di più sulle regole, torneremo su questo argomento e parleremo di sottotipi, di supertipi e di altro ancora)
 
@@ -271,11 +275,15 @@ Infine, alcune informazioni extra su questi argomenti, nel caso tu voglia sapern
 
 ### Informazioni sull’Artista
 
-![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)Subito sotto il riquadro di testo, nella parte sinistra, trovi il nome dell’artista che ha disegnato l’illustrazione della carta. Il contenuto artistico di **Magic** è migliorato tantissimo da quando il gioco è nato nel 1993 e oggi può sfoggiare alcune delle immagini fantasy più affascinanti che si possano trovare.
+![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)
+
+Subito sotto il riquadro di testo, nella parte sinistra, trovi il nome dell’artista che ha disegnato l’illustrazione della carta. Il contenuto artistico di **Magic** è migliorato tantissimo da quando il gioco è nato nel 1993 e oggi può sfoggiare alcune delle immagini fantasy più affascinanti che si possano trovare.
 
 ### Numero di Collezione
 
-![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)In quella riga molto piccola, subito sopra al bordo inferiore della carta, troverai di solito un simbolo di marchio registrato, alcune date, la scritta Wizards of the Coast e alcuni numeri o lettere. La maggior parte di queste cose riguarda i diritti d’autore, ma le informazioni più a destra ti dicono il numero di collezione e ti fanno capire come si inserisce la carta all’interno dell’espansione, nel caso in cui tu voglia collezionare le carte in ordine. Per la gioia di mia moglie, io ho la cattiva abitudine di collezionare le carte con il metodo “butta tutto a caso nella prima scatola che vedi”, che non è proprio il metodo migliore.
+![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)
+
+In quella riga molto piccola, subito sopra al bordo inferiore della carta, troverai di solito un simbolo di marchio registrato, alcune date, la scritta Wizards of the Coast e alcuni numeri o lettere. La maggior parte di queste cose riguarda i diritti d’autore, ma le informazioni più a destra ti dicono il numero di collezione e ti fanno capire come si inserisce la carta all’interno dell’espansione, nel caso in cui tu voglia collezionare le carte in ordine. Per la gioia di mia moglie, io ho la cattiva abitudine di collezionare le carte con il metodo “butta tutto a caso nella prima scatola che vedi”, che non è proprio il metodo migliore.
 
 ### Forza/Costituzione
 

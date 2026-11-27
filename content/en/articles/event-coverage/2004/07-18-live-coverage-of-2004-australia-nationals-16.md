@@ -44,7 +44,9 @@ archive_source:
   sha256: ee9658a19000a2c4f8af56892aab863c9f7aa9040bdedb7606b60e2c1392c5f9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/fm1_1.jpg)Ben Seck has come to the feature match area equipped with a nice earflap hunting hat. He says that's the key for him, keeping him on his toes and that it makes him feel like a character from Fargo. Chris Allen on the other hand says that it's no big deal as he's played Satoshi before, a player famous for his hats. Allen reflects for a moment, "Hey wait…. he beat me… maybe it was the hat".
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/fm1_1.jpg)
+
+Ben Seck has come to the feature match area equipped with a nice earflap hunting hat. He says that's the key for him, keeping him on his toes and that it makes him feel like a character from Fargo. Chris Allen on the other hand says that it's no big deal as he's played Satoshi before, a player famous for his hats. Allen reflects for a moment, "Hey wait…. he beat me… maybe it was the hat".
 
 Allen lost the die roll and Seck elects to play first. Fully aware of the ramifications of being a feature match Allen chooses to flip the play mat.
 

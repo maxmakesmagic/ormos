@@ -359,7 +359,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/c4/86/c486312f21694578593931a095e96786af8d71d3c2848f02dbc57900bff3c594.jpg)Julien Nuijten, the youngest member of a young Top 8, started the match with a handshake and an offer of good luck. Ryo Ogura accepted the handshake and the competitors were on their way.
+![](https://i.ormos.uk/c4/86/c486312f21694578593931a095e96786af8d71d3c2848f02dbc57900bff3c594.jpg)
+
+Julien Nuijten, the youngest member of a young Top 8, started the match with a handshake and an offer of good luck. Ryo Ogura accepted the handshake and the competitors were on their way.
 
 ### Game 1
 

@@ -264,7 +264,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/b0/17/b017d9eece1419e3c38fe62217f0f8bef472583db07c412fea7ba1ad4a1552ec.jpg)Welcome to *Guildpact* Previews, Week II. Think of it as the sequel to Week One. On second thought, sequels tend to suck. (Although personally I did enjoy *X-Men 2* much more than *X-Men 1*.) How about the second part of a trilogy? Those are usually pretty good. The only problem is that the small sets only get two preview weeks, so the whole trilogy thing kind of falls flat. Ooh, why don't we pull a page from by old stomping grounds and call this a “dramatic conclusion”? I like that. Let's go with that. And now, the dramatic conclusion to *The Wonderful World of Guildpact*.
+![](https://i.ormos.uk/b0/17/b017d9eece1419e3c38fe62217f0f8bef472583db07c412fea7ba1ad4a1552ec.jpg)
+
+Welcome to *Guildpact* Previews, Week II. Think of it as the sequel to Week One. On second thought, sequels tend to suck. (Although personally I did enjoy *X-Men 2* much more than *X-Men 1*.) How about the second part of a trilogy? Those are usually pretty good. The only problem is that the small sets only get two preview weeks, so the whole trilogy thing kind of falls flat. Ooh, why don't we pull a page from by old stomping grounds and call this a “dramatic conclusion”? I like that. Let's go with that. And now, the dramatic conclusion to *The Wonderful World of Guildpact*.
 
 ### Hanging Ten
 
@@ -282,7 +284,9 @@ To understand the ten-card cycle, let's begin by looking at its restrictions.
 
 ### #1 – Ten Is a Big, Big Number
 
-![](https://i.ormos.uk/66/5c/665cadcab792ac1913190115427785b10b4f8897613a1b95d2d09ed94508c9a7.jpg)One of the challenges of making a cycle is finding an idea that has enough oomph and card design space to fill up five cards. This is kind of difficult (which is evidenced by the fact that some cycles' oomph doesn't even make it to five cards – Oath of Mages, I'm talking to you). A ten-card cycle is twice as much. And as a father of twins let me let you in on yet another little secret – twice as much is actually more than twice the amount of work. When you get to the second twin/five cards you've already been exhausted by the first twin/five cards. 
+![](https://i.ormos.uk/66/5c/665cadcab792ac1913190115427785b10b4f8897613a1b95d2d09ed94508c9a7.jpg)
+
+One of the challenges of making a cycle is finding an idea that has enough oomph and card design space to fill up five cards. This is kind of difficult (which is evidenced by the fact that some cycles' oomph doesn't even make it to five cards – Oath of Mages, I'm talking to you). A ten-card cycle is twice as much. And as a father of twins let me let you in on yet another little secret – twice as much is actually more than twice the amount of work. When you get to the second twin/five cards you've already been exhausted by the first twin/five cards. 
 
 There are two ways to approach this. One, make all ten the exact same (with a slight tweak usually addressing color). The examples of this type of cycle in *Ravnica* would be the dual lands, the signets and the “karoos” (the common multi-lands). Two, create a cycle complex and deep enough that the designers have a lot of design space to play around with. Examples of this from *Ravnica* block would be the enhanced spells (you get an extra or more powerful effect if you spend a certain other color mana in playing the spell), the guildmages and the guild halls (the uncommon land cycle). But each of the two options has its own problems. Which segues quite nicely to…
 
@@ -328,7 +332,9 @@ These are the uncommon lands that represent the home of each of the guilds. Each
 
 **Enhanced Spells**
 
-![](https://i.ormos.uk/b1/b5/b1b5ae34789142f8d66a8e57c48d8cb85da1f5f775a9e701e83ade277ef76c4d.jpg)Once again, these are spells that have an added or boosted effect if a particular second color is used when playing the spell. In *Ravnica*, all of the enhanced spells were instants and sorceries. *Guildpact* puts a twist on this cycle by attaching the enhanced ability to creatures creating comes into play effects. (And this is tame when you see what *Dissension* does with its portion of this cycle.) 
+![](https://i.ormos.uk/b1/b5/b1b5ae34789142f8d66a8e57c48d8cb85da1f5f775a9e701e83ade277ef76c4d.jpg)
+
+Once again, these are spells that have an added or boosted effect if a particular second color is used when playing the spell. In *Ravnica*, all of the enhanced spells were instants and sorceries. *Guildpact* puts a twist on this cycle by attaching the enhanced ability to creatures creating comes into play effects. (And this is tame when you see what *Dissension* does with its portion of this cycle.) 
 
 **The Legendary Creatures**
 
@@ -344,7 +350,9 @@ This grouping of cards is also really two ten-card cycles. The idea behind it is
 
 **The Guild Artifacts**
 
-![](https://i.ormos.uk/81/a6/81a69ed586cd311323419611034e96c1b6da139ccb08233c6918ea2dd84b2f40.jpg)The guild artifacts were designed such that they all had a base ability that anyone could use and then a second ability that required the mana of the colors relevant to the guild. The idea was that these artifacts belong to the guild and thus are only optimized when used by the correct color combinations. As with many of the ten card cycles, they were designed with enough flexibility to allow *Guildpact* to follow suit without having to resort to some big twist.
+![](https://i.ormos.uk/81/a6/81a69ed586cd311323419611034e96c1b6da139ccb08233c6918ea2dd84b2f40.jpg)
+
+The guild artifacts were designed such that they all had a base ability that anyone could use and then a second ability that required the mana of the colors relevant to the guild. The idea was that these artifacts belong to the guild and thus are only optimized when used by the correct color combinations. As with many of the ten card cycles, they were designed with enough flexibility to allow *Guildpact* to follow suit without having to resort to some big twist.
 
 **The Guildmages**
 
@@ -365,7 +373,9 @@ Not only is this guy a cool card, but he even has a cool little story. One of my
 >  5U: Lose the game.  
 >  5R: Rip up all your cards.
 
-![](https://i.ormos.uk/bf/d9/bfd91aeb384686222f3983b0167cdf96bbf777c9fb1da1729a57ef5ae6704d2a.jpg)As an Izzet fan through and through, I was taken aback. The Izzet Guildmage couldn't suck. And even worse, it couldn't be “not fun”. So I set out to make a better Izzet Guildmage. (Turns out unlike a mousetrap this doesn't cause a lot of foot traffic.) So, I said, what does an Izzet mage want to do? The answer, as I explained last week, was play a lot of instants and sorceries. Okay, I thought to myself, why would the guildmage be happy with that? Because he had two activated abilities, he couldn't really have effects that triggered off of instants and sorceries being played. But then during lunch one day, while thinking about how to crack this problem I looked down to see my utensils and what should I notice, but a… spoon. And that reminded me of the Tick's battlecry (a very funny superhero parody that has been a comic, a cartoon and a live action television show) which in turn reminded me of Cry, Beloved Country (a serious book about South Africa that I read while in High School), which reminded me of Cry Baby (a quirky John Waters film starring Johnny Depp) which reminded me of Baby Blues (a comic strip about parenting) which reminded me of Hill Street Blues (a wonderful police drama from the eighties) which reminded me of Stakeout (a not so wonderful buddy/police film starring Emilio Estevez and Richard Dreyfus) which reminded me that I was eating steak and that I could not use a spoon. I needed a fork!
+![](https://i.ormos.uk/bf/d9/bfd91aeb384686222f3983b0167cdf96bbf777c9fb1da1729a57ef5ae6704d2a.jpg)
+
+As an Izzet fan through and through, I was taken aback. The Izzet Guildmage couldn't suck. And even worse, it couldn't be “not fun”. So I set out to make a better Izzet Guildmage. (Turns out unlike a mousetrap this doesn't cause a lot of foot traffic.) So, I said, what does an Izzet mage want to do? The answer, as I explained last week, was play a lot of instants and sorceries. Okay, I thought to myself, why would the guildmage be happy with that? Because he had two activated abilities, he couldn't really have effects that triggered off of instants and sorceries being played. But then during lunch one day, while thinking about how to crack this problem I looked down to see my utensils and what should I notice, but a… spoon. And that reminded me of the Tick's battlecry (a very funny superhero parody that has been a comic, a cartoon and a live action television show) which in turn reminded me of Cry, Beloved Country (a serious book about South Africa that I read while in High School), which reminded me of Cry Baby (a quirky John Waters film starring Johnny Depp) which reminded me of Baby Blues (a comic strip about parenting) which reminded me of Hill Street Blues (a wonderful police drama from the eighties) which reminded me of Stakeout (a not so wonderful buddy/police film starring Emilio Estevez and Richard Dreyfus) which reminded me that I was eating steak and that I could not use a spoon. I needed a fork!
 
 Okay, it might not have happened that way, but that is the way my mind works. Anyway, I realized that a good way to make use of instants and sorceries was to copy them. And so, I took the repeatable forking of Mirari and combined it with the “cares about little spells” quality of Isochron Scepter and mashed them together into a cool little guildmage. 
 

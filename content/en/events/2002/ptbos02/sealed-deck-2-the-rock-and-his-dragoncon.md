@@ -202,7 +202,9 @@ render_recovery:
   - Touch of Invisibility
   occurrences: 164
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a956.jpg)The Rock and his Dragon Con is a team of Scandinavian superstars Tomi Walamies, Johan Sadeghpour, and Jens Thoren. Thoren and Walamies are both coming off monster years that landed them both seats in the upcoming Magic Invitational. But for all their prowess, they only managed a 1-1 in the first two rounds.
+![](http://www.wizards.com/sideboard/images/ptbos02/a956.jpg)
+
+The Rock and his Dragon Con is a team of Scandinavian superstars Tomi Walamies, Johan Sadeghpour, and Jens Thoren. Thoren and Walamies are both coming off monster years that landed them both seats in the upcoming Magic Invitational. But for all their prowess, they only managed a 1-1 in the first two rounds.
 
 As they started building their new sealed decks, Walamies took all the black cards, including headliners like Sengir Vampire and Guiltfeeder. He also snagged the Shadowmage Infiltrator. Green was looking like a fabulous base color for another deck; Sadeghpour had the creatures laid out in front of him: Beast Attack, Grizzly Fate, Gorilla Titan, Krosan Beast, Rabid Elephant, Centaur Chieftain, etc., etc. Thoren was busy with the white cards. The team's plan was to have black, green, and white as bases, and split the blue and red as necessary to fill weaknesses.
 

@@ -92,7 +92,9 @@ render_recovery:
   - Krosan Reclamation
   occurrences: 95
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a983.jpg)Jon Stern was a finalist at this tournament last year and went to Sydney as part of the Canadian National team. He is playing Wake today and lost his first round to a mono-black control deck.
+![](http://www.wizards.com/sideboard/images/natcan03/a983.jpg)
+
+Jon Stern was a finalist at this tournament last year and went to Sydney as part of the Canadian National team. He is playing Wake today and lost his first round to a mono-black control deck.
 
 In addition to being one of Magic's rising stars, Jeff Cunningham is one of the brightest young writers on the net. He recently revitalized this own site's Week in Review column and has composed some of the best tournament reports in recent memory for Brainburst. He is playing his trademark U/G deck but he also took a first round loss at the hands of a MBC player. 
 
@@ -112,7 +114,9 @@ Jon played a Compulsion floating two mana and activated it. He eventually drew a
 
 Jon played an Exalted Angel and Jeff cast Circular Logic for more than the fourteen mana Jon had available. Jon countered and used Mirari. Jeff thought for a moment and used a second Circular Logic on the original spell countering the Exalted Angel. Jon burnt for one and fell to five. He went to four when he cast Moment's Peace on the next turn. 
 
-![](http://www.wizards.com/sideboard/images/natcan03/a985.jpg)He fell to three the turn after that but was able to Cunning Wish for Chastise with a copy of the spell—his original Cunning Wish was countered. Chastise with Mirari on the next turn was met with two Unsummons but Jon Compulsed franticly and found a Memory Lapse for the second Unsummon but when all of the dust settled, Jeff had added a Roar of the Wurm and Jon was clinging on by the old fingernails at one.
+![](http://www.wizards.com/sideboard/images/natcan03/a985.jpg)
+
+He fell to three the turn after that but was able to Cunning Wish for Chastise with a copy of the spell—his original Cunning Wish was countered. Chastise with Mirari on the next turn was met with two Unsummons but Jon Compulsed franticly and found a Memory Lapse for the second Unsummon but when all of the dust settled, Jeff had added a Roar of the Wurm and Jon was clinging on by the old fingernails at one.
 
 On his turn he compulsed and cast multiple Deep Analysis thanks to Mirari desperately looking for an answer. "What could you possibly draw?" wondered Jeff. The answer was Renewed Faith with exactly enough mana to use Mirari and go to 12—after inevitably burning for one. Jeff swung in for nine and would probably win unless Jon ripped an n amazing card.
 
@@ -132,7 +136,9 @@ Jeff cast Careful Study and attacked Jon down to 13. Jon sacrificed his Verge an
 
 There were only two minutes left now and Jeff fell to 11 flashing back a Deep Analysis. He played a Wild Mongrel and sent the turn back to Jon who finally played his angel face down. Jeff's Rootwalla made a reappearance at the end of the turn.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a984.jpg)Jeff fell to eight when he flashed back yet another Deep Analysis but Jon had the Memory Lapse. Jeff bashed in and discarded two cards to his Mongrel including a Roar of the Wurm, which he promptly cast. Jon was on seven and Jeff was on eight when time was called during Jon's next turn. Jon played a Verge and sent the turn back to Jeff. 
+![](http://www.wizards.com/sideboard/images/natcan03/a984.jpg)
+
+Jeff fell to eight when he flashed back yet another Deep Analysis but Jon had the Memory Lapse. Jeff bashed in and discarded two cards to his Mongrel including a Roar of the Wurm, which he promptly cast. Jon was on seven and Jeff was on eight when time was called during Jon's next turn. Jon played a Verge and sent the turn back to Jeff. 
 
 During Jeff's upkeep he used Cunning Wish to find...Krosan Reclamation. He shuffled Jeff's Wonder into the bin so he could block with the morph but Jeff was still able to kill him by pumping the Rootwalla and discarding his hand to the Mongrel. "No Peace left in the 'board?" Jon was glum as he was heading to the draw bracket to face nothing but Wake decks for the remaining Standard matches this weekend, "All in the main..."
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: bc4320b9e83d0e491536ec22a13d2060c95ab857762f5e5efe6af240a4334c82
 render_recovery: []
 ---
-![](https://i.ormos.uk/a4/5c/a45c4da5ea5a9c3b278e6d959fec7e4b599bc4ce23a87f1a209066213b00869a.jpg)No stranger to the Tour, Olivieri has played in 16 Pro events over the past few years. As a member of Team Les Plus Class (along with members Gabriel Nassif and Amiel Tenenbaum), he placed as a runner-up at Team Pro Tour New York in 2001. He has also finished in the top 32 at Pro Tour Chicago 2001, and top 16 at Euros in 2000. 
+![](https://i.ormos.uk/a4/5c/a45c4da5ea5a9c3b278e6d959fec7e4b599bc4ce23a87f1a209066213b00869a.jpg)
+
+No stranger to the Tour, Olivieri has played in 16 Pro events over the past few years. As a member of Team Les Plus Class (along with members Gabriel Nassif and Amiel Tenenbaum), he placed as a runner-up at Team Pro Tour New York in 2001. He has also finished in the top 32 at Pro Tour Chicago 2001, and top 16 at Euros in 2000. 
 
 Currently residing in Mont Pellier, Olivieri is one of four French players to break into the top 8 of Osaka. He brought a Black/Blue beatdown deck (sans Psychatog!), which featured the game-winning technology of Braids, Cabal Minion. The 26 year old student used Ichorid all weekend long to surprise and amaze.
 

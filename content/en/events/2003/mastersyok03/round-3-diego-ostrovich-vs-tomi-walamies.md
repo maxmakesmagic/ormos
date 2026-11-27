@@ -83,7 +83,9 @@ render_recovery:
   - Symbiotic Wurm
   occurrences: 40
 ---
-![](https://i.ormos.uk/95/b6/95b62e2dc71706e5333bf49ffd4f51c2e2023c6336177f5310847dd692c4b452.jpg)Tomi Walamies came within a hair's breadth of being out of Magic when he arrived in Venice earlier this year. The Finnish star ended up with a Top 2 performance that guaranteed him another year on the Tour. It also earned him a spot here at the final Masters Tournament. The format of Tomi's other Pro Tour Top 2? Extended at PT New Orleans when Kai Budde defeated him.
+![](https://i.ormos.uk/95/b6/95b62e2dc71706e5333bf49ffd4f51c2e2023c6336177f5310847dd692c4b452.jpg)
+
+Tomi Walamies came within a hair's breadth of being out of Magic when he arrived in Venice earlier this year. The Finnish star ended up with a Top 2 performance that guaranteed him another year on the Tour. It also earned him a spot here at the final Masters Tournament. The format of Tomi's other Pro Tour Top 2? Extended at PT New Orleans when Kai Budde defeated him.
 
 Diego Ostrovich is coming to the end of a pretty good year of Magic. In addition to a Top 4 finish at Worlds he also made the Top 8 of Grand Prix" New Orleans—also Extended—playing his "Elves!" deck that features Skyshroud Poacher, Deranged Hermit and Slate of Ancestry. Many observers were perplexed as to how Diego was able to defeat Brian Kibler in the final round of the tournament to earn his Top 8 berth.
 
@@ -93,7 +95,9 @@ Diego shrugged and grinned sheepishly, "He mulliganed twice in Game 1 and stalle
 
 ### Game 1
 
-![](https://i.ormos.uk/dc/f0/dcf064cc73a2eb123aa08d96884d920f9366881cb0f8e7c1a24e3390979fddd0.jpg)Diego kept his initial hand but Tomi could only shake his head at his Argentinean opponent as he went back to the well twice before keeping five cards he was comfortable with. 
+![](https://i.ormos.uk/dc/f0/dcf064cc73a2eb123aa08d96884d920f9366881cb0f8e7c1a24e3390979fddd0.jpg)
+
+Diego kept his initial hand but Tomi could only shake his head at his Argentinean opponent as he went back to the well twice before keeping five cards he was comfortable with. 
 
 Diego patted his deck affectionately, "It makes the decks sour."
 
@@ -121,7 +125,9 @@ While the two players deliberated about sideboard choices they discussed Tomi's 
 
 There were no mulligans this game and things got started with Bird of Paradise on both sides. Diego was threatening to explode out of the gate again when he played his second Forest and Rofellos, Llanowar Emissary. Engineered Plague naming elves put that plan on the back burner and had to go to the Baloth beatdown plan. Tomi answered back with a Phyrexian Ghoul.
 
-![](https://i.ormos.uk/22/50/225086bfbe92fff840bd01cc72c257cca081579902a0f9dffd468491e1a9c868.jpg)The Baloth swung past the Ghoul and Diego Living Wished for Gaea's Cradle and cast a Tangle Wire. The Wire slowed Tomi down for a few turns but Diego could mount no other pressure than the Baloth, which swung in more time before being blocked by a Yavimaya Elder. 
+![](https://i.ormos.uk/22/50/225086bfbe92fff840bd01cc72c257cca081579902a0f9dffd468491e1a9c868.jpg)
+
+The Baloth swung past the Ghoul and Diego Living Wished for Gaea's Cradle and cast a Tangle Wire. The Wire slowed Tomi down for a few turns but Diego could mount no other pressure than the Baloth, which swung in more time before being blocked by a Yavimaya Elder. 
 
 Now that the Tangle Wire was coming untangled and Tomi found a little room to maneuver. A Pattern of Rebirth enchanted the Finn's Bird before he swung his Ghoul into Call of the Herd. Diego had to block and when Tomi saved his Ghoul by sacrificing the Bird and putting a Symbiotic Wurm into play it was apparent why.
 

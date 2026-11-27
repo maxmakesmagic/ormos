@@ -44,7 +44,9 @@ archive_source:
   sha256: a964165df8faffed4963325f5b98cd474dcb915f1370e9c4079feaf64d7ef374
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpham02/971.jpg)Svante Landgraf is a Swedish player known for his deck building skills who managed a top 8 at GP Oslo last year with an unorthodox Dark Solution deck. Jan Tomcani is a solid player from the Slovak Republic who made the top 8 of world’s last year.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpham02/971.jpg)
+
+Svante Landgraf is a Swedish player known for his deck building skills who managed a top 8 at GP Oslo last year with an unorthodox Dark Solution deck. Jan Tomcani is a solid player from the Slovak Republic who made the top 8 of world’s last year.
 
 Tomcani is running the blue-green flashback deck using [Quiet Speculation](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quiet+Speculation) to load up his graveyard with [Roar of the Wurm](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm) and [Grizzly Fate](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate). Landgraf is running blue-black [Upheaval](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval)/Infestation.
 
@@ -52,7 +54,9 @@ Tomcani took a look at his opening hand and immediately tossed it straight back.
 
 This left Landgraf with just a swamp open and Tomcani took the opportunity to fill up a monster graveyard with two [Quiet Speculation](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quiet+Speculation)s. A Wurm was the first to hit the table, with Mongrel as edict bait. Now Landgraf didn’t look too comfortable and cycled cards off [Compulsion](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion) to find answers.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpham02/970.jpg)Two Edicts did the job and an [Envelop](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop) was on hand to take down a [Grizzly Fate](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate). A Logic took down a second the turn afterwards but as he was stuck on one island the Swede couldn’t gain a card off it. Tomcani was always careful to leave an island open to [Envelop](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop) any possible [Upheaval](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval).
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpham02/970.jpg)
+
+Two Edicts did the job and an [Envelop](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop) was on hand to take down a [Grizzly Fate](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate). A Logic took down a second the turn afterwards but as he was stuck on one island the Swede couldn’t gain a card off it. Tomcani was always careful to leave an island open to [Envelop](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop) any possible [Upheaval](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval).
 
 Landgraf dropped Infestation then [Standstill](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Standstill) to try and claw back some advantage. Finally a [Grizzly Fate](https://web.archive.org/web/20020928000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Fate) resolved and Landgraf was facing 4 bears. Yet another edict reduced the number somewhat but Tomcani kept cranking out threats – another Mongrel and a Wurm token from his stocked graveyard.
 

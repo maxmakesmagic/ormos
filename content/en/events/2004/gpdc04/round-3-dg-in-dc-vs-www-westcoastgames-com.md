@@ -1639,7 +1639,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/25/7a/257aac750bda03f32bd1c96c445f11440f11b620f6c9997935bf0f1e0f0cc47f.jpg)D**G in DC** is two thirds of the **Slay Pillage Gerard** team that finished in the Top 4 of Pro Tour Boston last season with Craig Krempels replacing the retired Scott McCord. Craig was the runner-up in last year's Rookie of the Year race with multiple high finishes throughout the year.
+![](https://i.ormos.uk/25/7a/257aac750bda03f32bd1c96c445f11440f11b620f6c9997935bf0f1e0f0cc47f.jpg)
+
+D**G in DC** is two thirds of the **Slay Pillage Gerard** team that finished in the Top 4 of Pro Tour Boston last season with Craig Krempels replacing the retired Scott McCord. Craig was the runner-up in last year's Rookie of the Year race with multiple high finishes throughout the year.
 
 Ben Stark was anchoring **www.westcoastgames.com** alongside his new roommate Antonino DeRosa and Pro Tour Yokohama Top 8 finisher Richard Hoaen. Ben Stark was fresh off of his first ever Top 8 appearance at a Pro Tour--also in Japan--at Pro Tour Kobe.
 

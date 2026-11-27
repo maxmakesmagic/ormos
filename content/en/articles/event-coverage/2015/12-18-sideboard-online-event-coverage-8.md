@@ -52,7 +52,9 @@ render_recovery: []
 
 **Casey McCarrel vs Nate Clarke** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R1McCarrelClarke.JPG)Game 1: McCarrel, playing an agressive GR deck, won the coin flip, but chose to draw first. Clarke elected to keep an opening hand of six Plains and an Opal Titan. After trading land drops for the first few turns, McCarrel dropped a Titania's Chosen. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R1McCarrelClarke.JPG)
+
+Game 1: McCarrel, playing an agressive GR deck, won the coin flip, but chose to draw first. Clarke elected to keep an opening hand of six Plains and an Opal Titan. After trading land drops for the first few turns, McCarrel dropped a Titania's Chosen. 
 
 On Clarke's fourth turn, he played the Titan, prompting McCarrel to ask "What does that thing do?" After Clarke told him, he calmly untapped, cast Multani's decree and attacked with his 2/2 Chosen. 
 

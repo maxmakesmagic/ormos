@@ -66,7 +66,9 @@ render_recovery: []
 
 ### Un nuevo tipo de columna
 
-![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)Academia Magic es una columna de estilo único diseñada para ayudar a los nuevos jugadores a meterse rápido en el juego, enseñándoles cosas sobre el juego y dándoles a conocer la inmensa fuente de recursos que es internet. La llave de la Academia Magic es que los artículos están escritos de forma linear, como en un libro. La columna empieza con temas como “Anatomía de una carta de **Magic** y "Construyendo tu primer mazo”. Como están escritos en orden, cada artículo se basa en todo lo que has aprendido en artículos anteriores de la serie. La columna empezó el 15 de Julio de 2006 y se publican nuevos artículos cada sábado. Puedes usar el índice de contenidos que hay más abajo para empezar desde el primer artículo o leer los temas y empezar por el que creas más apropiado a tu nivel. 
+![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)
+
+Academia Magic es una columna de estilo único diseñada para ayudar a los nuevos jugadores a meterse rápido en el juego, enseñándoles cosas sobre el juego y dándoles a conocer la inmensa fuente de recursos que es internet. La llave de la Academia Magic es que los artículos están escritos de forma linear, como en un libro. La columna empieza con temas como “Anatomía de una carta de **Magic** y "Construyendo tu primer mazo”. Como están escritos en orden, cada artículo se basa en todo lo que has aprendido en artículos anteriores de la serie. La columna empezó el 15 de Julio de 2006 y se publican nuevos artículos cada sábado. Puedes usar el índice de contenidos que hay más abajo para empezar desde el primer artículo o leer los temas y empezar por el que creas más apropiado a tu nivel. 
 
 ### ¿Para qué sirve la Academia Magic?
 

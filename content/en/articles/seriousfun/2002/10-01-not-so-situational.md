@@ -462,7 +462,9 @@ A leisurely scan of any card database will show you that not all life gain works
 
 Start with Congregate. (Everyone else does.) While I’ve had good fun using Misdirection when other players cast this spell, my new favorite trick may be casting it myself, and then following it up with False Cure. With enough creatures on the board, six mana can do a heck of a lot of damage. As we build our deck below, we’ll look for ways to increase the number of creatures out there.
 
-![Congregate, Swords to Plowshares, Armistice](https://i.ormos.uk/e4/71/e4714510e9ef3dc6a68d23a0efac59f3a1b083453bf9543ddf1b2058e4398630.jpg)Continue with Swords to Plowshares. I wouldn’t always add the False Cure – it’s typically enough just to get rid of the creature in question – but it would be a spectacular trick on a plump fattie.
+![Congregate, Swords to Plowshares, Armistice](https://i.ormos.uk/e4/71/e4714510e9ef3dc6a68d23a0efac59f3a1b083453bf9543ddf1b2058e4398630.jpg)
+
+Continue with Swords to Plowshares. I wouldn’t always add the False Cure – it’s typically enough just to get rid of the creature in question – but it would be a spectacular trick on a plump fattie.
 
 End with Armistice. The deck I’m thinking of will likely empty its hand a bit too quickly, so replenishment is advisable. Add life gain for an opponent, and you have the ideal situation: a “political” card that we’re finally using the right way!
 
@@ -472,7 +474,9 @@ From here, the deck begins to build itself. The two central tricks – False Cur
 
 ### MUST…ATTACK…CAN’T…STOP…
 
-![Overwhelming Instinct](https://i.ormos.uk/e4/2f/e42fbb52e1f61bc01ad8a0f880c883a8b5cf9111566f58543b17a77c65caff00.jpg)A card that may appear slightly less situational, but will still turn many players off because of its built-in drawback, is Overwhelming Instinct.
+![Overwhelming Instinct](https://i.ormos.uk/e4/2f/e42fbb52e1f61bc01ad8a0f880c883a8b5cf9111566f58543b17a77c65caff00.jpg)
+
+A card that may appear slightly less situational, but will still turn many players off because of its built-in drawback, is Overwhelming Instinct.
 
 The problem with Overwhelming Instinct is the same problem many cards in this set (such as the "tap five" Lords, Biorhythm, and Aggravated Assault) will have – for it to work the way you want, you absolutely depend on having creatures on the board.
 

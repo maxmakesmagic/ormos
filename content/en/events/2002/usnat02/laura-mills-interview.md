@@ -53,7 +53,9 @@ archive_source:
   sha256: 2421d4bea8cdc4f32089b69a53bd28ac7e0ff540bedde74ce9e9dcc606f45651
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a978.jpg)Laura Mills is a 29-year old engineer from Denver, Colorado whose passion for Magic has helped propel her towards elite status within the gaming community, helping her become the only woman playing in this year's US Nationals. We sat down with her to get her thoughts on gaming, women, US Nats and how they all relate to one another.
+![](http://www.wizards.com/sideboard/images/usnat02/a978.jpg)
+
+Laura Mills is a 29-year old engineer from Denver, Colorado whose passion for Magic has helped propel her towards elite status within the gaming community, helping her become the only woman playing in this year's US Nationals. We sat down with her to get her thoughts on gaming, women, US Nats and how they all relate to one another.
 
 **SB:** Hey Laura!  
 **LM:** Hello

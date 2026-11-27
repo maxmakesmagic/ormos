@@ -54,7 +54,9 @@ render_recovery: []
 ---
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/883.jpg)Oberbek got a fast start in this first game, with a second turn Nightscape Familair accelerating him into a third turn Fact or Fiction. Mattias didn't seem best pleased to see a Void, and put that into a pile, with two lands and two Fire/Ice in the other pile. Oberbek took the Void and attacked with his Familiar, Kettil not blocking with his Lynx.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/883.jpg)
+
+Oberbek got a fast start in this first game, with a second turn Nightscape Familair accelerating him into a third turn Fact or Fiction. Mattias didn't seem best pleased to see a Void, and put that into a pile, with two lands and two Fire/Ice in the other pile. Oberbek took the Void and attacked with his Familiar, Kettil not blocking with his Lynx.
 
 The Void got rid of a Vindicate and a Dromar's Charm from Kettil's hand, but left him with a Fact or Fiction. However, Oberbek's mana acceleration from a pair of Nightscape Familiars proved to be a crucial factor at this point. He cast his own Fact or Fiction in response to Kettil's, and revealed two Gainsays, Island, Urza's Rage, and Prophetic Bolt. This gave Oberbek two Gainsays, and he countered the Fact or Fiction.
 
@@ -68,7 +70,9 @@ Mattias sideboarded in Gainsay, Lobotomy, and Phyrexian Arena, removing some Pro
 
 ### Game Two
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/882.jpg)Mattias mulliganned in game two, and neither player cast a spell until turn four, when Kettil Dromar's Charmed a Fact or Fiction. Przemek then cast another Fact or Fiction in his main phase, netting him two lands and a Nightscape Familiar, and used the mana acceleration from the Familiars once again to Lobotomize Mattias for his Desolation Angels.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/882.jpg)
+
+Mattias mulliganned in game two, and neither player cast a spell until turn four, when Kettil Dromar's Charmed a Fact or Fiction. Przemek then cast another Fact or Fiction in his main phase, netting him two lands and a Nightscape Familiar, and used the mana acceleration from the Familiars once again to Lobotomize Mattias for his Desolation Angels.
 
 Mattias cast Phyrexian Arena, a good card in this match-up, but he was prevented from using it by a lack of lands. He didn't have enough mana to force through a Vindicate, and it was Undermined. The Poles Nightscape Familiar reduced Kettil to ten, all the time countering Mattias's attempts to Lobotomize him. An attempt to cast Rout turned out painfully for Kettil, since Przemek used Prophetic Bolt and then Undermine to knock him down to two.
 

@@ -1222,7 +1222,9 @@ As you may recall, way back in 2005 I wrapped up a [Followed Footsteps deck](/en
 
 ### Building With House Dimir
 
-![](https://i.ormos.uk/ba/1a/ba1a9201c8677e96c37fd7ba30d7fc6950fa99697b9666292fbdec2f20ed0dfb.jpg)As a reminder: Before *Guildpact* sweeps onto the scene with its fresh crop of guilds, Standard consists of *9th Edition, Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa,* and *Ravnica: City of Guilds*. These sets -- especially *Ravnica* -- have opened the door for a lot of fun deck ideas in Black and Blue. Where Black and Blue decks collide, you will often find the handiwork of Szadek and his hidden guild.
+![](https://i.ormos.uk/ba/1a/ba1a9201c8677e96c37fd7ba30d7fc6950fa99697b9666292fbdec2f20ed0dfb.jpg)
+
+As a reminder: Before *Guildpact* sweeps onto the scene with its fresh crop of guilds, Standard consists of *9th Edition, Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa,* and *Ravnica: City of Guilds*. These sets -- especially *Ravnica* -- have opened the door for a lot of fun deck ideas in Black and Blue. Where Black and Blue decks collide, you will often find the handiwork of Szadek and his hidden guild.
 
 Bear with me a few moments while I draw your attention to the flavorful aspects of House Dimir. You can understand the underlying philosophy [from Mark](/en/articles/makingmagic/2005/11-07-pretty-sneaky-sis) (Rosewater) and [Aaron](/en/articles/latestdevelopments/2005/11-11-secrets-of-the-secret-guild), both of whom provide good primers on the Dimir and their mechanics. For pure flavor, though, I prefer dipping into [Rei Nakazawa's *Ravnica* overview](/en/articles/feature/2005/09-05-life-in-the-big-city). There he says: 
 

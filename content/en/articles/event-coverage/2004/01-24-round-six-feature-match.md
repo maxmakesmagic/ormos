@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoka04/r6fm1ja1.jpg)This round we have a battle of reanimation decks, as Hirabayashi's Angry Hermit inspired Dancing Ghoul deck goes up against Ishida's more traditional blue-black reanimator. Thus far both players have fared well, coming into this round at 5-0. This match is a contrast in reputations, as Ishida is one of Japan's most experienced Magic veterans, while Hirabayashi is extremely well-respected as a writer and deck builder.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoka04/r6fm1ja1.jpg)
+
+This round we have a battle of reanimation decks, as Hirabayashi's Angry Hermit inspired Dancing Ghoul deck goes up against Ishida's more traditional blue-black reanimator. Thus far both players have fared well, coming into this round at 5-0. This match is a contrast in reputations, as Ishida is one of Japan's most experienced Magic veterans, while Hirabayashi is extremely well-respected as a writer and deck builder.
 
 ### Game 1
 

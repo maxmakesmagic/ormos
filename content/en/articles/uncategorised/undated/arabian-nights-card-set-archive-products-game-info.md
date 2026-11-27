@@ -48,7 +48,9 @@ Each booster pack in the *Arabian Nights* set includes eight cards.
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/4a/60/4a6099193db878e9c8b4916eaedd52be3de414cb82aceeb34187dbb98d9a069a.png)There are 78 unique cards in *Arabian Nights*. It features mechanics like coin flip cards, lands with abilities, djinns, and efreets.
+![](https://i.ormos.uk/4a/60/4a6099193db878e9c8b4916eaedd52be3de414cb82aceeb34187dbb98d9a069a.png)
+
+There are 78 unique cards in *Arabian Nights*. It features mechanics like coin flip cards, lands with abilities, djinns, and efreets.
 
 **Set Name:** *Arabian Nights*  
 **Number of Cards:** 78

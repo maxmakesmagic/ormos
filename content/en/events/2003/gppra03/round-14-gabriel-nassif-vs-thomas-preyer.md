@@ -94,7 +94,9 @@ Gabriel thought for a while before attacking into the Wirewood pride, and exclai
 
 He then cast 2 Skirk Outriders, with which to bring the beats. With his opponent on 2 though, it was successful in stalling his attack, and suddenly the game entered topdeck mode.
 
-![](https://i.ormos.uk/44/44/4444f625c87c14f96777652d6078f69fcb3a90e187f884703c6a8c8f4c830565.jpg)Gabriel cast the Morph he had just drawn, and flipped the Echo Tracer to bounce one of Thomas 2 blockers, and came in for lethal damage.
+![](https://i.ormos.uk/44/44/4444f625c87c14f96777652d6078f69fcb3a90e187f884703c6a8c8f4c830565.jpg)
+
+Gabriel cast the Morph he had just drawn, and flipped the Echo Tracer to bounce one of Thomas 2 blockers, and came in for lethal damage.
 
 "Nice Topdeck" Thomas said sarcastically as he shuffled.  
  "Thank you" Gabriel courteously replied.
@@ -113,7 +115,9 @@ Gabriel could only muster a Morph in his turn, and things did not look good. The
 
 ### Game 3
 
-![](https://i.ormos.uk/4b/70/4b703989eef8a73d5db48418a48fc7f83ce71d90db9aff4eedd5aafed57c4277.jpg)Both players again kept their hands, but Gabriel's draw came slightly out of order as he made a turn 3 Sparksmith. Thomas Chose not to play a turn 3 guy, but instead made turn 4 Timberwatch Elf, which didn't get shot at end of turn, as the Invigorating boon was in play, and could make it a 2/3. Instead Gabriel activated Sparksmith in his turn when he saw he hadn't drawn a Goblin, and used Crested Craghorn to finish it off.
+![](https://i.ormos.uk/4b/70/4b703989eef8a73d5db48418a48fc7f83ce71d90db9aff4eedd5aafed57c4277.jpg)
+
+Both players again kept their hands, but Gabriel's draw came slightly out of order as he made a turn 3 Sparksmith. Thomas Chose not to play a turn 3 guy, but instead made turn 4 Timberwatch Elf, which didn't get shot at end of turn, as the Invigorating boon was in play, and could make it a 2/3. Instead Gabriel activated Sparksmith in his turn when he saw he hadn't drawn a Goblin, and used Crested Craghorn to finish it off.
 
 Thomas cycled his Tusker to get a Swamp in his turn, and was attacked down to 12 when Nassif made Ridgetop Raptor to boost the Outrider. Thomas had a plan though, and on his next turn made a 9/9 Feral Throwback, revealing 2 Snarling Undoraks and a Hundroog.
 

@@ -69,7 +69,9 @@ render_recovery:
   - Butcher Orgg
   occurrences: 11
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a848.jpg)After 2 days of play we're down to only 8 players. With the likes of Kai Budde (seat 7), Dirk Baberowski (seat 8), Jens Thoren (seat 3), Bob Maher (seat 2) and Florent Jeudon (seat 1) this should be considered being a strong draft. The top 8 is completed with David Linder (seat 6) and Frederik Boberg (seat 4) from Sweden and Jens Krause (first seeded after the swiss) from Germany. Because Krause was seeded first after the swiss he had the choise of which position to be in during the draft. He choose to be in seat 5 which meant that his quarter-final opponent Florent Jeudon would be in first seat. This is considered to be one of the worst positions to be in a rochester draft.
+![](http://www.wizards.com/sideboard/images/gpcop02/a848.jpg)
+
+After 2 days of play we're down to only 8 players. With the likes of Kai Budde (seat 7), Dirk Baberowski (seat 8), Jens Thoren (seat 3), Bob Maher (seat 2) and Florent Jeudon (seat 1) this should be considered being a strong draft. The top 8 is completed with David Linder (seat 6) and Frederik Boberg (seat 4) from Sweden and Jens Krause (first seeded after the swiss) from Germany. Because Krause was seeded first after the swiss he had the choise of which position to be in during the draft. He choose to be in seat 5 which meant that his quarter-final opponent Florent Jeudon would be in first seat. This is considered to be one of the worst positions to be in a rochester draft.
 
 Having said this Florent opens the first bomb of the draft being an Akroma's Vengeance. Bob takes a Krosan Tusker and Jens goes on taking a Gluttonous Zombie. 
 
@@ -87,7 +89,9 @@ After the first 8 packs the colors were divided like this:
 **Kai:** w/r  
 **Dirk:** u/b
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a847.jpg)This meant that only Bob and Jens Krause were drafting green, which is arguably the best color in the set, so they're looking good. On the other hand, the worst color of the format, blue, was being drafted by 3 players, so they'd better have some good cards in their other color. It was remarkable that the players cooperated really well, almost never hate-drafting a card from the other.
+![](http://www.wizards.com/sideboard/images/gpcop02/a847.jpg)
+
+This meant that only Bob and Jens Krause were drafting green, which is arguably the best color in the set, so they're looking good. On the other hand, the worst color of the format, blue, was being drafted by 3 players, so they'd better have some good cards in their other color. It was remarkable that the players cooperated really well, almost never hate-drafting a card from the other.
 
 During the second and the third pack not much changed: Bob and Jens Krause even more improved their decks being the only 2 green mages. Kai and Jens Thoren both got some very decent decks as good white cards kept being opened; Jens got a Akroma's Vengeance of his own and Kai got an whole armada of Gustcloak creatures.  
  Fredrik Boberg and Florent Jeudon were also looking fine but Dirk and David kept on struggling. 

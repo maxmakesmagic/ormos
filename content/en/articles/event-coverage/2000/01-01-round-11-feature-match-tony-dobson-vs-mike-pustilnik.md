@@ -62,7 +62,9 @@ Tony started off rapidly in the second game, with a second turn Hate Weaver. Mik
 
 He also had Sinister Strength in his hand, although this would have meant putting all his eggs in one basket. Instead after Mike played a Kavu Recluse Tony decided to Bog Down, forcing Pustilnik to discard Duskwalker and Vodalian Zombie. 
 
-![](https://i.ormos.uk/5b/ea/5bea9e308c9fe9e1ebd8373cc72962b5d7f7a076dbf09e5cc94120e7c0f7bd84.jpg)Mike confused the spectators momentarily by using his Kavu Recluse on one of his own lands, which enabled him to play the green kicker cost on his Thunderscape Battlemage, destroying Maniacal Rage. He removed the Hate Weaver with Cursed Flesh, and without a second Swamp, Tony had to sacrifice his Ancient Spring in order to play the Duskwalker in his hand with kicker. 
+![](https://i.ormos.uk/5b/ea/5bea9e308c9fe9e1ebd8373cc72962b5d7f7a076dbf09e5cc94120e7c0f7bd84.jpg)
+
+Mike confused the spectators momentarily by using his Kavu Recluse on one of his own lands, which enabled him to play the green kicker cost on his Thunderscape Battlemage, destroying Maniacal Rage. He removed the Hate Weaver with Cursed Flesh, and without a second Swamp, Tony had to sacrifice his Ancient Spring in order to play the Duskwalker in his hand with kicker. 
 
 Mike had to double-block the Duskwalker, with a Morgue Toad and a Ravenous Rat, as he was down to six, but Tony used a Strafe to kill the Morgue Toad, meaning that the Duskwalker stayed around. Meanwhile the American was killing Tony with a Thunderscape Battlemage and a Kavu Recluse. Tony was down to five, when he drew a Terminate. Now he could wait for Mike to attack, and then not block, which would have done him lethal damage were it not for the Terminate. Now Mike was on 3 life and facing a Duskwalker with no way to stop it, he conceded. 
 
@@ -78,7 +80,9 @@ However, it appeared that Mike got the better of this deal, as he had a Nightsca
 
 He then followed this up with the Battlemage, and destroyed Tony's Sulfur Vent, reducing Dobson to only one Swamp in play for black mana. The Volcanic Imp attacked, and Tony attacked back with the familiar. Finally the Lava Zombie came into play. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/919.jpg)Tony tried to attack with a Rogue Kavu, but as this would have killed the Lava Zombie, Mike cast Magma Burst with kicker, forcing Tony to regenerate the Familiar as well. Now an attack from Mike would reduce Tony to only two life, so he used the Malicious Advice which he had hoped to use as an Aggressive card to stay alive. He drew and played an Ancient Kavu, which would trade with the Lava Zombie. This potential blocker was easily removed by the Battlemage's blue ability. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/919.jpg)
+
+Tony tried to attack with a Rogue Kavu, but as this would have killed the Lava Zombie, Mike cast Magma Burst with kicker, forcing Tony to regenerate the Familiar as well. Now an attack from Mike would reduce Tony to only two life, so he used the Malicious Advice which he had hoped to use as an Aggressive card to stay alive. He drew and played an Ancient Kavu, which would trade with the Lava Zombie. This potential blocker was easily removed by the Battlemage's blue ability. 
 
 Tony tried one last time to play a blocker, but Mike had an Urborg Emissary, which removed Tony's remaining blocker, and allowed Pustilnik to attack for the win. 
 

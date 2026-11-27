@@ -87,7 +87,9 @@ Let me start by asking my traditional question: **Magic** design, how is it goin
 
 **#1 – Continue with Goals from Last Year (a.k.a. from the first State of Design column)**
 
- ![Vedalken_Plotter](http://archive.wizards.com/magic/images/cardart/GPT/Vedalken_Plotter.jpg)Every year I give myself three goals. This goal was kind of like a wish asking for more wishes in that it got me past the limit of three. Although unlike the sneaky "more wishes" wish, I don't know if having five goals instead of three was actually to my benefit. Nonetheless, let's walk through each of these subgoals:
+ ![Vedalken_Plotter](http://archive.wizards.com/magic/images/cardart/GPT/Vedalken_Plotter.jpg)
+
+ Every year I give myself three goals. This goal was kind of like a wish asking for more wishes in that it got me past the limit of three. Although unlike the sneaky "more wishes" wish, I don't know if having five goals instead of three was actually to my benefit. Nonetheless, let's walk through each of these subgoals:
 
 **Institute Block Design.** A better listing of this goal might be "Maintain Block Design." *Time Spiral* Block was my attempt to demonstrate a different type of block design. Rather than the "cake method" of *Ravnica* (make one large block and cut it up into smaller pieces, forcing each set to have value as it's needed to complete the larger picture), I tried what I'll dub the "motif method." The idea behind the motif method was that by using a connected theme (time, which begat past, present and future), I was able to design three very distinctive sets each with its own flavor that the motif strung together.
 
@@ -107,7 +109,9 @@ The thing that excites me most about this goal is the task of this upcoming year
 
 **#2 – Embrace the Tools of the Past**
 
- ![Verdant_Embrace](http://archive.wizards.com/magic/images/cardart/TSP/Verdant_Embrace.jpg)Here's where you can see that I also use the State of the Design column to give a few hints as to where design is going. *Time Spiral* block has its flaws (and yes, I'm getting to those), but not embracing the tools of the past was not one of them. In fact, this was probably where *Time Spiral* excelled the most, using past successes (and a few failures—hey, we can't resist trying to correct past mistakes) to build the present.
+ ![Verdant_Embrace](http://archive.wizards.com/magic/images/cardart/TSP/Verdant_Embrace.jpg)
+
+ Here's where you can see that I also use the State of the Design column to give a few hints as to where design is going. *Time Spiral* block has its flaws (and yes, I'm getting to those), but not embracing the tools of the past was not one of them. In fact, this was probably where *Time Spiral* excelled the most, using past successes (and a few failures—hey, we can't resist trying to correct past mistakes) to build the present.
 
 Checkmark for this goal.
 
@@ -139,7 +143,9 @@ The oddest part about this was that *Planar Chaos* was a much harder set to desi
 
 **Lesson #3 – Watch Complexity**
 
- ![Bureaucracy](http://archive.wizards.com/magic/images/cardart/UG/Bureaucracy.jpg)I talked about the disconnect *Time Spiral* had with some newer players because they didn't "get" what was being referenced. The problem actually went much deeper than that. The entire design of the block hinged on things being familiar. For example, we would never have a set with the number of keywords that appeared in *Time Spiral* (eleven I think) if the keywords were new. Why? It would be too confusing. Now let's approach the set with new player eyes. To them, it *is* that confusing. There *are* eleven new keywords.
+ ![Bureaucracy](http://archive.wizards.com/magic/images/cardart/UG/Bureaucracy.jpg)
+
+ I talked about the disconnect *Time Spiral* had with some newer players because they didn't "get" what was being referenced. The problem actually went much deeper than that. The entire design of the block hinged on things being familiar. For example, we would never have a set with the number of keywords that appeared in *Time Spiral* (eleven I think) if the keywords were new. Why? It would be too confusing. Now let's approach the set with new player eyes. To them, it *is* that confusing. There *are* eleven new keywords.
 
 But wait, the established players don't have to imagine what it would be like. We have *Future Sight*, the set that made every player feel like a new player. *Future Sight* had close to fifty keywords, with over a dozen that were brand spanking new. I often talk about how the metaphorical pendulum swings as **Magic** keeps reinventing itself. *Future Sight* was the farthest swing on the complexity axis that we've ever taken. Don't expect to see anything of this complexity anytime soon—possibly ever again.
 

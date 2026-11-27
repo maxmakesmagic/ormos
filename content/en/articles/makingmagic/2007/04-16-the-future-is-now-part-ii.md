@@ -93,7 +93,9 @@ archive_source:
   sha256: 5c43c00e17f16b86385d553802c729f5d5da17fbaeaeb02ac0d97e3f58525467
 render_recovery: []
 ---
-[![Quiet_Speculation](https://i.ormos.uk/27/5e/275ebce4e01928ac57a122a7962f9de8d60f216c65ee40b8dfb9fdda55ac0cc7.jpg)](https://web.archive.org/web/20070416000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Quiet%2BSpeculation)Welcometo the second week of *Future Sight* previews. This week I'll be continuing the story of *Future Sight* design that I began [last week](/en/articles/makingmagic/2007/04-09-the-future-is-now-part-i) (if the "Part II" wasn't a clear enough clue). I'll also be showing you yet another preview card, because hey, what would a preview column be without a preview card? And... well, that's pretty much all I'll be doing, but I promise to take over four thousand words to do it.
+[![Quiet_Speculation](https://i.ormos.uk/27/5e/275ebce4e01928ac57a122a7962f9de8d60f216c65ee40b8dfb9fdda55ac0cc7.jpg)](https://web.archive.org/web/20070416000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Quiet%2BSpeculation)
+
+Welcometo the second week of *Future Sight* previews. This week I'll be continuing the story of *Future Sight* design that I began [last week](/en/articles/makingmagic/2007/04-09-the-future-is-now-part-i) (if the "Part II" wasn't a clear enough clue). I'll also be showing you yet another preview card, because hey, what would a preview column be without a preview card? And... well, that's pretty much all I'll be doing, but I promise to take over four thousand words to do it.
 
 ### Previously on "The Future Is Now":
 

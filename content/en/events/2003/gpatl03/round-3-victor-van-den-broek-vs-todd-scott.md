@@ -95,7 +95,9 @@ Todd played an Elfhame Palace on turn one and followed with several Islands, mea
 
 Victor used Burning Wish to get Cabal Therapy, then spent almost no time thinking before he cast the Therapy. "Wrath of God," he guessed. The therapy ripped a single Wrath of God from Todd, and showed a hand very favorable to Victor. With Cunning Wish, Deep Analysis and Mirari in his hand, Todd had no way to stop the onslaught of goblins, and the crunch was on.
 
-![](https://i.ormos.uk/7f/5d/7f5de10b9cff9a21487b6eb4292acea59c0fc35c759b575f0baf41fb4d0f7e41.jpg)A second Piledriver landed on the table, now safe from the effects of Wrath of God. The two Piledrivers and a Goblin Warchief swung, dealing 12 damage to Todd and nearly bringing Game 1 to a close.
+![](https://i.ormos.uk/7f/5d/7f5de10b9cff9a21487b6eb4292acea59c0fc35c759b575f0baf41fb4d0f7e41.jpg)
+
+A second Piledriver landed on the table, now safe from the effects of Wrath of God. The two Piledrivers and a Goblin Warchief swung, dealing 12 damage to Todd and nearly bringing Game 1 to a close.
 
 One of Victor's creatures finally hit the graveyard, as he sacrificed it to flash back the Cabal Therapy. Todd paused him, "I have a response," he said. Victor acknowledged the response with something of a knowing smile. Todd did what everyone expected and cast his Cunning Wish. The Wish went into this deck box and a Moment's Peace came out from the sideboard. The Moment's Peace was immediately taken with Cabal Therapy.
 
@@ -115,7 +117,9 @@ A Gempalm Incinerator was recruited into the army of the Netherlands and Victor 
 
 The turn came back to Victor and he played the Patriarch's Bidding. No Mana Leak from Todd, and the army of goblins returned from the graveyard. Todd looked at the table seemingly without worry. A Moment's Peace prevented all the damage the goblins might have done, then during the end step Todd cast Renewed Faith, getting himself back six life.
 
-![](http://www.wizards.com/sideboard/images/gpatl03/a965.jpg)"Wake," he announced on his turn, setting the enchantment on the table. The Wake was followed up with Wrath of God, his second, and Victor had a table devoid of his goblin army. 
+![](http://www.wizards.com/sideboard/images/gpatl03/a965.jpg)
+
+"Wake," he announced on his turn, setting the enchantment on the table. The Wake was followed up with Wrath of God, his second, and Victor had a table devoid of his goblin army. 
 
 Two turns later Victor still hadn't seen any creatures, his goblins afraid to come to the top of the deck, for fear of angering the Gods again. With two consecutive land draws Victor was in danger of ending up out of the game.
 

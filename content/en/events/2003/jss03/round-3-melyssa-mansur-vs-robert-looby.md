@@ -84,7 +84,9 @@ render_recovery:
   - Volcanic Hammer
   occurrences: 49
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a823.jpg)Melyssa is one of the few girls in this tournament – her sister Danielle, who's only nine played in the grinders yesterday. When asked for a quote, she said, "I'm a girl!" Melyssa's whole family is here to cheer her on. She was in JSS last year as well.
+![](http://www.wizards.com/sideboard/images/natus03/a823.jpg)
+
+Melyssa is one of the few girls in this tournament – her sister Danielle, who's only nine played in the grinders yesterday. When asked for a quote, she said, "I'm a girl!" Melyssa's whole family is here to cheer her on. She was in JSS last year as well.
 
 Robert said, "I don't belong here – I'm 0-2! You'd figure they'd pick people who actually win a little." He seemed dismayed at his feature match. This is also his first big tournament – he drove here from Tucson with both his parents. 
 
@@ -108,7 +110,9 @@ Melyssa Mansur 0 – Robert Looby 1
 
 Melyssa opted to play first, quite an advantage in this aggressive matchup. She led with a Grim Lavamancer, and when Robert had no first-turn play, she added a Wild Mongrel to her side of the table.
 
-![](http://www.wizards.com/sideboard/images/natus03/a824.jpg)Robert's first creature was a Wirewood Hivemaster. He looked dismayed as Melissa discarded Violent Eruption and paid the madness cost, killing his Hivemaster and dealing three damage to him. Melyssa swung with both the Mongrel and the Lavamancer and smiled at Craig, the photographer. "You did that to me last year!" she joked as he took pictures of the match.
+![](http://www.wizards.com/sideboard/images/natus03/a824.jpg)
+
+Robert's first creature was a Wirewood Hivemaster. He looked dismayed as Melissa discarded Violent Eruption and paid the madness cost, killing his Hivemaster and dealing three damage to him. Melyssa swung with both the Mongrel and the Lavamancer and smiled at Craig, the photographer. "You did that to me last year!" she joked as he took pictures of the match.
 
 Robert surveyed his cards despondently. With a sigh, he played a Seeker of Skybreak, which Melyssa promptly killed with a Firebolt. Robert was at two, and when he missed his third land drop for three turns in a row, the game looked dismal.
 
@@ -126,7 +130,9 @@ Melyssa tossed down a Goblin Sharpshooter and went to 19 from her Barbarian Ring
 
 Melyssa swung back with Wild Mongrel, and discarded a Violent Eruption to pump the Mongrel. She divided the damage skillfully – one damage to the Wellwisher, one to the Centaur, and two to Robert's head. She then used the Sharpshooter to finish the Centaur off, and the game's momentum swung dramatically back in her favor. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a825.jpg)Robert played a Wirewood Herald, which Melyssa quickly killed, and went to find a Caller of the Claw. With one Bear in play, things looked much less grim for Robert. But Melyssa just kept finding burn spells, as the Bear died to a Firebolt and the Caller met the business end of a Volcanic Hammer.
+![](http://www.wizards.com/sideboard/images/natus03/a825.jpg)
+
+Robert played a Wirewood Herald, which Melyssa quickly killed, and went to find a Caller of the Claw. With one Bear in play, things looked much less grim for Robert. But Melyssa just kept finding burn spells, as the Bear died to a Firebolt and the Caller met the business end of a Volcanic Hammer.
 
 Melyssa played another Goblin Sharpshooter and attacked Robert with the Wild Mongrel. Robert went to 13, and Melyssa passed the turn. Robert drew his card and shook his head, then passed the turn back. Melyssa swung with the Wild Mongrel and threw one of her extraneous lands to it, bringing Robert down to 10.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 Dan Clegg Uncut is a team of three Pro players: Noah Boeken and Alex Witt of the Netherlands and Brock Parker of USA. Boys of Summer is the surprise Belgian package of Mats Clays, Johan Kennes and Marijn Lybaert that stormed to the top of the rankings yesterday.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a911.jpg)The winner here will be virtually guaranteed a place in the top 4.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a911.jpg)
+
+The winner here will be virtually guaranteed a place in the top 4.
 
 <table><thead><tr><th></th>&#10;		<th></th>&#10;	</tr></thead><tbody><tr><td>A Mats Clays</td>&#10;			<td>vs</td>&#10;			<td>Noah Boeken</td>&#10;		</tr><tr><td>B Johan Kennes</td>&#10;			<td>vs</td>&#10;			<td>Brock Parker</td>&#10;		</tr><tr><td>C Marijn Lybaert</td>&#10;			<td>vs</td>&#10;			<td>Alex Witt</td>&#10;		</tr></tbody></table>
 
@@ -94,7 +96,9 @@ Boeken continued draw mountains but was able to enchant a [Symbiotic Elf](https:
 
 Clays retaliated by adding both his morphs to the assault on the next turn. Boeken had to play a game of guess the morph. He got the wrong block and a [Snapping Thragg](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapping+Thragg) picked off the [Battering Craghorn](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battering+Craghorn) while a facedown [Woodcloaker](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Woodcloaker) traded with the Vorine.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a906.jpg)It hurt but Boeken had to cycle a Tusker in search of a second forest. The extra card didn't help as Boeken tried to think of a way out. He passed the turn and Clays beat him to 5 with the Gourna.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a906.jpg)
+
+It hurt but Boeken had to cycle a Tusker in search of a second forest. The extra card didn't help as Boeken tried to think of a way out. He passed the turn and Clays beat him to 5 with the Gourna.
 
 Clays sneaked in a hasty [Skirk Alarmist](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Alarmist) and smashed again. Boeken was in real trouble. He blocked the Gourna and pumped his [Symbiotic Elf](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Elf) with [Accelerated Mutation](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Accelerated+Mutation). Here Clays made what looked like a mistake as he chose to let the Mutation resolve before making the Elf smaller with a [Chill Haunting](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chill+Haunting).
 

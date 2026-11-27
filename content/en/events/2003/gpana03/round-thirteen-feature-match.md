@@ -584,7 +584,9 @@ render_recovery:
 ---
 ### Mike Abraham vs. Gabe Walls
 
-![](https://i.ormos.uk/d6/94/d694795aff41330f0fc0e14b8d2f54778513913a10884f4d5cf0aaf6f82739df.jpg)Gabe Walls is running a Rock deck featuring everybody's favorite Troll Ascetic while Mike Abraham is playing the Hermit Druid deck capable of a turn two kill. Both players were 9-3 at the start of the round with a loss knocking the loser out of Top 8 contention.
+![](https://i.ormos.uk/d6/94/d694795aff41330f0fc0e14b8d2f54778513913a10884f4d5cf0aaf6f82739df.jpg)
+
+Gabe Walls is running a Rock deck featuring everybody's favorite Troll Ascetic while Mike Abraham is playing the Hermit Druid deck capable of a turn two kill. Both players were 9-3 at the start of the round with a loss knocking the loser out of Top 8 contention.
 
 Gabe won the all-decisive die roll and decided to play first. After shuffling each other's deck and a brief dispute about where on the playmat Mike should keep his library, the match was underway.
 

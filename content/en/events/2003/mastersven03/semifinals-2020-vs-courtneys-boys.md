@@ -93,7 +93,9 @@ render_recovery:
   - Shade's Breath
   occurrences: 45
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a382.jpg)This is a big grudge match for Courtney's Boys. At Pro Tour – Boston the upstart Canadians were thought to be easy prey, and the Boys were ready to match wits with Phoenix Foundation with everything on the line. Things didn't turn out as planned, with 2020 opening better cards and earning the right to lose to Budde's squad. Now they've got a chance at revenge, and the cards fell their way. 2020 know that a win will go a long way to showing they're no flash in the pan.
+![](http://www.wizards.com/sideboard/images/ptven03/a382.jpg)
+
+This is a big grudge match for Courtney's Boys. At Pro Tour – Boston the upstart Canadians were thought to be easy prey, and the Boys were ready to match wits with Phoenix Foundation with everything on the line. Things didn't turn out as planned, with 2020 opening better cards and earning the right to lose to Budde's squad. Now they've got a chance at revenge, and the cards fell their way. 2020 know that a win will go a long way to showing they're no flash in the pan.
 
 "No sleeves, very sketchy." – Gary Wise  
  "I am from Quebec." – David Rood
@@ -118,7 +120,9 @@ He flipped over Dirge of Dread and turned all his men sideways. Wise's morphs we
 
 Courtney's Boys 1 – 2020 1
 
-![](http://www.wizards.com/sideboard/images/ptven03/a385.jpg)That left everything to the struggle between Neil Reeves and Steven Wolfman. With Reeves drawing three cards a turn, Wolfman had resigned himself to the decking plan. Reeves surmised this, and was setting himself up an endgame. His library dwindled, and finally he had the tools to make his move. Graveborn Muse swung in, and Wolfman rebuffed it with Swooping Talon. Reeves showed Infest, and there was a flurry of instants. When the dust cleared, Reeves had Stonewood Invoker, Smokespew Invoker and Krosan Tusker. Wolfman had Gravel Slinger, Daru Cavalier, Daru Stinger and Stoic Champion. Reeves had about thirteen mana, and four draw steps.
+![](http://www.wizards.com/sideboard/images/ptven03/a385.jpg)
+
+That left everything to the struggle between Neil Reeves and Steven Wolfman. With Reeves drawing three cards a turn, Wolfman had resigned himself to the decking plan. Reeves surmised this, and was setting himself up an endgame. His library dwindled, and finally he had the tools to make his move. Graveborn Muse swung in, and Wolfman rebuffed it with Swooping Talon. Reeves showed Infest, and there was a flurry of instants. When the dust cleared, Reeves had Stonewood Invoker, Smokespew Invoker and Krosan Tusker. Wolfman had Gravel Slinger, Daru Cavalier, Daru Stinger and Stoic Champion. Reeves had about thirteen mana, and four draw steps.
 
 Wolfman's rejoinder was devastating: Mobilization. Nine mana on the table meant very bad things for Neil Reeves. He gamely shot down the Daru Cavalier with his Invoker and swung in with the Tusker, costing Wolfman both his soldier tokens and his Daru Cavalier, while Gravel Slinger finished off the beast. Wolfman untapped and gave it back to Reeves. Reeves drew what he needed: Nantuko Vigilante. Strangely, Wolfman made only one soldier, keeping the rest of his mana open. The Invoker shot the Gravel Slinger. Wolfman's mana turned out to be for Cruel Revival, bringing back his Skinthinner. Reeves was demoralized. After another turn he flipped up his last card and started shuffling for Game 2.
 

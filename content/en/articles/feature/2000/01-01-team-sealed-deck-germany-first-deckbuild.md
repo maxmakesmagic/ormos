@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/364.jpg)The German team was in third place when they sat down to build their first set of sealed decks on Saturday morning. National champion André Konstanczer went 11-7 and finished 44th in the individual portion of Worlds. Jan Brinkman went 11-7 as well, finishing 43rd. They carried defending World Champion and PT Player of the year Kai Budde, who managed only a .500 record. Euros quarter-finalist Wolfgang Eder also put up 9 wins and 9 losses.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/364.jpg)
+
+The German team was in third place when they sat down to build their first set of sealed decks on Saturday morning. National champion André Konstanczer went 11-7 and finished 44th in the individual portion of Worlds. Jan Brinkman went 11-7 as well, finishing 43rd. They carried defending World Champion and PT Player of the year Kai Budde, who managed only a .500 record. Euros quarter-finalist Wolfgang Eder also put up 9 wins and 9 losses.
 
 Budde was thinking about rescinding his spot on the German national team, but changed his mind when David Brucker (who was on last year's German national team and was in line to get Budde's spot) earned an invitation to Worlds at Euros a few weeks ago.
 
@@ -83,7 +85,9 @@ The first thing the Germans did when they opened their cards was to divide them 
 
 They claimed not to have any set color preferences before they started, but they each knew which color to grab and sort. Budde sorted the black, Konstanczer took green, Eder took red, they put blue in the middle of the table, and Brinkman lined up the white and discovered an amazing Rebel engine: His 12 good Rebels included Ballista Squad, Reveille Squad, 2 Gliders, and a chain that started at Ramosian Sergeant, include two 2-mana recruiters, and a Defiant Vanguard that meant the chain could bring Ballista Squad into play.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/365.jpg)Once they were able to contain their joy over their card quality, they started trying to build decks. First they sorted the green by mana cost and saw that the mana curve had a hole at 4 mana. They looked at their other colors and saw that red had to many 4-drops a healthy amount of removal so they decided to splash red into the green deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/365.jpg)
+
+Once they were able to contain their joy over their card quality, they started trying to build decks. First they sorted the green by mana cost and saw that the mana curve had a hole at 4 mana. They looked at their other colors and saw that red had to many 4-drops a healthy amount of removal so they decided to splash red into the green deck.
 
 They were tempted by mono-white, but once the red pile gave some cards to the green deck, it only had 13 cards left. With both Kyren Negotiations and Volcanic Winds in he red deck they wanted to fill it out with as many creatures as possible. White was really deep so they gave all the non-Rebel creatures to Eder (Jeweled Spirit, Alabaster Wall, Devout Witness, Diving Griffin, and Charm Peddler).
 

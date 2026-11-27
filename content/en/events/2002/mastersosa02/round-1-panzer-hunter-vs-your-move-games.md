@@ -53,7 +53,9 @@ archive_source:
   sha256: 5e02665c122e6fd3dc5ff01f85c14f4896d3a75a71134d0b9afe65e96a83d65f
 render_recovery: []
 ---
-![](https://i.ormos.uk/26/59/26592f4e26e9fa545f368f321fe42da8d7db1adeded4b19d06597dc6c6581717.jpg)Team Your Move Games have been around forever. Composed of Darwin Kastle, Dave Humpherys and Rob Dougherty, they were the champions of the first Team Pro Tour. Never mind that they're all strong players in their own right. Their opponents in this single elimination match are no slouches, either. They are Panzer Hunters, the finalists at the Tokyo Masters. Kazuyuki Momose had even retired from the game shortly after their monster run, but he came back to fight once more alongside the impetuous Reiji Ando and the quiet mastermind, Itaru Ishida.
+![](https://i.ormos.uk/26/59/26592f4e26e9fa545f368f321fe42da8d7db1adeded4b19d06597dc6c6581717.jpg)
+
+Team Your Move Games have been around forever. Composed of Darwin Kastle, Dave Humpherys and Rob Dougherty, they were the champions of the first Team Pro Tour. Never mind that they're all strong players in their own right. Their opponents in this single elimination match are no slouches, either. They are Panzer Hunters, the finalists at the Tokyo Masters. Kazuyuki Momose had even retired from the game shortly after their monster run, but he came back to fight once more alongside the impetuous Reiji Ando and the quiet mastermind, Itaru Ishida.
 
 Kastle started under fire from Ando's Aquamoeba and Dirty Wererat, working Compulsion to get things going. He drew into Sadistic Hypnotist, and sacrificed it and Frightcrawler to empty Ando's hand. Ando ripped Skywing Aven and continued the beats.
 
@@ -69,7 +71,9 @@ Game 2 was going Kastle's way. He had an early Dreamwinder backed by Patriarch's
 
 YMG 1 - Panzer Hunters 0
 
-![](http://www.wizards.com/sideboard/images/mastersosa02/a471.jpg)Ishida stepped on whatever hope Humpherys had left for the first game with Psionic Gift on a Mesmeric Fiend. That dispatched Cephalid Scout just before Aboshan made his appearance. By then he was too late.
+![](http://www.wizards.com/sideboard/images/mastersosa02/a471.jpg)
+
+Ishida stepped on whatever hope Humpherys had left for the first game with Psionic Gift on a Mesmeric Fiend. That dispatched Cephalid Scout just before Aboshan made his appearance. By then he was too late.
 
 Aboshan was also coming to the rescue for Ando, though more effectively. Kastle was at threshold, and his Torturer had already ripped through two Soul Scourges and a Zombie Assassin. Ando was at eight. Stalking Bloodsucker was not enough to get around the Cephalid Legend. Ando tapped low for Screams of the Damned, and surprised no-one with Moment's Peace to stay alive.
 
@@ -79,7 +83,9 @@ Ando had to let himself fall to three, but he had good justification. He needed 
 
 YMG 1 - Panzer Hunters 1
 
-![](https://i.ormos.uk/e0/1e/e01e4b8af821a59122bad438857d53dd45902415ab30e654a06e2185b1161fff.jpg)So it came down to one game. Things were not looking good for Ando, who started with Aquamoeba, then had nothing else before turn five. Kastle had meanwhile made Compulsion and Dreamwinder. Ando spent his fifth turn on Concentrate, then pitched to his Aquamoeba to Demise the Dreamwinder.
+![](https://i.ormos.uk/e0/1e/e01e4b8af821a59122bad438857d53dd45902415ab30e654a06e2185b1161fff.jpg)
+
+So it came down to one game. Things were not looking good for Ando, who started with Aquamoeba, then had nothing else before turn five. Kastle had meanwhile made Compulsion and Dreamwinder. Ando spent his fifth turn on Concentrate, then pitched to his Aquamoeba to Demise the Dreamwinder.
 
 He continued to turn things his way with Crippling Fatigue on Cabal Torturer and Skywing Aven for more effective smashery. Kastle calmly tapped six and laid down Stalking Bloodsucker. Languishing in his hand were Persuasion and Faceless Butcher. To say it looked good was an understatement.
 

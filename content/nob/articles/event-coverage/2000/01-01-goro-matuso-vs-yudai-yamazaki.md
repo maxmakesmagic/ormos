@@ -94,7 +94,9 @@ render_recovery: []
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/325F.jpg)今度は山崎がマリガン。対する松雄は土地５枚、[Simoon](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simoon) , Blastoderm という初手。しかも、この土地と引きが完全に噛み合った。ここから Bird 、Blastoderm 、Saproling Burst と引当てているのだ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/325F.jpg)
+
+今度は山崎がマリガン。対する松雄は土地５枚、[Simoon](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simoon) , Blastoderm という初手。しかも、この土地と引きが完全に噛み合った。ここから Bird 、Blastoderm 、Saproling Burst と引当てているのだ。
 
 　Bird の返しに [Plague Spitter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter) を出す山崎だが、鳥は死ぬ前に最後のご奉公とばかりに Burst を場に送る。返しで山崎は Kick の Scuta （19→16）。松尾は一体トークンを生み出し攻撃する。悩んだ末に山崎はこれを通す。（16→11）。松尾は Blastoderm とたたみかける。
 

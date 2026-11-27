@@ -61,7 +61,9 @@ archive_source:
   sha256: 4ad7221d842af62db734faa51e3eb152dd6012889694d8e05ccd60dd59a7aa79
 render_recovery: []
 ---
-![Message boards](https://i.ormos.uk/70/34/7034199daf16d7c87a9c749b53ced8b17d7c4b643161bd042c186d9abceff047.jpg)Reading the message boards requires a thick skin for members of R&D. You wear a bull's-eye on your chest. Posters on message boards don’t hold back. If they don’t like something, they will let you know in very graphic terms. You will be called all sorts of names and people will blame you for anything and everything. That said, the message boards provide another interesting insight into the player community and are important to read. Just take everything with a grain of salt. For extra fun, you read the thread to your column.
+![Message boards](https://i.ormos.uk/70/34/7034199daf16d7c87a9c749b53ced8b17d7c4b643161bd042c186d9abceff047.jpg)
+
+Reading the message boards requires a thick skin for members of R&D. You wear a bull's-eye on your chest. Posters on message boards don’t hold back. If they don’t like something, they will let you know in very graphic terms. You will be called all sorts of names and people will blame you for anything and everything. That said, the message boards provide another interesting insight into the player community and are important to read. Just take everything with a grain of salt. For extra fun, you read the thread to your column.
 
  **[Visit the rumor site.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=22)  
 [Visit the issues site.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=23)  

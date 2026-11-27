@@ -102,11 +102,15 @@ render_recovery:
   - Simoon
   occurrences: 61
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a976.jpg)If you want to talk about Canada's current crop of star players, you want to talk about Jeff Cunningham. His Top 8 at Pro Tour San Diego this year catapulted him to the public eye, and his consistent strong showings have validated that result. The same can be said of Jeff Fung, and neither of these young upstarts were happy to see such a challenging match so early in the tournament. Fung is playing a blue-red-white aggro-control deck, while Cunningham is running red-green 'Tog-hate beatdown.
+![](http://www.wizards.com/sideboard/images/canat02/a976.jpg)
+
+If you want to talk about Canada's current crop of star players, you want to talk about Jeff Cunningham. His Top 8 at Pro Tour San Diego this year catapulted him to the public eye, and his consistent strong showings have validated that result. The same can be said of Jeff Fung, and neither of these young upstarts were happy to see such a challenging match so early in the tournament. Fung is playing a blue-red-white aggro-control deck, while Cunningham is running red-green 'Tog-hate beatdown.
 
 The opening turns were pure savagery. Cunningham busted out a pair of Basking Rootwallas. Fung plucked Fire/Ice and wiped his board. Then Cunnigham missed his third land drop. Fung looked at the three Memory Lapses and smiled. Volcanic Hammer was played three turns while Cunnigham struggled to get his third land. Opposition made it even trickier..
 
-![](http://www.wizards.com/sideboard/images/canat02/a977.jpg)The situation after the final Lapse was Cunningham with a full hand and three land, and Fung with five land, Opposition and Sunscape Familiar. Fung wondered aloud what he needed. He drew Lightning Angel.
+![](http://www.wizards.com/sideboard/images/canat02/a977.jpg)
+
+The situation after the final Lapse was Cunningham with a full hand and three land, and Fung with five land, Opposition and Sunscape Familiar. Fung wondered aloud what he needed. He drew Lightning Angel.
 
 Now he had a clock as well as more lockdown. Cunningham drew into mountains and Urza's Rage to take out the Familiar, but by then Fung had Merfolk Looters to buy enough time for the Angel to win it.
 
@@ -114,7 +118,9 @@ Fung 1 - Cunningham 0
 
 Cunningham had to mulligan in the second game, and the forbidden look revealed land on top. However, the correct decision paid dividends, as his six cards were just great. He led with Yavimaya Barbarian and started hitting. Fung dug with Merfolk Looter. Eventually he found a Flametongue Kavu and struck. Cunningham reset the board with Violent Eruption.
 
-![](http://www.wizards.com/sideboard/images/canat02/a978.jpg)Another Barbarian came swinging, and joined by Grim Lavamancer, but they were beneath Fung's notice. He had all the hits he needed. Lightning Angel. Goblin Trenches. And then finally Worship, the nail in the coffin. Cunningham played along, but it was hopeless, what with the endless supply of creatures from the Trenches.
+![](http://www.wizards.com/sideboard/images/canat02/a978.jpg)
+
+Another Barbarian came swinging, and joined by Grim Lavamancer, but they were beneath Fung's notice. He had all the hits he needed. Lightning Angel. Goblin Trenches. And then finally Worship, the nail in the coffin. Cunningham played along, but it was hopeless, what with the endless supply of creatures from the Trenches.
 
 **Final Result:** Jeff Fung defeats Jeff Cunningham 2-0
 

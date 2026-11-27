@@ -135,7 +135,9 @@ Note that elves defend their turf whether it's a literal grove of trees or not. 
 
 ### Elves as Master Warriors
 
-![](https://i.ormos.uk/89/84/89843e49fd54994921b24aad74493f4ef0754c6c82ea420e497a53e7ee60997d.jpg)Even when the woods per se are not at stake, elves don't sit idly by while battle is afoot. Elves have a reputation for being gifted fighters, either in armies that swarm out of the trees led by lords of the forest, or as heroic individuals whose combat prowess outstrips even the legends told about them. 
+![](https://i.ormos.uk/89/84/89843e49fd54994921b24aad74493f4ef0754c6c82ea420e497a53e7ee60997d.jpg)
+
+Even when the woods per se are not at stake, elves don't sit idly by while battle is afoot. Elves have a reputation for being gifted fighters, either in armies that swarm out of the trees led by lords of the forest, or as heroic individuals whose combat prowess outstrips even the legends told about them. 
 
 FUN FACT: For *Duel Decks: Elves vs. Goblins*, I wrote two bits of narrative to go on either side of the strategy insert that came with the decks. Here's the one that appeared on the Elf side, that I think embodies the "Elves as Warriors" aesthetic.
 
@@ -248,7 +250,9 @@ Oh, okay, one last thing. FUN FACT: There are elves in [Naya](https://web.archiv
 
 ### Letter of the Week
 
-> [![Planar_Overlay](https://i.ormos.uk/db/4d/db4d5eb5d811c0567ea997e7641d232be9f0772c42f5516426bf96da8e4718ed.jpg)](https://web.archive.org/web/20080820000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Planar%2BOverlay)Dear Doug Beyer,
+> [![Planar_Overlay](https://i.ormos.uk/db/4d/db4d5eb5d811c0567ea997e7641d232be9f0772c42f5516426bf96da8e4718ed.jpg)](https://web.archive.org/web/20080820000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Planar%2BOverlay)
+>
+> Dear Doug Beyer,
 > 
 > So, something about this constant plane-hopping bothers me. OK, so each block we get a new setting - that makes sense. But why a new plane?
 > 
@@ -268,7 +272,9 @@ With a few caveats, I'm on your side here. Logic dictates that entire worlds sho
 
 Furthermore, we *will* return to previously-established planes. It is in the plan. You're right that there is plenty of room left over on many of **Magic**'s planes to explore more deeply in a future block—and not just Dominaria.
 
-[![Extraplanar_Lens](https://i.ormos.uk/e1/e0/e1e0adf5d92266831d717f218fcfe47b003a77d204b31a251c4e99f40a791660.jpg)](https://web.archive.org/web/20080820000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Extraplanar%2BLens)The caveats to my agreement with you, Harry, have to do with what I call the "craft" of world-building. Craft is the skill of managing the practicalities of a creative endeavor. I almost hesitate to use the word "practicalities" because it has such a derogatory connotation in some circles, but I don't mean it as a negative thing at all. Art needs craft the way a building needs a structural system. A piece of art without good craftsmanship is meaningless, inaccessible drivel that falls apart before it does its job.
+[![Extraplanar_Lens](https://i.ormos.uk/e1/e0/e1e0adf5d92266831d717f218fcfe47b003a77d204b31a251c4e99f40a791660.jpg)](https://web.archive.org/web/20080820000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Extraplanar%2BLens)
+
+The caveats to my agreement with you, Harry, have to do with what I call the "craft" of world-building. Craft is the skill of managing the practicalities of a creative endeavor. I almost hesitate to use the word "practicalities" because it has such a derogatory connotation in some circles, but I don't mean it as a negative thing at all. Art needs craft the way a building needs a structural system. A piece of art without good craftsmanship is meaningless, inaccessible drivel that falls apart before it does its job.
 
 The craft of world-building dictates that worlds should be understandable and differentiable from other worlds. You can sum up Mirrodin in two words—"metal world" (and half of that is just the "world" part!). This allows our minds to latch onto the essential characteristics of the setting quickly. It also helps us differentiate that world from the others that have gone by—"metal world" is distinct from "feudal Japan world" and "city world" and "idyllic storybook world" and "five shards world" (*Shards of Alara* previews will be here before you know it!) and all the rest. Our minds need that. If every world is so intricate and diverse that they all take a paragraph to describe, then it takes our minds a long time to process what's going on in the world. Duplicating the complexity of Earth's cultures every year is not only impossible, it's impractical—our brains would not know what to do with that kind of depth. The craft of fantasy demands those kinds of theme-oriented worlds. (I want to write more on the craft of **Magic** creative—someday I'll get to that.)
 

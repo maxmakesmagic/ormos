@@ -175,7 +175,9 @@ render_recovery:
 ---
 * * *
 
-![Azorius Signet: Silver frame. Evermind: Blue frame.](https://i.ormos.uk/02/91/02916864e90fd7fc39edeefa56de745784afc8b0ed1304aeb2daabc791f7b0af.jpg "Azorius Signet: Silver frame. Evermind: Blue frame.")As the [Comprehensive Rules](https://web.archive.org/web/20080516033645/http://www.wizards.com/magic/comprules) remind us, a card's color is identified by its mana cost, not by what its frame looks like.
+![Azorius Signet: Silver frame. Evermind: Blue frame.](https://i.ormos.uk/02/91/02916864e90fd7fc39edeefa56de745784afc8b0ed1304aeb2daabc791f7b0af.jpg "Azorius Signet: Silver frame. Evermind: Blue frame.")
+
+As the [Comprehensive Rules](https://web.archive.org/web/20080516033645/http://www.wizards.com/magic/comprules) remind us, a card's color is identified by its mana cost, not by what its frame looks like.
 
 > *203.2. An object is the color or colors of the mana symbols in its mana cost, regardless of the color of its frame.*
 > 

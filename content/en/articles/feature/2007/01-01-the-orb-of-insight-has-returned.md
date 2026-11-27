@@ -71,7 +71,9 @@ render_recovery:
 ---
 * * *
 
-[![](https://i.ormos.uk/e9/2b/e92b07fa841bfe3698de3eecdeb850fa750f02ae5660f85d9c61ce614ecad8bc.jpg)](#)How does it work? Well, that's kind of a trade secret, but we can let you know this much: It's *Magic*.
+[![](https://i.ormos.uk/e9/2b/e92b07fa841bfe3698de3eecdeb850fa750f02ae5660f85d9c61ce614ecad8bc.jpg)](#)
+
+How does it work? Well, that's kind of a trade secret, but we can let you know this much: It's *Magic*.
 
 Specifically, you type in a word (or number) and the Orb tells you how many times that word appears on *Planar Chaos* cards. It doesn't count flavor text, but don't let that deter you from finding out how many times the word "Sliver" appears in card names and rules boxes. You can even enter numbers and mana abbreviations to try and figure out mana costs! (Ball Lightning would be RRR, for example.)
 

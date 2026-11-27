@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a785.jpg)These two could be twins. Both are stocky of build, short of hair, and stern of visage, lick a couple of thugs that would rough you up under the bleachers of a soccer match.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a785.jpg)
+
+These two could be twins. Both are stocky of build, short of hair, and stern of visage, lick a couple of thugs that would rough you up under the bleachers of a soccer match.
 
 The only thing different about these two Europeans is their records: Dirk is 6-3-1, and is effectively out of the Top 8, whereas Larkin is 7-2-1 and can win out. Pro Tour point considerations for the Masters keep Baberowski from conceding outright to Larkin, so the two must slug it out.
 
@@ -71,7 +73,9 @@ Then the game got dumb. Baberowski played out two [Wellwisher](https://web.archi
 
 Up and up went the German's life... 46, 52, 63.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a784.jpg)"This is ridiculous," said Larkin, "and there wasn't even a single [Crown of Suspicion](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Suspicion) in the draft."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a784.jpg)
+
+"This is ridiculous," said Larkin, "and there wasn't even a single [Crown of Suspicion](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Suspicion) in the draft."
 
 The fact that Larkin "fetched" with his [Daru Cavalier](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Cavalier)s meant that he would get decked first, so he had to try and win the game.
 

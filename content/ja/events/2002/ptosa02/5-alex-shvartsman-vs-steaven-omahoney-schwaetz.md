@@ -111,7 +111,9 @@ render_recovery:
 ---
 ### 
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a862.jpg)　ラウンド 5 の組み合わせは、プレミアイベントで見かけない事は無い Alex と、兄弟プロプレイヤーで、 PT の優勝経験がある方と言えばわかりやすいのか、弟である Steaven O'Mahoney-Schwaetz との対戦。
+![](http://www.wizards.com/sideboard/images/ptosa02/a862.jpg)
+
+　ラウンド 5 の組み合わせは、プレミアイベントで見かけない事は無い Alex と、兄弟プロプレイヤーで、 PT の優勝経験がある方と言えばわかりやすいのか、弟である Steaven O'Mahoney-Schwaetz との対戦。
 
 ### Game 1
 

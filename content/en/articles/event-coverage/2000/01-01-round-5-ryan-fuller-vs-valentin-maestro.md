@@ -44,7 +44,9 @@ archive_source:
   sha256: a66867d5cfed2e5cfd571c6400013e424c2a71ce0401fd482fd7909051c6b88f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/970.jpg)In this feature match, Ryan Fuller, a well-known Canadian player now residing permanently in Holland, took on Valentin Maestro, one of the remaining Spanish players still unbeaten. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/970.jpg)
+
+In this feature match, Ryan Fuller, a well-known Canadian player now residing permanently in Holland, took on Valentin Maestro, one of the remaining Spanish players still unbeaten. 
 
 **Game One** 
 
@@ -60,7 +62,9 @@ Maestro removed the Urborg Emissary, but was unable to deal with Crosis, which c
 
 **Game Two** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/972.jpg)Valentin chose to go first for this game, and this time it was Ryan who had to take a mulligan, with a hand full of white cards and only one Swamp and one Island for mana. His six card hand was much more satisfactory however. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/972.jpg)
+
+Valentin chose to go first for this game, and this time it was Ryan who had to take a mulligan, with a hand full of white cards and only one Swamp and one Island for mana. His six card hand was much more satisfactory however. 
 
 Valentin played an Urborg Skeleton on the first turn - and sent it across for zero damage on turn two. Unfazed, Ryan opted to take the damage, which reduced him to twenty. 
 
@@ -70,7 +74,9 @@ Bizarrely, the Spaniard played Pouncing Kavu without kicker, despite having enou
 
 His entire offense was immediately halted by the 3 / 4 Ertai. Ryan appeared confused by his opponent's rapidly accumulating selection of dubious plays, but with a hand as good as his was at this point - and facing no sort of attack - he seemed to be firmly in control. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/971.jpg)A Yavimaya Barbarian did manage to get past the Fuller defenses, bringing him to 17, and he was forced to sacrifice his Samite Pilgrim to prevent Valentin gaining five 1/1s from a Saproling Symbiosis. Ryan's defensive position continued to improve as he played a Prison Barricade. Perhaps he was marking time until he drew a Mountain so that he could get maximum benefit out of Ordered Migration. It was immediately sacrificed, however, to prevent Ertai being Plague Spored. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/971.jpg)
+
+A Yavimaya Barbarian did manage to get past the Fuller defenses, bringing him to 17, and he was forced to sacrifice his Samite Pilgrim to prevent Valentin gaining five 1/1s from a Saproling Symbiosis. Ryan's defensive position continued to improve as he played a Prison Barricade. Perhaps he was marking time until he drew a Mountain so that he could get maximum benefit out of Ordered Migration. It was immediately sacrificed, however, to prevent Ertai being Plague Spored. 
 
 Ryan then cast Ordered Migration for three, giving him the opportunity to counter three spells. His opponent was by now reduced to desperate measures - attacking in such a fashion that he lost a creature to deal only two damage to Ryan. 
 

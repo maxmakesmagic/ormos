@@ -100,7 +100,9 @@ The trick? I want *you* to guess how well each deck did.
 
 It's not that difficult. You can often see a deck's strengths and weaknesses just by looking at what's in it—the card choices will tell you where it's vulnerable and where it's unbeatable. So instead of having me tell you what works in multiplayer, I'd like you to use your *own* brain cells. Tell me how each of these decks are likely to fare in a five-man game!
 
-[![Goblin_Game](https://i.ormos.uk/59/ea/59ea39c8832390d51441d65420fd5e8196618f3a2b9d71ca8b51aade490f81d4.jpg)](https://web.archive.org/web/20080226000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Goblin%2BGame)Our playgroup last Tuesday had five players, if you include me. We play Legacy-legal decks, but we generally don't have to sweat the banned list, since we do play casually. Our decks run the lifespan of **Magic**; Paul has a complete set of every **Magic** set ever printed, Ian and I have a good (but not thorough) selection of cards dating back to Beta, whereas Jack and Adam make do with handfuls of more recent cards.
+[![Goblin_Game](https://i.ormos.uk/59/ea/59ea39c8832390d51441d65420fd5e8196618f3a2b9d71ca8b51aade490f81d4.jpg)](https://web.archive.org/web/20080226000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Goblin%2BGame)
+
+Our playgroup last Tuesday had five players, if you include me. We play Legacy-legal decks, but we generally don't have to sweat the banned list, since we do play casually. Our decks run the lifespan of **Magic**; Paul has a complete set of every **Magic** set ever printed, Ian and I have a good (but not thorough) selection of cards dating back to Beta, whereas Jack and Adam make do with handfuls of more recent cards.
 
 Combo shows up occasionally, but is generally frowned upon as a constant choice. We swap decks between every game, unless someone just wants to give a fun deck a second chance.
 

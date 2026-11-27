@@ -487,7 +487,9 @@ Clash of the titans, take one. I’d never played Ben in a sanctioned event prio
 
 Matches 10-2, Games 15-6
 
-![](http://www.wizards.com/sideboard/images/gpbos03/925.jpg)It was between the end of draft one and the beginning of draft two that my mother arrived at the site. I always find it amusing when people ask me what my parents think about me playing Magic for a living – I quite frankly can’t imagine anyone more supportive of my Pro Tour career than my mom. She watches the coverage of every event online and even knows what sort of finish I need to make Masters for most of them – definitely my #1 fan. She was supposed to come down to the Pro Tour in Boston, but wasn’t able to make it due to health problems. Apparently, she chose a better event to come watch this time anyway. In any case, hovering mother or no, it was time to buckle down and draft. 
+![](http://www.wizards.com/sideboard/images/gpbos03/925.jpg)
+
+It was between the end of draft one and the beginning of draft two that my mother arrived at the site. I always find it amusing when people ask me what my parents think about me playing Magic for a living – I quite frankly can’t imagine anyone more supportive of my Pro Tour career than my mom. She watches the coverage of every event online and even knows what sort of finish I need to make Masters for most of them – definitely my #1 fan. She was supposed to come down to the Pro Tour in Boston, but wasn’t able to make it due to health problems. Apparently, she chose a better event to come watch this time anyway. In any case, hovering mother or no, it was time to buckle down and draft. 
 
 **Draft Two**
 
@@ -593,6 +595,8 @@ After the nail-biter of my last match, the final was almost relaxing. At no poin
 
 Matches 16-3, Games 26-11
 
-![](http://www.wizards.com/sideboard/images/gpbos03/871.jpg)After the tournament finished, I went to a victory dinner with my mother and the big trophy I was carrying around was the subject of more than a few questions. People even honked at me as they were driving by in their cars and gave me the thumbs up. It was a really good feeling. It’s been almost six years since my last big tournament win, back at the third Grand Prix ever in Toronto in 1997 – so I’m now the answer to the trivia question “who has the longest stretch between Grand Prix wins?” I’m sure that little tidbit will make Mark Rosewater happy. I know winning makes me happy. I like it. I think I’ll do it more often.
+![](http://www.wizards.com/sideboard/images/gpbos03/871.jpg)
+
+After the tournament finished, I went to a victory dinner with my mother and the big trophy I was carrying around was the subject of more than a few questions. People even honked at me as they were driving by in their cars and gave me the thumbs up. It was a really good feeling. It’s been almost six years since my last big tournament win, back at the third Grand Prix ever in Toronto in 1997 – so I’m now the answer to the trivia question “who has the longest stretch between Grand Prix wins?” I’m sure that little tidbit will make Mark Rosewater happy. I know winning makes me happy. I like it. I think I’ll do it more often.
 
 Thanks for reading – I hope you enjoyed this chronicle of my Grand Prix-Boston victory. I know I did. If you have any questions or comments specifically pertaining to this article, email me at majesk@aol.com. I can’t promise that I’ll get back to you right away, but I do read each and every email I get and I try to reply when I can. I’ve received a wealth of congratulations already and I appreciate every last bit of it. Thanks. Hopefully I’ll be able to write something like this again soon – say, PT-Venice? Until then… have fun, and good luck.

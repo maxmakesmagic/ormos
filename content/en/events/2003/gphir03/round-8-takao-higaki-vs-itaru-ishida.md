@@ -195,7 +195,9 @@ This is a revenge match for the last time these two locked horns. That was The F
 
 ### Game 1
 
-![](https://i.ormos.uk/94/18/9418cfa4484078c481f28d10c8b097cf4ee51320bfb7fe2d535b2e511e90fd67.jpg)Ishida started things off with Mogg Fanatic and Mogg Flunkies. Higaki was right behind him with Ancient Tomb for Grim Monolith, then on his next turn Tinker for Masticore, over Crumbling Sanctuary. He tapped out right away to shoot down the Fanatic. Ishida's Ports kept his mana occupied while he built a ground force.
+![](https://i.ormos.uk/94/18/9418cfa4484078c481f28d10c8b097cf4ee51320bfb7fe2d535b2e511e90fd67.jpg)
+
+Ishida started things off with Mogg Fanatic and Mogg Flunkies. Higaki was right behind him with Ancient Tomb for Grim Monolith, then on his next turn Tinker for Masticore, over Crumbling Sanctuary. He tapped out right away to shoot down the Fanatic. Ishida's Ports kept his mana occupied while he built a ground force.
 
 Ishida got a Goblin Piledriver out to go with his Flunkies, and then a Sparksmith. He strained Higaki's mana enough that he was able to force him to sacrifice his Masticore to spare himself damage from the Piledriver. His only out was to Tinker a Monolith for Crumbling Sanctuary, but now Ishida's Ports had him all but shut down. He failed to draw land, and Ishida's monsters took care of his library.
 
@@ -209,7 +211,9 @@ Ishida 1 – Higaki 1
 
 ### Game 3
 
-![](https://i.ormos.uk/a8/6d/a86d50f5907eb5a832c1e5d10df3e87b58c9aca635cc3a867cafda55fc217b00.jpg)Ishida was behind the eight ball early in this game. He opened with Raging Goblin and Goblin Piledriver. Higaki had a pair of lands and Grim Monolith. But where Ishida's next turn was spent hitting for four and adding Mogg Fanatic and Seal of Fire to the mix, Higaki got out Masticore. Ishida's team charged and got through two more damage. Reckless Abandon brought Higaki to eight.
+![](https://i.ormos.uk/a8/6d/a86d50f5907eb5a832c1e5d10df3e87b58c9aca635cc3a867cafda55fc217b00.jpg)
+
+Ishida was behind the eight ball early in this game. He opened with Raging Goblin and Goblin Piledriver. Higaki had a pair of lands and Grim Monolith. But where Ishida's next turn was spent hitting for four and adding Mogg Fanatic and Seal of Fire to the mix, Higaki got out Masticore. Ishida's team charged and got through two more damage. Reckless Abandon brought Higaki to eight.
 
 That was about where dealing damage stopped for Ishida. Higaki had Crumbling Sanctuary in hand, which together with his indestructible Masticore was more than a match for whatever Ishida could bring to the table. He didn't even need the Stroke of Genius that would refill his hand for another round.
 

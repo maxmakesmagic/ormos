@@ -45,7 +45,9 @@ archive_source:
   sha256: 43d15ce099aba797124372a25913351df1c5c6d0b8b45b5aa9ab451519b68750
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpant02/a911.jpg)Beide spelers behoeven geen introductie. Kamiel wordt vaak in een zin genoemd met 's werelds beste spelers en Alexander behoort ook tot de top van de Nederlandse spelers, hetgeen dezer dagen steeds meer betekenis begint te krijgen op grond van de goede prestaties van de Nederlanders.
+![](http://www.wizards.com/sideboard/images/gpant02/a911.jpg)
+
+Beide spelers behoeven geen introductie. Kamiel wordt vaak in een zin genoemd met 's werelds beste spelers en Alexander behoort ook tot de top van de Nederlandse spelers, hetgeen dezer dagen steeds meer betekenis begint te krijgen op grond van de goede prestaties van de Nederlanders.
 
 ### Spel 1
 

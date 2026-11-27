@@ -53,7 +53,9 @@ render_recovery:
 ---
 Gotta love it when this kind of stuff happens. In one corner is Chris Benafel - PT Bad Boy, ruthless competitor, big-time money winner. In the other corner is Liz Lempicki - amateur, friendly and flirtatious, and, oh... Benafel's girlfriend.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/898.jpg)Both are in prime position to make Top 8 if they win out. Neither of them really wanted to play this match, so Liz went over to the scoreboard, ripped down the standings, and came back to the table. The pair spent almost ten minutes deliberating what good a draw would do them, or if one of them should concede to the other. Benafel stands to benefit from a high finish because the PT points translate into Masters money. Liz stands to benefit by becoming qualified and picking up a phat Amateur prize. They can't come to a good decision, however, and decide to play it out with the agreement that the match won't end in a draw no matter what.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/898.jpg)
+
+Both are in prime position to make Top 8 if they win out. Neither of them really wanted to play this match, so Liz went over to the scoreboard, ripped down the standings, and came back to the table. The pair spent almost ten minutes deliberating what good a draw would do them, or if one of them should concede to the other. Benafel stands to benefit from a high finish because the PT points translate into Masters money. Liz stands to benefit by becoming qualified and picking up a phat Amateur prize. They can't come to a good decision, however, and decide to play it out with the agreement that the match won't end in a draw no matter what.
 
 Liz is playing a version of Mike Turian's G/U/r deck, and Chris is playing Trenches.
 
@@ -69,7 +71,9 @@ I could probably spend another four pages going on about how Benafel broke out o
 
 Lempicki 1 - Benafel 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/899.jpg)Liz came out quick with two [Wild Mongrel](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel)s in the final game, and Chris took the beats down to 10 life. He [Repulse](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse)d and the counterspelled one of them, and gained three life back from [Absorb](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb) when Liz tried a [Merfolk Looter](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmil02/899.jpg)
+
+Liz came out quick with two [Wild Mongrel](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel)s in the final game, and Chris took the beats down to 10 life. He [Repulse](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse)d and the counterspelled one of them, and gained three life back from [Absorb](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb) when Liz tried a [Merfolk Looter](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter).
 
 Liz's hand was getting empty, so when Chris dropped a sided-in [Flametongue Kavu](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) and killed the other Mongrel, there was little Liz could do. She dropped a [Static Orb](https://web.archive.org/web/20020512000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Static+Orb) to gum up the game, and the clock dipped below 2 minutes. All that time spent going over the standings was going to come back and bite them.
 

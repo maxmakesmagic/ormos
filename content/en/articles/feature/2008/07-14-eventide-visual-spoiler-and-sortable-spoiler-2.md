@@ -61,7 +61,9 @@ archive_source:
   sha256: ac218431baf66957105c5a2b8d75d406c85eb7db53ab608a12c9c194cf8d443a
 render_recovery: []
 ---
-![](https://i.ormos.uk/26/d0/26d051fd95f59836d1050525f3a5b3293ffc4949431fab133005bab9a301de80.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for the latest set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Eventide* and the complete visual spoiler for the entire set, in each of the nine languages it was printed in! Enjoy! 
+![](https://i.ormos.uk/26/d0/26d051fd95f59836d1050525f3a5b3293ffc4949431fab133005bab9a301de80.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for the latest set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Eventide* and the complete visual spoiler for the entire set, in each of the nine languages it was printed in! Enjoy! 
 
 **[Launch the *Eventide* card list](https://web.archive.org/web/20080714000000/http://archive.wizards.com/default.asp?x=magic/cardlist/eventide)** 
 

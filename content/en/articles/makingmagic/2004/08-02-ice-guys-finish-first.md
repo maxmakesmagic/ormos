@@ -255,7 +255,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/cd/68/cd68b06e0a66ef7e111c6b5bb293dc13021af79f1b9eee344377d18e478a3646.jpg)Welcome to *Ice Age* Week! This week we'll be exploring the ins and outs of **Magic's** sixth expansion. (Kind of scary when you realize there's been thirty-two of them – and that's just the tournament-legal ones!) The [feature article this week](/en/articles/feature/2004/08-02-the-dawn-of-magics-ice-age) from Skaff Elias talks about *Ice Age's* design, so I decided to approach the topic from a different vantage point. I'm going to use my column today to give my opinions, as a current **Magic** designer, of the set in a historical context. In short, what has time taught us about *Ice Age's* design?
+![](https://i.ormos.uk/cd/68/cd68b06e0a66ef7e111c6b5bb293dc13021af79f1b9eee344377d18e478a3646.jpg)
+
+Welcome to *Ice Age* Week! This week we'll be exploring the ins and outs of **Magic's** sixth expansion. (Kind of scary when you realize there's been thirty-two of them – and that's just the tournament-legal ones!) The [feature article this week](/en/articles/feature/2004/08-02-the-dawn-of-magics-ice-age) from Skaff Elias talks about *Ice Age's* design, so I decided to approach the topic from a different vantage point. I'm going to use my column today to give my opinions, as a current **Magic** designer, of the set in a historical context. In short, what has time taught us about *Ice Age's* design?
 
 And to add a little flavor, I've decided to make use of a Letterman favorite, the Top 10 List. Although be aware that mine isn't trying to be funny. So without further ado (because my column has a higher “ado” content than most online columns about **Magic**), here's my list:
 

@@ -89,7 +89,9 @@ render_recovery: []
 
 As the esteemed Mssr. Rosewater has previously explained, one of the hurdles design and development encountered while making *Guildpact* was giving it its own unique identity in ways other than just leaning on the three new guilds.
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_af102_picMain_en.jpg)Yes, we altered some of the ten-card cycles ever so slightly to keep players on their toes. Yes, we shifted some of the overarching themes a bit—the cycle of common Auras from *Ravnica* with comes-into-play abilities have been replaced in *Guildpact* with a quirky little cycle called “Magemarks,” for instance. But that's not enough for a set to stand up on its own. Each set should have some very memorable subset of cards that are uniquely its own.
+![](http://archive.wizards.com/global/images/mtgcom_daily_af102_picMain_en.jpg)
+
+Yes, we altered some of the ten-card cycles ever so slightly to keep players on their toes. Yes, we shifted some of the overarching themes a bit—the cycle of common Auras from *Ravnica* with comes-into-play abilities have been replaced in *Guildpact* with a quirky little cycle called “Magemarks,” for instance. But that's not enough for a set to stand up on its own. Each set should have some very memorable subset of cards that are uniquely its own.
 
 To that end, we created two rare cycles for *Guildpact* that had nothing to do with *Ravnica*—after all, we wanted them to be a surprise. You saw one of the cards from the first of these cycles earlier this week—[Anthony's Yore-Tiller Nephilim](https://web.archive.org/web/20060120000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/aa211) is part of a cycle of the first-ever four-color creatures. I'll be showing you a card from the other cycle shortly.
 
@@ -99,7 +101,9 @@ As *Guildpact* was being designed, *Magic Online's* Vanguard format was a hot to
 
 Anyway, a year or so ago we decided to give this variant new life online by tying it to peoples' avatars. Some of our developers, like Devin Low, Paul Sottosanti, and John Carter, were in charge of coming up with what each avatar did, and discussions popped up all over the department.
 
-![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af102_pic1_en.jpg)I personally really enjoyed Vanguard as a player (my Mirri five-color [Necropotence](https://web.archive.org/web/20060120000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necropotence) deck was a hot one), and when I sat down to think about *why*, I realized I liked the initial “great reveal” that happened before each game started. What weird rules will this particular game be played under? I can't wait to see!
+![](http://media.wizards.com/legacy/global/images/mtgcom_daily_af102_pic1_en.jpg)
+
+I personally really enjoyed Vanguard as a player (my Mirri five-color [Necropotence](https://web.archive.org/web/20060120000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necropotence) deck was a hot one), and when I sat down to think about *why*, I realized I liked the initial “great reveal” that happened before each game started. What weird rules will this particular game be played under? I can't wait to see!
 
 So instead of contributing to what the Online Vanguard avatars should do, I worked in the corner trying to bring that “aha” moment of the great reveal to normal *Magic*.
 

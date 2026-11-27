@@ -273,7 +273,9 @@ I built a reasonable black-blue deck that I went 2-2 with. I absentmindedly disa
 
 One of the biggest mistakes that I made before [Grand Prix–Indianapolis](/en/events/2008/gpind08/no-stopping-jelger) was that I didn't play enough games with my practice Sealed decks against other Sealed decks. I would just build a deck from a Sealed pool, analyze it a bit, talk it over, and that would be it.
 
-![Cankerous_Thirst](https://i.ormos.uk/7f/72/7f722a5a24dba38ba02e375a362551d15585d8918a56add415b45ec00a737669.jpg)That process definitely saved me time, but it ultimately wasn't an area that was worth cutting corners in. I missed a lot of quirks about playing the format that I probably would have picked up on had I just played against ten, or even five, Sealed decks.
+![Cankerous_Thirst](https://i.ormos.uk/7f/72/7f722a5a24dba38ba02e375a362551d15585d8918a56add415b45ec00a737669.jpg)
+
+That process definitely saved me time, but it ultimately wasn't an area that was worth cutting corners in. I missed a lot of quirks about playing the format that I probably would have picked up on had I just played against ten, or even five, Sealed decks.
 
 I even fell victim to not understanding enough about this Sealed format when I was playing at the Prerelease when I forgot that everyone had an extra pack to build with. I wound up going 2-2 in my flight, losing one of my matches because I screwed up really badly (I also tried my hardest to throw away one of the matches that I won, but fortunately I had a lot of removal to get me through it) and the other because I made a judgment call on when to use a removal spell that would have been fine had my opponent only had two packs to build his deck with. 
 
@@ -285,7 +287,9 @@ Generally, Draft decks tend to be better than Sealed decks. Even though you have
 
 While sure, you could say something like, "Any sort of control over what is going to be in your pool is significantly more than the zero control that you get when you are opening up a Sealed pool." And that is technically true, but that doesn't actually do anything to address just how much better your pool gets when you draft it.
 
-![Spitting_Image](https://i.ormos.uk/26/98/269813be414f8a8cb6b44246942b636281400ecbc466561f3db6dbdfef35ac47.jpg)In most formats, a deck drafted at an eight-person table will be about as good as a Sealed deck built from six packs. In some formats, such as the tribal heavy *Lorwyn*, it would probably take as many as seven or even eight booster packs to build a deck that is as good as a draft deck. This is because when you were building a *Lorwyn* Sealed deck (normal, five-pack Sealed), even if you got really good green, it could be split evenly between Elves and Treefolk. Sure your deck might still turn out pretty nicely for a Sealed deck, but it would have a lot of trouble standing up to a finely tuned Merfolk or Goblin deck that someone drafted.
+![Spitting_Image](https://i.ormos.uk/26/98/269813be414f8a8cb6b44246942b636281400ecbc466561f3db6dbdfef35ac47.jpg)
+
+In most formats, a deck drafted at an eight-person table will be about as good as a Sealed deck built from six packs. In some formats, such as the tribal heavy *Lorwyn*, it would probably take as many as seven or even eight booster packs to build a deck that is as good as a draft deck. This is because when you were building a *Lorwyn* Sealed deck (normal, five-pack Sealed), even if you got really good green, it could be split evenly between Elves and Treefolk. Sure your deck might still turn out pretty nicely for a Sealed deck, but it would have a lot of trouble standing up to a finely tuned Merfolk or Goblin deck that someone drafted.
 
 (Saying that it might take eight packs before you get a *Lorwyn* Sealed deck that is as good as a *Lorwyn* Draft deck is probably a bit of an exaggeration because players might just get so much removal, changelings, and mana-fixing after seven packs that it doesn't matter that you are missing out on some tribal goodies)
 
@@ -293,7 +297,9 @@ I'm going to call the additional per pack value that you get out of drafting you
 
 In a more traditional format, such as *Time Spiral* / *Planar Chaos* / *Future Sight*, I'd put the Draft Multiplier at around 1.8-2.1. In the tribal-heavy *Lorwyn*, I'd put the Draft Multiplier at around 2.2-2.5 (I'd be hard pressed to imagine the multiplier going much higher than that). Three packs times 2.2 to 2.5 yields the figure I cited above of seven or eight packs of Sealed to equal one *Lorwyn* Draft deck.
 
-![Thought_Reflection](https://i.ormos.uk/fd/54/fd547e2e8fc0ee338984322ac7551babc9729288c054e3f0fea789516c2cfb75.jpg)I'm not certain if the Draft Multiplier is a good universal tool, or if it too subjective. If you draft with a lot of people who like to hate-draft, then your multipliers will always be on the low end of things. If you draft with a bunch of inexperienced drafters that just don't have a very good sense of what is going on, then your multiplier might be absurdly high.
+![Thought_Reflection](https://i.ormos.uk/fd/54/fd547e2e8fc0ee338984322ac7551babc9729288c054e3f0fea789516c2cfb75.jpg)
+
+I'm not certain if the Draft Multiplier is a good universal tool, or if it too subjective. If you draft with a lot of people who like to hate-draft, then your multipliers will always be on the low end of things. If you draft with a bunch of inexperienced drafters that just don't have a very good sense of what is going on, then your multiplier might be absurdly high.
 
 Your own experience or inexperience with the format can also dramatically affect the multiplier. Heck, even a tendency to rare-draft (yours, or that of people around you) can throw the multiplier for a loop.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: b8150b4042c2f14eb99d4104af5c87d6a18cd28d57d916cee7feb987589fe6e1
 render_recovery: []
 ---
-![](https://i.ormos.uk/8b/b8/8bb83a60ec056fb990a6eb5fe49cb6b5559c1ed329131493f0ddbe45f2953526.jpg)Vancouver native, Michael Thicke is the editor of Playordraw.com an a regular contributor to Brainburst.com where he recently undertook a series of articles about drafting the MD5 format. One article was about taking dominant or submissive approaches to drafting. Mike claimed he took the latter at his draft table. "I would say this was s submissive draft. I try to force black or be put into white…I was put into white." Mike has a couple of money finishes at Grand Prix events in Oakland and Bangkok.
+![](https://i.ormos.uk/8b/b8/8bb83a60ec056fb990a6eb5fe49cb6b5559c1ed329131493f0ddbe45f2953526.jpg)
+
+Vancouver native, Michael Thicke is the editor of Playordraw.com an a regular contributor to Brainburst.com where he recently undertook a series of articles about drafting the MD5 format. One article was about taking dominant or submissive approaches to drafting. Mike claimed he took the latter at his draft table. "I would say this was s submissive draft. I try to force black or be put into white…I was put into white." Mike has a couple of money finishes at Grand Prix events in Oakland and Bangkok.
 
 Francis Cormier is a promising player from Montreal. He has qualified for the Pro Tour five times although he has yet to make Day Two. At last year's Nationals he was all but locked in to make the Top 8 with an 8-1 record but dropped three straight to miss the cut. 
 

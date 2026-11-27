@@ -956,7 +956,9 @@ render_recovery:
 
 Welcome to Don Slaught Week here at **magicthegathering.com**! 
 
-![Don Slaught](https://i.ormos.uk/dc/ea/dcea18add16f289deb7cb9579376640498644b7b2d70d1d06d23f151af852c39.jpg)I'm not sure why I specified **magicthegathering.com**. I guess you never can tell if some other web site will simultaneously devote a week's worth of content to a long-retired journeyman catcher and I don't want there to be any confusion about what site you're currently browsing. If you weren't sure, it's this one.
+![Don Slaught](https://i.ormos.uk/dc/ea/dcea18add16f289deb7cb9579376640498644b7b2d70d1d06d23f151af852c39.jpg)
+
+I'm not sure why I specified **magicthegathering.com**. I guess you never can tell if some other web site will simultaneously devote a week's worth of content to a long-retired journeyman catcher and I don't want there to be any confusion about what site you're currently browsing. If you weren't sure, it's this one.
 
 I agree that it seems odd to dedicate an entire theme week to a fairly obscure Major League baseball player. I can only assume that we did it because several members of R&D have ties to Pittsburgh, the city where Don Slaught spent much of his career. If this marks the beginning of a trend, I look forward to theme weeks covering other forgotten athletes, such as judo master Amir "The Thinker" Rodin, sharpshooting biathlete Cody S. Sey, and the 1968 Olympic pole-vaulting champion, Abe Trayersofkamigawa. Are these theme weeks on the horizon? Only time will tell. Also, no.
 
@@ -968,7 +970,9 @@ Onward!
 
 ### Royals, Rangers, and Evil Empires
 
-![](https://i.ormos.uk/a5/75/a5750557220f0f712948200614b423f483d018a78b5df5b755e0962447fdf591.jpg)A 22-year-old Don "Sluggo" Slaught made his Major League debut with the Kansas City Royals in 1982. After three years in KC, he was traded to the Texas Rangers. Three years after that, he was in New York playing for the Yankees. The man rotates like Extended.
+![](https://i.ormos.uk/a5/75/a5750557220f0f712948200614b423f483d018a78b5df5b755e0962447fdf591.jpg)
+
+A 22-year-old Don "Sluggo" Slaught made his Major League debut with the Kansas City Royals in 1982. After three years in KC, he was traded to the Texas Rangers. Three years after that, he was in New York playing for the Yankees. The man rotates like Extended.
 
 To build the deck, I'm going to start with the Royals, specifically with Darien, King of Kjeldor and his Kjeldoran Royal Guard. The former turns damage dealt to you into Soldier tokens, while the latter *is* a Soldier. It doesn't take a rocket scientist to figure out that I'm going to be making a Soldier deck. Good thing, too. I'm still a couple credits away from graduating.
 
@@ -988,7 +992,9 @@ Until I hit upon Molting Skin (or Broken Fall) via a [Gatherer](https://web.arch
 
 ### Gnarr! Avast, Me Matey
 
-![](https://i.ormos.uk/90/05/9005bd0721b25868975568693e7f127149e2323e3c4dfaeaad5b8dacc196ebe1.jpg)As I mentioned in the introduction, the man of the hour, Don Slaught, spent much of his career in Pittsburgh playing for the Pirates. That's somewhat unfortunate, because Pirate decks pretty much build themselves. Either they're clones of *Mercadian Masques* era land destruction decks, or straightforward blue aggro. Rather than tread on well-trodden territory, I built a deck around some creatures whose names only a pirate can say best: Gnarrs!
+![](https://i.ormos.uk/90/05/9005bd0721b25868975568693e7f127149e2323e3c4dfaeaad5b8dacc196ebe1.jpg)
+
+As I mentioned in the introduction, the man of the hour, Don Slaught, spent much of his career in Pittsburgh playing for the Pirates. That's somewhat unfortunate, because Pirate decks pretty much build themselves. Either they're clones of *Mercadian Masques* era land destruction decks, or straightforward blue aggro. Rather than tread on well-trodden territory, I built a deck around some creatures whose names only a pirate can say best: Gnarrs!
 
 This deck was built using free association. I started with a combo I've been meaning to use in a deck for ages: Glade Gnarr + Shimmering Wings. The Gnarr gets +2/+2 every time a blue spell is played and Shimmering Wings can be played and replayed until your blue mana runs out. The aura also solves the problem 12/12 creatures with no evasion have with chumpblockers. It also works well with Bramble Elemental, which can make lots of tokens, which is great for the latest Gnarr, *Time Spiral*'s Herd Gnarr.
 
@@ -1000,7 +1006,9 @@ As you can see, I had to leave out Bog Gnarr. Later on, it occurred to me that y
 
 ### The Treasure of the San Diego Padre
 
-![](https://i.ormos.uk/4e/48/4e48938209890c57257d494a6d35d29e4d67a92f23d75fcf7c932f3aad7112ca.jpg)Don Slaught rounded out his Major League career with brief stints with California Angels, the Chicago White Sox, and the San Diego Padres. In terms of tribal decks, two of those teams can be easily translated. The Padres are Clerics and the Angels are, um, Angels. I'll get to the White Sox in a minute.
+![](https://i.ormos.uk/4e/48/4e48938209890c57257d494a6d35d29e4d67a92f23d75fcf7c932f3aad7112ca.jpg)
+
+Don Slaught rounded out his Major League career with brief stints with California Angels, the Chicago White Sox, and the San Diego Padres. In terms of tribal decks, two of those teams can be easily translated. The Padres are Clerics and the Angels are, um, Angels. I'll get to the White Sox in a minute.
 
 I began searching for recent Clerics with Gatherer and was a little surprised to discover that almost all of the more interesting ones were also Rebels—cards like Blightspeaker, Samite Censer-Bearer, Ramosian Revivalist, and Children of Korlis. The last two have a lot of synergy, allowing you to survive anything but a lethal amount of damage or life-loss. They're a lot like the Martyr of Sands and Proclamation of Rebirth combo, except, you know, way more fragile. The Revivalist can also recur sacrificed Censer-Bearers, vanished Aven Riftwatchers, and binned Bound in Silences. 
 

@@ -54,13 +54,17 @@ render_recovery: []
 ---
 *Josh Bennett*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/965.jpg)Everyone likes a theme battle, and this round it was Duelling Websites. One could practically hear the banjoes in the air as the auslanders, ABU, took their seats. They were well-rested after their two byes. However, they couldn't rest easy. Champion.com had won their first two rounds on skill alone.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/965.jpg)
+
+Everyone likes a theme battle, and this round it was Duelling Websites. One could practically hear the banjoes in the air as the auslanders, ABU, took their seats. They were well-rested after their two byes. However, they couldn't rest easy. Champion.com had won their first two rounds on skill alone.
 
 Williams couldn't help but crow as he flipped up his opening hand. He had four basic land types at his disposal, as well as an appealing assortment of monsters. He let the table know how good he felt about the situation, saying "Sick as hell, dog! I am a SAVAGE cheater!".
 
 He used those tools to good effect, bringing out Pincer Spider, Coalition Honor Guard, and Serpentine Kavu, halting an assault of bears from Ngan Shing Hong.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/964.jpg)Next to him, Chris Benafel was incredulous when his first two fliers met a pair of Excludes from Au Yeung Hon Ming. Still, he had plenty of reserves, summoning Dromar and Waterspout Elemental. Au Yeung wasn't out of gas, though. He had a kicked Faerie Squadron and a Silver Drake, and bounced Dromar with Angelic Shield. Benafel joked that he must have another Exclude. Au Yeung showed him Undermine instead. Benafel practically fell out of his seat.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/964.jpg)
+
+Next to him, Chris Benafel was incredulous when his first two fliers met a pair of Excludes from Au Yeung Hon Ming. Still, he had plenty of reserves, summoning Dromar and Waterspout Elemental. Au Yeung wasn't out of gas, though. He had a kicked Faerie Squadron and a Silver Drake, and bounced Dromar with Angelic Shield. Benafel joked that he must have another Exclude. Au Yeung showed him Undermine instead. Benafel practically fell out of his seat.
 
 At first glance, Dan Clegg's situation was precarioius. His opponent, Stephen Ho had out Treva, the Renewer, and a Coalition Honor Guard to protect it. Good thing Clegg packed extra bullets. He Demised the flagbearer at end of turn, untapped, and Annihilated the dragon. He even had an Illuminate back when Ho busted a 5/5 Anavolver. Ho scooped.
 
@@ -70,7 +74,9 @@ Dave Williams was mired in his game against Hong. His Cloaked Llanowar Knight di
 
 In Ho's second game against Clegg, he had the upper hand early, with a Cloaked Razorfoot Griffin causing Clegg no end of difficulties. Matters were made worse by Ho's Crimson Acolyte. He needed a banish, and in a hurry. He drew only more ground creatures, not enough to race Ho.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/963.jpg)Hong had finally stabilised against Williams. He had to fall to one to do it, but Williams's draws were co-operating, yielding land. He only found more creatures after Hong's spot removal had decimated his team. By then, Hong's Duskwalker had put on a new pair of beat-you-up boots.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/963.jpg)
+
+Hong had finally stabilised against Williams. He had to fall to one to do it, but Williams's draws were co-operating, yielding land. He only found more creatures after Hong's spot removal had decimated his team. By then, Hong's Duskwalker had put on a new pair of beat-you-up boots.
 
 Au Yeung had Benafel right where he wanted him in Game 2. He used Benalish Heralds to bring an airforce to bear agains Benafel. Benafel was caught without black mana early, and had to Probe without kicker to find it. His slow start punished him, and was at five before he fought through Au Yeung's counters to bring out Dromar. From there, the game stalemated.
 

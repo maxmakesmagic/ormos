@@ -88,7 +88,9 @@ archive_source:
   sha256: 94f9c9bd44bb6bbd26ff838e66d297aa1016569aacaaba1105641e7a026fe0af
 render_recovery: []
 ---
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/PTCHI00/652.jpg)Pro Tour Hawaii is just one week away, and all over the world players are fine tuning their decks for the first all-Standard Pro Tour since Chicago 2000. If the Standard format causes similar cream to rise to the Top 8 of Hawaii as it did back in Chicago, we are in for one great Pro Tour. It can be argued quite convincingly that there has never been a more star-studded elimination bracket in the ten year history of the Pro Tour; Kai Budde, Kamiel Cornelissen, Rob Dougherty, Jon Finkel, Mike Pustilnik, and Zvi Mowshowitz all have multiple Top 8s to their credit and at least one Pro Tour win on their resume. Only former JSS star Jay Elarar and dragonmaster Brian Kibler made their lone Top 8 appearance at this event, and the latter is certainly one of the game's most popular figures with two Grand Prix trophies keeping his books standing upright. 
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/PTCHI00/652.jpg)
+
+Pro Tour Hawaii is just one week away, and all over the world players are fine tuning their decks for the first all-Standard Pro Tour since Chicago 2000. If the Standard format causes similar cream to rise to the Top 8 of Hawaii as it did back in Chicago, we are in for one great Pro Tour. It can be argued quite convincingly that there has never been a more star-studded elimination bracket in the ten year history of the Pro Tour; Kai Budde, Kamiel Cornelissen, Rob Dougherty, Jon Finkel, Mike Pustilnik, and Zvi Mowshowitz all have multiple Top 8s to their credit and at least one Pro Tour win on their resume. Only former JSS star Jay Elarar and dragonmaster Brian Kibler made their lone Top 8 appearance at this event, and the latter is certainly one of the game's most popular figures with two Grand Prix trophies keeping his books standing upright. 
 
 Pro Tour Hawaii has a lot to live up to when held up against that legendary Day Three. Of course, Hawaii does have a leg up on Chicago in terms of location, especially when you consider that both events will have taken place in the winter. Pro Tour Hawaii is kicking off the 2006 Pro Tour season and will be the first event where Katsuhiro Mori gets to defend his World Championship title. It also means that the Top 8's from Worlds and Hawaii will be back to back Standard Top 8's.
 
@@ -122,7 +124,9 @@ Mori would love to find a deck for Hawaii similar to his GhaziGlare deck from Wo
 
 It's quite a bit of pressure for the World Champion, but not as much as he faced going into his last round of the Swiss in Yokohama against Bas Postema. After leading the entire field for most of the weekend, Mori went into a spiral in the waning rounds of the tournament and found he was facing elimination in the final Swiss match of the weekend after only needing to lock up a win and a draw in the last five rounds to reach the Top 8. 
 
-![](http://www.wizards.com/sideboard/images/worlds05/fm18_mori.jpg)“Well, I really focused myself on the match,” recalled Mori when asked about his mindset going into his match with Postema. “I have a tanktop shirt I always wear for important games, and I made sure I was wearing it and nothing else for this match. I was thinking to myself "This is it". I thought I would look like a fool to have been consistently so close to the top of the standings and then lose in the last round.”
+![](http://www.wizards.com/sideboard/images/worlds05/fm18_mori.jpg)
+
+“Well, I really focused myself on the match,” recalled Mori when asked about his mindset going into his match with Postema. “I have a tanktop shirt I always wear for important games, and I made sure I was wearing it and nothing else for this match. I was thinking to myself "This is it". I thought I would look like a fool to have been consistently so close to the top of the standings and then lose in the last round.”
 
 “I got a little depressed in the middle of the match. At one point, I was pretty confident I was going to lose - I figured I had a maybe 1-in-10 chance of winning - and I thought "Well, that's it - there goes another Top 8." Somehow, I managed to pull off a win I didn't think I could have, something I probably couldn't do again in a thousand games. When I knew I had made Top 8, I was the happiest I've ever been since I started playing **Magic**. It was better even than when I won the Masters with Kuroda and Morita.”
 
@@ -132,7 +136,9 @@ Despite his Masters win and his subsequent Rookie of the Year title, this was Mo
 
 “Kaji and I are friendly rivals, and had been competing since the beginning of the season to see who could come out on top. We'd gone 1-1-1 in Worlds, so this was a final for ourselves. I felt like I was meant to win, and I did (even though Kaji made a lot of mistakes out of fatigue).”
 
-![](http://www.wizards.com/sideboard/images/worlds05/f_judge.jpg)“I remember the start of the fourth game with Karsten,” said Mori of the last Match of the 2005 season. “I was up 2-1. My opening hand had five lands and Greater Good. I kept that hand, but by the third turn or so I thought to myself that I wouldn't be able to catch up to Karsten - he was developing too quickly for me to recover. In spite of that, I stuck it out and got a chance when he made a mistake. I was able to capitalize on that and pull the game and the match off.”
+![](http://www.wizards.com/sideboard/images/worlds05/f_judge.jpg)
+
+“I remember the start of the fourth game with Karsten,” said Mori of the last Match of the 2005 season. “I was up 2-1. My opening hand had five lands and Greater Good. I kept that hand, but by the third turn or so I thought to myself that I wouldn't be able to catch up to Karsten - he was developing too quickly for me to recover. In spite of that, I stuck it out and got a chance when he made a mistake. I was able to capitalize on that and pull the game and the match off.”
 
 “It was my goal to make Worlds my first PT Top 8. I'm (of course) very happy to have made it,” said Mori, before taking a moment to thank the people who have had a hand in his success. “I have been influenced by a lot of people over my career: Masaya Mori, Masahiko Morita, Jin Okamoto, Osamu Fujita, Tsuyoshi Fujita, and Itaru Ishida. I owe them all something.”
 

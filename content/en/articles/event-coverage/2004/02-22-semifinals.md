@@ -44,7 +44,9 @@ archive_source:
   sha256: 659716ec9fde71bbda180d8cf9446977e417e219005f3140bb44dbd3059c821d
 render_recovery: []
 ---
-![](https://i.ormos.uk/a1/fd/a1fd00f059d2ffcab1ff4ea04729c92d8c0ffe771801760b62592d06998f8cd4.jpg)The two Pro Tour veterans had the dubious honor of kicking out the two Spanish players in the Top 8. Now they get to play for a slot in the finals. They checked each other's deck and discussed their Quarterfinals.
+![](https://i.ormos.uk/a1/fd/a1fd00f059d2ffcab1ff4ea04729c92d8c0ffe771801760b62592d06998f8cd4.jpg)
+
+The two Pro Tour veterans had the dubious honor of kicking out the two Spanish players in the Top 8. Now they get to play for a slot in the finals. They checked each other's deck and discussed their Quarterfinals.
 
 Raphael: "My heart is finally beating normally."
 

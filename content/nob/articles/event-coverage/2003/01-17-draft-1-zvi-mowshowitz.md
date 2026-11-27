@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a990.jpg)Ah, Rochester Draft. Some claim it's the most skill testing Magic format around, while other complain how the political maneuvers around the draft table sometimes make it impossible to get a good deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a990.jpg)
+
+Ah, Rochester Draft. Some claim it's the most skill testing Magic format around, while other complain how the political maneuvers around the draft table sometimes make it impossible to get a good deck.
 
 I talked to Zvi Mowshowitz about this subject several times the day before the Pro Tour began. Zvi got knocked out of the Masters Gateway in round two so he joined the horde of pros who were practicing their Rochester draft skills. Fresh off his Grand Prix win two weeks ago in New Orleans, Zvi started out complaining about how much he dislikes Rochester Draft and how the packs (not your decisions) decide everything.
 

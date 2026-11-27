@@ -66,7 +66,9 @@ render_recovery:
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/09/a9/09a9615e2ac15d0276d951d6ff15ebb241082d3220aaca610b552eb14e0a34d8.png)Each of the four *Planechase* game packs contains one 60-card deck, one 10-card planar deck, one planar die, and a Planechase strategy insert with multiplayer rules. Each deck has eight new plane cards and two new phenomenon cards, for a total of 32 new planes and eight new phenomena.
+![](https://i.ormos.uk/09/a9/09a9615e2ac15d0276d951d6ff15ebb241082d3220aaca610b552eb14e0a34d8.png)
+
+Each of the four *Planechase* game packs contains one 60-card deck, one 10-card planar deck, one planar die, and a Planechase strategy insert with multiplayer rules. Each deck has eight new plane cards and two new phenomenon cards, for a total of 32 new planes and eight new phenomena.
 
  
 

@@ -214,7 +214,9 @@ It is unlikely that the pros will let such a thing fly on Sunday evening. Especi
 
 By now, we’re used to big Grand Prixs, so much that even the 1543 players in Prague seem a tiny bunch in this beautiful hall in the industrial palace of Prague. Sheer mass predicts that Star Power is almost inevitable on the floor (even without a plastic guitar).
 
-![](https://i.ormos.uk/b4/c8/b4c81de545e8b2d5de98bbe303ce427eb389a447c8eee835a2c29b61a0d6bde8.jpg)A high note among the cacaphony, for example, is Nicolai Herzog. The coverage staff could hardly believe their eyes when they espied the two-time Pro Tour and European Championship winner at the breakfast table this morning. But Herzog is not the only Hall of Famer to grace the wooden floor of Prague’s industrial palace. Olivier Ruel and Raphael Levy are also here, as expected, because they are everywhere. Ruel in particular has the chance to pass Kai Budde in lifetime pro points if he wins GP Prague.
+![](https://i.ormos.uk/b4/c8/b4c81de545e8b2d5de98bbe303ce427eb389a447c8eee835a2c29b61a0d6bde8.jpg)
+
+A high note among the cacaphony, for example, is Nicolai Herzog. The coverage staff could hardly believe their eyes when they espied the two-time Pro Tour and European Championship winner at the breakfast table this morning. But Herzog is not the only Hall of Famer to grace the wooden floor of Prague’s industrial palace. Olivier Ruel and Raphael Levy are also here, as expected, because they are everywhere. Ruel in particular has the chance to pass Kai Budde in lifetime pro points if he wins GP Prague.
 
 All of Europe is represented with their pro players, from Jan Ruess (Germany) to Marijyn Lybaert (Belgium) to Stewart Shinkins (United Kingdom), who is looking to gain his 100th pro point at this GP. Of course, there are many, many more recognizable names here. Look to Rich Hagon’s audio coverage of GP Prague for more information on everybody, if you don’t want to sort through the player list yourself.
 
@@ -233,7 +235,9 @@ We will see. Oh, and by the way: Jakub Slemr, the 1997 World Champion, is also h
 
     *by Tobias Henke*
 
-![](https://i.ormos.uk/11/9c/119c969b17d4591b64facda513774af44e5a6a9b5270b2efee2ed1d292c2eccd.jpg)Let’s start with a little introduction. Reinhold Kohl of Germany is one of this year’s up-and-coming players and, with two top eights at limited-format Grand Prix this year (in Rotterdam and Brighton), Kohl is on the shortlist of this weekend’s players to watch. Also, he is currently sitting at 15 pro points with invites to Pro Tour - Austin as well as the World Championship, so he is very eager to at least scrape up another five points to secure level four in the Pro Players Club. To get there he now needs a good deck for today’s Sealed Deck rounds (only six for him, thanks to three byes).
+![](https://i.ormos.uk/11/9c/119c969b17d4591b64facda513774af44e5a6a9b5270b2efee2ed1d292c2eccd.jpg)
+
+Let’s start with a little introduction. Reinhold Kohl of Germany is one of this year’s up-and-coming players and, with two top eights at limited-format Grand Prix this year (in Rotterdam and Brighton), Kohl is on the shortlist of this weekend’s players to watch. Also, he is currently sitting at 15 pro points with invites to Pro Tour - Austin as well as the World Championship, so he is very eager to at least scrape up another five points to secure level four in the Pro Players Club. To get there he now needs a good deck for today’s Sealed Deck rounds (only six for him, thanks to three byes).
 
 “Basically, it’s always the same question: do you choose quality or consistency?” was the first thing Kohl said after an agonizing 30 minutes of deck construction. No, actually, first thing he said was: “Wow, that was hard.”
 
@@ -529,7 +533,9 @@ An intriguing lineup of Feature Matches headlines our fourth show here on Day On
 
 In the penultimate round of this tournament, let's do it a little differently. Instead of focusing on the very top of the standings, here is a match of two players that are currently sitting at records of five wins and two losses, on the brink of elimination. They will have to win the next two matches in order to secure further participation tomorrow. Of course, only one of them can do it. Conventional wisdom strongly favors Shuuhei Nakamura who, by virtue of his Player-of-the-Year title, officially is the best player in the world right now, but even great odds can be overcome and we've certainly seen a fair share of surprises so far this weekend. Afterall, this is Magic, right?
 
-![](https://i.ormos.uk/80/04/8004d9de037d46bf12ed61f7ddea677f28e769256c2881a5b2fabc76c0e9b265.jpg)The game started with a third-turn Centaur Courser from Baloch, which was met with Essence Scatter from Shuuhei. To make matters worse, Shuuhei used Mind Rot to pull another two cards out of Baloch's hand, in addition to the one less he held due to his mulligan.
+![](https://i.ormos.uk/80/04/8004d9de037d46bf12ed61f7ddea677f28e769256c2881a5b2fabc76c0e9b265.jpg)
+
+The game started with a third-turn Centaur Courser from Baloch, which was met with Essence Scatter from Shuuhei. To make matters worse, Shuuhei used Mind Rot to pull another two cards out of Baloch's hand, in addition to the one less he held due to his mulligan.
 
 But who needs lots of cards when one very special card can do the trick just as well? Baloch summoned Garruk Wildspeaker to his side who in turn conjured up a 3/3 beast, on an otherwise empty board. Shuuhei had Snapping Drake, took Garruk down, and then cast Looming Shade and Drudge Skeletons to even out the board.
 
@@ -545,7 +551,9 @@ Razorfoot Griffin made an appearance but soon was stricken with Weakness. Rod of
 
 **Shuuhei Nakamura 1 – 1 Oliver Baloch** 
 
-![](https://i.ormos.uk/bb/83/bb8320b4ce9fa6f7d5760cdcad3b27ffc95a3fa39b91fe41f59edfcd617ea674.jpg)Unlike Baloch, Shuuhei chose to draw first. Initially, Baloch seemed quite happy about this, but that soon changed when he mulliganed once again. Still, Baloch had the perfect curve: Deadly Recluse, Veteran Swordsmith, and Giant Spider. But Shuuhei was well prepared with an (if somewhat more defensive) curve of himself: Drudge Skeletons, Wind Drake, and Gravedigger (to retrieve the Wind Drake that had traded with Veteran Armorsmith). Unfortunately for him, Baloch had Gorgon Flail *and* White Knight. 
+![](https://i.ormos.uk/bb/83/bb8320b4ce9fa6f7d5760cdcad3b27ffc95a3fa39b91fe41f59edfcd617ea674.jpg)
+
+Unlike Baloch, Shuuhei chose to draw first. Initially, Baloch seemed quite happy about this, but that soon changed when he mulliganed once again. Still, Baloch had the perfect curve: Deadly Recluse, Veteran Swordsmith, and Giant Spider. But Shuuhei was well prepared with an (if somewhat more defensive) curve of himself: Drudge Skeletons, Wind Drake, and Gravedigger (to retrieve the Wind Drake that had traded with Veteran Armorsmith). Unfortunately for him, Baloch had Gorgon Flail *and* White Knight. 
 
 Divination got Shuuhei further ahead in cards, but he was falling behind on life. (And more important: on the board!) However, Giant Spider was taken out by Tendrils of Corruption, netting six life, and that allowed Shuuhei one more turn to set things up instead of actually doing stuff. He cast a massive Mind Spring for six cards, and on the next turn summoned a couple of creatures, Horned Turtle among them. That took care of the White Knight, and turned the tide of this match. Rod of Ruin, Zombie Goliath, and others followed, and in the end Shuuhei's card advantage was just too much.
 
@@ -571,7 +579,9 @@ The halfway stage is a time to take stock. If you're one of six players out of 1
 
     *by Hanno Terbuyken*
 
-![](https://i.ormos.uk/bc/2a/bc2a606df7c6d0deca8b2ba07eef5bb257762c583ffaa74cede3ba58e5d05e56.jpg)Planeswalkers. Mind Control. Fireballs. Serra Angels. Magic 2010 makes many memorable Magic moments, many of which where happening up and down the aisles of GP Prague. In the end, it were black cards that carried the top of the standings to their victories. Among them are the six undefeated players who made it through the day unscathed: Worlds Top 8 competitor Hannes Kerem \[EST\], Jan Schmidt \[DEU\], and Richard Parker \[UK\] with an insane deck in the green half of the tournament, and on the blue half Ognjen Cividini \[HRV\], former Rookie of the Year Yuuya Watanabe \[JPN\], and Lukas Tajak \[DEU\].
+![](https://i.ormos.uk/bc/2a/bc2a606df7c6d0deca8b2ba07eef5bb257762c583ffaa74cede3ba58e5d05e56.jpg)
+
+Planeswalkers. Mind Control. Fireballs. Serra Angels. Magic 2010 makes many memorable Magic moments, many of which where happening up and down the aisles of GP Prague. In the end, it were black cards that carried the top of the standings to their victories. Among them are the six undefeated players who made it through the day unscathed: Worlds Top 8 competitor Hannes Kerem \[EST\], Jan Schmidt \[DEU\], and Richard Parker \[UK\] with an insane deck in the green half of the tournament, and on the blue half Ognjen Cividini \[HRV\], former Rookie of the Year Yuuya Watanabe \[JPN\], and Lukas Tajak \[DEU\].
 
 Day two of GP Prague will have 197 men playing – and two women. Elina Kilappa from Finland and Louise Johansson from Denmark also made it at 21 and 22 points respectively. There are a couple more interesting individuals who we will see on Sunday, the most interesting of which most of our readers probably will not recognize on sight. The Czech Repulic’s Magic methusalem Jakub Slemr, the 1997 World Champion, racked up 21 points (a 7-2 record) and will return for his first Sunday in nearly a decade.
 

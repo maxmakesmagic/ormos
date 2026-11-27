@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/159.jpg)The pressure is on in the final swiss round of the tournament. Richard Osterberg (Sweden) and Jarno Harkonen (Finland) are battling over one of the top 8 slots. Osterberg is already qualified, but that makes him no less determined to fight for the high finish. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/159.jpg)
+
+The pressure is on in the final swiss round of the tournament. Richard Osterberg (Sweden) and Jarno Harkonen (Finland) are battling over one of the top 8 slots. Osterberg is already qualified, but that makes him no less determined to fight for the high finish. 
 
 Harkonen's opening hand is good as it features a "combo" of Glimmering Angel and Armadillo Cloak - but no Island. Osterberg is also good to go with plenty of fliers in hand. 
 

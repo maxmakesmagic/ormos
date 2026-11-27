@@ -636,7 +636,9 @@ This is the fourth installment in my series looking at the cards in Odyssey and 
 
 ### RED
 
-![](https://i.ormos.uk/5b/6b/5b6b474c3848b5501b6e27203310f273e33eb6e46df2ee70ff9d2af41277d7d2.jpg)With the internet failing to define Limited environments the way it does their Constructed counterparts, its seldom that the **Magic** community comes to a consensus with regards to 40 card decks, but everyone and their sister seems to agree that Red is *Odyssey's* weakest color.
+![](https://i.ormos.uk/5b/6b/5b6b474c3848b5501b6e27203310f273e33eb6e46df2ee70ff9d2af41277d7d2.jpg)
+
+With the internet failing to define Limited environments the way it does their Constructed counterparts, its seldom that the **Magic** community comes to a consensus with regards to 40 card decks, but everyone and their sister seems to agree that Red is *Odyssey's* weakest color.
 
 It isn't all bad. Red offers two of the top five cards in the set in Shower of Coals and Kamahl, Pit Fighter, and one of the set's best commons in Firebolt. It also is one half of what may be the most popular color combination in *Odyssey* Limited: red-green, while not experiencing the drop off white and green do in *Torment*, but that seems to be around where the kudos end. 
 

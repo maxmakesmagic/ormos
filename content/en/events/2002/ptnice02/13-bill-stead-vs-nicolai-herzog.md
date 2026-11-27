@@ -45,7 +45,9 @@ archive_source:
   sha256: 531aaf4497d4d68ec316fb5507c8e48c4b818ce5c3efe1c8da81f4881aaaffa8
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a745.jpg)Grandprix New Orleans Championでもある青黒の Bill Stead(USA)と、往年の欧州選手権王者である Nicolai Herzog(Norway)の白黒《陰謀団の先手ブレイズ/Braids, Cabal Minion》デッキという対決が Feature Match となった。
+![](http://www.wizards.com/sideboard/images/ptnice02/a745.jpg)
+
+Grandprix New Orleans Championでもある青黒の Bill Stead(USA)と、往年の欧州選手権王者である Nicolai Herzog(Norway)の白黒《陰謀団の先手ブレイズ/Braids, Cabal Minion》デッキという対決が Feature Match となった。
 
 **Game 1**
 
@@ -58,11 +60,15 @@ Nicolai Herzog 1-0
 
 **Game 2**
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a744.jpg)　青黒の Stead の召喚した《催眠の悪鬼/Mesmeric Fiend》によって Herzog が黒白エンチャント多様型デッキであることが開始早々判明した。《刺青の護法印/Tattoo Ward》、《影の形態/Shade's Form》、《孤立の力/Strength of Isolation》、《避難/Shelter》といったカードが姿を見せたが、ここで唯一のクリーチャーである《エイヴンの群れ/Aven Flock》を Stead は Remove した。そして、さらに彼は《夢繰り/Dreamwinder》を展開した。
+![](http://www.wizards.com/sideboard/images/ptnice02/a744.jpg)
+
+　青黒の Stead の召喚した《催眠の悪鬼/Mesmeric Fiend》によって Herzog が黒白エンチャント多様型デッキであることが開始早々判明した。《刺青の護法印/Tattoo Ward》、《影の形態/Shade's Form》、《孤立の力/Strength of Isolation》、《避難/Shelter》といったカードが姿を見せたが、ここで唯一のクリーチャーである《エイヴンの群れ/Aven Flock》を Stead は Remove した。そして、さらに彼は《夢繰り/Dreamwinder》を展開した。
 
 　Herzog もすかさず《顔なしの解体者/Faceless Butcher》をトップデッキして《催眠の悪鬼/Mesmeric Fiend》を Remove。ただ、この《顔なしの解体者》も即座に《非物質化/Dematerialize》されてしまい、ふたたび in play した《悪鬼》にその《解体者》が Remove される。ここから局面は膠着し、Stead が《薄暮のインプ/Dusk Imp》、《朽ちゆく巨人/Rotting Giant》、《セファリッドの物あさり/Cephalid Looter》と展開すれば、Herzog も《エイヴンの群れ/Aven Flock》と《秘教の十字軍/Mystic Crusader》を召喚した。そして、Herzog の戦線を支える《十字軍》には《孤立の力》がエンチャントされ、さらに《尊い癒し手/Hallowed Healer》までが戦列に加わる。Stead は《物あさり》に何とか期待をかけたいがなかなかに有効牌に恵まれない。
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a743.jpg)　《避難/Shelter》を 2 枚引き当てたに及んで、とうとう Herzog が《影の形態/Shade's Form》をエンチャントして《エイヴンの群れ/Aven Flock》でビートダウンを開始。Stead もバウンスでこれを捌こうと必死だが、もちろん《避難/Shelter》の連発がこれを阻む。
+![](http://www.wizards.com/sideboard/images/ptnice02/a743.jpg)
+
+　《避難/Shelter》を 2 枚引き当てたに及んで、とうとう Herzog が《影の形態/Shade's Form》をエンチャントして《エイヴンの群れ/Aven Flock》でビートダウンを開始。Stead もバウンスでこれを捌こうと必死だが、もちろん《避難/Shelter》の連発がこれを阻む。
 
 　Bill Stead にとっては先ほどの「Game Loss」がケチのつけはじめとなったのだろうか？勝てば Top 8 が見えてくるラインでの出来事だけに、Herzog も恐縮しきりだった。
 

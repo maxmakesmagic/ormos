@@ -48,7 +48,9 @@ Each booster pack in the *Antiquities* set includes eight cards.
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/80/e2/80e2d5e4abc63919a648f258ad92b3aa83f055437681e9d117c8bf010ca7dd06.png)The second Magic expansion, this 100-card set offers the first story supported through both the functionality and the flavor of the cards.
+![](https://i.ormos.uk/80/e2/80e2d5e4abc63919a648f258ad92b3aa83f055437681e9d117c8bf010ca7dd06.png)
+
+The second Magic expansion, this 100-card set offers the first story supported through both the functionality and the flavor of the cards.
 
 **Set Name:** Antiquities  
 **Number of Cards:** 100

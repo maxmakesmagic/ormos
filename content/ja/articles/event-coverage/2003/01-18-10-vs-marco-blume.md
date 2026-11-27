@@ -44,7 +44,9 @@ archive_source:
   sha256: 88b0ce5b994f7a734873bc5a823251a89794c59f45b16377e385d74772c78890
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a800.jpg)すでに本日2敗目を喫してしまっている石田とMarcoだが、Phoenix Foundation　vs. Panzer Hunterのおいしい組み合わせというだけでフューチャリングされてしまった。二人ともただのさらし者扱いに苦笑い。お互い本日初勝利に向けて和やかながら試合は始まった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a800.jpg)
+
+すでに本日2敗目を喫してしまっている石田とMarcoだが、Phoenix Foundation　vs. Panzer Hunterのおいしい組み合わせというだけでフューチャリングされてしまった。二人ともただのさらし者扱いに苦笑い。お互い本日初勝利に向けて和やかながら試合は始まった。
 
 石田のデッキは赤白クレリックデッキ。貧弱なデッキに活を入れてなんとか頑張って欲しいところだ。対するMarcoは赤黒というわがままデッキ。《死の脈動/[Death Pulse](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+Pulse)》から黒をスタートしたのだが、自分のパックから《脅迫するオーガ/[Menacing Ogre](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Menacing+Ogre)》が出たことにより禁断の組み合わせにしてしまったようだ。もちろんろくな事にならず2敗を喫してしまっている。席的に2番と3番という上下の関係だがどちらに軍配が上がるのだろうか？
 
@@ -58,7 +60,9 @@ render_recovery: []
 
 **Game 2**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a801.jpg)今度は石田の先行でスタートするが、Game1と同じくMarcoがビートダウンを開始する。《ただれたゴブリン》と《ナントゥーコの鞘虫》の攻撃に対して石田は変異でブロック。ダメージをスタックに乗せたところでフェイスアップ《ダールの癒し手/[Daru Healer](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Healer)》で自身を軽減《ただれたゴブリン》を除去する。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a801.jpg)
+
+今度は石田の先行でスタートするが、Game1と同じくMarcoがビートダウンを開始する。《ただれたゴブリン》と《ナントゥーコの鞘虫》の攻撃に対して石田は変異でブロック。ダメージをスタックに乗せたところでフェイスアップ《ダールの癒し手/[Daru Healer](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Healer)》で自身を軽減《ただれたゴブリン》を除去する。
 
 Marcoはこれを《死の脈動》のサイクリングで除去するが、返しのターンで《ショック》により《ナントゥーコの鞘虫》を失ってしまう。石田はさらに変異を召還し防御態勢を築いていく。再度《脅迫するオーガ》が登場するが、今度はMarcoが3点、石田が6点と数当てゲームに勝利する。Marcoは《アフェット式底ざらい/[Aphetto Dredging](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Dredging)》でゾンビを回収し攻撃に加えようとするが、ゲームはやや膠着気味に。
 
@@ -68,7 +72,9 @@ Marcoはこれを《死の脈動》のサイクリングで除去するが、返
 
 **Game 3**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a802.jpg)再度Marcoの先行でゲームがスタート。またもや1ターン目に《ただれたゴブリン》が召還される。ところが今度は《ナントゥーコの鞘虫》が出てこない。対する石田は3枚目のサイクリングランドをセットするという悠長な立ち上がり。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a802.jpg)
+
+再度Marcoの先行でゲームがスタート。またもや1ターン目に《ただれたゴブリン》が召還される。ところが今度は《ナントゥーコの鞘虫》が出てこない。対する石田は3枚目のサイクリングランドをセットするという悠長な立ち上がり。
 
 《火花鍛冶/[Sparksmith](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith)》に《ただれたゴブリン》と《魂無き者/[Soulless One](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soulless+One)》と展開するMarcoだが、《ショック》により《火花鍛冶》が、《平和な心》により《魂無き者》が封じられてしまう。石田の召還する《圧倒する防衛者/[Daunting Defender](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daunting+Defender)》2体こそ《狙いすましたなだれ/[Pinpoint Avalanche](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche)》と《死の脈動》で除去するが《間に合わせの鎧》が付いた変異がどうにもならない。
 

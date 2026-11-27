@@ -67,7 +67,9 @@ Paskins 1-0 Hölzl
 
 After boarding things get much better for the German as he is able to board out the useless Biddings and Read the Runes and try and fight on even terms.
 
-![](http://www.wizards.com/sideboard/images/gplon03/a948.jpg)Paskins replaced 3 Sledder and 4 Piledriver with 4 Shock and 3 Starstorm. Hölzl chucked out the useless Bidding and Read the Runes as well as the Prospectors to replace them with Carbonize and Goons.
+![](http://www.wizards.com/sideboard/images/gplon03/a948.jpg)
+
+Paskins replaced 3 Sledder and 4 Piledriver with 4 Shock and 3 Starstorm. Hölzl chucked out the useless Bidding and Read the Runes as well as the Prospectors to replace them with Carbonize and Goons.
 
 Game 2 was just as swift. Hölzl Carbonized Paskin’s early threats of a War Chief and ClickSlither. He then cast a Siege Gang Commander.
 

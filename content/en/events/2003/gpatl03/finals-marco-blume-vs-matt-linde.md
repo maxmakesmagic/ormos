@@ -106,7 +106,9 @@ Marco and Matt agreed to a $200.00 split before the match even started. Marco wa
 
 Marco kept an opening hand of two Moment's Peace, two Island, Renewed Faith, Cunning Wish, and an Elfhame Palace, while Linde threw back his initial seven cards.
 
-![](https://i.ormos.uk/94/1d/941d5cb902094c38954b3459f6be60a3306642cd41671efc48c73f4f68345244.jpg)Linde sent his face down Angel into the Red Zone without the mana to flip her face up, and Marco cast Moment's Peace in response. The early use of the Moment's Peace could cause trouble later on, should Matt ever find the mana to turn it face up.
+![](https://i.ormos.uk/94/1d/941d5cb902094c38954b3459f6be60a3306642cd41671efc48c73f4f68345244.jpg)
+
+Linde sent his face down Angel into the Red Zone without the mana to flip her face up, and Marco cast Moment's Peace in response. The early use of the Moment's Peace could cause trouble later on, should Matt ever find the mana to turn it face up.
 
 Matt finally finds a swamp to play his Cabal Therapy with, but his guess of Mirari's Wake was a miss. Marco was holding two copies of Wrath of God, a Moment's Peace and Deep Analysis. Matt decided that the best course of action would be to sacrifice the Angel and flash back the Cabal Therapy, taking the two copies of Wrath.
 
@@ -120,7 +122,9 @@ The players around the table all got a laugh out of that one, particularly Matt 
 
 Matt keeps cycling the one card he has that can keep cycling, Undead Gladiator. The Gladiator finally dug him into an Akroma's Vengeance, which he tried to use to destroy the Wake and the Compulsion on the table. His earlier Vengeance had gotten a Wake and Mirari off the table, and this one got the Wake and the Compulsion. 
 
-![](https://i.ormos.uk/da/76/da76c2e38d316e3c3d18159aafa1d5956367d88007cfe3218d8ed7fb5b658717.jpg)Marco calmly allowed it to happen before casting Cunning Wish and getting Hunting Pack. The Hunting Pack became an army of 4/4 creatures when the two players realized that five spells had been cast that turn
+![](https://i.ormos.uk/da/76/da76c2e38d316e3c3d18159aafa1d5956367d88007cfe3218d8ed7fb5b658717.jpg)
+
+Marco calmly allowed it to happen before casting Cunning Wish and getting Hunting Pack. The Hunting Pack became an army of 4/4 creatures when the two players realized that five spells had been cast that turn
 
 Matt scooped, ready to start Game 2.
 
@@ -150,7 +154,9 @@ Linde had other plans though, playing a face down Exalted Angel on turn three an
 
 Marco had a plan of his own for the end of the turn. He used Cunning Wish to get Wing Shards, meaning there would be no more attacks from Matt's Exalted Angel.
 
-![](https://i.ormos.uk/ed/76/ed767374b2f724c500dc751f6592bc72ef6978dcd01fe1c14618a3db8022d192.jpg)Marco tried to take advantage of the empty table by playing his Brushhopper, but Matt Smothered it to remove it from play.
+![](https://i.ormos.uk/ed/76/ed767374b2f724c500dc751f6592bc72ef6978dcd01fe1c14618a3db8022d192.jpg)
+
+Marco tried to take advantage of the empty table by playing his Brushhopper, but Matt Smothered it to remove it from play.
 
 Blume finally drew a Mirari's Wake right after that, and the people behind knew that it meant the game could be over quickly There was a little bit of surprise when he decided not to do it that way.
 

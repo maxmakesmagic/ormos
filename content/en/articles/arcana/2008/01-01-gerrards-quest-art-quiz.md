@@ -193,19 +193,25 @@ Can you match these pages from the comic with the *Tempest* Block cards that sho
 
 <table><tbody><tr><td><a><img alt="Click for answer" src="https://i.ormos.uk/f5/6e/f56ec8a625c5c10f204d7d0cfd851824a9e1953f7277ea45c23768df2860ea00.jpg" title="Click for answer"></a></td>&#10;<td><a><img alt="Click for answer" src="https://i.ormos.uk/65/b8/65b846729ee5f2723c231874da668f2e6a1b4276e7895e62c58f8bd302e29418.jpg" title="Click for answer"></a></td>&#10;<td><a><img alt="Click for answer" src="https://i.ormos.uk/7f/1a/7f1a85dc30c5146b9b99b672d265baaffbf46f8d831334e94e3c264aada7e8a7.jpg" title="Click for answer"></a></td>&#10;<td><a><img alt="Click for answer" src="https://i.ormos.uk/2c/05/2c05e943762c13a2cdb33931389ff5cdb1f056a535daf6024dd6ece9e1a263b5.jpg" title="Click for answer"></a></td>&#10;<td><a><img alt="Click for answer" src="https://i.ormos.uk/47/f1/47f1b824810248fc0e5a4b53f2933cc3a761de3796c1e4c73e53366f9c9f3e2b.jpg" title="Click for answer"></a></td>&#10;</tr>&#10;<tr><td colspan="5"></td>&#10;</tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/0e/d7/0ed7a6c33a1f18dbbafeb02fe3148ddf4d7efec133006059c3671606ffea527d.jpg)That looks like the *Predator* grappling the *Weatherlight*. Look familiar?
+![](https://i.ormos.uk/0e/d7/0ed7a6c33a1f18dbbafeb02fe3148ddf4d7efec133006059c3671606ffea527d.jpg)
+
+That looks like the *Predator* grappling the *Weatherlight*. Look familiar?
 
 Click here.
 
 <table>&#10;<tbody><tr>&#10;<td><img alt="" src="https://i.ormos.uk/65/b4/65b44cec90bda938bbb278a79acba1f455a38a19b714807bea68c253b77de30d.jpg"></td>&#10;<td></td>&#10;<td><img alt="" src="https://i.ormos.uk/dd/0a/dd0a617788694ee0e82eed58b0746ab9dbdbdb6e709ee5390dcfb32556a6990e.jpg"></td>&#10;</tr>&#10;<tr>&#10;<td><img alt="" src="https://i.ormos.uk/96/f5/96f5d53e3ef958055c4fdf5bf835be99797bd18449a68a882c96ab3801bae612.jpg"></td>&#10;<td><a><img alt="Gerrard's Battle Cry" src="https://i.ormos.uk/6b/43/6b43fe0a39f364329e5ea1e4014398b2b243dfbc32779658c9cc281d24d8973c.jpg"></a></td>&#10;<td></td>&#10;</tr>&#10;<tr>&#10;<td><img alt="" src="https://i.ormos.uk/a0/a9/a0a91e69ef087e17e689f758224146196f0a29fad934eb2639d2fb73d4cf3c75.jpg"></td>&#10;<td><img alt="" src="https://i.ormos.uk/c0/e2/c0e24bff2fa206011911cb4b5cb20b4559cb82301a77e757b6e86de3c1ae659a.jpg"></td>&#10;<td><img alt="" src="https://i.ormos.uk/fa/ab/faab219b94a5d6a8405ff77aefe6f815ba2bba52fc447652a633eec85e227836.jpg"></td>&#10;</tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/36/8d/368d1555b6dc9ded79eae7b65e9caf52cf8a590cf7f751c5c525ff2dba6adada.jpg)Ahhh, the death of Vhati *il*-Dal at the hands of Commander Greven *il*-Vec. Do you recognize the card?
+![](https://i.ormos.uk/36/8d/368d1555b6dc9ded79eae7b65e9caf52cf8a590cf7f751c5c525ff2dba6adada.jpg)
+
+Ahhh, the death of Vhati *il*-Dal at the hands of Commander Greven *il*-Vec. Do you recognize the card?
 
 Click here.
 
 <table>&#10;<tbody><tr>&#10;<td><img alt="" src="https://i.ormos.uk/65/b4/65b44cec90bda938bbb278a79acba1f455a38a19b714807bea68c253b77de30d.jpg"></td>&#10;<td></td>&#10;<td><img alt="" src="https://i.ormos.uk/dd/0a/dd0a617788694ee0e82eed58b0746ab9dbdbdb6e709ee5390dcfb32556a6990e.jpg"></td>&#10;</tr>&#10;<tr>&#10;<td><img alt="" src="https://i.ormos.uk/96/f5/96f5d53e3ef958055c4fdf5bf835be99797bd18449a68a882c96ab3801bae612.jpg"></td>&#10;<td><a><img alt="Diabolic Edict" src="https://i.ormos.uk/5a/29/5a29e9c475b8b5d860e92a3749dfeaff0e0b7590e98ac03339029b3ce1d46624.jpg"></a></td>&#10;<td></td>&#10;</tr>&#10;<tr>&#10;<td><img alt="" src="https://i.ormos.uk/a0/a9/a0a91e69ef087e17e689f758224146196f0a29fad934eb2639d2fb73d4cf3c75.jpg"></td>&#10;<td><img alt="" src="https://i.ormos.uk/c0/e2/c0e24bff2fa206011911cb4b5cb20b4559cb82301a77e757b6e86de3c1ae659a.jpg"></td>&#10;<td><img alt="" src="https://i.ormos.uk/fa/ab/faab219b94a5d6a8405ff77aefe6f815ba2bba52fc447652a633eec85e227836.jpg"></td>&#10;</tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/02/51/02512415f3c7fc1ca931243570cad5d754b6a6dac93c39d0b553d7398b2c13e4.jpg)Tricky…. These events taking place in Volrath’s Stronghold seem to be shown on more than one card. Any ideas?
+![](https://i.ormos.uk/02/51/02512415f3c7fc1ca931243570cad5d754b6a6dac93c39d0b553d7398b2c13e4.jpg)
+
+Tricky…. These events taking place in Volrath’s Stronghold seem to be shown on more than one card. Any ideas?
 
 Click here.
 
@@ -213,13 +219,17 @@ Click here.
 
 <table>&#10;<tbody><tr>&#10;<td><img alt="" src="https://i.ormos.uk/65/b4/65b44cec90bda938bbb278a79acba1f455a38a19b714807bea68c253b77de30d.jpg"></td>&#10;<td></td>&#10;<td><img alt="" src="https://i.ormos.uk/dd/0a/dd0a617788694ee0e82eed58b0746ab9dbdbdb6e709ee5390dcfb32556a6990e.jpg"></td>&#10;</tr>&#10;<tr>&#10;<td><img alt="" src="https://i.ormos.uk/96/f5/96f5d53e3ef958055c4fdf5bf835be99797bd18449a68a882c96ab3801bae612.jpg"></td>&#10;<td><a><img src="http://www.wizards.com/global/images/magic/ST/Intruder_Alarm.jpg"></a></td>&#10;<td></td>&#10;</tr>&#10;<tr>&#10;<td><img alt="" src="https://i.ormos.uk/a0/a9/a0a91e69ef087e17e689f758224146196f0a29fad934eb2639d2fb73d4cf3c75.jpg"></td>&#10;<td><img alt="" src="https://i.ormos.uk/c0/e2/c0e24bff2fa206011911cb4b5cb20b4559cb82301a77e757b6e86de3c1ae659a.jpg"></td>&#10;<td><img alt="" src="https://i.ormos.uk/fa/ab/faab219b94a5d6a8405ff77aefe6f815ba2bba52fc447652a633eec85e227836.jpg"></td>&#10;</tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/72/19/72195694d83614d7f3406c2334efe54703f7355012e755b19cff34282650a8d9.jpg)The noble Crovax kills the dark angel Selenia, triggering the foul curse that consumes him. It’s a familiar moment to many, but what card was it on?
+![](https://i.ormos.uk/72/19/72195694d83614d7f3406c2334efe54703f7355012e755b19cff34282650a8d9.jpg)
+
+The noble Crovax kills the dark angel Selenia, triggering the foul curse that consumes him. It’s a familiar moment to many, but what card was it on?
 
 Click here.
 
 <table>&#10;<tbody><tr>&#10;<td><img alt="" src="https://i.ormos.uk/65/b4/65b44cec90bda938bbb278a79acba1f455a38a19b714807bea68c253b77de30d.jpg"></td>&#10;<td></td>&#10;<td><img alt="" src="https://i.ormos.uk/dd/0a/dd0a617788694ee0e82eed58b0746ab9dbdbdb6e709ee5390dcfb32556a6990e.jpg"></td>&#10;</tr>&#10;<tr>&#10;<td><img alt="" src="https://i.ormos.uk/96/f5/96f5d53e3ef958055c4fdf5bf835be99797bd18449a68a882c96ab3801bae612.jpg"></td>&#10;<td><a><img alt="Death Stroke" src="https://i.ormos.uk/5f/32/5f3210d5044454df6e0872765c4e6da48996089f4b4284136e83fb88924d6018.jpg"></a></td>&#10;<td></td>&#10;</tr>&#10;<tr>&#10;<td><img alt="" src="https://i.ormos.uk/a0/a9/a0a91e69ef087e17e689f758224146196f0a29fad934eb2639d2fb73d4cf3c75.jpg"></td>&#10;<td><img alt="" src="https://i.ormos.uk/c0/e2/c0e24bff2fa206011911cb4b5cb20b4559cb82301a77e757b6e86de3c1ae659a.jpg"></td>&#10;<td><img alt="" src="https://i.ormos.uk/fa/ab/faab219b94a5d6a8405ff77aefe6f815ba2bba52fc447652a633eec85e227836.jpg"></td>&#10;</tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/fc/4d/fc4db4f5221ba23e0646628d2054fc89314360625e0366e7bd499b0050e26a07.jpg)Karn, Silver Golem pleads with the Sliver Queen for the pieces of the Legacy. Which card shows the results of his entreaties?
+![](https://i.ormos.uk/fc/4d/fc4db4f5221ba23e0646628d2054fc89314360625e0366e7bd499b0050e26a07.jpg)
+
+Karn, Silver Golem pleads with the Sliver Queen for the pieces of the Legacy. Which card shows the results of his entreaties?
 
 Click here.
 

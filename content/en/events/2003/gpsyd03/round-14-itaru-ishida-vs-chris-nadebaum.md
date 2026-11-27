@@ -89,7 +89,9 @@ Chris played Itaru in the previous draft and Lost 1-2, and is now looking to eve
 
 Chris lead off with creatures, a Auriok Transfixer and a Auriok Bladewarden.
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/641.jpg)Itaru's first play was on turn three with a Krark-Clan Grunt. Itaru then played a 0/1 Nim Shrieker and attacked for two. Chris could only attack, with a Raise the Alarm and two Razor Barriers in hand.
+![](https://www.wizards.com/sideboard/images/gpsyd03/641.jpg)
+
+Itaru's first play was on turn three with a Krark-Clan Grunt. Itaru then played a 0/1 Nim Shrieker and attacked for two. Chris could only attack, with a Raise the Alarm and two Razor Barriers in hand.
 
 Itaru gave the shrieker some power by playing a Steel Wall and a Cathodion, Chris traded his Raise the Alarm for the grunt.
 
@@ -101,7 +103,9 @@ Itaru leads 1-0
 
 (Chris brought in a Nuriok Hoversail and 2 Nuriok Familiars.)
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/648.jpg)Chris started off aggressively and started to attack on turn 3 with his raise the alarm tokens and played out a Soldier Replica. Itaru played a Wizard Replica which got bounced with an AEther Spellbomb. Itaru replayed it on his next turn. Chris played a bargain priced Somber Hoverguard, for only 5 mana. Itaru had a Frogmite which was only two mana and a Grunt.
+![](https://www.wizards.com/sideboard/images/gpsyd03/648.jpg)
+
+Chris started off aggressively and started to attack on turn 3 with his raise the alarm tokens and played out a Soldier Replica. Itaru played a Wizard Replica which got bounced with an AEther Spellbomb. Itaru replayed it on his next turn. Chris played a bargain priced Somber Hoverguard, for only 5 mana. Itaru had a Frogmite which was only two mana and a Grunt.
 
 Itaru's next turn was a Promise of Power for a 5/5 flying Demon. Itaru attacked with it and Chis traded his Soldier Replica and his Hoverguard for the Demon. 
 

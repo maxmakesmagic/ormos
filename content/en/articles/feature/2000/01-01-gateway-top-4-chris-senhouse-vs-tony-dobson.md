@@ -71,7 +71,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://i.ormos.uk/b4/4f/b44f027d3314a11eb3ea212e3b0f1ae5a220142df9d48e23123b0036daa8c57a.jpg)The Gateway tournament was down to the Top 4 players and this feature match saw England's Tony Dobson playing against Chris Senhouse of the USA. Tony had only missed out on automatic qualification for the Masters Series on Pro Tour Points, so he was looking to sneak in through the back door here. 
+![](https://i.ormos.uk/b4/4f/b44f027d3314a11eb3ea212e3b0f1ae5a220142df9d48e23123b0036daa8c57a.jpg)
+
+The Gateway tournament was down to the Top 4 players and this feature match saw England's Tony Dobson playing against Chris Senhouse of the USA. Tony had only missed out on automatic qualification for the Masters Series on Pro Tour Points, so he was looking to sneak in through the back door here. 
 
 Tony had a Stasis deck, which quite a few people have played in this gateway tournament. It aims to keep Stasis in play indefinitely with Gush, Thwart, and Daze to return Islands to his hand and play them over again. Chris's deck, Counter-Sliver, was less common today, but having played it more than anyone, he feels comfortable with it and plays it better than anyone. 
 
@@ -79,7 +81,9 @@ The pressure was on as the situation was that the winner got a berth into the Ma
 
 Having won the die roll, Chris went first but was forced to mulligan a weak opening hand. His second was better and he got a good start, summoning a Muscle Sliver, a Hibernation Sliver, and a Crystalline Sliver, while Tony could play only land. Tony's life got dangerously low as his attempts to slow the game ware neutralized, a Stasis getting countered and a Powder Keg getting disenchanted. Tony's deck can get out of most situations though, and a second Stasis resolved, halting the Slivers' attack. 
 
-![](https://i.ormos.uk/c1/f9/c1f9fc2c9e437748dca8e984da5dd9194942e1b2dddf16063e020551f2dedca0.jpg)Both players built up thir mana bases, but this was a good position for Tony to be in so Chris attempted to force the issue with a Demonic Consultation. This backfired - the Consult removed almost two thirds of his deck, and the Acidic Sliver which he fetched was Thwarted, allowing Tony to keep the Stasis for at least three more turns. 
+![](https://i.ormos.uk/c1/f9/c1f9fc2c9e437748dca8e984da5dd9194942e1b2dddf16063e020551f2dedca0.jpg)
+
+Both players built up thir mana bases, but this was a good position for Tony to be in so Chris attempted to force the issue with a Demonic Consultation. This backfired - the Consult removed almost two thirds of his deck, and the Acidic Sliver which he fetched was Thwarted, allowing Tony to keep the Stasis for at least three more turns. 
 
 Again Chris looked for an active solution, using his Hibernation Sliver to return another Sliver so that it could return to the table untapped. Tony wasn't going to let this game go though; he Thwarted the Hibernation Sliver and Boomeranged another one on the next turn. This reduced him to only two untapped lands, and if he couldn't find some more, he would have to let the Stasis go, allowing Chris to untap fully and finish him off. 
 

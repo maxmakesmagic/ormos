@@ -209,7 +209,9 @@ render_recovery:
 
     *by Ray "blisterguy" Walkinshaw*
 
-![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/T8_coimbra_draft.jpg)Looking at the Top 8, I decided to stand behind André Coimbra again, figuring that he would at least know what he's doing. Not that the rest of the players in the Top 8 have no idea, they've all wrestled their way through to the playoffs too. 
+![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/T8_coimbra_draft.jpg)
+
+Looking at the Top 8, I decided to stand behind André Coimbra again, figuring that he would at least know what he's doing. Not that the rest of the players in the Top 8 have no idea, they've all wrestled their way through to the playoffs too. 
 
 André was lucky enough to open a Final Revels, which put him almost squarely in the favored-by-the-pros Faerie archetype. A second pick Pestermite helped confirm that his neighbor was probably not following the same route, but he wavered for a moment for a Hoofprints of the Stag, but another Pestermite in the fourth pack would have given him that warm, comforting feeling in the pit of his stomach. He was one to a good feed. The sixth pick Dreamspoiler Witches nearly knocked him out of his chair.
 
@@ -425,11 +427,15 @@ Shawn Rayson and Anatoli Lightfoot practically raced each other to the finals th
 
 Shawn was the newcomer here today, but nobody could doubt his skill as the results speak for themselves. Anatoli is an old hand when it comes to showing up in the finals for Limited Australian Grand Prix events, finishing second last year and again in 2004. 
 
- ![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/T8_lightfoot.jpg)Anatoli won the roll and lead with a Forest and his Mosswort Bridge, hiding a Blades of Velis Vel. "Ten power?" Shawn asked incredulously. "It's happened twice already" Anatoli replied with a grin, adding a Elvish Branchbender to the table. Shawn answered with a Woodland Changeling and a Kithkin Healer, but lost the Changeling when a Gilt-Leaf Ambush tripled the number Elves in play and allowed Anatoli to turn one of his Forests into a 3/3 for the turn. Shawn replaced the fallen 2/2 with a Kinsbaile Balloonist and passed the turn back. 
+ ![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/T8_lightfoot.jpg)
+
+ Anatoli won the roll and lead with a Forest and his Mosswort Bridge, hiding a Blades of Velis Vel. "Ten power?" Shawn asked incredulously. "It's happened twice already" Anatoli replied with a grin, adding a Elvish Branchbender to the table. Shawn answered with a Woodland Changeling and a Kithkin Healer, but lost the Changeling when a Gilt-Leaf Ambush tripled the number Elves in play and allowed Anatoli to turn one of his Forests into a 3/3 for the turn. Shawn replaced the fallen 2/2 with a Kinsbaile Balloonist and passed the turn back. 
 
 The Branchbender woke up another Forest (I admit, I wasn't paying enough attention, it could have been the same one) and sent it in along with the two Elves to wrestle with the Balloonist, who naturally blocked one of the 1/1s. Blades of Velis Vel pumped the Blocked Elf and the Forest, conveniently giving Anatoli eleven power in play, and allowing him to play the other Blades from under his Mosswort Bridge. Everyone lost count of just how much damage Shawn was taking that turn (imagine the spectators counting on their fingers, their lips moving silently) it was frankly ridiculous. 
 
-![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/T8_rayson.jpg)Shaun bounced back with a Knight of the Meadowgrain and an Oblivion Ring for Anatoli's Giant Harbinger, before championing the Knight to a Changeling Titan. Sure enough, Anatoli again found his back-breaker, playing Incremental Growth on his many weenies. Shaun delayed the inevitable with a his Pollen Lullaby for a turn, but was soon packing it in for Game 2. 
+![](https://www.wizards.com/Magic/Magazine/sideboard/images/gpbri07/T8_rayson.jpg)
+
+Shaun bounced back with a Knight of the Meadowgrain and an Oblivion Ring for Anatoli's Giant Harbinger, before championing the Knight to a Changeling Titan. Sure enough, Anatoli again found his back-breaker, playing Incremental Growth on his many weenies. Shaun delayed the inevitable with a his Pollen Lullaby for a turn, but was soon packing it in for Game 2. 
 
 Anatoli lead the second game with one of his three Elvish Handservants and a Fertile Ground, Shawn with a Woodland Changeling, boosting the Handservant by one. Missing his third land drop, Anatoli still managed to make a Gilt-Leaf Ambush with the Fertile Ground to take down the Changeling. A turn later, the Handservant and the Elf attacked into Shawn's fresh Veteran of the Depths, which died to a Blades of Velis Vel on the Elf. A Hillcomber Giant from Shawn inflated the Handservants to 3/3, and a Lowland Oaf from Anatoli to 4/4. Shawn's deck offered him nothing to stop it, and when Anatoli played a Giant Fire-Belly Changeling, Shawn just grinned and offered his hand with a chuckle. 
 

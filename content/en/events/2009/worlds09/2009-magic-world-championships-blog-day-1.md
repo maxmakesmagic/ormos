@@ -402,13 +402,17 @@ Now you get to play along at home, as we here at magicthegathering.com attempt t
 
 **Individual World Championship** 
 
-![](http://www.wizards.com/mtg/images/daily/events/worlds09/individual.jpg)Let’s start with the nuts and bolts. 409 players arrive for Round 1, facing a total of eighteen rounds across three days and three formats: Standard, Zendikar Draft, and Extended. Every win gets you 3 points, a draw gets you 1, and you earn a big fat 0 for failing to hand your opponent a whuppin’. Or something. At the end of Saturday, the Top 8 players will advance to the Sunday showdown, where they use exactly the same Standard deck, card for card, with which they began the tournament.
+![](http://www.wizards.com/mtg/images/daily/events/worlds09/individual.jpg)
+
+Let’s start with the nuts and bolts. 409 players arrive for Round 1, facing a total of eighteen rounds across three days and three formats: Standard, Zendikar Draft, and Extended. Every win gets you 3 points, a draw gets you 1, and you earn a big fat 0 for failing to hand your opponent a whuppin’. Or something. At the end of Saturday, the Top 8 players will advance to the Sunday showdown, where they use exactly the same Standard deck, card for card, with which they began the tournament.
 
 Today: Rounds 1-6, all Standard.
 
 **Team World Championship** 
 
-![](http://www.wizards.com/mtg/images/daily/events/worlds09/team.jpg)While there are some nations with a lone representative, all the entries in the team event comprise three members. These are usually the top three finishers from the respective National Championships held earlier in the year, with slots on the team filtering down in the event that one of those players can’t make it to Rome. (This is one of the reasons the 4th placed finisher is invited to Worlds automatically as the Alternate.) Every point the three members accrue during the 18 rounds of the individual event are combined to form the basis of a team score. As a result of this, no team member can be drawn against another player from his own team, which means, for example, that a showdown between Yuuya Watanabe and Shuhei Nakamura (which would be a marquee match-up at any event) won’t be happening this week. 
+![](http://www.wizards.com/mtg/images/daily/events/worlds09/team.jpg)
+
+While there are some nations with a lone representative, all the entries in the team event comprise three members. These are usually the top three finishers from the respective National Championships held earlier in the year, with slots on the team filtering down in the event that one of those players can’t make it to Rome. (This is one of the reasons the 4th placed finisher is invited to Worlds automatically as the Alternate.) Every point the three members accrue during the 18 rounds of the individual event are combined to form the basis of a team score. As a result of this, no team member can be drawn against another player from his own team, which means, for example, that a showdown between Yuuya Watanabe and Shuhei Nakamura (which would be a marquee match-up at any event) won’t be happening this week. 
 
 In addition to the 18 individual rounds, the teams have a portion of the event set aside just for them. In the four team rounds, the three members compete directly against an opposing nation, and each player represents one of three Constructed formats. For the teams, this means Standard, Extended, and Legacy. Each team round is a winner-take-all affair, where the overall winning team over the three matches, whether by 2-1 or a clean 3-0 sweep, gets a full 9 points. In total, therefore, there are 36 points up for grabs in the unique team portion.
 
@@ -418,7 +422,9 @@ Today: Six individual rounds, then two team rounds.
 
 **Magic Online World Championship** 
 
-![](http://www.wizards.com/mtg/images/daily/events/worlds09/magiconline.jpg)Through the year, seven season of Online play have led to the winners of the Magic Online Championship series. Those seven join us here at Worlds to take on the eighth member of the group, Magic Online Player of the Year Shouta Yasooka of Japan. He just happens to be the 2006 Player of the Year “in real life,” so he’s a massive favorite coming in to this one. 
+![](http://www.wizards.com/mtg/images/daily/events/worlds09/magiconline.jpg)
+
+Through the year, seven season of Online play have led to the winners of the Magic Online Championship series. Those seven join us here at Worlds to take on the eighth member of the group, Magic Online Player of the Year Shouta Yasooka of Japan. He just happens to be the 2006 Player of the Year “in real life,” so he’s a massive favorite coming in to this one. 
 
 Since some of the eight are playing in the World Championship itself, play in this event is scheduled for each evening, ensuring over twelve hours of top-level Magic each day. They play three different formats. Classic involves a Constructed deck built from any of the cards available on Magic Online. Zendikar Draft is just like the real thing, and so is Standard. At the end of the nine rounds across three days, the top two will shoot it out on Sunday. Whilst they play with Standard once more, they’re allowed to switch decks before the Final, making for a fascinating head-to-head metagame.
 

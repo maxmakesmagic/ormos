@@ -439,7 +439,9 @@ render_recovery:
 ---
 ### Round 2: Bastien Perez vs. Thomas Shaw
 
-![](http://www.wizards.com/sideboard/images/frnat04/fm2_1.jpg)Thomas made top eight in the final European Championships in London last year. Bastien came very close to top eight in the Nationals of 2003, only losing in the last round to fall short. Thomas is playing Green-White with Astral Slides and Eternal Witness, and Bastien has a very strange red-green deck with a nice collection of morphs.
+![](http://www.wizards.com/sideboard/images/frnat04/fm2_1.jpg)
+
+Thomas made top eight in the final European Championships in London last year. Bastien came very close to top eight in the Nationals of 2003, only losing in the last round to fall short. Thomas is playing Green-White with Astral Slides and Eternal Witness, and Bastien has a very strange red-green deck with a nice collection of morphs.
 
 ### Game 1
 

@@ -75,7 +75,9 @@ render_recovery:
   - Cursed Scroll
   occurrences: 20
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a965.jpg)Dirk Baberowski is one of the top German players and currently riding high in the player of the year race on the back of a top 8 in Copenhagen and winning the Team Pro Tour with Budde and Blume. He confessed he hadn't tested much and brought a Piledriver Sligh deck to the table. Antoine Menard is a solid player only recently returned to France after battering the English PTQ circuit during his stay at Oxford University. Unfortunately for him, like a lot of the French players, he's running Suicide Black. When Baberowski started with Mountain, Pup, Menard's comment summed it up.
+![](http://www.wizards.com/sideboard/images/gprei02/a965.jpg)
+
+Dirk Baberowski is one of the top German players and currently riding high in the player of the year race on the back of a top 8 in Copenhagen and winning the Team Pro Tour with Budde and Blume. He confessed he hadn't tested much and brought a Piledriver Sligh deck to the table. Antoine Menard is a solid player only recently returned to France after battering the English PTQ circuit during his stay at Oxford University. Unfortunately for him, like a lot of the French players, he's running Suicide Black. When Baberowski started with Mountain, Pup, Menard's comment summed it up.
 
 "That's bad news for me."
 
@@ -85,7 +87,9 @@ The Frenchman did see all 4 Diabolic Edicts to keep Baberowski's monsters pinned
 
 Menard thought a Duress to get rid of the Reckless Abandon Baberowski was holding might clear the way for the Negators to enter play. Unfortunately the German had another so the Negators continued to sit in the Frenchman's hand. The Abandon threw a Goblin at his head to drop Menard to two and take the Carnophages out of the game.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a967.jpg)With only the Piledriver in play for Baberowski Menard had to go for the Negator. Unfortunately the German was holding Reckless Charge and drew a second Piledriver to bring the game to its expected end.
+![](http://www.wizards.com/sideboard/images/gprei02/a967.jpg)
+
+With only the Piledriver in play for Baberowski Menard had to go for the Negator. Unfortunately the German was holding Reckless Charge and drew a second Piledriver to bring the game to its expected end.
 
 Baberowski 1-0 Menard
 

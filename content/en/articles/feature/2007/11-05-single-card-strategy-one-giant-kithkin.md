@@ -923,7 +923,9 @@ I make a wild guess. "Is that... Aaron Forsythe?"
 
 "We hope you'll agree to it," chimes in Guido from behind. 
 
-![Lurking_Informant](https://i.ormos.uk/c3/96/c396b6329bed191fa09330f6cc92d61d48e6378071c1442b6e824b31fc297369.jpg)The air between us grows thick with menace. Suddenly my warm living room with kids and children's programming feels too far away. "Of-of course I'll do it."
+![Lurking_Informant](https://i.ormos.uk/c3/96/c396b6329bed191fa09330f6cc92d61d48e6378071c1442b6e824b31fc297369.jpg)
+
+The air between us grows thick with menace. Suddenly my warm living room with kids and children's programming feels too far away. "Of-of course I'll do it."
 
 Guido grunts. Scott looks relieved as he pulls out a contract for me to sign.
 
@@ -967,7 +969,9 @@ Lastly, don't forget about Changeling Titan and the other changelings when tooli
 
 The champion mechanic is often thought of as a drawback, since it requires a creature in play if you want to play your champion and have him stick. Few things feel as bad as ripping a champion off the top of your deck after the board has been cleared with a Wrath of God or Damnation. On the flip side though, champions are quite good *before* said Wrath or Damnation gets played, hiding away a creature that will pop back into play and command the board once the champion dies. Imagine dropping a turn-three or -four Loxodon Hierarch, attacking with it the next turn, and during your second main phase dropping Changeling Titan, championing the Hierarch. Just about any creature with a comes-into-play effect is a perfect pairing for the champion mechanic, getting another use from them if the champion dies. The beauty of Changeling Titan is that, if your opponent *doesn't* handle him the game is likely over anyway. Champion Wall of Blossoms, Carven Caryatid or Coiling Oracle to draw another card later. If you had to play an early Llanowar Sentinel (recently reprinted in *Tenth*!), Champion him and if the Titan gets killed, you can spend your available mana to go get some Sentinel friends and put them into play.
 
-![Karmic Guide, Gravedigger, and Strongarm Thug](https://i.ormos.uk/d9/1c/d91c26d222e6cbbcee0cdfeb85e948eab8a8b5f1b6f47e43789e537a893b107e.jpg)Things can get downright silly if you champion a Karmic Guide, Gravedigger, Pit Keeper, or even a Strongarm Thug. If your opponent kills the Titan these creatures come back into play and brings him right back to champion them again. How many times can your opponent handle a 7/7 creature that keeps coming back? Use Eternal Witness to do the same thing, or get back some other card. Also, keep in mind that the Champion mechanic doesn't target, so use it to cover up a creature set to die next turn due to vanishing or fading, even if it can't be targeted! Imagine attacking a few times with Blastoderm or Calciderm and then championing it with a 7/7 beatstick. Similarly, what if you've instantly animated a Mulldrifter from the graveyard with Makeshift Mannequin to draw two cards? Untap and play Changeling Titan and champion the Mulldrifter.
+![Karmic Guide, Gravedigger, and Strongarm Thug](https://i.ormos.uk/d9/1c/d91c26d222e6cbbcee0cdfeb85e948eab8a8b5f1b6f47e43789e537a893b107e.jpg)
+
+Things can get downright silly if you champion a Karmic Guide, Gravedigger, Pit Keeper, or even a Strongarm Thug. If your opponent kills the Titan these creatures come back into play and brings him right back to champion them again. How many times can your opponent handle a 7/7 creature that keeps coming back? Use Eternal Witness to do the same thing, or get back some other card. Also, keep in mind that the Champion mechanic doesn't target, so use it to cover up a creature set to die next turn due to vanishing or fading, even if it can't be targeted! Imagine attacking a few times with Blastoderm or Calciderm and then championing it with a 7/7 beatstick. Similarly, what if you've instantly animated a Mulldrifter from the graveyard with Makeshift Mannequin to draw two cards? Untap and play Changeling Titan and champion the Mulldrifter.
 
 There are a few cards that have effects both when they come into play and leave play that get even more of a workout in conjunction with the champion mechanic. Keldon Marauders, Aven Riftwatcher, Deadwood Treefolk, and Sundering Titan all get downright silly alongside cards like Changeling Titan.
 

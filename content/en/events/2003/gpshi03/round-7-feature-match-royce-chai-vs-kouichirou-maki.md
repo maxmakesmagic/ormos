@@ -175,7 +175,9 @@ render_recovery:
   - Wrench Mind
   occurrences: 173
 ---
-![](https://i.ormos.uk/52/8e/528e24a2cfbbe84330b02d3daaa3cf65cfaf3d3529107e88d4144319e21a0438.jpg)Once upon a time Kouichirou Maki won the Hong Kong Open in 1997. He won a car for his efforts. Not many players from that era can recall exactly what it was but they seemed to think it was a Model T Ford. He was also a Magic Invitationlist and has made the Top 8 of Japanese Nationals. Lately he has been occupied with his duties as the Editor-in-Chief of Japanese Sideboard. He must be paying attention to his Wise Words since he found himself at 6-0. 
+![](https://i.ormos.uk/52/8e/528e24a2cfbbe84330b02d3daaa3cf65cfaf3d3529107e88d4144319e21a0438.jpg)
+
+Once upon a time Kouichirou Maki won the Hong Kong Open in 1997. He won a car for his efforts. Not many players from that era can recall exactly what it was but they seemed to think it was a Model T Ford. He was also a Magic Invitationlist and has made the Top 8 of Japanese Nationals. Lately he has been occupied with his duties as the Editor-in-Chief of Japanese Sideboard. He must be paying attention to his Wise Words since he found himself at 6-0. 
 
 His opponent Royce Chai was from Singapore and was also 6-0 although without the benefit of three byes like his opponent--he opnly had two. Royce has two GP Top 8's under his belt and has finished in the Top 16 at Worlds. He also had Awe Strioke and Soul Nova in his sideboard despite white being one of his base colors.
 
@@ -197,7 +199,9 @@ Royce - 0 Kouichirou - 1
 
 Kouichirou sided in his blue and took out his green for this game. Out went Deconstruct, One Dozen Eyes, Tel-Jilad Exile and Fangren Hunter and in came a pair of Somber Hoverguards, Thoughtcast and Thirst for Knowledge. His opponent's willingness to keep a one-land hand indicated a fast deck and Kouichirou's own deck was proving to be slow with the green. He felt there was more beatdown and more card drawing with his blue.
 
-![](https://i.ormos.uk/2d/39/2d39e2e54882482f8f4118172cd02a3b4be0238729eb4559fbd32530c73bd5a4.jpg)Royce's entire body was clenched as he drew his opening hand. When he found lands within the first cards drawn he exhaled and announced he would be keeping. Maki kept as well. Royce played a Copper Myr on turn two and it was met by a Leonin Den-Guard from Maki. Royce had no third land and was visibly frustrated by his deck's lack of cooperation. He played a Soldier Replica and passed the turn.
+![](https://i.ormos.uk/2d/39/2d39e2e54882482f8f4118172cd02a3b4be0238729eb4559fbd32530c73bd5a4.jpg)
+
+Royce's entire body was clenched as he drew his opening hand. When he found lands within the first cards drawn he exhaled and announced he would be keeping. Maki kept as well. Royce played a Copper Myr on turn two and it was met by a Leonin Den-Guard from Maki. Royce had no third land and was visibly frustrated by his deck's lack of cooperation. He played a Soldier Replica and passed the turn.
 
 Kouichirou played a Skyhunter Cub and passed the turn awaiting equipment for his mounting army. Royce found land number three on his next turn but passed without a play. Maki had no play of his own and Royce attempted a Needlbug EOT. Maki responded with a Thirst for Knowledge but let it resolve discarding a Frogmite.
 

@@ -234,7 +234,9 @@ render_recovery:
 
 ### Game 2
 
-![](https://i.ormos.uk/e0/1e/e01e4b8af821a59122bad438857d53dd45902415ab30e654a06e2185b1161fff.jpg)　後手の Robert は《ドルイドの抒情詩人/Druid Lyrist》、《ミリキン人形/Millikin》、《ドングリの収穫/Acorn Harvest》と素晴らしい回りしているところ、百瀬は手札が 4 マナからと非常に鈍い動き。《象の待ち伏せ/Elephant Ambush》、《ナントゥーコの信奉者/Nantuko Disciple》と続ける頃には《ドングリの収穫/Acorn Harvest》と、《炎の稲妻/Firebolt》で丁寧にクリーチャーを除去され、常にダメージを食らい続け事となる。
+![](https://i.ormos.uk/e0/1e/e01e4b8af821a59122bad438857d53dd45902415ab30e654a06e2185b1161fff.jpg)
+
+　後手の Robert は《ドルイドの抒情詩人/Druid Lyrist》、《ミリキン人形/Millikin》、《ドングリの収穫/Acorn Harvest》と素晴らしい回りしているところ、百瀬は手札が 4 マナからと非常に鈍い動き。《象の待ち伏せ/Elephant Ambush》、《ナントゥーコの信奉者/Nantuko Disciple》と続ける頃には《ドングリの収穫/Acorn Harvest》と、《炎の稲妻/Firebolt》で丁寧にクリーチャーを除去され、常にダメージを食らい続け事となる。
 
 　ついていないときはついていないもので、百瀬はひたすらに土地を引き、あと 1 枚で《象の待ち伏せ/Elephant Ambush》のフラッシュバックが撃ててしまうところまで来ている。  
  　そんな時に Robert の《ミリキン人形/Millikin》によって墓地に落ちるカードが《ワームの咆哮/Roar of the Wurm》であったりする。  

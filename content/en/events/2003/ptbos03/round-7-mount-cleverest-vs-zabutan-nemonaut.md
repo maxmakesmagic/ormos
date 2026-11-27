@@ -90,7 +90,9 @@ render_recovery:
   - Ixidor's Will
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/ptbos03/a889.jpg)If there's a team that can beat Phoenix Foundation, it's Zabutan Nemonaut. Gary Wise and Mike Turian won this Pro Tour back in 2000, and this time around have top American player Eugene Harvey on the team instead of Scott Johns. Throw into the equation the fact that all three are teammates 365 days out of the year as members of CMU-TOGIT, and you have a squad that is fully capable of taking down the seemingly undefeatable Germans. In the first round of draft, they're up against Jeff Cunningham and Brett Shears, who have picked up European Pro Tour veteran Tomi Walamies to round out their team. 
+![](http://www.wizards.com/sideboard/images/ptbos03/a889.jpg)
+
+If there's a team that can beat Phoenix Foundation, it's Zabutan Nemonaut. Gary Wise and Mike Turian won this Pro Tour back in 2000, and this time around have top American player Eugene Harvey on the team instead of Scott Johns. Throw into the equation the fact that all three are teammates 365 days out of the year as members of CMU-TOGIT, and you have a squad that is fully capable of taking down the seemingly undefeatable Germans. In the first round of draft, they're up against Jeff Cunningham and Brett Shears, who have picked up European Pro Tour veteran Tomi Walamies to round out their team. 
 
 ### Game 1
 
@@ -104,7 +106,9 @@ Harvey seemed to be in a great position thanks to Extra Arms on Spectral Sliver,
 
 In game 2, Cunningham and Turian played first turn Taunting Elves. Cunningham's draw was explosive, with Stonewood Invoker, Timberwatch Elf, and a pair of Elvish Warriors that all came out very quickly. Turian tried to slow things down by unmorphing Willbender to change a Timberwatch pump and Temporal Fissuring the Timberwatch, but Cunningham draw was simply too fast and Enrage dealt lethal damage to put Mount Cleverest up a match.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a888.jpg)Wise was down a game, and had to win the next two to keep his team in the match. He played a second turn Skinthinner, followed by a third turn Dragon Shadow to put a quick clock on Walamies. The evasion-Skinthinner plan seemed like it would be stopped by Vengeful Dead, but Wise made his creature even bigger with Clutch of Undeath. Walamies still had an answer, playing a Toxin Sliver that blocked and traded with the big Skinthinner. Wise wasn't out of resources, though, summoning Prowling Pangolin. Walamies kept responding with the right answer, playing Deathmark Prelate. Vengeful Dead was sacrificed to kill the 6/5 Beast, and Wise was out of threats while Walamies had plenty in his hand.
+![](http://www.wizards.com/sideboard/images/ptbos03/a888.jpg)
+
+Wise was down a game, and had to win the next two to keep his team in the match. He played a second turn Skinthinner, followed by a third turn Dragon Shadow to put a quick clock on Walamies. The evasion-Skinthinner plan seemed like it would be stopped by Vengeful Dead, but Wise made his creature even bigger with Clutch of Undeath. Walamies still had an answer, playing a Toxin Sliver that blocked and traded with the big Skinthinner. Wise wasn't out of resources, though, summoning Prowling Pangolin. Walamies kept responding with the right answer, playing Deathmark Prelate. Vengeful Dead was sacrificed to kill the 6/5 Beast, and Wise was out of threats while Walamies had plenty in his hand.
 
 His creatures kept coming as Wise seemed done, until he played Akroma. This threat was no different, as Walamies had the right answer: Ixidor's Will. This got a laugh out of the crowd, as Wise conceded to give Mount Cleverest the win. Shears immediately conceded his match with Harvey, where he had a poor mana draw and most likely would not have won. 
 

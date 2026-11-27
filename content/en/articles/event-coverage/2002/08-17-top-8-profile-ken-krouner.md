@@ -44,7 +44,9 @@ archive_source:
   sha256: a68a79992d837edc524b5b8b823caea258cc0a32139f846df52f2cb75c050467
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a588.jpg)If you're on the Internet reading about Magic, chances are you've run across the site known as "MiseTings," a satirical look at the Magic community masterminded by former PT player Mike Bregoli. And if you read that site regularly, you've seen Ken Krouner's "Good Man of the Week" column, wherein Krouner awards the nominal "Good Man" title to someone that has impressed him somehow recently, either through personal favor or in some bigger community-affecting way.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a588.jpg)
+
+If you're on the Internet reading about Magic, chances are you've run across the site known as "MiseTings," a satirical look at the Magic community masterminded by former PT player Mike Bregoli. And if you read that site regularly, you've seen Ken Krouner's "Good Man of the Week" column, wherein Krouner awards the nominal "Good Man" title to someone that has impressed him somehow recently, either through personal favor or in some bigger community-affecting way.
 
 If you're on the Internet reading about Magic, you've probably been following the coverage of this tournament, wherein you will have learned that Krouner is not only good at playing favorites, but playing cards as well.
 

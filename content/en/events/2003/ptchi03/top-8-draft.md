@@ -118,13 +118,17 @@ The very first pick was a controversial one—Mistform Wall. Reinhardt later exp
 
 Herzog took Elven Riders, hinting at black-green. Jensen took a Battering Craghorn, which probably meant he had to be red-white, even though he personally hates white. Harvey took Spitting Gourna, continuing the pattern, and Finkel ended up with the Shapeshifter. Bram took Catapult Master—the rare—and then Kai threw everyone for a loop by taking Barren Moor.
 
-![](https://i.ormos.uk/04/cc/04ccf51ce540b6cae69ae5781e45011d3aaf2a861bd64cdffb545adcaf056a63.jpg)If you adhere to the accepted pattern, seat 7 should be a red seat at this table. Kai later agreed that it probably should have been, and he wasn't really signaling anything by taking the Moor; he just wanted to have the best card just in case he ended up black due to Bram opting out of the color. What ended up happening was Bram mistook Kai's choice as a stubborn devotion to black, and ended up creating weird ripples.
+![](https://i.ormos.uk/04/cc/04ccf51ce540b6cae69ae5781e45011d3aaf2a861bd64cdffb545adcaf056a63.jpg)
+
+If you adhere to the accepted pattern, seat 7 should be a red seat at this table. Kai later agreed that it probably should have been, and he wasn't really signaling anything by taking the Moor; he just wanted to have the best card just in case he ended up black due to Bram opting out of the color. What ended up happening was Bram mistook Kai's choice as a stubborn devotion to black, and ended up creating weird ripples.
 
 Stern, now stuck between Reinhardt's red signal and Kai's confusing black one, wheeled two white cards. Kai took Dirge of Dread on the way back, and Bram took a Disciple of Malice right after him, still unsure what to do with his second color.
 
 The front half of the table fell in line in pack 2; Herzog took Dirge to be G-B, Jensen stuck to red with another Craghorn, Harvey took Headhunter to also show G-B, and Finkel got a Threaten for U-R. Bram took another white card, Catapult Squad, and waited to see what Kai would do.
 
-![](https://i.ormos.uk/27/38/2738a188ec7efdaf9aea3217cfa1c60d7f761908341fd2190590b2773a4ca7c1.jpg)Kai took a Forgotten Cave, making moves on both red AND black... how greedy! In actuality, he was still biding his time, waiting to see which of the two Bram was going to draft. If Bram moved into black, Kai would be red-green. If Bram snuck into red behind Finkel, Kai would be black-green.
+![](https://i.ormos.uk/27/38/2738a188ec7efdaf9aea3217cfa1c60d7f761908341fd2190590b2773a4ca7c1.jpg)
+
+Kai took a Forgotten Cave, making moves on both red AND black... how greedy! In actuality, he was still biding his time, waiting to see which of the two Bram was going to draft. If Bram moved into black, Kai would be red-green. If Bram snuck into red behind Finkel, Kai would be black-green.
 
 But then Bram took a Krosan Tusker in the next pack. Would he really draft the oft-maligned white-green combo? Kai sure hoped so. Bram later explained that he was afraid no one between Harvey and Herzog going clockwise would draft green, leaving the door open for Herzog to get everything good for 6 packs in a row. Knowing that he'd never be able to beat such a deck, he decided to go into green himself. If only he had a little more faith in his influence over Kai.
 
@@ -142,7 +146,9 @@ Only two Sparksmiths were opened in the draft—one went to Reinhardt and the ot
 
 There was very little black removal in the draft—Eugene got the only Cruel Revival and the only Infest, and Kai got the only Death Pulse. Herzog had no opportunity to take any such card, and no Swats either. He may have only a single Crown of Suspicion for potential removal, and Stern's removal situation isn't much better.
 
-![](https://i.ormos.uk/46/00/4600c1a3a054d6c8d3e5241ad02979f5dc29ec90309be24ec6ea3c03bdf7fddb.jpg)Herzog did get the only other big "bomb" in the draft—Kamahl, Fist of Krosa. The green Legend will spell problems for Spepvangers, whose deck is incapable of killing creatures. The other good rares in the draft were Rotlung Reanimator to Kai, Mythic Proportions to Eugene, and Gratuitous Violence to Reinhardt.
+![](https://i.ormos.uk/46/00/4600c1a3a054d6c8d3e5241ad02979f5dc29ec90309be24ec6ea3c03bdf7fddb.jpg)
+
+Herzog did get the only other big "bomb" in the draft—Kamahl, Fist of Krosa. The green Legend will spell problems for Spepvangers, whose deck is incapable of killing creatures. The other good rares in the draft were Rotlung Reanimator to Kai, Mythic Proportions to Eugene, and Gratuitous Violence to Reinhardt.
 
 Jensen's deck never came together, and may be the worst at the table. He took an Astral Slide in the middle of the draft, and then first-picked a Lightning Rift in pack three. The problem was that he didn't have many cycling cards, and he wasn't able to get any more. He admits that he "froze" on the Rift pick, and probably should have picked something else. Surely Finkel would have been happy with a Rift falling into his lap.
 
@@ -150,7 +156,9 @@ Finkel's big trick is his two Shapeshifter, which he hopes to use to find Aven F
 
 Quarterfinals predictions (for what they're worth... my prognostications haven't been stellar this weekend.): Harvey over Stern. Harvey's decision to put Stern in seat 8 worked out well. Not only are black and white the two colors Stern hates to draft, but he was sandwiched between a red drafter and a black drafter. Eugene has good removal and a nice curve.
 
-![](https://i.ormos.uk/07/61/076111a8ebb712e498f10da3ffad90758d952658d99ea53a3a50d3974fcf975b.jpg)Herzog over Snepvangers. Neither one can remove anything from play easily, but Herzog can block and kill Bram's fliers using his two Gournas and some combat tricks. Herzog's Kamahl will break any standstills, and he even has a Doom Cannon to kill from long range if there are too many Righteous Causes in play. The only way Bram wins this match is if he gets turn-4 Angel more than once.
+![](https://i.ormos.uk/07/61/076111a8ebb712e498f10da3ffad90758d952658d99ea53a3a50d3974fcf975b.jpg)
+
+Herzog over Snepvangers. Neither one can remove anything from play easily, but Herzog can block and kill Bram's fliers using his two Gournas and some combat tricks. Herzog's Kamahl will break any standstills, and he even has a Doom Cannon to kill from long range if there are too many Righteous Causes in play. The only way Bram wins this match is if he gets turn-4 Angel more than once.
 
 Budde over Jensen. Budde's deck is just plain better. Rotlung Reanimator will be a wrecking ball in this matchup, especially because Kai has access to multiple Misery Charms.
 

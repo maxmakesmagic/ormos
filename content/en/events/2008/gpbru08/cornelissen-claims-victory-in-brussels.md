@@ -219,7 +219,9 @@ Congratulations to Kamiel Cornelissen, the champion of Grand Prix Brussels 2008!
 
 From time to time the argument comes up that Sealed Deck is a format where only luck plays a major roll and that even the good players can't do anything with a bad card pool. However, at the end of nine rounds of Sealed Deck play, there were four French top players ready to draft at the first table of the Grand Prix: Antoine Ruel, Amiel Tenenbaum, Gabriel Nassif, and Raphael Levy. So... is it all about luck?
 
-![](https://i.ormos.uk/82/f0/82f0ffd706acf0cf8303aa54034bbafe72b139b439e67f53cd6fc6d593cf939c.jpg)Antoine Ruel is one of the most popular players on **Magic: the Gathering**'s competitive scene, having under his belt wins at every kind of major tournaments, so following his draft is always a path for learning and improving.
+![](https://i.ormos.uk/82/f0/82f0ffd706acf0cf8303aa54034bbafe72b139b439e67f53cd6fc6d593cf939c.jpg)
+
+Antoine Ruel is one of the most popular players on **Magic: the Gathering**'s competitive scene, having under his belt wins at every kind of major tournaments, so following his draft is always a path for learning and improving.
 
 Yesterday we asked some quick questions about the pros' choice for the top rare, uncommon and common in the set. Antoine's pick for top uncommon was Incremental Blight and he was quite happy when his first booster offered exactly that. After picking this great black card, Antoine decided to to stay on the "dark side", taking as much black as possible. When later asked why, his answer was: "Black is the worst color." Most players just consider their cards and boosters to make their decisions while drafting, but here Antoine was thinking one level ahead and he was aware that the other pros at the table would probably stay out of black, because in their opinion it's the worst color. 
 
@@ -297,7 +299,9 @@ When it comes to adventure, a Grand Prix Day Two can certainly get the pulse rac
 
 Gabriel Nassif from France is one of the most consistent European players on the professional circuit, from Player of the Year to Pro Tour champion, he has mastered both constructed and limited formats. Currently he is in need of one more win and one draw out of the three rounds of today's second draft.
 
- ![](https://i.ormos.uk/04/4a/044afbbb2d479243d44911551f1979f038488ffc1bb7142a7a3c23203679059f.jpg)When Nassif opened his first booster and saw Plumeveil in it, he considered every option available, as well as possible paths that he could take from that point and when the judge told the players to pick a card, it was Plumeveil that got into his card pool. 
+ ![](https://i.ormos.uk/04/4a/044afbbb2d479243d44911551f1979f038488ffc1bb7142a7a3c23203679059f.jpg)
+
+ When Nassif opened his first booster and saw Plumeveil in it, he considered every option available, as well as possible paths that he could take from that point and when the judge told the players to pick a card, it was Plumeveil that got into his card pool. 
 
 In the first and second booster there was always a good red or/and green card in it, providing the French player with an alternative path in case blue and white were beginning to dry up. He chose to stay true to his colors, however, and ended up with a heavy blue deck, containing some white cards, and a lot of blue/white and blue/black hybrids. Was that the right option? Probably yes, as on the third booster there were a lot of cards available for the archetype, while red/green trickled away.
 
@@ -313,7 +317,9 @@ Antoine Ruel, from France, kept a perfect score for ten rounds, but in round 11,
 
 **Game 1** 
 
- ![](https://i.ormos.uk/08/ca/08ca0308c7f0ab21aa52106c5ce6ff1b8c22901c1f58e6167fe8540600676fac.jpg)Levy won the coin flip and started to put some pressure on his opponent with an early Somnomancer. Antoine was nice enough to give Fear to his opponent's creature at the end of the turn with Aphotic Wisps and drew a card. He was preparing for some unfair turns when he played Oona's Gatewarden, enchanting it with Power of Fire, as he could start firing -1/-1 counters every turn, but Raphael had a different agenda and Last Breath removed the Defender creature. 
+ ![](https://i.ormos.uk/08/ca/08ca0308c7f0ab21aa52106c5ce6ff1b8c22901c1f58e6167fe8540600676fac.jpg)
+
+ Levy won the coin flip and started to put some pressure on his opponent with an early Somnomancer. Antoine was nice enough to give Fear to his opponent's creature at the end of the turn with Aphotic Wisps and drew a card. He was preparing for some unfair turns when he played Oona's Gatewarden, enchanting it with Power of Fire, as he could start firing -1/-1 counters every turn, but Raphael had a different agenda and Last Breath removed the Defender creature. 
 
 A 3/3 for 4 mana that couldn't be blocked by the other player joined each side of the duel and when the game seemed even... Raphael Levy played Armored Ascension on his Raven's Run Dragoon and the 9/9 Flying creature that couldn't be blocked by black creatures dealt lethal damage - simple as that!
 
@@ -321,7 +327,9 @@ A 3/3 for 4 mana that couldn't be blocked by the other player joined each side o
 
 **Game 2** 
 
-![](https://i.ormos.uk/90/df/90dfe6688fea712df83c3ea5522cc50b0b853e0777289c26494e410e2430f854.jpg)This time Antoine Ruel played Pili-Pala and had it kill Levy's Medicine Runner, as it got some extra fire power from Power of Fire. At this point Antoine could deal with most of the creatures in the set, as he could untap his "pinger" and deal one damage, as many times as his mana allowed him to. 
+![](https://i.ormos.uk/90/df/90dfe6688fea712df83c3ea5522cc50b0b853e0777289c26494e410e2430f854.jpg)
+
+This time Antoine Ruel played Pili-Pala and had it kill Levy's Medicine Runner, as it got some extra fire power from Power of Fire. At this point Antoine could deal with most of the creatures in the set, as he could untap his "pinger" and deal one damage, as many times as his mana allowed him to. 
 
 However, Antoine was short on mana and when he tapped his mana during his own turn Levy found an opening and jumped to it: He played Armored Ascension on a Barrenton Medic, getting a 6/10 flyer. This was quite the threat, but Antoine only conceded when Oversoul of Dusk joined Levy's army as well, getting both players to a 10-1 score.
 
@@ -337,7 +345,9 @@ The standings after round 12 mark the ultimate pinnacle of French triumph - six 
 
 **Game 1** 
 
- ![](https://i.ormos.uk/f0/2c/f02cab259a56a0ba70f2ff04e87b42c112fad70a6f1c758fc1d235ce6463d5cc.jpg)Peset won the coin toss and had Spectral Procession on turn three - lucky to have drawn three plains or is he really playing mono-white? Meanwhile Levy had Silkbind Faerie and followed it up with Steel of the Godhead. Peset had yet another Plains and Thistledown Duo for turn four and Scuttlemutt on turn five, when his fifth Plains revealed that, yes, he was very likely playing mono-colored.
+ ![](https://i.ormos.uk/f0/2c/f02cab259a56a0ba70f2ff04e87b42c112fad70a6f1c758fc1d235ce6463d5cc.jpg)
+
+ Peset won the coin toss and had Spectral Procession on turn three - lucky to have drawn three plains or is he really playing mono-white? Meanwhile Levy had Silkbind Faerie and followed it up with Steel of the Godhead. Peset had yet another Plains and Thistledown Duo for turn four and Scuttlemutt on turn five, when his fifth Plains revealed that, yes, he was very likely playing mono-colored.
 
 Levy had a fifth Land (a Forest) of his own, attacked with the steeled Faerie and laid yet another Silkbind Faerie. Offense as well as defense looked good for the Hall-of-Famer, as Peset had to pass the turn right back to Levy (who tapped Scuttlemutt with his Fae) without any attack, play, or - seemingly - hope...
 
@@ -349,7 +359,9 @@ Raphael Levy 0 - 1 Alexandre Peset
 
 **Game 2** 
 
-![](https://i.ormos.uk/1d/96/1d96e42a443ab1c9744959316c9c3aa41426bb55d5f0ea2f0ef12149d4e586d0.jpg)Levy started quick with a turn-one Seedcradle Witch, followed by Devoted Druid on turn two, and Scuttlemutt on the next. Peset only had lands for his first two turns and a Medicine Runner on turn three was not exactly going to stop the beatdown.
+![](https://i.ormos.uk/1d/96/1d96e42a443ab1c9744959316c9c3aa41426bb55d5f0ea2f0ef12149d4e586d0.jpg)
+
+Levy started quick with a turn-one Seedcradle Witch, followed by Devoted Druid on turn two, and Scuttlemutt on the next. Peset only had lands for his first two turns and a Medicine Runner on turn three was not exactly going to stop the beatdown.
 
 Rather than attacking, Levy used his mana-producing creatures to power out Crabapple Cohort, while Peset could only install Blight Sickle on the Medicine Runner, who in turn got tapped by Levy's Somnomancer. The attack brought Peset down to twelve, but only because Levy opted to use his Scuttlemutt to pay for Silkbind Faerie instead of attacking. Last Breath from Peset took care of the Faerie, but his Medicine Runner was still outnumbered one to five creatures. And when Levy finally drew the lands to comfortably use Seedcracle Witch's ability the game ended rather abruptly.
 
@@ -461,7 +473,9 @@ Among the five Frenchmen in this top 8, Alexandre Peset from the city of Lille f
 
 Kamiel won the die-roll and kept his initial hand, Alexandre on the other side opted for the trip to Paris.
 
- ![](https://i.ormos.uk/e4/a4/e4a4d7e9e3c82524f4d4736fdb347afa3fd95bb009ec49bb8017f41bf35b404c.jpg)The Dutch rode his mana curve nicely by consecutively playing Inkfathom Witch, Cinderbones and Sootwalkers. His opponent went along with Safehold Sentry, Ballynock Cohort and Watchwing Scarecrow. A Loch Korrigan on Kamiel's fifth turn was followed by Alexandre's Kithkin Shielddare and when Loch Korrigan attacked with six mana available to Kamiel, Alexandre took a long time on figuring out how to block. He decided it was best to put Watchwing Scarecrow, Safehold Sentry and Kithkin Shielddare in front of the lone attacker. After Kamiel had assigned combat damage, an Inquisitor's Snare turned out to be a one-sided fog, so Loch Korrigan went down without any further casualties on Alexandre's side.
+ ![](https://i.ormos.uk/e4/a4/e4a4d7e9e3c82524f4d4736fdb347afa3fd95bb009ec49bb8017f41bf35b404c.jpg)
+
+ The Dutch rode his mana curve nicely by consecutively playing Inkfathom Witch, Cinderbones and Sootwalkers. His opponent went along with Safehold Sentry, Ballynock Cohort and Watchwing Scarecrow. A Loch Korrigan on Kamiel's fifth turn was followed by Alexandre's Kithkin Shielddare and when Loch Korrigan attacked with six mana available to Kamiel, Alexandre took a long time on figuring out how to block. He decided it was best to put Watchwing Scarecrow, Safehold Sentry and Kithkin Shielddare in front of the lone attacker. After Kamiel had assigned combat damage, an Inquisitor's Snare turned out to be a one-sided fog, so Loch Korrigan went down without any further casualties on Alexandre's side.
 
 Another big one came down on Kamiel's side, when he put Isleback Spawn into play. By activating his Scrapbasket, his opponent pushed through another two damage with his Watchwing Scarecrow, bringing Kamiel down to ten. Not impressed at all, Kamiel cast Scar on Kithkin Shielddare and his Isleback Spawn went in unblocked. At the end of his turn, though, Alexandre had a play: Plumeveil. Half a turn later, he sent the whole team into the red-zone, making Kamiel fall to five and lose his Inkfathom Witch in the process. A Lurebound Scarecrow then joined his team.
 
@@ -469,7 +483,9 @@ He lost most of his pressure, however, when his Watchwing Scarecrow was enchante
 
 When Kamiel's library got to twenty cards, his Isleback Spawn once again entered the red-zone, but was blocked by a persisting Safehold Elite twice. Meanwhile, Alexandre's Last Breath took care of Silkbind Faerie when it was trying to put on a Helm of the Ghastlord. A Cemetery Puca meant more trouble for Alexandre, for even if he were able to destroy Isleback Spawn, he would face another one. Another Loch Korrigan on Kamiel's side made matters even worse. Alexandre could not get out of it - Kamiel Cornelissen took the lead in this hard-fought match.
 
-![](https://i.ormos.uk/ad/4e/ad4eb60cd21a812536f6ccf724ac15cbb46915c882a8abaf12ddeb6acc44a153.jpg)After some sideboarding, Alexandre announced to play first and both players wished each other good luck. Kamiel had some, for he was going to keep his initial seven, while his opponent had to take mulligans twice. While he was resolving his mulligans, both Raphael Levy and Antoine Ruel proceeded to the semifinals.
+![](https://i.ormos.uk/ad/4e/ad4eb60cd21a812536f6ccf724ac15cbb46915c882a8abaf12ddeb6acc44a153.jpg)
+
+After some sideboarding, Alexandre announced to play first and both players wished each other good luck. Kamiel had some, for he was going to keep his initial seven, while his opponent had to take mulligans twice. While he was resolving his mulligans, both Raphael Levy and Antoine Ruel proceeded to the semifinals.
 
 Kamiel's Leech Bonder did not apply any early pressure to benefit from his opponent's draw-go play and his Loch Korrigan met Inquisitor's Snare once again. Lockjaw Snapper and Gravelgill Axeshark were added to the board while Alexandre was playing land after land. By the time he made his first nonland permanent, a Kithkin Shielddare, he had nine lands in play. It never got to wield Steel of the Godhead, for Kamiel had not forgotten his Leech Bonder. A French-only top 4 was not to be.
 
@@ -485,7 +501,9 @@ The French Hall-of-Famer Raphael Levy doesn’t get much of an introduction beca
 
 **Game 1** 
 
- ![](https://i.ormos.uk/ba/d0/bad0eda0ce45af970110a76622f20e83a2a23d73edf8943077c5bfceb69d1bae.jpg)Levy won the die-roll, but had to mulligan twice, before starting with turn-three Ballnock Cohort, turn-four Somnomancer, while Lange had Watchwing Scarecrow as his first play. Levy added Barrenton Cragtreads to his team, mirrored by Lange’s Raven’s Run Dragoon.
+ ![](https://i.ormos.uk/ba/d0/bad0eda0ce45af970110a76622f20e83a2a23d73edf8943077c5bfceb69d1bae.jpg)
+
+ Levy won the die-roll, but had to mulligan twice, before starting with turn-three Ballnock Cohort, turn-four Somnomancer, while Lange had Watchwing Scarecrow as his first play. Levy added Barrenton Cragtreads to his team, mirrored by Lange’s Raven’s Run Dragoon.
 
 Both of Levy’s 3/3 dared to enter the red-zone, but not without the safety line, that is Inquisitor’s Snare. That got rid of Lange’s Dragoon, leaving Levy’s own Cragtreads unharmed. Temporarily, the game entered a calm period and Lange tried to capitalize on that by casting and subsequently using Illuminated Folio on every turn from now on.
 
@@ -509,7 +527,9 @@ Raphael Levy 1 – 1 Holger Lange
 
 **Game 3** 
 
-![](https://i.ormos.uk/b1/1e/b11e680396f096b2832276bebfb41d4db8703586df223262aee69a9eb4128939.jpg)Lange opened yet again with Seedcradle Witch, but had no play for the all-important turn two. On the other side of the board Levy had Briarberry Cohort on his second turn and Mistmeadow Witch on his third. Next up on the German side of the table was Safehold Duo, but by then Levy had already cast Glen Elendra Liege and was now attacking with a 3/3 Briarberry Cohort.
+![](https://i.ormos.uk/b1/1e/b11e680396f096b2832276bebfb41d4db8703586df223262aee69a9eb4128939.jpg)
+
+Lange opened yet again with Seedcradle Witch, but had no play for the all-important turn two. On the other side of the board Levy had Briarberry Cohort on his second turn and Mistmeadow Witch on his third. Next up on the German side of the table was Safehold Duo, but by then Levy had already cast Glen Elendra Liege and was now attacking with a 3/3 Briarberry Cohort.
 
 Lange tried to race, although his Safehold Duo and Seedcradle Witch didn’t look to impressive and came in for some equally unimpressive three points of damage. His Wicker Warcrawler, though, seemed rather good indeed, until Spectral Procession gave Levy a number of possible chumpblockers for the ever-shrinking artifact monster, while Glen Elendra Lige and Briarberry Cohort went about their dirty business, getting in for five and leaving Lange at ten.
 
@@ -539,7 +559,9 @@ After about 15 hours of Swiss rounds, it was time for single elimination mode in
 
 **Game 1** 
 
- ![](https://i.ormos.uk/ca/b7/cab7b171757da874680c54915a3a4bb2af1881ca6c7d907c349bf6191e716abd.jpg)Gabriel Nassif won the die-roll and Farhaven Elf was the first creature to come into play, accelerating Nassif's mana. Gaetan played Leech Bonder and Nassif had Rosheen Meanderer after attacking with the 1/1 elf. Rosheen Meanderer got into the red-zone, dealing four damage in a single attack.
+ ![](https://i.ormos.uk/ca/b7/cab7b171757da874680c54915a3a4bb2af1881ca6c7d907c349bf6191e716abd.jpg)
+
+ Gabriel Nassif won the die-roll and Farhaven Elf was the first creature to come into play, accelerating Nassif's mana. Gaetan played Leech Bonder and Nassif had Rosheen Meanderer after attacking with the 1/1 elf. Rosheen Meanderer got into the red-zone, dealing four damage in a single attack.
 
 Farhaven Elf got killed on the next turn by Murderous Redcap. Nassif played Kulrath Knight, which made Leech Bonder useless while it was in play. Nassif attacked with both creatures, but Consign to Dream slowed his offense for two turns. Now that Kulrath Knight was not nullifying Leech Bonder, it was the time for Gaetan to attack and transform his opponent's 4/4 into a 3/3 - this way it was not a good attacker anymore, as a double block from Gaetan would just trade one for one. 
 
@@ -551,7 +573,9 @@ To finish the turn he played Watchwing Scarecrow. Nassif replayed Kulrath Knight
 
 Once again, Nassif chose to start the game, but the first creature to come into play was on the other side of the table: Gaetan put Manaforge Cinder into play. Nassif played Boggart Ram-Gang and it was sent into the Red Zone right away. Haste can do such things. Gaetan played Faerie Macabre and attacked with both the Faerie Rogue and the Manaforge Cinder, which got an Aphotic Wisps.
 
-![](https://i.ormos.uk/78/1c/781cf660f99e491b964dbb2439929a55783d145c465a5b5fa284b24d378c74b9.jpg)In an attempt to not miss a land drop, Gaetan drew two cards off of a Scarscale Ritual, which killed his Manaforge Cinder, but there were no lands to be found. Nassif kept attacking and played Kulrath Knight. A Puncture Bolt on Gaetan's Watchwing Scarecrow one turn later was enough to make him concede.
+![](https://i.ormos.uk/78/1c/781cf660f99e491b964dbb2439929a55783d145c465a5b5fa284b24d378c74b9.jpg)
+
+In an attempt to not miss a land drop, Gaetan drew two cards off of a Scarscale Ritual, which killed his Manaforge Cinder, but there were no lands to be found. Nassif kept attacking and played Kulrath Knight. A Puncture Bolt on Gaetan's Watchwing Scarecrow one turn later was enough to make him concede.
 
 **Gabriel Nassif 1 Gaetan Lefebvre 1** 
 
@@ -569,7 +593,9 @@ Nassif didn't like his first seven cards and got to mulligan, but the next six c
 
 It’s seven p.m. local time and while most players still in the building compete in an eight-round Legacy side event, four pros are left in the main event. Apparently, three of them are French.
 
- ![](https://i.ormos.uk/37/4a/374ad97cf3e875ac31cd065bec2e79d861318e28159b8735d2353ef8c796e793.jpg)Gabriel had drafted a straight green-red deck featuring two Kulrath Knight, while Antoine’s deck is a blue-red build with two (!) splashed Incremental Growth. Fixing is plenty: Two Elsewhere Flask, two Manamorphose and a Morselhoarder can easily provide enough black mana for the gamebreaking sorcery. 
+ ![](https://i.ormos.uk/37/4a/374ad97cf3e875ac31cd065bec2e79d861318e28159b8735d2353ef8c796e793.jpg)
+
+ Gabriel had drafted a straight green-red deck featuring two Kulrath Knight, while Antoine’s deck is a blue-red build with two (!) splashed Incremental Growth. Fixing is plenty: Two Elsewhere Flask, two Manamorphose and a Morselhoarder can easily provide enough black mana for the gamebreaking sorcery. 
 
 After some smalltalk, Antoine won the die-roll and decided to play first.
 
@@ -585,7 +611,9 @@ Both players kept their opening seven for the second game. Gabriel went first, b
 
 However, this time Gabriel had found lands and two Farhaven Elfs got him even more. Quite surprisingly, he couldn’t play any creature the following turn, despite his seven lands. Apparently, he’s flooded this time. 
 
-![](https://i.ormos.uk/44/c3/44c368e92633d78693c0f86b4a0a46ce556cd9f6544e27be28e1bc3888ee6ba2.jpg)Antoine took to the air with two Briarberry Cohorts, that the Elfs couldn’t block. They brought Nassif down to 16, then 12. Firespout cleared the board and Nassif’s Mudbrawler Raiders entered play and – subsequently – the red-zone. Those kept on ripping lifepoints out of Antoine until he, at nine life, found Burn Trail (that attempt at the Raiders’ life was thwarted by Barkshell Blessing) and Morselhoarder. 
+![](https://i.ormos.uk/44/c3/44c368e92633d78693c0f86b4a0a46ce556cd9f6544e27be28e1bc3888ee6ba2.jpg)
+
+Antoine took to the air with two Briarberry Cohorts, that the Elfs couldn’t block. They brought Nassif down to 16, then 12. Firespout cleared the board and Nassif’s Mudbrawler Raiders entered play and – subsequently – the red-zone. Those kept on ripping lifepoints out of Antoine until he, at nine life, found Burn Trail (that attempt at the Raiders’ life was thwarted by Barkshell Blessing) and Morselhoarder. 
 
 Gabriel played Kulrath Knight. Now it was time for Incremental Blight and Cultbrand Cinder to take care of the two victims on Gabriel’s side of the table. But this was not the end: With the help of Illuminated Folio, Nassif could draw enough cards to keep himself alive at one life. Antoine was even forced to trade his Morselhoarder against Foxfire Oak and eventually, Gnarled Effigy took down the last blockers to turn this exciting game to Gabriel’s favor.
 
@@ -605,7 +633,9 @@ Antoine Ruel 1 – 2 Gabriel Nassif
 
 There are some Grand Prix top 8s where the combined profiles of all the players are less impressive than Kamiel Cornelissen or Raphael Levy profile alone. Luckily we got those two **Magic** super stars to compete against each other for the chance to play for the title in the final.
 
- ![](https://i.ormos.uk/c7/cf/c7cfd9c21cd9e733534e08e7569e927a9b20f8851a6138cfcdf746ced1fdede7.jpg)They wished good luck to each other, Raphael Levy won the die-roll and, as usually, showed a very aggressive approach to the game, playing Zealous Guardian at the end of his opponent’s first turn and Somnomancer on his own second. Kamiel Cornelissen played Silkbind Faerie. Raphael Levy attacked with both creatures and, as Kamiel chose to not block any of them, he played Raven’s Run Dragoon. 
+ ![](https://i.ormos.uk/c7/cf/c7cfd9c21cd9e733534e08e7569e927a9b20f8851a6138cfcdf746ced1fdede7.jpg)
+
+ They wished good luck to each other, Raphael Levy won the die-roll and, as usually, showed a very aggressive approach to the game, playing Zealous Guardian at the end of his opponent’s first turn and Somnomancer on his own second. Kamiel Cornelissen played Silkbind Faerie. Raphael Levy attacked with both creatures and, as Kamiel chose to not block any of them, he played Raven’s Run Dragoon. 
 
 Kamiel played Sootwalkers and Levy played Steel of the Godhead on Somnomancer, attacking with it and the 3/3 creature. At this point, things seemed quite good for the French pro, but Kamiel retaliated with Torture on Raven’s Run Dragoon and after a few attack steps where Levy tried to trade some resources on the table for damage, things didn’t look that good for the French anymore, as Kamiel was now in control.
 
@@ -613,7 +643,9 @@ Some turns later the Dutch pro played Isleback Spawn and Gravelgill Axeshark. Af
 
 **Kamiel Cornelissen 1 Raphael Levy 0** 
 
-![](https://i.ormos.uk/3f/b9/3fb93e59b5c16d1794004ff04aa7f72052746ab1e6cd663cc090a904bee51452.jpg)Levy chose to start, but it was Kamiel to play the first creature on his second turn. Raphael Levy, knowing his opponent’s deck, realized: “Your *one* 2 drop... nice." 
+![](https://i.ormos.uk/3f/b9/3fb93e59b5c16d1794004ff04aa7f72052746ab1e6cd663cc090a904bee51452.jpg)
+
+Levy chose to start, but it was Kamiel to play the first creature on his second turn. Raphael Levy, knowing his opponent’s deck, realized: “Your *one* 2 drop... nice." 
 
 Raphael played Ballynock Cohort and Spectral Procession over his first turns, allowing him to have a fast clock with his army of weenies. Kamiel played Cemetery Puca and Levy played his second Ballynock Cohort. 
 
@@ -639,7 +671,9 @@ Mostly we've seen aggressive decks throughout the whole weekend, especially toda
 
 But first things first: Nassif had won the die-roll and - more importantly - had taken two mulligans. 
 
- ![](https://i.ormos.uk/29/e6/29e62bbae049bff9975d87d5b3119c8b185a020c536e7bf7835f979d6ffcc66a.jpg)On turn five his only nonland permanent was Illuminated Folio, while Cornelissen had Lockjaw Snapper and just now a freshly cast Ghastlord of Fugue. Mercy Killing got rid of that, but not without leaving four tokens in its wake.
+ ![](https://i.ormos.uk/29/e6/29e62bbae049bff9975d87d5b3119c8b185a020c536e7bf7835f979d6ffcc66a.jpg)
+
+ On turn five his only nonland permanent was Illuminated Folio, while Cornelissen had Lockjaw Snapper and just now a freshly cast Ghastlord of Fugue. Mercy Killing got rid of that, but not without leaving four tokens in its wake.
 
 However, these and the Snapper were removed by Gabriel's Firespout, who had all the while drawn two cards per turn with the help of the Illuminated Folio. It seemed that Nassif took control of the game. He deployed Kulrath Knight and saved it in a fight with Kamiel's Gravelgill Axeshark via Barkshell Blessing. 
 
@@ -647,7 +681,9 @@ Kamiel recovered with Sootwalkers, Silkbind Faerie, and Scuttlemutt, when Gab st
 
 Well ... if it weren't for Kamiel's topdecked Isleback Spawn!
 
-![](https://i.ormos.uk/ac/cc/accc2dd828e40955d80752db95b33f38cc1a357de068f89d0da114b970d5aa3d.jpg)Kamiel was feeling safe with the monstrous (and shrouded) blocker, but when he attacked with all of his other creatures, had to learn that, in fact, Nassif had only been waiting for such an opening. Boggart Ram-Gang came down and yet another Barkshell Blessing forced the last two points of damage.
+![](https://i.ormos.uk/ac/cc/accc2dd828e40955d80752db95b33f38cc1a357de068f89d0da114b970d5aa3d.jpg)
+
+Kamiel was feeling safe with the monstrous (and shrouded) blocker, but when he attacked with all of his other creatures, had to learn that, in fact, Nassif had only been waiting for such an opening. Boggart Ram-Gang came down and yet another Barkshell Blessing forced the last two points of damage.
 
 Gabriel Nassif 1 - 0 Kamiel Cornelissen
 

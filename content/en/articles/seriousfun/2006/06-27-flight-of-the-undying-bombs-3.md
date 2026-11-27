@@ -139,7 +139,9 @@ I would encourage players to be more creative than that. If the Muse and Valkyri
 
 ### Random Idea #4: Give her rocket fuel for her wings.
 
-![](https://i.ormos.uk/a5/d5/a5d5500305ca9dd3c1547258a423db71bae36170ac313b781ee867c04c8a75d9.jpg)During Akroma week, I talked about how haste is an underrated ability in multiplayer. It throws off opponents' math. What I didn't mention that week (since that angel has no abilities that require tapping) is that giving your creatures haste endows some fantastic multiplayer creatures with even more power.
+![](https://i.ormos.uk/a5/d5/a5d5500305ca9dd3c1547258a423db71bae36170ac313b781ee867c04c8a75d9.jpg)
+
+During Akroma week, I talked about how haste is an underrated ability in multiplayer. It throws off opponents' math. What I didn't mention that week (since that angel has no abilities that require tapping) is that giving your creatures haste endows some fantastic multiplayer creatures with even more power.
 
 Think of it this way. How many times have you played a decent creature with a tap ability – anything from Minister of Impediments to Avatar of Woe – only to see it get flamed out before you get to your next turn? Well, the Valkyrie is the same way. If you play her, you can expect your opponents to either (a) kill her quickly or (b) if she's too tough, kill another creature of yours before the Valkyrie can save it.
 

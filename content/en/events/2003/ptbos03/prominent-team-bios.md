@@ -75,7 +75,9 @@ Ah, potential. It's a word that's supposed to be a compliment, but it's of littl
 
 **Anam Go is Best Player (Itaru Ishida, Tsuyoshi Fujita, Masahiko Morita)** 
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a986.jpg)PS2 gave Japan its first Masters Championship back at Venice, but for this event the squad won't be around. Katsuhiro Mori and Masashiro Kuroda recently retired from competitive Magic, leaving Morita as the lone Master remaining. Luckily, he's picked up two of Japan's best in Itaru Ishida and Tsuyoshi Fujita. Last year's season was a huge breakthrough for Japanese Magic, and this team may very well make a statement just as this season starts up. 
+![](http://www.wizards.com/sideboard/images/ptbos03/a986.jpg)
+
+PS2 gave Japan its first Masters Championship back at Venice, but for this event the squad won't be around. Katsuhiro Mori and Masashiro Kuroda recently retired from competitive Magic, leaving Morita as the lone Master remaining. Luckily, he's picked up two of Japan's best in Itaru Ishida and Tsuyoshi Fujita. Last year's season was a huge breakthrough for Japanese Magic, and this team may very well make a statement just as this season starts up. 
 
 **vGG (Tommi Hovi, Nicolai Herzog, Mattias Jorstedt)** 
 

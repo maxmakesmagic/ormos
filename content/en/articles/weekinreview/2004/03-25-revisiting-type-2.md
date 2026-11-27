@@ -1189,7 +1189,9 @@ New question:
 
 *Courtesy of Mark Reiid:*
 
-![](https://i.ormos.uk/7c/7c/7c7c118eb63b218c4bbec586799a49151d1502ce8e33c25f9dcbfaaf5775125b.jpg)“This is an old one from way back at JSS '00. My match ends quickly and I head over to the sidelines to watch Anthony Vennucci as he starts game 3. Anthony led on the play with Ritual-Negator against his opponent's accelerated U/W control deck. His opponent played a land and passed it back. Anthony swung for 5 and played a Flesh Reaver. His opponent played a Grim Monolith. Anthony played a Twisted Experiment on his Reaver and attacked for 12. His opponent untapped and cast Treachery on the Negator. 
+![](https://i.ormos.uk/7c/7c/7c7c118eb63b218c4bbec586799a49151d1502ce8e33c25f9dcbfaaf5775125b.jpg)
+
+“This is an old one from way back at JSS '00. My match ends quickly and I head over to the sidelines to watch Anthony Vennucci as he starts game 3. Anthony led on the play with Ritual-Negator against his opponent's accelerated U/W control deck. His opponent played a land and passed it back. Anthony swung for 5 and played a Flesh Reaver. His opponent played a Grim Monolith. Anthony played a Twisted Experiment on his Reaver and attacked for 12. His opponent untapped and cast Treachery on the Negator. 
 
 It looked like Anthony had it in the bag. His opponent had the choice of either dying, or blocking the Reaver and saccing his board. Anthony attacked and his opponent blocked, impatiently asking if the 7 damage to the Negator was on the stack. Anthony confirmed, and his opponent Disenchanted the Treachery, pushing the Negator to the other side of the table. Anthony thought for a long while, took 7, scooped up his permanents, and went home shortly after.”
 

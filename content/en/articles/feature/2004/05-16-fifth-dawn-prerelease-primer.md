@@ -85,7 +85,9 @@ archive_source:
   sha256: a059495724a40274a247255d9b97477d707a6a9b773a4823ef6361cfa651d41f
 render_recovery: []
 ---
-![](https://i.ormos.uk/d5/59/d55994f057299a3b99bb7528d3d58104abcbc47bca61f74d2b710efee74d3acc.jpg)Fifth Dawn is rising this weekend but only for a select group of players at [special events being held all around the world](https://web.archive.org/web/20040516000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/prereleases). Don't worry. There is plenty of room to accommodate everyone and I am here to give you all the details you need to count yourself among those players.
+![](https://i.ormos.uk/d5/59/d55994f057299a3b99bb7528d3d58104abcbc47bca61f74d2b710efee74d3acc.jpg)
+
+Fifth Dawn is rising this weekend but only for a select group of players at [special events being held all around the world](https://web.archive.org/web/20040516000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/prereleases). Don't worry. There is plenty of room to accommodate everyone and I am here to give you all the details you need to count yourself among those players.
 
 Judging by much of the chatter in the forums there is a great deal of excitement regarding the release of Fifth Dawn with its powerful new cards and mechanics. *Before* the cards actually go on sale in stores there will be Sealed Deck tournaments held that include Fifth Dawn all over the world. They are known as Prerelease tournaments and they are going to be held this weekend. Prerelease tournaments are the absolute first chance you have to get your hands on the new set before it goes on sale in stores.
 

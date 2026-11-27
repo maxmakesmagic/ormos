@@ -301,7 +301,9 @@ render_recovery:
 
 1 パック目。真木は初手に《骨断ちの矛槍/Bonesplitter》 2 手目がなぜか流れてきた《血清の水槽/Serum Tank》と好調だったのだが、初手からアーティファクトを連続して取っていたために色シグナルが薄くなってしまい、下の永山と被ってしまう羽目になり若干苦しいドラフトとなった。
 
-![](https://i.ormos.uk/fb/ee/fbee58128f09ddc778b8d57e0b3685d113e5647aaba1745be261a0d79b3b727c.jpg)永山が《ロクソドンの戦槌/Loxodon Warhammer》、森勝が《強奪する悪魔/Reiver Demon》、岩瀬が《腐食ナメクジ/Molder Slug》、池田が《白金の天使/Platinum Angel》とゴッドカードを手に入れる中で淡々とマナコストを軽く、そしてクリーチャーの強化に努める真木の姿は一貫しており貫禄すら漂っている。
+![](https://i.ormos.uk/fb/ee/fbee58128f09ddc778b8d57e0b3685d113e5647aaba1745be261a0d79b3b727c.jpg)
+
+永山が《ロクソドンの戦槌/Loxodon Warhammer》、森勝が《強奪する悪魔/Reiver Demon》、岩瀬が《腐食ナメクジ/Molder Slug》、池田が《白金の天使/Platinum Angel》とゴッドカードを手に入れる中で淡々とマナコストを軽く、そしてクリーチャーの強化に努める真木の姿は一貫しており貫禄すら漂っている。
 
 パックも真木のデッキに答えるように 2 枚目の《骨断ちの矛槍/Bonesplitter》が入っており、《レオニンの居衛/Leonin Den-Guard》や《空狩人の若人/Skyhunter Cub》も集まりまとまった赤白ビートダウンが出来上がった。
 

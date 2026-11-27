@@ -88,7 +88,9 @@ render_recovery:
 ---
 Having recently played **Magic** in public, beyond the bounds of our modest play group, for the first time in several months, I noticed something I hadn't noticed before. You may have seen it already, or you may be on the lookout for it the next time you're at a Qualifier or Prerelease.
 
-![Ideas_Unbound](https://i.ormos.uk/84/cf/84cf6f1ea3a6f3dbca387920e7080a4e5bc6695b14b443daf4e8d09e7726a808.jpg)A lot of **Magic** players are "Big Idea people".
+![Ideas_Unbound](https://i.ormos.uk/84/cf/84cf6f1ea3a6f3dbca387920e7080a4e5bc6695b14b443daf4e8d09e7726a808.jpg)
+
+A lot of **Magic** players are "Big Idea people".
 
 Now, don't get me wrong. I'm not saying we're smart. But we get some pretty Big Ideas, I tell you. Big Ideas happen with creative types, and they happen with analytic types, and once you count those two groups of people, you've pretty much counted most **Magic** players at least once.
 

@@ -392,7 +392,9 @@ That fellow was a little too good at his job, and he eventually became a 1/2 and
 
 **Centaur Safeguard**. This guy was mono-green in the beginning. Luckily, green and white share the life-gain thing, and 3/1 for three isn't out of bounds for either color. The art on this card was originally meant for Watchwolf and vice versa. The creative team felt the Centaur art was a little goofy for a tier-one card and swapped them.
 
-![](https://i.ormos.uk/a1/53/a153f57398587649f572c33346369a689854bb8cd131c7f59e021fd731fe1cd8.jpg)**The Guildmages**. Now these guys are powerful. Originally they all cost two different colors of mana, meaning the Golgari Guildmage cost ![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif).
+![](https://i.ormos.uk/a1/53/a153f57398587649f572c33346369a689854bb8cd131c7f59e021fd731fe1cd8.jpg)
+
+**The Guildmages**. Now these guys are powerful. Originally they all cost two different colors of mana, meaning the Golgari Guildmage cost ![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Green Mana](https://i.ormos.uk/d9/d5/d9d556256faf839099c06019302393fab57e6e9a77769d6f6813a7c961c4cb59.gif).
 
 When designing hybrid initially, one of Rosewater's discoveries was that interesting hybrid cards could be made that had different levels of functionality based on what deck you put them in. Normally this would be accomplished by having multiple activated abilities, just like the guildmages. That meant that the cycle of guildmages were perfect candidates.
 

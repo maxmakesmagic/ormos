@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Yaro Starak* 
 
-![](https://i.ormos.uk/d3/27/d327bfdf4ae5da80cc78a569640adf7a879ad8b331da087e188f5b8021dd37bd.jpg)In the last of the Swiss rounds of Grand Prix-Sydney, Satoshi Nakamura and Michael Doecke faced off for a place in the top 8. The hat man from Japan was playing the amazing Turboland deck, utilizing the synergy between such cards as Horn of Greed, Exploration, Gush and Time Warp. Doecke, a former Australian National champion was playing Trix. 
+![](https://i.ormos.uk/d3/27/d327bfdf4ae5da80cc78a569640adf7a879ad8b331da087e188f5b8021dd37bd.jpg)
+
+In the last of the Swiss rounds of Grand Prix-Sydney, Satoshi Nakamura and Michael Doecke faced off for a place in the top 8. The hat man from Japan was playing the amazing Turboland deck, utilizing the synergy between such cards as Horn of Greed, Exploration, Gush and Time Warp. Doecke, a former Australian National champion was playing Trix. 
 
 **Game 1** 
 
@@ -58,7 +60,9 @@ The next turn for Nakamura saw a Horn of Greed followed by a Gush (returning 2 l
 
 Nakamura's next turn featured an interesting sequence of play. Nakamura attempted to play the Time Warp, but Doecke responded with Misdirection to have it target him instead. An Impulse is the best response Nakamura came up with, which resulted in no countermagic, so the Time Warp successfully targeted Doecke. 
 
-![](https://i.ormos.uk/43/e9/43e9ceca8cb5288afff59ad22edb00bd89028747804940ed0be83e8a2605a783.jpg)Doecke used his next turn to play an Illusions of Grandeur. Then on his Time Warp turn he cast Donate, giving the Illusions to Nakamura. Nakamura had plenty of land in play so easily paid the 4 mana upkeep on the Illusions. In the same turn he cast a Horn of Greed and used it with 2 land to draw 2 cards. 
+![](https://i.ormos.uk/43/e9/43e9ceca8cb5288afff59ad22edb00bd89028747804940ed0be83e8a2605a783.jpg)
+
+Doecke used his next turn to play an Illusions of Grandeur. Then on his Time Warp turn he cast Donate, giving the Illusions to Nakamura. Nakamura had plenty of land in play so easily paid the 4 mana upkeep on the Illusions. In the same turn he cast a Horn of Greed and used it with 2 land to draw 2 cards. 
 
 Nakamura still had an amazing amount of land on the table and once again paid the upkeep cost on the Illusions. He then started a huge amount of land-dropping and card-drawing which also included the casting of a Scroll Rack. With only 5 cards left in his library, and Nakamura having drawn plenty of cards and land Doecke decided it's time to go to game two and scoops. 
 

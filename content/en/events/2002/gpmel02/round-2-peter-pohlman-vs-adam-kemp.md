@@ -53,7 +53,9 @@ archive_source:
   sha256: 5f93c2198fbb2cc79f04efb8280363f7e062ad274ac628d6624b08b86afc3d76
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpmel02/a954.jpg)Winning a flight as a lucky door prize enabled Peter to make the trip to Melbourne, and after a win in round one he then faced Adam Kemp who now began his Grand Prix campaign after a round #1 bye. Peter won the coin flip and decided to draw.
+![](http://www.wizards.com/sideboard/images/gpmel02/a954.jpg)
+
+Winning a flight as a lucky door prize enabled Peter to make the trip to Melbourne, and after a win in round one he then faced Adam Kemp who now began his Grand Prix campaign after a round #1 bye. Peter won the coin flip and decided to draw.
 
 ### Game 1
 
@@ -72,7 +74,9 @@ Kemp – No Changes
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a953.jpg)Pohlman again decided to draw and was forced to mulligan to a sub-optimal draw (hey, that's why you draw...), with Adam following making a his 6-card opening hand that much tougher with a second turn Wirewood Elf and a 3rd turn lay waste. Adam took out Peter's Island, which proved to be the wrong decision as Peter was holding 2 more in his hand. He played a third turn Lavamancer's Skill on his second turn Information Dealer, picking off Adam's Elf in short time. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a953.jpg)
+
+Pohlman again decided to draw and was forced to mulligan to a sub-optimal draw (hey, that's why you draw...), with Adam following making a his 6-card opening hand that much tougher with a second turn Wirewood Elf and a 3rd turn lay waste. Adam took out Peter's Island, which proved to be the wrong decision as Peter was holding 2 more in his hand. He played a third turn Lavamancer's Skill on his second turn Information Dealer, picking off Adam's Elf in short time. 
 
 Adam returned the favour, Smothering the wizard. The board position would again be fought for fiercely, with Adams Leery Fogbeast holding off Peter's morphed creature. Adam took the first damage of the game in the 6th turn from a Thoughtbound Primarch, although his Morphed creature was destroyed with a Shock. Things looked bad for Peter as, with a spare mana open he was able to cast Centaur Glade. 
 

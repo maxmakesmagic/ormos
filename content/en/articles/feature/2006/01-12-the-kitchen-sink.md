@@ -74,7 +74,9 @@ I know many of you clicked here hoping that maybe, just maybe, we might finally 
 
 *The man in black fled across the desert and the gunslinger followed.*
 
-![](https://i.ormos.uk/3c/25/3c25d7bf657f2f03540ef307be3ca7f7fa8bfffac0af5a5764d8d44dd5c27403.jpg)Stephen King kicked off one of my favorite book series with those words in 1965. I first read *The Dark Tower: The Gunslinger* in 1982 and was immediately hooked. The combination of spaghetti Western, fantasy, and horror was a heady brew from which I drank deeply and thirsted for more. I had to wait over 20 years for him to complete the saga, and thoroughly enjoyed devouring each book, though turning that very last page of Roland's epic quest was bittersweet indeed.
+![](https://i.ormos.uk/3c/25/3c25d7bf657f2f03540ef307be3ca7f7fa8bfffac0af5a5764d8d44dd5c27403.jpg)
+
+Stephen King kicked off one of my favorite book series with those words in 1965. I first read *The Dark Tower: The Gunslinger* in 1982 and was immediately hooked. The combination of spaghetti Western, fantasy, and horror was a heady brew from which I drank deeply and thirsted for more. I had to wait over 20 years for him to complete the saga, and thoroughly enjoyed devouring each book, though turning that very last page of Roland's epic quest was bittersweet indeed.
 
 Whenever I hear the word “gunslinger” now, I always think back to Roland, King's Cowboy as Knight Errant; King Arthur meets Clint Eastwood. So when Star City's Pete Hoefling pulled me aside at a local PTQ and asked me whether I was interested in gunslinging at [Grand Prix Richmond](https://web.archive.org/web/20060112000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=grandprix/richmond06/facts), I instantly heard that whistling cowboy theme music. You know the piece I'm talking about.
 
@@ -220,7 +222,9 @@ On Tuesday, January 3rd thirty-four players gathered for the 2x *Ravnica* Block 
  8th Place: Sheitan, Green/White/Red/Black Goodstuff  
  8th Place: C Allen, Black/Blue Dimir Glimpse
 
-![](https://i.ormos.uk/c6/15/c61565be6ef434ac6c853c39eaecb58553eafcf5af0de63afaa9a12338a7ebb6.jpg)Holy shades of *Invasion*, Batman! Give a block plenty of good dual lands and mana fixers and you get three- and four-color decks coming out the woodwork. People obviously couldn't get enough of [Sakura Tribe-Elder](https://web.archive.org/web/20060112000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sakura+Tribe-Elder) and [Kodama's Reach](https://web.archive.org/web/20060112000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kodama%27s+Reach), so many of these decklists begin with 4x [Farseek](https://web.archive.org/web/20060112000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Farseek) and 4x [Civic Wayfinder](https://web.archive.org/web/20060112000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Civic+Wayfinder). Much like *Invasion* Block Constructed, many top decks are born from splicing together the strongest cards across three or four colors. I have to say I'm a tiny bit sad not to see any Dredge strategies in place at the top tables.
+![](https://i.ormos.uk/c6/15/c61565be6ef434ac6c853c39eaecb58553eafcf5af0de63afaa9a12338a7ebb6.jpg)
+
+Holy shades of *Invasion*, Batman! Give a block plenty of good dual lands and mana fixers and you get three- and four-color decks coming out the woodwork. People obviously couldn't get enough of [Sakura Tribe-Elder](https://web.archive.org/web/20060112000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sakura+Tribe-Elder) and [Kodama's Reach](https://web.archive.org/web/20060112000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kodama%27s+Reach), so many of these decklists begin with 4x [Farseek](https://web.archive.org/web/20060112000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Farseek) and 4x [Civic Wayfinder](https://web.archive.org/web/20060112000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Civic+Wayfinder). Much like *Invasion* Block Constructed, many top decks are born from splicing together the strongest cards across three or four colors. I have to say I'm a tiny bit sad not to see any Dredge strategies in place at the top tables.
 
 Will *Guildpact* and *Dissension* budge people from their base green mana fixers? It's going to be an interesting ride, that's for sure!
 
@@ -694,7 +698,9 @@ And now, ladies and gentleman, our content manager, Scott Johns.
 
 ### Let's Get This Party Started
 
-![](https://i.ormos.uk/c8/aa/c8aa601cf6e56dc3a376f15112cfe945445409a6f87e264de0f1dc8381ed162f.jpg)So, as some may have heard (one or two of you), we're getting pretty close to 3.0, the next version of ***Magic** Online*. We're ready to start letting some teases out on the new game, but one of the problems we've been running into is the difficulty in scheduling something like this around the demands of a weekly column. The MTGO team is, obviously, very busy right now, which makes something like repeating previews on the web tricky for them to deal with. 
+![](https://i.ormos.uk/c8/aa/c8aa601cf6e56dc3a376f15112cfe945445409a6f87e264de0f1dc8381ed162f.jpg)
+
+So, as some may have heard (one or two of you), we're getting pretty close to 3.0, the next version of ***Magic** Online*. We're ready to start letting some teases out on the new game, but one of the problems we've been running into is the difficulty in scheduling something like this around the demands of a weekly column. The MTGO team is, obviously, very busy right now, which makes something like repeating previews on the web tricky for them to deal with. 
 
 With that in mind, I'm going to try something new. Rather than have Justin Ziran or Scott Larabee write these, I'm going to try doing most of it for them (at least for now). With Ted Knutson joining the team next week I've got more time for special projects like this, which means we can devote more time to things like previewing 3.0, rather than trying to find time for Justin or Scott to add the work on top of everything else they're already busy with. Since I'm the one getting the info up on the web anyway, this saves at least a step or two in the process, and the easier that process is, the more we should be able to get to you. As the readers, what I'm sure you'll get out of this is more previews, earlier. Let me know what you think in the forums (if only the ***Magic** Online* audience were willing to use the forums more!) and we'll see how it goes. Ready?
 
@@ -721,7 +727,9 @@ Now, the way tiebreaker points add up over the course of a league is a whole oth
 
 ### Magic Clan Summit
 
-![](https://i.ormos.uk/ba/fa/bafa66d48e620c375b82d6c461a210618283d4626e08bb18843261dcf805e3c1.jpg)As a public service announcement, I wanted to point out that a **Magic** Clan Summit for Clan leaders is going to be held Wednesday, Feb 1st at 1:30 PST. Hosts of the Summit are CK (a growing multi-chapter clan dedicated to unity throughout the clan community, captained by meuslix), OnlyHellWillFillYourVoid (captained by NeoNetGen), and FFA Non Quitters (captained by SirAvatar). It will be held in /join clan summit and the teamspeak server will be posted there for anyone that wishes to use it.
+![](https://i.ormos.uk/ba/fa/bafa66d48e620c375b82d6c461a210618283d4626e08bb18843261dcf805e3c1.jpg)
+
+As a public service announcement, I wanted to point out that a **Magic** Clan Summit for Clan leaders is going to be held Wednesday, Feb 1st at 1:30 PST. Hosts of the Summit are CK (a growing multi-chapter clan dedicated to unity throughout the clan community, captained by meuslix), OnlyHellWillFillYourVoid (captained by NeoNetGen), and FFA Non Quitters (captained by SirAvatar). It will be held in /join clan summit and the teamspeak server will be posted there for anyone that wishes to use it.
 
 *Goals and Topics of the summit are as follows:*
 

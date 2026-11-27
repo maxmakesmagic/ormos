@@ -181,7 +181,9 @@ render_recovery:
   - Dirge of Dread
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a763.jpg)Raffaele Lo Moro はこの会場で行われた1999年度世界選手権でベスト8に入っている。一方の Victor van den Broek は SideBoard やBrainBurst で記事を書いていたりもする有名なオランダのプレイヤーである。2人とも現在28点なので勝ってもオポネントマッチパーセンテージしだいという微妙なラインではあるがこの1戦で賞金やプロポイントが大きく変わってくるため是非とも勝ちたいマッチである。
+![](http://www.wizards.com/sideboard/images/ptyok03/a763.jpg)
+
+Raffaele Lo Moro はこの会場で行われた1999年度世界選手権でベスト8に入っている。一方の Victor van den Broek は SideBoard やBrainBurst で記事を書いていたりもする有名なオランダのプレイヤーである。2人とも現在28点なので勝ってもオポネントマッチパーセンテージしだいという微妙なラインではあるがこの1戦で賞金やプロポイントが大きく変わってくるため是非とも勝ちたいマッチである。
 
 **Game 1**
 
@@ -195,7 +197,9 @@ render_recovery:
 
 **Game 2**
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a764.jpg)　後手だが Moro は《ただれたゴブリン/Festering Goblin》《ゴブリンの裏切り者/GoblinTurncoat》《針刺の殴り獣/Spined Basher》と素早いスタート。 一方の Victor は《慧眼のエイヴン》までクリーチャーが出せない。
+![](http://www.wizards.com/sideboard/images/ptyok03/a764.jpg)
+
+　後手だが Moro は《ただれたゴブリン/Festering Goblin》《ゴブリンの裏切り者/GoblinTurncoat》《針刺の殴り獣/Spined Basher》と素早いスタート。 一方の Victor は《慧眼のエイヴン》までクリーチャーが出せない。
 
 Moro の《針刺の殴り獣》は《慧眼のエイヴン》と相打ちに取られるが引いてきた《腐れざる喧嘩屋》を増幅2で展開。ビクターも《石弾投擲兵/Gravel Slinger》《急襲する鉤爪兵/Swooping Talon》となんとか防衛線を張ろうとするが頼みの《急襲する鉤爪兵》は《虫つぶし》されてしまう。《急降下爆撃兵/Dive Bomber》《運命の標を示す者/Beacon of Destiny》《希望の壁/Wall of Hope》と展開して耐えようとする Victor ではあったが Moro の《戦慄の葬送歌/Dirge of Dread》でゲームセット。　　
 

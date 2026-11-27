@@ -85,7 +85,9 @@ render_recovery:
   - Rorix Bladewing
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a985.jpg)Kicking off the early-morning action today is a contest of opposites. Germany's Mark Ziegner, worldy, quietly confident sat opposite the skittish Doctor Mike "MikeyP" Pustilnik. Don't let his schoolboyish personality fool you, Pustilnik's resume is gangbusters. He easily stands toe-to-toe with Ziegner, who capped his season with a Worlds Finals appearance after winning the team portion with the German National team. 
+![](http://www.wizards.com/sideboard/images/ptven03/a985.jpg)
+
+Kicking off the early-morning action today is a contest of opposites. Germany's Mark Ziegner, worldy, quietly confident sat opposite the skittish Doctor Mike "MikeyP" Pustilnik. Don't let his schoolboyish personality fool you, Pustilnik's resume is gangbusters. He easily stands toe-to-toe with Ziegner, who capped his season with a Worlds Finals appearance after winning the team portion with the German National team. 
 
 ### Game 1
 
@@ -107,7 +109,9 @@ Ziegner 1 – Pustilnik 0
 
 Ziegner's mulligan went a long way to helping Pustilnik's cause for Game 2. Wall of Mulch showed up on turn two, giving him defense against whatever beats Ziegner could muster. Ziegner's Sledder found no teammates until a Clickslither on turn four. Pustilnik had ample time to stock up on winning cards.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a984.jpg)Ziegner had his sights trained on the long game. Avarax hit the ground running and dug out a friend. Pustilnik's wall blocked, and when the Sledder tried to batter it down he showed Cruel Revival. Ziegner just shrugged. Pustilnik upped the ante with Visara, the Dreadful. Ziegner was ready. He smiled as he showed the Threaten in his hand. Skirk Drill Sergeant added to his crew. Pustilnik had another Queen of Spades in his hand. It was clear from Ziegner's reaction that he didn't have an answer. Pustilnik survived to the next attack, and then cast Silvos. He was immediately overcome by a case of the giggles. Ziegner saw no cause to continue the game.
+![](http://www.wizards.com/sideboard/images/ptven03/a984.jpg)
+
+Ziegner had his sights trained on the long game. Avarax hit the ground running and dug out a friend. Pustilnik's wall blocked, and when the Sledder tried to batter it down he showed Cruel Revival. Ziegner just shrugged. Pustilnik upped the ante with Visara, the Dreadful. Ziegner was ready. He smiled as he showed the Threaten in his hand. Skirk Drill Sergeant added to his crew. Pustilnik had another Queen of Spades in his hand. It was clear from Ziegner's reaction that he didn't have an answer. Pustilnik survived to the next attack, and then cast Silvos. He was immediately overcome by a case of the giggles. Ziegner saw no cause to continue the game.
 
 "Great format. You're playing Rorix, I have Visara and Silvos." – Mike Pustilnik  
  "Well, that's the format." – Mark Ziegner  
@@ -117,7 +121,9 @@ Ziegner 1 – Pustilnik 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptven03/a986.jpg)Ziegner was thrilled to be playing first for the deciding game. He curved out with Goblin Grappler and Skirk Drill Sergeant, then Goblin Burrows to push through four damage on turn three. Pustilnik had to cycle Undead Gladiator on his third turn, dropping to eleven thanks to Ziegner's board. Festering Goblin came to the good doctor's rescue.
+![](http://www.wizards.com/sideboard/images/ptven03/a986.jpg)
+
+Ziegner was thrilled to be playing first for the deciding game. He curved out with Goblin Grappler and Skirk Drill Sergeant, then Goblin Burrows to push through four damage on turn three. Pustilnik had to cycle Undead Gladiator on his third turn, dropping to eleven thanks to Ziegner's board. Festering Goblin came to the good doctor's rescue.
 
 Two Burrows on Ziegner's side made every Goblin a threat. Pustilnik traded his Wall and Fester for both of Ziegner's men. Ziegner came right back with Skirk Drill Sergeant. Pustilnik sat on his mana. The goblin swung in, and Pustilnik saw fit to shut it down with Cruel Revival, serving up Fester for an encore. That decision came back hard when Ziegner's next play was Rorix Bladewing. Ravenous Baloth bought time, but that was all.
 

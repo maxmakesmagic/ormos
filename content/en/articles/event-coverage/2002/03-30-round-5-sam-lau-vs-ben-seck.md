@@ -44,7 +44,9 @@ archive_source:
   sha256: f8401c699b806b6cfac68413b63d4653b6dac492cc8e9d8e28045712fd453bf2
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a982.jpg)Sam Lau has a national championships, a GP and two Top 8 APAC finishes to his name. TBS needs no introduction. For those confused, he is the Grand Prix - Capetown Champion, and a Pro Tour regular. His friendly nature has earned him a fan following in the thousands. He is also a friend to children and adults alike.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a982.jpg)
+
+Sam Lau has a national championships, a GP and two Top 8 APAC finishes to his name. TBS needs no introduction. For those confused, he is the Grand Prix - Capetown Champion, and a Pro Tour regular. His friendly nature has earned him a fan following in the thousands. He is also a friend to children and adults alike.
 
 Apparently both have been spending their bye time practicing against each other. What has typically happened in the practice games is that Ben's Strengths of Lunacy and discard effects end up wrecking Sam as he has very little creature removal. Seck also has this red creature called Kamahl that I hear is quite good. As you may have already gathered from the other Sideboard article, Sam's deck is less than stellar. 
 
@@ -62,7 +64,9 @@ Lau 1 Seck 0
  Seck: +1 [Forest](https://web.archive.org/web/20020330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) +1 [Possessed Centaur](https://web.archive.org/web/20020330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Possessed+Centaur) +1 [Rancid Earth](https://web.archive.org/web/20020330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rancid+Earth) +1 [Earth Rift](https://web.archive.org/web/20020330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earth+Rift) -1 [Swamp](https://web.archive.org/web/20020330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) -1 [Sonic Seizure](https://web.archive.org/web/20020330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sonic+Seizure), -1 [Strength of Lunacy](https://web.archive.org/web/20020330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Strength+of+Lunacy) -1 [Diabolic Tutor](https://web.archive.org/web/20020330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diabolic+Tutor)  
  Lau: No changes
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a983.jpg)It was at this point the question of whether not to ID was raised. Ben didn't feel very lucky, having bad feature match luck and just having lost the first game. Sam knew that he needs an above average hand to have a chance of beating Seck, and if both get similar hands Ben's cards quality will overpower him. Both were at 4-0, so if they ID'd then they each would need to win just one of two more matches to safely make it to Day Two.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a983.jpg)
+
+It was at this point the question of whether not to ID was raised. Ben didn't feel very lucky, having bad feature match luck and just having lost the first game. Sam knew that he needs an above average hand to have a chance of beating Seck, and if both get similar hands Ben's cards quality will overpower him. Both were at 4-0, so if they ID'd then they each would need to win just one of two more matches to safely make it to Day Two.
 
 Ben said he would look at his opening hand first. It was a one land hand, and he was going first. He offered the draw. Sam accepted, revealing his own one-land hand!
 

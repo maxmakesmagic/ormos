@@ -108,7 +108,9 @@ render_recovery:
   - Stupefying Touch
   occurrences: 50
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a964.jpg)This year's European Championship seemed to be a fashion show as many of the player expressed their creativity with their hairstyles. Frederico for example had his hair dyed red.
+![](http://www.wizards.com/sideboard/images/euro02/a964.jpg)
+
+This year's European Championship seemed to be a fashion show as many of the player expressed their creativity with their hairstyles. Frederico for example had his hair dyed red.
 
 Frederico has been on two Pro Tour top 8 and has had a fair amount of success at it.  
  Joost on the other hand is known for his 6-0 record in Standard 5-0-1 record in extended followed by 0-6 in the Limited portion having finished 33rd. He also has three Grand Prix top 8's.
@@ -139,7 +141,9 @@ Vollebregt 1 – 0 Bastos
 
 Frederico was a little bit upset for hawing drawn all but one of his lands but continued with his well known sympathy towards his opponents.
 
-![](http://www.wizards.com/sideboard/images/euro02/a966.jpg)Joost played a Hydromorph Guardian on his third turn, which was met by a Halberdier. A Phantom Nomad with Cagemail teamed up with the Guardian. Then a Battlewise Aven entered play to start the hostilities as the Portuguese remained only with a Halberdier on his side. The Dutchmen was far ahead in terms of card advantage and went even more with Deep Analysis. Frederico found Arcane Teachings and cast it on his Barbarian. Joost had found a Churning Eddy to completely wreck all defences Bastos had created. The Portuguese found his Shower this time, and wiped the table clean. 
+![](http://www.wizards.com/sideboard/images/euro02/a966.jpg)
+
+Joost played a Hydromorph Guardian on his third turn, which was met by a Halberdier. A Phantom Nomad with Cagemail teamed up with the Guardian. Then a Battlewise Aven entered play to start the hostilities as the Portuguese remained only with a Halberdier on his side. The Dutchmen was far ahead in terms of card advantage and went even more with Deep Analysis. Frederico found Arcane Teachings and cast it on his Barbarian. Joost had found a Churning Eddy to completely wreck all defences Bastos had created. The Portuguese found his Shower this time, and wiped the table clean. 
 
 With seven minutes on the clock Frederico started to rush. He played a Sonic Seizure on the freshly cast Aven Flock and cast his Halberdier. On his next turn he got a 6/6 Ivy Elemental into play but Joost wasn't very worried about that for he could always bounce it back with Repel or take control of it with his Chamber of Manipulation.  
  The game went back and forth with Joost taking control of the Ivy Elemental and Frederico´s creatures at bay.

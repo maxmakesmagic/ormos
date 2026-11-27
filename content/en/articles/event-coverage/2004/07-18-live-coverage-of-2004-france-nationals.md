@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/frnat04/fm11_1.jpg)Leading the field at 9-1 after defeating Alexandre Peset last round, Damien needs only a draw to make sure of top eight. Steven was two points back at 8-1-1, needing a win in either of his last two rounds. Damien is playing Big Red, and Steven is playing Affinity
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/frnat04/fm11_1.jpg)
+
+Leading the field at 9-1 after defeating Alexandre Peset last round, Damien needs only a draw to make sure of top eight. Steven was two points back at 8-1-1, needing a win in either of his last two rounds. Damien is playing Big Red, and Steven is playing Affinity
 
 ### Game 1
 

@@ -128,7 +128,9 @@ render_recovery:
 ---
 * * *
 
-[![Lorwyn release events are this weekend at a store near you.](https://i.ormos.uk/28/9d/289d3e594c1bd9ff63c1f3357d1f17eb4578745efc398e8492e26e9ccca7177c.jpg "Lorwyn release events are this weekend at a store near you.")](/en/articles/event-coverage/undated/magic-the-gathering-launch-parties-4)Here's the final batch of quick TV spots leading up to the [*Lorwyn* release events](/en/articles/event-coverage/undated/magic-the-gathering-launch-parties-4) this weekend. Watching them is not your final assignment—your final assignment is, of course, to have fun cracking packs and building decks at your favorite local store. The buzz is clear: the fun level of *Lorwyn* is surprisingly high, and the atmosphere will be casual. Planeswalkers, clash, champion, changelings, and an all-new take on tribal synergies. What could be better?
+[![Lorwyn release events are this weekend at a store near you.](https://i.ormos.uk/28/9d/289d3e594c1bd9ff63c1f3357d1f17eb4578745efc398e8492e26e9ccca7177c.jpg "Lorwyn release events are this weekend at a store near you.")](/en/articles/event-coverage/undated/magic-the-gathering-launch-parties-4)
+
+Here's the final batch of quick TV spots leading up to the [*Lorwyn* release events](/en/articles/event-coverage/undated/magic-the-gathering-launch-parties-4) this weekend. Watching them is not your final assignment—your final assignment is, of course, to have fun cracking packs and building decks at your favorite local store. The buzz is clear: the fun level of *Lorwyn* is surprisingly high, and the atmosphere will be casual. Planeswalkers, clash, champion, changelings, and an all-new take on tribal synergies. What could be better?
 
   
 *Deathrender*

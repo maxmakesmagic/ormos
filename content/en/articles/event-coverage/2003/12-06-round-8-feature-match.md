@@ -44,7 +44,9 @@ archive_source:
   sha256: 90c5b4083d0299f4e2d3da0069a0706b78c8371f2b678f2f23cabd5356b2dbea
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm8_1.jpg)I'm not sure I would like to be in Pierre's shoes right now. Sure, being a win and a draw away from day two of the largest European Grand Prix ever must be nice. But he can't be happy about his match. Playing against the World Champion, in his own backyard. With the crowd behind the young German. Still, you don't get to 6-1 without a decent deck and some skills, especially if you don't have three byes.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm8_1.jpg)
+
+I'm not sure I would like to be in Pierre's shoes right now. Sure, being a win and a draw away from day two of the largest European Grand Prix ever must be nice. But he can't be happy about his match. Playing against the World Champion, in his own backyard. With the crowd behind the young German. Still, you don't get to 6-1 without a decent deck and some skills, especially if you don't have three byes.
 
 ### Game 1
 

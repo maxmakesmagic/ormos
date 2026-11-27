@@ -73,7 +73,9 @@ render_recovery:
   - Visara
   occurrences: 39
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a744.jpg)This is it. One of these two players has a shot at the Top 8 after this round, the other one will not be playing tomorrow. Russell we met earlier in the day. He's here from Colorado and is playing the Zombies deck that many of the Colorado players used in the big event next door, US Nationals. Thomas flew down here with his dad for this event. He started playing about six years ago, more then a third of his life. 
+![](http://www.wizards.com/sideboard/images/natus03/a744.jpg)
+
+This is it. One of these two players has a shot at the Top 8 after this round, the other one will not be playing tomorrow. Russell we met earlier in the day. He's here from Colorado and is playing the Zombies deck that many of the Colorado players used in the big event next door, US Nationals. Thomas flew down here with his dad for this event. He started playing about six years ago, more then a third of his life. 
 
 Thomas and Russell both are interested in starting this round by looking at the standings. Sitting in ninth and tenth place the two players need to play this round for either one of them to have a shot at the Top 8.
 
@@ -83,7 +85,9 @@ Thomas and Russell both are interested in starting this round by looking at the 
 
 The two players spent some more time talking about tiebreakers. Thomas remarked that he can't possibly concede, even though depending on the results in table six he can't make Top 8. A turn one Duress from Thomas ripped Smother out of Russell's hand. It also revealed Nantuko Shade, Mutilate, Chainer's Edict and some land. When Russell dropped the Shade a turn later it met its death, at the hands of Chainer's Edict. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a745.jpg)In the meantime Russell used a Cabal Therapy to rip Graveborn Muse from Thomas' hand. Thomas just used his Unholy Grotto to put it back on top of his library and then played it. The Muse is now working with the Unholy Grotto to give him Zombies to play. Rotlung Reanimator moved from his graveyard onto the top of his library. Russell found some answers finally. He played a Graveborn Muse of his own, and added a Withered Wretch to the table. The Wretch jumped in front of the Rotlung when it swung again, and the trade didn't look good for Russell. The Wretch and the Rotlung both went into the yard, leaving two Zombies on the table with the Graveborn Muse for Thomas.
+![](http://www.wizards.com/sideboard/images/natus03/a745.jpg)
+
+In the meantime Russell used a Cabal Therapy to rip Graveborn Muse from Thomas' hand. Thomas just used his Unholy Grotto to put it back on top of his library and then played it. The Muse is now working with the Unholy Grotto to give him Zombies to play. Rotlung Reanimator moved from his graveyard onto the top of his library. Russell found some answers finally. He played a Graveborn Muse of his own, and added a Withered Wretch to the table. The Wretch jumped in front of the Rotlung when it swung again, and the trade didn't look good for Russell. The Wretch and the Rotlung both went into the yard, leaving two Zombies on the table with the Graveborn Muse for Thomas.
 
 A Mutilate from Russell removed all the creatures from the table, but to little avail. Thomas cast two Rotlung Reanimators on his turn, and with only one card in hand Russell scooped.
 
@@ -91,7 +95,9 @@ A Mutilate from Russell removed all the creatures from the table, but to little 
 
 Russell had his sideboarding done first, the Colorado contingent had tested the mirror quite a bit. He brought into his deck three copies of Shambling Swarm and two copies of Visara the Dreadful. Three Duress and two Chainer's Edict were removed to make room for them.
 
-![](http://www.wizards.com/sideboard/images/natus03/a746.jpg)Thomas removed two copies of Duress and a single Corrupt to bring in two copies of Shambling Swarm and one copy of Visara. It appeared after the sideboarding that Russell was better prepared for the mirror match. A Cabal Therapy on turn one from Thomas missed, but it revealed a handful of goodness that Russell had to open the game. The two players stared at the table for a few turns before Thomas added a Rotlung Reanimator and a Graveborn Muse to it. Russell responded with a Graveborn Muse of his own, then a second one.
+![](http://www.wizards.com/sideboard/images/natus03/a746.jpg)
+
+Thomas removed two copies of Duress and a single Corrupt to bring in two copies of Shambling Swarm and one copy of Visara. It appeared after the sideboarding that Russell was better prepared for the mirror match. A Cabal Therapy on turn one from Thomas missed, but it revealed a handful of goodness that Russell had to open the game. The two players stared at the table for a few turns before Thomas added a Rotlung Reanimator and a Graveborn Muse to it. Russell responded with a Graveborn Muse of his own, then a second one.
 
 "Chainer's Edict," Thomas remarked as he placed the card on the table. Russell moved a Graveborn Muse into his yard. "Chainer's Edict," Thomas said a second time. Russell moved his second Muse into the graveyard.
 

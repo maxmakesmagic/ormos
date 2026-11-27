@@ -55,7 +55,9 @@ render_recovery:
 
 ### • The Fires of Youth
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/a953.jpg)All of 16 years old, Nao Atsuta is still a high school student. He started playing Magic during *Mercadian Masques*, when he was still in junior school. A rising star from the newer generation of players, Atsuta usually plays near his home in Hachiouji with Akira Asahara and Kazuhiko Arahori, or in Ikebukuro with Akihiro Takakuwa. Practicing with these established Japanese players appears to have paid off for the young Atsuta, as he played in both last year's Nationals and the Finals, and qualified for this year's Nationals by taking 3rd place at the Kantou Nationals, out of a field of 700 players.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/a953.jpg)
+
+All of 16 years old, Nao Atsuta is still a high school student. He started playing Magic during *Mercadian Masques*, when he was still in junior school. A rising star from the newer generation of players, Atsuta usually plays near his home in Hachiouji with Akira Asahara and Kazuhiko Arahori, or in Ikebukuro with Akihiro Takakuwa. Practicing with these established Japanese players appears to have paid off for the young Atsuta, as he played in both last year's Nationals and the Finals, and qualified for this year's Nationals by taking 3rd place at the Kantou Nationals, out of a field of 700 players.
 
 ### • Preparing for Nationals (Rochester)
 

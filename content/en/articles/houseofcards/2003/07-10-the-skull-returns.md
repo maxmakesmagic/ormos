@@ -552,7 +552,9 @@ render_recovery:
 ---
 ### No, not that one, the other one
 
-![](https://i.ormos.uk/fc/4d/fc4d6df5b9f98456f644bc997025320cba8306a33894d230512b39c6e8320ba7.jpg)No one expected this. No one. ![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif), printed ages ago, powerful enough to have been restricted in Type 1, and it's back. Against all odds, the *Skull* is being reprinted in *Eighth Edition*!
+![](https://i.ormos.uk/fc/4d/fc4d6df5b9f98456f644bc997025320cba8306a33894d230512b39c6e8320ba7.jpg)
+
+No one expected this. No one. ![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif), printed ages ago, powerful enough to have been restricted in Type 1, and it's back. Against all odds, the *Skull* is being reprinted in *Eighth Edition*!
 
 I'm referring, of course, to the completely separate cards of Underworld Dreams and Skull of Orm. Did you think I meant something else?
 
@@ -560,7 +562,9 @@ Skull of Orm is the "old favorite" I picked to write about this week. That descr
 
 ### Vapor Ops
 
-![](https://i.ormos.uk/b1/0f/b10f59dda5e78cd35d60b3ec470de271c683ecb8980fff80940b30f485e1d443.jpg)Nah, none of that's true. (I specify this because I've received some scary email recently. Some people foolishly have their sarcasm detectors set to "low" when reading this column.) I wanted to write about Skull of Orm for two reasons: 1) Some people are decrying it as the worst card in *Eighth Edition*, and 2) It makes a pretty cool combo with Lethal Vapors.
+![](https://i.ormos.uk/b1/0f/b10f59dda5e78cd35d60b3ec470de271c683ecb8980fff80940b30f485e1d443.jpg)
+
+Nah, none of that's true. (I specify this because I've received some scary email recently. Some people foolishly have their sarcasm detectors set to "low" when reading this column.) I wanted to write about Skull of Orm for two reasons: 1) Some people are decrying it as the worst card in *Eighth Edition*, and 2) It makes a pretty cool combo with Lethal Vapors.
 
 That combo's not foolproof, of course. At some point, if your opponent ever wants to play creatures, he or she will give up a future turn to drop as many creatures onto the table at once as is possible. Then you have two turns to deal with them. If they're small, Ormable enchantments like Crown of Suspicion and Infectious Rage can sweep them away. If they're a little bigger, enchantments such as Patriarch's Desire and Clutch of Undeath do the trick. And perhaps my favorite bit of recursion is to bring back Lingering Death over and over. I know what you're thinking. The two-card combo of Skull of Orm plus Lingering Death does in two turns what the single card Predator, Flagship does in one. That's true. But Predator doesn't have cool mini-tusk things, now does it?
 
@@ -580,7 +584,9 @@ The optimal strategy you want to use when playing this next deck (or whatever be
 
 ### Permanent Permission
 
-![](https://i.ormos.uk/3a/f8/3af8f0717a31acfc560903a673a59727c252793ce2f9e8bed5a0036002de1144.jpg)Y'know, maybe I dismissed the Skull of Orm-Decree of Silence combo too quickly. Using the Decree's cycling ability, the combo gets you a cantrip counterspell every single turn for the low, low price of only ![9 Mana](http://www.wizards.com/images/Symbols/Symbol_9_mana.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)! Forbid's buyback cost was to discard two cards. Convert that into an equivalent cost in mana, add it to Forbid's ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif) cost, and tack on whatever you'd have to pay for cantrippiness, and you're probably pretty close to eleven mana. Finally, a situation where Skull of Orm's activation cost is reasonably costed! And you thought permission decks were dead in Standard because Counterspell is gone. Hah!
+![](https://i.ormos.uk/3a/f8/3af8f0717a31acfc560903a673a59727c252793ce2f9e8bed5a0036002de1144.jpg)
+
+Y'know, maybe I dismissed the Skull of Orm-Decree of Silence combo too quickly. Using the Decree's cycling ability, the combo gets you a cantrip counterspell every single turn for the low, low price of only ![9 Mana](http://www.wizards.com/images/Symbols/Symbol_9_mana.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)! Forbid's buyback cost was to discard two cards. Convert that into an equivalent cost in mana, add it to Forbid's ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif) cost, and tack on whatever you'd have to pay for cantrippiness, and you're probably pretty close to eleven mana. Finally, a situation where Skull of Orm's activation cost is reasonably costed! And you thought permission decks were dead in Standard because Counterspell is gone. Hah!
 
 Until next week, have fun with Skull of Orm.
 

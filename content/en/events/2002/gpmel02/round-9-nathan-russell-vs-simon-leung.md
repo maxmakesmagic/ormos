@@ -83,7 +83,9 @@ After losing their first match of the pod the two players were fighting to see w
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a914.jpg)Leung decided to let Russell play first in Game 1, and he began by cycling a Barren Moor on turn 1. From there he continued his cruve with a turn 2 Shepherd of Rot and a turn 3 morph creature. Leung had nothing to play till turn 3 when he elected to play a Words of War. Russell kept the explosive start coming on turn 4 with another morph creature and a Festering Goblin. Leung chose to shoot down one of the creatures, hitting a Treespring Lorian and played a Catapult Squad. Russell just kept dropping more creatures tho playing a BarkHide Mauler, and once again Leung elected to skip his draw phase and shock the morph creature. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a914.jpg)
+
+Leung decided to let Russell play first in Game 1, and he began by cycling a Barren Moor on turn 1. From there he continued his cruve with a turn 2 Shepherd of Rot and a turn 3 morph creature. Leung had nothing to play till turn 3 when he elected to play a Words of War. Russell kept the explosive start coming on turn 4 with another morph creature and a Festering Goblin. Leung chose to shoot down one of the creatures, hitting a Treespring Lorian and played a Catapult Squad. Russell just kept dropping more creatures tho playing a BarkHide Mauler, and once again Leung elected to skip his draw phase and shock the morph creature. 
 
 Leung was falling behind fast, with a hand full of lands and a couple of skipped drawphases he was too far behind to come back and he was forced to chump off the Catapult to the Mauler before dying a turn later.
 
@@ -105,7 +107,9 @@ Tied 1-1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a912.jpg)Playing first in the deciding game Russell got off to a terrible start, mulliganing down to 6 cards but still had a turn 2 play of Disciple of Malice and a turn 3 play of Shepherd of Rot. Leung played a morph and then played out a Wirewood Savage. Russell slammed down a Crown of Vigor on his little cleric and sent it back into the red zone. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a912.jpg)
+
+Playing first in the deciding game Russell got off to a terrible start, mulliganing down to 6 cards but still had a turn 2 play of Disciple of Malice and a turn 3 play of Shepherd of Rot. Leung played a morph and then played out a Wirewood Savage. Russell slammed down a Crown of Vigor on his little cleric and sent it back into the red zone. 
 
 Russell got burned on his fourth turn when he tapped out to play an Undorak and it was hit by a Chain of Plasma. The two traded blows back and forth with Russell playing out a Screeching Buzzard that was controlling the air and Leung playing out fat ground monsters like Grassland Crusader to keep the ground tied down. The Shepherd of Rot kept pinging away at both life totals taking them to dangerously low levels.
 

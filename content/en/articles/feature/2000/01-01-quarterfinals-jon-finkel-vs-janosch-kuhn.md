@@ -66,7 +66,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/436.jpg)Before the match, Janosch reckoned he had a 30% chance of beating the world's best player in the quarters, but knew that the match up was not a favourable one. Jon thought the overall score would be 3-1 - he was right. Game 1 is definitely in the blue deck's favour, but Kuhn has 3 monkeys, 2 Rack and Ruin and 1 Splinter in his sideboard whereas Jon only really had Miscalculates, which he told me earlier he was not going to side in.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/436.jpg)
+
+Before the match, Janosch reckoned he had a 30% chance of beating the world's best player in the quarters, but knew that the match up was not a favourable one. Jon thought the overall score would be 3-1 - he was right. Game 1 is definitely in the blue deck's favour, but Kuhn has 3 monkeys, 2 Rack and Ruin and 1 Splinter in his sideboard whereas Jon only really had Miscalculates, which he told me earlier he was not going to side in.
 
 Steve O'Mahoney-Schwartz did the most work on the tinker deck that the Antarctica Team played, and it seems that Bob Maher Jr. managed to slip into the test group too with a decklist only different by 4 cards (instead of 4 Brainstorms he has 3 Strokes and 1 Island). Bob went 4-2 in the swiss, loosing to Accelerator Blue and Replenish, whereas Finkel managed 5-1, again loosing to Replenish. He reckons that the Tinker deck beats Replenish after sideboarding and he might well be right - the match he lost, he had forgotten to de-sideboard, so he was already 0-1 in games when they began. Interestingly though, if Bob and Jon meet in the Finals, the Strokes of Genius might make a deciding difference.
 
@@ -74,7 +76,9 @@ Janosh played a green/red land destruction deck that was pioneered by the Europe
 
 Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/435.jpg)There is no time limit for the final rounds of the Worlds.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/435.jpg)
+
+There is no time limit for the final rounds of the Worlds.
 
 Finkel wins the die-roll and decides to play. After a mild Port, war by Jon's fourth turn he has two Keys facing a Bird and an Elf, both players on 3 land. He makes a Tangle Wire which stalls the game for another turn each with only and extra Bird hitting the table, then on his sixth turn he makes a Dynamo, Tangle Wire no.2 and a Masticore. Totally locked now, the German does nothing and can only watch as his opponent attacks with the Masticore (blocked by a Bird), kills all his creatures, then Tinkers for a Processor with 4 mana left untapped (losing 7 life). Still locked by the Tangle Wires he now faces a first then a second 7/7 big guy and concedes.
 
@@ -96,7 +100,9 @@ Finkel 2 Janosch 1
 
 Game 4
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/432.jpg)Jon's hand was awesome: Tinker, Skerry, Port, Brainstorm, Masticore, Metalworker, Island.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/432.jpg)
+
+Jon's hand was awesome: Tinker, Skerry, Port, Brainstorm, Masticore, Metalworker, Island.
 
 Janosch had no such luck and Mulligans. His second hand is not that great either, so there is a long pause as he deliberates over the double mulligan : 2 Arc Lightnings, Stone Rain, Avalanche Riders, Forest, Mountain. He mulligans.
 

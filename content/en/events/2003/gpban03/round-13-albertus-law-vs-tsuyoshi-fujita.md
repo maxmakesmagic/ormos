@@ -99,7 +99,9 @@ Albertus – 1 Tsuyoshi – 1
 
 ### Game 3
 
-![](https://i.ormos.uk/88/7d/887df96b74316cd53b99f664d6f7f9af29559409c633b9e8bbe223df4b4be8e1.jpg)Tsuyoshi played a turn two Stabilizer and Albertus cycled in response. He played a Lighting Rift and passed the turn back to the Japanese player who attacked on turn three with a freshly baked Warchief. 
+![](https://i.ormos.uk/88/7d/887df96b74316cd53b99f664d6f7f9af29559409c633b9e8bbe223df4b4be8e1.jpg)
+
+Tsuyoshi played a turn two Stabilizer and Albertus cycled in response. He played a Lighting Rift and passed the turn back to the Japanese player who attacked on turn three with a freshly baked Warchief. 
 
 Albertus played an Astral Slide and passed the turn. Tsuyoshi attacked for two more and made a Sulfuric Vortex that threatened to suck Albertus down if he did not find some Disenchants soon. 
 

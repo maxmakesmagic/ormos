@@ -54,7 +54,9 @@ render_recovery: []
 ---
 Brian Hacker (USA) vs. Tony Tsai (USA)
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/FriTsai.jpg)The two Americans met in the second match of the second draft. Hacker had drafted an extremely strong black and green deck, including two Pestilences, a Dark Hatchling, a Diabolic Servitude and a Corrupt, while Tsai played a three-coloured deck.
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/FriTsai.jpg)
+
+The two Americans met in the second match of the second draft. Hacker had drafted an extremely strong black and green deck, including two Pestilences, a Dark Hatchling, a Diabolic Servitude and a Corrupt, while Tsai played a three-coloured deck.
 
 Tsai went first, but didn't get to play a creature before turn four. Hacker went out strong, he played a turn two Flesh Reaver, a turn three Wall of Junk and a turn four Pestilence. Tsai's Monk Realist took care of that Pestilence, but it didn't help much as Hacker played another one the following turn.
 

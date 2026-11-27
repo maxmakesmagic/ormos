@@ -93,7 +93,9 @@ Perhaps things would have turned out differently had I not been watching. Perhap
 
 What does a Top 8-quality card pool look like? I am glad you asked, since I just happen to have access to just that information. During Constructed PTQ seasons we attempt to bring you as many Top 8 decklists as possible so you can be properly armed for battle in the following weeks. During past Limited seasons we have presented the Top 8 draft decks, but that does virtually nothing to prepare you for Swiss combat. 
 
-[![](https://i.ormos.uk/d0/b4/d0b452f4e6558bc98698840b5f08bf0a7f9ed9f04d330d3e60784da31ab73731.jpg)](https://web.archive.org/web/20060113000000/https://magic.wizards.com/en/events/coverage/pro-tour%E2%80%93prague-qualifying-season-sealed-deck-top-8-decklists)We're trying something different this time around and presenting the Sealed Deck card pools and decklists that the players used to [*reach* the Top 8](https://web.archive.org/web/20060113000000/https://magic.wizards.com/en/events/coverage/pro-tour%E2%80%93prague-qualifying-season-sealed-deck-top-8-decklists). This week we have five sets of decklists. Only two of the five sets include all of the sideboard cards but we hope that future installments will provide more complete card pools. 
+[![](https://i.ormos.uk/d0/b4/d0b452f4e6558bc98698840b5f08bf0a7f9ed9f04d330d3e60784da31ab73731.jpg)](https://web.archive.org/web/20060113000000/https://magic.wizards.com/en/events/coverage/pro-tour%E2%80%93prague-qualifying-season-sealed-deck-top-8-decklists)
+
+We're trying something different this time around and presenting the Sealed Deck card pools and decklists that the players used to [*reach* the Top 8](https://web.archive.org/web/20060113000000/https://magic.wizards.com/en/events/coverage/pro-tour%E2%80%93prague-qualifying-season-sealed-deck-top-8-decklists). This week we have five sets of decklists. Only two of the five sets include all of the sideboard cards but we hope that future installments will provide more complete card pools. 
 
 A few quick observations looking through the [Los Angeles](/en/articles/event-coverage/2006/01-09-pro-tourprague-qualifying-season-top-8-decklists-3) card pool:
 

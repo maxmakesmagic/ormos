@@ -77,19 +77,25 @@ render_recovery:
   - Barkhide Mauler
   occurrences: 25
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a946.jpg)Gab et Guillaume sont les seuls joueurs sans défaites après les six premières rondes. Gab a drafté un deck bleu blanc avec 3 Dragon Scales, Guillaume a un deck rouge vert avec des grosses bêtes et 3 Goblin Clearcutter. Guillaume admet qu'il connaît mal *Scourge*, et qu'il n'a pas réaliser assez que vite que Decree of Savagery serait bon dans son deck. 
+![](http://www.wizards.com/sideboard/images/natcan03/a946.jpg)
+
+Gab et Guillaume sont les seuls joueurs sans défaites après les six premières rondes. Gab a drafté un deck bleu blanc avec 3 Dragon Scales, Guillaume a un deck rouge vert avec des grosses bêtes et 3 Goblin Clearcutter. Guillaume admet qu'il connaît mal *Scourge*, et qu'il n'a pas réaliser assez que vite que Decree of Savagery serait bon dans son deck. 
 
 ### Première Partie
 
 Gab prend l'avance avec un Pearlspear Courier qui attaque au quatrième tour. Daoust a quatre montagnes et sa première action est un Clearcutter au tour 4. Le Clearcutter et le Courier échangent après qu'un Shock est contrée par Dispersal Shield. Guillaume met sa cinquième montagne et un Ridgetop Raptor. Gab tente un Grassland Crusader qui est incinéré par Torrent of Fire.
 
-![](https://i.ormos.uk/09/ab/09ab6f503c024ae785db8dc21d5a75dab6feba647cc009418700353d09cc1f98.jpg)Le Raptor de Daoust attaquera deux fois, mais un Daru Stinger double amplifié le stoppe à la suite. Tsang améliore sa position défensive avec un second Grassland Crusader et un Noble Templar. Guillaume a trouver sa forêt et ajoute Symbiotic Elf et deux morphes à son armée. Un Keeneye Aven et un Dive Bomber de Gab lui donnent une ouverture aérienne pour attaquer. Guillaume joue un Wirewood Elf et un troisième morph pendant que Gab utilise le Keeneye pour égaliser les points de vie à 12.
+![](https://i.ormos.uk/09/ab/09ab6f503c024ae785db8dc21d5a75dab6feba647cc009418700353d09cc1f98.jpg)
+
+Le Raptor de Daoust attaquera deux fois, mais un Daru Stinger double amplifié le stoppe à la suite. Tsang améliore sa position défensive avec un second Grassland Crusader et un Noble Templar. Guillaume a trouver sa forêt et ajoute Symbiotic Elf et deux morphes à son armée. Un Keeneye Aven et un Dive Bomber de Gab lui donnent une ouverture aérienne pour attaquer. Guillaume joue un Wirewood Elf et un troisième morph pendant que Gab utilise le Keeneye pour égaliser les points de vie à 12.
 
 Un Pinpoint Avalanche élimine Dive Bomber à la fin du tour et Guillaume place toutes ses bêtes dans la zone rouge. Gab déclare ses bloques et active Daru Stinger visant le Ridgetop de Daoust. Ce dernier démorphe Patron of the Wild et gagne la partie.
 
 ### Deuxième Partie
 
-![](https://i.ormos.uk/4b/3a/4b3a8d13af1f7f0cdc1645ab073cb885cdee953cbc2a38e724882487f65035b9.jpg)Guillaume commence en vitesse en jouant un Wirewood Elf qui accélère un Ridgetop Raptor et un Barkhide Mauler. Gab met un morph avec des Dragon Scales mais le Pinpoint Avalanche de Guillaume l'enlève et permet au Raptor de gagner le match.
+![](https://i.ormos.uk/4b/3a/4b3a8d13af1f7f0cdc1645ab073cb885cdee953cbc2a38e724882487f65035b9.jpg)
+
+Guillaume commence en vitesse en jouant un Wirewood Elf qui accélère un Ridgetop Raptor et un Barkhide Mauler. Gab met un morph avec des Dragon Scales mais le Pinpoint Avalanche de Guillaume l'enlève et permet au Raptor de gagner le match.
 
 **Résultat Finale**  
  Guillaume Daoust 2, Gab Tsang 0

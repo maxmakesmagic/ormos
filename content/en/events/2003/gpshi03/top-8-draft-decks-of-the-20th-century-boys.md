@@ -137,7 +137,9 @@ render_recovery:
   - Tanglebloom
   occurrences: 101
 ---
-![](https://www.wizards.com/global/images/sideboard_gpshi03_t8draft_picMain_en.jpg)Osamu Fujita looked on proudly as Ken'ichi Fujita and Kouichirou Maki constructed their Top 8 draft decks. He scooped to each of them in the twelfth and thirteenth rounds to ensure their presence in the finals. He was already qualified for Amsterdam and wanted nothing more than to see two of Japan's first Magic stars shine with him in Amsterdam.
+![](https://www.wizards.com/global/images/sideboard_gpshi03_t8draft_picMain_en.jpg)
+
+Osamu Fujita looked on proudly as Ken'ichi Fujita and Kouichirou Maki constructed their Top 8 draft decks. He scooped to each of them in the twelfth and thirteenth rounds to ensure their presence in the finals. He was already qualified for Amsterdam and wanted nothing more than to see two of Japan's first Magic stars shine with him in Amsterdam.
 
 When asked about his deck, Kouichirou Maki merely frowned. In his first two drafts he had tremendous success as a white drafter but it was not to be. "The player to my right was white." His frown was also because his opponent apparently had the best deck at the table. "My first opponent is also white. He is white-red with some Den-Guards and some good equipment. He has some good men."
 
@@ -145,7 +147,9 @@ Maki wanted to go blue-red early on but, "No Shatters or Detonates were coming t
 
 Despite that and a Culling Scales--an excellant card against a white equipment deck--he was still worried about his match-up. "I will need lots of luck to defeat him." With two Arrests awaiting him in the deck of his QF opponent he considered splashing white for Tempest of Light. In the end he decided he was better off splashing red for Electrostatic Bolt. He briefly considered playing with March of the Machines to foil his adversary's equipment but a quick glance over at his Seats of the Synod put an end to that notion.
 
-![](https://www.wizards.com/global/images/sideboard_gpshi03_t8draft_pic1_en.jpg)He wanted more creatures and considered his two walls--Steel and Psychic Membrane--and also looked at the Wanderguard Sentry but wrinkled his nose at the 3/3. He finally cut the Slith Predator, "This is not so good against white." Finally he played the nose wrinkling Sentry and the Psychic Membrane.
+![](https://www.wizards.com/global/images/sideboard_gpshi03_t8draft_pic1_en.jpg)
+
+He wanted more creatures and considered his two walls--Steel and Psychic Membrane--and also looked at the Wanderguard Sentry but wrinkled his nose at the 3/3. He finally cut the Slith Predator, "This is not so good against white." Finally he played the nose wrinkling Sentry and the Psychic Membrane.
 
 Fujita showed off a blue-red deck with MegAtog. He was running three Viridian Longbows. he explained that he was looking for an answer to his opponents three Neurok Spies and three Somber Hoverguards. If he get past Sasagawa's fast beatdown he had a number of combos to finish off the game. Nuisance Engine promised to combo well with both the MegAtog and his Krark Clan Shaman. He also showed off his pair of Yotian Soldiers and a Vulshok Gauntlets. 
 

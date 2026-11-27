@@ -90,7 +90,9 @@ render_recovery:
   - Teroh's Faithful
   occurrences: 59
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a853.jpg)Nicolai Herzog has quite the resume. The former European Champion and Norwegian Champion also has a Top 8 at Worlds under his belt, two Team Masters appearances, and was a Team Finalist last year at Worlds in Toronto. He is looking to add another Top 8 to his name at the end of today. The first step in that direction was this morning's 9am draft, and he was being fed by the Dutch Wunderkind Kamiel Cornelissen. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a853.jpg)
+
+Nicolai Herzog has quite the resume. The former European Champion and Norwegian Champion also has a Top 8 at Worlds under his belt, two Team Masters appearances, and was a Team Finalist last year at Worlds in Toronto. He is looking to add another Top 8 to his name at the end of today. The first step in that direction was this morning's 9am draft, and he was being fed by the Dutch Wunderkind Kamiel Cornelissen. 
 
 The first pack presented Cursed Monstrosity, Chainflinger, Aven Fisher and Krosan Archer. Herzog took the Chainflinger, and then got a second pick Repel over Barbarian Lunatic, Dusk Imp, and Stone-Tongue Basilisk. This was a bit odd, because players usually try to avoid blue/red. Barbarian Lunatic followed, and Herzog was well on his way to building a solid blue/red aggro deck with AEther Burst, Reckless Charge, and Demoralize. However, Second Thoughts made its way into the deck seventh pick, and an Aven Archer Herzog opened came back ninth. Meanwhile, Cornellisen was solid into black/green, with Ghastly Demise, Skeletal Scrying, Springing Tiger, Seton's Desire, and a pair of Millikins to fuel it all.
 

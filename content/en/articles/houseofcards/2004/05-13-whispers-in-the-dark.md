@@ -566,7 +566,9 @@ You still have to hardcast Phage, and do it while Endless Whispers is in play. A
 
 ### Use #3: Play with creatures your opponent doesn't want.
 
-![](https://i.ormos.uk/f0/4b/f04b33027e3973bff6cf3ce8949db4741d95bbb9d67a8182a33de5d36357551c.jpg)This is an extension of the Phage strategy. It's just not as immediate. Does your opponent really want that Lord of the Pit? I doubt it. Giving away the hungry, hungry Demon with Endless Whispers out is diabolical: Your opponent either gets savaged by the Lord's upkeep cost or feeds it, thus giving you a free creature a turn. Of course, while this is happening, you may be getting walloped for 7 a turn. How about Minion of Leshrac? Fun times. Even Nim Abomination can work wonders… because you also have Light of Day in play, right? Rust Elemental is fun. Eater of Days is even more fun, provided you can sacrifice it the same turn you play it. That goes double for Leveler: Play it, remove your library from the game, sacrifice it, your opponent gets it at the end of that turn, he removes his library from the game, then your turn ends. Uh-oh…
+![](https://i.ormos.uk/f0/4b/f04b33027e3973bff6cf3ce8949db4741d95bbb9d67a8182a33de5d36357551c.jpg)
+
+This is an extension of the Phage strategy. It's just not as immediate. Does your opponent really want that Lord of the Pit? I doubt it. Giving away the hungry, hungry Demon with Endless Whispers out is diabolical: Your opponent either gets savaged by the Lord's upkeep cost or feeds it, thus giving you a free creature a turn. Of course, while this is happening, you may be getting walloped for 7 a turn. How about Minion of Leshrac? Fun times. Even Nim Abomination can work wonders… because you also have Light of Day in play, right? Rust Elemental is fun. Eater of Days is even more fun, provided you can sacrifice it the same turn you play it. That goes double for Leveler: Play it, remove your library from the game, sacrifice it, your opponent gets it at the end of that turn, he removes his library from the game, then your turn ends. Uh-oh…
 
 ### Use #4: Play a creatureless deck.
 

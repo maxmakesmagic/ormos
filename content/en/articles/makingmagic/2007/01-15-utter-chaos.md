@@ -113,7 +113,9 @@ A common occurrence is that everyone playing with a card consistently plays it i
 
 ![Far_Wanderings](http://www.wizards.com/magic/images/cardart/TOR/Far_Wanderings.jpg%0A%09%09%09)
 
-![Far_Wanderings](https://i.ormos.uk/8f/be/8fbec01a46e67e14883c16871e12ac80f68da8b0bca0fe51c8d4eb44c15acec5.jpg)My point is this: Good game design plays into the intuitions of the players. If something feels natural, that means players will play the card correctly. If it doesn’t, you’ll be fighting with them constantly to play the card right. It’s a fight you can win, but most often at a cost that you don’t want to spend. The best games succeed because they play into player expectations. The games deliver because they give the players what they want.
+![Far_Wanderings](https://i.ormos.uk/8f/be/8fbec01a46e67e14883c16871e12ac80f68da8b0bca0fe51c8d4eb44c15acec5.jpg)
+
+My point is this: Good game design plays into the intuitions of the players. If something feels natural, that means players will play the card correctly. If it doesn’t, you’ll be fighting with them constantly to play the card right. It’s a fight you can win, but most often at a cost that you don’t want to spend. The best games succeed because they play into player expectations. The games deliver because they give the players what they want.
 
 Let me take a quick example from my Hollywood writing days. I can write a romantic comedy where the two lovebirds destined to be together don’t end up together. I can craft a murder mystery that doesn’t get solved. I can create a soap opera where everyone gets along. But you know what? My chances for failure go way, way up. Why? Because people tune in to certain genres because they know what to expect. Romantic comedies end happily with the lovebirds getting together. Murder mysteries get solved. And soap opera characters hate each other (when they’re not in love with one another that is – and even then sometimes they still hate each other). Genres are what they are because essentially they tap into basic needs of the human experience.
 
@@ -127,7 +129,9 @@ Here it is: Players expect for something to happen when you run out of something
 
 ![Morphling](http://www.wizards.com/magic/images/cardart/UZ/Morphling.jpg%0A%09%09%09)
 
-![Morphling](https://i.ormos.uk/69/5c/695c911ea9005e9ad68e376aace6e38a2d63cd770125457b547d272f2651cb0c.jpg)The first problem was that the two mechanics, while very similar, were not identical. Suspend triggered when the last counter was removed while fading triggered the turn after the last counter was removed. Having two things this close but not identical is bad design. Why? Because players will naturally assume that two similar mechanics work the same way. Why? Because players assume that games have an internal consistency. Once they learn how one thing works, it’s assumed that other elements will follow suit. And by the way, internal consistency is a hallmark of good game design.
+![Morphling](https://i.ormos.uk/69/5c/695c911ea9005e9ad68e376aace6e38a2d63cd770125457b547d272f2651cb0c.jpg)
+
+The first problem was that the two mechanics, while very similar, were not identical. Suspend triggered when the last counter was removed while fading triggered the turn after the last counter was removed. Having two things this close but not identical is bad design. Why? Because players will naturally assume that two similar mechanics work the same way. Why? Because players assume that games have an internal consistency. Once they learn how one thing works, it’s assumed that other elements will follow suit. And by the way, internal consistency is a hallmark of good game design.
 
 The second problem was that fading uses fade counters while suspend uses time counters. Having different names meant we couldn’t make cards that could manipulate both cards with suspend and cards with fading (well, we could, but it would be clunky).
 
@@ -182,7 +186,9 @@ My point is that there are many facets of design and, as I point out above, you 
 
 ![Mind_Bend](http://www.wizards.com/magic/images/cardart/9ED/Mind_Bend.jpg%0A%09%09%09)
 
-![Mind_Bend](https://i.ormos.uk/99/ab/99abb438f8b1feab866a1c7a361280cbdb7e24f092846af8e0b23b4a3ad9b766.jpg)For a set with nothing “new,” there’s a lot of stuff you’ve never seen before. Look for us to make twists with suspend (and to a lesser extent with split second and flash). Look for yet another old keyword mechanic making a return (hint: it starts with a “k” and rhymes with sticker). Look for a number of older mechanics to get a makeover (the people paying attention in *Time Spiral* should already be able to guess what we’re doing with echo). Look for “alternate reality” versions of popular spells from the past (changed in various ways – colorshifting is just the trick the timeshifted cards use). Look for some color pie exploration (once again, I will spend an upcoming week explaining why certain colors got certain abilities).
+![Mind_Bend](https://i.ormos.uk/99/ab/99abb438f8b1feab866a1c7a361280cbdb7e24f092846af8e0b23b4a3ad9b766.jpg)
+
+For a set with nothing “new,” there’s a lot of stuff you’ve never seen before. Look for us to make twists with suspend (and to a lesser extent with split second and flash). Look for yet another old keyword mechanic making a return (hint: it starts with a “k” and rhymes with sticker). Look for a number of older mechanics to get a makeover (the people paying attention in *Time Spiral* should already be able to guess what we’re doing with echo). Look for “alternate reality” versions of popular spells from the past (changed in various ways – colorshifting is just the trick the timeshifted cards use). Look for some color pie exploration (once again, I will spend an upcoming week explaining why certain colors got certain abilities).
 
 Like *Time Spiral* (and *Future Sight* too), *Planar Chaos* is a set that has a lot packed into it. Much of the nuance will take time to see. When you open your packs at this weekend’s [prerelease tournaments](https://web.archive.org/web/20070115000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/prerelease/planarchaos) (hint, hint), take the time to really look at the cards. There’s a lot going on.
 

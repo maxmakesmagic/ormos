@@ -80,7 +80,9 @@ render_recovery: []
  　  
  そして5ターン目。なんと Kamiel からも《死体の収穫者/[Corpse Harvester](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Corpse+Harvester)》が登場するのだが石田はあっさりと《ショック/[Shock](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)》→《燃えさし魔道ゴブリン》能力起動、で危険を排除する。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a893.jpg)その返しのターンでKamielは3ターン目に召喚していた変異（《皮を剥ぐ者/[Skinthinner](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner)》）を表返し《燃えさし魔道ゴブリン》が2体並ぶのを阻止する。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a893.jpg)
+
+その返しのターンでKamielは3ターン目に召喚していた変異（《皮を剥ぐ者/[Skinthinner](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner)》）を表返し《燃えさし魔道ゴブリン》が2体並ぶのを阻止する。
 
 その後 Kamiel が《うなるアンドラック》+変異クリーチャー、と一気にならべたてた所でとりあえず石田は《貪欲なるベイロス》に《狙いすましたなだれ/[Pinpoint Avalanche](https://web.archive.org/web/20030509000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche)》を打ち込み再び場に均衡をもどした。に見えた・・・。  
  　  

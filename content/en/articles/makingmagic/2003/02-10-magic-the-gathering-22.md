@@ -61,7 +61,9 @@ archive_source:
   sha256: faef01e205c3511d36e695964dd3ee7176dd665a8d25456d9b2895acd1381c44
 render_recovery: []
 ---
-![Lunchtime card games](https://i.ormos.uk/17/cc/17cc6edb41dd860b9bb2a02f6e70684f7c859fb1e805ffc8d57c286efe790533.jpg)Every day a contingent of R&D goes to the same restaurant and plays games, usually cards and usually a trick-taking game. They keep a running score of all these games so you can see over the years where you stand. While you enjoy playing, you suck. You’re near the bottom of almost all the games.
+![Lunchtime card games](https://i.ormos.uk/17/cc/17cc6edb41dd860b9bb2a02f6e70684f7c859fb1e805ffc8d57c286efe790533.jpg)
+
+Every day a contingent of R&D goes to the same restaurant and plays games, usually cards and usually a trick-taking game. They keep a running score of all these games so you can see over the years where you stand. While you enjoy playing, you suck. You’re near the bottom of almost all the games.
 
 You lose as normal, but have a good time.
 

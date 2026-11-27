@@ -52,7 +52,9 @@ In Seat C Oliver Ruel's blue-white deck was matched against Alex Witt with green
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a971.jpg)Witt ramped up to a turn 3 face up [Snarling Undorak](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snarling+Undorak) with a [Wirewood Elf](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf) while Olivier summoned a [Callous Oppressor](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Callous+Oppressor). [Pinpoint Avalanche](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche) brought down the Cephalid. Olivier replaced it with an [Aphetto Runecaster](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Runecaster) and toughened it up with [Improvised Armor](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor). It was needed on defense as Witt started building up an army of beasts. A [Treespring Lorian](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian) and [Brontotherium](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brontotherium) marched menacingly onto his side.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a971.jpg)
+
+Witt ramped up to a turn 3 face up [Snarling Undorak](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snarling+Undorak) with a [Wirewood Elf](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf) while Olivier summoned a [Callous Oppressor](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Callous+Oppressor). [Pinpoint Avalanche](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche) brought down the Cephalid. Olivier replaced it with an [Aphetto Runecaster](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Runecaster) and toughened it up with [Improvised Armor](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor). It was needed on defense as Witt started building up an army of beasts. A [Treespring Lorian](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian) and [Brontotherium](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brontotherium) marched menacingly onto his side.
 
 The next turn Witt sent in the [Brontotherium](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brontotherium), provoking the armored Runecaster. Witt pumped his [Brontotherium](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brontotherium) enough to keep it alive and smashed Ruel down to 6 life with the other beasts
 
@@ -76,7 +78,9 @@ Antoine Ruel equalized in the center to go 1-1 in his match.
 
 Witt 1-0 Olivier Ruel.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a968.jpg)In the center Brock Parker beat Antoine Ruel 2-1 to give Dan Clegg Uncut a lead.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a968.jpg)
+
+In the center Brock Parker beat Antoine Ruel 2-1 to give Dan Clegg Uncut a lead.
 
 Dan Clegg Uncut 1-0 Hobby One
 
@@ -96,7 +100,9 @@ Jeudon leveled his match to leave the whole match open.
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a969.jpg)Olivier got caught out early in game 3 as he gambled running in a facedown [Willbender](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Willbender) against Witt's freshly summoned 3/3 [Canopy Crawler](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Canopy+Crawler). With 2 white and 2 blue open Olivier figured Witt couldn't afford to block. Unfortunately for him Witt made an excellent call, blocked it and sent the dangerous morph to graveyard for nothing.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a969.jpg)
+
+Olivier got caught out early in game 3 as he gambled running in a facedown [Willbender](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Willbender) against Witt's freshly summoned 3/3 [Canopy Crawler](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Canopy+Crawler). With 2 white and 2 blue open Olivier figured Witt couldn't afford to block. Unfortunately for him Witt made an excellent call, blocked it and sent the dangerous morph to graveyard for nothing.
 
 From there the beats were pretty savage. Rogon (amplified once) joined the party and a facedown [Towering Baloth](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Towering+Baloth). A [Frontline Strategist](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frontline+Strategist) kept Olivier in it when the giant Baloth flipped over but he couldn't drive the fat back. [Alpha Status](https://web.archive.org/web/20030607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Alpha+Status) pumped up the Crawler even more and the game went to Witt.
 

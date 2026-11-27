@@ -518,7 +518,9 @@ Both of these players were already qualified for the World Championship before t
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/natfra03/a920.jpg)Olivier played a second turn Compulsion, and Farid had yet another good draw with the Opposition deck, Speculating for Cabal Therapy, Deep Analysis, and Roar of the Wurm with a Bird of Paradise and a Llanowar Elf in play. The Cabal Therapy hit two Counterspells and left Olivier with just two Miraris in hand. Both players were in high spirits despite Ruel being in a horrible position in a horrible matchup already.
+![](http://www.wizards.com/sideboard/images/natfra03/a920.jpg)
+
+Olivier played a second turn Compulsion, and Farid had yet another good draw with the Opposition deck, Speculating for Cabal Therapy, Deep Analysis, and Roar of the Wurm with a Bird of Paradise and a Llanowar Elf in play. The Cabal Therapy hit two Counterspells and left Olivier with just two Miraris in hand. Both players were in high spirits despite Ruel being in a horrible position in a horrible matchup already.
 
 With nothing in hand of any relevance, Olivier could only watch as Farid played Phantom Centaur and Opposition, ending the game rather rapidly.
 

@@ -137,7 +137,9 @@ I'll be honest that this issue was a daunting one for the designers and develope
 
 ### Getting the Draft
 
-![](https://i.ormos.uk/55/dc/55dccc4ac9070880646822681828d701f9a64ef783c99e2831dfba970f6a0aea.jpg)Before I walk you through our various solutions, let me first explain what I call the non-negotiables. That is, these are the factors that design and development cannot change. Solutions have to come by working around these issues. Here are the relevant non-negotiables for *Coldsnap*:
+![](https://i.ormos.uk/55/dc/55dccc4ac9070880646822681828d701f9a64ef783c99e2831dfba970f6a0aea.jpg)
+
+Before I walk you through our various solutions, let me first explain what I call the non-negotiables. That is, these are the factors that design and development cannot change. Solutions have to come by working around these issues. Here are the relevant non-negotiables for *Coldsnap*:
 
 > **#A – The set cannot exceed 155 cards** – Because this is the first non-block tournament-legal expansion (and thus the first “fourth” set), we wanted to keep our set size on the lower side. 
 > 
@@ -185,7 +187,9 @@ Design was happy with the Kindle cycle and stopped. This is where development pi
 
 This next solution is another one where design put the seed of an idea in the file which development nurtured into a full-blown theme. When we talked about “snow matters” (a.k.a. snow-covered goodness), the team stressed that one of the things they disliked about the execution in *Ice Age* was that snow-coveredness always forced you to play all snow-covered lands or none. There just weren't any cards that encouraged a little amount of snow-covered lands. 
 
-![](https://i.ormos.uk/5e/47/5e472d187ec447a78f8e250688d76144f7e62063c606e35666052c7418c5e8cf.jpg)On a separate note, a few members of the design team remembered the organized play headache that was snow-covered land. As it was basic land, the floor rules at the time treated like all other basic lands. Players, for instance, could add as many snow-covered lands to their deck as they wanted. This made tournament organizers have to track down significant qualities of each of the snow-covered lands for use in Limited. It also made some deck registration headaches as it's very easy to forget to include the snow-coveredness of your lands if they're all the same. 
+![](https://i.ormos.uk/5e/47/5e472d187ec447a78f8e250688d76144f7e62063c606e35666052c7418c5e8cf.jpg)
+
+On a separate note, a few members of the design team remembered the organized play headache that was snow-covered land. As it was basic land, the floor rules at the time treated like all other basic lands. Players, for instance, could add as many snow-covered lands to their deck as they wanted. This made tournament organizers have to track down significant qualities of each of the snow-covered lands for use in Limited. It also made some deck registration headaches as it's very easy to forget to include the snow-coveredness of your lands if they're all the same. 
 
 Add the two problems together and it was decided by the team that it would be much more interesting if snow lands were a resource that you had to focus on collecting. Instead of just being given access to it, you had to horde it. This allowed us a reason to put the snow lands in the set. It also allowed us to create cards that used snow lands without having them be busted in half. To make these cards powerful, you had to horde the snow lands. Meet collect me's number twelve through sixteen. 
 

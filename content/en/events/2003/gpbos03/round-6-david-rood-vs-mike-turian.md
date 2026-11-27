@@ -76,7 +76,9 @@ render_recovery:
   - Goblin Grappler
   occurrences: 26
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a965.jpg)On one side, the one, the only, Mike Turian. CMU mainstay. Brain Trust. All around great guy. On the other, Canada’s rising star, David Rood. Still feeling the flush of his Pro Tour finals appearance at Boston last year. The battleground: Sealed deck. Turian was confident. Rood, less so. 
+![](https://www.wizards.com/sideboard/images/gpbos03/a965.jpg)
+
+On one side, the one, the only, Mike Turian. CMU mainstay. Brain Trust. All around great guy. On the other, Canada’s rising star, David Rood. Still feeling the flush of his Pro Tour finals appearance at Boston last year. The battleground: Sealed deck. Turian was confident. Rood, less so. 
 
 As Rood played a second land to go with his island, he made the following proclamation:
 
@@ -94,7 +96,9 @@ He tried to turn that around with Arcanis, the Omnipotent. Turian was unfazed. H
 
 Turian 1 – Rood 0
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a966.jpg)Rood opened up a hand of Mages Guile, four land and Fateshaper and Crowd Favorites. He kept, and cycled into Glory Seeker and morph to bring the beats. Turian was behind, with just a morph of his own. He tried to trade morphs, but Rood’s was Defender of Order. Turian’s Aven Redeemer got ready to hold the fort.
+![](https://www.wizards.com/sideboard/images/gpbos03/a966.jpg)
+
+Rood opened up a hand of Mages Guile, four land and Fateshaper and Crowd Favorites. He kept, and cycled into Glory Seeker and morph to bring the beats. Turian was behind, with just a morph of his own. He tried to trade morphs, but Rood’s was Defender of Order. Turian’s Aven Redeemer got ready to hold the fort.
 
 Rood started tapping mana.
 

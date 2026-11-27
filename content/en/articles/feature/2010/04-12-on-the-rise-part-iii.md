@@ -175,7 +175,9 @@ In each of the above cases, the design team was able to make cards that gave tha
 
 ### Spread 'Em
 
-![](https://i.ormos.uk/a2/f8/a2f837cd6e603a2d15ed202a77e1774e82d56d42c509ed79b6d29d6e21d44aa3.jpg)One of the analogies I use about designing a set is that it is like building a house of cards. A key moment of that comes at the very start. You have to begin by taking two cards that are not balanced and balance them against each other. Each needs the other to stand and the card house builder has to have a gentle touch to get each to balance at exactly the same time against the other. A lot of design is like that moment. Each piece balances against other pieces that in turn are balancing on them.
+![](https://i.ormos.uk/a2/f8/a2f837cd6e603a2d15ed202a77e1774e82d56d42c509ed79b6d29d6e21d44aa3.jpg)
+
+One of the analogies I use about designing a set is that it is like building a house of cards. A key moment of that comes at the very start. You have to begin by taking two cards that are not balanced and balance them against each other. Each needs the other to stand and the card house builder has to have a gentle touch to get each to balance at exactly the same time against the other. A lot of design is like that moment. Each piece balances against other pieces that in turn are balancing on them.
 
  
 

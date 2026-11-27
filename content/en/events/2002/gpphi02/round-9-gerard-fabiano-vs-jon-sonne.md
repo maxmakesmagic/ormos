@@ -129,7 +129,9 @@ render_recovery:
   - Walking Desecration
   occurrences: 121
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a921.jpg)It's "When Teammates Collide" here at GP Philadelphia as two members of Slay Pillage Gerard meet. After making top 4 at Pro Tour Boston and going 6-1-1 during day one of the Grand Prix, both players are looking for the undefeated day two to make top 8. Anything less would be considered a disappointment. Gerard Fabiano is a member of team TOGIT, based in New Jersey. He has had very high individual finishes in the 2001-2002 PT season, including narrowly missing top 8 at PT Osaka. Jon Sonne is another Jersey boy. In addition to his top 4 appearance at PT Boston, Jon has placed highly in several Pro Tours and is the reigning New Jersey State Champion two years running. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a921.jpg)
+
+It's "When Teammates Collide" here at GP Philadelphia as two members of Slay Pillage Gerard meet. After making top 4 at Pro Tour Boston and going 6-1-1 during day one of the Grand Prix, both players are looking for the undefeated day two to make top 8. Anything less would be considered a disappointment. Gerard Fabiano is a member of team TOGIT, based in New Jersey. He has had very high individual finishes in the 2001-2002 PT season, including narrowly missing top 8 at PT Osaka. Jon Sonne is another Jersey boy. In addition to his top 4 appearance at PT Boston, Jon has placed highly in several Pro Tours and is the reigning New Jersey State Champion two years running. 
 
 Gerard's deck is a very fast r/b monster, featuring multiple copies of Wretched Anurid and Solar Blast. It is a suicide – style deck, where it needs to win quickly or it will be in a bad position. Jon's deck is r/g and solid, but he was being hurt during the draft because the player to his left drafted the same colors. However, Jon did manage to pick up Slice and Dice to go along with some big fat guys. Neither deck contained any true bombs, though, as the table was surprisingly bomb – light.
 
@@ -145,7 +147,9 @@ Turn 5 presented a major choice for Jon. Gerard tapped out to cast his Prowling 
 
 With the Pangolin in play, Gerard was able to press the attack. Two quick hits brought Jon to 8, while a Wretched Anurid joined Gerard's team. A Serpentine Basilisk hoped to block for Jon, but it met a Pinpoint Avalanche. A Solar Blast took out the Sparksmith and Gerard was able to attack again. This time, though, Jon had a Krosan Tusker ready to trade with the Pangolin. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a919.jpg)Gerard followed that attack with a Morphed creature, and Jon's 5 life were not looking to be enough. Fortunately for him, he had the Slice and Dice ready to clear the board. A Morph from Jon was quickly Cruel Revivaled by Gerard, recovering Wretched Anurid. The Anurid brought Jon down to 2, and a Shepard of Rot sealed the deal.
+![](http://www.wizards.com/sideboard/images/gpphi02/a919.jpg)
+
+Gerard followed that attack with a Morphed creature, and Jon's 5 life were not looking to be enough. Fortunately for him, he had the Slice and Dice ready to clear the board. A Morph from Jon was quickly Cruel Revivaled by Gerard, recovering Wretched Anurid. The Anurid brought Jon down to 2, and a Shepard of Rot sealed the deal.
 
 Fabiano – 1, Sonne – 0
 
@@ -165,7 +169,9 @@ Fabiano – 1, Sonne – 1
 
 Gerard chose to go first this game, and it is expected to be a huge advantage. His turn 2 Shepard of Rot and turn 3 Wretched Anurid were only met by Jon's Morphed creature. He quickly brought Jon to 12, and kept things going with a turn 6 Prowling Pangolin. Jon had a Sparksmith and a Symbiotic Elf ready to make the ultimate sacrifice, though, and the Pangolin did not remain. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a920.jpg)After Gerard summoned a Morphed creature and trading his Wretched Anurid for Jon's recently summoned Elvish Warrior, the board was relatively even: Gerard had Shepard of Rot and a Morphed creature while Jon had two insect tokens. Both players were at 8 life and had 3 cards in hand. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a920.jpg)
+
+After Gerard summoned a Morphed creature and trading his Wretched Anurid for Jon's recently summoned Elvish Warrior, the board was relatively even: Gerard had Shepard of Rot and a Morphed creature while Jon had two insect tokens. Both players were at 8 life and had 3 cards in hand. 
 
 Jon summoned a Serpentine Basilisk and a Morph, then attacked with his insects, bringing Gerard to 6. Gerard used Aphetto Dredging to recover the Pangolin and Wretched Anurid, and he recast the Anurid. Jon chose to trade the Basilisk with the Anurid, but not after Jon was able to summon 2 more creatures while it was in play, bringing Gerard to 4. 
 

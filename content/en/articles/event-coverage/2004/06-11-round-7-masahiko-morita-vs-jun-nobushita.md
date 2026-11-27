@@ -44,7 +44,9 @@ archive_source:
   sha256: 9a36addb057ca4c557e3195f24355786b697891e700d56c789dc5916150607ed
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm11_1.jpg)Masahiko Morita is one of only three Japanese players with a Masters title, as he won the Team Masters event a few years back with Katsuhiro Mori and Masashiro Kuroda as a member of PS2. Mori and Kuroda went on to significant individual success, and while Morita has been solid on Pro Tours and Grand Prix, he has yet to have the same breakthrough events to establish himself as a major force. Jun Nobushita is a veteran who came in second at the last APAC tournament, and is a member of Team [Fireball](https://web.archive.org/web/20040611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fireball) along with Jin Okamoto. He's a staple at Japanese Grand Prix tournaments, and well known in Japan.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm11_1.jpg)
+
+Masahiko Morita is one of only three Japanese players with a Masters title, as he won the Team Masters event a few years back with Katsuhiro Mori and Masashiro Kuroda as a member of PS2. Mori and Kuroda went on to significant individual success, and while Morita has been solid on Pro Tours and Grand Prix, he has yet to have the same breakthrough events to establish himself as a major force. Jun Nobushita is a veteran who came in second at the last APAC tournament, and is a member of Team [Fireball](https://web.archive.org/web/20040611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fireball) along with Jin Okamoto. He's a staple at Japanese Grand Prix tournaments, and well known in Japan.
 
 ### Game 1
 

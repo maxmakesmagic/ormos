@@ -1415,7 +1415,9 @@ The unfortunate thing about Relentless Rats decks, I've found, is how uninspired
 
 **Rats vs. Zombies (black)**
 
-![](https://i.ormos.uk/14/4a/144aa9bd3ae10417b00bbf269d88d8d79ac6d9ef909a9b2398316169022dbccd.jpg)It's nice to finally play a deck that isn't afraid of Withered Wretch. In fact, this game wasn't even close. His Undead Warchief, Withered Wretch and Gempalm Polluter played speedbump to my three 4/4 Relentless Rats, a Ravenous Rats, and a Chittering Rats. To Rats, apparently, the undead just look like a tasty snack.
+![](https://i.ormos.uk/14/4a/144aa9bd3ae10417b00bbf269d88d8d79ac6d9ef909a9b2398316169022dbccd.jpg)
+
+It's nice to finally play a deck that isn't afraid of Withered Wretch. In fact, this game wasn't even close. His Undead Warchief, Withered Wretch and Gempalm Polluter played speedbump to my three 4/4 Relentless Rats, a Ravenous Rats, and a Chittering Rats. To Rats, apparently, the undead just look like a tasty snack.
 
 **Rats vs. Kavu (red/green)**
 
@@ -1485,7 +1487,9 @@ In other news, apparently I stink at Pauper **Magic**, the all-commons format. A
 
 <table><tbody><tr><td><img src="https://i.ormos.uk/dc/12/dc12b9c1e939289f6bee35666f67243cf213e7e463c41a5b1bfaaf30fa343ae2.jpg"></td><td><img src="https://i.ormos.uk/38/ff/38ffb626620d9bd97eb2e5a38f393ef8df8f46f3dea283a2c2e2f94cc092773f.jpg"></td><td><img src="https://i.ormos.uk/32/5e/325e174c0225ae0d3af86e47ee0fb571531bf284ace88b2b896e9599fd027c27.jpg"></td></tr>&#10;<tr><td><img src="https://i.ormos.uk/0a/72/0a72a998d97c36b5cf4d1301f2d7ccefceef07606590bfea8079f36a75eb5f74.jpg"></td><td>&#10;<table>&#10;<tbody><tr>&#10;<td colspan="3">&#10;<p><b>HARPO</b><br> Pauper deck</p>&#10;</td>&#10;</tr>&#10;<tr>&#10;<td colspan="3"></td>&#10;</tr>&#10;<tr><td colspan="2"><b>Main Deck</b><br>60 cards&#10;</td><td><b>Sideboard</b></td></tr>&#10;<tr>&#10;<td>14 &#10;	<a>Swamp</a><br>8 &#10;	<a>Island</a><br><hr>22 land<br><br>4 &#10;	<a>Ravenous Rats</a><br>4 &#10;	<a>Cavern Harpy</a><br>4 &#10;	<a>Phyrexian Rager</a><br>4 &#10;	<a>Chittering Rats</a><br>4 &#10;	<a>Faceless Butcher</a><br>3 &#10;	<a>Wormfang Drake</a><br>3 &#10;	<a>Gravedigger</a><br><hr>26 creatures</td>&#10;<td>4 &#10;	<a>AEther Burst</a><br>4 &#10;	<a>Repulse</a><br>4 &#10;	<a>Recoil</a><br><hr>12 other spells</td>&#10;<td>4 &#10;	<a>Duress</a><br>4 &#10;	<a>Echoing Truth</a><br>4 &#10;	<a>Urborg Skeleton</a><br>3 &#10;	<a>Vodalian Zombie</a><br><hr>15 sideboard cards</td>&#10;</tr>&#10;</tbody></table>&#10;</td><td><img src="https://i.ormos.uk/67/d9/67d900e12213f689bdf605cf2c381fa91a32dd523050b5c0578e97908ada0ef8.jpg"></td></tr>&#10;<tr><td><img src="https://i.ormos.uk/c6/f8/c6f8d56b8b03dc3f42dd27f8009b8f96f45c517be16c894ba2ba4ed7f5fa26bb.jpg"></td><td><img src="https://i.ormos.uk/cf/28/cf28ee9cfec87fd7f73e406189f200b43515c2fe9faf07bc50acdde49dbd2bbe.jpg"></td><td><img src="https://i.ormos.uk/74/06/740650ba45b3ea48732dd5a4f68e29e4cdf7d6deead7ed98425e1ccdd08bc023.jpg"></td></tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/43/56/4356275660234a76f3f1195e05eccbc49e27e3000b23d6d2ec2f83cf98aa7a9a.jpg)The basic idea is to use solid comes-into-play creatures multiple times, winning through sheer stubbornness. In testing, as I said, the deck performed beautifully. I'm not sure I ever lost a game in which I hit three mana. 
+![](https://i.ormos.uk/43/56/4356275660234a76f3f1195e05eccbc49e27e3000b23d6d2ec2f83cf98aa7a9a.jpg)
+
+The basic idea is to use solid comes-into-play creatures multiple times, winning through sheer stubbornness. In testing, as I said, the deck performed beautifully. I'm not sure I ever lost a game in which I hit three mana. 
 
 Then I showed up for [PDC 15](https://web.archive.org/web/20041012000000/http://boards1.wizards.com/showthread.php?t=314465).
 

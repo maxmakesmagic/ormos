@@ -80,7 +80,9 @@ render_recovery:
   - Goblin War Wagon
   occurrences: 41
 ---
-![](https://i.ormos.uk/db/e1/dbe12d0d58b62360be201688dca34867055dc9fe9e2cad2b62c01faf229f8a49.jpg)It’s round three, most of the Pro Players haven’t even started playing yet and here we have a World Championship Runner-up (Ziegner) versus a Pro Tour Champion (Olle Rade). Tough draw. 
+![](https://i.ormos.uk/db/e1/dbe12d0d58b62360be201688dca34867055dc9fe9e2cad2b62c01faf229f8a49.jpg)
+
+It’s round three, most of the Pro Players haven’t even started playing yet and here we have a World Championship Runner-up (Ziegner) versus a Pro Tour Champion (Olle Rade). Tough draw. 
 
 Ziegner opened with a lot of swamps and a Mask of Memory while Rade dropped three different colour lands (blue, green, white). The Swede commenced hostilities with a Tel-Jilad Chosen and dropped everybody’s nightmare uncommon: Loxodon Warhammer.
 
@@ -94,7 +96,9 @@ Rade summoned a Cobalt Golem and gave it the Warhammer, but even that failed to 
 
 Ziegner 1-0 Rade
 
-![](https://i.ormos.uk/cf/44/cf44f7a644dea7b73855aa2752f7851ac1a13273a6d2a32c163e36775e0cce43.jpg)Rade chose to draw again and perversely his deck gave him the aggro opening of two Tel-Jilad Chosen and a Bonesplitter. Ziegner couldn’t really do a great deal about with his two Myr and Goblin Replica. He summoned an Altar of Shadows that couldn’t touch them either.
+![](https://i.ormos.uk/cf/44/cf44f7a644dea7b73855aa2752f7851ac1a13273a6d2a32c163e36775e0cce43.jpg)
+
+Rade chose to draw again and perversely his deck gave him the aggro opening of two Tel-Jilad Chosen and a Bonesplitter. Ziegner couldn’t really do a great deal about with his two Myr and Goblin Replica. He summoned an Altar of Shadows that couldn’t touch them either.
 
 Rade finally found something that would take up the Bonesplitter as a Tel-Jilad Exile charged in. He added to the pressure with a Cobolt Golem.
 
@@ -112,7 +116,9 @@ It didn’t come. Ziegner untapped, used the Altar, waited. Rade shot the Woebea
 
 The German had got out jail!
 
-![](https://i.ormos.uk/ed/e9/ede9e57edbc17ed539aad696f4ace242e14eda1804c9f06e342eb5ac75673c1d.jpg)Unfortunately it was only temporary. A Plated Slagwurm appeared that Ziegner couldn’t target and his own Altar finished him off when he ran out of things to cast or kill.
+![](https://i.ormos.uk/ed/e9/ede9e57edbc17ed539aad696f4ace242e14eda1804c9f06e342eb5ac75673c1d.jpg)
+
+Unfortunately it was only temporary. A Plated Slagwurm appeared that Ziegner couldn’t target and his own Altar finished him off when he ran out of things to cast or kill.
 
 Ziegner 1-1 Rade
 

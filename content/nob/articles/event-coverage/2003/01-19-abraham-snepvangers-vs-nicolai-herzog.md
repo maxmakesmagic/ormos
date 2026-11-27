@@ -71,7 +71,9 @@ Nicolaiが順調に《エルフの戦士/[Elvish Warrior](https://web.archive.or
 
 次のターンも引いたランドは森なので仕方なく《賛美されし天使》をまた《変異/Morph》で召喚。一方のNicolaiはさらに追撃として《エルフの騎手/[Elven Riders](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elven+Riders)》を召喚し、《変異/Morph》しかコントロールしてないAbrahamは一気に苦しくなった。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a699.jpg)前のターン《天然の城塞/[Crude Rampart](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crude+Rampart)》を引き込んでいたAbrahamだったが《平地/[Plains](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains)》を引けない。仕方なく《間に合わせの鎧/[Improvised Armor](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor)》をメインフェイズにサイクリング、このドローが1手遅い《クローサの大牙獣/[Krosan Tusker](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker)》...。何かうまく噛み合わない。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a699.jpg)
+
+前のターン《天然の城塞/[Crude Rampart](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crude+Rampart)》を引き込んでいたAbrahamだったが《平地/[Plains](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains)》を引けない。仕方なく《間に合わせの鎧/[Improvised Armor](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor)》をメインフェイズにサイクリング、このドローが1手遅い《クローサの大牙獣/[Krosan Tusker](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker)》...。何かうまく噛み合わない。
 
 次のターンの《ワイアウッドの伝令/[Wirewood Herald](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Herald)》のアタックを仕方なくブロックすると勿論追加の《エルフの騎手/[Elven Riders](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elven+Riders)》がNicolaiの陣容に追加され、ますますAbrahamには苦しい場になった。ちなみにこの時点でライフは１１。
 

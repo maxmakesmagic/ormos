@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat113.jpg)Round 11 featured Rafaël Le Saux (7-2-1) of Chile versus Eduardo Simao (8-2) of Brazil. Rafaël was playing the standard Accelerated Blue, but Eduardo had brought a surprise to the tournament: a German Covetous Dragon deck, undefeated so far through four matches of play.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat113.jpg)
+
+Round 11 featured Rafaël Le Saux (7-2-1) of Chile versus Eduardo Simao (8-2) of Brazil. Rafaël was playing the standard Accelerated Blue, but Eduardo had brought a surprise to the tournament: a German Covetous Dragon deck, undefeated so far through four matches of play.
 
 Eduardo began the first game with an unsteady start, missing land drops on the second, third, and fourth turns. For a moment, he managed to get back into the game with Grim Monolith, Thran Dynamo, and Masticore. But Rafaël played a Masticore of his own and topdecked a Treachery to steal the other one.
 

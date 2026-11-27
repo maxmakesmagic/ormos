@@ -40,7 +40,9 @@ render_recovery:
 ---
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif"></td>&#10;			<td>&#10;			<h2>2000 Grand Prix Phoenix Coverage</h2>&#10;			</td>&#10;			<td><img alt="" src="https://i.ormos.uk/75/9f/759f9553283e36efe779f4dd16a9fccdca33e9f762fc075e16a71703619dea2f.jpg"></td>&#10;		</tr></tbody></table>
 
-![](https://i.ormos.uk/a4/bf/a4bf2f53526542f9f48a9e3f96f00b5ef6929a3d3e0a4622e89d698c66bdd463.jpg)Sean Fitzgerald was holding an Erase and was able to successfully cast it, destroying Sean Smith's Oath Druids, during his next turn. He attacked and was able to bring Smith down to 4. Smith applied no pressure and was unable to block with more than a Treetop Village. After damage was on the stack and Smith was at 4 life, Fitzgerald finished him off, amid the now-familiar cheers of "Tubby!", by lobbing a Crystalline Sliver at him.
+![](https://i.ormos.uk/a4/bf/a4bf2f53526542f9f48a9e3f96f00b5ef6929a3d3e0a4622e89d698c66bdd463.jpg)
+
+Sean Fitzgerald was holding an Erase and was able to successfully cast it, destroying Sean Smith's Oath Druids, during his next turn. He attacked and was able to bring Smith down to 4. Smith applied no pressure and was unable to block with more than a Treetop Village. After damage was on the stack and Smith was at 4 life, Fitzgerald finished him off, amid the now-familiar cheers of "Tubby!", by lobbing a Crystalline Sliver at him.
 
 ## Top 8 Final Standing
 

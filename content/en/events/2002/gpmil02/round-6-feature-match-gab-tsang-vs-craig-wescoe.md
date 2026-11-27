@@ -99,13 +99,17 @@ render_recovery:
   - Terminate
   occurrences: 74
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/958.jpg)Gab Tsang was once one of the real powerhouses in **Magic**, but his career has lulled since his one-time partner Brian Hacker decided to disappear. But the addictive lure of **Magic** Online has dragged him back, and he's been honing his skills endlessly in front of the monitor and is now bringing them to the table.
+![](http://www.wizards.com/sideboard/images/gpmil02/958.jpg)
+
+Gab Tsang was once one of the real powerhouses in **Magic**, but his career has lulled since his one-time partner Brian Hacker decided to disappear. But the addictive lure of **Magic** Online has dragged him back, and he's been honing his skills endlessly in front of the monitor and is now bringing them to the table.
 
 His opponent, Craig Wescoe, has been in the Top 8 of two of the last three GP's he's played in, and is looking to make it three.
 
 Tsang is running a homebrew called "Zombies Online," a blue/green madness/flashback deck splashing black for Zombie Infestation and Duress. Wescoe is playing Psychatog with little added extras like red mana for Fire/Ice and Flametongue Kavu, plus a few Probes.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/959.jpg)Wescoe started with the upper hand in Game 1 with two Nightscape Familiars and a Fire on Gab's Merfolk Looter. Gab resolved a Basking Rootwalla, but couldn't get any damage through. It took a turn for the worse for the Canadian Tsang when Wescoe cast Probe and managed to Force Spike the Arrogant Wurm Gab tried to sneak out.
+![](http://www.wizards.com/sideboard/images/gpmil02/959.jpg)
+
+Wescoe started with the upper hand in Game 1 with two Nightscape Familiars and a Fire on Gab's Merfolk Looter. Gab resolved a Basking Rootwalla, but couldn't get any damage through. It took a turn for the worse for the Canadian Tsang when Wescoe cast Probe and managed to Force Spike the Arrogant Wurm Gab tried to sneak out.
 
 But then Wescoe started drawing land en masse, and Gab started in with Fact or Fiction. The first FoF got Gab a Wild Mongrel and a Rootwalla, plus a Roar of the Wurm in the graveyard. The second FoF got him the third, and the third got him a Roar plus some extra lands.
 
@@ -113,7 +117,9 @@ He cast all the monsters he had, and was sitting on a Repulse for the Psychatog 
 
 Tsang 1 - Wecsoe 2
 
-![](http://www.wizards.com/sideboard/images/gpmil02/960.jpg)Tsang sided out his Rootwallas (too mana intensive in fights with Nightscape Familiars) and his Infestations for Gainsays and Disrupts.
+![](http://www.wizards.com/sideboard/images/gpmil02/960.jpg)
+
+Tsang sided out his Rootwallas (too mana intensive in fights with Nightscape Familiars) and his Infestations for Gainsays and Disrupts.
 
 Wescoe went first in game 2, and attempted an Ice on Gab's first land. But Gab had Disrupt ready, and he was the one that got to draw a card.
 

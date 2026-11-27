@@ -79,7 +79,9 @@ Send your rules questions to **Magic** Rules Manager John Carter. Can't find the
 
 ### Gatherer Rules
 
-[![](https://i.ormos.uk/e0/97/e097d51dd7c737b9f9aea3d3edfed1683477e9c90e87854876699c367c6a7fd6.jpg)](https://web.archive.org/web/20041016000000/https://magic.wizards.com/en/articles/archive/attack-captain-obvious-2004-10-07)Whether you're a “forces of good” or a “forces of evil” kind of person, **Magic** can still be baffling. Well, have no fear — [Gatherer](https://web.archive.org/web/20041016000000/http://gatherer.wizards.com/) Rulings are here!
+[![](https://i.ormos.uk/e0/97/e097d51dd7c737b9f9aea3d3edfed1683477e9c90e87854876699c367c6a7fd6.jpg)](https://web.archive.org/web/20041016000000/https://magic.wizards.com/en/articles/archive/attack-captain-obvious-2004-10-07)
+
+Whether you're a “forces of good” or a “forces of evil” kind of person, **Magic** can still be baffling. Well, have no fear — [Gatherer](https://web.archive.org/web/20041016000000/http://gatherer.wizards.com/) Rulings are here!
 
 Knew you were right all along? Pull up the card and see what the Official word is. Does being bad feel good when it's legal? Take a look before those meddling kids thwart your plans. On each card that has an associated ruling there will be a horizontal bar in the card's popup window that reads, “Official Rulings”. Below that bar are the most current rulings on that card. More rulings will be available as The Master Plan unfolds.
 

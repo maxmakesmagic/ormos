@@ -44,7 +44,9 @@ archive_source:
   sha256: b025e1081034ac93eaaa97b4e9e02020b375aedb35681c20e3137f15eaf5d431
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a845.jpg)Both Finland's Tomi Walamies and Argentina's Diego Ostrovich had fantastic seasons last year, earning berths in the Magic Invitational. Since then, Ostrovich has been having a pretty good year, showing that he is here to stay. Walamies, on the other hand, has been ready to pack it up for the past few months; a string of poor finishes has had him ready to retire. After this event, he's going to have to reconsider.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a845.jpg)
+
+Both Finland's Tomi Walamies and Argentina's Diego Ostrovich had fantastic seasons last year, earning berths in the Magic Invitational. Since then, Ostrovich has been having a pretty good year, showing that he is here to stay. Walamies, on the other hand, has been ready to pack it up for the past few months; a string of poor finishes has had him ready to retire. After this event, he's going to have to reconsider.
 
 ### Game 1
 
@@ -56,7 +58,9 @@ Walamies 1 – Ostrovich 0
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a846.jpg)Walamies attacked with a Skirk Prospector turn 2 only to see it die at the hands of a Vitality Charm-spawned Insect. Diego played a Lightning Rift on his turn and passed.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a846.jpg)
+
+Walamies attacked with a Skirk Prospector turn 2 only to see it die at the hands of a Vitality Charm-spawned Insect. Diego played a Lightning Rift on his turn and passed.
 
 Walamies played Thoughtbound Primoc on turn three, and it was quite evident why "the Littlest Serendib" is in favor this weekend: he doesn't die easily to Lightning Rift. That, and there are no Wizards to be found in the environment. Of course, Ostrovich showed why Chain of Plasma was in his deck, killing the flier with little effort.
 

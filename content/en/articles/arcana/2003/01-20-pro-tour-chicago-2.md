@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/c7/3d/c73da08fd1acc5487e958189d5ac63b234ea8893b2933adf083f70d8ec69bb67.jpg)You might need to sit down for this one. It’s too shocking.
+![](https://i.ormos.uk/c7/3d/c73da08fd1acc5487e958189d5ac63b234ea8893b2933adf083f70d8ec69bb67.jpg)
+
+You might need to sit down for this one. It’s too shocking.
 
 Kai Budde has won another Pro Tour.
 

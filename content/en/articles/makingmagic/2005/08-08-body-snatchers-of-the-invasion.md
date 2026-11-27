@@ -77,7 +77,9 @@ archive_source:
   sha256: 541acb3b8cddef17b4484272a3a3d4a20bd579858578491da141a961644a2279
 render_recovery: []
 ---
-![](https://i.ormos.uk/c3/1a/c31a2c60d2b76e12dd4c261b32283f701455c34b3362c2a4a232153b7dec4b80.jpg)Welcome to *Invasion* Week! This week we'll be exploring what some have called “the greatest **Magic** expansion of all time”. (Although to be fair, others have referred to it as “that \*&%^! set”.) As one of the members of the design team, I have some insights that you can't hear anywhere else. Well, that's not exactly true. Bill Rose, current VP of R&D and Lead Designer of *Invasion* is writing this week's feature article and he was definitely there. So, I guess I'll tell you things you can't hear anywhere else, except for possibly the feature article. 
+![](https://i.ormos.uk/c3/1a/c31a2c60d2b76e12dd4c261b32283f701455c34b3362c2a4a232153b7dec4b80.jpg)
+
+Welcome to *Invasion* Week! This week we'll be exploring what some have called “the greatest **Magic** expansion of all time”. (Although to be fair, others have referred to it as “that \*&%^! set”.) As one of the members of the design team, I have some insights that you can't hear anywhere else. Well, that's not exactly true. Bill Rose, current VP of R&D and Lead Designer of *Invasion* is writing this week's feature article and he was definitely there. So, I guess I'll tell you things you can't hear anywhere else, except for possibly the feature article. 
 
 As I wrote this article, Bill hadn't yet finished his article, so I don't know exactly what he's going to say. To lessen the chances that we overlap (or even worse, contradict one another), I've decided to stick to stories about the individual cards. Bill, I'm hoping, will talk about the design of the mechanics of the set. (I did chat with him, so I guess “hoping” is a little misleading.) But before I jump into card discussion, let me set the scene.
 
@@ -93,7 +95,9 @@ Anyway, that October I brought up some sealed **Magic** product for my dad. He w
 
 **#2 – My Dad Lives in Lake Tahoe**
 
-![](https://i.ormos.uk/22/2a/222a13694b8336f8d4620a2660ccc48cf0aaa2d23899ed5210cc96fcdfe225ce.jpg)I grew up in Cleveland. But that didn't keep my parents from becoming avid skiers. So much so that almost all our major family vacations were skiing vacations. We started skiing locally. Then we traveled to New York. Then to the east to Vermont. But in the end, all our trips took us out west. Colorado, Utah, California, Nevada… I've skied them all. So when my dad retired many years ago (he retired relatively young; shortly after he and my mother split up) he chose to move to Lake Tahoe, a very posh skiing area around the California/Nevada border. When he moved to Tahoe, he let me know that I was free to visit whenever I wanted. And quote, “it's fine to bring any number of friends”.
+![](https://i.ormos.uk/22/2a/222a13694b8336f8d4620a2660ccc48cf0aaa2d23899ed5210cc96fcdfe225ce.jpg)
+
+I grew up in Cleveland. But that didn't keep my parents from becoming avid skiers. So much so that almost all our major family vacations were skiing vacations. We started skiing locally. Then we traveled to New York. Then to the east to Vermont. But in the end, all our trips took us out west. Colorado, Utah, California, Nevada… I've skied them all. So when my dad retired many years ago (he retired relatively young; shortly after he and my mother split up) he chose to move to Lake Tahoe, a very posh skiing area around the California/Nevada border. When he moved to Tahoe, he let me know that I was free to visit whenever I wanted. And quote, “it's fine to bring any number of friends”.
 
 **#3 – My Dad Is a Ski Instructor**
 
@@ -150,7 +154,9 @@ Oddly enough, this card started life in *Unglued II*. You see, *Unglued II* had 
 
 ### [Blind Seer](https://web.archive.org/web/20050808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blind+Seer)
 
-![](https://i.ormos.uk/5f/9b/5f9b800160e3fef85978c54e868c29c0ccf27034d29ed245a6616dc99a0151d7.jpg)Players always ask when we're going to make Urza as a card to which I always reply, we did. Here you go. [Blind Seer](https://web.archive.org/web/20050808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blind+Seer) is *Urza* in disguise. (No really, it's in a book and everything.) No need to thank me.
+![](https://i.ormos.uk/5f/9b/5f9b800160e3fef85978c54e868c29c0ccf27034d29ed245a6616dc99a0151d7.jpg)
+
+Players always ask when we're going to make Urza as a card to which I always reply, we did. Here you go. [Blind Seer](https://web.archive.org/web/20050808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blind+Seer) is *Urza* in disguise. (No really, it's in a book and everything.) No need to thank me.
 
 ### [Crimson Acolyte](https://web.archive.org/web/20050808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crimson+Acolyte)
 
@@ -166,7 +172,9 @@ I love symmetrical designs. This card came about because I realized that red des
 
 ### [Goham Djinn](https://web.archive.org/web/20050808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goham+Djinn)
 
-[![](https://i.ormos.uk/7d/6d/7d6db3180c7aa9acb00e4c30cd513fef90d8116e87ba6f8cd988e5aaf1f022bf.jpg)](/en/articles/arcana/2005/08-08-punny-djinns)This cycle of Djinns (Goham, Halam, Ruham, Sulam, and Zanam) also came from *Unglued II*. While they had silly pun names and different art (check out [today's **Magic** Arcana](/en/articles/arcana/2005/08-08-punny-djinns) to see what I mean), the mechanics weren't all that silly and thus easily made the crossover to “real” **Magic**.
+[![](https://i.ormos.uk/7d/6d/7d6db3180c7aa9acb00e4c30cd513fef90d8116e87ba6f8cd988e5aaf1f022bf.jpg)](/en/articles/arcana/2005/08-08-punny-djinns)
+
+This cycle of Djinns (Goham, Halam, Ruham, Sulam, and Zanam) also came from *Unglued II*. While they had silly pun names and different art (check out [today's **Magic** Arcana](/en/articles/arcana/2005/08-08-punny-djinns) to see what I mean), the mechanics weren't all that silly and thus easily made the crossover to “real” **Magic**.
 
 ### [Harrow](https://web.archive.org/web/20050808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harrow)
 
@@ -206,7 +214,9 @@ When we designed *Invasion*, we started by taking a set designed by a man named 
 
 ### [Power Armor](https://web.archive.org/web/20050808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Power+Armor)
 
-![](https://i.ormos.uk/5d/89/5d89f9ef5c5f5ad0e457331b4175b0a2f689bae05136c39456b380933d80e1be.jpg)For the record, I hated the mechs. Hated them! The only thing in the history of **Magic** I despised more in the creative was the guns in *Portal: Second Age*.
+![](https://i.ormos.uk/5d/89/5d89f9ef5c5f5ad0e457331b4175b0a2f689bae05136c39456b380933d80e1be.jpg)
+
+For the record, I hated the mechs. Hated them! The only thing in the history of **Magic** I despised more in the creative was the guns in *Portal: Second Age*.
 
 ### [Probe](https://web.archive.org/web/20050808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Probe)
 

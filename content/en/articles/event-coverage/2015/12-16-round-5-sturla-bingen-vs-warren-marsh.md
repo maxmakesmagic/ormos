@@ -44,7 +44,9 @@ archive_source:
   sha256: 4d5444995d4e8da0f5e12e69e400cbd28ed80966479a5d8a264e42f4893a6853
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/253.JPG)Having seen the cards that Warren was able to draft before this match started, I have to say that he was the firm favourite. Boasting both Alexi, Zephyr Mage and Mageta, The Lion, as well as a host of Rebels that he could search for the matchup seemed very one sided. Sturla's deck was a solid Green/Black beat down deck whose only hope was to get a good start and race Warren's control.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/253.JPG)
+
+Having seen the cards that Warren was able to draft before this match started, I have to say that he was the firm favourite. Boasting both Alexi, Zephyr Mage and Mageta, The Lion, as well as a host of Rebels that he could search for the matchup seemed very one sided. Sturla's deck was a solid Green/Black beat down deck whose only hope was to get a good start and race Warren's control.
 
 ### Game 1
 

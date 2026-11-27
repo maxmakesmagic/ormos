@@ -135,7 +135,9 @@ render_recovery:
   - Zombie Infestation
   occurrences: 113
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a797.jpg)Patrick Mello is one of Germany's top players and is having a good year at the moment with multiple Top 8's in the Grand Prix and high finishes on the Tour. His opponent, the American Ben Rubin, is going through lean times at the moment.
+![](http://www.wizards.com/sideboard/images/ptnice02/a797.jpg)
+
+Patrick Mello is one of Germany's top players and is having a good year at the moment with multiple Top 8's in the Grand Prix and high finishes on the Tour. His opponent, the American Ben Rubin, is going through lean times at the moment.
 
 With 3 losses and a draw both players are probably out of contention for the Top 8, but still have the Top 16 to fight for. It will be difficult as Ben Rubin has a very poor looking white-black deck. Mello is playing blue-black.
 
@@ -151,7 +153,9 @@ Mello summoned a Zombie Assassin that Rubin neutralised with a Kirtar's Desire. 
 
 Rubin thought for long time to try and find an answer. Eventually he decided to attack with the Face of Fear and Mello blocked with the Desired Assassin. Rubin looked so despondent about his lack of good cards he put the Face of Fear even before Mello got round to activating the Torturer to finish it off. It meant Rubin's Hallowed Healer would survive for an extra turn though.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a798.jpg)It was not looking good though when Mello summoned a Whispering Shade.
+![](http://www.wizards.com/sideboard/images/ptnice02/a798.jpg)
+
+It was not looking good though when Mello summoned a Whispering Shade.
 
 As expected the Healer died at end of turn and then Mello sent the evasion creatures in to finish Rubin off.
 
@@ -169,7 +173,9 @@ Mello managed to find a Cephalid Scout to break out of a land glut, but only got
 
 Rubin found a Hallowed Healer and was disappointed as Mello dropped a second Gift on the Shade and nipped off the Healer before it could get active.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a796.jpg)It didn't really seem fair on the American as his Face of Fear got sucked under a Butcher. Even when he tried to cycle Equal Treatment this gave Mello the opportunity to ping him for 2 instead of 1 with the Gifted Shade.
+![](http://www.wizards.com/sideboard/images/ptnice02/a796.jpg)
+
+It didn't really seem fair on the American as his Face of Fear got sucked under a Butcher. Even when he tried to cycle Equal Treatment this gave Mello the opportunity to ping him for 2 instead of 1 with the Gifted Shade.
 
 Rubin tried to block the Butcher with an Aven Archer and pump it with Gallantry.
 

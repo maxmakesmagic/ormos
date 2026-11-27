@@ -44,7 +44,9 @@ archive_source:
   sha256: 7cb4efa1e70a82e47939f7ce9a9b415397a81eb33c270d3738f5c789e9b1310b
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r15fm2_1.jpg)Never give up, never surrender. Veteran French player Xavier Petit finished the first day in the magical 128th place. Today he swept his first five rounds to reach this final round still in contention. It's not easy, but he kept believing and working for the Top 8.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r15fm2_1.jpg)
+
+Never give up, never surrender. Veteran French player Xavier Petit finished the first day in the magical 128th place. Today he swept his first five rounds to reach this final round still in contention. It's not easy, but he kept believing and working for the Top 8.
 
 Jaime may not have made a Rocky-like recovery today but he still had to work hard to reach this final round within reach of the Top 8. The round started with a rather long deck check, earning them an extra twenty minutes to play.
 

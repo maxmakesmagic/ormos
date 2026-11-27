@@ -65,7 +65,9 @@ render_recovery: []
   
   
 
-![](http://wizards.com//mtg/images/daily/stf/stf137_A.jpg)ll worlds change; this is a truism for those of us who travel. No plane has been found frozen in a single state, immune to time. But rare is the world that undergoes such a transformation that its very name falls away. Rare is the world that enters an era of strife and emerges unrecognizable even to those born within its bounds.
+![](http://wizards.com//mtg/images/daily/stf/stf137_A.jpg)
+
+ll worlds change; this is a truism for those of us who travel. No plane has been found frozen in a single state, immune to time. But rare is the world that undergoes such a transformation that its very name falls away. Rare is the world that enters an era of strife and emerges unrecognizable even to those born within its bounds.
 
 Rarer still is a world that remakes itself more than once. The plane of which we speak was once named Argentum. Then it became known as Mirrodin. But radical change has visited this world again, and now it bears a third name.
 

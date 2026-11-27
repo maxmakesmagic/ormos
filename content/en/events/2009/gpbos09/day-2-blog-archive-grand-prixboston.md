@@ -619,7 +619,9 @@ Said carmate Brad Nelson “He’d been snoring the whole way, too. You’d thin
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/6f/0a/6f0a29cef528a57821981a0b04cc0a9d292135e33b32274669cd8c8c8ed56282.jpg)One of many very cool public events going on this weekend at Grand Prix Boston was a raffle drawing for an M10 draft for a first prize Black Lotus. Other prizes in the draft included a Mox Ruby, foil M10 sets, and packs of Portal Three Kingdoms. As they were calling out the names of the raffle winners, New Yorker, and DraftCap programmer, Mark Schmit was crestfallen to hear his name called. Still playing in the main event Mark was saddled with three losses. He was pretty sure he was going to pick up his fourth loss and knew that even if he pulled it out he was out of Top 8 contention. At the same time he also knew that if he managed to somehow win he could possibly qualify for Austin if he managed to make the Top 16. Mark had to pass his ticket off to his friend Kevin An and hunker down for his best possible finish.
+![](https://i.ormos.uk/6f/0a/6f0a29cef528a57821981a0b04cc0a9d292135e33b32274669cd8c8c8ed56282.jpg)
+
+One of many very cool public events going on this weekend at Grand Prix Boston was a raffle drawing for an M10 draft for a first prize Black Lotus. Other prizes in the draft included a Mox Ruby, foil M10 sets, and packs of Portal Three Kingdoms. As they were calling out the names of the raffle winners, New Yorker, and DraftCap programmer, Mark Schmit was crestfallen to hear his name called. Still playing in the main event Mark was saddled with three losses. He was pretty sure he was going to pick up his fourth loss and knew that even if he pulled it out he was out of Top 8 contention. At the same time he also knew that if he managed to somehow win he could possibly qualify for Austin if he managed to make the Top 16. Mark had to pass his ticket off to his friend Kevin An and hunker down for his best possible finish.
 
 Sure enough he picked up his fourth loss just past the time where he could have reclaimed his ticket and got top public events just in time to watch Kevin draft in his stead from along the rail.
 

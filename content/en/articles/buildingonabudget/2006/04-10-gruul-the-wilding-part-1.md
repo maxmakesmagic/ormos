@@ -655,7 +655,9 @@ First things first: this sort of feedback is invaluable to me. A huge part of Bu
 
 I also want to emphasize the budget part of Building on a Budget. I should have said this last week, but it was my fault that it was left out: this column focuses primarily on the costs of cards on ***Magic** Online*. I primarily play using ***Magic** Online*, and all of the decks you'll see tested here will be built and played on ***Magic** Online*. When I built the discard deck last week, I personally paid 3 tickets each for Debtors' Knell and 2 tickets each for Nezumi Shortfang. The total cost of each version of the deck was under 30 tickets. This is my goal and my limit – the deck must cost 30 tickets or less to build on ***Magic** Online*. I feel that this is a fair number to assign to a budget build, and it's the number that you can keep in mind when you see any deck here. Some will cost 30 tickets, some will cost a lot less than that – but 30 is the absolute high-end limit.
 
-![](https://i.ormos.uk/6e/51/6e51fa703c0d3db7e7b3bda6033448673750429c826dcf917e259ddfe22bc3c4.jpg)JerichoApo claimed in our forums, that “It seemed like a robot programmed to design decks did the article.” I thought this was a great idea – get a robot who I could program to design decks and write my articles for me! I pitched the idea to Scott Johns and Ted Knutson – and while both were enthusiastic about bringing aboard a deck-designin', break-dancin' robot, neither could find space in the budget to buy one for me. 
+![](https://i.ormos.uk/6e/51/6e51fa703c0d3db7e7b3bda6033448673750429c826dcf917e259ddfe22bc3c4.jpg)
+
+JerichoApo claimed in our forums, that “It seemed like a robot programmed to design decks did the article.” I thought this was a great idea – get a robot who I could program to design decks and write my articles for me! I pitched the idea to Scott Johns and Ted Knutson – and while both were enthusiastic about bringing aboard a deck-designin', break-dancin' robot, neither could find space in the budget to buy one for me. 
 
 So I built my own, out of scraps of aluminum foil, an old solar-powered pocket calculator, and a stack of Mindless Automatons. I named him Boab, after this column. Say hello to the public, Boab!
 
@@ -679,7 +681,9 @@ There's only one way to answer these questions – try out the deck.
 
 **Game #1: Grunung (Black/White lifegain)**
 
-![](https://i.ormos.uk/18/e6/18e672d87ddabeb6d189775495c40615f5ef4f0f409519aa2a12ac6962ce05cb.jpg)Gurung opens quickly with an Orzhov Guildmage and a Mourning Thrull. I drop Indentured Oaf, and it promptly feels Mortified. A Sparkmage Apprentice with Fencer's Magemark stalls his team (killing his flyer and stopping his Guildmage), but Agent of Masks plus Rune-Tail, Kitsune Ascendant put me on a clock. 
+![](https://i.ormos.uk/18/e6/18e672d87ddabeb6d189775495c40615f5ef4f0f409519aa2a12ac6962ce05cb.jpg)
+
+Gurung opens quickly with an Orzhov Guildmage and a Mourning Thrull. I drop Indentured Oaf, and it promptly feels Mortified. A Sparkmage Apprentice with Fencer's Magemark stalls his team (killing his flyer and stopping his Guildmage), but Agent of Masks plus Rune-Tail, Kitsune Ascendant put me on a clock. 
 
 I get stuck at six mana, holding both Borborygmos and Skarrgan Skybreaker. Meanwhile, Grunung's dropped a second Orzhov Guildmage, and is dropping me three life a turn without attacking (two Guildmage activations plus the Agent). Fortunately, I have a few medium-ish creatures out, and he trades his second Guildmage for my Bloodscale Prowler. This allows me to semi-stabilize the board at eight life, as I draw lands number seven and eight, allowing me to drop Borborygmos on one turn, and cast plus activate the Skybreaker to kill his other Guildmage the following turn. Unfortunately, Grunung has Spirit Link for Borborygmos and Faith's Fetters for one of my other creatures, and I eventually die to Agent of Masks.
 

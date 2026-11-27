@@ -109,7 +109,9 @@ Gary – 1 Ben – 0
 
 Ben mulliganed his openers with a cry to the rafters, "Almighty! What have I done? I pray every night!!!" His second hand was more acceptable and they were off. Ben played a morph and Gary made another 3/3 Brawler with the help of a Twisted Abomination.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a773.jpg)Ben did not have a fourth land and played the mighty Mistform Warchief. It did seem pretty mighty when he double blocked the Brawler on the next turn and used the Warchief's ability to become a bird and returned it with his Raven Guild Initiate. Gary played a Toxin Sliver.
+![](http://www.wizards.com/sideboard/images/worlds03/a773.jpg)
+
+Ben did not have a fourth land and played the mighty Mistform Warchief. It did seem pretty mighty when he double blocked the Brawler on the next turn and used the Warchief's ability to become a bird and returned it with his Raven Guild Initiate. Gary played a Toxin Sliver.
 
 The Warchief returned and Gary kept attacking. He cycled Sunfire Balm to save his morph and played a Withered Wretch. 
 

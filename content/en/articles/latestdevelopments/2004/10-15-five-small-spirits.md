@@ -164,7 +164,9 @@ Blazing Effigy 2 was a major improvement over the original; not only could it at
 
 ### The Inspiration
 
-![](https://i.ormos.uk/28/52/2852b432910cb6f5fcdcf4fc977918faf52a7c3d87d4ec73083bec242b77f262.jpg)When the file was handed over to development, it contained those two cards—both Spirits, both with 0 power, both common, and both with “goes to the graveyard” triggered abilities. Developer Devin Low had an idea, and made a comment on the blue “wall”:
+![](https://i.ormos.uk/28/52/2852b432910cb6f5fcdcf4fc977918faf52a7c3d87d4ec73083bec242b77f262.jpg)
+
+When the file was handed over to development, it contained those two cards—both Spirits, both with 0 power, both common, and both with “goes to the graveyard” triggered abilities. Developer Devin Low had an idea, and made a comment on the blue “wall”:
 
 > DAL 10/15: Very similar to this set's Blazing Effigy, but the two are not sync'ed up. Could make the link stronger, or even an effigy cycle.
 

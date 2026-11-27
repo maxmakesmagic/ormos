@@ -100,7 +100,9 @@ render_recovery:
 
 * * *
 
-![You Make the Card 3](https://i.ormos.uk/38/c5/38c5413f1b09af946043f74ca531fd15e93717bb558879c7b505459f7f383e2d.jpg "You Make the Card 3")The people have spoken and we have a card type. You Make the Card #1 was a creature. You Make the Card #2 was an artifact. You Make the Card #3 will pave new ground as an... instant or sorcery. Here's how the voting broke down:
+![You Make the Card 3](https://i.ormos.uk/38/c5/38c5413f1b09af946043f74ca531fd15e93717bb558879c7b505459f7f383e2d.jpg "You Make the Card 3")
+
+The people have spoken and we have a card type. You Make the Card #1 was a creature. You Make the Card #2 was an artifact. You Make the Card #3 will pave new ground as an... instant or sorcery. Here's how the voting broke down:
 
 <table><tbody><tr><td><b>Answer</b></td>&#10;<td><b>Votes</b></td>&#10;<td><b>%</b></td>&#10;</tr>&#10;<tr><td><b>Instant or Sorcery</b></td>&#10;<td>3853</td>&#10;<td>43.5%</td>&#10;</tr>&#10;<tr><td>Enchantment </td>&#10;<td>2507</td>&#10;<td>28.3%</td>&#10;</tr>&#10;<tr><td>Creature</td>&#10;<td> 2504</td>&#10;<td>28.2%</td>&#10;</tr>&#10;<tr><td><b>Total</b></td>&#10;<td><b>8864</b></td>&#10;<td><b>100%</b></td>&#10;</tr>&#10;</tbody></table>
 

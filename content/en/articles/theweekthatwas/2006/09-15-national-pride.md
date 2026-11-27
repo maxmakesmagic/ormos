@@ -2172,7 +2172,9 @@ For those of you who look back fondly of your early **Magic** experiences and re
 
 For stores already running DCI-sanctioned **Magic** tournaments, a new Tournament Support kit will be available. This kit will feature two different exclusive premium cards, along with other tournament-support information. If you're itching to play at your local store, ask your retailer to look into the new tournament kits. For the official Wizards of the Coast statement about the closing of Arena, click [here](https://web.archive.org/web/20071015184400/http://wizards.com/default.asp?x=events/magic/arena). 
 
-[![](https://i.ormos.uk/25/75/2575a87c24c78b89727bbe01fe7c2f9dfe8a999d4831b735ef79fd3403d5d8fe.jpg)](https://web.archive.org/web/20071012140041/http://wizards.com/default.asp?x=events/magic/gateway)In Europe, Arena is being replaced with the [Gateway Program](https://web.archive.org/web/20071012140041/http://wizards.com/default.asp?x=events/magic/gateway), a two-tiered effort to support new players with a more casual tournament experienced. I spoke with Felix Huybrechts, Senior Organized Play Manager for Europe, about the new initiative and he was kind enough to do a little Q&A with me. 
+[![](https://i.ormos.uk/25/75/2575a87c24c78b89727bbe01fe7c2f9dfe8a999d4831b735ef79fd3403d5d8fe.jpg)](https://web.archive.org/web/20071012140041/http://wizards.com/default.asp?x=events/magic/gateway)
+
+In Europe, Arena is being replaced with the [Gateway Program](https://web.archive.org/web/20071012140041/http://wizards.com/default.asp?x=events/magic/gateway), a two-tiered effort to support new players with a more casual tournament experienced. I spoke with Felix Huybrechts, Senior Organized Play Manager for Europe, about the new initiative and he was kind enough to do a little Q&A with me. 
 
 *I understand this program is phasing out Arena in Europe ... why?*
 

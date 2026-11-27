@@ -44,7 +44,9 @@ archive_source:
   sha256: 87dec9b92916c578d6345eb78c038b5a835aacbb2248155641a3cb1052535221
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a878.jpg)As soon as the Top 8 pairings went up and the decklists were passed out to the competitors, Jurgen Hahn predicted he'd be here in the finals. His deck – blue/green/red madness – has favorable matchups against everything else in the Top 8 except Sam Lau's Psychatog, and Lau was doomed to fall to Squirrel/Opposition in the quarterfinals. So far it's all worked according to plan; Hahn dispatched Jeff Cunningham and Ray Weiss, both in four games, and he's now ready to take down Jon Stern for the title.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a878.jpg)
+
+As soon as the Top 8 pairings went up and the decklists were passed out to the competitors, Jurgen Hahn predicted he'd be here in the finals. His deck – blue/green/red madness – has favorable matchups against everything else in the Top 8 except Sam Lau's Psychatog, and Lau was doomed to fall to Squirrel/Opposition in the quarterfinals. So far it's all worked according to plan; Hahn dispatched Jeff Cunningham and Ray Weiss, both in four games, and he's now ready to take down Jon Stern for the title.
 
 Stern is kind of the surprise of the Top 8. He proved himself as a limited specialist of sorts yesterday, going 6-0 in the draft portion. He needed every one of those wins, considering his red/green deck only managed a 3-3 record on day 1. He had a pretty good matchup against Richard Hoaen in the quarters, and capitalized on a mistake by David Rood in the semis. And now he must face Hahn, who is playing a deck designed to crush red/green.
 
@@ -70,7 +72,9 @@ Stern had a chance to kill the Looter with his Lavamancer in response to Hahn tr
 
 Stern 1 – Hahn 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a885.jpg)Both players started with turn-2 Mongrels in the third game and attacked back and forth. Stern added a Meteor Storm to the table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a885.jpg)
+
+Both players started with turn-2 Mongrels in the third game and attacked back and forth. Stern added a Meteor Storm to the table.
 
 When Stern attacked Hahn on his fourth turn, Hahn madnessed out an Arrogant Wurm using his Mongrel and blocked Stern's. Stern pitched two cards, enough to trade with the Wurm but not enough to save his Mongrel. He then cast a Flametongue, targeting Hahn's Mongrel, and Hahn pitched enough cards to save it.
 

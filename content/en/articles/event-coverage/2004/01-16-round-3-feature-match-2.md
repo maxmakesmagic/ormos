@@ -44,7 +44,9 @@ archive_source:
   sha256: a1e9aa0e5dba9b2296337bb62c1ffa475275441317e9dda43e22911bb80751f9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm4_1.jpg)This is Boeken's first Pro Tour since Yokohama, when he failed to place high enough to stay on the gravy train. The good news is that he won the last chance qualifier to get back on the Pro Tour in his own country, but the bad news is that the tournament ended early this morning, and he's only had about an hour of sleep. With the new format of eight rounds and three drafts, endurance is sure to become a factor. So far, that's proven to be the case as he's 0-2, and looking to salvage this draft with a win. He didn't even get an easy loser's bracket match either, as his opponent is Bob Maher.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm4_1.jpg)
+
+This is Boeken's first Pro Tour since Yokohama, when he failed to place high enough to stay on the gravy train. The good news is that he won the last chance qualifier to get back on the Pro Tour in his own country, but the bad news is that the tournament ended early this morning, and he's only had about an hour of sleep. With the new format of eight rounds and three drafts, endurance is sure to become a factor. So far, that's proven to be the case as he's 0-2, and looking to salvage this draft with a win. He didn't even get an easy loser's bracket match either, as his opponent is Bob Maher.
 
 Game 1-
 

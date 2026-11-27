@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a930.jpg)If there is one expression you often hear in European **Magic** it's certainly "good Dutch player". It somehow comes with the territory. If you are Dutch, and you play in premier events in Europe, you will play well. Victor is another of those players.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a930.jpg)
+
+If there is one expression you often hear in European **Magic** it's certainly "good Dutch player". It somehow comes with the territory. If you are Dutch, and you play in premier events in Europe, you will play well. Victor is another of those players.
 
 Across the table Gabriel Nassif is also a member of a larger portion of the European **Magic**: the new successful horde of players from France. They crowded  
  Pro Tour-Osaka in the wake of Farid's win in San Diego but somehow eclipsed in their own Pro Tour (Nice). Nassif lost to a "deity" named Kai Budde in the finals of Grand Prix-London last year.
@@ -60,7 +62,9 @@ Across the table Gabriel Nassif is also a member of a larger portion of the Euro
 
 Nassif probably wasn't too happy when he saw the cards in Victor's hands with his second turn Fiend: Phantom Centaur, Arrogant Wurm, Violent Eruption and Barbarian Bully. His eyebrows arched as he understood how hard this round would be. After some notes he took the Eruption.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a931.jpg)In came the Bully, followed by the Centaur as Gabriel dropped Whispering Shade and used Grizzly Fate. One of the bears jumped in front of Centaur. In came the Wurm.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a931.jpg)
+
+In came the Bully, followed by the Centaur as Gabriel dropped Whispering Shade and used Grizzly Fate. One of the bears jumped in front of Centaur. In came the Wurm.
 
 The Frenchman braced for the pain when Broek pushed his whole crew in. He tried Second Thoughts but the Dutch had the Syncopate for it. That swing brought Nassif down to six.
 
@@ -82,7 +86,9 @@ After a mulligan, Nassif again had a second turn Fiend and again had reason to w
 
 Meanwhile the Dutch was busy setting shop: Krosan Archer, Narcissism and Arrogant Wurm. The best that Gabriel could do was play a second Torturer and Earsplitting Rats (losing Morbid Hunger while his opponent discarded a Forest).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a932.jpg)The green duo took trips to the red zone dropping Nassif to eight before he resigned himself to chump blocking. Seeing his opponent with five mana open Victor only sent the Archer, hoping to draw a potential Second Thoughts to this creature and not the Wurm.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a932.jpg)
+
+The green duo took trips to the red zone dropping Nassif to eight before he resigned himself to chump blocking. Seeing his opponent with five mana open Victor only sent the Archer, hoping to draw a potential Second Thoughts to this creature and not the Wurm.
 
 So we set into a pattern: the Archers attacked, the Rats blocked, Torturer made Archers smaller, Victor pumped the Archers, Nassif discarded to regenerate the Rats. We played this for a few turns.
 

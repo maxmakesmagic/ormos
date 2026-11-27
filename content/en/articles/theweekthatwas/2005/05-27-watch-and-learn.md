@@ -93,7 +93,9 @@ It did not look like fate was going to be on Terry's side after he lost to Tsuyo
 
 “I have so much faith in it beating Goblins," he said. "If I have a chance again, I'm for sure siding in the [Oxidize](https://web.archive.org/web/20050527000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oxidize), since turn-one Vial is the only way for him to win.”
 
-![](https://i.ormos.uk/45/b0/45b0f02d096214fd96f2b91cab68f371ebd1f580e294c17e818b535880d5e98d.jpg)The finals closed on Standard and Terry stayed perfect with his Tooth and Nail when he beat Fujita's rareless recursive rat deck. Terry's deck had a heavy beatdown sideboard and the two players played a guessing game after Game One -- a guessing game Fujita lost when he left his creature control in the sideboard for the second game.
+![](https://i.ormos.uk/45/b0/45b0f02d096214fd96f2b91cab68f371ebd1f580e294c17e818b535880d5e98d.jpg)
+
+The finals closed on Standard and Terry stayed perfect with his Tooth and Nail when he beat Fujita's rareless recursive rat deck. Terry's deck had a heavy beatdown sideboard and the two players played a guessing game after Game One -- a guessing game Fujita lost when he left his creature control in the sideboard for the second game.
 
 When Jin, Master of Disruption sees the light of day a year or so from now, it will provide a rematch of sorts as it vies with Fujita's Unluckyman's Paradise in the price guides as the sought-after rares from that set.
 

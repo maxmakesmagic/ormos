@@ -83,7 +83,9 @@ render_recovery:
   - Chain of Plasma
   occurrences: 33
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a947.jpg)If you don't know who Kai Budde is you probably shouldn't be reading this right now. David Brucker, on the other hand, might be unknown to you if you somehow missed the [European Championships](/nl/articles/event-coverage/2002/06-28-2002-european-championship-coverage) this year. Current European Champion, David doesn't have many accomplishments to boast about yet but this 6-0 might lead to another high profile finish to put on his resume.
+![](http://www.wizards.com/sideboard/images/gpcop02/a947.jpg)
+
+If you don't know who Kai Budde is you probably shouldn't be reading this right now. David Brucker, on the other hand, might be unknown to you if you somehow missed the [European Championships](/nl/articles/event-coverage/2002/06-28-2002-european-championship-coverage) this year. Current European Champion, David doesn't have many accomplishments to boast about yet but this 6-0 might lead to another high profile finish to put on his resume.
 
 Before Game 1 Kai and David discussed the jankiness of David's deck and Kai wondered how he got this far... We'll see if David's pile can take down the best player in the world.
 
@@ -117,7 +119,9 @@ Time and time again Dragons have proven their worth in Limited formats, singleha
 
 David decided to keep a 2 swamp hand in game 3 and missed his land drop on turn 3. He drew a mountain and two plains on consecutive turns though, showing the signs of true playing skills. Kai's deck seemed to be a collection of dorky creatures, Rorix and Kamahl as he played a Nosy Goblin, two morph guys a Taunting Elf and a Symbiotic Elf. They did a wonderful job at keeping David at bay though so Kai might have enough time to draw his bombs.
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a948.jpg)David looked to move the game to the air with a Dive Bomber and Kai added a Snarling Undorak to his army. A Pacifism and an Erratic Explosion later, Kai's team was reduced to a sole Symbiotic Elf. A Haunted Cadaver added insult to injury reducing Kai to one card in hand.
+![](http://www.wizards.com/sideboard/images/gpcop02/a948.jpg)
+
+David looked to move the game to the air with a Dive Bomber and Kai added a Snarling Undorak to his army. A Pacifism and an Erratic Explosion later, Kai's team was reduced to a sole Symbiotic Elf. A Haunted Cadaver added insult to injury reducing Kai to one card in hand.
 
 Still, David didn't seem able to stabilize and he couldn't race Kai's dorks with his fliers because he took some early damage when he was busy drawing lands off the top. Kai added yet another 2 power guy to his army but David was not afraid sending his creatures in and putting Kai on 6. When Kai attacked with his two 3 power guys David blocked one and Kai decided not to risk removal with his Primal Boost, opting to play it safe with a Pinpoint Avalanche. This put David at 2 facing two 2 power creatures. He attacked the next turn anyway and Kai killed one of his fliers with a Pinpoint Avalanche. David played another 2/2 flier and passed the turn with a white and a red mana open. A Chain of Plasma didn't cut it though as Kai had the Primal Boost to save his guy.
 

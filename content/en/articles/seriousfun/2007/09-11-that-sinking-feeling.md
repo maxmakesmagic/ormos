@@ -188,7 +188,9 @@ render_recovery:
 ---
 * * *
 
-![Filth](https://i.ormos.uk/5f/14/5f14a0c1ec693d3d34d0f6441178ec8ed3b504a8a5932c8448caff2930ee4981.jpg)You know how I knew Wizards was giving me a good card to preview? The card had a one-word name. And it was a real word, too, not something made-up like "Torchling" or "Pyroclasm." Nor was it a real-but-vaguely-obscure word that would be left out in abridged dictionaries, like "Evangelize." 
+![Filth](https://i.ormos.uk/5f/14/5f14a0c1ec693d3d34d0f6441178ec8ed3b504a8a5932c8448caff2930ee4981.jpg)
+
+You know how I knew Wizards was giving me a good card to preview? The card had a one-word name. And it was a real word, too, not something made-up like "Torchling" or "Pyroclasm." Nor was it a real-but-vaguely-obscure word that would be left out in abridged dictionaries, like "Evangelize." 
 
 No, the word that Wizards chose for me was an everyday word we've all used: 
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 2fe2d0b4d89cdfdd68de77559c76d04e525c7953e42c70c582bb181ac1be44a5
 render_recovery: []
 ---
-![](https://i.ormos.uk/02/3a/023aee0348060010a06ffc4807a30a1795fd190044d2e0f39a6252768ac09487.jpg)A match of the two best European players of the last season, it's hard to find a higher profile match at any GP. Jens is bringing a White/Black deck to the table with a lot of power rares like [Grinning Demon](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grinning+Demon), [Akroma's Vengeance](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) and [Riptide Replicator](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Replicator). Kai is playing a fast White/Red deck with lots of fliers.
+![](https://i.ormos.uk/02/3a/023aee0348060010a06ffc4807a30a1795fd190044d2e0f39a6252768ac09487.jpg)
+
+A match of the two best European players of the last season, it's hard to find a higher profile match at any GP. Jens is bringing a White/Black deck to the table with a lot of power rares like [Grinning Demon](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grinning+Demon), [Akroma's Vengeance](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) and [Riptide Replicator](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Replicator). Kai is playing a fast White/Red deck with lots of fliers.
 
 ### Game 1
 
@@ -64,7 +66,9 @@ Another game another mulligan. Jens shot a glare at Kai, Kai could only shrug an
  "Oh...right."  
  "Ah...prereleases."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a841.jpg)Jens was on the backfoot all game, his mulligan playing first made sure he couldn't keep up with Kai's creature rush. Jens died as he had no way to deal with two [Gustcloak Harrier](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Harrier)s and scooped when Kai showed him an [Erratic Explosion](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion) to the dome.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a841.jpg)
+
+Jens was on the backfoot all game, his mulligan playing first made sure he couldn't keep up with Kai's creature rush. Jens died as he had no way to deal with two [Gustcloak Harrier](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Harrier)s and scooped when Kai showed him an [Erratic Explosion](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion) to the dome.
 
 A rather unexciting match as Kai just rolled over Jens who couldn't really keep up due to his mulligans. Too bad a match between two great players couldn't offer more than that.
 

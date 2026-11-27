@@ -75,7 +75,9 @@ render_recovery:
   - Aether Burst
   occurrences: 29
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a978.jpg)Usually, Kazuyuki Momose only comes out of hibernation to play in the Team Masters. He and teammates Reiji Andou and Itaru Ishida are the famed Panzer Hunters, who have made the finals of that prestigious event twice. Today, however, his long hiatus from singles competition seems to have come to an end. He is playing green-blue threshold. His opponent, Nobuaki Shikata, is less lettered, but still has a Top 8 at Grand Prix - Hiroshima to his credit. Shikata is running blue-green Quiet Speculation, similar in design to Kai Budde's Worlds deck.
+![](http://www.wizards.com/sideboard/images/gpsap02/a978.jpg)
+
+Usually, Kazuyuki Momose only comes out of hibernation to play in the Team Masters. He and teammates Reiji Andou and Itaru Ishida are the famed Panzer Hunters, who have made the finals of that prestigious event twice. Today, however, his long hiatus from singles competition seems to have come to an end. He is playing green-blue threshold. His opponent, Nobuaki Shikata, is less lettered, but still has a Top 8 at Grand Prix - Hiroshima to his credit. Shikata is running blue-green Quiet Speculation, similar in design to Kai Budde's Worlds deck.
 
 Momose led with Nimble Mongoose. Shikata came back with a Careful Study that put Roar of the Wurm in the graveyard. Momose kept the pressure up with Wild Mongrel, and was matched. He hit for two and played a second Mongrel, waiting on Mental Note.
 
@@ -85,7 +87,9 @@ Shikata stole whatever hope Momose had of outracing when he dropped a fourth lan
 
 Shikata 1 - Momose 0
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a977.jpg)Momose stared at a one-island hand for Game 2. It held Careful Study and Basking Rootwalla, however, so he chose to keep. The Study hit no lands, and neither did his following draw. Meanwhile Shikata busted out Mental Note, again putting Wonder where it belongs, and Wild Mongrel. Momose found Centaur Garden, and used it to make a Werebear.
+![](http://www.wizards.com/sideboard/images/gpsap02/a977.jpg)
+
+Momose stared at a one-island hand for Game 2. It held Careful Study and Basking Rootwalla, however, so he chose to keep. The Study hit no lands, and neither did his following draw. Meanwhile Shikata busted out Mental Note, again putting Wonder where it belongs, and Wild Mongrel. Momose found Centaur Garden, and used it to make a Werebear.
 
 Shikata Studied, losing Grizzly Fate and Careful Study. His Mongrel hit and he passed it back. Now Momose was rolling. He powered out Mongrel and still had his island open to stop the Roar that Shikata Noted into. He untapped and brought out Mongrel and Mongoose, gearing up for the two Overruns in his hand.
 

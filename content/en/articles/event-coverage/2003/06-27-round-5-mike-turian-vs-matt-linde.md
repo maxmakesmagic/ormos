@@ -44,7 +44,9 @@ archive_source:
   sha256: 74277a8b112400f03dab0e91f48a0cecbcfd5ae8a16c72fcd085e623a9c3e5b7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a895.jpg)Two of the longest running members of the Pro Tour gravy train met in a round five Feature Match. Mike Turian and Matt Linde each won all three day 1 constructed matches, but each lost their first draft match of the tournament. Turian was running a soldier deck with a splash of blue while Linde's deck is mono-black.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a895.jpg)
+
+Two of the longest running members of the Pro Tour gravy train met in a round five Feature Match. Mike Turian and Matt Linde each won all three day 1 constructed matches, but each lost their first draft match of the tournament. Turian was running a soldier deck with a splash of blue while Linde's deck is mono-black.
 
 Turian came out fast in Game 1 with [Glory Seeker](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker) and [Zealous Inquisitor](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zealous+Inquisitor). However, when he failed to play a land on turn four he looked over at me and growled. It seems that my former teammate never seems to draw any land when I watch him play.
 

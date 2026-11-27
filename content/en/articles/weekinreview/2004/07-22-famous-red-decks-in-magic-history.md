@@ -199,13 +199,17 @@ Paul Sligh
   
  
 
-![](https://i.ormos.uk/a2/0d/a20dcea721f5806cec6764b2deb8fd4ca9ec2a38108980094c88dbd08a98dd51.jpg)One of the things to remember looking at this deck list is that the format it was played in required you to build the deck using 5 cards from every legal expansion set (this was the format used in Pro Tour 1 and the subsequent round of qualifiers for Pro Tour 2).
+![](https://i.ormos.uk/a2/0d/a20dcea721f5806cec6764b2deb8fd4ca9ec2a38108980094c88dbd08a98dd51.jpg)
+
+One of the things to remember looking at this deck list is that the format it was played in required you to build the deck using 5 cards from every legal expansion set (this was the format used in Pro Tour 1 and the subsequent round of qualifiers for Pro Tour 2).
 
 Although the deck ended up named after Paul Sligh, it was designed by Jay Schneider – a popular Internet writer and deck builder from the Atlanta area at the time. Schneider has designed a number of high profile decks and always strives to find innovative strategies whenever a new expansion set is released, but Sligh is by far is greatest creation.
 
 Despite the deck's "goofy" appearance, players quickly realized that Paul Sligh and Jay Schneider were on to something here. Shortly thereafter various Sligh builds were running rampant in the metagame. Players would even adjust their Sligh decks for the mirror, using Keeper of Kookus! Others would play 3 to 5-color Sligh, splashing for powerful off-color cards such as Armageddon and Derelor.
 
-![](https://i.ormos.uk/4f/ce/4fce23e153522eeb149955fac4b2fd715336e54a7f7f83e815a7d59352e3e3ce.jpg)While Sligh decks continued to exist in the metagame from 1996 on, it was the introduction of *Tempest* that really kicked the archetype into high gear. Cursed Scroll, Jackal Pup and Mogg Fanatic were all obvious additions to the deck. Wasteland did not hurt either. In fact, there were so many good red cards in *Tempest* that Sligh became by far the most popular and the most powerful deck in that Block format. 
+![](https://i.ormos.uk/4f/ce/4fce23e153522eeb149955fac4b2fd715336e54a7f7f83e815a7d59352e3e3ce.jpg)
+
+While Sligh decks continued to exist in the metagame from 1996 on, it was the introduction of *Tempest* that really kicked the archetype into high gear. Cursed Scroll, Jackal Pup and Mogg Fanatic were all obvious additions to the deck. Wasteland did not hurt either. In fact, there were so many good red cards in *Tempest* that Sligh became by far the most popular and the most powerful deck in that Block format. 
 
 Dave Price, already a popular player and writer for The Dojo and *Duelist* magazine, earned his Pro Tour championship title using this strategy in Los Angeles. A huge percentage of the field was running Mountains, but he beat out the competition. It's important to note that around this time was when the deck typically referred to as "Sligh" shifted from a more board controlling strategy to a much more focused beatdown approach. 
 
@@ -265,7 +269,9 @@ Chris Benafel
   
  
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/ennat04/fin1.jpg)Another historically important mono-red build is "Red Deck Wins" (also referred to as RDW, Red Deck Wins 2000, RDW2K, you name it) by John Ormerod. Ormerod is one of the top deck designers in the game and has worked with many of the game's best-known players, including Zvi Mowshowitz and Kai Budde. He's also enjoyed recent success by winning this year's England National Championships. His Red Deck Wins creation was played by Dan Paskins in the 2000 English National Championship. It went on to show up at the top of the standings both at the European Championships and Worlds that year. Sigurd Eskeland made top 16 at Euros with this build.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/ennat04/fin1.jpg)
+
+Another historically important mono-red build is "Red Deck Wins" (also referred to as RDW, Red Deck Wins 2000, RDW2K, you name it) by John Ormerod. Ormerod is one of the top deck designers in the game and has worked with many of the game's best-known players, including Zvi Mowshowitz and Kai Budde. He's also enjoyed recent success by winning this year's England National Championships. His Red Deck Wins creation was played by Dan Paskins in the 2000 English National Championship. It went on to show up at the top of the standings both at the European Championships and Worlds that year. Sigurd Eskeland made top 16 at Euros with this build.
 
 Sigurd Eskeland 
 

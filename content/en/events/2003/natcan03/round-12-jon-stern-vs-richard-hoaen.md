@@ -77,7 +77,9 @@ render_recovery:
   - Counterspell
   occurrences: 30
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a918.jpg)Ideally, these two giants would be sitting across from each other with the title on the line. Last year they crossed swords in the Top 8, with Stern emerging the victor on his way to a second-place finish. They both put on a good show at Yokohama, with Stern finishing eighteenth, and Hoaen eighth. Now the winner of this match will advance to Sunday, while the loser will be reduced to spectator status. Whatever happens, you'll get to watch for these two teaming together with Gab Tsang at the upcoming Pro Tour – Boston. 
+![](http://www.wizards.com/sideboard/images/natcan03/a918.jpg)
+
+Ideally, these two giants would be sitting across from each other with the title on the line. Last year they crossed swords in the Top 8, with Stern emerging the victor on his way to a second-place finish. They both put on a good show at Yokohama, with Stern finishing eighteenth, and Hoaen eighth. Now the winner of this match will advance to Sunday, while the loser will be reduced to spectator status. Whatever happens, you'll get to watch for these two teaming together with Gab Tsang at the upcoming Pro Tour – Boston. 
 
 Stern mulliganed a questionable hand, but was rewarded with an acceptable six. Hoaen likewise went down to six, and they were off.
 
@@ -105,7 +107,9 @@ Hoaen 1 – Stern 0
 
 "I run the peek at every opportunity." – Richard Hoaen
 
-![](http://www.wizards.com/sideboard/images/natcan03/a920.jpg)Stern led with Krosan Verge, and was exposed by a Duress from Hoaen. He had two forests, a Lonely Sandbar, Memory Lapse and Counterspell. Hoaen took the Lapse. Stern played the Sandbar, letting Hoaen bust out Compulsion. Stern played his third land and a morph. He waited for a Smother from Hoaen, but none came. He just played his third land and was done. If Stern could draw a white source, he could steal this game.
+![](http://www.wizards.com/sideboard/images/natcan03/a920.jpg)
+
+Stern led with Krosan Verge, and was exposed by a Duress from Hoaen. He had two forests, a Lonely Sandbar, Memory Lapse and Counterspell. Hoaen took the Lapse. Stern played the Sandbar, letting Hoaen bust out Compulsion. Stern played his third land and a morph. He waited for a Smother from Hoaen, but none came. He just played his third land and was done. If Stern could draw a white source, he could steal this game.
 
 Stern tried another morph, but this one got busted up by Logic via Compulsion. Stern shrugged as he drew the third and final forest in his deck. Waiting on the Krosan Verge had turned around and bit him. He wasn't drawing the tools he needed to fight Hoaen. Hoaen meanwhile resolved a Deep Analysis and found himself a Smother, removing Stern's offense. A pair of Duresses stripped Stern's hand, and it wasn't much longer before Hoaen was in total control. The endgame was as you'd expect.
 

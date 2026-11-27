@@ -511,7 +511,9 @@ render_recovery:
 ---
 ### Will the new cards impact the highest level?
 
-![Worlds 2003](https://i.ormos.uk/25/4a/254a5ce795ebe074a5cb2ffbbd806ea73306298c5fc34143eff9212db052c1bf.jpg)Today begins the 2003 **Magic: The Gathering** World Championships. It is the culmination of both the current Pro Tour season and a series of qualifying events that began with Regionals and continued on to the various National Championships around the world.
+![Worlds 2003](https://i.ormos.uk/25/4a/254a5ce795ebe074a5cb2ffbbd806ea73306298c5fc34143eff9212db052c1bf.jpg)
+
+Today begins the 2003 **Magic: The Gathering** World Championships. It is the culmination of both the current Pro Tour season and a series of qualifying events that began with Regionals and continued on to the various National Championships around the world.
 
 The eyes of the world will be on Berlin (the host city for the event) for a variety of reasons. In addition to the normal coverage provided on the [Sideboard](https://web.archive.org/web/20030806000000/http://www.wizards.com/sideboard) by myself and fellow MagicTheGathering.com contributors Randy Buehler, Josh Bennett, and Toby Wacther there will be *live* streaming video of the Top 8 matches on Sunday. It is an exciting step forward in online event coverage. In addition to watching the best players in the world duke it out for the title of World Champion, you can listen to Randy's live play by play commentary.
 

@@ -182,7 +182,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/54/a8/54a80bde2976d1de88a6832c173625619a11deb3541b3a5d97f3c100ce424d18.jpg)Welcome to *Unglued* Week! You have no idea how long I've waited to say that. (I think my desire for *Unhinged* Week won't be quite as long a wait.) As this is a design column and I was the lead designer – well, the entire design team – for *Unglued*, it seems only appropriate to tell the story of *Unglued's* design. So just sit right back and you'll hear a tale, a tale of a fateful trip. That started… oops, sorry *Gilligan's Island* flashback. But seriously (okay, not that seriously, this is the *Unglued* design story column after all), here is how *Unglued* came to be.
+![](https://i.ormos.uk/54/a8/54a80bde2976d1de88a6832c173625619a11deb3541b3a5d97f3c100ce424d18.jpg)
+
+Welcome to *Unglued* Week! You have no idea how long I've waited to say that. (I think my desire for *Unhinged* Week won't be quite as long a wait.) As this is a design column and I was the lead designer – well, the entire design team – for *Unglued*, it seems only appropriate to tell the story of *Unglued's* design. So just sit right back and you'll hear a tale, a tale of a fateful trip. That started… oops, sorry *Gilligan's Island* flashback. But seriously (okay, not that seriously, this is the *Unglued* design story column after all), here is how *Unglued* came to be.
 
 ### Here Comes the *Un*
 
@@ -253,7 +255,9 @@ Category six were cards aimed at the more serious player. Yes, *Unglued* would h
 
 ### Hot Crossed *Uns*
 
-![](https://i.ormos.uk/b3/23/b32378326a3af23526e38db7dd93d3e14c4e1a54e3b664e693225996a31f2e21.jpg)In my early days at Wizards, I use to travel to any convention/expo/tournament they would send me to. As such, I had the golden opportunity to interact with many of our freelancers. You might know them better as our artists. One such artist was a man named Christopher Rush. You might recognize him from such cards as Black Lotus, Rukh Egg, and Snow-covered Plains. At the time Chris worked for Wizards, but I never had a chance to talk with him during our normal day-to-day activities. But at conventions, all that changed. At conventions, Chris and I used to talk. 
+![](https://i.ormos.uk/b3/23/b32378326a3af23526e38db7dd93d3e14c4e1a54e3b664e693225996a31f2e21.jpg)
+
+In my early days at Wizards, I use to travel to any convention/expo/tournament they would send me to. As such, I had the golden opportunity to interact with many of our freelancers. You might know them better as our artists. One such artist was a man named Christopher Rush. You might recognize him from such cards as Black Lotus, Rukh Egg, and Snow-covered Plains. At the time Chris worked for Wizards, but I never had a chance to talk with him during our normal day-to-day activities. But at conventions, all that changed. At conventions, Chris and I used to talk. 
 
 It was at one of these conventions that Chris told me of an idea for a cool land variant. “Everyone knows what a land does,” Chris said, “So let's take all that space and just use it for art.”
 

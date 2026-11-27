@@ -91,7 +91,9 @@ render_recovery:
 
 **Game 3**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a356.jpg)森勝洋が2-1でタイトなダメージレースを制したことにより、森田雅彦の勝利はとても大きな意味をもつものということになった。安藤玲二よろしく、無意識に自分ビンタする森田。...筆者もはじめてみる光景である。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a356.jpg)
+
+森勝洋が2-1でタイトなダメージレースを制したことにより、森田雅彦の勝利はとても大きな意味をもつものということになった。安藤玲二よろしく、無意識に自分ビンタする森田。...筆者もはじめてみる光景である。
 
 しかしながら、どうやら勝利の女神のご機嫌とりに成功したのはPollockであるらしかった。
 

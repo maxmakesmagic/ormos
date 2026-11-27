@@ -57,7 +57,9 @@ Mori "rallied" with Tireless Tribe and then another Mongrel after Fujita readied
 
 Fujita 1 - Mori 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a982.jpg)Mori came to his senses for Game 2 and mulliganed an awful hand. His reward was more of the same. He kept six with just Sungrass Prairie. He ripped two forests off the top and was off to the races. First came Tireless Tribe, then Arrogant Wurm, then Anurid Brushhopper.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a982.jpg)
+
+Mori came to his senses for Game 2 and mulliganed an awful hand. His reward was more of the same. He kept six with just Sungrass Prairie. He ripped two forests off the top and was off to the races. First came Tireless Tribe, then Arrogant Wurm, then Anurid Brushhopper.
 
 Fujita's first play was on turn four, and it wasn't Mutilate. He had to Tutor for it. Mori's team hit him. He Mutilated for five, and Mori saved the Brushhopper. It swung and reduced Fujita to three.
 

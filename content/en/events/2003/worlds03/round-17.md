@@ -215,7 +215,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/9c/e9/9ce97e28c5386b2e0cc7788de628491570aa1cbc851f9ddcd16716f66903935e.jpg)This was essentially an elimination round for these two players. They were both sitting on 12-4 records and all a victory here would earn is the right to wage another do or die battle during the final round. Peer was the old time player with a couple of Pro Tour Top 8s on his resume while his opponent was a young player from Malaysia—and their National Champion. 
+![](https://i.ormos.uk/9c/e9/9ce97e28c5386b2e0cc7788de628491570aa1cbc851f9ddcd16716f66903935e.jpg)
+
+This was essentially an elimination round for these two players. They were both sitting on 12-4 records and all a victory here would earn is the right to wage another do or die battle during the final round. Peer was the old time player with a couple of Pro Tour Top 8s on his resume while his opponent was a young player from Malaysia—and their National Champion. 
 
 The hometown crowd was pulling for Peer to return to the Top 8 after a lengthy absence but the match-ups were working against him. Peer was playing a White Weenie deck with blue for Meddling Mage. His opponent's deck was a poor match-up for him—Rock. He was also having a bad week of feature matches. Three of his four losses were waiting for him in the wings of center stage.
 
@@ -229,7 +231,9 @@ Peer – 1 Han – 0
 
 ### Game 2
 
-![](https://i.ormos.uk/e9/4b/e94b8615dffa8d15c83dfc0d0c052147540e77ed46a3d91daed93c1a7fe50512.jpg)Peer had the turn two Whipcorder but it came after Han played a Wall of Blossoms. Yavimaya Elder was next and after Smothering the Whipcorder—Peer's only play—he played a Spiritmonger. A Benevolent Bodyguard offered no permanent solutions and Han played a Deranged Hermit a turn later to close the game out.
+![](https://i.ormos.uk/e9/4b/e94b8615dffa8d15c83dfc0d0c052147540e77ed46a3d91daed93c1a7fe50512.jpg)
+
+Peer had the turn two Whipcorder but it came after Han played a Wall of Blossoms. Yavimaya Elder was next and after Smothering the Whipcorder—Peer's only play—he played a Spiritmonger. A Benevolent Bodyguard offered no permanent solutions and Han played a Deranged Hermit a turn later to close the game out.
 
 Peer – 1 Han – 1
 
@@ -241,7 +245,9 @@ Peer could not afford to sit back on the Sarge—he was mindful of a Deed and he
 
 Parallax Wave was painful for Peer—he fell to thirteen—but it was more painful for Han with his Wall of Blossoms out of the game. Han missed land drop number four but had another Plague and infected the Savannah Lions.
 
-![](https://i.ormos.uk/e2/df/e2df19be60a7d11ce72d7cbc2595d6377e5fa2aa2ed8142b7ac7ec40981a0bfc.jpg)Peer got in for another three and played a face-down Whipcorder. Han missed another land drop but played a Bird of Paradise. Peer attacked with everyone and Han did not block and he dropped to five. Peer had only one card in hand while Han was choking on a full grip of seven. Not wanting to give Han the mana from the Bird he tucked it under his Wave. Han Vampiric Tutored down to three to find a Forest. He used it to play a Spike Feeder.
+![](https://i.ormos.uk/e2/df/e2df19be60a7d11ce72d7cbc2595d6377e5fa2aa2ed8142b7ac7ec40981a0bfc.jpg)
+
+Peer got in for another three and played a face-down Whipcorder. Han missed another land drop but played a Bird of Paradise. Peer attacked with everyone and Han did not block and he dropped to five. Peer had only one card in hand while Han was choking on a full grip of seven. Not wanting to give Han the mana from the Bird he tucked it under his Wave. Han Vampiric Tutored down to three to find a Forest. He used it to play a Spike Feeder.
 
 Peer continued to send the team and the Bodyguard died to save the Mage from dying to the Feeder. After the dust settled Han had gained a point of life and was teetering on four. Peer added a Silver Knight and passed the turn back. On his next turn the Wave went away and the Bird and Wall came back. The game was slowly slipping away from Peer and he had nothing in hand.
 

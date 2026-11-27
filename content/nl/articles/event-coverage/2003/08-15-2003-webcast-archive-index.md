@@ -44,7 +44,9 @@ archive_source:
   sha256: f7c15ce2b52b89902f74284b487fb5863310d748bec7544e152ebedd2084eac3
 render_recovery: []
 ---
-![](https://i.ormos.uk/73/c8/73c8b61ea5855ac9699024dbe82a54121289c28ca1a77d09af41dc0e7bec6440.jpg)2003 世界選手権 トップ 8 Webcast Archive へようこそ！
+![](https://i.ormos.uk/73/c8/73c8b61ea5855ac9699024dbe82a54121289c28ca1a77d09af41dc0e7bec6440.jpg)
+
+2003 世界選手権 トップ 8 Webcast Archive へようこそ！
 
 8/10、世界王者を争う決勝がトップ8 プレイヤーによるシングル－エリミネーション方式で行われました。各ラウンドの間には、国別対抗戦に勝ち進んだアメリカとフィンランドによるロチェスタードラフトも行われています。Wizards of the Coast は、この日全ての内容を、ファンが自宅でその一部始終を観戦出来るように、ライブストリーミング・ウェブキャストによって発信しました。
 

@@ -1551,7 +1551,9 @@ Elves! 対NLBという、このGPではたくさん見かけたであろう対�
 
 **Game 2**
 
-![](https://i.ormos.uk/0a/ee/0aee12af4cb5ac6164dad629b3fa583657a9de34aed394c6a85551ac8782f0cb.jpg)先ほどのゲームとは違い、今回はすんなり初手をキープした山本に対し、渋い表情をしたのは植田。土地が1枚しかないが、一応はデッキが機能するというElves!にありがちな7枚に、この第2ゲームのプランをどうするかで頭を悩ませる。結局、その7枚で始めることにするのだが、後手ということがどこまで影響するのだろうか。
+![](https://i.ormos.uk/0a/ee/0aee12af4cb5ac6164dad629b3fa583657a9de34aed394c6a85551ac8782f0cb.jpg)
+
+先ほどのゲームとは違い、今回はすんなり初手をキープした山本に対し、渋い表情をしたのは植田。土地が1枚しかないが、一応はデッキが機能するというElves!にありがちな7枚に、この第2ゲームのプランをどうするかで頭を悩ませる。結局、その7枚で始めることにするのだが、後手ということがどこまで影響するのだろうか。
 
 《溢れかえる岸辺/[Flooded Strand](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flooded+Strand)》、《島/[Island](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)》、《島》と、パーミッションらしく順調に土地をプレイし続ける山本だが、植田はそうはいかない。
 
@@ -1569,7 +1571,9 @@ Elves! 対NLBという、このGPではたくさん見かけたであろう対�
 
 **Game 3**
 
-![](https://i.ormos.uk/e1/57/e1572b997ea116e158de26409156ce846ae921cdcb725439068fe13157aaad2d.jpg)先行の植田はまたも7枚の手札を見て厳しい表情。手札には1マナのカードが沢山あるのだが、いかんせんそれらがエルフではなく、3枚の《ワイアウッドの共生虫》だったり、《思考囲い》では何がしたいのかよくわからない。仕方なくマリガンすると、《ラノワールのエルフ》や十分な色マナなど、そこそこの6枚を手に入れる。
+![](https://i.ormos.uk/e1/57/e1572b997ea116e158de26409156ce846ae921cdcb725439068fe13157aaad2d.jpg)
+
+先行の植田はまたも7枚の手札を見て厳しい表情。手札には1マナのカードが沢山あるのだが、いかんせんそれらがエルフではなく、3枚の《ワイアウッドの共生虫》だったり、《思考囲い》では何がしたいのかよくわからない。仕方なくマリガンすると、《ラノワールのエルフ》や十分な色マナなど、そこそこの6枚を手に入れる。
 
 《光り葉の宮殿/[Gilt-Leaf Palace](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gilt-Leaf+Palace)》からの《ラノワールのエルフ》、《思考囲い》とプレイする植田は、公開された山本の手札でプレイをかなり制限される。2枚の《ワイアウッドの養虫人》を持っているのだが、山本も《呪文嵌め》を持っており、カードを交換するのにマナの面で損をするからだ。
 
@@ -1698,7 +1702,9 @@ Elves! 対NLBという、このGPではたくさん見かけたであろう対�
 
 **Game 3** 
 
-![](https://i.ormos.uk/82/f9/82f92095ed6445bded25fde3a427526b586ef835a44d864fb541512554947d11.jpg)浜本が《密林の猿人》《ガドック･ティーグ》と調子良くクリーチャーを展開し、渡辺は《睡蓮の花》待機した後に《深遠の覗き見/[Peer Through Depths](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peer+Through+Depths)》2連打で手札を整える序盤戦。
+![](https://i.ormos.uk/82/f9/82f92095ed6445bded25fde3a427526b586ef835a44d864fb541512554947d11.jpg)
+
+浜本が《密林の猿人》《ガドック･ティーグ》と調子良くクリーチャーを展開し、渡辺は《睡蓮の花》待機した後に《深遠の覗き見/[Peer Through Depths](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peer+Through+Depths)》2連打で手札を整える序盤戦。
 
 浜本は《紅蓮光電の柱/[Pyrostatic Pillar](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyrostatic+Pillar)》と『TEPS』に効果的なカードを続けてプレイするのだが、渡辺は2発目の《深遠の覗き見》で《蒸気の連鎖》を獲得しており、現状は厳しい状態にしろコンボ成功にほぼリーチをかけている状態となった。
 
@@ -1822,7 +1828,9 @@ Elves! 対NLBという、このGPではたくさん見かけたであろう対�
 
 **Game 2**
 
-![](https://i.ormos.uk/2d/e0/2de00bb7fd75b6dbddec0649c93d0509da8d47063173d3cd4b2d3413a4eed396.jpg)先手の渡辺が《思案》で、そして山本が《祖先の幻視》の待機でというゲームスタート。
+![](https://i.ormos.uk/2d/e0/2de00bb7fd75b6dbddec0649c93d0509da8d47063173d3cd4b2d3413a4eed396.jpg)
+
+先手の渡辺が《思案》で、そして山本が《祖先の幻視》の待機でというゲームスタート。
 
 渡辺が2ターン目3ターン目と《戦慄艦の浅瀬》へカウンターを載せる以外のアクションが無いと見るやいなや、山本はターンエンドに《呪文づまりのスプライト》をキャストし、クロックを用意する。
 
@@ -1890,7 +1898,9 @@ Elves! 対NLBという、このGPではたくさん見かけたであろう対�
 
 山本は《睡蓮の花》に対処するべく《仕組まれた爆薬/[Engineered Explosives](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Explosives)》をX=0でキャストし、4マナ残してターンを終了する。
 
-![](https://i.ormos.uk/14/a5/14a539c3222879bcae11124668c14acfbcb7a3a4ea9d08aa6f668248c089866c.jpg)渡辺のアップキープ。アップキープ中にキャストされた《睡蓮の花》を破壊するべく、《仕組まれた爆薬》が起動され、山本の残りマナは2。これに対して渡辺は《睡蓮の花》をサクリファイスし、青マナを3つ生み出す。
+![](https://i.ormos.uk/14/a5/14a539c3222879bcae11124668c14acfbcb7a3a4ea9d08aa6f668248c089866c.jpg)
+
+渡辺のアップキープ。アップキープ中にキャストされた《睡蓮の花》を破壊するべく、《仕組まれた爆薬》が起動され、山本の残りマナは2。これに対して渡辺は《睡蓮の花》をサクリファイスし、青マナを3つ生み出す。
 
 青3マナを残したまま迎えた渡辺のドローフェイズ。
 
@@ -1950,7 +1960,9 @@ Kuo,Tzu Ching(台湾)は、斎藤 友晴が優勝した『GPシンガポール�
 
 まず、デッキが61枚に増えた理由だが、同じデッキを使用している友人が高橋優太の『ローム』に痛い目にあわされ、アドバイスによって『ローム』に対して有効なカードである《大祖始の遺産/[Relic of Progenitus](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Relic+of+Progenitus)》を急遽追加したためだと、Kuoは話しながら苦笑い。
 
-![](https://i.ormos.uk/ae/91/ae913510a542765834c39d11b47421d1153decd77d810e6446a047f5cee01fa8.jpg)次に、サイドボードに新たに加えられた《燎原の火/[Wildfire](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wildfire)》は、『GPシンガポール』で痛い目をあわされた『Naya Zoo』を意識・メタって採用したカードだというが、その威力については未知数なところが多い。
+![](https://i.ormos.uk/ae/91/ae913510a542765834c39d11b47421d1153decd77d810e6446a047f5cee01fa8.jpg)
+
+次に、サイドボードに新たに加えられた《燎原の火/[Wildfire](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wildfire)》は、『GPシンガポール』で痛い目をあわされた『Naya Zoo』を意識・メタって採用したカードだというが、その威力については未知数なところが多い。
 
 何故ならば、『GPシンガポール』時点で斎藤が使用していた『Naya Zoo』ならば《燎原の火/[Wildfire](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wildfire)》は全てのクリーチャーを流すことが可能なのだが、現在斎藤が使用しているデッキレシピはそこから大きな変化を遂げ、《聖遺の騎士/[Knight of the Reliquary](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+the+Reliquary)》という《燎原の火/[Wildfire](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wildfire)》で流せないクリーチャーが搭載されていたりと、Kuoにとって誤算となるような要素が多いように感じられるからだ。
 
@@ -1964,7 +1976,9 @@ Kuo,Tzu Ching(台湾)は、斎藤 友晴が優勝した『GPシンガポール�
 
 **Game 1**
 
-![](https://i.ormos.uk/52/6b/526b7c9ae1098cf96f28108fd95cbcae9f16f2b61528f215289a89230331e323.jpg)斎藤は《密林の猿人/[Kird Ape](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape)》《タルモゴイフ/[Tarmogoyf](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf)》と調子良い序盤の展開。
+![](https://i.ormos.uk/52/6b/526b7c9ae1098cf96f28108fd95cbcae9f16f2b61528f215289a89230331e323.jpg)
+
+斎藤は《密林の猿人/[Kird Ape](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape)》《タルモゴイフ/[Tarmogoyf](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf)》と調子良い序盤の展開。
 
 対してKuoは2ターン目にX=1で《虚空の杯/[Chalice of the Void](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chalice+of+the+Void)》を置き、斎藤の動きを抑制した上で、《粗石の魔道士/[Trinket Mage](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trinket+Mage)》で《仕組まれた爆薬/[Engineered Explosives](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Explosives)》をサーチしてきて場をコントロールする体制に入る。
 
@@ -2013,7 +2027,9 @@ Kuoは《知識の渇望/[Thirst for Knowledge](https://web.archive.org/web/2009
 
 **Game 2**
 
-![](https://i.ormos.uk/3a/dd/3adde2e91b82763b92ab47fd97076a5ff7a38b4a821e9152e70b9a37012268b8.jpg)先攻の斎藤、1ターン目に《野生のナカティル》、3ターン目に《聖遺の騎士》というクリーチャー展開。4ターン目に斎藤が通常ドローをしたところで、Kuoは《ヴェンディリオン三人衆/[Vendilion Clique](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vendilion+Clique)》と遅めのアクションをみせる。
+![](https://i.ormos.uk/3a/dd/3adde2e91b82763b92ab47fd97076a5ff7a38b4a821e9152e70b9a37012268b8.jpg)
+
+先攻の斎藤、1ターン目に《野生のナカティル》、3ターン目に《聖遺の騎士》というクリーチャー展開。4ターン目に斎藤が通常ドローをしたところで、Kuoは《ヴェンディリオン三人衆/[Vendilion Clique](https://web.archive.org/web/20090419000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vendilion+Clique)》と遅めのアクションをみせる。
 
 能力によって公開された斎藤の手札は《忘却の輪》《モグの狂信者》《樹上の村》《山》という内容で、Kuoはこの中から《忘却の輪》を抹消登録するのだが、斎藤は《モグの狂信者》のプレイで《ヴェンディリオン三人衆》を焼いて《野生のナカティル》と《聖遺の騎士》によるダメージを通す。
 

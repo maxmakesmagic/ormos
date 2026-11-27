@@ -47,7 +47,9 @@ render_recovery: []
 ---
 ### 
 
-![](https://i.ormos.uk/b6/85/b68574874beb17e9ebb35fc70ed8966bb7eba46091be163f22dcbd89e3a53d48.jpg)The Quarterfinals match between the fourth and fifth place was a titanic clash of Australian Magic talent. Nathan Russell has qualified for every single Oz Nats (team Oz '95 & '97, APAC Champion '98) was playing in his fourth top 8. Justin West came top 16 in Australian Nationals in 1999, top 8 in 2000, top 64 in APACs 2000, and recently finished above both Jon Finkel and Kai Budde at Pro Tour San Diego. Justin West, locally known as "Bomber" for his near-religious devotion to the Bombers football club, was playing an aggressive Blcak control deck he dubbed "Ninja". Nathan was playing a Red/Green/Blue madness deck known as #mise.dec. Trying to decide who will play or draw, when Nathan was asked if he wanted to arm wrestle for the decision, he replied "Are you mad? Look, he's wearing a beanie!", a more conventional method of coin-flipping was utilised, and Nathan won, and elected to play.
+![](https://i.ormos.uk/b6/85/b68574874beb17e9ebb35fc70ed8966bb7eba46091be163f22dcbd89e3a53d48.jpg)
+
+The Quarterfinals match between the fourth and fifth place was a titanic clash of Australian Magic talent. Nathan Russell has qualified for every single Oz Nats (team Oz '95 & '97, APAC Champion '98) was playing in his fourth top 8. Justin West came top 16 in Australian Nationals in 1999, top 8 in 2000, top 64 in APACs 2000, and recently finished above both Jon Finkel and Kai Budde at Pro Tour San Diego. Justin West, locally known as "Bomber" for his near-religious devotion to the Bombers football club, was playing an aggressive Blcak control deck he dubbed "Ninja". Nathan was playing a Red/Green/Blue madness deck known as #mise.dec. Trying to decide who will play or draw, when Nathan was asked if he wanted to arm wrestle for the decision, he replied "Are you mad? Look, he's wearing a beanie!", a more conventional method of coin-flipping was utilised, and Nathan won, and elected to play.
 
 ### Game 1
 

@@ -89,7 +89,9 @@ Let me give you a basic example. Every week Elliot plays against Shawna, with he
 
 In tournament situations, the metagame is rarely so clean cut. Fields are larger and less defined. Rather than a small amount of friends playing a few exact decks, it's a mass of strangers playing decks that fall somewhere between predictable and unpredictable. 
 
-![Breakthrough](https://i.ormos.uk/ae/7b/ae7bc735eeae6d02c2b50a68bc22da001689f1ee643e24d710470a9f97877a53.jpg)What exactly happens in these big, real, cases? Let's say that I suddenly announce a new Constructed format, Core Set Only Constructed, and open it up to a large number of active and interested tournament players. At first, collectively, players will not have a sense of the natural best configurations of cards – the strongest synergies and most effective strategies. As one player makes a breakthrough, so will others. With time, and often word of mouth, these naturally good decks become better known, until sometimes it is thought that a format's best decks are mostly evident. We can call this factor *format definition*.
+![Breakthrough](https://i.ormos.uk/ae/7b/ae7bc735eeae6d02c2b50a68bc22da001689f1ee643e24d710470a9f97877a53.jpg)
+
+What exactly happens in these big, real, cases? Let's say that I suddenly announce a new Constructed format, Core Set Only Constructed, and open it up to a large number of active and interested tournament players. At first, collectively, players will not have a sense of the natural best configurations of cards – the strongest synergies and most effective strategies. As one player makes a breakthrough, so will others. With time, and often word of mouth, these naturally good decks become better known, until sometimes it is thought that a format's best decks are mostly evident. We can call this factor *format definition*.
 
 Another factor is also playing out. Beyond just learning more about a format itself (a collection of cards), a player also becomes increasingly aware of the specific decks other players are making. This motivates him not just to design a better deck in terms of stronger general strategy, but also to factor in what these other players are doing, so that he can beat it. This is called *skew*.
 
@@ -99,7 +101,9 @@ These are the two primary scales used to assess a metagame.
 
 A metagame can be *defined, undefined*, or somewhere in-between.
 
-![Thran_Tome](https://i.ormos.uk/bb/44/bb4405e9dbd32be5ed005254a5045818c7a65641f6ae39b42612b78f1ec9091f.jpg)A defined metagame is one where it is generally clear what decks will be played, and the proportions in which they will be present. This can be by word of mouth, tournament trends (if a deck did well in a largely publicized tournament last week, you can expect to see it this week), or by the sheer obviousness and strength of a potential strategy. Elliot's case is an example of a perfectly defined metagame. A more realistic example would be a late-season [National Championship](https://web.archive.org/web/20070106000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/nationals) tournament. Since these tournaments happen week by week, the influence of “tech” (defined in our [**Magic** slang dictionary](https://web.archive.org/web/20070106000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/academy/9) as “secret cards or information that help a player win”) is diffused, and players are able to generally predict what they will see at their own tournament by what was at last week's tournament.
+![Thran_Tome](https://i.ormos.uk/bb/44/bb4405e9dbd32be5ed005254a5045818c7a65641f6ae39b42612b78f1ec9091f.jpg)
+
+A defined metagame is one where it is generally clear what decks will be played, and the proportions in which they will be present. This can be by word of mouth, tournament trends (if a deck did well in a largely publicized tournament last week, you can expect to see it this week), or by the sheer obviousness and strength of a potential strategy. Elliot's case is an example of a perfectly defined metagame. A more realistic example would be a late-season [National Championship](https://web.archive.org/web/20070106000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/nationals) tournament. Since these tournaments happen week by week, the influence of “tech” (defined in our [**Magic** slang dictionary](https://web.archive.org/web/20070106000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/academy/9) as “secret cards or information that help a player win”) is diffused, and players are able to generally predict what they will see at their own tournament by what was at last week's tournament.
 
 An undefined metagame is one where it is unclear what specific decks will be played, or the proportions in which they will be present. This is generally seen in new formats:
 
@@ -112,7 +116,9 @@ A middling metagame is one where the decks and proportions of them are only some
 
 Beyond having a sense of specific *decks* that will be played, it is also possible to have a sense of general trends. This is *skew*.
 
-![Equilibrium](https://i.ormos.uk/3c/ff/3cffc45d646fe71fbc32c67c7b495d6f5c4e5a913159461a99d95d219b2ff04b.jpg)There can be skew in a specific sense. For example, after a few years of playing in the tournament, I observed that more players at Canadian Nationals play controlling decks than the general metagame would seem to predict. Or, at a [Pro Tour](https://web.archive.org/web/20070106000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/events/protour), the highest level of tournament play, you can expect to play against at least as many combo and control decks as the metagame would predict, since top-notch players will not shy away from them no matter how complex, whereas Pro Tour Qualifier or casual players might; PTQs and casual tournaments skew away from the most complex decks.
+![Equilibrium](https://i.ormos.uk/3c/ff/3cffc45d646fe71fbc32c67c7b495d6f5c4e5a913159461a99d95d219b2ff04b.jpg)
+
+There can be skew in a specific sense. For example, after a few years of playing in the tournament, I observed that more players at Canadian Nationals play controlling decks than the general metagame would seem to predict. Or, at a [Pro Tour](https://web.archive.org/web/20070106000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/events/protour), the highest level of tournament play, you can expect to play against at least as many combo and control decks as the metagame would predict, since top-notch players will not shy away from them no matter how complex, whereas Pro Tour Qualifier or casual players might; PTQs and casual tournaments skew away from the most complex decks.
 
 There is also skew in an overall sense. This is what tournament players often mean when they refer to “metagaming”: the consideration that others know what you might do to adapt to a given metagame, and the subsequent attempt to go one step further. I might notice, from weekly PTQ Top 8 lists, a general increase in the number of control decks doing well. This indicates certain information to me about next week's potential field: it will skew in the direction of more control decks (since they are doing well), and decks built to beat these control decks (played by other players who have observed the trends). With this in mind, you might attempt to bias your deck towards beating both. The metagame – what everyone else is playing – can change a lot in even just one week if enough information is available!
 
@@ -159,7 +165,9 @@ On the one hand, you should be able to make educated decisions and craft a sideb
 
 **Specific Skews:** *(You're playing in a tournament at a store where players really like combo decks.)* 
 
-![Intuition](https://i.ormos.uk/d2/02/d20217f615a8bffc1b527ee60afe9a943915afabd5b2c6d052c5390741415aed.jpg)Here, your general sense of a metagame (say, what Standard is like now *in general*), especially if undefined,is modified for a specific case.
+![Intuition](https://i.ormos.uk/d2/02/d20217f615a8bffc1b527ee60afe9a943915afabd5b2c6d052c5390741415aed.jpg)
+
+Here, your general sense of a metagame (say, what Standard is like now *in general*), especially if undefined,is modified for a specific case.
 
 You don't know exactly *what* combo deck they might show up with, but you can factor in an increase in combo decks. This means that you should bias your deck towards combating general combo decks, but should avoid combating any particular one (if it would mean the inclusion of a different card).
 

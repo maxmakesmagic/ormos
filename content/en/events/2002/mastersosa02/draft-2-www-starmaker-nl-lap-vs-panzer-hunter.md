@@ -242,7 +242,9 @@ render_recovery:
   - Enslaved Dwarf
   occurrences: 226
 ---
-![](http://www.wizards.com/sideboard/images/mastersosa02/a454.jpg)The ever surprising Dutch team of star-maker seemed to have the early run of the packs, solidifying their color choices with a few specific picks. The Panzer Hunters quickly adapted though and presented a unified drafting front, moving their colors in such a way to nullify any long term draft advantage that the Dutch tried to garner. They maneuvered their way into choosing colors that not only maximized their seating postion but also took of their opponent's choices.
+![](http://www.wizards.com/sideboard/images/mastersosa02/a454.jpg)
+
+The ever surprising Dutch team of star-maker seemed to have the early run of the packs, solidifying their color choices with a few specific picks. The Panzer Hunters quickly adapted though and presented a unified drafting front, moving their colors in such a way to nullify any long term draft advantage that the Dutch tried to garner. They maneuvered their way into choosing colors that not only maximized their seating postion but also took of their opponent's choices.
 
 The table was seated as such: (Frank Karsten opened the first booster of the draft)
 
@@ -268,7 +270,9 @@ Momose though the underdog in this matchup, is far from helpless with a fine arr
 
 **Match C – Wiegersma vs Ando** 
 
-![](https://i.ormos.uk/db/9e/db9e50523948d1bf75c3068ca48479c2887dac297cf65c3531007a72759a52ce.jpg)The match is likely to come down to this crucial pairings with both sporting multiple bombs in their draft decks. Jelger sports a first picked Cabal Patriarch as well as two Faceless Butchers and a Hydromorph Gull. This backed up with a Morbid Hunger and two Syncopate is sure to make life tough for the Reiji.
+![](https://i.ormos.uk/db/9e/db9e50523948d1bf75c3068ca48479c2887dac297cf65c3531007a72759a52ce.jpg)
+
+The match is likely to come down to this crucial pairings with both sporting multiple bombs in their draft decks. Jelger sports a first picked Cabal Patriarch as well as two Faceless Butchers and a Hydromorph Gull. This backed up with a Morbid Hunger and two Syncopate is sure to make life tough for the Reiji.
 
 Ando's deck is a creature removal heavy red black deck that is peppered with bombs, with Stalking Bloodsucker, Possessed Barbarian and a Pardic Collaborator to deal with the Dutch's lifetotal once the board is clear. This matchup will likely come down to draws, with the last man standing likely to emerge winner for his team.
 

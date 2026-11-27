@@ -66,7 +66,9 @@ render_recovery: []
 
 ### A New Kind of Column
 
-![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)Magic Academy è uno spazio esclusivo dedicato appositamente ai nuovi giocatori ed aiutarli nel loro percorso di apprendimento del gioco ed introdurli al meglio tra le numerose risorse disponibili all'interno del web. La chiave della Magic Academy sta nel fatto che gli articoli vengono scritti in ordine "crescente", così come un libro. Si parte dalle basi, trattando argomenti come "Anatomia di una Carta di **Magic**" e "Costruire il tuo primo mazzo". Data la sequenzialità, ogni articolo è costruito sulle conoscenze apprese dagli articoli precedenti. Questo spazio risale al 15 Luglio, 2006, ed ogni sabato veniva pubblicato un nuovo articolo. Puoi utilizzare la tavola dei contenuti che trovi di seguito per partire dalla fase iniziale o leggere gli argomenti trattati e saltare direttamente all'argomento secondo te più adatto in base alle tue conoscenze e al tuo livello di esperienza. 
+![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)
+
+Magic Academy è uno spazio esclusivo dedicato appositamente ai nuovi giocatori ed aiutarli nel loro percorso di apprendimento del gioco ed introdurli al meglio tra le numerose risorse disponibili all'interno del web. La chiave della Magic Academy sta nel fatto che gli articoli vengono scritti in ordine "crescente", così come un libro. Si parte dalle basi, trattando argomenti come "Anatomia di una Carta di **Magic**" e "Costruire il tuo primo mazzo". Data la sequenzialità, ogni articolo è costruito sulle conoscenze apprese dagli articoli precedenti. Questo spazio risale al 15 Luglio, 2006, ed ogni sabato veniva pubblicato un nuovo articolo. Puoi utilizzare la tavola dei contenuti che trovi di seguito per partire dalla fase iniziale o leggere gli argomenti trattati e saltare direttamente all'argomento secondo te più adatto in base alle tue conoscenze e al tuo livello di esperienza. 
 
 ### Per chi è la Magic Academy?
 

@@ -63,7 +63,9 @@ Menard 1-0 Tenenbaum
 
 ### Jeu Deux
 
-![](https://www.wizards.com/sideboard/images/gplyo03/958.jpg)Amiel choisit de laisser commencer Antoine, mais c'est bien lui qui fait le depart le plus agressif. Quand Antoine joue Clockwork condor, sa premiere creature, Atog et Espion neurok occupent deja la table du cote d'Amiel.
+![](https://www.wizards.com/sideboard/images/gplyo03/958.jpg)
+
+Amiel choisit de laisser commencer Antoine, mais c'est bien lui qui fait le depart le plus agressif. Quand Antoine joue Clockwork condor, sa premiere creature, Atog et Espion neurok occupent deja la table du cote d'Amiel.
 
 Puis a deux reprises, alors qu'Amiel semble plier cette seconde partie Antoine vient contrecarrer ses palns. Crystal shard trouve annul sur sa route, puis alors Myr Retrieverqui devait le ramener est avaler par Thought Prison, une carte assez mauvaise d'ordinaire mais terriblement efficace ici. Ceci dit, a part a contenir Amiel il ne fait pas granc chose le pauvre Antoine. Et qund Amiel joue Looming Overguide la fin n'est plus tres loin.
 
@@ -75,7 +77,9 @@ La encore, c'est Amiel qui prend le premier les devants. Alors qu'Antoine decide
 
 Rapidement suivie par Crystal Shard, la beast mais Antoine dans une situation bien incomfortable. Il n'a alors pas vraiment le choix et decide d'empiler les betes Taj-Nar Swordsmith, War Wagon equipe par Bonesplitter (ramene par le chat) et Cobalt Golem se dressent maintenant devant Slogger et Myr Enforcer.
 
-![](https://www.wizards.com/sideboard/images/gplyo03/959.jpg)Amiel, sans doute mis en confiance par cette situation plus que favorable ne pousse pas trop loin l'optimisation, selon ses propres termes il joue "vraiment comme un chien", une expression qu'il aura maintes fois l'occasion de repeter au cours de cette partie. Mais ses betes etant plus grosses, et ses rares sorts tout aussi puissants (shatter), on ne voit pas trop comment cette partie pourrait echapper au nouveau champion de France par equipe.
+![](https://www.wizards.com/sideboard/images/gplyo03/959.jpg)
+
+Amiel, sans doute mis en confiance par cette situation plus que favorable ne pousse pas trop loin l'optimisation, selon ses propres termes il joue "vraiment comme un chien", une expression qu'il aura maintes fois l'occasion de repeter au cours de cette partie. Mais ses betes etant plus grosses, et ses rares sorts tout aussi puissants (shatter), on ne voit pas trop comment cette partie pourrait echapper au nouveau champion de France par equipe.
 
 Et puis la fin de la ronde est annoncee. Antoiine bounce le 4/5 via une bombe et passe son tour.Mind's eye, joue quelques tours plua tot lui a permis, sinon de renverser cette partie, au moins de survivre. Mais l'armee d'Amiel est trop nombreuse, les differents chumpblocks ayant considerablement affaiblis les defenses d'Antoine.
 

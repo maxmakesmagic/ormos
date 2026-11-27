@@ -234,7 +234,9 @@ render_recovery:
   - Spellgorger Barbarian
   occurrences: 334
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a779.jpg)If Gerard Fabiano was nervous at the start of the match it did not show on his face or in his demeanor as he bantered back and forth with the leader of the team that has never lost a match in sanctioned Team Rochester Draft...
+![](http://www.wizards.com/sideboard/images/ptbos02/a779.jpg)
+
+If Gerard Fabiano was nervous at the start of the match it did not show on his face or in his demeanor as he bantered back and forth with the leader of the team that has never lost a match in sanctioned Team Rochester Draft...
 
 ...*ever.*
 
@@ -324,7 +326,9 @@ Kai almost forgot the upkeep effect for his Ernie again but everything was cool.
 
 Kai = 16 Gerard = 1
 
-![](https://i.ormos.uk/1a/d5/1ad5658eaef526d4b205fae39a8bb4b14290755a5dc1151705a6ede138206567.jpg)Gerard was still struggling to manage his limited supply of mana and could not afford to tap his Werebear. Instead he used Churning Eddy to return the Erhnam Djinn and *his own* Island to their respective owner's hands. He replayed the Island and used it to cast Coral net on the Rabid Elephant. Kai chose to pay for the elephant and discarded Island. When the Elephant came over for the attack Gerard looked sadly at his six card graveyard. If he had threshold he could double block with the 4/4's but his Werebear remained a 1/1 and Ivy Elemental took one for the team and gave Gerard threshold. Kai played another Rabid Elephant. Gerard made a Hydromorph Gull and passed the turn.
+![](https://i.ormos.uk/1a/d5/1ad5658eaef526d4b205fae39a8bb4b14290755a5dc1151705a6ede138206567.jpg)
+
+Gerard was still struggling to manage his limited supply of mana and could not afford to tap his Werebear. Instead he used Churning Eddy to return the Erhnam Djinn and *his own* Island to their respective owner's hands. He replayed the Island and used it to cast Coral net on the Rabid Elephant. Kai chose to pay for the elephant and discarded Island. When the Elephant came over for the attack Gerard looked sadly at his six card graveyard. If he had threshold he could double block with the 4/4's but his Werebear remained a 1/1 and Ivy Elemental took one for the team and gave Gerard threshold. Kai played another Rabid Elephant. Gerard made a Hydromorph Gull and passed the turn.
 
 Kai played Elephant Guide on his Phantom Tiger and swung with the team.  
  3 attackers + 2 blockers + 1 point of life = Game 3.
@@ -401,7 +405,9 @@ Kai attacked with his Rabid Elephant and Gerard tried to figure his options.
 
 Gerard: "I'm on 5? No blocks."
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a780.jpg)Kai added a Stone Tongue Basilisk to his ever-growing army.
+![](http://www.wizards.com/sideboard/images/ptbos02/a780.jpg)
+
+Kai added a Stone Tongue Basilisk to his ever-growing army.
 
 Kai = 3 Gerard = 2
 

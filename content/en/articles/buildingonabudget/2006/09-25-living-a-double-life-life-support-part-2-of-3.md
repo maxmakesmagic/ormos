@@ -589,7 +589,9 @@ Stalking Stones
 Tainted Field  
 Temple of the False God
 
-![Orzhov_Basilica](https://i.ormos.uk/e7/3c/e73c90ba69e52617706394f39830c0d97046f0ad6a492fd3b2a4caa220fb689c.jpg)If this wasn't a budget deck, I would definitely recommend Caves of Koilos and Godless Shrine. Since we're operating on a budget, and Beacon of Immortality already costs you five tickets each on ***Magic** Online* (and remember, all decks in this column have an upper maximum ticket cost of thirty tickets total), those rare lands are straight out.
+![Orzhov_Basilica](https://i.ormos.uk/e7/3c/e73c90ba69e52617706394f39830c0d97046f0ad6a492fd3b2a4caa220fb689c.jpg)
+
+If this wasn't a budget deck, I would definitely recommend Caves of Koilos and Godless Shrine. Since we're operating on a budget, and Beacon of Immortality already costs you five tickets each on ***Magic** Online* (and remember, all decks in this column have an upper maximum ticket cost of thirty tickets total), those rare lands are straight out.
 
 I figure we can try a straight swap of four Plains for four Orzhov Basilica. In addition, let's trade two Plains for two Swamps, to even the land count between colors. We don't want to remove too many basic lands, because we want to be able to get a land a turn with Journeyer's Kite for as long as possible.
 

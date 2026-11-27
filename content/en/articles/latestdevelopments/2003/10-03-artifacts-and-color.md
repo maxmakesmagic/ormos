@@ -131,7 +131,9 @@ I don't mean to belabor this point, but it was a very important philosophical de
 
 So after much debate, we decided that it was okay to have color-affiliated artifacts. On the one hand we knew we needed them for Limited play, on the other hand we felt we needed them for aesthetic reasons, and on the other other hand (I saw *Once Upon a Time in Mexico* this week, so I've started thinking in terms of three hands) they just felt right at the end of the day.
 
-![](https://i.ormos.uk/56/b2/56b2b46120270d79676ea004c22a7e5e0a041827cd287b2508e3bb0388c61bd5.jpg)Of course, there was still one interesting question left to debate: Should we have any color-affiliated artifacts that were *completely useless* outside their intended color. Was Gauntlet of Might actually a mistake, or was the added flavor that comes from making it an artifact (instead of an enchantment) worth it?
+![](https://i.ormos.uk/56/b2/56b2b46120270d79676ea004c22a7e5e0a041827cd287b2508e3bb0388c61bd5.jpg)
+
+Of course, there was still one interesting question left to debate: Should we have any color-affiliated artifacts that were *completely useless* outside their intended color. Was Gauntlet of Might actually a mistake, or was the added flavor that comes from making it an artifact (instead of an enchantment) worth it?
 
 This last issue didn't get decided until *Mirrodin* was deep into development. In the end, the development team decided that Gauntlet of Might was not a mistake – it felt quite cool to us and we thought that thoroughly color-affiliated artifacts were fair game. We wound up including three of them in *Mirrodin* and each of the three artifact-friendly colors got one. (I talked a few weeks ago in my article “[White and Artifacts](/en/articles/latestdevelopments/2003/09-12-white-and-artifacts)” about each color's relationship with artifacts.) Blue got Proteus Staff, white got Leonin Sun Standard, and black got Nightmare Lash.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 376b77721240b002e053efd68e3b514b28d06e860a7d4aa4812b910b09141f85
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm9_1.jpg)Both Mattias Jorstedt and Richard Moore ended yesterday with perfect records. Jorstedt is the winner of PT Yokohama while Moore is an amateur. To his credit Moore has put in some steady performances on the PTQ circuit in England but this will be a tough test for him as Jorstedt has a fairly strong black-red deck while Moore is stuck with an ungainly lumbering green-white deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm9_1.jpg)
+
+Both Mattias Jorstedt and Richard Moore ended yesterday with perfect records. Jorstedt is the winner of PT Yokohama while Moore is an amateur. To his credit Moore has put in some steady performances on the PTQ circuit in England but this will be a tough test for him as Jorstedt has a fairly strong black-red deck while Moore is stuck with an ungainly lumbering green-white deck.
 
 ### Game 1
 

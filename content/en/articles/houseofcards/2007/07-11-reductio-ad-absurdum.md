@@ -647,7 +647,9 @@ render_recovery:
 
 Welcome back to House of Cards, faithful Johnnies! You've gone two weeks without your hump-day dose of cornball humour and nutball decks. I applaud those who have managed to survive until today. You've all been real troopers. I promise to deliver extra-corny jokes and exceptionally nutty decks in under thirty minutes or they're free.
 
-![Goblin_Flectomancer](https://i.ormos.uk/9b/93/9b93c6079e08fbe1a9ca467d90891da8ea243bf23520f00295bf5c0a0fcb0e7b.jpg)For those of you wondering about the title of today's article and how it applies to building weird decks, I can only try to assure you that it does. If you think I'm just trotting out a Latin phrase from Philosophy 101 in order to make myself sound smarter than I am, well, you are totally wrong. With that kind of logic, you should probably go jump off a cliff with all your friends.
+![Goblin_Flectomancer](https://i.ormos.uk/9b/93/9b93c6079e08fbe1a9ca467d90891da8ea243bf23520f00295bf5c0a0fcb0e7b.jpg)
+
+For those of you wondering about the title of today's article and how it applies to building weird decks, I can only try to assure you that it does. If you think I'm just trotting out a Latin phrase from Philosophy 101 in order to make myself sound smarter than I am, well, you are totally wrong. With that kind of logic, you should probably go jump off a cliff with all your friends.
 
 Did I do that right?
 

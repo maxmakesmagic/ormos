@@ -52,7 +52,9 @@ archive_source:
   sha256: fe888186bbe7a62b5217074ee031b31ed614be74fe4ede3672c0797b8266bcb2
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/sf2_1.jpg)Frankie K, the man from the Netherlands. Praised and respected by his peers, amongst whom none other then Kai Budde himself, has mostly gone unnoticed by the fans. Renee has made two GP top 8's, one team, on individual, but is otherwise mostly unknown to this reporter.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/sf2_1.jpg)
+
+Frankie K, the man from the Netherlands. Praised and respected by his peers, amongst whom none other then Kai Budde himself, has mostly gone unnoticed by the fans. Renee has made two GP top 8's, one team, on individual, but is otherwise mostly unknown to this reporter.
 
 ### Game 1
 

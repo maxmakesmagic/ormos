@@ -169,7 +169,9 @@ render_recovery:
   - Unified Strike
   occurrences: 177
 ---
-![](http://www.wizards.com/sideboard/images/gpla02/972.jpg)Rising star Ben Stark called himself the ‘poor, poor sap who has to play against double Visara.dec’. He modestly claimed this even though he finished tenth GP Detroit and thirty-third at PT Houston. Dave Williams, the recipient of mucho de la Visara, needs no introduction as the man who came off a year long ban to rise back into the top ranks of pro tour players.
+![](http://www.wizards.com/sideboard/images/gpla02/972.jpg)
+
+Rising star Ben Stark called himself the ‘poor, poor sap who has to play against double Visara.dec’. He modestly claimed this even though he finished tenth GP Detroit and thirty-third at PT Houston. Dave Williams, the recipient of mucho de la Visara, needs no introduction as the man who came off a year long ban to rise back into the top ranks of pro tour players.
 
 Visara in the card pool outnumbered players in this match by three to two. It would be interesting to see how much the legendary status of the Dreadful one would affect the match after game one.
 

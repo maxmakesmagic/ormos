@@ -68,6 +68,8 @@ The Spanish took to the skies with a Volcano Imp but Kastle dropped his third di
 
 A Defiling Tears by the American killed the Apprentice but it was too little, too late. An euphoric Hector cast a THIRD Strength and the 11/5 flyer was, not surprisingly, enough to finish the match. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/901.jpg)Another amazingly fast game. Darwin Kastle was a true professional, gracious even after this defeat that pushed him out of contention for Top 8. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/901.jpg)
+
+Another amazingly fast game. Darwin Kastle was a true professional, gracious even after this defeat that pushed him out of contention for Top 8. 
 
 **Final Result:** Hector Fuentes 2 - 1 Darwin Kastle

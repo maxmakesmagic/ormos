@@ -62,7 +62,9 @@ render_recovery: []
 ---
 Cookies are small text files that are placed on your device by websites that you visit. Cookies are widely used in order to make websites work, fulfill your preferences, and to provide information to the owners of websites.
 
-[![](http://media.wizards.com/2015/web_privacy/MX_DownloadButton.PNG)](http://media.wizards.com/2015/web_privacy/Wizards_Magic_Cookies-06012014.pdf)    PDF version of the Magic website cookie list.
+[![](http://media.wizards.com/2015/web_privacy/MX_DownloadButton.PNG)](http://media.wizards.com/2015/web_privacy/Wizards_Magic_Cookies-06012014.pdf)
+
+    PDF version of the Magic website cookie list.
 
  
 

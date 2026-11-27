@@ -137,7 +137,9 @@ render_recovery:
   - Woodland Druid
   occurrences: 141
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a749.jpg)Bram Snepvangers is trying to make his first Pro Tour Top 8. The Dutchman had made four Top 8's at Grand Prix, but never here at the "Big Show."
+![](http://www.wizards.com/sideboard/images/ptnice02/a749.jpg)
+
+Bram Snepvangers is trying to make his first Pro Tour Top 8. The Dutchman had made four Top 8's at Grand Prix, but never here at the "Big Show."
 
 His opponent, the affable Canadian Jeff Fung, has one Top 8 to his name – achieved at his first Pro Tour – and would like very much to duplicate the feat.
 
@@ -157,7 +159,9 @@ Snepvangers 1 – Fung 0
 
 Bram made the first move with Chatter of the Squirrel, but Fung had the king of the red/green mirror, Wild Mongrel. Bram was unfazed and attacked with his squirrel. Fung rolled his eyes, but refused to block. Bram then flashed the Chatter back.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a750.jpg)This time, Fung's first four lands were all Forests, preventing him from adding anything else to the fray. Bram took the opportunity to bust out a Skywing Aven and hand it a Crackling Club. Fung took three hits from the 3/1 flier and drew... a fifth Forest.
+![](http://www.wizards.com/sideboard/images/ptnice02/a750.jpg)
+
+This time, Fung's first four lands were all Forests, preventing him from adding anything else to the fray. Bram took the opportunity to bust out a Skywing Aven and hand it a Crackling Club. Fung took three hits from the 3/1 flier and drew... a fifth Forest.
 
 He did cast Call of the Herd, the first half of which died to a combination of blocking a squirrel and a Firebolt, the second half of which stayed in play and started attacking Bram back. Fung eventually drew a Mountain, but because the 3/1 and the Firebolt in Bram's graveyard were threatening to take away Fung's last five life points. So the Mountain fueled a Petravark that would force Bram to draw another land.
 

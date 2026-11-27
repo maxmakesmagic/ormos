@@ -72,7 +72,9 @@ render_recovery:
   - Roar of the Wurm
   occurrences: 14
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a900.jpg)Jeff Cunningham has done nothing by play red and green spells all weekend – six rounds of "JSS red/green" on day one, and two red/green draft decks on day two.
+![](http://www.wizards.com/sideboard/images/canat02/a900.jpg)
+
+Jeff Cunningham has done nothing by play red and green spells all weekend – six rounds of "JSS red/green" on day one, and two red/green draft decks on day two.
 
 Now his trademark color combination has its work cut out for it. Jurgen Hahn, a one-time Canadian National Team member, is playing a green/blue/red madness deck. Most players see the matchup as severely lopsided in the favor of Hahn, due to potential overwhelming card advantage and bigger creatures.
 
@@ -86,7 +88,9 @@ Cunningham pitched a Violent Eruption to his Mongrel on his next turn, killing t
 
 Cunningham had no way to kill the Looter, so he just attacked Hahn down to 7 and cast Call of the Herd. Hahn Repulsed the token and drew a second Fire/Ice.
 
-![](http://www.wizards.com/sideboard/images/canat02/a883.jpg)When Cunningham went to attack on the following turn, Hahn Iced the Mongrel and Fired the Barbarian, keeping his life total safe. Cunningham recast his Call, but Hahn Looted away a Circular Logic.
+![](http://www.wizards.com/sideboard/images/canat02/a883.jpg)
+
+When Cunningham went to attack on the following turn, Hahn Iced the Mongrel and Fired the Barbarian, keeping his life total safe. Cunningham recast his Call, but Hahn Looted away a Circular Logic.
 
 Hahn then finally drew a Forest, played it and passed the turn. Cunningham didn't want to lose his Mongrel, so he chose not to attack, and just Firebolted Hahn to 5 instead. Hahn looted out an Arrogant Wurm at the end of the turn.
 
@@ -112,7 +116,9 @@ Hahn 2 – Cunningham 1
 
 Hahn's opening hand in Game 4 was non-aggressive: four land, Looter, Logic, Fire/Ice. But Cunningham had to mulligan and didn't look happy with the six-card grip either, but chose to keep it.
 
-![](http://www.wizards.com/sideboard/images/canat02/a882.jpg)Hahn went first, and put out his Looter on turn two, forcing Cunningham to spend his second turn Firebolting it. Hahn had no turn-3 play, but had a Flametongue on turn 4 for Cunningham's Mongrel. Cunningham let it die, then Firebolted the FTK and played a Rootwalla on his next turn. Hahn Fired the Rootwalla, but then neither played out any creatures over the next few turns.
+![](http://www.wizards.com/sideboard/images/canat02/a882.jpg)
+
+Hahn went first, and put out his Looter on turn two, forcing Cunningham to spend his second turn Firebolting it. Hahn had no turn-3 play, but had a Flametongue on turn 4 for Cunningham's Mongrel. Cunningham let it die, then Firebolted the FTK and played a Rootwalla on his next turn. Hahn Fired the Rootwalla, but then neither played out any creatures over the next few turns.
 
 Cunningham launched a few Volcanic Hammers at Hahn, and Hahn sat there amassing defensive spells, like Repulse, Violent Erpution, and Circular Logic. Cunningham eventually drew a Call of the Herd, but it was instantly Repulsed.
 

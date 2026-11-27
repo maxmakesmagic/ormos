@@ -44,7 +44,9 @@ archive_source:
   sha256: 8c3325c902add379457cf0da537168133abf3c36e3e9497daca982d340b53491
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/265.JPG)Having predicted a field-full of green decks (Angry Hermit, Stompy, etc.) many of the top players chose artifact-based strategies to combat these strategies. There are a lot of Wildfires out there, with an occasional Tinker deck as well.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/265.JPG)
+
+Having predicted a field-full of green decks (Angry Hermit, Stompy, etc.) many of the top players chose artifact-based strategies to combat these strategies. There are a lot of Wildfires out there, with an occasional Tinker deck as well.
 
 Lührs is one of the competitors utilizing the Tinker strategy. His version splashes red for Goblin Welders. Surprisingly the deck does not include Wildfire. 
 

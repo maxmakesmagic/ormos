@@ -128,7 +128,9 @@ render_recovery:
 
 もう見慣れた感がある青緑 vs. 黒コントロール。 Siron がマリガンをし Ho 有利に進むか？
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a719.jpg)デッキの回りが良いのはやはり Ho だ Siron の《チェイナーの布告/Chainer's Edict》を《日を浴びるルートワラ/Basking Rootwalla》を捨てることで回避。出てきた《陰謀団の先手ブレイズ/Braids, Cabal Minion》をものともしないパーマネント増殖で Siron を追いつめて、だめ押しの《尊大なワーム/Arrogant Wurm》をキャストし勝利をもぎ取った。
+![](http://www.wizards.com/sideboard/images/ptosa02/a719.jpg)
+
+デッキの回りが良いのはやはり Ho だ Siron の《チェイナーの布告/Chainer's Edict》を《日を浴びるルートワラ/Basking Rootwalla》を捨てることで回避。出てきた《陰謀団の先手ブレイズ/Braids, Cabal Minion》をものともしないパーマネント増殖で Siron を追いつめて、だめ押しの《尊大なワーム/Arrogant Wurm》をキャストし勝利をもぎ取った。
 
 Ho 1 - 0 Siron
 
@@ -137,7 +139,9 @@ Ho 1 - 0 Siron
 勢いは依然 Ho 側に有るように思える。  
  1 戦目同様に《無垢の血/Innocent Blood》を回避し、続けて《尊大なワーム》を出す Ho 。 このまま Ho 圧勝かと思われたが 2 戦目の Siron は違った。
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a715.jpg)《尊大なワーム》を《にじり寄るストーカー/Slithery Stalker》で消すと 2 度出てきた 6 / 6 ワームトークンも《顔なしの解体者/Faceless Butcher》 2 体で片づけて Siron 押し切る形になるかと思われたが《野生の雑種犬/Wild Mongrel》《尊大なワーム》と並んでしまい。
+![](http://www.wizards.com/sideboard/images/ptosa02/a715.jpg)
+
+《尊大なワーム》を《にじり寄るストーカー/Slithery Stalker》で消すと 2 度出てきた 6 / 6 ワームトークンも《顔なしの解体者/Faceless Butcher》 2 体で片づけて Siron 押し切る形になるかと思われたが《野生の雑種犬/Wild Mongrel》《尊大なワーム》と並んでしまい。
 
 元々サイズの小さいクリーチャーしか居ない Siron が攻めきれずに居ると、Ho の《ナントゥーコの病木刈り/Nantuko Blightcutter》の登場で場は急転。
 

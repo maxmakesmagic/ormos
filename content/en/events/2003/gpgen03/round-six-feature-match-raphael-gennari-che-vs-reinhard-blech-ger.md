@@ -53,7 +53,9 @@ archive_source:
   sha256: 388379a71182731222ade4d825d2739c19298763fbcdba141698525781cbea22
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpgen03/a979.jpg)Raphael you might know not only as the stylish Swiss who made a Pro Tour Top 8 a few stops back, but most of you never heard of Reinhard Blech. His name is known mostly in the Type 1 community as one of the best players and deckbuilders in the business. In the "mainstream" his claim to fame is being apart of the German National team this year (not an easy task).
+![](http://www.wizards.com/sideboard/images/gpgen03/a979.jpg)
+
+Raphael you might know not only as the stylish Swiss who made a Pro Tour Top 8 a few stops back, but most of you never heard of Reinhard Blech. His name is known mostly in the Type 1 community as one of the best players and deckbuilders in the business. In the "mainstream" his claim to fame is being apart of the German National team this year (not an easy task).
 
 ### Game One
 

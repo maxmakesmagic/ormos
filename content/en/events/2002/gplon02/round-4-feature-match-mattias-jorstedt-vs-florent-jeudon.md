@@ -74,7 +74,9 @@ render_recovery:
   - Prismatic Strands
   occurrences: 27
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/974.jpg)Both Mattias Jorstedt and Florent Jeudon are familiar faces on the Grand Prix circuit. Jorstedt made top 8 in this years Swedish Nationals and is part of the Scandinavian Punisher team that came up with the White Weenie deck for the block portion of this years World Championships. Jeudon is a French player better known in the team trios format through his successes with the Ruel Brothers. At Grand Prix Antwerp this year he found individual success by finishing runner up behind Kai Budde.
+![](https://www.wizards.com/sideboard/images/gplon02/974.jpg)
+
+Both Mattias Jorstedt and Florent Jeudon are familiar faces on the Grand Prix circuit. Jorstedt made top 8 in this years Swedish Nationals and is part of the Scandinavian Punisher team that came up with the White Weenie deck for the block portion of this years World Championships. Jeudon is a French player better known in the team trios format through his successes with the Ruel Brothers. At Grand Prix Antwerp this year he found individual success by finishing runner up behind Kai Budde.
 
 Jorstedt is playing green-blue madness while, in a touch of irony, Jeudon is playing a White Weenie deck similar to the Punisher deck from Worlds. 
 
@@ -84,7 +86,9 @@ Jeudon found a third land to make a Divine Sacrament. It wasn't any help as Jors
 
 Jorstedt 1-0 Jeudon
 
-![](https://www.wizards.com/sideboard/images/gplon02/975.jpg)This time it was Jorstedt's turn to mulligan and his only early offence was an Aquamoeba. He used an Aether Burst to return Jeudon's Beloved Chaplain and followed with a Wild Mongrel. The Swede's hand was running down though.
+![](https://www.wizards.com/sideboard/images/gplon02/975.jpg)
+
+This time it was Jorstedt's turn to mulligan and his only early offence was an Aquamoeba. He used an Aether Burst to return Jeudon's Beloved Chaplain and followed with a Wild Mongrel. The Swede's hand was running down though.
 
 On the other side of the table Jeudon chose to cast Deep Analysis to stock his hand up and then started dropping multiple threats. Jorstedt was soon facing down Suntail Hawk, Beloved Chaplain, Glory and Tireless Tribe. While most of them were little dorks there were a lot of them and Jeudon also had a Divine Sacrament to boost their power.
 

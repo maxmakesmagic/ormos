@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Jamie Lynn* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/888.jpg)The Ben Seck - TBS - has been taking care of the invitational players and WOTC staff while in Sydney. Our Australian host was playing Dave Williams' Oblitiwha? Oblitiwho? deck. TBS started round four after his three byes that he earned by coming first at the Grand Prix Trial. Dane Coltman was his worthy opponent playing Bob Maher Jr.'s Counter Oath deck. Coltman came 22nd at 1999 Worlds and had three byes for today's Grand Prix. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/888.jpg)
+
+The Ben Seck - TBS - has been taking care of the invitational players and WOTC staff while in Sydney. Our Australian host was playing Dave Williams' Oblitiwha? Oblitiwho? deck. TBS started round four after his three byes that he earned by coming first at the Grand Prix Trial. Dane Coltman was his worthy opponent playing Bob Maher Jr.'s Counter Oath deck. Coltman came 22nd at 1999 Worlds and had three byes for today's Grand Prix. 
 
 This match was one of attrition. It started out slow, dragged in the middle, and didn't have a chance to end. 
 

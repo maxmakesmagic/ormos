@@ -1076,7 +1076,9 @@ Et enfin, il y a cinq cartes qui ont ‘dragon’ uniquement dans leur nom : Dra
 
 ### Question No 35 (*Mirrodin*)
 
-![Hall of Famer Gary Wise](http://www.wizards.com/images/global/mtgevent_hofplayer_gwise_picMain_en.jpg)Chaque année au **Magic** Invitational, chacun des seize invités soumet la carte qu’il aimerait voir imprimée s’il gagnait l’événement. Chaque gagnant a vu sa carte imprimée (ou une carte alternative si l’équipe de développement rejetait la carte initiale) à part Antoine Ruel et Tiago Chan dont les cartes ne l’ont pas encore été. Une année, c’est par une vote public qu’une carte soumise fut choisie pour impression. La carte Cavernes aux Gemmes de Tsuyoshi Fujita avait été élue à cette occasion. À part ces cartes, il n’y a qu’une autre soumission lors de l’Invitational qui ait jamais été imprimée. Cette carte de *Mirrodin* était la version adaptée par l’équipe de développement de la carte soumise par Gary Wise, membre du Temple de la Renommée du Pro Tour. Quelle était cette carte ?
+![Hall of Famer Gary Wise](http://www.wizards.com/images/global/mtgevent_hofplayer_gwise_picMain_en.jpg)
+
+Chaque année au **Magic** Invitational, chacun des seize invités soumet la carte qu’il aimerait voir imprimée s’il gagnait l’événement. Chaque gagnant a vu sa carte imprimée (ou une carte alternative si l’équipe de développement rejetait la carte initiale) à part Antoine Ruel et Tiago Chan dont les cartes ne l’ont pas encore été. Une année, c’est par une vote public qu’une carte soumise fut choisie pour impression. La carte Cavernes aux Gemmes de Tsuyoshi Fujita avait été élue à cette occasion. À part ces cartes, il n’y a qu’une autre soumission lors de l’Invitational qui ait jamais été imprimée. Cette carte de *Mirrodin* était la version adaptée par l’équipe de développement de la carte soumise par Gary Wise, membre du Temple de la Renommée du Pro Tour. Quelle était cette carte ?
 
 Cliquez ici pour la réponse.
 

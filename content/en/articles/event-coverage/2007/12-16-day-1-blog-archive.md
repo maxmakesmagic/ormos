@@ -183,7 +183,9 @@ We'd like to make it clear that not many people get to win their first three mat
 
 *by Hanno Terbuyken*
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpstu07/podwar.jpg)One on the right, one on the left, the race was on between the two pods. Both halves featured 668 players each, among them 16 of the 32 players at Pro Player level 4 and up. In the blue half, you could see Jim Herold, Andre Müller, Shuuhei Nakamura, Gabriel Nassif, Olivier Ruel, Tomoharu Saito, Helmut Summersberger and Sebastian Thaler.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpstu07/podwar.jpg)
+
+One on the right, one on the left, the race was on between the two pods. Both halves featured 668 players each, among them 16 of the 32 players at Pro Player level 4 and up. In the blue half, you could see Jim Herold, Andre Müller, Shuuhei Nakamura, Gabriel Nassif, Olivier Ruel, Tomoharu Saito, Helmut Summersberger and Sebastian Thaler.
 
 The other side of the stage – because as you know, the tables are always greener on the other side – featured a French-Dutch connection with Portugese-Belgian spicing: Frank Karsten and Ruud Warmenhoven, Raphael Levy, Antoine Ruel, Amiel Tenenbaum and Guillaume Wafo-Tapa, and Paulo Carvalho, and shooting star Marijn Lybaert.
 

@@ -1095,7 +1095,9 @@ render_recovery:
 ---
 * * *
 
-![Battle_Frenzy](https://i.ormos.uk/96/92/96926f916fa17ef006a8fecd2c4d0af11bbe1119af3fd20f6452fc0e2a162fc9.jpg)Hello everyone, and welcome to the 10 Decks in 10 Weeks Battle Royale! Over the course of a month and a half, I built 10 different decks, each a two-color combination. At the beginning of each week, I would take the deck from the week before, yank out one of the two colors, and use that skeleton of a deck as the starting point for a new two-color build! By the end of the series, I had built a full ten decks. 
+![Battle_Frenzy](https://i.ormos.uk/96/92/96926f916fa17ef006a8fecd2c4d0af11bbe1119af3fd20f6452fc0e2a162fc9.jpg)
+
+Hello everyone, and welcome to the 10 Decks in 10 Weeks Battle Royale! Over the course of a month and a half, I built 10 different decks, each a two-color combination. At the beginning of each week, I would take the deck from the week before, yank out one of the two colors, and use that skeleton of a deck as the starting point for a new two-color build! By the end of the series, I had built a full ten decks. 
 
 I intended to leave off with 10 Decks in 10 Weeks, but an overwhelming majority of readers said they wanted to see a Battle Royale! amongst these builds—and who was I to say no? In order to best test the mettle of all of these decks, I decided the format for the Battle Royale! would be a grueling gauntlet of massive **Magic**: each deck would be played, in a row, against the other nine decks. This process would be repeated for each deck, for a total of ninety games played! This would accomplish two goals:
 

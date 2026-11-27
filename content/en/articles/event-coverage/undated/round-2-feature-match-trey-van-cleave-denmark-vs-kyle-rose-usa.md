@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Jamielynn* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/977.jpg)Before the round started, Mark Rosewater explained to the players about the new playing mats WOTC has developed for feature matches. If you haven't seen the new mats, they're green, red, and black. There's a section for land - which is to be grouped in color so as not to confuse the public - a section for non-land permanents, one for your deck and one for your graveyard, and all of these are green. In the middle there's a red section where you move your creatures in to attack and where you put spells on the stack. Finally there's a black section to remove creatures from play in to. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/977.jpg)
+
+Before the round started, Mark Rosewater explained to the players about the new playing mats WOTC has developed for feature matches. If you haven't seen the new mats, they're green, red, and black. There's a section for land - which is to be grouped in color so as not to confuse the public - a section for non-land permanents, one for your deck and one for your graveyard, and all of these are green. In the middle there's a red section where you move your creatures in to attack and where you put spells on the stack. Finally there's a black section to remove creatures from play in to. 
 
 The players were not used to the board and a few times Van Cleave was asked to return his creatures from the red area when they were finished attacking. 
 

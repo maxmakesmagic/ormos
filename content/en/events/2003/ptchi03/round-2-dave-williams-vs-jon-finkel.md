@@ -138,7 +138,9 @@ render_recovery:
 ---
 Read about their draft [here](/en/events/2003/ptchi03/draft-1-finkel-williams-and-price).
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a951.jpg)Dave Williams and Jon Finkel sat next to each other and drafted cooperatively, and it paid off for them in the first round... they both won. But all good things must come to an end, and the old friends had to face one another in round 2.
+![](http://www.wizards.com/sideboard/images/ptchi03/a951.jpg)
+
+Dave Williams and Jon Finkel sat next to each other and drafted cooperatively, and it paid off for them in the first round... they both won. But all good things must come to an end, and the old friends had to face one another in round 2.
 
 Finkel has a red/green Beast deck, and Williams is playing white/black with two Glarecasters.
 
@@ -148,7 +150,9 @@ Williams had the better creatures over the next two turns—Dive Bomber and Gust
 
 Williams put out a Festering Goblin and Finkel a Wirewood Elf. The Goblin traded with a face-down Krosan Colossus, and the removal spells came out to play. Pinpoint Avalanche took out the Gustcloak, and Cruel Revival nailed the other face-down creature (Charging Slateback), plus regrew Uncle Fester. Advantage Williams.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a960.jpg)Finkel was forced to use two removal spells to get rid of the Dive Bomber as the first was prevented with Sunfire Balm. Even so, Williams had a second Bomber at the ready, and that one did the final six damage to Finkel, who couldn't get his second Brackus into play and active quickly enough.
+![](http://www.wizards.com/sideboard/images/ptchi03/a960.jpg)
+
+Finkel was forced to use two removal spells to get rid of the Dive Bomber as the first was prevented with Sunfire Balm. Even so, Williams had a second Bomber at the ready, and that one did the final six damage to Finkel, who couldn't get his second Brackus into play and active quickly enough.
 
 Williams 1 – Finkel 0
 
@@ -160,7 +164,9 @@ It was all for naught, however, as Finkel had a string of huge Beasts – Chargi
 
 Williams 1 – Finkel 1
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a959.jpg)Williams came out with the curve of Severed Legion, Dive Bomber, and Fallen Cleric, and the heat was on Finkel. Finkel played a face-down guy on turn three, nothing on turn 4, and a Pinpoint Avalanche on the 4/2 on turn 5; he was clearly losing the race.
+![](http://www.wizards.com/sideboard/images/ptchi03/a959.jpg)
+
+Williams came out with the curve of Severed Legion, Dive Bomber, and Fallen Cleric, and the heat was on Finkel. Finkel played a face-down guy on turn three, nothing on turn 4, and a Pinpoint Avalanche on the 4/2 on turn 5; he was clearly losing the race.
 
 Williams played his own face-down guy and blocked Finkel's, which turned out to be Snapping Thragg. Finkel's 3/3 won the fight and now posed a serious threat to Williams. Williams played out a Glarecaster, but Finkel had his second Avalanche, killing the 3/3 flier and sending in the Thragg to dispose of the Dive Bomber.
 

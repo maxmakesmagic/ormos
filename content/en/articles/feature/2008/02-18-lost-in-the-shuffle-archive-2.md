@@ -95,7 +95,9 @@ render_recovery:
 ---
 **Kelly Digges, magicthegathering.com editor**
 
-![](https://i.ormos.uk/e0/0c/e00c2900e4532fed44efdbc0223f486ee1518c0cf594bb289867319eeda0f043.jpg)Richard Garfield knows a thing or two about games. In other news, water is wet, the sun is hot, and Tarmogoyf is pretty good, I hear.
+![](https://i.ormos.uk/e0/0c/e00c2900e4532fed44efdbc0223f486ee1518c0cf594bb289867319eeda0f043.jpg)
+
+Richard Garfield knows a thing or two about games. In other news, water is wet, the sun is hot, and Tarmogoyf is pretty good, I hear.
 
 No, you don't need to be a genius to see that the man who created **Magic**—and, in the process, the concept of the trading card game—probably is. But it's my guess that relatively few **magicthegathering.com** readers have any direct experience with his thoughts on games and game design.
 
@@ -160,7 +162,9 @@ rather than a waste of time. If more of us who love games made the effort to be 
 
 ### The Hot Chocolate Of Games
 
-![](https://i.ormos.uk/c7/26/c726ae2e82e9de65780d8f3f4acec375b6921bc67d9c8d1ecac365eaad5b319c.jpg)What defines a game? Chess consists of a set of rules. But chess is also the shape of the pieces, the manner in which the game is played, the history of the game. If you always play chess in front of a fire with a cup of hot chocolate, then for you this atmosphere is part of the game itself. You might think of a game of chess as a person: The rules—the object of the game, the functions of the pieces—are the skeleton, relatively inflexible and providing structure for the rest. Then there is the body, or form of the game—the colors of the board, the military names, and the shapes of the pieces.
+![](https://i.ormos.uk/c7/26/c726ae2e82e9de65780d8f3f4acec375b6921bc67d9c8d1ecac365eaad5b319c.jpg)
+
+What defines a game? Chess consists of a set of rules. But chess is also the shape of the pieces, the manner in which the game is played, the history of the game. If you always play chess in front of a fire with a cup of hot chocolate, then for you this atmosphere is part of the game itself. You might think of a game of chess as a person: The rules—the object of the game, the functions of the pieces—are the skeleton, relatively inflexible and providing structure for the rest. Then there is the body, or form of the game—the colors of the board, the military names, and the shapes of the pieces.
 
 The flavor that a game has can completely change the experience a player has playing it. If a game has a science-fiction flavor, I will have a different experience than if it has a his torical flavor, even if the game rules are essentially the same. Similarly, when I play *go,* if I play on a plastic board with plastic pieces, my play experience is completely different than if I play with a wooden board and stone pieces. believe that some players internalize games enough that the environment and trapping of the game make no difference; these people are playing a celestial *go,* a *go* that resides only in their hearts and minds. Unfortunately, I am anchored to *1this* world when I play and only occasionally get a visitor's pass to different world. For many game players, the form and flavor of a game is as important as the rules themselves, 
 
@@ -190,7 +194,9 @@ Understanding the role of ritual in games can add to your enjoyment of playing t
 
 ### The World of Games
 
-![](https://i.ormos.uk/14/eb/14ebbefacd95a4c574821778eaeb806a2a7a795af9439caca6e2378ab42cd8ab.jpg)One of the most persistent issues I have to deal with as a game designer is the relationship between a game's mechanics and the "game world." By game mechanics I mean the rules of the game: bishops move on the diagonal, collect two hundred dollars when you pass 'Go,' the queen of spades is worth thirteen points, etc. The game *world* isa more nebulous concept; it is the universe portrayed by the game, which may be expressed through a strong story or through characters with whom players can identify. In **Magic**, for example, the fact that a 2/3 creature defeats a 2/2 creature in combat is part of the rules, a consequence of the game mechanics. The fact that the 2/3 creature is a Hurloon Minotaur who was magically summoned from his home world to battle a Gray Ogre in a struggle between two planeswalking wizards is part of the game world. 
+![](https://i.ormos.uk/14/eb/14ebbefacd95a4c574821778eaeb806a2a7a795af9439caca6e2378ab42cd8ab.jpg)
+
+One of the most persistent issues I have to deal with as a game designer is the relationship between a game's mechanics and the "game world." By game mechanics I mean the rules of the game: bishops move on the diagonal, collect two hundred dollars when you pass 'Go,' the queen of spades is worth thirteen points, etc. The game *world* isa more nebulous concept; it is the universe portrayed by the game, which may be expressed through a strong story or through characters with whom players can identify. In **Magic**, for example, the fact that a 2/3 creature defeats a 2/2 creature in combat is part of the rules, a consequence of the game mechanics. The fact that the 2/3 creature is a Hurloon Minotaur who was magically summoned from his home world to battle a Gray Ogre in a struggle between two planeswalking wizards is part of the game world. 
 
 The relationship between game mechanics and game world has traditionally tended more towards flavor than simulation. Look at any game that's more than forty years old—games such as *Monopoly, Clue,* chess, and backgammon—and you won't find any real articulated game world, at least by today's standard. 
 
@@ -208,7 +214,9 @@ But in the process of exploring my own game design, I'm becoming increasingly mo
 
 ### Games and Politics
 
-![](https://i.ormos.uk/a6/ca/a6ca8b50e081d5cbc1253e0450fbeb71a79c450586864bd906b348e1290d9a0e.jpg)In my experience critiquing games, the concept that has caused the most dispute is politics. I refer to a game as political if it has more than two players, or sides, and during a significant portion of the game the other players could agree to make you lose. Two-sided games, like Magic, chess, bridge, and basketball, are never political. 
+![](https://i.ormos.uk/a6/ca/a6ca8b50e081d5cbc1253e0450fbeb71a79c450586864bd906b348e1290d9a0e.jpg)
+
+In my experience critiquing games, the concept that has caused the most dispute is politics. I refer to a game as political if it has more than two players, or sides, and during a significant portion of the game the other players could agree to make you lose. Two-sided games, like Magic, chess, bridge, and basketball, are never political. 
 
 Right now my study of political games is riddled with judgment calls, making it far from precise. For example, Yahtzee is a game for more than two players that isn't particularily political: I could win even if everyone else decides I shouldn't. RISK is highly political, however, since one person cannot expect to beat the rest of the players allied together unless they account for less than half the power in the game. 
 
@@ -218,7 +226,9 @@ That said, I lean toward games where politics take a back seat. I haven't always
 
 **Playing Nicely with Others** 
 
-![](https://i.ormos.uk/06/2e/062e12327efca5f22a874db656604ab07e614a628fb818ce03dfd4800dd1c62f.jpg)There is a wide array of opinions, often passionate, about the role of politics in games, with equally intelligent folk at all extremes. Most people who have played a lot have had some good experiences with political games. It is always hard to draw conclusions from past game experience, though, because good players can make any game fun. Similarly, it is hard to determine whether a political game is itself at fault or if the players aren't playing well. When someone is always whining about being behind, is that a problem with the player or the game? 
+![](https://i.ormos.uk/06/2e/062e12327efca5f22a874db656604ab07e614a628fb818ce03dfd4800dd1c62f.jpg)
+
+There is a wide array of opinions, often passionate, about the role of politics in games, with equally intelligent folk at all extremes. Most people who have played a lot have had some good experiences with political games. It is always hard to draw conclusions from past game experience, though, because good players can make any game fun. Similarly, it is hard to determine whether a political game is itself at fault or if the players aren't playing well. When someone is always whining about being behind, is that a problem with the player or the game? 
 
 Players often increase their enjoyment of political games by establishing unwritten rules of conduct. I know circles where whining is punished by group attacks. Other groups forbid negotiations, or only allow players to exert limited influence. Players are commonly expected to maximize their personal position even when they have no chasAe ofwuiiisiig. Often it is difficult to figure out exactly what the rules are, and playing around on the boundary of what is acceptable is risking group displeasure. When the game depends on unwritten rules, I usually credit the players with creating a lot of the fun, rather than the game. 
 
@@ -238,7 +248,9 @@ It is a good exercise to evaluate the effect of politics on games involving more
 
 ### Modeling Game Politics
 
-![](https://i.ormos.uk/0f/1c/0f1c87ceca6dbb6e79fe0e7dbaca0d1ee0930cad6c11926a15e3c84f0da9a730.jpg)In my previous column, I discussed the nature of politics in games. This time I'd like to introduce a couple of mathematical models, or simplified simulations, to help deconstruct the impact of politics on gaming. The two models I will describe are the "chip-taking game" and the "dart game." 
+![](https://i.ormos.uk/0f/1c/0f1c87ceca6dbb6e79fe0e7dbaca0d1ee0930cad6c11926a15e3c84f0da9a730.jpg)
+
+In my previous column, I discussed the nature of politics in games. This time I'd like to introduce a couple of mathematical models, or simplified simulations, to help deconstruct the impact of politics on gaming. The two models I will describe are the "chip-taking game" and the "dart game." 
 
 **THE CHIP-TAKING GAME** 
 
@@ -258,7 +270,9 @@ This model illustrates another facet of political games. The player with the mos
 
 **SOLVING THE GAME** 
 
-![](https://i.ormos.uk/c1/d8/c1d8facd18dd270148564a517f728fa3545ed4c027c3fa430bcab3700c38f6d6.jpg)This is not to say that skill doesn't matter in a political game, but it probably matters less if all the players know the game well enough to estimate the others' "chips." For example, my play group enjoyed many sessions of Siedler Von Catan, but after a certain point our games hinged on whining about being behind. Before then, it was possible to win with a better understanding of what constituted an advantage. But once people had a pretty good idea of the inherent strategy, playing against the others counted for much more than playing the game. 
+![](https://i.ormos.uk/c1/d8/c1d8facd18dd270148564a517f728fa3545ed4c027c3fa430bcab3700c38f6d6.jpg)
+
+This is not to say that skill doesn't matter in a political game, but it probably matters less if all the players know the game well enough to estimate the others' "chips." For example, my play group enjoyed many sessions of Siedler Von Catan, but after a certain point our games hinged on whining about being behind. Before then, it was possible to win with a better understanding of what constituted an advantage. But once people had a pretty good idea of the inherent strategy, playing against the others counted for much more than playing the game. 
 
 You could view a political game as "solved" when you reach that point, somewhat akin to playing tic-tac-toe after you have a perfect strategy. You are now playing a ritual game. This can be pleasurable simply because you are exercising a skill, rather than improving on it. 
 
@@ -276,7 +290,9 @@ Eventually, any play advantage that stems from a better understanding of strateg
 
 ### Nothing Beats Good Old Rock
 
-![](https://i.ormos.uk/59/ef/59ef6e522bf2d7ffb06995168e01f4df6e382524d36db728460eb48ee2f0c334.jpg)We're all familiar with rockpaper-scissors. It's probably one of the first games we all learned to play, along with tic-tactoe and war. When I start a game I always play rock-paper- scissors (RPS) to determine who goes first. 
+![](https://i.ormos.uk/59/ef/59ef6e522bf2d7ffb06995168e01f4df6e382524d36db728460eb48ee2f0c334.jpg)
+
+We're all familiar with rockpaper-scissors. It's probably one of the first games we all learned to play, along with tic-tactoe and war. When I start a game I always play rock-paper- scissors (RPS) to determine who goes first. 
 
 The first thing to note is that there is a tempo to playing RPS. Most western players hit their hands three times, and on the third hit reveal their choices. An alternative is to count the strokes instead, so the rhythm goes downstroke! upstroke/downstroke-reveal. If you play against opponents with a different operating system, the game will surely crash. 
 
@@ -304,7 +320,9 @@ If you don't like the violent nature of RAF you can play "who's to blame?" which
 
 ### The Dojo Effect
 
-![](https://i.ormos.uk/b0/6f/b06f547298039a5b5ac824e359581dcb4df3cd13fd0cd0fa4004465dde5c4ec4.jpg)I have been asked by a number of different people what I think about the "Dojo effect." The Magic Dojo is a website (www.thedojo.com) where players discuss advanced strategy and deck design. The supposed "effect" is that anybody can read this site, copy a deck, walk into a local tournament, and trounce honest local decks. People are generally surprised that I wholeheartedly support the Dojo (and other independent strategy sites like Mindripper—www.mindripper.com) and think the long-term effect is an unqualified positive. 
+![](https://i.ormos.uk/b0/6f/b06f547298039a5b5ac824e359581dcb4df3cd13fd0cd0fa4004465dde5c4ec4.jpg)
+
+I have been asked by a number of different people what I think about the "Dojo effect." The Magic Dojo is a website (www.thedojo.com) where players discuss advanced strategy and deck design. The supposed "effect" is that anybody can read this site, copy a deck, walk into a local tournament, and trounce honest local decks. People are generally surprised that I wholeheartedly support the Dojo (and other independent strategy sites like Mindripper—www.mindripper.com) and think the long-term effect is an unqualified positive. 
 
 Part of my support is simple faith in Magic as a strategic game. It speaks poorly of the game if its interest can be destroyed by talking about it. I believe analysis of in-depth games doesn't bring the game down to the masses, but creates experts from the masses, making the game even more interesting. Magic now has more viable deck types than at any other point in the game's history. This variety is at least partly the result of increased deckbuilding technique, brought about by more educated players. 
 
@@ -332,7 +350,9 @@ Sources such as the Dojo allow players who want to play Magic with their competi
 
 **What Were You Thinking?**
 
-![](https://i.ormos.uk/3f/ec/3fec54aa1d02d6d34690a56b2515959708a87630291a2083c8374fe37df1f160.jpg)Wizards of the Coast will soon publish *What Were You Thinking?,* a party game in the style of *Trivial Pursuit* and *Pictionary.* Thisis a first for the company and my first published party game as well. 
+![](https://i.ormos.uk/3f/ec/3fec54aa1d02d6d34690a56b2515959708a87630291a2083c8374fe37df1f160.jpg)
+
+Wizards of the Coast will soon publish *What Were You Thinking?,* a party game in the style of *Trivial Pursuit* and *Pictionary.* Thisis a first for the company and my first published party game as well. 
 
 In WWYT, one player reads a question that all players must answer. You get one point for each person who wrote down the same answer you did. If you are asked to give more than one answer, you score each answer separately and then add them together. After all answers are scored, the person with the fewest points gets a penalty card. When a player accumulates eight penalty cards, that player loses and the game is over.
 
@@ -368,7 +388,9 @@ Click here for Richard's answers!
 
 ### A Game Player's Resolution
 
-![](https://i.ormos.uk/7e/e1/7ee1a349c0c8820dd25a236f82677f176447dabcc336eac687d986c60cc47a30.jpg)I was entertained by Magic lead game designer Bill Rose's resolution last year to eat a brownie every day (which he kept for over a month). Shawn Carnes (one of the more flamboyant members of Magic R&D) earned some points for making a list of over 100 resolutions, several of them broken by the time he finished the list. 
+![](https://i.ormos.uk/7e/e1/7ee1a349c0c8820dd25a236f82677f176447dabcc336eac687d986c60cc47a30.jpg)
+
+I was entertained by Magic lead game designer Bill Rose's resolution last year to eat a brownie every day (which he kept for over a month). Shawn Carnes (one of the more flamboyant members of Magic R&D) earned some points for making a list of over 100 resolutions, several of them broken by the time he finished the list. 
 
 Most of the time, however, I hear the same stale, often-made, seldom-kept resolutions. "I am going to quit smoking." "I am going to lose weight." "I am going to exercise eight days a week." These resolutions only indirectly address the needs of the game-playing community. For example, a player who successfully resolves not to smoke will live longer and can therefore play more games, which helps the entire community. 
 
@@ -399,7 +421,9 @@ To more directly affect the lives ofgamers everywhere, I modestly offer this lis
 
 ### The Silence Between the Notes
 
-![](https://i.ormos.uk/3d/16/3d1666846e27d0f7be66b06ee5226a0d031528a39bba78ef9095a8f31446922e.jpg)Aimost all games have some mental or physical downtime—time that is spent doing something mindless or doing nothing at all. In most turn-based games, while you wait for your opponent to take a turn you're in downtime. In roleplaying games, if the DM is engaged with another player and you aren't involved, u're in downtime. In bridge, you are deep in downtime territory when you're the dummy. Even real-time games have downtime. For example, **StarCraft** downtime happens while waiting for units to come on line. In **Everquest**, downtime occurs while walking around town.
+![](https://i.ormos.uk/3d/16/3d1666846e27d0f7be66b06ee5226a0d031528a39bba78ef9095a8f31446922e.jpg)
+
+Aimost all games have some mental or physical downtime—time that is spent doing something mindless or doing nothing at all. In most turn-based games, while you wait for your opponent to take a turn you're in downtime. In roleplaying games, if the DM is engaged with another player and you aren't involved, u're in downtime. In bridge, you are deep in downtime territory when you're the dummy. Even real-time games have downtime. For example, **StarCraft** downtime happens while waiting for units to come on line. In **Everquest**, downtime occurs while walking around town.
 
 Downtime also includes time spent setting games up and tearing them down. Games with multiple decks that need to be sorted and reshuffled for each play, or with thousands of components, shduld be measured as having significant preparation or cleanup downtime. The nice thing about this particular time is that the person who organizes the game will probably do most of it for you. The bad thing, if you're like me, is that this organizer is probably you.
 

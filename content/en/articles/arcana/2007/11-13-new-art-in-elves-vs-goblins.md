@@ -71,7 +71,9 @@ There's Elf token cards and Goblin token cards in the box set too, plus an all-n
 
 ![](https://i.ormos.uk/b9/d7/b9d75450786fe170b682bdbf0430499f603e6ee7591af4ff71ca2f4eaca26a19.jpg)
 
-[![](https://i.ormos.uk/a7/07/a7079ee2de9d0a6677899f3f5585272a17bebed056be1e02077dcead0b8d19fb.jpg)](https://web.archive.org/web/20071113000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/expansion/elvesvsgoblins)We're very proud of *Elves vs. Goblins*, and think it'll be a great way for people to give the gift of **Magic** this holiday season. Because we're not done showing it off, we also wanted to show you the background texture art that was used in the packaging. You can't see it too well in this product shot to the right, but artist duo Zoltan Boros and Gabor Szikszai created an awesome all-out battle scene specifically for *Elves vs. Goblins* that expresses perfectly the ferocity of this eternal conflict.
+[![](https://i.ormos.uk/a7/07/a7079ee2de9d0a6677899f3f5585272a17bebed056be1e02077dcead0b8d19fb.jpg)](https://web.archive.org/web/20071113000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/expansion/elvesvsgoblins)
+
+We're very proud of *Elves vs. Goblins*, and think it'll be a great way for people to give the gift of **Magic** this holiday season. Because we're not done showing it off, we also wanted to show you the background texture art that was used in the packaging. You can't see it too well in this product shot to the right, but artist duo Zoltan Boros and Gabor Szikszai created an awesome all-out battle scene specifically for *Elves vs. Goblins* that expresses perfectly the ferocity of this eternal conflict.
 
 Check it out, and enjoy [*Duel Decks: Elves vs. Goblins*](https://web.archive.org/web/20071113000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/expansion/elvesvsgoblins) when it hits shelves this Friday.
 

@@ -231,7 +231,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/9f/59/9f59600bf664bcbb8ae5e63ee4a971c05e54e97c13193c90de8ac312ff59125f.jpg)Usually, the final round is little more than a formality for the players at the top of the standings. An intentional draw serves to secure Sunday play for both parties. It didn't happen that way this time around. Romao, having drawn with Jeroen Remie to set up a draw for this round, found himself paired against Tuomo Nieminen, already a lock for Top 8. Unfortunately for Romao, Nieminen is on the Finnish National Team, and had to play out his match for the points, helping to keep Finland's stranglehold on first place.
+![](https://i.ormos.uk/9f/59/9f59600bf664bcbb8ae5e63ee4a971c05e54e97c13193c90de8ac312ff59125f.jpg)
+
+Usually, the final round is little more than a formality for the players at the top of the standings. An intentional draw serves to secure Sunday play for both parties. It didn't happen that way this time around. Romao, having drawn with Jeroen Remie to set up a draw for this round, found himself paired against Tuomo Nieminen, already a lock for Top 8. Unfortunately for Romao, Nieminen is on the Finnish National Team, and had to play out his match for the points, helping to keep Finland's stranglehold on first place.
 
 ### Game 1
 
@@ -239,7 +241,9 @@ Nieminen led with Jackal Pup, a beater, but significantly less threatening than 
 
 Romao drew and tapped both his lands for a Frantic Search. He ditched Cunning Wish and then agonized before giving up an Accumulated Knowledge. Ancient Tomb wouldn't help his dwindling life total, but he needed the mana. Merchant Scroll got him another Search. He went to ten and Searched. He pitched two useless lands and left himself with a hand of Intuition, Cloud of Faeries and Cunning Wish. The Cloud gave him more mana and he Intuitioned for Accumulated Knowledges. He cast it.
 
-![](https://i.ormos.uk/b6/a6/b6a6fe5cbbe6940240d8a52500deb6b1097acb6f3fee5a205e38da6adfe15432.jpg)It was not everything he'd hoped for. Two lands, Fact or Fiction and Cloud of Faeries. He cast a Cloud and gave it back to Nieminen. Nieminen summoned a Fanatic and Sledder, and served. Romao killed the Sledder and lost both his Faeries, falling to seven. Nieminen wasted the Tomb, prompting a Fact or Fiction from the big man. The cards were Brainstorm, Cloud of Faeries, City of Traitors, Island and Medallion. Nieminen split off the Brainstorm and Medallion, and Romao took the bigger pile.
+![](https://i.ormos.uk/b6/a6/b6a6fe5cbbe6940240d8a52500deb6b1097acb6f3fee5a205e38da6adfe15432.jpg)
+
+It was not everything he'd hoped for. Two lands, Fact or Fiction and Cloud of Faeries. He cast a Cloud and gave it back to Nieminen. Nieminen summoned a Fanatic and Sledder, and served. Romao killed the Sledder and lost both his Faeries, falling to seven. Nieminen wasted the Tomb, prompting a Fact or Fiction from the big man. The cards were Brainstorm, Cloud of Faeries, City of Traitors, Island and Medallion. Nieminen split off the Brainstorm and Medallion, and Romao took the bigger pile.
 
 At five life, he ripped Brainstorm off the top. That gave him another Cloud, a Merchant Scroll, and another Brainstorm. He played a Cloud to untap his lands. Merchant Scroll got him a Frantic Search. He played his City and Searched. Two lands went to the yard. Brainstorm got him a look at another three. Two land and a Tendrils of Agony. He was in a bind. He Clouded up some more mana and Wished for Fact or Fiction. Then he gave it back to Nieminen.
 
@@ -249,7 +253,9 @@ Nieminen 1 – Romao 0
 
 ### Game 2
 
-![](https://i.ormos.uk/8a/f9/8af9cf7dda289189eb287e524554f6e5030df78525571400d1ebafa0a06e28f5.jpg)Romao kicked off the second game with an Ancient Tomb for Sapphire Medallion. Nieminen made a Lackey. Romao made a second Medallion and accepted the beats. Fortunately for him Nieminen only had a Piledriver to complicate things. He added a Fanatic and passed the turn back. Romao played his third land and gave it back. Nieminen bashed in and Wasted his Tomb. Romao was in trouble.
+![](https://i.ormos.uk/8a/f9/8af9cf7dda289189eb287e524554f6e5030df78525571400d1ebafa0a06e28f5.jpg)
+
+Romao kicked off the second game with an Ancient Tomb for Sapphire Medallion. Nieminen made a Lackey. Romao made a second Medallion and accepted the beats. Fortunately for him Nieminen only had a Piledriver to complicate things. He added a Fanatic and passed the turn back. Romao played his third land and gave it back. Nieminen bashed in and Wasted his Tomb. Romao was in trouble.
 
 He took an uneventful turn and got bashed to low life. It was do or die time. City of Traitors gave him access to lots of mana and started churning through his deck. Meditate kicked it off, followed by a Frantic Search. Clouds of Fairies and Merchant Scrolls kept him digging, but he couldn't get to a Mind's Desire. He tried another Meditate and still nothing. He'd gone halfway through his deck without seeing one. His last out was a cycled Cloud of Faeries, but it turned up a dud. He could only shake his head as he offered the hand.
 

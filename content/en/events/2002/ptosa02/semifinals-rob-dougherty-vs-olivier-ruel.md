@@ -151,7 +151,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a678.jpg)Ostensibly, this is Olivier Ruel's Pro Tour. The "curse" that comes with finishing last at the Magic Invitational ensures that that player will win a Pro Tour in the coming year. Ruel welcomed that ignominy, and now it seems to be paying dividends.
+![](http://www.wizards.com/sideboard/images/ptosa02/a678.jpg)
+
+Ostensibly, this is Olivier Ruel's Pro Tour. The "curse" that comes with finishing last at the Magic Invitational ensures that that player will win a Pro Tour in the coming year. Ruel welcomed that ignominy, and now it seems to be paying dividends.
 
 Also reaching for that brass ring is Your Move Games's Rob Dougherty. Dougherty's been on a bit of a constructed tear recently. He made Top 8 at Chicago last year with Fires, then only missed Top 8 at New Orleans by losing his last match to teammate Dave Humpherys. Add to that his performance this weekend, and it's clear he has the skills to pay many of his bills.
 
@@ -159,7 +161,9 @@ Both are running mono-black control decks, but have slightly different maindecks
 
 Ruel won the coveted right to play first. His opening hand featured Mind Sludge and most of the mana to cast it, so he was all smiles. However, Dougherty put a stop to that with a turn-three Rancid Earth, setting Ruel's clock back.
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a679.jpg)Ruel spent his fifth turn playing Diabolic Tutor. He chose to fetch Morbid Hunger. Dougherty struck with Rancid Earth again, putting Ruel to just two swamps. Ruel pulled a third like the pro he is. He chose to wait on his Sludge, though, as it would only catch three of Dougherty's six cards.
+![](http://www.wizards.com/sideboard/images/ptosa02/a679.jpg)
+
+Ruel spent his fifth turn playing Diabolic Tutor. He chose to fetch Morbid Hunger. Dougherty struck with Rancid Earth again, putting Ruel to just two swamps. Ruel pulled a third like the pro he is. He chose to wait on his Sludge, though, as it would only catch three of Dougherty's six cards.
 
 Dougherty continued to play the waiting game. A Tutor found him a Sludge of his own. Ruel played Skeletal Scrying for three, finding desperately needed swamps, and a Rancid Earth of his own, minimizing Dougherty's Sludge.
 
@@ -171,7 +175,9 @@ The Sludge cleaned Dougherty out, though he did put on a sly smile, trying to tr
 
 Ruel 1 - Dougherty 0
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a680.jpg)Ruel's opening hand for Game 2 was reasonable, holding Mind Sludge and Mesmeric Fiend. The fiend stole Dougherty's Rancid Earth, and saw that he held only a third land to go with his double-Sludge, Braids and Haunting Echoes.
+![](http://www.wizards.com/sideboard/images/ptosa02/a680.jpg)
+
+Ruel's opening hand for Game 2 was reasonable, holding Mind Sludge and Mesmeric Fiend. The fiend stole Dougherty's Rancid Earth, and saw that he held only a third land to go with his double-Sludge, Braids and Haunting Echoes.
 
 The fiend got Edicted two turns later, but still did its job, keeping Dougherty from dropping Rancid Earth then Braids, the most powerful draw the deck has. Ruel dropped a Braids of his own. Dougherty floated a mana before sacrificing a land to play Scrying for two, desperate to keep from missing a land drop.
 

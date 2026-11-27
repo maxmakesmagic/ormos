@@ -383,7 +383,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a572.jpg)Everyone expected Mark Ziegner to be playing on Sunday, although not in this format, and not in this capacity. As a member of the German National Team, Ziegner—with Kai Budde and Felix Schneiders—will be playing in the team draft finals as expected. But he's filled up his plate by making the individual Top 8 as well, and will now attempt to join Jon Finkel as the only player to win the individual and team events at the same Worlds.
+![](http://www.wizards.com/sideboard/images/worlds02/a572.jpg)
+
+Everyone expected Mark Ziegner to be playing on Sunday, although not in this format, and not in this capacity. As a member of the German National Team, Ziegner—with Kai Budde and Felix Schneiders—will be playing in the team draft finals as expected. But he's filled up his plate by making the individual Top 8 as well, and will now attempt to join Jon Finkel as the only player to win the individual and team events at the same Worlds.
 
 By the same account, no one expect Sim Han How to be playing today, not even Han himself. Han How, the rookie Malaysian National Champion, is playing in his first Pro Tour, and after dominating the Swiss for the first two days, had an easy ride to the Top 8 at the end.
 
@@ -423,7 +425,9 @@ Han How drew a third land and a Squirrel Nest, then Looted once for a fourth lan
 
 Ziegner played a Psychatog, then killed the Looter and shrunk the Centaur with a Fire. On his next turn he shrunk the Phantom again with a Flametongue, but he wasn't out of the woods yet. A Burning Wish got a Deep Analysis from Ziegner's sideboard , and he also played a second 'Tog.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a574.jpg)After a few mana draws, Han How eventually drew and played a second Looter. Ziegner let it resolve, the Repulsed his own Flametongue Kavu then recast is to kill the blue 1/1. Ziegner then played his own Looter, quite an eccentric card for a 'Tog deck.
+![](http://www.wizards.com/sideboard/images/worlds02/a574.jpg)
+
+After a few mana draws, Han How eventually drew and played a second Looter. Ziegner let it resolve, the Repulsed his own Flametongue Kavu then recast is to kill the blue 1/1. Ziegner then played his own Looter, quite an eccentric card for a 'Tog deck.
 
 Ziegner was building a great hand thanks to the Analysis and the Looter, and he added a Nightscape Familiar and third Psychatog to the board. He then killed Han How's Birds and Phantom Centaur with a Fire, but had to mana burn for one—down to six life—when he forgot about the Familiar. Han How was staying alive thanks solely to the nest—he had out eight tokens.
 
@@ -443,7 +447,9 @@ Han How laid his third land and cast a Wild Mongrel. Ziegner put down another Ur
 
 Ziegner made another Familiar and finally put out a blue mana source. Han How didn't find the land he needed, so he just attacked with the team and pitched a Deep Analysis to his Mongrel. When he went to flash it back in his second main phase, Ziegner Memory Lapsed it out of the game. On his next turn, Han How made the same attack and again discarded an Analysis to his Mongrel, but this time Ziegner Repulsed the Hound, giving Han How the option of drawing cards or putting his creature back out. The Malaysian opted to flash back the Analysis, but still found no fourth land.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a573.jpg)Ziegner cast Deep Analysis and passed. Han How attacked with four Squirrels; one was blocked, two were Fired, and one got through, bringing Ziegner to six. Ziegner untapped, flashed back his Analysis going to three, and attacked with his Familiar. A Flametongue Kavu killed Han How's last Squirrel, and Ziegner also added a Psychatog to the table.
+![](http://www.wizards.com/sideboard/images/worlds02/a573.jpg)
+
+Ziegner cast Deep Analysis and passed. Han How attacked with four Squirrels; one was blocked, two were Fired, and one got through, bringing Ziegner to six. Ziegner untapped, flashed back his Analysis going to three, and attacked with his Familiar. A Flametongue Kavu killed Han How's last Squirrel, and Ziegner also added a Psychatog to the table.
 
 Finally, Han How drew a fourth land. His hand had slowly been filling up with Oppositions and Phantom Centaurs. His life was dangerously low because his only source of green to this point was a Karplusan Forest, and he had paid the flashback on two Analyses. Needing to get lucky, he tapped out to attempt an Opposition. Of course, one of the last two cards in Ziegner's hand was a Circular Logic.
 

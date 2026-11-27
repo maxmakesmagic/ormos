@@ -81,7 +81,9 @@ render_recovery:
   - Dirge of Dread
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a918.jpg)Canada's Gary Wise and France's Raphael Levy both have impressive resumes, including Worlds Top 8's and just about everything else one can accomplish in this game, and now they are playing for possibly the most important thing of all: money.
+![](http://www.wizards.com/sideboard/images/pthou02/a918.jpg)
+
+Canada's Gary Wise and France's Raphael Levy both have impressive resumes, including Worlds Top 8's and just about everything else one can accomplish in this game, and now they are playing for possibly the most important thing of all: money.
 
 Levy was going second, but had the first creature down, the vanilla Glory Seeker. Each player put out morphs on their third turns, and Wise had a Dive Bomber on his fourth.
 
@@ -91,7 +93,9 @@ Levy put out a Catapult Squad and kept Glory Seeker back to keep it company. Wis
 
 Levy started playing out his string of Daru Cavaliers at this point, but couldn't get them into play fast enough to stop the Shrieker. Dive Bomber took care of the first attempt at blocking and Pacifism took the second Cavalier out of the mix, but a well-timed Sunfire Balm allowed Levy to take down the Lancer. The Frenchman was hanging on at two life, but the last Daru Cavalier gave him four Soldiers, which brought Gary's ability to engage in combat to a halt. Prowling Pangolin and Festering Goblin came down on Levy's side, and the 6/5 started in on Gary.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a930.jpg)There were quite a few cards Gary could have drawn to break up Levy's Soldier wall, and he peeled one of them—Daunting Defender. By making the Mistform Shrieker into a Cleric, he cut the potential Catapult Squad damage in half, from four to two, which wasn't enough to kill the flier. Levy just shook his head and said, "Nice topdeck," before scooping.
+![](http://www.wizards.com/sideboard/images/pthou02/a930.jpg)
+
+There were quite a few cards Gary could have drawn to break up Levy's Soldier wall, and he peeled one of them—Daunting Defender. By making the Mistform Shrieker into a Cleric, he cut the potential Catapult Squad damage in half, from four to two, which wasn't enough to kill the flier. Levy just shook his head and said, "Nice topdeck," before scooping.
 
 Wise 1 – Levy 0
 
@@ -105,7 +109,9 @@ Then Levy started in on his chain of Daru Cavaliers, causing Wise to stick out h
 
 Wise's deck came to the rescue over the next two turns, coughing up Mistform Dreamer and another Shrieker. "It's good to be the only blue drafter at the table," said Wise.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a932.jpg)Levy played out Prowling Pangolin and a Daru Healer and it looked like Gary was going to lose the race. But a full-strength Choking Tethers swung things back in Wise's favor; he would win in the air as long as he could block the Pangolin.
+![](http://www.wizards.com/sideboard/images/pthou02/a932.jpg)
+
+Levy played out Prowling Pangolin and a Daru Healer and it looked like Gary was going to lose the race. But a full-strength Choking Tethers swung things back in Wise's favor; he would win in the air as long as he could block the Pangolin.
 
 Levy had his own trick ready, however, casting Dirge of Dread before attacking with all his creatures for what would have been lethal damage. But Wise had one goody left, Oblation. He sent the Pangolin back into Levy's deck and survived the attack.
 

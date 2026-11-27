@@ -61,7 +61,9 @@ archive_source:
   sha256: d94ca142c2a40f7def0453b94b9e1eb14ca8c475806d5ad7083172d2347d0560
 render_recovery: []
 ---
-![Sideboard.com](https://i.ormos.uk/61/7c/617c36c5f1b7539db4c985684c884c04b0b47479acd6e97ce5d694bc96bbfa85.jpg)Sideboard.com is Wizards’ Organized Play page. It has excellent strategy articles by top players as well as wonderful live tournament coverage. You have a trivia column on the site called “Question Mark.” About once every other week, you’ll mess up on a question and get a dozen or so letters informing you of your mistake. (If only you had more free time to double check all the answers.)
+![Sideboard.com](https://i.ormos.uk/61/7c/617c36c5f1b7539db4c985684c884c04b0b47479acd6e97ce5d694bc96bbfa85.jpg)
+
+Sideboard.com is Wizards’ Organized Play page. It has excellent strategy articles by top players as well as wonderful live tournament coverage. You have a trivia column on the site called “Question Mark.” About once every other week, you’ll mess up on a question and get a dozen or so letters informing you of your mistake. (If only you had more free time to double check all the answers.)
 
  **[Read the message boards.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=32)  
 [Visit the rumor site.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=22)  

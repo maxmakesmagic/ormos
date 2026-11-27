@@ -52,7 +52,9 @@ render_recovery: []
 
 **Worth Wollpert (1-0) vs. Tony Tsai (1-0)** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R2Wollpert.JPG)Deadguy Teammates Wollpert and Tsai got off to a fast start with their respect for one another being reason enough to forget mind gimes. Wollpert, playing an aggressive B/R deck, won the die roll and started off fast, dropping a 2nd turn Pygmy Pyrosaur. After Tsai played a land, Wollpert attcked for one and continued his onslaught, dropping a Hulking Cyclops. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R2Wollpert.JPG)
+
+Deadguy Teammates Wollpert and Tsai got off to a fast start with their respect for one another being reason enough to forget mind gimes. Wollpert, playing an aggressive B/R deck, won the die roll and started off fast, dropping a 2nd turn Pygmy Pyrosaur. After Tsai played a land, Wollpert attcked for one and continued his onslaught, dropping a Hulking Cyclops. 
 
 On Wollpert's next turn, the Cyclops rushed past Tsai's Bouncing Beebles, but after Wollpert played a slinking Skirge, Tsai said 'This isn't going to be a very good turn for you Mr. Wollpert', and proceeded to Sick and Tired the Pyrosaur and the Skirge, followed by a Sigil of Sleep which sent the Cyclops back to Wollpert's hand. Unfortunately for Tsai, Wollpert had a surprise of his own, casting a Keldon Champion, sending Tsai down to ten. 
 

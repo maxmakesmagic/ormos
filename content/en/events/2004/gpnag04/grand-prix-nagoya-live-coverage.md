@@ -267,7 +267,9 @@ Both Takesita and Kobayashi were amateurs coming into this event so they will be
 
 *by Brian David-Marshall* 
 
-![](http://www.wizards.com/sideboard/images/gpnag04/Day1Undefeated.JPG)Satoshi Imura took his first loss on the day in the ninth round to fellow Osakan Tooru Takeshita. Takeshita was playing Affinity and took down the zombie player in two quick and brutal games. It was actually the only time that Tooru had faced Affinity all day long--although he expects that to change tomorrow when he is anticipating a field full of Goblins and Affinity. 
+![](http://www.wizards.com/sideboard/images/gpnag04/Day1Undefeated.JPG)
+
+Satoshi Imura took his first loss on the day in the ninth round to fellow Osakan Tooru Takeshita. Takeshita was playing Affinity and took down the zombie player in two quick and brutal games. It was actually the only time that Tooru had faced Affinity all day long--although he expects that to change tomorrow when he is anticipating a field full of Goblins and Affinity. 
 
 Tooru was not afraid of anything the format could throw his way though. He has played in three Grand Prix Trials leading up to this event and has only taken two losses--conceding both times to friends in the Top 8. The other time he won straight through to earn himself three byes for this tournament. There is no question in his mind, “Affinity is best deck!”
 
@@ -279,7 +281,9 @@ Tooru was not afraid of anything the format could throw his way though. He has p
 
 *by Brian David-Marshall* 
 
-![](http://www.wizards.com/sideboard/images/gpnag04/r5_kuroda.JPG)He has a raging fever and is taking massive doses of medication.
+![](http://www.wizards.com/sideboard/images/gpnag04/r5_kuroda.JPG)
+
+He has a raging fever and is taking massive doses of medication.
 
 He and his wife just became parents for the first time in the past two weeks.
 
@@ -359,13 +363,17 @@ Both players were 4-1 coming into the round. If the early matches were any indic
 
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpnag04/r6_oiso.JPG)Oiso mulliganed but seemed none the worse for wear as both players went straight to four lands. Jin had a Trellis to commemorate the turn while Oiso played a Simulacrum. Jin cast Sylvan Scrying on the next turn and then Witnessed it back. Oiso attempted a little recursion of his own when he played Astral Slide and cycled targeting his Jens. Jin responded with Oxidize.
+![](http://www.wizards.com/sideboard/images/gpnag04/r6_oiso.JPG)
+
+Oiso mulliganed but seemed none the worse for wear as both players went straight to four lands. Jin had a Trellis to commemorate the turn while Oiso played a Simulacrum. Jin cast Sylvan Scrying on the next turn and then Witnessed it back. Oiso attempted a little recursion of his own when he played Astral Slide and cycled targeting his Jens. Jin responded with Oxidize.
 
 Jin played a Tower on the next turn and was able to cast and activate Mindslaver. Oiso rolled his eyes dramatically and laid out a hand of two Witnesses, Triskelion, Gilded Light, and drew Renewed Faith. Jon sucked in his breath and tried to puzzle out how to play the turn. Oiso twitched nervously as he waited for what he felt was the obvious play but Jin was patient and thought through his options. Finally he cycled Renewed Faith to remove his own Witness from the game. When he demonstrated that he was going to get back Mindslaver, Oiso conceded. 
 
 ### Game two
 
-![](http://www.wizards.com/sideboard/images/gpnag04/r6_okamoto.JPG)This game was Jin's turn to mulligan and he frowned at his next hand of six lands but decided to keep it. The first spell that Jin cast other than a Sylvan Scrying for a Tranquil Thicket was a Sundering Titan that took down two of Oiso's land. Oiso was in okay position to deal with it with Jens and Slide on his side of the table. He simply avoided putting any Plains into play to minimize the damage. In the meanwhile he was able to block the Titan and fetch a land each turn. 
+![](http://www.wizards.com/sideboard/images/gpnag04/r6_okamoto.JPG)
+
+This game was Jin's turn to mulligan and he frowned at his next hand of six lands but decided to keep it. The first spell that Jin cast other than a Sylvan Scrying for a Tranquil Thicket was a Sundering Titan that took down two of Oiso's land. Oiso was in okay position to deal with it with Jens and Slide on his side of the table. He simply avoided putting any Plains into play to minimize the damage. In the meanwhile he was able to block the Titan and fetch a land each turn. 
 
 Oiso seemed to think he was headed for the two loss bracket when Jin cast Tooth and Nail but Jin was not as sure of the outcome of the spell as he contemplated Colossus, Witness, and Trike. He took the two artifacts and put them into play. Oiso untapped and put two parts of the Urza combo on top of Jin's deck. A turn later Oiso took out the 11/11 with a Duplicant. Jin played an Oblivion Stone and promptly popped it. Oiso cycled out his Duplicant and it took out the Witness that Jin used to pick up his Talisman after the Stone. 
 
@@ -439,13 +447,17 @@ God, I love Japan.
 
 *by Brian David-Marshall* 
 
-![](http://www.wizards.com/sideboard/images/gpnag04/r4_Okamoto.jpg)Round four marked the dramatic debut of all the pros Japan has thrust into the limelight over the past couple of years. I wandered about the tables to get an idea of what people were playing and look for interesting decks.
+![](http://www.wizards.com/sideboard/images/gpnag04/r4_Okamoto.jpg)
+
+Round four marked the dramatic debut of all the pros Japan has thrust into the limelight over the past couple of years. I wandered about the tables to get an idea of what people were playing and look for interesting decks.
 
 In the feature match area we had Jin Okamoto facing off with former Japanese National Champion Kotaro Otsuka. Jin has posted two separate top 2 finishes on the Pro Tour over the past year. The first was against Daniel Zink during last year's World Championships and the second was just weeks ago in Seattle as part of Team Shop Fireball 2 in a battle with Kamiel and the Von Dutch. 
 
 Both Jin and his opponent are from the Nagoya area and there was tremendous interest in the match between the two popular players. They were both playing the mono-green Urzatron deck--or Tron Deck as the Japanese prefer--that has become tremendously popular in the wake of Shigehara's MTGO World's Qualifier triumph. 
 
-![](http://www.wizards.com/sideboard/images/gpnag04/r4_Otsuka.jpg)Both players opened with identical draws; two lands, Trellis and Oblivion Stone but Jin broke parity when he stumbled on his land drops. They eventually traded Stones and walls when Otsuka went to put a fate counter on His Trellis but Otsuka was ahead on mana and he eventually took the match from his mentor two games to zero.
+![](http://www.wizards.com/sideboard/images/gpnag04/r4_Otsuka.jpg)
+
+Both players opened with identical draws; two lands, Trellis and Oblivion Stone but Jin broke parity when he stumbled on his land drops. They eventually traded Stones and walls when Otsuka went to put a fate counter on His Trellis but Otsuka was ahead on mana and he eventually took the match from his mentor two games to zero.
 
 Itaru Ishida was also playing the mono-green Tron deck and was facing off against Yuta Ushie with a blue-red Obliterate deck. Their match went three games with Itaru taking the match despite being on the wrong side of a Dwarven Blastminer for most of game three. I asked Itaru what happened to his Seedborn Muse control deck from Kuala Lumpur and he laughed holding his fingers to his nose. 
 
@@ -495,7 +507,9 @@ Two local foreigners have won their first three matches. Loys Le Goff lives in O
 
 *by Brian David-Marshall* 
 
-![](http://www.wizards.com/sideboard/images/gpnag04/blueblack.jpg)Japan is sooooo much better than Canada. I have complained in previous coverage about the decaffeinated Mountain Dew in Josh Bennett's homeland. While Japan does not offer much in the way of Doing the Dew it does offer canned coffee on seemingly every street corner. Just a few feet from where I am working is a vending machine with un unending supply of iced black coffee. While the Boss is not the Boss of them All at the Nagoya Convention center I am quite happy with my Blues Black Coffee.
+![](http://www.wizards.com/sideboard/images/gpnag04/blueblack.jpg)
+
+Japan is sooooo much better than Canada. I have complained in previous coverage about the decaffeinated Mountain Dew in Josh Bennett's homeland. While Japan does not offer much in the way of Doing the Dew it does offer canned coffee on seemingly every street corner. Just a few feet from where I am working is a vending machine with un unending supply of iced black coffee. While the Boss is not the Boss of them All at the Nagoya Convention center I am quite happy with my Blues Black Coffee.
 
 Additionally, they sell Godzilla toys at the convenience store Although with 940 players that is about all the local convenience store has left--it has been stripped of any edible products. We actually need to send someone by car to another location for lunch. With all the three bye competitors getting geared up for the remaining six rounds of action today I am going to need something besides coffee very soon.
 
@@ -547,7 +561,9 @@ When I popped by their crowded signing area the race for most-signed Heather Hud
 
 We have located the remaining Trial decklists and while Ron Foster was typing them up he pointed at an interesting feature of the constructed deck sheet that was being used. There is a box on the upper right hand side of the deck sheet that has the letters A,B, and C. It turns out that the Japanese High Scholl Championships have qualifiers utilizing the rarely seen Team Constructed format. The Top 16 teams are determined through Team Standard qualifiers throughout the summer (they faced off last weekend in the finals although they played Team Rochester for the big tournament).
 
-![](http://www.wizards.com/sideboard/images/gpnag04/registration_sheet.jpg)I asked him if they used unified Standard or if the players were able to all play with the same deck. They utilize the latter but Ron was intrigued by the possibility of the former under which each team of three players is bound by the four-of rule as opposed to each player. Basically you can have four Arcbound Ravagers on the whole team, which would allow only one player to wield an Affinity deck creating a much more diverse field of decks. 
+![](http://www.wizards.com/sideboard/images/gpnag04/registration_sheet.jpg)
+
+I asked him if they used unified Standard or if the players were able to all play with the same deck. They utilize the latter but Ron was intrigued by the possibility of the former under which each team of three players is bound by the four-of rule as opposed to each player. Basically you can have four Arcbound Ravagers on the whole team, which would allow only one player to wield an Affinity deck creating a much more diverse field of decks. 
 
 I have always been a big fan of the Unified Standard team format and will be excited to report on the results of next year's High School Championships in [The Week that Was](https://web.archive.org/web/20130702142219/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/columnarchive) although I would love to see the format adopted in other parts of the world before then. While we hold out collective breath here are the remaining deck lists from yesterday's individual Standard GP Trials. 
 
@@ -825,7 +841,9 @@ Shigehara wasn't in his comfort zone at the Feature Match table, as he was too a
 
 *by Brian David-Marshall* 
 
-![](http://www.wizards.com/sideboard/images/gpnag04/Blog3_946players.jpg)Yesterday, while out to dinner with Ron Foster, Heather Hudson, and Daniel Gelon, our meal was interrupted by a phone call to Ron from the tournament site where they were holding Grand Prix Trials for today. There were actually two separate sites running Trials throughout yesterday and each location was scheduled to hold six thirty-two person events. There was such demand for the events that the call was a plea from the event staff for three additional sanctioning numbers for extra Trials. 
+![](http://www.wizards.com/sideboard/images/gpnag04/Blog3_946players.jpg)
+
+Yesterday, while out to dinner with Ron Foster, Heather Hudson, and Daniel Gelon, our meal was interrupted by a phone call to Ron from the tournament site where they were holding Grand Prix Trials for today. There were actually two separate sites running Trials throughout yesterday and each location was scheduled to hold six thirty-two person events. There was such demand for the events that the call was a plea from the event staff for three additional sanctioning numbers for extra Trials. 
 
 In the end they got the sanctioning numbers and ran a total of fifteen trials throughout the day with four hundred and eighty players--although no word on how many unique entries--we can't get that number until sometime next week. Players who were here described the field as, "Affinity, red that hates Affinity, and Tooth and Nail." Apparently the mono-green Tooth and Nail deck that Toshinori Shigehara used to win the MTGO online qualifier for Worlds was a very popular choice among the locals.
 
@@ -949,7 +967,9 @@ Tooth and Nail
 
 *by Brian David-Marshall* 
 
-![](http://www.wizards.com/sideboard/images/gpnag04/SitePicture.jpg)There are 940 players in the tournament today which means we will be playing nine rounds today and, after a cut to the top 128 players, six more tomorrow before a cut to the Top 8. The players took up every single seat in the hall including the feature match area as they were all seated for perhaps the only time today (with byes and drops it is highly unlikely that the whole field will ever sit down at the same time) and listened as the judge made their announcements.
+![](http://www.wizards.com/sideboard/images/gpnag04/SitePicture.jpg)
+
+There are 940 players in the tournament today which means we will be playing nine rounds today and, after a cut to the top 128 players, six more tomorrow before a cut to the Top 8. The players took up every single seat in the hall including the feature match area as they were all seated for perhaps the only time today (with byes and drops it is highly unlikely that the whole field will ever sit down at the same time) and listened as the judge made their announcements.
 
 It is funny because these things take on a shape and a sound that transcends language barriers. Despite speaking in Japanese it was obvious that these were the same announcements I have heard in a dozen different languages, "We will be using match result slips--do not mark anything in the drop box unless you want to be dropped from the tournament!"
 

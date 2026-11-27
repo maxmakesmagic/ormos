@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by James White* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/p1270039.jpg)The day is seen in under the shroud of a slight spattering of rain. On the way to venue we hear on the radio that a blizzard has hit Tokyo and lightning warnings have been issued. I hope that the only type of storm we are going to see here today is the Meteor storm type being played on the table. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/p1270039.jpg)
+
+The day is seen in under the shroud of a slight spattering of rain. On the way to venue we hear on the radio that a blizzard has hit Tokyo and lightning warnings have been issued. I hope that the only type of storm we are going to see here today is the Meteor storm type being played on the table. 
 
 The four hundred-plus competitors were forced to endure the elements until 9.30 when the doors were opened and the masses poured into the venue. People were running to the Hobby Japan Table to purchase their Magic trinkets and toys as well as the many dealer tables situated around the hall. You can find any magic card you could ever want here today. The selection includes complete sets of Beta singles, every foil or promo card ever printed as well as any single from Standard. 
 

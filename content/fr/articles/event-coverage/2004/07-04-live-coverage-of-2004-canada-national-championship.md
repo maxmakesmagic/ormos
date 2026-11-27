@@ -44,7 +44,9 @@ archive_source:
   sha256: 7a24663c0e625cdd4b54a7a315409eeb8cc6b7b04c4ff769ec8a71a14ca2066a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/qf2_1.jpg)Ce match voit l'affrontement de Sacha Bakht et David Rood. David et l'unique joueur québécois dans les rondes éliminatoires. Dave a eu du succès dans le Pro Tour en Équipe et a fait un top 8 au championnat national en 2002. Sacha Bakht est le gagnant des régionaux en Ontario et membre de l'équipe DGE. Ces deux joueurs ont choisi Affinity pour ce tournoi, un match miroir que est vu et revu depuis longtemps.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/qf2_1.jpg)
+
+Ce match voit l'affrontement de Sacha Bakht et David Rood. David et l'unique joueur québécois dans les rondes éliminatoires. Dave a eu du succès dans le Pro Tour en Équipe et a fait un top 8 au championnat national en 2002. Sacha Bakht est le gagnant des régionaux en Ontario et membre de l'équipe DGE. Ces deux joueurs ont choisi Affinity pour ce tournoi, un match miroir que est vu et revu depuis longtemps.
 
 ### Première Partie
 

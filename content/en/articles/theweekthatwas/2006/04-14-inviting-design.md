@@ -257,7 +257,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/e0/90/e090b887e49797b8a085fae93f0d63a0684dfa2eff4dca285255f1ac3ac03cf5.jpg)A couple of weeks ago when faced with the daunting challenge of filling Aaron Forsythe's shoes for one Friday, I wrote about four different cards that I have tried to insinuate into Wizards over the years. Everyone has at least one **Magic** card design lurking within them. You just have to look at the message boards and you will see plenty of sigs from people who have not only designed their own sets, but entire blocks. 
+![](https://i.ormos.uk/e0/90/e090b887e49797b8a085fae93f0d63a0684dfa2eff4dca285255f1ac3ac03cf5.jpg)
+
+A couple of weeks ago when faced with the daunting challenge of filling Aaron Forsythe's shoes for one Friday, I wrote about four different cards that I have tried to insinuate into Wizards over the years. Everyone has at least one **Magic** card design lurking within them. You just have to look at the message boards and you will see plenty of sigs from people who have not only designed their own sets, but entire blocks. 
 
 Given the opportunity, who would not want to have a card they designed see print? Even more importantly, who would not want to have their four-color likeness captured by the likes of Zoltan Boros and Gabor Szikszai? That is the most often cited reason by Invitational hopefuls each year as the balloting begins. 
 

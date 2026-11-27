@@ -77,7 +77,9 @@ archive_source:
   sha256: db4891cd0446da6ede2ced76845905e3b9d933fbf8aadf67c4ad82aeefa89fcb
 render_recovery: []
 ---
-[![Mind_Extraction](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/AP/Mind_Extraction.jpg)](https://web.archive.org/web/20070515000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mind%2BExtraction)Last Wednesday, I sat in a chair, had an IV put into my arm, and passed out. When I woke up three hours later, I was missing ten teeth. 
+[![Mind_Extraction](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/AP/Mind_Extraction.jpg)](https://web.archive.org/web/20070515000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mind%2BExtraction)
+
+Last Wednesday, I sat in a chair, had an IV put into my arm, and passed out. When I woke up three hours later, I was missing ten teeth. 
 
 That's right; I had to go in for major dental surgery. Turns out my gums are so bad the underlying bone structure had been dissolving, so not only did I have to have several teeth extracted to prevent infection, but they *also* had to do some reconstructive incisions on my gums to try to patch things together to keep the remaining twenty or so teeth in.
 
@@ -161,7 +163,9 @@ But don't try to make your deck do two things at once. Have one plan, and make t
 **Misperception: "This Will Just Happen!"**  
 **The Error: It probably won't.** 
 
-![Nacatl War-Pride and Stonewood Invocation](https://i.ormos.uk/2d/f0/2df090b809b2c277d45e520efa1ceb7aac01a8343b706f248a553e9392b46ec3.jpg)When I [asked for entries](/en/articles/seriousfun/2007/05-08-feeling-so-proud) in the "[Nacatl War-Pride](https://web.archive.org/web/20070515000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nacatl+War-Pride) Reader Challenge," I said that the problem with Nacatl is that he gets killed too easily when multiple opponents gang up on him. And a lot of readers have, thus far, submitted something like this: 
+![Nacatl War-Pride and Stonewood Invocation](https://i.ormos.uk/2d/f0/2df090b809b2c277d45e520efa1ceb7aac01a8343b706f248a553e9392b46ec3.jpg)
+
+When I [asked for entries](/en/articles/seriousfun/2007/05-08-feeling-so-proud) in the "[Nacatl War-Pride](https://web.archive.org/web/20070515000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nacatl+War-Pride) Reader Challenge," I said that the problem with Nacatl is that he gets killed too easily when multiple opponents gang up on him. And a lot of readers have, thus far, submitted something like this: 
 
 "You can protect [Nacatl War-Pride](https://web.archive.org/web/20070515000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nacatl+War-Pride) with [Stonewood Invocation](https://web.archive.org/web/20070515000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invocation)!" 
 

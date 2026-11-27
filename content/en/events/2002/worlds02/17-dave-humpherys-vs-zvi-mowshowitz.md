@@ -225,7 +225,9 @@ render_recovery:
 
 ### Game 1
 
-![](https://i.ormos.uk/4a/32/4a32c96b1af0f7d3263cd22626f6f93943da6d76c0c3920f1292e5a7a78f7486.jpg)　《敏捷なマングース/Nimble Mongoose》、《熊人間/Werebear》と手をすすめる Dave Hunpherys だが、マナベースとして 2 枚の《ケンタウルスの庭園/Centaur Garden》と《セファリッドの円形競技場/Cephalid Coliseum》を勘定しなければならないのがともかく痛いところだろう。Zvi の《野生の雑種犬/Wild Mongrel》が数発殴っただけなのに、気がつくとライフはたったの 7 という有様だ。
+![](https://i.ormos.uk/4a/32/4a32c96b1af0f7d3263cd22626f6f93943da6d76c0c3920f1292e5a7a78f7486.jpg)
+
+　《敏捷なマングース/Nimble Mongoose》、《熊人間/Werebear》と手をすすめる Dave Hunpherys だが、マナベースとして 2 枚の《ケンタウルスの庭園/Centaur Garden》と《セファリッドの円形競技場/Cephalid Coliseum》を勘定しなければならないのがともかく痛いところだろう。Zvi の《野生の雑種犬/Wild Mongrel》が数発殴っただけなのに、気がつくとライフはたったの 7 という有様だ。
 
 　Humpherys は《不可思議/Wonder》を召喚し、Zvi の《野生の雑種犬/Wild Mongrel》をバウンスしてからの《行き詰まり/Standstill》でしばし時間の流れをストップさせた。しかし、Zvi Mowshowitz も慌てず騒がず、ここでナチュラルなディスカードによって《不可思議/Wonder》を墓地へ送り込む。
 

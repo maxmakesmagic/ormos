@@ -64,7 +64,9 @@ render_recovery: []
 
 *Profiles by Brian David-Marshall*
 
-[![](https://i.ormos.uk/9c/b3/9cb39a305aca6137054cde8bf87bae99f90c60f9432f53be68c4abd637f4b67b.jpg)](https://web.archive.org/web/20070712000000/http://boards1.wizards.com/showthread.php?t=885069)Welcome to the voting for the 11th annual **Magic** Invitational!
+[![](https://i.ormos.uk/9c/b3/9cb39a305aca6137054cde8bf87bae99f90c60f9432f53be68c4abd637f4b67b.jpg)](https://web.archive.org/web/20070712000000/http://boards1.wizards.com/showthread.php?t=885069)
+
+Welcome to the voting for the 11th annual **Magic** Invitational!
 
 We interrupt your regularly scheduled ballot to bring you the first of four regional ballots—and where better to start than with the APAC region? Japanese players have dominated the top tables of Pro Tour play and they continue that trend on this year’s APAC ballot with a combination of rising stars and familiar faces.
 

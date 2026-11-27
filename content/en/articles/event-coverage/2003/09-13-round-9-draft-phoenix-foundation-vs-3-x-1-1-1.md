@@ -55,7 +55,9 @@ Dominant.
 
 That is the only word you can use to describe Phoenix Foundation's devastating run through the Team Rochester Draft format. They were riding a sixteen match winning streak at Pro Tour events coming into this round. As dominant a Pro Tour presence as team leader Kai Budde has been at individual Pro Tours, his performances with his wingmen Dirk Baberowski and recent Grand Prix champion Marco Blume has been nothing short of staggering.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a852.jpg)When asked in a quick question about what it would take to derail Kai and company, Jon Finkel [answered simply](https://web.archive.org/web/20030913000000/http://archive.wizards.com/default.asp?x=sideboard/ptbos03/questions), "Random variance." Enter the random variance.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a852.jpg)
+
+When asked in a quick question about what it would take to derail Kai and company, Jon Finkel [answered simply](https://web.archive.org/web/20030913000000/http://archive.wizards.com/default.asp?x=sideboard/ptbos03/questions), "Random variance." Enter the random variance.
 
 (3 x1) -1 +1 is pretty random as far as team names go. In fact, no one seems to know what it means. It was an early morning name change after the first choice was deemed too "unsavory" for the competition. Mike Long is the most recognizable name on the team followed closely by recently unbanned Justin Schneider and yet neither of them is sitting in the pilot seat for this event. Their B player--with the unappealing job of taking down Kai--is Mike Krzywicki. This unlikely trio ran roughshod over the competition at Grand Prix - Pittsburgh and was looking to put an impressive notch in their collective belts.
 
@@ -141,7 +143,9 @@ When asked about the draft, Marco just shook his head slowly with a look of emba
 
 Everyone agreed that Kai had a favorable matchup, but Kai was quick to downgrade it from "very good" to a mere "good" matchup. Several spectators suggested that (3 x 1) -1 +1 had erred when they counter-drafted an [Aven Warhawk](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Warhawk) form Dirk instead of a [Graveborn Muse](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Graveborn+Muse) from Kai, but he disagreed. He believed that the Bird was a better card and that it would have given Dirk a shot in an otherwise hopeless match.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a851.jpg)"Mike Long's deck is retarded!" -- Kai Budde
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a851.jpg)
+
+"Mike Long's deck is retarded!" -- Kai Budde
 
 When asked about what cards he would have liked his team to see in order to swing the odds his team's way Kai laughed, "[Siege-Gang Commander](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siege-Gang+Commander) and a pair of [Shock](https://web.archive.org/web/20030913000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)s maybe. All the stuff they opened."
 

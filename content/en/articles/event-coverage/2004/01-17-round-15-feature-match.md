@@ -44,7 +44,9 @@ archive_source:
   sha256: b7b622c00fcbd7feda929e35e6609d9250f8cdbe24662dd2ea17aa46fb0caf51
 render_recovery: []
 ---
-![](https://i.ormos.uk/b3/88/b38827577acaf47af01034cfa8f71a241a5e7582ef1b488f073e34f04bc24f7b.jpg)That one of these two players will be playing under the Sunday spotlight should come as no surprise. Budde is only the best player ever, and Mike Turian is called one of the greatest Limited minds in history. The problem is, this is the last round, and only one of these players can earn the points necessary to make the Top 8. Two men enter, one man leaves. Bust a deal, face the wheel.
+![](https://i.ormos.uk/b3/88/b38827577acaf47af01034cfa8f71a241a5e7582ef1b488f073e34f04bc24f7b.jpg)
+
+That one of these two players will be playing under the Sunday spotlight should come as no surprise. Budde is only the best player ever, and Mike Turian is called one of the greatest Limited minds in history. The problem is, this is the last round, and only one of these players can earn the points necessary to make the Top 8. Two men enter, one man leaves. Bust a deal, face the wheel.
 
 Budde was first on the board with [Soldier Replica](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soldier+Replica), while Turian Raised the Alarm and made a [Wizard Replica](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wizard+Replica). Soon he had [Viridian Longbow](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Longbow) shooting down Budde's men. Budde put the kaibosh on that and hoped to get his [Vulshok Gauntlets](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulshok+Gauntlets) working, but before he could do any real damage, [Rustspore Ram](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rustspore+Ram) took them down.
 

@@ -84,7 +84,9 @@ Often times the first few weeks of a design are spent figuring the essence of wh
 
 ### Off the Rakdos
 
-![](https://i.ormos.uk/77/00/77000b92127b307d4c17299c4359abe567413284f0366612c76ad928f5314521.jpg)Let's start with Black/Red as it was the easiest of the three guilds to define. (Okay, Azorius – White/Blue – wasn't all that tough either. Simic – Blue/Green – was the problem child, but I'll get there.) We knew that we wanted each expansion to have an aggressive deck and Black/Red fit the bill for *Dissension*. But the block already had three other guilds with Red. How would Rakdos be different?
+![](https://i.ormos.uk/77/00/77000b92127b307d4c17299c4359abe567413284f0366612c76ad928f5314521.jpg)
+
+Let's start with Black/Red as it was the easiest of the three guilds to define. (Okay, Azorius – White/Blue – wasn't all that tough either. Simic – Blue/Green – was the problem child, but I'll get there.) We knew that we wanted each expansion to have an aggressive deck and Black/Red fit the bill for *Dissension*. But the block already had three other guilds with Red. How would Rakdos be different?
 
 The answer rested in understanding how to design a guild. When you start putting a guild together, you have to examine the two colors being merged. With three other guilds sharing each color, it was important for the designers to figure out how the aspects of each color got distributed among its four guilds. What this means is that in any one guild, not every aspect of that color shows up. For example, Dimir played up Black's secrecy and desire to keep information hidden; Golgari played up Black's obsession with death; and Orzhov played into Black desire to keep everything under its thumb. So which part of Black was Rakdos going to tap into to? The answer is the self-destructive part.
 
@@ -96,7 +98,9 @@ Now, I'm not giving away the keyword mechanics today, so I can't give you the sp
 
 ### Azorius Against the World
 
-![](https://i.ormos.uk/81/e1/81e1fe9e31e05937dcf897abb6bc0c3d1acafc6ed1d4b64bcd39dd26f48064a2.jpg)Next we approached Azorius (a.k.a. White/Blue). In many ways, Azorius is the anti-Rakdos. Everything I described above is the antithesis of the Azorius. White/Blue is the least risky of the ten guilds. The Azorius plan out everything. They make no sudden moves. They think long before they ever act. They are the embodiment of passive play.
+![](https://i.ormos.uk/81/e1/81e1fe9e31e05937dcf897abb6bc0c3d1acafc6ed1d4b64bcd39dd26f48064a2.jpg)
+
+Next we approached Azorius (a.k.a. White/Blue). In many ways, Azorius is the anti-Rakdos. Everything I described above is the antithesis of the Azorius. White/Blue is the least risky of the ten guilds. The Azorius plan out everything. They make no sudden moves. They think long before they ever act. They are the embodiment of passive play.
 
 The trick to designing the Azorius is that we didn't want to make them so inactive that they didn't do anything. Yet we wanted the guild to stay true to its White/Blue origins. In the end, we decided that the Azorius were going to play a control game, yet were going to be given the resources to end the game quickly once control had been established.
 
@@ -106,7 +110,9 @@ During design there were many people who were concerned that Azorius might not b
 
 ### Simic City
 
-![](https://i.ormos.uk/21/c0/21c0281778cddfc5787f01706c0dd5929666b0d480dc1903b6c31b1b054a4e2a.jpg)I saved the Simic for last for several reasons. First, it was by far the hardest guild to design. Second, it's my personal favorite of the three. And third, it is the home of today's awesome preview card (notice how I keep using the word “awesome”). Why was the Simic so hard? Because the combination of its two colors is less obvious than most other guilds.
+![](https://i.ormos.uk/21/c0/21c0281778cddfc5787f01706c0dd5929666b0d480dc1903b6c31b1b054a4e2a.jpg)
+
+I saved the Simic for last for several reasons. First, it was by far the hardest guild to design. Second, it's my personal favorite of the three. And third, it is the home of today's awesome preview card (notice how I keep using the word “awesome”). Why was the Simic so hard? Because the combination of its two colors is less obvious than most other guilds.
 
 As I'll explain in greater detail when we get to Simic week, the Simic strive to “improve upon nature”. That's what happens when you merge nurture with nature. But Blue and Green tend to have very different strategies in Limited - the key was to figure out the right intersection. We started by assuming that the Simic guild would be about creatures. The reason for this is that the Simic are all about creating funky Island of Dr. Moreau-type creatures. How could we not show these guys off?
 

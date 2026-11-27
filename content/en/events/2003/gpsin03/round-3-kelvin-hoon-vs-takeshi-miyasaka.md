@@ -84,7 +84,9 @@ render_recovery:
   - Cruel Revival
   occurrences: 38
 ---
-![](http://www.wizards.com/sideboard/images/gpsin03/a985.jpg)Before the feature match was set to begin Miyasaka began to busy himself playing his Game Boy Advance, however on advice from a passerby to put it away and play some Magic, he quickly put it into his pocket with a smile and began to shuffle up his deck. Miyasaka won the die roll and elected to force Hoon to play first. 
+![](http://www.wizards.com/sideboard/images/gpsin03/a985.jpg)
+
+Before the feature match was set to begin Miyasaka began to busy himself playing his Game Boy Advance, however on advice from a passerby to put it away and play some Magic, he quickly put it into his pocket with a smile and began to shuffle up his deck. Miyasaka won the die roll and elected to force Hoon to play first. 
 
 ### Game 1
 
@@ -94,7 +96,9 @@ Miyasaka played his third colour, a swamp, and laid out his second morph to whic
 
 At the end of the turn Miyasaka unmorphed his facedown creature, Skinthinner, slamming the Sparkie into the graveyard. Miyasaka finally played a creature during his turn, dropping a Crested Craghorn and sent it and the Skinthinner into the red zone, provoking the Outrider. Symbiotic Elf jumped infront of the Skinthinner and was saved by Sledder with damage on the stack. It made little difference to Miyasaka who was looking to play a Caller of the Claw and that's exactly what he did. Hoon looked unphased and it was clear why when an enormous 7/7 Stag Beetle entered play. With no real play to make and drawing into a lot of lands Miyasaka cast Aphetto Dredging, naming beasts, getting back his Craghorn and passed the turn.
 
-![](https://i.ormos.uk/02/e6/02e6fed10972fc4b778157d4fa1518886add0306c2aa329b33d90e5831958c85.jpg)Hoon finally draws his 6th land showing that he is also playing three colours and sends in the Stag Beetle, which is chumped by one of the Claw lackeys, and plays down a toxin sliver. Craghorn makes its triumphant return to play provoking the stag beetle, and when Miyasaka tries to Erractic Explosion the Beetle, the sledder is saced in response. Miyasaka flips over Timberwatch elf, leaving him one damage short of the kill and screams in agony. With no choice but to smile at his good fortune Hoon sends in the Sliver, Elf and Stag Beetle. Miyasaka blocks desperately to stay alive but when the attack phase is completed and Goblin Dynamo joins the board he is forced to scoop up his cards and move to the next game.
+![](https://i.ormos.uk/02/e6/02e6fed10972fc4b778157d4fa1518886add0306c2aa329b33d90e5831958c85.jpg)
+
+Hoon finally draws his 6th land showing that he is also playing three colours and sends in the Stag Beetle, which is chumped by one of the Claw lackeys, and plays down a toxin sliver. Craghorn makes its triumphant return to play provoking the stag beetle, and when Miyasaka tries to Erractic Explosion the Beetle, the sledder is saced in response. Miyasaka flips over Timberwatch elf, leaving him one damage short of the kill and screams in agony. With no choice but to smile at his good fortune Hoon sends in the Sliver, Elf and Stag Beetle. Miyasaka blocks desperately to stay alive but when the attack phase is completed and Goblin Dynamo joins the board he is forced to scoop up his cards and move to the next game.
 
 Hoon leads 1-0
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: dae93033036d30b6971fe3a41ab28bc07add2fbffd3739a37767bcc6ce23f34e
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a734.jpg)Quelle stood resplendent in his borrowed finery, Peter Szigeti's ludicrous fur coat over his narrow shoulders. Around him, shedded strands clung to the table, and in between his sleeves. Andrew Ranks wore the reserved look, but truth be told, this coat could make even them most unkempt of hobos seem dapper.
+![](http://www.wizards.com/sideboard/images/usnat02/a734.jpg)
+
+Quelle stood resplendent in his borrowed finery, Peter Szigeti's ludicrous fur coat over his narrow shoulders. Around him, shedded strands clung to the table, and in between his sleeves. Andrew Ranks wore the reserved look, but truth be told, this coat could make even them most unkempt of hobos seem dapper.
 
 Quelle lost the die roll, and lamented that he was now 0-13 in opening rolls. The odds against, he said, must be incredible. An agitated Zvi Mowshowitz couldn't resist computing the result and shouting it for all to hear.
 
@@ -83,7 +85,9 @@ Ranks 1 - Quelle 1
 
 It's always a bad thing when Merfolk Looter goes uncontested. Ranks had Nightscape Familiar, but no follow up. His Duress saw Gainsay, Cicular Logic, Repulse, another Looter, and a Rootwalla. Grim. He took Gainsay. The Looter started working. Rootwalla was countered, but Wild Mongrel came down just fine.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a735.jpg)Ranks's three Underground Rivers were making things tough on him. A kicked Probe drew out the Circular Logic, but Quelle dispatched the Familiar with Fire. He swung, and Ranks was at thirteen. He tried to step in the way of Quelle's card advantage by Repulsing the Looter. Quelle decided to up the beats instead with Rootwalla.
+![](http://www.wizards.com/sideboard/images/usnat02/a735.jpg)
+
+Ranks's three Underground Rivers were making things tough on him. A kicked Probe drew out the Circular Logic, but Quelle dispatched the Familiar with Fire. He swung, and Ranks was at thirteen. He tried to step in the way of Quelle's card advantage by Repulsing the Looter. Quelle decided to up the beats instead with Rootwalla.
 
 Ranks Duressed, and saw two Flametongues. He frowned. He went through the motions of defending himself with Nightscape Familiar, but it just wasn't happening. Quelle soon attacked for the win.
 
@@ -111,7 +115,9 @@ Quelle 2 - Ranks 2
 
 The nerves of going into the last game with so much on the line was mollified, thanks to the healing power of Peter Szigeti's coat. 
 
-![](http://www.wizards.com/sideboard/images/usnat02/a737.jpg)Ranks was relieved to be back in it, but going second was not confident. Quelle opened with Mongrel. His next play of Aquamoeba was countered. Duress took care of Circular Logic before it could be a problem, and another Aquamoeba was countered. Still, Quelle's Mongrel was swinging the whole time and he had pulled a lot of action from Ranks's hand. Ranks's Repulse on a fresh Rootwalla met Memory Lapse.
+![](http://www.wizards.com/sideboard/images/usnat02/a737.jpg)
+
+Ranks was relieved to be back in it, but going second was not confident. Quelle opened with Mongrel. His next play of Aquamoeba was countered. Duress took care of Circular Logic before it could be a problem, and another Aquamoeba was countered. Still, Quelle's Mongrel was swinging the whole time and he had pulled a lot of action from Ranks's hand. Ranks's Repulse on a fresh Rootwalla met Memory Lapse.
 
 The Rootwalla was replayed and Demised. Quelle cycled Disrupt but came up empty. Ranks Repulsed the Mongrel. Neither player had anything of note, and they passed another turn of Repulse and replay. Finally the Mongrel stuck. Quell had nothing more to add. That was good news for Ranks, whose Nightscape Familiar could hold the fort. To Quelle's credit, he bluffed a powerful six-card reactive hand.
 

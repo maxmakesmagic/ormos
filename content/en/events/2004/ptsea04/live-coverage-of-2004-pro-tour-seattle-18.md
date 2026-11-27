@@ -631,7 +631,9 @@ render_recovery:
 ---
 * * *
 
-![Craig Krempels](http://www.wizards.com/sideboard/images/ptsea04/dr3_1.jpg)Some deck pools are easier to work with than others, but it's the most challenging ones that separate the top teams from the "almost" guys. Though it started out well for The American Way, by the time all the cards had been laid out it was clear these guys would have some work to do.
+![Craig Krempels](http://www.wizards.com/sideboard/images/ptsea04/dr3_1.jpg)
+
+Some deck pools are easier to work with than others, but it's the most challenging ones that separate the top teams from the "almost" guys. Though it started out well for The American Way, by the time all the cards had been laid out it was clear these guys would have some work to do.
 
 For those that may not be familiar with these guys, Craig Krempels recently won the whole thing in Kansas City to become the 2004 U.S. National Champion. Jonathan Sonne and Gerard Fabiano represent two-thirds of "Slay Pillage Gerard," the team that made top 4 at Boston '02 with Scott McCord.
 

@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/e9/e7/e9e728d5838e8532fda15cab8794d5736db45c3b9169544f7687eba8dbf3a8e3.png)Available only on **Magic Online**, this 230-card set features randomly inserted premium cards and comes in booster packs of 15 randomly sorted cards. The set includes 70 rares, 70 uncommons, 75 commons, and 15 basic lands. It’s not redeemable for physical product.
+![](https://i.ormos.uk/e9/e7/e9e728d5838e8532fda15cab8794d5736db45c3b9169544f7687eba8dbf3a8e3.png)
+
+Available only on **Magic Online**, this 230-card set features randomly inserted premium cards and comes in booster packs of 15 randomly sorted cards. The set includes 70 rares, 70 uncommons, 75 commons, and 15 basic lands. It’s not redeemable for physical product.
 
 **Set Name:** *Masters Edition III*  
 **Number of Cards:** 230

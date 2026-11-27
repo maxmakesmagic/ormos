@@ -73,7 +73,9 @@ render_recovery:
   - Afflict
   occurrences: 21
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a877.jpg)Pierre Malherbaud is the two-time French National Champion and no stranger to Grand Prix Top 8's. He made the quarterfinals of Grand Prix-London 2001. Patrick Mello is part of the same international super-team Godzilla that Kai Budde belongs to and is on a bit of a purple patch at the moment after finishing runner-up in Grand Prix-Lisbon and reaching the Top 8 of Grand Prix-Heidelberg.
+![](http://www.wizards.com/sideboard/images/gpnap02/a877.jpg)
+
+Pierre Malherbaud is the two-time French National Champion and no stranger to Grand Prix Top 8's. He made the quarterfinals of Grand Prix-London 2001. Patrick Mello is part of the same international super-team Godzilla that Kai Budde belongs to and is on a bit of a purple patch at the moment after finishing runner-up in Grand Prix-Lisbon and reaching the Top 8 of Grand Prix-Heidelberg.
 
 Mello had managed to draft mono-black, with a Cabal Patriarch as the highlight. Malherbaud has a reasonable green-black deck and joked that he was playing Portal as virtually all his spells were at sorcery speed. 
 
@@ -99,7 +101,9 @@ Malherbaud 1-0 Mello
 
 Mello had awful luck in the second game. He mulliganed his first hand and then drew six Swamps. He had to mulligan this and then went down to five cards.
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a875.jpg)Malherbaud had a good curve again as a turn 3 Torturer followed a turn 2 Crypt Creeper. The hapless German was beginning to feel tortured himself as his deck refused to cough up a third swamp.
+![](http://www.wizards.com/sideboard/images/gpnap02/a875.jpg)
+
+Malherbaud had a good curve again as a turn 3 Torturer followed a turn 2 Crypt Creeper. The hapless German was beginning to feel tortured himself as his deck refused to cough up a third swamp.
 
 Malherbaud turned the screw with Acorn Harvest but then chose not to flash it back the next turn. This gave Mello the opportunity to nick it with a Gravegouger when he finally found a third land. The reason for Malherbaud not flashing it back became apparent as he used the land to cast Elephant Ambush at end of turn. 
 

@@ -415,7 +415,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a636.jpg)While the big guns—Germany, the Netherlands, Sweden, and Argentina—beat the daylights out of each other at the top of the standings, the all-but-forgotten USA had put together two impressive 3-0 sweeps over Norway and Ireland and was still in contention (at least mathematically) should Germany continue to win.
+![](http://www.wizards.com/sideboard/images/worlds02/a636.jpg)
+
+While the big guns—Germany, the Netherlands, Sweden, and Argentina—beat the daylights out of each other at the top of the standings, the all-but-forgotten USA had put together two impressive 3-0 sweeps over Norway and Ireland and was still in contention (at least mathematically) should Germany continue to win.
 
 USA captain Eugene Harvey, heir to the successes of Team CMU in the team format, had worked with Mike Turian, an icon of the format, for the upcoming Pro Tour-Boston, and their strategies have been working perfectly so far, with neither Harvey or his teammates Eric Franz and Andrew Ranks losing a match so far today.
 
@@ -437,7 +439,9 @@ The *Odyssey* pack Franz opened contained a Shadowmage Infiltrator and a Beast A
 
 Going into *Torment*, all that was evident about the Americans' decks was that Franz was red, Harvey was blue, and Ranks was black. They each had a few cards of several other colors, but they'd need to commit quickly.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a635.jpg)Campbell abandoned green really quickly when *Torment* came around, taking three Faceless Butchers and two Barbarian Outcasts. On the other side, Harvey committed to green with a Possessed Centaur, which would be even better if he could manage a black splash. Ross picked up a Possessed Nomad, giving him even more incentive to splash black.
+![](http://www.wizards.com/sideboard/images/worlds02/a635.jpg)
+
+Campbell abandoned green really quickly when *Torment* came around, taking three Faceless Butchers and two Barbarian Outcasts. On the other side, Harvey committed to green with a Possessed Centaur, which would be even better if he could manage a black splash. Ross picked up a Possessed Nomad, giving him even more incentive to splash black.
 
 Franz never got any more green cards; he had to stick to red/white. Harvey was clearly looking blue/green, and Franz was potentially going to be black/white after taking a Tainted Field to go with his Pilgrim of Justice and Kirtar's Desire.
 
@@ -447,7 +451,9 @@ Penman opened the first *Judgment* pack and selected a Treacherous Vampire for h
 
 Ranks grabbed two Phantom Tigers early, plus and Ember Shot as a way to kill Butchers, so it looked like his new plan was to go black/green splash red. He ended up with a Treacherous Vampire to fill out his deck from a pack that contained a Spelljack for Harvey and a Swelter for Franz.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a634.jpg)Franz's deck got significantly better with Commander Eesha and a Phantom Flock right at the end. Harvey was now splashing white into this U/G deck, but Penman counterdrafted an Anurid Brushhopper from the last pack.
+![](http://www.wizards.com/sideboard/images/worlds02/a634.jpg)
+
+Franz's deck got significantly better with Commander Eesha and a Phantom Flock right at the end. Harvey was now splashing white into this U/G deck, but Penman counterdrafted an Anurid Brushhopper from the last pack.
 
 Overall, Scotland got the better end of the deal. Campbell has a serious edge over Ranks thanks to his three Mad Dogs and two Barbarian Outcasts backed up by three Faceless Butchers. Those cards can make for some blistering starts, with Worldgorger Dragon as the icing on the cake.
 

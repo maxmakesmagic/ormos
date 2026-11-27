@@ -53,7 +53,9 @@ archive_source:
   sha256: 773930192029fa57e86a983f372f341aeded352ca60d222341a07c9508ec2781
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplyo03/a912.jpg)Grand Prix Lyon broke the European record, but while a lot of the Pro's got to register their decks and then head back to the hotel for a couple of hours kip, some players had no byes and had to play right through from 11 to midnight tonight. One of those players was ten-year-old Renaud Libralesso.
+![](http://www.wizards.com/sideboard/images/gplyo03/a912.jpg)
+
+Grand Prix Lyon broke the European record, but while a lot of the Pro's got to register their decks and then head back to the hotel for a couple of hours kip, some players had no byes and had to play right through from 11 to midnight tonight. One of those players was ten-year-old Renaud Libralesso.
 
 Playing in only his second tournament Libralesso played a solid red-white deck with Pentavus, Solar Tide and a foil Altar of Shadows as the highlights. At 6-2 he had an outside chance of making the second day but alas it wasn't to be as he lost and finished up with an extremely credible 6-3 record.
 

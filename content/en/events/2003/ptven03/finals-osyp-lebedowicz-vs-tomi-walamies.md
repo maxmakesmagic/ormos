@@ -92,7 +92,9 @@ render_recovery:
   - Skirk Fire Marshal
   occurrences: 78
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a763.jpg)This is a tale of two impossible dreams come true.
+![](http://www.wizards.com/sideboard/images/ptven03/a763.jpg)
+
+This is a tale of two impossible dreams come true.
 
 Tomi Walamies has been threatening to retire from pro Magic after this tournament; he fell of the Gravy Train shortly after his appearance in the finals at Pro Tour – New Orleans, and he couldn't really afford the travel any more. His family had traveled here to Venice to see him play but they've already left because he assured them he'd not be playing on Sunday. Such confidence! But now, after this impressive run that landed him in the finals of this event, he promises that he's back, he'll be at all the other events, including Worlds, and the fire has been rekindled.
 
@@ -134,7 +136,9 @@ Osyp played his fifth land—a Secluded Steppe—and passed. Tomi played a third
 
 When the two Ogres came back into play, Osyp was under pressure to win both bids so he could kill them all with a three-point Starstorm. He won one bid, but Tomi won the other. The game was getting good.
 
-![](https://i.ormos.uk/c6/d2/c6d2a82d73beb75f2efde50101d447d218d5fbb4b0e4f02e00d3616258ac53bb.jpg)Walamies played another haste creature—Clickslither—but that played right into Osyp's hands. When he attacked, the American Starstormed for 3, as expected, killing all but the 5/5 Ogre, and then tapped his last remaining land to cycle a Secluded Steppe, removing the big man from the game again. Walamies was dejected.
+![](https://i.ormos.uk/c6/d2/c6d2a82d73beb75f2efde50101d447d218d5fbb4b0e4f02e00d3616258ac53bb.jpg)
+
+Walamies played another haste creature—Clickslither—but that played right into Osyp's hands. When he attacked, the American Starstormed for 3, as expected, killing all but the 5/5 Ogre, and then tapped his last remaining land to cycle a Secluded Steppe, removing the big man from the game again. Walamies was dejected.
 
 Osyp played a face-down Angel on his next turn and from there he really couldn't lose. The Angel and the Rift took care of Tomi in short order. Osyp's turn-4 mistake did not end up costing him.
 
@@ -152,7 +156,9 @@ Walamies had to mulligan, and as he pile shuffled, Osyp regaled him with stories
 
 Osyp also mulliganed to make things fair, and they were off.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a761.jpg)Walamies put out a Skirk Prospector on turn 1, and attacked with it for the first few turns, often enhancing it with Goblin Burrows. Osyp played a morph on turn three, but Walamies had the Shock. Osyp put out a Slide on turn 4 and passed.
+![](http://www.wizards.com/sideboard/images/ptven03/a761.jpg)
+
+Walamies put out a Skirk Prospector on turn 1, and attacked with it for the first few turns, often enhancing it with Goblin Burrows. Osyp played a morph on turn three, but Walamies had the Shock. Osyp put out a Slide on turn 4 and passed.
 
 On Tomi's fifth turn, leading 20 to 13, he played everyone's favorite Menacing Ogre. Osyp, holding Starstorm, bid four life to keep it small, and then took the hit down to five. A turn later, he Starstormed Tomi's two creatures away.
 

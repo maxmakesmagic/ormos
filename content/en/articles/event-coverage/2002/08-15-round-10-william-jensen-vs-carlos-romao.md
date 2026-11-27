@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a814.jpg)Read about William Jensen's draft [here](/en/articles/event-coverage/2002/08-15-draft-2-william-jensen-and-sim-han-how).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a814.jpg)
+
+Read about William Jensen's draft [here](/en/articles/event-coverage/2002/08-15-draft-2-william-jensen-and-sim-han-how).
 
 Some would say it shouldn't happen, that the collision of worlds could tear everything apart. There are those who say that it is their destiny to meet in single combat. Today it is inescapable. The Huey's must face one another.
 
@@ -77,7 +79,9 @@ Romao 1 - Jensen 0
 
 In Game 2 it was Jensen's turn to get the quick start. [Mystic Familiar](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Familiar) and [Skywing Aven](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven) tattooed Romao while he got out a Tracer. Things looked even better when Romao had no play.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a815.jpg)Jensen smashed in with just the Aven, signaling what was to come. [Psionic Gift](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psionic+Gift) for the [Mystic Familiar](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Familiar). Romao was ready with [Rites of Refusal](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Refusal). Still, Jensen had a [Phantom Nomad](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Nomad) to increase the beats.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a815.jpg)
+
+Jensen smashed in with just the Aven, signaling what was to come. [Psionic Gift](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psionic+Gift) for the [Mystic Familiar](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Familiar). Romao was ready with [Rites of Refusal](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Refusal). Still, Jensen had a [Phantom Nomad](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Nomad) to increase the beats.
 
 Romao made a [Nantuko Mentor](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Mentor) and passed it back. Jensen hit for five and played [Stern Judge](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge). At twelve, Romao decided to gas up with [Deep Analysis](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis). When Huey crashed again, Romao tried to trade by blocking with Tracer and Mentor, but [Prismatic Strands](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prismatic+Strands) for green left him without creatures.
 
@@ -91,7 +95,9 @@ Jensen didn't bat an eye at Romao's mulligan for Game 3, but when he dropped tur
 
 The Aven attacked. Romao blocked and went for [Refresh](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Refresh). Jensen shut that down with [Repel](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repel). Then he pitched [Ghostly Wings](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghostly+Wings) to save the Aven. The Collaborator came back. Jensen added a [Stern Judge](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a816.jpg)Romao wanted to make it quick, dropping Teachings on his Collaborator and hitting for four. Jensen fired back for two and remade the Aven. On Romao's next attack, Jensen blocked with the Skywing and pitched [Frantic Purification](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frantic+Purification) to save it, killing the Teachings in the process. [Mystic Familiar](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Familiar) hit the board to earn the Teachings.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a816.jpg)
+
+Romao wanted to make it quick, dropping Teachings on his Collaborator and hitting for four. Jensen fired back for two and remade the Aven. On Romao's next attack, Jensen blocked with the Skywing and pitched [Frantic Purification](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frantic+Purification) to save it, killing the Teachings in the process. [Mystic Familiar](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Familiar) hit the board to earn the Teachings.
 
 Now was not a good time for Romao to add nothing to the board. Jensen attacked for six, having Wings'd up the Judge. [Keep Watch](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keep+Watch) drew Romao some cards. He dropped [Aven Windreader](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Windreader) and [Ironshell Beetle](https://web.archive.org/web/20020815000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ironshell+Beetle), armoring up his Collaborator. The Windreader fell to the assault, and Romao dropped to six.
 

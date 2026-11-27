@@ -44,7 +44,9 @@ archive_source:
   sha256: 1327b3946a504717920fa9b9de5fa5c368f9352d297034f0e80baf9395d34622
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm6_1.jpg)Think fast, what was the last Limited Pro Tour to feature an American player in the finals?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm6_1.jpg)
+
+Think fast, what was the last Limited Pro Tour to feature an American player in the finals?
 
 You have to go back to Alan Comer's performance at PT Barcleona and before that Mike Pustilnik in Los Angeles. The performance of players outside of the United States has seen a steady increase over the intervening years with a steady stream of European, Japanese, and Latin American players elbowing their way into the narrow beam of the Sunday spotlight.
 

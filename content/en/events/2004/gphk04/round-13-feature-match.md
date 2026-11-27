@@ -431,7 +431,9 @@ render_recovery:
 ---
 ### Olivier Ruel vs. Terry Soh
 
-![](http://www.wizards.com/sideboard/images/gphk04/r13fm1_1.jpg)Both players were thinking about a draw this round but just as Olivier had run through the math for the young Malaysian he stopped himself short and realized, "I am so bad at math, we have to play." In fact, Olivier needed to win out with his deck in order to make Top 8.
+![](http://www.wizards.com/sideboard/images/gphk04/r13fm1_1.jpg)
+
+Both players were thinking about a draw this round but just as Olivier had run through the math for the young Malaysian he stopped himself short and realized, "I am so bad at math, we have to play." In fact, Olivier needed to win out with his deck in order to make Top 8.
 
 ### Game 1
 

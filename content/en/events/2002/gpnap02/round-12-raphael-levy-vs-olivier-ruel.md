@@ -80,7 +80,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a905.jpg)Ruel went on the offensive first, summoning a turn 2 Wild Mongrel. Lévy blocked with Dilligent Farmhand and used it to get himself another land, while Ruel summoned a Nantuko Mentor, which could make life very difficult for Lévy unless he drew a direct damage spell.
+![](http://www.wizards.com/sideboard/images/gpnap02/a905.jpg)
+
+Ruel went on the offensive first, summoning a turn 2 Wild Mongrel. Lévy blocked with Dilligent Farmhand and used it to get himself another land, while Ruel summoned a Nantuko Mentor, which could make life very difficult for Lévy unless he drew a direct damage spell.
 
 Each of the players summoned a Centaur Chieftain and traded blows over the next turn. At fourteen life and facing a Mongrel/Mentor combo, Lévy could no longer attack. He summoned a Blessed Orator and passed the turn. When Ruel attacked, he had his Chieftain block Ruel's as Olivier was one card short of killing Lévy with a Mongrel. Ruel discarded Obsessive Search with Madness to Mongrel, pitched his five cards and activated the Mentor's ability dealing fourteen points of damage for the turn five win.
 
@@ -90,7 +92,9 @@ Ruel did not draw a Forest, thus failing to play his Mongrel on turn 2. He cast 
 
 In the meantime, Ruel pitched a Basking Rootwalla to Compulsion, and after drawing a third land, did the Obsessive Search/Compulsion combo to finally find a Forest, cast Wild Mongrel, and enchant it with Ghostly Wings. Ruel kept riding Compulsion hard, discarding another Basking Rootwalla to it and then casting Bearscape. He also summoned Puppeteer and Metamorphic Wurm, making Lévy's position less than secure.
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a906.jpg)Lévy was trying to play for his Vengeful Dreams, holding most of his cards in hand and allowing Ruel to put more and more creatures into play. He eventually tapped four mana to cast Mystic Zealot, leaving two lands untapped. Ruel cast Churning Eddy, returning the Blessed Orator and one of the lands – thus preventing the Dreams) and attacked with everything. Lévy was forced to lose several creatures in combat, and be left with just Werebear and Mystic Zealot in play. 
+![](http://www.wizards.com/sideboard/images/gpnap02/a906.jpg)
+
+Lévy was trying to play for his Vengeful Dreams, holding most of his cards in hand and allowing Ruel to put more and more creatures into play. He eventually tapped four mana to cast Mystic Zealot, leaving two lands untapped. Ruel cast Churning Eddy, returning the Blessed Orator and one of the lands – thus preventing the Dreams) and attacked with everything. Lévy was forced to lose several creatures in combat, and be left with just Werebear and Mystic Zealot in play. 
 
 On the next turn, Ruel attacked with the 3/3 Mongrel and Metamorphic Wurm only. Lévy blocked the Wurm and Ruel gained Threshold by casting Elephant Ambush, taking out the Orator. The two players bantered pointing out that Lévy could not win even with Kirtar's Wrath, as that would allow Ruel to make about ten Bear tokens. 
 

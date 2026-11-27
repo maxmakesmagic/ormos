@@ -223,7 +223,9 @@ render_recovery:
 **Jens Thoren \[SWE\]**:2002 PT Sandiego 準優勝、2002 PT 大阪 Top 4  
 **Eugene Harvey \[USA\]**:2001 USA National Team（世界選手権優勝）、2001 GP Atlanta 優勝
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a847.jpg)ほとんど全滅という憂き目に会った日本勢。二日目にコマを進めたのは森勝洋と広島予選を準優勝して qualify された 17 歳の新鋭金子聖徳の二人だけとだった。金子はかなり密度の高い卓でのスタートとなったわけだが、はたして彼はどのようなDrafting を見せてくれるのだろうか。
+![](http://www.wizards.com/sideboard/images/ptnice02/a847.jpg)
+
+ほとんど全滅という憂き目に会った日本勢。二日目にコマを進めたのは森勝洋と広島予選を準優勝して qualify された 17 歳の新鋭金子聖徳の二人だけとだった。金子はかなり密度の高い卓でのスタートとなったわけだが、はたして彼はどのようなDrafting を見せてくれるのだろうか。
 
 ### 1st Pack:*Odyssey*
 

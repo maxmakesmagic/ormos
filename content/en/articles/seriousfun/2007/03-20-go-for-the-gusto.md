@@ -199,7 +199,9 @@ But wait! There are still more questions to be asked! (See? I *told* you it was 
 
 *Will This Opportunity Arise Again? Am I Incurring Unwanted Ire?*
 
-![Opportunity](https://i.ormos.uk/de/7a/de7aa57e8d92b958d9f546545eec13ac835c7514e4eb17c6d97b3694de4a75d7.jpg)One of the dangers of going for the throat, particularly in the early game, is that you can draw someone's attention when they weren't even concentrating on you. If you unload on someone, they might have a trick – it's just the nature of the game. But if you don't do it now, you'll *definitely* lose. 
+![Opportunity](https://i.ormos.uk/de/7a/de7aa57e8d92b958d9f546545eec13ac835c7514e4eb17c6d97b3694de4a75d7.jpg)
+
+One of the dangers of going for the throat, particularly in the early game, is that you can draw someone's attention when they weren't even concentrating on you. If you unload on someone, they might have a trick – it's just the nature of the game. But if you don't do it now, you'll *definitely* lose. 
 
 The problem is that often, someone's too busy pounding on someone else's head to pay attention to you just yet. Thus, by signaling your intention – "BY THE WAY, I KEEL YOU NOW IF YOU NO STOP ME THANKS" – you swing their armies over to tromp you dead first. 
 
@@ -241,7 +243,9 @@ One last question. I promise.
 
 You have to play very differently when you're at 1 life than when you're at 20. At 20, you can fritter away combats in sloppy losses of life – but at 1 life, your play has to be vacuum-tight. You can take no risks, for a single spell can end the game. 
 
-![Defensive_Formation](https://i.ormos.uk/a9/85/a98538f45ec01be26278ed0efa20192656f63d2487c259c97780178fa797dd26.jpg)You also have to play differently when you have a ton of dudes out. With seven creatures out, you can cheerfully send a few of them off-site to bash face. But when you have two or three, barring some über-blocker like [Stuffy Doll](https://web.archive.org/web/20070320000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stuffy+Doll) or guys *con vigilance*, you then have to make the ugly decision of whether it's worth the impending damage to dish it out. 
+![Defensive_Formation](https://i.ormos.uk/a9/85/a98538f45ec01be26278ed0efa20192656f63d2487c259c97780178fa797dd26.jpg)
+
+You also have to play differently when you have a ton of dudes out. With seven creatures out, you can cheerfully send a few of them off-site to bash face. But when you have two or three, barring some über-blocker like [Stuffy Doll](https://web.archive.org/web/20070320000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stuffy+Doll) or guys *con vigilance*, you then have to make the ugly decision of whether it's worth the impending damage to dish it out. 
 
 Sometimes, it's entirely worth it to go all-out, simply because it will change someone's tactics to your advantage. You don't always have to win; you just have to put them in a situation where they're more vulnerable and have to turtle up. 
 

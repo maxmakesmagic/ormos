@@ -101,7 +101,9 @@ render_recovery:
   - Mind Sludge
   occurrences: 126
 ---
-![](https://i.ormos.uk/2e/14/2e1414b109f5453fda0f73c0355725f3ccd6fe7f6a546b84a30992ab95664b60.jpg)Brian Kibler is an established name on the Pro Tour. Ever since his Dragon-themed comeback to tournament Magic at Pro Tour: Chicago, Kibler has been a staple on the list of the money finishes. This weekend treated him particularly well. Kibler made it into the Top 8 with three rounds to go, and had the luxury of conceding to his friends Finkel and Reeves to assure their spots in the Top 8, before drawing the last round. All of this manipulation however placed him in the unfortunate position of having to face Josh Wagener in the first round.
+![](https://i.ormos.uk/2e/14/2e1414b109f5453fda0f73c0355725f3ccd6fe7f6a546b84a30992ab95664b60.jpg)
+
+Brian Kibler is an established name on the Pro Tour. Ever since his Dragon-themed comeback to tournament Magic at Pro Tour: Chicago, Kibler has been a staple on the list of the money finishes. This weekend treated him particularly well. Kibler made it into the Top 8 with three rounds to go, and had the luxury of conceding to his friends Finkel and Reeves to assure their spots in the Top 8, before drawing the last round. All of this manipulation however placed him in the unfortunate position of having to face Josh Wagener in the first round.
 
 Wagener entered the competitive Magic scene with a third place finish in Junior Super Series a few years ago and recently followed it up with a top 8 finish at Grand Prix: Boston. To date, he has never played on the Pro Tour. However, it is Wagener, not Kibler who is a strong favorite in the matchup. Wagener is playing a fairly standard red-green aggro deck. The only major difference is that his version is running Reckless Charge over Elephant Guide – a choice Wagener came to regret throughout the tournament. Still, it is an awesome matchup against Kibler's mono-black Zombies deck. 
 
@@ -123,7 +125,9 @@ Wagener: -2 Reckless Charge, -1 Llanowar Elves, -1 Basking Rootwalla, +4 Compost
 
 Once again, Kibler fired off a first turn Duress, taking out a Volcanic Hammer over Firebolt. He then Smothered a Grim Lavamancer and Duressed out a second Firebolt, leaving Wagener with three lands in hand and a Basking Rootwalla in play. 
 
-![](https://i.ormos.uk/da/75/da7593c8b7b0454ea2ff445f0e13a227a337f097c81e87b96ff6fbef1f43f062.jpg)Wagener top-decked a Call of the Herd to play next turn, while Kibler missed a third land drop. Just in time, Kibler drew a third land and cast Withered Wretch, removing Call from the game. Wagener drew and cast Compost, then drew Violent Eruption on the very next turn able to kill both Kibler's Withered Wretch and Nantuko Shade, and draw two cards in the bargain. Kibler was unable to deal with such card economy and fell to another Elephant token and Basking Rootwalla several turns later.
+![](https://i.ormos.uk/da/75/da7593c8b7b0454ea2ff445f0e13a227a337f097c81e87b96ff6fbef1f43f062.jpg)
+
+Wagener top-decked a Call of the Herd to play next turn, while Kibler missed a third land drop. Just in time, Kibler drew a third land and cast Withered Wretch, removing Call from the game. Wagener drew and cast Compost, then drew Violent Eruption on the very next turn able to kill both Kibler's Withered Wretch and Nantuko Shade, and draw two cards in the bargain. Kibler was unable to deal with such card economy and fell to another Elephant token and Basking Rootwalla several turns later.
 
 ### Game 3
 

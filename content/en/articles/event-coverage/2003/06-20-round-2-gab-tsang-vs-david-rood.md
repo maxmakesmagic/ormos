@@ -44,7 +44,9 @@ archive_source:
   sha256: 0542a51ea5a84857da5452246392a7023d21e8c7814d06a618192d68af0cac48
 render_recovery: []
 ---
-![](https://i.ormos.uk/b1/5d/b15dc04343a4775f270a89fcccc96bc4c1c7ac7c6cf9a0fb6c0d2671cc54b3b8.jpg)It's the old versus the new here in round two, with veteran Gab Tsang squaring off against plucky young upstart David Rood. These two go way back, working together on numerous occasions. Having stolen Tsang's spotlight of late thanks to his success with 2020, Rood is at the forefront of a new wave of Canadian pros. 
+![](https://i.ormos.uk/b1/5d/b15dc04343a4775f270a89fcccc96bc4c1c7ac7c6cf9a0fb6c0d2671cc54b3b8.jpg)
+
+It's the old versus the new here in round two, with veteran Gab Tsang squaring off against plucky young upstart David Rood. These two go way back, working together on numerous occasions. Having stolen Tsang's spotlight of late thanks to his success with 2020, Rood is at the forefront of a new wave of Canadian pros. 
 
 ### Game 1
 
@@ -54,7 +56,9 @@ Tsang rubbed his head and thought. He drew his card, then cast [Concentrate](htt
 
 "Gonna kill me?" – David Rood
 
-![](https://i.ormos.uk/cd/64/cd64617161831f56ca327da4dc95819ac296b7ff9d276b2f5fb03567cfdc91ad.jpg)Tsang counted the cards in his hand. Ten. Four in the graveyard, plus one from [Psychatog](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog). Eighteen, exactly Rood's life total. He tripled checked it, then went into the Red Zone for the win.
+![](https://i.ormos.uk/cd/64/cd64617161831f56ca327da4dc95819ac296b7ff9d276b2f5fb03567cfdc91ad.jpg)
+
+Tsang counted the cards in his hand. Ten. Four in the graveyard, plus one from [Psychatog](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog). Eighteen, exactly Rood's life total. He tripled checked it, then went into the Red Zone for the win.
 
 "How Lucky!" – David Rood
 
@@ -68,7 +72,9 @@ Rood was on the play for the second game and led with an [Adarkar Wastes](https:
 
 Tsang [Duress](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)ed again, seeing the same [Wrath](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath) and Wake along with now two [Memory Lapse](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Lapse)s. He showed another [Duress](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) and took both. Rood's attempt to flash back the Analysis fell to [Counterspell](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell), and Rood went to his board with [Cunning Wish](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cunning+Wish) for [Flash of Insight](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flash+of+Insight). He passed it back to Tsang who [Compulsion](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion)ed, then [Compulsion](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion)ed again. Rood tried his Flash. Tsang showed him [Force Spike](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Force+Spike).
 
-![](https://i.ormos.uk/87/ba/87ba60d09921f4c8266c041040f031fc22bbe118293cf1819232bbda19a93dfd.jpg)One card drawer could break the card-for-card stalemate. Rood didn't have long, thanks to Tsang's [Compulsion](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion). He dropped the Wake, and then Flashed for three. They were all land. The fourth [Duress](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) took away the [Wrath](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath) and left him with nothing.
+![](https://i.ormos.uk/87/ba/87ba60d09921f4c8266c041040f031fc22bbe118293cf1819232bbda19a93dfd.jpg)
+
+One card drawer could break the card-for-card stalemate. Rood didn't have long, thanks to Tsang's [Compulsion](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion). He dropped the Wake, and then Flashed for three. They were all land. The fourth [Duress](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) took away the [Wrath](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath) and left him with nothing.
 
 Tsang worked his [Compulsion](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion) while Rood tried to peel. [Circular Logic](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circular+Logic) for 13 was just enough to stop Rood's attempt at [Compulsion](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsion). He rescued it with [Memory Lapse](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Lapse), to try again the following turn. Sure enough, Tsang had another [Logic](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Logic). Tsang followed up with [Concentrate](https://web.archive.org/web/20030620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate). Rood had no response, cementing Tsang's control of the game.
 

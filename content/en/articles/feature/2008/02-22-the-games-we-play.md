@@ -224,7 +224,9 @@ As a game developer, I play a lot of games. I mean a *lot* of games. Today alone
 
 ### NHL '93 – Blood on the Ice
 
-![NHL '93](https://i.ormos.uk/87/ab/87ab94944ff405596464fa1e88316da53fad6563be3bceaeb4145cb07c1a9160.jpg)When I was in high school the Sega Genesis came out. My cousin, Nate Heiss, had owned a Nintendo for years that I loved to play. He wouldn't let go of the controller though so unless we were playing a two-player game I usually was doing more watching than playing.
+![NHL '93](https://i.ormos.uk/87/ab/87ab94944ff405596464fa1e88316da53fad6563be3bceaeb4145cb07c1a9160.jpg)
+
+When I was in high school the Sega Genesis came out. My cousin, Nate Heiss, had owned a Nintendo for years that I loved to play. He wouldn't let go of the controller though so unless we were playing a two-player game I usually was doing more watching than playing.
 
 This all changed when the Sega Genesis was released. Man did I want one. One game in particular looked awesome, NHL '93 from EA Sports. I wanted it so badly I drew up my first and last ever cartoon-starring characters named Gorf and Fred to sway my parents into letting me get the Sega.
 
@@ -306,7 +308,9 @@ Dreamblade figures have a mana cost, a power, and two different toughness. For e
 
 My favorite figure in the game is called Forgeblind Punisher. He has 8-power! He is an uncommon so I have gotten him in a number of leagues. When he attacks... well, I'll just quote his flavor text, "*His hammer is his eyes. To the punisher, everything looks flat.*" He *really* smashes.
 
-![Forgeblind Punisher](https://i.ormos.uk/e7/dc/e7dcc18956d4df7f69b4ed939559f42e9540179cf55fa2f25faf7eff40df5b19.jpg)When the serious strategic game-player kicks in I know that I am probably paying too much for his power. I see that another color pays the same amount of mana for a creature with 4 power and much more toughness and part of me wonders which is a better deal.
+![Forgeblind Punisher](https://i.ormos.uk/e7/dc/e7dcc18956d4df7f69b4ed939559f42e9540179cf55fa2f25faf7eff40df5b19.jpg)
+
+When the serious strategic game-player kicks in I know that I am probably paying too much for his power. I see that another color pays the same amount of mana for a creature with 4 power and much more toughness and part of me wonders which is a better deal.
 
 Another part of me wants to smash with a hammer. I am eager to listen.
 

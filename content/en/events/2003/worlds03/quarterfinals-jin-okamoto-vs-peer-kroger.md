@@ -121,7 +121,9 @@ render_recovery:
   - Soul Feast
   occurrences: 160
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a519.jpg)Of the three German players to advance into the single elimination rounds, Peer Kröger is certainly the representative of old-school. He was winning money on the Pro Tour likely before the other two discovered competitive Magic. To his credit are top 8 finishes at Pro Tour: Dallas and on home turf at Pro Tour: Mainz. This is a first Pro Tour top 8 for Okamoto, but he is no rookie with two Grand Prix top 8 finishes. Okamoto has come tantalizingly close to making Pro Tour top 8 twice before. He finished ninth in San Diego and 10th at worlds in Toronto, missing out on tiebreakers both times. This weekend he finally realized his dream. In fact, he was guaranteed a top 8 slot even after conceding in the last round of swiss to Dave Humpherys so the American could also make the top 8. Okamoto is now the fifth Japanese player to make a Pro Tour top 8. 
+![](http://www.wizards.com/sideboard/images/worlds03/a519.jpg)
+
+Of the three German players to advance into the single elimination rounds, Peer Kröger is certainly the representative of old-school. He was winning money on the Pro Tour likely before the other two discovered competitive Magic. To his credit are top 8 finishes at Pro Tour: Dallas and on home turf at Pro Tour: Mainz. This is a first Pro Tour top 8 for Okamoto, but he is no rookie with two Grand Prix top 8 finishes. Okamoto has come tantalizingly close to making Pro Tour top 8 twice before. He finished ninth in San Diego and 10th at worlds in Toronto, missing out on tiebreakers both times. This weekend he finally realized his dream. In fact, he was guaranteed a top 8 slot even after conceding in the last round of swiss to Dave Humpherys so the American could also make the top 8. Okamoto is now the fifth Japanese player to make a Pro Tour top 8. 
 
 Okamoto is actually at a significant advantage in this case. As per Kröger's own admission the matchup is almost a lost cause. He's got to try to win of course, but smart money is against him. 
 
@@ -141,7 +143,9 @@ Okamoto: +3 Stifle, +2 Circular Logic,-1 Mirari, -3 Moment's Peace, -1 Renewed F
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds03/a532.jpg)Kröger was off to a solid start as he cast Entomb on turn one putting a Symbiotic Wurm in his graveyard and then cast Burning Wish for Last Rites, holding several of his reanimation targets in hand. Problem is, he failed to play land three for five turns. He actually went on to discard several cards manually. In the meantime, Okamoto had all the time in the world. He used a Cunning Wish to find Krosan Reclamation – holding it as an answer to any potential reanimating of creatures Kröger might attempt. He then played a Mirari's Wake. 
+![](http://www.wizards.com/sideboard/images/worlds03/a532.jpg)
+
+Kröger was off to a solid start as he cast Entomb on turn one putting a Symbiotic Wurm in his graveyard and then cast Burning Wish for Last Rites, holding several of his reanimation targets in hand. Problem is, he failed to play land three for five turns. He actually went on to discard several cards manually. In the meantime, Okamoto had all the time in the world. He used a Cunning Wish to find Krosan Reclamation – holding it as an answer to any potential reanimating of creatures Kröger might attempt. He then played a Mirari's Wake. 
 
 Kröger finally got his fourth land and cast Anger. After attacking for two, he sacrificed it to flash back Cabal Therapy. In response, Okamoto made 13 2/2 creatures once more, ending the second game.
 
@@ -153,7 +157,9 @@ Cabal Therapy took out a Decree of Justice, leaving Okamoto with Logic, Mana Lea
 
 When Kröger finally went for it, he started by casting Cabal Therapy, which Okamoto countered by hard-casting Circular Logic. He could have cycled it, but he only had two Islands in play and that would have left him without any defense against the German's next spell. Okamoto used Cunning Wish to get Krosan Reclamation, buying more time to prevent Kröger from getting a large man into play. Okamoto then laid Wake, doubling his mana supply.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a531.jpg)Kröger had to go for it, since he knew that a huge Decree of Justice could not be that far off. He used Stitch Together, targeting a Symbiotic Wurm. When Okamoto cast Krosan Reclamation to shuffle it back into the library, Kröger targeted the Wurm with Doomed Necromancer in response. Once again, Okamoto was ready with a Stifle. 
+![](http://www.wizards.com/sideboard/images/worlds03/a531.jpg)
+
+Kröger had to go for it, since he knew that a huge Decree of Justice could not be that far off. He used Stitch Together, targeting a Symbiotic Wurm. When Okamoto cast Krosan Reclamation to shuffle it back into the library, Kröger targeted the Wurm with Doomed Necromancer in response. Once again, Okamoto was ready with a Stifle. 
 
 Kröger now had to force his opponent to flash back Krosan Reclamation before he could hope to actually reanimate a creature. He cycled a gladiator for a few turns, allowing Okamoto to burn through his library with Compulsion and cast a second Mirari's Wake.  
  Kröger cast another Cabal Therapy. In response, Okamoto cycled several times and – apparently unable to find a counterspell - Wished for Flash of Insight. Kröger had to name Decree of Justice, but did not hit. Okamoto revealed a hand of Cunning Wish, Mana Leak, Flash of Insight and a land.

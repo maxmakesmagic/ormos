@@ -434,7 +434,9 @@ You can find the rest of my articles about *Torment* Limited [here](/en/events/2
 
 Did you ever think it would be like this? I mean, when I heard *Torment* was the black set, I figured there would be a few more black cards than white and that white would have some interesting anti-black cards to balance things out and that would be that. Instead we have this insanity: it's always night in *Odyssey* Block Limited.
 
-![](https://i.ormos.uk/98/7d/987d3f7c2cf266937e8f623811e6ce1dba6c10a698f58a443f12fcbb0a4764fa.jpg)There are twice as many black cards as white or green ones, there are off-black cards that are more efficient when played with swamps, the dual lands require you to have swamps in play, black fills half of the top ten commons list and those interesting anti-black cards... well, they're hardly worth writing about.
+![](https://i.ormos.uk/98/7d/987d3f7c2cf266937e8f623811e6ce1dba6c10a698f58a443f12fcbb0a4764fa.jpg)
+
+There are twice as many black cards as white or green ones, there are off-black cards that are more efficient when played with swamps, the dual lands require you to have swamps in play, black fills half of the top ten commons list and those interesting anti-black cards... well, they're hardly worth writing about.
 
 Behind the strength of Faceless Butcher, Crippling Fatigue, Cabal Torturer and the other black commons, this has become the powerhouse of the environment, as much as any color has dominated any set in the history of the game. Probably best with blue, black is draftable with any of the other colors, and as a result, this environment has basically come down to deciding if you're black or not.
 

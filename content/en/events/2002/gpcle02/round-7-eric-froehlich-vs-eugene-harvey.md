@@ -76,7 +76,9 @@ render_recovery:
   - Grotesque Hybrid
   occurrences: 31
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a954.jpg)Eugene Harvey showed up for the match as I was sitting down getting ready to cover the match. Suddenly a kid showed up.
+![](http://www.wizards.com/sideboard/images/gpcle02/a954.jpg)
+
+Eugene Harvey showed up for the match as I was sitting down getting ready to cover the match. Suddenly a kid showed up.
 
 "I think I play one of you."
 
@@ -104,7 +106,9 @@ Eugene had a slow and deliberate play style with this deck. He went to work on t
 
 Harvey 1, Froehlich 0
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a950.jpg)The next game Froehlich made the first play with a turn two Standstill. This did not seem to bother Harvey. He played a Krosan Verge on turns 2 and 3 and didn't miss a land drop to have 7 lands at the end of his fifth turn. He then broke the Standstill with a Flash of Insight. On his turn he played a Mirari's Wake and played a Living Wish for a Skyshroud Expanse because he was low on blue mana. On his next turn he played a Compulsion, activated it twice, played a Deep Analysis and dropped a Hollistic Wisdom. All was for not on the next turn though when Eric forced an Upheaval through Eugene's Syncopate.
+![](http://www.wizards.com/sideboard/images/gpcle02/a950.jpg)
+
+The next game Froehlich made the first play with a turn two Standstill. This did not seem to bother Harvey. He played a Krosan Verge on turns 2 and 3 and didn't miss a land drop to have 7 lands at the end of his fifth turn. He then broke the Standstill with a Flash of Insight. On his turn he played a Mirari's Wake and played a Living Wish for a Skyshroud Expanse because he was low on blue mana. On his next turn he played a Compulsion, activated it twice, played a Deep Analysis and dropped a Hollistic Wisdom. All was for not on the next turn though when Eric forced an Upheaval through Eugene's Syncopate.
 
 This was not so critical however. Eugene had his Wake back five turns later. The next turn he resolved a Kirtar's Wrath. Froehlich played a Grotesque Hybrid to stop the two 2/2 fliers, but Eugene returned it to his hand, then played a Holistic Wisdom again. Then next turn he played Time Stretch and Eric conceded.
 

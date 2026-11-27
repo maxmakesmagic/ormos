@@ -41,7 +41,9 @@ render_recovery: []
 
 *   [The Card Pool](https://web.archive.org/web/20211127202748/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=941sd3decks#fix)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/798.jpg)The Fix are in a pretty strong position at this stage of the tournament. They are sitting on 3-0-1 needing only one win out of their next two matches to ensure a spot on Day Two. Obviously, a team of this caliber is looking to finish a lot better than that, and that's what they hoped the decks they received would help them do. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/798.jpg)
+
+The Fix are in a pretty strong position at this stage of the tournament. They are sitting on 3-0-1 needing only one win out of their next two matches to ensure a spot on Day Two. Obviously, a team of this caliber is looking to finish a lot better than that, and that's what they hoped the decks they received would help them do. 
 
 Before they opened their decks Bob Maher made the following comment regarding their construction choices for the tournament so far: "we've done several practice Sealed Decks and in all of them and all of our rounds so far today we've ended up with a White/Blue deck, a Red/White and a Black/Green." When asked is this was intentional he replied "no not at all, we've often tried out various different ways of building decks but we've always found those color combinations to perform the best." 
 

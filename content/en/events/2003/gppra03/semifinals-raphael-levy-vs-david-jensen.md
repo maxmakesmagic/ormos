@@ -79,7 +79,9 @@ render_recovery:
 ---
 Levy is a French Pro with a lot of experience. He has a very good blue-white deck with three Echo Tracers and a red Splash for a couple of Skills.
 
-![](https://i.ormos.uk/e0/3c/e03ce692b4d9bead1108a40e1ad80d74895b639eed428b40d6cf9f85eb61e229.jpg)Jensen, whose previous best performance was 36th at Euros, has a pretty good blue green deck with some good tricks and useful fatties.
+![](https://i.ormos.uk/e0/3c/e03ce692b4d9bead1108a40e1ad80d74895b639eed428b40d6cf9f85eb61e229.jpg)
+
+Jensen, whose previous best performance was 36th at Euros, has a pretty good blue green deck with some good tricks and useful fatties.
 
 ### Game 1
 
@@ -101,7 +103,9 @@ Jensen 1-0 Levy
 
 ### Game 2
 
-![](https://i.ormos.uk/ba/32/ba325dab06be530589f711b14346bc11020632b1083cb42bb0bfb8b4f487968c.jpg)In Game 2 there was no action until turn three when the inevitable facedown monsters came into play. Levy took first blood as his Ascending Aven went to the skies.
+![](https://i.ormos.uk/ba/32/ba325dab06be530589f711b14346bc11020632b1083cb42bb0bfb8b4f487968c.jpg)
+
+In Game 2 there was no action until turn three when the inevitable facedown monsters came into play. Levy took first blood as his Ascending Aven went to the skies.
 
 Jensen swung back on the ground and summoned a Mistform Ultimus. Levy's Sage Owl seemed less than impressive but it found a Lavamancer's Skill and Echo Tracer in the top 4 cards. Levy had the mountain in hand and thought about what order he wanted to draw the cards. They went back Tracer, Skill, land, land.
 

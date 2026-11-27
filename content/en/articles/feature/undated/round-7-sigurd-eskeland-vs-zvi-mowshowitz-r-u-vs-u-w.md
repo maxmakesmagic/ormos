@@ -68,11 +68,15 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/239.jpg)It was an intra-Mogg Squad match-up from the Table of Death in round 7 when Zvi Mowshowitz and Pro Tour New York champion Sigurd Eskeland met. [Click here](/en/articles/uncategorised/2016/01-05-draft-1-jon-finkel-jon-finkel-and-the-table-of-death) to read about the draft from table 4, including Jon Finkel, Kai Budde, and others. Both sat down with 4-1-1 records and really good decks.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/239.jpg)
+
+It was an intra-Mogg Squad match-up from the Table of Death in round 7 when Zvi Mowshowitz and Pro Tour New York champion Sigurd Eskeland met. [Click here](/en/articles/uncategorised/2016/01-05-draft-1-jon-finkel-jon-finkel-and-the-table-of-death) to read about the draft from table 4, including Jon Finkel, Kai Budde, and others. Both sat down with 4-1-1 records and really good decks.
 
 Mowshowitz played Drake Hatchling, Stronghold Zeppelin, and Bribery over the course of the first few turns of the game. Eskeland's Belbe's Percher seemed a little outclassed, but at least Eskeland had his best creatures (Two Headed Dragon and Scoria Cat) in his hand when Bribery resolved. Zvi had to settle for Belbe's Percher. That was good enough, though, since Eskeland didn't go straight to six mana. With Mr. Two-Head stuck in his hand, Eskeland couldn't deal with Zvi's fliers. Eskeland tried to trade Perchers, but Zvi used Mageta's Boon to keep his alive and it was soon time for game 2.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/244.jpg)Eskeland forgot his lucky Spice Girls shirt this weekend, but it did have a toy box full of farm animals to help him out. Between games while pulling them out Eskeland commented "I hope that was the good part of your deck and you can't draw like that every game." Zvi just smiled and shook his head no. "Well then I'm in trouble," continued Eskeland.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/244.jpg)
+
+Eskeland forgot his lucky Spice Girls shirt this weekend, but it did have a toy box full of farm animals to help him out. Between games while pulling them out Eskeland commented "I hope that was the good part of your deck and you can't draw like that every game." Zvi just smiled and shook his head no. "Well then I'm in trouble," continued Eskeland.
 
 Eskeland stopped at two land in game 2 and had to start discarding. Meanwhile Mowshowitz beat him down with Charm Peddler, Rishadan Airship, Diving Griffin, and then Trenching Steed. Eskeland just threw his hand down in disgust. Zvi consoled him saying "If you had to get manascrewed, now was the time. This is the best deck I've ever drafted."
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: d1d25f20175623c5c1aff97e9ed1df6c8546bf484a061dd9bbc6e3880fdcbb13
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a826.jpg)William Jensen is considered one of the elite drafters in the world. Ask any Pro to make a short list of the drafters they would want by their side for a team draft and William Jensen is likely to be the most common selection.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a826.jpg)
+
+William Jensen is considered one of the elite drafters in the world. Ask any Pro to make a short list of the drafters they would want by their side for a team draft and William Jensen is likely to be the most common selection.
 
 Wolfgang Eder is less well-known but he did make something of a splash this year when he placed highly at the European Championships with the original build of the Goblin Bidding deck that was later refined by Tsuyoshi Fujita into one of the most surprising Standard decks this year.
 
@@ -58,7 +60,9 @@ Eder played his fifth [Swamp](https://web.archive.org/web/20030807000000/https:/
 
 Jensen attacked with his Murlodant and was surprised when the Buzzard got in the way. He was even more surprised when [Shade's Breath](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shade%27s+Breath) made it into 6/5 and it killed the beast. Jensen shrugged and moved on playing out a [Timberwatch Elf](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timberwatch+Elf) and a [Wirewood Symbiote](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Symbiote). He played an [Elvish Warrior](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior) on the next turn and things were looking grim for Eder.
 
-![](https://i.ormos.uk/73/2f/732fd2b92523d34cc8e80eaca07818d2fc0aa3d63ccfd8fbfdda620b2191045d.jpg)Eder finally drew a [Mountain](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) and played a [Crested Craghorn](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crested+Craghorn). He thought for awhile about whether or not to provoke the Symbiote but decided against it and provoked and killed a morphed [Bloodstoke Howler](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodstoke+Howler). With just two elves in play, Jensen was still able to put the full court press on and began to wipe out the German's team slowly and methodically.
+![](https://i.ormos.uk/73/2f/732fd2b92523d34cc8e80eaca07818d2fc0aa3d63ccfd8fbfdda620b2191045d.jpg)
+
+Eder finally drew a [Mountain](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) and played a [Crested Craghorn](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crested+Craghorn). He thought for awhile about whether or not to provoke the Symbiote but decided against it and provoked and killed a morphed [Bloodstoke Howler](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodstoke+Howler). With just two elves in play, Jensen was still able to put the full court press on and began to wipe out the German's team slowly and methodically.
 
 The flavor text on the Symbiote? "It drinks fatigue."
 
@@ -72,7 +76,9 @@ Eder played the Smokespew but Jensen had a [Shock](https://web.archive.org/web/2
 
 Eder regrouped with a Polluter—if he could get out ahead of Huey he had the Decree in hand—and Jensen frustrated him with [Elvish Aberration](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Aberration). Jensen chose not to block and Eder added a grey [Embalmed Brawler](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Embalmed+Brawler) to the board. The elf mutant got in for four and a [Treespring Lorian](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian) was assigned to watch the gate.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a825.jpg)[Magma Sliver](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magma+Sliver) and [Severed Legion](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion) came down around a null turn from Huey. Jensen played a [Wirewood Symbiote](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Symbiote) and was able to attack with the mutant then bounced and replays it. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a825.jpg)
+
+[Magma Sliver](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magma+Sliver) and [Severed Legion](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion) came down around a null turn from Huey. Jensen played a [Wirewood Symbiote](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Symbiote) and was able to attack with the mutant then bounced and replays it. 
 
 Eder sensed his end was coming and after attacking with the Legion cycled the Decree and played a [Swamp](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp). Two turns later, Huey was able to play a [Timberwatch Elf](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timberwatch+Elf) off of his mutant's mana producing ability.
 

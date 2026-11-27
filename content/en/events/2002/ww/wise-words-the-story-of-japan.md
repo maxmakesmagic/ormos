@@ -74,7 +74,9 @@ As the first Pro Tour held in Japan, Worlds was an awakening. Until this tournam
 
 ### 14-0
 
-![](http://www.wizards.com/sideboard/images/PTTOK01/739.jpg)In the history of the Pro Tour, only Ryan Fuller has managed a perfect record in the Swiss rounds of a Pro Tour. Playing *Invasion* Block Constructed at 2001 PT-Tokyo, Fuller piloted his red-green deck to the perfecto before bowing out of the tournament in the Quarterfinals. Ryan’s success was a mere symptom of his team’s greater success, with ABU placing four players in the Top 8. None of the four — Fuller, Chris Benafel, Lucas Hager and Phil Freneau — made the finals though.
+![](http://www.wizards.com/sideboard/images/PTTOK01/739.jpg)
+
+In the history of the Pro Tour, only Ryan Fuller has managed a perfect record in the Swiss rounds of a Pro Tour. Playing *Invasion* Block Constructed at 2001 PT-Tokyo, Fuller piloted his red-green deck to the perfecto before bowing out of the tournament in the Quarterfinals. Ryan’s success was a mere symptom of his team’s greater success, with ABU placing four players in the Top 8. None of the four — Fuller, Chris Benafel, Lucas Hager and Phil Freneau — made the finals though.
 
 Despite the obvious dominance of red decks in the tournament, the two finalists, Zvi Mowshowitz and Tsuyoshi Fujita, didn’t have a mountain between them. Fujita’s appearance made history, as it was the first time a Japanese player had broken through to a Top 8, but in the end, it was Mowshowitz earning the victory with his heavily metagamed Solution deck, the crowning achievement in the Constructed specialist’s career. 
 
@@ -92,7 +94,9 @@ In the final, Ho defeated Olivier Ruel, one of four Frenchmen to make Top 8 alon
 
 ### The Master’s Curse
 
-![](http://www.wizards.com/sideboard/MASTERSNY00/images/552.jpg)That same weekend, Kai Budde finally broke his Masters curse. In the first Masters in New York, Kai got the “easy pairing”, getting matched with Jason Zila, who many assumed had merely shown up to collect his $2000 check after two years away from the Pro Tour, but the old Hitman took the Juggernaut down, which was the beginnings of a rough pattern for Kai, who time and again would make his way to the Masters only to fall victim to that Series’s single elimination format. 
+![](http://www.wizards.com/sideboard/MASTERSNY00/images/552.jpg)
+
+That same weekend, Kai Budde finally broke his Masters curse. In the first Masters in New York, Kai got the “easy pairing”, getting matched with Jason Zila, who many assumed had merely shown up to collect his $2000 check after two years away from the Pro Tour, but the old Hitman took the Juggernaut down, which was the beginnings of a rough pattern for Kai, who time and again would make his way to the Masters only to fall victim to that Series’s single elimination format. 
 
 With Phoenix Foundation teammates Dirk Baberowski and Marco Blume in tow, Kai finally managed to shake the curse, with the team, who until this year’s Venice Masters were undefeated in sanctioned team Rochester drafts, defeated hometown favorites Panzer Hunters in the final. It wasn’t easy though, with Blume losing his match to Reiji Ando and Budde and Baberowski down one game each before they made the comeback to take it all. 
 
@@ -104,6 +108,8 @@ A few stories that are developing for this weekend:
 
 **Yoko No-Shows**\- Due to Yokohama failing to contribute to either future Masters events or the first end of year payouts (to be handed out at the conclusion of World Championships 2004), the expense to travel here and the perceived threat of SARS, there is potential for a number of regularly seen players choosing to not make the trip. Neil Reeves, who has been touted as a favorite and hot tip in the Fantasy PT, informed me Saturday night he’d decided to stay home and attend his fiancee’s graduation, while Matt Rubin and Gerard Fabiano were both unlikely to make the trip. Keep a close eye on names missing from the standings this weekend.
 
-![](http://www.wizards.com/sideboard/images/PTTOK01/654.jpg)**Role Reversal** – Where Japanese players usually have a harder time dealing with the rigors of jetlag than most due to the distances they travel for the Pro Tour, the Japanese Pro Tour sees the opposite proving true. Fujita finished second in Tokyo, and then followed it up with a Top 16 performance in Osaka, where he was joined by Tsuyoshi Ikeda. Not only do the Japanese thrive on their hometown sleep schedule, the rest of the Pro Tour has to contend with drastic time zone changes. This can have an equally drastic effect on the standings. Why have I been immune? Simple: I never sleep anyways.
+![](http://www.wizards.com/sideboard/images/PTTOK01/654.jpg)
+
+**Role Reversal** – Where Japanese players usually have a harder time dealing with the rigors of jetlag than most due to the distances they travel for the Pro Tour, the Japanese Pro Tour sees the opposite proving true. Fujita finished second in Tokyo, and then followed it up with a Top 16 performance in Osaka, where he was joined by Tsuyoshi Ikeda. Not only do the Japanese thrive on their hometown sleep schedule, the rest of the Pro Tour has to contend with drastic time zone changes. This can have an equally drastic effect on the standings. Why have I been immune? Simple: I never sleep anyways.
 
 I’m hoping I won’t be eating those words seven days from now. Have a good week.

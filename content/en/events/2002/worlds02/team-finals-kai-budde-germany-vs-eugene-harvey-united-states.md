@@ -89,7 +89,9 @@ render_recovery:
   - Angel of Retribution
   occurrences: 66
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a534.jpg)This was hardly the finals people were predicting for the team event, but now that the U.S. has shown that they can Rochester draft like nobody's business it seems only fitting that these two National Champions should sit across from each other on the finals stage. Budde was brimming with his trademark confidence. Harvey remained quietly focussed.
+![](http://www.wizards.com/sideboard/images/worlds02/a534.jpg)
+
+This was hardly the finals people were predicting for the team event, but now that the U.S. has shown that they can Rochester draft like nobody's business it seems only fitting that these two National Champions should sit across from each other on the finals stage. Budde was brimming with his trademark confidence. Harvey remained quietly focussed.
 
 Budde flashed Glory as he shuffled up, a not-so-subtle reminder of its backbreaking power. Harvey won the die roll and chose to play.
 
@@ -125,7 +127,9 @@ Harvey didn't like his way. Budde made sure he knew why.
 
 Harvey pushed his Lancer and Beetle into the Red Zone. Budde examined the possibilities. He shook his head and muttered to himself as he worked it out. Surely Harvey didn't have anything. He'd seen the draft. He just had to go over the picks in his head.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a526.jpg)He made a tentative decision, then caught himself and made sure the Border Patrol helped the Aven Smokeweaver block the Pardic Lancer. The Mirror Wall ended up in front of the Beetle.
+![](http://www.wizards.com/sideboard/images/worlds02/a526.jpg)
+
+He made a tentative decision, then caught himself and made sure the Border Patrol helped the Aven Smokeweaver block the Pardic Lancer. The Mirror Wall ended up in front of the Beetle.
 
 Harvey waited until the blocks were final, and then scooped.
 
@@ -145,7 +149,9 @@ The Cartographer attacked again, and Budde ate it with his Smokeweaver. He stopp
 
 Budde swung in for two with the Smokeweaver and dropped Cagemail on the Lancer. Next turn he drew the additional land needed for his Border Patrol. Harvey had nothing to add to the board. Soon he was at thirteen. Far Wanderings thinned his deck somewhat.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a533.jpg)Finally Harvey found a Mongrel. Budde answered with a very boring Auramancer. The Mongrel attacked, and Budde put the Border Patrol in front of it. Harvey pitched two lands and a Rootwalla, attempting to finish it off with the Beetle. Budde pitched Glory to his Aquamoeba and activated it to make the save. Flaring Pain stepped in to make sure the Patrol died. (Later it would be pointed out that the activation of Glory would make the Patrol an illegal target for the Teachings'd Beetle, meaning it should have survived. This was overlooked in the thick of things.)
+![](http://www.wizards.com/sideboard/images/worlds02/a533.jpg)
+
+Finally Harvey found a Mongrel. Budde answered with a very boring Auramancer. The Mongrel attacked, and Budde put the Border Patrol in front of it. Harvey pitched two lands and a Rootwalla, attempting to finish it off with the Beetle. Budde pitched Glory to his Aquamoeba and activated it to make the save. Flaring Pain stepped in to make sure the Patrol died. (Later it would be pointed out that the activation of Glory would make the Patrol an illegal target for the Teachings'd Beetle, meaning it should have survived. This was overlooked in the thick of things.)
 
 Budde dropped his seventh land and Angel of Retribution. Between his position in the race, his two fliers, and the Glory in his graveyard, it only took one draw step before Harvey conceded. Immediately Schneiders and Ziegner mobbed him, along with many other well-wishers. The U.S. Team stepped up, and all six members exchanged handshakes and congratulations. It had been a hell of a run, but the day belonged to Germany.
 

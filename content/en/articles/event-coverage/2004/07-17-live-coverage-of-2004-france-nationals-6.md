@@ -44,7 +44,9 @@ archive_source:
   sha256: 0140cf1cd634230f1ba7442946696cd4cdc7396b80873ce6b15913577acda720
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/frnat04/dr1_1.jpg)Of all the pods containing 3-0 players, Olivier's was by far the hardest. It contained, Yann Hamon, Pierre Baussaron, Olivier Ruel, and Benjamin Caumes as players with significant Pro Tour experience, and two of the other players had been to at least one Pro Tour. Olivier was being passed to by one of the amateurs, and passing to Ben Caumes. Before the draft Olivier was fairly scathing of the standard of Limited Magic in France.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/frnat04/dr1_1.jpg)
+
+Of all the pods containing 3-0 players, Olivier's was by far the hardest. It contained, Yann Hamon, Pierre Baussaron, Olivier Ruel, and Benjamin Caumes as players with significant Pro Tour experience, and two of the other players had been to at least one Pro Tour. Olivier was being passed to by one of the amateurs, and passing to Ben Caumes. Before the draft Olivier was fairly scathing of the standard of Limited Magic in France.
 
 " The first draft pod is usually easier than a 4-3-2-2 " he said, referring to a notoriously easy tournament on Magic Online. " Outside of Paris most of the players don't get to draft at all "
 

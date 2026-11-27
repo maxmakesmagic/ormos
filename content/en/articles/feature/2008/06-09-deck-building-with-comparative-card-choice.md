@@ -1055,7 +1055,9 @@ I will not include the land from this list, again, since they are not fighting f
 
 42 spells
 
-![Equilibrium](https://i.ormos.uk/8d/df/8ddfd5f21c52bbdbefb457c88b24bb267613ba1661c8973f0acc4903f5d3ca23.jpg)Whoah, it looks like anything we put into the deck from this list is going to bump something out! In fact, we already have about 6 more spells than we want. One solution here is to simply try to cut out the 6 spells, and put the other metagame-relevant cards in the sideboard. Another thing that can be done is to only try to fit the ones in that seem most relevant to the next play session or tournament you plan on being in. Either way, first let's see if we can cut this deck down any further.
+![Equilibrium](https://i.ormos.uk/8d/df/8ddfd5f21c52bbdbefb457c88b24bb267613ba1661c8973f0acc4903f5d3ca23.jpg)
+
+Whoah, it looks like anything we put into the deck from this list is going to bump something out! In fact, we already have about 6 more spells than we want. One solution here is to simply try to cut out the 6 spells, and put the other metagame-relevant cards in the sideboard. Another thing that can be done is to only try to fit the ones in that seem most relevant to the next play session or tournament you plan on being in. Either way, first let's see if we can cut this deck down any further.
 
 We have two places in the deck where cards are overlapping in strategy and focus, so those areas seem like the easiest place to cut back—those are where Wall of Roots and Mogg War Marshal are doing double duty. This puts the following cards up against each other:
 

@@ -269,7 +269,9 @@ render_recovery:
   - Upheaval
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/929.jpg)Long time pro player from Canada Gab Tsang showed up at GP Milwaukee with an exciting new deck called Zombies Online! On the surface it appears to be a typical BUG deck, but after further inspection you notice that it doesn't run cards typical of that deck such as Pernicious Deed and Spiritmonger. Instead, Zombies Online takes massive advantage of the madness mechanic from *Torment*. I sat down to discuss his deck build with him between rounds nine and ten.
+![](http://www.wizards.com/sideboard/images/gpmil02/929.jpg)
+
+Long time pro player from Canada Gab Tsang showed up at GP Milwaukee with an exciting new deck called Zombies Online! On the surface it appears to be a typical BUG deck, but after further inspection you notice that it doesn't run cards typical of that deck such as Pernicious Deed and Spiritmonger. Instead, Zombies Online takes massive advantage of the madness mechanic from *Torment*. I sat down to discuss his deck build with him between rounds nine and ten.
 
 **Ben:** How'd you do this past round?
 
@@ -279,7 +281,9 @@ render_recovery:
 
 **G:** I'm playing **Magic** Online a lot these days, and I saw someone running a similar deck in a premier tournament. He had the usual Green/Blue but was running Black for Zombie Infestation, and it seemed really good to me. So I took the specs of the deck, and changed it around a bit. I kept testing it, and I assumed there would be a lot of Psychatog, Trenches and Green/Blue, so I metagamed against those decks.
 
-![](https://i.ormos.uk/9b/c3/9bc3f12029035fdcafc2d6cb44c64d87d4a996b9255ddfd3711524c4ee29c6e9.jpg)**B:** What cards did you change for that?
+![](https://i.ormos.uk/9b/c3/9bc3f12029035fdcafc2d6cb44c64d87d4a996b9255ddfd3711524c4ee29c6e9.jpg)
+
+**B:** What cards did you change for that?
 
 **G:** I took out all the Red/Green hate, like Roar (of the Wurm) and Call of the Herd. I mean, Call of the Herd is really good regardless, but it's not amazing in those matches. I put in Duress to combat the control decks, and played more black and pain lands. I have 10 damage lands now, but against the control decks damage doesn't usually matter-they either will kill you all at once or they won't kill you.
 

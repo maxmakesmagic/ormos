@@ -143,7 +143,9 @@ render_recovery:
   - Unhinge
   occurrences: 129
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a862.jpg)The unfortunate truth is that every round, **someone** has to play Kai Budde. This round that someone was Øyvind Ødegaard of Norway, who last year helped his National Team to the finals, where they were defeated by the United States. This year he's on a tear to repeat that performance, alongside teammates Bjorn Jocumsen and Thomas Johansen. German National Champion Budde said that he expects to run into Ødegaard during the Team Rochester portion of the event.
+![](http://www.wizards.com/sideboard/images/worlds02/a862.jpg)
+
+The unfortunate truth is that every round, **someone** has to play Kai Budde. This round that someone was Øyvind Ødegaard of Norway, who last year helped his National Team to the finals, where they were defeated by the United States. This year he's on a tear to repeat that performance, alongside teammates Bjorn Jocumsen and Thomas Johansen. German National Champion Budde said that he expects to run into Ødegaard during the Team Rochester portion of the event.
 
 Budde won the die roll and chose to draw. His flaky three-color manabase demanded it. Ødegaard got on the board quickly with Trained Pronghord (earning a raised eyebrow from Budde) and Treacherous Werewolf. Budde dropped his third land.
 
@@ -161,7 +163,9 @@ And really, no one turns down Kai Budde, not even inanimate stacks of cards. He 
 
 Budde 1 - Ødegaard 0
 
-![](http://www.wizards.com/sideboard/images/worlds02/a872.jpg)Ødegaard was happy to get to draw in Game 2, with his manabase even worse than Budde's. Both managed to have three colors of mana on turn three. This time Ødegaard opened with Benevolent Bodyguard.
+![](http://www.wizards.com/sideboard/images/worlds02/a872.jpg)
+
+Ødegaard was happy to get to draw in Game 2, with his manabase even worse than Budde's. Both managed to have three colors of mana on turn three. This time Ødegaard opened with Benevolent Bodyguard.
 
 Budde had Last Rites again, trading in his uncastables for Coercions. He stole Aven Fisher and Battlewise Aven, leaving Organ Grinder and Mirror Wall. Ødegaard got them out and started hitting.
 
@@ -179,7 +183,9 @@ Trained Pronghorn showed up for Ødegaard, whose beats had Budde at ten. Militan
 
 Empty-handed, Budde had plucked Psionic Gift. He put it on his Scalpelexis and offed the Organ Grinder that was threatening to kill him in three turns. The Fatigue took care of the Monk, and an attack left Budde at four.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a863.jpg)Budde continued to rip, this time a second Monk. Ødegaard had Ray of Distortion to stop the Gift, but it didn't seem like enough. His best cards were being stolen by the Scalpelexis.
+![](http://www.wizards.com/sideboard/images/worlds02/a863.jpg)
+
+Budde continued to rip, this time a second Monk. Ødegaard had Ray of Distortion to stop the Gift, but it didn't seem like enough. His best cards were being stolen by the Scalpelexis.
 
 Ødegaard got Treacherous Werewolf to up the beats, but Budde just answered with Angelic Wall. Scalpelexis struck again. Ødegaard busted through, trading his Werewolf for the Monk. There was nothing to be done, even without retriggering, the Scalpelexis had left him to five cards in library. Hallowed Healer was just too late. Shortly, with an empty library, he expired.
 

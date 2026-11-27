@@ -132,7 +132,9 @@ render_recovery:
   - Wirewood Savage
   occurrences: 86
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a979.jpg)Svend Geertsen is probably the most famous of the Danish players with a total of 4 Pro Tour top 8 finishes. He spent four hours last night gunslinging at the local store along with Kai Budde. I caught up with him after Sealed deck construction to see what sealed deck the magic gods had gifted him.
+![](http://www.wizards.com/sideboard/images/gpcop02/a979.jpg)
+
+Svend Geertsen is probably the most famous of the Danish players with a total of 4 Pro Tour top 8 finishes. He spent four hours last night gunslinging at the local store along with Kai Budde. I caught up with him after Sealed deck construction to see what sealed deck the magic gods had gifted him.
 
 While he'd been gifted a couple of bomb rares in the form of Hystrodon and Arcanis the Omnipotent the rest of both blue and green didn't offer enough depth for him to be able to support them.
 

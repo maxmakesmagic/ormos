@@ -58,7 +58,9 @@ render_recovery:
   reason: The link uses a JavaScript placeholder. The preview kept any visible label.
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a936.jpg)A lot of Pro Points seated themselves at table 3 for draft number 2, namely Mattias Kettil, Andrea Santin and Kamiel Cornelissen (in that particular order). The other five players at this table are all virtually unknown, however, they all proved they can play by obtaining the necessary 3-0-1 or better record. It would be interesting to see if these pros could cooperate with each other in order to dominate the table. The packs however, deemed otherwise.
+![](http://www.wizards.com/sideboard/images/euro02/a936.jpg)
+
+A lot of Pro Points seated themselves at table 3 for draft number 2, namely Mattias Kettil, Andrea Santin and Kamiel Cornelissen (in that particular order). The other five players at this table are all virtually unknown, however, they all proved they can play by obtaining the necessary 3-0-1 or better record. It would be interesting to see if these pros could cooperate with each other in order to dominate the table. The packs however, deemed otherwise.
 
 Santin had a pretty interesting first pack, containing lots of good blue cards like Aven Windreader, Treetop Sentinel and Aether Burst. He took the Windreader passing Kamiel the Sentinel, which he gladly it took after first picking Cephalid Looter. Kettil started with black cards from some terrible packs but was soon busy cutting off green from the right. This terrible packs soon came to Andrea and Kamiel who were hurt for not getting good blue or green cards in this development and they all chose a different solution. Mattias dipped into red a little because of a farily late (8th) Vampiric Dragon. Andrea tried cutting off black entirely to set himself up for *Torment* and Kamiel picked up two Hallowed Healers before setting his mind on red cards. Looking through their *Odyssey* acquisations Mattias was solid in green with some splahsable black and red, Andrea was blue/black and Kamiel was a little stuck with white, blue and red cards.
 

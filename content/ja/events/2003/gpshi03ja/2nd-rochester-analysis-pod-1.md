@@ -266,7 +266,9 @@ render_recovery:
 
 ### ■1パック目・前半
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_draft2p1_picMain_ja.jpg)始まりはいつも《トゲ撃ちゴブリン/Spikeshot Goblin》から。1番席から、赤白青黒青赤白黒と隊列が決まる。緑のカードはやや少ないためまだ流れは見えない。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_draft2p1_picMain_ja.jpg)
+
+始まりはいつも《トゲ撃ちゴブリン/Spikeshot Goblin》から。1番席から、赤白青黒青赤白黒と隊列が決まる。緑のカードはやや少ないためまだ流れは見えない。
 
 藤田修の位置では黒がやや苦しいことから、下の藤田憲一の様子を見つつ、彼とかぶらない白へと移行する方向で動いていく。この辺り、さすがは1番ポッド、歴戦の兵である。
 
@@ -300,7 +302,9 @@ render_recovery:
 
 ### ■3パック目・後半
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_draft2p1_pic1_ja.jpg)藤田憲一が開封したパックにはなんと《忘却石/Oblivion Stone》が。こける藤田修。もちろん、藤田憲一は「悪そう」な笑みを浮かべながらこれをピックする。続く原田が《骨断ちの矛槍/Bonesplitter》をピックした後、笹川は《空狩人の巡回兵/Skyhunter Patrol》に目もくれず《バンシーの刃/Banshee’s Blade》をピック。白青に大切なのは装備品なのだ。これにより、真木のデッキにもう一押しが加わる。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_draft2p1_pic1_ja.jpg)
+
+藤田憲一が開封したパックにはなんと《忘却石/Oblivion Stone》が。こける藤田修。もちろん、藤田憲一は「悪そう」な笑みを浮かべながらこれをピックする。続く原田が《骨断ちの矛槍/Bonesplitter》をピックした後、笹川は《空狩人の巡回兵/Skyhunter Patrol》に目もくれず《バンシーの刃/Banshee’s Blade》をピック。白青に大切なのは装備品なのだ。これにより、真木のデッキにもう一押しが加わる。
 
 真木の懸念であった装備品もここに来て一気に揃い、そこそこ戦えそうな印象になった。
 

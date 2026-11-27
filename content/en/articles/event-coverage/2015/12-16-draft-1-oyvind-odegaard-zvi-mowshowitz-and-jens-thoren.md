@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Scott Wills* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/127.jpg)These players found themselves sitting at table two at the start of day two here in Helsinki. Seating within the pod was random and Jens got the unlucky position of seat one, which is typically not a favourite position amongst most players. Zvi was sitting to Jens' right in seat eight, and Oyvind to Zvi's left in seat seven. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/127.jpg)
+
+These players found themselves sitting at table two at the start of day two here in Helsinki. Seating within the pod was random and Jens got the unlucky position of seat one, which is typically not a favourite position amongst most players. Zvi was sitting to Jens' right in seat eight, and Oyvind to Zvi's left in seat seven. 
 
 The first booster wasn't a particularly spectacular one for Jens. He picked an Ancient Kavu with Tower Drake, Kavu Aggressor and Duskwalker the other possible alternatives, thus signalling his preference for red. Oyvind was able to take an Attendant seventh pick, whilst Zvi had no real playable cards and so wheeled Capashen Unicorn and Vodalian Merchant in an attempt to signal his preference for White-Blue. 
 

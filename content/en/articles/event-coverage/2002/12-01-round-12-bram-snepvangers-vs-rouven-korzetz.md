@@ -44,7 +44,9 @@ archive_source:
   sha256: 7e1ec49651295a295f5946d6ad1ea08f9ca92ad6a773c4c7a80fd1a65b3581de
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a916.jpg)Bram is still reeling from the beating he got last round at the hands of Patrick Mello's Sligh deck and finds himself at 9-1-1 going into this round, still toting his trusty Rock deck. Rouven Korzetz is not that well known internationally but he's been tearing up the opposition here in Reims with a Suicide Black deck featuring [Plague Spitter](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter)s.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a916.jpg)
+
+Bram is still reeling from the beating he got last round at the hands of Patrick Mello's Sligh deck and finds himself at 9-1-1 going into this round, still toting his trusty Rock deck. Rouven Korzetz is not that well known internationally but he's been tearing up the opposition here in Reims with a Suicide Black deck featuring [Plague Spitter](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter)s.
 
 ### Game 1
 

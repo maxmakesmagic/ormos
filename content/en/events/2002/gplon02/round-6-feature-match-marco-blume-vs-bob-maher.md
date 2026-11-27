@@ -74,7 +74,9 @@ render_recovery:
   - Upheaval
   occurrences: 32
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/959.jpg)These are the kind of players that you would expect to see at 5-0 in a Grand Prix. Both are former Pro Tour champions (in Marco's case with a little help from his friend Kai Budde), and both are looking for a sixth win which will secure their place in the second day.
+![](https://www.wizards.com/sideboard/images/gplon02/959.jpg)
+
+These are the kind of players that you would expect to see at 5-0 in a Grand Prix. Both are former Pro Tour champions (in Marco's case with a little help from his friend Kai Budde), and both are looking for a sixth win which will secure their place in the second day.
 
 They are both running blue-black decks, Bob has Zombie Infestations to go with his Upheavals and Marco has Psychatogs.
 
@@ -88,6 +90,8 @@ Both players tried to take out as many black removal spells as they could and br
 
 ### Game 2
 
-![](https://www.wizards.com/sideboard/images/gplon02/960.jpg)This time it was Marco who played an Infestation on the second turn, but saw his token Aether Bursted before it could do any damage. Each player took it in turn to play Deep Analysis, Marco's was Circular Logic-ed, and Bob resolved one and had another Syncopated. Marco also got a Compulsion into play. He also managed to cast Skeletal Scrying for four cards, while Bob played a Compulsion. Marco made some Zombies, but Bob Aether Bursted them away. Both players then started to cycle through their decks with Compulsion, but Bob had five cards to Marco's three as a result of resolving more Deep Analyses and killing off the Zombies. He got a Zombie Infestation into play, more to see if Marco had any counters or not then for what it could do on its own, and then when both players had eight land, tried a Skeletal Scrying for five, choosing not to remove his own Aether Bursts from the graveyard (after the game Bob reckoned this was a mistake - it was intended to make Marco feel safe about letting Bob cast Upheaval). Marco couldn't let the Scrying resolve, but the ensuing counter war left him tapped out. On the next turn Bob cast Upheaval and made six Zombies. Marco discarded two Aether Bursts, and hoped to draw one more to enable him to Burst all the Zombies away, but instead he drew a Swamp and the Zombies got him.
+![](https://www.wizards.com/sideboard/images/gplon02/960.jpg)
+
+This time it was Marco who played an Infestation on the second turn, but saw his token Aether Bursted before it could do any damage. Each player took it in turn to play Deep Analysis, Marco's was Circular Logic-ed, and Bob resolved one and had another Syncopated. Marco also got a Compulsion into play. He also managed to cast Skeletal Scrying for four cards, while Bob played a Compulsion. Marco made some Zombies, but Bob Aether Bursted them away. Both players then started to cycle through their decks with Compulsion, but Bob had five cards to Marco's three as a result of resolving more Deep Analyses and killing off the Zombies. He got a Zombie Infestation into play, more to see if Marco had any counters or not then for what it could do on its own, and then when both players had eight land, tried a Skeletal Scrying for five, choosing not to remove his own Aether Bursts from the graveyard (after the game Bob reckoned this was a mistake - it was intended to make Marco feel safe about letting Bob cast Upheaval). Marco couldn't let the Scrying resolve, but the ensuing counter war left him tapped out. On the next turn Bob cast Upheaval and made six Zombies. Marco discarded two Aether Bursts, and hoped to draw one more to enable him to Burst all the Zombies away, but instead he drew a Swamp and the Zombies got him.
 
 Final result: Bob Maher 2, Marco Blume 0

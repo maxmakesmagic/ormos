@@ -447,7 +447,9 @@ render_recovery:
 ---
 ### Paul Rietzl vs Peter Szigeti
 
-![](https://i.ormos.uk/ab/12/ab12e677871dffbcf4afdb8835f044588fb653bf6446d6f25a172363516f8cdf.jpg)This Quarterfinal match featured two solid competitors that both wanted to get their hands on that trophy. Paul Rietzl from Your Move Games brought a Psychatog deck, which will be completely unaffected by the January first bannings, to the table. Peter, on the other hand, brought a deck that will cease to exist come January first.
+![](https://i.ormos.uk/ab/12/ab12e677871dffbcf4afdb8835f044588fb653bf6446d6f25a172363516f8cdf.jpg)
+
+This Quarterfinal match featured two solid competitors that both wanted to get their hands on that trophy. Paul Rietzl from Your Move Games brought a Psychatog deck, which will be completely unaffected by the January first bannings, to the table. Peter, on the other hand, brought a deck that will cease to exist come January first.
 
 ### Game 1
 

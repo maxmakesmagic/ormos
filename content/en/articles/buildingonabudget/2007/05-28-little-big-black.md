@@ -756,7 +756,9 @@ This is a hard decision, because Phyrexian Arena is a really powerful card—the
 
 In the end, I decided that the Phyrexian Arenas should go. While I would love to have them in the deck, I can't justify gutting the creature base of the deck for a card that costs a little over half of the budget of the entire deck. I also took out Phyrexian Etchings, since it is kind of slow and cumbersome.
 
-![Phyrexian Arena and a big red X](https://i.ormos.uk/1b/04/1b045c29778f4b3234f13289b18da2131962283da7fe94ce8e160fabdd6addcc.jpg "Phyrexian Arena and a big red X")In exchange for the Arenas coming out, I decided to try a bunch of higher-end cards that would have a game-swinging effect. If I couldn't overload in the beginning with weenies, I would drop my bombs at the end of the game and try to outright win with one or two different cards. My choices for these slots were all cards that I'd just wanted to play around with:
+![Phyrexian Arena and a big red X](https://i.ormos.uk/1b/04/1b045c29778f4b3234f13289b18da2131962283da7fe94ce8e160fabdd6addcc.jpg "Phyrexian Arena and a big red X")
+
+In exchange for the Arenas coming out, I decided to try a bunch of higher-end cards that would have a game-swinging effect. If I couldn't overload in the beginning with weenies, I would drop my bombs at the end of the game and try to outright win with one or two different cards. My choices for these slots were all cards that I'd just wanted to play around with:
 
 Roiling Horror: After my success with Fungal Behemoth and Aeon Chronicler during the 10 Decks in 10 Weeks project, I was itching to get my hands on this guy. Best suited for a mono-black deck such as this one due to a triple-black suspend cost, I figured that Roiling Horror would make a great top-of-the-curve creature. If I'm ahead by 5 life, Roiling Horror comes down as a 5/5 haste creature that turns into 10/10 almost immediately. In addition, I can suspend him to drain those last few points of life if I hit a creature stalemate situation.
 

@@ -64,7 +64,9 @@ render_recovery: []
 
 **Jacob Dunning vs Jay Elarar**
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/JSS99/images/R1Elarar.jpg)Dunning is playing a Necro deck complete with some metagame decisions - it uses Black Knight in addition to Skittering Skirge as well as main-deck Persecutes. He is up against some serious opposition this round, facing Jay Elarar - the Canadian player who won the 14 and under JSS division last year.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/JSS99/images/R1Elarar.jpg)
+
+Dunning is playing a Necro deck complete with some metagame decisions - it uses Black Knight in addition to Skittering Skirge as well as main-deck Persecutes. He is up against some serious opposition this round, facing Jay Elarar - the Canadian player who won the 14 and under JSS division last year.
 
 Jay is among many competitors who elected to try out a combo deck today. His mono-blue deck wins using Stroke of Genius to deck the opponent. It is more fragile than the infamous Academy decks of a few months ago, but Jay believes the deck to be solid enough to carry him into the Top 8.
 

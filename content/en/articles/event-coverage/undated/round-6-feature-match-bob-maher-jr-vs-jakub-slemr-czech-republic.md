@@ -51,7 +51,9 @@ Bob Maher was Pro Player of the Year 2000. He won PT Chicago last year, as well 
 
 Bob Maher won the roll (with a 20... who wants to play Bob Maher after he rolls a 20?) and elected to go first. Both players kept their initial hands. This game's momentum swung back and forth a bit, with an initial rebel surge being met by a pair of Chimeric Idols, who in turn were confounded by a Parallax Wave. The first appearance of Lin Sivvi was met by a Withdraw, but Jakub quickly rallied back to push hard with three Steadfast Guards and a Ramosian Sergeant, taking Bob down to 8 life. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/919.jpg)Then Bob worked some Maher magic (small "m" there, folks) and played FOUR Wash Outs (on white) in FOUR consecutive turns. Jakub valiantly replayed his rebel forces for the first three times; but Bob's fourth, in tandem with a pair of Parallax Tides and a single Chimeric Idol, simply overwhelmed him. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/919.jpg)
+
+Then Bob worked some Maher magic (small "m" there, folks) and played FOUR Wash Outs (on white) in FOUR consecutive turns. Jakub valiantly replayed his rebel forces for the first three times; but Bob's fourth, in tandem with a pair of Parallax Tides and a single Chimeric Idol, simply overwhelmed him. 
 
 Bob mirrored the opinion of this reporter when he remarked while examining the four Wash Outs in his graveyard, "Strange game!" 
 
@@ -67,6 +69,8 @@ But the former World Champion expertly top-decked a Parallax Wave on his tenth t
 
 Bob elected to go first. Both gentlemen mulliganed once. This game was almost all Bob Maher and his Spiketail Hatchlings. One Hatchling was sacked to stop a Lin Sivvi; another came out early and almost went the distance; and a third created favorable combat conditions in the mid-game. With his opponent at 3 life by turn 10, Bob cast Overburden and Ankh of Mishra. Jakub, enjoying a bare minimum of ground creatures and lands that kept disappearing (Parallax Tide) and tapping (Rishadan Port), once again played a late Parallax Wave to keep him alive. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/920.jpg)On Jakub's thirteenth turn, time was called. (It was the first two games, not this one, which had gone on for so long.) Jakub was now discarding cards during end step since he couldn't play anything without bouncing valuable lands to his hand (which he cannot play again since he will take Ankh damage). He essentially held out hope for three of his opponent's turns that he would not see a Tide... and his hopes were realized. In a frustrating run of luck, Bob could only get to his second Rishadan Airship on his next to last allowable turn...for which Jakub was able to put his third and last Defiant Falcon out to block. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/920.jpg)
+
+On Jakub's thirteenth turn, time was called. (It was the first two games, not this one, which had gone on for so long.) Jakub was now discarding cards during end step since he couldn't play anything without bouncing valuable lands to his hand (which he cannot play again since he will take Ankh damage). He essentially held out hope for three of his opponent's turns that he would not see a Tide... and his hopes were realized. In a frustrating run of luck, Bob could only get to his second Rishadan Airship on his next to last allowable turn...for which Jakub was able to put his third and last Defiant Falcon out to block. 
 
 **Final Result:** Draw, 1-1-1

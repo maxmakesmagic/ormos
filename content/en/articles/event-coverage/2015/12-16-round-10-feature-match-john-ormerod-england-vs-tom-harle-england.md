@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Pete Norris* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/156.jpg)John Ormerod is the UK's top limited player, and has posted some excellent pro level results, including 6th at PT Mainz, 9th at PTNY Team event, as well as 9th at the extended PT Chicago 2000. Tom Harle is last years English national champion, and made top 8 again this year before losing in the quarter finals. Tom is playing an aggressive 5cG deck, while John O is playing a Black / Blue control deck, with massive card advantage potential. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/156.jpg)
+
+John Ormerod is the UK's top limited player, and has posted some excellent pro level results, including 6th at PT Mainz, 9th at PTNY Team event, as well as 9th at the extended PT Chicago 2000. Tom Harle is last years English national champion, and made top 8 again this year before losing in the quarter finals. Tom is playing an aggressive 5cG deck, while John O is playing a Black / Blue control deck, with massive card advantage potential. 
 
 **Game 1** 
 

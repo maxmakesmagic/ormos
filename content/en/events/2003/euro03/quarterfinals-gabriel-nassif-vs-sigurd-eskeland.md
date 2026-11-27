@@ -428,7 +428,9 @@ render_recovery:
 ---
 Everybody seemed very calm and collected in the moments before the start of this Quarterfinal match. Of course these were two very experienced players with many Pro Tour appearances and Top 8s between them.
 
-![](https://i.ormos.uk/38/92/3892851b952ccec824082664d3576f88ebf4689cb9b8dbe29bf1ed49b6ba647f.jpg)Sigurd joked before the game and confirmed that could choose to switch which side of the table he sat at if he won the dice roll. Rune Horvik, the head judge, was standing close by and confirmed that he could.
+![](https://i.ormos.uk/38/92/3892851b952ccec824082664d3576f88ebf4689cb9b8dbe29bf1ed49b6ba647f.jpg)
+
+Sigurd joked before the game and confirmed that could choose to switch which side of the table he sat at if he won the dice roll. Rune Horvik, the head judge, was standing close by and confirmed that he could.
 
 ### Game 1
 
@@ -462,7 +464,9 @@ The Frenchman cast Chastise next turn but that is met with a Circular Logic as E
 
 A Wrath of God cleared the table and one of the Centaurs from the Norwegian's hand entered play. A Chastise on the Centaur brought the life totals to 18-12 in Eskeland's favor and he flashed back another Roar token. A cycled Renewed Faith was followed by a Duress from Nassif which missed but Eskeland drew and played Quiet Speculation for three Deep Analysis, casting one from the graveyard straight away. An attack from the Roar token was met with Chastise but Eskeland had drawn the necessary Logic and the damage got through. 15 – 8.
 
-![](https://i.ormos.uk/d6/4b/d64ba0a0d4994c8e4de8ab8b96e93226e2450f94ac3a5476f86d65803a36bf4e.jpg)The Frenchman spent a lot of time thinking during his next turn but eventually cast Skeletal Scrying for four. 15 – 4. On his next turn Eskeland cast Upheaval and Nassif scooped.
+![](https://i.ormos.uk/d6/4b/d64ba0a0d4994c8e4de8ab8b96e93226e2450f94ac3a5476f86d65803a36bf4e.jpg)
+
+The Frenchman spent a lot of time thinking during his next turn but eventually cast Skeletal Scrying for four. 15 – 4. On his next turn Eskeland cast Upheaval and Nassif scooped.
 
 ### Game 4
 

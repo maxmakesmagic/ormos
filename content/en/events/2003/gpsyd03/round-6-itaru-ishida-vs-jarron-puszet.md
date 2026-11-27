@@ -93,7 +93,9 @@ In the 5-0 bracket we see Itaru Ishida of Japan, take on Jarron Puszet of Austra
 
 Ishida opens with a Silver Myr on the second turn, with Puszet following with an Iron Myr of his own. Ishida made the most of going first with the extended manabase by swinging for 2 on the third turn with a Vulshok Berserker. It came in for another 2 with Puszet needing to hold to defend his Wizard Replica.
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/673.jpg)No drops on the 5th turn from either player, but they were more than willing to exchange attacks as the flier of Puszet and the Goblin Replica of Ishida sneak in. Ishida was being spell shy due to the replica, but Puszet was allowing Ishida to attack into a Needlebug (taking out the Myr).
+![](https://www.wizards.com/sideboard/images/gpsyd03/673.jpg)
+
+No drops on the 5th turn from either player, but they were more than willing to exchange attacks as the flier of Puszet and the Goblin Replica of Ishida sneak in. Ishida was being spell shy due to the replica, but Puszet was allowing Ishida to attack into a Needlebug (taking out the Myr).
 
 Ishida managed to summon a Bottle Gnomes through the Wizard, but. Still not willing to give up his Wizard, Puszet let Terror resolve against the Somber Hoverguard and was content to trade the Needlebug with the berserker (double blocked with the wizard).
 
@@ -115,7 +117,9 @@ Ishida elects to play and both players are happy with their opening hands. Again
 
 What good for the goose is good for the gander however as Ishida is able to Consume Spirit the Hoverguard.
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/672.jpg)With a Wanderguard Sentry, Puszet is again able to see what's coming in Ishida's hand (Clockwork Vorrac & Bonded in Blood), but realizes he is in trouble when this is followed with a freshly drawn Soul Foundry (Set to Vorrac.) Ishida took 8 from the attack that followed (Vulshok Gauntlets on the Yotian) leaving himself at 11, realising that the longer the game went, the more likely it was to go in his favour.
+![](https://www.wizards.com/sideboard/images/gpsyd03/672.jpg)
+
+With a Wanderguard Sentry, Puszet is again able to see what's coming in Ishida's hand (Clockwork Vorrac & Bonded in Blood), but realizes he is in trouble when this is followed with a freshly drawn Soul Foundry (Set to Vorrac.) Ishida took 8 from the attack that followed (Vulshok Gauntlets on the Yotian) leaving himself at 11, realising that the longer the game went, the more likely it was to go in his favour.
 
 With the prospect of a wave a clockwork tokens, Puszet proceeded to drop his hand summoning a Krark-Clan Grunt and a Goblin War Wagon. This was followed with a Lightning Greaves enabling him to attack with the grunt. Ishida blocked with his replica, which picked off the gauntlets after damage was stacked leaving the grunt carrying lethal damage.
 

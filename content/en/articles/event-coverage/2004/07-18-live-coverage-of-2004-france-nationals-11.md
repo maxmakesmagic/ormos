@@ -44,7 +44,9 @@ archive_source:
   sha256: 8115fbdd6051a2a5c751529fe834419d9a3a18d7a47a216c9642c84867819d9e
 render_recovery: []
 ---
-![](https://i.ormos.uk/8d/9d/8d9d2078bd34d79d3d1ba8656c509e3d009ba3a2726b64525f235e4a58318c54.jpg)The last match of French Nationals for this year is upon us, and it sees a clash between two of France's top PT players. Both are playing red, Gabriel has a land destruction deck, and Olivier is playing Goblin Bidding. Antoine Ruel asks from the spectators area whether either of them has won a tournament before. Surprisingly for all their high-profile finishes, neither of them has won a thing except for the French Team Cup, not even a pre-release.
+![](https://i.ormos.uk/8d/9d/8d9d2078bd34d79d3d1ba8656c509e3d009ba3a2726b64525f235e4a58318c54.jpg)
+
+The last match of French Nationals for this year is upon us, and it sees a clash between two of France's top PT players. Both are playing red, Gabriel has a land destruction deck, and Olivier is playing Goblin Bidding. Antoine Ruel asks from the spectators area whether either of them has won a tournament before. Surprisingly for all their high-profile finishes, neither of them has won a thing except for the French Team Cup, not even a pre-release.
 
 ### Game 1
 

@@ -47,7 +47,9 @@ render_recovery: []
 Round 8 Feature Match: Chris Pikula vs. Darwin Kastle  
  By Aaron Forsythe
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a850.jpg)These two grizzled veterans have battled during at least four previous Pro Tours and go at it once again here at Nationals. They both have 5-2 records, but the pre-game banter reveals there may be a little more at stake.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a850.jpg)
+
+These two grizzled veterans have battled during at least four previous Pro Tours and go at it once again here at Nationals. They both have 5-2 records, but the pre-game banter reveals there may be a little more at stake.
 
 Darwin: "We're both on my Fantasy Pro Tour team."  
  Chris: "I am on my own Fantasy Pro Tour team, but Darwin is not."
@@ -66,7 +68,9 @@ Chris: "Judge, he's looking through his deck. You decide what should be done."
 
 The Creeper traded with a Nantuko Elder, and then Darwin killed Chris's Aven Fogbringer with an Afflict. Then Chris had nothing.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a851.jpg)Darwin brought out an Anurid Barkripper and a Nantuko Tracer, and Chris did nothing but play land until turn 8, when he summoned a Patron Wizard and enhanced it with Strength of Lunacy. Darwin mashed it with a Faceless Butcher and Chris scooped.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a851.jpg)
+
+Darwin brought out an Anurid Barkripper and a Nantuko Tracer, and Chris did nothing but play land until turn 8, when he summoned a Patron Wizard and enhanced it with Strength of Lunacy. Darwin mashed it with a Faceless Butcher and Chris scooped.
 
 Pikula 0 – Kastle 1
 
@@ -87,7 +91,9 @@ Pikula 1 – Kastle 1
 
 Game 3 started off with Barbarian Outcast trading with Phantom Whelp. Darwin summoned his Werewolf, then Chris dropped Mesmeric Fiend, choosing Sonic Seizure over Nantuko Tracer and a bunch of land.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a852.jpg)Chris: "Darwin, this draw is terrible."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a852.jpg)
+
+Chris: "Darwin, this draw is terrible."
 
 The Tracer traded with Crypt Creeper, and then Chris brought forth El Patron and Aven Fogbringer.
 

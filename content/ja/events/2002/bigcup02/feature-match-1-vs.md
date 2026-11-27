@@ -127,7 +127,9 @@ Rebecca 女史を迎え、盛り上がる BIG CUP 。
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/bigcup02/995.jpg)先手、カウンタートレンチを使用する林は順調に 4 ターン目から《嘘か真か/Fact or Fiction》をキャストし、こつこつとアドバンテージを稼ぐ中、ステロイドを操る藤田は土地事故を起す。
+![](http://www.wizards.com/sideboard/images/bigcup02/995.jpg)
+
+先手、カウンタートレンチを使用する林は順調に 4 ターン目から《嘘か真か/Fact or Fiction》をキャストし、こつこつとアドバンテージを稼ぐ中、ステロイドを操る藤田は土地事故を起す。
 
 山、《ケルドの死滅都市/Keldon Necropolis》と 2 枚の土地で止まってしまい、後手 3 ターン目にディスカードステップに《日を浴びるルートワラ/Basking Rootwalla》をマッドネスでキャストと泣かせる展開。
 
@@ -141,7 +143,9 @@ Rebecca 女史を迎え、盛り上がる BIG CUP 。
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/bigcup02/994.jpg)変わって先手の藤田は《ラノワールのエルフ/Llanowar Elves》から《獣群の呼び声》と、順調なステロイドの動き。
+![](http://www.wizards.com/sideboard/images/bigcup02/994.jpg)
+
+変わって先手の藤田は《ラノワールのエルフ/Llanowar Elves》から《獣群の呼び声》と、順調なステロイドの動き。
 
 本来、このまま行くと《神の怒り/Wrath of God》が飛んでくるタイミングを計算しつつ、藤田がクリーチャーで圧倒するパターンを容易に想像できるが、この事態を予測した林はサイドボードからの《緑の防御円/Circle of Protection: Green》で完全回避。
 

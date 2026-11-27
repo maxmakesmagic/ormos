@@ -103,7 +103,9 @@ render_recovery:
   - Bitterblossom
   occurrences: 83
 ---
-![](https://i.ormos.uk/04/ad/04adfa1f56fab268edf703a412403982d54a51b4e7274c0a9f885176e1bb0218.jpg)Things are heating up across the board. After two rounds of Team Competition this morning the leaders are bunched together. Japan and Denmark lead with 93 points, chased by the U.S. and South Korea with 90, Malaysia with 88, and South Africa with 87. Captain Hannes Kerem’s Estonian team is mired with a large group of teams in the neighborhood of 80 points. To break out from the pack he’s going to need to continue his already impressive individual run of 10-2.
+![](https://i.ormos.uk/04/ad/04adfa1f56fab268edf703a412403982d54a51b4e7274c0a9f885176e1bb0218.jpg)
+
+Things are heating up across the board. After two rounds of Team Competition this morning the leaders are bunched together. Japan and Denmark lead with 93 points, chased by the U.S. and South Korea with 90, Malaysia with 88, and South Africa with 87. Captain Hannes Kerem’s Estonian team is mired with a large group of teams in the neighborhood of 80 points. To break out from the pack he’s going to need to continue his already impressive individual run of 10-2.
 
 Standing in his way is Japan’s Captain and Pro Tour icon Masashi Oiso. No stranger to Sunday contention, Oiso is looking to add a Worlds Top 8 to his already impressive resume, with his eyes to becoming the second National Champion (after Jon Finkel) to win that year’s Worlds.
 

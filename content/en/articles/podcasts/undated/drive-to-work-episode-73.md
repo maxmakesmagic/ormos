@@ -41,4 +41,6 @@ render_recovery: []
 
 This is the first in a new series looking at the *Duelist*/Magic Invitationals. In the first podcast, I talk about the Invitationals in Hong Kong and Rio de Janeiro.
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

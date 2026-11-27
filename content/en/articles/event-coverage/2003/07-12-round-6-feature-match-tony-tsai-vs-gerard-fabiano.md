@@ -44,7 +44,9 @@ archive_source:
   sha256: b4c981ab43fb08521482de24a68a4aff3dbcc8e6771d3ba48dbb6f67912ba4b8
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a965.jpg)This round saw the ever-loving blue-eyed Gerard Fabiano facing down Tony “The Shark” Tsai. Both were in a chatty mood, probably a result of their 5-0 records. Tsai was with red-white “Slide”, though he’s only running two copies of the eponymous enchantment. Fabiano is with Goblins. To start the match up, Tournament Organizer Mike “The Big Gups” Guptil swung by and told the competitors that they would have to roar every time they sent a creature into the Red Zone. It was not greeted by great yelps of enthusiasm.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a965.jpg)
+
+This round saw the ever-loving blue-eyed Gerard Fabiano facing down Tony “The Shark” Tsai. Both were in a chatty mood, probably a result of their 5-0 records. Tsai was with red-white “Slide”, though he’s only running two copies of the eponymous enchantment. Fabiano is with Goblins. To start the match up, Tournament Organizer Mike “The Big Gups” Guptil swung by and told the competitors that they would have to roar every time they sent a creature into the Red Zone. It was not greeted by great yelps of enthusiasm.
 
 Fabiano’s first turn Goblin Sledder was Spark Sprayed, and he followed up with a second. He swung in.
 
@@ -70,7 +72,9 @@ With those shenanigans out of the way, it was back to business. Tsai made an Ang
 
 “I think I’m gonna show my hand to this guy, afterwards he can tell me if I made the right play.” – Gerard Fabiano
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a969.jpg)He summoned a Clickslither and bashed. Tsai blocked, and Fabiano was happy to eat the Warchief to kill the Angel. Unfortunately for him, Tsai had a second. Fabiano drew and showed him three Shocks. Tsai had still more gas, this time Eternal Dragon. That stopped Fabiano’s attack. They waited a turn. Fabiano found a Siege-Gang Commander and played it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a969.jpg)
+
+He summoned a Clickslither and bashed. Tsai blocked, and Fabiano was happy to eat the Warchief to kill the Angel. Unfortunately for him, Tsai had a second. Fabiano drew and showed him three Shocks. Tsai had still more gas, this time Eternal Dragon. That stopped Fabiano’s attack. They waited a turn. Fabiano found a Siege-Gang Commander and played it.
 
 “I know it’s the wrong play, but I’m gonna say go.” – Gerard Fabiano
 
@@ -104,7 +108,9 @@ Tsai 1 – Fabiano 1
 
 Fabiano led with Skirk Prospector, but Tsai had a turn-two Rift, and so Fabiano waited on his Goblin Warchief. Sure enough, when he cast it next turn, Tsai was ready with a cycled Secluded Steppe. Next turn he tried Clicksliter, and Tsai cycled away Spark Spray in response to get rid of the Prospector.
 
-![](https://i.ormos.uk/27/81/2781a8e1f1117b7d4777966ea5754adafee79b449cc3c24f6daca099f7511186.jpg)He cycled away Eternal Dragon to get his second plains, enabling Wing Shards. Fabiano made a Siege-Gang Commander and swung in with the Clickslither. The Shards shut it down. Tsai untapped and cycled away the Commander before dropping a morph. Fabiano had yet another Clickslither and swung in with the team. Tsai blocked a 1/1 and fell to seven.
+![](https://i.ormos.uk/27/81/2781a8e1f1117b7d4777966ea5754adafee79b449cc3c24f6daca099f7511186.jpg)
+
+He cycled away Eternal Dragon to get his second plains, enabling Wing Shards. Fabiano made a Siege-Gang Commander and swung in with the Clickslither. The Shards shut it down. Tsai untapped and cycled away the Commander before dropping a morph. Fabiano had yet another Clickslither and swung in with the team. Tsai blocked a 1/1 and fell to seven.
 
 He agonized over his next play. Eventually, he chose to Vengeance away the board after swinging for two. Fabiano played a third Clickslither and dropped him to four. Tsai erased it with a Starstorm. Down came the Sulfuric Vortex. It dropped Tsai to two before he could Vengeance it away. Fabiano smiled and played a Siege-Gang Commander with two mana left over to take the game.
 

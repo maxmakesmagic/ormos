@@ -44,7 +44,9 @@ archive_source:
   sha256: 198b8eb663f1b360fc3d131e4ff4c590c4f291a8ed48f4442a9b9316e16d0718
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a840.jpg)Stefano Fiore has been having a great year. He had a Top 8 at Grand Prix-Lisbon and recently became the Italian National Champion. Across the table sits Gabriel Nassif, one the good young French players in the Pro Tour circuit (and a Team Pro Tour finalist this year). They are both 3-2 in this moment and a win here could push them further up for some extra cash.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a840.jpg)
+
+Stefano Fiore has been having a great year. He had a Top 8 at Grand Prix-Lisbon and recently became the Italian National Champion. Across the table sits Gabriel Nassif, one the good young French players in the Pro Tour circuit (and a Team Pro Tour finalist this year). They are both 3-2 in this moment and a win here could push them further up for some extra cash.
 
 Game 1 
 
@@ -84,7 +86,9 @@ Stefano 1-1 Gabriel
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a841.jpg)This time Fiore was the one playing Merfolk Looter on the second turn and this time the Looter survived. All Gabriel Nassif could do was play Wild Mongrel. On the next turn Arrogant Wurm came in but Fiore was ready for it, with Flametongue Kavu.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a841.jpg)
+
+This time Fiore was the one playing Merfolk Looter on the second turn and this time the Looter survived. All Gabriel Nassif could do was play Wild Mongrel. On the next turn Arrogant Wurm came in but Fiore was ready for it, with Flametongue Kavu.
 
 The French thought for a long time before playing the perfect answer: Violent Eruption. Not only did Fiore lose both creatures but he went down to fourteen. The Italian needed some defense and he got it the little shape of Sunscape Familiar, combined with Opposition.
 

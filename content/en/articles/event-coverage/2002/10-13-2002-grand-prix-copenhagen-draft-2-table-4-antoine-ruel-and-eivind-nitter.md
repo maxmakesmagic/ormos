@@ -44,7 +44,9 @@ archive_source:
   sha256: db506bcf3f9fc2aa6741660496b37fd948ed574a8cc6e2611e934e3702549225
 render_recovery: []
 ---
-![](https://i.ormos.uk/d2/03/d203da5636a1566ac52247e67aa8af485b8f5d6cdfeede858fc7d1fa7c9109f6.jpg)Pro Tour Nice champion Eivind Nitter of Norway and Limited GP specialist Antoine Ruel of France sat down at table 4 for the second draft of GP Copenhagen. They both need a perfect record and some luck to make top 8.
+![](https://i.ormos.uk/d2/03/d203da5636a1566ac52247e67aa8af485b8f5d6cdfeede858fc7d1fa7c9109f6.jpg)
+
+Pro Tour Nice champion Eivind Nitter of Norway and Limited GP specialist Antoine Ruel of France sat down at table 4 for the second draft of GP Copenhagen. They both need a perfect record and some luck to make top 8.
 
 Antoine was in seat 3 and Eivind in seat 4, normally believed to be very good positions in a Rochester draft. It wasn't the case for this draft though as both players ended up with a rather suboptimal deck.
 

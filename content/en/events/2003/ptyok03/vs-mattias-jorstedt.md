@@ -216,7 +216,9 @@ Jorstedet（手札3枚）
 
 **Game 2**
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a682.jpg)2本入っている《溶岩使いの技/Lavamancer's Skill》を引けなかった大礒、ここは気を取り直して行きたいところだが、あいかわらずパンチ力に欠ける初手。しかも、2ターン目に《ゴブリンのそり乗り/Goblin Sledder》を引いてくるというチグハグさ。準決勝まではうまく噛み合っていた歯車が、微妙に狂いだしたかのようだ。
+![](http://www.wizards.com/sideboard/images/ptyok03/a682.jpg)
+
+2本入っている《溶岩使いの技/Lavamancer's Skill》を引けなかった大礒、ここは気を取り直して行きたいところだが、あいかわらずパンチ力に欠ける初手。しかも、2ターン目に《ゴブリンのそり乗り/Goblin Sledder》を引いてくるというチグハグさ。準決勝まではうまく噛み合っていた歯車が、微妙に狂いだしたかのようだ。
 
 しかも、Jorstedetの2ターン目の行動は《火花鍛冶/Sparksmith》！この環境、最大のハメパターンだ。大礒、ここは仕方なく、返しで変異を出し、《火花鍛冶/Sparksmith》の起動に対して《ゴブリンのそり乗り/Goblin Sledder》をサクリファイスして、なんとか被害を《ゴブリンのそり乗り/Goblin Sledder》だけにとどめる。
 

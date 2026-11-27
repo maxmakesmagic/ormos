@@ -44,7 +44,9 @@ archive_source:
   sha256: 168df341ad31ce6e50685ea076785cff2b45ef953de5e6877d42f871c42df178
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a990.jpg)The Grand Prix moves onto Naples, Italy and this is the last European stop for the *Odyssey*-Torment Limited season before the Pro Tour in Nice. For many players this is the last chance to qualify.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a990.jpg)
+
+The Grand Prix moves onto Naples, Italy and this is the last European stop for the *Odyssey*-Torment Limited season before the Pro Tour in Nice. For many players this is the last chance to qualify.
 
 The tournament is being held in the Città della Scienza, a science museum located in a former industrial estate just outside of Naples itself. The venue gives an excellent view of the sea while curious visitors to the museum itself get a new attraction to puzzle over.
 

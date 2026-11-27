@@ -98,7 +98,9 @@ render_recovery:
   - Keeneye Aven
   occurrences: 61
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a802.jpg)The buzz tribe this weekend has been clerics. Unassuming Richard Hoaen rode on the shoulders of Battlefield Medics and Daunting Defenders all day yesterday to a perfect 7-0 record—the only player to do so. He did not draft clerics in the first draft today and went a disappointing 1-3 with a so-so R/G deck. He has vowed to go back to the well one more time.
+![](http://www.wizards.com/sideboard/images/ptyok03/a802.jpg)
+
+The buzz tribe this weekend has been clerics. Unassuming Richard Hoaen rode on the shoulders of Battlefield Medics and Daunting Defenders all day yesterday to a perfect 7-0 record—the only player to do so. He did not draft clerics in the first draft today and went a disappointing 1-3 with a so-so R/G deck. He has vowed to go back to the well one more time.
 
 "R-Hoaen will just draft clerics," predicted Patrick Sullivan. "Its not about colors for him. He just opens the pack and looks for the best cleric. That's how he went 7-0."
 
@@ -112,7 +114,9 @@ Ben's deck looked all right at the end of pack one. He still had the potential t
 
 Rich took the maximum amount of time with his first pick from pack two. There was one card that could make his deck—a Gravel Slinger—and a Starstorm, Sparksmith, and a Lavamancer's Skills. He cut the Starstorm and passed two good red cards to Ben. Ben meanwhile had his choice of Shock or Slice and Dice. He took the latter. A second pick Cruel Revival was a pleasant surprise for Haoen. Ben decided to take the Lavamancer's Skills over the Sparksmith—an unpopular decision among the peanut gallery.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a798.jpg)The rest of the pack was so-so for Hoaen and he picked up Buzzard, 'Double D', a Dredging and a Profane Prayers or three along the way. Ben was in heaven with no red drafters two players to the left of him and he got a couple of Skirk Commandos and a late Pinpoint Avalanche. Hoaen cut a 13th pick Battering Craghorn from meandering around the table into TBS's pile.
+![](http://www.wizards.com/sideboard/images/ptyok03/a798.jpg)
+
+The rest of the pack was so-so for Hoaen and he picked up Buzzard, 'Double D', a Dredging and a Profane Prayers or three along the way. Ben was in heaven with no red drafters two players to the left of him and he got a couple of Skirk Commandos and a late Pinpoint Avalanche. Hoaen cut a 13th pick Battering Craghorn from meandering around the table into TBS's pile.
 
 Pack three was ridiculous.
 

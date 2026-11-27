@@ -44,7 +44,9 @@ archive_source:
   sha256: 8177d4d615028ba37f37fc971e2611e6ee5083e7104cf06019dadcef212b238f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/326F.jpg)全国的な知名度は余りないであろうこの二人。実は DCI センターの常連として知るひとぞ知る強豪プレイヤー同士なのだ。マネードラフトが盛んな DCI で毎日の様にドラフトに取り組む仲間が、奇しくもこの決勝で顔を合わせることとなったわけだ。今回はその舞台がリミテッドではなくスタンダードなだけに興味深い対決と言えるだろう。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/326F.jpg)
+
+全国的な知名度は余りないであろうこの二人。実は DCI センターの常連として知るひとぞ知る強豪プレイヤー同士なのだ。マネードラフトが盛んな DCI で毎日の様にドラフトに取り組む仲間が、奇しくもこの決勝で顔を合わせることとなったわけだ。今回はその舞台がリミテッドではなくスタンダードなだけに興味深い対決と言えるだろう。
 
 ### Game 1
 
@@ -54,7 +56,9 @@ render_recovery: []
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/332F.jpg)お互い 1 マリガンからのスタート。民守は後手ながらも《[Dark Ritual](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual)》、《[Plague Spitter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter)》の鬼回り。それに対し宇佐美はランドが 1 枚で止まってしまう。その隙に《[Duress](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)》で宇佐美は唯一の希望である《Recoil》までも落とされてしまう。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/332F.jpg)
+
+お互い 1 マリガンからのスタート。民守は後手ながらも《[Dark Ritual](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual)》、《[Plague Spitter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter)》の鬼回り。それに対し宇佐美はランドが 1 枚で止まってしまう。その隙に《[Duress](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)》で宇佐美は唯一の希望である《Recoil》までも落とされてしまう。
 
 それでもライフが削りきられる前のターンに《[Engineered Plague](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague)》をはることに成功するが、返しのターンで止めの《[Plague Spitter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter)》をサモンされてしまい、宇佐美は手を差し伸べたのだった。
 

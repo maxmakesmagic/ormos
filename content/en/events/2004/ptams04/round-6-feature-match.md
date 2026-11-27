@@ -90,7 +90,9 @@ Ben just shook his head slowly and noted sadly, "...and you don't have a die eit
 
 ### Game 1
 
-![Gabriel Nassif](https://www.wizards.com/sideboard/images/ptams04/fm12_3.jpg "Gabriel Nassif")Gabriel opened with a Viridian Longbow and Ben played an Ancient Den and a Lifespark Spellbomb. Gabriel frowned at his turn two Alpha Myr, "Why aren't you a Den-Guard?" He attcked for two on the next turn and equipped the Myr after playing his third land.
+![Gabriel Nassif](https://www.wizards.com/sideboard/images/ptams04/fm12_3.jpg "Gabriel Nassif")
+
+Gabriel opened with a Viridian Longbow and Ben played an Ancient Den and a Lifespark Spellbomb. Gabriel frowned at his turn two Alpha Myr, "Why aren't you a Den-Guard?" He attcked for two on the next turn and equipped the Myr after playing his third land.
 
 Ben played his second artifact land and used Thougtcast to dig into his deck. Gabriel had no pressure and attacked for two on the next turn. Ben played a Vedalken Archmage and used a Welding Jar to draw a card. Gabriel frowned as he played his fifth land and could only attack for two on the next turn.
 
@@ -102,7 +104,9 @@ Gabriel tried to muster his trademark smile while he looked through his sideboar
 
 ### Game 2
 
-![Ben Rubin](https://www.wizards.com/sideboard/images/ptams04/fm12_2.jpg "Ben Rubin")Gabriel sent back a five land hand after an intense internal struggle. The next hand had three lands and that was all he would manage for most of the game. His Leaden Myr allowed him to Detonate a Wizard replica and cast an Icy but he could never quite get in the game despite a slower start from Ben. 
+![Ben Rubin](https://www.wizards.com/sideboard/images/ptams04/fm12_2.jpg "Ben Rubin")
+
+Gabriel sent back a five land hand after an intense internal struggle. The next hand had three lands and that was all he would manage for most of the game. His Leaden Myr allowed him to Detonate a Wizard replica and cast an Icy but he could never quite get in the game despite a slower start from Ben. 
 
 Ben sealed the game with a Betrayal of Flesh that he entwined to get back a Looming Hoverguard. Gabriel was disgusted and critisized Rubin for a play where he Shattered Nassif's Dragon Blood over the Icy Manipulator that kept a Somber Hoverguard at bay all game.
 

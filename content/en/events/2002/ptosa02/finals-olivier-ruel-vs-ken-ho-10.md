@@ -215,7 +215,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/51/64/5164c201f789cb60de5089c1873129e882d72277b42c899b973614a34f622947.jpg)And so it all comes down to this. Olivier Ruel in his loud yet stylish long-sleeved Jersey, Ken Ho in a subdued beige sweater. Ever since his name was announced in the Top 8, players have simply assumed that this was Ruel's Tour. His dead-last finish at the Magic Invitational came with the promise that he would win a Pro Tour this year, just as Steve OMS, Gary Wise and Zvi Mowshowitz did before him. Ruel was doing his fair share to fuel that fire, defeating fellow Frenchman Nicolas Olivieri in the quarters before stomping all over Rob Dougherty in a quick and brutal semifinal. Throughout it all he's worn his trademark bemused expression, and answered adversity and success with the same sly smile. Ruel is running the tournament's most successful deck, mono-black control.
+![](https://i.ormos.uk/51/64/5164c201f789cb60de5089c1873129e882d72277b42c899b973614a34f622947.jpg)
+
+And so it all comes down to this. Olivier Ruel in his loud yet stylish long-sleeved Jersey, Ken Ho in a subdued beige sweater. Ever since his name was announced in the Top 8, players have simply assumed that this was Ruel's Tour. His dead-last finish at the Magic Invitational came with the promise that he would win a Pro Tour this year, just as Steve OMS, Gary Wise and Zvi Mowshowitz did before him. Ruel was doing his fair share to fuel that fire, defeating fellow Frenchman Nicolas Olivieri in the quarters before stomping all over Rob Dougherty in a quick and brutal semifinal. Throughout it all he's worn his trademark bemused expression, and answered adversity and success with the same sly smile. Ruel is running the tournament's most successful deck, mono-black control.
 
 Ken Ho is a member of the much-disparaged Magic Colony, a month-long conglomeration of Magic players that featured such names a Brian Hegstad, Chris Benafel, and San Diego Top 8'er Jeff Cunningham. Ho himself is not running the Colony's "A" deck, a blue-red-black control deck that put co-designers Brian Kibler and Ben Rubin into Day 2. Instead he is playing a blue-green deck that aims to optimize Madness spells by accelerating them through Wild Mongrel and Aquamoeba.
 
@@ -237,7 +239,9 @@ Ho had some fight left in him. Another Blightcutter came to his aid. Ruel Mutila
 
 Ruel 2 - Ho 0
 
-![](https://i.ormos.uk/19/78/1978a8ad86e938271b567f41b67f464bb8e8024896894d8fc1c9af7e1a1658eb.jpg)Ruel paused, looking at his opening hand in Game 3. It held just two swamps. However, he was drawing. He couldn't mulligan that. Besides, he had Nantuko Shade.
+![](https://i.ormos.uk/19/78/1978a8ad86e938271b567f41b67f464bb8e8024896894d8fc1c9af7e1a1658eb.jpg)
+
+Ruel paused, looking at his opening hand in Game 3. It held just two swamps. However, he was drawing. He couldn't mulligan that. Besides, he had Nantuko Shade.
 
 Ho kicked off with Basking Rootwalla, then moved on to Blightcutter. Ruel Edicted and worked his mojo to find a third swamp for Rancid Earth. Ho simply played a second Blightcutter. Suddenly, Ruel was in dire straits.
 
@@ -257,7 +261,9 @@ Ho wasn't done, not by a long shot. He added Nantuko Blightcutter to the mix. Ru
 
 Ruel 2 - Ho 2
 
-![](https://i.ormos.uk/d4/57/d4573e280c9ebeb94ef247ec82655cf9924fa8801f14aaf47e74420183ebf6cc.jpg)Ruel kept yet another sketchy two-lander for the final game. However, Ho had to mulligan yet again, not liking the looks of his six. Ruel started with Nantuko Shade while Ho showed only island. Next came the oft-mocked Tarnished Citadel. This time, however, it would prove its worth.
+![](https://i.ormos.uk/d4/57/d4573e280c9ebeb94ef247ec82655cf9924fa8801f14aaf47e74420183ebf6cc.jpg)
+
+Ruel kept yet another sketchy two-lander for the final game. However, Ho had to mulligan yet again, not liking the looks of his six. Ruel started with Nantuko Shade while Ho showed only island. Next came the oft-mocked Tarnished Citadel. This time, however, it would prove its worth.
 
 For three life, Ho got green mana to make a Werebear. Ruel had no removal, just Rancid Earth. He destroyed the island hoping to force Ho to use the Citadel for blue. Ho just played another. Ruel tried another Shade. Ho trumped with Blightcutter.
 

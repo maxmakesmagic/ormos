@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 4
 ---
-![](https://i.ormos.uk/a5/2a/a52af2287e8c21a2cfcf8e934af8e7571ed3b96f0c23c9e19d37c5fc2290aa95.jpg)Next Monday *9th Edition* becomes available on the ***Magic** Online* Store. Core sets always have great staple cards that any serious **Magic** player needs to round out their collection. This time, though... there just seems to be a little bit more to get excited about. 
+![](https://i.ormos.uk/a5/2a/a52af2287e8c21a2cfcf8e934af8e7571ed3b96f0c23c9e19d37c5fc2290aa95.jpg)
+
+Next Monday *9th Edition* becomes available on the ***Magic** Online* Store. Core sets always have great staple cards that any serious **Magic** player needs to round out their collection. This time, though... there just seems to be a little bit more to get excited about. 
 
 First and foremost are all ten painlands to set your mana worries at ease. Players new to the Aether have often lamented the high tix cost and relative rarity of the *Apocalypse* [enemy-color pain lands](https://web.archive.org/web/20050825000000/http://gatherer.wizards.com/default.asp?first=1&last=100&term=&Field_Name=on&Field_Rules=on&Field_Type=on&setfilter=Apocalypse&colorfilter=All&typefilter=L&output=summary&sort=name&x=51&y=23). Now they're back for at least a two-year rotation, so you should be able to get your mitts on 'em. 
 

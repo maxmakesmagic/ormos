@@ -87,7 +87,9 @@ archive_source:
   sha256: 4132a864ece132d9eeeb8d54d383b9815b659a65bbb78c89a69008b1edb24ebe
 render_recovery: []
 ---
-![Nomad_Mythmaker](https://i.ormos.uk/7d/85/7d85b22efa0065816b6ceeee414f94db562c3639d8f54245596f5ad7712bec7f.jpg)Theysay the best way to give bad news is to just come right out and say it. I know that readers have come to expect that **magicthegathering.com** is the definitive source for information. As such, it pains me to have to admit that I made a grave error in my column last weeek. Yes, somehow the army of fact-checkers missed a vital detail. My faithful readers, I can only apologize ever so humbly (and I seldom do anything humbly, so this is hard for me) for my gaffe of [last week](/en/articles/makingmagic/2007/03-12-you-can-say-that-again). It turns out that a duck’s quack *does*, in fact, echo.
+![Nomad_Mythmaker](https://i.ormos.uk/7d/85/7d85b22efa0065816b6ceeee414f94db562c3639d8f54245596f5ad7712bec7f.jpg)
+
+Theysay the best way to give bad news is to just come right out and say it. I know that readers have come to expect that **magicthegathering.com** is the definitive source for information. As such, it pains me to have to admit that I made a grave error in my column last weeek. Yes, somehow the army of fact-checkers missed a vital detail. My faithful readers, I can only apologize ever so humbly (and I seldom do anything humbly, so this is hard for me) for my gaffe of [last week](/en/articles/makingmagic/2007/03-12-you-can-say-that-again). It turns out that a duck’s quack *does*, in fact, echo.
 
 ![Nomad_Mythmaker](https://i.ormos.uk/7d/85/7d85b22efa0065816b6ceeee414f94db562c3639d8f54245596f5ad7712bec7f.jpg)
 

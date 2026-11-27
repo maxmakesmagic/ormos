@@ -40,7 +40,9 @@ render_recovery: []
 ---
 *by Randy Buehler* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/995.jpg)Pittsburgh playground legend Andrew Cuneo has finally broken onto the Pro Tour. After helping drive the Car Acrobatic Team to a second place finish at the most recent Pro Tour, Cuneo won five matches in the Masters Gateway and landed himself a match against Dan O'Mahoney-Schwartz with the winner advancing to the $150,000 Masters Series event. Dan OMS has been putting up some good Grand Prix results in recent months, out-performing his younger brother Steve. Dan is most famous, of course, for being one third of Team Antarctica, one of the best teams in the game. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/995.jpg)
+
+Pittsburgh playground legend Andrew Cuneo has finally broken onto the Pro Tour. After helping drive the Car Acrobatic Team to a second place finish at the most recent Pro Tour, Cuneo won five matches in the Masters Gateway and landed himself a match against Dan O'Mahoney-Schwartz with the winner advancing to the $150,000 Masters Series event. Dan OMS has been putting up some good Grand Prix results in recent months, out-performing his younger brother Steve. Dan is most famous, of course, for being one third of Team Antarctica, one of the best teams in the game. 
 
 Cuneo played out a pair of "tappers" early in game 1 - Thornscape Apprentice and Stormscape Apprentice. OMS stumbled out of the gate with a turn 3 Viashino Grappler but nothing else on turn 4 or 5. Cuneo then punished him by casting Global Ruin, destroying two of Dan's 4 lands and ensuring that OMS would never be able to play out his hand. When Cuneo played Power Armor, OMS drew one more card and then just scooped. 
 

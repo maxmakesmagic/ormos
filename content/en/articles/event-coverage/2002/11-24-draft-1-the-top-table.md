@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 8
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpla02/952.jpg)With a draft table full of pro players, you’re bound to expect co-operation. One by one, cards will be picked in each player’s colors, with each man at the table being careful not to alienate their neighbors so as to ensure continued co-operation. After the first pack, plans are laid out, picks are predictable and really, there’s no reason to continue watching. Right?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpla02/952.jpg)
+
+With a draft table full of pro players, you’re bound to expect co-operation. One by one, cards will be picked in each player’s colors, with each man at the table being careful not to alienate their neighbors so as to ensure continued co-operation. After the first pack, plans are laid out, picks are predictable and really, there’s no reason to continue watching. Right?
 
 Would *Sideboard Online* do that to you?
 

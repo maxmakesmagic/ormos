@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Craig Jones* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/152.jpg)Round 10 and Swede Richard Österberg met Frenchman Florent Jeudon in a game that would decide Pod 4 and leave the winner with a strong chance of challenging for a top 8 position. Österberg was a semi-finalist in this year's European Championships and Jeudon is the third member of the highly successful Black Ops Team. Österberg played a white/blue deck while Jeudon had drafted a black/red deck around Kavu Monarch. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/152.jpg)
+
+Round 10 and Swede Richard Österberg met Frenchman Florent Jeudon in a game that would decide Pod 4 and leave the winner with a strong chance of challenging for a top 8 position. Österberg was a semi-finalist in this year's European Championships and Jeudon is the third member of the highly successful Black Ops Team. Österberg played a white/blue deck while Jeudon had drafted a black/red deck around Kavu Monarch. 
 
 Game 1 was a game in name only. Jeudon laid two swamps, managed to cast a Hate Weaver and later some Ravenous Rats. His only other interaction in the game was discarding a Phyrexian Portal and then an Alloy Golem around turns 7 and 8 because he still hadn't drawn a third land. 
 

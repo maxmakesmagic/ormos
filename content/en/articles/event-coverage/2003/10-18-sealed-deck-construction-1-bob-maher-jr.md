@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/a997.jpg)"I like this set, but not for drafting. It's the same complaint I had for the last set. The people who don't figure out what colors they're in \[when drafting\] don't get punished for it."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/a997.jpg)
+
+"I like this set, but not for drafting. It's the same complaint I had for the last set. The people who don't figure out what colors they're in \[when drafting\] don't get punished for it."
 
 Bob broke out his sealed pool using a very simple method: cards he'd consider playing, and those that he wouldn't even bother with. The pile of cards he'd play with are large. "Judging by the start, this deck is better than average." At first glance, there are many high quality eqiupment cards, like Fireshrieker, Scythe of the Wretched, Sword of Kaldra and Vulshok Gauntlets. He also pointed out a Golbin Charbelcher and a potential copy of it in Sculpting Steel, along with two Hematite Golems and a Goblin Replica.
 
@@ -61,7 +63,9 @@ Bob next pulled out the colored cards and sorted them, focusing on the red cards
 
 "I'm having problems building \[this deck\], but it's certainly good problems," Bob commented. He fiddled with his Notre Dame hat and rerarranged piles of cards and thought about his options. There's a small pile of good black cards, namely Irradiate, Nim Shrieker, and Slith Bloodletter. Bob subsequently added Ogre Leadfoot and Krark-Clan Grunt to his red cards. He shook his head as he looked at the piles. "I wish I had more ways to abuse my artifacts - basically right now it's Nim Shrieker and Irradiate. I also wish I could find a way to play two colors, because I want to hit a Mountain with the Charbelcher as much as possible, but even still..." he trailed off.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/a996.jpg)"I mean, I know I'm playing these," indicating the red pile, "and these," pointing out the Equipment cards, " but the rest is really tough. This is where I don't have much experience with Sealed, since I mostly draft, and I don't know where to go from here."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkc03/a996.jpg)
+
+"I mean, I know I'm playing these," indicating the red pile, "and these," pointing out the Equipment cards, " but the rest is really tough. This is where I don't have much experience with Sealed, since I mostly draft, and I don't know where to go from here."
 
 Bob decided that it would be best to lay out his mana curve and see which colors fit in. He's pulled out playable cards from all the colors, and didn't seem to know where he'd end up. He broke out out the red cards and the artifacts, and after a quick count, had 20 cards. "I just don't know if that makes my best deck."
 

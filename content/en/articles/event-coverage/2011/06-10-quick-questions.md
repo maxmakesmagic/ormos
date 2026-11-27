@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### What *New Phyrexia* Common Do You Most Want to Open?
 
-![](https://i.ormos.uk/7b/7c/7b7c9f0dfb86b09693b87455010d7e7b700aa5e28f6444bfbd5fc8ec6cf286ef.jpg)**Luis Scott-Vargas:** [Grim Affliction](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Affliction). [Volt Charge](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volt+Charge) is a close second, but [Grim Affliction](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Affliction) is way better in the decks that it's actually good in.
+![](https://i.ormos.uk/7b/7c/7b7c9f0dfb86b09693b87455010d7e7b700aa5e28f6444bfbd5fc8ec6cf286ef.jpg)
+
+**Luis Scott-Vargas:** [Grim Affliction](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Affliction). [Volt Charge](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volt+Charge) is a close second, but [Grim Affliction](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Affliction) is way better in the decks that it's actually good in.
 
 ![](https://i.ormos.uk/b3/19/b319663632af351750acb34933f49d14321d597d49e928ffa06a3e6e74a96b49.jpg)**Ari Lax:** [Pith Driller](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pith+Driller).
 
@@ -56,4 +58,6 @@ render_recovery: []
 
 ![](https://i.ormos.uk/31/0c/310c9ff0befef63cb68064a1a6518695929d389d16eea012ae477178b65eb36b.jpg)**Christian Calcano:** [Volt Charge](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volt+Charge).
 
-![](https://i.ormos.uk/d2/69/d26944aeac7f17c093274fc4250507d5d8807e4a19d4b9511355d598124048a2.jpg)**Sam Black:** It's a toss-up between Binding Souleater and [Volt Charge](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volt+Charge). I think that [Blinding Souleater](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blinding+Souleater) is a stronger card overall, but I've had a lot of success drafting mono-red.
+![](https://i.ormos.uk/d2/69/d26944aeac7f17c093274fc4250507d5d8807e4a19d4b9511355d598124048a2.jpg)
+
+**Sam Black:** It's a toss-up between Binding Souleater and [Volt Charge](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volt+Charge). I think that [Blinding Souleater](https://web.archive.org/web/20110610000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blinding+Souleater) is a stronger card overall, but I've had a lot of success drafting mono-red.

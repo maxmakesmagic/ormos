@@ -116,7 +116,9 @@ render_recovery:
   - Aven Windreader
   occurrences: 1
 ---
-![](https://i.ormos.uk/e8/24/e82456fffbf885f5471aa4d04837f3598c369a253b3098fa9c0fb29319d99f4e.jpg)Over the past few months, our community has become accustomed to the way Constructed environments can change. In observing the machinations within the Extended format, the only thing we knew for sure was that next week, nothing was for sure, and that we could each individually be wrong about what was going to be good whenever we showed up for any given tournament.
+![](https://i.ormos.uk/e8/24/e82456fffbf885f5471aa4d04837f3598c369a253b3098fa9c0fb29319d99f4e.jpg)
+
+Over the past few months, our community has become accustomed to the way Constructed environments can change. In observing the machinations within the Extended format, the only thing we knew for sure was that next week, nothing was for sure, and that we could each individually be wrong about what was going to be good whenever we showed up for any given tournament.
 
 One difference that became apparent during that season between Limited and Constructed play was the way an environment could change in Constructed. With such a broad card pool, each week, people were finding new ways of beating the decks that had surprised everyone the week before, meaning the quest for new decks was constant and needed vigilance if it was to be successful. In Limited, while the hope for archetypical discoveries is there, the emphasis must be put on environmental knowledge: how to build the archetypes, what each one is strong or weak against, and most importantly, how each card is valued.
 
@@ -144,7 +146,9 @@ So with this information as a starting point, here's a look at the cards in *Ody
 
 ### Junk Golem, Patchwork Gnomes, Dirty Wererat, Fledgling Imp, Rites, Krosan Archer, Acceptable Losses, Patrol Hounds, blue Atogs, and any other card that allows you to discard a card from your hand
 
-![](https://i.ormos.uk/6f/da/6fdaa2797226e7be11337879c16235f11e73e688dcb738e70469e5af7ec0491f.jpg)A year ago it would have seemed ludicrous to suggest that discarding could be a good thing, but here we are in the age of threshold and madness. All of the cards listed above share one attribute: they allow you to discard a card from your hand for a reasonable price, and with both madness and threshold relying upon your ability to discard, that becomes important. When drafting *Odyssey*, keep in mind that despite madness, there aren't thousands of ways to discard in *Torment*. That means you'll want two or three coming out of the first two packs.
+![](https://i.ormos.uk/6f/da/6fdaa2797226e7be11337879c16235f11e73e688dcb738e70469e5af7ec0491f.jpg)
+
+A year ago it would have seemed ludicrous to suggest that discarding could be a good thing, but here we are in the age of threshold and madness. All of the cards listed above share one attribute: they allow you to discard a card from your hand for a reasonable price, and with both madness and threshold relying upon your ability to discard, that becomes important. When drafting *Odyssey*, keep in mind that despite madness, there aren't thousands of ways to discard in *Torment*. That means you'll want two or three coming out of the first two packs.
 
 ### Frightcrawler, Shadowmage Infiltrator, Ghastly Demise, Zombie Assassin
 
@@ -156,7 +160,9 @@ What once was little more than a sideboard card is now main deck playable. If yo
 
 ### Chainflinger, Painbringer, Psionic Gift, Magma Vein, Engulfing Flames, Volcanic Spray
 
-![](https://i.ormos.uk/c7/c4/c7c4f846b73f8c265718001cc569b29d74ab10ffb9b7348e64a3c5bbb974baec.jpg)Each of these spells, grouped together by virtue of their ability to deal one point of damage to one or more creatures more than once, should find their value heightened by the number of small creatures in *Torment*, the importance of killing the Torturer for some decks and the ability to kill larger creatures when combined with other effects. 
+![](https://i.ormos.uk/c7/c4/c7c4f846b73f8c265718001cc569b29d74ab10ffb9b7348e64a3c5bbb974baec.jpg)
+
+Each of these spells, grouped together by virtue of their ability to deal one point of damage to one or more creatures more than once, should find their value heightened by the number of small creatures in *Torment*, the importance of killing the Torturer for some decks and the ability to kill larger creatures when combined with other effects. 
 
 ### Aether Burst, Flame Burst, Muscle Burst
 
@@ -174,7 +180,9 @@ Green is less plentiful. Who cares, I'm still picking it high.
 
 ### Pilgrim of Virtue, Sphere of Grace
 
-![](https://i.ormos.uk/40/69/4069e7181d0087672807b9cb38572997323f4ce4375f4c36fde22ea0185d1369.jpg)Simple math here: increased black means anti-black cards increase in value. The Pilgrim is main deck playable now, though shouldn't be drafted too highly.
+![](https://i.ormos.uk/40/69/4069e7181d0087672807b9cb38572997323f4ce4375f4c36fde22ea0185d1369.jpg)
+
+Simple math here: increased black means anti-black cards increase in value. The Pilgrim is main deck playable now, though shouldn't be drafted too highly.
 
 ### Pilgrim of Justice
 
@@ -182,7 +190,9 @@ The value of protection from red hasn't diminished in the face of the unusual nu
 
 ### All white cards
 
-![](https://i.ormos.uk/f2/97/f297e95678e39ca17445c494667d43c97ec137c462ab80c815ea384d340e78bf.jpg)Some players are going to be unwilling to draft white in this format, but for those of you who aren't so intent on limiting yourselves, there are two approaches you can take: either you can force the color on the assumption that no one else wants it, or you can wait to see where the draft takes you, with a fourth pick Mystic Zealot or Shelter providing the signal you need to let you know you'll head into white. 
+![](https://i.ormos.uk/f2/97/f297e95678e39ca17445c494667d43c97ec137c462ab80c815ea384d340e78bf.jpg)
+
+Some players are going to be unwilling to draft white in this format, but for those of you who aren't so intent on limiting yourselves, there are two approaches you can take: either you can force the color on the assumption that no one else wants it, or you can wait to see where the draft takes you, with a fourth pick Mystic Zealot or Shelter providing the signal you need to let you know you'll head into white. 
 
 If you take the former approach, white cards will have their values increased. If you take the later approach though, the white cards will actually be devalued, as you're only drafting the color because it's being neglected. The result of this is that you'll have to fight for cards in your other color, while the hope that early white cards might come back to you isn't an unrealistic one. In other words, using this strategy, white cards will be devalued.
 
@@ -204,7 +214,9 @@ The quality of instant-speed bounce and creature kill has diminished to the poin
 
 ### Repentant Vampire
 
-![](https://i.ormos.uk/28/f3/28f3fa6a3e2366f8cd33823aa7bdaa283d4d5b3a7bfc3207a8f445e9dfadd64f.jpg)A few weeks ago, in one of my first *Odyssey-Torment* drafts, I used the Vampire's tap ability for the first time. It used to be little more than an Aven Windreader. Now, it's definitely a more important card. 
+![](https://i.ormos.uk/28/f3/28f3fa6a3e2366f8cd33823aa7bdaa283d4d5b3a7bfc3207a8f445e9dfadd64f.jpg)
+
+A few weeks ago, in one of my first *Odyssey-Torment* drafts, I used the Vampire's tap ability for the first time. It used to be little more than an Aven Windreader. Now, it's definitely a more important card. 
 
 ### Execute
 

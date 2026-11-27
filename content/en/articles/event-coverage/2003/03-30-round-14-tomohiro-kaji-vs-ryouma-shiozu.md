@@ -44,7 +44,9 @@ archive_source:
   sha256: 1676c7005216c07c45327c873fea1ba01fbe8e1e60fff6c8b91e640353ea120b
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkyo03/a920.jpg)The stoic Ryouma Shiozu has a pair of Grand Prix Top 8's to his name, once with his teammates in NAGOYAN, and a solo Top 4 at Shizuoka. His opponent, Tomohiro Kaji boasts no such resume. Both are within a match win of Top 8, but the smart money is on Shiozu, whose deck has apparently dialed "R" for "Ridiculousness".
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkyo03/a920.jpg)
+
+The stoic Ryouma Shiozu has a pair of Grand Prix Top 8's to his name, once with his teammates in NAGOYAN, and a solo Top 4 at Shizuoka. His opponent, Tomohiro Kaji boasts no such resume. Both are within a match win of Top 8, but the smart money is on Shiozu, whose deck has apparently dialed "R" for "Ridiculousness".
 
 ### Game 1
 

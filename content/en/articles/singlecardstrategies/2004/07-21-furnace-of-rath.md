@@ -599,7 +599,9 @@ Well then, here's what you can do.
 
 Remember, everyone's at half of their life total. In essence, once you get a Furnace out, all you ever seem to be able to need to do is about 10 damage at the most. Lifegain is always the bane of doming someone in the head with a burn spell, but you really don't care that much when a Furnace is out.
 
-![](https://i.ormos.uk/b9/14/b9140410aaf2549a29bd20840caf107b6245282877e097909604affbd87eada0.jpg)Just because of that story I told earlier, Ball Lightning springs immediately to mind. What was always amazing in that old deck was that if you used a Ball Lightning and a Fireblast with a Furnace of Rath out, they'd be dead. Of course, both of those cards are only up to being used if you play something like 1.5 or another older format, so what can you use that's a bit more modern?
+![](https://i.ormos.uk/b9/14/b9140410aaf2549a29bd20840caf107b6245282877e097909604affbd87eada0.jpg)
+
+Just because of that story I told earlier, Ball Lightning springs immediately to mind. What was always amazing in that old deck was that if you used a Ball Lightning and a Fireblast with a Furnace of Rath out, they'd be dead. Of course, both of those cards are only up to being used if you play something like 1.5 or another older format, so what can you use that's a bit more modern?
 
 It doesn't take much of a leap to go from Ball Lightning to Blistering Firecat. At 7 damage, you should only need a much weaker burn spell to keep the pressure on, and there are certainly plenty of cards that do 3 damage. From Chain of Plasma to Volcanic Hammer to Hammer of Bogardan to Carbonize to Barbed Lightning. I could go on and on here.
 
@@ -628,7 +630,9 @@ If you can just get out the Furnace quickly, sometimes that can take care of all
 
 Speed is one of the best answers. There are two kinds of speed that I'm talking about: getting the Furnace out quick, or simply being able to do so much it doesn't matter that they hurt you.
 
-![](https://i.ormos.uk/ff/e6/ffe65c825f5bdbac8c3f470c7a255fa799cae89a3c6f71023b88c959afed6f1a.jpg)Chrome Mox is a great card to use with Furnace of Rath. Not only can you use it after the furnace is out to inflict a whopping 10 damage from a Shrapnel Blast, but it speeds you up a full turn in getting out the Furnace. On the other hand, if you are in dire shape and a Furnace won't help, you can always turn your Furnace into a mana source by imprinting it on the Mox.
+![](https://i.ormos.uk/ff/e6/ffe65c825f5bdbac8c3f470c7a255fa799cae89a3c6f71023b88c959afed6f1a.jpg)
+
+Chrome Mox is a great card to use with Furnace of Rath. Not only can you use it after the furnace is out to inflict a whopping 10 damage from a Shrapnel Blast, but it speeds you up a full turn in getting out the Furnace. On the other hand, if you are in dire shape and a Furnace won't help, you can always turn your Furnace into a mana source by imprinting it on the Mox.
 
 Seething Song is another great example. On turn 3, you can drop a Furnace and potentially burn something, but I'm actually far more interested in a Seething Song on turn 4 (or earlier with a Chrome Mox) when you might have 6 mana. Spend 4 mana on Furnace of Rath, and spend 2 mana on Final Fortune. Sure you only get one more turn to kill them, but in the right deck, that might not be that hard.
 

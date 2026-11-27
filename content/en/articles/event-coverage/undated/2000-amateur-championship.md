@@ -40,7 +40,9 @@ render_recovery:
 ---
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/89/ba/89bac4811b8c0b6dc8c0e3102c51b714d9fa101001c8d73e1030c57233ad634a.jpg"></td>&#10;			<td>&#10;			<h2>2000 Amateur Championship Coverage</h2>&#10;			</td>&#10;		</tr></tbody></table>
 
-![](https://i.ormos.uk/42/1f/421fd9c703fea3a05b4942cdbae9c55fb84d7e8891be4ddd933fa789a422c844.jpg)John Stevens won the 2000 Amateur Championship.
+![](https://i.ormos.uk/42/1f/421fd9c703fea3a05b4942cdbae9c55fb84d7e8891be4ddd933fa789a422c844.jpg)
+
+John Stevens won the 2000 Amateur Championship.
 
 Saturday is usually the biggest day of Magic at Origins. The convention is in full swing, all the players have arrived and there is always a large event to greet them. This year, the event is the Amateur Championships. Several hundred people filled the ancillary Magic area to compete in an unprecedented event. Players prepared Standard decks to face one of the toughest metagames ever, knowing that the competition would be limited to players who have never acquired a Pro Player Point. One key to success in this unique situation is anticipating the level of the metagame, which is not a typical issue in professional tournaments, where it is assumed that all players will be excellent and have access to an unlimited card pool. Here, these assumptions are not practical.
 

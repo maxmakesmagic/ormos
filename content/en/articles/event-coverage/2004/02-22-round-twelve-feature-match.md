@@ -44,7 +44,9 @@ archive_source:
   sha256: cdc27315611db5f624bd87eebdaba84273121b7daf077a4cd44f2760dcae1ad3
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r12fm1_1.jpg)These two players are still very much in the race. Dirk Hein is a veteran German player with some good results including a Top 8 in the Grand Prix Munich a few months ago. Emilio Campos Lopez is trying hard to defend his country in this Spanish Grand Prix.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r12fm1_1.jpg)
+
+These two players are still very much in the race. Dirk Hein is a veteran German player with some good results including a Top 8 in the Grand Prix Munich a few months ago. Emilio Campos Lopez is trying hard to defend his country in this Spanish Grand Prix.
 
 ### Game 1
 

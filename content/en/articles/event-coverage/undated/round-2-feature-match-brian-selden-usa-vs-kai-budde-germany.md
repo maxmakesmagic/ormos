@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Michelle Bush* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/974.jpg)This round featured a battle between World Champions. Both American Brian Selden and German Kai Budde won their respective Worlds titles with well-established archetypes, Selden with RecSur in 1998 and Budde with Wildfire in 1999. Both pros are showing a preference for proven performers again today. Budde is running a classic Rebel deck, and Selden is playing Fires of Yavimaya. This pairing is a common occurrence here in Chicago, and although anything can happen, Fires is definitely the favorite. Cards like Earthquake and Flashfires are a serious problem for Rebels, and the matchup is heavily influenced by whether Fires draws these two powerhouses. Keys to victory for Rebels are it's answers to big creatures and Saproling Burst, such as Parallax Wave, Disenchant, and Reverent Mantra. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/974.jpg)
+
+This round featured a battle between World Champions. Both American Brian Selden and German Kai Budde won their respective Worlds titles with well-established archetypes, Selden with RecSur in 1998 and Budde with Wildfire in 1999. Both pros are showing a preference for proven performers again today. Budde is running a classic Rebel deck, and Selden is playing Fires of Yavimaya. This pairing is a common occurrence here in Chicago, and although anything can happen, Fires is definitely the favorite. Cards like Earthquake and Flashfires are a serious problem for Rebels, and the matchup is heavily influenced by whether Fires draws these two powerhouses. Keys to victory for Rebels are it's answers to big creatures and Saproling Burst, such as Parallax Wave, Disenchant, and Reverent Mantra. 
 
 **Game 1** 
 

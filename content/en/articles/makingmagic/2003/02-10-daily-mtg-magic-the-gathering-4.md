@@ -52,7 +52,9 @@ archive_source:
   sha256: 3a4eda23894b7895481020854acb25133943f33237fb77cc4674492e9a4ab54d
 render_recovery: []
 ---
-![Skaff](https://i.ormos.uk/f2/9a/f29a96f2ae8e46914c3c0b4b167e106b7d7729590f0a6bc54c822f3a1dec3a54.jpg)You spend another ten minutes listening to Skaff. The argument seems nowhere close to ending.
+![Skaff](https://i.ormos.uk/f2/9a/f29a96f2ae8e46914c3c0b4b167e106b7d7729590f0a6bc54c822f3a1dec3a54.jpg)
+
+You spend another ten minutes listening to Skaff. The argument seems nowhere close to ending.
 
  **[Stay and listen.](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=52)  
  [Politely try to leave again.](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=51)**

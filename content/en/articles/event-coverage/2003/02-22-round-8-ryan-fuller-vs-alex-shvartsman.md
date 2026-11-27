@@ -46,7 +46,9 @@ render_recovery: []
 ---
 One year ago, one season ago, I covered the feature match involving these two players in this very format- Sealed Deck. That was in Grand Prix-Hong Kong, and involved *Odyssey*-only Sealed deck. Both players met in the round of four, where Fuller had little trouble disposing of Shvartsman with his deck featuring Overrun. Then again, Shvartsman didn’t really stand much of a chance, with his sealed deck shining with bombs such as Zoologist and Bloodcurdler. One can only imagine how poor his card pool was back then.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/959.jpg)Now, both players move onto the Sealed Deck involving *Onslaught* and *Legions*. Both players confessed to not having a heck of a lot of experience with *Legions*\- In fact, Fuller’s experience with the new set involves reading and re-reading the spoiler over and over again on the flight over to the United States. Shvartsman is out to try and avenge his loss from Hong Kong.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/959.jpg)
+
+Now, both players move onto the Sealed Deck involving *Onslaught* and *Legions*. Both players confessed to not having a heck of a lot of experience with *Legions*\- In fact, Fuller’s experience with the new set involves reading and re-reading the spoiler over and over again on the flight over to the United States. Shvartsman is out to try and avenge his loss from Hong Kong.
 
 Fuller kept a decent hand containing a good mix of spells and lands. Shvartsman, on the other hand, drew a less ideal hand- six lands and a lone spell. He sent that back in, as the powers that be laughed out loud as his next hand held six lands. He kept. Fortunately, drawing that many lands in the beginning means that it *is*, in fact, fairly difficult *not* to draw spells. Fuller opened with a second turn Stonewood Invoker, bringing out complaints of “What kind of person brings out stuff on turn two in this format?” from Shvartsman, to which Fuller, never at a loss for an answer replied, “Why me, of course.”
 

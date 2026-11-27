@@ -41,4 +41,6 @@ render_recovery: []
 
 For my second podcast this week, Matt Cavotta had car trouble and needed a ride to work, so we chat all about the role of names on Magic cards. As we have both been in charge of names at one point, the two of us have a lot to say on the topic. 
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

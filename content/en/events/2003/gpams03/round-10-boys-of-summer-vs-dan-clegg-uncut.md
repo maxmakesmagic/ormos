@@ -80,7 +80,9 @@ render_recovery:
 ---
 Dan Clegg Uncut is a team of three Pro players: Noah Boeken and Alex Witt of the Netherlands and Brock Parker of USA. Boys of Summer is the surprise Belgian package of Mats Clays, Johan Kennes and Marijn Lybaert that stormed to the top of the rankings yesterday.
 
-![](http://www.wizards.com/sideboard/images/gpams03/a911.jpg)The winner here will be virtually guaranteed a place in the top 4.
+![](http://www.wizards.com/sideboard/images/gpams03/a911.jpg)
+
+The winner here will be virtually guaranteed a place in the top 4.
 
 <table>&#10;  <tbody><tr>&#10;    <td>A Mats Clays</td>&#10;    <td>vs</td>&#10;    <td>Noah Boeken</td>&#10;  </tr>&#10;  <tr>&#10;    <td>B Johan Kennes</td>&#10;    <td>vs</td>&#10;    <td>Brock Parker</td>&#10;  </tr>&#10;  <tr>&#10;    <td>C Marijn Lybaert</td>&#10;    <td>vs</td>&#10;    <td>Alex Witt</td>&#10;  </tr>&#10;</tbody></table>
 
@@ -128,7 +130,9 @@ Boeken continued draw mountains but was able to enchant a Symbiotic Elf with Cro
 
 Clays retaliated by adding both his morphs to the assault on the next turn. Boeken had to play a game of guess the morph. He got the wrong block and a Snapping Thragg picked off the Battering Craghorn while a facedown Woodcloaker traded with the Vorine.
 
-![](http://www.wizards.com/sideboard/images/gpams03/a906.jpg)It hurt but Boeken had to cycle a Tusker in search of a second forest. The extra card didn't help as Boeken tried to think of a way out. He passed the turn and Clays beat him to 5 with the Gourna.
+![](http://www.wizards.com/sideboard/images/gpams03/a906.jpg)
+
+It hurt but Boeken had to cycle a Tusker in search of a second forest. The extra card didn't help as Boeken tried to think of a way out. He passed the turn and Clays beat him to 5 with the Gourna.
 
 Clays sneaked in a hasty Skirk Alarmist and smashed again. Boeken was in real trouble. He blocked the Gourna and pumped his Symbiotic Elf with Accelerated Mutation. Here Clays made what looked like a mistake as he chose to let the Mutation resolve before making the Elf smaller with a Chill Haunting.
 

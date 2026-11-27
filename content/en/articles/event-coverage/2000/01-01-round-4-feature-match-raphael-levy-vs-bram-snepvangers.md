@@ -44,7 +44,9 @@ archive_source:
   sha256: 2c12e8cec1ca9edc843f45473ccfd3600c057423353ea3d6883cbe255ce7ba38
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/978.jpg)The round kicked off with some friendly banter as both players have known each other for quite a while. Raphael classified his deck as "simply bad" while Bram called his "average", yet both felt they could make second day. The probable 5-2 cut into the second day seems easier when you have three byes. A good luck handshake, poker faces and the round was on the way! 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/978.jpg)
+
+The round kicked off with some friendly banter as both players have known each other for quite a while. Raphael classified his deck as "simply bad" while Bram called his "average", yet both felt they could make second day. The probable 5-2 cut into the second day seems easier when you have three byes. A good luck handshake, poker faces and the round was on the way! 
 
 **Game 1** 
 
@@ -60,7 +62,9 @@ It was too little, too late. Bram dropped a Stormscape Battlemage to get rid of 
 
 A early ironic smile from the Frenchman seemed to point to mana screw again but he quickly answered Bram's third turn Hooded Kavu with a fourth turn Aurora Griffin. Bram added a Caldera Kavu to the mix while trading blows but Raphael put it back on top of the library with a Hunting Drake. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/976.jpg)Surprisingly, or maybe not, the Caldera Kavu came into play again but Raphael had finally reached six mana and dropped a big bomb: Vodalian Serpent with kicker! Bram had no islands in play at the moment but needed to be careful or he could have been facing a huge incoming monster. The flyers and the Hooded Kavu kept trading blows while Raphael cast a Allied Strategies for three to further power up his hand. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/976.jpg)
+
+Surprisingly, or maybe not, the Caldera Kavu came into play again but Raphael had finally reached six mana and dropped a big bomb: Vodalian Serpent with kicker! Bram had no islands in play at the moment but needed to be careful or he could have been facing a huge incoming monster. The flyers and the Hooded Kavu kept trading blows while Raphael cast a Allied Strategies for three to further power up his hand. 
 
 At this point the game slowed down as both players needed to carefully consider the situation. They both had their full hands and while Bram's position seemed to be a color-screw (no blue mana source) there were a lot of possible cards, and situations, to take into account. 
 
@@ -76,7 +80,9 @@ When Bram swung with the Reaper, Raphael begged him to attack with the Lord as w
 
 Raphael finally finds blue mana in a Chromatic Sphere. In fact the Sphere is so helpful that it even gives him a Island to keep the blue mana flowing in. Again the Frenchman resorts to a Armadillo Cloak to get back into the race while the Climber and the Griffin slow down Bram's army. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/977.jpg)Bram would have none of that and uses a Reckless Spite to remove the two blockers (Climber and Griffin), swinging for nine putting Raphael in big, big trouble... facing a 4/4 Zombie, a pumping Kavu and a Lord with only the overworked Angel as a potential blocker. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/977.jpg)
+
+Bram would have none of that and uses a Reckless Spite to remove the two blockers (Climber and Griffin), swinging for nine putting Raphael in big, big trouble... facing a 4/4 Zombie, a pumping Kavu and a Lord with only the overworked Angel as a potential blocker. 
 
 The Angel gets bigger with a Strength of Unity and swings for five to give Raphael some much needed breathing room. Both players take their time and carefully think every possible play as the tension grows in this hard-fought match. Raphael plays an unkicked Faerie Squadron and turns things over to Bram. 
 

@@ -114,7 +114,9 @@ Michael Sutfin showed off more of the characteristic slag-runoff pipes, sometime
 
 ![Gobhobbler Rats art by Michael Sutfin](https://i.ormos.uk/22/3a/223acf6dcfb518751fda536f482c9111228a58a3f7b76bb3d29876e80b224717.jpg "Gobhobbler Rats art by Michael Sutfin")
 
-![Rakdos Augermage art by Zoltan Boros and Gabor Szikszai](https://i.ormos.uk/d7/5f/d75fe0359683a0fbd5230005ae97bfce3b22e377841543e81c0d30211602d754.jpg "Rakdos Augermage art by Zoltan Boros and Gabor Szikszai")In the background of Terry Soh's [Invitational](/en/events/2005/mi05/soh-rides-online-skills-to-victory) card, Rakdos Augermage, artists Zoltan Boros and Gabor Szikszai show some of the sinister-looking machinery employed by the Rakdos. When it comes to inflicting pain, Cult members are remarkably inventive.... 
+![Rakdos Augermage art by Zoltan Boros and Gabor Szikszai](https://i.ormos.uk/d7/5f/d75fe0359683a0fbd5230005ae97bfce3b22e377841543e81c0d30211602d754.jpg "Rakdos Augermage art by Zoltan Boros and Gabor Szikszai")
+
+In the background of Terry Soh's [Invitational](/en/events/2005/mi05/soh-rides-online-skills-to-victory) card, Rakdos Augermage, artists Zoltan Boros and Gabor Szikszai show some of the sinister-looking machinery employed by the Rakdos. When it comes to inflicting pain, Cult members are remarkably inventive.... 
 
 And below is Rix Maadi itself. Note the steam boiling up from the sewer-pool surrounding the Dungeon Palace. Note also the *scale* of the guildhall -- those are human-sized figures on the lower bridge on the right, and you can see another figure, either exulting in some sort of torture or screaming for escape, on a platform on the left side.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/907.jpg)En el primer juego Martin tenía la delantera con un Paladin En-Vec encantado con una Armadura Imperial, sin embargo como la mayoría de los decks combo el "Turbo Black Jack" solo estan en espera de un turno sin importar la cantidad de vida, y una vez que tienen el combo armado, nada los detiene, asi que aún cuando Hugo estaba en 8 puntos de vida y nada en la mesa mas que una Underground Sea y una City of Traitors lo importante era que en el cementerio estaban ya un Pandemunium y dos Saproling Burst, suficientes para que con el Replenish y la Scrubland que Hugo tenía en la mano llegaran a juego. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/907.jpg)
+
+En el primer juego Martin tenía la delantera con un Paladin En-Vec encantado con una Armadura Imperial, sin embargo como la mayoría de los decks combo el "Turbo Black Jack" solo estan en espera de un turno sin importar la cantidad de vida, y una vez que tienen el combo armado, nada los detiene, asi que aún cuando Hugo estaba en 8 puntos de vida y nada en la mesa mas que una Underground Sea y una City of Traitors lo importante era que en el cementerio estaban ya un Pandemunium y dos Saproling Burst, suficientes para que con el Replenish y la Scrubland que Hugo tenía en la mano llegaran a juego. 
 
 0-1 
 

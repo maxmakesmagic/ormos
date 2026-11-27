@@ -471,7 +471,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/b1/e8/b1e8e1ed94d9fd93c1bcbb69b6900a8deef86a97868ec46985e67fc13ede2a04.jpg)Our **Magic** play group has lots of cool people. Sometime in the next few weeks, I might introduce you to some of them. (It's been a while since I've given them the credit they deserve. But today, I'd like to focus on one of them – Todd Petit – who deserves some congratulations and recognition.
+![](https://i.ormos.uk/b1/e8/b1e8e1ed94d9fd93c1bcbb69b6900a8deef86a97868ec46985e67fc13ede2a04.jpg)
+
+Our **Magic** play group has lots of cool people. Sometime in the next few weeks, I might introduce you to some of them. (It's been a while since I've given them the credit they deserve. But today, I'd like to focus on one of them – Todd Petit – who deserves some congratulations and recognition.
 
 Todd is a 30-something actuary who lives in the Twin Cities area. He's been playing **Magic** for years, and has qualified for the Pro Tour before. But it's been years since he did that, and I've seen him make some pretty freaking awful plays over the past few years. So for all intents and purposes, he's a tournament outcast like most of my readership.
 

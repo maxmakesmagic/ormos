@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/36/b7/36b76ecf816d79edcbc4ca05cb8d7a1faa9a8f4a2b26328d262507799e7fee25.jpg)Brian Kibler may be best known as the Pro Tour's residing Dragon-Master, but he can also lay claim to the title of local State Champion, having captured Georgia's title last weekend with a green-red-blue deck featuring [Call of the Herd](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd), [Flametongue Kavu](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu), and [Opposition](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opposition).
+![](https://i.ormos.uk/36/b7/36b76ecf816d79edcbc4ca05cb8d7a1faa9a8f4a2b26328d262507799e7fee25.jpg)
+
+Brian Kibler may be best known as the Pro Tour's residing Dragon-Master, but he can also lay claim to the title of local State Champion, having captured Georgia's title last weekend with a green-red-blue deck featuring [Call of the Herd](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd), [Flametongue Kavu](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu), and [Opposition](https://web.archive.org/web/20151218000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opposition).
 
 I caught up with the New Hampshire native (now a student at nearby Emory University) as he sat down to build his sealed deck for today's competition.
 

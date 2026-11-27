@@ -565,7 +565,9 @@ But beyond simply making it easier to make the right call, there are a whole sle
 
 ### Eating it
 
-![](https://i.ormos.uk/53/c4/53c4225109c02d9cac5863c90cb3ca8ad5e98bd2be342a2d6437d8581c5231c0.jpg)One final neat trick with the Top: drawing a card with the Top is an effect, but so is putting it on top of your library. If your Top is in the graveyard before your card draw resolves, that's fine – you get to draw your card anyway.
+![](https://i.ormos.uk/53/c4/53c4225109c02d9cac5863c90cb3ca8ad5e98bd2be342a2d6437d8581c5231c0.jpg)
+
+One final neat trick with the Top: drawing a card with the Top is an effect, but so is putting it on top of your library. If your Top is in the graveyard before your card draw resolves, that's fine – you get to draw your card anyway.
 
 This can be very useful if you just want a new card, but don't want a Sensei's Divining Top to be your next draw (it does happen sometimes…). Any number of cards can make this happen, and they all generally include the phrase “Sacrifice an artifact”, though not all of them do. In Extended, this includes Atog, Goblin Welder, and Shrapnel Blast, among others. 
 

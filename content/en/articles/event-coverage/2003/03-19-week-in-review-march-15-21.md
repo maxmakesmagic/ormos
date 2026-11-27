@@ -104,7 +104,9 @@ For additional information, please visit [http://www.tjcollect.com/north\_east\_
 
 ### Week in Review’s (Evil?) Twin
 
-![](https://i.ormos.uk/d0/de/d0de07c56a1992b758d9daebc699c8d3dd1ad08f7cd3d8e53d47a2d38f3c37c7.jpg)MiseTings.com has long been the finest **Magic** humor site on the web. Now there is an extra reason to visit. Over the course of last month, they introduced a weekly column called Week in Review. It features some of the more interesting **Magic** news, trivia and Good/Bad Plays of the Week. Sound familiar? Well, they do say imitation is the most sincere form of flattery! 
+![](https://i.ormos.uk/d0/de/d0de07c56a1992b758d9daebc699c8d3dd1ad08f7cd3d8e53d47a2d38f3c37c7.jpg)
+
+MiseTings.com has long been the finest **Magic** humor site on the web. Now there is an extra reason to visit. Over the course of last month, they introduced a weekly column called Week in Review. It features some of the more interesting **Magic** news, trivia and Good/Bad Plays of the Week. Sound familiar? Well, they do say imitation is the most sincere form of flattery! 
 
 I am overjoyed to read this column, and you should too.
 

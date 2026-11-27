@@ -44,7 +44,9 @@ archive_source:
   sha256: b566316e33d0e8e3faca7ae60dbe79e0adb67f9730058e15622ac637d5b5f136
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/a968.jpg)With his rapid-fire playstyle and success, Katsuhiro Mori is one of Japan’s top stars, and a great way to draw a crowd for a feature match. He finished yesterday with an impressive 5-1 record, and is in prime position to make a run at the Top 8. Unfortunately, he didn’t get the removal he wanted for his red/green deck, and to make matters worse, he has to play his first match against Kazuya Hirabayashi, who was feeding him in the draft. Hirabayashi is considered by many to be Japan’s premiere deckbuilder, and he came in second place and Grand Prix Sendai in 2001, which was Extended. His Limited skills aren’t anything to scoff at eirher, since he drafted a solid white/blue deck. In fact, Mori was hoping he wouldn’t have to play Hirabayashi, since he feels it’s a poor matchup. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/a968.jpg)
+
+With his rapid-fire playstyle and success, Katsuhiro Mori is one of Japan’s top stars, and a great way to draw a crowd for a feature match. He finished yesterday with an impressive 5-1 record, and is in prime position to make a run at the Top 8. Unfortunately, he didn’t get the removal he wanted for his red/green deck, and to make matters worse, he has to play his first match against Kazuya Hirabayashi, who was feeding him in the draft. Hirabayashi is considered by many to be Japan’s premiere deckbuilder, and he came in second place and Grand Prix Sendai in 2001, which was Extended. His Limited skills aren’t anything to scoff at eirher, since he drafted a solid white/blue deck. In fact, Mori was hoping he wouldn’t have to play Hirabayashi, since he feels it’s a poor matchup. 
 
 ### Game 1
 

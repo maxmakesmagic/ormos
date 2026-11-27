@@ -407,7 +407,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/a7/8b/a78b545c7851cc11af4220870be50c78fa44cd352d149e51085d1199998fe6eb.jpg)Jeroen and Tuomo had the best records coming into the first round of Day Three. They were the only players with a single loss at World's. There were only three players with two losses, including Kai Budde and Gabriel Nassif sitting diagonally across the feature match area with a throng of spectators gathering for the hometown hero.
+![](https://i.ormos.uk/a7/8b/a78b545c7851cc11af4220870be50c78fa44cd352d149e51085d1199998fe6eb.jpg)
+
+Jeroen and Tuomo had the best records coming into the first round of Day Three. They were the only players with a single loss at World's. There were only three players with two losses, including Kai Budde and Gabriel Nassif sitting diagonally across the feature match area with a throng of spectators gathering for the hometown hero.
 
 Everyone knew what Jeroen was playing. He needed only a 2-4 record to make Top 8 and he decided to run his old stand-by—The Rock. He turned to Mark Rosewater, "If I go 1-5 playing against Mind's Desire I am going to hunt you down." Mark put up his hands and took no blame for the card's design. 
 
@@ -421,7 +423,9 @@ The discussion was interrupted by Kai who gestured to the spectators pressed int
 
 Both players kept and Jeroen was playing first—always important in Extended but never more so than in this current environment. He led with Duress and saw a hand with one Mountain, two Seal of Fire, Siege-Gang Commander, Goblin Lackey, Jackal Pup and a Flunky. He shook his head sadly, "Goblins..." He took the Seal and passed back the turn.
 
-![](https://i.ormos.uk/cf/bd/cfbd5b49be218e41dace6eb31c1dee50afeec940ebfa4d6cb98d99c8a2b5b203.jpg)When Tuomo took too long debating his first turn, Jeroen smelled a top decked Wasteland. Tuomo shrugged and the Dutch player knew he was correct, "Yeah, he drew a Wasteland." He was correct and Tuomo smoked the Llanowar Wastes. He played a Forest and a Llanowar Elf. Tuomo smoked the Elf with his remaining Seal and passed the turn over playing a Lackey.
+![](https://i.ormos.uk/cf/bd/cfbd5b49be218e41dace6eb31c1dee50afeec940ebfa4d6cb98d99c8a2b5b203.jpg)
+
+When Tuomo took too long debating his first turn, Jeroen smelled a top decked Wasteland. Tuomo shrugged and the Dutch player knew he was correct, "Yeah, he drew a Wasteland." He was correct and Tuomo smoked the Llanowar Wastes. He played a Forest and a Llanowar Elf. Tuomo smoked the Elf with his remaining Seal and passed the turn over playing a Lackey.
 
 Jeroen played a Treetop Village and sent it back. It was time for Lackey to make its debut and it came down with a Jackal Pup flanking it. A Forest from Jeroen meant he could stay back on his Village. Tuomo wasn't ready to lose his precious Lackey and added a Mogg Flunkies to his board. 
 
@@ -463,7 +467,9 @@ Tuomo killed the Elf with a Fanatic and sent the Lackeys in. Jeroen was forced t
 
 Now that Jeroen had a little room to maneuver he seemed to relax and he played a Yavimaya Elder. The Finn had nothing on the next turn and sent it back glumly. Jeroen had another Wall of Blossoms and sent in his Treetop and the Elder. He killed the Elder and Jeroen got his two lands. Tuomo played a Piledriver and sent it back to take another three.
 
-![](https://i.ormos.uk/ef/bf/efbfeff9b902695aa3a35869da3487ccf837ac69c485b060d354fe291668d673.jpg)He had a Flunky on the next turn and Jeroen cast a Deed and used it for two. He seemed startled when his Walls died as well and seemed to have second thoughts about the play but he got in for another three points. Another Piledriver seemed unimpressive with no wingmen but that was all he had. On the plus side a Rishadan Port would allow him to negate the Village.
+![](https://i.ormos.uk/ef/bf/efbfeff9b902695aa3a35869da3487ccf837ac69c485b060d354fe291668d673.jpg)
+
+He had a Flunky on the next turn and Jeroen cast a Deed and used it for two. He seemed startled when his Walls died as well and seemed to have second thoughts about the play but he got in for another three points. Another Piledriver seemed unimpressive with no wingmen but that was all he had. On the plus side a Rishadan Port would allow him to negate the Village.
 
 Not yet though and Tuomo fell to eight on the next turn. A Ravenous Baloth was looking like game for the Dutchman but after Tuomo played a Mogg Flunkies he made a grave mistake. He cast Cabal Therapy on the next turn naming Siege Gang and hit one but he saw two Fledgling Dragons lying in wait along with a Gempalm Incinerator. 
 

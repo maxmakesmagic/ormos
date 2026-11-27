@@ -100,7 +100,9 @@ What about lands that produce multiple colors? It depends on how they're produci
 
 ### Early Epics
 
-![](https://i.ormos.uk/b1/54/b154de6d4aad976ae1a5952b0d4420d3fa460238485c09b7641e55c019535dbe.jpg)**Q**: If the epic spell is countered, are you still required to copy the spell at each or your upkeeps, and, more importantly, refrain from playing spells for the rest of the game? --Chris T.
+![](https://i.ormos.uk/b1/54/b154de6d4aad976ae1a5952b0d4420d3fa460238485c09b7641e55c019535dbe.jpg)
+
+**Q**: If the epic spell is countered, are you still required to copy the spell at each or your upkeeps, and, more importantly, refrain from playing spells for the rest of the game? --Chris T.
 
 **A**: No, if the original epic is countered, the ability will never make copies, and you won't be restricted from playing spells.
 
@@ -196,7 +198,9 @@ What about lands that produce multiple colors? It depends on how they're produci
 
 **\*Extra\***: If there are other creatures around, [Radiate](https://web.archive.org/web/20050514000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Radiate) will make copies for them as well. If you have two [Priest of Titania](https://web.archive.org/web/20050514000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Priest+of+Titania)s, the [Radiate](https://web.archive.org/web/20050514000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Radiate)d copies will hit each one, and the echoing will make them get +4/+4 each. If you have twelve Snake tokens (from [Sosuke's Summons](https://web.archive.org/web/20050514000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sosuke%27s+Summons) or [Orochi Hatchery](https://web.archive.org/web/20050514000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orochi+Hatchery), for example), then the Radiating [Echoing Courage](https://web.archive.org/web/20050514000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echoing+Courage) winds up giving +24/+24… Whether you make Tarzan noises when you attack with your emerald horde is up to you.
 
-[![](https://i.ormos.uk/78/b8/78b8ee7dd282cd02d726196a2f668e84a10b300e1b12b256ba1449646867baab.jpg)](https://web.archive.org/web/20050514000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/prereleases)That's all for this week. Next week I'll be digging into questions about the preview cards here on magicthegathering.com as well as covering regular reader submissions. Be sure to check it out as soon as possible so you have time to make it to [your local prerelease events](https://web.archive.org/web/20050514000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/prereleases). Best of luck, and have fun!
+[![](https://i.ormos.uk/78/b8/78b8ee7dd282cd02d726196a2f668e84a10b300e1b12b256ba1449646867baab.jpg)](https://web.archive.org/web/20050514000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/prereleases)
+
+That's all for this week. Next week I'll be digging into questions about the preview cards here on magicthegathering.com as well as covering regular reader submissions. Be sure to check it out as soon as possible so you have time to make it to [your local prerelease events](https://web.archive.org/web/20050514000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/prereleases). Best of luck, and have fun!
 
 Class dismissed.
 

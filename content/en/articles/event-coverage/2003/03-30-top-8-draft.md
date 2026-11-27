@@ -44,7 +44,9 @@ archive_source:
   sha256: 6f8667f5188fc0ddf30c8cd4f697f383c9b0e22807a4ebbe0c2f5d383be736be
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkyo03/a914.jpg)There's a lot of talent in this Top 8. The obvious standouts are Itaru Ishida and Satoshi Nakamura, two pros who have been around the block and then some, but there's much more. Hisaya Tanaka is one of Japan's top-ranked Limited players. Akira Asahara is one of its best deckbuilders. Masashio Ooiso currently leads the Rookie of the Year race. Ryouma Shiozu had a pair of Grand Prix Top 8's to his name. Akihiro Takakuwa is a frequent money-draft partner to none other than Katsuhiro "Faster" Mori. Rounding things out is newcomer Yoshiaki Tashiro, who proved his skill at the drafting posting a 5-0-1 record.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkyo03/a914.jpg)
+
+There's a lot of talent in this Top 8. The obvious standouts are Itaru Ishida and Satoshi Nakamura, two pros who have been around the block and then some, but there's much more. Hisaya Tanaka is one of Japan's top-ranked Limited players. Akira Asahara is one of its best deckbuilders. Masashio Ooiso currently leads the Rookie of the Year race. Ryouma Shiozu had a pair of Grand Prix Top 8's to his name. Akihiro Takakuwa is a frequent money-draft partner to none other than Katsuhiro "Faster" Mori. Rounding things out is newcomer Yoshiaki Tashiro, who proved his skill at the drafting posting a 5-0-1 record.
 
 The seating order was as follows:
 
@@ -61,7 +63,9 @@ The big push in this draft was players trying to get to blue-red. Asahara starte
 
 Nakamura moved out as quickly as he'd moved in. His only red card was a Skill, so he shifted effortlessly to blue-black. Asahara barely even saw a red card, what with four players in front of him taking them. He did notice a wealth of white, and so he went for it. The only other white drafter at the table was Ooiso, and they were far enough apart to share the bounty. Tanaka waffled into black, but couldn't resist the green that was coming his way. He couldn't bear to part with [Menacing Ogre](https://web.archive.org/web/20030330000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Menacing+Ogre), either.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkyo03/a918.jpg)Ishida stuck to his green-red guns, with Tashiro's black-green acting as a pseudo-buffer. Shiozu did the same, wedged between Nakamura's blue-black and Ooiso's white. At the close of the first pack, things looked like this:
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkyo03/a918.jpg)
+
+Ishida stuck to his green-red guns, with Tashiro's black-green acting as a pseudo-buffer. Shiozu did the same, wedged between Nakamura's blue-black and Ooiso's white. At the close of the first pack, things looked like this:
 
 Tanaka – Red-Green-Black  
  Asahara – Blue-White  

@@ -48,7 +48,9 @@ render_recovery: []
 
 These top-level Canadians probably thought coming into the weekend that if they played on Saturday, the match would have Top 8 ramifications. Unfortunately, both these guys were 4-4 entering the round and really just playing for ratings points. The staff asked spectators to gather around the players so that the Wizards photographer could take some Wise-eye pictures for marketing use, so watch for future ads featuring excited Canadians watching over Gary Krakower's shoulder . . . as he shuffles.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/FM9Krak.jpg)Gary Krakower was playing an aggressive monored deck with lots of land destruction. His deck also featured the Prophecy cards Rhystic Lightning and Veteran Brawlers. (In fact, his deck's eight Prophecy cards were the most of any deck in the field.) Gary Wise's deck was virtually a copy of the Angry Hermit deck Aaron Forsythe used to make the US national team.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/FM9Krak.jpg)
+
+Gary Krakower was playing an aggressive monored deck with lots of land destruction. His deck also featured the Prophecy cards Rhystic Lightning and Veteran Brawlers. (In fact, his deck's eight Prophecy cards were the most of any deck in the field.) Gary Wise's deck was virtually a copy of the Angry Hermit deck Aaron Forsythe used to make the US national team.
 
 If you've ever read about Mike Flores's "Who's the beatdown deck?" theory of Magic, this match established its corollary: "Who's the land destruction deck?" Five Rishadan Ports hit the table and 12 mana-producing permanents went to the graveyard in just the first two games.
 
@@ -56,7 +58,9 @@ Krakower went first in game one. He started out strong with a Goblin Cadet, a Ve
 
 Between games, the Garys did some rubbernecking to figure out how the players still in contention were faring.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/FM9Wise.jpg)Wise got to go first in the second game. He had an Elf, a Bird, and a Port (and a forest) in play by the end of his second turn, but Krakower's Cave-in took out both the creatures. The two players spent the next couple turns blowing up each other's ports and a couple more mana sources, but then the Wise one dropped a Blastoderm. On his next turn, Wise sent in the Blastoderm, missed his land drop, and played a Yavimaya Elder. Krakower had an Elder answer in the form of a Cursed Totem, but his Veteran Brawlers just wasn't going to help that much against that Blastoderm. Wise attacked (and lost the Elder to the Brawlers) and then played a second Blastoderm! Krakower got out a Lightning Dragon on his next turn, but by then he was so low on life that he conceded when Wise played out a Deranged Hermit.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/FM9Wise.jpg)
+
+Wise got to go first in the second game. He had an Elf, a Bird, and a Port (and a forest) in play by the end of his second turn, but Krakower's Cave-in took out both the creatures. The two players spent the next couple turns blowing up each other's ports and a couple more mana sources, but then the Wise one dropped a Blastoderm. On his next turn, Wise sent in the Blastoderm, missed his land drop, and played a Yavimaya Elder. Krakower had an Elder answer in the form of a Cursed Totem, but his Veteran Brawlers just wasn't going to help that much against that Blastoderm. Wise attacked (and lost the Elder to the Brawlers) and then played a second Blastoderm! Krakower got out a Lightning Dragon on his next turn, but by then he was so low on life that he conceded when Wise played out a Deranged Hermit.
 
 After that game, Krakower complained that he'd been talked out of his anti-Blastoderm sideboard plan, which had been Flowstone Walls. He joked about having to bring his Goblin Cadets back in just to block, although he didn't really do it. (Meanwhile, at the next table, Andrew Bonham picked up a game loss when he sacrificed his Academy Rector to Phyrexian Tower and then drew a card before he got a Bargain into play.) 
 

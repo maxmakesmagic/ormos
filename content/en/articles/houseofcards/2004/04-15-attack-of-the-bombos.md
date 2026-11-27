@@ -947,7 +947,9 @@ Oh, those elusive first-turn wins. Want another that fails? This is from, let's 
 
 ### Back to the Bombos
 
-![](https://i.ormos.uk/b8/ed/b8edb12b3c23e7c9696016478890d06b2427d91bab749bed451bdf2bdd86a814.jpg)When you send in a bombo, it's best not to be arrogant about it. Isn't that right, Quentini Dudelars?
+![](https://i.ormos.uk/b8/ed/b8edb12b3c23e7c9696016478890d06b2427d91bab749bed451bdf2bdd86a814.jpg)
+
+When you send in a bombo, it's best not to be arrogant about it. Isn't that right, Quentini Dudelars?
 
 > This is a *Mirrodin*-block combo: Tangleroot + Skullclamp + Isochron Scepter, imprinting Raise the Alarm. (takes a bow)
 
@@ -963,7 +965,9 @@ Wrong! Ebonblade Reaper's ability causes life loss, not damage. Final Punishment
 
 ### Back (Again) to the Bombos
 
-![](https://i.ormos.uk/9a/d9/9ad9d6ed5f32481e1a3f567f31f891365f70db902982df635a967821c21526a5.jpg)Some bombos mix really clever ideas with really awful ones. Grubby Smithbergsonstien suggests:
+![](https://i.ormos.uk/9a/d9/9ad9d6ed5f32481e1a3f567f31f891365f70db902982df635a967821c21526a5.jpg)
+
+Some bombos mix really clever ideas with really awful ones. Grubby Smithbergsonstien suggests:
 
 > Play Scornful Egotist. Use Soul Sculptor on it with Opalescence in play: You've given the Egotist +7/+7! If it is destroyed, cast Replenish and get it back!
 

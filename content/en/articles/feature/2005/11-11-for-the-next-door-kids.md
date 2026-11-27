@@ -67,7 +67,9 @@ The Junior Super Series Challenges 2006 Season will soon begin. What is it all a
 
 In case you don’t know, the JSS (Junior Super Series) is a series of local tournaments that allow younger **Magic: The Gathering** players (15 years old and younger… remember the “magical age” from above?) to win some money for college, score some free **Magic** cards, and above all else have a great time and meet new friends. They can even win an invitation to the Junior Super Series Championship. Last year’s JSS Championship had over $100,000 up for grabs in college scholarships. If any younger player reading this needs some justification handy to present to their parents in order to let them participate in these qualifying JSS Challenge events, just show them that comment. Heck, I’ll even list it again for you.
 
-![](https://i.ormos.uk/a6/ae/a6ae524a0000ba867b2e750898458bd69d5580f5a0714d2a2e1b357d78814288.jpg)The JSS Challenges can open up an avenue for a younger **Magic** player to compete in the Junior Super Series Championship where they can have a chance to compete for over $100,000 in college scholarships.
+![](https://i.ormos.uk/a6/ae/a6ae524a0000ba867b2e750898458bd69d5580f5a0714d2a2e1b357d78814288.jpg)
+
+The JSS Challenges can open up an avenue for a younger **Magic** player to compete in the Junior Super Series Championship where they can have a chance to compete for over $100,000 in college scholarships.
 
 Justification for higher level **Magic**, pure and simple.
 

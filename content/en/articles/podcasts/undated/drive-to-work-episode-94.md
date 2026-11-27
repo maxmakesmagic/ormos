@@ -41,4 +41,6 @@ render_recovery: []
 
 In today's first podcast, I continue my series on the history of the Invitational, talking about the ones in Sydney and Capetown won by the two best Magic players in history—Jon Finkel and Kai Budde. 
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

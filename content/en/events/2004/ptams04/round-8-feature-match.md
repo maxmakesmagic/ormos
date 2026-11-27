@@ -267,7 +267,9 @@ Toby Wachter
 
 Round 8- Kai Budde vs. Ben Rubin
 
-![](http://www.wizards.com/sideboard/images/ptams04/fm14_1.jpg)Randy Buehler strolled over as both players were shuffling, and pointed out that Ben was the only American in the feature match area this round.
+![](http://www.wizards.com/sideboard/images/ptams04/fm14_1.jpg)
+
+Randy Buehler strolled over as both players were shuffling, and pointed out that Ben was the only American in the feature match area this round.
 
 Buehler- "Three Scandinavians, Three Mainland Europe, one American."  
  Rubin- "How many Americans are still alive?"  

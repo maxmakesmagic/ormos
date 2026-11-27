@@ -327,7 +327,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptsd04/fm16_1.jpg)At this point in the tournament, Antoine Ruel is the only player without a loss. This is not terribly surprising, seeing as how Ruel has been present at practically every Grand Prix during the *Mirrodin* Block Booster Draft season, and probably knows the format better than just about anyone on the planet. To give you an idea of his schedule, he started with Grand Prix Madrid, came to Japan for Pro Tour Kobe, went to Grand Prix Hong Kong, returned to Japan for Grand Prix Sendai, then went to Grand Prix Birmingham. Along with him on the long trip was his brother Olivier, and Sam Gomersall, who has played well enough so far to be on track for a Top 8 finish. Both are at the first pod on day two, which shows you that practice does account for a lot of success in Magic.
+![](http://www.wizards.com/sideboard/images/ptsd04/fm16_1.jpg)
+
+At this point in the tournament, Antoine Ruel is the only player without a loss. This is not terribly surprising, seeing as how Ruel has been present at practically every Grand Prix during the *Mirrodin* Block Booster Draft season, and probably knows the format better than just about anyone on the planet. To give you an idea of his schedule, he started with Grand Prix Madrid, came to Japan for Pro Tour Kobe, went to Grand Prix Hong Kong, returned to Japan for Grand Prix Sendai, then went to Grand Prix Birmingham. Along with him on the long trip was his brother Olivier, and Sam Gomersall, who has played well enough so far to be on track for a Top 8 finish. Both are at the first pod on day two, which shows you that practice does account for a lot of success in Magic.
 
 **Pod 1**  
  1. Masashi Ooiso  

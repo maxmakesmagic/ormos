@@ -223,7 +223,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/pthou02/a999.jpg)At least two thousand dollars hangs on the outcome of this match. To the winner, a spot on the Masters Series. To the loser, the bitter disappointment of having come so close. David Brucker is no stranger to high-level competition. This year he brawled the European Championships and took the title. Across from him, perhaps subdued by the import of his situation, is nefarious cueball Peter Szigeti.
+![](http://www.wizards.com/sideboard/images/pthou02/a999.jpg)
+
+At least two thousand dollars hangs on the outcome of this match. To the winner, a spot on the Masters Series. To the loser, the bitter disappointment of having come so close. David Brucker is no stranger to high-level competition. This year he brawled the European Championships and took the title. Across from him, perhaps subdued by the import of his situation, is nefarious cueball Peter Szigeti.
 
 It was a slow start from Szigeti, including the always-terrible "No play on turn three". He did have double Cruel Revival, so his hand was not without features. Brucker curved out with a morph and Snarling Undorak. Harsh Mercy removed the face-down creature, but it was replaced with Leery Fogbeast. Cruel Revival took out the Undorak, but Szigeti had to eat some damage first.
 

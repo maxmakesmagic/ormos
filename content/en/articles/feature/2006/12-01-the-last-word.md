@@ -88,7 +88,9 @@ render_recovery:
 ---
 I feel like I’m timeshifted. They brought back Psionic Blast, Akroma, Goblin Snowman, and all those other purple goodies and threw me back into the mix with them. Cards get retired and occasionally recycled, but I thought as my spell-slinging went, I’d been relegated to the big cardboard box in the basement. 
 
-![](https://i.ormos.uk/1d/73/1d737b50e4b09dc862568bd58957537aed2a56ba668e116e3b9c46fd9428c799.jpg)When Scott Johns came to me to see if I’d do one last Wise Words, it seemed like a fun idea. I accepted without much concern over what I’d write, but as the weeks since have passed, I’ve thought more about what one last **Magic: The Gathering** article means for me. This is closure, a feeling of completeness. I never got to say goodbye at the end of my run or thank the readers who supported Wise Words all those years. I’m glad I can now.
+![](https://i.ormos.uk/1d/73/1d737b50e4b09dc862568bd58957537aed2a56ba668e116e3b9c46fd9428c799.jpg)
+
+When Scott Johns came to me to see if I’d do one last Wise Words, it seemed like a fun idea. I accepted without much concern over what I’d write, but as the weeks since have passed, I’ve thought more about what one last **Magic: The Gathering** article means for me. This is closure, a feeling of completeness. I never got to say goodbye at the end of my run or thank the readers who supported Wise Words all those years. I’m glad I can now.
 
 I want to explain why it is I left. **Magic** became more than just a game for me as I became more entrenched in the game’s culture. With my focus on Pro Tours, I found myself building my life around them, forsaking a lot of the little things we should all do to stay happy. It’s not wrong to love something the way I did **Magic** and the Pro Tour, but nothing is healthy when practiced in excess. 
 
@@ -108,7 +110,9 @@ A friend of a friend approached me about starting my [website](https://web.archi
 
 Ignoring professional success, building the website and the company it represents has given me purpose. I have a reason to get out of bed in the morning and to keep hacking at the keyboard late into the night. With the work and some professional assistance has come an emotional stability I’d lacked for a long time. I can literally feel the difference in way I approach the world.
 
-![](https://i.ormos.uk/ad/b8/adb8e06e0e4aebdf2eb9b93d9a3051d0e8c1545d0538429b477622537d894eac.jpg)I’m a different person now than I was in my **Magic** days. I still feel deeply about things, but I don’t react as instinctively. I’ve developed a lot of empathy for people I wouldn’t have had back then and take a more objective, less judgmental viewpoint. This change of perception has given me a new view of this world I used to live in as I sit here at the [World Championships](/en/events/2006/worlds06/mihara-dutch-crowned-world-champions). 
+![](https://i.ormos.uk/ad/b8/adb8e06e0e4aebdf2eb9b93d9a3051d0e8c1545d0538429b477622537d894eac.jpg)
+
+I’m a different person now than I was in my **Magic** days. I still feel deeply about things, but I don’t react as instinctively. I’ve developed a lot of empathy for people I wouldn’t have had back then and take a more objective, less judgmental viewpoint. This change of perception has given me a new view of this world I used to live in as I sit here at the [World Championships](/en/events/2006/worlds06/mihara-dutch-crowned-world-champions). 
 
 What a difference two years makes. I feel old, experienced, removed, appreciated, and respected, and a lot of warmth from a lot of people. The Hall of Fame ceremony was obviously an amazing thing to experience, the old footage and kind words giving me a pride I’ve never felt before. Seeing old friends – a little balder, a little rounder – has reminded me of the good things about this world I’d forgotten in a miserable time. Of course, being treated like royalty hasn’t hurt.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 5e570bb8ca85a29dc71334924881985a1dca3d46064b6930b2ba58f21b3960b9
 render_recovery: []
 ---
-![](https://i.ormos.uk/5e/cb/5ecb2bffafbd6c5c198dce8a3e4f407f7de458ecbe1ccefc2302fb5e2ab766d7.jpg)Although De Rosa is counted as an American player, he certainly has quite a bit of local support. Originally from Palermo, he speaks perfect Italian and is friends with many Italian players, and tests with players from Rome for the Pro Tour. In this draft, De Rosa ended up with a speedy red-black deck, splashing for Psychatog. Fear's deck is a solid blue-white control build. Both players have excellent decks and the winner of this match might very well take the table.
+![](https://i.ormos.uk/5e/cb/5ecb2bffafbd6c5c198dce8a3e4f407f7de458ecbe1ccefc2302fb5e2ab766d7.jpg)
+
+Although De Rosa is counted as an American player, he certainly has quite a bit of local support. Originally from Palermo, he speaks perfect Italian and is friends with many Italian players, and tests with players from Rome for the Pro Tour. In this draft, De Rosa ended up with a speedy red-black deck, splashing for Psychatog. Fear's deck is a solid blue-white control build. Both players have excellent decks and the winner of this match might very well take the table.
 
 ### Game 1
 
@@ -58,7 +60,9 @@ De Rosa opened with Crypt Creeper yet again, but Fear drew creatures this time a
 
 De Rosa attempted to force some damage through. He used Crippling Fatigue to force Fear to bounce his Aven and attacked. On the next turn he did it again, casting yet another Fatigue out of his hand. Fear answered with Shelter, taking no damage that turn. De Rosa recast one of his two Fatigues out of the graveyard and enchanted Crypt Creeper with Strength of Isolation, able to attack for six that turn. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a929.jpg)De Rosa used up his Fatigues to bring Fear down to ten life points (Fear was able to stay at a reasonable life total thanks to an Embolden), but if Fear could keep his Skywind Aven on the table he would stabilize the game. De Rosa was not about to let him do that – he cast Faceless Butcher, forcing Skywind Aven back to hand yet again. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a929.jpg)
+
+De Rosa used up his Fatigues to bring Fear down to ten life points (Fear was able to stay at a reasonable life total thanks to an Embolden), but if Fear could keep his Skywind Aven on the table he would stabilize the game. De Rosa was not about to let him do that – he cast Faceless Butcher, forcing Skywind Aven back to hand yet again. 
 
 Next time, Fear got to keep his Skywing Aven in play. De Rosa had Ghastly Demise in hand, but no cards in his graveyard now that he flashed back both of his Fatigues. With Aven Windreader joining the table Fear stabilized completely, but De Rosa drew and cast Frightcrawler – an eight turn clock – and attacked with him a few times.
 

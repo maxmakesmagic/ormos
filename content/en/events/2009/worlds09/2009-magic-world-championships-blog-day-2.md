@@ -2101,7 +2101,9 @@ Standard
 
     *by Gis Hoogendijk*
 
-![](http://www.wizards.com/sideboard/images/worlds06/Jaap.jpg)Last year Jaap Brouwer [wrote a piece about me](/en/events/2008/worlds08/2008-worlds-feature-welcome-to-level-e) moving from active to Judge Emeritus status, so I guess now it’s my turn. The Dutch Vikings have officially retired.
+![](http://www.wizards.com/sideboard/images/worlds06/Jaap.jpg)
+
+Last year Jaap Brouwer [wrote a piece about me](/en/events/2008/worlds08/2008-worlds-feature-welcome-to-level-e) moving from active to Judge Emeritus status, so I guess now it’s my turn. The Dutch Vikings have officially retired.
 
 The main thing Jaap has brought to the program is professionalism. There are many things he did to improve that trait among judges, but there are three moments that stand out for me.
 
@@ -2335,7 +2337,9 @@ Two more interesting stories heard from the dealers: if you were looking for Dar
 
     *by Tim Willoughby*
 
-![](http://www.wizards.com/mtg/images/daily/events/worlds09/events.jpg)The World Championships here in Rome are pretty exciting. For anyone competing for the title of World Champion, with a hefty cheque and a sweet trophy to go with it, there is little doubt that this is pretty much the pinnacle. If you’re not qualified for the World Championships, though, there is still a whole heap of **Magic** to be played, and I swung by the Public Events station to get a better idea of just how much has been going on already this weekend. 
+![](http://www.wizards.com/mtg/images/daily/events/worlds09/events.jpg)
+
+The World Championships here in Rome are pretty exciting. For anyone competing for the title of World Champion, with a hefty cheque and a sweet trophy to go with it, there is little doubt that this is pretty much the pinnacle. If you’re not qualified for the World Championships, though, there is still a whole heap of **Magic** to be played, and I swung by the Public Events station to get a better idea of just how much has been going on already this weekend. 
 
 Wednesday has been recorded in public events history as “Crazy Day.” This should not be confused with “Crazy Hat Day,” which might very well be used to describe every day of public events at this show. Wednesday was the day where Draft and Constructed events were run at rock bottom prices, to welcome the world to Worlds. Plenty of players in the championships made the most of this, along with many lucky individuals who got to draft with Pros and try out Standard with the best in the world. Over the six hours they were accepting sign-ups, nearly 200 events fired. That is a little more than one every two minutes.
 
@@ -2513,7 +2517,9 @@ Kamiel Cornelissen
  Antoine Ruel  
  Frank Karsten
 
-![](http://www.wizards.com/mtg/images/daily/events/worlds09/kamiel.jpg)At the close of Thursday, it was Raphael Levy leading the pack. How did he fare on Friday? Not too bad, actually. He had slipped to second place among the Hall of Famers, but was in a respectable 105th with a record of 7-5. The player who had surpassed him was the freshly inducted Dutchman Kamiel Cornelissen. He was in 56th at 8-4, still in contention for the Top 8—though he’d need to finish the weekend undefeated to have a shot.
+![](http://www.wizards.com/mtg/images/daily/events/worlds09/kamiel.jpg)
+
+At the close of Thursday, it was Raphael Levy leading the pack. How did he fare on Friday? Not too bad, actually. He had slipped to second place among the Hall of Famers, but was in a respectable 105th with a record of 7-5. The player who had surpassed him was the freshly inducted Dutchman Kamiel Cornelissen. He was in 56th at 8-4, still in contention for the Top 8—though he’d need to finish the weekend undefeated to have a shot.
 
 Two other players found themselves ranked in the single hundreds: Olivier Ruel in 139th and Frank Karsten in 184th. Ruel had managed a 7-5 performance while Karsten was a loss further behind, batting .500 at 6-6. In the bottom half of the bracket were the Americans, Ben Rubin and Rob Dougherty. They were in 261st and 267th respectively, having accrued 15 Swiss points.
 

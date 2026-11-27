@@ -44,7 +44,9 @@ archive_source:
   sha256: a61dd408c8c67a4c6d8768828c5f19a1ad519b1d73c0095ecaae2db2bb5e9b9d
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r5fm2_1.jpg)There was a long wait before the start of the match that allowed the players to wish each other good luck about three times.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r5fm2_1.jpg)
+
+There was a long wait before the start of the match that allowed the players to wish each other good luck about three times.
 
 ### Game 1
 

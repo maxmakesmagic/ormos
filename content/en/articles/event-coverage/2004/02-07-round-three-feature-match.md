@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![Suave. Debonair. Pustilnik.](https://i.ormos.uk/fb/67/fb67927ca6e2f02cf134c260c6f419149344590cbf9957ffd6a47fc9cd849082.jpg)A spectator may have dubbed this "\[The\] battle of the remaining nice guys on the tour," as these competitors prepared to duke it out in Round Three, but the moniker is not quite accurate. While both players are indeed among the nicest guys in the game neither of them were qualified for any upcoming Pro Tours.
+![Suave. Debonair. Pustilnik.](https://i.ormos.uk/fb/67/fb67927ca6e2f02cf134c260c6f419149344590cbf9957ffd6a47fc9cd849082.jpg)
+
+A spectator may have dubbed this "\[The\] battle of the remaining nice guys on the tour," as these competitors prepared to duke it out in Round Three, but the moniker is not quite accurate. While both players are indeed among the nicest guys in the game neither of them were qualified for any upcoming Pro Tours.
 
 There was recently a raging debate in the Star City Forums about the self proclaimed King of Beatdown Jason Opalka and whether he or Mike Flores was the originator of the term mise. While everyone seemed to agree that Mike popularized the term, players old enough to remember that far back all seem to agree that Jason was the original miser.
 

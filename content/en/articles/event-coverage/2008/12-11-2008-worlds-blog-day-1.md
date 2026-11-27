@@ -199,7 +199,9 @@ All four are grinning at this grisly tale of probability gone awry. How many boo
 
 Raphael Levy got players to storm Pro Tour–Berlin in style, organizing an entire day for the pros to show up wearing their dress finest. The stunt was called “Suit Up in Berlin,” but a different formal dress style caught the eye of the coverage staff this weekend.
 
-![](https://i.ormos.uk/e9/40/e940bf6bd6901d4a0a57b43ea63eb97c7c1ad6c2d62e9ae344d9e32f7ca9607c.jpg)Daniel Rowland is a United States Marine Corps Sergeant based out of Jacksonville, North Carolina. He came to Worlds this weekend in Marine Corps brown, ready to take on all comers in the world of **Magic: The Gathering**. From his rank insignia down to his dress shoes polished so bright you can see your reflection in them, Daniel cut a sharp contrast to many of his fellow competitors. “I wanted to dress up, but I didn’t have a suit-coat,” he explained laughing. “So ... it was wear this or my **Magic** hoodie.”
+![](https://i.ormos.uk/e9/40/e940bf6bd6901d4a0a57b43ea63eb97c7c1ad6c2d62e9ae344d9e32f7ca9607c.jpg)
+
+Daniel Rowland is a United States Marine Corps Sergeant based out of Jacksonville, North Carolina. He came to Worlds this weekend in Marine Corps brown, ready to take on all comers in the world of **Magic: The Gathering**. From his rank insignia down to his dress shoes polished so bright you can see your reflection in them, Daniel cut a sharp contrast to many of his fellow competitors. “I wanted to dress up, but I didn’t have a suit-coat,” he explained laughing. “So ... it was wear this or my **Magic** hoodie.”
 
 Rowland has been stationed in places as diverse as Korea and Iraq, but demurred when asked how long he’s been playing. “I started playing about 8 years ago,” he said. “But I guess I only started playing competitively a year ago.”
 

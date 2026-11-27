@@ -705,7 +705,9 @@ Have at it … I will be bringing the cards with me to Toronto and will see if I
 
 ### On the 60-Card Front
 
-[![](https://i.ormos.uk/57/ed/57ed31aedd3f393ece8f03f35471b6dbc539ba75b2956eeb5f4271243d094ede.jpg)](/en/articles/event-coverage/undated/2006-regionals-2)Mike Flores started looking at the North American Regionals results in [this week's column](https://web.archive.org/web/20060602000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mf96). If you haven't checked out the wealth of information available on the [Regionals Top 8 Decklists page](/en/articles/event-coverage/undated/2006-regionals-2), you either don't care about Constructed or were overwhelmed by the sheer number of decklists that lay just one mouse-click away…
+[![](https://i.ormos.uk/57/ed/57ed31aedd3f393ece8f03f35471b6dbc539ba75b2956eeb5f4271243d094ede.jpg)](/en/articles/event-coverage/undated/2006-regionals-2)
+
+Mike Flores started looking at the North American Regionals results in [this week's column](https://web.archive.org/web/20060602000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mf96). If you haven't checked out the wealth of information available on the [Regionals Top 8 Decklists page](/en/articles/event-coverage/undated/2006-regionals-2), you either don't care about Constructed or were overwhelmed by the sheer number of decklists that lay just one mouse-click away…
 
 Japanese Regionals got under way this past weekend with a tournament in Hiroshima which qualified three players from that countryside region. Unlike the tournaments in North America, there is no monolithic weekend of Regionals in Japan. Events occur week by week and Mike and I will do our best to relay the results to you as they happen. Or if you can read Japanese, follow along by [clicking here](http://mtg.takaratomy.co.jp/event/regionals/2006/road/index.html). Here's a look at the dates and locations:
 

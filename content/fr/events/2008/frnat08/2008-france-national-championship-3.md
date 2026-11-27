@@ -1211,7 +1211,9 @@ C’est maintenant que la partie se joue, Arnaud refléchit un bon moment, cette
 
     *by Event Coverage Staff*
 
-![](http://www.wizards.com/sideboard/images/frnat08/Deck-Tech-Remi-Fortier.jpg)Rémi Fortier sortant vainqueur de son *feature match* de la ronde 11, nous lui avons demandé de nous expliquer son *deck*, mono-rouge, le plus joué du tournoi puisque choisi par plus d’un joueur sur quatre.
+![](http://www.wizards.com/sideboard/images/frnat08/Deck-Tech-Remi-Fortier.jpg)
+
+Rémi Fortier sortant vainqueur de son *feature match* de la ronde 11, nous lui avons demandé de nous expliquer son *deck*, mono-rouge, le plus joué du tournoi puisque choisi par plus d’un joueur sur quatre.
 
 Mono-rouge est un *deck* historiquement célèbre, un porte-étendard de l’archétype *aggro*. La version 2008 est cependant spéciale : en effet, contrairement aux déclinaisons précédentes, celle-ci joue un grand nombre de terrains (24) et des créatures chères (culminant à cinq manas pour le Demigod of Revenge, la carte clef du *deck* selon Rémi.)
 
@@ -1229,7 +1231,9 @@ La bête noire de Mono Rouge ? Le jeu Reveillark, car Mono-Rouge ne crée que tr
 
     *by Event Coverage Staff*
 
-![](http://www.wizards.com/sideboard/images/frnat08/Side-Events.jpg)Tandis que la dernière ronde avant le top 8 démarre dans le tournoi principal, nous en profitons pour jeter un dernier coup d’œil sur les tournois secondaires.
+![](http://www.wizards.com/sideboard/images/frnat08/Side-Events.jpg)
+
+Tandis que la dernière ronde avant le top 8 démarre dans le tournoi principal, nous en profitons pour jeter un dernier coup d’œil sur les tournois secondaires.
 
 Un second tournoi qualificatif pour le Pro Tour Berlin a rassemblé 144 joueurs, tandis que l’affluence fut bien plus importante que prévue pour le Grand Prix Paris, obligeant à organiser deux sous-tournois afin de décrocher les 4 lots de 3 byes mis en jeu.
 

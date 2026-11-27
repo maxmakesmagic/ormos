@@ -46,13 +46,17 @@ render_recovery: []
 ---
 *By Ben Ronaldson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/378.JPG)This match-up is heavily in favor of the Frenchman's Replenish deck, the four Frantic searches in the main and Chill in the sideboard being a veritable problem for the ports and 3 and 4 casting cost spells respectively. The 2 Daze also turned out to be match savers. Johan has 2 Boil and 2 Flashfires which might prove useful, and 2 Scald which aren't actually that great because burning will not be as large an issue as early land destruction.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/378.JPG)
+
+This match-up is heavily in favor of the Frenchman's Replenish deck, the four Frantic searches in the main and Chill in the sideboard being a veritable problem for the ports and 3 and 4 casting cost spells respectively. The 2 Daze also turned out to be match savers. Johan has 2 Boil and 2 Flashfires which might prove useful, and 2 Scald which aren't actually that great because burning will not be as large an issue as early land destruction.
 
 ### Game 1
 
 Things even started off badly for Franzén when his 10 on a d10 was matched to determine who starts (very important for the red deck to win this). He then lost the re-roll and proceeded to mulligan down to six after Levy had elected to play first, sticking with his second hand which contained no colored mana sources.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/377.JPG)Raphael, having kept quite a nice 3 land hand, lays an Island, then a Port on his second turn and ports Johan's Dust Bowl in his upkeep, who lays a second Dust Bowl with Port in hand. No turn 3 Attunement for Levy, so he ports a Dust Bowl in his opponent's turn and Enlightened Tutors for one after the Swede lays his own Port. Despite having a land tapped in his upkeep he drops his fourth and lays the Attunement. In desperation Johan Dust Bowls a Port in his main phase. Raphael then Attunes in his turn and bins 2 Waves, a Seal of Cleansing and a Wrath of God, lays another land and relays the Attunement having chosen not to cast Replenish yet. All Johan can do is lay a second Port and say go. Knowing that he cannot play Replenish without a Frantic, Raph still Tutors for an Opalescence and attempts to float mana in his upkeep in the hope that he will Attune into the Search - this fails so he burns for 1, but manages to bin the Opalescence, Wave and Attunement (he also has to discard a Replenish - keeping one in hand). The Attunement is replayed and a fifth land is dropped.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/377.JPG)
+
+Raphael, having kept quite a nice 3 land hand, lays an Island, then a Port on his second turn and ports Johan's Dust Bowl in his upkeep, who lays a second Dust Bowl with Port in hand. No turn 3 Attunement for Levy, so he ports a Dust Bowl in his opponent's turn and Enlightened Tutors for one after the Swede lays his own Port. Despite having a land tapped in his upkeep he drops his fourth and lays the Attunement. In desperation Johan Dust Bowls a Port in his main phase. Raphael then Attunes in his turn and bins 2 Waves, a Seal of Cleansing and a Wrath of God, lays another land and relays the Attunement having chosen not to cast Replenish yet. All Johan can do is lay a second Port and say go. Knowing that he cannot play Replenish without a Frantic, Raph still Tutors for an Opalescence and attempts to float mana in his upkeep in the hope that he will Attune into the Search - this fails so he burns for 1, but manages to bin the Opalescence, Wave and Attunement (he also has to discard a Replenish - keeping one in hand). The Attunement is replayed and a fifth land is dropped.
 
 In his next turn his opponent still only has two Ports to disrupt him, but Raphael has five land. This time he does draw a Frantic off the Attunement, the Replenish is played and a Plethora of mean things hit the table, most importantly - 3 Waves!
 
@@ -86,7 +90,9 @@ Raphael decides to side out Lilting Refrain and sides back in a removed Seal of 
 
 Levy mulligans a 7 non-land hand and keeps a reasonably weak, but 3 land, 6 cards. Mountain - Seal of Fire...Island...Mountain...Island...Mountain - Stone Rain - is Counterspelled ( Raphael had a choice of Daze or Counterspell and wisely chose the latter). Port - Attunement... Mountain - BOIL - Daze. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/376.JPG)So, having survived the first onslaught from the Ponza deck, Levy then made an uncharacteristic play mistake by laying a Plains before Attuning (there is no reason to not see what you draw first - for example a Counterspell would have been frustrating), but nothing relevant is drawn, so he has to put 2 Islands, a Tide and an Adarkar Wastes in the graveyard. He then relays the Attunement. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/376.JPG)
+
+So, having survived the first onslaught from the Ponza deck, Levy then made an uncharacteristic play mistake by laying a Plains before Attuning (there is no reason to not see what you draw first - for example a Counterspell would have been frustrating), but nothing relevant is drawn, so he has to put 2 Islands, a Tide and an Adarkar Wastes in the graveyard. He then relays the Attunement. 
 
 Feeling the door closing, Johan makes a Lightning Dragon. 
 

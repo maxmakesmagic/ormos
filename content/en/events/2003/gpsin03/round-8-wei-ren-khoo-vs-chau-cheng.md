@@ -83,7 +83,9 @@ render_recovery:
   - Charging Slateback
   occurrences: 32
 ---
-![](http://www.wizards.com/sideboard/images/gpsin03/a962.jpg)With their first draft decks finally built, Wei Ren Khoo and Chau Cheng prepare for their opening match of the day. Chau is running a R/W build with 4 Daunting Defenders and goblin backup, while Khoo has a heavily-costed beast deck in R/G.
+![](http://www.wizards.com/sideboard/images/gpsin03/a962.jpg)
+
+With their first draft decks finally built, Wei Ren Khoo and Chau Cheng prepare for their opening match of the day. Chau is running a R/W build with 4 Daunting Defenders and goblin backup, while Khoo has a heavily-costed beast deck in R/G.
 
 ### Game 1
 
@@ -109,7 +111,9 @@ Khoo – 1, Chau – 1.
 
 ### Game 3
 
-![](https://i.ormos.uk/f9/03/f903acaa2c1b62efc6c0a36bd3b3663c41cf58432c83a6a51aff9a1ba36ddbd5.jpg)Mulliganing is always bad, but is really bad when you have such a high number of high-casting-cost creatures in your deck. Khoo kept his second draw which seemed fine, and removed Chau's first threat, a Flamestick Courier with an Erratic Explosion (Wave).
+![](https://i.ormos.uk/f9/03/f903acaa2c1b62efc6c0a36bd3b3663c41cf58432c83a6a51aff9a1ba36ddbd5.jpg)
+
+Mulliganing is always bad, but is really bad when you have such a high number of high-casting-cost creatures in your deck. Khoo kept his second draw which seemed fine, and removed Chau's first threat, a Flamestick Courier with an Erratic Explosion (Wave).
 
 Not the start Wei Ren was after however, with his own first drop being a Leery Fogbeast, he did what he could - quickly outnumbering his opponent placing morph after morph on the table, Chau seemed to have trouble finding creatures with a solitary Daunting Defender hold off the army - in a land of 2/2's, the 3/3 is king. The Gratuitous Violence returned from game #1 on turn #6 but no turn 7 drop meant that Chau probably was mana flooded to say the least. Dropping one last morph, Khoo seemed happy to start the rush next turn commenting that he didn't think his opponent had a Starstorm – only to see his army, and the match fall away from him with a hard cast Slice and Dice.
 

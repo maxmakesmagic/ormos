@@ -191,7 +191,9 @@ render_recovery:
 
 　これを傍観するわけにもいかず、森田は急いで《機械仕掛けのコンドル/Clockwork Condor》と《厳粛な空護り/Somber Hoverguard》をブロッカーに。
 
-![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm5a_pic1_ja.jpg)　だが中村もこれに対して《ルーメングリッドの歩哨》を出し、彼の能力を起動すべく、《レオニンの陽準器/Leonin Sun Standard》で《機械仕掛けのコンドル》をタップさせて、森田のライフを削りにかかる。
+![](http://www.wizards.com/global/images/sideboard_gpshi03ja_fm5a_pic1_ja.jpg)
+
+　だが中村もこれに対して《ルーメングリッドの歩哨》を出し、彼の能力を起動すべく、《レオニンの陽準器/Leonin Sun Standard》で《機械仕掛けのコンドル》をタップさせて、森田のライフを削りにかかる。
 
 　さあどうするか。
 

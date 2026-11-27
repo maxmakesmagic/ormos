@@ -44,7 +44,9 @@ archive_source:
   sha256: 5686e7d2e9e42af14f1207b4a5a00580c7cdc83303971c5c13ee1ff9675b93b7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/dr3_1.jpg)These two are among the most experienced teams at the tournament. Recent PT Amsterdam winner Nicolai Herzog has teamed with fellow PT Amsterdam Top 8er Anton Jonsson and Pro Tour mainstay Tuomo Nieminen. On the other side of the table is PT New Orleans Top 8 player Hans Joachim Hoeh, world champion Daniel Zink and Daniel Mueller.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/dr3_1.jpg)
+
+These two are among the most experienced teams at the tournament. Recent PT Amsterdam winner Nicolai Herzog has teamed with fellow PT Amsterdam Top 8er Anton Jonsson and Pro Tour mainstay Tuomo Nieminen. On the other side of the table is PT New Orleans Top 8 player Hans Joachim Hoeh, world champion Daniel Zink and Daniel Mueller.
 
 The Nordic team kicked off the draft with a pretty strong booster, Anton picking [Viridian Longbow](https://web.archive.org/web/20040418000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Longbow), and Tuomo getting a [Spikeshot Goblin](https://web.archive.org/web/20040418000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin). Hoeh chose Chosen, showing a preference for green in the A seat. Zink got a [Pewter Golem](https://web.archive.org/web/20040418000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pewter+Golem), and Mueller got a [Granite Shard](https://web.archive.org/web/20040418000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Granite+Shard). Nicolai got a great wheel in Thirst For Knowledge and [Consume Spirit](https://web.archive.org/web/20040418000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Consume+Spirit), moving directly into heavy black. 
 

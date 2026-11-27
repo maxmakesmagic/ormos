@@ -889,7 +889,9 @@ render_recovery:
 ---
 * * *
 
-![Goldmeadow_Dodger](https://i.ormos.uk/33/25/3325bf7de456cee1cd336a191906d1481a77014c9281e9086c3aa56f9c812c2f.jpg)Welcome to Kithkin Week! *Lorwyn*'s primary white tribe, the Kithkin, are perhaps the weeniest of all white weenies. Certainly weenier than Samurai. However, what they lack in stature, they more than make up for in smallness. They are elusive little creatures that work well as a team, which would make them very good at dodgeball if only that sport existed in their world. I bet they could be a Goldmeadow Winner. At the very least, these little rascals are slippery enough to keep out of the road of giants, and they don't even have to drink stink to do it.
+![Goldmeadow_Dodger](https://i.ormos.uk/33/25/3325bf7de456cee1cd336a191906d1481a77014c9281e9086c3aa56f9c812c2f.jpg)
+
+Welcome to Kithkin Week! *Lorwyn*'s primary white tribe, the Kithkin, are perhaps the weeniest of all white weenies. Certainly weenier than Samurai. However, what they lack in stature, they more than make up for in smallness. They are elusive little creatures that work well as a team, which would make them very good at dodgeball if only that sport existed in their world. I bet they could be a Goldmeadow Winner. At the very least, these little rascals are slippery enough to keep out of the road of giants, and they don't even have to drink stink to do it.
 
 We all know that they're valiant, cooperative, and superstitious, but what are the Kithkin anyway? Are they just dwarves with a no-facial-hair policy, like the New York Yankees? Are they really three apples tall, as some reports suggest? And if they're here, who's representing the Lullaby League? I might want answers!
 

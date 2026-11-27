@@ -900,7 +900,9 @@ All this was fine and groovy, but big pappa Bleiweiss wanted more. More explosio
 
 Undying Flames solved one of the problems of Erratic Explosion – once you deal your damage, how do you kill your opponent? Simple – by copying Undying Flames every turn for the rest of the game! I wanted something really big to throw at my opponent. No, bigger than that. Seriously, I needed a huge monster to throw across the table, one that would make my foe fall from their chair and crash to the floor.
 
-![](https://i.ormos.uk/72/41/724123e7f5eaef96bfb90930ded4e12af8167890f42440e7afe38cf3dc343c82.jpg)Undying Flames, meet Autochthon Wurm. Autochthon Wurm, meet Undying Flames.
+![](https://i.ormos.uk/72/41/724123e7f5eaef96bfb90930ded4e12af8167890f42440e7afe38cf3dc343c82.jpg)
+
+Undying Flames, meet Autochthon Wurm. Autochthon Wurm, meet Undying Flames.
 
 I spent all day scheming about this deck, with visions of fifteen to the dome dancing in my head. What else would work well in the deck? Well, Sensei's Divining Top was a must, since I'd want to set up my draws after I cast Undying Flames. Remember, even though you can't cast any other spells for the remainder of the game after you cast an Epic spell, you can still use effects. I also wanted Stinkweed Imp – it is early defense, and a way to dredge past undesired cards from the top. Black would also give me access to reanimation spells – Zombify and Vigor Mortis to be exact! Man oh man, this was getting better and better. Not only could I fling for fifteen, I could also come across the red zone with a 9/14 trampler!
 
@@ -1135,7 +1137,9 @@ I certainly did not expect to lose to being decked by myself, but Undying Flames
 
 **Game #17: MyEvilSide (W/G Weenie, Best 2 out of 3)**
 
-![](https://i.ormos.uk/78/9a/789ab9371bb576e24f9ce1e0cd620ce2e5842784c9b80f9bb3264b9353ff3690.jpg)In the first game of this three-game set, he leads with Isamaru, follows it with double Savannah Lions, and then puts a Moldervine Cloak on a Lion, swinging in for nine on turn 3. I die the following turn.
+![](https://i.ormos.uk/78/9a/789ab9371bb576e24f9ce1e0cd620ce2e5842784c9b80f9bb3264b9353ff3690.jpg)
+
+In the first game of this three-game set, he leads with Isamaru, follows it with double Savannah Lions, and then puts a Moldervine Cloak on a Lion, swinging in for nine on turn 3. I die the following turn.
 
 In the second game, I reanimate a fourth-turn Colossus, and then use it to control the pace of the game – even though he gets a 9/9 double-Cloaked Watchwolf into play thanks to Faith's Fetters on my Colossus, I am able to block it with Thought Courier until I get my combo set up – and end up hitting him with double Autochthon Wurm for the win. In the third game, he keeps a risky one-land hand, and ends up not drawing a second land until turn 4. This gives me plenty of time to shoot the moon with Autochthon Wurm.
 

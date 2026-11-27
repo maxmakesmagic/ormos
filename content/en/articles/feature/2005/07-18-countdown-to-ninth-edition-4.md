@@ -263,29 +263,41 @@ And now the final batch of art before we reveal the full spoiler next Monday!
 
 * * *
 
-![Ninth Edition card image](https://i.ormos.uk/ca/f9/caf9bb1c8f3b1c6849b161c345eb8ee45e15142c29d1a580e4e8afb36ce73ce8.jpg)Making its first appearance in a core set, Seedborn Muse from *Legions* is one of the most popular multi-player cards of all time. Sure to get plenty of play in both paper and digital form, thanks to that creature type the denizens of Kamigawa may teach this old spirit some new tricks. 
+![Ninth Edition card image](https://i.ormos.uk/ca/f9/caf9bb1c8f3b1c6849b161c345eb8ee45e15142c29d1a580e4e8afb36ce73ce8.jpg)
+
+Making its first appearance in a core set, Seedborn Muse from *Legions* is one of the most popular multi-player cards of all time. Sure to get plenty of play in both paper and digital form, thanks to that creature type the denizens of Kamigawa may teach this old spirit some new tricks. 
 
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/62/04/62045ed27379e18f106e18962131c6f6a4b44811a9c9acf84d591ec67b967d2e.jpg)And that's not the only popular card joining *Ninth Edition* that can be quite difficult to get on **Magic***Online*. Welcome back Traumatize!
+![Ninth Edition card image](https://i.ormos.uk/62/04/62045ed27379e18f106e18962131c6f6a4b44811a9c9acf84d591ec67b967d2e.jpg)
+
+And that's not the only popular card joining *Ninth Edition* that can be quite difficult to get on **Magic***Online*. Welcome back Traumatize!
 
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/e1/a1/e1a178a5d94ebbe0574bbf27dcbebe9e98a87d119aa9a5ee7104f7aad55f1f4a.jpg)One of the game's iconic creatures from **Magic**'s early days, Sengir Vampire is back in the core set and surely looking to settle some old scores with headline-stealer Serra Angel. And, just like the days of '95 and '96, he'll have his partner in crime Hypnotic Specter along for backup. 
+![Ninth Edition card image](https://i.ormos.uk/e1/a1/e1a178a5d94ebbe0574bbf27dcbebe9e98a87d119aa9a5ee7104f7aad55f1f4a.jpg)
+
+One of the game's iconic creatures from **Magic**'s early days, Sengir Vampire is back in the core set and surely looking to settle some old scores with headline-stealer Serra Angel. And, just like the days of '95 and '96, he'll have his partner in crime Hypnotic Specter along for backup. 
 
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/1e/9e/1e9ed058e92b5fa96baba9d049c604f9057a4902038cd1d661ae00eecd39c7a1.jpg)Given how popular (and powerful) Concentrate was, it seems likely this little gem from *Starter 1999* isn't going to have any trouble finding employment.
+![Ninth Edition card image](https://i.ormos.uk/1e/9e/1e9ed058e92b5fa96baba9d049c604f9057a4902038cd1d661ae00eecd39c7a1.jpg)
+
+Given how popular (and powerful) Concentrate was, it seems likely this little gem from *Starter 1999* isn't going to have any trouble finding employment.
 
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/68/ef/68efa2107f1f52156254017ccd7e175055b4e2824923e65e42e4ef396061a5e6.jpg)Another popular card, this powerful sweeper has shown up in many different tournament decks.
+![Ninth Edition card image](https://i.ormos.uk/68/ef/68efa2107f1f52156254017ccd7e175055b4e2824923e65e42e4ef396061a5e6.jpg)
+
+Another popular card, this powerful sweeper has shown up in many different tournament decks.
 
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/00/a6/00a6255185e19b53c448d09cd0ed6068459cb908840ef1c8892b3f6b899af2b4.jpg)There are an awful lot of popular cards joining the show with *Ninth Edition*, but this is one of the most popular of all time. Loved by Johhnies, Timmies, and Spikes alike, Verdant Force has been called by many the single best fatty ever printed.
+![Ninth Edition card image](https://i.ormos.uk/00/a6/00a6255185e19b53c448d09cd0ed6068459cb908840ef1c8892b3f6b899af2b4.jpg)
+
+There are an awful lot of popular cards joining the show with *Ninth Edition*, but this is one of the most popular of all time. Loved by Johhnies, Timmies, and Spikes alike, Verdant Force has been called by many the single best fatty ever printed.

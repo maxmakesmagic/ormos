@@ -86,7 +86,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/pthou02/a456.jpg)Kyle wins the flip and starts off with a mulligan. His first land of the game is a Polluted Delta, meaning he's either with Psychatog or with one of the Black-Blue reanimator decks. Rob's Duress reveals that Kyle is with Pyschatog. Kyle takes out an Intuition, leaving a Psychatog and an Engineered Plague. Kyle fetches an Island and plays another one. Rob plays another Duress taking the Plague, and then casts Cabal Therapy, which draws an "Oh great" from Kyle.
+![](http://www.wizards.com/sideboard/images/pthou02/a456.jpg)
+
+Kyle wins the flip and starts off with a mulligan. His first land of the game is a Polluted Delta, meaning he's either with Psychatog or with one of the Black-Blue reanimator decks. Rob's Duress reveals that Kyle is with Pyschatog. Kyle takes out an Intuition, leaving a Psychatog and an Engineered Plague. Kyle fetches an Island and plays another one. Rob plays another Duress taking the Plague, and then casts Cabal Therapy, which draws an "Oh great" from Kyle.
 
 However, Rob targets himself and discards a Phantom Nishoba. Kyle plays another Polluted Delta next turn, and Rob plays a City of Traitors, and then Exhumes. That gets Mana Leaked but Rob had another one so the Nish got to beat soon. Kyle's turn four play was a Wonder, and his fifth turn had the Psychatog. Those however were the last spells he would cast this game as the Nishoba did him in.
 
@@ -94,7 +96,9 @@ However, Rob targets himself and discards a Phantom Nishoba. Kyle plays another 
 
 Kyle plays an Island this time around, and again gets Duressed by Rob the next turn. This time however, things don't look as good as they did last time. Having to choose between Accumulated Knowledge, Intuition, Fact or Fiction and Counterspell along with some land Rob comments "That's a good hand". Kyle just replied, "That depends on how fast your hand is". The Counterspell hits the yard.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a458.jpg)On Rob's next turn another Duress hits Kyle, this time taking the Intuition. Kyle 'cycles' his Knowledge, plays a land and says go. Rob Entombs a Petradon, Tutors during his upkeep, plays a City of Traitors and Exhumes it. That however gets Mana Leaked. Rob's next turn goes without any action spells whatsoever. That gives Kyle the opportunity to cast that Fact or Fiction he's been holding and he's presented with the choice between Swamp, Diabolic Edict and Polluted Delta or Mana Leak and Accumulated Knowledge. He takes the latter, and then game enters Draw, Land, Go mode.
+![](http://www.wizards.com/sideboard/images/pthou02/a458.jpg)
+
+On Rob's next turn another Duress hits Kyle, this time taking the Intuition. Kyle 'cycles' his Knowledge, plays a land and says go. Rob Entombs a Petradon, Tutors during his upkeep, plays a City of Traitors and Exhumes it. That however gets Mana Leaked. Rob's next turn goes without any action spells whatsoever. That gives Kyle the opportunity to cast that Fact or Fiction he's been holding and he's presented with the choice between Swamp, Diabolic Edict and Polluted Delta or Mana Leak and Accumulated Knowledge. He takes the latter, and then game enters Draw, Land, Go mode.
 
 At 7 mana Rob casts an Urborg Shambler which gets countered, Kyle then gushes and drops a Psychatog and comes in for lethal damage next turn.
 
@@ -102,7 +106,9 @@ At 7 mana Rob casts an Urborg Shambler which gets countered, Kyle then gushes an
 
 Rob got to go first again this game, a huge advantage in this extended format. He doesn't have the Duress this time around, instead he Entombs at the end of Kyle's turn. It gets Force Spiked though. Rob gets even with a Duress taking an Accumulated Knowledge.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a457.jpg)That left a Psychatog and a Wonder in Kyle's hand along with some land, so he looked like he was in great shape. Land, go is Kyle's next turn, and Rob Tutors, plays a City of Traitors and drops a Stronghold Taskmaster. Kyle doesn't play the Atog next turn and takes 4 from the Taskmaster. The Atog does hit play the next turn, but it gets Butchered and the Taskmaster comes in for more.
+![](http://www.wizards.com/sideboard/images/pthou02/a457.jpg)
+
+That left a Psychatog and a Wonder in Kyle's hand along with some land, so he looked like he was in great shape. Land, go is Kyle's next turn, and Rob Tutors, plays a City of Traitors and drops a Stronghold Taskmaster. Kyle doesn't play the Atog next turn and takes 4 from the Taskmaster. The Atog does hit play the next turn, but it gets Butchered and the Taskmaster comes in for more.
 
 Kyle Treacheries the Taskmaster, Duresses Rob taking a Reanimate but he sees another Faceless Butcher. That Butcher came down next turn and freed the Taskmaster from Kyle's control. The other Butcher took Kyle down to 10. Kyle could only play a wonder next turn and didn't draw another good spell for the rest of the game. We all know what happens when 2 2/3's beat up one someone with a 2/2.
 

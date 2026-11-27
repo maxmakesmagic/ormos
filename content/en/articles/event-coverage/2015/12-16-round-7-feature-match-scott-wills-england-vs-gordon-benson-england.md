@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Craig Jones* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/129.jpg)Crunch time as Round 7 and the cut off point approaches. This time a feature match between two respected UK players. Scott Wills has been on the national team twice and at Worlds this year was the Standard champion with a 6-0 record on day 1. Gordon Benson is well known around the UK circuit and has a top 8 appearance in GP Barcelona to his credit. Both used to be on the same team (Spike) but now only the winner can make the second day. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/129.jpg)
+
+Crunch time as Round 7 and the cut off point approaches. This time a feature match between two respected UK players. Scott Wills has been on the national team twice and at Worlds this year was the Standard champion with a 6-0 record on day 1. Gordon Benson is well known around the UK circuit and has a top 8 appearance in GP Barcelona to his credit. Both used to be on the same team (Spike) but now only the winner can make the second day. 
 
 Wills won the dice roll and elected to play first, an untypical choice for today's tournament but one that fitted his equally untypical 2 colour aggressive Black/Red beatdown deck. Benson was playing Black/Blue/White. Wills stuck at 3 land and played an urborg skeleton without kicker. Benson meanwhile did nothing until he laid a phyrexian reaper. He followed with an ordered migration to put 3 birds on the table. Wills reached 4 land and started to lay various red kavu. Benson then decided to be a little reckless and spited two of the kavu and as Wills couldn't find a 6th land he had no way of dealing with the fliers. 
 

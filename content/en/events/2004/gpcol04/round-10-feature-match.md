@@ -735,7 +735,9 @@ render_recovery:
 ---
 ### Ben Rubin vs. Nathan Heiss
 
-![](http://www.wizards.com/sideboard/images/gpcol04/fm8_1.jpg)Yesterday we had a pair of feature matches in which the engaged Patrick Sullivan and Kate Stavola played their games side by side. Today we had a pair of cousins. People have been calling this tournament the farewell concert for CMU. Eugene Harvey is moving from Pittsburgh back to Jersey. Mike Turian is moving to Seattle--and retiring from the game. They were playing each other one table away from this round's match with Nate Heiss sitting next to his gregarious cousin Mike. Nate made the finals of Grand Prix Kansas City and is well known as a columnist on Star City and this very site.
+![](http://www.wizards.com/sideboard/images/gpcol04/fm8_1.jpg)
+
+Yesterday we had a pair of feature matches in which the engaged Patrick Sullivan and Kate Stavola played their games side by side. Today we had a pair of cousins. People have been calling this tournament the farewell concert for CMU. Eugene Harvey is moving from Pittsburgh back to Jersey. Mike Turian is moving to Seattle--and retiring from the game. They were playing each other one table away from this round's match with Nate Heiss sitting next to his gregarious cousin Mike. Nate made the finals of Grand Prix Kansas City and is well known as a columnist on Star City and this very site.
 
 His opponent was an infrequent contributor to the Magic websites with as impressive a Pro Tour résumé as you can find. Ben Rubin is a former US National Champion, World Champion, Pro Tour winner, and most recently Grand Prix Anaheim winner. With yet another Day Two performance and trips around the world to Amsterdam and Kobe the story of Ben Rubin as casual Magic player was wearing a little thin
 

@@ -147,7 +147,9 @@ It is an ongoing battle between us where I try to get him to crack that stoic ex
 
 ### Last Chance to Vote
 
-[![](https://i.ormos.uk/31/c3/31c3c3388a6a8695601cea3ad7567d86e29acd107410b38acae01179df28bcd8.jpg)](https://web.archive.org/web/20050325000000/https://magic.wizards.com/en/node/579571)There were a couple of rare treats this past week as Eric “Danger” Taylor attempted to get out the vote for the Road Warrior category by writing a pair of articles for the two major independent websites. The first was a community-driven piece where Eric talked about the meaningfulness of playing in the Invitational. The second was an addition to the impressive body of **Magic** theory articles that EDT has all too rarely added to in recent memory. 
+[![](https://i.ormos.uk/31/c3/31c3c3388a6a8695601cea3ad7567d86e29acd107410b38acae01179df28bcd8.jpg)](https://web.archive.org/web/20050325000000/https://magic.wizards.com/en/node/579571)
+
+There were a couple of rare treats this past week as Eric “Danger” Taylor attempted to get out the vote for the Road Warrior category by writing a pair of articles for the two major independent websites. The first was a community-driven piece where Eric talked about the meaningfulness of playing in the Invitational. The second was an addition to the impressive body of **Magic** theory articles that EDT has all too rarely added to in recent memory. 
 
 But in the end Olivier Ruel took the invite, leaving only two more slots for open to public vote. This week you have two votes to cast for Fan Favorite from a ballot of almost 40 candidates. Almost everyone who has appeared on a previous ballot is back, plus a few candidates you didn't have a chance to vote on before. 
 

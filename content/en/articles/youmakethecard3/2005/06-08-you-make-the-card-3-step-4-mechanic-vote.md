@@ -73,7 +73,9 @@ render_recovery: []
 ---
 (New to You Make the Card? [Go here](https://web.archive.org/web/20050608000000/https://magic.wizards.com/en/node/624276) to learn more!)
 
-![You Make the Card 3](https://i.ormos.uk/38/c5/38c5413f1b09af946043f74ca531fd15e93717bb558879c7b505459f7f383e2d.jpg)Let me begin by profusely apologizing for the delay in the latest round of You Make the Card. I don't want to give excuses. It took way, way longer than it should have. I am very sorry for that. We are looking into ways to try and improve this process in the future to prevent similar delays. That said, let's pick out a mechanic.
+![You Make the Card 3](https://i.ormos.uk/38/c5/38c5413f1b09af946043f74ca531fd15e93717bb558879c7b505459f7f383e2d.jpg)
+
+Let me begin by profusely apologizing for the delay in the latest round of You Make the Card. I don't want to give excuses. It took way, way longer than it should have. I am very sorry for that. We are looking into ways to try and improve this process in the future to prevent similar delays. That said, let's pick out a mechanic.
 
 Previously in You Make the Card #3, you [chose](https://web.archive.org/web/20050608000000/https://magic.wizards.com/en/node/624296) this piece of art:
 

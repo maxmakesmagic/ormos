@@ -188,7 +188,9 @@ Oh, and I arbitrarily called the deck “Crucible of Seismic Routes” because �
 
 ### Orbital Mind-Control Lasers
 
-![](https://i.ormos.uk/01/70/01703bf914a7147f3256a1e8421fdfa364d69f861da80a877833e2747322b3fb.jpg)There's a combo I've been getting even more email about lately that's nearly a year old to me. A handful of Mark Gottlieb's Junior Combo Rangers have discovered and mailed in a superkeen *Fifth Dawn* combo: Bringer of the White Dawn and Mindslaver. That's a good one. Your opponent gets no turns (of his own) for the rest of the game. And I thank everyone who sent that in. Lots of times readers send in combos I've never thought of. But I was ahead of the game on this one because I played it in the FFL back in October.
+![](https://i.ormos.uk/01/70/01703bf914a7147f3256a1e8421fdfa364d69f861da80a877833e2747322b3fb.jpg)
+
+There's a combo I've been getting even more email about lately that's nearly a year old to me. A handful of Mark Gottlieb's Junior Combo Rangers have discovered and mailed in a superkeen *Fifth Dawn* combo: Bringer of the White Dawn and Mindslaver. That's a good one. Your opponent gets no turns (of his own) for the rest of the game. And I thank everyone who sent that in. Lots of times readers send in combos I've never thought of. But I was ahead of the game on this one because I played it in the FFL back in October.
 
 I thought this was going to be broken. A two-card end-the-game combo! It didn't work out as I had hoped. The combo is good, the deck is good, but it's not suited for Tier 1 competitive play. Great! That meant Bringer of the White Dawn could stay as it was, and casual games the world over could be brought to a grinding halt by a player eternally recurring a Mindslaver. Or, more likely, by people throwing heavy objects at the person eternally recurring that Mindslaver.
 

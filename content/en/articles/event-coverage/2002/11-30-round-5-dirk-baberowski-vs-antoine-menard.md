@@ -44,7 +44,9 @@ archive_source:
   sha256: 6fd918fc2ed45645a6d2ce1c35f5f95ca3d5675fbe2c565959e75b3961717f75
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a965.jpg)Dirk Baberowski is one of the top German players and currently riding high in the player of the year race on the back of a top 8 in Copenhagen and winning the Team Pro Tour with Budde and Blume. He confessed he hadn't tested much and brought a Piledriver Sligh deck to the table. Antoine Menard is a solid player only recently returned to France after battering the English PTQ circuit during his stay at Oxford University. Unfortunately for him, like a lot of the French players, he's running Suicide Black. When Baberowski started with [Mountain](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain), Pup, Menard's comment summed it up.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a965.jpg)
+
+Dirk Baberowski is one of the top German players and currently riding high in the player of the year race on the back of a top 8 in Copenhagen and winning the Team Pro Tour with Budde and Blume. He confessed he hadn't tested much and brought a Piledriver Sligh deck to the table. Antoine Menard is a solid player only recently returned to France after battering the English PTQ circuit during his stay at Oxford University. Unfortunately for him, like a lot of the French players, he's running Suicide Black. When Baberowski started with [Mountain](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain), Pup, Menard's comment summed it up.
 
 "That's bad news for me."
 
@@ -54,7 +56,9 @@ The Frenchman did see all 4 [Diabolic Edict](https://web.archive.org/web/2002113
 
 Menard thought a [Duress](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) to get rid of the [Reckless Abandon](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reckless+Abandon) Baberowski was holding might clear the way for the Negators to enter play. Unfortunately the German had another so the Negators continued to sit in the Frenchman's hand. The Abandon threw a Goblin at his head to drop Menard to two and take the [Carnophage](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carnophage)s out of the game.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a967.jpg)With only the Piledriver in play for Baberowski Menard had to go for the Negator. Unfortunately the German was holding [Reckless Charge](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reckless+Charge) and drew a second Piledriver to bring the game to its expected end.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a967.jpg)
+
+With only the Piledriver in play for Baberowski Menard had to go for the Negator. Unfortunately the German was holding [Reckless Charge](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reckless+Charge) and drew a second Piledriver to bring the game to its expected end.
 
 Baberowski 1-0 Menard
 

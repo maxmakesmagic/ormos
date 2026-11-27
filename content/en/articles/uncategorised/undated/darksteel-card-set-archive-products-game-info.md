@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/e2/a1/e2a1ab1e9a36a0b3930b104527e1a510e5252d7d5bda8fd0f53696302728e25e.png)This 165-card deck introduces two new abilities to the *Mirrodin* block: Indestructible and Modular.
+![](https://i.ormos.uk/e2/a1/e2a1ab1e9a36a0b3930b104527e1a510e5252d7d5bda8fd0f53696302728e25e.png)
+
+This 165-card deck introduces two new abilities to the *Mirrodin* block: Indestructible and Modular.
 
 **Set Name:** *Darksteel*  
 **Block:** Set 2 of 3 of the *Mirrodin* Block  

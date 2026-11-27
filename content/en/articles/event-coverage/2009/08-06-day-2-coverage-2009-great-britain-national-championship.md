@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/b6/85/b6851c21e9a316d69f57429f7fce5064dd5aa07d5841d7e84c349f7bc0a3507d.jpg)Welcome back to Day Two of Great Britain Nationals 2009. Of the 167 players who started out yesterday, 105 have brought their second Draft decks to battle, but only for two more rounds. Then it's back to Standard, and rounds 10-12 will lead us to the Top 8. From there, it's the usual ruthless knockout format, but with one monstrous twist. The losing semi-finalists have to dust themselves down and prepare for the match of their lives. The winner of the 3rd/4th place playoff gets to represent the country at the World Championships in Rome later this year. The loser still gets to go, but it really isn't the same experience.
+![](https://i.ormos.uk/b6/85/b6851c21e9a316d69f57429f7fce5064dd5aa07d5841d7e84c349f7bc0a3507d.jpg)
+
+Welcome back to Day Two of Great Britain Nationals 2009. Of the 167 players who started out yesterday, 105 have brought their second Draft decks to battle, but only for two more rounds. Then it's back to Standard, and rounds 10-12 will lead us to the Top 8. From there, it's the usual ruthless knockout format, but with one monstrous twist. The losing semi-finalists have to dust themselves down and prepare for the match of their lives. The winner of the 3rd/4th place playoff gets to represent the country at the World Championships in Rome later this year. The loser still gets to go, but it really isn't the same experience.
 
 The solution? Win, win, and win again, and be crowned the Great Britain National Champion for 2009. Join Rich Hagon and Steve Sadin for all the action.
 

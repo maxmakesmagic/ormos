@@ -68,11 +68,15 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/198.jpg)The final round saw Chris Benafel play Roc Herms Pont. Benafel is on a hot streak recently, finishing 2nd in PT LA and Runner up at this years USA Nationals. Herms is a highly respected Spanish player and Pro Tour regular. Both are unbeaten and looking to go into Day 2 with a perfect record. Herms is playing Angry Hermit while Benafel is playing Ponza. Are Squirrels more dangerous than Dragons? In recent standard tournaments this has proved the case, but red has a habit of making grilled kebabs out of the little rodents.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/198.jpg)
+
+The final round saw Chris Benafel play Roc Herms Pont. Benafel is on a hot streak recently, finishing 2nd in PT LA and Runner up at this years USA Nationals. Herms is a highly respected Spanish player and Pro Tour regular. Both are unbeaten and looking to go into Day 2 with a perfect record. Herms is playing Angry Hermit while Benafel is playing Ponza. Are Squirrels more dangerous than Dragons? In recent standard tournaments this has proved the case, but red has a habit of making grilled kebabs out of the little rodents.
 
 In Game 1 Herms started strongly with birds and Rofellos for mana acceleration. Benafel quaked away the elf but couldn't seem to draw any more burn. A poacher hit the table and all Benafel could do was stone rain a port. Next turn he made lightning dragon and Herms dug 4 squirrels out of his deck. He couldn't upkeep the first hermit so he went for another in his main phase. The dragon took a few down but couldn't hold off the swarm of rodents. Much gnawing. 1-0 to the bushy tails.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/201.jpg)Benafel started strongly in game 2 with stone rain and tectonic break to cut down Herms' land. A 1 point quake removed his mana producing elves a turn later. Then followed a dispute over whether Benefal had tapped lands or not. The judges ruled it was a level 5 event and once lands were tapped it couldn't be taken back. Benafel thought it was harsh but it proved irrelevant as Herms couldn't draw land and Benafel quickly beat him to death with a masticore and encampment.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/201.jpg)
+
+Benafel started strongly in game 2 with stone rain and tectonic break to cut down Herms' land. A 1 point quake removed his mana producing elves a turn later. Then followed a dispute over whether Benefal had tapped lands or not. The judges ruled it was a level 5 event and once lands were tapped it couldn't be taken back. Benafel thought it was harsh but it proved irrelevant as Herms couldn't draw land and Benafel quickly beat him to death with a masticore and encampment.
 
 In Game 3 Herms mulliganed again and kept a hand with 2 land and no mana acceleration. He didn't draw the third land until turn 4 and then was hit by 3 stone rains in a row. He never got more than 2 land on the table and Benafel adminstered death with Masticore and Avalanche Riders. The Elf and Squirrel slaughter count was lower than expected, but only because Herms never got a chance to cast anything.
 

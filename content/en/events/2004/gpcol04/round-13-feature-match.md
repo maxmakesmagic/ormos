@@ -735,7 +735,9 @@ render_recovery:
 ---
 ### Bob Maher vs. Steven Wolfman
 
-![](http://www.wizards.com/sideboard/images/gpcol04/fm12_1.jpg)Neither player was terribly happy about their deck. Bob had tried to force black-red in the first pack by taking a Pyrite Spellbomb over cards like Fangren Hunter and Soul Nova. He was confident that the player to his right was in red-white and cutting it off hard. After a couple of picks he caught on and switched to a blue-white deck that was splashing red for a Spikeshot Goblin.
+![](http://www.wizards.com/sideboard/images/gpcol04/fm12_1.jpg)
+
+Neither player was terribly happy about their deck. Bob had tried to force black-red in the first pack by taking a Pyrite Spellbomb over cards like Fangren Hunter and Soul Nova. He was confident that the player to his right was in red-white and cutting it off hard. After a couple of picks he caught on and switched to a blue-white deck that was splashing red for a Spikeshot Goblin.
 
 Steven Wolfman is a Canadian player who was a member of 2020. His team nearly won Pro Tour Boston the first year the event was moved to Boston and they followed up with a finals appearance at the next Masters event. Bob Maher needs no introduction.
 

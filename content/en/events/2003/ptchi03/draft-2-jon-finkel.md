@@ -89,7 +89,9 @@ render_recovery:
   - Pinpoint Avalanche
   occurrences: 48
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a960.jpg)There was a time when Jon Finkel was considered the best player in history, and that everyone else was on a level below him. Over the past few years, Kai Budde has taken that title away, while Jon has been struggling to stay on the Tour, much less winning them. However, he started today in top form, with a perfect 4-0 record going into his second draft table. It's still a bit early to tell, but the Finkel of old may be back, and ready to make a run at the Top 8 stage. It's a place he used to be very familiar with, but hasn't visited lately.
+![](http://www.wizards.com/sideboard/images/ptchi03/a960.jpg)
+
+There was a time when Jon Finkel was considered the best player in history, and that everyone else was on a level below him. Over the past few years, Kai Budde has taken that title away, while Jon has been struggling to stay on the Tour, much less winning them. However, he started today in top form, with a perfect 4-0 record going into his second draft table. It's still a bit early to tell, but the Finkel of old may be back, and ready to make a run at the Top 8 stage. It's a place he used to be very familiar with, but hasn't visited lately.
 
 Finkel opened the first pack, and it contained Gratuitous Violence, Elven Riders, Barkhide Mauler, Swat, Mistform Dreamer and Daunting Defender. Surprisingly, Finkel took the Riders over Gratuitous Violence, which went to Tiago Chan on his left. As the pack came around Ruel could have fought for green by wheeling Leery Fogbeast and Vitality Charm, but took Riptide Biologist and Aphetto Alchemist instead. Chan opened the next pack and grabbed Cruel Revival. When the pack got to Finkel, he got an *incredible* wheel of Elvish Warrior and Wellwisher. In the third pack he took a Barren Moor, signaling that he wanted to go into black as a second color. Elvish Warrior and Treespring Lorian arrived in the next two packs, and Finkel continued with his Elf theme by taking an earlier-than-usual Wirewood Pride. 
 

@@ -351,7 +351,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptkob04/qf1_2.jpg)Both players were rubbing their eyes from the bright camera lights as they shuffled up for their quarterfinal match. Neither had gotten much sleep. There was too much on the line not to burn the candle at both ends. This is Jelger Wiegersma's second Pro Tour Top 8, the last coming at New Orleans two years ago. Luigi Sbrozzi was in the hot seat for the first time. Wiegersma is playing the tournament's defining deck: Affinity. Sbrozzi is playing a variant of the Big Red control deck, but the lack of Furnace Dragons in his sideboard made this matchup less than stellar.
+![](http://www.wizards.com/sideboard/images/ptkob04/qf1_2.jpg)
+
+Both players were rubbing their eyes from the bright camera lights as they shuffled up for their quarterfinal match. Neither had gotten much sleep. There was too much on the line not to burn the candle at both ends. This is Jelger Wiegersma's second Pro Tour Top 8, the last coming at New Orleans two years ago. Luigi Sbrozzi was in the hot seat for the first time. Wiegersma is playing the tournament's defining deck: Affinity. Sbrozzi is playing a variant of the Big Red control deck, but the lack of Furnace Dragons in his sideboard made this matchup less than stellar.
 
 Before the match started Wiegersma asked Sbrozzi about his career as a player. Sbrozzi said he'd been playing about four years, and they shared Grand Prix stories. Sbrozzi mentioned Turin, where his team finished 25th.
 

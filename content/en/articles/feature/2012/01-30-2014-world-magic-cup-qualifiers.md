@@ -61,7 +61,9 @@ archive_source:
   sha256: e20f536ed5874599f8da523d4dd7106b7850799774706f547f75bde4d3644594
 render_recovery: []
 ---
-![](https://i.ormos.uk/71/5d/715d6aeaf2100f25708e57122234f2cb76b132f901283f65ba2902725904e050.jpg)If you dream of playing in the international World **Magic** Cup, you'll want to start here. Each selected country will run three World **Magic** Cup Qualifiers, with the winner of each earning an invitation to the World **Magic** Cup.
+![](https://i.ormos.uk/71/5d/715d6aeaf2100f25708e57122234f2cb76b132f901283f65ba2902725904e050.jpg)
+
+If you dream of playing in the international World **Magic** Cup, you'll want to start here. Each selected country will run three World **Magic** Cup Qualifiers, with the winner of each earning an invitation to the World **Magic** Cup.
 
 2014 World **Magic** Cup Qualifiers are invitation-only tournaments. These Premier Events will be held in countries that have been selected to have national teams compete at the 2014 World **Magic** Cup. The list of selected countries can be viewed at the [bottom of this page](#countries).
 

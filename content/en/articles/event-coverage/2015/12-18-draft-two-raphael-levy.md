@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Brian Hacker*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/233.JPG)Raphael Levy was sitting just to the left of Michael Debard and both players were 3-0.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/233.JPG)
+
+Raphael Levy was sitting just to the left of Michael Debard and both players were 3-0.
 
 Levy opens Waterfront Bouncer, Rishadan Airship, Shoving Match and the only other high quality card is the arguable Spontaneous Generation. Levy goes orthodox with Bouncer. Next pick Stinging Barrier is obvious. An obvious Thunderclap third sets up Blaster Mage fourth, Gerrard's Irregulars sixth and Arms Dealer eighth. Dehydration fifth and seventh along with a Balloon Peddler that got passed around lie a bag of chips fill out his blue. An unfortunate late pick Rishadan Cutpurse made its way into Levy's eventual deck, which might give away the fate of Levy's next two packs. As far as Mercadian Masques goes, this was grade A material
 

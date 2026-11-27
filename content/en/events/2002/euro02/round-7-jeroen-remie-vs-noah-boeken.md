@@ -53,7 +53,9 @@ archive_source:
   sha256: d778e26d1db1e8ef5a06800adbf24a0c7f66f2c2daed9beea0be7bc2ba444680
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a906.jpg)Sponsors. You would think that's all these players think about these days. Noah really wanted me to mention that he's has found a new home at www.CCGHouse.com. Jeroen in turn wanted me to state that he's looking for a sponsor too... Both players were 2-0 with their second draft decks and hope to be 6-1 after this match to put themselves in good shape for day 2. Jeroen was playing a white/blue/black deck sporting lots of flyers like Battle Screech, two Balshan Collaborators, Phantom Flock and Aven Windreader. Noah is playing black/red with lots of removal splashing blue for Cephalid Looter.
+![](http://www.wizards.com/sideboard/images/euro02/a906.jpg)
+
+Sponsors. You would think that's all these players think about these days. Noah really wanted me to mention that he's has found a new home at www.CCGHouse.com. Jeroen in turn wanted me to state that he's looking for a sponsor too... Both players were 2-0 with their second draft decks and hope to be 6-1 after this match to put themselves in good shape for day 2. Jeroen was playing a white/blue/black deck sporting lots of flyers like Battle Screech, two Balshan Collaborators, Phantom Flock and Aven Windreader. Noah is playing black/red with lots of removal splashing blue for Cephalid Looter.
 
 ### Game 1
 
@@ -69,7 +71,9 @@ After the Hunger, Aven Fisher came. This made Noah make Anger, who was dying to 
 
 Noah 1- Jeroen 0
 
-![](http://www.wizards.com/sideboard/images/euro02/a905.jpg)During sideboarding Jeroen stated that he probably should stick to his "sponsor" (he was wearing a New York sweater) until a company starts producing bigger size T-shirts since Jeroen is well... big. 
+![](http://www.wizards.com/sideboard/images/euro02/a905.jpg)
+
+During sideboarding Jeroen stated that he probably should stick to his "sponsor" (he was wearing a New York sweater) until a company starts producing bigger size T-shirts since Jeroen is well... big. 
 
 ### Game 2
 

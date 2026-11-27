@@ -1153,19 +1153,27 @@ Cunningham is widely-known for his iconic work on The Magic Academy, a series th
 
 There are certainly advantages to having an event within driving distance of Wizards of the Coast main offices. The Champion Challenge -- you may know it by its old name, Gunslinging -- is always a popular event at any big tournament but rarely do you have the chance to play against the likes of Scott Johns, Mike Turian, and Aaron Forsythe. They are just a smattering of the Wizards personnel that have been tasked with guarding the supply of Alara Reborn packs one Standard match at a time. Players can face off against a variety of R&D members this weekend including the likes of Aaron Forsythe, Scott Johns, Mike Turian, Ken Nagle, and Tom LaPille, to name just a few. 
 
-![](https://i.ormos.uk/28/b5/28b57d3df15f8fcd81784ffa9c3300ea420a368b81649a326e977b90d6045ae8.jpg)Tom Lapille tries to find just the right play to protect the pack bounty that sits upon his red head. 
+![](https://i.ormos.uk/28/b5/28b57d3df15f8fcd81784ffa9c3300ea420a368b81649a326e977b90d6045ae8.jpg)
+
+Tom Lapille tries to find just the right play to protect the pack bounty that sits upon his red head. 
 
   
 
-![](https://i.ormos.uk/db/29/db29599369a794e572953cf99237938d33d6e403781a6ebc0ac61f3dc434d15a.jpg)Five time Pro Tour Top 8 competitor, and Pro Tour New York Champion, Scott Johns gets the thumbs up from Ken Nagle.
+![](https://i.ormos.uk/db/29/db29599369a794e572953cf99237938d33d6e403781a6ebc0ac61f3dc434d15a.jpg)
+
+Five time Pro Tour Top 8 competitor, and Pro Tour New York Champion, Scott Johns gets the thumbs up from Ken Nagle.
 
   
 
-![](https://i.ormos.uk/fc/3d/fc3d23a540164fe7937a2ea458ff07867f89c80cf7127e4ac96e461540e5e741.jpg)Mike Turian, who won Pro Tour New York alongside Scott Johns and who also has his fair share of Top 8 appearances, is always all smiles but never more so than when he is playing Magic!
+![](https://i.ormos.uk/fc/3d/fc3d23a540164fe7937a2ea458ff07867f89c80cf7127e4ac96e461540e5e741.jpg)
+
+Mike Turian, who won Pro Tour New York alongside Scott Johns and who also has his fair share of Top 8 appearances, is always all smiles but never more so than when he is playing Magic!
 
   
 
-![](https://i.ormos.uk/19/ff/19ffa24f843f01e359a11527409f35735ab5ec0c39da47a114224174221dfb0d.jpg)Director of Magic R&D Aaron Forsythe takes a break from playing to sign a playset of Bloodbraid Elf for a happy fan. 
+![](https://i.ormos.uk/19/ff/19ffa24f843f01e359a11527409f35735ab5ec0c39da47a114224174221dfb0d.jpg)
+
+Director of Magic R&D Aaron Forsythe takes a break from playing to sign a playset of Bloodbraid Elf for a happy fan. 
 
   
   

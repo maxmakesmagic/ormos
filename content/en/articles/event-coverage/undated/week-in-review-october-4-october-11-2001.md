@@ -48,11 +48,15 @@ render_recovery:
 
 ### The Magic Invitational
 
-![](http://www.wizards.com/sideboard/images/MI01/794.jpg)Kai Budde adds another record to his already-amazing resume. A year ago he was in a slump, failing to earn money in a number of Grand Prix and Pro Tours in a row. Then, he broke out - winning two Pro Tours and returning as one of the dominant figures of the Grand Prix circuit. By the end of the season, he has stolen Jon Finkel's crown and was now considered the best player in the game. 
+![](http://www.wizards.com/sideboard/images/MI01/794.jpg)
+
+Kai Budde adds another record to his already-amazing resume. A year ago he was in a slump, failing to earn money in a number of Grand Prix and Pro Tours in a row. Then, he broke out - winning two Pro Tours and returning as one of the dominant figures of the Grand Prix circuit. By the end of the season, he has stolen Jon Finkel's crown and was now considered the best player in the game. 
 
 In the finals, Budde faced Dan Clegg. This was the longest match ever, taking up over seven hours. Budde was off to a quick lead, defeating Clegg in two of the five formats, but Clegg recovered, winning the next two. The champion would be decided by playing a quirky 5-Color format invented by Kurtis Hahn and modified by Randy Buehler to fit within the Invitational theme. 5-Color, as played at the Invitational, would determine who won the match based on which player won a higher value in ante over the course of three games. InQuest magazine was used as a reference to determine the card values. 
 
-![](https://i.ormos.uk/dc/0b/dc0b503caef8de2665854b64915958829f7752b17c5b2c3ead4db6a0deee2307.jpg)Clegg and Budde split the first two games, with Budde ahead $5.50 to $2. Budde won Serenity and Strip Mine from Clegg in the first game, and only lost a Jeweled Bird in the second. Jeweled Bird was clearly the most broken card in the way the format was played at the Invitational. Valued at only $2, it was able to significantly reduce the "luck of the ante" factor so important for determining the winner. 
+![](https://i.ormos.uk/dc/0b/dc0b503caef8de2665854b64915958829f7752b17c5b2c3ead4db6a0deee2307.jpg)
+
+Clegg and Budde split the first two games, with Budde ahead $5.50 to $2. Budde won Serenity and Strip Mine from Clegg in the first game, and only lost a Jeweled Bird in the second. Jeweled Bird was clearly the most broken card in the way the format was played at the Invitational. Valued at only $2, it was able to significantly reduce the "luck of the ante" factor so important for determining the winner. 
 
 Clegg was looking very good in the final game. He revealed his hand in order to cast Land Grant on the first turn, showing Budde two Dark Rituals and Hatred. Budde had some answers in his hand, but he did not need to use them. Having gone first, Budde played a Fellwar Stone on the second turn. Clegg played a creature, ready to try for the win on the following turn. It was not to be though, as Budde cast Tinker to go get Jeweled Bird and replace his ante card. Now, even if Clegg won the game, he would still lose the match based on the value of the ante at $5.50 to $4. Few spectators and competitors were happy with the final game being decided on the technicality like this, but the finalists more than made up for this with some excellent plays earlier in the day.
 
@@ -68,13 +72,17 @@ During the weekend, Invitational creator Mark Rosewater announced that next year
 
 ### Grand Prix-Cape Town & Vienna
 
-![](http://www.wizards.com/sideboard/images/GPCT01/998.jpg)The first Grand Prix ever held in South Africa gathered approximately 170 players from all over the country, some driving for fifteen hours to attend the event. Located so far away from other countries with large **Magic** communities, the international turnout was very low. Among the players who have traveled from other countries was Australia's Ben Seck, Canada's Ryan Fuller, USA's Justin Polin, New Zealand's James White, and yours truly. 
+![](http://www.wizards.com/sideboard/images/GPCT01/998.jpg)
+
+The first Grand Prix ever held in South Africa gathered approximately 170 players from all over the country, some driving for fifteen hours to attend the event. Located so far away from other countries with large **Magic** communities, the international turnout was very low. Among the players who have traveled from other countries was Australia's Ben Seck, Canada's Ryan Fuller, USA's Justin Polin, New Zealand's James White, and yours truly. 
 
 International players remained at or near the top of the standings throughout most of the tournament, but Polin and Seck were the only ones to make the Top 8. Ryan Fuller and I both missed it by a win, finishing in Top 16. South Africa's best-known player Andrew Mitchell was also in the Top 8. Ben Seck managed to draft the best deck in the final draft and it carried him all the way, earning the Australian his first career win. 
 
 Airfare to South Africa may be very expensive, but Games Emporium, the local distributor, really took care of the players who made the trip. Games Emporium and Wizards of the Coast subsidized the hotel rooms for players. Hotel accommodations for three nights and tournament entrance fee cost a total of 500 rand - that is just over $50! Food and entertainment were equally cheap in Cape Town, making it an amazing place to visit. Invitational and Grand Prix players took advantage of all the fun things they could do in the city at low prices, but I will let them tell their own stories in their tournament reports. Games Emporium staff also surprised the international competitors by offering to pay the prize money out in cash - a minor but pleasant bonus. 
 
-![](https://i.ormos.uk/be/3b/be3b59cb900ec9dfe77a7b23efe6e5e3664e82172f1f04eebcc136a0dfb40031.jpg)At the same time, European players had a Grand Prix of their own, returning to Vienna for the second time. Unlike Cape Town, this one drew almost 700 players. Amateur player Stephan Meyer of Germany won the tournament, collecting both the first place prize and the top amateur award. He defeated European champion Eivind Nitter of Norway in the finals. 1999 European champion Nicolai Herzog (also of Norway) and top Hungarian player Gabor Papp rounded off the Top 4, with the rest of the four spots going to the less-known players. There was some star power just below the Top 8, as Raphael Levy, Jakub Slemr and Bram Snepvangers all finished in the Top 16.
+![](https://i.ormos.uk/be/3b/be3b59cb900ec9dfe77a7b23efe6e5e3664e82172f1f04eebcc136a0dfb40031.jpg)
+
+At the same time, European players had a Grand Prix of their own, returning to Vienna for the second time. Unlike Cape Town, this one drew almost 700 players. Amateur player Stephan Meyer of Germany won the tournament, collecting both the first place prize and the top amateur award. He defeated European champion Eivind Nitter of Norway in the finals. 1999 European champion Nicolai Herzog (also of Norway) and top Hungarian player Gabor Papp rounded off the Top 4, with the rest of the four spots going to the less-known players. There was some star power just below the Top 8, as Raphael Levy, Jakub Slemr and Bram Snepvangers all finished in the Top 16.
 
 Both Grand Prix saw many of the favorites miss the Top 8 mark. Is that the sign of a set that is more luck-based? Probably not. As pros do their homework and learn more about the set, they will reclaim more of the Top 8 spots.
 
@@ -96,6 +104,8 @@ Please do not email answers to me. Correct answer will be posted in the next col
 
 Reported by Javier I. EspaÃƒÂ±a, Rosario, Argentina:
 
-![](https://i.ormos.uk/41/31/4131a4ebae1e6a689b56464f33f89c8cfdee8418ce8bff8f70d6341ec1f4e73d.jpg)"Guido Paesani was playing against Rory Delgado. Rory had just attacked Guido with his Iridescent Angel and a bunch of other creatures, Guido had only a Springing Tiger and he decided not to block any of them leaving him at 2 life. Rory was all tapped out and Guido had 0 cards in his hand, 10 lands and a Springing Tiger. He drew a Time Stretch, cast it and attacked leaving Rory at 17 (yes, he was at 20 life!). Then in his first extra turn he drew an Anarchist! He cast it and got back the Time Stretch, then attaked another time with his Tiger leaving Rory at 14. On his second extra turn he cast Time Stretch again to get another 2 turns and attacked for 5, leaving Rory at 9 and killing him in his fourth extra turn!"
+![](https://i.ormos.uk/41/31/4131a4ebae1e6a689b56464f33f89c8cfdee8418ce8bff8f70d6341ec1f4e73d.jpg)
+
+"Guido Paesani was playing against Rory Delgado. Rory had just attacked Guido with his Iridescent Angel and a bunch of other creatures, Guido had only a Springing Tiger and he decided not to block any of them leaving him at 2 life. Rory was all tapped out and Guido had 0 cards in his hand, 10 lands and a Springing Tiger. He drew a Time Stretch, cast it and attacked leaving Rory at 17 (yes, he was at 20 life!). Then in his first extra turn he drew an Anarchist! He cast it and got back the Time Stretch, then attaked another time with his Tiger leaving Rory at 14. On his second extra turn he cast Time Stretch again to get another 2 turns and attacked for 5, leaving Rory at 9 and killing him in his fourth extra turn!"
 
 Got an interesting news story, comment, play of the week, or **Magic** trivia to report? Please e-mail me at ashv80@hotmail.com.

@@ -655,7 +655,9 @@ It's also important to note that the Elvish Aberration can search for *any* fore
 
 ### Elvish Aberration: a big, fat elf
 
-![](https://i.ormos.uk/67/bb/67bb146d1e3aaf3b5ccb82997ebb992a3fcdbc55af0c00a0915d6d61cfb865c9.jpg)As a big, fat elf, the Aberration suddenly becomes a part of a much larger picture. First of all, Dan Paskins would award you points for killing one in a tournament. Secondly, and more importantly, it looks and smells like a big, fat elf, so you can track it down like one.
+![](https://i.ormos.uk/67/bb/67bb146d1e3aaf3b5ccb82997ebb992a3fcdbc55af0c00a0915d6d61cfb865c9.jpg)
+
+As a big, fat elf, the Aberration suddenly becomes a part of a much larger picture. First of all, Dan Paskins would award you points for killing one in a tournament. Secondly, and more importantly, it looks and smells like a big, fat elf, so you can track it down like one.
 
 Obviously, this means that a dying Wirewood Herald can find it. This is actually a pretty significant little feat. Oftentimes, a turn 2 Wirewood Herald is a reasonable early game defender. The card can kill a 1 toughness creature in the early game, and if you should happen to be short of mana, those two mana you spent on the Herald can find you the third mana.
 
@@ -681,7 +683,9 @@ If you get the Astral Slide out, an Elvish Aberration can be useful for any numb
 
 ### Sometimes the only good mutant is a dead mutant
 
-![](https://i.ormos.uk/ca/bc/cabce30bf8e2e5450bc53ee7423b4b2929ff32eed809bff26bd4886ad04a87ca.jpg)As a cycler, the Aberration automatically asks: “Am I any good in the graveyard?” Here the answer is a resounding “Yes!” 
+![](https://i.ormos.uk/ca/bc/cabce30bf8e2e5450bc53ee7423b4b2929ff32eed809bff26bd4886ad04a87ca.jpg)
+
+As a cycler, the Aberration automatically asks: “Am I any good in the graveyard?” Here the answer is a resounding “Yes!” 
 
 The card can really begin to shine if it begins acting like a Green Eternal Dragon. There are a number of cards that can make this happen. Oath of Ghouls and Oversold Cemetery both do the trick here. The Oath of Ghouls needs you to have more creatures in your graveyard than your opponent, while the Oversold Cemetery merely requires four creatures in the yard. One of the things about both of these cards is that they require these things to be true both when they go on the stack to be checked and when they are to be resolved. Running cycling creatures like the Aberration is a good way to begin getting creatures in the 'yard. If you run an abundance of them, it can be a lot easier to get that graveyard full enough to start returning some of these creatures. Other ways that you might want to consider include Buried Alive, Avenging Druid, Hermit Druid, and Entomb. 
 

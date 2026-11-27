@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/c2/c5/c2c5e88dd708c55139fdca0c7df16cca47170b0cb366b64a6005d4390623a01d.jpg)In the third round of the 2002 European Championship, Sigurd Eskeland from Norway faced Olivier Ruel from France. While Olivier has been around a lot lately, Sigurd has been absent from the scene. His last Pro Tour was in New Orleans. After New Orleans, he fell off by missing the following Tour by one single Pro Tour point. He also managed to lose in the finals of a qualifier tournament. Then he started working, giving him less time for **Magic**.
+![](https://i.ormos.uk/c2/c5/c2c5e88dd708c55139fdca0c7df16cca47170b0cb366b64a6005d4390623a01d.jpg)
+
+In the third round of the 2002 European Championship, Sigurd Eskeland from Norway faced Olivier Ruel from France. While Olivier has been around a lot lately, Sigurd has been absent from the scene. His last Pro Tour was in New Orleans. After New Orleans, he fell off by missing the following Tour by one single Pro Tour point. He also managed to lose in the finals of a qualifier tournament. Then he started working, giving him less time for **Magic**.
 
 ### Game 1
 
@@ -71,7 +73,9 @@ Eskeland 1–0 Ruel
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a945.jpg)Ruel chose to play first in the second game as well. He got a pretty good start, playing a turn two Werebear and then a turn three Basking Rootwalla, Unhinge, forcing Sigurd to discard an island. Eskeland got rid of the Rootwalla by a turn three Crippling Fatigue, but Ruel didn't really care—he summoned a turn four Carrion Wurm.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a945.jpg)
+
+Ruel chose to play first in the second game as well. He got a pretty good start, playing a turn two Werebear and then a turn three Basking Rootwalla, Unhinge, forcing Sigurd to discard an island. Eskeland got rid of the Rootwalla by a turn three Crippling Fatigue, but Ruel didn't really care—he summoned a turn four Carrion Wurm.
 
 Eskeland didn't seem to have any obvious answers. He stole the two cards in Ruel's graveyard using a Gravegouger, only to take six from the Carrion Wurm. Ruel also cast a Nantuko Disciple, adding one more creature to his side of the table.
 

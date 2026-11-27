@@ -1742,7 +1742,9 @@ Brian Fulop
 
 The general philosophy of The Critical Mass Update is to play the very best threats in the format... All of them. What other deck plays the Tribe Elder/Top engine, Jitte, *and four* copies of Meloku the Clouded Mirror? On top of those, what deck has an even better early beatdown game than White Weenie or Boros?
 
-![](https://i.ormos.uk/e4/b7/e4b790a71d524fad2b3e8c62d97879f210aca3c8b701039fd1e3c316bb0db7bb.jpg)This deck is designed to break Vinelasher Kudzu, which is the current Standard's answer to Wild Mongrel or Arcbound Ravager in the offensive two-drop category. With Meloku providing +1/+1 counters until the game ends and Sakura-Tribe Elder and Wood Elves depositing lands in the short term, Vinelasher Kudzu is almost unstoppable in this deck.
+![](https://i.ormos.uk/e4/b7/e4b790a71d524fad2b3e8c62d97879f210aca3c8b701039fd1e3c316bb0db7bb.jpg)
+
+This deck is designed to break Vinelasher Kudzu, which is the current Standard's answer to Wild Mongrel or Arcbound Ravager in the offensive two-drop category. With Meloku providing +1/+1 counters until the game ends and Sakura-Tribe Elder and Wood Elves depositing lands in the short term, Vinelasher Kudzu is almost unstoppable in this deck.
 
 The Critical Mass Update plays like a Counter-Sliver deck. It has powerful and fast threats, which distinguish it from a deck like Mono-Blue Control, but can protect a lead with its permission spells. Where a White Weenie deck will lose its board position to KageMaro, First to Suffer or a Wrath of God out of Fungus Fire, The Critical Mass Update will strategically counter the opponent's board control spell and/or follow up with Keiga, Meloku, or Arashi to close the game without having to actually seize complete control.
 

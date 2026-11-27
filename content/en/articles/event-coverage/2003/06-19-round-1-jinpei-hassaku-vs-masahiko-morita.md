@@ -55,7 +55,9 @@ Hassaku is best known as the co-designer of the Draco-Explosion deck that turned
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/990.jpg)Hassaku mulliganed his opening hand, and started off with Birds of Paradise, which was followed on turn two by Wild Mongrel and Grim Lavamancer. Morita cast Entomb on end step, getting Undead Gladiator. On his turn, Smother killed off Wild Mongrel, and Hassaku played another. Volcanic Hammer was sent to the dome, leaving Hassaku with no cards in hand, and a Mongrel and Lavamancer in play. Morita wasn’t under an incredible amount of pressure, and used Buried Alive to put Phantom Nishoba, Visara the Dreadful and Anger into his graveyard. Stitch Together on the following turn put the Nishoba right into play and swinging, and Hassaku already had a look on his face that admitted defeat. Doomed Necromancer did its thing with haste a turn later to bring back Visara, and the game was over.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/990.jpg)
+
+Hassaku mulliganed his opening hand, and started off with Birds of Paradise, which was followed on turn two by Wild Mongrel and Grim Lavamancer. Morita cast Entomb on end step, getting Undead Gladiator. On his turn, Smother killed off Wild Mongrel, and Hassaku played another. Volcanic Hammer was sent to the dome, leaving Hassaku with no cards in hand, and a Mongrel and Lavamancer in play. Morita wasn’t under an incredible amount of pressure, and used Buried Alive to put Phantom Nishoba, Visara the Dreadful and Anger into his graveyard. Stitch Together on the following turn put the Nishoba right into play and swinging, and Hassaku already had a look on his face that admitted defeat. Doomed Necromancer did its thing with haste a turn later to bring back Visara, and the game was over.
 
 Hassaku- 0 Morita- 1
 

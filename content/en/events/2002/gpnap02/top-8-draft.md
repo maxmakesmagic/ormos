@@ -71,7 +71,9 @@ render_recovery:
   - Iridescent Angel
   occurrences: 13
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a884.jpg)The Top 8 draft at Grand Prix-Naples was full of established players, the 218 Italians in attendance being unable to secure a spot. Instead the table was comprised of four Germans, three Frenchmen, and a single Dutchman.
+![](http://www.wizards.com/sideboard/images/gpnap02/a884.jpg)
+
+The Top 8 draft at Grand Prix-Naples was full of established players, the 218 Italians in attendance being unable to secure a spot. Instead the table was comprised of four Germans, three Frenchmen, and a single Dutchman.
 
 The quarterfinal matches:
 

@@ -210,7 +210,9 @@ render_recovery:
 
 　最序盤に森がみせた「捌き方」はまさしく理想的なものだった。《藪跳ねアヌーリッド》と、《生ける願い》からの《森を護る者/Sylvan Safekeeper》を《対抗呪文/Counterspell》によって退け、《獣群の呼び声/Call of the Herd》からのトークンには《排撃/Repulse》。《野生の雑種犬/Wild Mongrel》には《魔力の乱れ/Force Spike》。かくて、序盤のライフレースで先行することを許さなかった。むしろ、2 枚の《真鍮の都/City of Brass》をプレイした Kibler のライフがジワジワと減少していくばかりだ。
 
-![](https://i.ormos.uk/37/91/37911f65c95cfc71226d21e6cfa4241401bbc5810b33dea07aa84f36f5a127ff.jpg)　結局、ライフレースで優位に立てなかったビートダウンデッキが結果を残せるわけもなく、《激動/Upheaval》から召喚された《夜景学院の使い魔/Nightscape Familiar》が、ゲームを決定付けそうだった。ここで Kibler もセット《森/Forest》からの《極楽鳥/Birds of Paradise》召喚からなんとか巻き返そうとしたのだが...、ここでも強烈な《魔力の乱れ》が Kibler の反撃を許さない。
+![](https://i.ormos.uk/37/91/37911f65c95cfc71226d21e6cfa4241401bbc5810b33dea07aa84f36f5a127ff.jpg)
+
+　結局、ライフレースで優位に立てなかったビートダウンデッキが結果を残せるわけもなく、《激動/Upheaval》から召喚された《夜景学院の使い魔/Nightscape Familiar》が、ゲームを決定付けそうだった。ここで Kibler もセット《森/Forest》からの《極楽鳥/Birds of Paradise》召喚からなんとか巻き返そうとしたのだが...、ここでも強烈な《魔力の乱れ》が Kibler の反撃を許さない。
 
 　《恐ろしい死/Ghastly Demise》、《排撃》などによってブロッカーをどかせながら、静かに《使い魔》が時計の針を進めはじめたのだった。　
 

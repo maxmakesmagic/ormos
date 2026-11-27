@@ -125,7 +125,9 @@ Come challenge Richard Garfield, the creator of **Magic: the Gathering**. He wil
 
 #### Meet Your Head Judge - James Do Hung Lee
 
-![James Do Hung Lee](https://i.ormos.uk/a7/1d/a71d4f7c1c2eaca53205dfc52064086229627a09b54549913274083c464707fe.jpg)Junior Super Series Championship head judge, James Lee, comes with excellent judging credentials. As a judge for five years in the Chicago area, James earned respect from players and fellow judges. James has judged on the highest levels of **Magic**, including the Pro Tour and World Chmpionships. James also has significant experience in Junior program judging and was the head judge for the 2000 Junior Super Series Championship. As a former pastor, he is very approachable and loves to discuss tournament issues or life in general with parents of the competitors. Feel free to approach him after the tournament is completed for the day!
+![James Do Hung Lee](https://i.ormos.uk/a7/1d/a71d4f7c1c2eaca53205dfc52064086229627a09b54549913274083c464707fe.jpg)
+
+Junior Super Series Championship head judge, James Lee, comes with excellent judging credentials. As a judge for five years in the Chicago area, James earned respect from players and fellow judges. James has judged on the highest levels of **Magic**, including the Pro Tour and World Chmpionships. James also has significant experience in Junior program judging and was the head judge for the 2000 Junior Super Series Championship. As a former pastor, he is very approachable and loves to discuss tournament issues or life in general with parents of the competitors. Feel free to approach him after the tournament is completed for the day!
 
 #### Visit the Deck Doctor!
 

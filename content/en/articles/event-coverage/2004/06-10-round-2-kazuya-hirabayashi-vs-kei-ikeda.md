@@ -44,7 +44,9 @@ archive_source:
   sha256: bb610630c7621f22062ae8a755e02293a2b20b10d01fc90d9d929ae37017b97c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm4_1.jpg)Mr. Kazuya Hirabayashi is a Constructed specialist, and lately has been putting up finishes that show he has the playskill to go along with his deckbuilding reputation. He made the Top 8 of Grand Prix Okayama, and came in ninth and Pro Tour San Diego a few weeks ago, missing the Sunday stage on tiebreakers. This round, he has an affinity mirror match against Kei Ikeda.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm4_1.jpg)
+
+Mr. Kazuya Hirabayashi is a Constructed specialist, and lately has been putting up finishes that show he has the playskill to go along with his deckbuilding reputation. He made the Top 8 of Grand Prix Okayama, and came in ninth and Pro Tour San Diego a few weeks ago, missing the Sunday stage on tiebreakers. This round, he has an affinity mirror match against Kei Ikeda.
 
 ### Game 1
 

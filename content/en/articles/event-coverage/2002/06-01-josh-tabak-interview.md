@@ -44,7 +44,9 @@ archive_source:
   sha256: f6aef9b1a9d2ab3d9c0898200364dc117c53128b1f15a3261faf1f42ab03e1cb
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a862.jpg)Junior Super Series Player Josh Tabak came from Madison, WI to be one of the 329 competitors of the $100,000 prize purse in the JSS Championships. First prize in this event is $20,000 in college scholarships to the college of the player's choice. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a862.jpg)
+
+Junior Super Series Player Josh Tabak came from Madison, WI to be one of the 329 competitors of the $100,000 prize purse in the JSS Championships. First prize in this event is $20,000 in college scholarships to the college of the player's choice. 
 
 Josh is a sporty 14 year old 8th grader, whose last day of middle school is this coming Tuesday. His school friends don't play magic, so he goes to his local game store, Misty Mountain, to get his practice in. There are three weekly magic tournaments run there, giving him a lot of magic in his weekly diet, so he can grow to be a strong pro tour player one day. Players that he normally plays with are names like Bob Maher, Jr, Adrian Sullivan, Matt Severa, and Ben Kellerstrass (who is playing in Nationals this weekend). I asked who he has learned the most from, and he replied that there wasn't a specific person that he's thought of as a teacher, he just likes gaining a lot of experience.
 

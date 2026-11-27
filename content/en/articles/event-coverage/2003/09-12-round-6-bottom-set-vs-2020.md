@@ -44,7 +44,9 @@ archive_source:
   sha256: 6d014db10c70b71eff5ffdbb2a5d878c63eb0faf54b23b126a15c9ad7b3f87c6
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a897.jpg)Poor 2020. They started their weekend off by getting squashed by Phoenix Foundation, and now they face most of their other nemeses from last year: Bob Maher and Neil Reeves. They've since ditched Gary Wise in favor of Dave Williams, and after a disastrous performance as Courtney's Men, they decided to switch it up and go with "Bottom Set." One of these two teams will not be competing tomorrow.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a897.jpg)
+
+Poor 2020. They started their weekend off by getting squashed by Phoenix Foundation, and now they face most of their other nemeses from last year: Bob Maher and Neil Reeves. They've since ditched Gary Wise in favor of Dave Williams, and after a disastrous performance as Courtney's Men, they decided to switch it up and go with "Bottom Set." One of these two teams will not be competing tomorrow.
 
 "You guys swept the die roll. That's quite an accomplishment. I'd say mathematically . . . impossible." -- Neil Reeves
 
@@ -75,7 +77,9 @@ Maher looked over and saw Pollock scooping up a pair of [Sparksmith](https://web
 
 "You won a game with two [Sparksmith](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith)s on the other side of the board?!?!" -- Bob Maher
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a898.jpg)"They did come down when I was at 5." -- Elijah Pollock
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a898.jpg)
+
+"They did come down when I was at 5." -- Elijah Pollock
 
 "I don't care!" -- Bob Maher
 
@@ -93,7 +97,9 @@ Wolfman's mana flood soon became apparent. His Cutthroat fell to [Accelerated Mu
 Maher 2 - Wolfman 0  
  Bottom Set 1 - 2020 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a899.jpg)Pollock opened his third game with [Glory Seeker](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker) and [Zealous Inquisitor](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zealous+Inquisitor). Williams rallied with morph and [Thoughtbound Primoc](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc). Pollock swung all-out, and caught the Primoc with [Piety Charm](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Piety+Charm). He had no follow-up, however.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a899.jpg)
+
+Pollock opened his third game with [Glory Seeker](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker) and [Zealous Inquisitor](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zealous+Inquisitor). Williams rallied with morph and [Thoughtbound Primoc](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc). Pollock swung all-out, and caught the Primoc with [Piety Charm](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Piety+Charm). He had no follow-up, however.
 
 All this was just in time to see Rood alpha strike while at 7 life. Reeves blunted it as best he could, but it looked like he would certainly fall on the next turn. He untapped, swung in with two [Soldier](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soldier)s, and pumped with [Grassland Crusader](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grassland+Crusader) and [Piety Charm](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Piety+Charm), stealing the win.
 

@@ -727,7 +727,9 @@ You need only check out [my last preconstructed deck](/en/articles/intotheaether
 
 IN: 3 Spire Golem
 
-![](https://i.ormos.uk/9a/19/9a196e178047f3e277ab1910d9b6a1683e3b06e6f81b4d160f503bbcd42bfeeb.jpg)Whikster was the most eloquent advocate of Spire Golem on last week's Message Boards, and I agree with his assessment. I don't think I want four in the deck, though, because I don't think Spire Golem is a card I often want to play on turn three. Most of the time, Spire Golem is better at two mana on turn four, with an extra two mana either to put out a Ninja, or to hold back for Echoing Truth or Condescend. After the fourth turn, Spire Golem just gets better and better and better in a Ninja deck, much better than anything else I can think of. If I ever manage to get to six Islands, it's a beefy blocker, solid attacker with evasion, and free creature post-Ninjutsu. It's also an impressive 4/5 flier with Ronin Warclub. In other words, it can play effective offense or defense as needed, it enables Ninja, and it allows more freedom with excess mana as the game progresses. Sign me up!
+![](https://i.ormos.uk/9a/19/9a196e178047f3e277ab1910d9b6a1683e3b06e6f81b4d160f503bbcd42bfeeb.jpg)
+
+Whikster was the most eloquent advocate of Spire Golem on last week's Message Boards, and I agree with his assessment. I don't think I want four in the deck, though, because I don't think Spire Golem is a card I often want to play on turn three. Most of the time, Spire Golem is better at two mana on turn four, with an extra two mana either to put out a Ninja, or to hold back for Echoing Truth or Condescend. After the fourth turn, Spire Golem just gets better and better and better in a Ninja deck, much better than anything else I can think of. If I ever manage to get to six Islands, it's a beefy blocker, solid attacker with evasion, and free creature post-Ninjutsu. It's also an impressive 4/5 flier with Ronin Warclub. In other words, it can play effective offense or defense as needed, it enables Ninja, and it allows more freedom with excess mana as the game progresses. Sign me up!
 
 *IN*: 1 Ronin Warclub
 
@@ -773,7 +775,9 @@ That's five dominating wins, albeit in the Casual room. There is one more change
 
 *IN*: 4 Ornithopter
 
-![](https://i.ormos.uk/2b/c9/2bc94725f6d2886aebb798efd8f00db089b7ff2eaef8a82231edea62330583a4.jpg)Contrary to popular opinion, I don't think there's a right answer when it comes to whether a Standard Ninja deck wants Teardrop Kami or Ornithopter. If a clear metagame existed -- and thus we knew if other decks often played creatures in the first two turns -- then I might be able to have a definite opinion. As it is, here is how I see the breakdown:
+![](https://i.ormos.uk/2b/c9/2bc94725f6d2886aebb798efd8f00db089b7ff2eaef8a82231edea62330583a4.jpg)
+
+Contrary to popular opinion, I don't think there's a right answer when it comes to whether a Standard Ninja deck wants Teardrop Kami or Ornithopter. If a clear metagame existed -- and thus we knew if other decks often played creatures in the first two turns -- then I might be able to have a definite opinion. As it is, here is how I see the breakdown:
 
 Ornithopter is better early in the game. It will almost always go unblocked if you play it on the first turn, and you can immediately replay it no mater whether you Ninjutsu out a Mistblade Shinobi, Walker of Secret Ways, or Ninja of the Deep Hours in the second turn. When replayed, it can block one-power creatures (including flying creatures) while still attacking on the following turn, making it a superior defender. Teardrop Kami, meanwhile, will sometimes get blocked on the second turn, can't be replayed when spending mana on early Ninjutsu, and will die if used as a blocker. Ornithopter's flying, toughness, and “free”-ness make it a better early play for a Ninja deck.
 

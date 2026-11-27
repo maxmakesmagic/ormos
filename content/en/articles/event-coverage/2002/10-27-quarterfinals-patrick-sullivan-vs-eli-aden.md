@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a851.jpg)Eli Aden broke through at this tournament, hailing from the University of Tennessee in Knoxville. He's best known for attending tournaments and trading cards. Last year he earned three byes for GP Atlanta, but didn't do too well. At GP New Orleans, he finished just outside the top 64. His main goal this weekend was to come away with an amateur prize—finishing in the top eight certainly fulfilled this wish. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a851.jpg)
+
+Eli Aden broke through at this tournament, hailing from the University of Tennessee in Knoxville. He's best known for attending tournaments and trading cards. Last year he earned three byes for GP Atlanta, but didn't do too well. At GP New Orleans, he finished just outside the top 64. His main goal this weekend was to come away with an amateur prize—finishing in the top eight certainly fulfilled this wish. 
 
 Patrick on the other hand, is a member of team TOGIT. Their team has been on a tear lately, but Patrick has other aspirations.
 

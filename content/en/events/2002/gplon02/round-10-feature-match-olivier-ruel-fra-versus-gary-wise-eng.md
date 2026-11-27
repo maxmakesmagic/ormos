@@ -75,7 +75,9 @@ render_recovery:
   - Cabal Therapy
   occurrences: 27
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/931.jpg)On 8-1 coming into the round, both players are looking good so far in the tourament. Gary Wise was playing mono-black control, and Olivier had the Infestation-Upheaval deck. It’s not a good match-up for Gary. “My best plan is to watch my opponent carefully and then call a judge”, he said. Olivier asks when the last time Gary made a top eight was, and Wise responds with, “Well at least I won a PT”, a reference to the team event in Washington 1999. Both players are well known pros with many good finishes to their name.
+![](https://www.wizards.com/sideboard/images/gplon02/931.jpg)
+
+On 8-1 coming into the round, both players are looking good so far in the tourament. Gary Wise was playing mono-black control, and Olivier had the Infestation-Upheaval deck. It’s not a good match-up for Gary. “My best plan is to watch my opponent carefully and then call a judge”, he said. Olivier asks when the last time Gary made a top eight was, and Wise responds with, “Well at least I won a PT”, a reference to the team event in Washington 1999. Both players are well known pros with many good finishes to their name.
 
 ### Game One
 

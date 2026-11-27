@@ -208,7 +208,9 @@ render_recovery:
   - Surge of Thoughtweft
   occurrences: 297
 ---
-![](https://i.ormos.uk/fa/ff/faff572dd41d1b69f705b45b22bba82904ed03681205ecca488c82a501b713d7.jpg)Welcome to New York City! The crack reporting squad of Josh Bennett, Bill Stark, Tim Willoughby, and Craig Gibson are combing the halls of the Javits Center for all the inside information as we close out the 2007 Pro Tour season. Who will be Player of the Year? What Standard and Legacy decks are at the top of the standings? What are the top draft cards in *Lorwyn*? All these questions and much more will be answered thsi weekend.
+![](https://i.ormos.uk/fa/ff/faff572dd41d1b69f705b45b22bba82904ed03681205ecca488c82a501b713d7.jpg)
+
+Welcome to New York City! The crack reporting squad of Josh Bennett, Bill Stark, Tim Willoughby, and Craig Gibson are combing the halls of the Javits Center for all the inside information as we close out the 2007 Pro Tour season. Who will be Player of the Year? What Standard and Legacy decks are at the top of the standings? What are the top draft cards in *Lorwyn*? All these questions and much more will be answered thsi weekend.
 
   
   

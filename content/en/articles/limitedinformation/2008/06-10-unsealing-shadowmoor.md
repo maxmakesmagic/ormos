@@ -717,7 +717,9 @@ My name is Jacob Van Lunen, I'm from New Jersey, I'm a dog lover, and my favorit
 
 I remained a casual-only player until about two years ago when I was in college. I really enjoyed *Ravnica* Limited and started going to local tournaments to play Sealed Deck and Draft. That summer, a few of my friends and I drove down to Atlanta for Nationals after one of us, Steve Miggles, won Regionals. While in Atlanta, I won the $3000 Amateur Limited Challenge and since then I've been absolutely in love with competitive **Magic**. 
 
-![](https://i.ormos.uk/1c/ee/1cee4c959f62fbdaa1e7f2fbf2b63c8fbc717840e0988b30d538249edb200b78.jpg)I grinded the PTQ scene for the next 8 months until my friend Chris Lachmann and I finally won a two-headed giant qualifier. We showed up to [our first Pro Tour](/en/events/2007/ptsdg07/sliver-kids-stun-san-diego) with a plan, but we were absolutely horrified. After the first day we had already dispatched two Hall of Famers and sat on a 6-0 record. We followed through and ended up winning our first Pro Tour. I still can't successfully describe how amazing it feels to win a Pro Tour. My parents were watching the live webcast and after we had won my mother called me, hysterically crying on the other end of the phone, "You did it!"
+![](https://i.ormos.uk/1c/ee/1cee4c959f62fbdaa1e7f2fbf2b63c8fbc717840e0988b30d538249edb200b78.jpg)
+
+I grinded the PTQ scene for the next 8 months until my friend Chris Lachmann and I finally won a two-headed giant qualifier. We showed up to [our first Pro Tour](/en/events/2007/ptsdg07/sliver-kids-stun-san-diego) with a plan, but we were absolutely horrified. After the first day we had already dispatched two Hall of Famers and sat on a 6-0 record. We followed through and ended up winning our first Pro Tour. I still can't successfully describe how amazing it feels to win a Pro Tour. My parents were watching the live webcast and after we had won my mother called me, hysterically crying on the other end of the phone, "You did it!"
 
 Today, I'm here to talk about my favorite format, Sealed Deck. I've had the pleasure of working on Constructed decks with Zvi Mowshowitz and the honor of drafting with Jon Finkel, but, for me, nothing quite meets the feeling of cracking packs, setting them into piles, and working with what I have in front of me. One thing I've learned is not to judge a book by its cover; I've made Top 8 with decks I thought were awful and I've gone 0-2-drop with decks I thought were amazing. Sealed gives you the opportunity to play long games with a lot of combat math. In other words, Sealed gives you a chance to play some real **Magic**. 
 
@@ -958,7 +960,9 @@ When all is said and done our deck will look like this
 
 ### "I Have a Deck. What Now?"
 
-![Thistledown_Duo](https://i.ormos.uk/61/d0/61d0974c167694deb37c511c70fe24d668f52b6bc4ae03cef56b725af467573d.jpg)As I've said before, games of Sealed are likely to go long, making tight play extremely important. So stay sharp. 
+![Thistledown_Duo](https://i.ormos.uk/61/d0/61d0974c167694deb37c511c70fe24d668f52b6bc4ae03cef56b725af467573d.jpg)
+
+As I've said before, games of Sealed are likely to go long, making tight play extremely important. So stay sharp. 
 
 Before you make each play, ask yourself, "Is there anything wrong with this play or anything more right about another play?" I've found this to be really helpful in bringing my ability up a notch; it prevents you from going on autopilot and reminds you of the game state.
 

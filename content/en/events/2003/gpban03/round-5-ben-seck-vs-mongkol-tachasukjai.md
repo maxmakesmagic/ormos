@@ -484,7 +484,9 @@ Ben – 1 Mongkol - 1
 
 Mongkol opened with an Aquamoeba. When Ben played an Enchantress's Presence, he was bale to discard Deep Analysis and flash it back. He discarded Ray of Revelation and used it on the enchantment.
 
-![](https://i.ormos.uk/f8/3b/f83b9437be77524c59af20d67c5634a955ec54eb360bf1c54ad75daa0c2776f4.jpg)Ben was unfazed and played a Verduran Enchantress but it was unsummoned. Mongkol Quiet Spec'd for two Deep Analysis and another Ray of Revelation. When Ben played a Pariah on the Aquamoeba he burnt the Ray.
+![](https://i.ormos.uk/f8/3b/f83b9437be77524c59af20d67c5634a955ec54eb360bf1c54ad75daa0c2776f4.jpg)
+
+Ben was unfazed and played a Verduran Enchantress but it was unsummoned. Mongkol Quiet Spec'd for two Deep Analysis and another Ray of Revelation. When Ben played a Pariah on the Aquamoeba he burnt the Ray.
 
 He flashed back a Deep Analysis and went to twelve but took Ben down to ten with his attack. He added a Wild Mongrel, which he unsummoned when Ben attempted another Pariah.
 

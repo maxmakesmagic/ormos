@@ -82,7 +82,9 @@ render_recovery:
   - Erratic Explosion
   occurrences: 36
 ---
-![](http://www.wizards.com/sideboard/images/natfra03/a982.jpg)Gabriel is somewhat of a fixture on the Pro Tour, but his opponent is no slouch either. In fact, he was the French National champion way back in 1998, although nowadays his tournament play is generally restricted to prereleases. He has drafted a respectable red-green deck, but Gabriel has a very good red-blue deck with multiple Echo Tracers and Lavamancer's Skills.
+![](http://www.wizards.com/sideboard/images/natfra03/a982.jpg)
+
+Gabriel is somewhat of a fixture on the Pro Tour, but his opponent is no slouch either. In fact, he was the French National champion way back in 1998, although nowadays his tournament play is generally restricted to prereleases. He has drafted a respectable red-green deck, but Gabriel has a very good red-blue deck with multiple Echo Tracers and Lavamancer's Skills.
 
 ### Game 1
 

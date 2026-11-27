@@ -82,7 +82,9 @@ Alex Shvartsman
 
 ### Game 1
 
-![](https://i.ormos.uk/5e/92/5e92dee3bbb0542993ec7130e5da5fccbf1de54d0191b75ffc8208a40dc40414.jpg)Summersberger was not off to a good start. He threw away a one-land hand, only to draw six non-land cards. The five land hand was finally acceptable, allowing him to summon a first turn Basking of the Wurm and putting a Basking Rootwalla into play. 
+![](https://i.ormos.uk/5e/92/5e92dee3bbb0542993ec7130e5da5fccbf1de54d0191b75ffc8208a40dc40414.jpg)
+
+Summersberger was not off to a good start. He threw away a one-land hand, only to draw six non-land cards. The five land hand was finally acceptable, allowing him to summon a first turn Basking of the Wurm and putting a Basking Rootwalla into play. 
 
 Kibler went on riding his Looter. He discarded Fiery Temper to kill off Wild Mongrel and summoned a Psychatog. Once he cleared the board completely, Aether Bursting the Wurm token and using Fiery Temper on the Rootwalla, Kibler was able to go on the offensive. Kibler dropped a second Psychatog, prompting the Austrian player to concede game 1.
 
@@ -100,7 +102,9 @@ Sideboarding
 
 Summersberger kept a reasonable hand, but his first turn Careful Study did not turn up anything useful, forcing him to discard an Arrogant Wurm and a Forest. Both players summoned Cephalid Looters on turn 3, and Summersberger followed it up with yet another Looter – so the game might come down to which player can take advantage of their madness cards better. 
 
-![](https://i.ormos.uk/c4/f7/c4f76663d628abf8bc19ebcfdee6d25abb52a33d04494d8de671c3d639037b65.jpg)At the end of Kibler's turn Summersberger activated the Looter to put Basking Rootwalla into play. Kibler had a perfect answer, casting Violent Eruption to kill all the creatures his opponent had in play. Kibler used Edict to kill the Wurm token and went on gaining card economy via the Looter, discarding Circular Logics and burn spells. 
+![](https://i.ormos.uk/c4/f7/c4f76663d628abf8bc19ebcfdee6d25abb52a33d04494d8de671c3d639037b65.jpg)
+
+At the end of Kibler's turn Summersberger activated the Looter to put Basking Rootwalla into play. Kibler had a perfect answer, casting Violent Eruption to kill all the creatures his opponent had in play. Kibler used Edict to kill the Wurm token and went on gaining card economy via the Looter, discarding Circular Logics and burn spells. 
 
 Both players cast Compulsion and were cycling through their libraries quickly. Kibler got out a Psychatog and was only a turn or two away from victory. Summersberger was holding an Upheaval but spent several turns unable to drop a land despite cycling through two cards a turn with Compulsion. Kibler was able to attack for the win before his opponent ever got to the point where he could cast Upheaval.
 

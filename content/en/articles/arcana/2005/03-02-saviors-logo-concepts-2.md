@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![Saviors of Kamigawa logo](https://i.ormos.uk/49/e3/49e34c1d05295406a1c1ae8e317a5c68d4b21c63c7c9b0525331cf620c082efa.jpg)We've already [shown you](/en/articles/arcana/2005/02-03-saviors-of-kamigawa-logo-and-expansion-symbol) the [logo](https://i.ormos.uk/ee/35/ee354bb30f6746b67ebb1dc5606fa5779b70f6a180b3120f2d3a6be2593487ed.jpg) and [expansion symbol](https://i.ormos.uk/53/da/53da7a56f3bd9783e23c8cefdcad44618d148839b11add96720154b6fde933dd.jpg) for *Saviors of Kamigawa*, the Kamigawa block's final set, coming in June. Today we'd like to take a moment to go behind the scenes to show you some of the evolution of that *Saviors'* logo and symbol.
+![Saviors of Kamigawa logo](https://i.ormos.uk/49/e3/49e34c1d05295406a1c1ae8e317a5c68d4b21c63c7c9b0525331cf620c082efa.jpg)
+
+We've already [shown you](/en/articles/arcana/2005/02-03-saviors-of-kamigawa-logo-and-expansion-symbol) the [logo](https://i.ormos.uk/ee/35/ee354bb30f6746b67ebb1dc5606fa5779b70f6a180b3120f2d3a6be2593487ed.jpg) and [expansion symbol](https://i.ormos.uk/53/da/53da7a56f3bd9783e23c8cefdcad44618d148839b11add96720154b6fde933dd.jpg) for *Saviors of Kamigawa*, the Kamigawa block's final set, coming in June. Today we'd like to take a moment to go behind the scenes to show you some of the evolution of that *Saviors'* logo and symbol.
 
   
 

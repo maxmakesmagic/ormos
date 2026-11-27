@@ -44,7 +44,9 @@ archive_source:
   sha256: 15ee67477a9e216487a9926113d706012ae16eacc38f26978c566ad6a5c3997f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/qf1_1.jpg)There are only two Spanish players in the Top 8 and one of them has to face Kai Budde in the Quarterfinals. Marrero drew that dubious honor. The crowd is leaning against the barriers to catch all possible glimpses on the action on this table. If Marrero loses no one will blame him, but if he wins... it will be almost like winning the Grand Prix for the crowd, and even if he didn't press on to win he would have at least stopped the [Juggernaut](https://web.archive.org/web/20040222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Juggernaut) right here and now.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmad04/qf1_1.jpg)
+
+There are only two Spanish players in the Top 8 and one of them has to face Kai Budde in the Quarterfinals. Marrero drew that dubious honor. The crowd is leaning against the barriers to catch all possible glimpses on the action on this table. If Marrero loses no one will blame him, but if he wins... it will be almost like winning the Grand Prix for the crowd, and even if he didn't press on to win he would have at least stopped the [Juggernaut](https://web.archive.org/web/20040222000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Juggernaut) right here and now.
 
 ### Game 1
 

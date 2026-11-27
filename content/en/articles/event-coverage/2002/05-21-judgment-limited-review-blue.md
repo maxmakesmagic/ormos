@@ -392,7 +392,9 @@ This is the second installment of my series reviewing the cards of Judgment for 
 
 ### Blue
 
-![](https://i.ormos.uk/eb/93/eb93b1eb203c27f2966658b01209ebfe2501269bc3c02e96851481e6c93156e6.jpg)It's never bad to be the blue mage, is it? I mean, every other color seems to have their sets where their cards are just worse than their counterparts, but not blue. Blue always seems strong. 
+![](https://i.ormos.uk/eb/93/eb93b1eb203c27f2966658b01209ebfe2501269bc3c02e96851481e6c93156e6.jpg)
+
+It's never bad to be the blue mage, is it? I mean, every other color seems to have their sets where their cards are just worse than their counterparts, but not blue. Blue always seems strong. 
 
 Blue's constant strength can be traced to two primary areas: card advantage and evasion. The best flyers have always been blue, as have the best card drawers, and when you throw in the extraordinary capacity for filling the graveyard, blue remains strong even though *Torment* is the black set and *Judgment* the white-green equivalent.
 

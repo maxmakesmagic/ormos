@@ -261,7 +261,9 @@ render_recovery:
   - Flamewave Invoker
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a557.jpg)決勝ラウンドに勝ち進むためには、上位2チームに食い込まなければならない。そうなると、日本代表はここから先を2勝した上で...フィンランド、アメリカ、フランスの勝敗の行方を見守るしかないのだ。
+![](http://www.wizards.com/sideboard/images/worlds03/a557.jpg)
+
+決勝ラウンドに勝ち進むためには、上位2チームに食い込まなければならない。そうなると、日本代表はここから先を2勝した上で...フィンランド、アメリカ、フランスの勝敗の行方を見守るしかないのだ。
 
 **-COUNTRY-: -Pts-**  
  FINLAND: 124  
@@ -290,7 +292,9 @@ render_recovery:
 
 なぜなら、《クローサの拳カマール/Kamahl, Fist of Krosa》と《貪欲なるベイロス/Ravenous Baloth》を大塚の開封したパックと藤田自身のパックから連続して入手しており、最後の最後のスカージでも《包囲攻撃の司令官/Siege-Gang Commander》をピック。かなりゴージャスな赤緑デッキを仕上げたのだ。
 
-![](http://www.wizards.com/sideboard/images/worlds03/a559.jpg)また、3体の《スカークの匪賊/Skirk Marauder》にはじまってクリーチャー基盤も除去も優秀なラインナップが揃っており、対するWallsのデッキは普通のクオリティだった。
+![](http://www.wizards.com/sideboard/images/worlds03/a559.jpg)
+
+また、3体の《スカークの匪賊/Skirk Marauder》にはじまってクリーチャー基盤も除去も優秀なラインナップが揃っており、対するWallsのデッキは普通のクオリティだった。
 
 大塚はというと、2体の《ダールのとげ刺し/Daru Stinger》を活用するか、航空戦力でのビートダウンに持ち込みたいところだったが、Wagennerが除去満載でクリーチャー基盤も優秀であることが気がかりだった。
 
@@ -323,7 +327,9 @@ render_recovery:
 
 　Wallsは《沿岸の見張り/Coast Watcher》に《ドラゴンの鱗/Dragon Scales》をエンチャントして第3ターンからダメージクロックとして機能させた。
 
-![](https://i.ormos.uk/44/74/4474754da5d8e0b6d43fd39fbf4b6f41315d05112a326d6c60034ca7613f3f3b.jpg)藤田はこのクリーチャーを除去するために《変異/Morph》でアタックし、ブロックさせて戦闘ダメージをスタックしてから《スカークの匪賊/Skirk Marauder》に変身する...などの涙ぐましい努力を見せるも...《療養/Recuperate》でプリヴェントされてしまう。
+![](https://i.ormos.uk/44/74/4474754da5d8e0b6d43fd39fbf4b6f41315d05112a326d6c60034ca7613f3f3b.jpg)
+
+藤田はこのクリーチャーを除去するために《変異/Morph》でアタックし、ブロックさせて戦闘ダメージをスタックしてから《スカークの匪賊/Skirk Marauder》に変身する...などの涙ぐましい努力を見せるも...《療養/Recuperate》でプリヴェントされてしまう。
 
 藤田は《冠毛の岩角獣/Crested Craghorn》の「挑発」でもってようやっとこの2/3「セラ」アタッカーを除去してみせたが...墓地に落ちたのも束の間。《海辺のレインジャー/Shoreline Ranger》が召喚されたときに場に舞い戻り、なんとタップしない4/6フライヤーとなってしまうという有様であった。
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: fdf17c5cf6ea7c59617045ede94d15a633533a7d8bace29878747c0e302e75f5
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplon03/a953.jpg)Both players are well known to the Magic community. John for his outstanding season last year and Ed for, well, being Ed Fear. That’s not to say Ed has had a bad year – far from it, he too is in top form. Both players attended Worlds this year and haven’t had too much time to work on Onslaught Block constructed. Even so John has had a week’s practice with his favoured deck, Goblins, but Ed picked up his first Onslaught Block deck at 8am: Bad Form. 
+![](http://www.wizards.com/sideboard/images/gplon03/a953.jpg)
+
+Both players are well known to the Magic community. John for his outstanding season last year and Ed for, well, being Ed Fear. That’s not to say Ed has had a bad year – far from it, he too is in top form. Both players attended Worlds this year and haven’t had too much time to work on Onslaught Block constructed. Even so John has had a week’s practice with his favoured deck, Goblins, but Ed picked up his first Onslaught Block deck at 8am: Bad Form. 
 
 Ed won the die roll and led off with a Mountain, whilst John started casting spells straight away, adding a Prospector to his board. Ed followed up by showing one of the reasons he’d kept his hand: A Lightning Rift. With enough cycling cards a turn two Rift can cause most Goblin decks to have fits. 
 
@@ -65,7 +67,9 @@ John was drawing well and played another Warchief and attacked, dropping Ed to 1
 
 Once again John peeled a good card off the top, playing out a Goblin Burrows and dropping Siege Gang Commander, forcing Ed to spend his turn casting Starstorm to clear the decks one last time.
 
-![](http://www.wizards.com/sideboard/images/gplon03/a954.jpg)John still hadn’t run out of things to do and dropped a Goblin Sharpshooter but this time Ed had a better play: he cast Rorix Bladewing and sent him into the Red Zone to knock John to twelve life and put him ahead for the first time that game. John untapped and drew a second Commander off the top of his deck, played it and passed the turn back to Ed. Ed sent his dragon into the Red Zone again, knocking John down to only six life but knowing, with the Sharpshooter and Commander he may well have played his last turn.
+![](http://www.wizards.com/sideboard/images/gplon03/a954.jpg)
+
+John still hadn’t run out of things to do and dropped a Goblin Sharpshooter but this time Ed had a better play: he cast Rorix Bladewing and sent him into the Red Zone to knock John to twelve life and put him ahead for the first time that game. John untapped and drew a second Commander off the top of his deck, played it and passed the turn back to Ed. Ed sent his dragon into the Red Zone again, knocking John down to only six life but knowing, with the Sharpshooter and Commander he may well have played his last turn.
 
 John sent in his goblin tokens and the Commander to knock Ed down to nine and used the Sharpshooter and the Commander’s ability to deal the last nine points of damage.
 
@@ -75,7 +79,9 @@ Both players shuffled up and both kept their opening hands. Ed started digging f
 
 John played out a Warchief but kept it back, having no mana to get the Primoc out of the way. Ed took charge and flew in for two and added a second Primoc to his side of the table. John meanwhile added a creature of his own, a Prospector and sent his new man into the Red Zone, daring Ed to block. 
 
-![](http://www.wizards.com/sideboard/images/gplon03/a955.jpg)Ed flew in again for four next turn, dropping John to 14 life and, on 17 life with a hand full of cards, looked to be in control. Just like the last game though, John was drawing good spells and sacrificed both of his Goblins for mana to cast Rorix Bladewing and sent him in to attack, dropping Ed to 11. Ed left his men back on defence the next turn, adding only a Lightning Rift to his board and leaving plenty of mana untapped. John flew in, Ed double blocked and lost both of his Primocs but cast a Starstorm for one at the end of the turn to kill the Red Legend. He untapped and added two more Rifts to the table, needing only cycling spells for the win.
+![](http://www.wizards.com/sideboard/images/gplon03/a955.jpg)
+
+Ed flew in again for four next turn, dropping John to 14 life and, on 17 life with a hand full of cards, looked to be in control. Just like the last game though, John was drawing good spells and sacrificed both of his Goblins for mana to cast Rorix Bladewing and sent him in to attack, dropping Ed to 11. Ed left his men back on defence the next turn, adding only a Lightning Rift to his board and leaving plenty of mana untapped. John flew in, Ed double blocked and lost both of his Primocs but cast a Starstorm for one at the end of the turn to kill the Red Legend. He untapped and added two more Rifts to the table, needing only cycling spells for the win.
 
 He didn’t. John played out a Prospector followed by a Menacing Orge – winning the life auction and came in to knock Ed to only two life, Ed’s deck could only give him yet another land and he extended his hand to finish the game.
 

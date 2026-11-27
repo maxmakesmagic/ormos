@@ -78,7 +78,9 @@ render_recovery:
   - Infernal Caretaker
   occurrences: 41
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a973.jpg)Everyone loves a grudge match. These two last tangled indirectly, as their teams (Morita's PS2 and Nakamura's S.S.D.) fought at Grand Prix – Nagoya with the Championship title and an invitation to the Team Masters on the line. Morita and his teammates Masashiro Kuroda and Katsuhiro Mori emerged victorious. They made the most of their invitation, winning the Team Masters last weekend at Venice. Now Nakamura has a chance at revenge. If only they weren't such good friends, and hadn't shown each other their decks while they sat out their byes.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a973.jpg)
+
+Everyone loves a grudge match. These two last tangled indirectly, as their teams (Morita's PS2 and Nakamura's S.S.D.) fought at Grand Prix – Nagoya with the Championship title and an invitation to the Team Masters on the line. Morita and his teammates Masashiro Kuroda and Katsuhiro Mori emerged victorious. They made the most of their invitation, winning the Team Masters last weekend at Venice. Now Nakamura has a chance at revenge. If only they weren't such good friends, and hadn't shown each other their decks while they sat out their byes.
 
 ### Game 1
 
@@ -96,7 +98,9 @@ Morita pulled land number three just in time, and traded morphs with Nakamura. H
 
 Nakamura's sixth land didn't arrive on time, so he had to content himself with Spectral Sliver. Morita answered with a morph. Nakamura found his sixth for his Murkdiver, but Morita got rid of it with Shock and Sparksmith. Morita was meanwhile desperate for a second swamp. It would allow not only his own Murkdiver, but also enable his face-down Silent Specter. He sent his Craghorn, and traded it for the Brawler in a double-block. Frenetic Raptor hit the table. Nakamura tried to stabilize, dropping Crypt Sliver and a morph, leaving two mana open. Morita shot the Crypt Sliver, and Nakamura pumped to save it. The life totals were seventeen to eight in Nakamura's favor.
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a974.jpg)Morita ripped a swamp and sent in his Raptor and Flock. Fallen Cleric and Spectral Sliver blocked, the Spectral Sliver regenerated, and Sparksmith finished the Crypt Sliver. Morita followed up with Anurid Murkdiver. Things were looking up. He was forced to throw away his morphed Silent Specter to the Spectral Sliver. Nakamura flipped up his Infernal Caretaker before damage resolved just in case, getting back Cleric, Murkdiver and Brawler to Morita's Cleric. He needed more time.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a974.jpg)
+
+Morita ripped a swamp and sent in his Raptor and Flock. Fallen Cleric and Spectral Sliver blocked, the Spectral Sliver regenerated, and Sparksmith finished the Crypt Sliver. Morita followed up with Anurid Murkdiver. Things were looking up. He was forced to throw away his morphed Silent Specter to the Spectral Sliver. Nakamura flipped up his Infernal Caretaker before damage resolved just in case, getting back Cleric, Murkdiver and Brawler to Morita's Cleric. He needed more time.
 
 Morita swung in with Flock and Murkdiver, dropping Nakamura to seven. He added a morph and Flamestick Courier to the table. He shot down the incoming Caretaker and threw his morph in front of the Spectral Sliver. Nakamura had no choice but to leave it as a trade. He needed his mana to power out a morph and Brawler, saving two mana for a Shock on the Sootfeather Flock in order to stay alive for one more turn. Morita dropped a morph and got ready to win, assuming Nakamura had no shenanigans. He did not.
 

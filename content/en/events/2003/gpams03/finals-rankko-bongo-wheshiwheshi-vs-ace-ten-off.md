@@ -81,7 +81,9 @@ render_recovery:
 
 After some debate about which side of a one-Euro coin was heads and which was tails, Eric won the flip. He was stuck on only two Swamps, but this still allowed him to cast two Goblin Turncoats and a Withered Wretch. Jose sucked up some early beats from the Turncoat as he had Embermage Goblin and didn't want to waste blockers. Eric did find some more land but he needed Plains and drew Swamps, and all of his Turncoats were removed by Embermage Goblin. 
 
-![](http://www.wizards.com/sideboard/images/gpams03/a874.jpg)Barbero dropped an Anurid Murkdiver, then a second Murkdiver as Eric still only had four Swamps in play. The 4/3 unblockables ended the game in short order.
+![](http://www.wizards.com/sideboard/images/gpams03/a874.jpg)
+
+Barbero dropped an Anurid Murkdiver, then a second Murkdiver as Eric still only had four Swamps in play. The 4/3 unblockables ended the game in short order.
 
 Jose Barbero 1 – Eric Froehlich 0
 
@@ -95,7 +97,9 @@ Jose Barbero 1 – Eric Froehlich 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpams03/a866.jpg)Eric played Silver Knight on turn two and a morph on turn three. Jose got through with his morph and summoned Vengeful Dead. Eric also had a Vengeful Dead, and swung again with his other guys, putting Jose down to fourteen. 
+![](http://www.wizards.com/sideboard/images/gpams03/a866.jpg)
+
+Eric played Silver Knight on turn two and a morph on turn three. Jose got through with his morph and summoned Vengeful Dead. Eric also had a Vengeful Dead, and swung again with his other guys, putting Jose down to fourteen. 
 
 Barbero gave his Vengeful Dead a Clutch of Undeath, and attacked with that and the morph. Eric traded his dead for the morph, and went down to eleven. Froehlich hung back with a Sanctifier and used it to block the Dead before unmorphing. This knocked him to ten. Jose dropped Anurid Murkdiver. Eric windmill-slammed Visara the Dreadful, but it wasn't enough as Barbero waved a Torrent of Fire at Eric's head, and attacked with the Murkdiver for exactly ten, before leaping out of his seat and jumping on a nearby table.
 

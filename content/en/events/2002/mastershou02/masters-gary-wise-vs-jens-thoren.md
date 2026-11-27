@@ -656,7 +656,9 @@ render_recovery:
 
 **Game 1** 
 
-![](http://www.wizards.com/sideboard/images/pthou02/a891.jpg)先攻Wise《島》2枚というハンドをキープ。ちなみにスペルは真っ白な初手であり、最初に展開できたのは《変異/Morph》クリーチャーだった。
+![](http://www.wizards.com/sideboard/images/pthou02/a891.jpg)
+
+先攻Wise《島》2枚というハンドをキープ。ちなみにスペルは真っ白な初手であり、最初に展開できたのは《変異/Morph》クリーチャーだった。
 
 嫌な予感のするハンドである。
 
@@ -680,7 +682,9 @@ Wiseは《霧衣の金切り魔/Mistform Shrieker》を召喚するも、ここ�
 
 そして、このあと両者がともに《変異/Morph》のクリーチャーを1体ずつ展開するのだが、Thorenのそれは《物怖じするヴァレスク/Skittish Valesk》であり、直接戦闘で圧勝することに。
 
-![](http://www.wizards.com/sideboard/images/pthou02/a895.jpg)･･･しかもThorenはコインフリップにもなかなか負けない（つまり《ヴァレスク》が裏返らない）という"Broken"ぶりであった。
+![](http://www.wizards.com/sideboard/images/pthou02/a895.jpg)
+
+･･･しかもThorenはコインフリップにもなかなか負けない（つまり《ヴァレスク》が裏返らない）という"Broken"ぶりであった。
 
 ここでThorenはさらに2体の《変異/Morph》を展開し、Wiseは《疾風衣の侵略者/Gustcloak Harrier》に《畏敬の冠/Crown of Awe》をエンチャントして対抗するも、やはりクリーチャーの絶対数がどうにもならなかった。
 

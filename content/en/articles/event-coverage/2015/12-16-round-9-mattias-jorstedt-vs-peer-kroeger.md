@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Brian Hacker*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/296.JPG)Game 1 was all about Parallax Tide. Three of them in fact. All on Jorstedt's side. Kroeger cast only one spell in the game, a lone turn 6 Llanowar Elf. Kroeger has seen better days. The Tide's locked Kroeger down for a sizable amount of time and all that was left was the clerical work, which Jorstedt managed by using Attunement every turn to find a Replenish. I joked with Kroeger after the game that it was probably the longest match he has ever had in which he cast only one spell. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/296.JPG)
+
+Game 1 was all about Parallax Tide. Three of them in fact. All on Jorstedt's side. Kroeger cast only one spell in the game, a lone turn 6 Llanowar Elf. Kroeger has seen better days. The Tide's locked Kroeger down for a sizable amount of time and all that was left was the clerical work, which Jorstedt managed by using Attunement every turn to find a Replenish. I joked with Kroeger after the game that it was probably the longest match he has ever had in which he cast only one spell. 
 
 Kroeger's deck does much better with land, and the second game looked much better from the get-go. Jorstedt used an first turn Enlightened Tutor to go get a Counterspell. Kroeger Boiled at the end of Jorstedt's third turn thanks to an early Bird of Paradise. Jorstedt used the counterspell, but when Kroeger untapped, he Boiled again. This time it was Kroeger who was doing the land destruction. Jorstedt limped out an Attunement a few turns later, but the game was looking bad by then, as Kroeger followed the Boil with successive Blastoderm, Tangle Wire. This game Kroeger won going away, and a crowd gathered as the third was about to begin.
 

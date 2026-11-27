@@ -211,7 +211,9 @@ All Public Events at Grand Prix Melbourne except casual non-rated events will ha
 
 ### Artist Information
 
-![](https://i.ormos.uk/2e/94/2e948d078e68c0edc5f3cbfd727b48818f54e16f6aa0052fd5a05457bd78a0c5.jpg)We are delighted to announce that Daarken will be attending Grand Prix Melbourne. Daarken came into being in a dark, dank basement under the stairs of an abandoned barber college located in the heart of the tenderloin of San Francisco. Occasionally he emerged from his cave to attend classes at the Academy of Art University. His bright, white skin glistened in the sun as he moved from building to building with sketchbook in hand. After graduating in 2004 he spent three long years honing his skill (a.k.a. playing video games) as a freelance artist before moving to Virginia to work for EA Mythic as a concept artist for the video game Warhammer Online: Age of Reckoning. To this day Daarken still plays video games, and stuff.
+![](https://i.ormos.uk/2e/94/2e948d078e68c0edc5f3cbfd727b48818f54e16f6aa0052fd5a05457bd78a0c5.jpg)
+
+We are delighted to announce that Daarken will be attending Grand Prix Melbourne. Daarken came into being in a dark, dank basement under the stairs of an abandoned barber college located in the heart of the tenderloin of San Francisco. Occasionally he emerged from his cave to attend classes at the Academy of Art University. His bright, white skin glistened in the sun as he moved from building to building with sketchbook in hand. After graduating in 2004 he spent three long years honing his skill (a.k.a. playing video games) as a freelance artist before moving to Virginia to work for EA Mythic as a concept artist for the video game Warhammer Online: Age of Reckoning. To this day Daarken still plays video games, and stuff.
 
 *   [**Magic** card art by Daarken](https://web.archive.org/web/20130703132815/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5b%22Daarken%22%5d)
 

@@ -96,7 +96,9 @@ That, in turn, means rolling up my sleeves and getting up to my elbows in **Magi
 
 ### Taking up a Collection
 
-[![Brainstorm](https://i.ormos.uk/a9/d4/a9d4400f3b553a3141e6ac7ae11a9143c6f5fb54e32dc864c77a156fa9bbf080.jpg)](https://web.archive.org/web/20080812000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Brainstorm)Most people don't need as many decks as I'm going to, and I'm guessing many people don't have as big a collection as I do. But if you have any cards that aren't in decks, at some point you'll find yourself going through them, trying to find the cards that go in *this* deck, right now. I'm guessing that I'm not the only one that can find it hard to narrow my collection of cards down to a collection of decks. One of the best things that makes **Magic** what it is, choice, can also make it tough to get deck building started. And I suspect many of you have had some issues dealing with this, whatever the size of your collection. 
+[![Brainstorm](https://i.ormos.uk/a9/d4/a9d4400f3b553a3141e6ac7ae11a9143c6f5fb54e32dc864c77a156fa9bbf080.jpg)](https://web.archive.org/web/20080812000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Brainstorm)
+
+Most people don't need as many decks as I'm going to, and I'm guessing many people don't have as big a collection as I do. But if you have any cards that aren't in decks, at some point you'll find yourself going through them, trying to find the cards that go in *this* deck, right now. I'm guessing that I'm not the only one that can find it hard to narrow my collection of cards down to a collection of decks. One of the best things that makes **Magic** what it is, choice, can also make it tough to get deck building started. And I suspect many of you have had some issues dealing with this, whatever the size of your collection. 
 
 Let me tell you, I find it pretty tough. I get overloaded, looking through that many cards with no good way of narrowing down my options. Out of so many cards, from so many sets, how am I supposed to pick which ones go in this deck?
 

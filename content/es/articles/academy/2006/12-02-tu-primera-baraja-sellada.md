@@ -362,7 +362,9 @@ Hay algo inmensamente satisfactorio en ver que tus teorías crecen y se hacen m�
 
 ### Tu primera baraja sellada
 
-![](https://i.ormos.uk/f0/b7/f0b7f2ba0e883d212aa2f8a77d4d2a8b680b652d75b7c2f0cdda12b33ffde5a1.jpg)Baraja sellada es un formato prehistórico. Es el formato que imita más fielmente lo que era jugar a **Magic** cuando se empezó. Hoy en día los formatos construidos han sido divididos en Standard, Vintage y todo lo que hay entre medio y han evolucionado mucho y a veces muy rápidamente. Gracias a internet, todo el mundo sabe que las cartas hay disponibles y las usa sacándoles el máximo provecho. No estoy criticando esto, es genial, pero lo que me gusta de baraja sellada es que es una experiencia parecida a la primera vez que jugué. 
+![](https://i.ormos.uk/f0/b7/f0b7f2ba0e883d212aa2f8a77d4d2a8b680b652d75b7c2f0cdda12b33ffde5a1.jpg)
+
+Baraja sellada es un formato prehistórico. Es el formato que imita más fielmente lo que era jugar a **Magic** cuando se empezó. Hoy en día los formatos construidos han sido divididos en Standard, Vintage y todo lo que hay entre medio y han evolucionado mucho y a veces muy rápidamente. Gracias a internet, todo el mundo sabe que las cartas hay disponibles y las usa sacándoles el máximo provecho. No estoy criticando esto, es genial, pero lo que me gusta de baraja sellada es que es una experiencia parecida a la primera vez que jugué. 
 
 Baraja sellada es una especie de microcosmos de la experiencia **Magic** original. El terreno de juego es llano pero variado. Todo el mundo recibe una cierta cantidad de producto por abrir, normalmente una baraja de torneo y dos sobres de refuerzo. De todas esas cartas, y añadiendo todas las tierras que se desee, cada jugador debe construir un mazo de 40 cartas como mínimo. Cualquier carta abierta que no se incluya en el mazo forma parte del banquillo. (Hablaremos del banquillo y cómo usarlo más tarde). 
 
@@ -522,7 +524,9 @@ Una vez tengas una idea que pueda funcionar y asumiendo que te queda algo de tie
 
 **8\. Curva de maná**
 
-![](https://i.ormos.uk/8f/8d/8f8db1c4b6502af34639e1a614201d68131fc93d027f65ada56a5cdbb68ea292.jpg)Hemos puesto mucho énfasis en gestionar los costes de maná de las cartas y en ser capaces de jugar nuestros hechizos regularmente y con eficiencia. La mejor forma de apreciarlo a la hora de montar un mazo es extendiendo las cartas por coste de maná. 
+![](https://i.ormos.uk/8f/8d/8f8db1c4b6502af34639e1a614201d68131fc93d027f65ada56a5cdbb68ea292.jpg)
+
+Hemos puesto mucho énfasis en gestionar los costes de maná de las cartas y en ser capaces de jugar nuestros hechizos regularmente y con eficiencia. La mejor forma de apreciarlo a la hora de montar un mazo es extendiendo las cartas por coste de maná. 
 
 Así podemos ver que áreas están demasiado llenas o demasiado poco, motivando decisiones. Incluso si alguna carta de coste 4 es mejor que una de coste 3, si tienes 7 de coste 4 y 2 de coste 3, querrás jugar la de coste 3 en vez de la de 4. 
 

@@ -75,7 +75,9 @@ The plains are dry salt flats blasted by windstorms. Nothing grows here; in fact
 ![](https://i.ormos.uk/95/4d/954df7272fa1e78e767b13f29062223b0427d9eaba1316a27c8e978df48a247f.jpg)  
 *The once-glimmering spires of Benalia* 
 
-![Plains4](https://i.ormos.uk/7d/f5/7df5cea53b725b0148bc97befda15064dd023f635f4abab8b9b7b2a990678a43.jpg)The iron skeletons of Benalish towers show through the marble. You can see, in Richard Wright’s Plains art (right), that survivors have adapted to life in the pitted remains of their former plains homes. 
+![Plains4](https://i.ormos.uk/7d/f5/7df5cea53b725b0148bc97befda15064dd023f635f4abab8b9b7b2a990678a43.jpg)
+
+The iron skeletons of Benalish towers show through the marble. You can see, in Richard Wright’s Plains art (right), that survivors have adapted to life in the pitted remains of their former plains homes. 
 
 The salt is the number one killer here—it corrodes clothing and stings the eyes and skin. The renegades cling to life here by keeping the amount of exposed skin to a minimum. Below are some concept sketches of the jury-rigged headwraps employed by humanoids here. Compare to the art of cards like [Weathered Bodyguards](https://web.archive.org/web/20061012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Weathered+Bodyguards), [Griffin Guide](https://web.archive.org/web/20061012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Griffin+Guide) and [Children of Korlis](https://web.archive.org/web/20061012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Children+of+Korlis).
 

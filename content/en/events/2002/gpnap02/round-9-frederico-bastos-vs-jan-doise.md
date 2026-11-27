@@ -88,7 +88,9 @@ render_recovery:
   - Moment's Peace
   occurrences: 48
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a926.jpg)Frederico Bastos is probably the most recognised Portuguese player with Pro Tour Top 8's in Tokyo and San Diego. Jan Doise is one of the top Belgian players with consistent performances at Grand Prix level.
+![](http://www.wizards.com/sideboard/images/gpnap02/a926.jpg)
+
+Frederico Bastos is probably the most recognised Portuguese player with Pro Tour Top 8's in Tokyo and San Diego. Jan Doise is one of the top Belgian players with consistent performances at Grand Prix level.
 
 Both weren't entirely happy with their drafts as they got dragged into the same three colour combination – green-red-blue.
 
@@ -120,7 +122,9 @@ Doise 1-1 Bastos
 
 ### Game 3
 
-![](https://i.ormos.uk/ae/d4/aed4354dfc78af49ac1b060a9bf79b3c3cff6e428d6265b62e53709804cc67ae.jpg)Bastos made Doise go first for the decider. Bastos got the first creature in as the dreaded Wild Mongrel hit the table on turn 2. Doise made a Krosan Avenger on turn 3 for the third time in the match.
+![](https://i.ormos.uk/ae/d4/aed4354dfc78af49ac1b060a9bf79b3c3cff6e428d6265b62e53709804cc67ae.jpg)
+
+Bastos made Doise go first for the decider. Bastos got the first creature in as the dreaded Wild Mongrel hit the table on turn 2. Doise made a Krosan Avenger on turn 3 for the third time in the match.
 
 To clean up his mana, Frederico replaced two Forests and a Krosan Restorer with an Island, Forest and Mountain through Rites of Spring and then added Nimble Mongoose to the table.
 

@@ -1023,7 +1023,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/3e/36/3e3611c2b3bacbd7bed61a00377e0ea28c77f05e4bea3c35da7d025441dd815f.jpg)Nassif's quest to make Magic history hit a slight snag last round when the French National Team fell to the squad from the Netherlands. This round they would be up against a rag-tag outfit from Germany bereft of any household names. The biggest name on the team name is actually only the surname. Sebastian Zink is the brother of last year's World Champion Daniel.
+![](https://i.ormos.uk/3e/36/3e3611c2b3bacbd7bed61a00377e0ea28c77f05e4bea3c35da7d025441dd815f.jpg)
+
+Nassif's quest to make Magic history hit a slight snag last round when the French National Team fell to the squad from the Netherlands. This round they would be up against a rag-tag outfit from Germany bereft of any household names. The biggest name on the team name is actually only the surname. Sebastian Zink is the brother of last year's World Champion Daniel.
 
 I asked Daniel if he gave his brother any advice prior to the draft and he waved that suggestion with a laugh. "No, no…but Kai did."
 

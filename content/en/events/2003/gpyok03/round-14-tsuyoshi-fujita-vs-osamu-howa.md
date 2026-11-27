@@ -71,7 +71,9 @@ Tsuyoshi "Mr. Rolly" Fujita is having his usual good tournament weekend. His rec
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a920.jpg)Howa had to send back a hand of goblins and swamps, but his next was acceptable, if a little slow. Fujita made matters worse with a pair of Silver Knights, blunting Howa's Sledder, Warchief opening. However, Fujita sent one of the Knights in for damage, so Howa was able to make a turn four Siege-Gang Commander and swing in for six damage, saving the blocked Commander with the Sledder's ability. Fujita held back. 
+![](http://www.wizards.com/sideboard/images/gpyok03/a920.jpg)
+
+Howa had to send back a hand of goblins and swamps, but his next was acceptable, if a little slow. Fujita made matters worse with a pair of Silver Knights, blunting Howa's Sledder, Warchief opening. However, Fujita sent one of the Knights in for damage, so Howa was able to make a turn four Siege-Gang Commander and swing in for six damage, saving the blocked Commander with the Sledder's ability. Fujita held back. 
 
 Howa made a Sharpshooter, making his board even more threatening. Fujita played a face-up Angel. Howa threw a goblin at him and pinged him, dropping him to eleven. Howa untapped and played his sixth land and started doing some calculations. He swung in with his creatures, then threw the blocked ones at Fujita, pinging as he went. The end result was exactly eleven damage.
 
@@ -79,7 +81,9 @@ Howa 1 – Fujita 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a921.jpg)Howa kept a hand short on early action, but Smothered Fujita's Silver Knight and started to beat with Clickslither. He followed up with Siege-Gang Commander, to which Fujita responded with a Starstorm. The following turn he tried a Clickslither, and again Starstorm shut him down. He kept the pressure up with a Goblin Warchief, but Fujita had the third Storm to clear them out.
+![](http://www.wizards.com/sideboard/images/gpyok03/a921.jpg)
+
+Howa kept a hand short on early action, but Smothered Fujita's Silver Knight and started to beat with Clickslither. He followed up with Siege-Gang Commander, to which Fujita responded with a Starstorm. The following turn he tried a Clickslither, and again Starstorm shut him down. He kept the pressure up with a Goblin Warchief, but Fujita had the third Storm to clear them out.
 
 Fujita thought he had finally outlasted Howa, but Howa came back with Oversold Cemetery, forcing Fujita to spend an Akroma's Vengeance right away. Howa had a second to replace it, and Fujita could only roll his eyes. He got back Siege-Gang Commander, and then topdecked Bidding as a security measure. Fujita fell in two turns. Howa's friends were on hand to congratulate him on a big win.
 

@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Josh Bennett* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/902.jpg)One of the bars to the legitimacy of professional Magic as a "sport" is the randomness inherent in the game. This bias is weakened every time exceptional players do well with consistency. Thus it warms the heart of each of Magic's proponents to see former Pro Tour champions Bob Maher Jr. and Sigurd Eskeland sitting pretty at 4-1-1, all but guaranteed to make Day 2. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/902.jpg)
+
+One of the bars to the legitimacy of professional Magic as a "sport" is the randomness inherent in the game. This bias is weakened every time exceptional players do well with consistency. Thus it warms the heart of each of Magic's proponents to see former Pro Tour champions Bob Maher Jr. and Sigurd Eskeland sitting pretty at 4-1-1, all but guaranteed to make Day 2. 
 
 Eskeland mulliganed game one and busted out a Ramosian Sergeant. Maher Ported his land on turn two, and then played back-to-back Chimeric Idols turns three and four. He swung for three, and Eskeland searched out a Defiant Falcon. 
 
@@ -51,7 +53,9 @@ Eskeland Ported Maher on his next upkeep, stranding the bounced Idol. Maher atta
 
 Eskeland had to mulligan again in game two, making a Sergeant and Falcon while Maher cast Spiketail Hatchling and Chimeric Idol. Eskeland couldn't find a third land, and had to pass back to Maher, who cast a second Idol and stopped Eskeland's Power Sink by sacrificing his Hatchling. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/904.jpg)Eskeland Disenchanted one of the Idols on his next turn. Maher played Ankh of Mishra, taking advantage of Eskeland's mana troubles, and attacked again with his Idol. Eskeland found his third land to cast Lin-Sivvi, but Maher had found his fourth and cast Wash Out, naming white, his Idol storming the empty battlefield. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/904.jpg)
+
+Eskeland Disenchanted one of the Idols on his next turn. Maher played Ankh of Mishra, taking advantage of Eskeland's mana troubles, and attacked again with his Idol. Eskeland found his third land to cast Lin-Sivvi, but Maher had found his fourth and cast Wash Out, naming white, his Idol storming the empty battlefield. 
 
 Eskeland went to one playing his fourth land, hoping Parallax Wave would buy him some time, but Maher had a second Wash Out for the win. 
 

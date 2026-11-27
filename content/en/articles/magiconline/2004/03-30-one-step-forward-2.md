@@ -85,7 +85,9 @@ And so one less visible, important fix gets overshadowed by a very visible error
 
 Another piece of news I had for today is that we've had some meetings to decide what to do as a permanent fix to the abuse of the **1700 Room** Constructed queue. For clarification, some groups of players (or single players with multiple accounts) were filling Constructed queues together and conceding quickly to get prizes. Since these tournaments often last somewhere on the order of 5 to 10 minutes, it's obvious that the players' sole intent was to stack the queue and get the prizes without playing. This falls under the category of manipulating the system to alter the outcome of a tournament and is a violation of the ***Magic** Online*[Code of Conduct](/en/articles/uncategorised/2003/12-15-magic-the-gathering-online)(end link).
 
-![](https://i.ormos.uk/4a/de/4adefd414c47ef4101336a8999bdcd9c021e161dd0ad4efeaa5d962f553f4262.jpg)Some of these accounts have been suspended already and the team is continuing to look into abuse cases. However, we also realize that this is only a temporary fix to the problem. I'll get to what we're going to do in a minute, but we've been aware of this problem and have been looking for a solution.
+![](https://i.ormos.uk/4a/de/4adefd414c47ef4101336a8999bdcd9c021e161dd0ad4efeaa5d962f553f4262.jpg)
+
+Some of these accounts have been suspended already and the team is continuing to look into abuse cases. However, we also realize that this is only a temporary fix to the problem. I'll get to what we're going to do in a minute, but we've been aware of this problem and have been looking for a solution.
 
 We'd planned on turning off the **1700 Room** Constructed queues until we could implement some changes. Well, they got turned off, all right. Then someone, thinking the queues failed to come up properly after last week's update, set up the queues again. Even more unfortunate, they were set up for one less ticket than they were supposed to be and got abused again over the weekend.
 
@@ -113,7 +115,9 @@ On Monday, we began a small closed beta test of the new leagues and premier even
 
 The next step will be a large beta to test leagues and tournaments. I don't have any details yet, but if things go well this week, we'll be opening things up soon to see if we've finally nailed it.
 
-![](https://i.ormos.uk/f5/a8/f5a832a7b567e16d2713ee0b317131022cad5b81aefb66007306bbc26ef1e3b4.jpg)In the meantime, a lot of items we already have fixes for will have to wait to be tested. With continued stability on ***Magic** Online* our focus is getting leagues back up. Hopefully, this will also reopen the **Premier Events** room, but we'll see. Since little tweaks sometimes cause unexpected problems, we're going to see if we can get the leagues and tournament fix in first, then test the fixes for other bugs later.
+![](https://i.ormos.uk/f5/a8/f5a832a7b567e16d2713ee0b317131022cad5b81aefb66007306bbc26ef1e3b4.jpg)
+
+In the meantime, a lot of items we already have fixes for will have to wait to be tested. With continued stability on ***Magic** Online* our focus is getting leagues back up. Hopefully, this will also reopen the **Premier Events** room, but we'll see. Since little tweaks sometimes cause unexpected problems, we're going to see if we can get the leagues and tournament fix in first, then test the fixes for other bugs later.
 
 Keep your fingers crossed and eyes on the Announcement folder. I'll post details there as soon as I have them (end of this week hopefully).
 

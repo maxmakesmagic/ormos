@@ -44,7 +44,9 @@ archive_source:
   sha256: 0fb61c78bbd83a4ee72aa6aa6d9f7f9746434b48e25d1535369896df5f9da53e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a949.jpg)Noah is not just a well known pro-player, he is the only non-Norwegian guy who won the European Championship, back in 2000. Jan Doise is Belgium's current National Champion and has been doing well in several Grand Prix on the continent.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a949.jpg)
+
+Noah is not just a well known pro-player, he is the only non-Norwegian guy who won the European Championship, back in 2000. Jan Doise is Belgium's current National Champion and has been doing well in several Grand Prix on the continent.
 
 Noah started rocking the place with a pet toy hamster or rat—we were not sure on the creaturetype—chanting "Everybody was kung-fu fighting". It turned out be a hamster, dressed in a kimono, belonging to Olivier Ruel. Smooth jokes were passed on and there was a general feeling of comraderie among these two players who frequently remain in each other's company. 
 
@@ -83,7 +85,9 @@ Noah again made an all out attack casting Keep Watch in the process. In response
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a948.jpg)Noah still shook his head in disbelieve seeing how close the second game got him to winning the game and taking the match. Jan put up a smile realising how lucky he was. This time Noah let Jan start the game. He could read on Jan's face he wanted to keep his hand.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a948.jpg)
+
+Noah still shook his head in disbelieve seeing how close the second game got him to winning the game and taking the match. Jan put up a smile realising how lucky he was. This time Noah let Jan start the game. He could read on Jan's face he wanted to keep his hand.
 
 Followed some quick interaction between Noah's creatures and Jan's removal. Benevolent Guardian immediately got Lava Darted. Basking Rootwalla challenged Jan to sacrifice his mountain for the flashback-cost of the Dart in order to get rid of the hard-to-kill Rootwalla. Jan decided the sacrifice wasn't worth it, only to be chased by a Phantom Nantuko. This however allowed Jan to cast Engulfing Flames on the Rootwalla. 
 

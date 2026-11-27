@@ -69,7 +69,9 @@ archive_source:
   sha256: f530e6d0ffece818df7efabf48c108d11e7d71e6c6d974f941407df3030dde79
 render_recovery: []
 ---
-![](https://i.ormos.uk/07/8c/078c9e02665f15761017b91abe37c8e0bf78730502d6e04b3fe09ca4ebdca1f1.jpg)This week we present the nominees for [the first MTGO Community Award](https://web.archive.org/web/20040720000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ce8). In true award-show tradition, however, I'm going to make you wait a bit. First, a look back at [last week's bug list](https://web.archive.org/web/20040720000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ce9) and discussion of *Fifth Dawn's* (then) upcoming launch. I checked back in with Alan to see how the *Fifth Dawn* launch went from his end. He was pretty confident about seeing a lower level of bugs than with previous releases, and shared with me the three bugs that were found by Thursday. Two confirmed bugs are:
+![](https://i.ormos.uk/07/8c/078c9e02665f15761017b91abe37c8e0bf78730502d6e04b3fe09ca4ebdca1f1.jpg)
+
+This week we present the nominees for [the first MTGO Community Award](https://web.archive.org/web/20040720000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ce8). In true award-show tradition, however, I'm going to make you wait a bit. First, a look back at [last week's bug list](https://web.archive.org/web/20040720000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ce9) and discussion of *Fifth Dawn's* (then) upcoming launch. I checked back in with Alan to see how the *Fifth Dawn* launch went from his end. He was pretty confident about seeing a lower level of bugs than with previous releases, and shared with me the three bugs that were found by Thursday. Two confirmed bugs are:
 
 *   [Mycosynth Golem](https://web.archive.org/web/20040720000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mycosynth+Golem) was not giving affinity to cards cast from your library or graveyard (See [Future Sight](https://web.archive.org/web/20040720000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Future+Sight) and [Yawgmoth's Agenda](https://web.archive.org/web/20040720000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yawgmoth%27s+Agenda), respectively).
 *   [Possessed Portal](https://web.archive.org/web/20040720000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Possessed+Portal) was hanging the game if a player had no permanents.
@@ -122,7 +124,9 @@ And now the nominees. In each case I will provide a brief summary of why this pe
 
 ### Twilight (also known as Beldar)
 
-![](https://i.ormos.uk/0c/e2/0ce2494f5de38e68c1c8a2366db81e1bf23bf8beffcdea3349d75b0bec94cbb1.jpg)Twilight started */join auction*, one of the most popular player-run rooms on MTGO, and a great resource. (See a brief discussion of the room [here](https://web.archive.org/web/20040720000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ce4)). He has also given away thousands of cards, including an effort to start */join free* where players with overflowing collections could hook up newbies with extra commons and uncommons.
+![](https://i.ormos.uk/0c/e2/0ce2494f5de38e68c1c8a2366db81e1bf23bf8beffcdea3349d75b0bec94cbb1.jpg)
+
+Twilight started */join auction*, one of the most popular player-run rooms on MTGO, and a great resource. (See a brief discussion of the room [here](https://web.archive.org/web/20040720000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/ce4)). He has also given away thousands of cards, including an effort to start */join free* where players with overflowing collections could hook up newbies with extra commons and uncommons.
 
 ### Deke Young
 

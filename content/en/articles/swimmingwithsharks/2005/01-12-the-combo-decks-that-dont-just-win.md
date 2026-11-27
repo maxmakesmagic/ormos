@@ -186,7 +186,9 @@ Eladamri's Call can get any card in Group A or B and that Living Wish can get an
 
 Enlightened Tutor and Sterling Grove can also finish the game by getting Test of Endurance, screw an opposing combination deck by getting Rule of Law, or assemble the third part of the combo with Animal Boneyard from Group C.
 
-![](https://i.ormos.uk/6c/6e/6c6effb83bb97d944b80fc58d504f061b5716214e7f0d5e9738a80f47819abd8.jpg)Even when the true combination has not been assembled, any combination of Group A and Group B creatures will demolish conventional beatdown. A Nomads en-Kor isn't that impressive by itself, but with a Task Force? They can hold off two non-evasion creatures of any size! The Nomads en-Kor can put any number of damage prevention shields on the Task Force, pumping its toughness. The Task Force should be big enough to stop any threat, while its little buddy the Nomads en-Kor will absorb any size beatdown because all of the damage coming its way will be redirected to the infinitely tough Task Force; Shaman en-Kor + Daru Spiritualist is just a more explicit version of the same.
+![](https://i.ormos.uk/6c/6e/6c6effb83bb97d944b80fc58d504f061b5716214e7f0d5e9738a80f47819abd8.jpg)
+
+Even when the true combination has not been assembled, any combination of Group A and Group B creatures will demolish conventional beatdown. A Nomads en-Kor isn't that impressive by itself, but with a Task Force? They can hold off two non-evasion creatures of any size! The Nomads en-Kor can put any number of damage prevention shields on the Task Force, pumping its toughness. The Task Force should be big enough to stop any threat, while its little buddy the Nomads en-Kor will absorb any size beatdown because all of the damage coming its way will be redirected to the infinitely tough Task Force; Shaman en-Kor + Daru Spiritualist is just a more explicit version of the same.
 
 Life is awesome against single-minded beatdown decks. There is no better choice against a deck like Red Deck Wins, and it will literally lose to a deck like StOmPy only if horribly manascrewed. So why doesn't everyone just play Life?
 
@@ -230,7 +232,9 @@ Jordan Berkowitz
   
  
 
-![](https://i.ormos.uk/33/f9/33f97fcb587dd649c84882a27c2fe3583d97a228158e08198f42f43eb8ac4930.jpg)The Extended version of the deck takes advantage of some simply awesome interactions. The most important are Intuition and Squee, Goblin Nabob. The deck has a "turn three win" against a good many decks, just by playing Solitary Confinement with Squee in hand. A huge number of Extended decks have no way to beat that draw in game one, including some of the most popular choices, and most of the standouts from [the Columbus Top 8](/en/events/2004/ptcol05/live-coverage-of-2005-pro-tour-columbus-86). 
+![](https://i.ormos.uk/33/f9/33f97fcb587dd649c84882a27c2fe3583d97a228158e08198f42f43eb8ac4930.jpg)
+
+The Extended version of the deck takes advantage of some simply awesome interactions. The most important are Intuition and Squee, Goblin Nabob. The deck has a "turn three win" against a good many decks, just by playing Solitary Confinement with Squee in hand. A huge number of Extended decks have no way to beat that draw in game one, including some of the most popular choices, and most of the standouts from [the Columbus Top 8](/en/events/2004/ptcol05/live-coverage-of-2005-pro-tour-columbus-86). 
 
 Moreover, Intuition + Squee is next to unbeatable for a control deck when Compulsion is in play. The Solitary Confinement player will just draw four cards per turn, every turn, until it is so far ahead that the opposing control player has no chance; With Sapphire Medallion in play, Forbid + Squee is a non-combination synergy that turns three cards into a fist full of Counterspells, not to mention a lock that would put a smile on Jon Finkel's face. 
 

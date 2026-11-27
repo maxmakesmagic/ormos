@@ -44,7 +44,9 @@ archive_source:
   sha256: 04118cb1cf6d2f344cc1844d1bc57984d5164ad78423b3c996d185eb12d0af80
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a929.jpg)Eric: "There has never been a quote attributed to me in coverage that was actually something I said."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a929.jpg)
+
+Eric: "There has never been a quote attributed to me in coverage that was actually something I said."
 
 Eric won the roll and decided to keep his openers after a little consideration and played a [Mountain](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain). Jens also kept his first seven and followed suit with a [Mountain](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) but he had a first turn play and dropped a [Goblin Sledder](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder). 
 
@@ -86,7 +88,9 @@ The warrior drew first blood and Eric played his third [Forest](https://web.arch
 
 Eric: "If you ask me if I kept a no-[Mountain](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) hand I'm gonna get mad!"
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a933.jpg)Jens swung in with Taskmaster but did not pump it and played a face down guy. Eric Tuskered for his [Mountain](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) EOT. All it did was make a 2/2 Heedless one that went to 1/1 on Jens's next turn when he [Swat](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat)ted the elf warrior and swung in for three.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a933.jpg)
+
+Jens swung in with Taskmaster but did not pump it and played a face down guy. Eric Tuskered for his [Mountain](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) EOT. All it did was make a 2/2 Heedless one that went to 1/1 on Jens's next turn when he [Swat](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat)ted the elf warrior and swung in for three.
 
 Eric played a fifth land and tapped it all to play a morph and a [Wellwisher](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher)—bringing the Heedless one back to the gray ogre power level. What followed is not for the squeamish and those with heart conditions may want to step outside for a few moments. Jens enchanted the [Heedless One](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Heedless+One) with [Crown of Suspicion](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Suspicion)s and sacrificed it giving all elves +2/-1 and killing the [Wellwisher](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher). The [Heedless One](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Heedless+One) promptly became a 1/1 and expired as well. 
 

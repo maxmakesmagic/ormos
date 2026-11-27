@@ -306,7 +306,9 @@ While Glory probably does it best (and with the least effort, since it just has 
 
 ### How Low Will They Go?
 
-![](https://i.ormos.uk/0e/ba/0ebac19a3317606199b2dac64b0d324356e6ff1db8d4b6a9e1f2362c9e201412.jpg)So that's Fumiko on defense. But let's put her back on the attack. How willing should your opponents be to block her?
+![](https://i.ormos.uk/0e/ba/0ebac19a3317606199b2dac64b0d324356e6ff1db8d4b6a9e1f2362c9e201412.jpg)
+
+So that's Fumiko on defense. But let's put her back on the attack. How willing should your opponents be to block her?
 
 You could force the issue with Lure, of course. But then Fumiko may get more than she can handle. In any case, I don't like using cards to overkill a single purpose, if there's a broader strategy you can put in your deck for the result you want.
 

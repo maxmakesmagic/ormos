@@ -89,13 +89,21 @@ render_recovery:
 
 ### The Players
 
-![](https://i.ormos.uk/cf/db/cfdba2a15b329b606f6cf43332e21106e5bf0474dbd951f9d14d93930b3d9b4d.jpg)**Olivier Ruel** currently leads the 2005 Player of the Year race thanks to a pair of Top 8 finishes – and a passport stamped on every useable surface from traveling to any Grand Prix on any given weekend. Both of Olivier's Top 8 finishes this year were at Constructed Pro Tours while his Grand Prix titles have come in Limited formats.
+![](https://i.ormos.uk/cf/db/cfdba2a15b329b606f6cf43332e21106e5bf0474dbd951f9d14d93930b3d9b4d.jpg)
 
-![](https://i.ormos.uk/76/f2/76f27ecfe37c9a2b2964dd9f2d2513ec8031881d1da4fbdf71d5b521f5e7566c.jpg)**Rich Hoaen** has strung together umpteen money finishes in Limited Pro Tours going back over the last three seasons. With only one Top 8 to show for it, Rich had flown under many people's radar until recently. He is recognized as one of the very best Limited players in the game. He is alleged to have done more drafts than anyone else alive based on his seeming 24-7 presence on ***Magic** Online*. 
+**Olivier Ruel** currently leads the 2005 Player of the Year race thanks to a pair of Top 8 finishes – and a passport stamped on every useable surface from traveling to any Grand Prix on any given weekend. Both of Olivier's Top 8 finishes this year were at Constructed Pro Tours while his Grand Prix titles have come in Limited formats.
 
-![](https://i.ormos.uk/ee/ec/eeec4f3fe2886a491f85c42aa47daf98d340d5cf8965c17a3aba22c0e8dbb1cf.jpg)**Jeroen Remie** is one of the most popular players in the world, parlaying that image (and his Pro Tour Seattle victory) into a berth at the **Magic** Invitational and the Russian *Ninth Edition* Release Invitational. Jeroen has been an ambassador between the best Dutch players and the rest of the world. His Jushi Blue deck propelled Neil Reeves to a National team spot at U.S. Nationals. Heading into Pro Tour-Los Angeles, Jeroen and the Dutchies are joining forces with the Ruel brothers to create a European all-star think tank for the Extended format.
+![](https://i.ormos.uk/76/f2/76f27ecfe37c9a2b2964dd9f2d2513ec8031881d1da4fbdf71d5b521f5e7566c.jpg)
 
-![](https://i.ormos.uk/e9/26/e926616ac0d06ea5ac152a5ee7703a59316f0d433a3cc2d9157c17718f7b7539.jpg)Back in May, **Terry Soh** joined an exclusive club that includes Olle Rade, Darwin Kastle, Mike Long, Chris Pikula, Jon Finkel, Kai Budde, Jens Thoren, and Bob Maher when he won this year's **Magic** Invitational over Resident Genius Tsuyoshi Fujita. We will be discussing his contribution to the Invitationalists' canon at this time next year, but for now he'll be part of the group discussing Bob's [Dark Confidant](https://web.archive.org/web/20051007000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Confidant) (along with everything else *Ravnica*) with us today. 
+**Rich Hoaen** has strung together umpteen money finishes in Limited Pro Tours going back over the last three seasons. With only one Top 8 to show for it, Rich had flown under many people's radar until recently. He is recognized as one of the very best Limited players in the game. He is alleged to have done more drafts than anyone else alive based on his seeming 24-7 presence on ***Magic** Online*. 
+
+![](https://i.ormos.uk/ee/ec/eeec4f3fe2886a491f85c42aa47daf98d340d5cf8965c17a3aba22c0e8dbb1cf.jpg)
+
+**Jeroen Remie** is one of the most popular players in the world, parlaying that image (and his Pro Tour Seattle victory) into a berth at the **Magic** Invitational and the Russian *Ninth Edition* Release Invitational. Jeroen has been an ambassador between the best Dutch players and the rest of the world. His Jushi Blue deck propelled Neil Reeves to a National team spot at U.S. Nationals. Heading into Pro Tour-Los Angeles, Jeroen and the Dutchies are joining forces with the Ruel brothers to create a European all-star think tank for the Extended format.
+
+![](https://i.ormos.uk/e9/26/e926616ac0d06ea5ac152a5ee7703a59316f0d433a3cc2d9157c17718f7b7539.jpg)
+
+Back in May, **Terry Soh** joined an exclusive club that includes Olle Rade, Darwin Kastle, Mike Long, Chris Pikula, Jon Finkel, Kai Budde, Jens Thoren, and Bob Maher when he won this year's **Magic** Invitational over Resident Genius Tsuyoshi Fujita. We will be discussing his contribution to the Invitationalists' canon at this time next year, but for now he'll be part of the group discussing Bob's [Dark Confidant](https://web.archive.org/web/20051007000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Confidant) (along with everything else *Ravnica*) with us today. 
 
 ### The Roundtable
 

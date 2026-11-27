@@ -237,7 +237,9 @@ render_recovery:
   - Living Death
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a992.jpg)先日行われた PT シカゴにおいて、日本人最高の 13 位となった田中久也。シカゴでリミテッドの強さは証明されたわけだが、はたして構築戦の腕前はどうだろうか？
+![](http://www.wizards.com/sideboard/images/gphir03/a992.jpg)
+
+先日行われた PT シカゴにおいて、日本人最高の 13 位となった田中久也。シカゴでリミテッドの強さは証明されたわけだが、はたして構築戦の腕前はどうだろうか？
 
 一方の笹沼。彼は既に PTQ ベニス東京 1 次予選にて 1 位通過を果たしており、 Draco Explosionという地雷デッキの強さを証明。八朔がヒューストンでベスト32入賞を果たしたことでも有名なアーキタイプだが、ベースデザインはやはりこの人なのである。
 

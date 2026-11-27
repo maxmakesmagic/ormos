@@ -171,7 +171,9 @@ render_recovery:
   - Wretched Anurid
   occurrences: 163
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a935.jpg)New York City's Mikey P is a long time professional player. In fact, he is the only player with a Pro Tour win, a Grand Prix win, and a Masters Series win. Andrew Pacifico is a name that hasn't surfaced recently, but some may remember the Florida resident as JSS National Champion in 1998. Coming to Philadelphia with one bye and a dream, both he and Mikey P are in the one more loss and you're out bracket at 5-1.
+![](http://www.wizards.com/sideboard/images/gpphi02/a935.jpg)
+
+New York City's Mikey P is a long time professional player. In fact, he is the only player with a Pro Tour win, a Grand Prix win, and a Masters Series win. Andrew Pacifico is a name that hasn't surfaced recently, but some may remember the Florida resident as JSS National Champion in 1998. Coming to Philadelphia with one bye and a dream, both he and Mikey P are in the one more loss and you're out bracket at 5-1.
 
 Mikey P was not extremely happy with his B/R/W deck, saying "My deck is unremarkable, but we'll give it a shot." Andrew just smiled wanly, knowing his R/G deck is full of hits.
 
@@ -185,7 +187,9 @@ Pacifico - 1, Mikey P - 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a936.jpg)Mikey P chose to play, hoping to get enough damage in before the bombs in Andrew's deck show. Again he led with a turn 2 Lightning Rift, but Andrew had a play before turn 5 in the form of Wellwisher. The elf was promptly killed by Mikey through cycling Swat and activating Lightning Rift. The Lightning Rift was activated using an Island, as Mike had switched from white to blue. Andrew cycled Krosan Tusker and took 2 to the head for his efforts thanks to the Lightning Rift.
+![](http://www.wizards.com/sideboard/images/gpphi02/a936.jpg)
+
+Mikey P chose to play, hoping to get enough damage in before the bombs in Andrew's deck show. Again he led with a turn 2 Lightning Rift, but Andrew had a play before turn 5 in the form of Wellwisher. The elf was promptly killed by Mikey through cycling Swat and activating Lightning Rift. The Lightning Rift was activated using an Island, as Mike had switched from white to blue. Andrew cycled Krosan Tusker and took 2 to the head for his efforts thanks to the Lightning Rift.
 
 After untapping, Andrew summoned Thoughtbound Primoc and used Erratic Explosion to deal lethal damage to Mikey's recently summoned Morph creature. After passing the turn in which he only played a land, Andrew again summoned Rorix Bladewing, hitting Mikey down to 12. Mike tried to put up a fight, including killing Rorix through cycling Solar Blast and casting Death Pulse, but it wasn't enough. Andrew cast Crown of Fury on the Thoughtbound Primoc, increasing the speed of the clock by one turn and winning the race easily.
 

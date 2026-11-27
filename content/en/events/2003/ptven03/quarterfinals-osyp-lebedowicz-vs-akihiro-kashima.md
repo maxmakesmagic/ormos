@@ -98,7 +98,9 @@ render_recovery:
   - Unholy Grotto
   occurrences: 96
 ---
-![](https://i.ormos.uk/84/5a/845ac0affcee32ec2dfe7f7abd966eacb44d835916832939b570fa2586c80294.jpg)It seems like everyone loves Osyp Lebedowicz. Synonymous with his team, TOGIT, and also with irreverent counterfactual tournament reports, Lebedowicz spreads joy wherever he goes. Lebedowicz was the only Astral Slide player to make it to Sunday, perhaps evidence that the deck wasn't all it was cracked up to be, perhaps evidence of extreme hate, or perhaps just proof that Lebedowicz has skills that pay certain bills. Lebedowicz would have no trouble calling it the latter, but he'd do it with the same carefree only-kidding attitude he always carries.
+![](https://i.ormos.uk/84/5a/845ac0affcee32ec2dfe7f7abd966eacb44d835916832939b570fa2586c80294.jpg)
+
+It seems like everyone loves Osyp Lebedowicz. Synonymous with his team, TOGIT, and also with irreverent counterfactual tournament reports, Lebedowicz spreads joy wherever he goes. Lebedowicz was the only Astral Slide player to make it to Sunday, perhaps evidence that the deck wasn't all it was cracked up to be, perhaps evidence of extreme hate, or perhaps just proof that Lebedowicz has skills that pay certain bills. Lebedowicz would have no trouble calling it the latter, but he'd do it with the same carefree only-kidding attitude he always carries.
 
 His opponent is Akihiro Kashima of Japan. Kashima certainly looks the part of the Pro Tour player, despite this being only his first trip to the big dance. He definitely impressed, taking his home-brewed Green-White-Black Explosive Vegetation deck to the Top 8. Most players are thrilled to just make Day 2 of their first Tour. Now Kashima is in danger of running away with the whole thing.
 
@@ -129,7 +131,9 @@ Kashima's Sideboarding
  -3 Withered Wretch  
  -2 Starlight Invoker
 
-![](https://i.ormos.uk/2f/5e/2f5ec326d06948548a48c4afd1750ab2db6f495cd9106d19b91fcb59be69e828.jpg)In the gallery above them was a virtual who's who of Japanese Magic, cheering on their man. Well, not cheering. All were watching rapt and silent. The same went for Eugene Harvey, Joe Crosby and Craig Krempels, following Lebedowicz's every move.
+![](https://i.ormos.uk/2f/5e/2f5ec326d06948548a48c4afd1750ab2db6f495cd9106d19b91fcb59be69e828.jpg)
+
+In the gallery above them was a virtual who's who of Japanese Magic, cheering on their man. Well, not cheering. All were watching rapt and silent. The same went for Eugene Harvey, Joe Crosby and Craig Krempels, following Lebedowicz's every move.
 
 ### Game 2
 
@@ -151,7 +155,9 @@ His five were good enough. He managed a turn-three morph, and Lebedowicz had a w
 
 Kashima grinned, flipped up his Angel and went to the face for four. Lebedowicz appeared unconcerned. He dropped Astral Slide with white up, which turned out to be for Akroma's Blessing. Kashima had Daru Sanctifier ready. Lebedowicz showed him another Slide. The Akroma's Vengeance in his hand would save him. He missed his sixth drop but had enough cyclers to buy some attack phases. Kashima thinned his deck with Explosive Vegetation and fetchlands.
 
-![](https://i.ormos.uk/c4/fc/c4fcac856480e4206333faa4371f29182097099994a731864c97198e54700ff1.jpg)Lebedowicz dropped land number six and swept the board. Kashima's follow-up was a mere Ravenous Baloth, outclassed by Lebedowicz's Exalted Angel. Kashima dug with Undead Gladiator, looking for answers. He found none. Lebedowicz shut down his engine with Lightning Rift and Astral Slide, but Kashima's Daru Sanctifier and Demystify gave him more freedom to cycle. Kashima's Baloth swung in and Lebedowicz made him pay with Avarax. The life totals were twenty-one to nine for Lebedowicz.
+![](https://i.ormos.uk/c4/fc/c4fcac856480e4206333faa4371f29182097099994a731864c97198e54700ff1.jpg)
+
+Lebedowicz dropped land number six and swept the board. Kashima's follow-up was a mere Ravenous Baloth, outclassed by Lebedowicz's Exalted Angel. Kashima dug with Undead Gladiator, looking for answers. He found none. Lebedowicz shut down his engine with Lightning Rift and Astral Slide, but Kashima's Daru Sanctifier and Demystify gave him more freedom to cycle. Kashima's Baloth swung in and Lebedowicz made him pay with Avarax. The life totals were twenty-one to nine for Lebedowicz.
 
 Kashima cycled the card he drew, then made a face like he'd drawn a blank. Lebedowicz added an Avarax and charged. Kashima blocked both Avaraxes, and after Lebedowicz pumped to trade with the Baloth showed him Cruel Revival that got back Undead Gladiator. That in turn showed him Akroma, Angel of Wrath, who started swinging.
 

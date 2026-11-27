@@ -47,7 +47,9 @@ render_recovery: []
 
 ### ■ [インタビュー： Chris Pikula Part 1](/en/articles/event-coverage/2002/06-19-interview-chris-pikula-part-1)
 
-![](https://i.ormos.uk/ff/f4/fff414a078a085728a8bff07905edd034a8d9fb64ac2475ec74442c3aa72c25a.jpg)《翻弄する魔道士／Meddling Mage(PS)》のデザイナー **Chris Pikula**。クアラルンプールで行われた [Magic: The Gathering Invitational 2000](https://web.archive.org/web/20040919222406/http://www.wizards.com/sideboard/article.asp?x=INVITATIONAL9900/welcome) で、当時絶頂期にあった **Jon Finkel** を相手に見事勝利した栄光の証しがこのカードなのです。恥ずかしながらこの年のアジア代表が筆者。某ネットゲームにどっぷりはまっていた体にひーこら鞭を入れながら参戦した大会、てなこともあって強力に思い出深き大会。ちょこっとその触りなんぞを。
+![](https://i.ormos.uk/ff/f4/fff414a078a085728a8bff07905edd034a8d9fb64ac2475ec74442c3aa72c25a.jpg)
+
+《翻弄する魔道士／Meddling Mage(PS)》のデザイナー **Chris Pikula**。クアラルンプールで行われた [Magic: The Gathering Invitational 2000](https://web.archive.org/web/20040919222406/http://www.wizards.com/sideboard/article.asp?x=INVITATIONAL9900/welcome) で、当時絶頂期にあった **Jon Finkel** を相手に見事勝利した栄光の証しがこのカードなのです。恥ずかしながらこの年のアジア代表が筆者。某ネットゲームにどっぷりはまっていた体にひーこら鞭を入れながら参戦した大会、てなこともあって強力に思い出深き大会。ちょこっとその触りなんぞを。
 
 Invitational は大会の前日に参加者全員で観光を行ったりします。一日ぐらいマジック付けの生活を忘れてせっかく訪れたその土地風土を楽しみましょうという暖かい思いやりだと思います。が、勿論そこは参加者全員が重度のマジックジャンキーなわけで、会話の中身は明日のフォーマットがどーたらこーたら、今回のスタンダードはどうなのよ的な話ばかり。つける薬はありゃしません。
 

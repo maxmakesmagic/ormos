@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a984.jpg)Amsterdam starts and none other but the Canadian Gary Wise is attending. So we decided to see what the person, who tells us what to draft in Limited and at sideboard drafts and if he does well with it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a984.jpg)
+
+Amsterdam starts and none other but the Canadian Gary Wise is attending. So we decided to see what the person, who tells us what to draft in Limited and at sideboard drafts and if he does well with it.
 
 After some difficulties with marked cards that were found all over boosters, the head-judge Gijsbert Hoogendijk decides to give every player free sleeves so that markings won't play a role.
 

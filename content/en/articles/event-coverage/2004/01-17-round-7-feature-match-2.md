@@ -44,7 +44,9 @@ archive_source:
   sha256: dc4d4186caee34db039e89d6b186d496de2ea9c3534c486f212dfc06d7082257
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm13_1.jpg)Both players are 6-0, although Jonsson was quick to point out that he felt he had been getting lucky all day. Turian responded, "Well, you have to get lucky to go 6-0." This is the third draft of the day, and the winner will go to sleep with a perfect 7-0 record, and both will start tomorrow with the exact same deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm13_1.jpg)
+
+Both players are 6-0, although Jonsson was quick to point out that he felt he had been getting lucky all day. Turian responded, "Well, you have to get lucky to go 6-0." This is the third draft of the day, and the winner will go to sleep with a perfect 7-0 record, and both will start tomorrow with the exact same deck.
 
 ### Game 1
 

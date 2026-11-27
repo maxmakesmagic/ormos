@@ -77,7 +77,9 @@ archive_source:
   sha256: 45f4354aa2cf24bf76db37f4e77abfc1b5a40a31df07a7fa88a5412770659077
 render_recovery: []
 ---
-![](https://i.ormos.uk/ef/33/ef338f3191e9aa5f24f641860c676ed49a39a2b9857de2b206c171b051d5efe0.jpg)I remember being proud of myself for not screaming or thrashing like an animal when the Rakdos lowlives grabbed me and put the rope around my neck. There, at the end of the noose, my life would take a turn. 
+![](https://i.ormos.uk/ef/33/ef338f3191e9aa5f24f641860c676ed49a39a2b9857de2b206c171b051d5efe0.jpg)
+
+I remember being proud of myself for not screaming or thrashing like an animal when the Rakdos lowlives grabbed me and put the rope around my neck. There, at the end of the noose, my life would take a turn. 
 
 Of course it would, I was going to die. But I remembered my Orzhov and I knew that it was only my body that would die. My life took a turn, though it was not the one I had expected.
 
@@ -93,7 +95,9 @@ I *was* worthy of the [Revenant Patriarch](https://web.archive.org/web/200603290
 
 This is what I thought as life fell to the earth beneath my dangling feet. I was strong. [Ghost Council of Orzhova](https://web.archive.org/web/20060329000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ghost%2BCouncil%2Bof%2BOrzhova) would be proud to welcome another Daughter of Orzhova, one who did not buckle under the threats of a lesser guild. Though I was sure my body was suffering, my pride was swelling and my disdain for the Rakdos blooming as I watched them do what other foul guilds do to the innocent.
 
-![](https://i.ormos.uk/ec/5b/ec5bd7f1d993e83fd63789c21fb3d85bfd8d21256f2506c6071212d89282f1d0.jpg)I was at the end of a noose, and my life would take an unexpected turn. My family and I were devout to the Church. We paid our tithes, went to the [Orzhov Basilica](https://web.archive.org/web/20060329000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Orzhov%2BBasilica) for Tax-Mass and for prayer, and contributed regularly to the Protector's Fund. We comported ourselves like true “precious gold.” [Orzhova, the Church of Deals](https://web.archive.org/web/20060329000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Orzhova%252C%2Bthe%2BChurch%2Bof%2BDeals) gleamed because of our devotion. The gargoyles watched over it because we contributed. The Demon was kept underground because the [Orzhov Pontiff](https://web.archive.org/web/20060329000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Orzhov%2BPontiff) performed the Suppression Rituals. Why should I have feared - there at the end of the rope and my corporeal life?
+![](https://i.ormos.uk/ec/5b/ec5bd7f1d993e83fd63789c21fb3d85bfd8d21256f2506c6071212d89282f1d0.jpg)
+
+I was at the end of a noose, and my life would take an unexpected turn. My family and I were devout to the Church. We paid our tithes, went to the [Orzhov Basilica](https://web.archive.org/web/20060329000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Orzhov%2BBasilica) for Tax-Mass and for prayer, and contributed regularly to the Protector's Fund. We comported ourselves like true “precious gold.” [Orzhova, the Church of Deals](https://web.archive.org/web/20060329000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Orzhova%252C%2Bthe%2BChurch%2Bof%2BDeals) gleamed because of our devotion. The gargoyles watched over it because we contributed. The Demon was kept underground because the [Orzhov Pontiff](https://web.archive.org/web/20060329000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Orzhov%2BPontiff) performed the Suppression Rituals. Why should I have feared - there at the end of the rope and my corporeal life?
 
 I will tell you why. 
 
@@ -103,7 +107,9 @@ I paid little mind to the sight of the thrulls in my early afterlife. I was stil
 
 ### The Change
 
-![](https://i.ormos.uk/7a/7e/7a7ef2e97d5d739f010f3add9b3f35bf7d399810288622cd66b4e87e98e80083.jpg)The change was also not what I had expected. I was not in a rich and wonderful ghost palace, and there were no Orzhov spirits there to show me the way to my great-great grandparents. The world was a foggy, shifting vision of a city much like Ravnica. I remembered hearing street kids make jokes and threats about a place called Agyrem. A ghost city. It sounded too mundane to be true - and they never mentioned it at mass or at the trade conventions. My mind swirled and wrapped around itself. Was this Agyrem? If it was, why did the Orzhov not speak of it? Was I unworthy of the ghost palace of the Patriarchs? Did I not conduct myself well enough in life or in death? My world was upside down.
+![](https://i.ormos.uk/7a/7e/7a7ef2e97d5d739f010f3add9b3f35bf7d399810288622cd66b4e87e98e80083.jpg)
+
+The change was also not what I had expected. I was not in a rich and wonderful ghost palace, and there were no Orzhov spirits there to show me the way to my great-great grandparents. The world was a foggy, shifting vision of a city much like Ravnica. I remembered hearing street kids make jokes and threats about a place called Agyrem. A ghost city. It sounded too mundane to be true - and they never mentioned it at mass or at the trade conventions. My mind swirled and wrapped around itself. Was this Agyrem? If it was, why did the Orzhov not speak of it? Was I unworthy of the ghost palace of the Patriarchs? Did I not conduct myself well enough in life or in death? My world was upside down.
 
 On the other hand, the afterlife *felt* surprisingly similar to regular life. I could feel emotion and sensation. After so much time had passed with no reunions with passed grandparents or meetings with the Patriarchs, my emotions were mostly pain and loss and loneliness. I was again just a 14 year-old girl, missing my mum and papa, scared of being alone. My armor of pride and zeal wore off. Why were things not as the Pontiffs had said? What was I supposed to do? Mostly I just cried. Occasionally I would encounter another spirit and I would ask questions. But not all spirits are Orzhov, and each one has its own sadness to attend to. 
 
@@ -131,7 +137,9 @@ Masses of coins. “We are the precious gold. With us Orzhova was gilt. With us 
 
 But fate has a sense of irony. When the manipulative minds put together the plan to raise some “martyr funds,” they made sure their contracts were all in order. The correct families would receive the correct amounts of the take. The proper businesses would be involved in demolitions, construction, and advertisement. Secretive channels would be used to deal with the Rakdos, and funds due would move through those same channels (which turned out to be “secret” enough to disappear after the attack). All possible contingencies were accounted for in mage-documents prepared by the officers of the ruling families - all possible contingencies but one.
 
-![](https://i.ormos.uk/00/84/008417dc922ce19ae756671a8129a10adfb03645193d9ee722d0c1a6149da40a.jpg)The part of the contract that dealt with my soul was nullified at the moment when I saw the thrulls. The law-mage's own pride did not allow her to see beyond my complete devotion to the Orzhov guild. The contract called for a devout female follower between the ages of 12 and 15. It detailed which family's spirit kin would control my soul in the afterlife, and what the term of my service would be. But the contract on my afterlife was broken before it even started. 
+![](https://i.ormos.uk/00/84/008417dc922ce19ae756671a8129a10adfb03645193d9ee722d0c1a6149da40a.jpg)
+
+The part of the contract that dealt with my soul was nullified at the moment when I saw the thrulls. The law-mage's own pride did not allow her to see beyond my complete devotion to the Orzhov guild. The contract called for a devout female follower between the ages of 12 and 15. It detailed which family's spirit kin would control my soul in the afterlife, and what the term of my service would be. But the contract on my afterlife was broken before it even started. 
 
 When I saw the thrulls waiting there, watching me die, something deep within me knew this was not right. Orzhov thrulls do not think – they follow orders. My subconscious knew that they were part of the plan, but my pride kept me from recognizing it. At that moment, I was no longer Orzhov (by strict definition of the contract for my soul). I had become something else entirely. A force more basic than the Guildpact settled in me. I was Rusalka – the spirit of a young innocent wrongly killed. It is the nature of a [Scorched Rusalka](https://web.archive.org/web/20060329000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Scorched%2BRusalka) to search for clues to the truth about her death. For me, this alone would have been irony enough, but fate is not so easily pleased.
 

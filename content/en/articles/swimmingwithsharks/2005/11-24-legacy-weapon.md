@@ -691,7 +691,9 @@ Chris Pikula - Rogue Deadguy Ale: A Homebrew
   
  
 
-![](https://i.ormos.uk/c1/65/c165aae69ebbd198205000f5738e306883989a848df660f4156caa7cad188c15.jpg)To do so, Pikula scoured the existing Legacy forums on Star City Games, The Source, and other sites. What he found was that one of the few anchors in Legacy is the ubiquitous Goblins deck. The general Pro mentality going in put Goblins into "the best deck" role before the tournament, and Sonne's win with the little Red men did nothing to dispel that assessment. But to call Philadelphia a reaffirmation of the Goblins deck's singular dominance of Legacy rather than "just" its largest scale victory to date may be overstating even that accomplishment. "I went 4-1 against Goblins in the tournament," Pikula points out. "It just happens that my one loss was in the finals of the tournament. More than that, I lost to a world class player... who probably could have taken the title with a cheese sandwich."
+![](https://i.ormos.uk/c1/65/c165aae69ebbd198205000f5738e306883989a848df660f4156caa7cad188c15.jpg)
+
+To do so, Pikula scoured the existing Legacy forums on Star City Games, The Source, and other sites. What he found was that one of the few anchors in Legacy is the ubiquitous Goblins deck. The general Pro mentality going in put Goblins into "the best deck" role before the tournament, and Sonne's win with the little Red men did nothing to dispel that assessment. But to call Philadelphia a reaffirmation of the Goblins deck's singular dominance of Legacy rather than "just" its largest scale victory to date may be overstating even that accomplishment. "I went 4-1 against Goblins in the tournament," Pikula points out. "It just happens that my one loss was in the finals of the tournament. More than that, I lost to a world class player... who probably could have taken the title with a cheese sandwich."
 
 To be fair, Pikula got "savagely lucky" against many of his Goblins opponents, showing them GAME ONE first turn Engineered Plague with only two copies of that hateful card main deck. However, the Goblins anchor allowed Chris to set his deck up with systems like recurring Darkblast alongside his Engineered Plagues, or the Withered Wretch strategy -- bringing in a 2/2 for two just to block.
 
@@ -711,7 +713,9 @@ Pikulapotence – PT Dallas 1996
 
 It was clear to Chris very quickly that the right color to splash into his "old school disruption" deck was White. This surprised many of his opponents, who expected maybe Green or Red splashes, but White seemed like the best compliment for exactly one reason: Vindicate.
 
-![](https://i.ormos.uk/99/2c/992cbf1c62e7f3510adeffcac823d3ce15e9b78c5deb3997ee91f6d0c24e76fb.jpg)Chris knew he wanted to play with Sinkhole, one of his favorite cards from long ago. In conjunction with Wasteland, Chris could punish bad mana bases and players who kept one or two land hands. Vindicate is a perfect compliment to the land destruction theme; as the cheapest Desert Twister ever printed, Vindicate can play Stone Rain at the exact same mana cost. "I won tons of matches just by manascrew," Pikula recounts. "With a deck like this one, you've just got to expect that. A lot of the time an opponent can draw out of the disruption, the Hymns, but if you put him on one land, there is no way he is coming back."
+![](https://i.ormos.uk/99/2c/992cbf1c62e7f3510adeffcac823d3ce15e9b78c5deb3997ee91f6d0c24e76fb.jpg)
+
+Chris knew he wanted to play with Sinkhole, one of his favorite cards from long ago. In conjunction with Wasteland, Chris could punish bad mana bases and players who kept one or two land hands. Vindicate is a perfect compliment to the land destruction theme; as the cheapest Desert Twister ever printed, Vindicate can play Stone Rain at the exact same mana cost. "I won tons of matches just by manascrew," Pikula recounts. "With a deck like this one, you've just got to expect that. A lot of the time an opponent can draw out of the disruption, the Hymns, but if you put him on one land, there is no way he is coming back."
 
 Unlike the land destruction sub-theme in newer decks like Tsuyoshi Fujita's Boros Deck Wins, Vindicate "doesn't suck." In match-ups where Chris determined that land destruction was not going to cut it, he didn't have to replace eight full spots in his deck... because Vindicate is good against everybody! Had his land destruction been more specifically dedicated -- like Molten Rain or even Pillage in Boros Deck Wins -- Pikula would not have necessarily been able to hold that flexibility.
 
@@ -719,7 +723,9 @@ Chris's success in this event was hardly an overnight phenomenon. On top of his 
 
 "Take out the Funeral Charms," Rich told Chris after going undefeated. "They suck."
 
-![](https://i.ormos.uk/49/7f/497fc0df6ebfdc72123c5f9b88926ce7153db2857d9b5f7a7f242d61bbe9bb2c.jpg)In the process of his forums research, Chris was shocked to learn that Swamps were almost non-existent in other events. He attributes much of his luck in Philadelphia to the fact that his opponents would not, in all likelihood COULD not, have tested against any decks even remotely like his.
+![](https://i.ormos.uk/49/7f/497fc0df6ebfdc72123c5f9b88926ce7153db2857d9b5f7a7f242d61bbe9bb2c.jpg)
+
+In the process of his forums research, Chris was shocked to learn that Swamps were almost non-existent in other events. He attributes much of his luck in Philadelphia to the fact that his opponents would not, in all likelihood COULD not, have tested against any decks even remotely like his.
 
 Perhaps not surprisingly, no one seemed to like the Deadguy's unusual deck. "I showed my deck to everyone... NOBODY other than me played it. In fact, players seemed out and out dismissive, or even cruel in their assessment of my deck. They were like, 'You're playing WHAT?!?'"
 

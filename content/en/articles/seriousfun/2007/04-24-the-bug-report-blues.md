@@ -81,7 +81,9 @@ In case you haven't heard, I am the webmaster for StarCityGames.com—an indepen
 
 The bane of my existence is, of course, The Bug.
 
-[![Swarmyard](https://i.ormos.uk/75/54/75544cf419fbd78a7e5befd3046fd5e4cf19abbeec369e15895ffd53da16c6ce.jpg)](https://web.archive.org/web/20070424000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Swarmyard)See, when you program something, you fall a little in love with it at first. You have just brought a working thing into existence, using nothing more than your mind and your hands, and the first time you fire it up it's a little like watching your toddler take his first tentative steps across the room. You have created something *useful*.
+[![Swarmyard](https://i.ormos.uk/75/54/75544cf419fbd78a7e5befd3046fd5e4cf19abbeec369e15895ffd53da16c6ce.jpg)](https://web.archive.org/web/20070424000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Swarmyard)
+
+See, when you program something, you fall a little in love with it at first. You have just brought a working thing into existence, using nothing more than your mind and your hands, and the first time you fire it up it's a little like watching your toddler take his first tentative steps across the room. You have created something *useful*.
 
 In that moment, what you have created is pristine. You've squeezed all of the errors that you were aware of out of it – after all, if you knew it was broken, you would *fix* this sweet child! So you let your lovely little creation free into the world....
 

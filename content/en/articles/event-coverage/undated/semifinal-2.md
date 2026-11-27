@@ -369,7 +369,9 @@ Nassifは《熟考漂い/Mulldrifter》から《天界の粛清/Celestial Purge�
 
 **Game 3** 
 
-![](https://i.ormos.uk/90/28/90287413af473eed5de8d7f0e9ff4c35a42958f94a1410a052b91a61963ab231.jpg)マリガンスタートから、《平地/Plains》《反射池/Reflecting Pool》《遍歴の騎士、エルズペス/Elspeth, Knight-Errant》《目覚ましヒバリ/Reveillark》《幽体の行列/Spectral Procession》《イーオスのレインジャー/Ranger of Eos》というハンドをキープ。《山/Mountain》を引いたものの白3マナは揃わず、トップした《運命の大立者/Figure of Destiny》を3ターン目に送り込むという、スローな立ち上がり。
+![](https://i.ormos.uk/90/28/90287413af473eed5de8d7f0e9ff4c35a42958f94a1410a052b91a61963ab231.jpg)
+
+マリガンスタートから、《平地/Plains》《反射池/Reflecting Pool》《遍歴の騎士、エルズペス/Elspeth, Knight-Errant》《目覚ましヒバリ/Reveillark》《幽体の行列/Spectral Procession》《イーオスのレインジャー/Ranger of Eos》というハンドをキープ。《山/Mountain》を引いたものの白3マナは揃わず、トップした《運命の大立者/Figure of Destiny》を3ターン目に送り込むという、スローな立ち上がり。
 
 この序盤は、Nassifに《エスパーの魔除け/Esper Charm》によるドローと《恐怖/Terror》を打ち込む時間を許し、《精神石/Mind Stone》でたどり着いた4マナで《イーオスのレインジャー/Ranger of Eos》をプレイするも、これには《砕けた野望/Broken Ambitions》。
 
@@ -387,7 +389,9 @@ Nassifは《熟考漂い/Mulldrifter》から《天界の粛清/Celestial Purge�
 
 **Game 4** 
 
-![](https://i.ormos.uk/46/c7/46c762044c6b275c927fc2471397d791bb155fe33e97431775570266ea510bc3.jpg)《白蘭の騎士/Knight of the White Orchid》《包囲攻撃の司令官/Siege-Gang Commander》《目覚ましヒバリ/Reveillark》に土地4枚。負ければそこで、試合終了という場面で、厳しい選択を迫られた山本。
+![](https://i.ormos.uk/46/c7/46c762044c6b275c927fc2471397d791bb155fe33e97431775570266ea510bc3.jpg)
+
+《白蘭の騎士/Knight of the White Orchid》《包囲攻撃の司令官/Siege-Gang Commander》《目覚ましヒバリ/Reveillark》に土地4枚。負ければそこで、試合終了という場面で、厳しい選択を迫られた山本。
 
 結局マリガンを選択し、《炎族の先触れ/Flamekin Harbinger》《苦悩火/Banefire》《イーオスのレインジャー/Ranger of Eos》《精神石/Mind Stone》に土地2枚。好転した。
 

@@ -83,7 +83,9 @@ Christoph is something of an expert with this block, having followed up a top ei
 
 ### Game One
 
-![](https://www.wizards.com/sideboard/images/gplon02/886.jpg)Christoph started with a double mulligan, while Craig had to go down to six cards.Each played a second turn creature, Aquamoeba for Christoph and Millikin for Craig. Craig used a Chainer's Edict to get rid of the Aquamoeba, whereas Haim used an Aether Burst to return Millikin and stop Craig from casting Braids, which would have been devastating.
+![](https://www.wizards.com/sideboard/images/gplon02/886.jpg)
+
+Christoph started with a double mulligan, while Craig had to go down to six cards.Each played a second turn creature, Aquamoeba for Christoph and Millikin for Craig. Craig used a Chainer's Edict to get rid of the Aquamoeba, whereas Haim used an Aether Burst to return Millikin and stop Craig from casting Braids, which would have been devastating.
 
 The Millikin was replayed, whilst Christoph cast Wild Mongrel. This allowed him to Circular Logic the Braids. Haim Aether Bursted his own Mongrel to avoid Chainer's Edict. Stevenson then cast Crypt Creeper and had enough mana to flash back Edict on the Mongrel.
 

@@ -52,7 +52,9 @@ render_recovery: []
 
 **Dave Humpherys vs. Brian Hacker** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R3FeatureHacker.JPG)In another triumph for Your Moves Games, Dave Humpherys laid upon DKLA's Brian Hacker one of the more severe beatings he's taken in some time. Hacker's three-Rancor deck seemed strong coming out of the draft, but it proved to be no match for Humpherys' B/W Monstrocity. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R3FeatureHacker.JPG)
+
+In another triumph for Your Moves Games, Dave Humpherys laid upon DKLA's Brian Hacker one of the more severe beatings he's taken in some time. Hacker's three-Rancor deck seemed strong coming out of the draft, but it proved to be no match for Humpherys' B/W Monstrocity. 
 
 Game 1 started with Hacker mulliganing to six cards. Humpherys dropped a Phyrexian Denouncer on turn two which essentially crippled Hacker's entire offensive core, which consists of many 1 toughness creatures. Hacker's hand was weak enough that he was forced to drop a land on turn four and say 'go'. 
 

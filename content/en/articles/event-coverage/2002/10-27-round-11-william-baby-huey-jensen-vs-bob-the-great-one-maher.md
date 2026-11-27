@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/83/21/8321741568ac238eed574278fffa7d197c1d6f6aa0f03e34e3c0034647d9c612.jpg)The sign on the table said "The Great One vs. Baby Huey," and that about sums it up; these are two well-respected players facing each other for the first time. Ever. 
+![](https://i.ormos.uk/83/21/8321741568ac238eed574278fffa7d197c1d6f6aa0f03e34e3c0034647d9c612.jpg)
+
+The sign on the table said "The Great One vs. Baby Huey," and that about sums it up; these are two well-respected players facing each other for the first time. Ever. 
 
 It's the mirror match, as both of them are packing R/G draft decks - and it was a *literal* mirror match at first, as both of them dropped the exact same lands, then used their second turn to call up a [Wall of Mulch](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Mulch). Maher then broke the doppelganger play after stumbling on his third turn, missing the land drop; Huey encountered no trouble at all, dropping his third land and a [Nosy Goblin](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nosy+Goblin).
 
@@ -87,7 +89,9 @@ Huey looked at the army of beasts amassed in front of him and flipped his hand i
 
 At the end of the turn, the [Wellwisher](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) began to pump Maher's life up, three points at a time. Bad news for aggro.
 
-![](https://i.ormos.uk/04/98/049844cfc9bbbbaa39baf02dbb68db21dabddd0748405db128f45bcc05474b2d.jpg)Jensen finally committed to an attack with the pair of Craghorns and the Undorak, leaving mana open to pump in case of some sort of direct damage. Maher threw the wall in front of one Craghorn and everything else before the Undorak... But Jensen unleashed a [Pinpoint Avalanche](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche) to kill the Champion, causing a complete rout. The [Wellwisher](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) squeaked out a final three points of life before she died screaming....
+![](https://i.ormos.uk/04/98/049844cfc9bbbbaa39baf02dbb68db21dabddd0748405db128f45bcc05474b2d.jpg)
+
+Jensen finally committed to an attack with the pair of Craghorns and the Undorak, leaving mana open to pump in case of some sort of direct damage. Maher threw the wall in front of one Craghorn and everything else before the Undorak... But Jensen unleashed a [Pinpoint Avalanche](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche) to kill the Champion, causing a complete rout. The [Wellwisher](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) squeaked out a final three points of life before she died screaming....
 
 But it wasn't over yet. Maher fired off a [Thunder of Hooves](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thunder+of+Hooves) to clear the rest of the beast-laden board, leaving only the Undorak and the [Wall of Mulch](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Mulch). Huey's Undorak met Maher's Mulch and bounced; he could have pumped him, but opted instead to save mana for the [Snapping Thragg](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapping+Thragg).
 
@@ -117,7 +121,9 @@ Jensen fell to twelve, and then to seven as Maher attacked again. Jensen kept ac
 
 Finally, Jensen blocked with his [Wall of Mulch](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Mulch), staving off the Beast assault, then cast leery Fogbeast and [Nosy Goblin](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nosy+Goblin), hoping to raise his army to a point where all the tricks in the world couldn't save Maher from his Wave. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a904.jpg)Maher unmorphed Commando and Craghorn, cycled a [Forgotten Cave](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forgotten+Cave), then kept up his single-Beast assault with the Crowned [Symbiotic Beast](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Beast). Huey tapped his creatures significantly one by one, trying to figure out which one he'd have to lose... Or could he afford to not block, take the damage, and then perhaps fall to a [Solar Blast](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)? He counted Maher's graveyard, trying to figure out how many Blasts were left, then chumped with the Goblin.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a904.jpg)
+
+Maher unmorphed Commando and Craghorn, cycled a [Forgotten Cave](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forgotten+Cave), then kept up his single-Beast assault with the Crowned [Symbiotic Beast](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Beast). Huey tapped his creatures significantly one by one, trying to figure out which one he'd have to lose... Or could he afford to not block, take the damage, and then perhaps fall to a [Solar Blast](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)? He counted Maher's graveyard, trying to figure out how many Blasts were left, then chumped with the Goblin.
 
 Sure enough, Huey had the Wave the next turn, sending with everything in an attempt to alpha-strike Maher out of existence. 
 

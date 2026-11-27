@@ -180,13 +180,17 @@ render_recovery:
   - Wretched Anurid
   occurrences: 175
 ---
-![](https://i.ormos.uk/74/19/7419b501e9c182624ac5a06a678163337da638ae8be87568805a1ca5972e9c72.jpg)Matt Linde is a former US National Champion, and also has a Worlds top 8 to his credit. Brock Parker is a gravy train pro player. Linde and Parker are friends who live across the street from each other and are constant money draft partners. They are both playing with 2 byes and have won their third rounds. They sit down, kind of knowing what the outcome will be since they have played this matchup in practice. Linde summed it up nicely by saying, "I could have played this from the comfort of my own home." Matt had a tight w/r deck with a few off color cycling and morph creatures. Brock had a slower r/g deck, also with a few off color morph creatures.
+![](https://i.ormos.uk/74/19/7419b501e9c182624ac5a06a678163337da638ae8be87568805a1ca5972e9c72.jpg)
+
+Matt Linde is a former US National Champion, and also has a Worlds top 8 to his credit. Brock Parker is a gravy train pro player. Linde and Parker are friends who live across the street from each other and are constant money draft partners. They are both playing with 2 byes and have won their third rounds. They sit down, kind of knowing what the outcome will be since they have played this matchup in practice. Linde summed it up nicely by saying, "I could have played this from the comfort of my own home." Matt had a tight w/r deck with a few off color cycling and morph creatures. Brock had a slower r/g deck, also with a few off color morph creatures.
 
 ### Game 1
 
 Brock won the die roll and elected to play. He took the dreaded trip to Paris while Matt kept his hand. Despite the mulligan, Brock led with a turn 2 Elvish Warrior. Matt countered with a turn 2 Sparksmith. The Sparksmith did little to hold off the Warrior, and Brock continued with a Wellwisher and a Goblin Sledder. Matt shot the Goblin Sledder and summoned a Morphed creature. Brock untapped and cast Solar Blast targeting the Sparksmith, frustrated that he didn't have the second Mountain to cycle it.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a961.jpg)Linde's Morphed creature was revealed to be a Daru Healer, but it could not save the Sparksmith on its own. All the while, Wellwisher continued gaining Brock life and Elvish Warrior kept working, bringing Matt to 11 and Brock to 21. The shenanigans seemed to end when Matt summoned Exalted Angel. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a961.jpg)
+
+Linde's Morphed creature was revealed to be a Daru Healer, but it could not save the Sparksmith on its own. All the while, Wellwisher continued gaining Brock life and Elvish Warrior kept working, bringing Matt to 11 and Brock to 21. The shenanigans seemed to end when Matt summoned Exalted Angel. 
 
 The bomb Angel really didn't do a whole lot, though, because Matt didn't have anything beyond the Daru Healer and a few Morphed creatures backing it up and the Wellwisher was able to offset half the damage done to Brock. Brock just summoned large green men in the form of Krosan Groundshaker and Treespring Lorian to keep the pressure on. The Lorian eventually fell to two off color Morphed creatures, but the Groundshaker kept working to keep Matt from gaining too much life.
 
@@ -201,7 +205,9 @@ Linde - 0, Parker - 1
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a962.jpg)Linde chose to play first, and no one took a mulligan. Both players had good starts: Brock had turn 2 Voidmage Prodigy, but that was met by Linde's turn 3 Sparksmith, slipped in while Brock was tapped out. Kai met his end at the hands of the goblin, and Linde played a Morphed creature. It was revealed to be Exalted Angel turn 5.
+![](http://www.wizards.com/sideboard/images/gpphi02/a962.jpg)
+
+Linde chose to play first, and no one took a mulligan. Both players had good starts: Brock had turn 2 Voidmage Prodigy, but that was met by Linde's turn 3 Sparksmith, slipped in while Brock was tapped out. Kai met his end at the hands of the goblin, and Linde played a Morphed creature. It was revealed to be Exalted Angel turn 5.
 
 Brock had the answer ready in the form of Solar Blast and Shock. Linde summoned some more pressure with True Believer and a second Sparksmith, but it wasn't enough as Kamahl came down for another visit. After reviewing his options, Matt extended the hand to his friend and wished him luck with the rest of the event.
 

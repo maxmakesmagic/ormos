@@ -66,7 +66,9 @@ render_recovery:
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/b7/14/b7143ed0ac41f44df8f8105b5f13ab783f88ceec83207f0589a874a5601f8a38.png)Each of the four *Planechase* game packs contains one ready-to-play 60-card deck, one all-new 10-card plane pack, one 6-sided planar die, and a Planechase strategy insert with multiplayer rules.
+![](https://i.ormos.uk/b7/14/b7143ed0ac41f44df8f8105b5f13ab783f88ceec83207f0589a874a5601f8a38.png)
+
+Each of the four *Planechase* game packs contains one ready-to-play 60-card deck, one all-new 10-card plane pack, one 6-sided planar die, and a Planechase strategy insert with multiplayer rules.
 
 **Set Name:** *Planechase* (2009 Edition)  
 **Number of Cards:** 60 per deck, 240 total  

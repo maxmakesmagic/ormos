@@ -255,7 +255,9 @@ render_recovery:
 
 **Hello and welcome to Magic Academy!** Today we'll be looking at the skill of analyzing a card's quality, as applied during a draft or deck construction (Limited or Constructed). 
 
-![Deep_Analysis](https://i.ormos.uk/5e/a0/5ea0ebefd444f3f8a1fc59cc0c7b86963744ef6a008d1f5d11ece100bf8dba67.jpg)At every [Prerelease](/en/articles/event-coverage/undated/magic-the-gathering-prereleases-3), throngs of players engage in this activity, scrutinizing new cards and considering their exact potential. In the weeks and months to come, a general consensus will emerge on which cards are actually good, to what degree they are good, and how they are best used. To an extent, card evaluation is done by the **Magic** community as a whole.
+![Deep_Analysis](https://i.ormos.uk/5e/a0/5ea0ebefd444f3f8a1fc59cc0c7b86963744ef6a008d1f5d11ece100bf8dba67.jpg)
+
+At every [Prerelease](/en/articles/event-coverage/undated/magic-the-gathering-prereleases-3), throngs of players engage in this activity, scrutinizing new cards and considering their exact potential. In the weeks and months to come, a general consensus will emerge on which cards are actually good, to what degree they are good, and how they are best used. To an extent, card evaluation is done by the **Magic** community as a whole.
 
 However, having sharp card evaluation skills of your own is important. In Draft, it is regular to have to decide between a common that is known to be good, and a rare whose power is only known more generally. In Limited deck construction, a cut might have to be made between two cards of similar value. In the period of time when consensus is still settling, one must be especially able to decide for themselves what is good. Even once consensus settles, certain cards are incorrectly assessed by the majority, or sneak under the radar. These gems will provide a welcome advantage.
 

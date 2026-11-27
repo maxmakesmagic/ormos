@@ -1036,7 +1036,9 @@ Speaking of watching what unfolds, make sure to check out Randy Buehler's [recen
 
 ### Canadian Nationals
 
-![](https://i.ormos.uk/ea/55/ea55572a511fadf3f75d8a5b74c250f4b383f9e678312724830062312df646ad.jpg)Jingpeng Zhang is a regular at the Toronto PTQ scene, so he probably didn't expect to qualify for his first Pro Tour event by winning [Canadian Nationals](/en/events/2004/canat04/live-coverage-of-2004-canada-national-championship-15)! Zhang played a Red-Blue Obliterate/March of the Machines deck to victory, taking down Murrey “The Mauler” Evans in the finals. Whereas this is the first Pro Tour appearance for Zhang, Evans was on a National team a few years ago. Lending them a hand in San Francisco will be Brainburst editor Mike Thicke, who also played an Obliterate deck. 
+![](https://i.ormos.uk/ea/55/ea55572a511fadf3f75d8a5b74c250f4b383f9e678312724830062312df646ad.jpg)
+
+Jingpeng Zhang is a regular at the Toronto PTQ scene, so he probably didn't expect to qualify for his first Pro Tour event by winning [Canadian Nationals](/en/events/2004/canat04/live-coverage-of-2004-canada-national-championship-15)! Zhang played a Red-Blue Obliterate/March of the Machines deck to victory, taking down Murrey “The Mauler” Evans in the finals. Whereas this is the first Pro Tour appearance for Zhang, Evans was on a National team a few years ago. Lending them a hand in San Francisco will be Brainburst editor Mike Thicke, who also played an Obliterate deck. 
 
 Arguably the best performance in Standard was by 6th place finisher Mike Viner. He had to grind into the tournament via a last chance qualifier the day before, thus earning even more constructed match wins than his peers over the weekend.
 

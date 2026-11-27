@@ -83,7 +83,9 @@ In United States, my own Team Illuminati has probably had the most success in th
 
 ### Player of the Year Race Update
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/820.jpg)This is going to be a long season – with an extra Pro Tour thrown in – but we are midway through it now. Let's take a quick look at the current standings.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/820.jpg)
+
+This is going to be a long season – with an extra Pro Tour thrown in – but we are midway through it now. Let's take a quick look at the current standings.
 
 > 1) Rickard Osterberg, 59 points
 

@@ -566,7 +566,9 @@ I always get email from players looking for suggestions about how to improve as 
 
 ### Rewarding the Amateurs
 
-![](https://i.ormos.uk/ec/45/ec453148178dac2ae1c9823c499e4ae843b2ffe17071a54fb795003593d72b17.jpg)Lost in the shuffle of the comings and goings on the Pro Tour are some of the one-of events Wizards of the Coast runs every year. One such event is the [Amateur Championships](https://web.archive.org/web/20060714000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/amchamps), coming up July 22 at San Diego Comic Con. On what may be the busiest day of the **Magic** calendar – with two Grand Prix, French Nationals, and *Coldsnap* Release Tournaments going on around the world – the amateurs gathered in California can get their hands on some sweet stuff.
+![](https://i.ormos.uk/ec/45/ec453148178dac2ae1c9823c499e4ae843b2ffe17071a54fb795003593d72b17.jpg)
+
+Lost in the shuffle of the comings and goings on the Pro Tour are some of the one-of events Wizards of the Coast runs every year. One such event is the [Amateur Championships](https://web.archive.org/web/20060714000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/amchamps), coming up July 22 at San Diego Comic Con. On what may be the busiest day of the **Magic** calendar – with two Grand Prix, French Nationals, and *Coldsnap* Release Tournaments going on around the world – the amateurs gathered in California can get their hands on some sweet stuff.
 
 First off is a shiny foil [Psychatog](https://web.archive.org/web/20060714000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) for all participants. Who doesn't want a tricked-out version of the best creature ever made? Speaking of tricked out, the winner will receive a new laptop with ***Magic** Online* pre-installed. Second place will get a portable DVD player along with Season One of "The Family Guy", and all Top 8 members get "**Magic** cards for a year."
 

@@ -77,7 +77,9 @@ archive_source:
   sha256: 800dfe2b706725478b1456f9b407999251f6196bd7cd4ca42e392e93b8442ce8
 render_recovery: []
 ---
-![Prodigal_Sorcerer](https://i.ormos.uk/fd/e4/fde4ff7ee2f55285470608e422f2ece5b88cf211dc74786243a2f0a3a6a91389.jpg)Ah yes, the timeshifted cards. Old friends back in town. Well, as time passes we get to thinking about old pals and we come to realize that some of them were not as cool as we thought they were, and others turned out to be underappreciated back in the day. 
+![Prodigal_Sorcerer](https://i.ormos.uk/fd/e4/fde4ff7ee2f55285470608e422f2ece5b88cf211dc74786243a2f0a3a6a91389.jpg)
+
+Ah yes, the timeshifted cards. Old friends back in town. Well, as time passes we get to thinking about old pals and we come to realize that some of them were not as cool as we thought they were, and others turned out to be underappreciated back in the day. 
 
 When I look over all the timeshifted cards, my feelings swing from awe to “eew.” I cannot help but see the art first. It is how I looked at cards back in the old days, and it is how I tend to look at these. Of course, there have been many years in between where I looked at mechanics and such, but this return to the past has swept me up and rewound my perspective too.
 

@@ -1289,7 +1289,9 @@ render_recovery:
 
 > Visions *is probably still my favorite set of all time. It had essentially unspectacular but effective cards offered at a reasonable cost, for example Impulse, Man-o'-War, and Vampiric Tutor. I think that these kinds of cards are the most conducive to individual deck design; comparable sets like* Ravnica *are in a sense similar (Watchwolf, Lightning Helix), but demand multiple color commitments, so the individual designer has less freedom in how to apply them.* – Mike Flores
 
-![](https://i.ormos.uk/f8/90/f890346169235d5aa88344019c1d611943e7244d94955491d0e581d8f02ab2ba.jpg)Info for the upcoming [*Visions* Release Events](/en/articles/feature/2006/03-28-visions-release-events) (which start next Thursday, April 13) has been posted for over a week now, but in case you haven't seen it or just gave it a quick scan, let me highlight a few things.
+![](https://i.ormos.uk/f8/90/f890346169235d5aa88344019c1d611943e7244d94955491d0e581d8f02ab2ba.jpg)
+
+Info for the upcoming [*Visions* Release Events](/en/articles/feature/2006/03-28-visions-release-events) (which start next Thursday, April 13) has been posted for over a week now, but in case you haven't seen it or just gave it a quick scan, let me highlight a few things.
 
 There are a couple significant changes from other Release Events you will want to take note of. The 2x Premier Events will **not** feed the Championship. Instead, the 4x Premier Events will invite the Top **Eight** players to the Championship instead of Top Four. Also note that the 4x Premier Events will now only cost 2 Tix instead of 5. Scott Larabee indicates this is an experiment and not necessarily a permanent change, so give it a whirl and then let us know what you think in the forums.
 

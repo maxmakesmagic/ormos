@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://i.ormos.uk/7e/72/7e72318b08a6916ea95cb9dd1473d5aefbbdccc725916a98252415107310a7bd.jpg)The local favorite Rafaël Le Saux of Chile faced off against Brazilian Carlos Romáo in this widely anticipated semifinal match. Rafaël hoped to pilot his Accelerated Blue deck to victory against Carlos's Ponza Red.
+![](https://i.ormos.uk/7e/72/7e72318b08a6916ea95cb9dd1473d5aefbbdccc725916a98252415107310a7bd.jpg)
+
+The local favorite Rafaël Le Saux of Chile faced off against Brazilian Carlos Romáo in this widely anticipated semifinal match. Rafaël hoped to pilot his Accelerated Blue deck to victory against Carlos's Ponza Red.
 
 Rafaël won the die roll and chose to play first. Looking at his opening hand, he saw Island, Grim Monolith, and five blue cards. He mulliganed into a hand of Island, Grim Monolith, and four blue cards. Quite an improvement. His third hand contained a Rishadan Port and four blue cards, and he decided to try and topdeck some blue mana rather than mulligan again. Against a land destruction deck, he knew that the game was almost hopeless, but he would try to win anyway.
 

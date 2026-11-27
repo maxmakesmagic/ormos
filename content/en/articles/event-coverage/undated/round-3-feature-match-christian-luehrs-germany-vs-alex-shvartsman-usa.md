@@ -37,7 +37,9 @@ archive_source:
   sha256: b313a71efdaef0115202c10022f919c4896f0a648cf0bfc1ac77612d6ca99c81
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/790.jpg)In the quarterfinals of the Masters Series, Christian Luehrs from Germany faced Alex Shvartsman from the United States. Christian had drafted a pretty powerful blue, white and black deck that held some bombs like Spinal Embrace, Tsabo's Decree and a handful of tappers. Meanwhile, Shvartsman had collected a nice bunch of creatures in various sizes, and altogether, he had created a deck that he felt had great synergy.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/790.jpg)
+
+In the quarterfinals of the Masters Series, Christian Luehrs from Germany faced Alex Shvartsman from the United States. Christian had drafted a pretty powerful blue, white and black deck that held some bombs like Spinal Embrace, Tsabo's Decree and a handful of tappers. Meanwhile, Shvartsman had collected a nice bunch of creatures in various sizes, and altogether, he had created a deck that he felt had great synergy.
 
 **Game 1**
 
@@ -57,7 +59,9 @@ Christian missed yet another land drop, but he had drawn a Benalish Heralds and 
 
 Christian finally drew a sixth land, and he played his Plains and said 'go'. Alex then attacked with his Llanowar Knights, the Spider, the Chameleon and the Trailblazer. But after attackers were declared, Christian cast the Tsabo's Decree he had held in his hand for a while, calling Elf. So the Trailblazer, the Quirion Elves and the two Llanowar Knights just died, and Christian got to see Alex's hand. Unfortunately, it didn't make him happier to see an Orim's Cure, a Faerie Squadron and a Thicket Elemental. Regardless, he blocked the Pincer Spider with his Benalish Heralds, and went down to four life.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/788.jpg)Alex then cast the Thicket Elemental with kicker, and so he got to start revealing cards off his library. The first creature card that came up was a Might Weaver, and so it came into play. Then Alex passed priority. Christian knew he needed blockers, and he played Faerie Squadron with kicker. So when Alex attacked, he first tapped down the Thorn Elemental, and then he tripleblocked the Kavu Chameleon with his Squadron, Tower Drake and Benalish Heralds. Alex chose to kill the Drake and the Faerie Squadron. Then he played his own Faerie Squadron - and after a little thinking, Luehrs scooped.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/788.jpg)
+
+Alex then cast the Thicket Elemental with kicker, and so he got to start revealing cards off his library. The first creature card that came up was a Might Weaver, and so it came into play. Then Alex passed priority. Christian knew he needed blockers, and he played Faerie Squadron with kicker. So when Alex attacked, he first tapped down the Thorn Elemental, and then he tripleblocked the Kavu Chameleon with his Squadron, Tower Drake and Benalish Heralds. Alex chose to kill the Drake and the Faerie Squadron. Then he played his own Faerie Squadron - and after a little thinking, Luehrs scooped.
 
 Luehrs 0 - Shvartsman 1
 

@@ -77,7 +77,9 @@ archive_source:
   sha256: eb42627fdd8b6923374d66507db82b40e59fb570061b14cad26bd344baae0c2a
 render_recovery: []
 ---
-![Sleight_of_Hand](https://i.ormos.uk/e4/bc/e4bc53b0fdb9bb8e3dacc1671eea4ebe777bea2e4126f25f456b1e15b77fb950.jpg)Hello everyone, and welcome to Magic Academy! This week we'll be looking at the aspect of Constructed **Magic** known as *the sideboard*.
+![Sleight_of_Hand](https://i.ormos.uk/e4/bc/e4bc53b0fdb9bb8e3dacc1671eea4ebe777bea2e4126f25f456b1e15b77fb950.jpg)
+
+Hello everyone, and welcome to Magic Academy! This week we'll be looking at the aspect of Constructed **Magic** known as *the sideboard*.
 
 Tournament **Magic** is played best two games out of three, and tournament decks must have a minimum of 60 cards. In addition, a 15-card sideboard is allowed. After the first and second games, a player may swap any number of cards in his maindeck for an equal number of cards from his or her sideboard.
 
@@ -107,7 +109,9 @@ What factors come into play when actually building a sideboard?
 
 **Necessity**: *Which cards are most worth having?*
 
-![Patriarchs_Desire](https://i.ormos.uk/89/93/899342a27e8ef6cb9a6ba22c33c35e598047966e101239afd5b34d970ac6bc9b.jpg)In general you will want to focus your sideboard on the matchups that need the most help. If you estimate your natural win percentage against a certain matchup is only 30%, then that's a lot of room for improvement. However, if you're already at 70%, gaining significant ground is going to be difficult.
+![Patriarchs_Desire](https://i.ormos.uk/89/93/899342a27e8ef6cb9a6ba22c33c35e598047966e101239afd5b34d970ac6bc9b.jpg)
+
+In general you will want to focus your sideboard on the matchups that need the most help. If you estimate your natural win percentage against a certain matchup is only 30%, then that's a lot of room for improvement. However, if you're already at 70%, gaining significant ground is going to be difficult.
 
 Yes, you will also want to dedicate space to making sure your good matchups stay good. However, one thing to keep in mind is, again, that tournament matches are best two out of three. If your deck has a naturally very good matchup against another deck, you're likely to win the first game. If this is the case, you'll only have to win one of the last two games in order to win the match; you can afford to have a bit of a lower win percentage. 
 
@@ -173,7 +177,9 @@ With the tutors, any time I boarded in a one-of, it was functionally as if I act
 
 **Space**: *Which cards do I have room for?*
 
-![Heavy_Fog](https://i.ormos.uk/d4/cc/d4ccbc44debb0a8caf15b7ef0fb1272f665168fa2ebac56f98c6b98c39e262c5.jpg)The aspect of *space* in sideboarding is often overlooked, even by tournament players.
+![Heavy_Fog](https://i.ormos.uk/d4/cc/d4ccbc44debb0a8caf15b7ef0fb1272f665168fa2ebac56f98c6b98c39e262c5.jpg)
+
+The aspect of *space* in sideboarding is often overlooked, even by tournament players.
 
 Space is governed by two factors: a deck's natural density, and the matchup at hand.
 
@@ -187,7 +193,9 @@ Players will add cards to their sideboards (say, 4 [Perish](https://web.archive.
 
 Sometimes it's worth exceeding these limits if what you're making room for is powerful enough, but these natural cues make good guidelines for how many cards you'll want to dedicate to a given matchup. 
 
-![Master_Warcraft](https://i.ormos.uk/99/27/9927ff62c2725591032fa3df6a9c609b4e9a7fb076a8955cc2278241f4d26712.jpg)An easy way to become more prepared for a given tournament is to work out sideboarding plans in advance. What comes in and out in every matchup that you can anticipate (even ones that might only occupy a fraction of the metagame)? Considering this question is easier in the comfort of your own home than in two minutes in between games at a tournament. It will also help you identify cards that are not pulling their weight. Believe it or not, many tournament players do not do this, because it is somewhat tedious work. I myself have realized, midway through a tournament, that a certain card in my sideboard is useless because I don't have room to board it in (any replacement I would make for it would only make the deck worse) in the matchup I had planned to use it in.
+![Master_Warcraft](https://i.ormos.uk/99/27/9927ff62c2725591032fa3df6a9c609b4e9a7fb076a8955cc2278241f4d26712.jpg)
+
+An easy way to become more prepared for a given tournament is to work out sideboarding plans in advance. What comes in and out in every matchup that you can anticipate (even ones that might only occupy a fraction of the metagame)? Considering this question is easier in the comfort of your own home than in two minutes in between games at a tournament. It will also help you identify cards that are not pulling their weight. Believe it or not, many tournament players do not do this, because it is somewhat tedious work. I myself have realized, midway through a tournament, that a certain card in my sideboard is useless because I don't have room to board it in (any replacement I would make for it would only make the deck worse) in the matchup I had planned to use it in.
 
 In a tournament a sideboard plan might suddenly seem not to be working, or you might find yourself against a deck you hadn't expected or a version you hadn't anticipated. You will always have to make decisions on the fly, but understanding your deck, and making as many decisions as you can beforehand, only helps your chances.
 

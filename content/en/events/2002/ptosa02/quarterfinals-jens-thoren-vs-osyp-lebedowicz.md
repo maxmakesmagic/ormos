@@ -265,7 +265,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a703.jpg)Lebedowicz kept a hand of double Psychatog, Concentrate and four lands – a mediocre hand in the matchup where you never really want to cast the 'Tog till after Upheaval has resolved, but not bad enough to be thrown away. Thoren's hand consisted of six lands and Innocent Blood, so he was forced to mulligan. The new hand was acceptable, featuring a pair of Swamps, Innocent Blood, Chainer's Edict, Haunting Echoes and Rancid Earth. 
+![](http://www.wizards.com/sideboard/images/ptosa02/a703.jpg)
+
+Lebedowicz kept a hand of double Psychatog, Concentrate and four lands – a mediocre hand in the matchup where you never really want to cast the 'Tog till after Upheaval has resolved, but not bad enough to be thrown away. Thoren's hand consisted of six lands and Innocent Blood, so he was forced to mulligan. The new hand was acceptable, featuring a pair of Swamps, Innocent Blood, Chainer's Edict, Haunting Echoes and Rancid Earth. 
 
 Lebedowicz cast Peek at the end of Thoren's second turn, finding the abovementioned cards as well as Innocent Blood and the third land. On his turn 3, Lebedowicz made a gambit of casting one of his Psychatogs, hoping to get Thoren to cast Innocent Blood instead of Rancid Earth – which would allow him to cast Concentrate on turn 4. Thoren did not bite – he killed a Swamp and proceeded to cast Nantuko Shade and use Chainer's Edict targeting Osyp. Lebedowicz saved his 'Tog with one of the two Aether Bursts in his hand.
 
@@ -291,7 +293,9 @@ Thoren got a turn 2 Shade into play and proceeded to cast Last Rites. As he was 
 
 Lebedowicz chump-blocked with the Zombie token next turn and cast Skeletal Scrying for three. Thoren cast another Last Rites, presenting the same dilemma to his opponent as the turn before. This time Lebedowicz had two spells and two lands. He discarded both spells. Thoren pitched a Swamp but was unable to take anything from his opponent's hand. 
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a704.jpg)The next few turns had a distinct feeling of déjà vu to them. Once again, Lebedowicz chump blocked and drew three cards via Scrying. Innocent Blood finally took out the shade, but Toren drew another one, and Lebedowicz cast another Edict. Thoren finally used his Diabolic Tutor. At the end of his turn, Lebedowicz cast Peek to learn that the card the Swede went after was Laquatus' Champion. Down to six life, Lebedowicz would need to find countermagic before his opponent drew his sixth land. To make matters worse for the American, the other card in Thoren's hand was Haunting Echoes. 
+![](http://www.wizards.com/sideboard/images/ptosa02/a704.jpg)
+
+The next few turns had a distinct feeling of déjà vu to them. Once again, Lebedowicz chump blocked and drew three cards via Scrying. Innocent Blood finally took out the shade, but Toren drew another one, and Lebedowicz cast another Edict. Thoren finally used his Diabolic Tutor. At the end of his turn, Lebedowicz cast Peek to learn that the card the Swede went after was Laquatus' Champion. Down to six life, Lebedowicz would need to find countermagic before his opponent drew his sixth land. To make matters worse for the American, the other card in Thoren's hand was Haunting Echoes. 
 
 Thoren drew and played Mesmeric Fiend, stealing away Predict and leaving Lebedowicz with Obsessive Search – which was enough to find a Syncopate for next turn's Champion. Haunting Echoes resolved though, taking out a substantial chunk of Lebedowicz's library. It was a mixed blessing, since it also ensured that he was much closer to Upheaval – which he had plenty of mana to combo with Zombie Infestation already in play. Of course, he would probably have to top-deck it, as his search spells – Peek, Concentrate, Peek, were leaving the game.
 
@@ -329,7 +333,9 @@ After taking one mulligan (throwing away a 1 land hand), Lebedowicz chose to kee
 
 Lebedowicz peeled a Zombie Infestation off the top, dropping it into play on turn 2 in order to protect it from opponent's discard effects. Thoren cast a turn 3 Mesmeric Fiend but Lebedowicz chose to make a Zombie, pitching a land and his only spell – a Chainer's Edict. Thoren tutored for Nantuko Shade, which would be very good with Cabal Coffers he played next turn. Another Tutor net Thoren a second Nantuko Shade, as the Swede decided to go for an all-out aggressive strategy in this game.
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a689.jpg)Lebedowicz cast Concentrate and found Chainer's Edict. He cast it, killing a Mesmeric Fiend, with 2 Edicts in the graveyard and enough mana to cast one of them on the following turn. Meanwhile, the Zombie token he made was dealing damage, slowly chipping away at Thoren's life total. 
+![](http://www.wizards.com/sideboard/images/ptosa02/a689.jpg)
+
+Lebedowicz cast Concentrate and found Chainer's Edict. He cast it, killing a Mesmeric Fiend, with 2 Edicts in the graveyard and enough mana to cast one of them on the following turn. Meanwhile, the Zombie token he made was dealing damage, slowly chipping away at Thoren's life total. 
 
 Thoren top-decked yet another Shade, cast two of them and cast Last Rites, forcing Lebedowicz to make another Zombie and keep just a land in hand. On his turn Lebedowicz tapped out to Edict away one of the shades and chump-blocked the other two with the two Zombie tokens he controlled. Thoren's luck held out as he top-decked his last Shade on the next turn! Lebedowicz failed to draw Upheaval, which was the only possible answer he could have had at this point, sending this exciting match to its final game.
 

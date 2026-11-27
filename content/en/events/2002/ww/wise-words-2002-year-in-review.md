@@ -74,7 +74,9 @@ In that article, dubbed *Wise Words – Goodbye 2001*!, I made the following pre
 *   Pro Tour-San Diego will make players realize the Boat (The Queen Mary) was an overpriced, over-romanticized novelty and the game will create its own institutions.
 *   We'll all have great years, regardless of Pro Tour finishes.
 
-![](http://www.wizards.com/sideboard/images/Worlds2001/669.jpg)Well, Kai won Boston, Johns had a son (though we’ll have to wait on 2016), Kamiel’s streak ended in San Diego, Rizzo did indeed retire from writing (pretty proud of that one), while the War he won became a contest to see who could pander for votes better than the rest and I had a good time in San Diego. On the bad side, Mori not only didn’t make a Top 8, but skipped a couple of Pro Tours near the end of the year while Chris Ronaldson ended up playing **Magic** once. ONCE! Chris, who makes me look that bad? His decision to go for a Masters degree instead of the Masters series seems like a case of poor prioritizing to me…
+![](http://www.wizards.com/sideboard/images/Worlds2001/669.jpg)
+
+Well, Kai won Boston, Johns had a son (though we’ll have to wait on 2016), Kamiel’s streak ended in San Diego, Rizzo did indeed retire from writing (pretty proud of that one), while the War he won became a contest to see who could pander for votes better than the rest and I had a good time in San Diego. On the bad side, Mori not only didn’t make a Top 8, but skipped a couple of Pro Tours near the end of the year while Chris Ronaldson ended up playing **Magic** once. ONCE! Chris, who makes me look that bad? His decision to go for a Masters degree instead of the Masters series seems like a case of poor prioritizing to me…
 
 If any of you had money on the Mori or Ronaldson predictions, I apologize. Oh and I’m not liable. And let’s not even mention that book I was going to write. Maybe this year.
 
@@ -82,13 +84,17 @@ Enough of then though, let’s look at now, or, at least the events that transpi
 
 ### The Continental Drift
 
-![](http://www.wizards.com/sideboard/images/mi02/986.jpg)For years, South America had provided the Pro Tour a service, giving the pro that needed one an easy win, just by sitting down at the table. Latin America’s finest, lagging behind the rest of the world in the technology department, would travel far and wide to Pro Tour after Pro Tour only to get their faces smashed in before returning home with tucked tail and battling internally for the scraps that were Latin American Grand Prix. 2002, though, is the year that will be remembered for these guys getting their act together. 
+![](http://www.wizards.com/sideboard/images/mi02/986.jpg)
+
+For years, South America had provided the Pro Tour a service, giving the pro that needed one an easy win, just by sitting down at the table. Latin America’s finest, lagging behind the rest of the world in the technology department, would travel far and wide to Pro Tour after Pro Tour only to get their faces smashed in before returning home with tucked tail and battling internally for the scraps that were Latin American Grand Prix. 2002, though, is the year that will be remembered for these guys getting their act together. 
 
 With players from five countries working together for the first time, South America’s team Bandana headed to Worlds with a strong Psychatog build and a keen understanding of how to play the mirror. Their hard work paid ridiculous dividends. If one Bandana had made Top 8, it would have been dismissed as fluke, but with Carlos Romao’s win buoyed by Diego Ostrovich’s third place finish, the world had to realize this was for real. A huge achievement.
 
 ### Best Downtime Transition
 
-![](http://www.wizards.com/sideboard/images/ptnor01/a719.jpg)Sometimes a suspension will end a man’s career, other times, it’ll take him to heights previously unreached. Bob Maher had won a Pro Tour, a Player of the Year title and finished second at World Championships, but he’d never played **Magic** like he has since returning from his suspension. Yes, his first event back (Worlds in Sydney) was a disappointment, but ever since then, there’s been no player on the Tour that one doesn’t want to be paired against.
+![](http://www.wizards.com/sideboard/images/ptnor01/a719.jpg)
+
+Sometimes a suspension will end a man’s career, other times, it’ll take him to heights previously unreached. Bob Maher had won a Pro Tour, a Player of the Year title and finished second at World Championships, but he’d never played **Magic** like he has since returning from his suspension. Yes, his first event back (Worlds in Sydney) was a disappointment, but ever since then, there’s been no player on the Tour that one doesn’t want to be paired against.
 
 Maher got back on track with a 31st place finish at GP-London and an unfortunate 33rd in Cleveland before going 6-0 on Day 1 of Boston in both individual and team matches en route to a 3rd place finish with Courtney’s Boys. That served as a nice precursor to his first GP win in a couple of years at Copenhagen, two weeks before coming ninth in Philadelphia. Then, it was on to PT-Houston, where he made another Top 8 before coming in second at GP-LA. He’s gotten so good that Kai Budde openly laments the fact he probably doesn’t have a chance (in his view) in this year’s Player of the Year race, while Dirk Baberowski has actually been betting other Germans that Bob will take this year’s title. I can’t think of higher praise.
 
@@ -108,13 +114,17 @@ Despite all of the above, the Pro Tour’s most significant development of the y
 
 ### Best One Night Stand
 
-![](http://www.wizards.com/sideboard/images/worlds02/574.jpg)Malaysia’s Sim Han How, playing his first premiere event, ran the World Championships gauntlet with ease before losing in the quarterfinals to Mark Ziegner. After that, he didn’t show up at an event for the rest of the year. He was last seen in a Sydney Night club dancing to the Steve Miller Band’s *Take the Money and Run*.
+![](http://www.wizards.com/sideboard/images/worlds02/574.jpg)
+
+Malaysia’s Sim Han How, playing his first premiere event, ran the World Championships gauntlet with ease before losing in the quarterfinals to Mark Ziegner. After that, he didn’t show up at an event for the rest of the year. He was last seen in a Sydney Night club dancing to the Steve Miller Band’s *Take the Money and Run*.
 
 ### Best Team Performance at a Pro Tour
 
 It was YMG against the world…
 
-![](https://i.ormos.uk/2c/41/2c4153462c0c1df20291d12d90c45aa7dce81d8eca8efb3aa575ad902e2425df.jpg)Okay, I think Justin has paid his penance for writing that, at least in part, but really, that one silly sentence shouldn’t be the focus of this remarkable achievement. I stood next to Dave Humpherys while watching the Top 8 and couldn’t help but feel badly for the guy. I mean, he missed one heck of a party, didn’t he? Three members of one team, playing three different decks, finish one, two and three at a Pro Tour after finishing one, two and three in the Swiss. Never been done, ‘til now.
+![](https://i.ormos.uk/2c/41/2c4153462c0c1df20291d12d90c45aa7dce81d8eca8efb3aa575ad902e2425df.jpg)
+
+Okay, I think Justin has paid his penance for writing that, at least in part, but really, that one silly sentence shouldn’t be the focus of this remarkable achievement. I stood next to Dave Humpherys while watching the Top 8 and couldn’t help but feel badly for the guy. I mean, he missed one heck of a party, didn’t he? Three members of one team, playing three different decks, finish one, two and three at a Pro Tour after finishing one, two and three in the Swiss. Never been done, ‘til now.
 
 I don’t know if Houston was a tribute to YMG’s playtesting, environment comprehension, play skill or a combination of all three, but whatever it was, man were they good. Dougherty may have quietly become the best Constructed player in the world over the last couple of years and, despite the recent arrival of his kid, was able to get in just enough practice to finish second. Justin, long one of the Tour’s most underrated denizens, has been called the best player to never Invitational by some, and that could change in 2003 now that he has those 32 pro points in tow. Darwin needed to Top 32 Houston to stay on the gravy train and managed to do so, despite what I felt was a horrible decision: conceding in round ten to Justin when he was not a lock for Top 8. Two rounds later, he’d lost two matches and was playing game three against Dario Minieri. If he’d lost that one, he’d have missed Sunday. Next time, don’t be so cocky, big guy!
 

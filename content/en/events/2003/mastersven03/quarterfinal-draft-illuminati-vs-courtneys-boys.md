@@ -110,7 +110,9 @@ render_recovery:
   - Slate of Ancestry
   occurrences: 72
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a385.jpg)It's time for Courtney's Boys to put their money where their mouths are. During Illuminati's last draft Bob Maher and Neil Reeves were loudly critical of Illuminati's card valuation and hoped to find themselves in the same bracket as Zvi and company. Of course, with Justin Gary (Seat A), Zvi Mowshowitz (Seat B), and Alex Shvarstman (Seat C) there is no shortage of confidence on Illuminati's side of the table.
+![](http://www.wizards.com/sideboard/images/ptven03/a385.jpg)
+
+It's time for Courtney's Boys to put their money where their mouths are. During Illuminati's last draft Bob Maher and Neil Reeves were loudly critical of Illuminati's card valuation and hoped to find themselves in the same bracket as Zvi and company. Of course, with Justin Gary (Seat A), Zvi Mowshowitz (Seat B), and Alex Shvarstman (Seat C) there is no shortage of confidence on Illuminati's side of the table.
 
 This will be Gary Wise's (Seat A) last tournament as a member of Courtney's Boys. Neil Reeves (Seat B) and Bob Maher Jr. (Seat C) have made it publicly known that they will be playing with their friend Dave Williams for the next Pro Tour.
 
@@ -134,7 +136,9 @@ Neil was also pessimistic about his team's chances. "It's not good. I mean it's 
 
 Bob completed the trifecta of pessimism. "Beyond the Silvos...it's still not good. He has fliers I can't deal with...I don't have enough soldiers...its not good."
 
-![](http://www.wizards.com/sideboard/images/ptven03/a384.jpg)Illuminati was—as is to be expected—much more confident with the match-ups. Justin was very confident about his deck, "I think it's very good—almost entirely because of the rares. He has no removal that I can recall—aside from the Festering Goblins. I think he can clog up the ground but Starstorm and Insurrection should have a thing or two to say about that. I definitely would like to win one game where he casts Phage with an Insurrection!"
+![](http://www.wizards.com/sideboard/images/ptven03/a384.jpg)
+
+Illuminati was—as is to be expected—much more confident with the match-ups. Justin was very confident about his deck, "I think it's very good—almost entirely because of the rares. He has no removal that I can recall—aside from the Festering Goblins. I think he can clog up the ground but Starstorm and Insurrection should have a thing or two to say about that. I definitely would like to win one game where he casts Phage with an Insurrection!"
 
 Zvi thought about his match-up and was pretty pleased; "Ummm...I think he doesn't have too many answers to zombies that come into play living large. I saw Neil's face when they didn't cut the Vigilante off. Upon further reflection Zvi remembered the Callous Oppressor, "That could be a problem for me. I mean I took the only Swat I saw and the only Skinthinner but there wasn't nay other removal for me."
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 4b6a668717974e48db12bf073fd2549e22490187b393b396a5a747f04567785f
 render_recovery: []
 ---
-![](https://i.ormos.uk/4f/35/4f3571d96a65b4acb1a5b9f8186f5b9e08996bea27234db21ee93eae469dfc50.jpg)When Jeff Donais, funny man that he is, announced the pairings for the quarterfinals as "Eivind Nitter versus Gary M.F.T.," Eivind leaned over and asked his opponent, "What does that mean?"
+![](https://i.ormos.uk/4f/35/4f3571d96a65b4acb1a5b9f8186f5b9e08996bea27234db21ee93eae469dfc50.jpg)
+
+When Jeff Donais, funny man that he is, announced the pairings for the quarterfinals as "Eivind Nitter versus Gary M.F.T.," Eivind leaned over and asked his opponent, "What does that mean?"
 
 Gary explained, in so many words, that the "T" was for "Talim," and the "M.F." stood for what "M.F." usually stands for in gangsta lingo.
 
@@ -68,7 +70,9 @@ Game 2 was not close. Eivind kept a hand of 5 land, [Firebolt](https://web.archi
 
 Nitter 1 – Talim 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a696.jpg)Eivind's poor luck continued into the start of game 3; he had to mulligan a 0-land draw. Talim started quickly with a turn-1 Rootwalla, a [Firebolt](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) for Eivind's [Krosan Avenger](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Avenger), then a [Spark Mage](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spark+Mage).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a696.jpg)
+
+Eivind's poor luck continued into the start of game 3; he had to mulligan a 0-land draw. Talim started quickly with a turn-1 Rootwalla, a [Firebolt](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) for Eivind's [Krosan Avenger](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Avenger), then a [Spark Mage](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spark+Mage).
 
 Eivind took a lot of early damage but eventually got out a [Possessed Centaur](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Possessed+Centaur) that blocked the Rootwalla and was [Refresh](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Refresh)ed. He then played a [Squirrel Nest](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest) and dug in. Unfortunately for fans of the fast game, Talim played his own Nest, and the token generation began in earnest.
 
@@ -82,7 +86,9 @@ Talim had the Rites in hand and claimed he would have won on the next turn, but 
 
 Nitter 2 – Talim 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a701.jpg)This was best-of-five, so there was still more Magic to be played. Nitter sided in two [Nantuko Calmer](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Calmer)s for a [Cartographer](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cartographer) and a [Krosan Archer](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Archer); he was clearly getting tired of dealing with Talim's [Squirrel Nest](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a701.jpg)
+
+This was best-of-five, so there was still more Magic to be played. Nitter sided in two [Nantuko Calmer](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Calmer)s for a [Cartographer](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cartographer) and a [Krosan Archer](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Archer); he was clearly getting tired of dealing with Talim's [Squirrel Nest](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest).
 
 Game 4 started slowly; Talim's turn-3 Avenger was [Firebolt](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt)ed, and Nitter missed his fourth land drop, settling for [Squirrel Nest](https://web.archive.org/web/20020505000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest) on a tapped land.
 

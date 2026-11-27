@@ -44,7 +44,9 @@ archive_source:
   sha256: 1d5dbabc29eb8bd6f873b3a4357167f6e50ccdaca8fbbd306acb861a2df683b0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a840.jpg)Five hundred and ninety-four gamers filed into the Valley Forge Scanticon for Grand Prix Philadelphia, but only one got to walk away with a shiny gold cup, six Pro Tour points, and $2,400. That man was Jeff Cunningham of Vancouver, BC, Canada.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a840.jpg)
+
+Five hundred and ninety-four gamers filed into the Valley Forge Scanticon for Grand Prix Philadelphia, but only one got to walk away with a shiny gold cup, six Pro Tour points, and $2,400. That man was Jeff Cunningham of Vancouver, BC, Canada.
 
 Jeff, an 18-year-old that just had his breakout PT season, including a Top 8 in San Diego, came to this event with the hopes of earning enough points to qualify himself for the next Masters event. He did that and more, winning the whole thing. His black/green draft deck was nothing spectacular, but solid play allowed him to defeat Jacob Rabinowitz in the [quarterfinals](/en/articles/event-coverage/2002/10-27-quarterfinals-jeff-cunningham-vs-jacob-rabinowitz), Morgan Douglass in the [semis](https://web.archive.org/web/20021029000000/http://archive.wizards.com/default.asp?x=sideboard/gpphi02/sf1), and Shaun Doran in the [finals](/en/articles/event-coverage/2002/10-27-finals-jeff-cunningham-vs-shaun-doran).
 

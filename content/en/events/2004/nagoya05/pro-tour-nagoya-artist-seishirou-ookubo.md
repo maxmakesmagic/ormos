@@ -53,7 +53,9 @@ archive_source:
   sha256: f5da48a6cbb50085ff6fd579de166984d0552867e6c5a8b662b21edf6f1e4826
 render_recovery: []
 ---
-![](https://i.ormos.uk/aa/44/aa4481c58c26107cbb1ddd6e91aac22eec47d8e723a4159816315cafab9dbaef.jpg)A resident of Nagoya, Japan, Seishirou Ookubo is known throughout both the Japanese **Magic** playing community as well as the artist community for his spectacular 3D card art, which has to be seen to be believed. Taking 5-6 cards, Seishirou turns a flat piece of cardboard into a breathtaking layered piece of art. When asked how he started making them, he had this to say:
+![](https://i.ormos.uk/aa/44/aa4481c58c26107cbb1ddd6e91aac22eec47d8e723a4159816315cafab9dbaef.jpg)
+
+A resident of Nagoya, Japan, Seishirou Ookubo is known throughout both the Japanese **Magic** playing community as well as the artist community for his spectacular 3D card art, which has to be seen to be believed. Taking 5-6 cards, Seishirou turns a flat piece of cardboard into a breathtaking layered piece of art. When asked how he started making them, he had this to say:
 
 "I first encountered **Magic** at Wonder Festival, a hobby modeling event in Japan. This was before Revised was being imported into Japan. I remember thinking it was odd for something like that to be sold at the event. Looking back on it, I wish I had purchased some.
 

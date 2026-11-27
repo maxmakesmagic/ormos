@@ -72,7 +72,9 @@ When is a Thursday not just a Thursday? When it's new feature Thursday! Get read
 
 ### New Feature #1: Ask the Pro
 
-[![](https://i.ormos.uk/95/ae/95ae9976083e146053cab388d45cb5421d3f664835c322cea6928ddba9898c11.jpg)](/en/articles/feature/2006/06-01-ask-the-pro-june)First, there's the new ["Ask the Pro"](/en/articles/feature/2006/06-01-ask-the-pro-june) mailbox featuring Olivier Ruel, a five-time Pro Tour Top 8 competitor. Olivier will be sharing his insights regarding life on the Pro Tour, high-level competitive play, world travel, and just about anything else that interests this Level 6 Mage. In case you're wondering if he's qualified to expound on such topics, here's a quick rundown of what Olivier has accomplished in his career—think of it as the Olivier Dossier:
+[![](https://i.ormos.uk/95/ae/95ae9976083e146053cab388d45cb5421d3f664835c322cea6928ddba9898c11.jpg)](/en/articles/feature/2006/06-01-ask-the-pro-june)
+
+First, there's the new ["Ask the Pro"](/en/articles/feature/2006/06-01-ask-the-pro-june) mailbox featuring Olivier Ruel, a five-time Pro Tour Top 8 competitor. Olivier will be sharing his insights regarding life on the Pro Tour, high-level competitive play, world travel, and just about anything else that interests this Level 6 Mage. In case you're wondering if he's qualified to expound on such topics, here's a quick rundown of what Olivier has accomplished in his career—think of it as the Olivier Dossier:
 
 *   Level 6 in the Pro Players club
 *   Runner-up in the 2005 Player of the Year race; currently in second place for 2006

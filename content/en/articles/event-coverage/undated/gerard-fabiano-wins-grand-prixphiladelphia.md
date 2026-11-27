@@ -1319,7 +1319,9 @@ He was at five when he drew a fourth land to go one-for-one with the Damanation 
 
 ### Game 3
 
-![](https://i.ormos.uk/77/3a/773adbefac9fb35ae465c949d308dc8ca016308ec59d9a1dfd7f3fd9762af604.jpg)Tyler took three to try for a first turn Smother with Cabal Therapy again but missed. Gerard went to sixteen from his lands and deployed Sakura-Tribe Elder while Tyler played 'Goyf. Gerard's Gerrard's Verdict nabbed Indrik Stomphowler and Putrefy and he went to 12 on Tyler's next attack. 
+![](https://i.ormos.uk/77/3a/773adbefac9fb35ae465c949d308dc8ca016308ec59d9a1dfd7f3fd9762af604.jpg)
+
+Tyler took three to try for a first turn Smother with Cabal Therapy again but missed. Gerard went to sixteen from his lands and deployed Sakura-Tribe Elder while Tyler played 'Goyf. Gerard's Gerrard's Verdict nabbed Indrik Stomphowler and Putrefy and he went to 12 on Tyler's next attack. 
 
 A timely Eternal Witness got back the Verdict although Gerard tucked it away for later preferring to play Tarmogoyf. Tyler played Doran and swung in with the Goyf. Gerard tried to puzzle out the virtual stats and Tyler made things simple. "They will trade if you block." Gerard traded. His next Verdict nabbed Mortify and Chrome Mox, leaving Tyler with one card. Gerard provided Doran fodder in the form of a Tribe Elder. He went to eight when he had to let a Treetop rumble through. 
 
@@ -1343,7 +1345,9 @@ After two days of play and 15 rounds of Swiss, it all came down to one final mat
 
 Game 1:
 
-![](https://i.ormos.uk/fa/89/fa899687f4d74dd083459e43e37de00b374d2a66b01c5f42406ebbcc9dea87ef.jpg)After no mulligans, Adam kicked off the finals with a Tolaria West. Gerard went on the 19-17-15 plan, fetching Overgrown Tomb and playing Thoughtseize. Adam showed a hand of two Oblivion Rings, Thirst for Knowledge, Fact or Fiction, and two lands, from which Gerard took Thirst. Urza's Tower came down for Adam, along with Azorius Signet. Gerard added Sakura-Tribe Elder and Loxodon Hierarch to his board over the next two turns, going back up to 18. Adam answered with Fact or Fiction, which Gerard split as Thirst for Knowledge and Azorius Signet in one pile, and three lands in the other. Adam took the pile with spells. Gerard knocked Adam to 12 with a swing from the Hierarch, then played a second 4/4 in the form of Ravenous Baloth.
+![](https://i.ormos.uk/fa/89/fa899687f4d74dd083459e43e37de00b374d2a66b01c5f42406ebbcc9dea87ef.jpg)
+
+After no mulligans, Adam kicked off the finals with a Tolaria West. Gerard went on the 19-17-15 plan, fetching Overgrown Tomb and playing Thoughtseize. Adam showed a hand of two Oblivion Rings, Thirst for Knowledge, Fact or Fiction, and two lands, from which Gerard took Thirst. Urza's Tower came down for Adam, along with Azorius Signet. Gerard added Sakura-Tribe Elder and Loxodon Hierarch to his board over the next two turns, going back up to 18. Adam answered with Fact or Fiction, which Gerard split as Thirst for Knowledge and Azorius Signet in one pile, and three lands in the other. Adam took the pile with spells. Gerard knocked Adam to 12 with a swing from the Hierarch, then played a second 4/4 in the form of Ravenous Baloth.
 
 Adam halted the hemorrhaging with Wrath of God; Gerard sacrificed his Baloth to go to 22 in response. Gerard then played Pernicious Deed and activated it for 2, taking out both of Adam's Signets. A pair of Sakura-Tribe Elders from Gerard was met with a cycled Decree of Justice from Adam, netting him two Soldier tokens. Gerard Smothered one of the tokens and attacked with both his Elders. One was blocked and one got through; Adam fell to 11 and Gerard searched out a Forest. Gerard added to his board with another Hierarch, going to 25. Adam got rid of the Hierarch with Oblivion Ring, but still fell to 10 from an Elder. Cabal Therapy from Gerard snagged two other Oblivion Rings from Adam's hand; he also saw Remand and Condescend. One Elder took Adam to 9, and the Condescend stopped another from coming into play.
 
@@ -1355,7 +1359,9 @@ The players sideboarded quietly, each making a few changes. The only sound from 
 
 Game 2: 
 
-![](https://i.ormos.uk/a3/20/a320c3958f2f92370532b13e3bab7f0d0af127c6bf6c4d6f51ccb8ee68a06518.jpg)Both players kept their opening hands again. Adam again started with Tolaria West. Gerard had a tapped land of his own in Treetop Village. Two Urza lands allowed Adam to play a face-down creature. Gerard went to 17 for a Godless Shrine and Vindicated Adam's Tolaria West. Adam finished the Tron and played Chrome Mox, imprinting Exalted Angel. The morph got in there, taking Gerard to 15. Gerard played Cranial Extraction; Adam responded by cycling Decree of Justice, the Urzatron letting him make five soldiers. Gerard named Mindslaver for his Extraction, taking the two from Adam's deck. Skycloud Expanse allowed Adam to turn up Exalted Angel and attack for 9. With the life totals at 24-6 and no help on the way, Gerard called it a game.
+![](https://i.ormos.uk/a3/20/a320c3958f2f92370532b13e3bab7f0d0af127c6bf6c4d6f51ccb8ee68a06518.jpg)
+
+Both players kept their opening hands again. Adam again started with Tolaria West. Gerard had a tapped land of his own in Treetop Village. Two Urza lands allowed Adam to play a face-down creature. Gerard went to 17 for a Godless Shrine and Vindicated Adam's Tolaria West. Adam finished the Tron and played Chrome Mox, imprinting Exalted Angel. The morph got in there, taking Gerard to 15. Gerard played Cranial Extraction; Adam responded by cycling Decree of Justice, the Urzatron letting him make five soldiers. Gerard named Mindslaver for his Extraction, taking the two from Adam's deck. Skycloud Expanse allowed Adam to turn up Exalted Angel and attack for 9. With the life totals at 24-6 and no help on the way, Gerard called it a game.
 
 Fabiano 1, Yurchick 1.
 

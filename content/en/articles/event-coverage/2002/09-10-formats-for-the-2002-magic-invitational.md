@@ -52,7 +52,9 @@ archive_source:
   sha256: 48c9b39712dc012dc0a540bb4197683a8d57f87ce91787e3c3ad985783895544
 render_recovery: []
 ---
-![](https://i.ormos.uk/27/85/27855bc62e8b678f1e222a75b73cb36972546fef4b8693a44a43fdcb9c17209f.jpg)The preliminary rounds of the **Magic** Invitational will consist of fifteen matches (best two out of three) with each player facing off against every other player once (there is a little bit of a twist this year, see below). The two players with the best record at the end of the fifteen rounds will meet in the finals. The finals will consist of three matches (best two out of three games each) with the two finalists playing three of the five formats. The winner will be the first player to win matches in two formats. Order of these final matches will be predetermined but can be changed if agreed upon by the two finalists. All of the matches at this year's Invitational will played on **Magic Online**.
+![](https://i.ormos.uk/27/85/27855bc62e8b678f1e222a75b73cb36972546fef4b8693a44a43fdcb9c17209f.jpg)
+
+The preliminary rounds of the **Magic** Invitational will consist of fifteen matches (best two out of three) with each player facing off against every other player once (there is a little bit of a twist this year, see below). The two players with the best record at the end of the fifteen rounds will meet in the finals. The finals will consist of three matches (best two out of three games each) with the two finalists playing three of the five formats. The winner will be the first player to win matches in two formats. Order of these final matches will be predetermined but can be changed if agreed upon by the two finalists. All of the matches at this year's Invitational will played on **Magic Online**.
 
 The fifteen preliminary rounds will consist of five different formats: three Constructed and two Limited. Each format will be used for three matches.
 

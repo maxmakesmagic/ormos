@@ -71,7 +71,9 @@ render_recovery: []
 ---
 Wizards of the Coast returns to Boston as an official tabletop sponsor for PAX East on March 11-13. Stop by booth 648 for demos of **Magic: The Gathering**, *Archenemy*, **Duels of the Planeswalkers**, and an exciting PC demo of something so new we can't even talk about it here ... yet. 
 
-![](https://i.ormos.uk/2d/32/2d327a6c95f8ddd2b4f440f444c315b1ebe7684042391c95ecd85b286c18de03.jpg)The **Magic: The Gathering** booth is also the place to pick up a promotional Bloodthrone Vampire card, as well as a very limited edition T-shirt for trying out our PC challenge. All giveaways are available while supplies last. 
+![](https://i.ormos.uk/2d/32/2d327a6c95f8ddd2b4f440f444c315b1ebe7684042391c95ecd85b286c18de03.jpg)
+
+The **Magic: The Gathering** booth is also the place to pick up a promotional Bloodthrone Vampire card, as well as a very limited edition T-shirt for trying out our PC challenge. All giveaways are available while supplies last. 
 
 But **Magic**'s presence at PAX East won't be limited to the Exhibition Hall. Whether you're a dedicated player or just want to get in a quick game, you'll find an event for you. Many of our events take only 1-2 hours to complete, so you can get in some of your favorite gaming and still see the rest of the show! All gaming takes place in the Tabletop Hall (Exhibit Hall B, Level 0), which is right next to the main PAX East Exhibit Hall. Seating may be limited for some events; check with the on-site tournament organizer for specifics. You can see a full schedule of **Magic** events [here](#schedule). 
 

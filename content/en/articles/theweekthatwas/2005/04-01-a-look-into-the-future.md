@@ -106,7 +106,9 @@ As for my weekly column, things will proceed pretty much as normal with stories 
 
 The important thing to remember for readers who do not opt for Premium is that you will still be getting the basic information you need. Think of it as a basic cable package -- you will still get ESPN, CNN, and MTV but you won’t get the premium channels like TurkishStarz or Hallmark Channel OnDemand.
 
-[![](https://i.ormos.uk/27/06/2706254fd0ac806b7e4f0d34933ae90e86c8b122b55aec450d07e145745c0291.jpg)](https://web.archive.org/web/20050401000000/https://magic.wizards.com/en/node/579941)This week’s news is dominated by the **Magic** Invitational. The 16 players have been selected through a variety of ballots, electorates, and categories. I was very happy to learn that Antoine Ruel and Tim Aten were the victors on the final fan ballot. The R&D pick was used to select MTGO poster child Terry Soh.
+[![](https://i.ormos.uk/27/06/2706254fd0ac806b7e4f0d34933ae90e86c8b122b55aec450d07e145745c0291.jpg)](https://web.archive.org/web/20050401000000/https://magic.wizards.com/en/node/579941)
+
+This week’s news is dominated by the **Magic** Invitational. The 16 players have been selected through a variety of ballots, electorates, and categories. I was very happy to learn that Antoine Ruel and Tim Aten were the victors on the final fan ballot. The R&D pick was used to select MTGO poster child Terry Soh.
 
 With their invites secured, the players need to get down to the business of designing their Invitational cards. Each players has to submit a design for a card that will become a part of a future expansion should they win the event. Another card will also be selected from the 16 designs by the readers of this site to become an actual card -- the “Plus One” to the winner’s design, if you will.
 

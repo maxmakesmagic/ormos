@@ -71,7 +71,9 @@ render_recovery:
   - Centaur Garden
   occurrences: 33
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a946.jpg)It's make-or-break time for these two competitors. Masahiko Morita, shining star of the Japanese GP circuit, began the day with just one loss. Since then he's gone 3-2 and now needs to win his final match to have a shot at the Top 8. Shu Komuro faced a harder road at 6-2, but rose to the occasion and now shares Morita's station.
+![](http://www.wizards.com/sideboard/images/gpsap02/a946.jpg)
+
+It's make-or-break time for these two competitors. Masahiko Morita, shining star of the Japanese GP circuit, began the day with just one loss. Since then he's gone 3-2 and now needs to win his final match to have a shot at the Top 8. Shu Komuro faced a harder road at 6-2, but rose to the occasion and now shares Morita's station.
 
 Morita took his time in Game 1, leading with Werebear to accelerate to Speculation and Wild Mongrel on turn three. Komuro meantime made a Nimble Mongoose and Studied into a Rootwalla. Morita fetched out Roars and Moment's Peace before handing it back. Komuro Studied again, this time sending Wonder to the graveyard. He hit for two and made a Wild Mongrel.
 
@@ -81,7 +83,9 @@ Komuro couldn't press. He held back. Morita pulled up Mental Note, sending Wonde
 
 Morita 1 - Komuro 0
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a945.jpg)Komuro was forced to mulligan his first hand in Game 2, and then again down to five. They were as good as one could hope for, though. Mental Note, Wild Mongrel and three lands. Morita again sped out with Werebear and then another and a Wild Mongrel. Komuro's pitched Wonder was letting him soar overhead. Mental Note served up Nimble Mongoose, and now Komuro's mulligan was looking spectacular.
+![](http://www.wizards.com/sideboard/images/gpsap02/a945.jpg)
+
+Komuro was forced to mulligan his first hand in Game 2, and then again down to five. They were as good as one could hope for, though. Mental Note, Wild Mongrel and three lands. Morita again sped out with Werebear and then another and a Wild Mongrel. Komuro's pitched Wonder was letting him soar overhead. Mental Note served up Nimble Mongoose, and now Komuro's mulligan was looking spectacular.
 
 Morita cast Wonder and turned it over to Komuro, who was unwilling to bust past for fear of losing Wonder advantage. Morita swung in with Mongrel. Komuro doubled up on it. Both players pitched their hands. The Mongoose and Morita's Mongrel went to the graveyard. Unfortunately for Komuro, one of the cards Morita pitched was Roar of the Wurm. He cast it.
 

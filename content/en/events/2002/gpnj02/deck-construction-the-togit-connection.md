@@ -219,7 +219,9 @@ render_recovery:
   - Trained Pronghorn
   occurrences: 219
 ---
-![](https://www.wizards.com/sideboard/images/gpnj02/976.jpg)"The TOGIT Connection" (named after the New Jersey store The Only Game in Town) consisted of members Osyp Lebedowicz (from that store) and team CMU members Mike Turian and US National Champion Eugene Harvey. I sat down with them between the deck registering and deck building periods, to observe the process they used to build their decks.
+![](https://www.wizards.com/sideboard/images/gpnj02/976.jpg)
+
+"The TOGIT Connection" (named after the New Jersey store The Only Game in Town) consisted of members Osyp Lebedowicz (from that store) and team CMU members Mike Turian and US National Champion Eugene Harvey. I sat down with them between the deck registering and deck building periods, to observe the process they used to build their decks.
 
 B(en): So without seeing the cards, what colors do you guys hope to be playing.  
  M(ike): All three-color decks.  

@@ -285,7 +285,9 @@ render_recovery:
 
 Okay, okay. It's cheesy to quote yourself. It's cheesy to start an article with a quote, it's cheesy to make up a quote the day you write the article in question and it's definitely cheesy to put it all together, but I needed an opening for this article and had nothing better to offer, and you have to admit it adds panache.
 
-![](https://i.ormos.uk/0d/5e/0d5e392537c216511eff6fe51c431ed8645f7f4235863c5aa04913fcbf8cc8f1.jpg)No? Forget you then. It's been a crazy week, full of unsuccessful furniture shopping and a bunch of other non-**Magic** related stuff, and when you throw in a Prerelease weekend, I'm pretty much spent, so if my openings “border” on cheesy, you'll have to pardon me, because at least it's an opening, and that will allow me to segue into a collection of thoughts all relating to *Scourge* in Limited.
+![](https://i.ormos.uk/0d/5e/0d5e392537c216511eff6fe51c431ed8645f7f4235863c5aa04913fcbf8cc8f1.jpg)
+
+No? Forget you then. It's been a crazy week, full of unsuccessful furniture shopping and a bunch of other non-**Magic** related stuff, and when you throw in a Prerelease weekend, I'm pretty much spent, so if my openings “border” on cheesy, you'll have to pardon me, because at least it's an opening, and that will allow me to segue into a collection of thoughts all relating to *Scourge* in Limited.
 
 Speaking of *Scourge* (see?), the Prerelease was abuzz as per usual here in Toronto (and yes, I'm living here for the foreseeable future), with small children screeching violently at every turn as they got their hands on multiple cards that looked like “\[proper name\], the \[impressive title\]”, marked by either dragon or legend status and a couple of rather large digits in the lower right hand corner. *Scourge* is fun. A lot of it. It's Timmy personified, with a ridiculous eighteen cards having to do with the newest and biggest of the winged, toothy varieties of tribe. You think people have whined about losing to bombs in the past? This set's going to make your ears bleed:
 

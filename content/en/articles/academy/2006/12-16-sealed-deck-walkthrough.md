@@ -293,7 +293,9 @@ Rather than play Blaze, Anaba Shaman, and Bottle Gnomes, we could switch Mountai
 
 To me this is the most difficult decision of this Sealed deck: whether to go U/W/b or U/W/r. That said, I feel both “U/W/x” decks (white-blue splashing some other color) would be very close in power, so one can't go too wrong.
 
-![](https://i.ormos.uk/2a/fb/2afb65ec19b4c4869346a4fec4f0fc7a0e951f3e8551e275239e12b7301bebd2.jpg)An additional note is that after sideboard the black build had access to the powerful sideboard card Slay. Even if we do decide to go U/W/r, we could change to U/W/b for the second game. On the other side of the coin, if we decide to go U/W/b, they can change to U/W/r after sideboard if our opponent has black creatures to block Razortooth Rats and render Dark Banishing less effective!
+![](https://i.ormos.uk/2a/fb/2afb65ec19b4c4869346a4fec4f0fc7a0e951f3e8551e275239e12b7301bebd2.jpg)
+
+An additional note is that after sideboard the black build had access to the powerful sideboard card Slay. Even if we do decide to go U/W/r, we could change to U/W/b for the second game. On the other side of the coin, if we decide to go U/W/b, they can change to U/W/r after sideboard if our opponent has black creatures to block Razortooth Rats and render Dark Banishing less effective!
 
 In the end, by a narrow margin, I decide to stick with the U/W/r. Not only does red's splash seem slightly better than black's, red seems better in Game 1. This way you're still able to bring in black if you need the Slay for game 2, but there's no possibility of having less powerful cards against a black opponent Game 1.
 

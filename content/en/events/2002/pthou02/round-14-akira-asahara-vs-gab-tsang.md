@@ -89,7 +89,9 @@ render_recovery:
   - Cavern Harpy
   occurrences: 57
 ---
-![](https://i.ormos.uk/92/04/92041022cd4b3c9e44dc531c03384d935f9b4d4deb4362dcdf56fb048247cd37.jpg)Akira Asahara marches to the beat of a different drummer—check that—he saunters along to some internal soundtrack that only he is privy to. Widely recognized as of the wildest of the Japanese deck innovators, Akira's credits include the Mori Katsu Love-Love Special—a four color, permanentless control deck and Zombie Prison—a Zombie Infestation/Squee/Winter Orb deck. Today he is running an Aluren deck called Astro Nine. His deck's unusual suspects include Eladmari's Call, Academy Rector, False Prophet, Whirlpool Warrior (?!?), the Fallen Empires sac lands, and High Market.
+![](https://i.ormos.uk/92/04/92041022cd4b3c9e44dc531c03384d935f9b4d4deb4362dcdf56fb048247cd37.jpg)
+
+Akira Asahara marches to the beat of a different drummer—check that—he saunters along to some internal soundtrack that only he is privy to. Widely recognized as of the wildest of the Japanese deck innovators, Akira's credits include the Mori Katsu Love-Love Special—a four color, permanentless control deck and Zombie Prison—a Zombie Infestation/Squee/Winter Orb deck. Today he is running an Aluren deck called Astro Nine. His deck's unusual suspects include Eladmari's Call, Academy Rector, False Prophet, Whirlpool Warrior (?!?), the Fallen Empires sac lands, and High Market.
 
 Gab Tsang is playing a Rock Variant with Krosan Tuskers to power up main deck Vindicates. The Canadian national team member is looking for a top 16 finish although both players will finish in the money regardless but the winner will walk away with multiple thousands of dollars more.
 
@@ -125,7 +127,9 @@ Gab continued to abuse Akira's resources when he Vindicated one of his lands. Ak
 
 Worth Wollpert was watching the match as Gab shuffled infinitely for the final game. "I hate his Disenchant sideboard in this match—it does nothing!" After all of Gab's shuffling he was forced to mulligan an unplayable set of openers and kept the next six he saw.
 
-![](https://i.ormos.uk/9a/5c/9a5cae904285de1107b3fc9471be1e9ad04e81a803e2183ded5c2187f78f2497.jpg)Akira opened with another Cabal Therapy. This time he named Duress but he whiffed and got to see two Birds, Spiritmonger, Naturalize, and two lands. At the end of Gab's second turn, Akira called for a Rector and untapped and played Havenwood Battleground. 
+![](https://i.ormos.uk/9a/5c/9a5cae904285de1107b3fc9471be1e9ad04e81a803e2183ded5c2187f78f2497.jpg)
+
+Akira opened with another Cabal Therapy. This time he named Duress but he whiffed and got to see two Birds, Spiritmonger, Naturalize, and two lands. At the end of Gab's second turn, Akira called for a Rector and untapped and played Havenwood Battleground. 
 
 Gab realized that a third turn Monger wasn't going to cut it the way the game was developing. Instead he played and sacrificed a Yavimaya Elder leaving himself no mana to Naturalize. Akira untapped and played the Rector. He sacrificed it to flash back Cabal Therapy naming Boneshredder and put his Aluren into play. 
 

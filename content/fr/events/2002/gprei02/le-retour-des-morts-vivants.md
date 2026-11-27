@@ -53,7 +53,9 @@ archive_source:
   sha256: 4033ae156dbafce41a890174493dda57ad06ec392a0b9d8f537b8bcdc2d3c1a9
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a981.jpg)Je vous l'avais bien dit qu'on trouverait des dinosaures sur ce tournoi. 
+![](http://www.wizards.com/sideboard/images/gprei02/a981.jpg)
+
+Je vous l'avais bien dit qu'on trouverait des dinosaures sur ce tournoi. 
 
 Un des 'feature match' de la ronde 2 voyait le retour, pour la gloire, de Mikael Sochon. Ancien membre de l'équipe de France, champion du GP londres il y a quelques années, l'animal repointe le bout de son nez. Un bon moyen de revoir les copains autour de bouts de cartons. 
 

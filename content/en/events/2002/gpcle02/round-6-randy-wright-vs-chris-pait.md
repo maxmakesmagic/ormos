@@ -87,7 +87,9 @@ render_recovery:
   - Ambassador Laquatus
   occurrences: 46
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a957.jpg)This feature match had a definite local flair to it. Randy Wright a player from Columbus, Ohio was packing his Wake Combo deck. Having been on the Pro Tour several times before, Randy was hoping that this three color special packing Time Stretch, Living Wish, Mirari's Wake, and Cunning Wish to get all of his kill mechanics would bring him back to the lights of the Tour once more. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a957.jpg)
+
+This feature match had a definite local flair to it. Randy Wright a player from Columbus, Ohio was packing his Wake Combo deck. Having been on the Pro Tour several times before, Randy was hoping that this three color special packing Time Stretch, Living Wish, Mirari's Wake, and Cunning Wish to get all of his kill mechanics would bring him back to the lights of the Tour once more. 
 
 His opponent, Chris Pait, from Toledo, Ohio was with a very different deck. Packing a mono-black Braids strategy, he plans to disrupt his opponent's early game, and seal the victory with the Cabal Minion herself. Chris has only been to a team Pro Tour, but he wants to go back, and shares the hope of so many in this room to earn an invite this weekend. 
 
@@ -97,7 +99,9 @@ Randy took his next turn, played a plains, and cast Mirari's Wake. The end seeme
 
 Wright cast Flash of Insight for six at the end of Chris's turn, untapped discarded Syncopate to the Confinement and flashbacked the Insight for another six. Chris finally got his fourth land of the game on the tenth turn, cast a Braids, but returned the dementia summoner to his hand when Randy flashed Aether Burst. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a960.jpg)When the upkeep on Solitary Confinement was not paid, it was apparent the game was in the end stages. Wright played Time Stretch, targeted himself, and Living Wished a Battlefield Scrounger into his hand. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a960.jpg)
+
+When the upkeep on Solitary Confinement was not paid, it was apparent the game was in the end stages. Wright played Time Stretch, targeted himself, and Living Wished a Battlefield Scrounger into his hand. 
 
 When the combo of Scrounger and recurring Time Stretch was explained, Chris packed his cards in. 
 
@@ -118,7 +122,9 @@ Game 2 started off with Randy taking a mulligan to six, and Chris pleased with h
 
 Chris made a fourth turn Shambling Swarm and passed. Knowing that he narrowly averted disaster kept hope alive for Wright as he made a forest and Compulsion. Ichorid joined Chris's team, and both members of his army marched over to meet Randy. Randy played an island and passed the turn. Chris attacked with his Swarm knocking the defenseless Wright to 11, and made a Braids. Braids was quickly Aether Bursted back to it's owner's hand, but when Randy had to Living Wish for a Skycloud Expanse, it seemed all in the bag. Another attack from Chris brought Wright to eight, and Braids once again came into play, and returned to her owner's hand via Aether Burst. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a961.jpg)Randy untapped, drew a Solitary Confinement, and used it as a stop gap measure to slow down Chris. At this point, Randy was at a terrifying four life. The lack of good cards in his hand made him give it up a few turns later. Chris played a land, cast Mesmeric Fiend, and saw that there was nothing good in Randy's hand. Ichorid came into play, and dealt the killing blow. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a961.jpg)
+
+Randy untapped, drew a Solitary Confinement, and used it as a stop gap measure to slow down Chris. At this point, Randy was at a terrifying four life. The lack of good cards in his hand made him give it up a few turns later. Chris played a land, cast Mesmeric Fiend, and saw that there was nothing good in Randy's hand. Ichorid came into play, and dealt the killing blow. 
 
 Wright 1 - Pait 1
 

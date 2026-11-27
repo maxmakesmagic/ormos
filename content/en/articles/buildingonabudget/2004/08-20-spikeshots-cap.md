@@ -319,7 +319,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/7d/19/7d1975b980af951e55c7e906c3063156677b0364f9959688fd202f10f9a74d5e.jpg)Nothing beats the feeling of a Spikeshot Goblin with a cool toy. I can remember countless limited games that were won simply on the power of Spikeshot Goblin and Bonesplitter.
+![](https://i.ormos.uk/7d/19/7d1975b980af951e55c7e906c3063156677b0364f9959688fd202f10f9a74d5e.jpg)
+
+Nothing beats the feeling of a Spikeshot Goblin with a cool toy. I can remember countless limited games that were won simply on the power of Spikeshot Goblin and Bonesplitter.
 
 Today's article takes this idea that extra step by using a new card from *Fifth Dawn* that has been getting lots of exposure: Cranial Plating. This particular headgear can turn an innocent little Spikeshot Goblin into a firebreathing monster. Just imagine how big that guy could get….5/2? 8/2? Even 10/2? Needless to say, shooting your opponent with one of these is likely to end the game in a hurry.
 
@@ -386,7 +388,9 @@ There is only one contradicting part about this deck: Oxidda Golem. The Oxidda G
 
 ### Adding Money to the Deck
 
-![](https://i.ormos.uk/5d/b0/5db0b2c374de2454e376bd02e2a193699b7f5e6330422df5404abe060212fa98.jpg)As John said in his email, Arc-Slogger makes a great addition to this or any Red deck. Besides that, you could go with a more traditional Affinity build using Arcbound Ravagers and possibly Black for Disciple of the Vault and the instant ability to move your Plating. Another fun thing to do with this deck would be adding Atog or Vulshok War Boar (especially if your version has Lightning Greaves).
+![](https://i.ormos.uk/5d/b0/5db0b2c374de2454e376bd02e2a193699b7f5e6330422df5404abe060212fa98.jpg)
+
+As John said in his email, Arc-Slogger makes a great addition to this or any Red deck. Besides that, you could go with a more traditional Affinity build using Arcbound Ravagers and possibly Black for Disciple of the Vault and the instant ability to move your Plating. Another fun thing to do with this deck would be adding Atog or Vulshok War Boar (especially if your version has Lightning Greaves).
 
 As a separate idea – you can cross this deck with the old Building on a Budget deck “Gunner” for some interesting action. Using Loxodon Warhammer is fun in any situation!
 

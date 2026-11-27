@@ -41,7 +41,9 @@ render_recovery: []
 
 ### Grand Prix-New Jersey
 
-![](http://www.wizards.com/grandprix/images/NEW_GP.jpg)The last North American Grand Prix this season, and the only one to feature team format drew just over 200 teams. That was more than the organizers expected, though admittedly less than I predicted in the previous issue of this column. Even so, all the usual suspects were in attendance, though some of the team rosters were quite unexpected. 
+![](http://www.wizards.com/grandprix/images/NEW_GP.jpg)
+
+The last North American Grand Prix this season, and the only one to feature team format drew just over 200 teams. That was more than the organizers expected, though admittedly less than I predicted in the previous issue of this column. Even so, all the usual suspects were in attendance, though some of the team rosters were quite unexpected. 
 
 It was a tough tournament. Head Judge Rune Horvik from Norway announced that we would be playing eight rounds of Swiss. With two bouts of deck registration and deck construction, that kept the players going till one o'clock in the morning. Twenty teams that advanced to Day 2 (almost everyone with 6-2 record made it through) had to be back by 8:30. Sleep-deprived players and staff spent the entire next day at the venue as well, the tournament lasting till about 9 in the evening.
 
@@ -53,7 +55,9 @@ Let's take a look at some of the more interesting teams from Jersey, and how the
 
 **Exhisposition Center** – Neutral Ground founder Brian David-Marshall teamed up with two long-time friends and common draft partners Paul Jordan and Tim McKenna. Near the top of the standings after Day 1, the team suffered a major blow when a cab driver got McKenna lost on Sunday morning, prompting him to be several minutes late for the first round, and earning the team a match loss. Despite this setback they rallied and won their second round. In the final round of Swiss they played for the Top 4, falling to Illuminati to finish in 8th place overall.
 
-![](http://www.wizards.com/sideboard/images/GPBOS01/136.jpg)**Barnacle Brothers** – The long-standing Team Antarctica has fallen, because its members do not have the Pro points to earn three byes anymore. Finkel and the OMS brothers had to look for solid free agents with lots of points. For the OMS brothers solution presented itself in Brian Davis – who was happy to trade off his large cache of Pro points for a spot on an experienced team. Barnacle Brothers placed 26th, missing Day 2 by a single win.
+![](http://www.wizards.com/sideboard/images/GPBOS01/136.jpg)
+
+**Barnacle Brothers** – The long-standing Team Antarctica has fallen, because its members do not have the Pro points to earn three byes anymore. Finkel and the OMS brothers had to look for solid free agents with lots of points. For the OMS brothers solution presented itself in Brian Davis – who was happy to trade off his large cache of Pro points for a spot on an experienced team. Barnacle Brothers placed 26th, missing Day 2 by a single win.
 
 **Watching Dan Clegg** – Teammates Peter Szigeti and Jon Finkel would spend much time watching Dan Clegg, who is notorious for taking his time during the games. One of the least-expected pairings at the tournament, it was nevertheless among the teams capable of winning the tournament. They failed to make Day 2 however, placing 46th. It will be interesting to see whether they stick together for PT-Boston.
 
@@ -69,11 +73,15 @@ Let's take a look at some of the more interesting teams from Jersey, and how the
 
 **2nd – Illuminati** – Zvi Mowshowitz, Justin Gary and yours truly played together for the first time in Pro Tour-New York, to place 3rd. We missed being invited to the Osaka Masters on a technicality and were really itching to prove that our finish at Madison Square Garden was no fluke. Although we once again missed out on the coveted Masters invite, a second-place result is nothing to sneer at. 
 
-![](http://www.wizards.com/sideboard/images/Worlds2001/751.jpg)**1st – The Jokas** – Kyle Rose is one of the game's best players. He has a Pro Tour and an U.S. Nationals win under his belt, backed up by a string of other money finishes. Rose teamed up with Eric James and Norman Woods – Magic players who share Rose's passion for poker. Unfortunately, I know little about Rose's teammates beyond the fact that they've played in a few Pro Tours. However, the few players I spoke to who know them respect their playing ability. Could these guys become the next "name" players? It's quite likely. They proved they are able to play by winning the tournaments they had no byes in (neither Jokas nor Cardshark had any byes in NJ, for those of you who still complain about the bye system being unfair). 
+![](http://www.wizards.com/sideboard/images/Worlds2001/751.jpg)
+
+**1st – The Jokas** – Kyle Rose is one of the game's best players. He has a Pro Tour and an U.S. Nationals win under his belt, backed up by a string of other money finishes. Rose teamed up with Eric James and Norman Woods – Magic players who share Rose's passion for poker. Unfortunately, I know little about Rose's teammates beyond the fact that they've played in a few Pro Tours. However, the few players I spoke to who know them respect their playing ability. Could these guys become the next "name" players? It's quite likely. They proved they are able to play by winning the tournaments they had no byes in (neither Jokas nor Cardshark had any byes in NJ, for those of you who still complain about the bye system being unfair). 
 
 ### European Championship
 
-![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)Although Germany lost the World Cup, their Magic players can at least console themselves with their very first European Championship title. This was the first career win for David Brucker, who has played in a number of Pro Tours but never previously made the cut to Day 2. Brucker's Psychatog deck earned him $15,000 and an invitation to Sydney. He defeated France's Cristophe Haim's r-g-u deck in the finals. Haim made Top 8 in his very first Pro Tour at Osaka and has been enjoying success after success since then, establishing himself firmly as a real professional. Some of the other names in the Top 8 you might recognize include France's Amiel Tenenbaum, Sweden's Anton Jonsson, and everyone's favorite Dane, Svend Geertsen.
+![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)
+
+Although Germany lost the World Cup, their Magic players can at least console themselves with their very first European Championship title. This was the first career win for David Brucker, who has played in a number of Pro Tours but never previously made the cut to Day 2. Brucker's Psychatog deck earned him $15,000 and an invitation to Sydney. He defeated France's Cristophe Haim's r-g-u deck in the finals. Haim made Top 8 in his very first Pro Tour at Osaka and has been enjoying success after success since then, establishing himself firmly as a real professional. Some of the other names in the Top 8 you might recognize include France's Amiel Tenenbaum, Sweden's Anton Jonsson, and everyone's favorite Dane, Svend Geertsen.
 
 Norway, which has done better in this event than any other country, has actually failed to place any players in the money this time. Germany and France had the best results with two players in the Top 8 each, followed by the Netherlands, Italy, Sweden and Denmark with one player a piece. The event was also a success for the former Soviet Union, with one player each from Russia and Ukraine in Top 16. Kai Budde finished in the money, but out of the spotlight in 22nd place. 
 
@@ -105,7 +113,9 @@ Courtesy of Lian
 
 "Thought this might appeal, it certainly did to us. 
 
-![](https://i.ormos.uk/8d/bd/8dbd00946616a8cb8f0e4eeae6ab3a1d10193c974ec671dfeb973466403c49d4.jpg)Small local Standard tourney in Nottingham, England on July 1st. Raymond Fong, level 2 judge and sometimes player is running a Rice Snack variant with, among other cards, Holistic Wisdom, Cunning Wish and Mirari. He is beginning to suffer a bit of damage versus his Battle Screech-powered opponent and needs to go off. He has both the Mirari and Holistic Wisdom on the table and plenty of land. He has earlier cast one Cunning Wish (to fetch the Wisdom, I believe) and also removed an Early Harvest to the Wisdom to recover an Evasive Action. He untapped and top decked another Wish, tapped off three mana for it and then decided a copy would be nice as well. He Wished for the Early Harvest and got greedy, fetching the other Wish back as well. 
+![](https://i.ormos.uk/8d/bd/8dbd00946616a8cb8f0e4eeae6ab3a1d10193c974ec671dfeb973466403c49d4.jpg)
+
+Small local Standard tourney in Nottingham, England on July 1st. Raymond Fong, level 2 judge and sometimes player is running a Rice Snack variant with, among other cards, Holistic Wisdom, Cunning Wish and Mirari. He is beginning to suffer a bit of damage versus his Battle Screech-powered opponent and needs to go off. He has both the Mirari and Holistic Wisdom on the table and plenty of land. He has earlier cast one Cunning Wish (to fetch the Wisdom, I believe) and also removed an Early Harvest to the Wisdom to recover an Evasive Action. He untapped and top decked another Wish, tapped off three mana for it and then decided a copy would be nice as well. He Wished for the Early Harvest and got greedy, fetching the other Wish back as well. 
 
 He tapped out and then cast the Early Harvest he had in hand, leaving him with a Wish and a Harvest. He thought for a while and pitched the Harvest to the Wisdom to fetch back the one in the bin. He cast the Wish, with a copy, getting back the other Wish and other Harvest! This goes on for a while until he finally wishes for a sideboard Ghitu Fire and puts his opponent out of his misery! Raymond says he was unaware of the limitless mana combo in the deck until it went off."
 
@@ -113,7 +123,9 @@ He tapped out and then cast the Early Harvest he had in hand, leaving him with a
 
 Courtesy of Eric Bass:
 
-![](https://i.ormos.uk/30/7a/307a95438e5ad031304f16a7607a582bdaaf4debc2a8aa5b05d51db897dfae52.jpg)"Your Bad Play of the Week reminded me of an even worse play that I saw with Addle. I was judging a Pro Tour Qualifier during the last Standard season and two players (I don't remember their names) were seated near the top tables during round three or four. Both of these players had gone a few rounds undefeated and were fairly experienced players. 
+![](https://i.ormos.uk/30/7a/307a95438e5ad031304f16a7607a582bdaaf4debc2a8aa5b05d51db897dfae52.jpg)
+
+"Your Bad Play of the Week reminded me of an even worse play that I saw with Addle. I was judging a Pro Tour Qualifier during the last Standard season and two players (I don't remember their names) were seated near the top tables during round three or four. Both of these players had gone a few rounds undefeated and were fairly experienced players. 
 
 Midway through the first game, one of the players cast Addle on the other player and named black as the color. His opponent hands him cards, which he looked through for a moment, and selected Lobotomy. He then reached for his opponent's library, which his opponent gave him, and started going through it looking for Lobotomies. Neither player realized that something was amiss at first, but the opponent suddenly caught on to what was going on and called for a judge. 
 

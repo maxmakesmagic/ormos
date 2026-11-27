@@ -212,7 +212,9 @@ render_recovery:
   - Jund Hackblade
   occurrences: 354
 ---
-![](https://i.ormos.uk/b6/85/b6851c21e9a316d69f57429f7fce5064dd5aa07d5841d7e84c349f7bc0a3507d.jpg)Day One of Great Britain Nationals 2009 is over, but for the champion, we’re not yet at the halfway mark. A crowd of 167 players started out beside the glory that is the English Channel here in sunny Brighton, but 166 of them would meet with at least one defeat before the day was done. The exception was Dan Gardner, who piloted his Blue-white ‘Lark deck to 3-0 in Standard, before acing his first draft pod and opening up with a last round win over Gerard Boyd to claim the overnight lead. 
+![](https://i.ormos.uk/b6/85/b6851c21e9a316d69f57429f7fce5064dd5aa07d5841d7e84c349f7bc0a3507d.jpg)
+
+Day One of Great Britain Nationals 2009 is over, but for the champion, we’re not yet at the halfway mark. A crowd of 167 players started out beside the glory that is the English Channel here in sunny Brighton, but 166 of them would meet with at least one defeat before the day was done. The exception was Dan Gardner, who piloted his Blue-white ‘Lark deck to 3-0 in Standard, before acing his first draft pod and opening up with a last round win over Gerard Boyd to claim the overnight lead. 
 
 Right behind him is Chris Rossiter, who has a single draw to go with his six wins so far. Eight more players sit on 6-1, including Pro Stuart Wright, Mick Edwards, and Chris Stocking (who made the Top 8 last year.) But with 38 players within 6 points of the lead, the Top 8 is far from certain, and former champions Craig Stevenson and Richard Moore will be among those looking to make a move from 15 points to claim the title for the second time.
 

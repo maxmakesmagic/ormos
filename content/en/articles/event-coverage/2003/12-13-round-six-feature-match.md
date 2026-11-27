@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/ad/87/ad87e2fa386c3c9e81021513aa4a442c594a07f7399fb511192869b5eda9cfdc.jpg)Recently Brian Kibler has sported the YMG T-shirt and as he sat down for the match he would not address rumors that he was joining a new team with DeRosa and Gabe Walls. He did dispel the notion that Gabe and Antonino were playing the same deck. "Antonino was playing that deck but then realized last night it was awful and decided to play MY deck." (Which doesn't exactly dispel the team rumors with any authority since DeRosa is with CMU/TOGIT.)
+![](https://i.ormos.uk/ad/87/ad87e2fa386c3c9e81021513aa4a442c594a07f7399fb511192869b5eda9cfdc.jpg)
+
+Recently Brian Kibler has sported the YMG T-shirt and as he sat down for the match he would not address rumors that he was joining a new team with DeRosa and Gabe Walls. He did dispel the notion that Gabe and Antonino were playing the same deck. "Antonino was playing that deck but then realized last night it was awful and decided to play MY deck." (Which doesn't exactly dispel the team rumors with any authority since DeRosa is with CMU/TOGIT.)
 
 "I will say that Rob's deck was not exactly on my meta-game radar." Kibler laughed and turned to the table judge and asked, "Soltari Priest is creature type cleric?"
 

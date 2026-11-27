@@ -87,7 +87,9 @@ In the months I've been writing this column I've had several readers write to me
 
 ### Solomon Draft
 
-![](https://i.ormos.uk/02/ef/02efedd71c16ad3d2fb589e61d6154c1e21f0ce413d4d6bd4cdacca86718b770.jpg)Solomon draft is a great limited format for two players. You need the standard three booster packs per player and they can be all from the same set or from different sets if you like. You can even play this format with six completely different packs but it tends to play better if you use packs from the same block. The way the draft works is very different from a typical booster draft that you're used to though.
+![](https://i.ormos.uk/02/ef/02efedd71c16ad3d2fb589e61d6154c1e21f0ce413d4d6bd4cdacca86718b770.jpg)
+
+Solomon draft is a great limited format for two players. You need the standard three booster packs per player and they can be all from the same set or from different sets if you like. You can even play this format with six completely different packs but it tends to play better if you use packs from the same block. The way the draft works is very different from a typical booster draft that you're used to though.
 
 At the start of the draft you open up all the packs without looking at any of the cards. You should have six packs (three packs from each player remember) and at 15 cards per pack you'll end up with a stack of 90 cards. These cards should be kept face down so neither player sees them and they should then be shuffled thoroughly. Decide who goes first and then you're ready to start.
 
@@ -111,13 +113,17 @@ One of the great things about this format is that when you are done, you can jus
 
 ### Continuous Draft
 
-![](https://i.ormos.uk/67/83/67832fa0f6af0671bb228cc0baa105e4e168620302f79fd7e8f0493f9e1bf133.jpg)This name is used to refer to a couple of different formats but the one I know it as is basically a variation of Solomon draft only it's designed for any number of players as long as it's a multiple of two (2, 4, 6, etc). The set-up is more-or-less the same; players pair off and you start with three packs each and open them all up before the draft, only this time you give each player enough time to review all of the contents. The cards are then shuffled together and you start by taking the top four cards and placing them face up on the table. The first player takes one of the cards, the second player then chooses two, and finally the first player gets the last card. This process is repeated with the next four cards but with the players taking turns to pick first. The last two cards can either be divided randomly or left out altogether. You then build your decks and play a standard match.
+![](https://i.ormos.uk/67/83/67832fa0f6af0671bb228cc0baa105e4e168620302f79fd7e8f0493f9e1bf133.jpg)
+
+This name is used to refer to a couple of different formats but the one I know it as is basically a variation of Solomon draft only it's designed for any number of players as long as it's a multiple of two (2, 4, 6, etc). The set-up is more-or-less the same; players pair off and you start with three packs each and open them all up before the draft, only this time you give each player enough time to review all of the contents. The cards are then shuffled together and you start by taking the top four cards and placing them face up on the table. The first player takes one of the cards, the second player then chooses two, and finally the first player gets the last card. This process is repeated with the next four cards but with the players taking turns to pick first. The last two cards can either be divided randomly or left out altogether. You then build your decks and play a standard match.
 
 Once the first set of matches is complete, if you are playing with a group of four or more players, you then switch opponents just like you would in a regular tournament. Each player then removes the land from his or her deck and adds their pool of cards to their opponent's and they do a new draft with this pool of cards. Every time you have a new opponent you take apart your deck from the last round and mix it with your opponents to create the pool of cards from which to draft. This way you get a different pool of cards each draft and you get to play a different deck each round. The player to win the most drafts can be declared the overall winner. 
 
 ### Team Draft
 
-![](https://i.ormos.uk/2b/97/2b976ae97f6fe14d77aed6228496dd9f8ccfc66986005e723ddeb419db716113.jpg)If you can get a group of six players together, an excellent alternative to a normal booster draft is to do a 3-on-3 team draft. This is the format most Pros use when playing each other as it's a lot quicker than the team Rochester drafts that are used in the Pro-tour whilst still maintaining a very high skill level, and it also works with 2-on-2 as well as 4-on-4. 
+![](https://i.ormos.uk/2b/97/2b976ae97f6fe14d77aed6228496dd9f8ccfc66986005e723ddeb419db716113.jpg)
+
+If you can get a group of six players together, an excellent alternative to a normal booster draft is to do a 3-on-3 team draft. This is the format most Pros use when playing each other as it's a lot quicker than the team Rochester drafts that are used in the Pro-tour whilst still maintaining a very high skill level, and it also works with 2-on-2 as well as 4-on-4. 
 
 Unlike Rochester, where each team sits on opposite sides of a table, in a team booster draft the players sit so they alternate teams as you go around the table. Seat one has someone from team A, seat two has someone from team B, seat three has someone from team A again and so on. The draft itself proceeds just like a regular booster draft but the teams can get together after the draft and confer during deck-building. There's no exchanging of cards between players allowed, but it's always useful to have the input of two other people when building your deck. Indeed you may choose to include or exclude a certain card based on the colours you believe your opponents to be drafting. 
 

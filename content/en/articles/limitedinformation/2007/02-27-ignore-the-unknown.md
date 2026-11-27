@@ -513,7 +513,9 @@ render_recovery:
 ---
 * * *
 
-![Circular_Logic](https://i.ormos.uk/2d/4c/2d4cbd5e330870363edd0462d4fee8b19224f49550a307a28c34d492ad787729.jpg)Finally, finally, the day arrived. I've been looking forward to this one for a while! Ye Olde Draft Insanity, taking all comers. I'm as big a fan as anyone of the standard fare: TTP, MD5 - whatever the status quo happens to be. But once in a while it's fun to just splash around and play in a very random format. Pro Tour practice? Not so strong. Genuine fun? Oh yes. It's nice once in a while to relax and play with a more fun-loving crowd, away from all draining PTQ/GP events. Unlike some of that fare, I heavily doubt the Draft Insanity is going to take fourteen hours.
+![Circular_Logic](https://i.ormos.uk/2d/4c/2d4cbd5e330870363edd0462d4fee8b19224f49550a307a28c34d492ad787729.jpg)
+
+Finally, finally, the day arrived. I've been looking forward to this one for a while! Ye Olde Draft Insanity, taking all comers. I'm as big a fan as anyone of the standard fare: TTP, MD5 - whatever the status quo happens to be. But once in a while it's fun to just splash around and play in a very random format. Pro Tour practice? Not so strong. Genuine fun? Oh yes. It's nice once in a while to relax and play with a more fun-loving crowd, away from all draining PTQ/GP events. Unlike some of that fare, I heavily doubt the Draft Insanity is going to take fourteen hours.
 
 The main problem with weekend tournaments, and I admit it's a common one, is the early morning wake-up. Sleeping is a vastly underrated complement to wakefulness, and it's a condition I like to thoroughly explore come the end of the week. That being said, drafting trumps quite a bit. And this tournament promised some serious good times.
 

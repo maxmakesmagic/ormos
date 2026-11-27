@@ -103,7 +103,9 @@ render_recovery:
 ---
 * * *
 
-![Shadowstorm](https://i.ormos.uk/4f/1f/4f1f5ab0739b851fcaabc344750cd849ee27039d0490b08bc68ff01173d60196.jpg)Not all planar travel goes according to plan.
+![Shadowstorm](https://i.ormos.uk/4f/1f/4f1f5ab0739b851fcaabc344750cd849ee27039d0490b08bc68ff01173d60196.jpg)
+
+Not all planar travel goes according to plan.
 
 Rath was Yawgmoth’s ever-expanding plane of flowstone. When it merged with parts of Dominaria as part of Yawgmoth’s interplanar invasion tactics during the Rath (*Tempest*) Block storyline, some Dominarian races became trapped in the interstitial void between the two planes.
 

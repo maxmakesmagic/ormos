@@ -266,7 +266,9 @@ render_recovery:
   - Morality Shift
   occurrences: 306
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a600.jpg)They weren't supposed to be here, right? I mean, come on, this US Team was the worst ever by far. Sure, Eugene Harvey has been to the top of the Worlds Team mountain, but this team is even less experienced than the Justin Gary-led squad that fell in '97.
+![](http://www.wizards.com/sideboard/images/worlds02/a600.jpg)
+
+They weren't supposed to be here, right? I mean, come on, this US Team was the worst ever by far. Sure, Eugene Harvey has been to the top of the Worlds Team mountain, but this team is even less experienced than the Justin Gary-led squad that fell in '97.
 
 Someone forget to tell them just what kind of underdogs they were supposed to be. After 18 rounds of individual play and four perfect team drafts, the USA is now in a do-or-die playoff with Denmark to see who gets to battle Kai Budde and the Germans in the finals tomorrow.
 
@@ -292,7 +294,9 @@ The first *Judgment* pack gave Harvey a Wormfang Drake and Franz a big Glory bom
 
 The Danes made a bad pick when they gave Laier a Fledgling Dragon, and allowed Filth to get to Ranks. Filth is insane in the black mirror, and is clearly better than a 2/2 flier.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a601.jpg)Franz ended up with a few Arcane Teachings—key to the white/red archetype. The Danes ended up with some real hefty rares by draft's end—Silver Seraph for Cleeman and Thriss, Nantuko Primus for Laier.
+![](http://www.wizards.com/sideboard/images/worlds02/a601.jpg)
+
+Franz ended up with a few Arcane Teachings—key to the white/red archetype. The Danes ended up with some real hefty rares by draft's end—Silver Seraph for Cleeman and Thriss, Nantuko Primus for Laier.
 
 Prediction: Harvey has better cards than Cleeman and should win the middle match. The one wild card will be Cleeman's maindeck Dogged Hunter against Harvey's double Ambush and Beast Attack.
 

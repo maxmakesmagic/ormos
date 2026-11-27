@@ -44,7 +44,9 @@ archive_source:
   sha256: 57e746abe93992f4ff7e178d7268df88ce2dd5ba64e7df089a3561c97c6b8797
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a927.jpg)Christoph Lippert is another solid German player with multiple Pro Tour Top 32's. The *Odyssey*-*Torment* Limited season has been good for him so far with two Grand Prix top 8's, including runner-up at Grand Prix Barcelona. Raffaele Lo Moro is one of the more famous Italian players with a semi-final appearance at World's 1999.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a927.jpg)
+
+Christoph Lippert is another solid German player with multiple Pro Tour Top 32's. The *Odyssey*-*Torment* Limited season has been good for him so far with two Grand Prix top 8's, including runner-up at Grand Prix Barcelona. Raffaele Lo Moro is one of the more famous Italian players with a semi-final appearance at World's 1999.
 
 Lippert has a black-blue deck with Torment giving him two Balshan Collaborator and two Carrion Wurm. Lo Moro has a geen-red deck with Beast Attack, Roar of the Wurm and multiple Chainflingers.
 
@@ -67,7 +69,9 @@ Lippert 1-0 Lo Moro
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a928.jpg)Lo Moro chose to go first and had to mulligan again. Lippert also decided his no-land hand wasn't a keeper.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a928.jpg)
+
+Lo Moro chose to go first and had to mulligan again. Lippert also decided his no-land hand wasn't a keeper.
 
 Lo Moro seemed to struggling for red as he laid only Forests and a Krosan Restorer. A Peek revealed luck really wasn't with him as the only other spell he'd drawn was a Halberdier he couldn't cast.
 

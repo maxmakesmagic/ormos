@@ -381,7 +381,9 @@ render_recovery:
   - Seize the Day
   occurrences: 1
 ---
-![](https://i.ormos.uk/ec/59/ec59fb254c8996c53ab9c94ad2f670d3a741761eff6fc2ed9642bb565c328553.jpg)On one hand, this matchup might look like just another Psychatog on Psychatog mirror, one of several hundred played this week. But on the other hand, this match is the culmination of many great stories. Carlos Romao of Brazil became one of the first two Latin American players to ever make the Top 8 of a Pro Tour. Mark Ziegner of Germany is trying to become only the second person to win the individual and team titles in the same event. And those are just the really relevant ones; this match actually encompasses many threads, from Red Zone 2K2 to Blue/White Battle Screech, from Cole Swannack to Ken Krouner, from the Irish and Argentinean breakouts to the USA's miracle run. It all comes to close here under the harsh lights in the feature match area. This is the pinnacle of Magic Worlds 2002.
+![](https://i.ormos.uk/ec/59/ec59fb254c8996c53ab9c94ad2f670d3a741761eff6fc2ed9642bb565c328553.jpg)
+
+On one hand, this matchup might look like just another Psychatog on Psychatog mirror, one of several hundred played this week. But on the other hand, this match is the culmination of many great stories. Carlos Romao of Brazil became one of the first two Latin American players to ever make the Top 8 of a Pro Tour. Mark Ziegner of Germany is trying to become only the second person to win the individual and team titles in the same event. And those are just the really relevant ones; this match actually encompasses many threads, from Red Zone 2K2 to Blue/White Battle Screech, from Cole Swannack to Ken Krouner, from the Irish and Argentinean breakouts to the USA's miracle run. It all comes to close here under the harsh lights in the feature match area. This is the pinnacle of Magic Worlds 2002.
 
 Mark Ziegner's weapon of choice is a blue/black/red Burning Wish-Psychatog deck with a "silver bullet" sideboard including Stone Rain and Pyroclasm. Carlos Romao is running a two-color Cunning Wish version of the same deck. Both players have shown proficiency in the 'Tog-on-'Tog matchup on their climbs to the top.
 
@@ -403,7 +405,9 @@ Ziegner 1 – Romao 0
 
 Romao made the interesting decision to draw first in the second game, hoping to avoid the mana issues that plagued him in the first. It didn't really work; he had to mulligan to start the game.
 
-![](https://i.ormos.uk/e3/6f/e36f26fccbeed3ac2e2dc17532d759f63dec11f46fd1db061e4376ab07b1d2ab.jpg)A turn-2 Duress from Ziegner revealed only a Memory Lapse and a Fact or Fiction among the lands in Romao's hand. Ziegner stripped him of the FoF, and then made him use the Lapse on a Burning Wish the following turn. This was shaping up to be a blowout for Ziegner.
+![](https://i.ormos.uk/e3/6f/e36f26fccbeed3ac2e2dc17532d759f63dec11f46fd1db061e4376ab07b1d2ab.jpg)
+
+A turn-2 Duress from Ziegner revealed only a Memory Lapse and a Fact or Fiction among the lands in Romao's hand. Ziegner stripped him of the FoF, and then made him use the Lapse on a Burning Wish the following turn. This was shaping up to be a blowout for Ziegner.
 
 Romao was lucky to draw a Counterspell for the Wish and then another for Ziegner's Fact or Fiction. The German was obviously distressed at Romao's fortunate pulls. A Duress from Ziegner was met by a Fact or Fiction in response by the big Brazilian, turning over Edict, Edict, Deep Analysis, Island and Fact or Fiction. He kept the first three, and then Duress resolved, and Ziegner made him discard the Analysis. He Memory Lapsed the Analysis when Romao attempted to flash it back on the following turn.
 
@@ -453,7 +457,9 @@ Before came four, the event staff brought the table full of trophies onto the st
 
 Ziegner got the jump on game 4 with a turn-2 Duress stealing a Fact or Fiction. Play slowed down after that; Romao's turn-5 Familiar was Repulsed and Ziegner's Fact or Fiction was countered. The Familiar was Edicted when it came back, and Romao's Psychatog was countered with Circular Logic.
 
-![](https://i.ormos.uk/95/e2/95e2c187d5af1b1bc7290a84746ebd9b213a78eb563d9385f9ab4b6dd1d9aac9.jpg)Ziegner Edicted away another Familiar then went on a card-drawing rampage, first casting Deep Analysis twice, then using a Burning Wish to retrieve it and cast it twice more. Then casting another, then a Fact or Fiction, etc., etc., etc.
+![](https://i.ormos.uk/95/e2/95e2c187d5af1b1bc7290a84746ebd9b213a78eb563d9385f9ab4b6dd1d9aac9.jpg)
+
+Ziegner Edicted away another Familiar then went on a card-drawing rampage, first casting Deep Analysis twice, then using a Burning Wish to retrieve it and cast it twice more. Then casting another, then a Fact or Fiction, etc., etc., etc.
 
 Ziegner eventually drew his Lobotomy and was able to force it through to rip all of Romao's Chainer's Edicts from the game. Now his 'Tog was safe.
 

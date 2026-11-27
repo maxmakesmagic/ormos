@@ -53,7 +53,9 @@ archive_source:
   sha256: 6bf2c91d72fdfa7ddbd90d7ad294931fd5e0ccf89ae8d3c0579b76dc6756e106
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a989.jpg)If you need any proof that the Grand Prix circuit is getting tougher by the way we have a stat for you: six players with nineteen points (that is a 6-1-1 result) didn't make the second day. That is how tough the first day in Barcelona was. To spice up the byes debate, all those players had no byes. They had to reach the 6-1-1 results by battling out through the eight rounds.
+![](http://www.wizards.com/sideboard/images/gpbar02/a989.jpg)
+
+If you need any proof that the Grand Prix circuit is getting tougher by the way we have a stat for you: six players with nineteen points (that is a 6-1-1 result) didn't make the second day. That is how tough the first day in Barcelona was. To spice up the byes debate, all those players had no byes. They had to reach the 6-1-1 results by battling out through the eight rounds.
 
 On Sunday morning the lucky 64 will be cracking boosters for two drafts. That will give us all to see how the *Odyssey* Block drafting metagame is developing. Since the point difference between the first and sixty-fourth is only five points, everyone is still very much in the running for the elusive Top 8. Apart from the money and the title, don't forget the eight slots for nearby Nice. With some many big names on the second day the slots might trickle down. 
 

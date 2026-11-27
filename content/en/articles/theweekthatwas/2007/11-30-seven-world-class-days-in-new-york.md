@@ -157,7 +157,9 @@ La Esquina (106 Kenmare St between Cleveland Place and Lafayette Street; (646) 6
  **Worlds Registration, Opening Ceremonies, Hall of Fame Induction, Player Part**  
  **Javits Center, 5 p.m. – 10 p.m.** 
 
-![](https://i.ormos.uk/5e/26/5e26c943e120533bc98964e4afd77ea0c1c7cc76be9c8ea9f059d97266d710e5.jpg)If you are taking part in the [World Championships](https://web.archive.org/web/20130624130340/https://www.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds) then you can head over to the Javits Center and sign up for the main event starting at 5 p.m. If you are not taking part in the event, you should still make a beeline for Hall C of the Convention Center to see some of the greatest players in the history of **Magic** inducted into the third class of the [Pro Tour Hall of Fame](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2). 
+![](https://i.ormos.uk/5e/26/5e26c943e120533bc98964e4afd77ea0c1c7cc76be9c8ea9f059d97266d710e5.jpg)
+
+If you are taking part in the [World Championships](https://web.archive.org/web/20130624130340/https://www.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds) then you can head over to the Javits Center and sign up for the main event starting at 5 p.m. If you are not taking part in the event, you should still make a beeline for Hall C of the Convention Center to see some of the greatest players in the history of **Magic** inducted into the third class of the [Pro Tour Hall of Fame](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2). 
 
 I am looking forward to seeing all five members of this year's Hall of Fame class step up on stage and be acknowledged for their skill and contributions to the game:
 

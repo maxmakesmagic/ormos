@@ -572,7 +572,9 @@ Of course, I guess you could make a deck whose object was to actually lose each 
 
 2) It's a race to five life.
 
-![](https://i.ormos.uk/c2/87/c287a6d5d38476e2d73ceeb4e3e3bec1776cbc06a84fd551294198fdc1431985.jpg)All you have to do to earn your two free cards is deal five damage to an opponent. You can (and should) build your deck accordingly. Use quick creatures. Use direct damage. Use a low mana-curve. Don't worry about your deck surviving to the midgame or after, because in an Enter the Dungeon subgame there's pretty much nothing after the early game. Incidentally, this makes conditional cards like Browbeat and Book Burning a lot more predictable in subgame use.
+![](https://i.ormos.uk/c2/87/c287a6d5d38476e2d73ceeb4e3e3bec1776cbc06a84fd551294198fdc1431985.jpg)
+
+All you have to do to earn your two free cards is deal five damage to an opponent. You can (and should) build your deck accordingly. Use quick creatures. Use direct damage. Use a low mana-curve. Don't worry about your deck surviving to the midgame or after, because in an Enter the Dungeon subgame there's pretty much nothing after the early game. Incidentally, this makes conditional cards like Browbeat and Book Burning a lot more predictable in subgame use.
 
 3) You're playing under a table.
 
@@ -588,7 +590,9 @@ Moving right along...
 
 ### The Champion of Kamigawa
 
-![](https://i.ormos.uk/7e/3f/7e3f48e336a3ac74b4af0d98706332938f2ad3fd3d92c4f9342d8ed91e9489ae.jpg)As I mentioned during [Top 10 Week](/en/articles/intotheaether/2004/10-26-intotheaether-keeps-it-simple), November 6th brought the invitation-only *Champions of Kamigawa* Championship. All 266 people who played in the final earned their invitation via an impressive finish during the Release Events, and they competed for a ton of prizes. After nine rounds of Sealed Deck, these folks emerged as the best of the best:
+![](https://i.ormos.uk/7e/3f/7e3f48e336a3ac74b4af0d98706332938f2ad3fd3d92c4f9342d8ed91e9489ae.jpg)
+
+As I mentioned during [Top 10 Week](/en/articles/intotheaether/2004/10-26-intotheaether-keeps-it-simple), November 6th brought the invitation-only *Champions of Kamigawa* Championship. All 266 people who played in the final earned their invitation via an impressive finish during the Release Events, and they competed for a ton of prizes. After nine rounds of Sealed Deck, these folks emerged as the best of the best:
 
 1\. VaiN  
  2. shir kahn  
@@ -603,7 +607,9 @@ Congrats go to VaiN, aka Mats Neumann from Sweden, who not only won a small moun
 
 He says:
 
-> ![](https://i.ormos.uk/d9/92/d99295f6b6b07efaf0ca6fd77124868a422d12c91a15dcb1146bab8eac6b34f7.jpg)“Well it was indeed a rather strange tournament for me. Having qualified I wasn't sure that I would be able to play since I was going to Helsinfors (Capital of Finland) to play in the Grand Prix the same weekend. Once at the GP site, I didn't do too well and dropped from the tournament before Saturday's competition was over. Then one of my friends told me he had his laptop with him, and that they had WLAN in their hotel room. So I quickly went there and started the tournament, which was at 7pm in the evening, Finnish time. Looking ahead at 9 rounds of play, and a possible top 8, I wasn't going to bed in the next 10 hours or even more.
+> ![](https://i.ormos.uk/d9/92/d99295f6b6b07efaf0ca6fd77124868a422d12c91a15dcb1146bab8eac6b34f7.jpg)
+>
+> “Well it was indeed a rather strange tournament for me. Having qualified I wasn't sure that I would be able to play since I was going to Helsinfors (Capital of Finland) to play in the Grand Prix the same weekend. Once at the GP site, I didn't do too well and dropped from the tournament before Saturday's competition was over. Then one of my friends told me he had his laptop with him, and that they had WLAN in their hotel room. So I quickly went there and started the tournament, which was at 7pm in the evening, Finnish time. Looking ahead at 9 rounds of play, and a possible top 8, I wasn't going to bed in the next 10 hours or even more.
 > 
 > “I opened a really strong sealed deck with one big bomb, Kokusho the Evening Star. I was also lucky to have other strong cards in black such as Hidden Laughter, Devouring Greed, Thief of Hope, Rend Spirit and Pull Under. I paired my black with green (Kodama's Reach, Time of Need, Kami of the Hunt, Burr Grafter, Moss Kami, 2x green Zubera, Venerable Kumo), and added a red splash for Glacial Ray, Hanabi Blast and Kami of Fire's Roar.
 > 

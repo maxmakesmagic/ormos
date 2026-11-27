@@ -44,7 +44,9 @@ archive_source:
   sha256: 25dbf55d8fa2cf89e0fc3e566e0971591f81e79952627e0e938296ea71a56ebf
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a999.jpg)C'était à prévoir. Reims a toujours été une ville centrale au cours de l'histoire et sa position permet à un grand nombre de joueurs de venir jouer. Le format également. L'Etendu a fait revenir de nombreux joueurs dans le circuit, tout simplement parce qu'ils ont les cartes et n'ont pas forcement besoin d'investir enormément pour se remettre à niveau. Résultat des scores : 840 joueurs (peut être encore un peu plus). 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a999.jpg)
+
+C'était à prévoir. Reims a toujours été une ville centrale au cours de l'histoire et sa position permet à un grand nombre de joueurs de venir jouer. Le format également. L'Etendu a fait revenir de nombreux joueurs dans le circuit, tout simplement parce qu'ils ont les cartes et n'ont pas forcement besoin d'investir enormément pour se remettre à niveau. Résultat des scores : 840 joueurs (peut être encore un peu plus). 
 
 De nombreuses pointures sont arrivés, je vous suggère de jeter un oeil à la liste des joueurs qui sera postée sur le site peu après le début du tournoi. Comme auparavant, vous pourrez voir les appariements entre les joueurs et les classements au fur et à mesure des rondes. 
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/SMFuller.jpg)Ryan Fuller needed five games to beat Michael Gurney's monoblue deck in his quarterfinal match while Terry Lau needed five games of his own to take down Roland Aw. In the semifinals, it was Fuller's Stompy deck versus Lau's Tinker deck. The winner would clinch a spot on the Canadian national team and advance to the finals for the right to play for the championship title.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/SMFuller.jpg)
+
+Ryan Fuller needed five games to beat Michael Gurney's monoblue deck in his quarterfinal match while Terry Lau needed five games of his own to take down Roland Aw. In the semifinals, it was Fuller's Stompy deck versus Lau's Tinker deck. The winner would clinch a spot on the Canadian national team and advance to the finals for the right to play for the championship title.
 
 ### Game 1
 
@@ -56,7 +58,9 @@ Fuller leads 1-0
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/SMtlau.jpg)Lau mulliganed again before the second game and then led with Rishadan Port instead of an island, knowing that Fuller probably brought in Rushwood Legates from his sideboard. Fuller played a pair of early Wild Dogs, but then Lau played a Tangle Wire. Tangle Wire #2 (and a Rishadan Port) prevented Fuller from doing anything for his next three turns. After the first Wire was out of fading counters, Lau sacrificed it to a Tinker, commenting "I should have had these \[Tangle Wires\] in the main deck." Lau decided to Tinker for Metalworker. Fuller said "uh-oh", but then blew it up with Uktabi Orangutan. Lau played a second Metalworker on his next turn, but by then his Wires were no longer shutting down Fuller's offense. Lau was trying to create a turn where he could dump a large amount of mana into his mana pool and then cast Masticore and shoot down all of Fuller's creatures. Fuller smashed him low on life and then dropped a second Uktabi to blow up Metalworker #2.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/CANNAT00/Images/SMtlau.jpg)
+
+Lau mulliganed again before the second game and then led with Rishadan Port instead of an island, knowing that Fuller probably brought in Rushwood Legates from his sideboard. Fuller played a pair of early Wild Dogs, but then Lau played a Tangle Wire. Tangle Wire #2 (and a Rishadan Port) prevented Fuller from doing anything for his next three turns. After the first Wire was out of fading counters, Lau sacrificed it to a Tinker, commenting "I should have had these \[Tangle Wires\] in the main deck." Lau decided to Tinker for Metalworker. Fuller said "uh-oh", but then blew it up with Uktabi Orangutan. Lau played a second Metalworker on his next turn, but by then his Wires were no longer shutting down Fuller's offense. Lau was trying to create a turn where he could dump a large amount of mana into his mana pool and then cast Masticore and shoot down all of Fuller's creatures. Fuller smashed him low on life and then dropped a second Uktabi to blow up Metalworker #2.
 
 Lau wondered aloud after the game if he should have "slow-played" it. Instead of Tinkering out Metalworker he could have Tinkered for a third Tangle Wire and kept Fuller pinned down for a few more turns during which he, hopefully, could draw some more mana.
 

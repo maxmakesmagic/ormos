@@ -556,7 +556,9 @@ a:16:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"9";s:9
 
 ### The Future of House of Cards
 
-![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/authorpics/authorpic_NoeldeCordova.jpg)Now that the fun part is over, let's get serious for a minute. I'm somewhat sad to report that next week will be my last week here at House of Cards. "Sad," because I will surely miss the weekly thrill of seeing my article go up and the rush of getting instant feedback from all the great Johnnies out there, but "somewhat" because I've been doing this for a long time now and, frankly, I need a break.
+![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/authorpics/authorpic_NoeldeCordova.jpg)
+
+Now that the fun part is over, let's get serious for a minute. I'm somewhat sad to report that next week will be my last week here at House of Cards. "Sad," because I will surely miss the weekly thrill of seeing my article go up and the rush of getting instant feedback from all the great Johnnies out there, but "somewhat" because I've been doing this for a long time now and, frankly, I need a break.
 
 Have no fear, though. I will still pop in now and then for feature articles, but more importantly, the powers-that-be are committed to providing you with top-notch Johnny content each week, which is why I'm happy to announce that long-time House of Cards contributor and two-time guest columnist Noel deCordova will be taking over my duties full-time two weeks from now. I think Noel did a great job filling in for me in recent weeks, and I'm sure the many thousands of **Magic** cards will appreciate the fresh set of eyes. I wouldn't be surprised if Noel squeezed in a pun or two.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/123.jpg)In the sixth round, the most recognized Welsh player, Richard Edbury faced the 1998 Pro Tour Los Angeles Champion David Price. The two of them were both undefeated and ready for day two, but naturally they both wanted to go into the second day with the best possible records. Dave had a pretty good green, white and red deck with one blue card, a Zanam Djinn, while Richard was with blue, green and white. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/123.jpg)
+
+In the sixth round, the most recognized Welsh player, Richard Edbury faced the 1998 Pro Tour Los Angeles Champion David Price. The two of them were both undefeated and ready for day two, but naturally they both wanted to go into the second day with the best possible records. Dave had a pretty good green, white and red deck with one blue card, a Zanam Djinn, while Richard was with blue, green and white. 
 
 Richard won the die roll and wanted Dave to play first. Dave speeded up his mana by casting a turn two Quirion Elves, calling blue. He was then able to drop a fourth turn Rooting Kavu. Richard summoned a turn two Nomadic Elf and then a turn three Sky Weaver, and when Dave attacked with the Kavu, he double blocked to see if he could kill it. But Dave had a Wax that he used to save his Kavu, while Richard lost his Sky Weaver, saving the Elf with an Explosive Growth. 
 
@@ -54,7 +56,9 @@ Dave only got four lands into play, but he didn't really need more. He added to 
 
 Price 1 - Edbury 0 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/127.jpg)The second game wasn't much exciting. Dave mulliganed once, but he then dropped four lands and a Rooting Kavu. Richard on the other hand, stalled on two lands and discarded for two turns before finally getting a third land. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/127.jpg)
+
+The second game wasn't much exciting. Dave mulliganed once, but he then dropped four lands and a Rooting Kavu. Richard on the other hand, stalled on two lands and discarded for two turns before finally getting a third land. 
 
 By that time, Dave had a Charging Troll in play as well, and he also cast a Battery, making a 3/3 Elephant Token. Richard almost managed to stabilise though. He played Harrow during Dave's end of turn step, getting a swamp and a plains, and then he cast Barrin's Spite, forcing Dave to sacrifice the Kavu and returning the Troll to his hand. When the Troll came into play again, Richard had an Agonizing Demise to take care of it. Unfortunately, he was at six life only, and Dave still had the Elephant Token with which he attacked. He then cast Wax to pump it to 5/5, and finally, he Zapped Richard for the match. 
 

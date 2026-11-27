@@ -120,4 +120,6 @@ To release *Vintage Masters*—and do it *right—*we realized there just wasn't
 
  
 
-[![](https://i.ormos.uk/4b/f6/4bf6e1bf74bce1bb6f300e82b09cdbc05f2129487f8328a012d8fcbbbc6f942d.png)](https://twitter.com/search?q=%23MTGOVM&f=realtime)[Join the discussion about *Vintage Masters*](https://twitter.com/search?q=%23MTGOVM&f=realtime) with the Twitter hashtag [#MTGOVM](https://twitter.com/search?q=%23MTGOVM&f=realtime)!
+[![](https://i.ormos.uk/4b/f6/4bf6e1bf74bce1bb6f300e82b09cdbc05f2129487f8328a012d8fcbbbc6f942d.png)](https://twitter.com/search?q=%23MTGOVM&f=realtime)
+
+[Join the discussion about *Vintage Masters*](https://twitter.com/search?q=%23MTGOVM&f=realtime) with the Twitter hashtag [#MTGOVM](https://twitter.com/search?q=%23MTGOVM&f=realtime)!

@@ -106,7 +106,9 @@ render_recovery:
   - Unnatural Selection
   occurrences: 95
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a957.jpg)It could be said that England's Gary Wise has more personality than he knows what to do with. Outgoing and outspoken, his love of the game is matched only by his fierce competitiveness. That intensity combines with a talent that has given him strong finishes this season.
+![](http://www.wizards.com/sideboard/images/worlds02/a957.jpg)
+
+It could be said that England's Gary Wise has more personality than he knows what to do with. Outgoing and outspoken, his love of the game is matched only by his fierce competitiveness. That intensity combines with a talent that has given him strong finishes this season.
 
 His opponent, Noah Boeken, seems quite the opposite. Laid-back and sometimes goofy, his distracted attitude only serves to conceal his great skill at the game. Between him, reigning World Champion Tom van de Logt, and Kamiel "The Glacier" Cornelissen, it's no wonder the Dutch are the odds-on favorites to take the National Team Competition.
 
@@ -120,7 +122,9 @@ Boeken tapped three on his third turn for Fact or Fiction, not having played a l
 
 Wise smashed in and made an Arrogant Wurm. Flametongue took it down. Boeken had the mana left over for Psychatog. All Wise could manage was Merfolk Looter.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a958.jpg)Boeken's next turn was brutal. The Flametongue walked in and traded with the Mongrel. Deep Analysis gassed him up twice, leaving just enough left over for Fire to wreck the Looter.
+![](http://www.wizards.com/sideboard/images/worlds02/a958.jpg)
+
+Boeken's next turn was brutal. The Flametongue walked in and traded with the Mongrel. Deep Analysis gassed him up twice, leaving just enough left over for Fire to wreck the Looter.
 
 Wise's last gasp was a Deep Analysis targeting himself. Boeken's Cunning Wish fetched Divert, and Wise conceded.
 
@@ -146,7 +150,9 @@ His stuck with his next six. Wise also frowned at his opening draw, five lands, 
 
 While Boeken dropped a pair of Urborg Volcanoes, Wise was getting busy with Basking Rootwalla and Aquamoeba. However, he didn't have a third land. He made a Mongrel and passed it back. Boeken, having found an island, was able to Repulse at end of turn. He then dropped Flametongue to dispatch the Mongrel.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a959.jpg)Wise tried Careful Study, but still didn't find lands, putting Looter and Wonder in the graveyard. Boeken brought out Familiar. Circular Logic stopped the Aquamoeba.
+![](http://www.wizards.com/sideboard/images/worlds02/a959.jpg)
+
+Wise tried Careful Study, but still didn't find lands, putting Looter and Wonder in the graveyard. Boeken brought out Familiar. Circular Logic stopped the Aquamoeba.
 
 Then things got unfair. Fact or Fiction turned over Psychatog, Hibernation, Terminate, Deep Analysis, Memory Lapse. Wise was taken aback.
 

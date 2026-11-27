@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 7
 ---
-[![](https://i.ormos.uk/48/89/4889f4b8fc8afd9fa3553511dbdd468069ba78ebe241c9f16879340ff8160006.jpg)](https://web.archive.org/web/20051013000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs)Every fall, [Champs](https://web.archive.org/web/20051013000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs) rolls around as a series of tournaments around the world. As the first tournaments to showcase the new main set each year, Champs defines Standard for the year to come. This year, the new set is the souped-up gold-bordered powerhouse *Ravnica: City of Guilds*. This set will contribute both additions to existing decks and brand new archetypes that will give players the most options -- and the most decks they will have to prepare for -- in years.
+[![](https://i.ormos.uk/48/89/4889f4b8fc8afd9fa3553511dbdd468069ba78ebe241c9f16879340ff8160006.jpg)](https://web.archive.org/web/20051013000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs)
+
+Every fall, [Champs](https://web.archive.org/web/20051013000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/champs) rolls around as a series of tournaments around the world. As the first tournaments to showcase the new main set each year, Champs defines Standard for the year to come. This year, the new set is the souped-up gold-bordered powerhouse *Ravnica: City of Guilds*. This set will contribute both additions to existing decks and brand new archetypes that will give players the most options -- and the most decks they will have to prepare for -- in years.
 
 ### Descendants of Kamigawa
 

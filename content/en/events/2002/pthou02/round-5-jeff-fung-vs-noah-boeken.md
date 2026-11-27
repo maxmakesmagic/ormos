@@ -82,7 +82,9 @@ render_recovery:
   - Pernicious Deed
   occurrences: 52
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a537.jpg)These two go back quite a while, so the match starts with some friendly banter – Jeff offering a split, Noah arguing the Tails part of an American Quarter looks like a Heads but in the end Jeff wins the flip and decides to play first. They also end up with a 1% split with Noah explaining, "I never lose when I split".
+![](http://www.wizards.com/sideboard/images/pthou02/a537.jpg)
+
+These two go back quite a while, so the match starts with some friendly banter – Jeff offering a split, Noah arguing the Tails part of an American Quarter looks like a Heads but in the end Jeff wins the flip and decides to play first. They also end up with a 1% split with Noah explaining, "I never lose when I split".
 
 ### Game 1
 
@@ -92,13 +94,17 @@ Noah puts in some enchantment removal for Planar Void and Defense Grid for Coffi
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/pthou02/a542.jpg)Jeff goes land, Birds of Paradise where Noah just plays a land. Next turn that land is Vindicated by Jeff, drawing a "Who does that?" from Noah. A Forsaken City hits the board next turn, and Jeff picks it up for further examination. It seems that that is one of the lesser-known cards in Extended – people have been reading it all day. Next turn features a Ravenous Baloth from Jeff and Noah plays his Hermit Druid with a second Forsaken City. Jeff attacks and Duresses Noah, taking Reanimate while leaving a pair of Exhumes, a Verdant Force and a Naturalize. Noah's Druid got Vindicated afterwards, and Noah pulled it from the grave with Exhume. Jeff's next turn mirrored the previous one, attack, Duress, Vindicate your Druid. After that, Noah was out of gas and Jeff beat him down with Ravenous Baloth.
+![](http://www.wizards.com/sideboard/images/pthou02/a542.jpg)
+
+Jeff goes land, Birds of Paradise where Noah just plays a land. Next turn that land is Vindicated by Jeff, drawing a "Who does that?" from Noah. A Forsaken City hits the board next turn, and Jeff picks it up for further examination. It seems that that is one of the lesser-known cards in Extended – people have been reading it all day. Next turn features a Ravenous Baloth from Jeff and Noah plays his Hermit Druid with a second Forsaken City. Jeff attacks and Duresses Noah, taking Reanimate while leaving a pair of Exhumes, a Verdant Force and a Naturalize. Noah's Druid got Vindicated afterwards, and Noah pulled it from the grave with Exhume. Jeff's next turn mirrored the previous one, attack, Duress, Vindicate your Druid. After that, Noah was out of gas and Jeff beat him down with Ravenous Baloth.
 
 Jeff sides in a Dust Bowl for a Yavimaya Elder and comments the third Vindicate was right off the top. Noah just grumbles "Unbelievably lucky".
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/pthou02/a541.jpg)A mulligan on Jeff's side and a first turn Duress from Noah made this look ugly for Jeff. Revealing 4 lands, a Pernicious Deed and a Diabolic Edict is not the position you want to be in at this point. The Edict hits the grave and Jeff just plays land.
+![](http://www.wizards.com/sideboard/images/pthou02/a541.jpg)
+
+A mulligan on Jeff's side and a first turn Duress from Noah made this look ugly for Jeff. Revealing 4 lands, a Pernicious Deed and a Diabolic Edict is not the position you want to be in at this point. The Edict hits the grave and Jeff just plays land.
 
 Noah obviously didn't have the Druid yet as he left his Forsaken City tapped and just played Wooded Foothills. At the end of Jeff's turn he sacrificed it to fetch his Mountain, and played a Hermit Druid off the top. Jeff elects not to play the Deed next turn, cycling a Krosan Tusker at the end of Noah's turn instead. Noah doesn't draw a land, while holding Exhume and Reanimate. He plays a Defense Grid, which is not exactly that impressive right now. Jeff plays a Dust Bowl on his turn, killing off Noah's land. After that Noah's land got Dust Bowled, Vindicated, and Noah received a savage beating by Ravenous Baloths.
 

@@ -95,7 +95,9 @@ The seating:
 
 Budde opened the first pack and went right into green with a Muscle Burst and Blume took Chainflinger.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a854.jpg)Sperling had some interesting tech when it came to signaling colors: he had the mana symbols (or at least crude attempts at them) drawn on his palm in ballpoint pen. He and his teammates would point at the symbols to convey what colors to draft.
+![](http://www.wizards.com/sideboard/images/ptbos02/a854.jpg)
+
+Sperling had some interesting tech when it came to signaling colors: he had the mana symbols (or at least crude attempts at them) drawn on his palm in ballpoint pen. He and his teammates would point at the symbols to convey what colors to draft.
 
 Mtgplanet had a plan and they stuck to it. Red/black in A, blue/white in B, and blue/green in C. They obviously had experience with those combinations, evident mostly in Quelle's picks of Seton's Desire over Nantuko Disciple due to it's threshold capabilities, and later Repel over Treetop Sentinel for tempo purposes.
 
@@ -105,13 +107,17 @@ Blume had the option to take a second Chainflinger early but opted instead for B
 
 Baberowski, meanwhile, was drafting his normal black/white deck with lots of removal and tricks. But things went sour for him when Draxler took two Strength of Lunacy for his red/black deck. Besides several white creatures, Baberowski took a Second Thoughts in *Odyssey* which can be rendered useless by a timely Strength. Draxler also got a Grotesque Hybrid in the second set of packs.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a858.jpg)Sperling made what looked to be a bad *Judgment* call in the third *Judgment* pack. He had only an Angelic Wall and a Skywing Aven so far for flyers, and when he opened Angel of Retribution he took Deep Analysis instead and told Draxler to counterdraft the 5/5. That decision would haunt him, as he never picked up another flier for the rest of the draft!
+![](http://www.wizards.com/sideboard/images/ptbos02/a858.jpg)
+
+Sperling made what looked to be a bad *Judgment* call in the third *Judgment* pack. He had only an Angelic Wall and a Skywing Aven so far for flyers, and when he opened Angel of Retribution he took Deep Analysis instead and told Draxler to counterdraft the 5/5. That decision would haunt him, as he never picked up another flier for the rest of the draft!
 
 Budde, meanwhile, was racking up the fliers – Skywing Aven, Hydromorph Gull, and Ghostly Wings. He also took a Breakthrough which should be huge.
 
 At the end of *Torment*, Budde opened a Balshan Collaborator which he suggested Baberowski take. The A player did so, going into three colors. He ended up taking a few more blue cards in *Judgment*, like Aven Fogbringer, Mirror Wall, and Sccalpelexis, which should give him a little more breathing room when it comes to getting wrecked by Strength of Lunacy.
 
-![](https://i.ormos.uk/66/72/6672522bd68c759f5c3e81a3df845fdf7198808c1e5a2dd85104a2191345c149.jpg)Quelle's deck continued to get better and better, as he added a Wonder and a Grizzly Fate to his pile. Mtgplanet did have to ship a Fledgling Dragon to Blume, giving his a much-needed weapon.
+![](https://i.ormos.uk/66/72/6672522bd68c759f5c3e81a3df845fdf7198808c1e5a2dd85104a2191345c149.jpg)
+
+Quelle's deck continued to get better and better, as he added a Wonder and a Grizzly Fate to his pile. Mtgplanet did have to ship a Fledgling Dragon to Blume, giving his a much-needed weapon.
 
 Budde ended up with a Wormfang Drake and two Sudden Strenths (which combo well with the late Mirari he took in *Odyssey*).
 

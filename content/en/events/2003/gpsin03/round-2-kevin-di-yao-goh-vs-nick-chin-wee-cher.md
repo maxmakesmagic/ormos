@@ -85,7 +85,9 @@ render_recovery:
   - Wirewood Savage
   occurrences: 47
 ---
-![](http://www.wizards.com/sideboard/images/gpsin03/a988.jpg)Nick Chin Wee Cher has built solid R/G deck with solid beast beats and good support cards including the ever-amazing Sparksmith. Unfortunately his opponent, 11-year old Kevin Di Yao Goh has a very similar theme
+![](http://www.wizards.com/sideboard/images/gpsin03/a988.jpg)
+
+Nick Chin Wee Cher has built solid R/G deck with solid beast beats and good support cards including the ever-amazing Sparksmith. Unfortunately his opponent, 11-year old Kevin Di Yao Goh has a very similar theme
 
 Jeered by his friends for having to ride a feature match against such a young opponent Cher waved his worries away with a friendly smile. His smile widened as he won he roll and chose to play
 
@@ -101,13 +103,17 @@ Goh – (+ 1 Goblin Grappler, - 1 Bloodstoke Howler. Cher – (+ 1 Forest, - 1 M
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpsin03/a987.jpg)After a long pause Nick was forced to mulligan to 6, and was put on the back foot with a first turn Defiant Elf. They both dropped morphs on the third turn, but Kevin looked the stronger, getting his Sparksmith out first this time. Nick pushed back as he sensed Kevin was still on the defensive, attacking with 2 morphs and a Grappler. A provoked Sparky, picked off his fellow goblin before blockers were declared as the two morphs were chumped by a couple more goblins that were produced by a Warbreak Trumpeter morphing in. Although being able muster a 6th turn Tribal Golem, Nick's offensive had stalled (the Sparksmith had been busy), as he was left with just one other defender (a morph).
+![](http://www.wizards.com/sideboard/images/gpsin03/a987.jpg)
+
+After a long pause Nick was forced to mulligan to 6, and was put on the back foot with a first turn Defiant Elf. They both dropped morphs on the third turn, but Kevin looked the stronger, getting his Sparksmith out first this time. Nick pushed back as he sensed Kevin was still on the defensive, attacking with 2 morphs and a Grappler. A provoked Sparky, picked off his fellow goblin before blockers were declared as the two morphs were chumped by a couple more goblins that were produced by a Warbreak Trumpeter morphing in. Although being able muster a 6th turn Tribal Golem, Nick's offensive had stalled (the Sparksmith had been busy), as he was left with just one other defender (a morph).
 
 Kevin dropped a Glowering Rogon, but could not amplify it as the only other card in his hand was game #1's Smokespew Invoker. Finally, the Sparksmith fell to a Brontotherium which traded 2 for 1 with the goblin and our first turn elf. With the Sparksmith finally gone, Nick dropped his entire hand on the table – an Elvish Warrior, a Krosan Vorine and a Goblin Sledder. 
 
 The last remaining morphed creature – a Battering Craghorn - caught Kevin by surprise as it took down the 4/4 Rogon with the aid of the sledder. Even with a now active Smokespew, Kevin again needed blockers dropping the wall like Hundroog, as Nick continued to throw everything at his young opponent, who traded were he could but still dropped to a meager 2 life.
 
-![](http://www.wizards.com/sideboard/images/gpsin03/a989.jpg)With just a Hundroog and a Wirewood Elf defending against an Elvish Warrior and a Battering Craghorn, and just 1 swamp available, the Scion of Darkness was cycled away as our youngster looked for an answer. An answer indeed, was found in the form of a Doomed Necromancer. 
+![](http://www.wizards.com/sideboard/images/gpsin03/a989.jpg)
+
+With just a Hundroog and a Wirewood Elf defending against an Elvish Warrior and a Battering Craghorn, and just 1 swamp available, the Scion of Darkness was cycled away as our youngster looked for an answer. An answer indeed, was found in the form of a Doomed Necromancer. 
 
 Experience was perhaps the deciding factor here as Nick was able to follow his Heedless One with a Sparksmith leaving Kevin outnumbered, fearing another all-out attack, and not realising that anything but a large multiple block would give him a Brontotherium out of is opponent's graveyard. The 11 year old innovator returned the Smokespew Invoker which removed the Battering Craghorn, before dying to the Sparkmith. 
 

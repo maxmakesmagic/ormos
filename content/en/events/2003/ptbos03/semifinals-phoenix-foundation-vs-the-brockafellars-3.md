@@ -139,7 +139,9 @@ render_recovery:
 ---
 Marco Blume is often unfairly characterized as the third wheel on Phoenix Foundation. It's hard to avoid when your best accomplishment comes yearly at the Team Pro Tour. He finally got a title of his own at Grand Prix - Atlanta earlier this month, and if he doesn't give up the game like he's threatening, he could be busting singles Pro Tour Top 8's before you know it. This round, he's up against old schooler Brock Parker, who's in the same trap. The only time he's tasted big success without compadres Linde and Jensen was when he won Grand Prix - Turin with Peter Szigeti and Dan Clegg. They're throwing down in the blue-green mirror, a few troubling creatures in both decks.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a796.jpg)Blume mulled, but kept his second hand, hoping for a land draw. It came, and he led with Wirewood Elf and then used the speed boost to cycle away Wirewood Guardian while playing a Stonewood Invoker. Parker spent his first two turns cycling Tranquil Thicket and Dragon Wings, then got on the board with a morph. He answered the Invoker with a cycled Guardian and played an Elvish Warrior.
+![](http://www.wizards.com/sideboard/images/ptbos03/a796.jpg)
+
+Blume mulled, but kept his second hand, hoping for a land draw. It came, and he led with Wirewood Elf and then used the speed boost to cycle away Wirewood Guardian while playing a Stonewood Invoker. Parker spent his first two turns cycling Tranquil Thicket and Dragon Wings, then got on the board with a morph. He answered the Invoker with a cycled Guardian and played an Elvish Warrior.
 
 Blume untapped and played a very threatening Wirewood Channeler. All Parker could muster was a Leery Fogbeast. Blume made him pay.
 
@@ -173,7 +175,9 @@ That plan was derailed by Parker's next play: Ambush Commander.
 
 Blume dropped a Covert Operative, and Parker's response was "Gain 8." This was not going to be easy. They matched morphs, but then Parker's Fierce Empath served him up Towering Baloth. Blume hit with his Operative and watched Parker climbed to 43. He couldn't use his Timberwatch for fear of reprisal from Parker's horde.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a790.jpg)Parker made a 4/4 Canopy Crawler. Blume added a Wirewood Elf. Then they squared off, morph against Glintwing Invoker. Parker activated his Wellwisher but forgot how much he was gaining.
+![](http://www.wizards.com/sideboard/images/ptbos03/a790.jpg)
+
+Parker made a 4/4 Canopy Crawler. Blume added a Wirewood Elf. Then they squared off, morph against Glintwing Invoker. Parker activated his Wellwisher but forgot how much he was gaining.
 
 "How much?" --Brock Parker
 

@@ -471,7 +471,9 @@ render_recovery:
 ---
 ### Akira Asahara vs. Chen Yen-Hao
 
-![](http://www.wizards.com/sideboard/images/gphk04/r3fm1_1.jpg)With over half the players in this Grand Prix coming to the event from outside Hong Kong's borders it was a United Nations of Magic players at the convention center. While there were players from as far off as Europe and the United States the majority of the players came from Asian countries.
+![](http://www.wizards.com/sideboard/images/gphk04/r3fm1_1.jpg)
+
+With over half the players in this Grand Prix coming to the event from outside Hong Kong's borders it was a United Nations of Magic players at the convention center. While there were players from as far off as Europe and the United States the majority of the players came from Asian countries.
 
 Akira Asahara was one of twenty-four Japanese players in attendance. Long considered one of his country's most inventive and respected constructed deck builders, Asahara found himself with only two byes for this event. His deck was a red-black powerhouse with abundant removal for the creature race and a Pentavus to cross the finish line.
 

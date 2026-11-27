@@ -121,7 +121,9 @@ render_recovery:
 
 * * *
 
-![](https://i.ormos.uk/05/7f/057f864a922f76ef5d49d4c793218c12cce7c040ffc804cb9892f21932b68239.jpg)While you can find out about the yield options in the ***Magic** Online* help files, I thought I'd take some time to go over them in depth. In this article, I'll go over the options available on the **Game Play Settings** window and in a following article, I'll talk about setting yields during a game.
+![](https://i.ormos.uk/05/7f/057f864a922f76ef5d49d4c793218c12cce7c040ffc804cb9892f21932b68239.jpg)
+
+While you can find out about the yield options in the ***Magic** Online* help files, I thought I'd take some time to go over them in depth. In this article, I'll go over the options available on the **Game Play Settings** window and in a following article, I'll talk about setting yields during a game.
 
 **Standard Disclaimer:** I'm not the most experienced player in the world, and I'm not suggesting that these descriptions are the be-all-end-all for ***Magic** Online* strategy. This article is for newer players who may not understand how the **Game Play Settings** can affect their games. As always, you're free to ignore me.
 
@@ -149,7 +151,9 @@ Just like your stops, there are specific yields selected when you first log on t
 *Prompt before taking mana burn*  
  Mana burn happens when you end a phase without using all the available mana in your mana pool. When the end of that phase comes around, you take one point of damage for each point of mana left in your mana pool.
 
-![](https://i.ormos.uk/07/8f/078f26cb947d2af1656a2b00b3f627f1b66f8419ad82237acb781722c9b71b5d.jpg)For example, say you play Shock during your opponent's declare blockers step and tap two mountains to pay for it. (I know, I know. Just assume you did.) Only one red mana is used to pay for Shock, and the second red mana sits in your mana pool. If you don't use that left over red mana, when you reach the end of the combat phase you'll take a point of damage.
+![](https://i.ormos.uk/07/8f/078f26cb947d2af1656a2b00b3f627f1b66f8419ad82237acb781722c9b71b5d.jpg)
+
+For example, say you play Shock during your opponent's declare blockers step and tap two mountains to pay for it. (I know, I know. Just assume you did.) Only one red mana is used to pay for Shock, and the second red mana sits in your mana pool. If you don't use that left over red mana, when you reach the end of the combat phase you'll take a point of damage.
 
 If you have this option selected (it's selected if there's a little green dot in the check box), a window will pop up at the end of the phase to warn you that you're about to take mana burn. You can either select to continue and take the damage, or stop and attempt to use up the mana before the phase ends. If you don't have this option selected, you'll take the damage at the end of the phase with no warning.
 

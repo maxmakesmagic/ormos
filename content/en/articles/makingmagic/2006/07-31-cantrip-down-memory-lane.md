@@ -85,7 +85,9 @@ archive_source:
   sha256: e7fa33ff479132290db03e8988a443b71820176913fe9f02a88b244b582cfc49
 render_recovery: []
 ---
-![Flare](https://i.ormos.uk/f5/37/f537591ebcd597fd2ae7a79b6bbc1b713f076a149aeb3d368689e986cdc10e9f.jpg)Welcometo Cantrip Week! This week I'll be taking a look at the life and times of the little mechanic that could. Yes, today is all about a mechanic that really knows how to draw… fans. (Yes, be warned that there are more jokes like that coming. And if you didn't know that, welcome to “Making Magic”.) Cantrips have had a few more twists and turns behind the scenes than many of you might realize. So Cantrip, come on down – This is your life!
+![Flare](https://i.ormos.uk/f5/37/f537591ebcd597fd2ae7a79b6bbc1b713f076a149aeb3d368689e986cdc10e9f.jpg)
+
+Welcometo Cantrip Week! This week I'll be taking a look at the life and times of the little mechanic that could. Yes, today is all about a mechanic that really knows how to draw… fans. (Yes, be warned that there are more jokes like that coming. And if you didn't know that, welcome to “Making Magic”.) Cantrips have had a few more twists and turns behind the scenes than many of you might realize. So Cantrip, come on down – This is your life!
 
 ### Catch Me If You Cantrip
 

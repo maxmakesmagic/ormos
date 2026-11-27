@@ -175,7 +175,9 @@ render_recovery:
   - Wirewood Lodge
   occurrences: 161
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a986.jpg)A few years ago, when word got out that then-editor of the Sideboard Omeed Dariani was going to recruit some of his writer buddies from Star City Games to come and cover pro-level events, most people agreed it made sense. After all, folks like Anthony Alongi can (a) understand the game and (b) write well, so the policy seemed like a perfect fit.
+![](http://www.wizards.com/sideboard/images/gpphi02/a986.jpg)
+
+A few years ago, when word got out that then-editor of the Sideboard Omeed Dariani was going to recruit some of his writer buddies from Star City Games to come and cover pro-level events, most people agreed it made sense. After all, folks like Anthony Alongi can (a) understand the game and (b) write well, so the policy seemed like a perfect fit.
 
 But Josh Bennett? Are you kidding? The Canadian self-proclaimed misanthropist with the crazy-go-nuts hair? Most people were probably afraid he'd stab or poison them instead of writing about them the day he showed up, spiked dog collar and all.
 
@@ -197,7 +199,9 @@ As they shuffled, Horowitz asked, "Didn't you used to write? Isn't this like you
 
 A moment later, Paul Jordan, playing at the next seat down, looked at Josh and asked, "Is this a real tournament match? Shouldn't you have a computer?" Oh, to be so unfairly typecast.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a988.jpg)Josh came out strong in Game 1 with Goblin Sledder and Sparksmith. Horowitz made the dangerous Wretched Anurid (Is the card good or no? The jury is still out...). Josh played a face-down Spined Basher and passed.
+![](http://www.wizards.com/sideboard/images/gpphi02/a988.jpg)
+
+Josh came out strong in Game 1 with Goblin Sledder and Sparksmith. Horowitz made the dangerous Wretched Anurid (Is the card good or no? The jury is still out...). Josh played a face-down Spined Basher and passed.
 
 Horowitz attacked and played a face-down creature which Josh immediately shot. Josh was stuck on three land and had no play on his turn, and Horowitz kept attacking and added a Snarling Undorak to the table. Josh peeled a third Goblin – Spitfire Handler, which allowed him to shoot the Undorak. Josh added nothing else to the able, and Horowitz cycled a Krosan Tusker and played a Wirewood Herald and Symbiotic Elf. Josh had shot the Wretched Anurid, and the game was a bloodbath with both players at 6.
 
@@ -213,7 +217,9 @@ Josh played his first creature on turn five, the saucy Tephraderm.
 
 "Shock, Tephraderm. Quite the curve," commented spectator Kurt Hahn.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a987.jpg)Horowitz had a Pacify for the red Beast, and Bennett was all fr0wnz. Bennett summoned and served with an Aravax, hoping to come out ahead in a theoretical damage race.
+![](http://www.wizards.com/sideboard/images/gpphi02/a987.jpg)
+
+Horowitz had a Pacify for the red Beast, and Bennett was all fr0wnz. Bennett summoned and served with an Aravax, hoping to come out ahead in a theoretical damage race.
 
 Horowitz attacked with the Husk and Uncle Fester; Bennett cycled a Solar Blast on the Goblin (probably not the best time to do so), and Horowitz sacked it to the Husk, doing 4 damage.
 

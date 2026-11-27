@@ -97,7 +97,9 @@ Luckily my pessimism was due mostly to my lack of exposure to what would be the 
 
 ### The Deal with Darksteel
 
-![](http://media.wizards.com/legacy/global/images/magic_expansion_darksteel_expansionlogo_en.jpg)The order of the day for the players early in 2004 was *Darksteel*, home of the sinister[Skullclamp](https://web.archive.org/web/20050107000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp) and[Arcbound Ravager](https://web.archive.org/web/20050107000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager). We knew going in that those two cards were going to be nasty business in constructed play; unfortunately one was a big mistake and one was, well, perhaps a lapse in judgment.
+![](http://media.wizards.com/legacy/global/images/magic_expansion_darksteel_expansionlogo_en.jpg)
+
+The order of the day for the players early in 2004 was *Darksteel*, home of the sinister[Skullclamp](https://web.archive.org/web/20050107000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp) and[Arcbound Ravager](https://web.archive.org/web/20050107000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager). We knew going in that those two cards were going to be nasty business in constructed play; unfortunately one was a big mistake and one was, well, perhaps a lapse in judgment.
 
 As an aside, a lot of new talented people joined TCG R&D in 2004. Former PT winner Matt Place and my former Team CMU compadre Paul Sottosanti were hired on full time after their contract positions were up. Matt is now a fixture of **Magic** development, and Paul splits his time between **Magic** and our other games like [Duel Masters](https://web.archive.org/web/20050107000000/http://archive.wizards.com/duelmasters) and [Neopets](https://web.archive.org/web/20050107000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=neopets). Mike Turian, another Pro Tour Champion, is now working the contract position and has proven invaluable in playtesting the upcoming *[Ravnica](https://web.archive.org/web/20050107000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/714)* set. John Carter of Saturday School fame took on the mantle of **Magic** Rules Manager when Paul Barclay decided to try his hand in our New Business division. Plus we added a designer to the non-**Magic** division by the name of Ryan Miller. We’re growing, and I expect years of fantastic stuff from that group.
 
@@ -107,7 +109,9 @@ The good news is that the set went over well. Cards like[Darksteel Colossus](htt
 
 ### A Mighty Wind, and Starting Fires
 
-![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/106_henrystern.jpg)Back in-house, the development for “Wind”—the soon-to-be-released set now called *Betrayers of Kamigawa*—began, headed up by Henry Stern. The big discussions about the set revolved around how the new exciting class of creatures--ninja--would work exactly. Let me be the first to say the team did a bang-up job; be sure to check back on this site starting on Monday for card previews!
+![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/106_henrystern.jpg)
+
+Back in-house, the development for “Wind”—the soon-to-be-released set now called *Betrayers of Kamigawa*—began, headed up by Henry Stern. The big discussions about the set revolved around how the new exciting class of creatures--ninja--would work exactly. Let me be the first to say the team did a bang-up job; be sure to check back on this site starting on Monday for card previews!
 
 At this time, design for Fire—now know as *Saviors of Kamigawa*—began under the leadership of Brian Tinsman (the lead designer for *Champions*).
 
@@ -125,7 +129,9 @@ The other project that I was involved in that fired up in earnest early last yea
 
 ### Out with the Old, In with the New
 
-![](http://media.wizards.com/legacy/global/images/magic_expansion_5dn_expansionlogo_en.jpg)As I explained in one of the articles I re-ran over break (“[Skullclamp, We Hardly Knew Ye](https://web.archive.org/web/20050107000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af47)”), the DCI had to ban a card in Standard for the first time in a long while.[Skullclamp](https://web.archive.org/web/20050107000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp) was yanked from Standard and Block Constructed right as the new set--*Fifth Dawn*--was entering the mix.
+![](http://media.wizards.com/legacy/global/images/magic_expansion_5dn_expansionlogo_en.jpg)
+
+As I explained in one of the articles I re-ran over break (“[Skullclamp, We Hardly Knew Ye](https://web.archive.org/web/20050107000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af47)”), the DCI had to ban a card in Standard for the first time in a long while.[Skullclamp](https://web.archive.org/web/20050107000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp) was yanked from Standard and Block Constructed right as the new set--*Fifth Dawn*--was entering the mix.
 
 It was interesting to watch *Fifth Dawn* hit the streets, as it was the first set I did design work on. The mechanics were a little hit-or-miss; scry proved to be popular and useful, sunburst not so much. Some of the cooler stuff in *Fifth Dawn* was overshadowed by the mistakes in *Darksteel* (although, to be fair, *Fifth Dawn* had mistakes of its own, like [Cranial Plating](https://web.archive.org/web/20050107000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cranial+Plating)). The biggest card to hit constructed from the set was easily [Eternal Witness](https://web.archive.org/web/20050107000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Witness), giving green decks of all shapes and sizes much-needed utility and staying power.
 
@@ -145,7 +151,9 @@ Design for the second set in the *Ravnica* block—codenamed "Alt"--began in the
 
 ### Champions Hits
 
-![](http://media.wizards.com/legacy/global/images/magic_expansion_chk_expansionlogo_en.jpg)The world was overrun with Legends and Spirits when *Champions of Kamigawa* went on sale early last fall. The Japan theme was well-received (thanks in large part to the wonderful art and flavor text our creative team put in place)… that’ll teach me not to trust my coworkers’ intuition! Standard was given cards that, while not powerful enough to dethrone affinity, certainly could compete with it.
+![](http://media.wizards.com/legacy/global/images/magic_expansion_chk_expansionlogo_en.jpg)
+
+The world was overrun with Legends and Spirits when *Champions of Kamigawa* went on sale early last fall. The Japan theme was well-received (thanks in large part to the wonderful art and flavor text our creative team put in place)… that’ll teach me not to trust my coworkers’ intuition! Standard was given cards that, while not powerful enough to dethrone affinity, certainly could compete with it.
 
 And that brings us to the present… 2005. As you can see, my R&D cohorts and I were very busy last year. We added lots of talented people, released some fantastic sets, and laid the groundwork for future successes. I can only hope that this year goes as well. With *Saviors*, *Betrayers*, *Ninth Edition*, and *Ravnica* on the horizon, I suspect it will.
 

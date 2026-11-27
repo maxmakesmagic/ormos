@@ -144,7 +144,9 @@ render_recovery:
 ---
 This pair of Magic titans last played each other on a Sunday at the Chicago stop of last year's Pro Tour. Kai smashed Jensen in four games and went on to take yet another title. Is it fair to call William Jensen the best player to never win a Pro Tour? Since Dirk and Bob Maher both taken home giant checks there isn't even a need to engage in debate. 
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a795.jpg)Jensen was hoping to shed that title and build on a terrific year that saw him make Top 8's at both Venice and Chicago. He had a formidable barrier standing in his way today though. To make matters more complicated Phoenix Foundation has been preparing relentlessly in Atlanta for the past several weeks with the same training regimen they used last year. 
+![](http://www.wizards.com/sideboard/images/ptbos03/a795.jpg)
+
+Jensen was hoping to shed that title and build on a terrific year that saw him make Top 8's at both Venice and Chicago. He had a formidable barrier standing in his way today though. To make matters more complicated Phoenix Foundation has been preparing relentlessly in Atlanta for the past several weeks with the same training regimen they used last year. 
 
 The Brockerfellers on the other hand had barley touched a Magic card since Nationals and their first team Rochester draft in this format was round seven yesterday. The draft went pretty well for both teams and each team put themselves at a slight advantage. With the drafting out of the way it was time to get down to playing with their cards. You couldn't ask for a better pairing.
 
@@ -168,7 +170,9 @@ Kai – 0 Huey – 1
 
 Kai opened the game with a Daru Spiritualist and followed with a morph. Huey played his own morph and Kai attempted to kill it on his next turn with an unmorphed Exterminator but it turned out to be Putrid Raptor which Huey turned face up with the help of a discarded Brawler. Kai was able to get in for four points of damage since Jensen was not about to block with his momentarily 1/1 zombie. The Raptor crashed acroos the red zone for four points of damage on the next turn and he played a Death-Head's Buzzard.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a788.jpg)Kai cast Lingering Death on the Raptor but he had to absorb another four points from it and he fell to 12. He evened up the life race and tried to stabilize with an Aven Warhawk amplified once with Wingbeat Warrior. Jensen had the Infest once again and wiped out the board. He drew a collective intake of breath from the spectators who were unused to seeing Kai on the ropes on a Sunday morning. He played a morph and sent it back to the German.
+![](http://www.wizards.com/sideboard/images/ptbos03/a788.jpg)
+
+Kai cast Lingering Death on the Raptor but he had to absorb another four points from it and he fell to 12. He evened up the life race and tried to stabilize with an Aven Warhawk amplified once with Wingbeat Warrior. Jensen had the Infest once again and wiped out the board. He drew a collective intake of breath from the spectators who were unused to seeing Kai on the ropes on a Sunday morning. He played a morph and sent it back to the German.
 
 Kai played his sixth land and dropped a face-up Wingbeat warrior and a Zealous Inquisitor. Huey though for a while and took a deep breath while he pondered his options. There were no blocks from Kai as the morph got in for two. He played another morph and promptly shot the flier with his Skirk Marauder.
 

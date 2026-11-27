@@ -119,7 +119,9 @@ Reanimater 対《サイカトグ/[Psychatog](https://web.archive.org/web/2002110
 
 　しかし、くどいようだが彼はKai Buddeなのある。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a527.jpg)彼はここで2枚目の《催眠の悪鬼/[Mesmeric Fiend](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend)》を引き当て、Ben Rubinを完全に丸裸にした。そして、数ターン後には《影魔道士の浸透者/[Shadowmage Infiltrator](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrator)》を展開することとなったのだった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a527.jpg)
+
+彼はここで2枚目の《催眠の悪鬼/[Mesmeric Fiend](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend)》を引き当て、Ben Rubinを完全に丸裸にした。そして、数ターン後には《影魔道士の浸透者/[Shadowmage Infiltrator](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrator)》を展開することとなったのだった。
 
 　無慈悲なるこの《知恵の蛇/[Ophidian](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ophidian)》はKai Buddeに《マローの魔術師ムルタニ/[Multani, Maro-Sorcerer](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Multani%2C+Maro-Sorcerer)》と《再活性/[Reanimate](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reanimate)》をもたらし、それは《入念な研究/[Careful Study](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study)》によって具現化した。もっとも、現段階では《ムルタニ》も3/3というサイズで致死級というわけではない。
 

@@ -91,7 +91,9 @@ Who are you?
 
 Sit down with me at this table. We'll play a few games. I'll tell you who you are. So will my friends. We'll *all* know.
 
-[![Mirror_Entity](https://i.ormos.uk/47/f3/47f3c92a3702eae9cb33de742b431e040dca618fec2e3c2943203718b14e4f65.jpg)](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mirror%2BEntity)Give us an evening, and we'll tell you what sort of decks you like to play. And whether you are a changeling.
+[![Mirror_Entity](https://i.ormos.uk/47/f3/47f3c92a3702eae9cb33de742b431e040dca618fec2e3c2943203718b14e4f65.jpg)](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mirror%2BEntity)
+
+Give us an evening, and we'll tell you what sort of decks you like to play. And whether you are a changeling.
 
 Most of you are not.
 
@@ -144,7 +146,9 @@ But do you know who the best player at our table is? That's Josh. And his card r
 >  Creature - Shapeshifter  
 >  Changeling (This player can be any player type in any game.)
 
-[![Rakdos_Guildmage](https://i.ormos.uk/65/db/65db357aceba3e3fb9cf0f9d301e87e04602604e39e069f5bca6ae1aca5abc24.jpg)](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Rakdos%2BGuildmage)The reason Josh is as good as he is is because he *has* no natural deck style. He has a feared Dragon Reanimator deck that can chain into three flying dragons by turn three, and then keep bringing them back for more. But he also has a "Rocker" deck, featuring that Master of Metal [Rakdos Guildmage](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rakdos+Guildmage) (who is totally playing death metal on his guitar) and [Acidic Sliver](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acidic+Sliver), which is a terrible, *terrible* deck that he threw together.
+[![Rakdos_Guildmage](https://i.ormos.uk/65/db/65db357aceba3e3fb9cf0f9d301e87e04602604e39e069f5bca6ae1aca5abc24.jpg)](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Rakdos%2BGuildmage)
+
+The reason Josh is as good as he is is because he *has* no natural deck style. He has a feared Dragon Reanimator deck that can chain into three flying dragons by turn three, and then keep bringing them back for more. But he also has a "Rocker" deck, featuring that Master of Metal [Rakdos Guildmage](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rakdos+Guildmage) (who is totally playing death metal on his guitar) and [Acidic Sliver](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acidic+Sliver), which is a terrible, *terrible* deck that he threw together.
 
 His decks span all categories. He doesn't generally favor combo, but aside from that I don't know what he's going to bring every time he sits down. Some of his decks are very tuned, very competitive beasts, and some of his decks are The Monk Deck, which featured all the best Monks in **Magic**. (Hint: there aren't a lot of good ones.) On a scale from 1 to 10, his decks actually *go* from 1 to 10.
 
@@ -190,7 +194,9 @@ One of the big complaints I get in my mailbox is that "the other players always 
 
 You think Josh couldn't devise another three or four Dragon Reanimator-quality decks—decks so potent they win by default? Of *course* he could. But he is smarter than that.
 
-[![Shapesharer](https://i.ormos.uk/51/08/510800efbe9884d976f008e83757e495fe7cec01aaae0fae3264a3f7d7a88409.jpg)](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Shapesharer)These days, when Josh whips out the Dragon Reanimator deck, we all go, "Crap, that's Dragon Reanimator" and swarm him just so we have a chance. And when he breaks out the [Island](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s and [Vedalken Shackles](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vedalken+Shackles) deck, we *also* team up to defeat him.
+[![Shapesharer](https://i.ormos.uk/51/08/510800efbe9884d976f008e83757e495fe7cec01aaae0fae3264a3f7d7a88409.jpg)](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Shapesharer)
+
+These days, when Josh whips out the Dragon Reanimator deck, we all go, "Crap, that's Dragon Reanimator" and swarm him just so we have a chance. And when he breaks out the [Island](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s and [Vedalken Shackles](https://web.archive.org/web/20071120000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vedalken+Shackles) deck, we *also* team up to defeat him.
 
 But that's the *deck*. That's not *Josh*.
 

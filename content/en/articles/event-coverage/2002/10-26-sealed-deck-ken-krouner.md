@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a998.jpg)Ken Krouner has played Magic seemingly forever, but only recently dedicated himself to bringing his game to the next level. He landed a top sixteen finish at US Nationals, and smashed his way into the top eight at Worlds this year. And when I say smashing, I mean absolutely destroying his opponents, winning twelve straight matches in a row! 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a998.jpg)
+
+Ken Krouner has played Magic seemingly forever, but only recently dedicated himself to bringing his game to the next level. He landed a top sixteen finish at US Nationals, and smashed his way into the top eight at Worlds this year. And when I say smashing, I mean absolutely destroying his opponents, winning twelve straight matches in a row! 
 
 I sat down with Ken at the beginning of the deckbuilding session. Ken, if you've never met him, has a boyish charm and possess a very easy going nature. We discussed some Magic.
 

@@ -87,7 +87,9 @@ render_recovery:
   - Mind Sludge
   occurrences: 64
 ---
-![](https://i.ormos.uk/1a/68/1a688827bbab4345c88b4c0ce33edd74a9db73153c3cd3d2b771d746c6c0b905.jpg)"Have I ever beaten you?" Baby Huey mused. "I mean, in a real tournament. You beat me in Minnesota... You beat me on the boat in LA..."
+![](https://i.ormos.uk/1a/68/1a688827bbab4345c88b4c0ce33edd74a9db73153c3cd3d2b771d746c6c0b905.jpg)
+
+"Have I ever beaten you?" Baby Huey mused. "I mean, in a real tournament. You beat me in Minnesota... You beat me on the boat in LA..."
 
 Today was William "Baby Huey" Jensen's chance - but just a chance - to finally trounce Rob Dougherty, owner and founder of the famed pro sweatshop Your Move Games in Boston. Today, both of them are six and one - and with six hundred and seven people in attendance in Cleveland today, all probability the loser gets to finish out the day in ignominy, while the winner gets a chance to go to the fabled Day Two. The two of them have been playing for four years straight, but...
 
@@ -115,7 +117,9 @@ Dougherty drew a Mental Note, which was not particularly helpful unless he felt 
 
 Jensen wasn't impressed. He cast Tainted Pact, blitzing past Earth Rift, Innocent Blood, Tainted Peak, and Shadowblood Ridge... And finally picked a Burning Wish, with which he snagged a Recoup and then Recouped his Chainer's Edict with no mana to spare.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a952.jpg)Rob picked up Recoup and read it very carefully, for which no one in the room had the heart to blame him.
+![](http://www.wizards.com/sideboard/images/gpcle02/a952.jpg)
+
+Rob picked up Recoup and read it very carefully, for which no one in the room had the heart to blame him.
 
 The Magnivore drops Dougherty to six, setting the clock at one turn unless he can block. Rob swung his mighty wurm across the table to smack Jensen and put him at four, then Quietly Speculated for a couple of Roars and an Acorn Harvest, paying three life for some much-needed chump blockers but causing Jensen to crack a grin. 
 
@@ -137,7 +141,9 @@ Dougherty, stuck on three land, used the turn to Quietly Speculate all the uncas
 
 Jensen would have loved to cast a huge Magnivore right then, but unfortunately he only had one red mana. Instead, he simply Recouped the Innocent Blood in his graveyard and offed the Mongrel. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a953.jpg)Rob drew a fourth mana source - a Centaur Garden - and paid the three life for the Harvest, taking one from the Garden. "A bargain," he said, throwing two 1/1 chumpers into play; unfortunately, Jensen had Mirari out, and after a small squeak for two damage, a double-Edict the next sent the tokens to squirrel heaven. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a953.jpg)
+
+Rob drew a fourth mana source - a Centaur Garden - and paid the three life for the Harvest, taking one from the Garden. "A bargain," he said, throwing two 1/1 chumpers into play; unfortunately, Jensen had Mirari out, and after a small squeak for two damage, a double-Edict the next sent the tokens to squirrel heaven. 
 
 "Dead squirrels," he dryly observed.
 

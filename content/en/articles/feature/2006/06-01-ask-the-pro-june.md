@@ -60,7 +60,9 @@ render_recovery:
   - olivierscorner@hotmail.com
   occurrences: 1
 ---
-![](https://i.ormos.uk/95/ae/95ae9976083e146053cab388d45cb5421d3f664835c322cea6928ddba9898c11.jpg)Welcome to Ask the Pro, a new feature on **magicthegathering.com**.
+![](https://i.ormos.uk/95/ae/95ae9976083e146053cab388d45cb5421d3f664835c322cea6928ddba9898c11.jpg)
+
+Welcome to Ask the Pro, a new feature on **magicthegathering.com**.
 
 Five-time Pro Tour Top 8 competitor Olivier Ruel has opened his virtual mailbox and eagerly awaits your questions about high-level tournament play, what it's like to travel the world playing **Magic**, how to prepare for events, and anything else you'd like to know from a Level 6 mage in the Pro Players Club.
 

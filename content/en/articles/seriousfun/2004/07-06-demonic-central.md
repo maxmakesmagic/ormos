@@ -414,7 +414,9 @@ So, the question arises – why are these six demons in this article today, and 
 
 ### Who Is Keyser Soze?
 
-![](https://i.ormos.uk/ab/7d/ab7de714b329859b691cc38f367e4844e6271bce110eac2295a96bea18997a7f.jpg)If you were a detective, you might try to get at the bottom of this evil network much as the police officer in The Usual Suspects did – browbeating and interrogation. That had mixed results. We could still do a line-up.
+![](https://i.ormos.uk/ab/7d/ab7de714b329859b691cc38f367e4844e6271bce110eac2295a96bea18997a7f.jpg)
+
+If you were a detective, you might try to get at the bottom of this evil network much as the police officer in The Usual Suspects did – browbeating and interrogation. That had mixed results. We could still do a line-up.
 
 Keyser Soze (and by the way, you should really rent The Usual Suspects, if you haven't seen it…I'm avoiding spoiler information here, so you're safe) arranged for certain criminals to get together because they all had something in common – they all owed Mr. Soze a certain debt.
 
@@ -422,7 +424,9 @@ Maybe there's a certain debt associated with all those demons up there, as well.
 
 What, you noticed they all cost a lot, right? Why, yes they do. None of them come in at less than ![4 Mana](https://i.ormos.uk/36/29/3629288966daa042decf01d3752789ab6676fddd67c3679fa580cd3baecae158.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif) (though instead of ![3 Mana](https://i.ormos.uk/7f/5d/7f5d2f1e55eaa9d19a9a23027b63bfbb5b39dbf8642160dda1a477a03df23a6a.gif) + ![2 Mana](https://i.ormos.uk/f9/cc/f9cc8a15b009997919d58ad79964384351495d1b6c9231f938316577453038a8.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif) for morphing Grinning Demon, you can just hard-cast it at ![2 Mana](https://i.ormos.uk/f9/cc/f9cc8a15b009997919d58ad79964384351495d1b6c9231f938316577453038a8.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)). Demons exact a heavy price, to be sure. So it'd be great to have a co-conspirator that showed up before turn six. But that's not exactly my point. Look again – closer.
 
-![](https://i.ormos.uk/bf/46/bf46f7284cc46a2969b1730d9b2966750ee35bd7e3cd867fede3b877e8bd01b8.jpg)Ah, now we see it. Upkeep costs.
+![](https://i.ormos.uk/bf/46/bf46f7284cc46a2969b1730d9b2966750ee35bd7e3cd867fede3b877e8bd01b8.jpg)
+
+Ah, now we see it. Upkeep costs.
 
 Well, why on earth should we have to pay those? If you haven't yet found a use for this *Fifth Dawn* card, the time has come:
 

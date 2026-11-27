@@ -176,7 +176,9 @@ Sonmez opened a Sparksmith that Gary looked at longingly but it was not to be as
 
 The next set of packs reversed directions and Turian scooped up a Swat. Manning took a Jareth with the second pick over a Wirewood Savage. With two Undoraks and a Voice of the Woods already under his belt the Savage seemed like a sure bet for the YMGer. Foothill Guide and a random Complicate comprised Gary's wheel. The Savage ended up going seventh. Severa chose a Mauler over it for his deck.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a894.jpg)The ninth pack yielded a Unified Strike for Gary and a Mistform Stalker and Fallen Cleric for Turian on the wheel. Gary took a Pearlspear Courier in the next pack while Turian took Read the Runes with a bounced Mistform Wall. Gary got another Daru Cavalier on the way back. Sullivan took a Dive Bomber out of his pack but there was still an Improvised Armor for Gary. Turian took a Festering Goblin and got a Frightshroud Courier on the bounce. Gary happily took a Daru Healer the long way back.
+![](http://www.wizards.com/sideboard/images/gpphi02/a894.jpg)
+
+The ninth pack yielded a Unified Strike for Gary and a Mistform Stalker and Fallen Cleric for Turian on the wheel. Gary took a Pearlspear Courier in the next pack while Turian took Read the Runes with a bounced Mistform Wall. Gary got another Daru Cavalier on the way back. Sullivan took a Dive Bomber out of his pack but there was still an Improvised Armor for Gary. Turian took a Festering Goblin and got a Frightshroud Courier on the bounce. Gary happily took a Daru Healer the long way back.
 
 Matt Severa's deck took a turn for the frightening with a first pick Gratuitous Violence. Wise and Turian took a Pacifism and a Festering Goblin respectively. Wise found nothing better than a Foothill Guide in the next pack and Turian took a Thrashing Mudspawn. Wise woke up X-mas morning and found a second pick Slice and Dice under his tree. Turian nabbed a Tribal Golem to compliment his Mistform men. Wise closed out the second set of packs with a nigh unkillable Tephraderm while Turian took a Dirge of Dread.
 
@@ -192,7 +194,9 @@ Turian: "The only guy that could possibly open a Callous Oppressor and have it n
 
 He seemed pretty happy with his Read the Runes as he examined the possibilities of using the card with his multiple Festering Goblins. "This card is a bomb", he nodded seeing its potential more clearly with his cards out in front of him. Apparently he regretted one pick, which might come as a surprise to most readers. He tried to bounce an Imagecrafter over a Severed Legion but the 1/1 wizard did not come back to him. Had he to do it all over again, Turian claims he would pick the wizard.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a893.jpg)I asked him bout his chances to 3-0 the table and he seemed confident that he had the best deck. He conceded that Wise's deck was also quite good, "We cooperated really well together."
+![](http://www.wizards.com/sideboard/images/gpphi02/a893.jpg)
+
+I asked him bout his chances to 3-0 the table and he seemed confident that he had the best deck. He conceded that Wise's deck was also quite good, "We cooperated really well together."
 
 When I asked Wise how he felt about his deck he could only laugh maniacally and show off his pack 23 and pack 24 Sparksmiths. "I think I got the most powerful deck at the table!" With the exception of his own he felt that Severa's deck had the best chance to run the table. "I really wanted a Demystify but it just wasn't there." He is running the Dawning Purist in case he has to face the Gratuitous Violence.dec. As I walked away he was still cackling, "I have a Slice and Dice with FOUR Daru Cavaliers!"
 

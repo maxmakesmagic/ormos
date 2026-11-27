@@ -455,7 +455,9 @@ render_recovery:
 ---
 * * *
 
-![Nicolai Herzog](http://wizards.com/sideboard/images/ptsd04/fm14_1.jpg)After spending years on the competitive Magic circuit with an impressive number of top finishes, Nicolai Herzog finally won a Pro Tour last season, beating Osamu Fujita in the finals of Amsterdam. In fact, Herzog has been cleaning up in Limited Pro Tours, placing in the Top 24 of every one since Barcelona. With a 5-1 start so far, his consistency shows no signs of faltering. Jin Okamoto, "The Last Emperor", played in the Invitational a few days ago, and is also on his way to another strong finish thus far. Japanese Magic has been growing in strength with every passing event, and Okamoto, who came in second at Worlds last summer, is definitely a candidate to carry that trend even further.
+![Nicolai Herzog](http://wizards.com/sideboard/images/ptsd04/fm14_1.jpg)
+
+After spending years on the competitive Magic circuit with an impressive number of top finishes, Nicolai Herzog finally won a Pro Tour last season, beating Osamu Fujita in the finals of Amsterdam. In fact, Herzog has been cleaning up in Limited Pro Tours, placing in the Top 24 of every one since Barcelona. With a 5-1 start so far, his consistency shows no signs of faltering. Jin Okamoto, "The Last Emperor", played in the Invitational a few days ago, and is also on his way to another strong finish thus far. Japanese Magic has been growing in strength with every passing event, and Okamoto, who came in second at Worlds last summer, is definitely a candidate to carry that trend even further.
 
 ### Game 1
 

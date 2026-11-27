@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Omeed Dariani*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b12.JPG)As the field separated into the good and the bad, the top few tables represented several popular deck types, as well as few uncommon ones. At table 1, Tanis Tramontin faced off against Dan Li. Both players were fairly young and located nearby, Dan being a local and Tanis coming in from Warren, Michigan. Dan is a seasoned player, though he doesn't compete in a lot of high-level tournaments. Travis just came off of a victory in a forty person Standard tournament, as had not lost a game coming into this match.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b12.JPG)
+
+As the field separated into the good and the bad, the top few tables represented several popular deck types, as well as few uncommon ones. At table 1, Tanis Tramontin faced off against Dan Li. Both players were fairly young and located nearby, Dan being a local and Tanis coming in from Warren, Michigan. Dan is a seasoned player, though he doesn't compete in a lot of high-level tournaments. Travis just came off of a victory in a forty person Standard tournament, as had not lost a game coming into this match.
 
 Tanis is playing White Weenie matched against Dan's Stompy. This matchup heavily favors the white deck, 
 
@@ -58,6 +60,8 @@ Tramontin 1, Li 0
 
 Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b13.JPG)Dan drew his seven cards and tossed them on the table, upset. He quickly mulliganed. His second hand was somewhat better. He opened with a Treetop Village. Tanis again dropped a first turn Mother, eliciting a groan from Dan. Li cast a Boa, which was very solid, until Tramontin followed the Mother with a Longbow Archer, effectively halting the potential offense. Dan used a Tangle Wire to tap Tanis out, but Tanis just played another Plains and cast a Ramosian Sergeant. Dan played another Village and showed a little offensive muscle. Tanis used the chance to counterattack and play out a Steadfast Guard. The Wire faded away and Li dropped his coup de gras: Masticore. Tanis looked a little bothered, shifting his cards back and forth, then proceeded to draw and play Topple, must to the consternating of Li. Dan then dropped a Troll and an Orangutan to help defend, but it was too late. Tramontin play the Parallax Wave he'd been holding and continued his assault. Once he added a Crusade to the mix, Li scooped.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b13.JPG)
+
+Dan drew his seven cards and tossed them on the table, upset. He quickly mulliganed. His second hand was somewhat better. He opened with a Treetop Village. Tanis again dropped a first turn Mother, eliciting a groan from Dan. Li cast a Boa, which was very solid, until Tramontin followed the Mother with a Longbow Archer, effectively halting the potential offense. Dan used a Tangle Wire to tap Tanis out, but Tanis just played another Plains and cast a Ramosian Sergeant. Dan played another Village and showed a little offensive muscle. Tanis used the chance to counterattack and play out a Steadfast Guard. The Wire faded away and Li dropped his coup de gras: Masticore. Tanis looked a little bothered, shifting his cards back and forth, then proceeded to draw and play Topple, must to the consternating of Li. Dan then dropped a Troll and an Orangutan to help defend, but it was too late. Tramontin play the Parallax Wave he'd been holding and continued his assault. Once he added a Crusade to the mix, Li scooped.
 
 Tramontin defeats Li, 2-0.

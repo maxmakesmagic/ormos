@@ -77,7 +77,9 @@ render_recovery: []
 
 *by Manuel Bevand*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/237.jpg)These two players are amongst the best in Europe right now. Labarre is renowned for two Pro Tour Top 8 finishes (including reaching the finals at PT Rome) and also for finishing second at GP Tours. Roc Herms is considered by many as the best Spanish player and has several high finishes including ninth place at PT London this season. Besides those players' obvious qualities, I had a particular interest in covering this match because I put both players in my Fantasy Pro Tour roster! Either way, this match is costing me money points...but I want to see my "team" in action.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/237.jpg)
+
+These two players are amongst the best in Europe right now. Labarre is renowned for two Pro Tour Top 8 finishes (including reaching the finals at PT Rome) and also for finishing second at GP Tours. Roc Herms is considered by many as the best Spanish player and has several high finishes including ninth place at PT London this season. Besides those players' obvious qualities, I had a particular interest in covering this match because I put both players in my Fantasy Pro Tour roster! Either way, this match is costing me money points...but I want to see my "team" in action.
 
 Herms is playing red/green beatdown with tons of creatures and good removal like Flameshot and Rhystic Lightning. Nicolas is playing a slower red/white deck with good control in the form of two Topples, Ancient Hydra and several Kyren Snipers. Herms won the die roll and decided to play first.
 

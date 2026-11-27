@@ -137,7 +137,9 @@ render_recovery:
   - Tremble
   occurrences: 133
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a949.jpg)In a clash of fashion statements we have a German Pro Tour, and Masters, champion wearing a French football jersey (current world champions by the way) against a sandal-wearing, dragon-loving American famous for his deckbuilding skills.
+![](http://www.wizards.com/sideboard/images/ptnice02/a949.jpg)
+
+In a clash of fashion statements we have a German Pro Tour, and Masters, champion wearing a French football jersey (current world champions by the way) against a sandal-wearing, dragon-loving American famous for his deckbuilding skills.
 
 **Brian:** "Weren't you retiring after Pro Tour New York?"  
 **Dirk:** "Well... you know... Masters is quite interesting."
@@ -166,7 +168,9 @@ Baberowski seemed out of steam but he had a surprise in store: Aboshan. The lege
 **Dirk:** "It isn't actually doing a lot."  
 **Brian:** "Yup, but I AM at one."
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a948.jpg)The American was now walking a fine line. He kept sending his fliers in trying to finish Dirk before he could mount on last, and fatal, attack. One of them got removed by Second Thoughts.
+![](http://www.wizards.com/sideboard/images/ptnice02/a948.jpg)
+
+The American was now walking a fine line. He kept sending his fliers in trying to finish Dirk before he could mount on last, and fatal, attack. One of them got removed by Second Thoughts.
 
 **Brian:** "You had a couple of good draw steps."  
 **Dirk:** "Can't complain."
@@ -210,7 +214,9 @@ This time Kibler came out with a vengeance, playing a turn two Mystic Visionary 
 
 He Repelled the Looter but the American already had a Patrol Hound in action. Baberowski needed a good blocker and he got it in the shape of Cephalid Aristocrat. With the ground locked Kibler played Aven Cloudchaser to keep the pressure.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a953.jpg)Still Dirk was on the comeback trail. He followed Aristocrat with Aboshan but Kibler was ready with the Stupefying Touch. That would have put a dent on Baberowski's defensive plans. But the German was ready for it and played his own Cloudchaser to free up the legendary Aboshan.
+![](http://www.wizards.com/sideboard/images/ptnice02/a953.jpg)
+
+Still Dirk was on the comeback trail. He followed Aristocrat with Aboshan but Kibler was ready with the Stupefying Touch. That would have put a dent on Baberowski's defensive plans. But the German was ready for it and played his own Cloudchaser to free up the legendary Aboshan.
 
 Kibler was now almost locked out. His only active source of damage was Cloudchaser with a Floating Shield giving it protection from blue. Dirk sent his whole team in and the protected Cloudchaser blocked Aboshan.
 

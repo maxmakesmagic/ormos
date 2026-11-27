@@ -889,7 +889,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/e8/13/e8131987427888c2ca0152ec55e3920a480fc21d0221801e51b9c22d51e19b58.jpg)“WAKE UP, MARK,” the raspy voice boomed. And when I say “raspy,” I mean a hundred rusty metal files in a blender. And when I say “boomed,” I mean TNT exploding inside a subwoofer.
+![](https://i.ormos.uk/e8/13/e8131987427888c2ca0152ec55e3920a480fc21d0221801e51b9c22d51e19b58.jpg)
+
+“WAKE UP, MARK,” the raspy voice boomed. And when I say “raspy,” I mean a hundred rusty metal files in a blender. And when I say “boomed,” I mean TNT exploding inside a subwoofer.
 
 I’m a pretty deep sleeper, though. Noise doesn’t do it for me. Fire does, however, so after quickly disposing of my burning pajamas, I was wide awake.
 
@@ -993,7 +995,9 @@ What can ruin your day? True Believer is easily burned away, but Ivory Mask is g
 
 “BETTER. BUT WHERE IS THE WACKY?”
 
-![](https://i.ormos.uk/6d/7b/6d7bb53bdec3dea4f4a8f3f65c5044d2c359df7f33b9d24c2a0566705d4f1c5d.jpg)One more deck to make my old pal happy. Fire Week has made me fixate on one thing more than anything else: The cloyingly grating catchphrase “You’re fired!” said by the cloyingly grating Donald Trump. I know there’s a VIP section of Hell cordoned off for “The Apprentice.”
+![](https://i.ormos.uk/6d/7b/6d7bb53bdec3dea4f4a8f3f65c5044d2c359df7f33b9d24c2a0566705d4f1c5d.jpg)
+
+One more deck to make my old pal happy. Fire Week has made me fixate on one thing more than anything else: The cloyingly grating catchphrase “You’re fired!” said by the cloyingly grating Donald Trump. I know there’s a VIP section of Hell cordoned off for “The Apprentice.”
 
 Luckily for me, I happen to have an advance copy of next season’s “The Apprentice.” There aren’t going to be any surprises as far as casting goes. In fact, I think you’ll be quite familiar with the personality archetypes—oops, sorry, I meant “characters”—oops, sorry, I really meant “people”—on the show. When you see it, I think you’ll agree that they’re all quite legendary.
 

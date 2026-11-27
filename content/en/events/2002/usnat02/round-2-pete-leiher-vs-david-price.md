@@ -53,7 +53,9 @@ archive_source:
   sha256: a759037e917f48a8370bef5a69a0c510f38558941f30703c16ac3f55ceeba3c1
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a971.jpg)This match is symbolic of the old guard of Magic. Price represents Deadguy and all that is just and right in the universe, while Leiher is a former member of the infamous and now defunct Tongo Nation, which contained members such as Justin Schneider and Mike Long. An interesting side note to this match is the experiences of both these players at last year's Nationals, and how they are connected. Leiher was in a match with Brian Hegstad in the final round, where the winner would advance to the Top 8. The match ended in a draw, but the decision was reversed as Leiher received a game loss for slow play. If the match had ended in a draw, Price would have made Top 8. Instead, Hegstad advanced to face Casey McCarrel first round, who was disqualified for deck manipulation during their match. The connection? Price was in ninth place previous to the incident, and as a result, advanced to a Top 8 finish. He arrived as the Top 8 was playing, discovered the news, and commented "Easiest Top 8 I ever made."
+![](http://www.wizards.com/sideboard/images/usnat02/a971.jpg)
+
+This match is symbolic of the old guard of Magic. Price represents Deadguy and all that is just and right in the universe, while Leiher is a former member of the infamous and now defunct Tongo Nation, which contained members such as Justin Schneider and Mike Long. An interesting side note to this match is the experiences of both these players at last year's Nationals, and how they are connected. Leiher was in a match with Brian Hegstad in the final round, where the winner would advance to the Top 8. The match ended in a draw, but the decision was reversed as Leiher received a game loss for slow play. If the match had ended in a draw, Price would have made Top 8. Instead, Hegstad advanced to face Casey McCarrel first round, who was disqualified for deck manipulation during their match. The connection? Price was in ninth place previous to the incident, and as a result, advanced to a Top 8 finish. He arrived as the Top 8 was playing, discovered the news, and commented "Easiest Top 8 I ever made."
 
 ### Game 1
 
@@ -61,7 +63,9 @@ Price opened with Basking Rootwalla, and followed up with Wild Mongrel. They tea
 
 Leiher- 0 Price- 1
 
-![](http://www.wizards.com/sideboard/images/usnat02/a973.jpg)While shuffling, Price accidentally flipped over a Millstone in Leiher's deck. He was quick to call over a judge and tell what happened, and received a warning as a result.
+![](http://www.wizards.com/sideboard/images/usnat02/a973.jpg)
+
+While shuffling, Price accidentally flipped over a Millstone in Leiher's deck. He was quick to call over a judge and tell what happened, and received a warning as a result.
 
 ### Game 2
 
@@ -73,7 +77,9 @@ Price went back to his sideboard, noting "And all the while I thought you were p
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/usnat02/a972.jpg)Basking Rootwalla was summoned right away, and Price once again had the perfect follow up two-drop in Wild Mongrel. However, Leiher had Force Spike, and played Sacred Ground on his turn. A second Rootwalla joined the team, Leiher cast Millstone, and the Rootwalla team smashed for six, bringing Leiher down to ten life points. The board was cleared with Wrath of God, but Price rebuilt with yet another Rootwalla, and brought Leiher to eight with a Firebolt. Leiher then tapped out to summon Serra Angel. Chris Pikula now stopped by, and never at a loss for words said "Serra Angel and Millstone? What is this, 1982?" Leiher turned to some of the JSS kids watching behind him and joked "You guys have heard of these cards right? Maybe you've seen some pictures?" 
+![](http://www.wizards.com/sideboard/images/usnat02/a972.jpg)
+
+Basking Rootwalla was summoned right away, and Price once again had the perfect follow up two-drop in Wild Mongrel. However, Leiher had Force Spike, and played Sacred Ground on his turn. A second Rootwalla joined the team, Leiher cast Millstone, and the Rootwalla team smashed for six, bringing Leiher down to ten life points. The board was cleared with Wrath of God, but Price rebuilt with yet another Rootwalla, and brought Leiher to eight with a Firebolt. Leiher then tapped out to summon Serra Angel. Chris Pikula now stopped by, and never at a loss for words said "Serra Angel and Millstone? What is this, 1982?" Leiher turned to some of the JSS kids watching behind him and joked "You guys have heard of these cards right? Maybe you've seen some pictures?" 
 
 Price brought out yet another Rootwalla, but Leiher trumped him with a second Serra Angel, and a triumphant shout of "The team!" as the spectators all got a good laugh. Price used Reckless Charge on each Rootwalla, and the Angels blocked, causing all the creatures on the board to die. Kavu Titan was Counterspelled, and Millstone got to work as Leiher's alternate win condition. Price now had no cards in hand, but Leiher only had two. It was time to put Price's old theory of "There are no wrong threats, but there are wrong answers" to the test. Could Price draw a threat that would slip by Leiher's answers? Apparently not, as Leiher played Teferi's Moat, and gained additional control of the game with Fact or Fiction. Compulsion later locked it up, and a second Millstone came out to help finish off Price's deck.
 

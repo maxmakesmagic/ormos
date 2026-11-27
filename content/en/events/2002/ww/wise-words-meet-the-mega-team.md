@@ -111,7 +111,9 @@ What follows is a look at the members of the mailing list, their relationships t
 
 **Morgan Douglass** – Owner of American GP Top 8 finishes in both Constructed and Limited this year, Douglass is still looking for that breakout performance on the Tour. A constant presence online, one would think the opportunity to be on a PT team for the first time can only help.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/774.jpg)**Gerard Fabiano** – Emotional, expressive, unusual, uncanny. That doesn’t even begin to describe this guy. A member of *Slay, Pillage, Gerard*, the team that finished fourth in Boston this year, GFabs practices far from conventional methods to his madness, but he makes them work. One of the central members of TOGIT.
+![](http://www.wizards.com/sideboard/images/ptbos02/774.jpg)
+
+**Gerard Fabiano** – Emotional, expressive, unusual, uncanny. That doesn’t even begin to describe this guy. A member of *Slay, Pillage, Gerard*, the team that finished fourth in Boston this year, GFabs practices far from conventional methods to his madness, but he makes them work. One of the central members of TOGIT.
 
 **Adam Fischer** – The man is a living, breathing database. Pursued for his workhorse attitude and affinity for numbers by some of the PT’s finest, Adam chose to stay with the CMU guys out of friendship. He’s still just getting his feet wet as far as PT play goes, but he’s been around for a while. You’ve probably seen his work on Star City.
 
@@ -119,7 +121,9 @@ What follows is a look at the members of the mailing list, their relationships t
 
 **Adam Horvath** – Just a rookie, Horvath teamed with Pat Sullivan and Craig Krempals to finish 9th at Boston this year. He’s part of the TOGIT core.
 
-![](http://www.wizards.com/sideboard/images/usnat02/827.jpg)**Bill Jensen** – Definitely viable to argue he’s the best player on this list. Jensen’s long friendship with Krouner and his new one with Berkowitz (his frequent draft partner provided the political clout here while his play skill did the rest of the talking. Jensen has Top 8’s in each of the last two PTs, and is playing far more regularly now than he has since his first Sunday finish at 1999 PT-London.
+![](http://www.wizards.com/sideboard/images/usnat02/827.jpg)
+
+**Bill Jensen** – Definitely viable to argue he’s the best player on this list. Jensen’s long friendship with Krouner and his new one with Berkowitz (his frequent draft partner provided the political clout here while his play skill did the rest of the talking. Jensen has Top 8’s in each of the last two PTs, and is playing far more regularly now than he has since his first Sunday finish at 1999 PT-London.
 
 **Paul Jordan** – becoming known as the self-effacing “other guy who writes for Togit.com”, Paul is one of the game’s good guys. A high finisher at each of the last two team PTs, it’s tough to cheer for the man when you know another loss will mean another report…
 
@@ -127,7 +131,9 @@ What follows is a look at the members of the mailing list, their relationships t
 
 **Ken Krouner** – Writer-, gamer- and gossiper-extraordinaire, KK has been one of the more influential forces in this team’s forming. Working with CMU for the better part of a year, Krouner brought in the Crosby/Ranks team and played a large part in Huey’s membership. With a Top 8 at Worlds and strong GP finishes this year, he’s not a bad spellslinger either…
 
-![](http://www.wizards.com/sideboard/images/gpcle02/920.jpg)**Osyp Lebedowicz** – If you didn’t know him a month ago, you know him now. Osyp burst on the scene last season with three strong finishes to start his career including a Top 8 finish at Osaka, but it was only when he started to consider leaving the game behind that he managed to win himself a Pro Tour. Likely the most influential member of TOGIT, he may also have been the team’s biggest advocate for unification. 
+![](http://www.wizards.com/sideboard/images/gpcle02/920.jpg)
+
+**Osyp Lebedowicz** – If you didn’t know him a month ago, you know him now. Osyp burst on the scene last season with three strong finishes to start his career including a Top 8 finish at Osaka, but it was only when he started to consider leaving the game behind that he managed to win himself a Pro Tour. Likely the most influential member of TOGIT, he may also have been the team’s biggest advocate for unification. 
 
 **Matt Ranks** – Ranks has been around forever, but he waited until his little brother made the U.S. team to finally start putting some numbers up himself. Coming into the CMU fold with Crosby, the Atlanta resident finally had his breakthrough in Houston, where he finished 11th.
 
@@ -139,6 +145,8 @@ What follows is a look at the members of the mailing list, their relationships t
 
 **Pat Sullivan** – Half a year ago, I was Shocking his creature while he sat at two life, now we’re team mates. Who’d have thought? Sullivan, as mentioned, has long been teaming with Craig Krempals and Adam Horvath, the strength of their bond proving evident in their 5th place finish at GP-New Jersey last year. He also happens to be part-owner of TOGIT. His membership on the team was not debated.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a895.jpg)**Mike Turian** – The mighty CMU Potato, Mike is the last original member. Owner of a Team PT win in 2000 and a Worlds Top 8 later that season, Mike’s gravy train membership has been a foregone conclusion for a long time. Considered by many the finest Team Rochester drafter in the world, Turian’s pretty good on his own too.
+![](http://www.wizards.com/sideboard/images/gpphi02/a895.jpg)
+
+**Mike Turian** – The mighty CMU Potato, Mike is the last original member. Owner of a Team PT win in 2000 and a Worlds Top 8 later that season, Mike’s gravy train membership has been a foregone conclusion for a long time. Considered by many the finest Team Rochester drafter in the world, Turian’s pretty good on his own too.
 
 **Gary Wise** – …is beat. That’s about it for now. Have a good week.

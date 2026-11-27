@@ -257,11 +257,15 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/worlds03/a901.jpg)Haim started with Careful Study, discarding Unsummon and putting Basking Rootwalla into play. A Mongrel came out on turn two, and Jensen played Compulsion. Quiet Speculation put Ray of Revelation and a pair of Deep Analysis into Haim's graveyard, and the Ray was flashed back right away to get rid of Compulsion. On the next turn he gained some cards by flashing back an Analysis, and attacked for five with his Mongrel and Rootwalla. Jensen cast Renewed Faith to get a little more breathing room, and tapped out to play his own Analysis. A turn later, Moment's Peace kept Jensen's life total at a comfortable level, as Haim played a second Mongrel.
+![](http://www.wizards.com/sideboard/images/worlds03/a901.jpg)
+
+Haim started with Careful Study, discarding Unsummon and putting Basking Rootwalla into play. A Mongrel came out on turn two, and Jensen played Compulsion. Quiet Speculation put Ray of Revelation and a pair of Deep Analysis into Haim's graveyard, and the Ray was flashed back right away to get rid of Compulsion. On the next turn he gained some cards by flashing back an Analysis, and attacked for five with his Mongrel and Rootwalla. Jensen cast Renewed Faith to get a little more breathing room, and tapped out to play his own Analysis. A turn later, Moment's Peace kept Jensen's life total at a comfortable level, as Haim played a second Mongrel.
 
 Wrath of God drew a Mana Leak out of Haim, but Jensen had his own, and the three creatures on the board headed to the graveyard. With Jensen tapped out, Haim cast Upheaval, played an island, and cast Careful Study, discarding a Roar and a land. Haim rebuilt with a pair of Werebears, but Jensen had two copies of Moment's Peace to keep things under control. Haim tapped out for Deep Analysis, and Jensen played Wrath of God to kill the 4/4 Bears. Roar of the Wurm was flashed back to give Haim a threat to work with, but Jensen had a graveyard filled with a few Moment's Peace to spare. One was flashed back and Mana Leaked, allowing the Wurm to deal six damage and bring Jensen down to seven. A Mongrel followed, and Haim had an island up, representing Circular Logic.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a903.jpg)Jensen simply drew, played a land, and ended his turn. Haim flashed back Deep Analysis and attacked with the Mongrel and Wurm, so Jensen used Cunning Wish to get Wing Shards. Haim used Mana Leak to counter one copy, but still lost both his creatures in the exchange, and seemed distraught by the mistake. He played a Werebear, shaking his head as Jensen cast Mirari's Wake. A second and third Wake followed, along with Compulsion. Moment's Peace kept Haim's attacks in check, and Jensen cycled Decree of Justice to get three 4/4 Soldiers- Haim conceded right away.
+![](http://www.wizards.com/sideboard/images/worlds03/a903.jpg)
+
+Jensen simply drew, played a land, and ended his turn. Haim flashed back Deep Analysis and attacked with the Mongrel and Wurm, so Jensen used Cunning Wish to get Wing Shards. Haim used Mana Leak to counter one copy, but still lost both his creatures in the exchange, and seemed distraught by the mistake. He played a Werebear, shaking his head as Jensen cast Mirari's Wake. A second and third Wake followed, along with Compulsion. Moment's Peace kept Haim's attacks in check, and Jensen cycled Decree of Justice to get three 4/4 Soldiers- Haim conceded right away.
 
 Jensen- 1 Haim- 0
 
@@ -273,7 +277,9 @@ Jensen- 1 Haim- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/worlds03/a902.jpg)Haim once again had a first turn Nimble Mongoose, and continued his curve with a Mongrel. Careful Study put a pair of Rootwallas into play, and Haim now had a quick, small army out attacking for significant damage every turn. He didn't pump the Rootwallas or cast any other spells, staying back on untapped lands for countermagic. Jensen got more mana into play with the help of Krosan Verge, and slowed things down with Moment's Peace. Quiet Speculation got Haim two Deep Analysis and Ray of Revelation, while Jensen continued to draw lands.
+![](http://www.wizards.com/sideboard/images/worlds03/a902.jpg)
+
+Haim once again had a first turn Nimble Mongoose, and continued his curve with a Mongrel. Careful Study put a pair of Rootwallas into play, and Haim now had a quick, small army out attacking for significant damage every turn. He didn't pump the Rootwallas or cast any other spells, staying back on untapped lands for countermagic. Jensen got more mana into play with the help of Krosan Verge, and slowed things down with Moment's Peace. Quiet Speculation got Haim two Deep Analysis and Ray of Revelation, while Jensen continued to draw lands.
 
 Thanks to Deep Analysis, Haim had plenty of resources to work with, while Jensen cast his second Moment's Peace to stay alive. Chastise targeted the Mongrel on the following attack, bringing Jensen to one life point. Moment's Peace had to be flashed back on the next attack, and Jensen found his third soon after. He was doing a good job of staying alive, but needed to draw an answer or a threat. Haim attempted to go for the win with Upheaval, leaving one floating, but Jensen had Mana Leak. The third Moment's Peace was flashed back next, and Jensen couldn't find an answer.
 

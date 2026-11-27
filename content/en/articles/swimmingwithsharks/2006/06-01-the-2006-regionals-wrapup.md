@@ -80,7 +80,9 @@ render_recovery:
 ---
 At long last, the following are this year's top [North American Regionals](/en/articles/event-coverage/undated/2006-regionals-2) finishers. The segmentation is a bit tricky because some events invite four to nationals, while others invite eight. The way it works out is that the Top 4 of each U.S. regional event get invites, unless 410 or more players show up, in which case it's Top 8. (As it turned out, no U.S. location gave invitations to the Top 8). Alaska, Hawaii, U.S. military bases, and Puerto Rico give invitations to the Top 2. Lastly, Canada is Top 8, given that they have relatively fewer locations.
 
-[![](https://i.ormos.uk/57/ed/57ed31aedd3f393ece8f03f35471b6dbc539ba75b2956eeb5f4271243d094ede.jpg)](/en/articles/event-coverage/undated/2006-regionals-2)The nature of the Top 4 out of eight versus the individual winner of a PTQ or even the Top 4 in teams is quite stark: For instance you can run the Swiss without losing a game and then have your daily manascrew come up in exactly the wrong round and end up with very different statistics than we might see if only one winner were announced at each tournament. Regardless, I think you will see what we have been talking about for the past several weeks, namely that this format is "diverse."
+[![](https://i.ormos.uk/57/ed/57ed31aedd3f393ece8f03f35471b6dbc539ba75b2956eeb5f4271243d094ede.jpg)](/en/articles/event-coverage/undated/2006-regionals-2)
+
+The nature of the Top 4 out of eight versus the individual winner of a PTQ or even the Top 4 in teams is quite stark: For instance you can run the Swiss without losing a game and then have your daily manascrew come up in exactly the wrong round and end up with very different statistics than we might see if only one winner were announced at each tournament. Regardless, I think you will see what we have been talking about for the past several weeks, namely that this format is "diverse."
 
 |   |
 | --- |

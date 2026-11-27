@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a946.jpg)Reporting on a match with Ed Fear in it is almost redundant; Ed, back in the game after a year-long enforced absence thanks to some shady sideboard dealings, narrates his own matches like Don Pardo on acid, discussing every card with comments both obscene and amusing.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a946.jpg)
+
+Reporting on a match with Ed Fear in it is almost redundant; Ed, back in the game after a year-long enforced absence thanks to some shady sideboard dealings, narrates his own matches like Don Pardo on acid, discussing every card with comments both obscene and amusing.
 
 Ben Rubin, as usual, needs no introduction. You should know who he is by now. Shame on you. 
 
@@ -88,7 +90,9 @@ Rubin frowned... But only because he failed to draw a land the next turn, and gl
 
 "Okay. I could be."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a947.jpg)Ed Fear used the time to cycle [Lay Waste](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lay+Waste), and at the end of Ed's turn, Rubin flipped up a [Treespring Lorian](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian), then laid a [Tribal Golem](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tribal+Golem) triumphantly during his next main phrase.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a947.jpg)
+
+Ed Fear used the time to cycle [Lay Waste](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lay+Waste), and at the end of Ed's turn, Rubin flipped up a [Treespring Lorian](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian), then laid a [Tribal Golem](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tribal+Golem) triumphantly during his next main phrase.
 
 Ed snatched the card up and read it, eyes wide. "Oh, Billy," he said in a voice not unlike a demonically-possessed Big Bopper. "Haste... TRAMPLE? A Regenerator?" 
 
@@ -121,7 +125,9 @@ He scooped, ending turn 6 at two land.
 
 Game 3, both players were fine. "In like Flynn," said Fear. "And I as well," replied Rubin.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a948.jpg)The game started slowly, as Rubin's first attempt at a creature, a morphed [Treespring Lorian](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian), died aborning thanks to a Fear-powered [Smother](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother). Rubin followed it up with a [Mistform Dreamer](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Dreamer).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a948.jpg)
+
+The game started slowly, as Rubin's first attempt at a creature, a morphed [Treespring Lorian](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian), died aborning thanks to a Fear-powered [Smother](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother). Rubin followed it up with a [Mistform Dreamer](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Dreamer).
 
 "Who splashes for that card?" asked Ed.
 

@@ -472,7 +472,9 @@ The match started off with a three lands from both players. Jolly drew the first
 
 Marijn added evasion to his team with Cloudheath Drake, who was however killed by Resounding Thunder. Jolly added Goblin Deathraider to his team and passed. Marijn played nothing, but Skeletonized Rip-Clan Crasher. The Drudge Skeleton blocked the Deathraiders and regenerated. Marijn did the only right thing and charged in with the skeleton and a fresh Kederekt Creeper. Jolly, however, still had lots of game, much thanks to a Skullmulcher, which devoured a Dregscape Zombie and drew Jolly a card.
 
-![](https://i.ormos.uk/56/eb/56ebaeab9330c3bb7e2ce7c5af7973c431ba492af6fa0233eda4c0e1138059de.jpg)Marijn played a Bloodpyre Elemental, who immediately killed his opponents 4/4. An unearth Dregscape Zombie charged in and got a front-row seat for some nice devouring action featuring Thorn-Thrash Shaman.
+![](https://i.ormos.uk/56/eb/56ebaeab9330c3bb7e2ce7c5af7973c431ba492af6fa0233eda4c0e1138059de.jpg)
+
+Marijn played a Bloodpyre Elemental, who immediately killed his opponents 4/4. An unearth Dregscape Zombie charged in and got a front-row seat for some nice devouring action featuring Thorn-Thrash Shaman.
 
 The two teams stared each other down for a couple of turns, until Jolly broke the standstill with a Knight of the Skyward Eye, who was met with Hissing Iguanar. The Creeper took 2 to 14, and was followed by a Ridge Rannet. 
 
@@ -482,7 +484,9 @@ Once again, Kederekt Creeper struck yet again, though this time he was accompani
 
 **Marijn Lybaert 1 – Mathieu Jolly 0** 
 
-![](https://i.ormos.uk/f5/59/f559c0090308b313151315732e2217a643e47923aa5c141d7376ca4a1796cc15.jpg)Jolly kept his seven while Marijn laughed a little at his hand and chose to take a mulligan (though he sighted a lot when he peeked at his top card). 
+![](https://i.ormos.uk/f5/59/f559c0090308b313151315732e2217a643e47923aa5c141d7376ca4a1796cc15.jpg)
+
+Jolly kept his seven while Marijn laughed a little at his hand and chose to take a mulligan (though he sighted a lot when he peeked at his top card). 
 
 Dregscape Zombie was played and died pretty much directly thanks to Blister Beetle, which, the turn after, was followed by a Naya Battlemage. Marijn frowned and played an Incurable Ogre. Jolly attacked with the Beetle and curved out with an Obelisk of Naya into a Dregscape Zombie. The Ogre was allowed to attack, even though Jolly had a Naya Battlemage and a Plains untapped, and was blocked by the Zombie. Down again came Agony Warp, which took out both the Dregscape Zombie and the Battlemage. Quite the blow for Jolly, who only unearthed the Zombie, attacked and passed. 
 
@@ -499,7 +503,9 @@ Once Again, Skullmulcher came down, but this time it drew it’s owner 2 cards a
 
 With ten minutes left, the players started. The situation got wore for Jolly though, as he had to take a quick trip to Paris not twice, but thrice. 
 
-![](https://i.ormos.uk/01/1a/011a772df354f8227c1e50973decc8e0cb34a1154a8e886dee3232d03ade78aa.jpg)Both players led off with lands, and you could tell by the speed the players, drew, tapped, played and shuffled, it was obvious that the time was running out.
+![](https://i.ormos.uk/01/1a/011a772df354f8227c1e50973decc8e0cb34a1154a8e886dee3232d03ade78aa.jpg)
+
+Both players led off with lands, and you could tell by the speed the players, drew, tapped, played and shuffled, it was obvious that the time was running out.
 
 A Kederekt Creeper from Marijn was killed by a Resounding Thunder from his opponent, but Marijn rebuilt with Bloodpyre Elemental and a Blood Cultist, together with a Cloudheath Drake. The 8-power team was almost matched by a Rip-Clan Crasher, which was Agony Warp-ed to death. Marijn came in with the team, which took Jolly to 6, but Jolly was not going to let go, as he played a Dregscape Zombie and a Court Archers. Marijn killed both the blockers with 2 different killing spells, and the game was over.
 

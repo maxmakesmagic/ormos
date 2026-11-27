@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a959.jpg)Itaru Ishida is best recognized as the brains behind the Japanese Team Masters demolition crew known as Panzer Hunters. He's also widely considered among the top five Japanese pros. His opponent is amateur Takahiro Fukuchi, who's been ripping up the tournament. He's sitting pretty at 8-0-1.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a959.jpg)
+
+Itaru Ishida is best recognized as the brains behind the Japanese Team Masters demolition crew known as Panzer Hunters. He's also widely considered among the top five Japanese pros. His opponent is amateur Takahiro Fukuchi, who's been ripping up the tournament. He's sitting pretty at 8-0-1.
 
 Fukuchi won the die roll and started things going. It was soon crowded on the playing field. With just two plains apiece they had eleven creatures on the table. Fukuchi had all four of his [Spurnmage Advocate](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spurnmage+Advocate)s and [Tireless Tribe](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tireless+Tribe), while Ishida had a Tribe, a [Suntail Hawk](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Suntail+Hawk), an Advocate, a [Beloved Chaplain](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beloved+Chaplain) and two bird tokens from a pitched [Battle Screech](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+Screech).
 
@@ -61,7 +63,9 @@ That was enough to convince Fukuchi to hold back. Ishida's three fliers and two 
 
 Ishida 1 - Fukuchi 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a960.jpg)Fukuchi's all-action opening hand in Game 2 was tragically short on lands. His next was packed with three [Prismatic Strands](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prismatic+Strands). He had to keep.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a960.jpg)
+
+Fukuchi's all-action opening hand in Game 2 was tragically short on lands. His next was packed with three [Prismatic Strands](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prismatic+Strands). He had to keep.
 
 What followed was nothing short of brutality. Ishida started with Chaplain and then [Tireless Tribe](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tireless+Tribe) before firing off a pair of [Battle Screech](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+Screech)es for eight fliers. Fukuchi's Strands kept it from being a complete massacre. Ishida played a third [Battle Screech](https://web.archive.org/web/20020824000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+Screech), and why not?
 

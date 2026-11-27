@@ -44,7 +44,9 @@ archive_source:
   sha256: 3d629f3b370e7a84295bbeb2d0c7af0c77e20a82db35edebc93b08b766da5523
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/feat2_1.jpg)Scanning the team list reveals few surprises. German team, German team, French team, Dutch team, German team, New Zealand team, German team…
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/feat2_1.jpg)
+
+Scanning the team list reveals few surprises. German team, German team, French team, Dutch team, German team, New Zealand team, German team…
 
 Whoa, whoa right there!
 

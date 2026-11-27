@@ -479,7 +479,9 @@ render_recovery:
 ---
 ### Antonio Ennis vs. David Humpherys
 
-![](https://i.ormos.uk/53/c8/53c85841e54258b44de0f584ae5c970a3d12edb3f8548a9a0958961bb7b71ff5.jpg)Both players were clinging to Day Two life and facing elimination. Dave Humpherys needs little introduction. He is part of the founding trinity of the YMG team along with Darwin Kastle and Rob Dougherty. Dave was playing the YMG Oath deck.
+![](https://i.ormos.uk/53/c8/53c85841e54258b44de0f584ae5c970a3d12edb3f8548a9a0958961bb7b71ff5.jpg)
+
+Both players were clinging to Day Two life and facing elimination. Dave Humpherys needs little introduction. He is part of the founding trinity of the YMG team along with Darwin Kastle and Rob Dougherty. Dave was playing the YMG Oath deck.
 
 His opponent this round was introduced as 'Grand Prix Trial winner Antonio Ennis', which should give you an idea of the obscurity Antonio toils in. He is not be trifled with though. He could have easily won the PTQ on Thursday, instead electing to "sell" the slot for the prize money. And did the same last week at another PTQ. He also-as his introduction stated-won three byes in the earliest Trial yesterday. He was playing more or less the same Red Deck Wins that he had been proving aptly named all weekend.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 07f67c2b63016c35e1c4ad14c963bcf10beba9d966a0668f697bebbb8502f465
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a888.jpg)Reinhard Blech triumphed recently in Grand Prix Genova. His opponent, Dirk Baberowski, also from Germany, is no stranger to success with multiple Pro Tour titles under his belt.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a888.jpg)
+
+Reinhard Blech triumphed recently in Grand Prix Genova. His opponent, Dirk Baberowski, also from Germany, is no stranger to success with multiple Pro Tour titles under his belt.
 
 Baberowski threatened an affinity style start to the first game as his deck whipped out [Welding Jar](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Welding+Jar) and Aether Spellbomb on turn 1. He unfortunately didn't have any Enforcer to take advantage of it but it did allow him to comfortably [Irradiate](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Irradiate) Blech's third turn [Spikeshot Goblin](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin).
 
@@ -52,7 +54,9 @@ Baberowski bashed away with a [Neurok Spy](https://web.archive.org/web/200310260
 
 As fast as Blech could put the cards out Baberowski was sending them to the bin. A second [Spikeshot Goblin](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin) fell to an [Irradiate](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Irradiate) before Blech finally found a fourth land to bring out a [Vulshok Berserker](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulshok+Berserker) on defensive duties.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a889.jpg)That paused Baberowski as he brought out a [Lodestone Myr](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lodestone+Myr) and gave it a [Bonesplitter](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter) to play with. Blech found another land and brought out a Leadfoot Ogre. Together they brought down the Myr and the 'splitter was passed to the Spy.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a889.jpg)
+
+That paused Baberowski as he brought out a [Lodestone Myr](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lodestone+Myr) and gave it a [Bonesplitter](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter) to play with. Blech found another land and brought out a Leadfoot Ogre. Together they brought down the Myr and the 'splitter was passed to the Spy.
 
 Blech went down to 2, drew a card and then conceded the game.
 
@@ -64,7 +68,9 @@ The Spy got blasted by "Spikey" and the troublesome Gauntlets were passed to the
 
 "Spikey" shot the Golem and needed a breather to recharge as Blech summoned some Tel-Jihad Chosen. Exiles followed and held the Gauntlets for a while.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a890.jpg)Baberowski was struggling with some land and not a lot else. Spikey shot his last creature, the Soldier, and Baberowski drew and then conceded as he wasn't coming back into this game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a890.jpg)
+
+Baberowski was struggling with some land and not a lot else. Spikey shot his last creature, the Soldier, and Baberowski drew and then conceded as he wasn't coming back into this game.
 
 Baberowski 1-1 Blech
 

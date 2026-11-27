@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/95/ae/95ae9976083e146053cab388d45cb5421d3f664835c322cea6928ddba9898c11.jpg)During the investigation and after the announcement of his six-month suspension, Olivier Ruel received many emails about his situation. Now that the investigation has concluded, here are answers to several types of emails showing up frequently in his email box, serving as a conclusion to Olivier's run on this feature.
+![](https://i.ormos.uk/95/ae/95ae9976083e146053cab388d45cb5421d3f664835c322cea6928ddba9898c11.jpg)
+
+During the investigation and after the announcement of his six-month suspension, Olivier Ruel received many emails about his situation. Now that the investigation has concluded, here are answers to several types of emails showing up frequently in his email box, serving as a conclusion to Olivier's run on this feature.
 
 Wizards of the Coast has begun searching for a new writer for this feature.
 

@@ -102,7 +102,9 @@ So let's discuss land and how to use it in a casual deck.
 
 ### Step #1: Follow the Rules of Jay Moldenhauer-Salazar.
 
-![Jay Moldenhauer-Salazar](https://i.ormos.uk/65/36/6536fe062e4dc420095cfd48434beae31b6778f59ef990384d5f7b4e9b6c1b77.jpg)I have referred to it on multiple occasions, but I'll link to it again: [Five Rules For Avoiding Mana Screw](http://www.starcitygames.com/php/news/article/890.html) is your Bible, and you should follow it at all times. I would strongly advise you to click over and read it before you continue further, because I think Jay said what should be said so well that I don't feel comfortable regurgitating his knowledge. 
+![Jay Moldenhauer-Salazar](https://i.ormos.uk/65/36/6536fe062e4dc420095cfd48434beae31b6778f59ef990384d5f7b4e9b6c1b77.jpg)
+
+I have referred to it on multiple occasions, but I'll link to it again: [Five Rules For Avoiding Mana Screw](http://www.starcitygames.com/php/news/article/890.html) is your Bible, and you should follow it at all times. I would strongly advise you to click over and read it before you continue further, because I think Jay said what should be said so well that I don't feel comfortable regurgitating his knowledge. 
 
 Generally, for a casual multiplayer deck—one that wants to top off with some high-end threats like a six-mana Dragon or a seven-mana sorcery—you're going to want around 25 to 26 lands. You can go with more, but that risks choking your deck with too much mana.
 

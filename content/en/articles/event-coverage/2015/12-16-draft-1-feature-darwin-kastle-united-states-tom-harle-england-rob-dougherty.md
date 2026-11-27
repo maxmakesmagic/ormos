@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *by Pete Norris* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/137.jpg)The top draft pod for day 2 is without question one of the best draft pods ever seen, rivalling the ridiculous pod that was the focus of all the attention at worlds. The pod included Pro tour Veteran David Price, limited specialist John Ormerod and perhaps the most underrated limited player in the world Bram Snepvangers. Add into the mix 2 of the YMG big names and you have a pod that is worthy of a Worlds Top 8. The unknown element in the pod was Tom Harle, a respected up and coming UK player but not in the same league as the other players on the table. With the YMG team on both his left and his right, it looked like Tom would feel the brunt of their co-operation. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/137.jpg)
+
+The top draft pod for day 2 is without question one of the best draft pods ever seen, rivalling the ridiculous pod that was the focus of all the attention at worlds. The pod included Pro tour Veteran David Price, limited specialist John Ormerod and perhaps the most underrated limited player in the world Bram Snepvangers. Add into the mix 2 of the YMG big names and you have a pod that is worthy of a Worlds Top 8. The unknown element in the pod was Tom Harle, a respected up and coming UK player but not in the same league as the other players on the table. With the YMG team on both his left and his right, it looked like Tom would feel the brunt of their co-operation. 
 
 The Pod 
 

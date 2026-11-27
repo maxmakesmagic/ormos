@@ -53,7 +53,9 @@ archive_source:
   sha256: 677bb03e63e4ab12be042353baac30f9007dd687ae75eda01691be5555f4a450
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a942.jpg)The final round of the day and who should be playing on the top table but German powerhouse Kai Budde and fellow Godzilla team-mate Patrick Mello. They've played each other many times before including a marathon final at Grand Prix Lisbon earlier this year.
+![](http://www.wizards.com/sideboard/images/gpnap02/a942.jpg)
+
+The final round of the day and who should be playing on the top table but German powerhouse Kai Budde and fellow Godzilla team-mate Patrick Mello. They've played each other many times before including a marathon final at Grand Prix Lisbon earlier this year.
 
 Budde has a green-blue-red deck that doesn't look like much on paper but has a lot of synergy and an unfair share of madness tricks. Mello has a solid green-black deck.
 
@@ -73,7 +75,9 @@ Budde 1-0 Mello
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a941.jpg)Mello made Budde go first and he started quickly with Chatter giving him Squirrels on turns 1 and 2. Budde had taken a risk with an opening hand of just two Forests and although he missed a land on turn 3 he could still play a Rootwalla.
+![](http://www.wizards.com/sideboard/images/gpnap02/a941.jpg)
+
+Mello made Budde go first and he started quickly with Chatter giving him Squirrels on turns 1 and 2. Budde had taken a risk with an opening hand of just two Forests and although he missed a land on turn 3 he could still play a Rootwalla.
 
 Mello's Wild Mongrel ate the lizard when it came in to attack but Budde found a Forest and then an Island to bring in a Dreamwinder - Mello had played one of his two Islands the turn earlier - then an Aven Fisher, while Mello only added a Nantuko Calmer to his side.
 

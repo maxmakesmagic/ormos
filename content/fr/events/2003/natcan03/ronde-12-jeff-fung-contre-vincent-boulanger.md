@@ -82,7 +82,9 @@ render_recovery:
   - Logic
   occurrences: 41
 ---
-![](https://i.ormos.uk/b3/5a/b35a4e5e914744d6ff8d2ae01917521ead824a38c0bea158a00214937aa23ef7.jpg)Jeff et Vincent jouent pour une place dans le Top 8. Vincent est un joueur de Québec qui s'est qualifié au régionaux. Fung est un professionnel du Money Draft, et a un caractère hors de l'ordinaire. La conversation est amicale tout au long du match, on ne se rend presque pas contre de son importance.
+![](https://i.ormos.uk/b3/5a/b35a4e5e914744d6ff8d2ae01917521ead824a38c0bea158a00214937aa23ef7.jpg)
+
+Jeff et Vincent jouent pour une place dans le Top 8. Vincent est un joueur de Québec qui s'est qualifié au régionaux. Fung est un professionnel du Money Draft, et a un caractère hors de l'ordinaire. La conversation est amicale tout au long du match, on ne se rend presque pas contre de son importance.
 
 Vincent démontre toute suite qu'il est bleu vert, il joue un Aquamoeba qui rencontre le Smother de Jeff, qui joue mono-noir. Vincent essaye à nouveau avec Wild Mongrel. Jeff a un Innocent Blood, mais Vincent discarte un Roar of the Wurm qu'il flashera au tour suivant. Jeff pose son quatrième swamp et joue Diabolic Tutor cherchant un Smother. Le Wurm mange six points de vie à Fung, et il est rejoint par un Rootwalla. Un Cabal Coffers permet à Fung une Visera, Horreur de toutes les decks bleu vert, au tour 5. Vincent la retourne avec Unsummon et Jeff mange sept.
 
@@ -95,7 +97,9 @@ Entre les parties, Vincent demande que l'on mentionne la générosité de son pa
 
 Le Basking Rootwalla de Vincent est victime d'un Innocent Blood, mais il ce fait remplacer aussitôt. Jeff pose un Coffers comme troisième land, et manque son land-drop au tour 4. Vincent joue un Compost, carte désastreuse pour Jeff, qui tue le Rootwalla avec Smother en réponse. Sur son tour Fung met son quatrième land et joue Diabolic Tutor. Vincent pige une carte du Compost et met Rootwalla numéro trois. Fung met une swamp, joue un autre Tutor et Cabal Therapy, qui est contré. Vincent pige 2 cartes de Compost et joue Wild Mongrel.
 
-![](https://i.ormos.uk/61/57/615752449ad3bcb7d7c442824148fecb5aec4161754ef51873d891dbdf8c5748.jpg)Le Corrupt de Fung est Logicé, Vincent pige une autre carte de son Composte. Jeff se fait attaquer de 5, il tombe à 13 et Vincent dit «Go». Visara se fait viser par Unsummon et Jeff se met a chercher un 2 pour l'affiche de Feature Match. Vincent envoie encore ses troupes et rajoute un Phantom Centaur à la horde. Jeff annonce Haunting Echoes sur lui-même et Vincent ne répond pas. Jeff crie donc (en anglais) «TU NE COMPRENDS PAS ? JE CONCÈDE, T'AS GAGNÉ !!! » et lui offre sa main.
+![](https://i.ormos.uk/61/57/615752449ad3bcb7d7c442824148fecb5aec4161754ef51873d891dbdf8c5748.jpg)
+
+Le Corrupt de Fung est Logicé, Vincent pige une autre carte de son Composte. Jeff se fait attaquer de 5, il tombe à 13 et Vincent dit «Go». Visara se fait viser par Unsummon et Jeff se met a chercher un 2 pour l'affiche de Feature Match. Vincent envoie encore ses troupes et rajoute un Phantom Centaur à la horde. Jeff annonce Haunting Echoes sur lui-même et Vincent ne répond pas. Jeff crie donc (en anglais) «TU NE COMPRENDS PAS ? JE CONCÈDE, T'AS GAGNÉ !!! » et lui offre sa main.
 
 **Résultat Finale**  
  Vincent Boulanger sera partie du Top 8 de demain, il gagne 2-0 contre Jeff Fung.

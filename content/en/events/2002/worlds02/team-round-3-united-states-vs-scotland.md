@@ -252,7 +252,9 @@ render_recovery:
   - Thought Nibbler
   occurrences: 312
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a617.jpg)If history has taught us one thing, it is to never count out the United States team. Last year, the accomplished Trevor Blackwell came to Worlds with two unknown commodities in Eugene Harvey and Brian Hegstad. On day one they had a combined record of 6-12, headed by Blackwell's 0-6 record. After spectators and participants alike had counted out the Americans, they went on a 16-2 tear in draft on their way to Sunday and a surprising victory. 
+![](http://www.wizards.com/sideboard/images/worlds02/a617.jpg)
+
+If history has taught us one thing, it is to never count out the United States team. Last year, the accomplished Trevor Blackwell came to Worlds with two unknown commodities in Eugene Harvey and Brian Hegstad. On day one they had a combined record of 6-12, headed by Blackwell's 0-6 record. After spectators and participants alike had counted out the Americans, they went on a 16-2 tear in draft on their way to Sunday and a surprising victory. 
 
 This year was the exact same scenario, except this time Harvey was the accomplished player, and Eric Franz and Andrew Ranks both had zero Pro Tour points. Not many people expected the United States to win this year, especially with The Netherlands and Germany having two powerhouse teams. After an unimpressive start this week that seemed to prove those predictions right, the United States does still have a chance to make it to Sunday, but will need to win the next two matches and have some assistance with tiebreakers.
 
@@ -262,7 +264,9 @@ Ranks stopped a Barbarian Lunatic cold with Phantom Tiger, and Otarian Juggernau
 
 Franz started off with an impressive board of Militant Monk and Ember Beast, but Ross had the ever-annoying Shieldmage Advocate hanging around. It was joined by Possessed Nomad, then Battlewise Aven and Benevolent Bodyguard to make the concept of coming through for damage very foreign to Franz. Balshan Griffin added more offense in the sky, and a second Advocate made things even worse. With a draw of eleven land and five spells, Franz was ill-equipped to deal with Ross' draw and lost. 
 
-![](http://www.wizards.com/sideboard/images/worlds02/a618.jpg)Penman's Frightcrawler and Basking Rootwalla were doing a bad job of holding off Harvey's Possessed Centaur and Aquamoeba with Ghostly Wings. Execute did deal with Harvey's Hallowed Healer, and Acorn Harvest provided a little more to work with. Harvey Spelljacked a Boneyard Slasher, and eventually cast it when Aquamoeba got him to threshold. That flying team was good enough to give Harvey the first game. 
+![](http://www.wizards.com/sideboard/images/worlds02/a618.jpg)
+
+Penman's Frightcrawler and Basking Rootwalla were doing a bad job of holding off Harvey's Possessed Centaur and Aquamoeba with Ghostly Wings. Execute did deal with Harvey's Hallowed Healer, and Acorn Harvest provided a little more to work with. Harvey Spelljacked a Boneyard Slasher, and eventually cast it when Aquamoeba got him to threshold. That flying team was good enough to give Harvey the first game. 
 
 The second game was a bit rougher for Ranks, due to Campbell using Faceless Butcher to take out Phantom Tiger. However, he did have Treacherous Vampire again, Campbell's Frenetic Ogre attacked, and Ranks cast Waste Away before blockers on the Butcher to get back his Tiger. It blocked and killed the Ogre, and suddenly the American had Treacherous Vampire and a 2/1 Tiger to the Scotsman's Barbarian Outcast. The Tiger traded with the Outcast, and Morgue Theft brought it right back as a 3/2, while Campbell had no creatures in play. He did have a Goretusk Firebeast and a Mad Dog, but it wasn't nearly enough. Ranks played Sickening Dreams and used Organ Grinder in response, and attacked for the win to put the United States up one match.
 
@@ -272,7 +276,9 @@ The second game between Ross and Franz was completely different, as Ross got stu
 
 Harvey summoned Cephalid Looter, and now had a real threat that would eventually give him the answers to break through for damage. Penman seemed to have the answer in Narcissism, but Harvey Spelljacked it. Stealing the powerful enchantment proved to be enough to take the game once an unblocked Possessed Centaur became bigger with Sudden Strength. This gave the United States the win, and a win next round will put them in contention for Top 2. 
 
-![](https://i.ormos.uk/22/f2/22f2052e954485469555d6f8db4f2ebb0fbca79945ad38cc2e21d5b970dc0ae2.jpg)The last game between Ross and Franz saw Ross build up an impressive board with Aven Windreader, Phantom Nomad, Possessed Nomad and Border Patrol. Franz only had Phantom Flock, and a Vigilant Sentry that had been enchanted with Stupefying Touch. Benevolent Bodyguard gave Ross the insurance he needed, and he attacked with everyone but a 1/1 Nomad. Anarchist and Vigilant Sentry blocked Possessed Nomad, and Phantom Flock blocked Aven Windreader and became bigger thanks to Guided Strike. The Bodyguard saved the Windreader before first strike damage. Franz played Book Burning for the second time in the game, and Ross responded by activating the Windreader, which revealed...Shower of Coals.
+![](https://i.ormos.uk/22/f2/22f2052e954485469555d6f8db4f2ebb0fbca79945ad38cc2e21d5b970dc0ae2.jpg)
+
+The last game between Ross and Franz saw Ross build up an impressive board with Aven Windreader, Phantom Nomad, Possessed Nomad and Border Patrol. Franz only had Phantom Flock, and a Vigilant Sentry that had been enchanted with Stupefying Touch. Benevolent Bodyguard gave Ross the insurance he needed, and he attacked with everyone but a 1/1 Nomad. Anarchist and Vigilant Sentry blocked Possessed Nomad, and Phantom Flock blocked Aven Windreader and became bigger thanks to Guided Strike. The Bodyguard saved the Windreader before first strike damage. Franz played Book Burning for the second time in the game, and Ross responded by activating the Windreader, which revealed...Shower of Coals.
 
 Ross- "Book Burning can resolve!"
 

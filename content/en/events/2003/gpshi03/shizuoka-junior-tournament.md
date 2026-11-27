@@ -1021,7 +1021,9 @@ render_recovery:
   - Stifle
   occurrences: 1
 ---
-![](https://i.ormos.uk/70/d6/70d6bd70b09cc5851cfb69a7e1a227eb17b00ad406d781549fc64c2ac44ee1b2.jpg)Since the inception of the Japan Junior Tournament program last year, the number of events held monthly around the country has been steadily growing. The program has gained enough popularity that Junior Tournaments are frequently held as side events at other events, as was the case this weekend at Grand Prix Shizuoka. 26 players signed up to battle through 5 rounds of Swiss for a chance at the Top 8, prizes, and glory. 
+![](https://i.ormos.uk/70/d6/70d6bd70b09cc5851cfb69a7e1a227eb17b00ad406d781549fc64c2ac44ee1b2.jpg)
+
+Since the inception of the Japan Junior Tournament program last year, the number of events held monthly around the country has been steadily growing. The program has gained enough popularity that Junior Tournaments are frequently held as side events at other events, as was the case this weekend at Grand Prix Shizuoka. 26 players signed up to battle through 5 rounds of Swiss for a chance at the Top 8, prizes, and glory. 
 
 A good portion of the field was some flavor of control, with lots of Slide decks, Affinity decks, and more traditional UW control builds. This trend was reflected in the Top 8, with 6 of the 8 players running some kind of control deck. (The other two were more straightforward—mono-color Zombies and Goblins.)
 

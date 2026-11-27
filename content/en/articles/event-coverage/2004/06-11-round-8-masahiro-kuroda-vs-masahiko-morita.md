@@ -44,7 +44,9 @@ archive_source:
   sha256: 385baa8809a1162507fe159295ef09cd834470fa896956ea3b1dc6b7bafc9599
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm13_1.jpg)For years, Japanese players had found many appearances in Pro Tour top 8s, but had failed to bring the big trophy home. Masahiro Kuroda changed all that. As the first Japanese Pro Tour winner, a lot is expected of him today. His performance so far has been excellent. But his fortunes turned foul as he faced his fellow Team PS2 partner, Masahiko Morita, himself one of Japan's long time greats. Neither player was happy to face his teammate this early in the tournament.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm13_1.jpg)
+
+For years, Japanese players had found many appearances in Pro Tour top 8s, but had failed to bring the big trophy home. Masahiro Kuroda changed all that. As the first Japanese Pro Tour winner, a lot is expected of him today. His performance so far has been excellent. But his fortunes turned foul as he faced his fellow Team PS2 partner, Masahiko Morita, himself one of Japan's long time greats. Neither player was happy to face his teammate this early in the tournament.
 
 ### Game 1
 

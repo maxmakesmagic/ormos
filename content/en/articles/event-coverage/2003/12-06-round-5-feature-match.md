@@ -44,7 +44,9 @@ archive_source:
   sha256: 250f080ac864f067dd50778c179d901c15f701d9d706b71defb61de882fbfc3e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm5_1.jpg)You would have a hard time finding a better example of two drastically different styles of European Magic. Tuomo is the typical Nordic player, quiet and focused, hardly ever showing his emotions. Well, that's a lie. He once got a bit annoyed during a three-hour long Masters match against Ben Rubin.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm5_1.jpg)
+
+You would have a hard time finding a better example of two drastically different styles of European Magic. Tuomo is the typical Nordic player, quiet and focused, hardly ever showing his emotions. Well, that's a lie. He once got a bit annoyed during a three-hour long Masters match against Ben Rubin.
 
 Accross the table sits the Italian, Dario. He's certainly a good example of the typical Latin player. During the matches he smiles, complains, pounds his deck, swears... well, he doesn't make any effort to hide his emotions.
 

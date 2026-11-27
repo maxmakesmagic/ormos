@@ -61,7 +61,9 @@ Ceci dit, si le 5-5-4-4 lui reussit admirablement, les bases de mana plus conven
 
 Il a recemment perdu 40 kilos mais il est toujours aussi fort en gueule, ce diable de Ranko. Ceci dit, Guillaume, son adversaire de la ronde 3 ne tombe pas dans le piege de l'intimidation dresse par le ranko. Pourtant, il lui fait tout, du "tutututu, ca marche pas comme ca", sans compter une pleiade de vannes bidon dont le ranko est coutumier. Mais puisque ca ne semle pas suffir, le Ranko, decidemment au meilleur de sa forme decide de faire, comme on dit dans le milieu "la pute". Guillaume pose une main sur ses terrains, pour detaper, puis dit fin de tour je te mets un. Mais la encore, wilfried tututute son adversaire "c'est un peu tard"
 
-![](https://www.wizards.com/sideboard/images/gplyo03/969.jpg)Le probleme, c'est que ca non plus ca ne suffit pas. Il faut dire que le guillaume a un deck plutot pas mal. Ses premiers sorts dans l'ordre "spikeshot, deconstruct, gob replica, warhammer, uktabi, une sorte de cauchemar pour Will, qui rejouit quand meme l'assemblee avec une nouvelle blague dont il a le secret. Apres avoir remonte le marteau de guuillaume au dessus de son deck, via un looming hoverguard, il lui lance, "t'as topdecke?" sacre Ranko
+![](https://www.wizards.com/sideboard/images/gplyo03/969.jpg)
+
+Le probleme, c'est que ca non plus ca ne suffit pas. Il faut dire que le guillaume a un deck plutot pas mal. Ses premiers sorts dans l'ordre "spikeshot, deconstruct, gob replica, warhammer, uktabi, une sorte de cauchemar pour Will, qui rejouit quand meme l'assemblee avec une nouvelle blague dont il a le secret. Apres avoir remonte le marteau de guuillaume au dessus de son deck, via un looming hoverguard, il lui lance, "t'as topdecke?" sacre Ranko
 
 Il ne reste alors plus a Will qu'une option, le beat down. Mais faire la course avec un copperhook vorrak enchante par un marteau releve de l'utopie. Une derniere carte un tout petit peu fumee, mirror golem etouffe les dernieres veleites beligerantes de Wilfried.
 
@@ -73,7 +75,9 @@ Jauneau 1-0 Ranko
 
 Guillaume Jauneau prend de l'assurance alors qu'il est de plus en plus pres d'un exploit exceptionnel. A Will qui lui fait remarquer que faute de temps il sera peut etre dur de mener trois parties a terme, il repond" on aura peut etre pas besoin de faire la trois."
 
-![](https://www.wizards.com/sideboard/images/gplyo03/970.jpg)Farid Meraghni, qui a deja finit son feature match aura ce peitt commentaire au sujet de Guillaume: " c'est une vraie crepe suzette ce gars". La dite crepe suzette continue sur sa lancee, avec certes un peu moins de tres bonnes cartes mais tout de meme auelaues tres, tres bonnes cartes, telles uktabi, spikeshot mais aussi triskelion. Ceci dit, le ranko reussi une bien meilleure sortie, controlant le sol avec clockwork vorracet les airs avec ue skyhunterpatrole surequipee, il peut a un momeny donne entrevoir la victoire.
+![](https://www.wizards.com/sideboard/images/gplyo03/970.jpg)
+
+Farid Meraghni, qui a deja finit son feature match aura ce peitt commentaire au sujet de Guillaume: " c'est une vraie crepe suzette ce gars". La dite crepe suzette continue sur sa lancee, avec certes un peu moins de tres bonnes cartes mais tout de meme auelaues tres, tres bonnes cartes, telles uktabi, spikeshot mais aussi triskelion. Ceci dit, le ranko reussi une bien meilleure sortie, controlant le sol avec clockwork vorracet les airs avec ue skyhunterpatrole surequipee, il peut a un momeny donne entrevoir la victoire.
 
 Le meilleur moment de cette partie restera certainement le moment ou Wilfried casta One dozen eyes choisissant de faire un jeton 5/5.
 

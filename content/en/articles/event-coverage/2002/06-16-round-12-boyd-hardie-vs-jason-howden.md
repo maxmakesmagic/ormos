@@ -44,13 +44,17 @@ archive_source:
   sha256: 94269f43be89e8a480e3a74ae3830b677a33c5cbe5571584c4d3ea354f893d9e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a910.jpg)Boyd Hardie came into Nationals with his eyes on the prize, but his outgoing personality kept his attitude light through the first day of play. Not so today. The boisterous bar-hopping behavior of yesterday has been replaced with grim determination. There are no ribald anecdotes, no jokes about his plus-size wardrobe. There is only this match, and then the Top 8. His opponent, Jason Howden, seems dressed with the express purpose of forcing out a chuckle, what with his jaunty chapeau and "Canadian National Drinking Team T-Shirt". However, he's no less thirsty for the win.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a910.jpg)
+
+Boyd Hardie came into Nationals with his eyes on the prize, but his outgoing personality kept his attitude light through the first day of play. Not so today. The boisterous bar-hopping behavior of yesterday has been replaced with grim determination. There are no ribald anecdotes, no jokes about his plus-size wardrobe. There is only this match, and then the Top 8. His opponent, Jason Howden, seems dressed with the express purpose of forcing out a chuckle, what with his jaunty chapeau and "Canadian National Drinking Team T-Shirt". However, he's no less thirsty for the win.
 
 Hardie started with Anurid Barkripper and Phantom Nomad, trading damage with Howden's Nantuko Tracer. He threatened to move even with Stern Judge, but Hardie put the kibosh on that with Nantuko Calmer. Howden had nothing further on his fourth turn, and passed it back.
 
 Hardie swung in with Calmer and Nomad. Howden doubled up. Hardie showed him Spirit Flare. Howden's mood darkened. He thought, but had no response. Hardie targetted the Judge. Prismatic Strands for green made the save. Howden counterattacked for four and made a Vigilant Sentry. Hardy returned the favor and made a Militant Monk.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a909.jpg)Hardie turned his men sideways, keeping the Monk out of harms way. The Sentry and Judge hit the Calmer, and the Tracer stepped up to the Barkripper. Spirit Flare let the Monk shoot the Sentry. Howden used a Flare of his own to make sure the Calmer died. He reused it to try and kill the Barkripper. Hardie played Sylvan Might. Flashed back Prismatic Strands against green kept Howden alive.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a909.jpg)
+
+Hardie turned his men sideways, keeping the Monk out of harms way. The Sentry and Judge hit the Calmer, and the Tracer stepped up to the Barkripper. Spirit Flare let the Monk shoot the Sentry. Howden used a Flare of his own to make sure the Calmer died. He reused it to try and kill the Barkripper. Hardie played Sylvan Might. Flashed back Prismatic Strands against green kept Howden alive.
 
 On his turn he had no play. Hardie attacked with all his men. Howden played Elephant Ambush and blocked as best he could, but he had nothing to stand in the way of Sylvan Might out of the graveyard.
 
@@ -60,7 +64,9 @@ The silver flames on Hardie's hundred-dollar shirt reflected the fire in his eye
 
 "Pretty proud of that, aren't you?" - Jason Howden
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a908.jpg)It was flashed back and the beatings began. Hallowed Healer showed up in time to watch Hardie forget to play Mirari's Wake before attacking. His ebullience at his opponent's manascrew was clouding his *Judgment*.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a908.jpg)
+
+It was flashed back and the beatings began. Hallowed Healer showed up in time to watch Hardie forget to play Mirari's Wake before attacking. His ebullience at his opponent's manascrew was clouding his *Judgment*.
 
 It just didn't matter at all. Sudden Strenght foiled an attempted double-block, and then Hardie dumped a pair of Calmers on the table. Howden just shook his head and scooped up his cards.
 

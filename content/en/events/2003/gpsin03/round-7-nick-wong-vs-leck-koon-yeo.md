@@ -75,7 +75,9 @@ render_recovery:
   - Spined Basher
   occurrences: 18
 ---
-![](http://www.wizards.com/sideboard/images/gpsin03/a968.jpg)Going into round 7 these two players were sporting 4-2 records, staring down the barrel of elimination. But there's nothing like the threat of a day 2 ptq to get the juices flowing and the deck pumping. On the bright side at least the two players hail from Singapore so its not like they spent a thousand dollars just to take a back seat on the action tomorrow!
+![](http://www.wizards.com/sideboard/images/gpsin03/a968.jpg)
+
+Going into round 7 these two players were sporting 4-2 records, staring down the barrel of elimination. But there's nothing like the threat of a day 2 ptq to get the juices flowing and the deck pumping. On the bright side at least the two players hail from Singapore so its not like they spent a thousand dollars just to take a back seat on the action tomorrow!
 
 ### Game 1
 
@@ -83,7 +85,9 @@ Yeo went first in this clutch match but it was Wong who had the first plays play
 
 Even at this early stage Wong looked to be in trouble and started to dump his hand, dropping a morph and his Timberwatch Elf. Yeo pressed his attack dropping a Crown of Suspicion on the Zombie to get through 5 damage, and coupled with the provoke ability of the Vorine he killed off the Elf before it was going to cause any problems. Wong thought for a while and studied the board, wondering just how he was going to deal with this now huge zombie that was eating away at his life total. He passed the turn back and began to brace himself for the attack, only to spring to life as soon as the Zombie entered the red zone. He flipped up Skin Thinner, picking off the Vorine and then pushed it in front of the Zombie. In response Yeo Cruel Revived the Mauler but things looked like they were going to turn around for Wong. 
 
-![](http://www.wizards.com/sideboard/images/gpsin03/a969.jpg)He summoned an Anurid Murkdiver and passed the turn back to Yeo. After cycling a Tranquil Thicket Yeo dropped down a morph and a Berserk Murlodont and when Wong decided to sit the Murkdiver at home on his next turn it traded with the Murlodont. Yeo continued to play creatures dropping down a Totem Speaker and a Fallen Cleric but a Corpse Harvester and a Swat from Wong looked to put the game back on almost level terms. Any thoughts of a comeback were blown right out of the water when Oversold Cemetery hit the table.
+![](http://www.wizards.com/sideboard/images/gpsin03/a969.jpg)
+
+He summoned an Anurid Murkdiver and passed the turn back to Yeo. After cycling a Tranquil Thicket Yeo dropped down a morph and a Berserk Murlodont and when Wong decided to sit the Murkdiver at home on his next turn it traded with the Murlodont. Yeo continued to play creatures dropping down a Totem Speaker and a Fallen Cleric but a Corpse Harvester and a Swat from Wong looked to put the game back on almost level terms. Any thoughts of a comeback were blown right out of the water when Oversold Cemetery hit the table.
 
 Wong was forced to chump block creature after creature but he was fighting a losing battle, no matter what he drew he couldn't possibly keep up with the draw phases of Yeo combined with the ability of Oversold Cemetery to get cards back.
 

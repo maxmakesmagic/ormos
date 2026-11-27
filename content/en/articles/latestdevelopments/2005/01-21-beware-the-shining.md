@@ -154,7 +154,9 @@ Paul and I weren't the only two that liked the more powerful version better, and
 
 ### Fishy, Fishy, Fishy, Fish
 
-![](https://i.ormos.uk/67/cd/67cd5bd2ab0d97a4c49796a7a21be32d31302e74b86816c9c790c8ab9800595b.jpg)“What's up with the fish in the art?” you ask? Brady Dommermuth and Jeremy Cranford, the creative minds behind the look and feel of Kamigawa, gave the card artists lots of freedom to depict the spirit world however they saw fit. To paraphrase some of Brady's instructions to the artists, “I don't care what it looks like, just make it weird.” When Jim Murray's illustrations for the *Champions* cards Teller of Tales and Eerie Procession came back showing twisted floating fish, Jeremy and Brady loved them--those paintings captured exactly what the creative team was looking for.
+![](https://i.ormos.uk/67/cd/67cd5bd2ab0d97a4c49796a7a21be32d31302e74b86816c9c790c8ab9800595b.jpg)
+
+“What's up with the fish in the art?” you ask? Brady Dommermuth and Jeremy Cranford, the creative minds behind the look and feel of Kamigawa, gave the card artists lots of freedom to depict the spirit world however they saw fit. To paraphrase some of Brady's instructions to the artists, “I don't care what it looks like, just make it weird.” When Jim Murray's illustrations for the *Champions* cards Teller of Tales and Eerie Procession came back showing twisted floating fish, Jeremy and Brady loved them--those paintings captured exactly what the creative team was looking for.
 
 The fish were such a hit here in R&D that Brady wanted to find somewhere else to incorporate them. The cycle of X-pitch spells presented an interesting opportunity. What if the fish weren't creatures, but rather the manifestation of a certain type of spell? While the more commonly known definition for the word “shoal” is “sandbar,” it also means “a school of fish”:
 

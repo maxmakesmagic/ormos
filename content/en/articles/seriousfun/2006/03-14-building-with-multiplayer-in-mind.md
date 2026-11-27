@@ -521,7 +521,9 @@ So here is what I learned during the years I played multiplayer. There isn't muc
 
 ### Don't Hurt Him, Help You
 
-![](https://i.ormos.uk/13/0e/130e3c06f2c99906512fb5b6e7ceccddd4caefb9e2fc332adc4985f85de5c151.jpg)It may seem obvious to you, but I've seen a lot of multiplayer decks that clearly don't understand this principle. In a duel, killing a creature is a fine thing to do with a card. I lost a card and you lost a card. In multiplayer **Magic**, that's a terrible idea. I lose a card and you lose a card, which leaves those other guys over there with more cards than we have. Sometimes you have to kill things, but it is best to keep this to a minimum. Even in those cases, it is best to do this with global effects: If you have to kill things, kill a lot of things. 
+![](https://i.ormos.uk/13/0e/130e3c06f2c99906512fb5b6e7ceccddd4caefb9e2fc332adc4985f85de5c151.jpg)
+
+It may seem obvious to you, but I've seen a lot of multiplayer decks that clearly don't understand this principle. In a duel, killing a creature is a fine thing to do with a card. I lost a card and you lost a card. In multiplayer **Magic**, that's a terrible idea. I lose a card and you lose a card, which leaves those other guys over there with more cards than we have. Sometimes you have to kill things, but it is best to keep this to a minimum. Even in those cases, it is best to do this with global effects: If you have to kill things, kill a lot of things. 
 
 Helping yourself, on the other hand, is even better than it would be in a duel. When you draw an extra card, you have an extra card on each of your opponents. Build yourself up at every chance. The best part of this plan in most groups I've seen is that it is also great for your diplomatic relations. People hate it when you go after their cards and life, but giving yourself more of either is far less troubling. If they were smart enough to realize that this is a grave threat to their prospects, why aren't they doing the same thing? Fools! (Ok, maybe Anthony's whole condescending thing doesn't come easily to me.)
 
@@ -541,7 +543,9 @@ When you're playing tournament **Magic** and someone plays Howling Mine or Heart
 
 ### To Infinity… and Beyond!
 
-![](https://i.ormos.uk/31/fc/31fc514e5f0b2ce2637b68c4e888be4c2ce8112d0a06952ae501ff802a3f1db0.jpg)The ultimate in helping yourself is going infinite. When you do this, you don't care how many people come after you – you've got them all beat. Infinite combinations are not created equal. One issue that doesn't come up as much anymore is what happens once the engine is in play. The bare bones ones will kill everyone in range (which in many formats is everyone) at sorcery speed. The solid ones will do that at instant speed at any time they want, and they'll do it with lots of backup. The difference is only important when players come into range of each other during the game, which means they're the same as long as the group is reasonably small (depending on what kind of format you're playing of course). As long as you can kill everyone at once, any infinite combo will do the trick. Then all you have to do is find a weapon you can reliably deploy. (Politics? Combo decks? Hey, nobody said I was Anthony!)
+![](https://i.ormos.uk/31/fc/31fc514e5f0b2ce2637b68c4e888be4c2ce8112d0a06952ae501ff802a3f1db0.jpg)
+
+The ultimate in helping yourself is going infinite. When you do this, you don't care how many people come after you – you've got them all beat. Infinite combinations are not created equal. One issue that doesn't come up as much anymore is what happens once the engine is in play. The bare bones ones will kill everyone in range (which in many formats is everyone) at sorcery speed. The solid ones will do that at instant speed at any time they want, and they'll do it with lots of backup. The difference is only important when players come into range of each other during the game, which means they're the same as long as the group is reasonably small (depending on what kind of format you're playing of course). As long as you can kill everyone at once, any infinite combo will do the trick. Then all you have to do is find a weapon you can reliably deploy. (Politics? Combo decks? Hey, nobody said I was Anthony!)
 
 ### Choosing Your Weapon
 

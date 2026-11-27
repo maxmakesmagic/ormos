@@ -45,7 +45,9 @@ archive_source:
   sha256: cbc9a6741ffc2db6f2a1ec012e33ece6e9c119af7369485b8f3763235965590e
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/nec02/a001.jpg)A brainchild of TJ Collectibles owner Tom Shea, the second annual New England Challenge is a series of tournaments modeled on the Pro Tour, or the NG/YMG Grudge Match. A total of ten stores from across New England participate, each holding a number of qualifier tournaments. Each tournament is played in Standard format, and costs $7 to enter. 
+![](http://www.wizards.com/sideboard/images/nec02/a001.jpg)
+
+A brainchild of TJ Collectibles owner Tom Shea, the second annual New England Challenge is a series of tournaments modeled on the Pro Tour, or the NG/YMG Grudge Match. A total of ten stores from across New England participate, each holding a number of qualifier tournaments. Each tournament is played in Standard format, and costs $7 to enter. 
 
 The winner of each of the qualifier events, as well as the most active player from each store are invited to compete at the New England Challenge Finals – the coverage of which you are now reading. Although there are no prizes for individual qualifiers, each of the 64 invited players get to compete for a prize pool of well over $2500 in cash, with prizes extending down to 40th place and the winner walking away with $1000.
 

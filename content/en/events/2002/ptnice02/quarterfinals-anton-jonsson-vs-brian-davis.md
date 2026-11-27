@@ -104,7 +104,9 @@ Brian Davis' career began at Pro Tour-Chicago 1999. He made finals in his very f
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a731.jpg)Jonsson won the coin flip, choosing to play first. Both players kept slow hands in the opening bout of the match, resulting with no creatures being played until Davis's third turn. Davis summoned Militant Monk, only to lose it immediately to Engulfing Flames. Although Jonsson was not casting any creatures, he was easily able to keep up with Davis as he used Chainer's Edict to take out the Petravark on the following turn.
+![](http://www.wizards.com/sideboard/images/ptnice02/a731.jpg)
+
+Jonsson won the coin flip, choosing to play first. Both players kept slow hands in the opening bout of the match, resulting with no creatures being played until Davis's third turn. Davis summoned Militant Monk, only to lose it immediately to Engulfing Flames. Although Jonsson was not casting any creatures, he was easily able to keep up with Davis as he used Chainer's Edict to take out the Petravark on the following turn.
 
 First blood was finally drawn when Davis used Firebolt to destroy the Zombie Assassin that Jonsson tapped out to summon, attacked with the Chainflinger and added more pressure by summoning an Ember Beast. It may have looked as though Jonsson was in a bit of trouble for a moment, but he actually had things firmly under control. Jonsson used Ghastly Demise to kill Chainflinger, and then summoned Gravedigger, returning the Assassin back to his hand. Main phase Demise was cast because Davis was tapped out, and Jonsson did not want to chance it being countered with Shelter.
 
@@ -137,7 +139,9 @@ Jonsson never got to cast another spell that game. Davis attacked again, activat
 
 ### Game 4
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a714.jpg)Unlike the previous game, Jonsson got a perfect opening hand. He summoned Barbarian Outcast and then cast Volcanic Spray to take out a Visionary. He was sitting on more creature removal but did not have the attackers, as Davis used Firebolt to take out the Outcast. He finally drew Morgue Theft to reanimate the Outcast. Davis got stuck on four mana holding a number of expensive cards in hand, but was able to summon Pardic Arsonist. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a714.jpg)
+
+Unlike the previous game, Jonsson got a perfect opening hand. He summoned Barbarian Outcast and then cast Volcanic Spray to take out a Visionary. He was sitting on more creature removal but did not have the attackers, as Davis used Firebolt to take out the Outcast. He finally drew Morgue Theft to reanimate the Outcast. Davis got stuck on four mana holding a number of expensive cards in hand, but was able to summon Pardic Arsonist. 
 
 As Davis cast Hypochondria a turn before, Jonsson used the opportunity to cast his direct damage spells out of the graveyard while Davis was tapped out. He recast both Volcanic Spray and Firebolt out of the graveyard, taking advantage of the seven lands he drew. Those lands would also come in handy to recast Chainer's Edict Jonsson used to take out Aven Flock. 
 

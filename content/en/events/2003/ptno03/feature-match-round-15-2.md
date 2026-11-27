@@ -295,7 +295,9 @@ render_recovery:
 ---
 * * *
 
-![Feature Match: Oiso vs. Walls](http://www.wizards.com/sideboard/images/ptno03/841.jpg "Feature Match: Oiso vs. Walls")Both players need a win here, and a win next round to make Top 8. If Walls pulls it off, it will be his third Top 8 in a major individual event in a row- he did it at U.S. Nationals, then at Worlds.
+![Feature Match: Oiso vs. Walls](http://www.wizards.com/sideboard/images/ptno03/841.jpg "Feature Match: Oiso vs. Walls")
+
+Both players need a win here, and a win next round to make Top 8. If Walls pulls it off, it will be his third Top 8 in a major individual event in a row- he did it at U.S. Nationals, then at Worlds.
 
 ### Game 1
 
@@ -303,7 +305,9 @@ Oiso played Metalworker on turn two, and Walls played Oath of Druids. Metalworke
 
 Walls- "This format is *so* good!"
 
-![Ooiso Ports](http://www.wizards.com/sideboard/images/ptno03/843.jpg "Ooiso Ports")With all that mana to work with, Oiso played a Dynamo and a Monolith, then summoned a Masticore to kill itself off along with the Metalworker, ensuring that the Oath would not trigger. Walls played a Chrome Mox, but missed his third land drop. On the following turn he played Isochron Scepter imprinted with Counterspell, but Oiso's two Rishadan Ports kept it from being a problem. Eventually Walls found a third land, and played a second Scepter set to Fire/Ice. Soon he had it running as an Icy Manipulator, drawing a card with each activation. The game slowed down drastically, as Oiso couldn't do much with Walls' two Scepters active. At this point, the Scepter started to shoot Oiso for two damage a turn. Eventually, he activated his Mindslaver, as Walls turned to Mark Rosewater and stared him down.
+![Ooiso Ports](http://www.wizards.com/sideboard/images/ptno03/843.jpg "Ooiso Ports")
+
+With all that mana to work with, Oiso played a Dynamo and a Monolith, then summoned a Masticore to kill itself off along with the Metalworker, ensuring that the Oath would not trigger. Walls played a Chrome Mox, but missed his third land drop. On the following turn he played Isochron Scepter imprinted with Counterspell, but Oiso's two Rishadan Ports kept it from being a problem. Eventually Walls found a third land, and played a second Scepter set to Fire/Ice. Soon he had it running as an Icy Manipulator, drawing a card with each activation. The game slowed down drastically, as Oiso couldn't do much with Walls' two Scepters active. At this point, the Scepter started to shoot Oiso for two damage a turn. Eventually, he activated his Mindslaver, as Walls turned to Mark Rosewater and stared him down.
 
 Walls- "This card is so stupid. Why?!"
 
@@ -317,7 +321,9 @@ Oiso 0 - Walls 1
 
 ### Game 2
 
-![Gabe Walls prepares to hitchhike home](http://www.wizards.com/sideboard/images/ptno03/842.jpg "Gabe Walls prepares to hitchhike home")Walls played Treetop Village, and Oiso had Grim Monolith. Tangle Wire came out a turn later, along with Metalworker. This led to Voltaic Key and a Dynamo, but Oiso had no threat to take advantage of Walls being tapped out. Walls used Cunning Wish to search out Shattering Pulse, and on the next turn Oiso used Tinker to get Planar Portal. He had enough mana left to activate it, and searched up Welding Jar, which came right into play. Walls took his turn, and played Isochron's Scepter, putting Shattering Pulse under it. Oiso used the Portal to get Tinker, which found Mindslaver. Once it was activated, Walls conceded.
+![Gabe Walls prepares to hitchhike home](http://www.wizards.com/sideboard/images/ptno03/842.jpg "Gabe Walls prepares to hitchhike home")
+
+Walls played Treetop Village, and Oiso had Grim Monolith. Tangle Wire came out a turn later, along with Metalworker. This led to Voltaic Key and a Dynamo, but Oiso had no threat to take advantage of Walls being tapped out. Walls used Cunning Wish to search out Shattering Pulse, and on the next turn Oiso used Tinker to get Planar Portal. He had enough mana left to activate it, and searched up Welding Jar, which came right into play. Walls took his turn, and played Isochron's Scepter, putting Shattering Pulse under it. Oiso used the Portal to get Tinker, which found Mindslaver. Once it was activated, Walls conceded.
 
 Oiso 1 - Walls 1
 

@@ -1486,11 +1486,17 @@ Many, many players, among them lots of pros, took part in both of those contests
 
 To give you a brief glimpse of the madness going on in this insane draft, in which every player has 15 rares in his draft pile, here are some pictures:
 
-![](https://i.ormos.uk/1a/e0/1ae0311d2d009d3b9aaab797e9d451f93ce14c1d7aef69ab66b63ac978afad79.jpg)Yes, this deck includes three [Howling Mine](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Howling+Mine)s, two Seismic Assault, Furnace of Rath, [Manabarbs](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Manabarbs), Soulblast, and *three* Kamahl, Pit Fighter!
+![](https://i.ormos.uk/1a/e0/1ae0311d2d009d3b9aaab797e9d451f93ce14c1d7aef69ab66b63ac978afad79.jpg)
 
-![](https://i.ormos.uk/0a/02/0a0248827d94c1eb003116487057dc50a4589ebda1633fbae861a8e6bc547fbb.jpg)One Avatar of Might and two Molimo, Maro Sorcerer! When was the last time, your draft deck included so much fat?
+Yes, this deck includes three [Howling Mine](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Howling+Mine)s, two Seismic Assault, Furnace of Rath, [Manabarbs](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Manabarbs), Soulblast, and *three* Kamahl, Pit Fighter!
 
-![](https://i.ormos.uk/8a/47/8a47e60805550cc7aca5a39894acb3adf8f7b005d0c23e5fb04c3df008931268.jpg)Something you really don’t want to see on the opposing side of the table: two of each, [Plague Wind](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Wind), [Mortivore](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortivore), and [Phage the Untouchable](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phage+the+Untouchable).
+![](https://i.ormos.uk/0a/02/0a0248827d94c1eb003116487057dc50a4589ebda1633fbae861a8e6bc547fbb.jpg)
+
+One Avatar of Might and two Molimo, Maro Sorcerer! When was the last time, your draft deck included so much fat?
+
+![](https://i.ormos.uk/8a/47/8a47e60805550cc7aca5a39894acb3adf8f7b005d0c23e5fb04c3df008931268.jpg)
+
+Something you really don’t want to see on the opposing side of the table: two of each, [Plague Wind](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Wind), [Mortivore](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortivore), and [Phage the Untouchable](https://web.archive.org/web/20220527055906/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phage+the+Untouchable).
 
 ## Standard Decklists - 6-2 and Better
 

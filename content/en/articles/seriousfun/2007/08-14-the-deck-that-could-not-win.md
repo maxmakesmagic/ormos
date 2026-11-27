@@ -401,7 +401,9 @@ render_recovery:
 
 Magic articles are almost always written about wonderful decks. By the time someone gets around to writing about Their Amazing Deck, they're doing it because they're pretty sure it's a good one. 
 
-![Dismal_Failure](https://i.ormos.uk/08/4a/084a179ca0a13a54926165f2a00537e546ea83b8de94f83ae7f4cc5d8d43782c.jpg)It makes sense. Nobody likes writing about failure. It's painful to discuss why every assumption you made was flat-out wrong. So unless you're developing a deck for the purposes of the article (like Mister [Ben Bleiweiss](https://web.archive.org/web/20080516110318/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=BuildingOnABudget)), you only hear about a deck once it's been proven to be *actually good*. 
+![Dismal_Failure](https://i.ormos.uk/08/4a/084a179ca0a13a54926165f2a00537e546ea83b8de94f83ae7f4cc5d8d43782c.jpg)
+
+It makes sense. Nobody likes writing about failure. It's painful to discuss why every assumption you made was flat-out wrong. So unless you're developing a deck for the purposes of the article (like Mister [Ben Bleiweiss](https://web.archive.org/web/20080516110318/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=BuildingOnABudget)), you only hear about a deck once it's been proven to be *actually good*. 
 
 And that's a shame, since we can often learn more from a deck's failure than we can from its success. Discussing how a deck collapsed underneath you can help you to understand what pitfalls you must avoid in the future. I have decks that work, but it's time to look at a deck that didn't. 
 
@@ -455,7 +457,9 @@ Why?
 
 ### 1\. Lack of Synergy
 
-![](https://i.ormos.uk/bc/10/bc103cb30342b4468948658962c3038a182153bbaef96a89924404a13da79bba.jpg)I've said before that my deck design is lacking in synergy, and here it is for all to see—I'm playing Akroma's Vengeance *and* Ghostly Prison *and* Last Laugh. That means that if I draw one of my marquee spells, I have a good chance at killing my enchantment-based defense against anyone who recovers. Can you tell this is a kitchen sink deck, made of whatever I had about the house? 
+![](https://i.ormos.uk/bc/10/bc103cb30342b4468948658962c3038a182153bbaef96a89924404a13da79bba.jpg)
+
+I've said before that my deck design is lacking in synergy, and here it is for all to see—I'm playing Akroma's Vengeance *and* Ghostly Prison *and* Last Laugh. That means that if I draw one of my marquee spells, I have a good chance at killing my enchantment-based defense against anyone who recovers. Can you tell this is a kitchen sink deck, made of whatever I had about the house? 
 
 You *can*? Oh bother. 
 
@@ -473,7 +477,9 @@ Likewise, this is white and black, so there's little excuse for me not to have s
 
 ### 2) Lack of Focus
 
-![Chameleon_Blur](https://i.ormos.uk/b8/84/b884307255559db2de3a80a0df5546b28089cd81afc188abef0576c295b9b004.jpg)Sixty-four cards means, "I didn't know what to cut." But as the deck designer, it's your job to *make* those cuts for the sake of efficiency. Realistically, this should have been a sixty-card deck with twenty-four lands, but I didn't have the heart to trim it. 
+![Chameleon_Blur](https://i.ormos.uk/b8/84/b884307255559db2de3a80a0df5546b28089cd81afc188abef0576c295b9b004.jpg)
+
+Sixty-four cards means, "I didn't know what to cut." But as the deck designer, it's your job to *make* those cuts for the sake of efficiency. Realistically, this should have been a sixty-card deck with twenty-four lands, but I didn't have the heart to trim it. 
 
 But if I had trimmed it, I would have said, "You know, maybe the Last Laughs don't need to be there." Which they don't. I have no life gain outside of Death Grasp[\*](#footnote1) and am likely to endure some early beatings once everyone realizes that I'm going to take their guys away, so the chances of me surviving my own Laugh are reasonably slim. 
 
@@ -527,7 +533,9 @@ Let your good decks win.
 
 ### A Gratuitous, but Rather Cool, Plug
 
-![Grand_Melee](https://i.ormos.uk/ad/b5/adb53e080a787f7d93069e438e60d67ca93403fea7786a760a2e845233ec13d1.jpg)GenCon is, hands down, my favorite convention in the *whole world*. Where else can I play my favorite D&D world, Planescape? Where else can I get my fill of Call of Cthulhu roleplaying? And where else can I find **Magic** tourneys on command, so close to a hotel room that I enjoy? 
+![Grand_Melee](https://i.ormos.uk/ad/b5/adb53e080a787f7d93069e438e60d67ca93403fea7786a760a2e845233ec13d1.jpg)
+
+GenCon is, hands down, my favorite convention in the *whole world*. Where else can I play my favorite D&D world, Planescape? Where else can I get my fill of Call of Cthulhu roleplaying? And where else can I find **Magic** tourneys on command, so close to a hotel room that I enjoy? 
 
 Alas, due to travel restrictions, I cannot attend GenCon this year... but if you can, there's a tournament that sounds pretty awesome coming right up: it's Grand Melee. That's right, everyone who shows up at the tournament plays *each other*. 
 

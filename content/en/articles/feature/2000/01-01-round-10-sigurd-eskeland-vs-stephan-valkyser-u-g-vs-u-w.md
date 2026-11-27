@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/finkeltron.jpg)2000 Pro Tour New York Winner Sigurd Eskeland and German PT veteran Stephan Valkyser faced each other in the first round of the second draft. The two of them had drafted next to each other, Stephan feeding Sigurd during the first and the third pack. Stephan had picked white and blue, and he had several strong cards like Ramosian Sky Marshall, Stronghold Zeppelin and several rebels. Sigurd had also chosen blue as Stephan had passed him an early Drake Hatchling, but naturally the blue had somewhat dried up for him and he had started wandering into other colors before eventually settling for green when he opened up a Blastoderm.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/finkeltron.jpg)
+
+2000 Pro Tour New York Winner Sigurd Eskeland and German PT veteran Stephan Valkyser faced each other in the first round of the second draft. The two of them had drafted next to each other, Stephan feeding Sigurd during the first and the third pack. Stephan had picked white and blue, and he had several strong cards like Ramosian Sky Marshall, Stronghold Zeppelin and several rebels. Sigurd had also chosen blue as Stephan had passed him an early Drake Hatchling, but naturally the blue had somewhat dried up for him and he had started wandering into other colors before eventually settling for green when he opened up a Blastoderm.
 
 "I'm gonna get revenge for 1940," Sigurd joked as he sat down, referring to the German invasion of Norway during World War 2. The tone at the table was really friendly, though, and the match turned out to be really entertaining.
 

@@ -101,7 +101,9 @@ The cycle's design name? The “All-Ins.” Yes, poker terminology has invaded R
 
 > *Search your library for an enchantment card and put it into play. Then shuffle your library.*
 
-![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/features/af76_enduringideal.jpg)Although the current ability on this card was not the first one that the design team came up with, it was the one handed off. And it was the one that underwent the least changes of all of them between design and seeing print. Even its mana cost remained the same.
+![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/features/af76_enduringideal.jpg)
+
+Although the current ability on this card was not the first one that the design team came up with, it was the one handed off. And it was the one that underwent the least changes of all of them between design and seeing print. Even its mana cost remained the same.
 
 I love the way this card is set up. Putting cards from your library into play for free is always exciting (as fans of the cards [Tinker](https://web.archive.org/web/20050722000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) and [Natural Order](https://web.archive.org/web/20050722000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Natural+Order) will attest), but the beauty of the card is that using it to win the game requires some imagination. If you got to put a creature into play every turn, winning wouldn't be that tough. Sorcery every turn for free? Piece of cake. But enchantments? It requires some effort, but the payoff is lots of fun.
 
@@ -142,7 +144,9 @@ Mons made a deck that used all manner of mana acceleration to power this thing o
 
 ### Neverending Torment
 
-![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/features/af76_neverendingtorment.jpg)The black epic was a tough nut to crack, and went through several designs. Here are a few the design team tossed around:
+![](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/features/af76_neverendingtorment.jpg)
+
+The black epic was a tough nut to crack, and went through several designs. Here are a few the design team tossed around:
 
 > *Name two cards. Search through target player's deck, graveyard, and hand for all copies of these cards and remove them from the game. That player loses 1 life for each card removed from the game this way.*
 > 

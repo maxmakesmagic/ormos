@@ -216,13 +216,17 @@ Strange how his is the only butt left unburned.
 
 Pro Tour-Chicago has come and gone and Kai once again reigns supreme. The new Sunday streak is up to 5-0, and, this time, he had to run as tough a gauntlet as ever, surviving the toughest draft table ever assembled on Saturday before toppling Jensen, Finkel and Herzog in succession to claim the title. Oh yeah, and the big check.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/647.jpg)Ironically, Kai’s eventual victory likely can be attributed to the man he most wanted to avoid, Bram Snepvengers. The Dutchman, responsible for Kai’s lone Top 8 loss in Nice, had Kai openly cheering against him, as the German feared his unusual draft tendencies and what they could do, were the German seated beside him. Bram won his final round match against Bill Stead, placing himself to Kai’s right in the final draft, but worried about his first-round-opponent Herzog’s deck, he drafted the unconventional green-white in the hopes of extending his survival to the semis. This left the door open for Budde, who drafted a power-packed black-red deck with Rotlung Reanimator, Cabal Archon, multiple Phyrexian Husks, Sparksmith and more. Together, deck and player paraded to victory.
+![](http://www.wizards.com/sideboard/images/ptchi03/647.jpg)
+
+Ironically, Kai’s eventual victory likely can be attributed to the man he most wanted to avoid, Bram Snepvengers. The Dutchman, responsible for Kai’s lone Top 8 loss in Nice, had Kai openly cheering against him, as the German feared his unusual draft tendencies and what they could do, were the German seated beside him. Bram won his final round match against Bill Stead, placing himself to Kai’s right in the final draft, but worried about his first-round-opponent Herzog’s deck, he drafted the unconventional green-white in the hopes of extending his survival to the semis. This left the door open for Budde, who drafted a power-packed black-red deck with Rotlung Reanimator, Cabal Archon, multiple Phyrexian Husks, Sparksmith and more. Together, deck and player paraded to victory.
 
 Enough about Kai though. *The Sideboard* told you he won days ago and it’s old news. Here’s a closer look at my thoughts on the weekend:
 
 ### The Biggest Match of All
 
-![](http://www.wizards.com/sideboard/images/ptchi03/655.jpg)With no offense to Nico intended, the biggest match of the tournament took place in the semis, and I’m not talking Herzog vs. Stern. Ever since his win at 1998 PT-NY, Jon Finkel‘s name is the only one aside from that of present king Budde to be mentioned in the ‘best of them all’ debates. The dethroned monarch, who’d fallen on hard times, in danger of falling off the gravy train and out of the **Magic** world for ever, earned himself one more shot at the brass ring in Chicago, defeating Fabio Reinhardt in the quarterfinals to earn himself a date with the German Juggernaut.
+![](http://www.wizards.com/sideboard/images/ptchi03/655.jpg)
+
+With no offense to Nico intended, the biggest match of the tournament took place in the semis, and I’m not talking Herzog vs. Stern. Ever since his win at 1998 PT-NY, Jon Finkel‘s name is the only one aside from that of present king Budde to be mentioned in the ‘best of them all’ debates. The dethroned monarch, who’d fallen on hard times, in danger of falling off the gravy train and out of the **Magic** world for ever, earned himself one more shot at the brass ring in Chicago, defeating Fabio Reinhardt in the quarterfinals to earn himself a date with the German Juggernaut.
 
 The match was a solid one, with Finkel’s final-game mana flood putting to rest any debate between the two, but the stark contrast between the competitors was apparent in their demeanor. Kai was chatty; Jon was silent. Randy Buehler’s insightful assertion that Kai would want to win a hard-fought match while Jon would likely be perfectly happy with the mana screw victory painted very clearly the differences between the two men.
 
@@ -254,7 +258,9 @@ Woe is Gab Tsang. Sitting in seat three, his draft had started well, with Wirewo
 
 ### A New Day
 
-![](http://www.wizards.com/sideboard/images/ptchi03/card_bloodmoon.jpg)In an unanticipated move, Wizards of the Coast announced this weekend that *Eighth Edition* would come with a redesign, one that has been met with a lot of negative response. For those of you who are complaining, I have one thing to say: get over yourselves.
+![](http://www.wizards.com/sideboard/images/ptchi03/card_bloodmoon.jpg)
+
+In an unanticipated move, Wizards of the Coast announced this weekend that *Eighth Edition* would come with a redesign, one that has been met with a lot of negative response. For those of you who are complaining, I have one thing to say: get over yourselves.
 
 **Magic** is a game, not a series of pictures and just because the pictures change, there’s no indication the game will follow. Graveyards, life totals, hand sizes and the like aren’t going away, and those of you who are complaining are experiencing fear of the unknown. There is comfort in that which we know, and I understand that this is something different, but with the popularity of **Magic Online**, the game is starting to reach players it never had before and this redesign only goes to inspire them to play more. Stop thinking with your hearts and look at things with your minds for a moment: a more aesthetic redesign can only lead to a wider acceptance of this game. How exactly is that a bad thing? I’m guessing those of you who insist on maintaining your diligent complaints after this reality check are the same ones who argued Apprentice was better than **Magic Online**. 
 

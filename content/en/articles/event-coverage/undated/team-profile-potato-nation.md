@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Kim Eikefet*
 
-![](https://i.ormos.uk/87/24/87249a6790c559d74fdae98b3530e2db85aa6222e22b44649a1525391645ae7f.jpg)Four rounds into the 2000 Team Pro Tour New York, Potato Nation found themselves fourth on the standings with ten points out of twelve possible. And heading towards day two, Gary Wise (27), Scott Johns (27) and Michael Turian (21) were in a good mood. "Our goal is to make top 4 and see from there. I think that is realistic. I'll be disappointed if we finish outside the Top 8," Gary Wise admits.
+![](https://i.ormos.uk/87/24/87249a6790c559d74fdae98b3530e2db85aa6222e22b44649a1525391645ae7f.jpg)
+
+Four rounds into the 2000 Team Pro Tour New York, Potato Nation found themselves fourth on the standings with ten points out of twelve possible. And heading towards day two, Gary Wise (27), Scott Johns (27) and Michael Turian (21) were in a good mood. "Our goal is to make top 4 and see from there. I think that is realistic. I'll be disappointed if we finish outside the Top 8," Gary Wise admits.
 
 Potato Nation was formed basically for the Team Pro Tour. However, they started up early so that they could play in two Grand Prix events together. "Mike and I have been friends since Mainz. I told him about Overrun and he told me about Harrow. Together we played three-colour Overrun decks, they were really good," Wise says. "Since then, we've both been among the few consistently good players who likes to draft green and three-colour decks. So we decided we wanted to play together."
 

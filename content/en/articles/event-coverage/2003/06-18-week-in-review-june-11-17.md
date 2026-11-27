@@ -318,7 +318,9 @@ I was not playing a joke on the Polish people, as one irate emailer suggested, I
 
 Sorry guys, hopefully I'll get the kinks worked out this week.
 
-![](http://www.wizards.com/sideboard/images/gpnj02/858.jpg)**Of Note** \* Gary Talim and Phil Freneau have dropped Brian Davis as their third for the Pro Tour and are opting instead for Kyle Rose. Rose is up for grabs since his usual team, The GP-New Jersey winning Jokas, currently lack the Pro Tour points necessary to qualify for PT-Boston. On a sadder note, Kyle Rose, former U.S. National Champion, will not be trying to repeat his performance at this year's Nationals. He is not attending.
+![](http://www.wizards.com/sideboard/images/gpnj02/858.jpg)
+
+**Of Note** \* Gary Talim and Phil Freneau have dropped Brian Davis as their third for the Pro Tour and are opting instead for Kyle Rose. Rose is up for grabs since his usual team, The GP-New Jersey winning Jokas, currently lack the Pro Tour points necessary to qualify for PT-Boston. On a sadder note, Kyle Rose, former U.S. National Champion, will not be trying to repeat his performance at this year's Nationals. He is not attending.
 
 \* Due to popular demand, I will in fact be writing my "16 Magic Pros Talk about Their Families" piece. If you have ten or more pro points this season and would like to be included in this, please contact me. \*Rachel Reynolds, girlfriend of Pro Tour-New York winner Mike Turian, qualified with her team, Mr. Nice Guy Games along with Ron Kotwicka and Chris Fennell, this weekend for Pro Tour-Boston! Active within the **Magic** community, and renowned for her gamesmanship and integrity, her qualification is noteworthy. Nice going.
 

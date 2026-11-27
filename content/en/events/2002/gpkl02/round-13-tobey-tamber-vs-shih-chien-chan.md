@@ -103,7 +103,9 @@ render_recovery:
   - Blazing Salvo
   occurrences: 90
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a942.jpg)Grand Prix - Kaohsiung Champion Tobey Tamber's deck is B/G with Chainer and Roar of the Wurm. Shih Chien's deck is a top-heavy R/G with 18 land, featuring copious amounts of burn and Chainflinger. The winner of this match will get to fight it out for the big bucks in the Top 8.
+![](http://www.wizards.com/sideboard/images/gpkl02/a942.jpg)
+
+Grand Prix - Kaohsiung Champion Tobey Tamber's deck is B/G with Chainer and Roar of the Wurm. Shih Chien's deck is a top-heavy R/G with 18 land, featuring copious amounts of burn and Chainflinger. The winner of this match will get to fight it out for the big bucks in the Top 8.
 
 ### Game 1
 
@@ -118,7 +120,9 @@ Sideboarding: Tamber: -1 Chainer -1 Sandstone Deadfall +2 Innocent Blood
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a943.jpg)Chan started with Skyshooter on turn two and Krosan Constrictor on turn four. Combined, they played havoc with Tamber's life total and he was brought down to 12 before he stabilized with Nantuko Calmer, Nantuko Disciple and Innocent Blood. The advantage still remained with Chan however as these were the only spells he had for about five turns - apparently Chan's mana flood was contagious.
+![](http://www.wizards.com/sideboard/images/gpkl02/a943.jpg)
+
+Chan started with Skyshooter on turn two and Krosan Constrictor on turn four. Combined, they played havoc with Tamber's life total and he was brought down to 12 before he stabilized with Nantuko Calmer, Nantuko Disciple and Innocent Blood. The advantage still remained with Chan however as these were the only spells he had for about five turns - apparently Chan's mana flood was contagious.
 
 Chan, meanwhile, had business spells and used Flame Burst to burn the Disciple and cast Limestone Golem, which socked Tobey in the face once, and then on the next turn made Centaur Veteran. He cleverly used Magma Vein to gain Threshold and played Demoralize, attacking Tamber down to three. Tobey found blockers, but Fledgling Imps and Werebears don't stop Scorching Missile.
 
@@ -126,7 +130,9 @@ Tamber 1 Chan 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a944.jpg)Tobey Tamber's attentive sideboarding was key in this game. He used the two Innocent Bloods in his opening hand to dispose of Shih Chien's Wild Mongrel and Seton's Scout. He followed up the second Blood with Mesmeric Fiend, hoping to further blunt Chan's attempts at being the aggressor. He chose to remove Magma Vein over Elephant Ambush. Knowing Chan's hand, on his next turn he enchanted the Fiend with Shade's Form. An elephant token came into play on Chan's side and started the beatdown. Tamber took the damage and played Werebear and Diligent Farmhand. He send the Fiend in and pumped it with all the Black mana he had, which was growing by the turn.
+![](http://www.wizards.com/sideboard/images/gpkl02/a944.jpg)
+
+Tobey Tamber's attentive sideboarding was key in this game. He used the two Innocent Bloods in his opening hand to dispose of Shih Chien's Wild Mongrel and Seton's Scout. He followed up the second Blood with Mesmeric Fiend, hoping to further blunt Chan's attempts at being the aggressor. He chose to remove Magma Vein over Elephant Ambush. Knowing Chan's hand, on his next turn he enchanted the Fiend with Shade's Form. An elephant token came into play on Chan's side and started the beatdown. Tamber took the damage and played Werebear and Diligent Farmhand. He send the Fiend in and pumped it with all the Black mana he had, which was growing by the turn.
 
 The Farmhand held the Elephant off for a turn and went to look for more Swamps. It was pretty clear after Tamber attacked for the third time with the Fiend that the he was winning the race. Shih Chien's hand was not useful. He held Demoralize and land. Scorching Missile was used to try and even out the race but the deity of Mana Flood mananged a hat-trick. The Elephant gave its life to save its master for one more turn, but Chan could not deliver.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 83dc6c1e6e9167924ef167568ecd4795ad9867d6b8d66553df950e9c5bea03b9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a950.jpg)Hiroki Hayashi is a known commodity in Japan. He won the first High School Championships, a testament to his constructed prowess. His opponent is Kiyotomo Kageyama of Osaka, delighted to find himself within striking distance of the Top 8. Both sit at 9-3, needing to win out to have a shot.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a950.jpg)
+
+Hiroki Hayashi is a known commodity in Japan. He won the first High School Championships, a testament to his constructed prowess. His opponent is Kiyotomo Kageyama of Osaka, delighted to find himself within striking distance of the Top 8. Both sit at 9-3, needing to win out to have a shot.
 
 Kageyama started strong with Spurnmage Advocate and Patrol Hound. Hayashi answered with Nantuko Shade. Kageyama charged in regardless. Island let him have Quiet Speculation, which fetched two Deep Analyses and Prismatic Strands. Suntail Hawk joined his squad.
 
@@ -54,7 +56,9 @@ Kageyama brought him to ten, but knew things were dicey. Diabolic Tutor got Haya
 
 Hayashi 1 - Kageyama 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a948.jpg)Both players kept two-land draws for Game 2, but Kageyama had the benefit of a pitched Deep Analysis. It turned up nothing, while Hayashi Blooded away his Tireless Tribe and played Nantuko Shade.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a948.jpg)
+
+Both players kept two-land draws for Game 2, but Kageyama had the benefit of a pitched Deep Analysis. It turned up nothing, while Hayashi Blooded away his Tireless Tribe and played Nantuko Shade.
 
 All Kageyama could manage was a Suntail Hawk. Hayashi hit for two and played Diabolic Tutor. He got himself Cabal Coffers. Kageyama made a Tireless Tribe. Hayashi smashed, and forced two pitches with his Shade. They were both Standstills. He added a second Shade.
 

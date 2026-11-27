@@ -2151,7 +2151,9 @@ Une [Duress](https://web.archive.org/web/20170721043352/http://gatherer.wizards.
 
 Manche 4 :
 
-![](https://i.ormos.uk/7f/1e/7f1ed180a6d5bd60f33fa920ac263025b21f353e0dc54359a6adc6218f15f2f9.jpg)Les deux joueurs posent sur le champ de bataille un [Bitterblossom](https://web.archive.org/web/20170721043352/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom), mais Guillaume en pose rapidement un second, lui donnant un avantage qu’il appuie avec [Peppersmoke](https://web.archive.org/web/20170721043352/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peppersmoke).
+![](https://i.ormos.uk/7f/1e/7f1ed180a6d5bd60f33fa920ac263025b21f353e0dc54359a6adc6218f15f2f9.jpg)
+
+Les deux joueurs posent sur le champ de bataille un [Bitterblossom](https://web.archive.org/web/20170721043352/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom), mais Guillaume en pose rapidement un second, lui donnant un avantage qu’il appuie avec [Peppersmoke](https://web.archive.org/web/20170721043352/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peppersmoke).
 
 Les combats s’enchaînent, puis Louis Deltour prends une belle minute de réflexion, et présente un jeton à GM en disant « je bloque ». Son adversaire et le public éclatent alors de rire : on était alors dans sa seconde main phase, pas du tout pendant une attaque de son adversaire. Il tente alors de se rattraper en disant « euh, j’attaque ! », alors qu’il l’avait déjà fait.
 

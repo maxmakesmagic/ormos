@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a934.jpg)Having not met for a year in tournament play these two brothers played yesterday in the first round of the masters and were now meeting a second day in a row. In addition to this Olivier had been feeding Antoine during the draft.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a934.jpg)
+
+Having not met for a year in tournament play these two brothers played yesterday in the first round of the masters and were now meeting a second day in a row. In addition to this Olivier had been feeding Antoine during the draft.
 
 ### Game 1
 
@@ -61,7 +63,9 @@ The Healer managed to single handedly hold off two [Dirty Wererat](https://web.a
 
 Olivier won game 1.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a932.jpg)All the way through this match the brothers bantered in French jokingly – both not really minding who won.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a932.jpg)
+
+All the way through this match the brothers bantered in French jokingly – both not really minding who won.
 
 ### Game 2
 
@@ -72,7 +76,9 @@ So after some very quick play from both sides the board looked as follows:
 Antoine: [Childhood Horror](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Childhood+Horror) (threshold), [Rotting Giant](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rotting+Giant).  
  Olivier: 2 [Hallowed Healer](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Healer)s, [Dreamwinder](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder), Looter.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a933.jpg)Wham! [Gloomdrifter](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gloomdrifter) came into play from Antoine's side destroying all but his opponents [Dreamwinder](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder) and suddenly Olivier was in a dire position. Two turns later the fliers managed to swing over to bring the match level.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a933.jpg)
+
+Wham! [Gloomdrifter](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gloomdrifter) came into play from Antoine's side destroying all but his opponents [Dreamwinder](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder) and suddenly Olivier was in a dire position. Two turns later the fliers managed to swing over to bring the match level.
 
 ### Game 3
 

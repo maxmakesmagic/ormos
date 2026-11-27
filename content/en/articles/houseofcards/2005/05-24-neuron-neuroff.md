@@ -511,7 +511,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/f9/4f/f94f9dccf756e17af41dc82c9b08f057b149b43d5b5be10a5163df80faa1d4dc.jpg)There is no need to panic. Please clear your mind of thoughts. We will think for you.
+![](https://i.ormos.uk/f9/4f/f94f9dccf756e17af41dc82c9b08f057b149b43d5b5be10a5163df80faa1d4dc.jpg)
+
+There is no need to panic. Please clear your mind of thoughts. We will think for you.
 
 Thinking has been scientifically linked to elevated levels of stress, high blood pressure, and spontaneous combustion. Please don't take unnecessary risks. We have only your best interests at heart.
 
@@ -543,7 +545,9 @@ And that's why I like writing a column that promotes creativity. (And working at
 
 ### Warning! Fun Overload
 
-[![](https://i.ormos.uk/78/b8/78b8ee7dd282cd02d726196a2f668e84a10b300e1b12b256ba1449646867baab.jpg)](/en/articles/feature/2005/05-23-saviors-of-kamigawa-sortable-spoiler-3)Welcome, welcome *Saviors of Kamigawa*. This is a Johnny-centered set, so I'm jazzed about playing with all my new toys. There's one patently anti-Johnny card in the set (Pithing Needle), but with the new flippers, the epic spells, the Wildebeest cycle, the versatility of channel, the hand-size tricks, the Onnas, the Kirin, and all the goofy one-ofs scattered throughout, it is definitely time for some fun.
+[![](https://i.ormos.uk/78/b8/78b8ee7dd282cd02d726196a2f668e84a10b300e1b12b256ba1449646867baab.jpg)](/en/articles/feature/2005/05-23-saviors-of-kamigawa-sortable-spoiler-3)
+
+Welcome, welcome *Saviors of Kamigawa*. This is a Johnny-centered set, so I'm jazzed about playing with all my new toys. There's one patently anti-Johnny card in the set (Pithing Needle), but with the new flippers, the epic spells, the Wildebeest cycle, the versatility of channel, the hand-size tricks, the Onnas, the Kirin, and all the goofy one-ofs scattered throughout, it is definitely time for some fun.
 
 For no reason whatsoever, I'm going to kick things off with some of the Onnas. These are Spirits that each have a comes-into-play ability and a spiritcraft self-bounce ability. Haru-Onna is the green one; you draw a card when it comes into play and you can return it to your hand when you play a Spirit or Arcane spell. I recommend doing this after Haru-Onna blocks or when it's about to be destroyed, but bouncing it back when you just want more cards is a fine plan as well. Kiri-Onna is the blue one; it bounces a creature when it comes into play. It's not Capsize, but it's a repeatable bounce effect that can also attack for 2.
 
@@ -569,7 +573,9 @@ The entire deck creates creatures to sacrifice, helps you sacrifice them, takes 
 
 ### You Can't Hide Your Lion Eyes
 
-![](https://i.ormos.uk/81/e9/81e9ef922db81504b8d7db20be492505baaa4bd8ac1c2473a737b41755a10664.jpg)Today's final deck is actually a pre-*Saviors* holdover. I've been sitting on it for weeks now because I knew what was coming. Mike Pape came up with a fantastic cross-block combo: Azami, Lady of Scrolls and Leonin Battlemage. First reaction: Huh? Second reaction: Azami lets you tap a Wizard to draw a card, Leonin Battlemage untaps every time you play a spell, *Leonin Battlemage is a Wizard*. Whoa.
+![](https://i.ormos.uk/81/e9/81e9ef922db81504b8d7db20be492505baaa4bd8ac1c2473a737b41755a10664.jpg)
+
+Today's final deck is actually a pre-*Saviors* holdover. I've been sitting on it for weeks now because I knew what was coming. Mike Pape came up with a fantastic cross-block combo: Azami, Lady of Scrolls and Leonin Battlemage. First reaction: Huh? Second reaction: Azami lets you tap a Wizard to draw a card, Leonin Battlemage untaps every time you play a spell, *Leonin Battlemage is a Wizard*. Whoa.
 
 This is going to draw you some cards. Those two creatures alone give you two bonus cards a turn, plus an extra card for each spell you play. Mike's deck also included Wizard Replicas (they counter spells, they block 2/2 creatures, they fly in for damage, and they tap to draw cards with Azami around), 0-mana spells like Ornithopter and Paradise Mantle (which you can equip to Leonin Battlemage to generate mana each time you play a spell), and control elements like Boomerangs and counterspells. Mike also included Empyrial Plate as the primary victory condition; they're good on either the little flying creatures or on the Battlemage since it plays both offense and defense.
 

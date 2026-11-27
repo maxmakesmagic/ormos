@@ -133,7 +133,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a842.jpg)　Andreaが《入念な研究/Careful Study(OD)》で《綿密な分析/Deep Analysis(TO)》と《ワームの咆哮/Roar of the Wurm(OD)》を捨てると、Eugeneは《強迫的な捜索/Obsessive Search(TO)》。
+![](http://www.wizards.com/sideboard/images/ptosa02/a842.jpg)
+
+　Andreaが《入念な研究/Careful Study(OD)》で《綿密な分析/Deep Analysis(TO)》と《ワームの咆哮/Roar of the Wurm(OD)》を捨てると、Eugeneは《強迫的な捜索/Obsessive Search(TO)》。
 
 　まずは礼儀的な手札調整からゲームは始まる。
 
@@ -141,7 +143,9 @@ render_recovery:
 
 　《チェイナーの布告/Chainer's Edict(TO)》によって物あさりは墓地へ。いったい、今日この会場には何枚の布告があるのだろうかというぐらい良くみかけるシーンではある。
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a843.jpg)　Andrea が再び研究を使用し、《尊大なワーム/Arrogant Wurm(TO)》をマッドネスるとこれが再び手札からのチェイナーによって死亡。この間もこつこつとサイカトグが攻撃を行い、先の綿密コストと含めて Andrea のライフは 15へと。
+![](http://www.wizards.com/sideboard/images/ptosa02/a843.jpg)
+
+　Andrea が再び研究を使用し、《尊大なワーム/Arrogant Wurm(TO)》をマッドネスるとこれが再び手札からのチェイナーによって死亡。この間もこつこつとサイカトグが攻撃を行い、先の綿密コストと含めて Andrea のライフは 15へと。
 
 　更に Eugene のデッキは抜群の対処能力を見せつける。
 

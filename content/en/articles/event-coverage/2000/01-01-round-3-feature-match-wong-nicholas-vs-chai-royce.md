@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/987.jpg)Feature Match のアナウンスがあった途端、会場中から凄まじい歓声があがった。ご当地の英雄同士の決戦、いわゆる Hometown Heroes Match-up というヤツであった。APAC におけるトップ8入賞で知られる Royce Chai と、数少ないプロツアーレギュラーである「アヒルちゃん」こと Nick Wong という"This is the Feature Match"。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/987.jpg)
+
+Feature Match のアナウンスがあった途端、会場中から凄まじい歓声があがった。ご当地の英雄同士の決戦、いわゆる Hometown Heroes Match-up というヤツであった。APAC におけるトップ8入賞で知られる Royce Chai と、数少ないプロツアーレギュラーである「アヒルちゃん」こと Nick Wong という"This is the Feature Match"。
 
 ・・・ダイスロールの結果だけでどよめきが起こったほどである。
 
@@ -59,7 +61,9 @@ render_recovery:
 
 Nick は石田格が神戸で披露したような、いわゆる赤青白"Ben Seck"デッキであり、Royce は開幕 2 ターン目に [Gaea's Skyfolk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaea%27s+Skyfolk) を召喚したことで"B.B.B."を選択したのだということを物語った。Nick は [Urza's Rage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage) でこの Bear を除去するも、一枚しかない青マナを Ice によってタップアウトさせられてしまってからの [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) 連打という脅威にさらされたのだった。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/985.jpg)"B.B.B."のストラテジーは"Bear"という低マナ域のクロックから"Bouce"につなぎ、"Burn"によってゲームをサポートしていくわけである。"Bear"とはまさしく Skyfolk や Titan、Mongoose といったクリーチャー達であり、これでビートダウンしながら"Bounce"たる [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse) や [Exclude](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exclude) に繋ぎ、4 マナ域ともなると [Mystic Snake](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Snake) や [Fact or Fiction](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction) という強烈なアドバンテージスペルによって戦況をコントロールし始めるわけだ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/985.jpg)
+
+"B.B.B."のストラテジーは"Bear"という低マナ域のクロックから"Bouce"につなぎ、"Burn"によってゲームをサポートしていくわけである。"Bear"とはまさしく Skyfolk や Titan、Mongoose といったクリーチャー達であり、これでビートダウンしながら"Bounce"たる [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse) や [Exclude](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exclude) に繋ぎ、4 マナ域ともなると [Mystic Snake](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Snake) や [Fact or Fiction](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction) という強烈なアドバンテージスペルによって戦況をコントロールし始めるわけだ。
 
 Nick は [Opt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opt) から何とか 4 枚目のランドをもたらそうと試みたが、これもならず。2 体の Titan というクロック、明らかに見え隠れする [Mystic Snake](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Snake) という状況下に悶々としつつ、されるがままであった。 [Prophetic Bolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prophetic+Bolt) こそ [Evasive Action](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Evasive+Action) してみせたのだが、ハンドにあるのは [Exclude](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exclude) \*2 と [Fact or Fiction](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction) 、[Absorb](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb) という局面を打開するには至らないカードばかりであったのだった・・・
 

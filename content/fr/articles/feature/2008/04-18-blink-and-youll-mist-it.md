@@ -265,7 +265,9 @@ Bien entendu, à part ajouter des récompenses pour deux couleurs, une autre opt
 
 ### Importance de la couleur de carte contre importance de la couleur de mana
 
-![Torrent of Souls](https://i.ormos.uk/d2/b6/d2b650522eb18acb95c4e09ee6929ed991a0ae6da475d0a527c5137153125f81.jpg "Torrent of Souls")Comme *Sombrelande* est une extension où la couleur est importante, la plupart de ses récompenses pour des decks à deux couleurs se concentre sur la couleur de vos cartes, comme la carte commune Bouclier de la Gouve. Comme *Sombrelande* est aussi une extension hybride, vos decks mono-verts dont les seuls terrains sont des forêts peuvent quand-même jouer des créatures hybrides vert-blanc et profiter un maximum du Bouclier de la Gouve. Ces combinaisons sont un élément central de cette extension.
+![Torrent of Souls](https://i.ormos.uk/d2/b6/d2b650522eb18acb95c4e09ee6929ed991a0ae6da475d0a527c5137153125f81.jpg "Torrent of Souls")
+
+Comme *Sombrelande* est une extension où la couleur est importante, la plupart de ses récompenses pour des decks à deux couleurs se concentre sur la couleur de vos cartes, comme la carte commune Bouclier de la Gouve. Comme *Sombrelande* est aussi une extension hybride, vos decks mono-verts dont les seuls terrains sont des forêts peuvent quand-même jouer des créatures hybrides vert-blanc et profiter un maximum du Bouclier de la Gouve. Ces combinaisons sont un élément central de cette extension.
 
 Mais en donnant plus de récompenses aux decks à deux couleurs, il nous fallait assurer que seuls les decks à deux couleurs avec de réelles bases de terrain à deux couleurs pouvaient profiter de certaines récompenses et qu’elles ne se retrouveraient pas kidnappées par des decks monochromes.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 By Randy Buehler
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPITT00/Images/SemiYMGdrafts.jpg)There are 7 players from the Boston area among the 12 competitors in the finals. In a final testimony to the quality of the teams at the top of the Swiss, all four of these finalists are already qualified for the Pro Tour. In fact, the 4 qualification spots dropped all the way down to 12th place! (They went to teams 8, 10, 11, and 12.)
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPITT00/Images/SemiYMGdrafts.jpg)
+
+There are 7 players from the Boston area among the 12 competitors in the finals. In a final testimony to the quality of the teams at the top of the Swiss, all four of these finalists are already qualified for the Pro Tour. In fact, the 4 qualification spots dropped all the way down to 12th place! (They went to teams 8, 10, 11, and 12.)
 
 Your Move Games plays a team of fellow Boston players in one semi-final. Dark Side of the Moon is basically three PTQ regulars who've already won a Team qualifier and got two byes from a Grand Prix trial. Brian Lynch has been to a number of Pro Tours and Ray Tautic was in a very tough Top 8 at New England regionals. He was still in contention late into US Nationals until he was disqualified for presenting an insufficiently randomized deck. Their third - Ben Halpren - doesn't have quite as much experience, but he's an up and comer.
 

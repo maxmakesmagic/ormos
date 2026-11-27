@@ -70,7 +70,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/68/7f/687f727ff6a7002c03212d3a15bedb98bb81f8d4d3eaad11890f2e37d4a68fff.jpg)This week the new [Prismatic bannings](https://web.archive.org/web/20040921000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=dci/announce/dci20040901a) kick in, which means it's going to be a whole new format (let me be clear: I love the Prismatic format post-bannings). I asked which *Fifth Dawn* rare you wanted me to build my deck around and you [selected](/en/articles/intotheaether/2004/09-07-intotheaether-invites-you) [Door to Nothingness](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Door+to+Nothingness), which I'm realizing more and more was awfully sadistic of you in the face of the bannings.
+![](https://i.ormos.uk/68/7f/687f727ff6a7002c03212d3a15bedb98bb81f8d4d3eaad11890f2e37d4a68fff.jpg)
+
+This week the new [Prismatic bannings](https://web.archive.org/web/20040921000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=dci/announce/dci20040901a) kick in, which means it's going to be a whole new format (let me be clear: I love the Prismatic format post-bannings). I asked which *Fifth Dawn* rare you wanted me to build my deck around and you [selected](/en/articles/intotheaether/2004/09-07-intotheaether-invites-you) [Door to Nothingness](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Door+to+Nothingness), which I'm realizing more and more was awfully sadistic of you in the face of the bannings.
 
 Keep in mind the constraints of Prismatic deckbuilding, in addition to the banned list:
 
@@ -104,7 +106,9 @@ Below you'll see me grappling with these fundamental questions. Each question le
 
 *(How do I reliably find Door to Nothingness?)*
 
-![](https://i.ormos.uk/4f/f9/4ff98e7ff46c69d82d09ce0e6000337d126c922dd71a16bc71495680b7b28525.jpg)First thing's first; I need to find [Door to Nothingness](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Door+to+Nothingness) in a two-hundred-and-fifty card deck, which is easier said than done since the bannings strip most of the tutors from the format. No more casting [Tooth and Nail](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) for two [Composite Golem](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Composite+Golem)s. No more [Diabolic Tutor](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diabolic+Tutor), [Fabricate](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate), or [Death Wish](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+Wish). A few tutors still exist in the format, though, and since a few is better than none they're the first cards in my big, multicolor deck are:
+![](https://i.ormos.uk/4f/f9/4ff98e7ff46c69d82d09ce0e6000337d126c922dd71a16bc71495680b7b28525.jpg)
+
+First thing's first; I need to find [Door to Nothingness](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Door+to+Nothingness) in a two-hundred-and-fifty card deck, which is easier said than done since the bannings strip most of the tutors from the format. No more casting [Tooth and Nail](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) for two [Composite Golem](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Composite+Golem)s. No more [Diabolic Tutor](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diabolic+Tutor), [Fabricate](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate), or [Death Wish](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+Wish). A few tutors still exist in the format, though, and since a few is better than none they're the first cards in my big, multicolor deck are:
 
 4 [Bringer of the Black Dawn](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bringer+of+the+Black+Dawn) (0 W, 0 U, 4 B, 0 R, 0 G)  
  4 [Golden Wish](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Golden+Wish) (4 W, 0 U, 4 B, 0 R, 0 G)  
@@ -210,7 +214,9 @@ Of course, with a hundred cards left I'm faced with another issue:
 
 ### Question #4: How do I make sense of my land?
 
-![](https://i.ormos.uk/19/7f/197ffe64b9d5dc98c3b6c8e1b394e40ee49edf5a5393e74ce4fcdf33073c018e.jpg)I don't see the need to use every color-fixing land available in Online Extended for the same reason I don't see the need to use [Wrath of God](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God). [Crystal Quarry](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Quarry) seems necessary in a Door deck even though it's expensive to acquire. The others on the list below are prismatic lands I think are relatively affordable.
+![](https://i.ormos.uk/19/7f/197ffe64b9d5dc98c3b6c8e1b394e40ee49edf5a5393e74ce4fcdf33073c018e.jpg)
+
+I don't see the need to use every color-fixing land available in Online Extended for the same reason I don't see the need to use [Wrath of God](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God). [Crystal Quarry](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Quarry) seems necessary in a Door deck even though it's expensive to acquire. The others on the list below are prismatic lands I think are relatively affordable.
 
 4 [Crystal Quarry](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Quarry)  
  4 [Grand Coliseum](https://web.archive.org/web/20040921000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grand+Coliseum)  

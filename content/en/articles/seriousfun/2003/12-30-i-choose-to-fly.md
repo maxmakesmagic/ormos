@@ -632,7 +632,9 @@ There’s conventional wisdom about casual group games that I’ve found doesn�
 
 *Prayer #2: If you take damage early, you can hide behind the scenes since no one will think you’re much of a threat.* This is true if you play among rabbits. Rabbits don’t enjoy the smell of blood; it scares them and they go nibbling somewhere else.
 
-![](https://i.ormos.uk/5e/b3/5eb311c5fb3a44deb6e475306c6ae1cc68ccd4dc4cec08b6f099890f739feb4d.jpg)When you play among sharks, your blood in the water becomes a problem. Flailing about uselessly becomes a problem. Waving your hand like a friendly seal becomes a problem. Anything short of impersonating a large, dark shadow becomes a problem.
+![](https://i.ormos.uk/5e/b3/5eb311c5fb3a44deb6e475306c6ae1cc68ccd4dc4cec08b6f099890f739feb4d.jpg)
+
+When you play among sharks, your blood in the water becomes a problem. Flailing about uselessly becomes a problem. Waving your hand like a friendly seal becomes a problem. Anything short of impersonating a large, dark shadow becomes a problem.
 
 Put those two prayers together, and you’ve got a lot of decks that I see fail regularly – clunky decks that take too long to set up seven pieces of a potentially dastardly scheme, timid decks that try to hide until they can piece together a “killer” combo, even potentially powerful decks that simply don’t have a strong play until turn six or seven. 
 

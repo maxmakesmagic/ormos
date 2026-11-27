@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Randy Buehler* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/664.jpg)With just two matches to go, Jon Finkel and Ben Rubin were in a flat-footed tie for first place. Alex Shvartsman was just one game behind in a third-place tie with Dave Price and Noah Boeken. The round 14 match between Alex Shvartsman and Jon Finkel was obviously big. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/664.jpg)
+
+With just two matches to go, Jon Finkel and Ben Rubin were in a flat-footed tie for first place. Alex Shvartsman was just one game behind in a third-place tie with Dave Price and Noah Boeken. The round 14 match between Alex Shvartsman and Jon Finkel was obviously big. 
 
 Shvartsman mulliganed twice before game 1 and a rare expletive escaped from the normally even-tempered Shvartsman. Shvartsman did play turn 1 Kird Ape and Pyroblasted Finkel's Ancestral Recall, but Finkel used Wasteland to both shrink the Kird Ape and destroy Shvartsman's only land. Finkel was still at 16 life when he played The Abyss, effectively ending Shvartsman's offense. Finkel then used Mystical Tutor to set up a pretty gross Yawgmoth's Will: he got to Mind Twist away Shvartsman's entire hand and then Disenchant his last remaining permanent - a Mox Ruby. Finkel then announced to the room "No permanents and no cards in hand... and I have Morphling and 3 Force of Wills in my hand." To himself he whispered "Ah... perfection" as Alex scooped. 
 

@@ -278,7 +278,9 @@ Rob Dougherty v. Dan O'Brien
 
 This matchup pitting Dougherty against O'Brien was as identical as their t-shirts. Both men wore the black and the red of YMG, and both men played plains and islands. Rob started out with the good stuff: Mental Note, a Cephalid Looter, and a Mystic Zealot. All O'Brien could play by turn four was Wonder, and Rob followed up with Ambassador Laquatus\- a power card in the match up.
 
-![](http://www.wizards.com/sideboard/images/gpnj02/915.jpg)O'Brien kept up the spell count by enchanting Rob's Mystic Zealot with Kirtar's Desire, and summoned a Zealot of his own. Dougherty continued to pull ahead of his opponent by using his Looter, and summoned some more monsters to do his bidding. 
+![](http://www.wizards.com/sideboard/images/gpnj02/915.jpg)
+
+O'Brien kept up the spell count by enchanting Rob's Mystic Zealot with Kirtar's Desire, and summoned a Zealot of his own. Dougherty continued to pull ahead of his opponent by using his Looter, and summoned some more monsters to do his bidding. 
 
 O'Brien tried to pull away, and cast a Breakthrough for five, discarding Valor. Rob got through for damage by sending with an activated Mirror Wall, followed up with a Zealot, and passed the turn back to Dan. Dan played some quick catch up, casting Deep Analysis. He was trying to get closer to Rob, who was pulling away with his multiple Zealots and attacking walls. Plus, he now had threshold, thanks to his Cephalid Looter.
 
@@ -296,7 +298,9 @@ Meanwhile, the blue/white matchup was still going on. Dan cast Persuasion again,
 
 Rob broke the game open, or at least tried to. He played Aura Graft, trying to move Persuasion to a creature that Dan already controlled, but Dan simply madnessed out Circular Logic, drawing a card with his Cephalid Looter.
 
-![](http://www.wizards.com/sideboard/images/gpnj02/913.jpg)Dan tightened his defenses with another dork, Aquamoeba, and a Kirtar's Desire on Lieutenant Kirtar. Oh, the irony. That is, until Rob slipped the Ambassador back into play, and was promptly trumped by O'Brien's Amugaba. Who would win in the battle of blue rares? Both players had Looters, but without an answer to the unanswerable Amugaba, the game could be over very soon.
+![](http://www.wizards.com/sideboard/images/gpnj02/913.jpg)
+
+Dan tightened his defenses with another dork, Aquamoeba, and a Kirtar's Desire on Lieutenant Kirtar. Oh, the irony. That is, until Rob slipped the Ambassador back into play, and was promptly trumped by O'Brien's Amugaba. Who would win in the battle of blue rares? Both players had Looters, but without an answer to the unanswerable Amugaba, the game could be over very soon.
 
 On the first swing, Rob sent Lieutenant Kirtar in front of the flying "bus", and sent it back to Dan's hand by activating the ability. Rob jumped back into the race. With the Amugaba back in Dan's hand, Rob started working and O'Brien's library with his Ambassador. The Amugaba came back out, but Laquatus struck again, sending three more cards to the bin, and put O'Brien that much closer to being decked.
 
@@ -310,7 +314,9 @@ Of course, Rob chose turn four as a good time to play everyone's favorite Merfol
 
 Rob had a newly acquired Phantom Nomad, and the game was off to absolutely nowhere. However, the Ambassador loomed larger and larger as Dougherty played more and more land. 
 
-![](http://www.wizards.com/sideboard/images/gpnj02/914.jpg)Rob tried to get threshold by using Laquatus on himself. Dan was game, targeting Laquatus with Repel, putting the Legend in harm's way on top of Rob's library with the mill effect on the stack. Rob avoided disaster by saving his Laquatus with Cephalid Looter, and the Legend lived to fight another day. 
+![](http://www.wizards.com/sideboard/images/gpnj02/914.jpg)
+
+Rob tried to get threshold by using Laquatus on himself. Dan was game, targeting Laquatus with Repel, putting the Legend in harm's way on top of Rob's library with the mill effect on the stack. Rob avoided disaster by saving his Laquatus with Cephalid Looter, and the Legend lived to fight another day. 
 
 Meanwhile, Dan had two Mystic Zealots, but no threshold. If there was one key difference between this game and the previous two, it was the lack of any card advantage for O'Brien. Dan did trade Shelter for a creature, but the Angelic Wall he followed up with was not fearsome. Rob had eight lands in play and Laquatus became active, sending the top six cards of O'Brien's library to the graveyard. 
 

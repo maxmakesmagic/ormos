@@ -44,7 +44,9 @@ archive_source:
   sha256: 57851f33fe7be35b65bac8c3043d5585f8435356a10b0cd274011b4922f0c67b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm12_1.jpg)Shiki and Nakamura are the only two players without a loss in this tournament, and after this match only one of them will remain undefeated. Shiki hopes it's him; otherwise he'll have to take off his shirt that proclaims "Undefeated". Much has been made of Shiki's incredible accomplishments this season, which makes this match against veteran Shuuhei Nakamura all the more interesting. Nakamura certainly has the edge when it comes to experience, but Shiki has shown that he is able to put up solid finishes under pressure.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm12_1.jpg)
+
+Shiki and Nakamura are the only two players without a loss in this tournament, and after this match only one of them will remain undefeated. Shiki hopes it's him; otherwise he'll have to take off his shirt that proclaims "Undefeated". Much has been made of Shiki's incredible accomplishments this season, which makes this match against veteran Shuuhei Nakamura all the more interesting. Nakamura certainly has the edge when it comes to experience, but Shiki has shown that he is able to put up solid finishes under pressure.
 
 ### Game 1
 

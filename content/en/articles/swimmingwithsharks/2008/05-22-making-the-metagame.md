@@ -1171,7 +1171,9 @@ While Faeries is generally considered to be "the best deck," the little black an
 
   
 
-![Magus_of_the_Moon](https://i.ormos.uk/fc/9f/fc9fdd88fdb34946fec832127963244263b75417be2bd18d98888d4eb713cbf4.jpg)This deck differs from some of the other red decks in the current metagame in that it showcases—almost as a throwback—a full quad of Tarmogoyfs (you know, the best creature ever, the best two mana spell ever... until they printed Bitterblossom at least, you know, you've heard of him) and continues the green splash to support Treetop Village.
+![Magus_of_the_Moon](https://i.ormos.uk/fc/9f/fc9fdd88fdb34946fec832127963244263b75417be2bd18d98888d4eb713cbf4.jpg)
+
+This deck differs from some of the other red decks in the current metagame in that it showcases—almost as a throwback—a full quad of Tarmogoyfs (you know, the best creature ever, the best two mana spell ever... until they printed Bitterblossom at least, you know, you've heard of him) and continues the green splash to support Treetop Village.
 
 The drops in this deck are pretty lethal; Random Deck Wins starts on Tattermunge Maniac and Mogg Fanatic on one, rises up to the aforementioned Tarmogoyf plus Keldon Marauders on two, and finishes off the curve with three-drops, including the onetime It Girl and the now Standard-ubiquitous Magus of the Moon. Magus of the Moon is a surprisingly significant threat given the mana bases in the current Standard. The fact is that many of the top decks in the format—especially Faeries—can't really play spells when Magus of the Moon is in play. "Modern" Faeries decks have all kinds of Terrors and Nameless Inversions main deck, but not so many basic Swamps (Brandon Lau's deck, below, has seven of these spells starting but not one Swamp); that means that if they don't tap for black in response, it is not very likely that they will be able to effect a response, ever, should the Magus stick.
 

@@ -128,7 +128,9 @@ render_recovery:
   - Welding Jar
   occurrences: 116
 ---
-![](https://i.ormos.uk/dc/b2/dcb29ac06e6d23815bd6a47629aae3b5ac2595e9372003030d4c47e036294815.jpg)It has been impossible to cover a major event over the past calendar year without talking about the towering wave of Japanese players at the highest levels of the game. Masashi Oiso has been surfing on the crest of the wave for most of that time. Starting last season with Pro Tour Yokohama, when he came out of nowhere to make it to the finals, right up through last weekend's Top 8 performance in New Orleans, Oiso has made his presence known at virtually every tournament he has played in. 
+![](https://i.ormos.uk/dc/b2/dcb29ac06e6d23815bd6a47629aae3b5ac2595e9372003030d4c47e036294815.jpg)
+
+It has been impossible to cover a major event over the past calendar year without talking about the towering wave of Japanese players at the highest levels of the game. Masashi Oiso has been surfing on the crest of the wave for most of that time. Starting last season with Pro Tour Yokohama, when he came out of nowhere to make it to the finals, right up through last weekend's Top 8 performance in New Orleans, Oiso has made his presence known at virtually every tournament he has played in. 
 
 While riding out that wave he earned Rookie of the Year honors and had such a dominant year that he was in the running for Pro Player of the Year right up until the finish line. Along the way he stepped up alongside other Japanese **Magic** luminaries such as Jin Okamoto, Tsuyoshi Fujita and Itaru Ishida. He is widely believed to be among the very best Japanese players and is certainly one or two Pro Tours away from simply being recognized as one of the best players period.
 
@@ -144,7 +146,9 @@ A pair of Somber Hoverguards, Neurok Spy, Wizard Replica all seemed likely candi
 
 Oiso's technique for deck building was intriguing. He sat down with forty sleeves and whenever he was positive that a card would be in his deck he sleeved it. The empty sleeves signified decisions that remained to be made. All of his removal went right into sleeves--a Deconstruct and Creeping Mold joined the pair of Shatters and an Annul--as did all of the evasion creatures and the aforementioned equipment. Jens Thoren and the Duplicant hit a pair of sleeves pretty quickly as well.
 
-![](https://i.ormos.uk/4d/44/4d446966ebbd6cceae9e1db280b9e837be307c6055e206c1dc9cc57b936f4298.jpg)Next up for sleeving was the Skeleton Shard that was in the same pile as the broken artifact creatures. Despite being able to fetch a Swamp with the Simulacrum, Oiso was not going to play one. He fanned his nose at the idea of janking up his mana base and he was perfectly happy to pay three colorless to 'regrow' a Duplicant or Goblin Replica.
+![](https://i.ormos.uk/4d/44/4d446966ebbd6cceae9e1db280b9e837be307c6055e206c1dc9cc57b936f4298.jpg)
+
+Next up for sleeving was the Skeleton Shard that was in the same pile as the broken artifact creatures. Despite being able to fetch a Swamp with the Simulacrum, Oiso was not going to play one. He fanned his nose at the idea of janking up his mana base and he was perfectly happy to pay three colorless to 'regrow' a Duplicant or Goblin Replica.
 
 In short order the Rookie of the Year had twenty-three cards sleeved. He stared at a naked Trolls Tel-Jilad sitting on the sidelines. Oiso expanded his bench to include a second Vulshok Gauntlets, Alpha Myr, Clockwork Condor, Mindstorm Crown and Myr Prototype. He was vacillating between playing twenty-three and twenty-four spells and could not make up his mind. 
 

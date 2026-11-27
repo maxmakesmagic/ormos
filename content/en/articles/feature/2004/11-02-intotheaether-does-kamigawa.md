@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 9
 ---
-![](https://i.ormos.uk/76/d2/76d2b8a31fcab15f03e45b99592ba664801ad52e944519bc7062de0fc65c3f74.jpg)Last Thursday, with a heavy heart, I drove my wife and son to the airport. They were off to Connecticut for my mother-in-law's 60th birthday, and I was stuck in California... working. Not only did this mean a loss of family time and no vacation, but I was going to miss my 3-year old dressing up as Spider Man for Halloween. Coming back from the airport, I couldn't help but ponder how I was going to make it through this bitter, lonely weekend...
+![](https://i.ormos.uk/76/d2/76d2b8a31fcab15f03e45b99592ba664801ad52e944519bc7062de0fc65c3f74.jpg)
+
+Last Thursday, with a heavy heart, I drove my wife and son to the airport. They were off to Connecticut for my mother-in-law's 60th birthday, and I was stuck in California... working. Not only did this mean a loss of family time and no vacation, but I was going to miss my 3-year old dressing up as Spider Man for Halloween. Coming back from the airport, I couldn't help but ponder how I was going to make it through this bitter, lonely weekend...
 
 Thank you, *Champions of Kamigawa* Release Weekend! Woooooooo hooooo!
 
@@ -78,7 +80,9 @@ Once I learned the way Leagues worked, I thought they would be a great way for m
 
 ### Sealed League Numero Uno
 
-![](https://i.ormos.uk/e5/0d/e50dd5f29251745e2607d9c10fdc4318148800562801f4da2e7adca6c2e85795.jpg)My first Sealed League cardpool wasn't going to scare anyone or give them delusions of grandeur. Here was what I opened in my inaugural *Champions of Kamigawa* experience:
+![](https://i.ormos.uk/e5/0d/e50dd5f29251745e2607d9c10fdc4318148800562801f4da2e7adca6c2e85795.jpg)
+
+My first Sealed League cardpool wasn't going to scare anyone or give them delusions of grandeur. Here was what I opened in my inaugural *Champions of Kamigawa* experience:
 
 **White**: [Call to Glory](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+to+Glory); [Devoted Retainer](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Devoted+Retainer); [Ethereal Haze](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ethereal+Haze); [Hundred-Talon Kami](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hundred-Talon+Kami); [Kami of the Painted Road](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kami+of+the+Painted+Road); [Kitsune Blademaster](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kitsune+Blademaster); [Kitsune Healer](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kitsune+Healer); [Mothrider Samurai](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mothrider+Samurai) (2); [Nagao, Bound By Honor](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nagao%2C+Bound+By+Honor) (2); [Pious Kitsune](https://web.archive.org/web/20041102000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pious+Kitsune).
 

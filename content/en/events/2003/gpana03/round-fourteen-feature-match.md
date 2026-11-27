@@ -463,7 +463,9 @@ render_recovery:
 ---
 ### David Ochoa vs. Terry Tsang
 
-![](https://i.ormos.uk/b9/b5/b9b53d6ce876b014c7fc337ae4a31b1886b0a7202c2d2f91d5b62b7173c37948.jpg)Terry Tsang, or Terry T as his Legion of supporters call him, is one of the most popular players in the room. Like many a Magic veteran, Terry has drifted in and out of the game. He is currently trying to get back onto the gravy train. He and his opponent both had outside shots at making the Top 8 if they won this round. Terry was playing Twiddle Desire.
+![](https://i.ormos.uk/b9/b5/b9b53d6ce876b014c7fc337ae4a31b1886b0a7202c2d2f91d5b62b7173c37948.jpg)
+
+Terry Tsang, or Terry T as his Legion of supporters call him, is one of the most popular players in the room. Like many a Magic veteran, Terry has drifted in and out of the game. He is currently trying to get back onto the gravy train. He and his opponent both had outside shots at making the Top 8 if they won this round. Terry was playing Twiddle Desire.
 
 His opponent was David Ochoa, or the Web as his friends from the San Diego area know him. More at home playing with Type 1 cards than anything else, David had piloted Red Deck Wins with abundant artifact hate to within one match of a shot at the Top 8.
 

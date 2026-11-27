@@ -44,7 +44,9 @@ archive_source:
   sha256: 293ace896bc359a81c9c4bbac8d58a992981680f4ec5093f2103291a9f8d4be5
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/346.JPG)When Johan Franzén came to the 2000 European Championship, his goal was to make top 64 so that he would make some money. The 20 year old Swede ended up making money, but a lot more than he had expected. After finishing in the top 8, Johan will take home at least 2000 dollars. Not bad, considering the fact that he didn't playtest at all.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/346.JPG)
+
+When Johan Franzén came to the 2000 European Championship, his goal was to make top 64 so that he would make some money. The 20 year old Swede ended up making money, but a lot more than he had expected. After finishing in the top 8, Johan will take home at least 2000 dollars. Not bad, considering the fact that he didn't playtest at all.
 
 "I didn't feel like testing, because I hate Type II. Draft is the only thing that is fun," Johan says. He came to the tournament without a Standard deck, so Friday night, he searched through his friend Micke Magnusson's cards to see what deck he could possibly make. "Ponza was the easiest deck to build, and I expected a lot of green."
 

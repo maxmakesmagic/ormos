@@ -86,7 +86,9 @@ render_recovery:
   - Counterspell
   occurrences: 55
 ---
-![](https://i.ormos.uk/2d/60/2d6076d6aef2dbd9eb7b3f518cbbc4bc5fb529a117a9f53aba84c278d3b79017.jpg)It's always a good show when the lights are on Neil Reeves. He comes into full form, playing up to the crowd. It's no surprise that he's gotten so many chances to show off, considering his prodigious talent. Ken Ho is no slouch either. You might remember him from a little something called Pro Tour – Osaka. He won the whole thing. A Masters Title would suit him just fine. They started shuffling, and the banter started just as fast. Reeves smiled as he accused Ho of peeking while he side-shuffled. It snowballed from there.
+![](https://i.ormos.uk/2d/60/2d6076d6aef2dbd9eb7b3f518cbbc4bc5fb529a117a9f53aba84c278d3b79017.jpg)
+
+It's always a good show when the lights are on Neil Reeves. He comes into full form, playing up to the crowd. It's no surprise that he's gotten so many chances to show off, considering his prodigious talent. Ken Ho is no slouch either. You might remember him from a little something called Pro Tour – Osaka. He won the whole thing. A Masters Title would suit him just fine. They started shuffling, and the banter started just as fast. Reeves smiled as he accused Ho of peeking while he side-shuffled. It snowballed from there.
 
 "Please don't be slow!" – Neil Reeves
 
@@ -124,7 +126,9 @@ Ho refused, with Circular Logic.
 
 That one stuck. Reeves, tapped out, handed it over. Ho Studied away forest and Wonder, then dropped a pair of Mongrels. It left him with three cards after playing City of Brass. Reeves took down one with Chainer's Edict, and ended his turn with four mana up. Ho swung, but didn't risk a spell. Reeves stood at eight. He had another Edict, and protected it from Ho's Circular Logic with one of his own, sent through the Compulsion. Strangely, Ho chose not to pay the four, sending his Mongrel to the yard.
 
-![](https://i.ormos.uk/08/69/08696f57784e601e57a64f2e94d56870a588ff3939cf229541fc9a961ba1d8ce.jpg)Luckily he had a big follow up. He tapped seven for Upheaval, then played a forest and Merfolk Looter. Reeves dropped a lone island back into play and pitched two lands and Deep Analysis. Ho played another land and waited on his Looter. Reeves dropped a swamp. He had a Smother for it in response to the Looter's activation.
+![](https://i.ormos.uk/08/69/08696f57784e601e57a64f2e94d56870a588ff3939cf229541fc9a961ba1d8ce.jpg)
+
+Luckily he had a big follow up. He tapped seven for Upheaval, then played a forest and Merfolk Looter. Reeves dropped a lone island back into play and pitched two lands and Deep Analysis. Ho played another land and waited on his Looter. Reeves dropped a swamp. He had a Smother for it in response to the Looter's activation.
 
 Then came Werebear, a Ho trademark. Two turns would give Ho the first game. Reeves, without a way to stop it in hand, put out Compulsion. Ho bashed, and waited to see what happened. Reeves drew, and then activated Compulsion. Then he pushed all his cards together and started shuffling.
 
@@ -158,7 +162,9 @@ It was Roar of the Wurm. Reeves allowed it only to Smother it at end of turn. Ho
 
 "I'm so fat, and *so hungry*!" – Neil Reeves
 
-![](https://i.ormos.uk/5d/94/5d9421e7b23af7f6c336178e96237fe90b7010fee941e090cf23e84beff3925a.jpg)Finally Ho was active. He flashed back his Roar and replayed the Baloth. Reeves had removal for both. Ho tried again on his next turn. This time Careful Study madnessed a Rootwalla. He refueled with a discarded Deep Analysis. That was all fine. Compost earned Circular Logic. Blood took down the Rootwalla. Ho untapped and forced out another Logic with Compost. He piled on another Rootwalla, Wild Mongrel, and Standstill with two mana up. Reeves tried Counterspell. Ho had the Logic. Ghastly Demise stopped the Rootwalla in its tracks, but the Standstill resolved.
+![](https://i.ormos.uk/5d/94/5d9421e7b23af7f6c336178e96237fe90b7010fee941e090cf23e84beff3925a.jpg)
+
+Finally Ho was active. He flashed back his Roar and replayed the Baloth. Reeves had removal for both. Ho tried again on his next turn. This time Careful Study madnessed a Rootwalla. He refueled with a discarded Deep Analysis. That was all fine. Compost earned Circular Logic. Blood took down the Rootwalla. Ho untapped and forced out another Logic with Compost. He piled on another Rootwalla, Wild Mongrel, and Standstill with two mana up. Reeves tried Counterspell. Ho had the Logic. Ghastly Demise stopped the Rootwalla in its tracks, but the Standstill resolved.
 
 Now things were bad for Reeves. He flashed back his Analysis and gave Ho three cards. He tried Innocent Blood, and countered a diving Rootwalla. Ho went for the Circular Logic with his last mana. Reeves dropped Force Spike.
 

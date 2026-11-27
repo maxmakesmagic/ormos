@@ -260,7 +260,9 @@ Grand Prix Daytona - Lorwyn Sealed Deck
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/26/77/26776387c671a9fb2e2c1b6e7aee20772fc1ecc38c100182a796a3355891ec65.jpg)Nessim Ketita is a Toronto player with some success at the two legacy Grand Prix. He finished 12th place in Philadelphia and 20th place in Columbus. He played on the Pro Tour once at PT Honolulu and is eager to return. Setting his sights on qualifying for Kuala Lumpur, Nassim and a handful of other local players decided to head down to Daytona Beach early, rent a house, and practice Lorwyn Sealed and draft with no other distractions. 
+![](https://i.ormos.uk/26/77/26776387c671a9fb2e2c1b6e7aee20772fc1ecc38c100182a796a3355891ec65.jpg)
+
+Nessim Ketita is a Toronto player with some success at the two legacy Grand Prix. He finished 12th place in Philadelphia and 20th place in Columbus. He played on the Pro Tour once at PT Honolulu and is eager to return. Setting his sights on qualifying for Kuala Lumpur, Nassim and a handful of other local players decided to head down to Daytona Beach early, rent a house, and practice Lorwyn Sealed and draft with no other distractions. 
 
 Staying in the house with Nassim were Robb Davis (13th place GP Toronto, 86th place PT Kobe), David Felske (25th place PT Kobe), Jurgen Hahn (2002 Canadian National Champion), Paul Russell (4th place PT Seattle), as well as Toronto area amateurs Dan McDonald, Ian Woodley, Scott Baillie, and Chris Mason. The group was able to get in plenty of draft practice all week, debate Sealed Deck card pools, and battle for the Beach House Guitar Hero Championship.
 
@@ -317,7 +319,9 @@ With both players decks sufficiently shuffled they were ready to get started. Pa
 
 ### Game 1
 
-![](https://i.ormos.uk/e2/7c/e27cf90bb5007cfb1bba808678c3840c1016e5b0d742b1cd68732aa5370c1288.jpg)A turn two Kinsbaile Skirmisher came down for Steven but he was set back multiple turns by a pair of Pestermites from Paul. When Steven got to four mana he was able to ambush one of the fliers with Sentinels of Glen Elendra, pulling the correct colored mana from his Vivid Crag. .
+![](https://i.ormos.uk/e2/7c/e27cf90bb5007cfb1bba808678c3840c1016e5b0d742b1cd68732aa5370c1288.jpg)
+
+A turn two Kinsbaile Skirmisher came down for Steven but he was set back multiple turns by a pair of Pestermites from Paul. When Steven got to four mana he was able to ambush one of the fliers with Sentinels of Glen Elendra, pulling the correct colored mana from his Vivid Crag. .
 
 "I didn't even know you were blue," said Paul as he put the swatted Pestermite in the bin. 
 
@@ -337,7 +341,9 @@ Both players quickly went to work on their decks. Paul had a color change he wan
 
 "This is something just for you!" promised Paul. 
 
-![](https://i.ormos.uk/c2/93/c2932d01c5e12f2679fa8854b0fe779848ec5f5cfb5d2aedfaf3586540371171.jpg)Paul had to send his opening seven cards back from whence they came and kept the next six. Steven saw some cards he liked and kept his full set of seven. Paul quickly developed his mana with a Fertile Ground. Steven used a sideboarded Ponder off of a Vivid Crag to find an Island and passed the turn. Paul played Silvergill Douser which actually attacked into open mana a turn later. 
+![](https://i.ormos.uk/c2/93/c2932d01c5e12f2679fa8854b0fe779848ec5f5cfb5d2aedfaf3586540371171.jpg)
+
+Paul had to send his opening seven cards back from whence they came and kept the next six. Steven saw some cards he liked and kept his full set of seven. Paul quickly developed his mana with a Fertile Ground. Steven used a sideboarded Ponder off of a Vivid Crag to find an Island and passed the turn. Paul played Silvergill Douser which actually attacked into open mana a turn later. 
 
 Steven's turn four Brion Stoutarm was Lignified but Paul was again missing land drops. When he found land number three and was able to flash out Sentinels of Glen Elendra to power up his Douser and negate the Sentinel that Steven had flashed out the turn previous. Steven drew two cards with Mulldrifter but had no way to get damage across. 
 

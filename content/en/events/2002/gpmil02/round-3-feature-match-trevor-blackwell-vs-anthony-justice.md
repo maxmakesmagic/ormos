@@ -97,13 +97,17 @@ render_recovery:
   - Caltrops
   occurrences: 78
 ---
-![](https://i.ormos.uk/48/d8/48d85863230e3e0a2c8b1bc3e471c5e0d0756199748d062226792b4bf442bdd7.jpg)Trevor Blackwell is the defending national champion and is playing R/G with a healthy amount of direct damage. Urza's Rage, Volcanic Hammer, and Firebolt along with Violent Eruption makes sure that his opponent's creatures, and their life totals, are short-lived.
+![](https://i.ormos.uk/48/d8/48d85863230e3e0a2c8b1bc3e471c5e0d0756199748d062226792b4bf442bdd7.jpg)
+
+Trevor Blackwell is the defending national champion and is playing R/G with a healthy amount of direct damage. Urza's Rage, Volcanic Hammer, and Firebolt along with Violent Eruption makes sure that his opponent's creatures, and their life totals, are short-lived.
 
 Anthony Justice of Kentucky need not worry about his creatures... he's not playing any in his maindeck.
 
 "You're playing already?" questioned Brian Kibler to Blackwell wondering why he had only two byes instead of three. "Yeah," Blackwell responded with a smile. Kibler took a quick glimpse at Blackwell's sideboard. "Haha. I see why you only have two byes."
 
-![](http://www.wizards.com/sideboard/images/gpmil02/987.jpg)Blackwell played first, and mulliganed into Mountain, 2x Rootwalla, and some burn. Anthony Justice is playing a counter-burn deck that longs for Hammer of Bogardan. His no non-land permanent maindeck makes opposing Flametongues and other removal useless.
+![](http://www.wizards.com/sideboard/images/gpmil02/987.jpg)
+
+Blackwell played first, and mulliganed into Mountain, 2x Rootwalla, and some burn. Anthony Justice is playing a counter-burn deck that longs for Hammer of Bogardan. His no non-land permanent maindeck makes opposing Flametongues and other removal useless.
 
 Justice's opening hand had 2x Mountain, Sleight of Hand, Firebolt, Counterspell, Fire/Ice, and Earthquake. With an Island his hand is potent against Blackwell's. Justice wasted no time, and ripped the Island like an old-school pro and started with Sleight.
 
@@ -114,7 +118,9 @@ Blackwell got his first two Rootwallas killed after not hitting a green-producin
 Blackwell In: Kavu Chameleon, Kavu Titan, 3x Spellbane Centaur.  
  Blackwell Out: 2x FTK, 2x Volcanic Hammer, Violent Eruption
 
-![](http://www.wizards.com/sideboard/images/gpmil02/988.jpg)I really thought Blackwell would sideboard in the Obliterate. Against a slow, controlling deck, Blackwell should be able to recover faster and push through the final few points of damage. 
+![](http://www.wizards.com/sideboard/images/gpmil02/988.jpg)
+
+I really thought Blackwell would sideboard in the Obliterate. Against a slow, controlling deck, Blackwell should be able to recover faster and push through the final few points of damage. 
 
 This game Justice showed a different deck. The sideboard included FTK and Glacial Wall, slowing the early game even further for Blackwell. Yavimaya Barbarian came out for Blackwell, and then a second, but were quickly disposed of with FTK and Firebolt.
 

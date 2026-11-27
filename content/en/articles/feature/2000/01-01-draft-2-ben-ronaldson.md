@@ -68,7 +68,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/254.jpg)Ben Ronaldson is one of the lesser known members of team European Alliance. A major contributor to the team, Ben took Trinity Green to first place at the English nationals, and is regarded by the team as the most committed and hard working member. In the standard portion, Ben took the Euro Alliances No Hermit deck, to 5-1, and in draft 1 earned a respectable 2-1 beating William Jensen on the way. His draft pod for the second included Jon Finkel, as well as solid draft players Ed Fear and Frank Karsten.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/254.jpg)
+
+Ben Ronaldson is one of the lesser known members of team European Alliance. A major contributor to the team, Ben took Trinity Green to first place at the English nationals, and is regarded by the team as the most committed and hard working member. In the standard portion, Ben took the Euro Alliances No Hermit deck, to 5-1, and in draft 1 earned a respectable 2-1 beating William Jensen on the way. His draft pod for the second included Jon Finkel, as well as solid draft players Ed Fear and Frank Karsten.
 
 Booster 1, Mercadian Masques
 

@@ -108,7 +108,9 @@ render_recovery:
   - Anurid Murkdiver
   occurrences: 64
 ---
-![](http://www.wizards.com/sideboard/images/gpams03/a910.jpg)Object of Affection are all members of team Punisher, Anton Jonsson, Jens Thoren and Tomi Walamies. After nine rounds they lead the standing with eight wins and a draw, close behind in second place are Rankko Bongo Wheshiwheshi, a bizarrely named alliance between the two top South American players, Jose Barbero and Carlos Romao, and that colossus of French Magic, Wilfried Ranque. Unfortunately this reporter didn't wake up in time to watch the draft, so this report will have to be without the benefit of knowing what morphs each player has.
+![](http://www.wizards.com/sideboard/images/gpams03/a910.jpg)
+
+Object of Affection are all members of team Punisher, Anton Jonsson, Jens Thoren and Tomi Walamies. After nine rounds they lead the standing with eight wins and a draw, close behind in second place are Rankko Bongo Wheshiwheshi, a bizarrely named alliance between the two top South American players, Jose Barbero and Carlos Romao, and that colossus of French Magic, Wilfried Ranque. Unfortunately this reporter didn't wake up in time to watch the draft, so this report will have to be without the benefit of knowing what morphs each player has.
 
 ### Jose Barbero versus Anton Jonsson
 
@@ -122,7 +124,9 @@ Jose Barbero 1 – Anton Jonsson 0
 
 This was the first game to finish. Jens and Carlos were locked in a white black mirror match where Carlos had a Stinger and Jens had a Whipgrass Entangler. Historically the matchup favors Soldiers, although I didn't see what cards were drafted, as the cleric deck is very easy to counterdraft. Just picking up it's Whipgrass Entangler for your Soldier deck, as well as any Misery Charms you see, will often be too much for the clerics to deal with.
 
-![](http://www.wizards.com/sideboard/images/gpams03/a903.jpg)Wilfried and Tomi seemed to be playing at a very sedate pace in their Green-Black mirror match, the third mirror match of the draft.
+![](http://www.wizards.com/sideboard/images/gpams03/a903.jpg)
+
+Wilfried and Tomi seemed to be playing at a very sedate pace in their Green-Black mirror match, the third mirror match of the draft.
 
 In Anton and Jose's second game, Jonsson found both of his colors of mana this time, and his draw was fairly reasonable. He used Gempalm Incinerator to kill a Goblin Sledder, then morphed a Raven Guild Initiate and played a Keeneye Aven. Jose used Echo Tracer to bounce the Keeneye Aven and shot the Initiate with a Skill. Barbero's draw was rather good – Anton played a Frozen Solid on the skilled Wizard, but Jose had a Chromeshell Crab to donate the now pointless Tracer in exchange for Keeneye Aven.
 
@@ -140,7 +144,9 @@ In Game 2 of his match, Tomi Walamies had a dream draw. Third turn Krosan Warchi
 
 He only had the mana to regenerate one of them, so Wilfried attacked with his Barkhide Mauler, Sootfeather Flock, and Wirewood Guardian. Jens had to let his Gourna die when Ranque unmorphed Patron of the Wild on the Flock. It didn't make the slightest bit of difference anyway, as his remaining card in hand was Ambush Commander. This made the Timberwatch Elf a little insane. Tomi attacked with his angry Forests and Wilfried conceded.
 
-![](http://www.wizards.com/sideboard/images/gpams03/a901.jpg)Things were looking very good for Jens in his third game. He was keeping all of Carlos' creatures at bay with a Whipgrass Entangler as he swung in with Essence Sliver and Bladewing's Thrall. It quickly became clear that this wasn't a game that was going to matter in any case – Tomi was stuck with only Swamps as land in the deciding game between himself and Wilfried.
+![](http://www.wizards.com/sideboard/images/gpams03/a901.jpg)
+
+Things were looking very good for Jens in his third game. He was keeping all of Carlos' creatures at bay with a Whipgrass Entangler as he swung in with Essence Sliver and Bladewing's Thrall. It quickly became clear that this wasn't a game that was going to matter in any case – Tomi was stuck with only Swamps as land in the deciding game between himself and Wilfried.
 
 Ranque was so far ahead he could even forget to use his Corpse Harvester once. Tomi couldn't unmorph his guys at all, and Wilfried had so much mana he could unmorph his Root Elemental, dropping another gigantic fatty on the mana-screwed Walamies. Tomi drew another uncastable green card, and scooped in disgust.
 

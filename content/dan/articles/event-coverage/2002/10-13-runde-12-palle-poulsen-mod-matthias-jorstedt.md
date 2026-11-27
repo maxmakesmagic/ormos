@@ -44,7 +44,9 @@ archive_source:
   sha256: a6c6b44bce8fa5a5b96a4408d5bea6f9491476ca32e9f562d49ea5110da79154
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a913.jpg)I runde 12 mødtes de to veteraner Palle Poulsen og Matthias Jorstedt. Palle Poulsen var Danmarksmester i 1999, og Matthias blev den førtste nordiske mester for to år siden. De skulle begge to vinde deres resterende kampe for at komme i top 8, så det skulle nok blive spændende. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a913.jpg)
+
+I runde 12 mødtes de to veteraner Palle Poulsen og Matthias Jorstedt. Palle Poulsen var Danmarksmester i 1999, og Matthias blev den førtste nordiske mester for to år siden. De skulle begge to vinde deres resterende kampe for at komme i top 8, så det skulle nok blive spændende. 
 
 Palle spillede rød/grøn med [Centaur Glade](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Glade) som det bedste kort, mens Matthias havde draftet hvid og sort. 
 

@@ -84,7 +84,9 @@ render_recovery:
   - click here
   occurrences: 1
 ---
-[![](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](https://web.archive.org/web/20050617000000/https://magic.wizards.com/en/node/574031)I am really having a heck of a time figuring out my Hall of Fame Ballot. The more I talk about it, the more confused I become about how to cast my votes. And I have talked about it plenty. It has been, far and away, the most common topic of Magical conversation this past week – and this is with U.S. Regionals less than two weeks away.
+[![](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](https://web.archive.org/web/20050617000000/https://magic.wizards.com/en/node/574031)
+
+I am really having a heck of a time figuring out my Hall of Fame Ballot. The more I talk about it, the more confused I become about how to cast my votes. And I have talked about it plenty. It has been, far and away, the most common topic of Magical conversation this past week – and this is with U.S. Regionals less than two weeks away.
 
 I know that I am not alone because none of the people I have been talking to seem completely set on their ballots either. I am not complaining, though. I love the debate, I love hearing from the giants of the game upon whose shoulders we all stand, and I love looking back and reflecting on the early days of the Pro Tour.
 

@@ -213,7 +213,9 @@ render_recovery:
   - Naturalize
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpyok03/a904.jpg)基本セットが第７版から８版への移行を目前に開催されたアマチュアオープントーナメント。プレーヤーが選らんだデックは以下のようなものであり、去り行く定番カード達《ラノワールのエルフ／Llanowar Elves》《対抗呪文／Counterspell》を惜しむかのようであった。 
+![](http://www.wizards.com/sideboard/images/gpyok03/a904.jpg)
+
+基本セットが第７版から８版への移行を目前に開催されたアマチュアオープントーナメント。プレーヤーが選らんだデックは以下のようなものであり、去り行く定番カード達《ラノワールのエルフ／Llanowar Elves》《対抗呪文／Counterspell》を惜しむかのようであった。 
 
 ステロイド ５４名  
  Ｕ－Ｇマッドネス ３６名  

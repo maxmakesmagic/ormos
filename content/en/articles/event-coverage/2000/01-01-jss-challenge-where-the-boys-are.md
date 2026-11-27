@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 8
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/822.jpg)Seventy-four young competitors gathered at the Queen Mary for the Junior Super Series Challenge, hoping to qualify to play in Disney World for $100,000 in scholarships. With $1,000 on the line today, this may have been a fun tournament, but it certainly was still a serious one.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/822.jpg)
+
+Seventy-four young competitors gathered at the Queen Mary for the Junior Super Series Challenge, hoping to qualify to play in Disney World for $100,000 in scholarships. With $1,000 on the line today, this may have been a fun tournament, but it certainly was still a serious one.
 
 The field was a diverse cross-section of the current standard metagame. Blue Skies was the most popular deck of the tournament with fully 20% of the field playing it. Fires was the next most popular deck, and perhaps the most successful deck of the tournament. Nearly half of the Fires players went on to winning records, while the Skies decks were only able to get about one-third into the upper field. Also successful was CounterRebel and Nether-Go, with the remainder of the top field split between no particular deck.
 
@@ -65,7 +67,9 @@ The field was a diverse cross-section of the current standard metagame. Blue Ski
 *   Nether-Go - 4 - 2 - 2
 *   Other decks - 5 - 4 - 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/824.jpg)The other successful decks included Black Control and Ponza (both making Top 8), as well as White/Green Beatdown and Cowardice. There were several other very interesting decks like Coalition Victory, AnkhTide, and a deck cleverly titled "Brian Kibler is My Hero" (Kibler came around to watch this deck play a few times when he learned of it).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/824.jpg)
+
+The other successful decks included Black Control and Ponza (both making Top 8), as well as White/Green Beatdown and Cowardice. There were several other very interesting decks like Coalition Victory, AnkhTide, and a deck cleverly titled "Brian Kibler is My Hero" (Kibler came around to watch this deck play a few times when he learned of it).
 
 Here are the Top 8 Players and Decks at the end of the 7 rounds of Swiss.
 

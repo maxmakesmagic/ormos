@@ -164,7 +164,9 @@ But as my kids will happily tell you, I do know Santa.
 
 ### Santa: An Introduction
 
-![](https://i.ormos.uk/18/f6/18f613d24156d0b2a180be0993c77d3400b16a38c9a8b10344ee7a8110e74c4f.jpg)Santa lives up at the North Pole. He's got a few flying reindeer and a cool sleigh to his name, but few other known possessions. But he's happy despite his low number of possessions – in fact, he's perfectly jolly while giving away all sorts of things most mortals would covet. He is an amazing and inspiring enough boss that hundreds of elves will work for him for little or no wages. And his wife makes terrific cookies, teaches for a living, and has a Master's Degree. (Since this last description also fits my mother, I may be projecting there.)
+![](https://i.ormos.uk/18/f6/18f613d24156d0b2a180be0993c77d3400b16a38c9a8b10344ee7a8110e74c4f.jpg)
+
+Santa lives up at the North Pole. He's got a few flying reindeer and a cool sleigh to his name, but few other known possessions. But he's happy despite his low number of possessions – in fact, he's perfectly jolly while giving away all sorts of things most mortals would covet. He is an amazing and inspiring enough boss that hundreds of elves will work for him for little or no wages. And his wife makes terrific cookies, teaches for a living, and has a Master's Degree. (Since this last description also fits my mother, I may be projecting there.)
 
 But most importantly, kids look for Santa. And they can always find him, because he always wears red and white.
 
@@ -218,7 +220,9 @@ The second approach is more flavorful. You don't have to have red and white deck
 
 Start with a tribal format. (We start with a creature-based format to keep an otherwise slow format moving along.) In fact, I would consider banning all non-creature, non-aura cards.
 
-![](https://i.ormos.uk/f2/3d/f23de5e0a1568e09b1a7e187d6ecc02a5b373102f5275d73fe2582b6bb24942c.jpg)Every creature moves at half speed, as though moving through a nasty snowstorm (or weary from the icicles hanging off of their limbs). So in general, they may only attack (or use a tap ability) once every two turns.
+![](https://i.ormos.uk/f2/3d/f23de5e0a1568e09b1a7e187d6ecc02a5b373102f5275d73fe2582b6bb24942c.jpg)
+
+Every creature moves at half speed, as though moving through a nasty snowstorm (or weary from the icicles hanging off of their limbs). So in general, they may only attack (or use a tap ability) once every two turns.
 
 However, everyone knows that in cold weather, you have to keep your limbs moving if you want to stay alive. For that reason, creatures that *can* attack (or use a tap ability), *must* do so. This will keep the blood (and the game) going.
 
@@ -232,7 +236,9 @@ Whenever an instant or sorcery spell resolves, tear it up and remove it from the
 
 Whenever an artifact or enchantment card goes to the graveyard, tear it up and remove it from the game. 
 
-![](https://i.ormos.uk/82/04/8204776b35cf13d24e6a98022f4b65e785442aa34407f62fb6a4882a9185bcc8.jpg)Whenever a creature goes to a graveyard or removed-from-game zone because of a spell, ability, or combat damage from a source an opponent controls, that opponent may take out her marker and give a proper name to the creature. The old name must still be present in the new name. (So, if you kill a Scryb Sprites, you may rename the creature "Sammy the Scryb Sprite.) The creature now becomes legendary, and the player who named it may put it into play under her control.
+![](https://i.ormos.uk/82/04/8204776b35cf13d24e6a98022f4b65e785442aa34407f62fb6a4882a9185bcc8.jpg)
+
+Whenever a creature goes to a graveyard or removed-from-game zone because of a spell, ability, or combat damage from a source an opponent controls, that opponent may take out her marker and give a proper name to the creature. The old name must still be present in the new name. (So, if you kill a Scryb Sprites, you may rename the creature "Sammy the Scryb Sprite.) The creature now becomes legendary, and the player who named it may put it into play under her control.
 
 Whenever a *legendary* creature goes to a graveyard or removed-from-game zone because of an opponent's doing, that player may take out his marker, choose a keyworded ability (e.g., flying, trample, double strike, banding, vigilance, etc.), and write that keyworded ability somewhere in the rules text box. Then that player puts the enhanced legendary creature back into play under his control.
 

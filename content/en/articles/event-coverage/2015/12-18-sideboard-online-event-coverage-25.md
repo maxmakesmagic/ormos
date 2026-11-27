@@ -52,7 +52,9 @@ render_recovery: []
 
 **Jon Finkel vs. Brian Selden** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R6SeldenFinkel.JPG)In our final match of the day, Mark Rosewater couldn't resist making PT Player of the Year Jon Finkel's match against World Champion Brian Selden a feature. With both players sitting at 4-1, it was essential for the members of Team Deadguy and Mogg Squad respectively to win this one to position themselves well for tomorrow's Standard rounds. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT99/images/R6SeldenFinkel.JPG)
+
+In our final match of the day, Mark Rosewater couldn't resist making PT Player of the Year Jon Finkel's match against World Champion Brian Selden a feature. With both players sitting at 4-1, it was essential for the members of Team Deadguy and Mogg Squad respectively to win this one to position themselves well for tomorrow's Standard rounds. 
 
 Game one saw Finkel, who was drawing, first mulligan down to six cards before starting. After trading lands back and forth, Selden started the action with a Reliquary Monk, which was followed by Finkel's Opal Champion. After the Monk had beat down for 2, Finkel played a Pendrell Drake, at which point Selden decided he couldn't keep his creatures back, so he dropped a Defender of Chaos. 
 

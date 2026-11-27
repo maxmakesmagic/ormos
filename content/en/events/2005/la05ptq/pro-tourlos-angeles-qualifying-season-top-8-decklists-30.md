@@ -53,7 +53,9 @@ archive_source:
   sha256: 6190e95968866c5d4f7e77441536943b8ec1bca23c0f7e1d101cd6e8e24a905d
 render_recovery: []
 ---
-![](http://www.wizards.com/protour/images/qt_lg.jpg)Based on the tremendous response from posting Top 8 decklists from the [2004 Magic State/Province/Territory/Island Champs](/en/events/2004/champs04/2004-champs-decklists) events, [2005 Regionals](/en/events/2005/regionals05/2005-regionals-2) and the [Extended](/en/events/2005/phi05ptq/pro-tourphiladelphia-qualifying-season-extended-top-8-decklists-3) and [Booster Draft](/en/events/2005/lon05ptq/pro-tourlondon-qualifying-season-booster-draft-top-8-decklists-58) qualifier seasons, we'll be doing the same with the Top 8 decklists from the current Pro Tour Qualifier season. The format is *Kamigawa* Block Constructed.
+![](http://www.wizards.com/protour/images/qt_lg.jpg)
+
+Based on the tremendous response from posting Top 8 decklists from the [2004 Magic State/Province/Territory/Island Champs](/en/events/2004/champs04/2004-champs-decklists) events, [2005 Regionals](/en/events/2005/regionals05/2005-regionals-2) and the [Extended](/en/events/2005/phi05ptq/pro-tourphiladelphia-qualifying-season-extended-top-8-decklists-3) and [Booster Draft](/en/events/2005/lon05ptq/pro-tourlondon-qualifying-season-booster-draft-top-8-decklists-58) qualifier seasons, we'll be doing the same with the Top 8 decklists from the current Pro Tour Qualifier season. The format is *Kamigawa* Block Constructed.
 
 Decklists will be updated every Thursday during the PTQ season. To find a PTQ near you, [click here](/en/events/2005/la05/pro-tour-tm-los-angeles-05-qualifiers). Pro Tour-Los Angeles is scheduled for October 28-30.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 3297b988d8c4155ab98e4532b3e29797c97cf9c14c9787ca7ea8c0f236e0ddb8
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a969.jpg)This round was a match between opposite ends of the pro spectrum. On one hand, Tsuyoshi "Mr. Rolly" Fujita, the flamboyant household name after his Pro Tour - Tokyo finals appearance and subsequent attendance of the Magic Invitational. On the other, Chikara Nakajima, an anonymous Pro Tour regular who has yet to make his mark.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a969.jpg)
+
+This round was a match between opposite ends of the pro spectrum. On one hand, Tsuyoshi "Mr. Rolly" Fujita, the flamboyant household name after his Pro Tour - Tokyo finals appearance and subsequent attendance of the Magic Invitational. On the other, Chikara Nakajima, an anonymous Pro Tour regular who has yet to make his mark.
 
 Both players mulliganed to start the match. Nakajima's Rootwalla met Chainer's Edict. His Wild Mongrel survived to swing. That was enough advantage for him, as he Noted a couple cards into his graveyard then dropped Standstill. Fujita responded with Tainted Pact to dig up a swamp.
 
@@ -54,7 +56,9 @@ He started by Sludging six of Nakajima's seven cards. He kept Aether Burst. Then
 
 Fujita 1 - Nakajima 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a970.jpg)Game 2 started out inauspiciously for Nakajima, thanks to a double-mulligan. His first three plays of Mongoose, Rootwalla and Monogoose met Innocent Blood, Chainer's Edict and Mutilate, respectively. A third Rootwalla got to stay while Fujita fished out a Nantuko Shade with Diabolic Tutor.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a970.jpg)
+
+Game 2 started out inauspiciously for Nakajima, thanks to a double-mulligan. His first three plays of Mongoose, Rootwalla and Monogoose met Innocent Blood, Chainer's Edict and Mutilate, respectively. A third Rootwalla got to stay while Fujita fished out a Nantuko Shade with Diabolic Tutor.
 
 Nakajima's one green mana kept him from busting out Bearscape. He hit for three. Fujita destroyed his Centaur Garden with Rancid Earth and swung for six. Aether Burst set him back. Nakajima ripped forest and hit for three more, but he was short on time. Chainer's Edict took out his monster, and Fujita threatened to deliver the killing blow next turn. With no action in hand and none waiting at the top of his deck, Nakajima couldn't intervene.
 

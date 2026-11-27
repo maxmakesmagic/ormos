@@ -131,7 +131,9 @@ render_recovery:
   - Wretched Anurid
   occurrences: 123
 ---
-![](https://i.ormos.uk/8b/65/8b6562d84aba501f2b64d11ac72e807df4ddd77f6c73405a695d32573c90495c.jpg)Yesterday evening, the buzz was that Harvey was the smart money to take home the title today. Skill-wise, he was ranked just behind Kai in the Top 8, and Budde would probably have to fight his way past both Jensen and Finkel to make it to the finals. Dustin Stern is the latest great product of the Madison Limited scene. He was [hyped at Pro Tour – Los Angeles 2001](about:blank), but is only just now coming into his own. For the draft, Harvey got to choose his seat, and by extension Stern's. He stuck Stern in the eighth seat to limit his control over his colors. That gambit paid off, but it wasn't clear by the end of the draft who had the advantage. They sat across from each other in the pit and shuffled quickly.
+![](https://i.ormos.uk/8b/65/8b6562d84aba501f2b64d11ac72e807df4ddd77f6c73405a695d32573c90495c.jpg)
+
+Yesterday evening, the buzz was that Harvey was the smart money to take home the title today. Skill-wise, he was ranked just behind Kai in the Top 8, and Budde would probably have to fight his way past both Jensen and Finkel to make it to the finals. Dustin Stern is the latest great product of the Madison Limited scene. He was [hyped at Pro Tour – Los Angeles 2001](about:blank), but is only just now coming into his own. For the draft, Harvey got to choose his seat, and by extension Stern's. He stuck Stern in the eighth seat to limit his control over his colors. That gambit paid off, but it wasn't clear by the end of the draft who had the advantage. They sat across from each other in the pit and shuffled quickly.
 
 ### Game 1
 
@@ -165,7 +167,9 @@ Harvey led with a turn-three morph, and Stern's slow hand prevented him from doi
 
 "Draw two?" – Eugene Harvey
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a700.jpg)Stern smiled and shook his head at his forgetfulness. Daunting Defender hit the table to shut down Harvey's offense. Harvey's reply was a 1/1 Soulless One. Stern brought in another Defender and swung for three. Harvey had Cruel Revival and returned fire for five. However, he had no answer for Soulgazer, and the other Defender hit for three.
+![](http://www.wizards.com/sideboard/images/ptchi03/a700.jpg)
+
+Stern smiled and shook his head at his forgetfulness. Daunting Defender hit the table to shut down Harvey's offense. Harvey's reply was a 1/1 Soulless One. Stern brought in another Defender and swung for three. Harvey had Cruel Revival and returned fire for five. However, he had no answer for Soulgazer, and the other Defender hit for three.
 
 In fact, he had no play at all on his turn. Improvised Armor on the Soulgazer was a suckerpunch. It bashed Harvey to nine. He unmorphed Treespring Lorian at end of turn and brought it in for five, still sitting on his mana. Stern served in the air. A Gourna decloaked to take a hit for the team. Stern wasn't out of action. Sandskin neutralized the Lorian, and True Believer joined his side.
 

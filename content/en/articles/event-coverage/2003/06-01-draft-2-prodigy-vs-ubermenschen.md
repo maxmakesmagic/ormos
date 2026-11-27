@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 6
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a956.jpg)This is the classic battle that plays itself out over and over at Grand Prix all over the world: bunch of guys that believe they have game show up at the event and beat people left and right, and as they climb the standings, they run into better and better teams. At the top they meet a professional juggernaut team made of top-tier players that have been down this road countless times before, and are not willing to lose to guys they've never seen before. Sometimes the new blood pulls the upset, but more often the Pros show them who's boss.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a956.jpg)
+
+This is the classic battle that plays itself out over and over at Grand Prix all over the world: bunch of guys that believe they have game show up at the event and beat people left and right, and as they climb the standings, they run into better and better teams. At the top they meet a professional juggernaut team made of top-tier players that have been down this road countless times before, and are not willing to lose to guys they've never seen before. Sometimes the new blood pulls the upset, but more often the Pros show them who's boss.
 
 Playing the role of David is the undefeated trio of Prodigy (Duguid, Gindy, and Orellana). In the Goliath role are the Ubermenschen (Ho, Rubin, and Kibler). The format is three-on-three *Onslaught* block team Rochester.
 
@@ -71,7 +73,9 @@ Rubin got a [Corpse Harvester](https://web.archive.org/web/20030601000000/https:
 
 In pack one of Scourge, Ho had to let a [Rush of Knowledge](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rush+of+Knowledge) go to the other team; he selected [Pemmin's Aura](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pemmin%27s+Aura) over it instead. There was a Rush for Ho in the next pack though, but by taking it he had to pass [Forgotten Ancient](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forgotten+Ancient) to Duguid (much to Kibler's dismay).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a955.jpg)Prodigy later returned the favor by not hate-drafting a [Krosan Warchief](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Warchief) that looked like it would make Kibler's deck complete. The scales tipped back slightly in the favor of Prodigy when the Ubermenschen "forgot" to hate a [Dragon Shadow](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Shadow) that ended up in Duguid's pile.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a955.jpg)
+
+Prodigy later returned the favor by not hate-drafting a [Krosan Warchief](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Warchief) that looked like it would make Kibler's deck complete. The scales tipped back slightly in the favor of Prodigy when the Ubermenschen "forgot" to hate a [Dragon Shadow](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Shadow) that ended up in Duguid's pile.
 
 As they sat down to build decks, Kibler said that he thought Rubin led them astray on a few picks and that they were going to have their work cut out for them. Ho believes that his matchup is a lost cause, as "every card in his \[Orellana's\] deck is insane," and that maybe the correct play was to hate the [Forgotten Ancient](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forgotten+Ancient) just to increase Kibler's chances of winning.
 

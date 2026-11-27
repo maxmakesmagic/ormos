@@ -1647,7 +1647,9 @@ render_recovery:
 
 Salutations ! Je suis Kenneth Nagle et je travaille au service R&D depuis deux mois, après avoir participé à la [Grande recherche de concepteur](/en/events/2007/thefinishline/the-finish-line). Je voulais aborder un sujet qui me turlupine depuis un petit bout de temps. Les théoriciens de Magic, les constructeurs de decks et les rédacteurs ont l'air de savoir de quoi je veux parler, mais ils ne parviennent pas à l'exprimer. Ils le comprennent sans vraiment le comprendre. Ils y pensent sans vraiment y penser. Vous savez de quoi je veux parler ?
 
-![Hunting_Wilds](https://i.ormos.uk/83/27/8327178ee3eed14a4e1fd4a9238cc18f92f8f995dea978b1ce1ac897ed4895c4.jpg)Je veux parler d'un archétype un peu différent du trio infernal agro-contrôle-combo que tous les joueurs de Magic connaissent, dont ils discutent, et sur lesquels des [articles](/en/articles/academy/2007/01-27-aggro-combo-and-control) ont été écrits pendant des années. Nous savons que l'agro vous bombarde de blessures rapides, que le contrôle réagit et qu'il désamorce les menaces adverses avec ses réponses, et que la combo essaie de réunir une séquence de sorts ou un sort qui va lui faire gagner la partie.
+![Hunting_Wilds](https://i.ormos.uk/83/27/8327178ee3eed14a4e1fd4a9238cc18f92f8f995dea978b1ce1ac897ed4895c4.jpg)
+
+Je veux parler d'un archétype un peu différent du trio infernal agro-contrôle-combo que tous les joueurs de Magic connaissent, dont ils discutent, et sur lesquels des [articles](/en/articles/academy/2007/01-27-aggro-combo-and-control) ont été écrits pendant des années. Nous savons que l'agro vous bombarde de blessures rapides, que le contrôle réagit et qu'il désamorce les menaces adverses avec ses réponses, et que la combo essaie de réunir une séquence de sorts ou un sort qui va lui faire gagner la partie.
 
 Parmi les archétypes hybrides, on trouve agro-contrôle, qui emprunte l'élément créature de l'agro et l'élément d'interruption du contrôle. C'est un archétype assez documenté qui suit un plan 'déploiement et protection'.
 

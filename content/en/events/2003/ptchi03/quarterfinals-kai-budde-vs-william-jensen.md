@@ -128,7 +128,9 @@ render_recovery:
   - Unified Strike
   occurrences: 125
 ---
-![](https://i.ormos.uk/4f/7a/4f7a0131a188cc674c0c463844d594fd3f794d8a02a1be9768ddbe7b2ccf438c.jpg)Kai Budde was wiped out of his last Top 8 in the first round, but is all but guaranteeing that it won't happen again. He wants to face Finkel in the Semis, and feels that dispatching of William Jensen to get there will be simply a formality.
+![](https://i.ormos.uk/4f/7a/4f7a0131a188cc674c0c463844d594fd3f794d8a02a1be9768ddbe7b2ccf438c.jpg)
+
+Kai Budde was wiped out of his last Top 8 in the first round, but is all but guaranteeing that it won't happen again. He wants to face Finkel in the Semis, and feels that dispatching of William Jensen to get there will be simply a formality.
 
 He's probably right. Thanks to some indecision on the part of Bram Snepvangers, Kai ended up drafting both black and red, and his deck is chock full of removal. Jensen, on the other hand, drafted mostly red and then moved reluctantly into white; his deck lacks the depth of Kai's. Both players did a little "metagaming" against one another; Kai has two Misery Charms main against Jensen's Clerics, and Jensen has a Crown of Awe.
 
@@ -166,7 +168,9 @@ Jensen 1 – Budde 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a697.jpg)Jensen had his typical start of Sledder, morph, morph in the third game, but Budde had the ultimate Zombie draw, with Severed Legion, Festering Goblin, Boneknitter, and Shepherd of Rot in play by turn four.
+![](http://www.wizards.com/sideboard/images/ptchi03/a697.jpg)
+
+Jensen had his typical start of Sledder, morph, morph in the third game, but Budde had the ultimate Zombie draw, with Severed Legion, Festering Goblin, Boneknitter, and Shepherd of Rot in play by turn four.
 
 Jensen dilivered a big blow to Budde when he Threatened the Festering Goblin, attacked with everything, then sacced the Goblin to his Sledder, killing Boneknitter. Budde came back strong with a Cabal Archon, which could turn his Shepherd and his Disciple of Malice into little Drain Lifes. Budde drew Dirge of Dread, Shock, and Misery Charm, and all put together, could deal way more damage to Jensen than necessary.
 

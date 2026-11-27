@@ -431,7 +431,9 @@ render_recovery:
 ---
 * * *
 
-![Nicolai Herzog](http://wizards.com/sideboard/images/ptsd04/fm26_1.jpg)Nicolai Herzog is getting to the point where he needs no introduction. In fact, he needs no more match points either, having already clinched a Top 8 berth. Why not concede to Rookie of the Year Masashi Oiso? Well, his good friends Anton Jonsson and Antoine Ruel were hoping for a spot in the Top 8 as well, and asked Herzog to play in an attempt to increase their chances.
+![Nicolai Herzog](http://wizards.com/sideboard/images/ptsd04/fm26_1.jpg)
+
+Nicolai Herzog is getting to the point where he needs no introduction. In fact, he needs no more match points either, having already clinched a Top 8 berth. Why not concede to Rookie of the Year Masashi Oiso? Well, his good friends Anton Jonsson and Antoine Ruel were hoping for a spot in the Top 8 as well, and asked Herzog to play in an attempt to increase their chances.
 
 "Anton just calculated that three things have to go right, and this is one of them," he said, clearly feeling regret that he had to force Oiso to play. "It's interesting. The same thing came up last round but I asked both Antoine and Anton at the last minute and they both said, 'It's okay, go ahead and concede.'"
 

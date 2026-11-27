@@ -44,7 +44,9 @@ archive_source:
   sha256: dbc7fd038476df10c9e7c504ac48478b3bfac850ecd7e096f6ba69d1ebd85d10
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a876.jpg)Jürgen Hahn is an old undercarder from the Ontario Magic scene. His personality joins an acerbic wit with a complete lack of self-respect. His Green-Blue-Red Madness deck is similar in design to the one that made such a big splash at US Regionals earlier this year. Ray Weiss of Manitoba has no career to speak of, but his dedication on the PTQ Circuit has helped give him the skills that brought him here today.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a876.jpg)
+
+Jürgen Hahn is an old undercarder from the Ontario Magic scene. His personality joins an acerbic wit with a complete lack of self-respect. His Green-Blue-Red Madness deck is similar in design to the one that made such a big splash at US Regionals earlier this year. Ray Weiss of Manitoba has no career to speak of, but his dedication on the PTQ Circuit has helped give him the skills that brought him here today.
 
 Weiss turned up a grip that said "Please wreck me with Fire/Ice." Karplusan Forest could accelerate him into two Birds and two Looters, but the fragility was too much for him. He sent it back. His second wasn't exactly a winner, either. Two Circular Logics and a Flametongue Kavu. He kept.
 
@@ -73,7 +75,9 @@ Weiss started Game 2 with a fair opening of Llanowar Elves and Call of the Herd.
 
 Weiss bounced back with Mongrel and Elf. Hahn had a Hull Breach to take out the Nest, but nothing to press. Weiss got his other Call token and made ready to swing. Hahn's turn was uneventful. Weiss charged. Hahn tried to Repulse the token, but Weiss pitched his hand to make Circular Logic. Hahn played Gainsay.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a877.jpg)That gave Hahn a huge opening, but he was unable to capitalize. For two turns they stared at each other. Hahn had eight land on the table before he found a Looter. Weiss bashed and pitched lands to take out the Aquamoeba. Hahn's Looter turned up nothing. Weiss attacked again. This time Hahn had to block the Mongrel to survive. He mistakenly put damage on the stack before Looting, costing himself two life from the unblocked squirrels. The Looter turned up Violent Eruption, confirming his error. Weiss saved his Mongrel all the same, and Hahn was at two. He drew and conceded.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a877.jpg)
+
+That gave Hahn a huge opening, but he was unable to capitalize. For two turns they stared at each other. Hahn had eight land on the table before he found a Looter. Weiss bashed and pitched lands to take out the Aquamoeba. Hahn's Looter turned up nothing. Weiss attacked again. This time Hahn had to block the Mongrel to survive. He mistakenly put damage on the stack before Looting, costing himself two life from the unblocked squirrels. The Looter turned up Violent Eruption, confirming his error. Weiss saved his Mongrel all the same, and Hahn was at two. He drew and conceded.
 
 Hahn 1 - Weiss 1 
 
@@ -85,7 +89,9 @@ Hahn held back, waiting to refuel. Weiss practically fell out of his chair as he
 
 Hahn 2 - Weiss 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a878.jpg)Weiss again chose to keep a one-lander, busting out Llanowar Elves and plucking a forest for Squirrel Nest. Hahn got his Looter on. In doing so he missed a point of damage from his painland. He lamented his sloppy play.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a878.jpg)
+
+Weiss again chose to keep a one-lander, busting out Llanowar Elves and plucking a forest for Squirrel Nest. Hahn got his Looter on. In doing so he missed a point of damage from his painland. He lamented his sloppy play.
 
 "I'm usually better than this." - Jürgen Hahn  
  "Well, you certainly can't be any worse." - Head Judge Mike Guptil

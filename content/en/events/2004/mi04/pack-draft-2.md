@@ -75,7 +75,9 @@ render_recovery:
 
 * * *
 
-![](http://www.wizards.com/sideboard/images/mi04/feat2.jpg)The first format of this year's Magic Invitational is a variant on sealed deck. Each player will get 75 cards plus as much basic land as he needs with which to construct a 40-card deck. The twist is which cards each player has access to.
+![](http://www.wizards.com/sideboard/images/mi04/feat2.jpg)
+
+The first format of this year's Magic Invitational is a variant on sealed deck. Each player will get 75 cards plus as much basic land as he needs with which to construct a 40-card deck. The twist is which cards each player has access to.
 
 In the lobby of the hotel last night, Mark Rosewater laid out 80 booster packs in neat rows--there were six from every expert-level expansion available on Magic Online (Invasion through Darksteel), plus seven each of Seventh Edition and Eighth Edition. The players then Rochester drafted the packs one by one; the five packs each ended up with would be given to them Online today to build a sealed deck with.
 

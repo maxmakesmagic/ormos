@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a910.jpg)Both players drop lands early on until Rickard cast Words of Wisdom with an Island and a Tainted Wood he then cast Treacherous Wolf and ends his turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a910.jpg)
+
+Both players drop lands early on until Rickard cast Words of Wisdom with an Island and a Tainted Wood he then cast Treacherous Wolf and ends his turn. 
 
 Gert on the other hand decided to go on the offensive with Anger going through his opponent's defences unblocked. Coeckelbergh then summoned a Soul Scourge and finished his turn. 
 

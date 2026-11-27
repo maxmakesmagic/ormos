@@ -173,7 +173,9 @@ The prereleases (and there were several of them as there were flights all weeken
 
 ### *Urza's Destiny* (May 29, 1999)
 
-![](https://i.ormos.uk/c7/73/c773e7afe145846365b817af5f1bd5f3f178e13fa5a74cbae384ab6bc9131339.jpg)Every set has its defining trait. For *Urza's Destiny* it was that it is the only set where I truly (remember, everyone and their brother submitted cards for *Unglued*) did a solo design. While I do not recommend doing this all the time, it was an interesting experience for me. And I was happy with how it turned out (although with 20/20 hindsight, perhaps development could have caught a few more of my “crazy broken” cards).
+![](https://i.ormos.uk/c7/73/c773e7afe145846365b817af5f1bd5f3f178e13fa5a74cbae384ab6bc9131339.jpg)
+
+Every set has its defining trait. For *Urza's Destiny* it was that it is the only set where I truly (remember, everyone and their brother submitted cards for *Unglued*) did a solo design. While I do not recommend doing this all the time, it was an interesting experience for me. And I was happy with how it turned out (although with 20/20 hindsight, perhaps development could have caught a few more of my “crazy broken” cards).
 
 For the *Urza's Destiny* prerelease I was in Florida. At The Walt Disney's Wide World of Sports complex to be exact. I was there for the Junior Super Series. The main side event was the *Urza's Destiny* prerelease. As I was busy judging, I didn't have time to walk the aisles as I normally do, but I did schedule breaks during all the pack openings. To be honest, the *Urza's Destiny* prerelease wasn't as special to me as *Tempest* or *Unglued*. Most of my memories of the event were of attendees playing a game of “That's crazy, but can you believe they printed this?”
 
@@ -235,7 +237,9 @@ As the saying goes, failure is the world's best teacher. And I learned a lot fro
 
 ### *Mirrodin* (September 20, 2003)
 
-![](https://i.ormos.uk/0d/e3/0de3920ecd1750e527943e9b3444aabd02badce0edb38f56b0c8d69d4e189b64.jpg)While everyone in R&D knew “artifacts” was worthy of a block theme, there were some doubts about how popular a theme it was. But I always had faith. I knew artifacts was a theme up there with multi-color and tribal. If we did it right, the set (heck, the block) was going to be a hit. And I knew many, many months before the prerelease that we did it right.
+![](https://i.ormos.uk/0d/e3/0de3920ecd1750e527943e9b3444aabd02badce0edb38f56b0c8d69d4e189b64.jpg)
+
+While everyone in R&D knew “artifacts” was worthy of a block theme, there were some doubts about how popular a theme it was. But I always had faith. I knew artifacts was a theme up there with multi-color and tribal. If we did it right, the set (heck, the block) was going to be a hit. And I knew many, many months before the prerelease that we did it right.
 
 I'd been hyping the set for months because I knew it could deliver. So, of course, I was dying for the prerelease. And then came the fateful news, I'd have to miss it? What?! You see, I'd promised my wife for five years that we'd celebrate our fifth anniversary with a cruise (we went on a cruise for our honeymoon). The cruise was booked for the 21st. The day after the pre-release. But as we were working out the flight schedules, it became clear that to make the boat, we had to travel the day before.
 

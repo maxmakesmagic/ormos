@@ -75,7 +75,9 @@ render_recovery:
   - Dispersing Orb
   occurrences: 21
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a904.jpg)Both of these players are 8-2 coming into the round, but Seppo certainly wasn't confident of his chances. Kai has an amazing red-blue deck with Rorix Bladewing, Arcanis the Omnipotent, and Blistering Firecat to name a few. The Finnish player is White-Blue, but at least he does have Akroma's Vengeance, the new Nevinyrral's Disk.
+![](http://www.wizards.com/sideboard/images/gpcop02/a904.jpg)
+
+Both of these players are 8-2 coming into the round, but Seppo certainly wasn't confident of his chances. Kai has an amazing red-blue deck with Rorix Bladewing, Arcanis the Omnipotent, and Blistering Firecat to name a few. The Finnish player is White-Blue, but at least he does have Akroma's Vengeance, the new Nevinyrral's Disk.
 
 ### Game 1
 
@@ -89,7 +91,9 @@ Kai Budde 1 – Seppo Toikka 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a905.jpg)Seppo went first, and summoned a Glory Seeker on turn three as he had just drawn it. Kai had a Sharpshooter again along with a Morph. The Morph blocked Glory Seeker, allowing Kai to shoot. Seppo made a Gustcloak Harrier and a Mistform Wall while Budde did nothing.
+![](http://www.wizards.com/sideboard/images/gpcop02/a905.jpg)
+
+Seppo went first, and summoned a Glory Seeker on turn three as he had just drawn it. Kai had a Sharpshooter again along with a Morph. The Morph blocked Glory Seeker, allowing Kai to shoot. Seppo made a Gustcloak Harrier and a Mistform Wall while Budde did nothing.
 
 After they had attacked once, Kai got to six mana and dropped Arcanis the Omnipotent, radfically altering the outlook of the game. Budde then used Ixidor's Will to counter Aven Fateshaper, drawing a comment about how playable the card was from Seppo. The Harrier continued to attack in the air until Kai put Lavamancer's Skill on his Arcanis.
 

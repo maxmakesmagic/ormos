@@ -53,7 +53,9 @@ archive_source:
   sha256: 2c1d01e64491c35c34a3b3a83c0bbdae18e48ed806db4f89e8be997199285954
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gptai02/a975.jpg)This round saw a pair of Taiwan's lesser known commodities face-off at 5-0. Wen Jien Hwang is running a souped-up red-green deck that has a secret weapon should something go wrong: Ensnaring Bridge. An abundance of burn lets him win at his leisure. Kang Nien Chiang is playing a Green-Blue-Red Squirrel-Opposition deck that draws added firepoewr from Phantom Centaur.
+![](http://www.wizards.com/sideboard/images/gptai02/a975.jpg)
+
+This round saw a pair of Taiwan's lesser known commodities face-off at 5-0. Wen Jien Hwang is running a souped-up red-green deck that has a secret weapon should something go wrong: Ensnaring Bridge. An abundance of burn lets him win at his leisure. Kang Nien Chiang is playing a Green-Blue-Red Squirrel-Opposition deck that draws added firepoewr from Phantom Centaur.
 
 The match started in a flurry of action. Chiang led with Birds of Paradise, promtly Hammered by Hwang. He bounced back with Mongrel, then Fiery Temper for Chiang's Call of the Herd. Chiang's next play was no pushover: Phantom Centaur. Hwang put the brakes on with Ensnaring Bridge. Chiang flashed the Call back and waited.
 

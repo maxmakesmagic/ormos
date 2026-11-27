@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Early Nguyen* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/730a.jpg)After sharing a table for deck construction, the two players started the round early, gathering a large crowd of spectators. In keeping with his reputation as a crowd pleaser, Mike Long put on a show for the crowd that kept even those who had little idea of what was happening amused. Having won the die roll, Long chose to play first. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/730a.jpg)
+
+After sharing a table for deck construction, the two players started the round early, gathering a large crowd of spectators. In keeping with his reputation as a crowd pleaser, Mike Long put on a show for the crowd that kept even those who had little idea of what was happening amused. Having won the die roll, Long chose to play first. 
 
 **Game 1** 
 

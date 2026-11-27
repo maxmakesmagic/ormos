@@ -51,7 +51,9 @@ archive_source:
   sha256: 593c01bc65120a9ea37879be9e865cba2055c4d80bf06686a2feb743b17f09f3
 render_recovery: []
 ---
-![](http://wizards.com//mtg/images/daily/events/ptq_2012.jpg)The Pro Tour Qualifier season for Pro Tour *Born of the Gods* is under way. This is your chance to test your Sealed Deck and Booster Draft skills, because invitations and tickets to Pro Tour *Born of the Gods* go to PTQ winners! 
+![](http://wizards.com//mtg/images/daily/events/ptq_2012.jpg)
+
+The Pro Tour Qualifier season for Pro Tour *Born of the Gods* is under way. This is your chance to test your Sealed Deck and Booster Draft skills, because invitations and tickets to Pro Tour *Born of the Gods* go to PTQ winners! 
 
 Look through the events below for Top 8 Booster Draft decklists. You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130829000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw. 
 

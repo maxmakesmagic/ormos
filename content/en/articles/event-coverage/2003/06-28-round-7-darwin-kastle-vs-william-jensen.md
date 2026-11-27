@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a846.jpg)Darwin Kastle wouldn't deny that limited isn't his strong suit. With Top 8's this season in both Extended and Block Constructed, it's clear that he's more at home with sixty card decks than forty. The smaller stacks are no trouble for William "Huey" Jensen, who Top 8'd Chicago's Rochester Draft Pro Tour. Of course, his Top 4 at Venice was none too shabby either. Strangely, both these two giants are sitting at 3-3, needing to win out to have a shot at the Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a846.jpg)
+
+Darwin Kastle wouldn't deny that limited isn't his strong suit. With Top 8's this season in both Extended and Block Constructed, it's clear that he's more at home with sixty card decks than forty. The smaller stacks are no trouble for William "Huey" Jensen, who Top 8'd Chicago's Rochester Draft Pro Tour. Of course, his Top 4 at Venice was none too shabby either. Strangely, both these two giants are sitting at 3-3, needing to win out to have a shot at the Top 8.
 
 ### Game 1
 
@@ -75,7 +77,9 @@ Jensen started the second game with [Shepherd of Rot](https://web.archive.org/we
 
 Jensen dashed his hopes with a fourth land and [Undead Warchief](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Undead+Warchief). The [Skinthinner](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner) and Legion smashed in. Kastle traded his Buzzard for the Legion, but with the Shepherd activation Kastle was down to just five. He played his fifth land and sent it back to Jensen. He played a Brawler and bashed in.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a845.jpg)Kastle had [Caller of the Claw](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Caller+of+the+Claw) at instant speed, and put it in front of the [Skinthinner](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner), then Timberwatch on the Warchief. It pumped itself, but it didn't matter, as Jensen had [Vitality Charm](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm) to trample over the [Call](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call)er. Kastle had [Wirewood Pride](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Pride) to make it close, but the Shepherd plus one trample was enough.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a845.jpg)
+
+Kastle had [Caller of the Claw](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Caller+of+the+Claw) at instant speed, and put it in front of the [Skinthinner](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner), then Timberwatch on the Warchief. It pumped itself, but it didn't matter, as Jensen had [Vitality Charm](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm) to trample over the [Call](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call)er. Kastle had [Wirewood Pride](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Pride) to make it close, but the Shepherd plus one trample was enough.
 
 Jensen 1 – Kastle 0 – Draws 1
 
@@ -95,7 +99,9 @@ Jensen tried to put up his defenses. He played a Brawler showing Polluter, and a
 
 "Yeah, pretty much the only way around [Caller of the Claw](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Caller+of+the+Claw) was the block you made." – Darwin Kastle. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a847.jpg)Jensen played another land and his Polluter. Kastle answered with [Bladewing's Thrall](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bladewing%27s+Thrall). Jensen made no play. Kastle found his eighth land for his Invoker and played it slow, assassinating Jensen's team. Jensen played still more land. When Kastle finally dropped [Skinthinner](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner) and unmorphed it, leaving Jensen with no board, he was willing to commit to an attack. Jensen dropped a hand of all land on the table. He'd drawn only four spells that game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a847.jpg)
+
+Jensen played another land and his Polluter. Kastle answered with [Bladewing's Thrall](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bladewing%27s+Thrall). Jensen made no play. Kastle found his eighth land for his Invoker and played it slow, assassinating Jensen's team. Jensen played still more land. When Kastle finally dropped [Skinthinner](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner) and unmorphed it, leaving Jensen with no board, he was willing to commit to an attack. Jensen dropped a hand of all land on the table. He'd drawn only four spells that game.
 
 Jensen 1 – Kastle 1 – Draws 1
 

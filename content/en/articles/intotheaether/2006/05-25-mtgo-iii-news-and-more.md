@@ -1189,7 +1189,9 @@ Iron Phoenix was an old-school deck that utilized some of the old “empty hand�
 
 ### Przemek Wołowiec's Civilian-Eye Look at the Magic Invitational
 
-![](http://www.wizards.com/sideboard/images/mi06/photo11.jpg)[E3 Championship](/en/articles/feature/2006/03-20-magic-invitational-at-e3-tournament) [Winner Przemysław Wołowiec](/en/articles/intotheaether/2006/04-13-into-the-aether-checks-in-with-the-e3-contest-champ) is back home from the **Magic** Invitational, so I thought we could check in with him and see what he thought of the experience.
+![](http://www.wizards.com/sideboard/images/mi06/photo11.jpg)
+
+[E3 Championship](/en/articles/feature/2006/03-20-magic-invitational-at-e3-tournament) [Winner Przemysław Wołowiec](/en/articles/intotheaether/2006/04-13-into-the-aether-checks-in-with-the-e3-contest-champ) is back home from the **Magic** Invitational, so I thought we could check in with him and see what he thought of the experience.
 
 ***ITA**: So, how was the trip over to L.A. from Poland?*  
 **Przemysław Wołowiec**: The trip was about 15 hours. First we flew to Munich then to L.A. The trip back was a bit longer because we had to wait 4 hours in Frankfurt for our plane. But it was definitely worth it.
@@ -1220,7 +1222,9 @@ Iron Phoenix was an old-school deck that utilized some of the old “empty hand�
 
 ### My Mid-Atlantic Regionals Experience
 
-![](https://i.ormos.uk/21/25/21250e9a2ddd82a6cc88ab33c84a5a0b78432febd19a4550f55a359cfcb356f0.jpg)It was a mixed bag. Personally, I didn't do so well with my U/G Simic deck, ending the day with a fairly miserable 1-3 run. I think the deck was good, but I didn't get to playtest with it enough and a few play errors combined with a few unlucky breaks ended my day pretty early. On the flip side, my good friend Kevin Davis took his homebrew Black/White control deck to a 5th place seed into the Top 8, and defeated a Black/White aggro deck to clench an invite to U.S. Nationals. Kevin and I have played **Magic** together for years, but as a National Guardsman, he got an extended vacation over in Iraq for a few years. I saw him again for Grand Prix--Richmond, and we've been playing **Magic** together ever since.
+![](https://i.ormos.uk/21/25/21250e9a2ddd82a6cc88ab33c84a5a0b78432febd19a4550f55a359cfcb356f0.jpg)
+
+It was a mixed bag. Personally, I didn't do so well with my U/G Simic deck, ending the day with a fairly miserable 1-3 run. I think the deck was good, but I didn't get to playtest with it enough and a few play errors combined with a few unlucky breaks ended my day pretty early. On the flip side, my good friend Kevin Davis took his homebrew Black/White control deck to a 5th place seed into the Top 8, and defeated a Black/White aggro deck to clench an invite to U.S. Nationals. Kevin and I have played **Magic** together for years, but as a National Guardsman, he got an extended vacation over in Iraq for a few years. I saw him again for Grand Prix--Richmond, and we've been playing **Magic** together ever since.
 
 Kevin qualified for the Pro Tour once a while back (Pro Tour Lin Sivvi) on the back of a Necro deck, so it didn't surprise me when he started leaning towards playing a black-based deck with black card drawing. Kevin's always felt like swapping life for cards was a pretty good deal, and while he liked Phyrexian Arena, he rightly zeroed in on the power of Dark Confidant. Interestingly, he decided to run Bob alongside Sensei's Divining Top, a strategy that was mentioned in the [Invitational blog](/en/events/2005/mi05/thursday-at-the-2005-magic-invitational#21) when Dark Confidant was first revealed to the public – Dark Confidant “will occupy the same Standard format as Sensei's Divining Top for a full year, so you can expect players to use and abuse those two cards as soon as *Ravnica* bumps *Mirrodin* out of the format.” That really didn't happen; first, Bob was ignored by the metagame at large, but then once he started seeing play, it was sheer “suicide” – pack the deck with a fairly low curve, take the random life loss hit and win with the extra cards and sheer aggressiveness. Kevin took Bob full circle and matched him up with the card of his destiny, Sensei's Divining Top.
 

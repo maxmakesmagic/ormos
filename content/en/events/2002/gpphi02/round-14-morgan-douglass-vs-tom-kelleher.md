@@ -139,7 +139,9 @@ render_recovery:
   - Walking Desecration
   occurrences: 107
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a872.jpg)Morgan Douglass is an IRC fixture (mdouglass) and a Maryland native with several Pro Tour appearances. Tom Kelleher is a Philadelphia local lawyer who also has some Pro Tour experience. Neither player has made a top 8 at a premiere event, but the winner of this match will almost certainly reach their first top 8. The loser will have to settle for a top 16 finish and hope that the qualification slots fall down far enough.
+![](http://www.wizards.com/sideboard/images/gpphi02/a872.jpg)
+
+Morgan Douglass is an IRC fixture (mdouglass) and a Maryland native with several Pro Tour appearances. Tom Kelleher is a Philadelphia local lawyer who also has some Pro Tour experience. Neither player has made a top 8 at a premiere event, but the winner of this match will almost certainly reach their first top 8. The loser will have to settle for a top 16 finish and hope that the qualification slots fall down far enough.
 
 Morgan's deck is one of the more popular in the room: red/green beasts. It is a fast deck, featuring fast red goblins and large green men backed by spot removal. Tom's deck is a black/white monstrosity based around clerics.
 
@@ -167,7 +169,9 @@ The Brackus was joined next turn by a Treespring Lorian, while all Tom's deck pu
 
 After Tom chumped once with a Shepherd of Rot and got it back as side effect of a Cruel Revival targeting Morgan's Treespring Lorian. Still at thirteen, Tom had a reasonable shot at turning the game around.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a871.jpg)Then Morgan summoned a Blistering Firecat.
+![](http://www.wizards.com/sideboard/images/gpphi02/a871.jpg)
+
+Then Morgan summoned a Blistering Firecat.
 
 "Oh, that's a problem." Tom Kelleher
 

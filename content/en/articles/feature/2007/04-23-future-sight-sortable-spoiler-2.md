@@ -61,6 +61,8 @@ archive_source:
   sha256: bafd6e02773a5be83a130aac02c1fb01684d3d679a959050ef742a40bf489be1
 render_recovery: []
 ---
-![](https://i.ormos.uk/d6/7d/d67d84c180ae2d912d8c3afd49fd11219f52f792b62499d0959cd7068b12e42b.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Future Sight*. Enjoy! 
+![](https://i.ormos.uk/d6/7d/d67d84c180ae2d912d8c3afd49fd11219f52f792b62499d0959cd7068b12e42b.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Future Sight*. Enjoy! 
 
 **[Launch the *Future Sight* card list](https://web.archive.org/web/20070423000000/http://archive.wizards.com/default.asp?x=magic/cardlist/futuresight)**

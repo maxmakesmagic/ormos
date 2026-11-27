@@ -61,7 +61,9 @@ archive_source:
   sha256: 672a0b271cba6ba8bddf83a9a486c3496fb21348b170c464b2e8f4fcb690b133
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT00/images/LongInterview.jpg)Michael Long is a controversial player. Over the course of the years, he has gained a reputation that few players can match. Stories are told about him and for example the infamous Cadaverous Bloom on his chair, and he was recently disqualified from the US Draft Challenge at the U.S. Nationals. Still, most of what you hear about him are rumours or fractions told by someone else. What is Michael's own side of the story?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/USNAT00/images/LongInterview.jpg)
+
+Michael Long is a controversial player. Over the course of the years, he has gained a reputation that few players can match. Stories are told about him and for example the infamous Cadaverous Bloom on his chair, and he was recently disqualified from the US Draft Challenge at the U.S. Nationals. Still, most of what you hear about him are rumours or fractions told by someone else. What is Michael's own side of the story?
 
 "I started playing professionally when I was 19 years old, and I was a different person than I am now. I was very competitive and secretive towards people outside my narrow playtest group. I acted like a jackass, and people responded accordingly. So my reputation has a fair amount of validity," Michael Long says, not at all denying the fact that he has done some stupid things in his career.
 

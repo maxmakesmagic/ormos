@@ -44,7 +44,9 @@ archive_source:
   sha256: fe9f866870989136956c9bc7c5ab6c6d273597e332310778d8f78e2b4cc4d76b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/sf1_1.jpg)Jedlicka disposed of his kid brother in the Quarter's and now faces the host nation's last chance to take the title in David Grant.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/sf1_1.jpg)
+
+Jedlicka disposed of his kid brother in the Quarter's and now faces the host nation's last chance to take the title in David Grant.
 
 ### Game 1
 

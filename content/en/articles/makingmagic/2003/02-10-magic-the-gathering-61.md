@@ -61,7 +61,9 @@ archive_source:
   sha256: 5e93e3418e71bbcd37a10995d0081f8f8c350ae93e3c0b169434cbb7fcf69c2c
 render_recovery: []
 ---
-![Time to go?](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/58_coat.jpg)You get to your desk and realize that it’s past 6:00 pm. It’s time to go home. You check your schedule for tomorrow to find out when your first meeting is. Oh, you’ve got a tournament team meeting at 8:00 am. Jeff hasn’t cancelled it yet so there’s an 80% chance the meeting will actually happen. (Jeff’s been getting better; let’s call it 90%.)
+![Time to go?](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/58_coat.jpg)
+
+You get to your desk and realize that it’s past 6:00 pm. It’s time to go home. You check your schedule for tomorrow to find out when your first meeting is. Oh, you’ve got a tournament team meeting at 8:00 am. Jeff hasn’t cancelled it yet so there’s an 80% chance the meeting will actually happen. (Jeff’s been getting better; let’s call it 90%.)
 
 [Go home.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=77)  
 [Work some more.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=78)

@@ -40,7 +40,9 @@ render_recovery:
 ---
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif"></td>&#10;			<td>&#10;			<h2>2000 Grand Prix Sapporo Coverage</h2>&#10;			</td>&#10;			<td> </td>&#10;		</tr></tbody></table>
 
-![](https://i.ormos.uk/a8/83/a88330de476d62daaf3f17483a896a7e3313d8f89bb89691cdb896e482e843ab.jpg)Satoshi Nakamura has won Grand Prix-Sapporo, to become the first Grand Prix Champion of the new Pro Tour season! He defeated Buddhist priest Takamasa Fukata in the finals. There were 267 players in the tournament, which was held in the Sapporo Beer Factory. The tournament location also had an 11-screen multiplex movie theatre, an IMAX movie theatre and a Toys-R-Us toy store. The head judge was Takashi Aida, who is one of only two level three judges in Japan.
+![](https://i.ormos.uk/a8/83/a88330de476d62daaf3f17483a896a7e3313d8f89bb89691cdb896e482e843ab.jpg)
+
+Satoshi Nakamura has won Grand Prix-Sapporo, to become the first Grand Prix Champion of the new Pro Tour season! He defeated Buddhist priest Takamasa Fukata in the finals. There were 267 players in the tournament, which was held in the Sapporo Beer Factory. The tournament location also had an 11-screen multiplex movie theatre, an IMAX movie theatre and a Toys-R-Us toy store. The head judge was Takashi Aida, who is one of only two level three judges in Japan.
 
 Satoshi Nakamura added to an already impressive Pro Tour resume, which includes being 1998 APAC Champion, a 1998 Magic Invitational participant, Top 32 at Pro Tour London and Top 32 at Worlds 2000.
 

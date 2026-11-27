@@ -53,7 +53,9 @@ archive_source:
   sha256: 6972f76675b83a6c364a4b847decd11baefa92318778d74649b639a11e4ceefe
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a845.jpg)Both Finland's Tomi Walamies and Argentina's Diego Ostrovich had fantastic seasons last year, earning berths in the Magic Invitational. Since then, Ostrovich has been having a pretty good year, showing that he is here to stay. Walamies, on the other hand, has been ready to pack it up for the past few months; a string of poor finishes has had him ready to retire. After this event, he's going to have to reconsider.
+![](http://www.wizards.com/sideboard/images/ptven03/a845.jpg)
+
+Both Finland's Tomi Walamies and Argentina's Diego Ostrovich had fantastic seasons last year, earning berths in the Magic Invitational. Since then, Ostrovich has been having a pretty good year, showing that he is here to stay. Walamies, on the other hand, has been ready to pack it up for the past few months; a string of poor finishes has had him ready to retire. After this event, he's going to have to reconsider.
 
 ### Game 1
 
@@ -65,7 +67,9 @@ Walamies 1 – Ostrovich 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptven03/a846.jpg)Walamies attacked with a Skirk Prospector turn 2 only to see it die at the hands of a Vitality Charm-spawned Insect. Diego played a Lightning Rift on his turn and passed.
+![](http://www.wizards.com/sideboard/images/ptven03/a846.jpg)
+
+Walamies attacked with a Skirk Prospector turn 2 only to see it die at the hands of a Vitality Charm-spawned Insect. Diego played a Lightning Rift on his turn and passed.
 
 Walamies played Thoughtbound Primoc on turn three, and it was quite evident why "the Littlest Serendib" is in favor this weekend: he doesn't die easily to Lightning Rift. That, and there are no Wizards to be found in the environment. Of course, Ostrovich showed why Chain of Plasma was in his deck, killing the flier with little effort.
 

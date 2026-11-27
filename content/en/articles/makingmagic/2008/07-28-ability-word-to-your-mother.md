@@ -266,7 +266,9 @@ What followed was a healthy debate between Pegaweb and several of the other boar
 
 ### Ability Word To The Wise
 
-![Sanity_Grinding](https://i.ormos.uk/2a/ed/2aedc902214d789893e500ecec04736687dda0443057f77ee3f507c4d9af90b3.jpg)So what exactly is an ability word, and how is it different from a keyword? I guess we can begin by checking out the Comprehensive Rules (a.k.a. “The Rules”). Keywords are actually broken into two parts, keyword abilities and keyword actions. Here is how each is defined:
+![Sanity_Grinding](https://i.ormos.uk/2a/ed/2aedc902214d789893e500ecec04736687dda0443057f77ee3f507c4d9af90b3.jpg)
+
+So what exactly is an ability word, and how is it different from a keyword? I guess we can begin by checking out the Comprehensive Rules (a.k.a. “The Rules”). Keywords are actually broken into two parts, keyword abilities and keyword actions. Here is how each is defined:
 
 > **Keyword Ability**  
 >  Some abilities are very common or would require too much space to define on a card. These abilities list only the name of the ability as a "keyword"; sometimes reminder text summarizes the game rule. See rule 502, "Keyword Abilities."  
@@ -361,52 +363,72 @@ Last week, all of the site’s authors were scrambled, and every article was att
 
 Last week’s articles have all been updated with the answers in hidden text at the bottom, but if you want to know all the answers at once, click here.
 
-![](https://i.ormos.uk/73/dc/73dc2c209bef80978eea09781f3075d348fa6472480299108af0945ff889dce7.jpg)[Monday’s feature article](/en/articles/feature/2008/07-21-four-short-stories-about-eventide) was written by *Eventide* designer / developer Kenneth Nagle!
+![](https://i.ormos.uk/73/dc/73dc2c209bef80978eea09781f3075d348fa6472480299108af0945ff889dce7.jpg)
+
+[Monday’s feature article](/en/articles/feature/2008/07-21-four-short-stories-about-eventide) was written by *Eventide* designer / developer Kenneth Nagle!
 
   
   
 
-![](https://i.ormos.uk/35/5f/355f77adee82ce3c475fec9f623b66c7cf36641ac6c5ca9ba77838f5ab24c415.jpg)[Making Magic](/en/articles/makingmagic/2008/07-21-dont-shoot-the-messenger) was written by House of Cards columnist Chris Millar!
+![](https://i.ormos.uk/35/5f/355f77adee82ce3c475fec9f623b66c7cf36641ac6c5ca9ba77838f5ab24c415.jpg)
+
+[Making Magic](/en/articles/makingmagic/2008/07-21-dont-shoot-the-messenger) was written by House of Cards columnist Chris Millar!
 
   
   
 
-![](https://i.ormos.uk/41/94/41940d44ba2ad4dc04a9f3e586d46af25897d1120c62f65579c8d09af0bd1a1a.jpg)[Serious Fun](/en/articles/seriousfun/2008/07-22-ways-to-play) was written by Limited Information author Steve Sadin!
+![](https://i.ormos.uk/41/94/41940d44ba2ad4dc04a9f3e586d46af25897d1120c62f65579c8d09af0bd1a1a.jpg)
+
+[Serious Fun](/en/articles/seriousfun/2008/07-22-ways-to-play) was written by Limited Information author Steve Sadin!
 
   
   
 
-![](https://i.ormos.uk/11/d8/11d83670a730084b46b0b8f1b5bef2b4cebac0f58ab43537bda83b934d839695.jpg)[Limited Information](/en/articles/limitedinformation/2008/07-22-my-taa-da-list) was written by The Week That Was author Brian David-Marshall!
+![](https://i.ormos.uk/11/d8/11d83670a730084b46b0b8f1b5bef2b4cebac0f58ab43537bda83b934d839695.jpg)
+
+[Limited Information](/en/articles/limitedinformation/2008/07-22-my-taa-da-list) was written by The Week That Was author Brian David-Marshall!
 
   
   
 
-![](https://i.ormos.uk/ff/eb/ffeb0ef63ec2d0934c3b1e82fc79441bdafcc539e4ef3cf9e36bdb257a10a93b.jpg)[Taste the Magic](/en/articles/feature/2008/07-23-art-appreciation-jeremy-jarvis) was written by Making Magic author and **Magic** head designer Mark Rosewater. Special thanks are due to interviewee Jeremy Jarvis!
+![](https://i.ormos.uk/ff/eb/ffeb0ef63ec2d0934c3b1e82fc79441bdafcc539e4ef3cf9e36bdb257a10a93b.jpg)
+
+[Taste the Magic](/en/articles/feature/2008/07-23-art-appreciation-jeremy-jarvis) was written by Making Magic author and **Magic** head designer Mark Rosewater. Special thanks are due to interviewee Jeremy Jarvis!
 
   
   
 
-![](https://i.ormos.uk/3f/a1/3fa15c700ac00542fb32c2741ccc6f4383140be435e8925531d65e73878f05f0.jpg)[Building on a Budget](/en/articles/buildingonabudget/2008/07-23-blowfly-dont-bother-me) was written by **magicthegathering.com** Editor in Chief Scott Johns!
+![](https://i.ormos.uk/3f/a1/3fa15c700ac00542fb32c2741ccc6f4383140be435e8925531d65e73878f05f0.jpg)
+
+[Building on a Budget](/en/articles/buildingonabudget/2008/07-23-blowfly-dont-bother-me) was written by **magicthegathering.com** Editor in Chief Scott Johns!
 
   
   
 
-![](https://i.ormos.uk/b4/cb/b4cb1dbc8b6ce71bfe038cb69426ccfbcc17b7781c40cd762bbfe20c243502e3.jpg)[Swimming with Sharks](/en/articles/swimmingwithsharks/2008/07-24-rrr-2-b-2-b-2-b-2-w-u-w-u-1g-the-trophy) was written by Latest Developments author and **Magic** head developer Devin Low!
+![](https://i.ormos.uk/b4/cb/b4cb1dbc8b6ce71bfe038cb69426ccfbcc17b7781c40cd762bbfe20c243502e3.jpg)
+
+[Swimming with Sharks](/en/articles/swimmingwithsharks/2008/07-24-rrr-2-b-2-b-2-b-2-w-u-w-u-1g-the-trophy) was written by Latest Developments author and **Magic** head developer Devin Low!
 
   
   
 
-![](https://i.ormos.uk/19/a2/19a2d9eb2943ca4390a0da046866d361fb3b56d151036412851132dc24a44d60.jpg)[House of Cards](/en/articles/houseofcards/2008/07-24-hi-lander) was written by Building on a Budget author Ben Bleiweiss!
+![](https://i.ormos.uk/19/a2/19a2d9eb2943ca4390a0da046866d361fb3b56d151036412851132dc24a44d60.jpg)
+
+[House of Cards](/en/articles/houseofcards/2008/07-24-hi-lander) was written by Building on a Budget author Ben Bleiweiss!
 
   
   
 
-![](https://i.ormos.uk/36/ec/36ec6013327716582eaca4dccd0e02a5ff23310016e218e4b883d659190f9844.jpg)[Latest Developments](/en/articles/latestdevelopments/2008/07-25-mimics-and-the-mission-of-eventide) was written by Taste the Magic author Doug Beyer!
+![](https://i.ormos.uk/36/ec/36ec6013327716582eaca4dccd0e02a5ff23310016e218e4b883d659190f9844.jpg)
+
+[Latest Developments](/en/articles/latestdevelopments/2008/07-25-mimics-and-the-mission-of-eventide) was written by Taste the Magic author Doug Beyer!
 
   
   
 
-![](https://i.ormos.uk/16/05/16053b7b64b9e7e5aa81d46a9f7443e364df99c959f8bc26ce8f2d50e0a65053.jpg)[The Week That Was](/en/articles/theweekthatwas/2008/07-25-any-given-tuesday) was written by Swimming with Sharks author Mike Flores!
+![](https://i.ormos.uk/16/05/16053b7b64b9e7e5aa81d46a9f7443e364df99c959f8bc26ce8f2d50e0a65053.jpg)
+
+[The Week That Was](/en/articles/theweekthatwas/2008/07-25-any-given-tuesday) was written by Swimming with Sharks author Mike Flores!
 
   
   

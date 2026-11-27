@@ -158,7 +158,9 @@ Stephane wished he could play the Triskelion again, but has to settle for Skyhun
 
 And except for attacking for 2 with the Skyhunter, nothing happens indeed.
 
-![](https://www.wizards.com/sideboard/images/gplyo03/975.jpg)Peter serves with Cathodion and plays the Archers again after topdecking a forest. Stephane plays another land and sits behind his 6 lands and Skyhunter. He is not doing nothing, because the land played is Stalking Stones, so he might be able to activate it when he survives the next attack Peter has in store for him.
+![](https://www.wizards.com/sideboard/images/gplyo03/975.jpg)
+
+Peter serves with Cathodion and plays the Archers again after topdecking a forest. Stephane plays another land and sits behind his 6 lands and Skyhunter. He is not doing nothing, because the land played is Stalking Stones, so he might be able to activate it when he survives the next attack Peter has in store for him.
 
 Peters Army serves for 5 and Stephane activates Stalking Stones end of turn, but not after Peter played the Vulshok Battlegear. Triskelion is Stephane's next plan. Although he mulliganed Stalking Stones are left untapped.
 

@@ -54,7 +54,9 @@ render_recovery:
   - Major Teroh
   occurrences: 1
 ---
-![](https://i.ormos.uk/b2/73/b273ec50ddfc99df20409c10121ba3c48a29f07f8531f7e5c6ebff5fd526d267.jpg)Eivind Nitter は安堵と満足とをたたえた表情を作った。彼は Ed Fear をスイス最終戦で破り、とうとう念願の Pro Tour Top 8 入賞を果たしたのだ。23 歳の欧州王者にとって、今回の Top 8 入賞は予想外の出来事だった。
+![](https://i.ormos.uk/b2/73/b273ec50ddfc99df20409c10121ba3c48a29f07f8531f7e5c6ebff5fd526d267.jpg)
+
+Eivind Nitter は安堵と満足とをたたえた表情を作った。彼は Ed Fear をスイス最終戦で破り、とうとう念願の Pro Tour Top 8 入賞を果たしたのだ。23 歳の欧州王者にとって、今回の Top 8 入賞は予想外の出来事だった。
 
 *「いつも、どこかしらで躓いてしまうという負けグセ...というか勝ちきれないところがあっただけに、大きく自信を取り戻せたような感じだね」*と、Nitter は言う。
 

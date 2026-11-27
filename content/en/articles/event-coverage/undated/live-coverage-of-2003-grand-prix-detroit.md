@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/aa/5b/aa5bdbad184fea20f2d1d222643bc5359bfa05188b3c8f5aae2827f3e842a595.jpg)Bob Maher, Jr. is the Grand Prix - Detroit Champion! Battling through a field of mono-white control, Slide, and above all Goblins, Maher smashed face with a Red-White Control deck that a lot of people were calling "Slideless Slide". Designed by Brian Kowal, someone Maher considers something of a Block Constructed wizard, the deck dumps slides and Exalted Angels for more land and control cards. In fact, his bustigation was total. The deck went completely undefeated, scooping to Severa to get him into the Top 8, and then drew with Shvartsman. Once in the Top 8, his wrecking streak continued.
+![](https://i.ormos.uk/aa/5b/aa5bdbad184fea20f2d1d222643bc5359bfa05188b3c8f5aae2827f3e842a595.jpg)
+
+Bob Maher, Jr. is the Grand Prix - Detroit Champion! Battling through a field of mono-white control, Slide, and above all Goblins, Maher smashed face with a Red-White Control deck that a lot of people were calling "Slideless Slide". Designed by Brian Kowal, someone Maher considers something of a Block Constructed wizard, the deck dumps slides and Exalted Angels for more land and control cards. In fact, his bustigation was total. The deck went completely undefeated, scooping to Severa to get him into the Top 8, and then drew with Shvartsman. Once in the Top 8, his wrecking streak continued.
 
 First he cleared out Derek Starleaf and his Mono-White Control deck. He drew Shvartsman in the semifinals, who had merciless crushed Severa's Goblins with his mono-red "Bad Form" control deck. Shvartsman was already polishing the trophy in his mind, but Maher saw the matchup as drastically in his favor. Two short games later Maher was in the finals. He drew the Former Champ, Eugene Harvey. Harvey's Slide deck had served him well, besting Mark Herberholz in a mirror-match quarterfinals, and then did the same trick again against Josh Ravitz, who had punished Morgan Douglass in the quarters for playing Goblins.
 

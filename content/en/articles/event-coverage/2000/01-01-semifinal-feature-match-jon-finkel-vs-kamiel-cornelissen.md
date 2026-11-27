@@ -44,7 +44,9 @@ archive_source:
   sha256: 5f39f8ad9dc0b9c5f33e765424edb86fc6c6facd3df4c8bd0d02eaeb0f7fe0d4
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/677.jpg)Classically, red/black beatdown has a tough time beating green/red because fat green creatures tend to be too large for the red removal, even if they do topple to the black cards like Demise. What made things worse for the American were the splash white cards in his opponents deck: Armadillo Cloak; Rith, the Awakener; and Armadillo Cloak. Things were by no means a foregone conclusion though as he had a few bombs himself: a 4th-pick Pyre Zombie, Urza's Rage and a Reckless Spite.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/677.jpg)
+
+Classically, red/black beatdown has a tough time beating green/red because fat green creatures tend to be too large for the red removal, even if they do topple to the black cards like Demise. What made things worse for the American were the splash white cards in his opponents deck: Armadillo Cloak; Rith, the Awakener; and Armadillo Cloak. Things were by no means a foregone conclusion though as he had a few bombs himself: a 4th-pick Pyre Zombie, Urza's Rage and a Reckless Spite.
 
 The whole match was played in relative silence with only the occasional whoop from the crowd as the bombs hit the table, but the atmosphere crackled as two of the people at the pinnacles of their games faced off for a place in the final. Finkel, the undisputed number 1 player in the world, facing the man who has the highest average individual finish in Pro Tours ever: Kamiel had only played in three Pro Tours to date; his positions being 11th, 2nd and in the semis here.
 
@@ -58,7 +60,9 @@ Game 1 to Kamiel
 
 Cornelissen sideboarded out a Quirion Sentinel for a Restock. If he were playing against a faster red/black deck this may have been a questionable thing to do, but Finkel did not have too many turn 2 drops in his deck.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/680.jpg)Again Jon played first, and this time he managed to make a turn two drop in the form of a Hate Weaver, then an Aggressor the turn after. This strong start was immediately threatened as a Fertile Ground allowed the Dutchman to make a Quirion Sentinel and Crimson Acolyte on turn 3. The answer was in hand though, as he Soul Burned the Crimson Acolyte promptly then traded his Hate Weaver with the Sentinel, choosing to hold his 3 power Aggressor for later.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/680.jpg)
+
+Again Jon played first, and this time he managed to make a turn two drop in the form of a Hate Weaver, then an Aggressor the turn after. This strong start was immediately threatened as a Fertile Ground allowed the Dutchman to make a Quirion Sentinel and Crimson Acolyte on turn 3. The answer was in hand though, as he Soul Burned the Crimson Acolyte promptly then traded his Hate Weaver with the Sentinel, choosing to hold his 3 power Aggressor for later.
 
 Jon could only reduce Kamiel to 12 life before the green player stabilized as fat creature after fat creature loafed onto the board. A kicked Pincer Spider and a Serpentine Kavu were both Plague Spored, but a Kavu Climber followed by two more 'Restocked' fatties made the situation dire for the now creatureless World Champion. As a last ditch effort Finkel casts Reckless Spite to hold off the attack, but it was answered with an equally devastating Rith the Awakener.
 
@@ -70,7 +74,9 @@ Many top Pro Tour players believed that Finkel had been under the influence of m
 
 Of course, as fate would have it, the first play in this match was a turn 2 Crimson Acolyte and it didn't get any better for Jon from that point. Kamiel managed to finish the game on 18 life as the only spells Finkel cast were Pyre Zombie, Phyrexian Slayer, Viashino Grappler and Ravenous Rats before he died. As you can imagine these small creatures were not enough to deal with a Cloaked up Serpentine Kavu, when a Crimson Acolyte was on the table, so no amount of trickery from the worlds best player could save him from the battering.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/674.jpg)It should be said that despite his draws being nuts (he was only playing 1 Acolyte) Kamiel performed impressively well throughout the match and never gave Jon the chance to get any form of card advantage.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/674.jpg)
+
+It should be said that despite his draws being nuts (he was only playing 1 Acolyte) Kamiel performed impressively well throughout the match and never gave Jon the chance to get any form of card advantage.
 
 **Final Result:** Kamiel Cornelissen wins 3-0
 

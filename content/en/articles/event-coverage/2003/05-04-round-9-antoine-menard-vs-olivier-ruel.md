@@ -48,7 +48,9 @@ This was a rematch of round six, where they had played each other for the honor 
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natfra03/a944.jpg)Olivier's version of Wake is a little different in that he has Angel's maindeck, which s becoming more standard, as well as more countermagic. Antoine played a second turn [Wild Mongrel](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel), which Olivier countered. Menard then played an [Aquamoeba](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba) which resolved. He used it to drop a [Basking Rootwalla](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla) into play.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natfra03/a944.jpg)
+
+Olivier's version of Wake is a little different in that he has Angel's maindeck, which s becoming more standard, as well as more countermagic. Antoine played a second turn [Wild Mongrel](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel), which Olivier countered. Menard then played an [Aquamoeba](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba) which resolved. He used it to drop a [Basking Rootwalla](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla) into play.
 
 Olivier made a fairly unmysterious morph, but Antoine just unsummoned it and madnessed out an [Arrogant Wurm](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrogant+Wurm) at the end of turn. His next attack dropped Olivier to seven, so he [Cunning Wish](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cunning+Wish)ed for a [Moment's Peace](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moment%27s+Peace) to buy a little more time.
 
@@ -58,7 +60,9 @@ Olivier Ruel 1 – Antoine Menard 0
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natfra03/a943.jpg)Olivier has an interesting sideboard with four [Chastise](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chastise). He brought all of these in and took out [Mirari's Wake](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari%27s+Wake)s and [Mirari](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari)s, which are next to useless in this matchup anyway.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natfra03/a943.jpg)
+
+Olivier has an interesting sideboard with four [Chastise](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chastise). He brought all of these in and took out [Mirari's Wake](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari%27s+Wake)s and [Mirari](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari)s, which are next to useless in this matchup anyway.
 
 Antoine cursed under his breath as he drew an opening hand with no lands, and mulliganed into a landless six card hand. The game was all but over before it began as there were no land in his five card hand either. The four card hand was [Wild Mongrel](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel), [Careful Study](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), [Envelop](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop), [Arrogant Wurm](https://web.archive.org/web/20030504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrogant+Wurm), and was also thrown back. "Please mention that I only cut his deck," Olivier joked.
 

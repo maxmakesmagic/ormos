@@ -44,7 +44,9 @@ archive_source:
   sha256: 0ce6c9ab26889551a20460be89efbabb61b8113313693f35f3afe2c7c34a4f36
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersosa02/a442.jpg)German Team Phoenix Foundation faced off against Japanese Team Panzer Hunters in the finals of the Masters series in Osaka. The winning team stood to win $60,000, while the second place team would take home a cool $30,000. The Hunters consisted of members Reiji Andou in the "A" seat, Kazuyaki Momose in the "B" seat, and Itaru Ishida in the "C" seat. The Foundation included Marco Blume in the "A" position, followed by Kai Budde in the "B" and Dirk Baberowski in the last seat. The Japanese team won the die roll and choose to have the Germans begin with the first pick. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersosa02/a442.jpg)
+
+German Team Phoenix Foundation faced off against Japanese Team Panzer Hunters in the finals of the Masters series in Osaka. The winning team stood to win $60,000, while the second place team would take home a cool $30,000. The Hunters consisted of members Reiji Andou in the "A" seat, Kazuyaki Momose in the "B" seat, and Itaru Ishida in the "C" seat. The Foundation included Marco Blume in the "A" position, followed by Kai Budde in the "B" and Dirk Baberowski in the last seat. The Japanese team won the die roll and choose to have the Germans begin with the first pick. 
 
 As the draft began, it was clear that Kai was calling all the shots for the German. They had a game plan: since usually the middle seat of the draft ended up with Red/Green, they would have Budde draft a White/Blue deck, since that defensive sort of build can usually stymie a typical R/G offensive construction. Dirk wanted to end up with a Blue/Green deck that fit his play style of attacking with janky evasion creatures such as Thought Nibbler and Escape Artist, backed up by pump spells such as Nantuko Disciple. This left Marco as a Black player, although it wasn't clear what his second color might be coming in.
 
@@ -58,7 +60,9 @@ In the fourth pack, Kazayuki took Chainflinger, a card capable of dismantling an
 
 The Phoenix rose from the dead in the next set of packs, easily opening higher quality cards than their opponents. Dirk added an Overrun to his Blue/Green deck, while Marco picked up two Whispering Shades, which would surely be crucial in his matchup against Reiji's Blue/Black deck. Itaru began to put together a really interesting White Weenie deck, adding a Pianna to his Divine Sacrament and host of other white creatures. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersosa02/a443.jpg)One of the crucial moments in the draft came when the Japanese team decided that Itaru should draft a Deluge to counteract Baberowski's Overrun, leaving the very powerful Caustic Tar in the draft for Blume to take. This enchantment usually causes all sorts of problems for a Blue/Back deck to battle. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersosa02/a443.jpg)
+
+One of the crucial moments in the draft came when the Japanese team decided that Itaru should draft a Deluge to counteract Baberowski's Overrun, leaving the very powerful Caustic Tar in the draft for Blume to take. This enchantment usually causes all sorts of problems for a Blue/Back deck to battle. 
 
 As Torment rolled around, the two teams looked to be evenly matched. Marco got an early Faceless Butcher. That same pack contained a Stern Judge, which can ordinarily win games on its own against a Black deck. However, since Marco was Black/Red against Reiji's Black/Blue deck, and Dirk would be only splashing white against Itaru's deck (which looked to be splashing just a hint of black cards), the Judge didn't end up going until 7th pick. 
 

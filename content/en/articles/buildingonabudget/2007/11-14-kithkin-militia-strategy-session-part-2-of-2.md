@@ -843,7 +843,9 @@ render_recovery:
 ---
 * * *
 
-![Militias_Pride](https://i.ormos.uk/dc/68/dc68be2573c53ba63b5536f04e827a7f49d0f28f2b78f86a2ba1b0de1b935b91.jpg)Hello everyone, and welcome back to Building on a Budget. [Last week](/en/articles/buildingonabudget/2007/11-07-kithkin-militia-victorious-part-1-of-2), we evolved the Kithkin Militia deck to a mainly Kithkin-based White Weenie deck with a respectable 10-4 record. However, there were multiple cries from the forums and my email that went along these lines:
+![Militias_Pride](https://i.ormos.uk/dc/68/dc68be2573c53ba63b5536f04e827a7f49d0f28f2b78f86a2ba1b0de1b935b91.jpg)
+
+Hello everyone, and welcome back to Building on a Budget. [Last week](/en/articles/buildingonabudget/2007/11-07-kithkin-militia-victorious-part-1-of-2), we evolved the Kithkin Militia deck to a mainly Kithkin-based White Weenie deck with a respectable 10-4 record. However, there were multiple cries from the forums and my email that went along these lines:
 
 "Hey! Anyone can build a White Weenie Deck! There's no skill involved in playing or building that deck—why did you waste your time?"
 

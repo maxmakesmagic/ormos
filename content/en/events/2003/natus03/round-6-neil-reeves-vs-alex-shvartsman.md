@@ -78,7 +78,9 @@ render_recovery:
   - Clutch of Undeath
   occurrences: 23
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a885.jpg)Despite both of these player's prodigious accomplishments neither has been a member of the US National team. Alex is in the middle of a resurgent year that has seen him balance winning a Grand Prix (with a little help from his friends) and running a successful game store.
+![](http://www.wizards.com/sideboard/images/natus03/a885.jpg)
+
+Despite both of these player's prodigious accomplishments neither has been a member of the US National team. Alex is in the middle of a resurgent year that has seen him balance winning a Grand Prix (with a little help from his friends) and running a successful game store.
 
 Neil has been busy fulfilling his duties as the winner of the Event Horizons Invitational. The next Pro Tour will mark the debut of Courtney's Men—his Pro Tour team with Bob Maher Jr. and Dave Williams. Pundits are expecting big things from him this year as he has continued to perform well in almost every format.
 
@@ -96,7 +98,9 @@ Neil turned to Alex, "Why couldn't you open a Timberwatch Elf?"
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/natus03/a886.jpg)Neil was on the draw but had the first play—a Wretched Anurid. Alex cycled a Gempalm Polluter and began the work of whittling away Neil's life total. Death's-Head Buzzard ticked off a point when it came into play and Alex elected not to trade when Neil swung into it with the Anurid. Neil played a morph and sent the turn back.
+![](http://www.wizards.com/sideboard/images/natus03/a886.jpg)
+
+Neil was on the draw but had the first play—a Wretched Anurid. Alex cycled a Gempalm Polluter and began the work of whittling away Neil's life total. Death's-Head Buzzard ticked off a point when it came into play and Alex elected not to trade when Neil swung into it with the Anurid. Neil played a morph and sent the turn back.
 
 Alex brought a frown to Neil's face with a face-up Crude Ramparts, "That guy is above average." Neil shrugged and sent his men into battle, "Let's get these guys in here." Alex thought for a moment and made a decision, "I'll be stupid and black you morph."
 
@@ -116,7 +120,9 @@ Neil gave Alex's deck the 'ninja cut' and Alex thought long and hard about his i
 
 It did and Alex kept his next set of six but Neil had the first play, "Nice turn two play...Carrion Feeder." Alex came back with his cousin the Nantuko Husk and Neil played a morph. Crude Ramparts came down face-up again and Neil groaned. Bladewing Thrall came down on Neil's side and Alex played a 3/3 Aven Warhawk showing him a Dragonstalker—another 3/3 flier. Neil played a Sootfeather Flock and traded it with the Warhawk.
 
-![](http://www.wizards.com/sideboard/images/natus03/a887.jpg)Alex was down to one card. "Could be a good one," said Alex. "Could be $%\*#, too. But I think it might be the best," worried Neil. Once again the Exterminator ate the wall and Alex was without a defense. He played his last card, "All right it is the best, Havoc Demon."
+![](http://www.wizards.com/sideboard/images/natus03/a887.jpg)
+
+Alex was down to one card. "Could be a good one," said Alex. "Could be $%\*#, too. But I think it might be the best," worried Neil. Once again the Exterminator ate the wall and Alex was without a defense. He played his last card, "All right it is the best, Havoc Demon."
 
 Neil looked over the board and did some math. He made sure that Alex was out of cards and sent in his team. The Exterminator and the Husk traded, which gave Neil a clear path to play his hand full of creatures now that there was no easy way to sac the Demon.
 

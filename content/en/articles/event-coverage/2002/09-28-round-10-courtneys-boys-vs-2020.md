@@ -44,7 +44,9 @@ archive_source:
   sha256: 0d37e0bc43b249cacb10be7c399701f34dc74e91e52f270a099a0bad889bb6bf
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a826.jpg)There was some discussion before the round began about whether or not these two teams could draw. If they did, there was a mathematical possibility that one of them would get eliminated, so 2020 decided not to draw.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a826.jpg)
+
+There was some discussion before the round began about whether or not these two teams could draw. If they did, there was a mathematical possibility that one of them would get eliminated, so 2020 decided not to draw.
 
 Read about their draft [Read about their draft here.](/en/articles/event-coverage/2002/09-28-draft-4-courtneys-boys-vs-2020)here.
 
@@ -76,7 +78,9 @@ Reeves started out with two [Basking Rootwalla](https://web.archive.org/web/2002
 
 Rood was down but not out, and played a [Cephalid Looter](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cephalid+Looter) that Reeves had no way to kill. After several turns of Looting, Rood was close to stabilizing. Reeves attacked with his Rootwallas into a 2/2 [Battlewise Aven](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlewise+Aven), but Rood had [Mental Note](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mental+Note) to gain threshold. Rood now had board control at seven life.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a841.jpg)His Looter found him a [Vigilant Sentry](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigilant+Sentry) and a [Shieldmage Advocate](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shieldmage+Advocate), and things were getting desperate for Reeves. He tried an attack with his [Skywing Aven](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven), under the assumption that once damage was on the stack and Rood activated his Advocate, Reeves could respond by bouncing the Aven so Rood couldn't choose it as a "damage source." After some discussion, Collin Jackson and Nat Fairbanks set the record straight and Rood took no damage (you can choose a damage source that isn't in play.) After that failed attempt, Reeves scooped.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a841.jpg)
+
+His Looter found him a [Vigilant Sentry](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigilant+Sentry) and a [Shieldmage Advocate](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shieldmage+Advocate), and things were getting desperate for Reeves. He tried an attack with his [Skywing Aven](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven), under the assumption that once damage was on the stack and Rood activated his Advocate, Reeves could respond by bouncing the Aven so Rood couldn't choose it as a "damage source." After some discussion, Collin Jackson and Nat Fairbanks set the record straight and Rood took no damage (you can choose a damage source that isn't in play.) After that failed attempt, Reeves scooped.
 
 Reeves 0 – Rood 1
 

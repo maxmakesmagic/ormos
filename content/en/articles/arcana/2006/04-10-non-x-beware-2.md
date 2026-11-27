@@ -231,7 +231,9 @@ render_recovery:
 ---
 * * *
 
-[![Rakdos the Defiler](https://i.ormos.uk/4c/3f/4c3f383fd4c699728bbdf4b87b3bd9d75ee5f7b0745676da64b354cda4e35002.jpg "Rakdos the Defiler")](/en/articles/feature/2006/04-10-dissension-in-the-ranks)D*issension's* **Rakdos the Defiler** (previewed in [today's feature article](/en/articles/feature/2006/04-10-dissension-in-the-ranks) by Rei Nakazawa) causes players to sacrifice "non-Demon" permanents. While references to "target Goblin" and "all elves" and "each other Samurai you control" have been relatively common in **Magic**, use of the "non-" prefix, specifying everything that *isn't* a member of a subtype, has been much rarer. 
+[![Rakdos the Defiler](https://i.ormos.uk/4c/3f/4c3f383fd4c699728bbdf4b87b3bd9d75ee5f7b0745676da64b354cda4e35002.jpg "Rakdos the Defiler")](/en/articles/feature/2006/04-10-dissension-in-the-ranks)
+
+D*issension's* **Rakdos the Defiler** (previewed in [today's feature article](/en/articles/feature/2006/04-10-dissension-in-the-ranks) by Rei Nakazawa) causes players to sacrifice "non-Demon" permanents. While references to "target Goblin" and "all elves" and "each other Samurai you control" have been relatively common in **Magic**, use of the "non-" prefix, specifying everything that *isn't* a member of a subtype, has been much rarer. 
 
 Most of the references to "non-" are on older cards that specified "non-Wall creatures" before the defender keyword was created to mean "this creature can't attack." Nettling Imp, Siren's Call and Aggression gain some flavor by specifying "non-Wall" -- it wouldn't do to have your Wall of Stone die because it couldn't heed the Norritt or got in a fight with a Basilisk, right? 
 

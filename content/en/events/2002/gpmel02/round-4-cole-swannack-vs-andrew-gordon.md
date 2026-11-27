@@ -82,7 +82,9 @@ In August this year, Cole Swannack stormed the world and professional players tw
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a948.jpg)Andrew won the die roll and chooses to draw, making Cole play first. Cole played the first creature – a Wretched Anurid on turn 2 trying to put as much pressure on early. The next 2 turns see both players see top quality goblins – Gordon a Sparksmith, and Swannack a Festering Goblin. Cole is allowed to swing once with the Anurid but after seeing the young New Zealander stall at 2 land (one of which being the painful Grand Coliseum), combines a Shock with the Sparksmiths ability to bring it down.
+![](http://www.wizards.com/sideboard/images/gpmel02/a948.jpg)
+
+Andrew won the die roll and chooses to draw, making Cole play first. Cole played the first creature – a Wretched Anurid on turn 2 trying to put as much pressure on early. The next 2 turns see both players see top quality goblins – Gordon a Sparksmith, and Swannack a Festering Goblin. Cole is allowed to swing once with the Anurid but after seeing the young New Zealander stall at 2 land (one of which being the painful Grand Coliseum), combines a Shock with the Sparksmiths ability to bring it down.
 
 The festering goblin is allowed to push onward with Andrew's Spitfire handler trading with Cole's Riptide Biologist. Unable to find a third land, Andrew is allowed to exchange blow for blow by counterattacking with his Sparksmith. 
 

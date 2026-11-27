@@ -141,7 +141,9 @@ Gary 「白マナはどこだ？」
 
 **Game 3**
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a259.jpg)2 戦目のように手札が悪く《ドルイドの誓い/Oath of Druids》《火薬樽/Powder Keg》のどちらも引いていない Gary は、開始早々の《熊人間/Werebear》を《Force of Will》（《変異種/Morphling》をリムーブ）するスタート。
+![](http://www.wizards.com/sideboard/images/mastersnice02/a259.jpg)
+
+2 戦目のように手札が悪く《ドルイドの誓い/Oath of Druids》《火薬樽/Powder Keg》のどちらも引いていない Gary は、開始早々の《熊人間/Werebear》を《Force of Will》（《変異種/Morphling》をリムーブ）するスタート。
 
 当然この機を逃したくない Witt 《噴出/Gush》《渦巻く知識/Brainstorm》でドローを進めるのだが、《冬の宝珠/Winter Orb》《秘教の処罰者/Mystic Enforcer》など軽量クリーチャーを引かずにスローな立ち上がりになってしまう。
 

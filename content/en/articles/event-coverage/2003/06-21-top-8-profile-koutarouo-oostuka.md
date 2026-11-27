@@ -55,7 +55,9 @@ render_recovery:
 
 ### • Second Time's The Charm?
 
-![](https://i.ormos.uk/be/df/bedf6cde37a772114348375701426d51d041eeb13643960af860937c298bf986.jpg)This is the second year in a row Ootsuka has made it to Day 3 of Nationals, and is the only repeater from last year. Last year, he lost in the Semi-Finals. Will he be able to avenge that defeat and take a berth on the National Team in 2003?
+![](https://i.ormos.uk/be/df/bedf6cde37a772114348375701426d51d041eeb13643960af860937c298bf986.jpg)
+
+This is the second year in a row Ootsuka has made it to Day 3 of Nationals, and is the only repeater from last year. Last year, he lost in the Semi-Finals. Will he be able to avenge that defeat and take a berth on the National Team in 2003?
 
 He certainly hopes to. Teaming up with the reknowned Jin Okamoto, Takashi Okura, and Ryouma Shiozu for playtesting, this Nagoya-based player has chosen a UG madness deck, adding black for Zombie Infestation and creature control.
 

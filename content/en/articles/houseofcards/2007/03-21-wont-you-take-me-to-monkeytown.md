@@ -503,7 +503,9 @@ render_recovery:
 ---
 * * *
 
-![aisling_leprechaun](https://i.ormos.uk/01/42/0142f758426b937b5892a49659835319617aeefc6bf25f418e653e687ef2bb08.jpg)Howdy, all, and welcome to my house of cards. I trust everyone had a lovely weekend celebrating St. Patrick's Day. Being 1/512th Irish, it's perhaps my favourite March non-holiday. When else can you wear an emerald-sequined top hat and imbibe frosty beverages containing a near-lethal dose of green dye? I mean, without looking like you just bombed an audition for your community theatre's production of *Alice in Wonderland*?
+![aisling_leprechaun](https://i.ormos.uk/01/42/0142f758426b937b5892a49659835319617aeefc6bf25f418e653e687ef2bb08.jpg)
+
+Howdy, all, and welcome to my house of cards. I trust everyone had a lovely weekend celebrating St. Patrick's Day. Being 1/512th Irish, it's perhaps my favourite March non-holiday. When else can you wear an emerald-sequined top hat and imbibe frosty beverages containing a near-lethal dose of green dye? I mean, without looking like you just bombed an audition for your community theatre's production of *Alice in Wonderland*?
 
 In keeping with the St. Patrick's Day theme of green everything, I considered building a series of mono-green decks, but it turned out that Jay Moldenhauer-Salazar beat me to the punch. (Seriously, check out [Jay's article from Monday](/en/articles/feature/2007/03-19-remembering-wood).)
 

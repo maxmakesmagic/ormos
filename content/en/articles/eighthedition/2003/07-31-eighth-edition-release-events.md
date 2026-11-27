@@ -73,7 +73,9 @@ render_recovery: []
 
 ### Everyone Gets Something
 
-![](https://i.ormos.uk/c5/c3/c5c3fe8100e476fe9bd771cf6a94805f63a5bbb46fe7a77e944ff49f2eee29f8.jpg)Like physical **Magic** Prerelease Tournaments, every player who joins one of the ***Magic** Online Eighth Edition* Release Tournaments gets something.
+![](https://i.ormos.uk/c5/c3/c5c3fe8100e476fe9bd771cf6a94805f63a5bbb46fe7a77e944ff49f2eee29f8.jpg)
+
+Like physical **Magic** Prerelease Tournaments, every player who joins one of the ***Magic** Online Eighth Edition* Release Tournaments gets something.
 
 Following the tradition begun at the online *Legions* Release Tournaments, each player will get an Elvish Champion tradeable avatar. As a digital object, it will show in your collection and you can trade it to other players. While an avatar digital object is in your collection, you can use it to represent you while playing ***Magic** Online.*
 

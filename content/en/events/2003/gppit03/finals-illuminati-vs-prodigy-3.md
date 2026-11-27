@@ -87,7 +87,9 @@ render_recovery:
 ---
 This match is the absolute pinnacle of this weekend. It all culminates in three games here for Justin and Jamie. Will Justin and his team continue their dominance of this format? Will Jamie, who's never been to a Pro Tour before, take down this seasoned veteran? I'm eagerly awaiting the results.
 
-![](https://i.ormos.uk/ea/67/ea67460f1825faf1962f64c5adc4f9f2595ea8ca0fc089c6efe1d0eaab3b7cf4.jpg)"I cried greatly when you got two Stingers and a Dragon Scales for each," Jamie tells Justin before the match begins. Justin just smiles.
+![](https://i.ormos.uk/ea/67/ea67460f1825faf1962f64c5adc4f9f2595ea8ca0fc089c6efe1d0eaab3b7cf4.jpg)
+
+"I cried greatly when you got two Stingers and a Dragon Scales for each," Jamie tells Justin before the match begins. Justin just smiles.
 
 ### Game 1
 
@@ -125,7 +127,9 @@ Jamie cast a Brontotherium and Justin replied with, "Oh, crap." When Jamie attac
 
 Jamie, on the other hand, has been keeping up with his land drops exceptionally well. When he cast Dragon Shadow on his Brontotherium, Justin said, "Dragon Shadow, eh?" and seemed rather unhappy at this turn of events. Jamie turned the Brontotherium sideways to take Justin down to 12 – two more turns and Justin is toast.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a932.jpg)Jamie played a Nantuko Husk to add to his army, and Justin had no choice but to attack him back with the Harrier. Justin played his fourth land and said, "This game's all about luck! All about luck!"
+![](http://www.wizards.com/sideboard/images/gppit03/a932.jpg)
+
+Jamie played a Nantuko Husk to add to his army, and Justin had no choice but to attack him back with the Harrier. Justin played his fourth land and said, "This game's all about luck! All about luck!"
 
 Justin cast Dirge of Dread on his Nantuko Husk, but forgets to draw his card until the judge reminds him. "What, no drawing? There's got to be a game loss in there somewhere!" Justin quipped. Jamie just smiled and attacked, winning the game handily.
 
@@ -147,7 +151,9 @@ Jamie thought that the Sliver would die, but Justin realized just in time that h
 
 Justin made a very aggressive move when he attacked with his Sliver and two morph creatures, and assigned damage masterfully to Jamie's creatures. Justin went to 36 as he brought Jamie down to 15. But Jamie opted to Swat Justin's last morph, and played a Lingering Death on Justin's scary Sliver. 
 
-![](https://i.ormos.uk/48/ec/48ec05140acddd7d897f51139aa7a5ef0a9400f5365ddd7f8ee92dc1b182c1a4.jpg)In response to the Swat, Justin turned up Daru Lancer. He then played a Daru Stinger with an amplify of two. His creatures are much better than Jamie's, even though Jamie has more of them. When Justin attacked with the Lancer once again, Jamie blocked with the Wirewood Herald and searched out Wirewood Guardian. 
+![](https://i.ormos.uk/48/ec/48ec05140acddd7d897f51139aa7a5ef0a9400f5365ddd7f8ee92dc1b182c1a4.jpg)
+
+In response to the Swat, Justin turned up Daru Lancer. He then played a Daru Stinger with an amplify of two. His creatures are much better than Jamie's, even though Jamie has more of them. When Justin attacked with the Lancer once again, Jamie blocked with the Wirewood Herald and searched out Wirewood Guardian. 
 
 Justin tapped his Pearlspear Courier to give his Lancer +2/+2 and attacked. Jamie said, "I'm not blocking that," and took five, going down to eight. Justin played another Stinger and amplified it twice, saying, "I'm not going to kill you – I'm having way too much fun to just kill you!"
 

@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes a 41-card preconstructed de
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/45/b8/45b8a62d267461d2aa8f88d33fbcf8030a06db2251998d79861ae668d2868dc7.png)Zendikar, a new world for **Magic: The Gathering**, is the first set in the Zendikar block. It features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set.
+![](https://i.ormos.uk/45/b8/45b8a62d267461d2aa8f88d33fbcf8030a06db2251998d79861ae668d2868dc7.png)
+
+Zendikar, a new world for **Magic: The Gathering**, is the first set in the Zendikar block. It features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set.
 
 **Set Name:** *Zendikar*  
 **Block:** Set 1 of 3 of the *Zendikar* Block  

@@ -155,7 +155,9 @@ Once you're mature enough to handle a single opponent, you can take the next ste
 
 ### Engaging A Play Group
 
-![Stern_Proctor](https://i.ormos.uk/65/57/6557c59d7368276752b0968fa1ef2b38d5d6edae280d5135ee0e8b1acbeac570.jpg)Of all the emails I've gotten on various topics over the years – from requests for deck help (sorry, I can't) to conversations about interesting formats – the gloomiest come from players who cannot find other players to play with. Maybe they live in a rural area and there are just not enough other players around. Maybe there are a few interested players, but they're spread out, too young to drive, and unable to find a card shop that can serve as an easy meeting place. Maybe the guy who's writing me is a difficult person to get along with, and other groups have pushed him along. 
+![Stern_Proctor](https://i.ormos.uk/65/57/6557c59d7368276752b0968fa1ef2b38d5d6edae280d5135ee0e8b1acbeac570.jpg)
+
+Of all the emails I've gotten on various topics over the years – from requests for deck help (sorry, I can't) to conversations about interesting formats – the gloomiest come from players who cannot find other players to play with. Maybe they live in a rural area and there are just not enough other players around. Maybe there are a few interested players, but they're spread out, too young to drive, and unable to find a card shop that can serve as an easy meeting place. Maybe the guy who's writing me is a difficult person to get along with, and other groups have pushed him along. 
 
 While I've given some of the advice that follows in past articles and emails, I'd like to pull it together and run through the basic strategies for finding a new play group. In order of suggested priority:
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: a68d4e4c6ca1d90224b0d651054c4b2e08f24e3e95c9923b63ca929eb130cb9c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoka04/r11fm2ja1.jpg)Without a doubt, the most impressive tech to come out of Grand Prix Okayama is Masami Ibamoto's Loop Junktion life combo deck. It can go off multiple ways, has lots of consistency due to its impressive tutoring capability, and has plenty of "silver bullet" cards to shut down whatever strategy is across the table. What's really impressive about the design is that you can tell a lot of effort went into it, as some otherwise obscure cards are in the deck to deal with specific situations that were either theorized or came up in testing. All that work definitely paid off, as four players ran it yesterday and three of them played today, with Akira Asahara running it in the Top 8. As the Quarterfinals were being played, I sat down and talked to Ibamoto to learn a little more about the deck of the tournament.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoka04/r11fm2ja1.jpg)
+
+Without a doubt, the most impressive tech to come out of Grand Prix Okayama is Masami Ibamoto's Loop Junktion life combo deck. It can go off multiple ways, has lots of consistency due to its impressive tutoring capability, and has plenty of "silver bullet" cards to shut down whatever strategy is across the table. What's really impressive about the design is that you can tell a lot of effort went into it, as some otherwise obscure cards are in the deck to deal with specific situations that were either theorized or came up in testing. All that work definitely paid off, as four players ran it yesterday and three of them played today, with Akira Asahara running it in the Top 8. As the Quarterfinals were being played, I sat down and talked to Ibamoto to learn a little more about the deck of the tournament.
 
 *Translation by Ron Foster*
 

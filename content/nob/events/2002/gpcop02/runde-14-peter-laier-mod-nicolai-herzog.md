@@ -80,7 +80,9 @@ render_recovery:
   - Swat
   occurrences: 28
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a867.jpg)Nicolai havde brug for mindst eet point for at komme i top 8. Peter kunne nok ikke nå det, men sejr ville sandsynligvis kvalificere ham til Pro Tour Chicago. 
+![](http://www.wizards.com/sideboard/images/gpcop02/a867.jpg)
+
+Nicolai havde brug for mindst eet point for at komme i top 8. Peter kunne nok ikke nå det, men sejr ville sandsynligvis kvalificere ham til Pro Tour Chicago. 
 
 Peter vandt terningeslaget, og valgte at starte. Han spillede rød-grøn med et splash hvid og lagde en Wall of Mulch i tur 2 – ikke den mest aggressive start. Hans tur tre Wirewood Savage blev skudt af Chain of Plasma. Nicolai lagde en Rotlung Reanimator og Peter en morphet Serpentine Basilisk, der dræbte reanimatoren da den vendtes om. Nicolai spillede så Head Games, og Peter måtte bytte sin hånd ud med tre lande. Lidt efter fik Peter en Wellwisher, og det så ud til at han kunne bygge et rimelig uigennemtrængeligt forsvar op. Nicolai fik en Shaleskin Bruiser i spil, men kunne ikke angribe pga basilisken. Han spillede en Nantuko Husk lidt efter, og havde nu muligheden får at slå wellisheren ved at ofre sin goblin. Han valgte dog ikke at gøre det endnu. Turen efter tog han basilisken med threaten og angreb så med hele holdet, for bagefter at ofre goblingen og den lånte basilisk og spille Aphetto Dredging på goblin, Husk og Rotlung Reanimator. Peter har godtnok en Slice and Dice, men med al den kortfordel har Nicolai ingen problemer med at slå Peter ud. 
 
@@ -90,6 +92,8 @@ Peter startede igen. Han så ud som om han havde en dårlig hånd, men han havde
 
 1-1
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a868.jpg)Der var kun 9 minutter tilbage da de to gik igang med sidste spil, og Peter prøvede at motivere Nicolai til at spille hurtigt. Det gjorde Nicolai så. I tur to lagde han Shepherd of Rot og i tur tre Rotlung Reanimator, mens Peter lagde Goblin Sledder og et morphdyr. Reanimatoren byttede med goblinen, og Nicolai lagde en Spined Basher, da han ikke havde fået et land. Nicolai pressede Peter hårdt ved hele tiden at bruge sin Shepherd for tre samt ved at angribe med sin Basher, der havde fået en krone på. Den blev godtnok slået ihjel i et stort angreb, men den kom tilbage med en Aphetto Dredging. Nicolai fortsatte med at bruge Shepherd selv efter Peter lagde sin Wellwisher, og kunne vinde kampen på 1 liv efter han lagde Lightning Rift og cyklede Swat. 
+![](http://www.wizards.com/sideboard/images/gpcop02/a868.jpg)
+
+Der var kun 9 minutter tilbage da de to gik igang med sidste spil, og Peter prøvede at motivere Nicolai til at spille hurtigt. Det gjorde Nicolai så. I tur to lagde han Shepherd of Rot og i tur tre Rotlung Reanimator, mens Peter lagde Goblin Sledder og et morphdyr. Reanimatoren byttede med goblinen, og Nicolai lagde en Spined Basher, da han ikke havde fået et land. Nicolai pressede Peter hårdt ved hele tiden at bruge sin Shepherd for tre samt ved at angribe med sin Basher, der havde fået en krone på. Den blev godtnok slået ihjel i et stort angreb, men den kom tilbage med en Aphetto Dredging. Nicolai fortsatte med at bruge Shepherd selv efter Peter lagde sin Wellwisher, og kunne vinde kampen på 1 liv efter han lagde Lightning Rift og cyklede Swat. 
 
 Hermed kvalificerede Nicolai sig til top 8.

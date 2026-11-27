@@ -183,7 +183,9 @@ Please do not email answers to me. The correct answer will be posted in the next
 
 ### Play of the Week
 
-![](https://i.ormos.uk/a5/97/a59745174aff5eb2871c15b68197b149eb946a64921c53f9b3a649b6e9ef6f19.jpg)Anyone who has been playing **Magic** for a long time, or has played Type 1, knows about the Channel-Fireball combo. Kazimierz Koziana was about to be on the receiving end of this powerful play. His opponent played a Mountain and cast a Black Lotus, then sacrificed it for three green mana. He used two to cast Channel paying 19 life, then tapped the Mountainan used the remaining green mana to cast Blaze for twenty. Pretty standard story? Sure, except that Koziana was able to turn the tables on his opponent. He pitched an Accumulated Knowledge to cast Misdirection, leaving his opponent at negative 19 life when the smoke cleared!
+![](https://i.ormos.uk/a5/97/a59745174aff5eb2871c15b68197b149eb946a64921c53f9b3a649b6e9ef6f19.jpg)
+
+Anyone who has been playing **Magic** for a long time, or has played Type 1, knows about the Channel-Fireball combo. Kazimierz Koziana was about to be on the receiving end of this powerful play. His opponent played a Mountain and cast a Black Lotus, then sacrificed it for three green mana. He used two to cast Channel paying 19 life, then tapped the Mountainan used the remaining green mana to cast Blaze for twenty. Pretty standard story? Sure, except that Koziana was able to turn the tables on his opponent. He pitched an Accumulated Knowledge to cast Misdirection, leaving his opponent at negative 19 life when the smoke cleared!
 
 ### Bad Play of the Week
 

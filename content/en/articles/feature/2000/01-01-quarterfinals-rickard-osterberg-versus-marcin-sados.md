@@ -52,7 +52,9 @@ archive_source:
   sha256: 4c97e15c7cf28a5dc919314a469e6c31f7fa98a95812b2833a47713d4cd26486
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/876.jpg)Rickard Österberg is one of a trio of Swedes in the top 8 that is hoping to walk off with the title. He is playing a No-mar variant with lots of discard and Desolation Angels as the finisher. He didn't appear too confident before the match as his opponent, Marcin Sados, is playing the fast G/R beatdown deck. To make things worse one of Österberg's key sideboard cards, Ravenous Rats, becomes very dangerous as Sados is running Dodecapods in his board.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/876.jpg)
+
+Rickard Österberg is one of a trio of Swedes in the top 8 that is hoping to walk off with the title. He is playing a No-mar variant with lots of discard and Desolation Angels as the finisher. He didn't appear too confident before the match as his opponent, Marcin Sados, is playing the fast G/R beatdown deck. To make things worse one of Österberg's key sideboard cards, Ravenous Rats, becomes very dangerous as Sados is running Dodecapods in his board.
 
 ### Game One
 

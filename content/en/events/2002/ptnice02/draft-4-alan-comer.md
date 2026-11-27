@@ -121,7 +121,9 @@ Alan sat down at table three knowing he had to go 3-0 to make top 8. Unlike some
 
 ### Set 1 (Actual picks boldfaced).
 
-![](https://i.ormos.uk/c9/33/c9338d9ee23578872d80ed40c6dbb74c3580e15ba8649005f4fd96706176714d.jpg)Booster 1: Hallowed Healer, Standstill, Roar of the Wurm, Wild Mongrel, **Master Apothecary**, Aven Archer.
+![](https://i.ormos.uk/c9/33/c9338d9ee23578872d80ed40c6dbb74c3580e15ba8649005f4fd96706176714d.jpg)
+
+Booster 1: Hallowed Healer, Standstill, Roar of the Wurm, Wild Mongrel, **Master Apothecary**, Aven Archer.
 
 "Master Apothecary is one of the few cards that will push me into white. It makes so many other bad white cards playable."
 

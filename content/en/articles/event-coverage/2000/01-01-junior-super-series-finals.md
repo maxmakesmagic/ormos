@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ## Naveen Gowda (Black Control) vs. Nathan Gapasin (Fires)
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/PTLA01/823.jpg)Gowda's deck was a highly discard-oriented control deck with a few strong board control cards like Thrashing Wumpus and black removal. Gapasin's Fires decks was fairly straightforward, using Rhystic Lightnings and Ancient Hydras for removal.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/PTLA01/823.jpg)
+
+Gowda's deck was a highly discard-oriented control deck with a few strong board control cards like Thrashing Wumpus and black removal. Gapasin's Fires decks was fairly straightforward, using Rhystic Lightnings and Ancient Hydras for removal.
 
 **Game 1**
 

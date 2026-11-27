@@ -85,7 +85,9 @@ render_recovery:
   - Cabal Therapy
   occurrences: 44
 ---
-![](https://i.ormos.uk/87/0a/870ab54ac645a9a47b153c1a5946cb1a15af8169085528b952da900f371dd3eb.jpg)English was not the language of choice at this match, so don't expect many quotes from the players. I all can do is hope to follow the movements of the cards around the playmat, but that usually tells the story well enough.
+![](https://i.ormos.uk/87/0a/870ab54ac645a9a47b153c1a5946cb1a15af8169085528b952da900f371dd3eb.jpg)
+
+English was not the language of choice at this match, so don't expect many quotes from the players. I all can do is hope to follow the movements of the cards around the playmat, but that usually tells the story well enough.
 
 Franck and Antoine are two of France's most accomplished players, coming into this event with over 30 Pro Tour points each, although they both admit that number is significantly less now that PT Chicago is over. Both are looking for redemption from bad draft events by winning the big money here in the Standard Masters.
 
@@ -101,7 +103,9 @@ After the Upheaaval, Canu had to discard a Duress and three land. It was easy to
 
 Franck drew a Polluted Delta on his next turn, got a swamp, and played Duress. Antoine's hand was revealed to be five land, Smother, and Upheaval; Franck made him discard the latter. Certainly not much business! Could Franck capitalize?
 
-![](https://i.ormos.uk/6b/a8/6ba8fee09d47a2359d027c03342be4990d9d36782e83acbea46c13c4683353e6.jpg)An Analysis from the graveyard found a Duress to get rid of the Smother, and then Franck played the bomb Squirrel Nest. Antoine made Franck's life difficult again by topdecking a Deep Analysis and immediately drawing four cards. Franck put out a Wild Mongrel and looked to end the game quickly.
+![](https://i.ormos.uk/6b/a8/6ba8fee09d47a2359d027c03342be4990d9d36782e83acbea46c13c4683353e6.jpg)
+
+An Analysis from the graveyard found a Duress to get rid of the Smother, and then Franck played the bomb Squirrel Nest. Antoine made Franck's life difficult again by topdecking a Deep Analysis and immediately drawing four cards. Franck put out a Wild Mongrel and looked to end the game quickly.
 
 Antoine drew no answer to the Mongrel, and when he realized Franck could pump it enough times to kill him, he conceded.
 
@@ -115,7 +119,9 @@ Antoine started Game 2 by mulliganing a zero-land draw, and kept the six.
 
 Franck started with a Birds that was killed via Chainer's Edict, which hurt, because his first four lands were forests. He waited for a window, and got one when Antoine tapped out for Deep Analysis on turn 4. Franck played a Phantom Centaur—another sideboard card—and Antoine had no way to kill it. He simply played a fifth land and a Psychatog and said go.
 
-![](https://i.ormos.uk/2d/d1/2dd111f86f4e20b0ed9f81dcec30daa5ea37977faf9d5b3c085884ee98e20170.jpg)Now Franck had to see if he would win the race. He drew a Delta and used it to play Duress. Antoine had to use two Circular Logics to stop it, and then took a hit from the Centaur. All of Antoine's pain lands were catching up to him—after flashing back his Analysis, he was down to 8.
+![](https://i.ormos.uk/2d/d1/2dd111f86f4e20b0ed9f81dcec30daa5ea37977faf9d5b3c085884ee98e20170.jpg)
+
+Now Franck had to see if he would win the race. He drew a Delta and used it to play Duress. Antoine had to use two Circular Logics to stop it, and then took a hit from the Centaur. All of Antoine's pain lands were catching up to him—after flashing back his Analysis, he was down to 8.
 
 Smother from Franck took out the 'Tog, an attack took Antoine to 2, and Antoine was forced to Upheaval, tapping a Cephalid Coliseum. He was alive, although just barely.
 

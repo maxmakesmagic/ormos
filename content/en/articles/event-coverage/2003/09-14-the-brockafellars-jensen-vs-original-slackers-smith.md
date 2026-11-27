@@ -56,7 +56,9 @@ render_recovery:
 
 **Game 1**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a779.jpg)Jakeの先攻でスタート。まず、Jensenが《ただれたゴブリン/[Festering Goblin](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Festering+Goblin)》、Jakeが《ゴブリンの裏切り者/[Goblin Turncoat](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Turncoat)》をキャストし相打ったところスタート。Jakeが《死神頭のノスリ/[Death's-Head Buzzard](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death%27s-Head+Buzzard)》で空から殴れば、Jensenも《切り刻まれた軍勢/[Severed Legion](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion)》で殴り、お互いスペルをキャストしながら殴りあう展開。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a779.jpg)
+
+Jakeの先攻でスタート。まず、Jensenが《ただれたゴブリン/[Festering Goblin](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Festering+Goblin)》、Jakeが《ゴブリンの裏切り者/[Goblin Turncoat](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Turncoat)》をキャストし相打ったところスタート。Jakeが《死神頭のノスリ/[Death's-Head Buzzard](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death%27s-Head+Buzzard)》で空から殴れば、Jensenも《切り刻まれた軍勢/[Severed Legion](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion)》で殴り、お互いスペルをキャストしながら殴りあう展開。
 
 場が急変したのは６ターン目。Jakeの場にはタップ状態の《死神頭のノスリ》、《宝石の手の汚染者/[Gempalm Polluter](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gempalm+Polluter)》、変異が１体。Jensenの場は《切り刻まれた軍勢》、《死体の収穫者/[Corpse Harvester](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Corpse+Harvester)》、変異が１体。
 
@@ -74,7 +76,9 @@ Jensenはもちろん《死体の収穫者》の能力をダメージにスタ�
 
 なんとか１本取り返したいJake。１ターン目《屍肉喰らい/[Carrion Feeder](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Feeder)》と好スタート。対するJensenも２ターン目に《スカークの教練教官/[Skirk Drill Sergeant](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Drill+Sergeant)》をキャストする。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a778.jpg)３ターン目Jake、手札には《死神頭のノスリ/[Death's-Head Buzzard](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death%27s-Head+Buzzard)》と変異クリーチャー《噛みつくスラッグ/[Snapping Thragg](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapping+Thragg)》があるためしばし小考。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a778.jpg)
+
+３ターン目Jake、手札には《死神頭のノスリ/[Death's-Head Buzzard](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death%27s-Head+Buzzard)》と変異クリーチャー《噛みつくスラッグ/[Snapping Thragg](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapping+Thragg)》があるためしばし小考。
 
 ここでの場面《死神頭のノスリ》の方が攻撃クリーチャーとして優れているのだが、除去られると《屍肉喰らい》まで落ちてしまうのがなんともいけてない。ましてや《火花のしぶき/[Spark Spray](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spark+Spray)》で前ゲーム痛い目に合っているので出しにくいところだろう。しかし、ここでJakeは《死神頭のノスリ》をキャスト。やはり、ベスト４に残るにはこういうアグレッシブなプレイングが必要なのだろう。と思っていたら・・・
 

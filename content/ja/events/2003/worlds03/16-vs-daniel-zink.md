@@ -336,7 +336,9 @@ render_recovery:
 
 一戦目の悪夢の再現だけはなんとしても阻止したいZinkは、開幕ターンにプレイした《陰謀団式療法/Cabal Therapy》でノータイム《ゴブリンの従僕/Goblin Lackey》を指定。結果としてこれは外れで、岡本のハンドにあるスペルは《ゴブリンの暗殺者/Goblin Assassin》、《ゴブリンの群衆追い/Goblin Piledriver》、《モグの狂信者/Mogg Fanatic》という内容であることが明らかになった。
 
-![](https://i.ormos.uk/ac/ec/acec20b7340ead6c87fdb2aa9ba378deae4f248b95b6260be16e599464166cb5.jpg)岡本は素直に手筋に従って《モグの狂信者/Mogg Fanatic》、《ゴブリンの群衆追い/Goblin Piledriver》とハンドのゴブリンたちを展開していくしかなく、Daniel Zinkはようやっと猶予時間をもらえることになった。そこで、《納墓/Entomb》で《新緑の魔力/Verdant Force》を埋め込み、《吸血の教示者/Vampiric Tutor》で《死体発掘/Exhume》を調達という次第。
+![](https://i.ormos.uk/ac/ec/acec20b7340ead6c87fdb2aa9ba378deae4f248b95b6260be16e599464166cb5.jpg)
+
+岡本は素直に手筋に従って《モグの狂信者/Mogg Fanatic》、《ゴブリンの群衆追い/Goblin Piledriver》とハンドのゴブリンたちを展開していくしかなく、Daniel Zinkはようやっと猶予時間をもらえることになった。そこで、《納墓/Entomb》で《新緑の魔力/Verdant Force》を埋め込み、《吸血の教示者/Vampiric Tutor》で《死体発掘/Exhume》を調達という次第。
 
 しかし、第4ターンに《新緑の魔力/Verdant Force》でアタックを開始しつつトークンをエサに《陰謀団式療法/Cabal Therapy》をフラッシュバックしたZinkは...岡本に反撃の糸口が育まれつつあることを確認することになった。そう、指定した《ゴブリンの暗殺者/Goblin Assassin》を捨てさせたものの、すでに岡本は《ゴブリンの首謀者/Goblin Ringleader》と《ゴブリンの戦長/Goblin Warchief》というエンジンのキーへとアクセスしていたのである。ちなみに、岡本はすでに1枚《ゴブリンの戦長/Goblin Warchief》を展開しており、2体目までもが降臨することになると、さらなるメダリオン効果の恩恵を受けて大変なことになってしまうだろう。
 
@@ -358,7 +360,9 @@ render_recovery:
 
 残り時間も少ないこともあり、最悪なんとか引き分けに持ち込みたいのがZink。そして、ここ2ラウンドのFeature Matchでだいぶデッキがネタバレしてしまったために...なんとか勝てる試合を勝っておきたいのが岡本だった。
 
-![](https://i.ormos.uk/6f/76/6f76869b8132456cb002bf3e451fb1cc9bc7e2702a37faeefe5c5bb3af075d7f.jpg)開幕ターンの《ゴブリンの従僕/Goblin Lackey》を《血の復讐/Vendetta》し、2ターン目に《ゴブリン徴募兵/Goblin Recruiter》を出されてしまったものの...ハンドに腐っていた《共生のワーム/Symbiotic Wurm》を《陰謀団式療法/Cabal Therapy》で自ら墓地へと送り込むことが出来たZink。ちなみにここで公開したハンドは《吸血の教示者/Vampiric Tutor》、《死体発掘/Exhume》、《島/Island》という内容だった。
+![](https://i.ormos.uk/6f/76/6f76869b8132456cb002bf3e451fb1cc9bc7e2702a37faeefe5c5bb3af075d7f.jpg)
+
+開幕ターンの《ゴブリンの従僕/Goblin Lackey》を《血の復讐/Vendetta》し、2ターン目に《ゴブリン徴募兵/Goblin Recruiter》を出されてしまったものの...ハンドに腐っていた《共生のワーム/Symbiotic Wurm》を《陰謀団式療法/Cabal Therapy》で自ら墓地へと送り込むことが出来たZink。ちなみにここで公開したハンドは《吸血の教示者/Vampiric Tutor》、《死体発掘/Exhume》、《島/Island》という内容だった。
 
 先手の岡本は《ゴブリンの戦長/Goblin Warchief》を展開して《ゴブリン徴募兵/Goblin Recruiter》と2体でアタックをしかけてきたものの、大事に至る前に《死体発掘/Exhume》で《共生のワーム/Symbiotic Wurm》をプレイし、これをコストにフラッシュバックの《陰謀団式療法/Cabal Therapy》で岡本のハンドに干渉することができた。さて、ここで何を指定しよう？
 

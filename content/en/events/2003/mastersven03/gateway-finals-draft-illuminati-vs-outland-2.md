@@ -191,7 +191,9 @@ Endre picked up his second Skirk Marauder and Oyvind picked up Emperial Hellkite
 
 Needleshot Gourna for Oyvind left a Mistform Ultimus for Justin, another Stinger for Zvi and a Hundroog for Alex. Vile Deacon and Flamwave Invoker rounded out Outlands's first set of picks in the next to last pack.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a384.jpg)Justin finished very strong with an Echo Tracer and Zvi grabbed to Aven Redeemer. Alex sighed audibly as he picked a Timberwatch Elf with his last chance for this round. Hollow Specter made it all the way to Oyvind with a Whipgrass Entangler and Willbender going in the preceding picks to his mates.
+![](http://www.wizards.com/sideboard/images/ptven03/a384.jpg)
+
+Justin finished very strong with an Echo Tracer and Zvi grabbed to Aven Redeemer. Alex sighed audibly as he picked a Timberwatch Elf with his last chance for this round. Hollow Specter made it all the way to Oyvind with a Whipgrass Entangler and Willbender going in the preceding picks to his mates.
 
 I asked each player about how they felt about the match ups and Zvi was predictably excited. "They didn't realize I was generating a soldier deck in the third pack!" Zvi was spreading out his triple Deftblade Elite, triple Piety Charm, and double Daru Stinger deck.
 

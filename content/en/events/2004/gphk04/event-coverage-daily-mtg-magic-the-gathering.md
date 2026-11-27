@@ -743,7 +743,9 @@ render_recovery:
 ---
 ### Drafting with Ben Stark and Osamu Fujita
 
-![](http://www.wizards.com/sideboard/images/gphk04/dr1_1.jpg)As all of the players slowly drizzled in on Sunday morning there was one constant subject of conversation in an array of languages. Table number four had the tournament abuzz. There were seven players with a Pro Tour Top 8 to their credit drafting at the table and a total of ten Top 8 appearances among them.
+![](http://www.wizards.com/sideboard/images/gphk04/dr1_1.jpg)
+
+As all of the players slowly drizzled in on Sunday morning there was one constant subject of conversation in an array of languages. Table number four had the tournament abuzz. There were seven players with a Pro Tour Top 8 to their credit drafting at the table and a total of ten Top 8 appearances among them.
 
 Poor Hon Ming Au Young, he was the only player sitting down for this draft who had not experienced the glare of the Day Three spotlight. As he looked around the table the local Hong Kong standout saw Anton Jonsson, Jens Thoren, Jin Okamoto, Osamu Fujita, Ben Stark, Albertus Law, and Tsuyoshi Ikeda. Not the table you wanted to find yourself at as you made your run toward the Top 8. Especially since all of the players had taken two losses to this point in the tournament.
 

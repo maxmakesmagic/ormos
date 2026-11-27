@@ -780,7 +780,9 @@ Is it efficient? No. Is it a particularly good path to victory? No. Is it evilly
 
 ### Even More Nothing
 
-[![](https://i.ormos.uk/60/f4/60f496f17cd422a0fc627a55ea127b10df6895d298dba5ef4579d00d2f0ecfa5.jpg)](https://web.archive.org/web/20050614000000/http://www.wizards.com/leaving.asp?url=http://www.imdb.com/title/tt0061512/&origin=mtgcom_daily_mg180)Robby Bullis was so enchanted with One with Nothing that he sent me the following email, which is astounding on many levels. I've never seen *Cool Hand Luke*, so I can't vouch for the quotes, though I know what the movie's about (a guy in a prison/chain gang). Regardless, I can appreciate a highly themed theme deck when I see one, and the One with Nothing inclusion is inspired both thematically and mechanically. Robby's explanation of the deck follows at the end.
+[![](https://i.ormos.uk/60/f4/60f496f17cd422a0fc627a55ea127b10df6895d298dba5ef4579d00d2f0ecfa5.jpg)](https://web.archive.org/web/20050614000000/http://www.wizards.com/leaving.asp?url=http://www.imdb.com/title/tt0061512/&origin=mtgcom_daily_mg180)
+
+Robby Bullis was so enchanted with One with Nothing that he sent me the following email, which is astounding on many levels. I've never seen *Cool Hand Luke*, so I can't vouch for the quotes, though I know what the movie's about (a guy in a prison/chain gang). Regardless, I can appreciate a highly themed theme deck when I see one, and the One with Nothing inclusion is inspired both thematically and mechanically. Robby's explanation of the deck follows at the end.
 
 > This card just seemed so broken that I had to make a deck around it. I figured I should try to pair the greatest card of all time with (arguably) the greatest movie of all time..
 > 

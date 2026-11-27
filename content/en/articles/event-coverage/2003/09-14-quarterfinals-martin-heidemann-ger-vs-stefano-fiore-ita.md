@@ -48,7 +48,9 @@ This quarterfinals features the first player to qualify for the Top8 - Stefano F
 
 ### Game One
 
-![](https://i.ormos.uk/08/45/084537b94248334c28c5f8c50201e4d2306fde7bbaadc0572ab8e2ed879d485c.jpg)Stefano won the dice roll but his good luck quickly ran out. He took a mulligan and cme out with first turn Prospector. Martin started with second turn Lightning Rift. The Prospector turned into a Clicslither and the hostilities were underway.
+![](https://i.ormos.uk/08/45/084537b94248334c28c5f8c50201e4d2306fde7bbaadc0572ab8e2ed879d485c.jpg)
+
+Stefano won the dice roll but his good luck quickly ran out. He took a mulligan and cme out with first turn Prospector. Martin started with second turn Lightning Rift. The Prospector turned into a Clicslither and the hostilities were underway.
 
 A Sledder and a swing later Heidemann was at eleven. A Siege-Gang Commander came out into play and Stefano Fiore decided to call the "Wing Shards" bluff. He sacrificed every single one of his goblins to the insect.
 

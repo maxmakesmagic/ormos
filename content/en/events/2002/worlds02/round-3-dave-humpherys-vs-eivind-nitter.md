@@ -116,7 +116,9 @@ render_recovery:
   - Wrath of God
   occurrences: 127
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a941.jpg)Your Move Games' Dave Humpherys is in the middle of a literal "Around the World in 80 Days" excursion. Having just received his doctorate in biology from MIT, Humpherys is now enjoying a little R&R, and has been to the British Isles, Tunisia, Scandinavia, and Southeast Asia, among other places, and is spending a week here in Australia before continuing on to New Zealand, Hawaii, and Alaska.
+![](http://www.wizards.com/sideboard/images/worlds02/a941.jpg)
+
+Your Move Games' Dave Humpherys is in the middle of a literal "Around the World in 80 Days" excursion. Having just received his doctorate in biology from MIT, Humpherys is now enjoying a little R&R, and has been to the British Isles, Tunisia, Scandinavia, and Southeast Asia, among other places, and is spending a week here in Australia before continuing on to New Zealand, Hawaii, and Alaska.
 
 He brought he trusty "WonderTog" deck with him on his journey, which is a pretty normal Cunning Wish – Psychatog deck with a lone Wonder as another way to get the lethal 'Tog hit through.
 
@@ -134,7 +136,9 @@ Nitter Persecuted, but Hump found a Memory Lapse with his Opt. "How lucky!" shou
 
 Humpherys countered Burning Wish and revealed a hand of all land when Nitter Recouped his Persecute. The door was open for Nitter to deliver the killing blow—Haunting Echoes—but he didn't have it in his hand. Instead he was holding two Vindicates and a Gerrard's Verdict that he couldn't cast due to a lack of white mana.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a943.jpg)Humpherys flashed back his Deep Analysis and drew another. He refilled his hand and was ready with a Counterspell when Nitter finally drew the Echoes. Humpherys wished for his sideboarded Fact or Fiction and cast it, then cast another, and soon had the perfect hand. He threw out a Nightscape Familiar and a Psychatog and let the both die to Chainer's Edicts before wishing for a Mana Short to basically Time Walk on Nitter's next turn. Nitter asked if Humpherys had another 'Tog and a Circular Logic, and Humpherys showed him the goods. Nitter scooped.
+![](http://www.wizards.com/sideboard/images/worlds02/a943.jpg)
+
+Humpherys flashed back his Deep Analysis and drew another. He refilled his hand and was ready with a Counterspell when Nitter finally drew the Echoes. Humpherys wished for his sideboarded Fact or Fiction and cast it, then cast another, and soon had the perfect hand. He threw out a Nightscape Familiar and a Psychatog and let the both die to Chainer's Edicts before wishing for a Mana Short to basically Time Walk on Nitter's next turn. Nitter asked if Humpherys had another 'Tog and a Circular Logic, and Humpherys showed him the goods. Nitter scooped.
 
 Humpherys 1 – Nitter 0
 
@@ -148,7 +152,9 @@ Humpherys stopped at two land and frowned when his Nightscape Familiar was kille
 
 Nitter resolved two Wishes, then two Addles, then a Recoup and two more Addles. Humpherys was way behind. But regardless of how much card advantage Nitter could generate, his only way to win was by decking augmented with Haunting Echoes, an unrealistic goal in a sixty-minute round against the methodical Humpherys.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a942.jpg)Humpherys managed to resolve a pair of his own Wishes, one to Recoil the Mirari and another to Coffin Purge a Recoup target. He was making life difficult for Nitter. But then Nitter Duressed Humpherys, found no counters, and cast Haunting Echoes, fully expecting Humpherys to scoop. But Humpherys looked at all his options, and tapped his last mana to flashback Coffin Purge on his own Psychatog, forcing Nitter to leave the other three in his deck. Nitter's eyes bugged out of his head and he muttered to himself in Norwegian. He cast his other Mirari and bore down, trying to finish Humpherys off.
+![](http://www.wizards.com/sideboard/images/worlds02/a942.jpg)
+
+Humpherys managed to resolve a pair of his own Wishes, one to Recoil the Mirari and another to Coffin Purge a Recoup target. He was making life difficult for Nitter. But then Nitter Duressed Humpherys, found no counters, and cast Haunting Echoes, fully expecting Humpherys to scoop. But Humpherys looked at all his options, and tapped his last mana to flashback Coffin Purge on his own Psychatog, forcing Nitter to leave the other three in his deck. Nitter's eyes bugged out of his head and he muttered to himself in Norwegian. He cast his other Mirari and bore down, trying to finish Humpherys off.
 
 With some way to win the game still in his deck, Humpherys had no reason to concede and the clock ticked down. Nitter gained full control, and in an untimed match he would certainly have won this particular game. But the clock is part of Magic, and it is unfeasible to expect to win many matches by holding the fort as your opponent draws his entire deck... on card at a time.
 

@@ -73,17 +73,23 @@ With Pro Tour-Prague a month in the past, it's time to see how the world of *Rav
 
 ### [Grand Prix-Kuala Lumpur: Kenji Conquers Limited Format](/en/events/2006/gpkl06/player-of-the-year-grabs-first-limited-victory)
 
-![](https://i.ormos.uk/78/62/7862d97b3df53d81236029dced01bbe255099982ff6084692db0e064231f4e35.jpg)The weekend started in Malaysia, where 316 players journeyed to Kuala Lumpur to challenge their Sealed Deck and Booster Draft skills. Constructed master Kenji Tsumura showed he's now a force to be reckoned with on the Limited side of things as the reigning Player of the Year defeated Osamu Fujita in the finals. 
+![](https://i.ormos.uk/78/62/7862d97b3df53d81236029dced01bbe255099982ff6084692db0e064231f4e35.jpg)
+
+The weekend started in Malaysia, where 316 players journeyed to Kuala Lumpur to challenge their Sealed Deck and Booster Draft skills. Constructed master Kenji Tsumura showed he's now a force to be reckoned with on the Limited side of things as the reigning Player of the Year defeated Osamu Fujita in the finals. 
 
   
   
 
 ### [Grand Prix-Torino: Bohny Blasts Ruel in Finals](/en/events/2006/gptori06/dust-settles-at-mega-gp)
 
-![](https://i.ormos.uk/26/c7/26c76a88fe0f50dfdf107295587bb2651bf5d1db34c62f74dad6e21a6bc55625.jpg)Three big days of Magic concluded Sunday at Europe's Mega Grand Prix with Switzerland's Nico Bohny defeating 2006 Invitational winner Antoine Ruel in two rapid games for his first Grand Prix victory.
+![](https://i.ormos.uk/26/c7/26c76a88fe0f50dfdf107295587bb2651bf5d1db34c62f74dad6e21a6bc55625.jpg)
+
+Three big days of Magic concluded Sunday at Europe's Mega Grand Prix with Switzerland's Nico Bohny defeating 2006 Invitational winner Antoine Ruel in two rapid games for his first Grand Prix victory.
 
   
 
 ### [Grand Prix-Toronto: De Rosa Continues Hot Streak](/en/events/2006/gptoro06/derosa-does-it-again)
 
-![](https://i.ormos.uk/c4/da/c4dae34afe4f86246572fe3973ce22df31d5e09b6639b66f5a11d1bdd184fc47.jpg)After the robust challenges of dynamic Top 8s in Kuala Lumpur and Torino were extended, Toronto followed through with a star-studded finale. U.S. National Champion Antonino De Rosa defeated Jon Sonne, his teammate from the national team, to earn his second Grand Prix title in as many seasons.
+![](https://i.ormos.uk/c4/da/c4dae34afe4f86246572fe3973ce22df31d5e09b6639b66f5a11d1bdd184fc47.jpg)
+
+After the robust challenges of dynamic Top 8s in Kuala Lumpur and Torino were extended, Toronto followed through with a star-studded finale. U.S. National Champion Antonino De Rosa defeated Jon Sonne, his teammate from the national team, to earn his second Grand Prix title in as many seasons.

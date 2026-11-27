@@ -44,7 +44,9 @@ archive_source:
   sha256: e2186dbdc3fa9b93237934c05137df0191519582cfa84c6595d568bf747ffc34
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a981.jpg)Ah, the sometimes-tragedy of the three-round bye. Both Tzu Ching Kuo and The Nefarious Doctor Wong enjoyed its ridiculous advantage. As a result, however, the longtime friends and teammates drew each other in the fourth round. They hoped in a re-pair. None came. The two are considered Taiwan's finest talents, so this would be a hard-fought affair.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a981.jpg)
+
+Ah, the sometimes-tragedy of the three-round bye. Both Tzu Ching Kuo and The Nefarious Doctor Wong enjoyed its ridiculous advantage. As a result, however, the longtime friends and teammates drew each other in the fourth round. They hoped in a re-pair. None came. The two are considered Taiwan's finest talents, so this would be a hard-fought affair.
 
 Kuo was set back in the first match quickly, when he missed his fourth land drop. He half-heartedly tried a Goblin Trenches, but fell right into Absorb. He didn't even have double-blue for countermagic. The Doctor, meanwhile, dropped land after land.
 
@@ -54,7 +56,9 @@ With so much action in hand, he needed to trade it in for some lands. He cracked
 
 Now he had the Trenches, but was tapped out. This was The Doctor's chance. Cunning Wish went to the board and got Aura Blast, taking out the Trenches. A main-phase Fact or Fiction got him two land and a Wrath over two land. He had just two untapped land as he gave it back to Kuo.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a983.jpg)Kuo had no action. For many turns they made no play, just adding lands to the board. Opposition from Kuo was no threat. The next turn he tried a Trenches. Doctor Wong instinctively reached for his lands. Counterspell. Absorb. Absorb. Memory Lapse. Memory Lapse. Kuo topped it off with Cunning Wish. It resolved, and fetched Gainsay, completing the tower.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a983.jpg)
+
+Kuo had no action. For many turns they made no play, just adding lands to the board. Opposition from Kuo was no threat. The next turn he tried a Trenches. Doctor Wong instinctively reached for his lands. Counterspell. Absorb. Absorb. Memory Lapse. Memory Lapse. Kuo topped it off with Cunning Wish. It resolved, and fetched Gainsay, completing the tower.
 
 Unfortunately, Wong missed a key play. He could let the stack resolve down to the Trenches, and Kuo's Memory Lapse would put his Absorb back on top of his library. Then he could use Ice to draw it, trying to counter the Trenches. Kuo had nothing in hand, and so Wong would have succeeded. As a result of this mistake he found himself under Trenches-Opposition.
 
@@ -64,7 +68,9 @@ Kuo 1 - Weng 0
 
 The second game seemed to begin as the first. Doctor Wong found a fully diverse mana base, while Kuo struggled with five lands, only two of which could produce blue. He tried a Trenches. Wong Aura Blasted. He tried a Meddling Mage. Wong Absorbed. Wong dropped Trenches with two Counterspells in hand. Kuo frowned.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a982.jpg)Wong made a pair of men. Next turn he tried to up the ante with Opposition, protecting it from Memory Lapse with Counterspell. Repulse took out one of the tokens. Wong made two more and locked Kuo out of everything but red. Kuo topdecked Skycloud Expanse, and slammed down his own Trenches. Wong calmly untapped and returned it to hand with Rushing River.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a982.jpg)
+
+Wong made a pair of men. Next turn he tried to up the ante with Opposition, protecting it from Memory Lapse with Counterspell. Repulse took out one of the tokens. Wong made two more and locked Kuo out of everything but red. Kuo topdecked Skycloud Expanse, and slammed down his own Trenches. Wong calmly untapped and returned it to hand with Rushing River.
 
 From there he made an army of nine tokens, locking Kuo up and swinging for three a turn. Kuo couldn't escape.
 

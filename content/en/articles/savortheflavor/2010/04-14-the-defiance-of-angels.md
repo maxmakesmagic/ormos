@@ -81,7 +81,9 @@ render_recovery: []
 
  
 
-![](http://wizards.com//mtg/images/daily/stf/stf82_w.png)hen Emrakul, Ulamog, and Kozilek walked the plane the first time thousands of years ago, the epic destruction they wreaked was the stuff of legend. We know that those legends [became distorted over time](https://web.archive.org/web/20100414000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/stf/82), eventually giving rise to the merfolk deities Emeria, Ula, and Cosi.
+![](http://wizards.com//mtg/images/daily/stf/stf82_w.png)
+
+hen Emrakul, Ulamog, and Kozilek walked the plane the first time thousands of years ago, the epic destruction they wreaked was the stuff of legend. We know that those legends [became distorted over time](https://web.archive.org/web/20100414000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/stf/82), eventually giving rise to the merfolk deities Emeria, Ula, and Cosi.
 
 ![](http://wizards.com//mtg/images/daily/stf/stf86_luminarch.jpg)
 

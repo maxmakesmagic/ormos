@@ -439,7 +439,9 @@ Kastleもなんとか《魂売り/Spiritmonger》を展開して状況打開を�
 
 Doughertyがこの《ワーム》をリアニメイトした次のターンのKastleの行動は、《陰謀団式療法/Cabal Therapy》で《納墓/Entomb》を捨てさせて《極楽鳥/Birds of Paradise》を召喚。
 
-![](http://www.wizards.com/sideboard/images/pthou02/a899.jpg)**Kastle:**1マナしかないし、ここでフラッシュバックさせて《抹殺者》を捨てさせる必要もないか･･･。1ターン待つのが正解だな。
+![](http://www.wizards.com/sideboard/images/pthou02/a899.jpg)
+
+**Kastle:**1マナしかないし、ここでフラッシュバックさせて《抹殺者》を捨てさせる必要もないか･･･。1ターン待つのが正解だな。
 
 ということで、Kastleはターンを返した。
 
@@ -485,7 +487,9 @@ Doughertyはなんとか《陰謀団式療法》によって《破滅的な行�
 
 ここで《悪魔の布告/Diabolic Edict》を警戒したKastleが2/3一体でのアタックを行ってDoughertyは残りライフ5。･･･Dougherty、絶体絶命。
 
-![](http://www.wizards.com/sideboard/images/pthou02/a405.jpg)しかし、ここでDoughertyは起死回生の《顔なしの解体者/Faceless Butcher》!　しかし、戻ってきた《新緑の魔力/Verdant Force》は《悪魔の布告/Diabolic Edict》によって生贄にささげられることに。
+![](http://www.wizards.com/sideboard/images/pthou02/a405.jpg)
+
+しかし、ここでDoughertyは起死回生の《顔なしの解体者/Faceless Butcher》!　しかし、戻ってきた《新緑の魔力/Verdant Force》は《悪魔の布告/Diabolic Edict》によって生贄にささげられることに。
 
 Darwinの《樹上の村》がアタック。Dougherty:2。
 

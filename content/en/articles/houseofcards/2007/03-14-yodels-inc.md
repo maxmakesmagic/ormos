@@ -657,7 +657,9 @@ render_recovery:
 ---
 * * *
 
-![Warning](https://i.ormos.uk/12/ce/12cefd36e5163fbd503320ce649d553428e3354f23d2b52abab302965413cb08.jpg)Stop me if you've heard this one: Welcome to Echo Week! To be honest, I was a little unsure about what I was going to do for the theme this week. My first instinct was to just rerun my article from last week – har har – but apparently that wouldn't have resulted in a similar echoing in my bank account. My second instinct was to yodel my article from the Swiss Alps, but apparently I don't live anywhere near the Swiss Alps and I don't know how to yodel. Once I work out these kinks, expect a belated Echo Week podcast from me. Until then, I'll have to come up with something else.
+![Warning](https://i.ormos.uk/12/ce/12cefd36e5163fbd503320ce649d553428e3354f23d2b52abab302965413cb08.jpg)
+
+Stop me if you've heard this one: Welcome to Echo Week! To be honest, I was a little unsure about what I was going to do for the theme this week. My first instinct was to just rerun my article from last week – har har – but apparently that wouldn't have resulted in a similar echoing in my bank account. My second instinct was to yodel my article from the Swiss Alps, but apparently I don't live anywhere near the Swiss Alps and I don't know how to yodel. Once I work out these kinks, expect a belated Echo Week podcast from me. Until then, I'll have to come up with something else.
 
 Now, I can hear you saying, "Why don't you just build a few decks with some of the most recent Echoers instead?" Well, I'm going to, uh, echo that sentiment.
 

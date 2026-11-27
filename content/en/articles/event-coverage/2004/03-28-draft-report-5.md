@@ -44,7 +44,9 @@ archive_source:
   sha256: 562a0355864ea8cf5c2da2f5b69d5f95a74aa57157c2bffbb8302e5373c64b1f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/dr1_1.jpg)It's the first draft of the second day, and to everybody's surprise only one person is missing. The clock was set from winter to summertime tonight, so there were huge expectations of people being an hour late. This once though, gamers turned out to be smart and were actually all on time. The only person missing was an Englishman who hurt his leg.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/dr1_1.jpg)
+
+It's the first draft of the second day, and to everybody's surprise only one person is missing. The clock was set from winter to summertime tonight, so there were huge expectations of people being an hour late. This once though, gamers turned out to be smart and were actually all on time. The only person missing was an Englishman who hurt his leg.
 
 While sitting down at table two everybody seemed calm and relaxed. I sat down between Jake Smith and Olivier Ruel, who at the time were blowing kisses to each other, making clear that they would be having a friendly draft, not hate-drafting a lot. Olivier has been red hot in this draft format lately, making GP and PT top 8's, and is really on top of his form. Jake is well known for being carried to the second place of the Team PT by his team, only winning a couple of rounds himself, while his teammates beat everybody. His teammates must have picked him for a reason though, and he is a pretty decent drafter.
 

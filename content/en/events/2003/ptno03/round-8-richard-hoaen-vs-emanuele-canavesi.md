@@ -233,7 +233,9 @@ render_recovery:
 
 Richard Hoaen was complaining before this round that despite his perfect record he had yet to receive a feature match. He inquired as to the reason suggesting that it had something to do with his personal appearance, "It's because I'm ugly isn't it?"
 
-![](http://www.wizards.com/sideboard/images/ptno03/a922.jpg)As the only remaining undefeated players in the tournament Richard would need to frighten small children to not get a feature this round against relatively unknown Emanuele Canavesi from Italy.
+![](http://www.wizards.com/sideboard/images/ptno03/a922.jpg)
+
+As the only remaining undefeated players in the tournament Richard would need to frighten small children to not get a feature this round against relatively unknown Emanuele Canavesi from Italy.
 
 Hoaen was a member of the Canadian National team and was a Top 8 competitor at Pro Tour Yokohama last season. He worked with Jordan Berkowitz, Mark Zajdner and US National Champ Josh Wagener to prepare for this event. When asked if he was sporting the same mono-brown build as the rest of the group, Hoaen shuddered, "Good lord no, I'm playing goblins."
 
@@ -251,7 +253,9 @@ Rich led off the action with a turn two Goblin Piledriver. When he tried to put 
 
 Rich played a Prospector on the next turn and when that resolved he tried a Goblin Recruiter. Brainstorm yielded a Mana Leak but Hoean was able to pay for it by sacrificing a pair of Goblins. When the Recruiter resolved, Rich took about thirty cards and showed them to his opponent.
 
-![](http://www.wizards.com/sideboard/images/ptno03/a920.jpg)Rich went for another Ringleader on the next turn and the Italian had to Intuition for Force Spike to counter it. The next Ringleader—certain death for the Italian if it resolved—prompted a Fact or Fiction. Emanuele took the pile with Counter, AK and FoF over a Tog and an Island. One sacrificed Delta later and the Ringleader was countered.
+![](http://www.wizards.com/sideboard/images/ptno03/a920.jpg)
+
+Rich went for another Ringleader on the next turn and the Italian had to Intuition for Force Spike to counter it. The next Ringleader—certain death for the Italian if it resolved—prompted a Fact or Fiction. Emanuele took the pile with Counter, AK and FoF over a Tog and an Island. One sacrificed Delta later and the Ringleader was countered.
 
 The Italian played a Psychatog and passed the turn. Now Rich was down to his Warchief—Piledriver were sure to follow—but could not muster an attack past the Tog and said, "go".
 
@@ -265,7 +269,9 @@ Richard sided in two Damping Matrix and a pair of Defense Grid. To nobody's surp
 
 Rich played a Defense Grid but it was countered as well. He played a Piledriver and Emanuele let it resolve so he could Intuition for three Accumulated Knowledge and draw three cards. When Rich attempted another Defense Grid on the next turn it resolved but not before the Piledriver was Smothered. Emanuele fell to nine on his opponent's attack.
 
-![](http://www.wizards.com/sideboard/images/ptno03/a921.jpg)Emanuele was able to keep the goblin hordes at bay with a Psychatog and Rich built up for an alpha strike with Skirk Prospectors. Emanuele had other plans and Intuitioned for three Engineered Plagues and cast it naming goblins. The Mogg Fanatic took a last shot on the way out and the Italian dropped to eight.
+![](http://www.wizards.com/sideboard/images/ptno03/a921.jpg)
+
+Emanuele was able to keep the goblin hordes at bay with a Psychatog and Rich built up for an alpha strike with Skirk Prospectors. Emanuele had other plans and Intuitioned for three Engineered Plagues and cast it naming goblins. The Mogg Fanatic took a last shot on the way out and the Italian dropped to eight.
 
 Rich mustered a Piledriver off the top but the Italian had the Smother and an AK for four. "Okay, you win," was Hoaen's response to the AK for four.
 

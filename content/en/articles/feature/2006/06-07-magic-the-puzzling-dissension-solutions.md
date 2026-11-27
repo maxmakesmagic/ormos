@@ -627,7 +627,9 @@ For a Vintage solution, you will need six mana. The puzzle can be solved basical
 
 Puzzle 5 Solution:
 
-[![](https://i.ormos.uk/f9/72/f9722ab7fc49c69500c6a4a1fb00854347a3b0284027dea17d79ee023bff04e9.jpg)](http://www.wizards.com/magic/images/mtgcom/fcpics/features/337_Diagram4_lg.jpg)Patrick will win no matter which deck is his. 
+[![](https://i.ormos.uk/f9/72/f9722ab7fc49c69500c6a4a1fb00854347a3b0284027dea17d79ee023bff04e9.jpg)](http://www.wizards.com/magic/images/mtgcom/fcpics/features/337_Diagram4_lg.jpg)
+
+Patrick will win no matter which deck is his. 
 
 If Patrick is player A, he can:
 

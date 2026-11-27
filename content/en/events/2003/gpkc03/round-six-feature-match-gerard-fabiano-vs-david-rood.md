@@ -174,7 +174,9 @@ render_recovery:
 ---
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a953.jpg)David and Gerard both sit down at 5-0 and looking good for day two. David won the randomization thingy and decided to play.
+![](http://www.wizards.com/sideboard/images/gpkc03/a953.jpg)
+
+David and Gerard both sit down at 5-0 and looking good for day two. David won the randomization thingy and decided to play.
 
 Gerard took the mulligan to six while David laughed at him. “Those shady Canadian,” Gerard remarked.
 
@@ -192,7 +194,9 @@ David Rood 1 – Gerard Fabiano 0
 
 ### Game Two
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a951.jpg)“It doesn’t look like your deck is all that good,” Gerard commented as the players shuffled up for game two.
+![](http://www.wizards.com/sideboard/images/gpkc03/a951.jpg)
+
+“It doesn’t look like your deck is all that good,” Gerard commented as the players shuffled up for game two.
 
 “I have a lot of four casting cost artifacts,” David commented. “Want to see me play more of them?”
 
@@ -210,7 +214,9 @@ David Rood 1 – Gerard Fabiano 1
 
 Both players decided to keep their opening hands and David led with a Leonin Scimitar. Gerard didn’t allow it to live even a moment as he turned it to dust before it could become a problem.
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a952.jpg)David didn’t seem too disappointed by the loss of the Scimitar, he simly replaced it with Frogmite and Needlebug. David added his own creatures to the table as well, Goblin War Wagon and Copperhoof Vorrac.
+![](http://www.wizards.com/sideboard/images/gpkc03/a952.jpg)
+
+David didn’t seem too disappointed by the loss of the Scimitar, he simly replaced it with Frogmite and Needlebug. David added his own creatures to the table as well, Goblin War Wagon and Copperhoof Vorrac.
 
 David left everything untapped, and when Gerard swung with his Copperhoof Vorrac, David activated Standing Stones, taking six off the power and toughness of the Vorrac. The 4/4 Vorrac still eliminated two of David’s creatures, leaving the Goblin War Wagon as the only creature on the table. Gerard remedied that with a Tel-Jilad Archer and then David played an Alpha Myr.
 

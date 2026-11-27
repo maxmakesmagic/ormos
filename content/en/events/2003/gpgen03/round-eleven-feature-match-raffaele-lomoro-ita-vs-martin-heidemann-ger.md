@@ -57,7 +57,9 @@ A long, long time ago - way before Morphling, Masticore, morphing, buyback and s
 
 ### Game One
 
-![](https://i.ormos.uk/bd/7a/bd7acfb7e5c2522bc302e1f705f218b94b7afa76df27cdc9b163834a041c9600.jpg)Things didn't start well. LoMoro accidently drew eight cards and was forced to mulligan to six, receiving a warning in the process. He was still shaking his head at the mistake when he played his first land.
+![](https://i.ormos.uk/bd/7a/bd7acfb7e5c2522bc302e1f705f218b94b7afa76df27cdc9b163834a041c9600.jpg)
+
+Things didn't start well. LoMoro accidently drew eight cards and was forced to mulligan to six, receiving a warning in the process. He was still shaking his head at the mistake when he played his first land.
 
 The quiet German just smiled it off and went about setting up his mana. Lo Moro finally moved on his third turn playing Goblin Warchief. Heidemann reached Wing Shards mana and the Italian lapsed into thought. He settled for sending the Warchief in, and it got Sharded away.
 

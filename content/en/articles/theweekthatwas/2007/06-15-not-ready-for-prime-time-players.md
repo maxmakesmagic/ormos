@@ -605,7 +605,9 @@ After last year's Regionals I conducted a roundtable interview that included Con
 
 Raphael Levy.
 
-![](https://i.ormos.uk/e7/3f/e73fe07cd41fd5b9a8d098a5a5ab1b58f7ebdec4f2ffbbf7f327d0bb38376e74.jpg)Raph was a clear favorite among the voters, garnering [43 percent of the votes](/en/events/2007/mi07/raphael-levy-is-the-2007-road-warrior). Based on the feedback in the forums, voters placed a huge premium on Levy's ridiculous string of consecutive Pro Tours attended that stretches back over a decade. The fact that he was able to win back-to-back Grand Prix in North America and the Far East didn't hamper his case either. 
+![](https://i.ormos.uk/e7/3f/e73fe07cd41fd5b9a8d098a5a5ab1b58f7ebdec4f2ffbbf7f327d0bb38376e74.jpg)
+
+Raph was a clear favorite among the voters, garnering [43 percent of the votes](/en/events/2007/mi07/raphael-levy-is-the-2007-road-warrior). Based on the feedback in the forums, voters placed a huge premium on Levy's ridiculous string of consecutive Pro Tours attended that stretches back over a decade. The fact that he was able to win back-to-back Grand Prix in North America and the Far East didn't hamper his case either. 
 
 For Levy, the win represented a huge monkey-ectomy. Despite his stellar career which was recently honored with an induction into the Hall of Fame, Levy had never been to an Invitational. 
 
@@ -615,7 +617,9 @@ Fittingly, Levy was gearing up for a two-week trip to North America that will ta
 
 "The crazy period is going to be October and November," Raph explained. "It's about three times worse than the Dallas/Singapore/Amsterdam/Kyoto schedule."
 
-[![](https://i.ormos.uk/04/33/04337ddee18925996df26e6329e2eecf853a51029b14a1775d3a5264805e1dca.jpg)](/en/events/2007/mi07/guillaume-wafo-tapa-is-the-2007-resident-genius)He goes from PT Valencia starting on the 10th of October straight to the Invitational in Germany on the 17th. The next few weekends see him in Thailand, Poland, Japan, and North America for GPs before coming to New York for the World Championships after a weekend at home in France. 
+[![](https://i.ormos.uk/04/33/04337ddee18925996df26e6329e2eecf853a51029b14a1775d3a5264805e1dca.jpg)](/en/events/2007/mi07/guillaume-wafo-tapa-is-the-2007-resident-genius)
+
+He goes from PT Valencia starting on the 10th of October straight to the Invitational in Germany on the 17th. The next few weekends see him in Thailand, Poland, Japan, and North America for GPs before coming to New York for the World Championships after a weekend at home in France. 
 
 This week's contest is the always controversial [Resident Genius ballot](/en/events/2007/mi07/guillaume-wafo-tapa-is-the-2007-resident-genius), which features four Pro Tour winners, one finalist, countless Top 8 finishes, and proficiency with both 40- and 60-card decks. Click on the image to the right to find the ballot and support your favorite mad scientist. 
 

@@ -182,7 +182,9 @@ Standings
 
 While there were barely a handful of Faeries decks in the entire tournament, there is still one in the top 8 of Great Britain’s National Championship, and being piloted by no less than Jonathan Randle, top 8 competitor from GP Birmingham. His opponent, Michail Dimakos with [Reveillark](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reveillark), on the face of things had a pretty bad matchup in the top eight, but some variations to his list meant that there was definitely game there.
 
-![](https://i.ormos.uk/79/aa/79aafe8630b63e0117165ae4e33c12c48785ed841299f51e8dd9cc3745965bdf.jpg)Jonathan won the roll, and playing first, took a mulligan. He had a turn 1 [Ancestral Vision](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Vision)s, and a turn two [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) though, so this didn’t seem to be too great a concern for the placid Englishman. A [Desert](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Desert) from Michail was a great answer to that [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) though. This was one of the cards that Jonathan had highlighted as making the matchup not as favourable as the average Faeries/[Reveillark](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reveillark) match might seem.
+![](https://i.ormos.uk/79/aa/79aafe8630b63e0117165ae4e33c12c48785ed841299f51e8dd9cc3745965bdf.jpg)
+
+Jonathan won the roll, and playing first, took a mulligan. He had a turn 1 [Ancestral Vision](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Vision)s, and a turn two [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) though, so this didn’t seem to be too great a concern for the placid Englishman. A [Desert](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Desert) from Michail was a great answer to that [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) though. This was one of the cards that Jonathan had highlighted as making the matchup not as favourable as the average Faeries/[Reveillark](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reveillark) match might seem.
 
 Jonathan attacked in with his tokens, only to lose one a turn to [Desert](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Desert). He played a second [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom), hoping to successfully swarm. This plan was stymied slightly as well, as Michail had an [Aven Riftwatcher](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Riftwatcher) – a great creature in a race.
 
@@ -206,7 +208,9 @@ At the end of turn, Michail played a [Venser, Shaper Savant](https://web.archive
 
 The life totals at this point were 10 to Jonathan, while Michail was on 14. All those [Desert](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Desert)s were now a little redundant, as [Scion of Oona](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scion+of+Oona) was never going to be attacking. Another [Mistbind Clique](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistbind+Clique) came from Randle when an [Ancestral Vision](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Vision)s tried to resolve for Michail. This allowed Rune Snag to stop the card drawing spell.
 
-![](https://i.ormos.uk/01/d6/01d66b4ebd77d34aedc0cb437753080084ce153dc62bb761e3181027b926dbde.jpg)Randle’s attacks also took Michail to 4. He was in a race that seemed very tough for him to get back into. When Wrath of God was countered by [Spellstutter Sprite](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite), Michail scooped them up.
+![](https://i.ormos.uk/01/d6/01d66b4ebd77d34aedc0cb437753080084ce153dc62bb761e3181027b926dbde.jpg)
+
+Randle’s attacks also took Michail to 4. He was in a race that seemed very tough for him to get back into. When Wrath of God was countered by [Spellstutter Sprite](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite), Michail scooped them up.
 
 Jonathan Randle 2 – 0 Michail Dimakos
 
@@ -335,7 +339,9 @@ Jonathan Randle wins 3 - 0!
 
 "I watched Serenity. River Tan kicks ass!"
 
-![](https://i.ormos.uk/6e/86/6e868e2b1cc1242d0547cb981a5d25db28f2ae35e1c9f8d182f417cad613b266.jpg)Stephen Murray was feeling pretty good about his semi-final matchup. The former Scottish National Champion has a 100% records in nationals semis, and even won the roll in this match, choosing to play.
+![](https://i.ormos.uk/6e/86/6e868e2b1cc1242d0547cb981a5d25db28f2ae35e1c9f8d182f417cad613b266.jpg)
+
+Stephen Murray was feeling pretty good about his semi-final matchup. The former Scottish National Champion has a 100% records in nationals semis, and even won the roll in this match, choosing to play.
 
 Each player accelerated in their own way on turn two, Murray with a [Prismatic Lens](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prismatic+Lens), while Davies fetched a [Mouth of Ronom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mouth+of+Ronom) with [Into the North](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Into+the+North). [Murmuring Bosk](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Murmuring+Bosk) allowed Russ to cast [Doran, the Siege Tower](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doran%2C+the+Siege+Tower), but there was a [Venser, Shaper Savant](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Venser%2C+Shaper+Savant) waiting to stop it for a turn, and then beat in. A [Mulldrifter](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter) was the next play from Murray, whose hand was suitably stocked for future turns thanks to the elemental.
 
@@ -365,7 +371,9 @@ Stephen had drawn another [Mirror Entity](https://web.archive.org/web/2017072104
 
 Stephen Murray 1 - 0 Russ Davies
 
-![](https://i.ormos.uk/bf/ea/bfeafb831c0ffdf800e17ccd7915e47e20fa43b95acb4fce476e0d7b93db8e95.jpg)After some careful sideboarding it was on to Game 2. Stephen suspended [Riftwing Cloudskate](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) early, while Russ was busy accelerating with [Search for Tomorrow](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Search+for+Tomorrow). The following turn came [Prismatic Lens](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prismatic+Lens) and a second Cloudskate suspended. Russ had a [Harmonize](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harmonize) for his turn, and discarded [Chameleon Colossus](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chameleon+Colossus) at the end of turn.
+![](https://i.ormos.uk/bf/ea/bfeafb831c0ffdf800e17ccd7915e47e20fa43b95acb4fce476e0d7b93db8e95.jpg)
+
+After some careful sideboarding it was on to Game 2. Stephen suspended [Riftwing Cloudskate](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) early, while Russ was busy accelerating with [Search for Tomorrow](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Search+for+Tomorrow). The following turn came [Prismatic Lens](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prismatic+Lens) and a second Cloudskate suspended. Russ had a [Harmonize](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harmonize) for his turn, and discarded [Chameleon Colossus](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chameleon+Colossus) at the end of turn.
 
 Murray was quite happy to wait for his fliers to hit play, and had a Venser to bounce [Wickerbough Elder](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wickerbough+Elder) on the stack, forcing another discard from Russ, another [Chameleon Colossus](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chameleon+Colossus). [Riftwing Cloudskate](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) #1 bounced a [Treetop Village](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village) and swung, and was soon joined by [Kitchen Finks](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kitchen+Finks). [Wickerbough Elder](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wickerbough+Elder) was the next discard from Russ, who kept having things bounced, with the second Cloudskate bouncing that [Treetop Village](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village) again.
 
@@ -399,7 +407,9 @@ Russ plinked in for 2 with [Shriekmaw](https://web.archive.org/web/2017072104232
 
 "I'm still alive!"
 
-![](https://i.ormos.uk/f2/12/f212f04776b254adcaa6117a7800a2aa5604b6010f15d26a71ee0b793cea68da.jpg)When Stephen drew another land though, he scooped it up. Not alive any more for this game.
+![](https://i.ormos.uk/f2/12/f212f04776b254adcaa6117a7800a2aa5604b6010f15d26a71ee0b793cea68da.jpg)
+
+When Stephen drew another land though, he scooped it up. Not alive any more for this game.
 
 Stephen Murray 2 - 1 Russ Davies
 
@@ -535,7 +545,9 @@ Had Jonathan Randle played against Richard Moore in the semi-finals, a hugely fa
 
 Game 1 of the five game set started out in exactly the sort of fashion that Murray was hoping to avoid - a turn two [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom). He dug with a [Careful Consideration](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Consideration), but was soon being beaten down by 1/1 Faeries.
 
-![](https://i.ormos.uk/e1/39/e1391221624691d86c89cf0d7cc37d5e98204c71c8fc8bb8442083cee236d302.jpg)A [Mulldrifter](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter) from Stephen resolved, making him feel a little better about his situation. A second [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) forced a rethink there though. While Randle was short on land, he was big on bringing a whole army of creatures to the board.
+![](https://i.ormos.uk/e1/39/e1391221624691d86c89cf0d7cc37d5e98204c71c8fc8bb8442083cee236d302.jpg)
+
+A [Mulldrifter](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter) from Stephen resolved, making him feel a little better about his situation. A second [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) forced a rethink there though. While Randle was short on land, he was big on bringing a whole army of creatures to the board.
 
 Murray played a [Riftwing Cloudskate](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate), bouncing one of Randle's three lands. It seemed that Murray was happy to play for tempo, and attack in, relying on [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) to help out in terms of damage. Having a pair of 2/2 fliers attacking effectively kept [Bitterblossom](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) in check, and Murray continued to commit threats to the board, with a [Kitchen Finks](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kitchen+Finks) being his next play - one that was stopped by [Spellstutter Sprite](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite).
 
@@ -583,7 +595,9 @@ Jonathan Randle 1 - 1 Stephen Murray
 
 "I've already told you what I had for breakfast today right? Faerie cake."
 
-![](https://i.ormos.uk/8d/81/8d811e5766ab5dbee608b3f6027ef2d3a3e5e46359878932835cc277c05da8ed.jpg)Murray seemed buoyed by getting a game under his belt, and shuffled up briskly for Game 3, with a new sense of hope for the matchup.
+![](https://i.ormos.uk/8d/81/8d811e5766ab5dbee608b3f6027ef2d3a3e5e46359878932835cc277c05da8ed.jpg)
+
+Murray seemed buoyed by getting a game under his belt, and shuffled up briskly for Game 3, with a new sense of hope for the matchup.
 
 This didn't seem to last when [Ancestral Vision](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Vision)s came down on turn 1 for Randle.
 
@@ -623,7 +637,9 @@ Randle played a [Secluded Glen](https://web.archive.org/web/20170721042326/http:
 
 "That's a really nice card" remarked an amused Stephen Murray. There was no other play from him though.
 
-![](https://i.ormos.uk/9e/b6/9eb6c4afba26c37e34c0829b3b117691383a4c8896c94b34f2cf2c0df1c0da86.jpg)Murray tried a [Kitchen Finks](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kitchen+Finks), and met a [Spellstutter Sprite](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite). Next came a [Mulldrifter](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter), which saw a [Cryptic Command](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command) stop it, and draw Randle a card. For the first time in the game, Randle swung in, with [Mistbind Clique](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistbind+Clique) to make it 16 to 1 in Murray's favour.
+![](https://i.ormos.uk/9e/b6/9eb6c4afba26c37e34c0829b3b117691383a4c8896c94b34f2cf2c0df1c0da86.jpg)
+
+Murray tried a [Kitchen Finks](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kitchen+Finks), and met a [Spellstutter Sprite](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite). Next came a [Mulldrifter](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter), which saw a [Cryptic Command](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command) stop it, and draw Randle a card. For the first time in the game, Randle swung in, with [Mistbind Clique](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistbind+Clique) to make it 16 to 1 in Murray's favour.
 
 In upkeep, Randle had another [Mistbind Clique](https://web.archive.org/web/20170721042326/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistbind+Clique) to tap down Murray, and get even more of a force with which to strike. He got in for 6, putting Murray on 10.
 

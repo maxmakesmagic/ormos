@@ -999,7 +999,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptsea04/sf2_1.jpg)Having never made a Day 3 Team appearance before, Japan's Magic community took a giant step forward at Pro Tour Seattle as one was guaranteed to make Sunday's final. Ichirou Shimura, Masami Ibamoto and Ryuuichi Arita of S.A.I. were friendly with countrymen Itaru Ishida, Tsuyoshi Ikeda and Jin Okamoto of www.shop-fireBall.com2 as they pile-shuffled before the start of Game 1, although they grew more serious as they were wired for the cameras.
+![](http://www.wizards.com/sideboard/images/ptsea04/sf2_1.jpg)
+
+Having never made a Day 3 Team appearance before, Japan's Magic community took a giant step forward at Pro Tour Seattle as one was guaranteed to make Sunday's final. Ichirou Shimura, Masami Ibamoto and Ryuuichi Arita of S.A.I. were friendly with countrymen Itaru Ishida, Tsuyoshi Ikeda and Jin Okamoto of www.shop-fireBall.com2 as they pile-shuffled before the start of Game 1, although they grew more serious as they were wired for the cameras.
 
 ### Game 1
 

@@ -86,7 +86,9 @@ render_recovery:
   - Nantuko Calmer
   occurrences: 64
 ---
-![](https://i.ormos.uk/4f/35/4f3571d96a65b4acb1a5b9f8186f5b9e08996bea27234db21ee93eae469dfc50.jpg)When Jeff Donais, funny man that he is, announced the pairings for the quarterfinals as "Eivind Nitter versus Gary M.F.T.," Eivind leaned over and asked his opponent, "What does that mean?"
+![](https://i.ormos.uk/4f/35/4f3571d96a65b4acb1a5b9f8186f5b9e08996bea27234db21ee93eae469dfc50.jpg)
+
+When Jeff Donais, funny man that he is, announced the pairings for the quarterfinals as "Eivind Nitter versus Gary M.F.T.," Eivind leaned over and asked his opponent, "What does that mean?"
 
 Gary explained, in so many words, that the "T" was for "Talim," and the "M.F." stood for what "M.F." usually stands for in gangsta lingo.
 
@@ -110,7 +112,9 @@ Game 2 was not close. Eivind kept a hand of 5 land, Firebolt, and Rites of Initi
 
 Nitter 1 – Talim 1
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a696.jpg)Eivind's poor luck continued into the start of game 3; he had to mulligan a 0-land draw. Talim started quickly with a turn-1 Rootwalla, a Firebolt for Eivind's Krosan Avenger, then a Spark Mage.
+![](http://www.wizards.com/sideboard/images/ptnice02/a696.jpg)
+
+Eivind's poor luck continued into the start of game 3; he had to mulligan a 0-land draw. Talim started quickly with a turn-1 Rootwalla, a Firebolt for Eivind's Krosan Avenger, then a Spark Mage.
 
 Eivind took a lot of early damage but eventually got out a Possessed Centaur that blocked the Rootwalla and was Refreshed. He then played a Squirrel Nest and dug in. Unfortunately for fans of the fast game, Talim played his own Nest, and the token generation began in earnest.
 
@@ -124,7 +128,9 @@ Talim had the Rites in hand and claimed he would have won on the next turn, but 
 
 Nitter 2 – Talim 1
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a701.jpg)This was best-of-five, so there was still more Magic to be played. Nitter sided in two Nantuko Calmers for a Cartographer and a Krosan Archer; he was clearly getting tired of dealing with Talim's Squirrel Nest.
+![](http://www.wizards.com/sideboard/images/ptnice02/a701.jpg)
+
+This was best-of-five, so there was still more Magic to be played. Nitter sided in two Nantuko Calmers for a Cartographer and a Krosan Archer; he was clearly getting tired of dealing with Talim's Squirrel Nest.
 
 Game 4 started slowly; Talim's turn-3 Avenger was Firebolted, and Nitter missed his fourth land drop, settling for Squirrel Nest on a tapped land.
 

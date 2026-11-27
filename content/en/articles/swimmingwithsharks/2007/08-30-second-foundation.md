@@ -792,7 +792,9 @@ render_recovery:
 ---
 * * *
 
-![Time_Spiral](https://i.ormos.uk/8a/f8/8af8d650e18fcc08dfbacf7f9d4a96512b3dbabc57e0169e5f3d8acc306125bc.jpg)One of the main challenges that every Internet **Magic** writer faces, week-in and week-out, is the proper positioning of puns. It's not easy coming up with them! Some of them are pretty good ("[The Best Decks in the Worlds](/en/articles/swimmingwithsharks/2006/12-07-the-best-decks-in-the-worlds)" or "[Throwing Down the Gauntlet](/en/articles/swimmingwithsharks/2005/05-26-throwing-down-the-gauntlet)"), while others can be a little strained (even when attached to sick articles that Pat Sullivan likes) like "[Swimming with Lipids](/en/articles/swimmingwithsharks/2007/03-29-swimming-with-lipids)." For this one I was like, "Will you look at that? By the end of the season... this format has really come full-circle... or at least 270 or so degrees." 
+![Time_Spiral](https://i.ormos.uk/8a/f8/8af8d650e18fcc08dfbacf7f9d4a96512b3dbabc57e0169e5f3d8acc306125bc.jpg)
+
+One of the main challenges that every Internet **Magic** writer faces, week-in and week-out, is the proper positioning of puns. It's not easy coming up with them! Some of them are pretty good ("[The Best Decks in the Worlds](/en/articles/swimmingwithsharks/2006/12-07-the-best-decks-in-the-worlds)" or "[Throwing Down the Gauntlet](/en/articles/swimmingwithsharks/2005/05-26-throwing-down-the-gauntlet)"), while others can be a little strained (even when attached to sick articles that Pat Sullivan likes) like "[Swimming with Lipids](/en/articles/swimmingwithsharks/2007/03-29-swimming-with-lipids)." For this one I was like, "Will you look at that? By the end of the season... this format has really come full-circle... or at least 270 or so degrees." 
 
 Full *circle*? 
 

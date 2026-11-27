@@ -102,7 +102,9 @@ render_recovery:
   - Organ Grinder
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/mastersosa02/a435.jpg)石田格率いる Panzer Hunters は昨年の雪辱を晴らし日本人初の Masters 優勝なるか？はたまた Kai Budde 率いる Phoenix Foundation が Kai に初の Masters 優勝の栄冠を与えることが出来るのか？
+![](http://www.wizards.com/sideboard/images/mastersosa02/a435.jpg)
+
+石田格率いる Panzer Hunters は昨年の雪辱を晴らし日本人初の Masters 優勝なるか？はたまた Kai Budde 率いる Phoenix Foundation が Kai に初の Masters 優勝の栄冠を与えることが出来るのか？
 
 お伝えするのは安藤玲二 ( 黒青 ) vs. Marco Blume ( 黒赤 ) 安藤は《激動/Upheaval》 Marco Blume は《ピット・ファイター、カマール/Kamahl, Pit Fighter》とパワーカードを持つ者同士の対戦となった。
 

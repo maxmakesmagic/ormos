@@ -141,7 +141,9 @@ render_recovery:
   - Words of Wisdom
   occurrences: 113
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a934.jpg)Having not met for a year in tournament play these two brothers played yesterday in the first round of the masters and were now meeting a second day in a row. In addition to this Olivier had been feeding Antoine during the draft.
+![](http://www.wizards.com/sideboard/images/ptnice02/a934.jpg)
+
+Having not met for a year in tournament play these two brothers played yesterday in the first round of the masters and were now meeting a second day in a row. In addition to this Olivier had been feeding Antoine during the draft.
 
 ### Game 1
 
@@ -151,7 +153,9 @@ The Healer managed to single handedly hold off two Dirty Wererats as a Balshan G
 
 Olivier won game 1.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a932.jpg)All the way through this match the brothers bantered in French jokingly – both not really minding who won.
+![](http://www.wizards.com/sideboard/images/ptnice02/a932.jpg)
+
+All the way through this match the brothers bantered in French jokingly – both not really minding who won.
 
 ### Game 2
 
@@ -162,7 +166,9 @@ So after some very quick play from both sides the board looked as follows:
 Antoine: Childhood Horror (threshold), Rotting Giant.  
  Olivier: 2 Hallowed Healers, Dreamwinder, Looter.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a933.jpg)Wham! Gloomdrifter came into play from Antoine's side destroying all but his opponents Dreamwinder and suddenly Olivier was in a dire position. Two turns later the fliers managed to swing over to bring the match level.
+![](http://www.wizards.com/sideboard/images/ptnice02/a933.jpg)
+
+Wham! Gloomdrifter came into play from Antoine's side destroying all but his opponents Dreamwinder and suddenly Olivier was in a dire position. Two turns later the fliers managed to swing over to bring the match level.
 
 ### Game 3
 

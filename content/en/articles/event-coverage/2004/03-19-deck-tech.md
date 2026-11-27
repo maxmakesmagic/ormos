@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsen04/db1_1.jpg)Who else did you think we'd cover at the start of the tournament? Masashiro Kuroda is three weeks removed from becoming the first Japanese Pro Tour Champion, and becoming $30,000 richer. For the immediate future, when it comes to Japanese Magic, he'll be the center of attention. It's not as if he came out of nowhere either, as he has long been considered one of Japan's best players. Kuroda had a tremendous amount of success in team events, winning a Masters and a Grand Prix with Masahiko Morita and Katsuhiro Mori as PS2. Now he's shining on his own, but then again holding a Pro Tour Championship trophy in front of the cameras has a tendency to make people take notice.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsen04/db1_1.jpg)
+
+Who else did you think we'd cover at the start of the tournament? Masashiro Kuroda is three weeks removed from becoming the first Japanese Pro Tour Champion, and becoming $30,000 richer. For the immediate future, when it comes to Japanese Magic, he'll be the center of attention. It's not as if he came out of nowhere either, as he has long been considered one of Japan's best players. Kuroda had a tremendous amount of success in team events, winning a Masters and a Grand Prix with Masahiko Morita and Katsuhiro Mori as PS2. Now he's shining on his own, but then again holding a Pro Tour Championship trophy in front of the cameras has a tendency to make people take notice.
 
 A funny aspect of this tournament is that despite being a Pro Tour Champion this season, Kuroda still only has two byes because they were set before Kobe. Japan's first and only Pro Tour winner is going to have to play six rounds today, while others will play only five. 
 

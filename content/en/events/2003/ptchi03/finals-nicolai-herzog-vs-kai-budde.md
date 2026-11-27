@@ -131,7 +131,9 @@ render_recovery:
 ---
 I have this image of Kai in my mind... in it, he is sitting in a throne on one side of the Feature Match table, crown slightly askew, scepter in hand... he raises his fist and shouts to his entourage, "Bring me a challenger!"
 
-![](https://i.ormos.uk/2a/49/2a49520af64346aca0c21e222e8810a311c731b08bcfb9f841b3ef4f46582de1.jpg)Kai is certainly no tyrant of a man, but his stranglehold on the world of pro Magic is nothing short of oppressive. Just earlier today he [reminded Jon Finkel](/en/events/2003/ptchi03/semifinals-kai-budde-vs-jon-finkel) of the current pecking order, and with the troublesome Bram Snepvangers already out of the way, it looks like Kai will drink from the victory cup again today.
+![](https://i.ormos.uk/2a/49/2a49520af64346aca0c21e222e8810a311c731b08bcfb9f841b3ef4f46582de1.jpg)
+
+Kai is certainly no tyrant of a man, but his stranglehold on the world of pro Magic is nothing short of oppressive. Just earlier today he [reminded Jon Finkel](/en/events/2003/ptchi03/semifinals-kai-budde-vs-jon-finkel) of the current pecking order, and with the troublesome Bram Snepvangers already out of the way, it looks like Kai will drink from the victory cup again today.
 
 The man who has to stop him is Nicolai Herzog. Herzog, a Pro Tour fixture, wants to follow in the footsteps of his countryman Eivind Nitter, and win a draft PT with Kai in the Top 8. Nitter did it [in Nice](https://web.archive.org/web/20090604001203/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/ptnice02,,en) with Beast Attack, and now Herzog will try to do it with Elves.
 
@@ -164,7 +166,9 @@ Herzog sided out his black for the remaining games, going with a sleek, aggressi
 
 ### Game 2
 
-![](https://i.ormos.uk/f6/f9/f6f95a9e95382e7996cfce1e1dc53b8fd6c7ca31001a30a6d7fd9961b6a1ebd8.jpg)Budde came out rocking in Game 2, deploying Festering Goblin, Sparksmith, and two face-down guys in the first four turns.
+![](https://i.ormos.uk/f6/f9/f6f95a9e95382e7996cfce1e1dc53b8fd6c7ca31001a30a6d7fd9961b6a1ebd8.jpg)
+
+Budde came out rocking in Game 2, deploying Festering Goblin, Sparksmith, and two face-down guys in the first four turns.
 
 Herzog tried to slow things down by playing higher-toughness creatures, such as Elvish Warriors and Elven Riders, but in the end, his draw—eventually tallying 9 forests and 6 spells—could not match up with Kai's.
 
@@ -174,7 +178,9 @@ Budde 2 – Herzog 0
 
 Herzog swallowed hard as he kept the two-forest hand for what could be the final game of this event. He drew lands three and four (both forests) right on time, and put out Wirewood Herald, Everglove Courier, and Leery Fogbeast in succession.
 
-![](https://i.ormos.uk/d3/bc/d3bc1a194cae5d00921e6301fdbd975a8e901715c8abb2258a26a9b7284a498f.jpg)But once again, Kai's board was better: Festering Goblin, Severed Legion, Goblin Taskmaster, and Rotlung Reanimator. Fallen Cleric came down on the next turn, and it looked like the Reanimator would lord over this game. Herzog seemed deflated. Green cannot race when it cannot afford to trade.
+![](https://i.ormos.uk/d3/bc/d3bc1a194cae5d00921e6301fdbd975a8e901715c8abb2258a26a9b7284a498f.jpg)
+
+But once again, Kai's board was better: Festering Goblin, Severed Legion, Goblin Taskmaster, and Rotlung Reanimator. Fallen Cleric came down on the next turn, and it looked like the Reanimator would lord over this game. Herzog seemed deflated. Green cannot race when it cannot afford to trade.
 
 Herzog was in no position to attack, and eventually the game ended when Kai played out about seven creatures and then cast Dirge of Dread.
 

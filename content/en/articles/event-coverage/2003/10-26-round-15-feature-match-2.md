@@ -44,7 +44,9 @@ archive_source:
   sha256: 6c63637a61be95d1a13f42878fdb83eace83912bf755083cfcfa96e01b2f4ff7
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a856.jpg)After two long days this is it. The final round. Winner makes top 8, loser makes top 16 at best. Yann Hamon is trying to continue his GP success after his second place performance at GP London while Robert Will is trying to make his first international top 8. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a856.jpg)
+
+After two long days this is it. The final round. Winner makes top 8, loser makes top 16 at best. Yann Hamon is trying to continue his GP success after his second place performance at GP London while Robert Will is trying to make his first international top 8. 
 
 ### Game 1
 

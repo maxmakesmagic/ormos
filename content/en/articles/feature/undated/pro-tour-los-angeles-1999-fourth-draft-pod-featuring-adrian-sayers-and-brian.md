@@ -48,7 +48,9 @@ render_recovery: []
 ---
 *\- Jack Lewis Stanton*
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/GeertsenR13.JPG)In this draft, we feature the blue haired wonder Brian Hacker and Team Austi-Knights' Adrian Sayers. During the draft, Sayers sat to the right of Hacker, choosing first during the first and third packs. Below are the picks they decided to choose (showing in parentheses the order of which they picked for each pack). The first player shown at the top was the first to choose between the two during each pack.
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/GeertsenR13.JPG)
+
+In this draft, we feature the blue haired wonder Brian Hacker and Team Austi-Knights' Adrian Sayers. During the draft, Sayers sat to the right of Hacker, choosing first during the first and third packs. Below are the picks they decided to choose (showing in parentheses the order of which they picked for each pack). The first player shown at the top was the first to choose between the two during each pack.
 
 **Pod Order of Drafting**
 

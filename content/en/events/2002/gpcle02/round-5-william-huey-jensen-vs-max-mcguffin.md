@@ -81,7 +81,9 @@ render_recovery:
   - Mind Sludge
   occurrences: 47
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a970.jpg)Round Five paired William "Huey" Jensen, one of the Pro Tour's most entertaining regulars against Max McGuffin, a local player and Junior Super Series Champion. Huey immediately announced his distaste for the format to me.
+![](http://www.wizards.com/sideboard/images/gpcle02/a970.jpg)
+
+Round Five paired William "Huey" Jensen, one of the Pro Tour's most entertaining regulars against Max McGuffin, a local player and Junior Super Series Champion. Huey immediately announced his distaste for the format to me.
 
 "This is the worst format ever, right?"
 
@@ -91,7 +93,9 @@ Max chose to play a version of Green/Blue Madness. His deck looked fairly standa
 
 Max won the die roll and started things up with the popular turn one Careful Study. The Study got him a Rootwalla in play and a Deep Analysis in his graveyard. He followed it up with a turn two Quiet Speculation for 3 Roar of the Wurms. Huey wasn't bothered by any of this. He played Tainted Pact, found a Burning Wish and Wished for Tombfire to clean out Max's graveyard. Max didn't let this stop the beats. He played an Elephant Guide on the Rootwalla and started beating him down with the Rootwalla and a Mongrel.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a966.jpg)Huey was in trouble. He was down to 12 and could only answer with a Diabolic Tutor. Max attacked and pumped putting Huey on 4 life. Huey brought the Mutilate he tutored for down on Max's team. Max still had an Elephant and knocked Huey down to one life. Huey had a long way to go to turn the game around. He played Edict on Max's next creature and Tutored again. He tried ending the game early with a huge Magnivore, but Max had the Circular Logic to end that plan. Neither of them did much for the next three turns. Huey played and then flashed an Earth Rift trying to knock out Max's green mana. Max had a nearly endless supply of forests from his hand though. Max made an Arrogant Wurm, then a Rootwalla, then a Mongrel, but Huey made him sack each of them one at a time. Finally Huey found a Recoup and began to go to work on Max. He Recouped a Tutor, Tutored for Mirari, drew into a Tainted Pact. Copied the Tainted Pact. Then copied a Burning Wish and Morbid Hungered his life back up to 7. Max gave up after this and conceded.
+![](http://www.wizards.com/sideboard/images/gpcle02/a966.jpg)
+
+Huey was in trouble. He was down to 12 and could only answer with a Diabolic Tutor. Max attacked and pumped putting Huey on 4 life. Huey brought the Mutilate he tutored for down on Max's team. Max still had an Elephant and knocked Huey down to one life. Huey had a long way to go to turn the game around. He played Edict on Max's next creature and Tutored again. He tried ending the game early with a huge Magnivore, but Max had the Circular Logic to end that plan. Neither of them did much for the next three turns. Huey played and then flashed an Earth Rift trying to knock out Max's green mana. Max had a nearly endless supply of forests from his hand though. Max made an Arrogant Wurm, then a Rootwalla, then a Mongrel, but Huey made him sack each of them one at a time. Finally Huey found a Recoup and began to go to work on Max. He Recouped a Tutor, Tutored for Mirari, drew into a Tainted Pact. Copied the Tainted Pact. Then copied a Burning Wish and Morbid Hungered his life back up to 7. Max gave up after this and conceded.
 
 Huey 1, McGuffin 0
 
@@ -99,7 +103,9 @@ Game 2 was another close one. Max started off with a Careful Study that didn't t
 
 Max played a Squirret Nest to get back into the game and Huey just laughed at him. 
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a965.jpg)"That's pretty good against the land destruction deck!"
+![](http://www.wizards.com/sideboard/images/gpcle02/a965.jpg)
+
+"That's pretty good against the land destruction deck!"
 
 Huey took his turn and Diabolic TutoredX2 thanks to Mirari. The next turn he Burning WishedX2 for a Rancid Earth and a Morbid Hunger. He tried to remove the Nested land the next turn with the Rancid Earth, but Max had Envelop. Max proceeded to Careful Study out two Rootwallas the next turn. Huey just Morbid HungeredX2 and they were gone. From here it got more disgusting. He WishedX2 then killed off the Squirrel's Nest. Next He Mind Sludged and WishedX2 again for two Burning Wish. His next turn he WishedX2 and WishedX2 again. Then he began to Earth RiftX2 Max's lands. Max conceded.
 

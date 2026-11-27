@@ -77,7 +77,9 @@ archive_source:
   sha256: 2e7a69849724971cf32987100d9df66ea15903b7629a8a03920ef6761444410a
 render_recovery: []
 ---
-![Mistform Ultimus Watch](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg)Since the [last official installment](https://web.archive.org/web/20080121000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/1176) of the Mistform Ultimus Watch, creature types have become much more important and have also gotten [Grandly Updated](https://web.archive.org/web/20080121000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/424a3). It's also gotten some new friends, but we're not going to start calling this the "Mistform Ultimus and Changeling Update." It's a matter of tradition!
+![Mistform Ultimus Watch](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg)
+
+Since the [last official installment](https://web.archive.org/web/20080121000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/1176) of the Mistform Ultimus Watch, creature types have become much more important and have also gotten [Grandly Updated](https://web.archive.org/web/20080121000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/424a3). It's also gotten some new friends, but we're not going to start calling this the "Mistform Ultimus and Changeling Update." It's a matter of tradition!
 
 So let's imagine that Mistform Ultimus is sitting down to a formal dinner with [Moonglove Changeling](https://web.archive.org/web/20080121000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moonglove+Changeling), [Taurean Mauler](https://web.archive.org/web/20080121000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Taurean+Mauler), and [War-Spike Changeling](https://web.archive.org/web/20080121000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=War-Spike+Changeling).
 

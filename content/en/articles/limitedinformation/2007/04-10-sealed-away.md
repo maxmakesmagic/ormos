@@ -86,7 +86,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![Predatory_Focus](https://i.ormos.uk/c2/d8/c2d8f00eb882906d594102c9d45744ce2de945aa4cb11694d586995fe25c8d21.jpg)In this column, there will be a greater focus on drafting than on Sealed Deck. There are many reasons for this, the primary being that drafting is more skill intensive (and more fun). There are more options: a higher degree of flux and then the fact that, once drafted, you still have to build your deck. Even though you should know how your deck will be built whilst drafting, a lot of people will have to assess their drafted pool much like that of a Sealed pool. There is the added fact that in most tournaments, you have to work your way through the Sealed portion before you can participate in the juicy Draft segment.
+![Predatory_Focus](https://i.ormos.uk/c2/d8/c2d8f00eb882906d594102c9d45744ce2de945aa4cb11694d586995fe25c8d21.jpg)
+
+In this column, there will be a greater focus on drafting than on Sealed Deck. There are many reasons for this, the primary being that drafting is more skill intensive (and more fun). There are more options: a higher degree of flux and then the fact that, once drafted, you still have to build your deck. Even though you should know how your deck will be built whilst drafting, a lot of people will have to assess their drafted pool much like that of a Sealed pool. There is the added fact that in most tournaments, you have to work your way through the Sealed portion before you can participate in the juicy Draft segment.
 
 There are many skills needed for the correct construction of a Sealed pool. The first is card assessment. It is important to know the strength of every card, how they differ objectively and how the constraints of your pool alter their relevant strength. This is something that can only really be gained through play and discussion. 
 

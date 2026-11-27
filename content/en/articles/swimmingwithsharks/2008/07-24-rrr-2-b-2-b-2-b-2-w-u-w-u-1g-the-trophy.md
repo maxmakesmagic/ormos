@@ -799,4 +799,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Devin Low](https://i.ormos.uk/b4/cb/b4cb1dbc8b6ce71bfe038cb69426ccfbcc17b7781c40cd762bbfe20c243502e3.jpg "Devin Low")This article was written by Latest Developments author and **Magic** head developer Devin Low!!
+![Devin Low](https://i.ormos.uk/b4/cb/b4cb1dbc8b6ce71bfe038cb69426ccfbcc17b7781c40cd762bbfe20c243502e3.jpg "Devin Low")
+
+This article was written by Latest Developments author and **Magic** head developer Devin Low!!

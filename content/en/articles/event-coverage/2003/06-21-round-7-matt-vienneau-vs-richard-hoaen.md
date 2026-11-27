@@ -44,7 +44,9 @@ archive_source:
   sha256: 6d5ffd64f24835d817231fcb40c5d31c80f702c1ef74b23b9035057a643a877c
 render_recovery: []
 ---
-![](https://i.ormos.uk/af/29/af29cec7f6a2fae723d7cf0974773b5d7f3c956f02d3ab7c0848f02a2abcd9cb.jpg)It's old versus new in this round seven Feature Match. Old-timer Matt Vienneau will tell you he's best at Grand Prix in cities that start with "D", but he's come a long way since his golden days. He started the tournament 0-2, but managed to sweep the rest to keep himself in a good position. His opponent is the young Richard Hoaen, who recently Top 8'd Pro Tour Yokohama. His road to 4-2 was significantly more convoluted, and involved some chicanery whereby he dropped, undropped, was left off the pairings, wound up playing four-pointer Adam Whitehead instead of a nine pointer with an insane deck, still managed to lose, and was conceded to since Whitehead couldn't make Top 8. As they say, "How lucky."
+![](https://i.ormos.uk/af/29/af29cec7f6a2fae723d7cf0974773b5d7f3c956f02d3ab7c0848f02a2abcd9cb.jpg)
+
+It's old versus new in this round seven Feature Match. Old-timer Matt Vienneau will tell you he's best at Grand Prix in cities that start with "D", but he's come a long way since his golden days. He started the tournament 0-2, but managed to sweep the rest to keep himself in a good position. His opponent is the young Richard Hoaen, who recently Top 8'd Pro Tour Yokohama. His road to 4-2 was significantly more convoluted, and involved some chicanery whereby he dropped, undropped, was left off the pairings, wound up playing four-pointer Adam Whitehead instead of a nine pointer with an insane deck, still managed to lose, and was conceded to since Whitehead couldn't make Top 8. As they say, "How lucky."
 
 The banter started immediately as these two sat down.
 
@@ -98,7 +100,9 @@ Neither player had a play on the third turn, Hoaen cycled [Hundroog](https://web
 
 Vienneau made a morph and held back. Hoaen added another Gourna. Vienneau continued to pound out guys, but couldn't get through Hoaen's huge men. Hoaen brought out [Wirewood Guardian](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Guardian), and got ready to go on the offense. Vienneau made a morph and passed it back. Hoaen's Guardian hit, and was blocked by Clearcutter and Vienneau's Gourna. Hoaen killed the Gourna and rescued with [Vitality Charm](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm). After combat he made a [Wirewood Savage](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage), only to watch Vienneau flip up [Skirk Marauder](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Marauder) to kill the Guardian and Savage.
 
-![](https://i.ormos.uk/aa/71/aa7115c9625ff89517d5d38c8f7729b03b9d3d4a13fc553f3791e742565da137.jpg)Again Vienneau had to stay home, and this time a Gourna came charging at him after Hoaen laid a [Stonewood Invoker](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker).
+![](https://i.ormos.uk/aa/71/aa7115c9625ff89517d5d38c8f7729b03b9d3d4a13fc553f3791e742565da137.jpg)
+
+Again Vienneau had to stay home, and this time a Gourna came charging at him after Hoaen laid a [Stonewood Invoker](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker).
 
 "Do you have another Charm? [Scattershot](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scattershot)?" – Matt Vienneau
 
@@ -130,7 +134,9 @@ Vienneau considered his next move carefully, eventually choosing to make a [Kros
 
 Vienneau's Clearcutter served up [Gratuitous Violence](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gratuitous+Violence), a strong answer to the Cliffs. Hoaen responded by Cliffing away a morph, but unfortunately the morph was [Skirk Volcanist](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Volcanist), and it traded for the Bulvox and Hoaen's morph, a [Skirk Commando](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando). Vienneau was down to three forests.
 
-![](https://i.ormos.uk/4b/3a/4b3a8d13af1f7f0cdc1645ab073cb885cdee953cbc2a38e724882487f65035b9.jpg)Hoaen swung in with the Aberration to bring Vienneau to nine. He dropped an unamplified [Glowering Rogon](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glowering+Rogon) with one green up. Vienneau made no play. Hoaen conferred with a judge briefly, then returned, shrugged, and turned his men sideways.
+![](https://i.ormos.uk/4b/3a/4b3a8d13af1f7f0cdc1645ab073cb885cdee953cbc2a38e724882487f65035b9.jpg)
+
+Hoaen swung in with the Aberration to bring Vienneau to nine. He dropped an unamplified [Glowering Rogon](https://web.archive.org/web/20030621000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glowering+Rogon) with one green up. Vienneau made no play. Hoaen conferred with a judge briefly, then returned, shrugged, and turned his men sideways.
 
 "Let's see what happens." – Richard Hoaen
 

@@ -79,7 +79,9 @@ Jorstedet（手札3枚）
 
 **Game 2**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a682.jpg)2本入っている《溶岩使いの技/[Lavamancer's Skill](https://web.archive.org/web/20030511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill)》を引けなかった大礒、ここは気を取り直して行きたいところだが、あいかわらずパンチ力に欠ける初手。しかも、2ターン目に《ゴブリンのそり乗り/[Goblin Sledder](https://web.archive.org/web/20030511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder)》を引いてくるというチグハグさ。準決勝まではうまく噛み合っていた歯車が、微妙に狂いだしたかのようだ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a682.jpg)
+
+2本入っている《溶岩使いの技/[Lavamancer's Skill](https://web.archive.org/web/20030511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill)》を引けなかった大礒、ここは気を取り直して行きたいところだが、あいかわらずパンチ力に欠ける初手。しかも、2ターン目に《ゴブリンのそり乗り/[Goblin Sledder](https://web.archive.org/web/20030511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder)》を引いてくるというチグハグさ。準決勝まではうまく噛み合っていた歯車が、微妙に狂いだしたかのようだ。
 
 しかも、Jorstedetの2ターン目の行動は《火花鍛冶/[Sparksmith](https://web.archive.org/web/20030511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith)》！この環境、最大のハメパターンだ。大礒、ここは仕方なく、返しで変異を出し、《火花鍛冶/[Sparksmith](https://web.archive.org/web/20030511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith)》の起動に対して《ゴブリンのそり乗り/[Goblin Sledder](https://web.archive.org/web/20030511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder)》をサクリファイスして、なんとか被害を《ゴブリンのそり乗り/[Goblin Sledder](https://web.archive.org/web/20030511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder)》だけにとどめる。
 

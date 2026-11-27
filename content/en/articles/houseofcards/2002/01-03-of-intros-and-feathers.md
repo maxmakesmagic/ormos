@@ -90,7 +90,9 @@ It might be a sickness. I spend far too much time staring at two cards that just
 
 Tapping lips -- it's what this column is about. I want to inspire your creativity for deckbuilding in as many different ways as I can think up. You can play these decks if you want, but I’ll be much more satisfied if you test yourself to make a deck that is more competitive, fun, thematic, etc., than the ones I post here. From time to time, I may even give you a deckbuilding contest to let you showcase your innovative spirit.
 
-![](https://i.ormos.uk/51/07/51074efaf58277f0e9a2df720f763a7f1bf4c953b6acb775bdb2e53737e40552.jpg)Oh, and the best thing about this column is that I get to show you new cards. Check out *Torment*’s Possessed Aven.
+![](https://i.ormos.uk/51/07/51074efaf58277f0e9a2df720f763a7f1bf4c953b6acb775bdb2e53737e40552.jpg)
+
+Oh, and the best thing about this column is that I get to show you new cards. Check out *Torment*’s Possessed Aven.
 
 My first inclination with new sets is to find a few interesting cards and build as many decks around them as possible. I am a firm believer that no card is strictly unplayable, and most cards can be used in multiple ways. To give you an idea of what I mean, here is where my mind immediately went when looking at Possessed Aven. Consider this foray a brief example of what to expect in future weeks...
 

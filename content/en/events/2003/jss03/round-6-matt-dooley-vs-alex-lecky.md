@@ -84,7 +84,9 @@ render_recovery:
   - Threaten
   occurrences: 37
 ---
-![](https://i.ormos.uk/f1/02/f1021ee56ea9c1c01a6c6f4b6fa602de5b653ca1ef7e72d97f89a3e44e1d389a.jpg)Matt hails from Roseburg, Oregon, and qualified for the JSS in Washington State. He's done well at PTQs and the State Championships before, but this is his first major JSS event. "I want to say hi to my grandmother in Montana," he told me before the match.
+![](https://i.ormos.uk/f1/02/f1021ee56ea9c1c01a6c6f4b6fa602de5b653ca1ef7e72d97f89a3e44e1d389a.jpg)
+
+Matt hails from Roseburg, Oregon, and qualified for the JSS in Washington State. He's done well at PTQs and the State Championships before, but this is his first major JSS event. "I want to say hi to my grandmother in Montana," he told me before the match.
 
 Alex qualified through a JSS qualifier in Ontario, and he's here with his mom and a lot of friends. He played in the JSS championship last year as well, and today he's swimming in a huge Canadian Nationals T-shirt. "I'll say hi to my dad and my sister," he added.
 
@@ -94,7 +96,9 @@ Both players began with non-basic lands – Matt with a City of Brass, Alex with
 
 Matt missed his third land drop, and instead played an Aquamoeba. Alex, taking advantage of this perceived weakness, played a Call of the Herd. Matt missed yet another land drop on his fourth turn, and Alex capitalized on it when he played his own Wild Mongrel.
 
-![](http://www.wizards.com/sideboard/images/natus03/a787.jpg)Alex added a Grim Lavamancer to his army, and on his next turn, attempted to put an Elephant Guide on his Wild Mongrel. After a brief rules exchange, the Elephant Guide resolved and the Mongrel swung for five. Alex then played another Call of the Herd to hammer the final nail in the coffin. Matt wasn't able to draw another land and fell shortly after.
+![](http://www.wizards.com/sideboard/images/natus03/a787.jpg)
+
+Alex added a Grim Lavamancer to his army, and on his next turn, attempted to put an Elephant Guide on his Wild Mongrel. After a brief rules exchange, the Elephant Guide resolved and the Mongrel swung for five. Alex then played another Call of the Herd to hammer the final nail in the coffin. Matt wasn't able to draw another land and fell shortly after.
 
 Matt Dooley 0 – Alex Lecky 1
 
@@ -104,7 +108,9 @@ Matt's first play in this game was a Careful Study, and he put Deep Analysis and
 
 Matt could not keep from smiling when he played a Stupefying Touch on Alex's Rootwalla. He then threw down his own Wild Mongrel a few turns later. Alex attacked with his Rootwalla and his face-down morph creature, which was revealed to be a Nantuko Vigilante. Matt Unsummoned the Vigilante, but the Stupefying Touch still fell off the Rootwalla due to the Vigilante's morph effect. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a786.jpg)Matt looked dismayed as he played a Wild Mongrel and passed the turn. When Alex attacked again, Matt thought about blocking, but instead opted to let the Rootwalla through. Alex played a Grim Lavamancer, and Matt countered with his own Phantom Centaur.
+![](http://www.wizards.com/sideboard/images/natus03/a786.jpg)
+
+Matt looked dismayed as he played a Wild Mongrel and passed the turn. When Alex attacked again, Matt thought about blocking, but instead opted to let the Rootwalla through. Alex played a Grim Lavamancer, and Matt countered with his own Phantom Centaur.
 
 Alex attacked with the Rootwalla and his only non-painful source of green mana - the Llanowar Elf he played at the start of the game. Matt attacked back with the Centaur, and Alex blocked with his Grim Lavamancer. Matt then played a Wonder and passed the turn.
 

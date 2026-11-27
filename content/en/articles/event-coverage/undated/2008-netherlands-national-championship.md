@@ -846,7 +846,9 @@ Game 4:
 
 Only half an hour or 40 minutes in the (untimed) round, but we’re already starting game 4. Eventhough Tom’s deck tries to be some sort of control deck; it is still able to beat hard and fast. 
 
-![](https://i.ormos.uk/98/c5/98c564c4aa94940ed5f5df2418d1a1697ecb5ff433dd9acf501fbc3bc216a34c.jpg)Victor starts off with another mulligan and Tom jokes that it’s his own fault for playing such an inconsistent deck.
+![](https://i.ormos.uk/98/c5/98c564c4aa94940ed5f5df2418d1a1697ecb5ff433dd9acf501fbc3bc216a34c.jpg)
+
+Victor starts off with another mulligan and Tom jokes that it’s his own fault for playing such an inconsistent deck.
 
 Another slow start for Victor with his first play on turn 3: Magus of the Moon. It delivers the first blood of the game, because Tom does nothing. He clearly waits for his Ancestral Vision to resolve and a Swan to arrive. He does however have a Cryptic Command to bounce the Magus of the Moon and draw a card.
 
@@ -958,7 +960,9 @@ Hugo replaces his draw with dredging the Dakmoor, meanwhile almost putting a top
 
 **Game 4:** 
 
-![](https://i.ormos.uk/b2/f2/b2f29e6a650012b46a7d0588e6a451dcf88863809b09a62b0b3fdcd5170c7e5a.jpg)This is a very fast round: Jos is able to completely cripple Hugo with a turn 3 Magus of the Moon on the play. Hugo casts a Seismic Assault, but never draws another land to discard. Magus starts beating Hugo, who scoops with a deep sigh and a hand full of Green, Blue and Black spells, with just "Mountains" on the board. 2-2 that is, so time for some additional boarding before game 5 starts. 
+![](https://i.ormos.uk/b2/f2/b2f29e6a650012b46a7d0588e6a451dcf88863809b09a62b0b3fdcd5170c7e5a.jpg)
+
+This is a very fast round: Jos is able to completely cripple Hugo with a turn 3 Magus of the Moon on the play. Hugo casts a Seismic Assault, but never draws another land to discard. Magus starts beating Hugo, who scoops with a deep sigh and a hand full of Green, Blue and Black spells, with just "Mountains" on the board. 2-2 that is, so time for some additional boarding before game 5 starts. 
 
 **Game 5:** 
 
@@ -995,7 +999,9 @@ Robert starts with evoking 2 Mulldrifters and one of them is Rune Snagged. When 
 
 Tom rips a land off the top of his deck though and Robert attacks with his Venser when the turn is passed. At the end of Tom's next turn though, Teferi, Mage of Zhalfir is put into play though. Robert doesn't have an answer, so when Teferi attacks and a Swan is added to the board at the end of Robert's next turn a real race is on. 
 
-![](https://i.ormos.uk/53/78/537861e16057585bb54a0acd873c548a8edf216cf340ea9e4471c4927851d78d.jpg)Robert is able to resolve a Reveillark and suspends a Greater Gargadon. The Reveillark is killed in Tom's next mainphase and two Mulldrifters return to play. Tom has Pyroclasm for all the 2/2's and attacks for 7 to put Robert to 7.
+![](https://i.ormos.uk/53/78/537861e16057585bb54a0acd873c548a8edf216cf340ea9e4471c4927851d78d.jpg)
+
+Robert is able to resolve a Reveillark and suspends a Greater Gargadon. The Reveillark is killed in Tom's next mainphase and two Mulldrifters return to play. Tom has Pyroclasm for all the 2/2's and attacks for 7 to put Robert to 7.
 
 Robert untaps and starts thinking about his next play. He asks Tom if he has a counterspell and Tom answers with a "Yes.".
 
@@ -1144,7 +1150,9 @@ Hugo wins the first game, even though mulligans tried to prevent him from doing 
 
 **Game 2:** 
 
-![](https://i.ormos.uk/c9/91/c991a90b4373f352dc5d5655645339055099e6845bbac13c7f8005b0f8fcb308.jpg)It's time to comment on Hugo's suit. He clearly has a date with his lawyer at divorce court later this afternoon or he's in the mafia. Check the pictures and make up your mind in the forums.
+![](https://i.ormos.uk/c9/91/c991a90b4373f352dc5d5655645339055099e6845bbac13c7f8005b0f8fcb308.jpg)
+
+It's time to comment on Hugo's suit. He clearly has a date with his lawyer at divorce court later this afternoon or he's in the mafia. Check the pictures and make up your mind in the forums.
 
 This time it's Tom's time to play the mulligan game and has to take 2 of them. Hugo plays Pithing Needle and names Mutavault and there is no reaction from Tom. 
 

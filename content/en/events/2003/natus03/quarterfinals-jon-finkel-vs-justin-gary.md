@@ -92,7 +92,9 @@ render_recovery:
 ---
 "Finkel claiming that he was up 31-2 in playtesting tells me his playtest partners did not sideboard correctly." Justin Gary's teammate, Zvi Mowshowitz was explaining why the YMGer's match up was not the 'gimme' for Finkel that everyone—Finkel included—seemed to think it was. "Sure it's advantage Jon but 31-2? Something's not right there!"
 
-![](https://i.ormos.uk/8d/ed/8ded911d2a72697ff4b81fb12346ee820b9c03055fbd55f14f03e6653a4d47c5.jpg)This was not the first time that Gary and Finkel have faced off in the Top 8 at US Nationals. In 1997 Justin was part of the upstart team of 'randoms' that eliminated Jon Finkel, Mario Robania, Nate Clark, and Casey McCarrell. While two of the 'randoms' --Kyle Bigios and Jeff Butz—have not been a part of the contemporary Magic power structure, Justin and Bob Maher, Jr. have gone on to do pretty well for themselves. 
+![](https://i.ormos.uk/8d/ed/8ded911d2a72697ff4b81fb12346ee820b9c03055fbd55f14f03e6653a4d47c5.jpg)
+
+This was not the first time that Gary and Finkel have faced off in the Top 8 at US Nationals. In 1997 Justin was part of the upstart team of 'randoms' that eliminated Jon Finkel, Mario Robania, Nate Clark, and Casey McCarrell. While two of the 'randoms' --Kyle Bigios and Jeff Butz—have not been a part of the contemporary Magic power structure, Justin and Bob Maher, Jr. have gone on to do pretty well for themselves. 
 
 The fate of this year's US National team seemed to rest in the deck match-ups. Many pundits—Kai Budde included—expected most of the star power to go dim in the quarters. Jon looked at the next-door feature match between Neil Reeves and Jordan Berkowitz could only laugh as he went through the permutations, "What's great is that I am rooting for Neil and Jordan is rooting for me." Never one to resist a dig, "I'm rooting for Neil's deck anyway."
 
@@ -120,7 +122,9 @@ Finkel – 0 Gary – 1
 
 When Justin mulliganed, Jon gave the Team Deadguy fist-pump, first popularized by Chris Pikula. Justin deliberately pile shuffled his deck, "I got new sleeves just for this match but they're sticking..."
 
-![](https://i.ormos.uk/e8/4b/e84b779cccd258c32ee58265d6a48ea04f19e1b3163daf50fad2ab0753be4f7d.jpg)"Waaahhhhh!!!" teased Jon imitating a crying baby.
+![](https://i.ormos.uk/e8/4b/e84b779cccd258c32ee58265d6a48ea04f19e1b3163daf50fad2ab0753be4f7d.jpg)
+
+"Waaahhhhh!!!" teased Jon imitating a crying baby.
 
 "Forgive me the customary whining about a mulligan."
 
@@ -166,7 +170,9 @@ Jon edicted and it drew the Gladiator. He played a Withered Wretch and removed t
 
 When Braids chumped the insect, Justin dispatched the Muse with an Edict. Jon ripped the sixth Swamp and Corrupted the Shade to go back to eleven. Jon played a Shade a turn later but all it did was remove a Chainer's Edict from Justin's bin.
 
-![](https://i.ormos.uk/c8/57/c8577c8e9c30f16f23b7782eb8b517391a55dce4cc20854a09b6377ea8e5ceea.jpg)Justin's Duress took a Cabal Therapy and on the next turn he had enough mana to tutor for and play a Riptide Replicator making 2/2 black chickens. Jon Corrupted his opponent for eight and Justin started hatching his birds.
+![](https://i.ormos.uk/c8/57/c8577c8e9c30f16f23b7782eb8b517391a55dce4cc20854a09b6377ea8e5ceea.jpg)
+
+Justin's Duress took a Cabal Therapy and on the next turn he had enough mana to tutor for and play a Riptide Replicator making 2/2 black chickens. Jon Corrupted his opponent for eight and Justin started hatching his birds.
 
 When Justin attacked with his chicken he seemed inordinately pleased, "How many times will I get to say "chicken" during the course of the Top 8." Jon Mind Sludged Justin for a pair of meaningless cards and braced for a chicken assault. 
 

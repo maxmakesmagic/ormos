@@ -62,7 +62,9 @@ render_recovery:
   - Bane of the Living
   occurrences: 4
 ---
-![](https://i.ormos.uk/2a/93/2a9385f13edec57c32d6476c9b99f5471afbf99a891ad6e1cb4a67db0b14adf0.jpg)With every Pro Tour, a little history is made. In the case of Pro Tour Yokohama, we have an event that people will look back at years from now. There are veterans finally getting their moment in the spotlight, a player quietly dominating this season, rookies making a statement, two native players defending their turf and a legend reclaiming his spot as one of the game's best. 
+![](https://i.ormos.uk/2a/93/2a9385f13edec57c32d6476c9b99f5471afbf99a891ad6e1cb4a67db0b14adf0.jpg)
+
+With every Pro Tour, a little history is made. In the case of Pro Tour Yokohama, we have an event that people will look back at years from now. There are veterans finally getting their moment in the spotlight, a player quietly dominating this season, rookies making a statement, two native players defending their turf and a legend reclaiming his spot as one of the game's best. 
 
 A few years back, Jon Finkel's moment in the sun seemed to be up. As Kai Budde racked up championship after championship, Finkel was demoted to "Second best player of all time", and even that seemed to be based more on past accomplishments than anything else. A relatively mediocre season led to Finkel falling off the Pro Tour gravy train, and he only qualified for Chicago off rating. He wasn't even planning to go, but found a good price for a flight at the last minute, showed up with minimal practice, and made the Top 4. This weekend he showed up once again without much preparation, and finds himself in the Top 8 for the second Limited Pro Tour in a row. The shadow of Kai Budde won't loom over Johnny Magic in Japan this weekend, as the German Juggernaut failed to make Day 2. It's been three years since Finkel won a Pro Tour back at Worlds 2000, but based on sheer talent he has to be the favorite to take it all tomorrow,
 

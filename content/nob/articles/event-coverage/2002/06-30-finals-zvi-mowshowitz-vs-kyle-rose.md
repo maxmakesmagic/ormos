@@ -53,7 +53,9 @@ render_recovery:
 ---
 Two days, 201 teams, 603 players, and they have been bashed, smashed, screwed, and booed until there were only two teams, six men, and a lot on the line. This is not just a Grand Prix. An invitation to the Team Masters event is also on the line, where many, many dollars are to be made. The two teams are very tight- Illuminati just missed the last Team Masters, and Kyle Rose had supposedly quit, but who could say no to a Masters invitation?
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj02/867.jpg)In the middle "B" seat was the match of matches, Kyle Rose against Zvi Moshowitz, in a white/blue on blue/green death match. This is a swing match, a crucial event in the middle, the vortex of clashing competitors. Each team had a great matchup, and each team had a poor match up. This one was up in the air, and all the marbles could come down to the two men before me.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj02/867.jpg)
+
+In the middle "B" seat was the match of matches, Kyle Rose against Zvi Moshowitz, in a white/blue on blue/green death match. This is a swing match, a crucial event in the middle, the vortex of clashing competitors. Each team had a great matchup, and each team had a poor match up. This one was up in the air, and all the marbles could come down to the two men before me.
 
 Zvi opened up with a turn three Puppeteer, and held back Rose's Mystic Familiar, patiently waiting out Kyle. He was shying away from playing spells in fear of Syncopate. Kyle added an Aven Fisher, and then tapped out to cast Deep Analysis, letting down his guard- a hole Zvi exploited by slipping Springing Tiger into play. 
 

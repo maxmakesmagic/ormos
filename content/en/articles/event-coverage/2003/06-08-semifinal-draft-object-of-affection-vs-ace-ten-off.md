@@ -44,7 +44,9 @@ archive_source:
   sha256: 1c794cea799b8ce6fc9958ebbc6d3f4d8ab876b72e1cc49c9df558d81cf2f773
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a880.jpg)The members of these two teams are all very well known. Object of Affection are Jens Thoren, Anton Jonsson and Tomi Walamies. Ace Ten Off are Jon Finkel with Eric Froehlich and Kamiel Cornelissen. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a880.jpg)
+
+The members of these two teams are all very well known. Object of Affection are Jens Thoren, Anton Jonsson and Tomi Walamies. Ace Ten Off are Jon Finkel with Eric Froehlich and Kamiel Cornelissen. 
 
 ### The Draft:
 

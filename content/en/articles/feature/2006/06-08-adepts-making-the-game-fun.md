@@ -68,7 +68,9 @@ render_recovery:
   - Decklist
   occurrences: 5
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/images/games_magiconline.jpg)One of the many great things about ***Magic** Online* is just how easy it is to get into a **Magic** tournament from the convenience of your home, any time of the day or night. You don't need to find tournament space, scare up judges, keep track of matches or do deck checks. The game itself takes care of just about everything, but even so sometimes human intervention is required to help keep things running smoothly. That's where the ***Magic** Online* Adept team comes in. I caught up with Kevin Boris from Wizards of the Coast to give us some insight into what it means to be an Adept and what they do for ***Magic** Online* players.
+![](https://media.magic.wizards.com/image_legacy_migration/images/games_magiconline.jpg)
+
+One of the many great things about ***Magic** Online* is just how easy it is to get into a **Magic** tournament from the convenience of your home, any time of the day or night. You don't need to find tournament space, scare up judges, keep track of matches or do deck checks. The game itself takes care of just about everything, but even so sometimes human intervention is required to help keep things running smoothly. That's where the ***Magic** Online* Adept team comes in. I caught up with Kevin Boris from Wizards of the Coast to give us some insight into what it means to be an Adept and what they do for ***Magic** Online* players.
 
 ***ITA**: Kevin, tell us a little about yourself: age, background, job title & description, how long you've worked for Wizards, hobbies, interests, etc.*  
 **Kevin Boris**: My official title at Wizards is Community Manager Online Games, I have worked for Wizards for 3 years and I am 28 years old. I enjoy Online Gaming and I am a hockey referee.

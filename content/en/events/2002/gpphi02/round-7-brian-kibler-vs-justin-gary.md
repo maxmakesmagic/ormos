@@ -182,7 +182,9 @@ render_recovery:
   - Wirewood Lodge
   occurrences: 177
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a938.jpg)Both of these PT stalwarts are 6-0, going into this round, but Kibler one-ups Gary: the Invitationalist and GP Top 8 fixture hasn't lost even a single game with his sleek black/red concoction.
+![](http://www.wizards.com/sideboard/images/gpphi02/a938.jpg)
+
+Both of these PT stalwarts are 6-0, going into this round, but Kibler one-ups Gary: the Invitationalist and GP Top 8 fixture hasn't lost even a single game with his sleek black/red concoction.
 
 Gary, whose latest achievement of note is finishing second in the Nice Masters, is playing blue/green with a slight white splash – his deck's main path to victory is Silvos, Rogue Elemental, augmented by a pair of Riptide Shapeshifters to put it directly into play.
 
@@ -221,7 +223,9 @@ Gary sided in a Disciple of Grace as anti-Demon measures in game 3, and Kibler s
 
 Gary came out of the gates with an Elvish Warrior and a Mistform Wall, but when Kibler played a face-down creature, Gary assumed the worst.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a940.jpg)"Why?" he wailed, "Why does this always happen to me?"
+![](http://www.wizards.com/sideboard/images/gpphi02/a940.jpg)
+
+"Why?" he wailed, "Why does this always happen to me?"
 
 "What, your opponent plays a morph guy on turn three?" quipped Kibler. Little did Gary know, it was just a Fallen Cleric.
 
@@ -237,7 +241,9 @@ Gary glanced at his morph guy, and decided he didn't want Kibler to get anything
 
 Gary, an inch from death, had the answer: Choking Tethers. He tapped four of the five creatures Kibler controlled, and ended up only taking 2 damage from the so-called "Insurrection." Shortly thereafter he realized the error of his ways – had he not unmorphed the Alchemist, he would have gotten back a 2/2 instead of the vastly inferior 1/2.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a939.jpg)Kibler swung in with his now two Fallen Clerics and Screeching Buzzard. Gary was forced to trade the Alchemist and a Vitality Charm for one of the 4/2's, losing a card unnecessarily thanks to his earlier subtle gaffe. A Centaur traded with the other, leaving Kibler with just a Buzzard and Gary at 6 life.
+![](http://www.wizards.com/sideboard/images/gpphi02/a939.jpg)
+
+Kibler swung in with his now two Fallen Clerics and Screeching Buzzard. Gary was forced to trade the Alchemist and a Vitality Charm for one of the 4/2's, losing a card unnecessarily thanks to his earlier subtle gaffe. A Centaur traded with the other, leaving Kibler with just a Buzzard and Gary at 6 life.
 
 Gary made another Centaur and attacked, then played a morph guy. Kibler swung back, taking Gary to 4. Gary studied the board, counted his mana. His morph guy was Snarling Undorak, but even with the Glade and a ton of mana, he was one damage shy of killing Kibler that turn. One damage that a Vitality Charm could have provided, had he not had to use it after foolishly morphing his Alchemist in response to Insurrection.
 

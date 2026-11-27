@@ -44,7 +44,9 @@ archive_source:
   sha256: c22f10503d6fcfa5e3f67d900ea5bf5a604b506e6c9cdb05ff903c8239843985
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a950.jpg)Emmanuel Vernay, un de ces fameux revenants dont je parlais plus tôt, est donc assuré de sa place en top 8. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a950.jpg)
+
+Emmanuel Vernay, un de ces fameux revenants dont je parlais plus tôt, est donc assuré de sa place en top 8. 
 
 Il a réussi grâce à son deck Black Suicide (je vous suggère d'aller jeter un oeil sur les listes de decks) à atteindre un autre top 8. 
 

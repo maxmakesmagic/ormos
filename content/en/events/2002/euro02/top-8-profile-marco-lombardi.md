@@ -83,7 +83,9 @@ render_recovery:
   - Obliterate
   occurrences: 25
 ---
-![](https://i.ormos.uk/1a/9f/1a9f5cbcc4c40c78a93a012af8f35afc813bae26f826e5b9e4c4d3d2aa1feb4b.jpg)In almost every Top 8 you have someone who is a little bewildered by how far he made it. Sixteen-year old Marco Lombardi is the youngest, and maybe the happiest to reach the Elite eight.
+![](https://i.ormos.uk/1a/9f/1a9f5cbcc4c40c78a93a012af8f35afc813bae26f826e5b9e4c4d3d2aa1feb4b.jpg)
+
+In almost every Top 8 you have someone who is a little bewildered by how far he made it. Sixteen-year old Marco Lombardi is the youngest, and maybe the happiest to reach the Elite eight.
 
 Last year he missed the Italian Nationals Top 8, ending in the bittersweet ninth. This year he came back with a vengeance, finishing Grand Prix-Naples in the Top 32 and breezing through Nationals to a fifth place.
 

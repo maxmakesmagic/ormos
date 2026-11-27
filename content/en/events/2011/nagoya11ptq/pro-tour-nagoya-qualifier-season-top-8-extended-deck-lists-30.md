@@ -45,7 +45,9 @@ archive_source:
   sha256: 435c321717f8cabdcb769856a8eaa4eaff34de4d785188de07a64d3b873cbbfa
 render_recovery: []
 ---
-![](http://www.wizards.com/protour/images/qt_lg.jpg)Get your Extended skills warmed up, because tickets to Nagoya are up for grabs this Pro Tour Qualifier season! 
+![](http://www.wizards.com/protour/images/qt_lg.jpg)
+
+Get your Extended skills warmed up, because tickets to Nagoya are up for grabs this Pro Tour Qualifier season! 
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130710150318/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

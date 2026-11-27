@@ -1021,7 +1021,9 @@ render_recovery:
   - Leonin Scimitar
   occurrences: 1
 ---
-![](https://i.ormos.uk/16/e4/16e4e2ab41dd0a270b087cf950ef4f38690767553cf1d7d104d58b706352836f.jpg)Team Re-Elect Gore, comprised of Jon Finkel, Brian Kibler, and Eric Froelich was paired up this round against the Canadian team of Jon Stern, Steve Wolfman, and Nicholas Leary - Aquamoebas Anonymous. The members of Re-Elect Gore are well-know veterans of the Pro Tour, with several top finishes for each member. The Aquamoebas Anonymous have some successes under their belts as well - Wolfman was a member of 2020, which finished second to Phoenix Foundation in Boston 2002, and Jon Stern played for Team Canada at last year's worlds.
+![](https://i.ormos.uk/16/e4/16e4e2ab41dd0a270b087cf950ef4f38690767553cf1d7d104d58b706352836f.jpg)
+
+Team Re-Elect Gore, comprised of Jon Finkel, Brian Kibler, and Eric Froelich was paired up this round against the Canadian team of Jon Stern, Steve Wolfman, and Nicholas Leary - Aquamoebas Anonymous. The members of Re-Elect Gore are well-know veterans of the Pro Tour, with several top finishes for each member. The Aquamoebas Anonymous have some successes under their belts as well - Wolfman was a member of 2020, which finished second to Phoenix Foundation in Boston 2002, and Jon Stern played for Team Canada at last year's worlds.
 
 Re-Elect Gore won the coin flip and elected to have their opponents kick-off. The opening pack was ideal for the Aquamoebas, as it contained two very strong cards, Viridian Shaman and Icy Manipulator, and a bunch of mediocre spells for the other team. Wolfman took the Shaman, setting himself up for green in the middle, and Nichlolas took the Icy Manipulator. Finkel grabbed Hematite Golem, Kibler took Krark-Clan Grunt, and Erik received Auriok Transfixer. Jon Stern wheeled Nim Shrieker and Yotian Soldier, putting himself in black against Re-Elect Gore's red deck.
 

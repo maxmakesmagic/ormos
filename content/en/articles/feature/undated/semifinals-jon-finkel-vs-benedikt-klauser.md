@@ -68,7 +68,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/444.jpg)Jon Finkel (USA) met Benedikt Klauser (Austria) in the semi-final. Could Klauser stop the mighty Finkeltron machine? The Austrian was at clear disadvantage in the match-up as the Tinker deck Finkel played was designed to beat the Trinity green style decks prevalent in the field. Both decks had the potential for explosive starts but the green deck lacked the sheer brute power of the artifacts.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/444.jpg)
+
+Jon Finkel (USA) met Benedikt Klauser (Austria) in the semi-final. Could Klauser stop the mighty Finkeltron machine? The Austrian was at clear disadvantage in the match-up as the Tinker deck Finkel played was designed to beat the Trinity green style decks prevalent in the field. Both decks had the potential for explosive starts but the green deck lacked the sheer brute power of the artifacts.
 
 Game 1
 
@@ -80,7 +82,9 @@ Finkel decided his deck was good enough and neglected not to use his sideboard. 
 
 Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/448.jpg)It soon became apparent Klauser didn't have an amazing hand as he laid birds, then a Treetop Village and then did nothing with 3 mana. Finkel's third turn was again insane. Monolith, dynamo and then a second key allowed him to cast Tangle Wire and then Metalworker. The Finkeltronic factory was ready to go. It didn't seem as though he had any threats to go with it and even attacked with the metalworker. The factory was thrumming but seemingly without any orders. Then the droid got into gear and generated 2 mana, revealing Processor! The assembly line kicked into overdrive and pumped out two 10/10 monsters. Smack!!
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/448.jpg)
+
+It soon became apparent Klauser didn't have an amazing hand as he laid birds, then a Treetop Village and then did nothing with 3 mana. Finkel's third turn was again insane. Monolith, dynamo and then a second key allowed him to cast Tangle Wire and then Metalworker. The Finkeltronic factory was ready to go. It didn't seem as though he had any threats to go with it and even attacked with the metalworker. The factory was thrumming but seemingly without any orders. Then the droid got into gear and generated 2 mana, revealing Processor! The assembly line kicked into overdrive and pumped out two 10/10 monsters. Smack!!
 
 Finkel 2-0 Klauser
 
@@ -92,6 +96,8 @@ Finkel 2-1 Klauser
 
 Game 4
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/445.jpg)This game saw a slower start with Finkel not making an artifact until turn 3. Had the Finkeltronic factory broken down? Klauser meanwhile got a bird and then tanglewire on the table. Klauser stopped to think with a hand that had too much land. He chose to bring out a Priest of Titania. The factory started to assemble itself with dynamo, dynamo and then a Tangle Wire to tie everything up. As they struggled through the obstacle course Klauser brought more elves out of the woods but no major threat. The factory purred into action and Finkel used a second key to make a processor, spit out a 10/10 and drop a second tanglewire. "Come on," Klauser said, not believing Finkel's draw. With 3 Tangle Wire on the table almost all the board is tied up and now Klauser cannot cast the splinter in his hand. In upkeep Finkel added another token, which he can then tap for the wire. With enough mana Klauser splintered the processor out of commission, but not before Finkel made another 10/10 in response. Finkel was smiling when he had to reveal his hand and show a masticore to the luckless Austrian. That hit the field and gunned down the elves, clearing a path for 3 10/10's to smash through. Resistance is futile. We are Finkeltron.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/445.jpg)
+
+This game saw a slower start with Finkel not making an artifact until turn 3. Had the Finkeltronic factory broken down? Klauser meanwhile got a bird and then tanglewire on the table. Klauser stopped to think with a hand that had too much land. He chose to bring out a Priest of Titania. The factory started to assemble itself with dynamo, dynamo and then a Tangle Wire to tie everything up. As they struggled through the obstacle course Klauser brought more elves out of the woods but no major threat. The factory purred into action and Finkel used a second key to make a processor, spit out a 10/10 and drop a second tanglewire. "Come on," Klauser said, not believing Finkel's draw. With 3 Tangle Wire on the table almost all the board is tied up and now Klauser cannot cast the splinter in his hand. In upkeep Finkel added another token, which he can then tap for the wire. With enough mana Klauser splintered the processor out of commission, but not before Finkel made another 10/10 in response. Finkel was smiling when he had to reveal his hand and show a masticore to the luckless Austrian. That hit the field and gunned down the elves, clearing a path for 3 10/10's to smash through. Resistance is futile. We are Finkeltron.
 
 Finkel wins 3-1 and goes on to the finals to play Bob Maher Jr.

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://i.ormos.uk/ec/20/ec20741ed0d1e066b9f6ba58564088235dd13e65aebe27c64e91d5a74da904af.jpg)The final match for the Latin America championship 2000 featured Mexican Gustavo Chapela Gaxiola versus defending Santiago native Rafaël Le Saux. The mostly Chilean crowd cheered on Rafaël and his Accelerated Blue deck against Gustavo's Trinity Green.
+![](https://i.ormos.uk/ec/20/ec20741ed0d1e066b9f6ba58564088235dd13e65aebe27c64e91d5a74da904af.jpg)
+
+The final match for the Latin America championship 2000 featured Mexican Gustavo Chapela Gaxiola versus defending Santiago native Rafaël Le Saux. The mostly Chilean crowd cheered on Rafaël and his Accelerated Blue deck against Gustavo's Trinity Green.
 
 Game one was dominated by Rafaël, who used Counterspells, Miscalculations, Treacheries, and Rewinds to deal with all of Gustavo's relevant threats. Rafaël's Morphling soon came in for twenty points to the head.
 

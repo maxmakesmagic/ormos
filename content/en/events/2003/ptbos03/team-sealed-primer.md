@@ -78,7 +78,9 @@ If you can't come up with one definitive answer, don't feel bad--it's a trick qu
 
 **Phoenix Foundation** (Kai Budde, Dirk Baberowski, Marco Blume)
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a967.jpg)Phoenix Foundation is the most successful team in Magic history, with countless top finishes under their belts, including two Pro Tour wins. I caught up with Kai just as he was returning from the land station at the end of Round 2, and he was nice enough to answer my questions while goldfishing his deck. Marco and Dirk were also doing test draws in the adjacent seats, all the while laughing and joking in German.
+![](http://www.wizards.com/sideboard/images/ptbos03/a967.jpg)
+
+Phoenix Foundation is the most successful team in Magic history, with countless top finishes under their belts, including two Pro Tour wins. I caught up with Kai just as he was returning from the land station at the end of Round 2, and he was nice enough to answer my questions while goldfishing his deck. Marco and Dirk were also doing test draws in the adjacent seats, all the while laughing and joking in German.
 
 SB: What is the first thing you do when you receive your cards?  
  Kai: Lay out all the colors, and see which ones are the deepest. Usually, it's white, green, and black.

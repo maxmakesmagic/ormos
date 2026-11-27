@@ -58,7 +58,9 @@ render_recovery:
   reason: The link uses a JavaScript placeholder. The preview kept any visible label.
   occurrences: 1
 ---
-![](http://www.wizards.com/protour/images/qt_lg.jpg)Refine your Two-Headed Giant skills to earn a ticket to San Diego, California, by winning a Pro Tour Qualifier! 
+![](http://www.wizards.com/protour/images/qt_lg.jpg)
+
+Refine your Two-Headed Giant skills to earn a ticket to San Diego, California, by winning a Pro Tour Qualifier! 
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130710150318/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw.
 

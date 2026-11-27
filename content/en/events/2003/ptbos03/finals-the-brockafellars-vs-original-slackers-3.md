@@ -131,7 +131,9 @@ render_recovery:
 ---
 The magical life has not been overly kind to Brock Parker lately. He did quite well back in the day, and was even qualified for the Masters in 2001 due to solid finishes on both the Pro Tour and the GP circuit. After that he pretty much fell off the radar, even being the topic for such team names as the Brock Bottom. His original teammates Jensen and Linde never really stopped playing with him in team events though, and now here they are in the finals.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a776.jpg)The Swede Lovre Crnobori has been playing for a few years with the Norwegian pros, doing a lot of money drafting and modoing. The Norwegians are known for their good success in limited formats, and Lovre started to learn fast. He played a few Gateways and a Pro Tour with different established Norwegians getting decent results. Regardless of that he found himself abandoned for this event. He then managed to hook up with fellow Swede Rickard Osterberg and Jake Smith, a Brit living in Norway. It is fair to say that the boys are doing quite well in this tournament. Of note is the fact that the team name under which these three foreigners won a qualifier in Oslo, Norway was Team Norway. Ah, those Europeans and their sarcasm.
+![](http://www.wizards.com/sideboard/images/ptbos03/a776.jpg)
+
+The Swede Lovre Crnobori has been playing for a few years with the Norwegian pros, doing a lot of money drafting and modoing. The Norwegians are known for their good success in limited formats, and Lovre started to learn fast. He played a few Gateways and a Pro Tour with different established Norwegians getting decent results. Regardless of that he found himself abandoned for this event. He then managed to hook up with fellow Swede Rickard Osterberg and Jake Smith, a Brit living in Norway. It is fair to say that the boys are doing quite well in this tournament. Of note is the fact that the team name under which these three foreigners won a qualifier in Oslo, Norway was Team Norway. Ah, those Europeans and their sarcasm.
 
 Both players considered themselves to be a clear favorite in this matchup. Brock thought his blue-green deck was the stone-cold nuts, featuring a lot of fliers, two Savages and plenty of ways to make use of Wirewood Symbiote. When asked about problem cards in his opponent's deck, Brock said that there were hardly any. Lovre felt good about his match since he had Wave of Indifference and Decree of Savagery in his green-blue-red deck to break the stalemate. Lovre also had three Shoreline Rangers and some other fliers. Both guys said that they have more fliers, which was odd considering the fact that the situation is logically impossible.
 
@@ -141,7 +143,9 @@ Lovre cycled Macetail Hystrodon during his turn and passed once again without a 
 
 Parker 1 – 0 Crnobori
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a777.jpg)For everyone planning on playing these Big Men mirror matches, I do not suggest missing land drops.
+![](http://www.wizards.com/sideboard/images/ptbos03/a777.jpg)
+
+For everyone planning on playing these Big Men mirror matches, I do not suggest missing land drops.
 
 Lovre played first and cycled the Ranger on turn two. He played a morph which was matched by a Savage. Lovre attacked and played his fourth land. Brock hit with the Savage and played his own morph. Lovre cycled Macetail at end of turn. Then he morphed up a Seaswift and served, putting out another morph. Brock swung with everyone, laid a fifth land and a morph with Willbender mana available. Crnobori did not bite the bluff and just Tracered the morph (Bulvox) during his turn to swing for five, and then played a Stonewood Invoker. Brock brought out Needleshot Gourna and decided not to attack with Savage or morph.
 

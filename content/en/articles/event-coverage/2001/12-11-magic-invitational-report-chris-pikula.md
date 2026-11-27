@@ -44,13 +44,17 @@ archive_source:
   sha256: 6bc6fdfa5dfc236327d3030340908eb9040347be8a352f1a060942693c06cb47
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/MI01/791.jpg)The **Magic** Invitational in Cape Town this year was my fifth one. That puts me in some poor company - only Mike Long has as many invites. On the upside, however, it does put me in a unique position to compare this year's tournaments to the Invitationals of the past. I'll be sizing things up tourney by tourney, pointing out where this year's event surpassed others, and where it fell short.
+![](http://www.wizards.com/sideboard/images/MI01/791.jpg)
+
+The **Magic** Invitational in Cape Town this year was my fifth one. That puts me in some poor company - only Mike Long has as many invites. On the upside, however, it does put me in a unique position to compare this year's tournaments to the Invitationals of the past. I'll be sizing things up tourney by tourney, pointing out where this year's event surpassed others, and where it fell short.
 
 Before I really get going, I'd like to thank everyone who once again voted for me this year. I love gaming, and getting flown to another country to play **Magic** is about the best gaming there is. I hope I'm not disappointing any of you. I do my best to not only do well in tourneys, but also be as entertaining as possible. Keep voting for me, and I'll try and keep doing the same stuff I've been dong for years. 
 
 ### Hong Kong: 1997
 
-![](http://www.wizards.com/sideboard/images/MI01/973.jpg)This was clearly a pretty crappy tournament. I was not even invited. I'm not even sure that I'm unhappy about that. A week of hanging out with the likes of Hammer, Mike Loconto and Amiel Feldman doesn't exactly appeal to me. Scott Johns is the only link between Hong Kong and Cape Town, so you'll have to ask him if you want an in-depth comparison. Cape Town definitely wins on the food end. Thursday night, we had a fairly amazing meal of African cuisine that featured a wide array of vegetarian dishes (myself, Dave Price, and Scott Richards are vegetarians, for more info see [www.goveg.com](https://web.archive.org/web/20011211000000/http://www.wizards.com/leaving.asp?url=http://www.goveg.com&origin=sideboard_feature_sb20011211a)) and some serious booty shaking by Tsuyoshi Fujita. I've never seen a gamer move that quickly. I'm told the food was absolutely horrendous in Hong Kong, but the tourney was in a restaurant and you could actually have food delivered straight to your match. 
+![](http://www.wizards.com/sideboard/images/MI01/973.jpg)
+
+This was clearly a pretty crappy tournament. I was not even invited. I'm not even sure that I'm unhappy about that. A week of hanging out with the likes of Hammer, Mike Loconto and Amiel Feldman doesn't exactly appeal to me. Scott Johns is the only link between Hong Kong and Cape Town, so you'll have to ask him if you want an in-depth comparison. Cape Town definitely wins on the food end. Thursday night, we had a fairly amazing meal of African cuisine that featured a wide array of vegetarian dishes (myself, Dave Price, and Scott Richards are vegetarians, for more info see [www.goveg.com](https://web.archive.org/web/20011211000000/http://www.wizards.com/leaving.asp?url=http://www.goveg.com&origin=sideboard_feature_sb20011211a)) and some serious booty shaking by Tsuyoshi Fujita. I've never seen a gamer move that quickly. I'm told the food was absolutely horrendous in Hong Kong, but the tourney was in a restaurant and you could actually have food delivered straight to your match. 
 
 ### Rio: 1998
 

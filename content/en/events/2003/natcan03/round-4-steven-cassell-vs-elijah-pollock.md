@@ -85,7 +85,9 @@ render_recovery:
   - Skirk Volcanist
   occurrences: 42
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a965.jpg)Both Steve Cassell and Elijah Pollock make winning look easy. They breezed through the first three rounds of Standard with perfect records (though Pollock is quick to call his deck "terrible"), and are a little uneasy about switching to limited while on a roll. Cassell hit the public eye with his performance at Grand Prix - Milwaukee, where he fell in the quarters to eventual champion Eric "Danger" Taylor. Pollock has been drowning in success since teaming up with Steven Wolfman and David Rood to form 2020. Their finals appearances at Boston and the Venice Masters have earned him a lot of money.
+![](http://www.wizards.com/sideboard/images/natcan03/a965.jpg)
+
+Both Steve Cassell and Elijah Pollock make winning look easy. They breezed through the first three rounds of Standard with perfect records (though Pollock is quick to call his deck "terrible"), and are a little uneasy about switching to limited while on a roll. Cassell hit the public eye with his performance at Grand Prix - Milwaukee, where he fell in the quarters to eventual champion Eric "Danger" Taylor. Pollock has been drowning in success since teaming up with Steven Wolfman and David Rood to form 2020. Their finals appearances at Boston and the Venice Masters have earned him a lot of money.
 
 ### Game 1
 
@@ -95,7 +97,9 @@ Pollock didn't have a lot of action, and the reprieve of the Buzzard gave Cassel
 
 Cassell held the ground with Needleshot Gourna. Pollock used Riptide Survivor to turn two mountains into three cards, revealing his total manaflood. Cassell added a Toxin Sliver and a morph to the board and passed it back. Pollock made a Dragon Mage, but the Toxin Sliver was making trouble. Cassell tried another morph.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a967.jpg)"You haven't laid a land yet?" – Elijah Pollock
+![](http://www.wizards.com/sideboard/images/natcan03/a967.jpg)
+
+"You haven't laid a land yet?" – Elijah Pollock
 
 "Nope." – Steve Cassell
 

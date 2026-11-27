@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Rui Oliveira*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/180.jpg)Way down there at table 23 I found a couple of great players trying to start a comeback. Frederico Bastos is the current Portuguese champion and has been ripping the national scene in shreds since he came back to regular play. In the other corner, fresh off a World's final and a Player of the Year award, Bob Maher. So this match-up had all the right ingredients for a great round. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/180.jpg)
+
+Way down there at table 23 I found a couple of great players trying to start a comeback. Frederico Bastos is the current Portuguese champion and has been ripping the national scene in shreds since he came back to regular play. In the other corner, fresh off a World's final and a Player of the Year award, Bob Maher. So this match-up had all the right ingredients for a great round. 
 
 And indeed it was an amazing round, a perfect example of what Magic should be, regardless of the tournament level. After some friendly chat and a brief discussion about their drafting pod the round got under way. 
 
@@ -56,7 +58,9 @@ Fred tried to regain some control of the game by despoiling the Swamp but couldn
 
 The friendly chat continued as both players sideboarded and shuffled for the second game. Bob opened up with a Seal of Fire and Fred answered with a Drummer , which got promptly sealed. Bob dropped a Grappler and Fred found a good blocker on a Deadgazzer. It seemed like a new standstill but Bob had a handful of surprises: Sniper, Rager and an Alley Grifters. Fred's doom seemed imminent as Bob attacked, but with a Steal Strength to get rid of the Sniper and a Tiger Claw to save his Gazer, we seemed to be back in business. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/179.jpg)As Bob's army increased, Fred needed an answer and he used a Skyshroud Claim but stopped for a second to think and only got one Forest to keep under eight lands (since Bob had an Avatar of Fury). With that second Forest he dropped a Spitting Spider, but Bob had a wicked plan up his sleeve. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/179.jpg)
+
+As Bob's army increased, Fred needed an answer and he used a Skyshroud Claim but stopped for a second to think and only got one Forest to keep under eight lands (since Bob had an Avatar of Fury). With that second Forest he dropped a Spitting Spider, but Bob had a wicked plan up his sleeve. 
 
 He dropped a Seal of Fire and used a Panic Attack to get his whole army past all of Fred's blockers and finished him with the Seal of Fire. 
 

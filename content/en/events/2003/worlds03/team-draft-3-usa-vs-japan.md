@@ -254,7 +254,9 @@ render_recovery:
   - Goblin War Strike
   occurrences: 472
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a564.jpg)After a disappointing draw in the first round today the American team rebounded with a victory against Brazil. If they won this round and Finland won as well they would clinch both berths in Sunday's finals. 
+![](http://www.wizards.com/sideboard/images/worlds03/a564.jpg)
+
+After a disappointing draw in the first round today the American team rebounded with a victory against Brazil. If they won this round and Finland won as well they would clinch both berths in Sunday's finals. 
 
 The Japanese team was close behind them but they needed to win their next two rounds to do so. France was in the same boat paired off against Finland. If the US and Finland won this round next round would be irrelevant for the purpose of the cut to Sunday. All that would be left to play for was pride.
 
@@ -336,7 +338,9 @@ If France or Japan could win this round they would create all sorts of interesti
 
 "My opponent has Siege-Gang Commander, Ravenous Baloth*and* Kamahl... And he's still not winning," laughed Walls after the draft. His teammates were dubious but they were similarly excited about their own match-ups. 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a563.jpg)Justin Gary proudly displayed an Alpha Status, "This card is going to be retarded—*and* we took all the Vigilantes away from him." High fives all the way around. Justin would have had absurd green if Osamu hadn't (in)audibled into it after opening the Kamahl and Baloth in successive packs. "It was a horrid seat to go green in but he kept opening rares."
+![](http://www.wizards.com/sideboard/images/worlds03/a563.jpg)
+
+Justin Gary proudly displayed an Alpha Status, "This card is going to be retarded—*and* we took all the Vigilantes away from him." High fives all the way around. Justin would have had absurd green if Osamu hadn't (in)audibled into it after opening the Kamahl and Baloth in successive packs. "It was a horrid seat to go green in but he kept opening rares."
 
 Joshua Wagener piped in, telling them Gabe had more to worry about than the rares, "He has two of the 4/1 provokes and the Krosan Warchief with Baloth. Its not good."
 

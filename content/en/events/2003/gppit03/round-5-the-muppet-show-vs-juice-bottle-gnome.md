@@ -99,7 +99,9 @@ render_recovery:
   - Goblin Machinist
   occurrences: 58
 ---
-![](http://www.wizards.com/sideboard/images/gppit03/a979.jpg)The Muppet Show (Mike Turian, Eugene Harvey, Jeff Cunningham) is notable for the sheer number of Pro Tour appearances and Top 8 performances among the members. The Juice Bottle Gnomes? Well, Mike Dove's only claim to fame was getting bashed with a Minute Maid juice bottle by the now-infamous Kurt Hahn. "I didn't know we were meeting a celebrity," Turian jokes. It's extra-funny coming from a man whose claim to fame is his association with a tuber, and who's sitting to the left of the National Champion.
+![](http://www.wizards.com/sideboard/images/gppit03/a979.jpg)
+
+The Muppet Show (Mike Turian, Eugene Harvey, Jeff Cunningham) is notable for the sheer number of Pro Tour appearances and Top 8 performances among the members. The Juice Bottle Gnomes? Well, Mike Dove's only claim to fame was getting bashed with a Minute Maid juice bottle by the now-infamous Kurt Hahn. "I didn't know we were meeting a celebrity," Turian jokes. It's extra-funny coming from a man whose claim to fame is his association with a tuber, and who's sitting to the left of the National Champion.
 
 ### Game 1
 
@@ -125,7 +127,9 @@ Jeff is looking at a completely empty board again, but is a perfect picture of s
 
 "Are you going to sideboard out Timberwatch Elf?" Turian asks jokingly. "He's very overrated." Turian leads with a swamp and some early creatures, but gets stuck at four land. Conrad's Sparksmith shoots Turian's Embalmed Brawler, but Turian saves it. He shakes his head as he cycles a Dirge of Dread. 
 
-![](http://www.wizards.com/sideboard/images/gppit03/a980.jpg)Now Conrad has a huge number of creatures (five) to Turian's lone Daru Sanctifier. Turian plays Daunting Defender, but I don't know if it will be enough to save him this time. 
+![](http://www.wizards.com/sideboard/images/gppit03/a980.jpg)
+
+Now Conrad has a huge number of creatures (five) to Turian's lone Daru Sanctifier. Turian plays Daunting Defender, but I don't know if it will be enough to save him this time. 
 
 Turian's trying to rattle his opponent, and seems to be succeeding. "I know my team's ferocious compared to yours," he says, indicating his two clerics and Conrad's six attackers. Turian's doing his best to come back from a painfully slow start, and Dragon Shadow on that Daunting Defender may just do the trick. He attacks to put Conrad at four. Conrad's defense holds as Turian realizes that he doesn't have enough to hit back with, and concedes.
 
@@ -141,7 +145,9 @@ Jeff plays an Aven Fateshaper, and ponders his options. However, Bernat soon fol
 
 Bernat's a bit addled by the spectators, but Jeff remains as calm as the rest of his teammates. He's made an amazing comeback, though, and now has enough creatures to start attacking back. With seven life, though, he can't afford to play around very much with his life total. When Bernat attacks with all of his creatures, Jeff considers his blocking options very carefully. Bernat opts to Read the Runes for two, and manages to hit Jeff for two. What was once a horribly one-sided game is quickly swinging back in the other direction. 
 
-![](http://www.wizards.com/sideboard/images/gppit03/a981.jpg)Jeff attacks with the Fateshaper, taking Bernat to six, then plays Covert Operative and a morph creature. Now in extra turns, Bernat and Jeff are considering every single option as meticulously as possible. I wish I'd been able to cover this matchup more, as this is turning out to be the pivotal game of the match. When Bernat attacks back with everything, he shrugs, like he has no other choice. Jeff blocks everything that Bernat can throw at him, and when Jeff can attack back for enough damage to kill him, Bernat concedes.
+![](http://www.wizards.com/sideboard/images/gppit03/a981.jpg)
+
+Jeff attacks with the Fateshaper, taking Bernat to six, then plays Covert Operative and a morph creature. Now in extra turns, Bernat and Jeff are considering every single option as meticulously as possible. I wish I'd been able to cover this matchup more, as this is turning out to be the pivotal game of the match. When Bernat attacks back with everything, he shrugs, like he has no other choice. Jeff blocks everything that Bernat can throw at him, and when Jeff can attack back for enough damage to kill him, Bernat concedes.
 
 ### Game 3
 

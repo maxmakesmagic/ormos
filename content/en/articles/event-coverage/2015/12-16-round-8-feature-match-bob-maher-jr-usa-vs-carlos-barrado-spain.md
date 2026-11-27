@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/172.jpg)In the first round of the second day, Pro Tour Player of the Year faced off against the Spanish Pro Tour Veteran Carlos Barrado. Bob had a red and black deck with quite a few Mercenaries, an Avatar of Fury, and some removal, while Carlos had gone Rebels with red for removal and some creatures, for instance a Rock Badger and an Ancient Hydra. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/172.jpg)
+
+In the first round of the second day, Pro Tour Player of the Year faced off against the Spanish Pro Tour Veteran Carlos Barrado. Bob had a red and black deck with quite a few Mercenaries, an Avatar of Fury, and some removal, while Carlos had gone Rebels with red for removal and some creatures, for instance a Rock Badger and an Ancient Hydra. 
 
 Barrado won the die roll and chose to play. The two players played some lands, and then Barrado got out a Ramosian Captain. Bob answered by playing an Alley Grifters, and the Captain died to a Rhystic Lightning after just one attack. A Reveille Squad took its place though, and then a Defender en-Vec came to help out temporarily while Bob summoned a Flowstone Wall for some defense. 
 

@@ -131,7 +131,9 @@ Dense cards need support. A [Mana Tithe](https://web.archive.org/web/20070707000
 
 The better your cards work with each other, the more value you extract from each card.
 
-[![Unifying_Theory](https://i.ormos.uk/4e/a3/4ea3c85f32d27e9a0897f081eacc1620eb831e92cc73f0a19b1a3aa93f0584ce.jpg)](https://web.archive.org/web/20070707000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Unifying%2BTheory)**Tailor the numbers:** Fine tune your deck. 
+[![Unifying_Theory](https://i.ormos.uk/4e/a3/4ea3c85f32d27e9a0897f081eacc1620eb831e92cc73f0a19b1a3aa93f0584ce.jpg)](https://web.archive.org/web/20070707000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Unifying%2BTheory)
+
+**Tailor the numbers:** Fine tune your deck. 
 
 Let's review some basic numbers. 60 cards, of course, is the standard for tight tournament decks. This is to ensure the best chance of drawing the best cards, and also to maximize the predictability of the mix. There may be fringe reasons for going above 60 cards, but they are *very* marginal. 4 of a card is the maximum (not counting basic land). Generally, we want to play 4 of our deck's better cards; this gives us our highest chance of drawing them. 
 

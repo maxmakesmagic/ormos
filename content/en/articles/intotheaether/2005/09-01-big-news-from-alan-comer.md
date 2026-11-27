@@ -102,7 +102,9 @@ Rumor had it that Alan Comer had some big news to share with the **Magic** commu
 
 **Alan Comer**: My family was pretty supportive, although sad to see me go. My father almost turned pro racing bicycles, so he understands what competition is like. Having seen how well I did on the **Magic** Pro Tour, he thought it would be a very good fit for me, and it did turn out that way. My parents adopted four foster kids who are now 8-5. I think in all, it was hardest on them having me leave San Diego, California, to move to Washington. I feel very out of touch with my brothers and sisters now.
 
-![](https://i.ormos.uk/f7/56/f756988576d68a6c526376e4dba048880f25c81ce49a7c716e4c38b3e2b18e2d.jpg)**IntoTheAether**: Have any of them come to see where you work? Do any of them play **Magic**?
+![](https://i.ormos.uk/f7/56/f756988576d68a6c526376e4dba048880f25c81ce49a7c716e4c38b3e2b18e2d.jpg)
+
+**IntoTheAether**: Have any of them come to see where you work? Do any of them play **Magic**?
 
 **Alan Comer**: Yeah, my family came up two years ago for Christmas. They have a nice RV, which they drove up. Towards the end of the trip, it snowed. Now, I have only ever seen it snow here in the Seattle area once, and that time it was gone by lunch. However, this time we got enough snow to keep them snowed in for a week, with the mountain passes to the south totally blocked. Ever since, my mother refuses to come and visit because she hates the snow.
 
@@ -115,7 +117,9 @@ Rumor had it that Alan Comer had some big news to share with the **Magic** commu
 
 **Alan Comer**: Of course. I love almost all games. In addition to all the Avalon Hill games mentioned above, **Duel Masters** is a particularly good game that I enjoyed playing in for several of the organized leagues that occur within the company.
 
-![](https://i.ormos.uk/0d/e3/0de3920ecd1750e527943e9b3444aabd02badce0edb38f56b0c8d69d4e189b64.jpg)**IntoTheAether**: What accomplishments are you most proud of from your time working at Wizards?
+![](https://i.ormos.uk/0d/e3/0de3920ecd1750e527943e9b3444aabd02badce0edb38f56b0c8d69d4e189b64.jpg)
+
+**IntoTheAether**: What accomplishments are you most proud of from your time working at Wizards?
 
 **Alan Comer**: *Mirrodin*. While *8th Edition* was my first set on my own, *Mirrodin* had a lot more cards that needed to be done. Getting that done in time was an insane amount of work, and it all came off very well.
 

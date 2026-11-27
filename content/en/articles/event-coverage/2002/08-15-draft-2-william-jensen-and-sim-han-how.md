@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a830.jpg)William "Baby Huey" Jensen is considered by some participants in this game as the "world's best drafter." That title was earned in the wee hours of the morning over several years of Pro Tours, drafting against the sharks in two-on-two's and three-on-three's. Now he *is* one of the sharks, and has been cleaning house on Magic Online like no one's business. Let's see if those skills are transferable to the real deal.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a830.jpg)
+
+William "Baby Huey" Jensen is considered by some participants in this game as the "world's best drafter." That title was earned in the wee hours of the morning over several years of Pro Tours, drafting against the sharks in two-on-two's and three-on-three's. Now he *is* one of the sharks, and has been cleaning house on Magic Online like no one's business. Let's see if those skills are transferable to the real deal.
 
 To Jensen's left sits fellow 8-1 competitor, Malaysian surprise Sim Han How. The table: 
 

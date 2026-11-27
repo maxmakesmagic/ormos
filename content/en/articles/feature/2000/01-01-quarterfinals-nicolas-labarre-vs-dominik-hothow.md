@@ -66,13 +66,17 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/439.jpg)Dominik Hothow is a quiet kid. While he's well known as a strong technical player amongst his German peers, he hasn't gained much recognition from those outside his homeland, those players he works with know about his talent.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/439.jpg)
+
+Dominik Hothow is a quiet kid. While he's well known as a strong technical player amongst his German peers, he hasn't gained much recognition from those outside his homeland, those players he works with know about his talent.
 
 Going into his match with Nicolas LaBarre's Cluster-Bomb deck, Hothow was considered to be a heavy underdog, but the match-up wasn't quite as bad as most thought. "Looking at the match up on paper, I thought I was really favored" said Nicolas "but after we tested it, I wasn't feeling as confident".
 
 Game one started with sub-optimal draws from both players. Dominik tapped his Karplusan Forest for Green mana and cast a Bird of Paradise on turn one, but didn't play a land turn two, only casting a Llanowar Elf. Nicolas responded with a first turn Bird of his own, adding to it a second turn Saproling Cluster.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/433.jpg)Turn three is where the game turned. Dominik drew the best card he could have, Rishadan Port, allowing him to start pinning down LaBarre's mana, targetting a City of Brass each turn in order to whittle the Frenchman's life total down. When Nicolas managed to cast a Priest of Titania, Dominik was able to Earthquake it away.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/433.jpg)
+
+Turn three is where the game turned. Dominik drew the best card he could have, Rishadan Port, allowing him to start pinning down LaBarre's mana, targetting a City of Brass each turn in order to whittle the Frenchman's life total down. When Nicolas managed to cast a Priest of Titania, Dominik was able to Earthquake it away.
 
 Nicolas was ready for one last try at a win though. After feeling the power of Plow Under, Nicolas finally drew enough mana to cast Academy Rector, but he was forced to tap his High Market to do so. Dominik calmly untapped and destroyed the Market with his Dustbowl and soon cast a nine point Earthquake for the win.
 
@@ -88,7 +92,9 @@ Game three was all LaBarre. Before the game, Nicolas joked "I suppose that's the
 
 2-1 Hothow
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/431.jpg)This game came down to Nicolas' second turn Saproling Cluster. Dominik played a third turn Blastoderm, but Nicolas had the Meekstone in hand, so the untargettable 5/5 could only get in one attack. Knowing that Nicolas could block the Blastoderm in his hand if he desired, Dominik insterad discarded the 'derm along with a Forest so he could go on the offensive while awaiting a red mana source, which would allow the casting of the Avalanche Rider and Earthquake in his hand.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/431.jpg)
+
+This game came down to Nicolas' second turn Saproling Cluster. Dominik played a third turn Blastoderm, but Nicolas had the Meekstone in hand, so the untargettable 5/5 could only get in one attack. Knowing that Nicolas could block the Blastoderm in his hand if he desired, Dominik insterad discarded the 'derm along with a Forest so he could go on the offensive while awaiting a red mana source, which would allow the casting of the Avalanche Rider and Earthquake in his hand.
 
 After Dominik attacked with the tokens, he cast Plow Under. The real power of this card comes in the fact that in a match-up like this one, it gives its caster two turns in which he knows his opponent won't be doing anything too drastic. This knowledge allowed Dominik to use the Cluster more aggressively, eventually discarding the red cards to make two 1/1 creatures and continue attacking.
 

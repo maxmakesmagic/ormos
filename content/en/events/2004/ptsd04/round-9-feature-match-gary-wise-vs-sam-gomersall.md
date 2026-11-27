@@ -391,7 +391,9 @@ render_recovery:
 ---
 * * *
 
-![Sam Gomersall](http://wizards.com/sideboard/images/ptsd04/fm18_1.jpg)Sam Gomersall has been anticipated to be the next big thing to come out of Europe. Whereas England was once considered a major force in Magic, the glory days of Hampton Court Palace and the best tech in the world seem to be a distant memory. Gomersall could be the man to bring back that tradition in some way, and thus far he's proving that the hype is justified. He's very familiar with his opponent this round- back when Gary Wise was living in Hampton Court Palace, Gomersall used to drop by and draft with the rest of England's top players.
+![Sam Gomersall](http://wizards.com/sideboard/images/ptsd04/fm18_1.jpg)
+
+Sam Gomersall has been anticipated to be the next big thing to come out of Europe. Whereas England was once considered a major force in Magic, the glory days of Hampton Court Palace and the best tech in the world seem to be a distant memory. Gomersall could be the man to bring back that tradition in some way, and thus far he's proving that the hype is justified. He's very familiar with his opponent this round- back when Gary Wise was living in Hampton Court Palace, Gomersall used to drop by and draft with the rest of England's top players.
 
 ### Game 1
 

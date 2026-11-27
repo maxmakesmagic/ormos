@@ -448,7 +448,9 @@ For inspiration, we looked at one of the best ever Texas-rules decks, Brian Kibl
 
 [Download **Magic** Online .dec file](https://web.archive.org/web/20020418000000/http://wizards.com/magic/decks/20020418_kiblers_rug.dec)
 
-![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)The New York contingent of our playtest group considered only two decks for U.S. Regionals 2002. Of that New York portion (myself, Paul Jordan, Don Lim, and Josh Ravitz), Don continued his love affair with the excellent ZevAtog, while the rest of us played Kibler's Rug. Those of us who did not play ZevAtog played Rug because it was literally our only deck in testing that did not lose to ZevAtog in game one (Rug had a very slim game one advantage); Don and Josh qualified for Nationals by finishing in the Top 8, Paul finished a strong (but not strong enough) 5-2, and I, out of a possible 354 pairings, met Josh in a 75-card mirror match in round 1, and could not win out the next 8 rounds (or even the next one round)... and instead studied at the foot of Mowshowitz while my list-mates tore up the Swiss.
+![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)
+
+The New York contingent of our playtest group considered only two decks for U.S. Regionals 2002. Of that New York portion (myself, Paul Jordan, Don Lim, and Josh Ravitz), Don continued his love affair with the excellent ZevAtog, while the rest of us played Kibler's Rug. Those of us who did not play ZevAtog played Rug because it was literally our only deck in testing that did not lose to ZevAtog in game one (Rug had a very slim game one advantage); Don and Josh qualified for Nationals by finishing in the Top 8, Paul finished a strong (but not strong enough) 5-2, and I, out of a possible 354 pairings, met Josh in a 75-card mirror match in round 1, and could not win out the next 8 rounds (or even the next one round)... and instead studied at the foot of Mowshowitz while my list-mates tore up the Swiss.
 
 The main deck was played to a card as it was given to us by Dragonmaster Kibler, but the sideboard was designed by John Shuler and myself. I will get to the sideboard after I explain just why the Rug is such a devastatingly powerful deck in the main, as well as why it answers the AustiKnight questions for new formats.
 
@@ -468,7 +470,9 @@ Madness is a four-pronged mechanic. The most obvious way to exploit madness is c
 
 ### Redundant Tempo
 
-![](https://i.ormos.uk/5c/90/5c90d93173a2203519d1e580204bee7e1f35c36846100b6947f08f302b2004eb.jpg)The Kibler deck controls tempo better than any deck in the format other than ZevAtog. While ZevAtog prevents the opponent from generating tempo with Standstill and reverses tempo on the ground with Psychatog and its 8 bounce spells, the Kibler deck apes a standard g-r deck with the potential for broken openings. Like any random g-r deck, it can play a Birds of Paradise into Call of the Herd on turn 2. Unlike all but Frog in a Blender, Rug can also play for an extremely fast kill (as fast as turn 4), by just drawing a Wild Mongrel and the burn spells.
+![](https://i.ormos.uk/5c/90/5c90d93173a2203519d1e580204bee7e1f35c36846100b6947f08f302b2004eb.jpg)
+
+The Kibler deck controls tempo better than any deck in the format other than ZevAtog. While ZevAtog prevents the opponent from generating tempo with Standstill and reverses tempo on the ground with Psychatog and its 8 bounce spells, the Kibler deck apes a standard g-r deck with the potential for broken openings. Like any random g-r deck, it can play a Birds of Paradise into Call of the Herd on turn 2. Unlike all but Frog in a Blender, Rug can also play for an extremely fast kill (as fast as turn 4), by just drawing a Wild Mongrel and the burn spells.
 
 If this were all that the Rug could do, it would in fact be a weaker tempo deck than a standard g-r design because it has fewer turn-1 mana accelerators than Fat Crank for Call acceleration, and fewer Fiery Tempers than Frog in a Blender for the turn 4 "dump my hand" kill.
 
@@ -484,7 +488,9 @@ If we allot for this kind of strategy (and trust me, it happens over and over), 
 
 ### The Counter-Rebel Plan
 
-![](https://i.ormos.uk/38/1b/381b73ad207922372b69ba27a61ea286a3934cd8d159e20c014aec026805566c.jpg)Just as Rug can take control of the board like a g-r deck at times, it can also play Counter-Rebels against a control deck. Rug can play straight aggro-control by getting down Wild Mongrel or Call of the Herd and then protecting it with one of the 4 copies of Circular Logic (or, as Scott McCord says, "Dismiss"), or it can play Wild Mongrel or Merfolk Looter and run test spells against a control deck's sanction at the end of the opponent's turn. Because Rug has a natural advantage on the board against most control decks because of its low curve, it can often force the opposition into action with end step Fact or Fiction and Arrogant Wurm, or just hassle at the life total with Fiery Temper and Violent Eruption. 
+![](https://i.ormos.uk/38/1b/381b73ad207922372b69ba27a61ea286a3934cd8d159e20c014aec026805566c.jpg)
+
+Just as Rug can take control of the board like a g-r deck at times, it can also play Counter-Rebels against a control deck. Rug can play straight aggro-control by getting down Wild Mongrel or Call of the Herd and then protecting it with one of the 4 copies of Circular Logic (or, as Scott McCord says, "Dismiss"), or it can play Wild Mongrel or Merfolk Looter and run test spells against a control deck's sanction at the end of the opponent's turn. Because Rug has a natural advantage on the board against most control decks because of its low curve, it can often force the opposition into action with end step Fact or Fiction and Arrogant Wurm, or just hassle at the life total with Fiery Temper and Violent Eruption. 
 
 Should Rug have any kind of clock in play, the Counter-Rebel plan becomes extremely annoying extremely quickly. 
 
@@ -496,7 +502,9 @@ We ended up playing the Rug for three reasons. The first was that it made excell
 
 The second reason was that Rug played both of the best cards in the format: Flametongue Kavu (both the best tempo card and arguably the best creature) and Fact or Fiction (probably the best spell overall). Why not play the best cards?
 
-![](https://i.ormos.uk/21/f1/21f13577e08dfabe36fd570de5c856a0b3774e0041f5772454e5377bcc26861c.jpg)The third reason is that the deck had good matchups across the environment.
+![](https://i.ormos.uk/21/f1/21f13577e08dfabe36fd570de5c856a0b3774e0041f5772454e5377bcc26861c.jpg)
+
+The third reason is that the deck had good matchups across the environment.
 
 I mentioned before that Rug was the only deck we considered that had a positive win percentage against ZevAtog (and Don chose to go with ZevAtog himself, with great success). Our other aggressive decks would get 18 points in and then find themselves with a hand full of expensive spells, staring down Psychatog with no permanents in play. Our decks that could beat ZevAtog could not beat anything else. Rug, on the other hand, was brilliant against Braids with its Violent Eruptions and diverse paths to tempo and extra cards. We found over and over that any opponent who did not destroy Merfolk Looter immediately would just lose.
 
@@ -518,7 +526,9 @@ a. Upheaval joins Flametongue Kavu (best tempo, best creature) and Fact or Ficti
 
 b. At Regionals, you may play against something you did not expect. You will note that we have no Hull Breaches, Tranquilities, Simplifies, Druid Lyrists, or Stone Rains. Basically, if it ain't a creature, it ain't goin' anywhere. Upheaval solves this potential problem, getting rid of Ensnaring Bridges, Teferi's Moats, Collective Restraints, and other non-creature permanents with equal prejudice.
 
-![](https://i.ormos.uk/05/14/0514938b416bd98a5cb7450a0bf5d98d1ce3ba6529ebd74435424c90e4cc1d72.jpg)c. Unlike Epicenter, which also lets Rug take complete control of the board with just one spell, Upheaval also loads up the deck for an instant kill. While Rug is not quite the Wrath-Geddon-Hatred machine that ZevAtog is, an Upheaval will nevertheless always ensure that, provided you have him, Wild Mongrel is swinging for 10 or more the next turn! This is extremely relevant against black control... while they still have the opportunity to cast Innocent Blood, they have only one turn to respond before getting smacked for the probable kill.
+![](https://i.ormos.uk/05/14/0514938b416bd98a5cb7450a0bf5d98d1ce3ba6529ebd74435424c90e4cc1d72.jpg)
+
+c. Unlike Epicenter, which also lets Rug take complete control of the board with just one spell, Upheaval also loads up the deck for an instant kill. While Rug is not quite the Wrath-Geddon-Hatred machine that ZevAtog is, an Upheaval will nevertheless always ensure that, provided you have him, Wild Mongrel is swinging for 10 or more the next turn! This is extremely relevant against black control... while they still have the opportunity to cast Innocent Blood, they have only one turn to respond before getting smacked for the probable kill.
 
 *1 Persuasion:*  
  A week before Regionals, this was Roar of the Wurm #4. Persuasion was kind of like Roar of the Wurm, being a card advantage spell that would imbalance the board position in our favor, but had a unique feature against "problem" permanents.

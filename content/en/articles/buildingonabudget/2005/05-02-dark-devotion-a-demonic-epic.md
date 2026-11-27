@@ -87,7 +87,9 @@ render_recovery:
 ---
 I can almost hear the Online Media department guys who have been filling in for Scott Johns during his paternity leave. What I hear is them sharpening their voodoo pins.
 
-[![](https://i.ormos.uk/7f/0d/7f0dfba0b8113046cd6b65f2aa1c1979d3a42af79a404fbd5111c626528826ec.jpg)](https://web.archive.org/web/20050502000000/http://archive.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=1&lang=en)I mean, seriously, those people must hate me. I write articles that are typically about twice as long as required (my question when I took the job: “Is there a *maximum* word count?”), and today ... well, today is a doozy.
+[![](https://i.ormos.uk/7f/0d/7f0dfba0b8113046cd6b65f2aa1c1979d3a42af79a404fbd5111c626528826ec.jpg)](https://web.archive.org/web/20050502000000/http://archive.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=1&lang=en)
+
+I mean, seriously, those people must hate me. I write articles that are typically about twice as long as required (my question when I took the job: “Is there a *maximum* word count?”), and today ... well, today is a doozy.
 
 So let's get started.
 

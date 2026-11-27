@@ -87,7 +87,9 @@ render_recovery:
 ---
 The first of the exciting feature matches kicks off this round, as most of the teams with enough Pro Tour points have been...doing something else for most of the day. 
 
-![](http://www.wizards.com/sideboard/images/gppit03/a984.jpg)Mike Pustilnik, Ed Fear, and Ken Krouner are all playing on the same team together. On one end of the table is MikeyP, winner of GP: Las Vegas 2001, longtime Pro Tour regular, and genuinely nice guy. On the other? Your favorite MiseTings moderator, the infamous Ken Krouner. Mix in a little bit of Edward Fear, and do you have a recipe for success? We'll find out!
+![](http://www.wizards.com/sideboard/images/gppit03/a984.jpg)
+
+Mike Pustilnik, Ed Fear, and Ken Krouner are all playing on the same team together. On one end of the table is MikeyP, winner of GP: Las Vegas 2001, longtime Pro Tour regular, and genuinely nice guy. On the other? Your favorite MiseTings moderator, the infamous Ken Krouner. Mix in a little bit of Edward Fear, and do you have a recipe for success? We'll find out!
 
 ### Game 1
 
@@ -103,7 +105,9 @@ Patrick's still making up his mind on how best to block Mike's attack and not di
 
 Ed's fighting to stay alive, having only one blocker to Craig's massive attack force, and Gratuitous Violence makes things worse for Ed. "That's all I've got," he says, playing Timberwatch Elf. He blocks an attack with Twisted Abomination, his only option. 
 
-![](http://www.wizards.com/sideboard/images/gppit03/a986.jpg)Ed's doing his best to recover in the middle seat, playing a bunch of creatures out to match Craig's. Ed can't keep up with Craig's constant barrage of creatures, and concedes shortly after. "I know I was worried," Ed says sarcastically.
+![](http://www.wizards.com/sideboard/images/gppit03/a986.jpg)
+
+Ed's doing his best to recover in the middle seat, playing a bunch of creatures out to match Craig's. Ed can't keep up with Craig's constant barrage of creatures, and concedes shortly after. "I know I was worried," Ed says sarcastically.
 
 It's black/red versus red/blue at the third seat as Ken's the only one with a creature on the table. Both players are off to a slow start with only one creature apiece. However, Adam's Bane of the Living beats Ken's Sage Aven. With more creatures on the board, the match is favoring Adam over Ken.
 
@@ -119,7 +123,9 @@ Patrick and Mike have a whole bunch of clerics, soldiers, and other white creatu
 
 Ed leads with Carrion Feeder, then contemplates his options. He probably shouldn't have bothered with thinking for so long, as Craig plays out a few morph creatures and a Goblin Sledder. Ed kills the Goblin with a Crown of Suspicion, but can't seem to find another creature or more than four lands. 
 
-![](http://www.wizards.com/sideboard/images/gppit03/a987.jpg)Ed might be dead in a minute if he can't draw some more creatures to deal with Craig's amazing offense. "Attack with just him," Ed says in a silly voice, turning Carrion Feeder sideways. A puzzling play, but it works out in his favor. 
+![](http://www.wizards.com/sideboard/images/gppit03/a987.jpg)
+
+Ed might be dead in a minute if he can't draw some more creatures to deal with Craig's amazing offense. "Attack with just him," Ed says in a silly voice, turning Carrion Feeder sideways. A puzzling play, but it works out in his favor. 
 
 Craig's army is almost entirely face-down – the only creature that we know the identity of is Needleshot Gourna. He plays more and more creatures to join it, until he has to stack them up to fit on the playmat. Ed can't overcome Craig's overwhelming number of creatures, and he loses soon after as well. "I could've waited a turn to play Ambush Commando, but he had the Shock to kill it." "I had SO much defense," Adam adds. Ed concludes, "It was a good match, though."
 

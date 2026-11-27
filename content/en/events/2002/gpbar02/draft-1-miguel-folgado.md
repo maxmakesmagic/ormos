@@ -81,7 +81,9 @@ render_recovery:
   - Mind Sludge
   occurrences: 22
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a939.jpg)Miguel Folgado is part of a Spanish family of Magic players: his wife, his son and his daughter play Magic and they are one true play testing team.
+![](http://www.wizards.com/sideboard/images/gpbar02/a939.jpg)
+
+Miguel Folgado is part of a Spanish family of Magic players: his wife, his son and his daughter play Magic and they are one true play testing team.
 
 This is the first day two for Miguel and he was a bit nervous during the draft, a format not too known to him he said, picks were too fast.
 

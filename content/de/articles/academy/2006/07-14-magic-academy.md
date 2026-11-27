@@ -66,7 +66,9 @@ render_recovery: []
 
 ### Eine neue Art von Kolumne
 
-![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)Magic Academy ist eine neue Art von Kolumne, die neuen **Magic**-Spielern helfen soll, mehr über das Spiel zu erfahren und die vielen Quellen im Internet besser nutzen zu können. Ein wichtiger Ansatz der Magic Academy ist, dass die Artikel wie bei einem Lehrbuch linear aufeinander aufbauen. So beginnt die Kolumne mit Artikeln wie „Die Anatomie einer Magic-Karte“ und „Dein erstes Deck bauen“. Da die Artikel aufeinander aufbauen, benötigst du für das Verständnis eines Artikels natürlich das Wissen aus den vorherigen Artikeln. Die Kolumne wurde Mitte Juli gestartet und jede Woche erscheinen neue Artikel. Du kannst das unten aufgeführte Inhaltsverzeichnis verwenden um mit dem ersten Artikel anzufangen, oder direkt bei dem Artikel, der deiner Meinung nach deinem Wissensstand über Magic entspricht. 
+![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)
+
+Magic Academy ist eine neue Art von Kolumne, die neuen **Magic**-Spielern helfen soll, mehr über das Spiel zu erfahren und die vielen Quellen im Internet besser nutzen zu können. Ein wichtiger Ansatz der Magic Academy ist, dass die Artikel wie bei einem Lehrbuch linear aufeinander aufbauen. So beginnt die Kolumne mit Artikeln wie „Die Anatomie einer Magic-Karte“ und „Dein erstes Deck bauen“. Da die Artikel aufeinander aufbauen, benötigst du für das Verständnis eines Artikels natürlich das Wissen aus den vorherigen Artikeln. Die Kolumne wurde Mitte Juli gestartet und jede Woche erscheinen neue Artikel. Du kannst das unten aufgeführte Inhaltsverzeichnis verwenden um mit dem ersten Artikel anzufangen, oder direkt bei dem Artikel, der deiner Meinung nach deinem Wissensstand über Magic entspricht. 
 
 ### Für wen ist die Magic Academy gedacht?
 

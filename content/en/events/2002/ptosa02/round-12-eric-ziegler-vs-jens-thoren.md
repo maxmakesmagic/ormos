@@ -217,7 +217,9 @@ render_recovery:
 
 ### Game 1
 
-![](https://i.ormos.uk/50/19/5019b453e50c9f69e615ec01b450bb69a4fe1c8894f4a57479fc587684e29c44.jpg)Thoren opened with Nantuko Shade, while Ziegler matched with Aquamoeba. Having lost one of his lands to a Rancid Earth on turn 3, he retaliated by attacking with Aquamoeba and pumping it by putting a Basking Rootwalla into play. Thoren continued with the land destruction strategy, killing another Forest rather than recasting a Shade, which was bounced via Aether Burst. 
+![](https://i.ormos.uk/50/19/5019b453e50c9f69e615ec01b450bb69a4fe1c8894f4a57479fc587684e29c44.jpg)
+
+Thoren opened with Nantuko Shade, while Ziegler matched with Aquamoeba. Having lost one of his lands to a Rancid Earth on turn 3, he retaliated by attacking with Aquamoeba and pumping it by putting a Basking Rootwalla into play. Thoren continued with the land destruction strategy, killing another Forest rather than recasting a Shade, which was bounced via Aether Burst. 
 
 Ziegler was able to counter the attempted Mind Sludge and lost a Basking Rootwalla to Innocent Blood. He got another Rootwalla into play, and attacked his opponent down to nine life points. Thoren summoned Shambling Swarm and Nantuko Shade, stalling Ziegler's offense. Shambler traded with Ziegler's two creatures, leaving just the Shade and another Rootwalla Ziegler summoned in play. With the help from Cabal Coffers, Thoren's Shade was fearsome. It attacked for twelve on the following turn, forcing Ziegler to block it every turn for the rest of the game. 
 
@@ -235,7 +237,9 @@ Ziegler
 
 ### Game 2
 
-![](https://i.ormos.uk/4c/9f/4c9f39fe93010cb6e1100a84c0fc9c8dbb06d8d41d7fbe4f4fa6b6d410bff21f.jpg)Ziegler was off to a perfect start. He cast Careful Study on turn 1, putting a Basking Rootwalla into play, Wild Mongrel on turn 2 and an Arrogant Wurm on turn 3. Thoren summoned a turn 2 Shade, attacked for 3 and killed a Rootwalla via Edict and summoned Shambling Swarm. The Swarm traded with an Arrogant Wurm – Mongrel was saved by a card being discarded to it. Another Swarm entered play via Cabal Coffers, stalling the American player's offense. 
+![](https://i.ormos.uk/4c/9f/4c9f39fe93010cb6e1100a84c0fc9c8dbb06d8d41d7fbe4f4fa6b6d410bff21f.jpg)
+
+Ziegler was off to a perfect start. He cast Careful Study on turn 1, putting a Basking Rootwalla into play, Wild Mongrel on turn 2 and an Arrogant Wurm on turn 3. Thoren summoned a turn 2 Shade, attacked for 3 and killed a Rootwalla via Edict and summoned Shambling Swarm. The Swarm traded with an Arrogant Wurm – Mongrel was saved by a card being discarded to it. Another Swarm entered play via Cabal Coffers, stalling the American player's offense. 
 
 Thoren played a second Coffers, once again putting Ziegler into the block-every-turn mode. A third Swarm drove the final coffin into Ziegler's grave, and although he was able to fight Thoren off for several more turns, dropping free Rootwallas and Wurms into play, he was unable to find Upheaval.
 
@@ -249,7 +253,9 @@ Ziegler – no change.
 
 ### Game 3
 
-![](https://i.ormos.uk/39/d7/39d71ee5416d2904e6b5a8adfc6337d2a10f18eeb5c86c0d0f343fc33fc7bfd4.jpg)Ziegler's Careful Study was not very impressive this game – he found no flashback or madness cards and was forced to discard another Study and a land. His third turn Looter met with Innocent Blood and then he lost his only Forest to Rancid Earth. Thoren cast Sludge on his fifth turn, forcing Ziegler to lose his entire hand. To somewhat make up for this, Ziegler top-decked a Looter. It wasn't helpful – Thoren had the Mutilate. He also cast Diabolic Tutor to find Nantuko Shade.
+![](https://i.ormos.uk/39/d7/39d71ee5416d2904e6b5a8adfc6337d2a10f18eeb5c86c0d0f343fc33fc7bfd4.jpg)
+
+Ziegler's Careful Study was not very impressive this game – he found no flashback or madness cards and was forced to discard another Study and a land. His third turn Looter met with Innocent Blood and then he lost his only Forest to Rancid Earth. Thoren cast Sludge on his fifth turn, forcing Ziegler to lose his entire hand. To somewhat make up for this, Ziegler top-decked a Looter. It wasn't helpful – Thoren had the Mutilate. He also cast Diabolic Tutor to find Nantuko Shade.
 
 Thoren cleared the way for his Shade and attacked for ten points of damage twice.
 

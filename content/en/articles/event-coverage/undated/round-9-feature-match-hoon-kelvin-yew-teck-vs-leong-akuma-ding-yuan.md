@@ -44,7 +44,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/950.jpg)It's yet another battle of local perennial top players. Kelvin Hoon's most well known for winning the Malaysian Open just this past July, while Ding Yuan Leong made up one third of this year's Singapore National Team, before meeting a rather unfortunate disqualification in the first round of the World Championships. Both players are riding a winning streak- they're both completely undefeated at 8-0 each. This match promises to remove one player from that list of undefeated players.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/950.jpg)
+
+It's yet another battle of local perennial top players. Kelvin Hoon's most well known for winning the Malaysian Open just this past July, while Ding Yuan Leong made up one third of this year's Singapore National Team, before meeting a rather unfortunate disqualification in the first round of the World Championships. Both players are riding a winning streak- they're both completely undefeated at 8-0 each. This match promises to remove one player from that list of undefeated players.
 
 Leong won the die roll (the first so far, or so he claims) and with his deck, decided to go first. Both players are armed with aggro-control decks. Leong is playing the new variants of the "Dark Solution", complete with three maindeck Lashknife Barriers to win the bear war, while Hoon is armed with the W-U-R aggressive deck that went 9-0 at Grand Prix- Kobe. One noticable change in Hoon's deck is the inclusion of four maindeck Disrupts. It is also interesting to note that due to the fact that we posted all the undefeated decklists last night, both players have full knowledge of the other's decklist.
 
@@ -54,7 +56,9 @@ A Fact or Fiction from Hoon revealed neither of those cards which he would need 
 
 When Leong played out a Spectral Lynx, the creature situation stood at three creatures on Leong's side, compared to a rather blank field on Hoon's. Hoon decided to risk a counterspell, playing the Lightning Angel, which actually entered play and immediately tried to make up for lost time by swinging around for three points. Unfortunately, to do so would be incredibly difficult, for Leong's hand comprised of a pair of Repulses and a Dromar's Charm. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/951.jpg)In an attempt to stem the damage from the Galina's Knights, Hoon played out his own, which got Repulsed back at the end of his turn. Hoon played out his own Repulse to send back Leong's Knight to even things out. Since Hoon had no blue mana open, Leong spent his remaining Repulse and his mana to bounce the Lightning Angel. Things got gruesome when Leong played a Meddling Mage, stopping all Lightning Angels- two of which were in Hoon's hand.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/951.jpg)
+
+In an attempt to stem the damage from the Galina's Knights, Hoon played out his own, which got Repulsed back at the end of his turn. Hoon played out his own Repulse to send back Leong's Knight to even things out. Since Hoon had no blue mana open, Leong spent his remaining Repulse and his mana to bounce the Lightning Angel. Things got gruesome when Leong played a Meddling Mage, stopping all Lightning Angels- two of which were in Hoon's hand.
 
 Hoon played out a pair of newly conscripted Goblin Legionnaires. Nonetheless, he was still at the low, low life total of just 4, and still couldn't block Leong's Galina's Knight. The situation at hand required lots of thought, and this match was completely silent- neither player said even a word. In comparison, the Ryan Soh vs. Yujian Zhou sounded like a rowdy crowd on the loose.
 
@@ -62,7 +66,9 @@ When Leong finally decided to attack with all three creatures, Hoon used his two
 
 Leong 1 - Hoon 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/952.jpg)Here's how they sideboarded: Hoon brought in four Gainsays, and completed his set of Repulses with the last copy in his sideboard. He also secured any bear wars with a pair of Lashknife Barriers from the sideboard. He decided to remove one Disrupt, one Goblin Trenches, both Fact or Fictions and three Prophetic Bolts in order to make room. Leong brought in four Gainsays, one Exclude and three Crimson Acolytes, taking out a pair of Absorbs, Dromar's Charms, Spectral Lynx and Fact or Fictions.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/952.jpg)
+
+Here's how they sideboarded: Hoon brought in four Gainsays, and completed his set of Repulses with the last copy in his sideboard. He also secured any bear wars with a pair of Lashknife Barriers from the sideboard. He decided to remove one Disrupt, one Goblin Trenches, both Fact or Fictions and three Prophetic Bolts in order to make room. Leong brought in four Gainsays, one Exclude and three Crimson Acolytes, taking out a pair of Absorbs, Dromar's Charms, Spectral Lynx and Fact or Fictions.
 
 With just twenty minutes left on the clock, Hoon certainly did not want the second game to go on unfinished. The slow pace of both players immediately changed to one that was comparatively much quicker. Hoon immediately tried to seize the tempo, tapping down Leong's Coastal Tower with an Ice, before securing the bear war with a Lashknife Barrier. Since Hoon was tapped out, Leong started the first of his problems with a Galina's Knight. When Hoon drew his own Galina's Knight, Leong was forced to use a pair of Gainsays to try and keep it off the table, tapping out in the process. Hoon did not have a Disrupt.
 

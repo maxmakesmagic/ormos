@@ -91,7 +91,9 @@ Speaking of bigger than ever, **Magic Online** continues to grow by leaps and bo
 
 If you don't have a chance to get one from the store, don't despair: To celebrate **Magic**'s 20th anniversary, players who finish in the Top 8 of any Premier Event during the weekend of September 6 will be awarded a copy of *From the Vault: Twenty* in addition to regular Premier Event prizes! Plus, we will be awarding *From the Vault: Twenty* during the R&D Challenge Event on September 6, as well as during other special events to come.
 
-![](https://i.ormos.uk/06/56/0656442b7fda6c67c3ba60e70e021d77c822bd1a8032a73adb7b84628687b480.jpg)This is the largest *From the Vault* set we've released—instead of the usual fifteen premium foil cards, *From the Vault: Twenty* will feature twenty cards! [Gavin Verhey's article](/en/articles/reconstructed/2013/08-06-from-the-vault-twenty) will give you the scoop on the genesis of *From the Vault: Twenty* as well as the full card list.
+![](https://i.ormos.uk/06/56/0656442b7fda6c67c3ba60e70e021d77c822bd1a8032a73adb7b84628687b480.jpg)
+
+This is the largest *From the Vault* set we've released—instead of the usual fifteen premium foil cards, *From the Vault: Twenty* will feature twenty cards! [Gavin Verhey's article](/en/articles/reconstructed/2013/08-06-from-the-vault-twenty) will give you the scoop on the genesis of *From the Vault: Twenty* as well as the full card list.
 
 ## *Duel Decks: Heroes vs. Monsters* Release: September 6, 2013
 
@@ -137,7 +139,9 @@ Look for the announcement of the Wizards Team coming next week, and in the meant
 
 ## Magic Online Is Growing!
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/digital/magiconline/mike-turian-100.jpg)There's a lot going on with **Magic Online** behind the scenes, especially around the Wide Beta. To help provide extra support with everything going on with **Magic Online**, the team has grown.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/digital/magiconline/mike-turian-100.jpg)
+
+There's a lot going on with **Magic Online** behind the scenes, especially around the Wide Beta. To help provide extra support with everything going on with **Magic Online**, the team has grown.
 
 In June, Mike Turian ([@mturian](/en/articles/event-coverage/2008/12-06-magic-the-gathering-2) on Twitter) joined the **Magic Online** team as the digital product manager. Mike will be leading the daily business of **Magic Online**, including communications (the "What's Happening" page, the **Magic Online** Calendar, "Weekly Announcements," the newsletter, and in-game announcements), all **Magic Online** scheduled, premier and queued events, and the general **Magic Online** client. Mike previously worked with Organized Play and the technology teams on products such as [Planeswalker Points](https://web.archive.org/web/20200422045834/http://www.wizards.com/magic/planeswalkerpoints), the [Store Locator](https://web.archive.org/web/20130814000000/http://locator.wizards.com/), and [Wizards Event Reporter](https://web.archive.org/web/20130814000000/http://www.wizards.com/WPN/Events/Tools.aspx).
 

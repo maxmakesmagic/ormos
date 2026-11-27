@@ -53,7 +53,9 @@ archive_source:
   sha256: 9c5cc8833edbbbc7b633e00e644765e86bd5e8b52a4f954be344a9e5802c0471
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a861.jpg)Very few Magic-players are popular enough to get their own fan clubs. In Nice, however, the "Menno D Fanclub" did their first public appearance to cheer on the Dutch player Menno Dolstra. The exclusive club, whose members include Magic profiles like Kai Budde, Gary Wise and Tom van de Logt, have even printed their own Menno D t-shirts. "I paid for a lifetime membership, and it came with a free t-shirt," Frank Karsten says, proudly displaying a special trophy: "I even got it signed by the Menno!"
+![](http://www.wizards.com/sideboard/images/ptnice02/a861.jpg)
+
+Very few Magic-players are popular enough to get their own fan clubs. In Nice, however, the "Menno D Fanclub" did their first public appearance to cheer on the Dutch player Menno Dolstra. The exclusive club, whose members include Magic profiles like Kai Budde, Gary Wise and Tom van de Logt, have even printed their own Menno D t-shirts. "I paid for a lifetime membership, and it came with a free t-shirt," Frank Karsten says, proudly displaying a special trophy: "I even got it signed by the Menno!"
 
 The Menno D Fanclub started on IRC. Members of EFNet #mtgeurope founded the unofficial Menno D Fanclub a couple of years ago. Since then, the club has existed on the internet only, but since most of the members were qualified for 2002 Pro Tour Nice, they decided to get together and do something special. The result was a very special and very exclusive t-shirt, white, with a picture of the man himself, Menno Dolstra, on the front. "They took this cool picture of him in Amsterdam when he had a really bad hair day," Stan von der Velden says, and explains that Menno Dolstra has really interesting hair.
 

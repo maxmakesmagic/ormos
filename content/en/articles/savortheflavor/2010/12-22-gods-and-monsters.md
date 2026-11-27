@@ -95,7 +95,9 @@ render_recovery: []
 
   
 
-![](http://wizards.com//mtg/images/daily/stf/stf82_w.png)hat if everything you knew was an insidious lie?
+![](http://wizards.com//mtg/images/daily/stf/stf82_w.png)
+
+hat if everything you knew was an insidious lie?
 
   
 

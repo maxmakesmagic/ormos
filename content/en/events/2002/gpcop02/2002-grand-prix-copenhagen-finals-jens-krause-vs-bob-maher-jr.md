@@ -77,7 +77,9 @@ render_recovery:
   - Skirk Commando
   occurrences: 24
 ---
-![](https://i.ormos.uk/df/4d/df4d3a31860cb7adf9e638c8fa15dd6cc44fbce4332a3202e5bdc12c7400d1e3.jpg)This is it. One more match for all the marbles. Two weeks ago Jens Krause came from nowhere to advance to the semi-finals of GP Hamburg. Some might have said that didn't count as most of the Pros were away in Boston, but here he is now, playing in the finals of GP Copenhagon after beating his way through a very tough field that included a victory over none other than Kai Budde in the Semi's.
+![](https://i.ormos.uk/df/4d/df4d3a31860cb7adf9e638c8fa15dd6cc44fbce4332a3202e5bdc12c7400d1e3.jpg)
+
+This is it. One more match for all the marbles. Two weeks ago Jens Krause came from nowhere to advance to the semi-finals of GP Hamburg. Some might have said that didn't count as most of the Pros were away in Boston, but here he is now, playing in the finals of GP Copenhagon after beating his way through a very tough field that included a victory over none other than Kai Budde in the Semi's.
 
 Bob Maher's only recently come off a short ban and is battling his way back to the top in fine style. While Krause was making his first GP top 8 in Hamburg Maher was reaching the Top 4 of the Team Pro Tour in Boston. He also has an illustrious pedigree, winning PT Chicago '99 and taking the title of Pro Player on the year in the same season.
 
@@ -85,7 +87,9 @@ It's no surprise to see both slugging it out in the final as they were the only 
 
 Game 1 saw both green decks ramp up in familiar fashion, an elf each side, followed by a face down Morph guy and then a Beast. Undaunted by Krause's Barkhide Mauler Maher sent in his Wirewood Herald and Snarling Undurak. Krause blocked with his morph guy and Mauler and Maher used a Solar Blast to make sure both followed his Undorak to the graveyard.
 
-![](https://i.ormos.uk/2e/d7/2ed711f79261f927f62b267cf0b34d167e2f83020f6f3eb583d8bcd04444475b.jpg)Krause cycled a Tusker and then played an Elvish Warrior. Again undaunted, Maher swung his men sideways. Krause blocked and sure enough Maher flipped over his face down card to reveal a Battering Craghorn.
+![](https://i.ormos.uk/2e/d7/2ed711f79261f927f62b267cf0b34d167e2f83020f6f3eb583d8bcd04444475b.jpg)
+
+Krause cycled a Tusker and then played an Elvish Warrior. Again undaunted, Maher swung his men sideways. Krause blocked and sure enough Maher flipped over his face down card to reveal a Battering Craghorn.
 
 "Here come the fatties," Maher remarked when Krause tapped 7 mana to bring a Krosan Groundshaker onto the table. A second Craghorn provided a first-striking barrier of 6 power to dissuade any attacking.
 
@@ -103,7 +107,9 @@ Maher chose to keep drawing and his deck started to get abusive as he made succe
 
 Krause looked demoralised tapping a land enchanted with Elvish guidance for far too much mana to flip over a Spitting Gourna. Fortunately he had a Courier to soak up some of the damage. Wasn't any better for Krauser. Maher pumped one Craghorn with a Vitality Charm and cycled a card to Shock the Gourna with his Words of War. The Baloth killing a Lorian provided scant consolation for the unhappy German.
 
-![](https://i.ormos.uk/b6/5f/b65f82704c225d2a43857f016c7a91a9026c37431cf366e6ac791e28753f9197.jpg)Next turn Maher skipped his draw to shock Krause then alpha-striked for the win.
+![](https://i.ormos.uk/b6/5f/b65f82704c225d2a43857f016c7a91a9026c37431cf366e6ac791e28753f9197.jpg)
+
+Next turn Maher skipped his draw to shock Krause then alpha-striked for the win.
 
 Maher 1-0 Krause
 

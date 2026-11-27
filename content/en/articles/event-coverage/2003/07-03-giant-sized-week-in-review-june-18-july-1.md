@@ -780,7 +780,9 @@ Let’s see what’s in the news today.
 
 ### Nationals: Canada
 
-![](https://i.ormos.uk/45/3e/453ed5d42d2fa443e3aff6b55ffd742db006edcda808e078acaaed1316e2fda4.jpg)Ninety-eight competitors showed up to this year’s Canadian Nationals, which was held at the site of last year’s Grand Prix-Montreal. The tournament would be the second to use a new format: three rounds of Standard, followed by six rounds of draft, and then three more rounds of Standard (the first tournament to use this format was South Africa Nationals). The atmosphere was one of excitement, as if it was not a **Magic** tournament, but a giant birthday party. “Where was the cake?” we wondered, child-like.
+![](https://i.ormos.uk/45/3e/453ed5d42d2fa443e3aff6b55ffd742db006edcda808e078acaaed1316e2fda4.jpg)
+
+Ninety-eight competitors showed up to this year’s Canadian Nationals, which was held at the site of last year’s Grand Prix-Montreal. The tournament would be the second to use a new format: three rounds of Standard, followed by six rounds of draft, and then three more rounds of Standard (the first tournament to use this format was South Africa Nationals). The atmosphere was one of excitement, as if it was not a **Magic** tournament, but a giant birthday party. “Where was the cake?” we wondered, child-like.
 
 The supposed pros dropped like flies: “Pant-Flyin” Ryan Fuller, “Pistol” Peter Radonjic, “Cool” Aeo Paquette, Mark “the Real Deal” Zadjner and Jurgen Hahn had a combined grand total of 0 points by the end of round 3. This is not to say, though, that the cream did not rise; by the end of the first day, the top of the standings had many of the best names in Canadian **Magic**: Gabriel Tsang (the original German Juggernaut), Guilliaume Daoust (a founding member of Team 2020), Gary Wise (of *Sideboard* column Wise Words), “Lucky” Louis Boileau (a member of last year’s team in Sydney), and Elijah Pollock (Junior Pro Tour sensation) were all present. 
 
@@ -812,7 +814,9 @@ Japan, alongside Canada, was the second tournament to use the 3-6-3 format chang
 
 At the end of the first day, Masahiro Kuroda (Team Masters winner,) topped the standings, with Itaru Ishida and teammate Katsuhiro Mori close behind.
 
-![](https://i.ormos.uk/71/47/7147ca27488e15bcdb129583783e3cfeadcf651b94c4216bd6a3a98676f55d6d.jpg)After the second day, though, almost none of the known Japanese pros had made Top 8, except for the “silver collector” Osamu Fujita (2nd GP-Hiroshima, GP-Taipei, APAC Championships.) The Top 8 contained two red-green decks, one Psychatog deck, one monoblack control deck, one blue-green madness deck splashing for Zombie Infestation, one Zevatog deck, one Ponza deck, and one very interesting white-green-red beast deck. The Japanese are renowned for deck innovation and in the current Standard format, which is being called stale by many, it’s nice to see some creative deckbuilding tweaks. 
+![](https://i.ormos.uk/71/47/7147ca27488e15bcdb129583783e3cfeadcf651b94c4216bd6a3a98676f55d6d.jpg)
+
+After the second day, though, almost none of the known Japanese pros had made Top 8, except for the “silver collector” Osamu Fujita (2nd GP-Hiroshima, GP-Taipei, APAC Championships.) The Top 8 contained two red-green decks, one Psychatog deck, one monoblack control deck, one blue-green madness deck splashing for Zombie Infestation, one Zevatog deck, one Ponza deck, and one very interesting white-green-red beast deck. The Japanese are renowned for deck innovation and in the current Standard format, which is being called stale by many, it’s nice to see some creative deckbuilding tweaks. 
 
 Also, I’d like to note that Japan Nationals has some wacky prize payout. $20,000 for first, and only $500 for eighth? Sorry Makihito Mihara, that’s a rough beat.
 
@@ -904,7 +908,9 @@ After the tenth round, the Top 8 was shaping up to be extremely impressive, with
 
 The Top 8 contained 3 red-green decks, 1 Upheaval/Zombie Infestation deck, 1 monoblack control deck, 2 zombie decks, and a red-green-white Astral Slide deck.
 
-![](https://i.ormos.uk/46/91/469168c820a1b001028bc949b475d80e51c88a19e31d4a636cf972c9d4d91386.jpg)Despite arguably the best Top 8 in U.S. Nationals history, cruel Quarterfinals matchups would eliminate all but one of the more experienced players, Justin Gary, who would fall to Wagener’s 4 Composts in the semifinals. Walls defeated old friend Berkowitz in the other semifinals matchup, a battle reminiscent of that Star Trek where Picard has to fight Tasha Yar, or something like that. 
+![](https://i.ormos.uk/46/91/469168c820a1b001028bc949b475d80e51c88a19e31d4a636cf972c9d4d91386.jpg)
+
+Despite arguably the best Top 8 in U.S. Nationals history, cruel Quarterfinals matchups would eliminate all but one of the more experienced players, Justin Gary, who would fall to Wagener’s 4 Composts in the semifinals. Walls defeated old friend Berkowitz in the other semifinals matchup, a battle reminiscent of that Star Trek where Picard has to fight Tasha Yar, or something like that. 
 
 The finals were a lopsided affair, but not for the expected favorite. Gab Walls’ Astral Slide deck fell to Wagener’s r-g deck in three, bafflingly, considering Walls had beaten two r-g decks to make it to the Finals! 
 
@@ -926,7 +932,9 @@ Ah, the Junior Super Series, my old stomping grounds.
 
 Favorites going in were Arthur Minetz (U.S. Nationals competitor), Greg Swan (brother of former pro player Brad Swan), Alex Lecky (Canadian Nationals competitor, and JSS Top 8 last year), and Matthew Foley (motivational speaker). 
 
-![](https://i.ormos.uk/b0/25/b025570a611bc43adcf22f82613bca25633b2b8989d5fcc8110ca72e97d32f91.jpg)The JSS, however, is a quick and brutal affair. Despite hordes of players, only nine rounds are played, which leaves no margin for error, making even a single manascrew fatal even to the best of players. A 7-0-2 record was the minimum necessary for Top 8. 
+![](https://i.ormos.uk/b0/25/b025570a611bc43adcf22f82613bca25633b2b8989d5fcc8110ca72e97d32f91.jpg)
+
+The JSS, however, is a quick and brutal affair. Despite hordes of players, only nine rounds are played, which leaves no margin for error, making even a single manascrew fatal even to the best of players. A 7-0-2 record was the minimum necessary for Top 8. 
 
 The Top 8 contained a white-green beast deck, a Psychatog deck, a blue-green madness deck, two Astral Slide decks, two red-green beatdown decks, and a black-green Oversold Cemetery deck.
 
@@ -988,7 +996,9 @@ This week’s question comes courtesy of Pro Tour player Gerard Fabiano: “If t
 
 ### Play of the Week: The Drop-Fake *(as previewed in Wise Words)*
 
-![](https://i.ormos.uk/35/a5/35a5d4c26adf433b06daf818cf8d05178f0e0b06f57d92217680c3d42db002fe.jpg)After reading the Canada Nationals coverage the weekend before last, you may have noticed Pro Tour-Yokohama Top 8 competitor Richard Hoaen playing in the Semifinals. What you may not have noticed is that he *dropped from the tournament* after the fifth round. At 3-2, Hoaen had lost his Psychatog deck and, 2-0 in his pod, was slated to play against Nick Page’s monster monogreen deck, an assured auto-loss. In lieu of the situation, Hoaen decided to throw in the towel, and dropped from the tournament.
+![](https://i.ormos.uk/35/a5/35a5d4c26adf433b06daf818cf8d05178f0e0b06f57d92217680c3d42db002fe.jpg)
+
+After reading the Canada Nationals coverage the weekend before last, you may have noticed Pro Tour-Yokohama Top 8 competitor Richard Hoaen playing in the Semifinals. What you may not have noticed is that he *dropped from the tournament* after the fifth round. At 3-2, Hoaen had lost his Psychatog deck and, 2-0 in his pod, was slated to play against Nick Page’s monster monogreen deck, an assured auto-loss. In lieu of the situation, Hoaen decided to throw in the towel, and dropped from the tournament.
 
 However, when he told his friends what he had done, they vowed to find him a replacement Psychatog deck and insisted that he rejoin the tournament, which he did. After the sixth round pairings went up, though, Hoaen’s name was not on them. He notified the scorekeeper, and it was decided that for convenience’s sake, he would be paired down against Adam Whitehead, who originally had the bye at the table and was sitting at a cool 1-3-1. Whitehead beat Hoaen, but opted to concede, since he was already mathematically eliminated from Top 8 contention. After the concession, a judge brought over Hoaen’s Psychatog deck, which had been turned in.
 

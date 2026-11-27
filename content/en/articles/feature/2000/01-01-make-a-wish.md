@@ -63,7 +63,9 @@ render_recovery: []
 ---
 *by Adrian Sullivan*
 
-![](https://i.ormos.uk/15/29/1529bcee4a54b249d8a8e065047c48d684ab1b83297ebbd46af08b77b2ec4ca1.jpg)Not everyone has an opportunity to have one of their wishes granted. But for one boy from Holland, attending the U.S. National Championships certainly was a dream come true.
+![](https://i.ormos.uk/15/29/1529bcee4a54b249d8a8e065047c48d684ab1b83297ebbd46af08b77b2ec4ca1.jpg)
+
+Not everyone has an opportunity to have one of their wishes granted. But for one boy from Holland, attending the U.S. National Championships certainly was a dream come true.
 
 Seventeen-year-old Sid van Loon suffers from Duchennes Muscular Distrophy, the most common and most destructive form of the disease. Sid has been playing Magic: the Gathering for almost seven years and the Central Florida Make-a-Wish Foundation granted his wish to attend the 2000 U.S. National Championships. In addition to simply attending the event, he received a box of Prophecy, more booster packs, and a U.S. Nationals Jersey signed by fantasy artists Rebecca Guay, Mark Zug, D. Alexander Gregory, and Tony DiTerlizzi, as well as Magic designer Richard Garfield. Sid played Garfield many times throughout the weekend and was able to have every one of his cards signed by the veteran game designer.
 

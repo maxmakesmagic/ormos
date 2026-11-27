@@ -213,7 +213,9 @@ render_recovery:
 ---
 * * *
 
-![Monk_Idealist](http://www.wizards.com/magic/images/cardart/UZ/Monk_Idealist.jpg)Two weeks ago, I began my "Big Idea" series. If you don't know what a "Big Idea" means to me, [go on back and read it](/en/articles/seriousfun/2006/07-25-whats-the-big-idea). Things have become Too Darn Big to rewind it all and explain it again!
+![Monk_Idealist](http://www.wizards.com/magic/images/cardart/UZ/Monk_Idealist.jpg)
+
+Two weeks ago, I began my "Big Idea" series. If you don't know what a "Big Idea" means to me, [go on back and read it](/en/articles/seriousfun/2006/07-25-whats-the-big-idea). Things have become Too Darn Big to rewind it all and explain it again!
 
 The feedback from the first article was overwhelmingly positive, which I appreciate. **Evaluation** – and the related idea that we should *measure the value we add* in all arenas – is a Big Idea we can all get behind! I hope this next Big Idea will measure up as well.
 
@@ -265,7 +267,9 @@ At first, I thought this was very "clever" – you know, in the way that my dog 
 
 But after thinking it through with the help of a tasty orange lollipop, I decided Todd wasn't clever at all. And I was just the one to show him why.
 
-![Scalpelexis](http://www.wizards.com/magic/images/cardart/JUD/Scalpelexis.jpg)The next game (or so I'd like to assume…justice is swift in my ideal world), four or five of us are playing chaos format. I'm playing a new U/G/r beast deck with stuff like Contested Cliffs and Scalpelexis and Ravenous Baloth and even a Sand Squid, which is a neat solution to many things in a beast deck.
+![Scalpelexis](http://www.wizards.com/magic/images/cardart/JUD/Scalpelexis.jpg)
+
+The next game (or so I'd like to assume…justice is swift in my ideal world), four or five of us are playing chaos format. I'm playing a new U/G/r beast deck with stuff like Contested Cliffs and Scalpelexis and Ravenous Baloth and even a Sand Squid, which is a neat solution to many things in a beast deck.
 
 Todd is playing something annoying – I'm playing the percentages and going with Blue/Green here. He's got some beef on the table and it's causing a ruckus.
 

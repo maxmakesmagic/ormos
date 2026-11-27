@@ -61,7 +61,9 @@ archive_source:
   sha256: 0aa7f1a663d3cc335c8f2bb93f9c51f571ff399e0cc20ce18d114031a6f375c7
 render_recovery: []
 ---
-![You Make the Mirage Theme Deck](https://i.ormos.uk/d1/72/d1727ae3697fa06f35f02874c5057ac6c2acf8b4a87697047451d18195855d92.jpg)As a reminder, the color pair is red-blue and our theme is "Two Elements: Fire and Air". Our rare cards are [Subterranean Spirit](https://web.archive.org/web/20051027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Subterranean+Spirit) and [Mist Dragon](https://web.archive.org/web/20051027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mist+Dragon).
+![You Make the Mirage Theme Deck](https://i.ormos.uk/d1/72/d1727ae3697fa06f35f02874c5057ac6c2acf8b4a87697047451d18195855d92.jpg)
+
+As a reminder, the color pair is red-blue and our theme is "Two Elements: Fire and Air". Our rare cards are [Subterranean Spirit](https://web.archive.org/web/20051027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Subterranean+Spirit) and [Mist Dragon](https://web.archive.org/web/20051027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mist+Dragon).
 
 Thank you all for your [creature votes](/en/articles/feature/2005/10-24-you-make-the-mirage-theme-deck-part-4)!
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Randy Buehler* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/817.jpg)Round 4 was played for more than just 3 points in the standings. B.I.G. and Potato Nation were also playing for 40 a head. Five of the six players involved in this match are legendary money drafters. Look around any Pro Tour venue at about 3am Saturday or Sunday night and you're quite likely to see Gab Tsang, Brian Hacker, Igor Frayman, Mike Turian, and Gary Wise drafting with someone. Tsang and Wise are longtime playtest partners from Toronto who were actually teammates at last year's team Pro Tour. They never money draft against each other and despite having over 30 PTs worth of experience between them, they've never been paired against each other. Until round 4. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/817.jpg)
+
+Round 4 was played for more than just 3 points in the standings. B.I.G. and Potato Nation were also playing for 40 a head. Five of the six players involved in this match are legendary money drafters. Look around any Pro Tour venue at about 3am Saturday or Sunday night and you're quite likely to see Gab Tsang, Brian Hacker, Igor Frayman, Mike Turian, and Gary Wise drafting with someone. Tsang and Wise are longtime playtest partners from Toronto who were actually teammates at last year's team Pro Tour. They never money draft against each other and despite having over 30 PTs worth of experience between them, they've never been paired against each other. Until round 4. 
 
 Mere weeks after carrying Canada to a second place finish in the Worlds team competition, Tsang was building decks for he, Hacker, and Frayman. Their 2-0-1 mark is a testimony to his skill. Turian, Wise, and Johns were also sitting on 7 points, hoping to go into the final deck build needing only 1 more win to advance to day 2. 
 

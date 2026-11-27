@@ -73,13 +73,17 @@ render_recovery:
   - Mistform Mask
   occurrences: 20
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a957.jpg)Jelger and Eivind both won their first round today and now find themselves at 4-0. Both are looking to get some extra pro tour points to stay firmly on the Masters gravy train. Jelger's deck is a very good Red/Green with 4 out of the 5 rares from his pool of cards. Eivind's playing Blue/Green with Quicksilver Dragon and Dispersing Orb as his game breakers.
+![](http://www.wizards.com/sideboard/images/gpcop02/a957.jpg)
+
+Jelger and Eivind both won their first round today and now find themselves at 4-0. Both are looking to get some extra pro tour points to stay firmly on the Masters gravy train. Jelger's deck is a very good Red/Green with 4 out of the 5 rares from his pool of cards. Eivind's playing Blue/Green with Quicksilver Dragon and Dispersing Orb as his game breakers.
 
 ### Game 1
 
 Jelger kept a two mountain hand first game but skillfully drew a forest to accelerate himself to 5 mana on turn 3 with an Elvish Pioneer and a Wirewood Elf. He then used all this mana to play...a morph creature. A Symbiotic Elf from Eivind blocked Jelger's morph guy which turned out to be a 5/5 Brackus and the Elf was roadkill.
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a958.jpg)Eivind played a Quicksilver Dragon the next turn and Jelger took a chance targeting it with Erratic Explosion. A Treespring Lorian hit and the Quicksilver Dragon left play without impacting the game at all. Eivind still had some creatures left and the next two turns brought a Krosan Tusker and a Disrupting Orb to make things interesting..
+![](http://www.wizards.com/sideboard/images/gpcop02/a958.jpg)
+
+Eivind played a Quicksilver Dragon the next turn and Jelger took a chance targeting it with Erratic Explosion. A Treespring Lorian hit and the Quicksilver Dragon left play without impacting the game at all. Eivind still had some creatures left and the next two turns brought a Krosan Tusker and a Disrupting Orb to make things interesting..
 
 Jelger's Brackus was returned to his hand a couple of times as Eivind decided to race. Jelger couldn't really find any cheaper creatures to cast so his Brackus never stayed in play long enough to block and kill the Tusker. Eivind put Jelger at 1 by bouncing all Jelger's blockers with the Orb but Jelger was able to clog the board up with men one turn before he died.
 
@@ -95,7 +99,9 @@ A turn 9 Krosan Colossus drew some "Ooooh"s and "Yummy"s from the crowd. It didn
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a959.jpg)Eivind's hand this game contained both his 9/9 and his 5/5 flier so he kept with a smile. The first creature to hit the table was a morph dude and despite Jelger's efforts to keep Eivind from attaking his morph dude into Jelger's by shoving his in front of Eivind's, Eivind was the one to draw first blood this game. A Symbiotic Elf made live difficult for Jelger but when he played his 5th land he decided to just hide behind his Morph guy, respresenting some large creature. A Rorix entered play the turn after and Jelger went aggro.
+![](http://www.wizards.com/sideboard/images/gpcop02/a959.jpg)
+
+Eivind's hand this game contained both his 9/9 and his 5/5 flier so he kept with a smile. The first creature to hit the table was a morph dude and despite Jelger's efforts to keep Eivind from attaking his morph dude into Jelger's by shoving his in front of Eivind's, Eivind was the one to draw first blood this game. A Symbiotic Elf made live difficult for Jelger but when he played his 5th land he decided to just hide behind his Morph guy, respresenting some large creature. A Rorix entered play the turn after and Jelger went aggro.
 
 Eivind's new morph guy was a Quicksilver Dragon though and the tide quickly turned in favor of the Norwegian. A Kamahl stole the momentum right back and Eivind had some calculating to do. A Mistform Mask managed to hold the Rorix at bay but the big Dragon was doing a great job at being a large wall anyway and Eivind had no way to get through. Two turns later Kamahl and his land-men attacked for the win.
 

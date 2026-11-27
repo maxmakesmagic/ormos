@@ -50,7 +50,9 @@ El enfrentamiento argentino-chileno, el duelo entre el pequeño Psyduck Witt (15
 
 Game 1 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/862.jpg)Comienzo a toda orquesta: Witt baja Montaña y Jackal Pup, al final del turno Ostrovich juega Tutor Místico por Intuición. Witt sabe que tiene pocas cosas por hacer: golpear rápido y retardar el combo. Luego de que Ostrovich juega City of Traitors , Witt juega su Erial para destruir la Ciudad, en respuesta el argentino juega Intuición por Saproling Burst, y dos encantamientos con muchos bichos amenazantes van al cementerio, quedan al acecho. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/862.jpg)
+
+Comienzo a toda orquesta: Witt baja Montaña y Jackal Pup, al final del turno Ostrovich juega Tutor Místico por Intuición. Witt sabe que tiene pocas cosas por hacer: golpear rápido y retardar el combo. Luego de que Ostrovich juega City of Traitors , Witt juega su Erial para destruir la Ciudad, en respuesta el argentino juega Intuición por Saproling Burst, y dos encantamientos con muchos bichos amenazantes van al cementerio, quedan al acecho. 
 
 Witt no tiene respiro, ataca con un Mogg Fanatic y un Jackal Pup, hace el intento de jugar un segundo Jackal, pero un Force of Will lo manda al cementerio. Aún así el chileno hace entrar un Cursed Scroll y baja Ghitu Encampment, procurando sumar daño, pero al final de su turno Ostrovich hace Intuición por Replenish, y no parece que el Ponza-Sligh pueda hacer mucho. De hecho, en su turno Ostrovich hace Frantic Search y con un cementerio con tres Saproling Burst y un Pandemonium, juega Replenish. 
 

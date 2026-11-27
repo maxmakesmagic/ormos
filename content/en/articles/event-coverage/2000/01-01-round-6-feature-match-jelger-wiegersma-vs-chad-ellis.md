@@ -44,7 +44,9 @@ archive_source:
   sha256: 814c7769cce8b1b9897e4d7757bb30fdd1a5258e3e165fee608ed4cd28d4c9f0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/963.jpg)We have already met Jelger in the feature match coverage of this event. After [drawing with Rob Dougherty in round four](https://web.archive.org/web/20000101000000/http://archive.wizards.com/article.asp?x=GPVAL01%5C894fm4a), he won his last match - putting him on four wins and a draw. Chad Ellis, one of the few North American players here this weekend is on the same record. He is a member of Team Your Move Games, and is rapidly becoming a regular face at international Magic events. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/963.jpg)
+
+We have already met Jelger in the feature match coverage of this event. After [drawing with Rob Dougherty in round four](https://web.archive.org/web/20000101000000/http://archive.wizards.com/article.asp?x=GPVAL01%5C894fm4a), he won his last match - putting him on four wins and a draw. Chad Ellis, one of the few North American players here this weekend is on the same record. He is a member of Team Your Move Games, and is rapidly becoming a regular face at international Magic events. 
 
 **Game One** 
 
@@ -60,7 +62,9 @@ Jelger's opening draw looked a little better in game two, getting off to a quick
 
 Jelger had a Firescreamer on his fourth turn, which appeared to be quite a good card in his deck, but again it was Hobbled immediately. Wiegersma failed to draw a fifth land which would have allowed him to play Tahngarth, but he played it on his sixth turn, after casting Agonizing Demise in Chad's end step on a just-cast Faerie Squadron. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/964.jpg)The Minotaur Hero couldn't get past the Galina's Knight, but it did mean that Chad had to be very selective about what creatures he played from then on. The Shivan Zombie continued to beat on Chad, who conceded on five lives when his Stone Kavu was destroyed by Slay. Chad had spent five turns searching for a creature that could survive Tahngarth's ability, only playing a creature when he could increase it's toughness to seven, to block and survive the Shivan Zombie and Tahngarth's ability. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/964.jpg)
+
+The Minotaur Hero couldn't get past the Galina's Knight, but it did mean that Chad had to be very selective about what creatures he played from then on. The Shivan Zombie continued to beat on Chad, who conceded on five lives when his Stone Kavu was destroyed by Slay. Chad had spent five turns searching for a creature that could survive Tahngarth's ability, only playing a creature when he could increase it's toughness to seven, to block and survive the Shivan Zombie and Tahngarth's ability. 
 
 **Game Three** 
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a980.jpg)Two men who need no introduction are going to get one anyway. Dave Price, fan favorite and perennial Invitationalist, squared off against good ol' fossilized Eric "Danger" Taylor, winner of GP Milwaukee. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a980.jpg)
+
+Two men who need no introduction are going to get one anyway. Dave Price, fan favorite and perennial Invitationalist, squared off against good ol' fossilized Eric "Danger" Taylor, winner of GP Milwaukee. 
 
 Eric seemed dangerously morose over his deck. "My deck is so bad!" he exclaimed, shuffling up his pile of cards with lackluster energy. "I'm not sure how my deck is. It's either really good or really bad." 
 
@@ -69,7 +71,9 @@ EDT got frisky with a [Daru Cavalier](https://web.archive.org/web/20021026000000
 
 Taylor continued to bring the beats, starting an air force and air defense with [Spitting Gourna](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spitting+Gourna) and [Dive Bomber](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber). The Bomber ended up dying to the Slateback during combat, and Dave sought to hold off the attack with a [Wellwisher](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) and Gustcloak harrier.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a982.jpg)Dave sensed danger as Danger went large and in charge with a [Symbiotic Beast](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Beast) and [Daru Lancer](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Lancer). He Gaseous Formed the first striker, and cast his sole [Embermage Goblin](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Embermage+Goblin). Eric was ready with a [Lavamancer's Skill](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill) on his [Sandskin](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sandskin)ned creature, making the soldier quite adept at being the head Tim.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a982.jpg)
+
+Dave sensed danger as Danger went large and in charge with a [Symbiotic Beast](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Beast) and [Daru Lancer](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Lancer). He Gaseous Formed the first striker, and cast his sole [Embermage Goblin](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Embermage+Goblin). Eric was ready with a [Lavamancer's Skill](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill) on his [Sandskin](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sandskin)ned creature, making the soldier quite adept at being the head Tim.
 
 The Beast died on the next combat phase, littering the playfield with 1/1 insects. Eric spent two turns shooting creatures: [Embermage Goblin](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Embermage+Goblin) and [Gustcloak Harrier](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Harrier). This allowed Dave to gain enough life with the [Wellwisher](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) to put himself back in relative safety—because very quickly the game shifted because of one card:
 

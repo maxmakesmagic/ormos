@@ -82,7 +82,9 @@ render_recovery:
   - Gempalm Polluter
   occurrences: 44
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a916.jpg)Earlier today, Randy Buehler noted that the new Standard appears more defined by the cards that are not included in Eighth rather than the cards that were added. Both of the French players sitting down for this feature match were stubbornly trying to replace missing cards from pre-Core Set standard. 
+![](http://www.wizards.com/sideboard/images/worlds03/a916.jpg)
+
+Earlier today, Randy Buehler noted that the new Standard appears more defined by the cards that are not included in Eighth rather than the cards that were added. Both of the French players sitting down for this feature match were stubbornly trying to replace missing cards from pre-Core Set standard. 
 
 Gabriel Nassif has had tow strong finishes this year. He made the Top 8 at PT Venice and finished second to Bob Maher, Jr. in the final installment of the Masters Series. He also finished highly at the European Championships with a black-white deck featuring Decrees of Justice and Pain. He was running Zombies today though and was attempting to replace the absent Duresses with Blackmail.
 
@@ -102,7 +104,9 @@ Gabriel had to think for a while on this turn. He could play a Braids but was co
 
 Gabriel kept attacking and then sac'd his Withered Wretch to nab the Syncopate with a flashed back Therapy—he also saw Moment's Peace and Renewed Faith as well as a wealth of lands. With Olivier's deck requiring copious amounts of mana and three different colors of it, Gabriel wanted to keep his opponent in check and played the Braids. Graveborn Muse came down on Gabriel's next turn and his opponent dug for answers with Deep Analysis but had to tap out to do it.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a915.jpg)Gabriel was curious if he had found any and looked at his hand with Cabal Therapy naming Wrath. He found a pair of white Decrees flashed it back to leave him with nothing but lands. Olivier windmilled his top card onto the table hoping to find Wrath but it was Renewed Faith. He bought a couple of extras turns but eventually fell with no Wrath near the top.
+![](http://www.wizards.com/sideboard/images/worlds03/a915.jpg)
+
+Gabriel was curious if he had found any and looked at his hand with Cabal Therapy naming Wrath. He found a pair of white Decrees flashed it back to leave him with nothing but lands. Olivier windmilled his top card onto the table hoping to find Wrath but it was Renewed Faith. He bought a couple of extras turns but eventually fell with no Wrath near the top.
 
 Olivier - 1 Gabriel – 1
 

@@ -197,7 +197,9 @@ render_recovery:
   - Tolarian Academy
   occurrences: 308
 ---
-![](https://i.ormos.uk/43/d2/43d23360b7deb725212090468b5f7ad93706d0b6ccb26dde45310a1f28a2e0e1.jpg)Behind a few beefy attackers in Winston Draft and the power of Hulk Flash in Vintage, Portugal's Tiago Chan defeated Canada's Rich Hoaen 2-1 to win the 2007 **Magic** Invitational at Spiel Essen in Germany.
+![](https://i.ormos.uk/43/d2/43d23360b7deb725212090468b5f7ad93706d0b6ccb26dde45310a1f28a2e0e1.jpg)
+
+Behind a few beefy attackers in Winston Draft and the power of Hulk Flash in Vintage, Portugal's Tiago Chan defeated Canada's Rich Hoaen 2-1 to win the 2007 **Magic** Invitational at Spiel Essen in Germany.
 
 Elected to attend as Europe's representative, Chan powered through 15 round-robin matches to make the finals, acing both the Auction of the People and Winston Draft formats. Hoaen, who got the North America slot when Mark Herberholz was unable to attend, matched Chan's record in the Auction and 3-0'd Choose Your Own Standard to make the finals.
 

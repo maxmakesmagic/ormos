@@ -129,7 +129,9 @@ render_recovery:
   - Volley of Boulders
   occurrences: 150
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a865.jpg)Two of Europe's finest Magic players squared off in the final round of day one. The winner would draft on Saturday, and the loser would go sightseeing. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a865.jpg)
+
+Two of Europe's finest Magic players squared off in the final round of day one. The winner would draft on Saturday, and the loser would go sightseeing. 
 
 Well, not Ruel since he lives in this country, but you get the point.
 
@@ -143,7 +145,9 @@ The board continued to be locked up, as Ruel brought out a Patchwork Gnomes, and
 
 Nitter sent a huge Mind Sludge at Ruel, drawing out the Circular Logic. Ruel used his own Kirtar's Desire on Nitter's Zealot, which cleared the way for his own. With the assistance of his Decoy tapping down healers, Ruel seemed to be finally breaking the stalemate. However, Nitter had a Shelter, and targeted his Zealot to take away the Desire. The board was now back to square one. Ruel summoned Aven Flock to build up the air a bit more. 
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a866.jpg)Nitten drew, and said "Oh my God!" a few times with a stunned look on his face, as Ruel clutched his Pooh bear and cowered in fear. Crippling Fatigue targeted the Aven Flock with Ruel tapped out, and Gloomdrifter hit play to annihilate the board. The end result was Soul Scourge, Gloomdrifter, Rotting Giant and Mystic Zealot on Nitter's side, and only a Zealot and Teroh's Faithful on Ruel's. Still, Ruel bounced back, summoning Auramancer to bring back Kirtar's Desire, which was played on Nitter's Zealot. A second Desire was played on the Gloomdrifter, and Ruel attacked with his whole team. Soul Scourge blocked the Zealot, and Rotting Giant blocked the Patrol Hound to kill it. This brought Nitter to one life point. Ruel continued on the offensive on the following turn by playing Strength of Isolation on his Auramancer. With Nitter at one, the last point of damage was squeezed out to give Ruel the first game.
+![](http://www.wizards.com/sideboard/images/ptnice02/a866.jpg)
+
+Nitten drew, and said "Oh my God!" a few times with a stunned look on his face, as Ruel clutched his Pooh bear and cowered in fear. Crippling Fatigue targeted the Aven Flock with Ruel tapped out, and Gloomdrifter hit play to annihilate the board. The end result was Soul Scourge, Gloomdrifter, Rotting Giant and Mystic Zealot on Nitter's side, and only a Zealot and Teroh's Faithful on Ruel's. Still, Ruel bounced back, summoning Auramancer to bring back Kirtar's Desire, which was played on Nitter's Zealot. A second Desire was played on the Gloomdrifter, and Ruel attacked with his whole team. Soul Scourge blocked the Zealot, and Rotting Giant blocked the Patrol Hound to kill it. This brought Nitter to one life point. Ruel continued on the offensive on the following turn by playing Strength of Isolation on his Auramancer. With Nitter at one, the last point of damage was squeezed out to give Ruel the first game.
 
 Nitter- 0 Ruel- 1
 
@@ -157,7 +161,9 @@ Nitter- 1 Ruel- 1
 
 While laying out his seven card hand, Nitter accidentally flipped over an Aven Cloudchaser, which is a big deal in a matchup involving so many Kirtar's Desires. I can't do Ruel's reaction justice. Nitter simply banged his head against the table.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a867.jpg)Mirror Patrol Hounds started the game off, and Ruel sent his in for two points. The second time, Nitter had mana available so he blocked. Ruel gave his Hound first strike, discarding Strength of Isolation, which he played on the dog. Nitter used Shelter to save his Hound, and brought out Aven Cloudchaser to kill off the enchantment. Ruel cast Kirtar's Desire to stop Nitter's Patrol Hound, and a Soul Scourge was countered by Ruel thanks to Patrol Hound madness casting of Circular Logic. Both Patrol Hounds traded to clear up the board a bit, and it was now simply Nitter's Cloudchaser against Ruel's Patchwork Gnomes. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a867.jpg)
+
+Mirror Patrol Hounds started the game off, and Ruel sent his in for two points. The second time, Nitter had mana available so he blocked. Ruel gave his Hound first strike, discarding Strength of Isolation, which he played on the dog. Nitter used Shelter to save his Hound, and brought out Aven Cloudchaser to kill off the enchantment. Ruel cast Kirtar's Desire to stop Nitter's Patrol Hound, and a Soul Scourge was countered by Ruel thanks to Patrol Hound madness casting of Circular Logic. Both Patrol Hounds traded to clear up the board a bit, and it was now simply Nitter's Cloudchaser against Ruel's Patchwork Gnomes. 
 
 Nitter then played Caustic Tar to break the stalemate right in half. Morgue Theft brought back the Soul Scourge, but Ruel had yet another Circular Logic. Ruel delayed the inevitable with Teroh's Faithful, but the end was inevitable, as Nitter flashed back Morgue Theft to get back Soul Scourge. That was enough to advance Nitter to day two.
 

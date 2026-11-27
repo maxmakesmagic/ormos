@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a966.jpg)I saw these two playing in the finals of a practice draft last night, and Zadjner's U/G/r deck beat Cunningham's R/G in three. Would it be foreshadowing? Zadjner is playing blue and red again, with some wacky version of [Psychatog](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) featuring tons of burn, [Merfolk Looter](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter)s, Flametongues, and just enough black for [Recoil](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoil) and the 'Tog; Cunningham is with the R/G beats – his main deck is a card-for-card copy of the deck that won the JSS Championships in Orlando.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a966.jpg)
+
+I saw these two playing in the finals of a practice draft last night, and Zadjner's U/G/r deck beat Cunningham's R/G in three. Would it be foreshadowing? Zadjner is playing blue and red again, with some wacky version of [Psychatog](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) featuring tons of burn, [Merfolk Looter](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter)s, Flametongues, and just enough black for [Recoil](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoil) and the 'Tog; Cunningham is with the R/G beats – his main deck is a card-for-card copy of the deck that won the JSS Championships in Orlando.
 
 Cunningham is a known quantity these days – Top 8 in San Diego, finals at GP Tampa, but who is Mark Zadjner. He was described to me as "The Canadian PTR," meaning he's a walking spectacle – loud, grating, and overconfident. When asked of his Magic accomplishments, he said that he'd been to three Pro Tours, but "I'm no Jeff Cunningham."
 
@@ -59,7 +61,9 @@ Cunningham started with a [Grim Lavamancer](https://web.archive.org/web/20020614
 
 Cunningham 1 – Zadjner 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a965.jpg)Cunningham played no green lands and showed no green spells in Game 1, prompting Zadjner to say, "I thought you were playing red/green originally. This match-up is a little worse for me. Well, maybe you are red/green and I just didn't see it."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a965.jpg)
+
+Cunningham played no green lands and showed no green spells in Game 1, prompting Zadjner to say, "I thought you were playing red/green originally. This match-up is a little worse for me. Well, maybe you are red/green and I just didn't see it."
 
 Cunningham: "Have you played much red/green today?"  
  Zadjner: "Yeah, all day."  
@@ -78,7 +82,9 @@ Cunningham drew a [Reckless Charge](https://web.archive.org/web/20020614000000/h
 
 Zadjner: "I feel like I'm down card advantage, but I'm really ahead in some sick way."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a964.jpg)Cunningham tried a Violent Eruption to the face on his next turn, but Zadjner had [Divert](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divert) to send it back. On his next turn, Cunningham Firebolted Zadjner twice, taking him to 7. Zadjner then played a Pyschatog.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a964.jpg)
+
+Cunningham tried a Violent Eruption to the face on his next turn, but Zadjner had [Divert](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divert) to send it back. On his next turn, Cunningham Firebolted Zadjner twice, taking him to 7. Zadjner then played a Pyschatog.
 
 Cunningham had been holding a Flametongue for just such an occasion, but Zadjner had the little combo of 'Tog + Fiery Temper, killing the FTK and helping keep the Psychatog alive. Cunningham then put out a Mongrel and said go, holding a Violent Eruption.
 

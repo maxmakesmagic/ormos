@@ -75,12 +75,18 @@ With Pro Tour-Los Angeles barely in the rearview mirror and the Pro Tour Qualifi
 
 ### [Grand Prix-Melbourne](/en/articles/event-coverage/undated/dr-teeth-chomps-another-title-2)
 
-![](https://i.ormos.uk/e3/ff/e3ff45cbd21adda79bb4de908bc049ae83f9c3d1764f2f6e1e6815a39be51394.jpg)The ubiquitous Dr. Teeth chomped up the competition as James Zhang used a Psychatog deck -- which looked very familiar to what won Pro Tour-Los Angeles -- to defeat Paul Chalder and win Grand Prix-Melbourne. 
+![](https://i.ormos.uk/e3/ff/e3ff45cbd21adda79bb4de908bc049ae83f9c3d1764f2f6e1e6815a39be51394.jpg)
+
+The ubiquitous Dr. Teeth chomped up the competition as James Zhang used a Psychatog deck -- which looked very familiar to what won Pro Tour-Los Angeles -- to defeat Paul Chalder and win Grand Prix-Melbourne. 
 
 ### [Grand Prix-Kitakyuushuu](/en/articles/event-coverage/undated/best-top-8-ever-kitakyuushuu-on-display-2)
 
-![](https://i.ormos.uk/6e/0f/6e0f17d9153f5d86b6b635d56b3bdd804e3987d327c39157f6d138bfdab80b06.jpg)Once again, a Grand Prix in Japan ended up with one of the most powerful Top 8s in history. A total of 56 career GP Top 8s could be found battling out for supremacy, but in the end it was Tomohiro Kaji and his Scepter-Chant putting down Ryo Ogura's Tog for the Grand Prix-Kitakyuushuu trophy.
+![](https://i.ormos.uk/6e/0f/6e0f17d9153f5d86b6b635d56b3bdd804e3987d327c39157f6d138bfdab80b06.jpg)
+
+Once again, a Grand Prix in Japan ended up with one of the most powerful Top 8s in history. A total of 56 career GP Top 8s could be found battling out for supremacy, but in the end it was Tomohiro Kaji and his Scepter-Chant putting down Ryo Ogura's Tog for the Grand Prix-Kitakyuushuu trophy.
 
 ### [Grand Prix-Copenhagen](https://web.archive.org/web/20051105000000/https://magic.wizards.com/en/events/coverage/nuijten-claims-second-grand-prix-title)
 
-![](https://i.ormos.uk/0c/99/0c99a3085e72198e603b5f282821adef8523f8dc891db796c41cf38e6214fdbc.jpg)World Champion Julien Nuijten captured his second Grand Prix title in the last three months, thanks to the friendly Psychatog. Nuijten defeated amateur Kim Valori in the finals of Grand Prix-Copenhagen to provide the champ some real momentum heading toward the 2005 World Championships.
+![](https://i.ormos.uk/0c/99/0c99a3085e72198e603b5f282821adef8523f8dc891db796c41cf38e6214fdbc.jpg)
+
+World Champion Julien Nuijten captured his second Grand Prix title in the last three months, thanks to the friendly Psychatog. Nuijten defeated amateur Kim Valori in the finals of Grand Prix-Copenhagen to provide the champ some real momentum heading toward the 2005 World Championships.

@@ -174,7 +174,9 @@ Justin マリガンだが 6 枚のハンドはなかなか良くそこまでの�
 
 マリガンしたとは思えない回りをみせる Justin は《魔性の教示者/Diabolic Tutor》から《精神ヘドロ/Mind Sludge》を打ち Zvi の手札を空にさせ Zvi の手札 1 枚の所で再び《もぎとり》をキャスト。これで勝負有りかと思われたが Zvi はなんと《堂々巡り/Circular Logic》を引いていたためにカウンターされてしまい Justin 驚きの表情を浮かべる。
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a934.jpg)その後出した《忍び寄る吸血者/Stalking Bloodsucker》も Zvi トップデッキ《説得/Persuasion》により奪われて、勝負有り。
+![](http://www.wizards.com/sideboard/images/ptosa02/a934.jpg)
+
+その後出した《忍び寄る吸血者/Stalking Bloodsucker》も Zvi トップデッキ《説得/Persuasion》により奪われて、勝負有り。
 
 Justin 1 - 1 Zvi
 

@@ -82,7 +82,9 @@ render_recovery:
   - Mistform Dreamer
   occurrences: 45
 ---
-![](https://i.ormos.uk/80/95/8095c9288b27e5b43d3eda1266dde12e4df7ad881b316d9a9702b427d54fff22.jpg)It's been two years since a Japanese player was in the Top 8 of a Pro Tour. Tsuyoshi Fujita became the first player to do it, and fought his way to the finals with his fellow countrymen cheering him on, only to lose to Zvi Mowshowitz in the finals. At this point of Pro Tour Yokohama, the Japanese have a chance for redemption.
+![](https://i.ormos.uk/80/95/8095c9288b27e5b43d3eda1266dde12e4df7ad881b316d9a9702b427d54fff22.jpg)
+
+It's been two years since a Japanese player was in the Top 8 of a Pro Tour. Tsuyoshi Fujita became the first player to do it, and fought his way to the finals with his fellow countrymen cheering him on, only to lose to Zvi Mowshowitz in the finals. At this point of Pro Tour Yokohama, the Japanese have a chance for redemption.
 
 A Japanese player is guaranteed to play in the finals, and all that's left to be decided is whether it will be Masashi Ooiso, the current leader in the Rookie of the Year race, or Tsuyoshi Ikeda, an old school veteran. Spectators crowded around this match, waiting to see who would play for the opportunity to become the first Japanese player to win a Pro Tour.
 
@@ -92,7 +94,9 @@ Ooiso had a Goblin Sledder and no turn three play, while Ikeda played Gustcloak 
 
 At this point in the game, Ooiso had two Lavamancer's Skill in hand, but no Wizards to put them on. Ikeda continued to chip away with the Harrier, and used Aphetto Dredging to bring back just the Husk. Ooiso finally found the Wizard he was looking for in Master of the Veil, and played it face down. Akroma's Devoted helped Ikeda lock down the ground even more, and Lavamancer's Skill went on the face down Master. It flipped over, and shot the Harrier. Covert Operative gave Ooiso a good clock, and another Skill target if need be.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a694.jpg)Ikeda attacked with Akroma's Devoted, and Covert Operative along with Flamewave Invoker ganged up on the 2/4 Cleric. Damage went on the stack, and the Devoted straight up traded with the Invoker (Ooiso had six lands in play). Ooiso untapped, and attacked with his Operative, bringing Ikeda down to five and within lethal damage next turn thanks to Embermage Goblin pitching in two points of damage. Ikeda drew, and conceded.
+![](http://www.wizards.com/sideboard/images/ptyok03/a694.jpg)
+
+Ikeda attacked with Akroma's Devoted, and Covert Operative along with Flamewave Invoker ganged up on the 2/4 Cleric. Damage went on the stack, and the Devoted straight up traded with the Invoker (Ooiso had six lands in play). Ooiso untapped, and attacked with his Operative, bringing Ikeda down to five and within lethal damage next turn thanks to Embermage Goblin pitching in two points of damage. Ikeda drew, and conceded.
 
 Ooiso- 1 Ikeda- 0
 

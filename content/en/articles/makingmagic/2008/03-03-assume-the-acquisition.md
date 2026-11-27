@@ -121,7 +121,9 @@ The goal for each group is essentially the same: encourage them to play **Magic*
 > 
 > **Availability of the Product:** Assuming players are able to sample **Magic** and enjoy the experience, we still have to guide them to a place where they can purchase the game. I will point out that if a person has made it this far in the process, there is a higher chance than normal that the player will seek out the product. This is mostly due to the time investment in learning. If you are going to spend thirty-plus minutes learning and sampling, you already demonstrate some affinity for the product. Even with that caveat, there are numerous obstacles between a desire to buy and buying.
 
-[![Force_of_Will](https://i.ormos.uk/78/8d/788dbe520ad9423b982c59d489d94f98a02662357574bc9abb372b677ece9862.jpg)](https://web.archive.org/web/20080303000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Force%2Bof%2BWill)As you can see, acquisition for **Magic** is pretty daunting. We do have a few things on our side though:
+[![Force_of_Will](https://i.ormos.uk/78/8d/788dbe520ad9423b982c59d489d94f98a02662357574bc9abb372b677ece9862.jpg)](https://web.archive.org/web/20080303000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Force%2Bof%2BWill)
+
+As you can see, acquisition for **Magic** is pretty daunting. We do have a few things on our side though:
 
 > **#1 – Magic is a major force in the gaming world.** We are a big fish in our little pond. Game players have a better than average chance of being exposed to **Magic**, especially at game-related venues like game stores.
 > 
@@ -153,7 +155,9 @@ In short, time and inertia have made the game less accessible to new players tha
 
 ### What's Your Acquisition?
 
-[![Mystical_Teachings](https://i.ormos.uk/5f/14/5f143366aaeaf941606cf1ca508faaab4b4f7fc79cf625a723292b2a11f0821f.jpg)](https://web.archive.org/web/20080303000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mystical%2BTeachings)Which brings us to the following question: Why should you, the reader and current player, care about any of this? What does acquisition have to do with you? Everything—that is, if you're at all invested in the future of the game. Acquisition is the "new blood" that keeps the game refreshed. As I often say, R&D treats **Magic** as a classic game that's going to last a long, long time. To make sure that happens, we have to be ever vigilant about acquisition. Thus, our focus.
+[![Mystical_Teachings](https://i.ormos.uk/5f/14/5f143366aaeaf941606cf1ca508faaab4b4f7fc79cf625a723292b2a11f0821f.jpg)](https://web.archive.org/web/20080303000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mystical%2BTeachings)
+
+Which brings us to the following question: Why should you, the reader and current player, care about any of this? What does acquisition have to do with you? Everything—that is, if you're at all invested in the future of the game. Acquisition is the "new blood" that keeps the game refreshed. As I often say, R&D treats **Magic** as a classic game that's going to last a long, long time. To make sure that happens, we have to be ever vigilant about acquisition. Thus, our focus.
 
 Remember, the more people that play **Magic**, the healthier the game is. More players means more money for us to invest in growing the game and adding new features. It means more choices and more options. A healthy game is good for everyone who plays.
 
@@ -169,7 +173,9 @@ In fact, as long as I'm on this topic, let me share a few tips for those of you 
 > 
 > **#4 – Make Sure They're Having Fun.** The goal of the first game isn't to get them to understand everything, it's to get them to have fun. **Magic** is a game. Games are played primarily because they are entertaining. If the new player isn't entertained, your chance of getting them to play again is practically nil.
 > 
-> [![Epic_Proportions](https://i.ormos.uk/ce/c5/cec5109378afe3c6e82403f93e0f52a4417d2cd55c6b3ef9619efee97594429c.jpg)](https://web.archive.org/web/20080303000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Epic%2BProportions)**#5 – Expand Upon What They Like.** I have taught a lot of people how to play **Magic**. The number one skill I've learned is this: watch what aspects they are enjoying and then focus on those. If they are intrigued by the art, I let them look at lots of cards. If they are interested in the colors of **Magic**. I start explaining the color wheel. If they seem to enjoy attacking with creatures, I focus on that part of the game. The goal, once again, is to give them a positive experience with the game. Everything else will come if they choose to keep playing. And if they don't, it doesn't matter what they've learned.
+> [![Epic_Proportions](https://i.ormos.uk/ce/c5/cec5109378afe3c6e82403f93e0f52a4417d2cd55c6b3ef9619efee97594429c.jpg)](https://web.archive.org/web/20080303000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Epic%2BProportions)
+>
+> **#5 – Expand Upon What They Like.** I have taught a lot of people how to play **Magic**. The number one skill I've learned is this: watch what aspects they are enjoying and then focus on those. If they are intrigued by the art, I let them look at lots of cards. If they are interested in the colors of **Magic**. I start explaining the color wheel. If they seem to enjoy attacking with creatures, I focus on that part of the game. The goal, once again, is to give them a positive experience with the game. Everything else will come if they choose to keep playing. And if they don't, it doesn't matter what they've learned.
 > 
 > **#6 – Give Them Cards (Preferably a Deck).** In sales, I believe they call this a "walk away." The best way to keep someone invested is to make part of it theirs. Don't just show them the game. Give them the game. One of **Magic**'s strongest attributes is the "stickiness" of the cards. That is, they are fascinating to look at and touch. As a quick aside, one of the things I like to do when I start teaching is to first let them look at the cards, just give them some time to take them in. With only one or two exceptions in my fifteen years of teaching **Magic**, this has always led to the person being more interested in learning. Just make sure not to get bogged down explaining things that won't matter until later (see #1 above). My point is that teaching doesn't have to stop when the first game ends. By giving them cards, you are extending the experience beyond just the moment.
 

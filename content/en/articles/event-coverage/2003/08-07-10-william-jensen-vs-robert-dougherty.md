@@ -67,7 +67,9 @@ render_recovery: []
 
 **Game 2**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a791.jpg)　先手となったDougherty だが、3 ターン目に召還したのは、今引いたばかりの《岩石樹の発動者/[Stonewood Invoker](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker)》。取り替えさねばならない試合だが、展開がぴりっとしない。逆にドローも好調な Wiiliam は《虚ろの死霊/[Hollow Specter](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hollow+Specter)》を召還する。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a791.jpg)
+
+　先手となったDougherty だが、3 ターン目に召還したのは、今引いたばかりの《岩石樹の発動者/[Stonewood Invoker](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker)》。取り替えさねばならない試合だが、展開がぴりっとしない。逆にドローも好調な Wiiliam は《虚ろの死霊/[Hollow Specter](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hollow+Specter)》を召還する。
 
 　互いに 2 点のダメージを交換するが、何故か一枚減る Dougherty の手札。同じ 2 点でも痛みの質が違う。二人はここで互いに変異を追加。《煙吐く発動者/[Smokespew Invoker](https://web.archive.org/web/20030807000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smokespew+Invoker)》は William の変異と相打つ。
 

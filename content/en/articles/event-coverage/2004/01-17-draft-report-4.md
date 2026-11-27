@@ -44,7 +44,9 @@ archive_source:
   sha256: 556f07095f65b8843c47852f41dcab4834fd134ce50a84b28be5768bc0b84f7d
 render_recovery: []
 ---
-![](https://i.ormos.uk/f2/b4/f2b4431363bb16b5b5408a613ded617556776e845eca17432c5bc0e0c8337f35.jpg)Gabe Walls sighed deeply when he saw the sat down for his third draft of the weekend. His good friends Ben Stark and Richard Hoaen were also at the 5-1 table, which would normally be the makings of a very cooperative draft. Gabe was sighing because his friends all sat one player apart from each other-one Japanese player apart. "The Japanese sandwich!"
+![](https://i.ormos.uk/f2/b4/f2b4431363bb16b5b5408a613ded617556776e845eca17432c5bc0e0c8337f35.jpg)
+
+Gabe Walls sighed deeply when he saw the sat down for his third draft of the weekend. His good friends Ben Stark and Richard Hoaen were also at the 5-1 table, which would normally be the makings of a very cooperative draft. Gabe was sighing because his friends all sat one player apart from each other-one Japanese player apart. "The Japanese sandwich!"
 
 That is not to say that the Japanese players were not good. It was simply that Japanese players subsribe to a different strategy than most Pros when it comes to Rochester. They tend to be more aggressive and far less cooperative than players from any other countries. 
 

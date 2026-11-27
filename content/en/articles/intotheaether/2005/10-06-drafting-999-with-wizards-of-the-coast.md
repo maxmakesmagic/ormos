@@ -688,7 +688,9 @@ Tribal Wars 4x PE Saturday, Oct 1
 
 ### Deck of the Week - Vanguard
 
-![](https://i.ormos.uk/d1/9c/d19c4e9f5c2aac15f585a2f38fce16ccfb87a821c8c526e1aee94f1b8101dab5.jpg)Taking a break from the constant testing and tweaking of my Bringer deck for the Natural Selection campaign, I decided to have fun with my Sakashima Vanguard deck again and in the process ran across a cool Beacon Blaster deck that used the Fallen Angel avatar's Vanguard ability to bring some serious pain out of nowhere. I asked Lord fAtbOy to share the deck with us because it struck me as being relatively easy to put together as compared to some of the other high-dollar Vanguard decks running around.
+![](https://i.ormos.uk/d1/9c/d19c4e9f5c2aac15f585a2f38fce16ccfb87a821c8c526e1aee94f1b8101dab5.jpg)
+
+Taking a break from the constant testing and tweaking of my Bringer deck for the Natural Selection campaign, I decided to have fun with my Sakashima Vanguard deck again and in the process ran across a cool Beacon Blaster deck that used the Fallen Angel avatar's Vanguard ability to bring some serious pain out of nowhere. I asked Lord fAtbOy to share the deck with us because it struck me as being relatively easy to put together as compared to some of the other high-dollar Vanguard decks running around.
 
 **MTGO handle?** Lord fAtbOy  
 **Real name?** Oliver Neil Organo  

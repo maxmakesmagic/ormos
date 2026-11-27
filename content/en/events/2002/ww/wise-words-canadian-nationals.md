@@ -86,7 +86,9 @@ render_recovery:
 ---
 I’ve never felt quite this helpless heading into a tournament. It’s Tuesday afternoon, Pistol Pete Radonjic and The Wolf (as Steve Wolfman shall be referred to in these pages here to for) are busy testing their butts off behind me as well they should, as we’ll all be on our way to Canadian Championships in less than 24 hours. I have no deck, I have no cards, and I have no chance. Well, maybe that last part isn’t entirely true.
 
-![](https://i.ormos.uk/0d/5e/0d5e392537c216511eff6fe51c431ed8645f7f4235863c5aa04913fcbf8cc8f1.jpg)I’ve been playing Standard 8-mans on ***Magic** Online* the last few weeks, and yesterday I did my first Scourge drafting since the quarantine, going 5-0 over the two, so maybe I’m not as lacking in preparation as feared, but I’m still reading *Scourge* uncommons and rares, and a decklist for the other half of the tournament would be nice, but instead of working on such trivialities, I’m writing Wise Words while they game. Why? Because I love you, gentle literate, that’s why! Oh yeah, and because starting to test now would be a lot like starting my studying the morning of an exam: If I don’t know my (expletive deleted) by now, I’m not going to. I haven’t given up, I know I can use superior tournament experience to my advantage and despite ***Magic** Online*, I’m sure I’ll still get a couple of “byes” in the Limited portion of the tournament, but I may not be the right choice if there’s a Fantasy tournament this time around. At least not at that cost.
+![](https://i.ormos.uk/0d/5e/0d5e392537c216511eff6fe51c431ed8645f7f4235863c5aa04913fcbf8cc8f1.jpg)
+
+I’ve been playing Standard 8-mans on ***Magic** Online* the last few weeks, and yesterday I did my first Scourge drafting since the quarantine, going 5-0 over the two, so maybe I’m not as lacking in preparation as feared, but I’m still reading *Scourge* uncommons and rares, and a decklist for the other half of the tournament would be nice, but instead of working on such trivialities, I’m writing Wise Words while they game. Why? Because I love you, gentle literate, that’s why! Oh yeah, and because starting to test now would be a lot like starting my studying the morning of an exam: If I don’t know my (expletive deleted) by now, I’m not going to. I haven’t given up, I know I can use superior tournament experience to my advantage and despite ***Magic** Online*, I’m sure I’ll still get a couple of “byes” in the Limited portion of the tournament, but I may not be the right choice if there’s a Fantasy tournament this time around. At least not at that cost.
 
 Wake, red-green, ‘Tog, Reanimator, blue-green, monoblack control, Slide, elves, goblins, zombies, hippos, and she told two friends, and they told two friends, and so on, and so on. There are a lot of options in Standard. My bet is that the players who succeed will be the ones who know their decks best, as everything seems to be more or less equal and match up knowledge should be huge. I’ve always felt that the first rule of choosing a deck was to try and be the best player in any given tournament at playing that particular deck, and that philosophy should hold truer now than ever before. In Limited, blue-white and red-black are both feeling really strong to me, the former because of the synergy *Scourge* provides and the reduction of Sparksmith quantities to one pack’s worth, the latter because the lack of ‘Smiths means people are drafting decks in the blue-white-green realms for the first time in eight months, but really, with Nationals using Rochester draft, I’ll likely just draft what everyone else doesn’t. Some rules never change.
 
@@ -102,7 +104,9 @@ Held in the country’s center in Winnipeg, the 1996 Nationals produced Canada�
 
 ### 1997
 
-![](https://i.ormos.uk/e1/83/e183e8a7273bbf398ce5f7690fa4bd878c402278dc5cf7ab725e5f5cdb3d37e6.jpg)Back in Toronto, the ’97 Championships produced the eventual World Champions. Krakower repeated as National Champion, defeating Wolfman in the Quarterfinals en route to the Finals, where he defeated the then-eligible Mike Donais. Joining them were Gab Tsang and Ed Ito, and the foursome, who Radonjic still refers to as Team Toronto went to Worlds where Tsang led them to Canada’s lone World Championship on the strength of his first-place finish in the Swiss by an astounding five points.
+![](https://i.ormos.uk/e1/83/e183e8a7273bbf398ce5f7690fa4bd878c402278dc5cf7ab725e5f5cdb3d37e6.jpg)
+
+Back in Toronto, the ’97 Championships produced the eventual World Champions. Krakower repeated as National Champion, defeating Wolfman in the Quarterfinals en route to the Finals, where he defeated the then-eligible Mike Donais. Joining them were Gab Tsang and Ed Ito, and the foursome, who Radonjic still refers to as Team Toronto went to Worlds where Tsang led them to Canada’s lone World Championship on the strength of his first-place finish in the Swiss by an astounding five points.
 
 ### 1998
 
@@ -134,12 +138,16 @@ Oops.
 
 Okay, that prognostication may not end up entirely accurate, but you never know. The following are the guys who are the most likely to make news at this year’s Championships, along with expert commentary from Pete and Steve!
 
-![](http://www.wizards.com/sideboard/images/gpphi02/845.jpg)**Jeff Cunningham** –It’s possible that “ffeJ”, who recently took over Alex Shvartsman’s post over at Week in Review, is presently Canada’s best player, though the competition between 1-11 is ridiculously close. Jeff’s been hinting at a strong Nationals showing for a few years now. This may be his time.
+![](http://www.wizards.com/sideboard/images/gpphi02/845.jpg)
+
+**Jeff Cunningham** –It’s possible that “ffeJ”, who recently took over Alex Shvartsman’s post over at Week in Review, is presently Canada’s best player, though the competition between 1-11 is ridiculously close. Jeff’s been hinting at a strong Nationals showing for a few years now. This may be his time.
 
 Pete: I think he’s running Trickery Charm in Standard  
  Steve: He’s a lot better than he was when he was 12.
 
-![](http://www.wizards.com/sideboard/images/gppra01/865.jpg)**Ryan Fuller** – The Masters’ master, despite his disqualification in Venice and no show for Yokohama, is apparently making the trip to Montreal, and obviously has to be considered a favorite. Rust may be a factor.
+![](http://www.wizards.com/sideboard/images/gppra01/865.jpg)
+
+**Ryan Fuller** – The Masters’ master, despite his disqualification in Venice and no show for Yokohama, is apparently making the trip to Montreal, and obviously has to be considered a favorite. Rust may be a factor.
 
 Pete: If he makes it through the first deck check, he could be dangerous  
  Steve: I don’t want him to beat me up, so I’ll pass.
@@ -149,7 +157,9 @@ Pete: If he makes it through the first deck check, he could be dangerous
 Pete: He won last year, right?  
  Steve: Yeah Pete, he won a decade after you did.
 
-![](http://www.wizards.com/sideboard/images/natcan03/999.jpg)**Rich Hoaen** – Canada’s newest member of the Top 8 club, Hoaen lost in the Quarters a year ago and is playing the best **Magic** of his life. He still has some work to do on his mental game, but his play has been very strong of late, thanks in large part to ***Magic** Online*.
+![](http://www.wizards.com/sideboard/images/natcan03/999.jpg)
+
+**Rich Hoaen** – Canada’s newest member of the Top 8 club, Hoaen lost in the Quarters a year ago and is playing the best **Magic** of his life. He still has some work to do on his mental game, but his play has been very strong of late, thanks in large part to ***Magic** Online*.
 
 Pete: He was a wee babe when I was considered good.  
  Steve: I wouldn’t be shocked if he took Battlefield Medic over Rorix.
@@ -159,7 +169,9 @@ Pete: He was a wee babe when I was considered good.
 Pete: Watch for the Ace up his sleeve.  
  Steve: Has very strong PT teammates.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/732.jpg)**Dave Rood** – French Canada’s strongest player, Rood has been putting up results all year. Armed with a fierce sense of justice, look for fireworks if he and Fuller get paired up in the Feature Match area.
+![](http://www.wizards.com/sideboard/images/ptbos02/732.jpg)
+
+**Dave Rood** – French Canada’s strongest player, Rood has been putting up results all year. Armed with a fierce sense of justice, look for fireworks if he and Fuller get paired up in the Feature Match area.
 
 Pete: Hopefully, Quebec will separate soon so he can play in his own Nationals.  
  Steve: If only he drafted as well for himself as he does for me.
@@ -169,7 +181,9 @@ Pete: Hopefully, Quebec will separate soon so he can play in his own Nationals.
 Pete: I love his radio show  
  Steve: Go away. 
 
-![](http://www.wizards.com/sideboard/WORLDS2000/images/126.jpg)**Gab Tsang** - Is Tsang the best player in Canadian history? He’s not at his peak any more, but he’s been so good for so long that it’s definitely debatable. Gab’s game has been put on the backburner for the last couple of months, and by his own admission, he’s not ready by his standards, but he’s made this team enough times that he can’t be dismissed.
+![](http://www.wizards.com/sideboard/WORLDS2000/images/126.jpg)
+
+**Gab Tsang** - Is Tsang the best player in Canadian history? He’s not at his peak any more, but he’s been so good for so long that it’s definitely debatable. Gab’s game has been put on the backburner for the last couple of months, and by his own admission, he’s not ready by his standards, but he’s made this team enough times that he can’t be dismissed.
 
 Pete: He’ll do pretty well if he can avoid the game loss.  
  Steve: You’re the writer.

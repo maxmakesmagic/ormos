@@ -375,7 +375,9 @@ render_recovery:
 ---
 ### Round 10: Gabriel Nassif vs. Antoine Ruel
 
-![](http://www.wizards.com/sideboard/images/frnat04/fm10_1.jpg)Coming into this round at 7-2, it was likely that the loser would be virtually eliminated from top eight contention. Gabriel is playing a mono-red land destruction deck, which should find a very favorable matchup against Antoine's Tooth and Nail deck. (And by favourable, read, he'd have to try very very hard to ever lose).
+![](http://www.wizards.com/sideboard/images/frnat04/fm10_1.jpg)
+
+Coming into this round at 7-2, it was likely that the loser would be virtually eliminated from top eight contention. Gabriel is playing a mono-red land destruction deck, which should find a very favorable matchup against Antoine's Tooth and Nail deck. (And by favourable, read, he'd have to try very very hard to ever lose).
 
 ### Game 1
 

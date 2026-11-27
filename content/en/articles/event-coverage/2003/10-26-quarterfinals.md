@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### Game 1
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a826.jpg)Before the match started, Jelger paid respect to the deck Bruno is playing; he stated that it's the best deck in the top-8. Bruno won the toss and decided to play.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a826.jpg)
+
+Before the match started, Jelger paid respect to the deck Bruno is playing; he stated that it's the best deck in the top-8. Bruno won the toss and decided to play.
 
 Jelger started with a [Silver Myr](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silver+Myr). Bruno reacted with a [Lumengrid Sentinel](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lumengrid+Sentinel). The Sentinel tapped the Myr, but Jelger played a [Needlebug](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Needlebug) as an instant. Both the mentioned creatures attacked and score was 19 Jelger, 18 Bruno.
 
@@ -94,7 +96,9 @@ Bruno could only make [Raise the Alarm](https://web.archive.org/web/200310260000
 
 Bruno decided to play first and Jelger's "Have fun !" is met by Bruno's "You too...".
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a828.jpg)[Bonesplitter](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter) was Jelger's first play and was backed up by Talisman and a Longbow. Bruno cast a [Slith Ascendant](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slith+Ascendant) and Jelger played [Thoughtcast](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtcast) and [Wizard Replica](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wizard+Replica), only to have the Replica bounced by a played and activated [Crystal Shard](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Shard). So the Slith got a +1/+1 bonus while attacking and was followed by an [Icy Manipulator](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Icy+Manipulator).
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/a828.jpg)
+
+[Bonesplitter](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter) was Jelger's first play and was backed up by Talisman and a Longbow. Bruno cast a [Slith Ascendant](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slith+Ascendant) and Jelger played [Thoughtcast](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtcast) and [Wizard Replica](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wizard+Replica), only to have the Replica bounced by a played and activated [Crystal Shard](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Shard). So the Slith got a +1/+1 bonus while attacking and was followed by an [Icy Manipulator](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Icy+Manipulator).
 
 Jelger thought hard and let the Wizard attack with some help of the [Bonesplitter](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter). Exile was played on Jelger's side, while Bruno got to attack with Ascendant again and played a [Lumengrid Sentinel](https://web.archive.org/web/20031026000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lumengrid+Sentinel). Icy tapped the Wizard, but the Exile took over and brought Bruno to 15.
 

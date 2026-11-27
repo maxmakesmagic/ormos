@@ -89,7 +89,9 @@ render_recovery:
 
 *Scott Johns, **magicthegathering.com** Content Manager*
 
-![](https://i.ormos.uk/e0/9e/e09eddfcbb7e8eaec6f3e78e01d4f9443acf4e8264fe627b40334e9d00d5cc80.jpg)Greetings and salutations! It's nice of you to hang with me through the excitement of *Saviors of Kamigawa*. I hope you had fun at the pre-release this past weekend, and I hope you're ready for some death-defying Rats today.
+![](https://i.ormos.uk/e0/9e/e09eddfcbb7e8eaec6f3e78e01d4f9443acf4e8264fe627b40334e9d00d5cc80.jpg)
+
+Greetings and salutations! It's nice of you to hang with me through the excitement of *Saviors of Kamigawa*. I hope you had fun at the pre-release this past weekend, and I hope you're ready for some death-defying Rats today.
 
 For those of you just hopping on board the BoaB train, check out [last week](/en/articles/buildingonabudget/2005/05-16-rats-nest-ratimation) to know why the heck I'm talking about [Umezawa's Jitte](https://web.archive.org/web/20050530000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Umezawa%27s+Jitte) and a big pile of Rats in a budget column. For those of you familiar with the drill, a few notes from last week:
 

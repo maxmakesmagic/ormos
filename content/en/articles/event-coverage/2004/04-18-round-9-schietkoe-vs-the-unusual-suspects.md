@@ -44,7 +44,9 @@ archive_source:
   sha256: d848f079bee9fab3df6c9f890a1676eda9d1932e5de394b882da538c0d0854b0
 render_recovery: []
 ---
-![](https://i.ormos.uk/39/48/394849306c72e4c4f10d7db02faf61871232bda5151e1dc678510ee262bc50d7.jpg)Team Schietkoe were the only team with a perfect record yesterday and currently top the rankings on 8-0. After the hiccup of a draw in round 3 German team The Unusual Suspects also ended the day unbeaten and now they slug it out to see who takes the lead.
+![](https://i.ormos.uk/39/48/394849306c72e4c4f10d7db02faf61871232bda5151e1dc678510ee262bc50d7.jpg)
+
+Team Schietkoe were the only team with a perfect record yesterday and currently top the rankings on 8-0. After the hiccup of a draw in round 3 German team The Unusual Suspects also ended the day unbeaten and now they slug it out to see who takes the lead.
 
 In the draft The Unusual Suspects seemed to have a more focused plan and looked to gain a slight advantage in the draft over their Dutch counterparts. I picked perhaps the closest of the games in the seat A matchup between Stijn Cornelissen and the European champion from 2002 David Brucker. Cornelissen drafted a green-black deck while Brucker has a solid red-blue deck. 
 

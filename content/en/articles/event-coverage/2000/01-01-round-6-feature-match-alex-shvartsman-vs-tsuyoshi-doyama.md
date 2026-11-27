@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by James White* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270111.jpg)This round featured top pro Alex Shvartsman against current Japanese National Champion Tsuyoshi Doyama. Alex is playing black/blue/white and is quoted as saying 'I actually have to think today, I'm playing Plains'. Tsuyoshi is playing white/blue/black/green with some very powerful rares, including Dromar and Tsabo's Assassin. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270111.jpg)
+
+This round featured top pro Alex Shvartsman against current Japanese National Champion Tsuyoshi Doyama. Alex is playing black/blue/white and is quoted as saying 'I actually have to think today, I'm playing Plains'. Tsuyoshi is playing white/blue/black/green with some very powerful rares, including Dromar and Tsabo's Assassin. 
 
 Game one started out with Alex winning the die roll and playing. His opening hand was Salt Marsh, Plains, Swamp, Agonizing Demise, Faerie Squadron, Shoreline Raider and Tidal Visionary. Alex started off with a 2nd Tidal Visionary, 3rd turn Shoreline Raider and 4th turn Agonizing Demise for Doyama's Pincer Spider. Alex was applying the early pressure until things were slowed down by a Repulse on the Shoreline Raider. Doyama played a 2nd Pincer Spider and Alex played 5th turn Faerie Squadron with kicker and next turn Probe with kicker, discarding Swamp and Plains, Doyama throwing Vodalian Serpent and Kavu Climber. Doyama's 6th turn saw Glimmering Angel played which was Armadillo Cloaked the following turn. This is where the game was looking good for Doyama especially when Alex's next four turns were Dream Thrush/Shoreline Raider, Dream Thrush, nothing and Plains. 
 
@@ -64,7 +66,9 @@ The heralds are gaining Doyama crazy card advantage and he plays a Pincer Spider
 
 Doyama decides it is time to lay the smack down so brings it with everything. At this point things get interesting. We have Dromar, Benalish Heralds with an Armadillo Cloak on them and kicked Pincer Spider coming over. Dromar gets tapped by Stormscape Apprentice, Faerie Squadron Blocks the cloaked Heralds and Armored Guardian Blocks the spider. Alex then gives the heralds protection from green making the Armadillo Cloak fall off, or so you would think, but Armored Guardian can only give your creatures protection from a color. This was not pointed out until after the game had finished so it could not be taken back and corrected. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270110.jpg)Doyama had been going crazy with the heralds and only had 6 cards left in his deck so he was on a seven turn clock despite having board advantage. This was only this 16th turn and during the end step of Alex's turn Doyama cast Repulse on his Stormscape Apprentice, going to five cards in his library. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270110.jpg)
+
+Doyama had been going crazy with the heralds and only had 6 cards left in his deck so he was on a seven turn clock despite having board advantage. This was only this 16th turn and during the end step of Alex's turn Doyama cast Repulse on his Stormscape Apprentice, going to five cards in his library. 
 
 On Doyama's next turn he cast Pincer Spider and Vodalian Serpent with kicker and says turn. Alex casts the apprentice again and Doyama uses the heralds to draw another card, leaving him with three cards in his deck. Alex is sitting on six life, Doyama at five, so Alex can not afford to let either the serpent or Dromar through. During Doyama's turn he attacks once again his big creatures, Dromar being chumped by a Razorfoot Griffin, Vodalian Serpent meeting with a protection from blue apprentice (Armored Guardian) and Pincer Spider getting squished by a pro-green Faerie Squadron and Armored Guardian. 
 

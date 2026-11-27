@@ -44,7 +44,9 @@ archive_source:
   sha256: 9b9ada1577e423b52af4a75de054bc77a62b7b5bc07081b87b197caf248135ae
 render_recovery: []
 ---
-![](https://i.ormos.uk/af/3e/af3e2c39da153a8c24b07cb2a7be5aa2b8566d473ead483d017dd44cb858ffc2.jpg)Two Frenchmen at the top of tables, nothing new when it comes to European Magic. We already had Nassif up here a few rounds ago. Labarre you might remember as the ultimate metagamer at Pro Tour Academy (well, you could call it Pro Tour Rome) in 1997 driving his Merfolk deck all the way to the finals before losing to Hovi, in a true sea of Academy decks.
+![](https://i.ormos.uk/af/3e/af3e2c39da153a8c24b07cb2a7be5aa2b8566d473ead483d017dd44cb858ffc2.jpg)
+
+Two Frenchmen at the top of tables, nothing new when it comes to European Magic. We already had Nassif up here a few rounds ago. Labarre you might remember as the ultimate metagamer at Pro Tour Academy (well, you could call it Pro Tour Rome) in 1997 driving his Merfolk deck all the way to the finals before losing to Hovi, in a true sea of Academy decks.
 
 More recently you might want to credit him with stopping Kai Budde. When Kai went on his Pro Tour winning rampage, Labarre was the player that eventually stopped him with an epic finals at Grand Prix Biarritz.
 
@@ -79,7 +81,9 @@ Nicolas: "Let's get to work."
 
 His work certainly didn't start well: he had to mulligan. He still came out faster with turn three morph. They messed around with morphs for a while, trading blows until Nassif played [Dragonspeaker Shaman](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonspeaker+Shaman) to power out turn five [Imperial Hellkite](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imperial+Hellkite). Nicolas started whistling.
 
-![](https://i.ormos.uk/a1/54/a154488f10b97bf003a2be87973957a529398d137a12a91fdae2f511d892a100.jpg)He delayed the problem with [Temporal Fissure](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporal+Fissure) and sent his crew in. Afraid of falling to seven life Nassif blocked a morph with his Shaman. On the following turn he used [Frozen Solid](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frozen+Solid) on [Warped Researcher](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Warped+Researcher) and used [Skirk Commando](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando) to kill the remaining morph.
+![](https://i.ormos.uk/a1/54/a154488f10b97bf003a2be87973957a529398d137a12a91fdae2f511d892a100.jpg)
+
+He delayed the problem with [Temporal Fissure](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporal+Fissure) and sent his crew in. Afraid of falling to seven life Nassif blocked a morph with his Shaman. On the following turn he used [Frozen Solid](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frozen+Solid) on [Warped Researcher](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Warped+Researcher) and used [Skirk Commando](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando) to kill the remaining morph.
 
 Now Labarre was in real trouble Not only was the Hellkite one land away from returning but he had no army on the table. Unable to find his seventh land, Gabriel Nassif simply played [Flamestick Courier](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamestick+Courier) and [Goblin Clearcutter](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Clearcutter)..
 

@@ -115,7 +115,9 @@ Having a creature type stretch across an enemy color pair like red-white is alwa
 
 ### The Mechanics of Territoriality
 
-[![Ancient_Amphitheater](https://i.ormos.uk/eb/0a/eb0a8caa7c50c539a107f9711e0fa01f6238c03e9aae1e7bee0ca91c667da7e7.jpg)](https://web.archive.org/web/20080312000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ancient%2BAmphitheater)Giants are really big. (I like to lead with the uncontroversial premises first.) This causes them, often, to be high mana cost creatures. This causes them, often, to be on the board in small numbers, even alone a lot of the time, as opposed to swarms of boggarts or armies of elves. When Lorwyn was first being designed, Giants had a theme of being powerful when they were in play by themselves, to turn this consequence of their bigness into a mechanical advantage. The creative team, in turn, built this "good by themselves" into the creative identity of giants, which led to their territoriality. 
+[![Ancient_Amphitheater](https://i.ormos.uk/eb/0a/eb0a8caa7c50c539a107f9711e0fa01f6238c03e9aae1e7bee0ca91c667da7e7.jpg)](https://web.archive.org/web/20080312000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ancient%2BAmphitheater)
+
+Giants are really big. (I like to lead with the uncontroversial premises first.) This causes them, often, to be high mana cost creatures. This causes them, often, to be on the board in small numbers, even alone a lot of the time, as opposed to swarms of boggarts or armies of elves. When Lorwyn was first being designed, Giants had a theme of being powerful when they were in play by themselves, to turn this consequence of their bigness into a mechanical advantage. The creative team, in turn, built this "good by themselves" into the creative identity of giants, which led to their territoriality. 
 
 Giants require huge amounts of resources to live—they need vast quantities of food, water, land, and personal space to feel comfortable. A giant seeing another giant would naturally see a competitor for those resources, and would either stay away from neighboring goliaths (by climbing high into remote mountain passes, for example) or would fight to claim the space as his own.
 
@@ -198,7 +200,9 @@ Giants can be long and lanky, which can be rough in an art box with 4:3 aspect r
 
 ### Letter of the Week
 
-[![Brushstroke_Paintermage](https://i.ormos.uk/02/80/0280c1d336a8b3eec1e2f1add3ea5ba3d4a6288a750c7ae47df81858b9fd018c.jpg)](https://web.archive.org/web/20080312000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Brushstroke%2BPaintermage)Today's letter comes from Igor K., an artist who would love to do work for Wizards. He already sent a sample of his portfolio to artdrop@wizards.com (which is the right first step), but he'd like to know what else he can do.
+[![Brushstroke_Paintermage](https://i.ormos.uk/02/80/0280c1d336a8b3eec1e2f1add3ea5ba3d4a6288a750c7ae47df81858b9fd018c.jpg)](https://web.archive.org/web/20080312000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Brushstroke%2BPaintermage)
+
+Today's letter comes from Igor K., an artist who would love to do work for Wizards. He already sent a sample of his portfolio to artdrop@wizards.com (which is the right first step), but he'd like to know what else he can do.
 
 > \[T\]his letter is not about my failed attempt at gathering attention to my art. It's about the yet unwritten article titled "How To Impress a Magic the Gathering Art Director in 34 Difficult Steps". You tend to drop hints here and there, taunting people with a mirage of a full article, but never give us anything substantial. I figured out that playing the game might help (addicted since Mirage), knowing how to hold a pen won't hurt (hi there, Mr. Obvious) and having some experience in deadline handling would be welcome (5 years of copying Dutch Old Masters counts?), but what more? As far as I'm concerned, it doesn't have to be a full article, maybe just a letter reply (picking my letter for the headline obviously). Anything coming for the source (or as close as you can get) would be an immense help. Not to mention it would cut a considerable amount of torture and uneasiness from the lives of wannabe Magic artists.
 > 

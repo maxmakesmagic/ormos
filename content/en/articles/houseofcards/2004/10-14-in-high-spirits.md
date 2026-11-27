@@ -588,7 +588,9 @@ Do you want to get in contact with the spirit world? I can help you contact your
 
 ### Clouding the Issue
 
-![](https://i.ormos.uk/74/20/7420cf714d74050927c69abe674e8bed613bd18915c6d820a0dd4253fe468d2c.jpg)And then there are the Spirits we actually care about. First up are a tight little clique of Spirits that have a quirky little history in **Magic**. Previously glimpsed on the *Tempest* Master Decoy and the *Fifth Edition* Flight, the Zebras… huh? Not Zebras? Zuberas? What the heck is a Zubera?
+![](https://i.ormos.uk/74/20/7420cf714d74050927c69abe674e8bed613bd18915c6d820a0dd4253fe468d2c.jpg)
+
+And then there are the Spirits we actually care about. First up are a tight little clique of Spirits that have a quirky little history in **Magic**. Previously glimpsed on the *Tempest* Master Decoy and the *Fifth Edition* Flight, the Zebras… huh? Not Zebras? Zuberas? What the heck is a Zubera?
 
 Although I can't tell you what a Zubera is, my best (sarcastic) guess is that it's Japanese for “lemming.” When one of these jumps off a cliff, the rest of them want to follow. Mechanically tied to the Shrines, these little critters can dissuade attacking in the early game (does anyone really want to run headfirst into a discard effect?) and can stack up for huge swings late in the game. 
 

@@ -105,7 +105,9 @@ While both players brought their game face, neither brought a die. After a brief
 
 ### Game 1
 
-![](https://i.ormos.uk/e2/a3/e2a356a8a94202d800795617c3de850b4d57ab2c1abeedcb8ecc42184526e157.jpg)Both players counted out seven cards, but Jens left his sitting on the table while Jin decided whether or not to mulligan (he did not). Thoren then examined his own hand, and decided to cash in his seven for a hand of triple Swamp, Tainted Pact, Smother, and Skeletal Scrying. 
+![](https://i.ormos.uk/e2/a3/e2a356a8a94202d800795617c3de850b4d57ab2c1abeedcb8ecc42184526e157.jpg)
+
+Both players counted out seven cards, but Jens left his sitting on the table while Jin decided whether or not to mulligan (he did not). Thoren then examined his own hand, and decided to cash in his seven for a hand of triple Swamp, Tainted Pact, Smother, and Skeletal Scrying. 
 
 The game swimmingly well for Okamoto, who led with two straight sac lands (thinning his deck significantly), Raging Goblin, Goblin Taskmaster, and Firebolt all by the end of the second turn. Although Jens smothered a pump Rager on the third turn, he could draw nothing but land after land. Even his Tainted Pact betrayed him—it gave him Duress, which swung and whiffed into Jin's hand of double Barbarian Ring and Blistering Firecat.
 

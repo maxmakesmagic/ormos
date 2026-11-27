@@ -44,7 +44,9 @@ archive_source:
   sha256: f6861c3d166c2e4a4f4b6399361b7a69040fa4dd51a816833bb0105b4d1a077e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/3po1.jpg)Greg Romans and Chris Nadebaum are both regulars to the Nationals scene, as both have previous Top 8s finishes. Greg's was way back in 1997 while Chris recorded his in 2003, so it's literally the old man against the young man.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/aunat04/3po1.jpg)
+
+Greg Romans and Chris Nadebaum are both regulars to the Nationals scene, as both have previous Top 8s finishes. Greg's was way back in 1997 while Chris recorded his in 2003, so it's literally the old man against the young man.
 
 Greg had toyed with his pet Deathcloud deck for the last month after finishing one ranking position outside the invited players and was determined to grind in, but to no avail. In a last-ditch attempt to play at Nationals, he switched to a friend's Ravager deck for the final grinder and rode it all the way into the Top 8. 
 

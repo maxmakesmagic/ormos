@@ -73,7 +73,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/14/5d/145d425e59dc756495e869591e98dfe5fb6589003fb359673bee789ab8cd2e03.jpg)E' fondamentale fermarsi e gustarsi questi momenti. Ti mostreremo per la prima volta le immagini delle nuove buste dell'espansione di Ottobre 2006, *Spirale Temporale.* Annota la data. Segnati l'ora. Non farti cogliere impreparato.
+![](https://i.ormos.uk/14/5d/145d425e59dc756495e869591e98dfe5fb6589003fb359673bee789ab8cd2e03.jpg)
+
+E' fondamentale fermarsi e gustarsi questi momenti. Ti mostreremo per la prima volta le immagini delle nuove buste dell'espansione di Ottobre 2006, *Spirale Temporale.* Annota la data. Segnati l'ora. Non farti cogliere impreparato.
 
   
 

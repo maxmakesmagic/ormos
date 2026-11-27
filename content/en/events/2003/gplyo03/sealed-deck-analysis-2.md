@@ -647,7 +647,9 @@ render_recovery:
 ---
 ### Kai Budde
 
-![](http://www.wizards.com/sideboard/images/gplyo03/kai_budde_deckbuilding.jpg)The*Mirrodin* expansion, with its many artifacts, offers a challenge to players in that rather than struggle to scrape together 40 cards in the right colours they will most likely have too many playable cards and be forced to make cuts. In such an environment it is good to check in on the pros and examine the decisions they make in building a deck. I checked in on multiple Pro Tour winner Kai Budde to see how he approached the task of building for a new set.
+![](http://www.wizards.com/sideboard/images/gplyo03/kai_budde_deckbuilding.jpg)
+
+The*Mirrodin* expansion, with its many artifacts, offers a challenge to players in that rather than struggle to scrape together 40 cards in the right colours they will most likely have too many playable cards and be forced to make cuts. In such an environment it is good to check in on the pros and examine the decisions they make in building a deck. I checked in on multiple Pro Tour winner Kai Budde to see how he approached the task of building for a new set.
 
 With only thirty minutes to build a deck time is of the essence. Good technique can help make the choices easy.
 

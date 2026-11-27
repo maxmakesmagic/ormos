@@ -88,7 +88,9 @@ render_recovery:
   - Childhood Horror
   occurrences: 44
 ---
-![](http://www.wizards.com/sideboard/images/gpfuku02/885.jpg)Tradition is on amateur Jun Ishihara's side this round. Both of the last two Japanese Grand Prix have been won by amateurs, and Ishihara is gunning to make it three. He squares off against one of Japan's top limited players, Masahiko Morita. Morita is thirsty for a title after losing in the finals of Grand Prix - Shizuoka. 
+![](http://www.wizards.com/sideboard/images/gpfuku02/885.jpg)
+
+Tradition is on amateur Jun Ishihara's side this round. Both of the last two Japanese Grand Prix have been won by amateurs, and Ishihara is gunning to make it three. He squares off against one of Japan's top limited players, Masahiko Morita. Morita is thirsty for a title after losing in the finals of Grand Prix - Shizuoka. 
 
 Morita won the right to play first, and powered out Krosan Archer with Werebear. He was unwilling to block Ishihara's Mad Dog, fearing his plentiful removal. He Butchered away Ishihara's next play of Cabal Torturer before it could mess with his plans.
 

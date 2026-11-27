@@ -86,7 +86,9 @@ render_recovery:
   - Earthquake
   occurrences: 84
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/933.jpg)Chris Benafel is one of the top five moneywinners in the game of **Magic**. His past exploits as a key member of the former AlphaBetaUnlimited team are well known, but in recent months he's been lacking in high-profile finishes. With his legions of fans on #mtgwacky cheering him on, Michigan's Eric Taylor was undefeated in games on Day 1 up until the final round. The winner of this match would almost certainly make top 8.
+![](http://www.wizards.com/sideboard/images/gpmil02/933.jpg)
+
+Chris Benafel is one of the top five moneywinners in the game of **Magic**. His past exploits as a key member of the former AlphaBetaUnlimited team are well known, but in recent months he's been lacking in high-profile finishes. With his legions of fans on #mtgwacky cheering him on, Michigan's Eric Taylor was undefeated in games on Day 1 up until the final round. The winner of this match would almost certainly make top 8.
 
 Attrition would be the focus of the day, as both players were playing the red, white, and blue Goblin Trenches decks. The unexpected deck was tearing up the tables the previous day. Both players knew that this battle of control would not be an easy one.
 
@@ -94,7 +96,9 @@ Taylor won the roll and forced Benafel to play first. After countering a Fact or
 
 Conventional wisdom states that the player who drops the kill mechanism in a control vs. control matchup first will usually get the win. But in this case, the smart money was on Taylor. Over the next few turns he would Prophetic Bolt Benafel and play multiple Fact or Fictions, snagging enough land to keep ahead in the mana race while building up his counter base. If Benafel had committed all of his mana to build up a huge army, he might have swarmed Taylor for the kill before Taylor could produce a threat. But Benafel hedged his resources, fearing Wrath of God. With nine land to Benafel's seven, Taylor managed to dig a Goblin Trenches of his own, while sitting at 16 life.
 
-![](https://i.ormos.uk/72/7f/727f93986a6bed1955e87a854282957e7a07ad687f3218ccffd8d13beb6469c2.jpg)Taylor's earlier spree of card drawing slowly took Benafel down. Benafel couldn't draw enough land to keep up with Taylor, and when he sacrificed down to two land, Taylor used a Fire to clear away more of Benafel's men. Benafel conceded with 29 minutes on the clock.
+![](https://i.ormos.uk/72/7f/727f93986a6bed1955e87a854282957e7a07ad687f3218ccffd8d13beb6469c2.jpg)
+
+Taylor's earlier spree of card drawing slowly took Benafel down. Benafel couldn't draw enough land to keep up with Taylor, and when he sacrificed down to two land, Taylor used a Fire to clear away more of Benafel's men. Benafel conceded with 29 minutes on the clock.
 
 Taylor: "I have to give away the fact that I drew WAY more Fact or Fictions than Benafel."
 
@@ -112,7 +116,9 @@ But the Millstone kept grinding away at Taylor's library, and there was nothing 
 
 Eric Taylor - Chris Benafel 1-1
 
-![](http://www.wizards.com/sideboard/images/gpmil02/935.jpg)With seven minutes on the clock, both players shuffled fast in search of a match win. Taylor forced Benafel to play first. Both players played only lands until both players had eight in play. Taylor shot a Prophetic Bolt at Benafel, snagging a critical Lightning Angel. With a Goblin Trenches in his hand and only two minutes on the clock, Taylor had a shot at winning, and he ran with that chance as hard as he could.
+![](http://www.wizards.com/sideboard/images/gpmil02/935.jpg)
+
+With seven minutes on the clock, both players shuffled fast in search of a match win. Taylor forced Benafel to play first. Both players played only lands until both players had eight in play. Taylor shot a Prophetic Bolt at Benafel, snagging a critical Lightning Angel. With a Goblin Trenches in his hand and only two minutes on the clock, Taylor had a shot at winning, and he ran with that chance as hard as he could.
 
 A draw appeared inevitable as Taylor's Lightning Angel was subjected to not one, not two, but three counters and was forced to retire to the graveyard. But he did manage to drop the Goblin Trenches on the turn after time was called. Benafel held back and and disenchanted the Trenches after Taylor tapped out to produce six tokens. With his opponent at 11 life Taylor needed to topdeck another Trenches or Lightning Angel to get the win. He rapped the top of his deck, and hoped.
 

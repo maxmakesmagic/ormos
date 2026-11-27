@@ -55,7 +55,9 @@ render_recovery: []
 ---
 As we all know, Onslaught Block Constructed is a format where blue is dead and there are no counterspells. Right?
 
-![](https://www.wizards.com/sideboard/images/gplon03/a858.jpg)Maybe all of those blue mages who have been whining about the loss of Counterspell should take note of Mario Pascoli, who has taken his blue-white deck to the quarter-finals of this Grand Prix. There he will face experienced Dutchman Frank Karsten, who is playing red-white control. This matchup should favour Mario, whose deck is designed to be extremely effective against other control decks.
+![](https://www.wizards.com/sideboard/images/gplon03/a858.jpg)
+
+Maybe all of those blue mages who have been whining about the loss of Counterspell should take note of Mario Pascoli, who has taken his blue-white deck to the quarter-finals of this Grand Prix. There he will face experienced Dutchman Frank Karsten, who is playing red-white control. This matchup should favour Mario, whose deck is designed to be extremely effective against other control decks.
 
 Frank and Mario each played three lands and a morph to start the match. Frank, who went first, then played his fourth land and unmorphed his not very surprising Exalted Angel. Mario, however, could only muster a Temple of the False God as his fourth land, and so could not unmorph his Angel. Frank swung for four more and made a Lightning Rift. Mario responded with the devastatingly powerful cycling of Decree of Justice for 0 soldiers. When the card which he drew from the cycling and the one from his draw phase yielded no land, he was in serious trouble. Frank’s Angel attacked, and he cycled Akroma’s Vengence to kill Mario’s morph. Mario drew for his turn and, on six life facing an Angel and a Rift, conceded.
 

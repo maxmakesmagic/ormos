@@ -86,7 +86,9 @@ render_recovery:
 ---
 Tsuyoshi Fujita is doing his darndest to quash his reputation for being a one-hit wonder. After cutting a path through Pro Tour - Tokyo only to fall to Champion Zvi Mowshowitz in the finals, he has found himself without a major accomplishment. This weekend he's worked to turn things around, ending up at the top table for the first draft thanks to three byes and four match wins. On his left was Japanese Sideboard Reporter Masashiro Kuroda, and he was being fed by Yusuke Sasaki of Sendai.
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/921.jpg)Fujita wasted no time taking Concentrate out of his first pack, leaving nothing of interest in blue. He followed up with Wild Mongrel and then Krosan Archer, though a Hallowed Healer caught his eye. The problem was that his precious blue was being gobbled by Sasaki, who had take Aven Windreader, Looter and Pulsating Illusion. He let an Aven Fisher through, which was just enough to keep Fujita interested. He continued to show his disdain for white, passing up Shelter for Krosan Archer, and Embolden for Think Tank.
+![](http://www.wizards.com/sideboard/images/gpfuku02/921.jpg)
+
+Fujita wasted no time taking Concentrate out of his first pack, leaving nothing of interest in blue. He followed up with Wild Mongrel and then Krosan Archer, though a Hallowed Healer caught his eye. The problem was that his precious blue was being gobbled by Sasaki, who had take Aven Windreader, Looter and Pulsating Illusion. He let an Aven Fisher through, which was just enough to keep Fujita interested. He continued to show his disdain for white, passing up Shelter for Krosan Archer, and Embolden for Think Tank.
 
 Meanwhile, Sasaki refused to commit to a second color, what with all the blue cards falling into his pile. Of course, Kuroda was reaping the rewards of this confusion. Red and black cards flowed like wine, and he scrambled to scoop up as many of them as he could.
 

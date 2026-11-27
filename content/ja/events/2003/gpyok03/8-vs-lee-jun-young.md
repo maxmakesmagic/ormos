@@ -127,7 +127,9 @@ render_recovery:
 
 　先手中村は序盤を《スカークの探鉱者/Skirk Prospector》から《ゴブリンの群衆追い/Goblin Piledriver》といき、少々のダメージは入るが、対する Lee は《新たな信仰/Renewed Faith》をサイクリング、そのままキャストと 8 点のライフを得つつ序盤を回避。
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a959.jpg)　 4 ターン目にはお決まりの《曙光の精霊/Dawn Elemental》を出して、対赤への守りを 1 個ずつ築いていく。
+![](http://www.wizards.com/sideboard/images/gpyok03/a959.jpg)
+
+　 4 ターン目にはお決まりの《曙光の精霊/Dawn Elemental》を出して、対赤への守りを 1 個ずつ築いていく。
 
 　攻撃の手を止められ、ライフまで赤を上回った白。
 

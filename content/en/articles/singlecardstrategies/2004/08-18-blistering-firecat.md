@@ -561,7 +561,9 @@ One of the big things to realize about the power of Blistering Firecat is that t
 
 ### Seven and Six…
 
-![](https://i.ormos.uk/14/4f/144f261e8fac1ce624872b230ec3e167590daa7a055b4ba07e33e5dcd372c55a.jpg)You wouldn't think that 1 point of damage could make such a big difference, but it can be pretty drastic. In the days before Shrapnel Blast was running around, your typical burn spell would do 2 or 3 damage. 3 damage isn't much, but when combined with 7 it does make the whole “kill your opponent dead” idea a lot better.
+![](https://i.ormos.uk/14/4f/144f261e8fac1ce624872b230ec3e167590daa7a055b4ba07e33e5dcd372c55a.jpg)
+
+You wouldn't think that 1 point of damage could make such a big difference, but it can be pretty drastic. In the days before Shrapnel Blast was running around, your typical burn spell would do 2 or 3 damage. 3 damage isn't much, but when combined with 7 it does make the whole “kill your opponent dead” idea a lot better.
 
 Let's look at some simple numbers. Essentially, three unanswered Ball Lightning will do 18 damage (a living opponent). Three unanswered Blistering Firecats will do 21 (a dead one). Two Blistering Firecats and 2 simple burn spells (doing 3+ damage each) will also result in a dead opponent. To get a similar result from Ball Lightning, your burn spells really need to be doing 4+ damage each. This is asking to get a *lot* more work out of every burn spell.
 
@@ -613,7 +615,9 @@ By not always being Red, Blistering Firecat opens a lot of possible outs for a m
 
 *Disco Balls*
 
-![](https://i.ormos.uk/46/58/46589054a9f0c6207ec086e944551bd6f2fdd8e731376e3f97e40ee68e929dfe.jpg)I first heard the idea of Disco Balls from Prismatic Lace/Reap pioneer Matthew Baranowski. He and I were on an early **Magic** team together, and we were trying to come to something new and exciting for Extended. His initial idea was to exploit the damage potential of Ball Lightning by including Corpse Dance in his deck. Even way back then, there was a moment that you could cast Corpse Dance at the end of your opponent's turn after the point which would check for a dead Ball Lightning. Baranowski's deck ran the following pieces:
+![](https://i.ormos.uk/46/58/46589054a9f0c6207ec086e944551bd6f2fdd8e731376e3f97e40ee68e929dfe.jpg)
+
+I first heard the idea of Disco Balls from Prismatic Lace/Reap pioneer Matthew Baranowski. He and I were on an early **Magic** team together, and we were trying to come to something new and exciting for Extended. His initial idea was to exploit the damage potential of Ball Lightning by including Corpse Dance in his deck. Even way back then, there was a moment that you could cast Corpse Dance at the end of your opponent's turn after the point which would check for a dead Ball Lightning. Baranowski's deck ran the following pieces:
 
 4 Ball Lightning  
  4 Demonic Consultation  

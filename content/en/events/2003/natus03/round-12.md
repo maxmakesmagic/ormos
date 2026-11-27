@@ -94,7 +94,9 @@ render_recovery:
   - Visara the Dreadful
   occurrences: 97
 ---
-![](https://i.ormos.uk/5b/02/5b02891a0dc50b4f4d9db4270ee711caf174f60c5169a407eebe3e9993b98232.jpg)This match was for Top 8. Tom Guevin has been on the Pro Tour since it started, and even came in the finals at the second Pro Tour. He couldn't even remember his last top finish when asked. Chris DeMaci got into Nationals through a grinder, and made a Top 8 back in Grand Prix - Phoenix a while back. The crowd is mostly behind him, since he's a hometown California player.
+![](https://i.ormos.uk/5b/02/5b02891a0dc50b4f4d9db4270ee711caf174f60c5169a407eebe3e9993b98232.jpg)
+
+This match was for Top 8. Tom Guevin has been on the Pro Tour since it started, and even came in the finals at the second Pro Tour. He couldn't even remember his last top finish when asked. Chris DeMaci got into Nationals through a grinder, and made a Top 8 back in Grand Prix - Phoenix a while back. The crowd is mostly behind him, since he's a hometown California player.
 
 ### Game 1
 
@@ -106,7 +108,9 @@ Guevin tapped out for Graveborn Muse, and DeMaci drew, thought for a bit, and sa
 
 Faceless Butcher targeted Wirewood Herald, and was sacrificed to the Assassin when the effect went on the stack, making sure the Herald stayed out of play and killing the Caller. DeMaci used Living Wish to search up Phantom Centaur, and put it right into play. Guevin drew four cards and gave DeMaci a long, hard stare, then almost violently shoved all his creatures into the Red Zone, declaring "ALL IN!" DeMaci started to think about how to block, wondering out loud if Guevin had Corrupt. The "ALL IN" declaration particularly irritated him, and he started asking if Guevin felt like a bigger man for it.
 
-![](https://i.ormos.uk/cb/d7/cbd7da689a5687740f4f2631de705bc6fddd4ee092cfc3d08869dc537f41924c.jpg)Guevin- "I've always wondered how Kai stuck a card to his forehead."
+![](https://i.ormos.uk/cb/d7/cbd7da689a5687740f4f2631de705bc6fddd4ee092cfc3d08869dc537f41924c.jpg)
+
+Guevin- "I've always wondered how Kai stuck a card to his forehead."
 
 After a few moments, Guevin revealed the Corrupt in his hand, showing that he had just been toying with DeMaci.
 
@@ -127,7 +131,9 @@ DeMaci- "You knew I was going to do that!"
 
 DeMaci summoned Ravenous Baloth, sarcastically asking, "Hey did you know I was going to do that too?" Guevin started to take his turn, and DeMaci joking mentioned that he had never actually said he was done. Guevin played Rotlung Reanimator, and both players kept throwing insults back and forth, with DeMaci calling Guevin a "class act", and acting sarcastically self-loathing about what a bad player he is.
 
-![](https://i.ormos.uk/66/50/6650e0480fff51b2784ed713aab4af835a6b981ba83611e1eb0bbf4395e47553.jpg)DeMaci played Engineered Plague on Zombies, sarcastically turning to me and the judge, and making sure we noted that he called "Zombies" and asking Guevin if he should "write it down somewhere." Chainer's Edict took care of the Baloth, but not before DeMaci gained four life. He played Birds of Paradise, then Llanowar Elves.
+![](https://i.ormos.uk/66/50/6650e0480fff51b2784ed713aab4af835a6b981ba83611e1eb0bbf4395e47553.jpg)
+
+DeMaci played Engineered Plague on Zombies, sarcastically turning to me and the judge, and making sure we noted that he called "Zombies" and asking Guevin if he should "write it down somewhere." Chainer's Edict took care of the Baloth, but not before DeMaci gained four life. He played Birds of Paradise, then Llanowar Elves.
 
 DeMaci- "Hey, are you *all in* this turn? *All in* with your 1/1 Zombie?"
 

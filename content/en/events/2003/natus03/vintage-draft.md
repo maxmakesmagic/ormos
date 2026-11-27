@@ -783,7 +783,9 @@ render_recovery:
 ---
 Five players paid for the right to draft vintage cards with Matt Linde, William Jensen and David Williams in this event sponsored by Players Choice Sleeves.
 
-![](http://www.wizards.com/sideboard/images/natus03/a665.jpg)The Arabian Nights packs were the first ones ripped open and there was one big money card. Roberto Gonzalez of New Mexico opened and got to draft a Library of Alexandria. Under the prize split that the players agreed to before hand Roberto will get to keep that card. Each of the five non-pros at the table will keep what they draft and the winner of the draft will get to take the cards from the three pros. Roberto paid $40.00 for his seat at this draft, and he's ahead of that curve already, one pack in.
+![](http://www.wizards.com/sideboard/images/natus03/a665.jpg)
+
+The Arabian Nights packs were the first ones ripped open and there was one big money card. Roberto Gonzalez of New Mexico opened and got to draft a Library of Alexandria. Under the prize split that the players agreed to before hand Roberto will get to keep that card. Each of the five non-pros at the table will keep what they draft and the winner of the draft will get to take the cards from the three pros. Roberto paid $40.00 for his seat at this draft, and he's ahead of that curve already, one pack in.
 
 After pack one Matt Linde appeared to be drafting blue and green, having grabbed a Flying Man and a Serendib Efreet in the *Arabian Nights* packs. 
 
@@ -805,7 +807,9 @@ Game 2 Matt Linde did it again. He not only cast Leviathan, he turned it sideway
 
 Brian was nearly able to take Game 1 from Matt, but when he used the Word of Binding to tap all of Matt's creatures Matt simply cast Crumble on one of his creatures. He gained nine life, I think it might have been Leviathan he did it to, and managed to win the game. Brian ran out of cards.
 
-![](http://www.wizards.com/sideboard/images/natus03/a664.jpg)The second match in Round one featured David Williams against Roberto Gonzalez. Roberto stalled early in the game on land, but managed to keep things going thanks to his Elves of Deep Shadow. The mana screw from game was all David needed. He sent Orgg the distance in smashing Roberto's face. 
+![](http://www.wizards.com/sideboard/images/natus03/a664.jpg)
+
+The second match in Round one featured David Williams against Roberto Gonzalez. Roberto stalled early in the game on land, but managed to keep things going thanks to his Elves of Deep Shadow. The mana screw from game was all David needed. He sent Orgg the distance in smashing Roberto's face. 
 
 Yes, again, you read that right. Orgg. David Williams was playing with Orgg. David used giant beaters to win the second game. A table full of first strikers and a bunch of creatures that were bigger than 2/2 picked up David and carried him to a round one victory.
 

@@ -87,7 +87,9 @@ I don't know if you have looked through the plans for [Game Day](https://web.arc
 
 Personally I am eager for mini-master tournaments at my local Game Day event. I don't know if you have played in this format before, but it is one of my favorites. Each player gets a booster pack and 15 lands (three of each type). You shuffle the two stacks together and play. Back when I played this, we played single-elimination and for keeps. After winning a round you would take your opponent's cards and lands, shuffle them into your deck, and play the next round. Rinse and repeat. 
 
-![](https://i.ormos.uk/e5/b8/e5b8f86bb55c9696d16bda371194f5ab141d820f2d4af8b9fc03cd8ac72686f2.jpg)This format had never been embraced by Wizards of the Coast before because they didn't want anyone taking anyone else's cards. They solved the problem rather neatly by having the winner of the each round advance and restart with a new "deck"—that is to say, you keep your land but you swap in a new booster for your other 15 cards, rather than taking the cards from the person they beat. It's a win-win situation where everyone walks away with at least the cards they got when they entered the tournament and everyone has fun seeing what cards were included in the base set this time around. 
+![](https://i.ormos.uk/e5/b8/e5b8f86bb55c9696d16bda371194f5ab141d820f2d4af8b9fc03cd8ac72686f2.jpg)
+
+This format had never been embraced by Wizards of the Coast before because they didn't want anyone taking anyone else's cards. They solved the problem rather neatly by having the winner of the each round advance and restart with a new "deck"—that is to say, you keep your land but you swap in a new booster for your other 15 cards, rather than taking the cards from the person they beat. It's a win-win situation where everyone walks away with at least the cards they got when they entered the tournament and everyone has fun seeing what cards were included in the base set this time around. 
 
 For players who are looking for something more akin to a traditional tournament experience, there are of course Sealed Deck tournaments. More importantly there is a more casual league format available that should appeal to players new to the game (and organized play in general) in which participants build a deck out of five boosters of the new release and then look for other players, each of which is carrying a scorecard. Matches are marked off on the card—one mark for a loss and two for a win—and the four players with the most marks at the end of the allotted time win prizes. 
 
@@ -97,7 +99,9 @@ All in all, July 14th should be a great kick-off to the Summer of **Magic**. The
 
 ### Summer in San Diego
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/magic/images/tournamentcenter/2007/pt_sandiego_wide2.jpg)If you happen to be in San Diego next weekend, you can get a jumpstart on the Summer of **Magic** by checking out the [Pro Tour over at the Convention Center](https://web.archive.org/web/20070622000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07). One of the last times we were in San Diego for a major event was U.S. Nationals 2003, and it was one of the most enthusiastic crowds I can recall outside of a European Grand Prix. I expect next weekend to be no different. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/magic/images/tournamentcenter/2007/pt_sandiego_wide2.jpg)
+
+If you happen to be in San Diego next weekend, you can get a jumpstart on the Summer of **Magic** by checking out the [Pro Tour over at the Convention Center](https://web.archive.org/web/20070622000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07). One of the last times we were in San Diego for a major event was U.S. Nationals 2003, and it was one of the most enthusiastic crowds I can recall outside of a European Grand Prix. I expect next weekend to be no different. 
 
 Whether you want to come and just watch from the rails of the feature match area to see a potential matchup of Kenji Tsumura and Jon Finkel—yes, Jon is going to be at the event—and get your favorite Pro Player cards signed or play in side events, there should be plenty to do and see. You can find the [schedule of events here](https://web.archive.org/web/20070622000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-sides) but let me call out some of the highlights:
 
@@ -115,7 +119,9 @@ There are a handful of tournaments throughout the weekend which will pay out wit
 
 *   **Dual Land Open – Legacy Constructed**
 
-![](https://i.ormos.uk/59/4d/594da26720972d2b684d76a6019ffff5c4fc8944211123559001eb3c867ee7b7.jpg)Have you wondered what Legacy looks like without the dreaded Hulk-Flash combo? Well, here is your chance with 30 dual lands being given away. This should be a pretty good indicator of what the format looks like in the wake of Columbus and the subsequent bannings.
+![](https://i.ormos.uk/59/4d/594da26720972d2b684d76a6019ffff5c4fc8944211123559001eb3c867ee7b7.jpg)
+
+Have you wondered what Legacy looks like without the dreaded Hulk-Flash combo? Well, here is your chance with 30 dual lands being given away. This should be a pretty good indicator of what the format looks like in the wake of Columbus and the subsequent bannings.
 
 *   **Super FNM – *Time Spiral* Sealed**
 

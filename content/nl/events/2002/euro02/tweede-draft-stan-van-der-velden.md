@@ -53,7 +53,9 @@ archive_source:
   sha256: d5ee1a0cc83e6d5108239d74068ca020c573f37297a517f6b10c1e978b3b4e42
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a938.jpg)Stan van der Velden, wie kent hem niet? Wanneer hij op een toernooi aanwezig is, dan is hij ook aanwezig! Samen met zijn sidekick, Jan Doise zorgen zij voor veel spektakel. Indien Ruud Warmenhoven en Frank Karsten er ook zijn, is de gein compleet. Als laatste van deze Montley Crew moet een deel van het 'zwaar gestoorde Vlaamse semi professioneel' team genoemd worden: Luis, Peter, Gert en Swap.
+![](http://www.wizards.com/sideboard/images/euro02/a938.jpg)
+
+Stan van der Velden, wie kent hem niet? Wanneer hij op een toernooi aanwezig is, dan is hij ook aanwezig! Samen met zijn sidekick, Jan Doise zorgen zij voor veel spektakel. Indien Ruud Warmenhoven en Frank Karsten er ook zijn, is de gein compleet. Als laatste van deze Montley Crew moet een deel van het 'zwaar gestoorde Vlaamse semi professioneel' team genoemd worden: Luis, Peter, Gert en Swap.
 
 Er zijn mechanische speelautomaten zoals Kai Budde. Vele Scandinavische spelers hebben hier ook een handje van (niet de huidige Europees Kampioen!). Met mechanische spelers bedoel ik een serieuze blik, kaart voor kaart spelen en er kan geen lachje af; soms heb ik het idee dat zulke mensen het alleen maar om winnen (en geld) gaat. **Magic** is toch meer dan dat, vrienden ontmoeten, vage bekenden alle hoeken van de tafel laten zien en af en toe een drankje drinken.
 

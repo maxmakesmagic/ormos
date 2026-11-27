@@ -597,7 +597,9 @@ Arduous Task. This Peel from Reality upgrade playtested the best of my ideas. Mo
 
 ### Ryan Sutherland
 
-![](http://archive.wizards.com/global/images/mtgcom_designersearchprofile_ryan-sutherland_picMain_en.jpg)I'll take the physical challenge, Mark.
+![](http://archive.wizards.com/global/images/mtgcom_designersearchprofile_ryan-sutherland_picMain_en.jpg)
+
+I'll take the physical challenge, Mark.
 
 **Card #1 (Conrad Corbett) “Do twice” instant or sorcery** 
 

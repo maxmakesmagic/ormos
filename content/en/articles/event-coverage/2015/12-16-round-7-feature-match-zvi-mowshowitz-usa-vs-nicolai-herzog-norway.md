@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/118.jpg)In the final round of day 1 American Zvi Mowshowitz met Norwegian Nicolai Herzog. Both are very well known on the Pro Tour. Herzog is a one time European Champion who also has a Worlds top 8 finish. Zvi Mowshowitz's top tournament finish was top 4 at Pro Tour: New York and he is also well known as a top deck designer and a Magic columnist. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/118.jpg)
+
+In the final round of day 1 American Zvi Mowshowitz met Norwegian Nicolai Herzog. Both are very well known on the Pro Tour. Herzog is a one time European Champion who also has a Worlds top 8 finish. Zvi Mowshowitz's top tournament finish was top 4 at Pro Tour: New York and he is also well known as a top deck designer and a Magic columnist. 
 
 There is little pressure in this match. Both players are virtually guaranteed to make day 2 despite the result of this match. The winner of the match is in a much better position for the top 8. The match drew quite a crowd of spectators, including the notorious Kimmo Hovi. 
 
@@ -64,7 +66,9 @@ At this point Herzog top-decked Harrow. It was an excellent draw at the moment. 
 
 Second game did not go well for the American. He kept a two-land hand and did not draw the third land for six turns. Herzog mulliganed but came out of that nicely, developing quick offense and taking Zvi down before he could recover from his poor draw. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/125.jpg)Final game saw Herzog take another mulligan and keep a hand of six lands and a Prohibit. Mowshowitz opened with a Kavu Scout, which was 3/2 as he drew all of his colors early this time. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/125.jpg)
+
+Final game saw Herzog take another mulligan and keep a hand of six lands and a Prohibit. Mowshowitz opened with a Kavu Scout, which was 3/2 as he drew all of his colors early this time. 
 
 Both players were seriously mana flooded, with over ten lands on each side of the table toward the end. Herzog found the answers to some of the threats Zvi posed later on, but the Kavu Scout remained on the table. Zvi played Power Armor and suddenly Scout became an unstoppable threat. Herzog was at a relatively high life total and was able to survive several more turns, frantically searching for an answer. None would come though - he went on to draw more lands. 
 

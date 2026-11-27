@@ -95,7 +95,9 @@ Le versioni Premium foil delle carte rare mitiche saranno distribuite all'intern
 
 In ciascuna busta inoltre sostituiremo una carta comune con una carta terra base. La composizione tipo di una busta adesso sarà: 1 rara (sostituita da 1 rara mitica approssimativamente in 1 busta su 8), 3 non comuni, 10 comuni, 1 terra base e 1 carta con consigli sulle regole.
 
-![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)Oltre alle modifiche sopra citate, verrà aggiunto un nuovo prodotto alla linea editoriale di MTG. Per i giocatori esperti l'"intro pack" sarà il modo migliore per scoprire le meccaniche di gioco e l'ambientazione delle ultime espansioni. Sarà inoltre lo strumento più adatto per introdurre al gioco i nuovi giocatori, permettendo loro di imparare con le carte più recenti. Ciascun intro pack contiene: 
+![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)
+
+Oltre alle modifiche sopra citate, verrà aggiunto un nuovo prodotto alla linea editoriale di MTG. Per i giocatori esperti l'"intro pack" sarà il modo migliore per scoprire le meccaniche di gioco e l'ambientazione delle ultime espansioni. Sarà inoltre lo strumento più adatto per introdurre al gioco i nuovi giocatori, permettendo loro di imparare con le carte più recenti. Ciascun intro pack contiene: 
 
 *   Un mazzo precostruito da 41 carte, che include 1 carta foil rara e una carta standard rara
 *   1 busta dell'espansione attuale

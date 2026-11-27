@@ -275,7 +275,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/54/7a/547aba0ebee557dee5d641027a3065446cf71c706da8fb04a480a72a93c8cf1c.jpg)For each “guild” theme week, I'm discussing how development handled that particular guild. My article on the Selesnya Conclave can be found [here](/en/articles/latestdevelopments/2005/10-07-completing-the-conclave). As most of our decisions regarding this guild revolved around the dredge mechanic and how it eventually would end up working, this article will focus primarily on the development of that keyword and its respective cards.
+![](https://i.ormos.uk/54/7a/547aba0ebee557dee5d641027a3065446cf71c706da8fb04a480a72a93c8cf1c.jpg)
+
+For each “guild” theme week, I'm discussing how development handled that particular guild. My article on the Selesnya Conclave can be found [here](/en/articles/latestdevelopments/2005/10-07-completing-the-conclave). As most of our decisions regarding this guild revolved around the dredge mechanic and how it eventually would end up working, this article will focus primarily on the development of that keyword and its respective cards.
 
 ### Dredge: Not Just a Bad *Invasion* Card
 
@@ -291,7 +293,9 @@ The version design turned over—then called “reclaim”—was significantly d
 
 Yes, that version is much shorter and probably a lot easier to understand at a glance than the “real” version. But there is no cost to performing this action, which was a problem.
 
-![](https://i.ormos.uk/5b/49/5b49dee595988e8e9045ff8a6dadd9e6bac9e41f5fa10cd95f364a8e5f4368e1.jpg)The draw step is a very important part of **Magic**, for two reasons. One, it adds variance to the game. The outcome of any given game remains in doubt for a long period of time; one player could rattle off several great draws in a row while his opponent drew land after land. And subsequent games would be different because of that variance. Two, the draw step is one of the most exciting events in the game. At the beginning of each of your turns, you get a Christmas present. What will it be? A shiny new Fireball, or some socks and underwear in the form of your seventh Forest? Reclaim made it too easy to take both of those essential ingredients away.
+![](https://i.ormos.uk/5b/49/5b49dee595988e8e9045ff8a6dadd9e6bac9e41f5fa10cd95f364a8e5f4368e1.jpg)
+
+The draw step is a very important part of **Magic**, for two reasons. One, it adds variance to the game. The outcome of any given game remains in doubt for a long period of time; one player could rattle off several great draws in a row while his opponent drew land after land. And subsequent games would be different because of that variance. Two, the draw step is one of the most exciting events in the game. At the beginning of each of your turns, you get a Christmas present. What will it be? A shiny new Fireball, or some socks and underwear in the form of your seventh Forest? Reclaim made it too easy to take both of those essential ingredients away.
 
 Rosewater would agree that the mechanic was not implemented correctly in design—the team simply ran out of time to search for solutions. So development was tasked with finding the fix.
 

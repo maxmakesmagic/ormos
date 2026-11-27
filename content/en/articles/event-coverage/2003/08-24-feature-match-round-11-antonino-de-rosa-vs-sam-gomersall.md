@@ -44,7 +44,9 @@ archive_source:
   sha256: 385165a28684a140aed2f4969ce6213afcff55c7606ade61133e20662d8468ca
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a909.jpg)Round 11 and both of these players are still in contention for the Top 8, the loser can still win out but the winner is looking to have a much easier ride. De Rosa confessed that he had no idea what he was doing in this matchup, the RW mirror.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a909.jpg)
+
+Round 11 and both of these players are still in contention for the Top 8, the loser can still win out but the winner is looking to have a much easier ride. De Rosa confessed that he had no idea what he was doing in this matchup, the RW mirror.
 
 Antonio won the dice roll, not as important in the mirror as in some other matchups but vital nonetheless. A flurry of land enter play on both sides, Antonio was the first to act with a turn two Lightning Rift, Sam matched it with one of his own.
 
@@ -58,7 +60,9 @@ He never needed it. A top-decked Lightning Rift and a cycled Dragon saw Antonio 
 
 Gomersall 1 – De Rosa 0
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a911.jpg)After sideboarding Decree of Anihilation and Astral Slide become the key cards of the match up. The latter enabling a player to remove one of his creatures from the game, setting the board up for a cast or cycled Decree which leaves the Slided out creature in play all by itself.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a911.jpg)
+
+After sideboarding Decree of Anihilation and Astral Slide become the key cards of the match up. The latter enabling a player to remove one of his creatures from the game, setting the board up for a cast or cycled Decree which leaves the Slided out creature in play all by itself.
 
 De Rosa made a turn three Morph on the play, which gave him the ability to take the second game very quickly if Gomersall could not find a Wing Shards or an Astral Slide. He made a Slide.
 
@@ -84,7 +88,9 @@ Six minutes minutes were left on the clock, so this game was only going to be fi
 
 Gomersall muliganned going first but his hand of six was full of some powerful stuff – two Knights, an Angel and three land. De Rosa also had a Knight and the first two traded.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a910.jpg)Sam flopped his other two creatures onto the board, the Angel morphed. Antonio ripped a Mountain to cast a Starstorm for two that blew the Angel up. Gomersall’s stuff was not running out either, a Slide from threatened to protect the Knight from anything the Italian might be able to do. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a910.jpg)
+
+Sam flopped his other two creatures onto the board, the Angel morphed. Antonio ripped a Mountain to cast a Starstorm for two that blew the Angel up. Gomersall’s stuff was not running out either, a Slide from threatened to protect the Knight from anything the Italian might be able to do. 
 
 However, De Rosa had drawn a second Knight of his own and combined with a Vengeance the board was cleared once more.
 

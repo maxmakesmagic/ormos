@@ -182,7 +182,9 @@ Alan Comer became the fifth person to reach the Five Final Day mark. Comer would
  1) United States (Trevor Blackwell, Brian Hegstad, Eugene Harvey)  
  2) Norway (Nicolai Herzog, Oyvind Odegaard, Jan Pieter Groenhof)
 
-![](https://media.wizards.com/2024/images/daily/ddR01TCikYe7.jpg)This top eight was noticeable for several things. First, while The Netherlands had proven to be a powerhouse, it had never before won a Pro Tour. Second, it showed that old time players could return to the game as Tommi Hovi posted his fourth Final Day appearance after a multi-year absence. And third, it showed the diversity on the Pro Tour as seven different countries showed up in the Top Eight.
+![](https://media.wizards.com/2024/images/daily/ddR01TCikYe7.jpg)
+
+This top eight was noticeable for several things. First, while The Netherlands had proven to be a powerhouse, it had never before won a Pro Tour. Second, it showed that old time players could return to the game as Tommi Hovi posted his fourth Final Day appearance after a multi-year absence. And third, it showed the diversity on the Pro Tour as seven different countries showed up in the Top Eight.
 
 That total was almost six though. The other big story of the event was the first time a player was DQ'ed from a Top Eight (since Mill's ejection at the second PT LA). The Head Judge ruled that United States player Dave Williams was playing with marked cards and was DQ'ed from the tournament. This gives Englishman John Omerod the footnote of being one of only five players to make a Top Eight and not play on the Final Day (the other four being the fifth through eighth place at PT Columbus – where time forced a cut to Top Four).
 
@@ -199,7 +201,9 @@ Oh, and Kai Budde wins his second Pro Player of the Year title.
  3) Illuminati \[Justin Gary (United States) – **2nd FINAL DAY**, Alex Shvartsman (United States), Zvi Mowshowitz (United States) – **4th FINAL DAY**\]  
  4) Car Acrobatic Team \[Andrew Johnson (United States) – **2nd FINAL DAY**, Aaron Forsythe (United States) – **2nd FINAL DAY**, Andrew Cuneo (United States) – **2nd FINAL DAY**\] – **2nd FINAL DAY FOR TEAM**
 
-![](https://media.wizards.com/2024/images/daily/WCBIsOiE9OcK.jpg)And so continues the dominance of Kai Budde. Together with fellow countrymen Dirk Baberowski and Marco Blume, Budde created what is almost surely the most dominant team in Pro Tour history. Phoenix Foundation managed to win the tournament *without losing a match*. This made Budde the first person (and thus far only person) to win four Pro Tours and Dirk Baberowski the fourth to win two.
+![](https://media.wizards.com/2024/images/daily/WCBIsOiE9OcK.jpg)
+
+And so continues the dominance of Kai Budde. Together with fellow countrymen Dirk Baberowski and Marco Blume, Budde created what is almost surely the most dominant team in Pro Tour history. Phoenix Foundation managed to win the tournament *without losing a match*. This made Budde the first person (and thus far only person) to win four Pro Tours and Dirk Baberowski the fourth to win two.
 
 The other interesting story was the repeat of Car Acrobatic Team (a “Speed Racer” reference for those that might not be familiar with the show). No team had ever made two team finals, let alone back-to-back.
 
@@ -235,7 +239,9 @@ But not everyone had such faith in Budde. Before the tournament began, Eric Tayl
  7) Neil Reeves (United States)  
  8) Eric Froehlich (United States)
 
-![](https://media.wizards.com/2024/images/daily/hAjeyJdjrXZ2.jpg)There was a long running joke on the Pro Tour that the French always came in second. The first three large **Magic** events (Worlds '94, Worlds '95 and the first Pro Tour in New York), for example, all had Frenchman coming in second. Over the years the second place finishes kept adding up. Until PT San Diego, where relative unknown Frenchman Fard Meraghni finally ended the curse.
+![](https://media.wizards.com/2024/images/daily/hAjeyJdjrXZ2.jpg)
+
+There was a long running joke on the Pro Tour that the French always came in second. The first three large **Magic** events (Worlds '94, Worlds '95 and the first Pro Tour in New York), for example, all had Frenchman coming in second. Over the years the second place finishes kept adding up. Until PT San Diego, where relative unknown Frenchman Fard Meraghni finally ended the curse.
 
 And in the back of the room, with the aid of some ketchup, [Eric Taylor ate his hat](https://web.archive.org/web/20040809000000/http://www.wizards.com/sideboard/article.asp?x=PTSD02/425edthat).
 
@@ -253,7 +259,9 @@ And in the back of the room, with the aid of some ketchup, [Eric Taylor ate his 
  7) Osyp Lebedowicz (United States)  
  8) Christophe Haim (France)
 
-![](https://media.wizards.com/2024/images/daily/LDiqhdADLz8e.jpg)Speaking of curses, this tournament was the end of another favorite curse. Each year sixteen players are invited to play in the **Magic** Invitational, **Magic's** all-star game. For three years in a row, the player that finished last at the event, went on to win a Pro Tour the following year. (Steve O'Mahoney Schwart was last in Kuala Lumpur and then won LA; Gary Wise was last in Sydney and went on to win the team tournament in NY; and Zvi Mowshowitz turned his last place finish in Capetwon into a win in Tokyo.) This was known as the “Invitational Curse”.
+![](https://media.wizards.com/2024/images/daily/LDiqhdADLz8e.jpg)
+
+Speaking of curses, this tournament was the end of another favorite curse. Each year sixteen players are invited to play in the **Magic** Invitational, **Magic's** all-star game. For three years in a row, the player that finished last at the event, went on to win a Pro Tour the following year. (Steve O'Mahoney Schwart was last in Kuala Lumpur and then won LA; Gary Wise was last in Sydney and went on to win the team tournament in NY; and Zvi Mowshowitz turned his last place finish in Capetwon into a win in Tokyo.) This was known as the “Invitational Curse”.
 
 This year the last place finisher was Olivier Ruel. The joke at the time was that it was the end of the curse. But then Ruel found himself in the finals up 2-0 against American Ken Ho. But the curse was not to be and Ruel had to settle for second. (Some speculated that the French curse overrode the Invitational one.)
 
@@ -294,7 +302,9 @@ The story of this tournament was what didn't happen. Budde made the final day an
 
 The 2002 Worlds was known for several things. First was the arrival of the South Americans as a force to be reckoned with. South America had been sending players to the Pro Tour for years, but this was the first time that a South American made it into a Top Eight. To have two in the Top Four (who played each other) one of which won Worlds was a major accomplishment. Also, reflecting **Magic's** growing international appeal, this was the first Pro Tour with four different continents represented in the Top Eight.
 
-![](https://media.wizards.com/2024/images/daily/D0aDOFQIhV8T.jpg)The other big story of the tournament was the Team Event. Having won 80% of all the Worlds team events, the US Team found the world rooting against them. And things looked bad (well, for the Americans anyway) going into the team day. The US Team was almost eliminated. To make the final day, the team had to win every match and have several other matches go their way.
+![](https://media.wizards.com/2024/images/daily/D0aDOFQIhV8T.jpg)
+
+The other big story of the tournament was the Team Event. Having won 80% of all the Worlds team events, the US Team found the world rooting against them. And things looked bad (well, for the Americans anyway) going into the team day. The US Team was almost eliminated. To make the final day, the team had to win every match and have several other matches go their way.
 
 It all came down to the final round. The German team (headed by Kai Budde) were already a lock for the final day. The US Team was tied with Denmark and trailed Argentina. If Argentina won, the US could not make it. And then the pairings went up. The US was playing Germany and Denmark was playing Argentina. The US Team's only chance was to defeat Germany and have Denmark defeat Argentina. If this happened, the US and Denmark would have to have a playoff (an even that had never happened in Worlds team history).
 
@@ -311,7 +321,9 @@ Oh, and Kai wins his third Pro Player of the Year title.
  3) Courtney's Boys \[Gary Wise (Canada) – **3rd FINAL DAY**, Bob Maher (United States) – **4th FINAL DAY**, Neil Reeves (United States) – **2nd FINAL DAY**\]  
  4) Slay Pillage Gerard \[Jonathan Sonne (United States), Gerard Fabiano (United States), Scott McCord (United States)\]
 
-![](https://media.wizards.com/2024/images/daily/ry2XhofI3VxU.jpg)Phoenix Foundation proves that they are king of the team format by winning the team event two years in a row. This makes Kai Budde the first player to win six Pro Tours, Dirk Baberowski the second to win three, and Marco Blume the fifth to win two (and become the only multiple winner to have never won an individual Pro Tour). Gary Wise became the first person to make the final day at the team event on two different teams.
+![](https://media.wizards.com/2024/images/daily/ry2XhofI3VxU.jpg)
+
+Phoenix Foundation proves that they are king of the team format by winning the team event two years in a row. This makes Kai Budde the first player to win six Pro Tours, Dirk Baberowski the second to win three, and Marco Blume the fifth to win two (and become the only multiple winner to have never won an individual Pro Tour). Gary Wise became the first person to make the final day at the team event on two different teams.
 
  
 
@@ -343,7 +355,9 @@ Two different players joined the Fifth Final Day club, Bob Maher and Rob Dougher
  7) Bram Snepvangers (The Netherlands)  
  8) William Jensen (United States) – **2nd FINAL DAY**
 
-![](https://media.wizards.com/2024/images/daily/sZPOtUDAaS5Z.jpg)This Pro Tour will be remembered for several things. Kai Budde won Pro Tour Chicago, again. Making him the first player to win seven Pro Tours. Even more impressive, this win was in yet another format, meaning Kai Budde has won a Pro Tour in every major format supported by the Pro Tour except Block Constructed (Booster Draft, Rochester Draft, Standard, Extended, and Team Rochester).
+![](https://media.wizards.com/2024/images/daily/sZPOtUDAaS5Z.jpg)
+
+This Pro Tour will be remembered for several things. Kai Budde won Pro Tour Chicago, again. Making him the first player to win seven Pro Tours. Even more impressive, this win was in yet another format, meaning Kai Budde has won a Pro Tour in every major format supported by the Pro Tour except Block Constructed (Booster Draft, Rochester Draft, Standard, Extended, and Team Rochester).
 
 Jon Finkel became the first (and thus far only) player to reach the Ten Final Days plateau. And most importantly, this is the first Pro Tour where Finkel and Budde played against one another. They had both been in the Top Eight at Pro Tour Chicago a year earlier, but Finkel lost in the quarter-finals before he met up with Budde. The match-up happened in the semi-finals, but is still considered one of the all-time finals classics.
 
@@ -359,7 +373,9 @@ Jon Finkel became the first (and thus far only) player to reach the Ten Final Da
  7) Akihiro Kashima (Japan)  
  8) Mattias Jorstedt (Sweden) – **2nd FINAL DAY**
 
-![](https://media.wizards.com/2024/images/daily/YbOQJF2XsqXv.jpg)This event was all about big creatures. The Onslaught block was all about creatures and R&D had tried to allow some bigger creatures than normal to seep into tournament play. Mission accomplished! This top eight had the largest number of big creatures ever seen in a pro Tour final day. Osyp Lebedowicz was another fan favorite (he wrote a very popular humor column on the internet) to finally win a Pro Tour.
+![](https://media.wizards.com/2024/images/daily/YbOQJF2XsqXv.jpg)
+
+This event was all about big creatures. The Onslaught block was all about creatures and R&D had tried to allow some bigger creatures than normal to seep into tournament play. Mission accomplished! This top eight had the largest number of big creatures ever seen in a pro Tour final day. Osyp Lebedowicz was another fan favorite (he wrote a very popular humor column on the internet) to finally win a Pro Tour.
 
  
 
@@ -398,7 +414,9 @@ In the end, it was Swede Mattias Jorstedt who was most determined to win. This w
  1) United States (Justin Gary, Gabe Walls, Josh Wagener)  
  2) Finland (Tomi Walamies, Tuomo Nieminen, Arho Toikka)
 
-![](https://media.wizards.com/2024/images/daily/6kLXlYEWCyX2.jpg)The Japanese had been in a finals before but never in a World Championships. Jin Okamoto tried hard to bring home the trophy for Japan, but he was defeated by local favorite Daniel Zink. Germany had a particularly good finish putting three countrymen in the Top Eight. (Maybe home field advantage is important.)
+![](https://media.wizards.com/2024/images/daily/6kLXlYEWCyX2.jpg)
+
+The Japanese had been in a finals before but never in a World Championships. Jin Okamoto tried hard to bring home the trophy for Japan, but he was defeated by local favorite Daniel Zink. Germany had a particularly good finish putting three countrymen in the Top Eight. (Maybe home field advantage is important.)
 
 David Humpherys joined the Fifth Final Day club.
 
@@ -414,7 +432,9 @@ Oh, and Kai Budde won his fourth Pro Player of the Year title.
  3) Zabutan Nemonaut \[Michael Turian (United States) – **3rd FINAL DAY**, Gary Wise (Canada) – **4th FINAL DAY**, Eugene Harvey (United States) – **2nd FINAL DAY**\]  
  4) Phoenix Foundation \[Kai Budde (Germany) – **9th FINAL DAY**, Dirk Baberowski (Germany) – **5th FINAL DAY**, Marco Blume (Germany) – **3rd FINAL DAY**\]
 
-![](https://media.wizards.com/2024/images/daily/OaTaRaWoJFEF.jpg)Phoenix Foundation proved it was vulnerable. First, the team had to struggle to make Day Two. And then, they lost in the first round of the finals. Kai Budde did manage to snag his ninth Final Day. (Final Day totals is the only major stat that Budde has not yet passed Finkel on.)
+![](https://media.wizards.com/2024/images/daily/OaTaRaWoJFEF.jpg)
+
+Phoenix Foundation proved it was vulnerable. First, the team had to struggle to make Day Two. And then, they lost in the first round of the finals. Kai Budde did manage to snag his ninth Final Day. (Final Day totals is the only major stat that Budde has not yet passed Finkel on.)
 
 The tournament ended up being won by another collection of popular, old-time gravytrainers – Brock Parker, Billy “Baby Huey” Jensen and Matt Linde.
 
@@ -430,7 +450,9 @@ The tournament ended up being won by another collection of popular, old-time gra
  7) Tomohiro Yokosuka (Japan)  
  8) Nicolas Labarre (France) – **4th FINAL DAY**
 
-![](https://media.wizards.com/2024/images/daily/WUSVmFnCJmmB.jpg)The power level for this Pro Tour's format was eclipsed only by Rome. *Mirrodin* had just been released and it proved a little on the powerful side. One card in particular, Mindslaver, seemed to be defining games, thanks to the presence of Tinker and an abundance of speedy mana. So much so, that Mindslaver stories (what players did when they took over their opponent's turn) were flowing like water.
+![](https://media.wizards.com/2024/images/daily/WUSVmFnCJmmB.jpg)
+
+The power level for this Pro Tour's format was eclipsed only by Rome. *Mirrodin* had just been released and it proved a little on the powerful side. One card in particular, Mindslaver, seemed to be defining games, thanks to the presence of Tinker and an abundance of speedy mana. So much so, that Mindslaver stories (what players did when they took over their opponent's turn) were flowing like water.
 
 The tournament was won by Norwegian Rickard Österberg who had just come in second with his team at the previous event.
 
@@ -478,7 +500,9 @@ And not only did a Japanese player win the title, he won it in Japan.
  7) Angel Perez del Pozo (Spain)  
  8) Masashi Ooiso (Japan) – **3rd FINAL DAY**
 
-![](https://media.wizards.com/2024/images/daily/5ZNLlPT8PvXQ.jpg)Nicolai Herzog wins his second Pro Tour of the season (winning the two different *Mirrodin* draft Pro Tours) taking home Norway's third Pro Tour of the Year. This is a feat that had only been accomplished by the United States and Budde, I mean Germany. Another sign that *Mirrodin* limited might be more skill testing than first thought is the fact that three and half people made the Final Day in *both Mirrodin* draft Pro Tours – Herzog, Swede Anton Jonsson and American Mike Turian (who also joined the Fifth Final Day club). The half is for Antoine Ruel whose brother Olivier Ruel had Top Eighted the previous Draft Pro Tour.
+![](https://media.wizards.com/2024/images/daily/5ZNLlPT8PvXQ.jpg)
+
+Nicolai Herzog wins his second Pro Tour of the season (winning the two different *Mirrodin* draft Pro Tours) taking home Norway's third Pro Tour of the Year. This is a feat that had only been accomplished by the United States and Budde, I mean Germany. Another sign that *Mirrodin* limited might be more skill testing than first thought is the fact that three and half people made the Final Day in *both Mirrodin* draft Pro Tours – Herzog, Swede Anton Jonsson and American Mike Turian (who also joined the Fifth Final Day club). The half is for Antoine Ruel whose brother Olivier Ruel had Top Eighted the previous Draft Pro Tour.
 
 While Budde has had a good year, there are a number of players starting to make a play to pass Budde. For the first time in five years it looks like Budde is not going to win the Pro Player of the year. Frontrunners are Herzog, Nassif and Osterberg.
 

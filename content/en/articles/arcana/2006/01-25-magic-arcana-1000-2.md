@@ -87,7 +87,9 @@ render_recovery:
 ---
 * * *
 
-![Magic Arcana #1000](https://i.ormos.uk/c1/d0/c1d0ae44281fa53a44120145700320eaf9263f13cb562a367d308a153063b074.jpg)Check out the address bar in your browser. That's right -- today marks **Magic Arcana number One Thousand**. As Magic Arcana moves into its four-digit era, we take this opportunity to review some of the highlights of Magic Arcana's history -- before we start in tomorrow on the next thousand! 
+![Magic Arcana #1000](https://i.ormos.uk/c1/d0/c1d0ae44281fa53a44120145700320eaf9263f13cb562a367d308a153063b074.jpg)
+
+Check out the address bar in your browser. That's right -- today marks **Magic Arcana number One Thousand**. As Magic Arcana moves into its four-digit era, we take this opportunity to review some of the highlights of Magic Arcana's history -- before we start in tomorrow on the next thousand! 
 
 Magic Arcana has been a mainstay of **magicthegathering.com's** content landscape since the site [debuted](/en/articles/feature/2002/01-02-in-the-beginning) on January 2, 2002. Concepted as a feature that would share sneak peeks of future products and reveal little-known factoids about the game's past, it has provided a new daily tidbit about the game for over four years running. (It has gone into reruns during holidays, so there haven't been one thousand distinct Arcanas quite yet, but we're celebrating today anyway.) What have been some of Magic Arcana's recurring attractions and individual highlights during these first nine hundred ninety-nine?
 

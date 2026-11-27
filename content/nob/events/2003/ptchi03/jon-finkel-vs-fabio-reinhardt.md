@@ -581,7 +581,9 @@ render_recovery:
 
 *「実はOnslaughtのカードを完璧には理解していない」* 
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a670.jpg)というJonny Magicなのだそうだが、天性の才能と勝負勘とで見事に決勝ラウンド進出。通算10度目というのは大記録そのものであろう。はたして、このまま完全復活なるのだろうか？
+![](http://www.wizards.com/sideboard/images/ptchi03/a670.jpg)
+
+というJonny Magicなのだそうだが、天性の才能と勝負勘とで見事に決勝ラウンド進出。通算10度目というのは大記録そのものであろう。はたして、このまま完全復活なるのだろうか？
 
 筋金入りのFinkelファンである筆者としては、是非とも準決勝でFinkel-Budde戦を観戦してみたいところだ。
 
@@ -623,7 +625,9 @@ Finkelのランドがしばらくストップしてしまうというアクシ�
 
 **Game 3** 
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a671.jpg)Finkelは《非凡な虚空魔道士/Voidmage Prodigy》を2ターン目に召喚するという立ち上がり。一方のReinhardは《変異/Morph》を連続展開。Finkelは《魔道士》でアタックし、ブロックされなかったところを見計らっての《猛士の襲撃/Commando Raid》をプレイして2匹目の《変異/Morph》を除去。
+![](http://www.wizards.com/sideboard/images/ptchi03/a671.jpg)
+
+Finkelは《非凡な虚空魔道士/Voidmage Prodigy》を2ターン目に召喚するという立ち上がり。一方のReinhardは《変異/Morph》を連続展開。Finkelは《魔道士》でアタックし、ブロックされなかったところを見計らっての《猛士の襲撃/Commando Raid》をプレイして2匹目の《変異/Morph》を除去。
 
 そして、返すターンにFabioは《霧衣の壁》、Finkelは裏向きに《上昇するエイヴン/Ascending Aven》を展開してこれをターン終了時に![2 Mana](https://i.ormos.uk/f9/cc/f9cc8a15b009997919d58ad79964384351495d1b6c9231f938316577453038a8.gif)![Blue Mana](https://i.ormos.uk/b7/5d/b75de4f4cec208d24e23ce112a4bb89540d55aa95fe1ef377d1c7c5d2b6bdb50.gif)を支払って表向きに。かくて、Finkelの3/2とReinhardtの2/2の殴りあいだ。
 
@@ -660,7 +664,9 @@ Fabio Reinhardt：《理由なき暴力/Gratuitous Violence》
 
 軽快に2枚のカードをサイクリングしつつ、先手Finkelは裏向きに《上昇するエイヴン》を召喚。これに対してReinhardtは《霧衣の壁》展開。
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a673.jpg)Finkelは表返らせた《エイヴン》でのアタックでダメージレースを先行。Fabioは《不毛化/Lay Waste》でFinkelのマナベースを攻撃するも、すぐに青マナを引き当てたFinkelは淡々と次なる《変異/Morph》を場に送り出す。
+![](http://www.wizards.com/sideboard/images/ptchi03/a673.jpg)
+
+Finkelは表返らせた《エイヴン》でのアタックでダメージレースを先行。Fabioは《不毛化/Lay Waste》でFinkelのマナベースを攻撃するも、すぐに青マナを引き当てたFinkelは淡々と次なる《変異/Morph》を場に送り出す。
 
 負けじとReinhardtも《変異/Morph》クリーチャーを裏向きに展開。返すターン、Finkelは《激浪の多相の戦士/Riptide Shapeshifter》。Reinhardtは我慢の限界を迎えて《上昇するエイヴン》へ《狙いすましたなだれ》を。その上で2体目の《霧衣の壁》と《火花鍛冶》を召喚するReinhardt。
 

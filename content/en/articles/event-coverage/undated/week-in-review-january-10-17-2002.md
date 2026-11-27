@@ -150,13 +150,17 @@ Although the players who made Top 8 of PT-San Diego are undoubtedly good, lackin
 
 Jeff Cunningham and Eric Froehlich are two of the up and coming North American pros who had their first taste of major success in San Diego. Along with finalist Jens Thoren, they are both internet regulars and have practiced for this event by drafting online. Neil Reeves has been around a bit longer and enjoyed a Top 8 finish in Grand Prix-St. Louis, but this was his first major accomplishment as well.
 
-![](http://www.wizards.com/sideboard/images/PTSD02/460.jpg)The only rookie player in this Top 8, was also the eventual winner - Farid Meraghni from Paris. Meraghni is among a group of young French players who recently took the Pro Tour scene by storm - Amiel Tenenbaum and Gabriel Nassif among them. Meraghni's first Pro Tour was PT-NY where his team finished in the money. He did not attend PT-New Orleans, but qualified for San Diego on the strength of his 2000+ DCI Limited rating, earned mostly by playing 8 man drafts in Paris. 
+![](http://www.wizards.com/sideboard/images/PTSD02/460.jpg)
+
+The only rookie player in this Top 8, was also the eventual winner - Farid Meraghni from Paris. Meraghni is among a group of young French players who recently took the Pro Tour scene by storm - Amiel Tenenbaum and Gabriel Nassif among them. Meraghni's first Pro Tour was PT-NY where his team finished in the money. He did not attend PT-New Orleans, but qualified for San Diego on the strength of his 2000+ DCI Limited rating, earned mostly by playing 8 man drafts in Paris. 
 
 Other European players in the Top 8 were Frederico Bastos of Portugal, who is best known for earning a Top 8 finish in Tokyo last year, and Jens Thoren. Thoren has had an excellent season so far, allowing him to claim second place in the player of the year race on the strength of his 2nd place finish.
 
 Along with a lot of fresh, new faces there were a couple of veterans. Andy Wolf was a fixture on the Pro Tour several years ago, his best hour coming in 1998 when he finished 8th and 11th in two PTs in a row. He fell on harder times and off the gravy train in 2000. Wolf's comeback began several months ago when he managed a second-place finish in Grand Prix-Minneapolis. With a Top 4 finish in San Diego, he is back on the gravy train.
 
-![](http://www.wizards.com/sideboard/images/PTSD02/600.jpg)The most amazing story of this Pro Tour is that of Donnie Gallitz. A true veteran, Gallitz has been a member of legendary teams such as Tongo Nation and The Jumble. He is a popular, well-known fixture of the Pro Tour. Gallitz has had long streaks of money finishes, but never once broke into a Top 8 despite having played in well over 20 Pro Tours. Early this weekend, Gallitz told his friends that he was done. San Diego was to be his last Pro Tour. He would quit the game to spend more time with his wife and pursue other hobbies, as well as his job. Gallitz fought his way to a Top 4 finish. His match against Farid Meraghni in the semifinals was a thing of beauty, and I urge you to [read about it](about:blank) in the coverage. It was, by far, the most entertaining match played on a Pro Tour Sunday. Although I am among those players who hope Gallitz will have a change of heart and come back to the game, he could not have had a much better exit.
+![](http://www.wizards.com/sideboard/images/PTSD02/600.jpg)
+
+The most amazing story of this Pro Tour is that of Donnie Gallitz. A true veteran, Gallitz has been a member of legendary teams such as Tongo Nation and The Jumble. He is a popular, well-known fixture of the Pro Tour. Gallitz has had long streaks of money finishes, but never once broke into a Top 8 despite having played in well over 20 Pro Tours. Early this weekend, Gallitz told his friends that he was done. San Diego was to be his last Pro Tour. He would quit the game to spend more time with his wife and pursue other hobbies, as well as his job. Gallitz fought his way to a Top 4 finish. His match against Farid Meraghni in the semifinals was a thing of beauty, and I urge you to [read about it](about:blank) in the coverage. It was, by far, the most entertaining match played on a Pro Tour Sunday. Although I am among those players who hope Gallitz will have a change of heart and come back to the game, he could not have had a much better exit.
 
 While San Diego was a breakout point for many players, it was a disappointing weekend for those considered the game's best. Kai Budde fought valiantly, having faced down two of the toughest draft tables seen on a Pro Tour on Day 2, only to finish out of the money in 77th place. Finkel dropped out before Day 2 was over, to end up 112th. Kamiel Cornelissen was looking very good after day 1, with a perfect 7-0 record. In a stunning reversal of fortune, he failed to win a single match in the second day, to finish 89th. Team CMU was widely expected to dominate this PT with their mastery of *Odyssey* draft format, but that did not materialize either. Johnson and Harvey failed to advance to Day 2. Turian did finish in the money, placing 57th.
 
@@ -182,7 +186,9 @@ Here's how popular the most successful players of the tournament were:
 
 ### San Diego Masters Series
 
-![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)The most popular creature in Standard is not Shadowmage Infiltrator. It's not Kavu Titan, nor Skizzik, nor Flametongue Kavu. It's not even an Elephant token. It's Psychatog. Psychatog?!? That's right, Psychatog. This uncommon card from *Odyssey* has dominated the Masters metagame. 
+![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)
+
+The most popular creature in Standard is not Shadowmage Infiltrator. It's not Kavu Titan, nor Skizzik, nor Flametongue Kavu. It's not even an Elephant token. It's Psychatog. Psychatog?!? That's right, Psychatog. This uncommon card from *Odyssey* has dominated the Masters metagame. 
 
 There were other decks. Brian Hegstad placed third with a u-w-g deck designed by Brian Kibler. Steve O'Mahoney-Schwartz fought his way through the Gateway and placed in the Top 8 with a red-green beatdown deck, but the majority of the field played Psychatog in various configurations of black-blue control decks. Ryan Fuller won the tournament with one such deck, defeating David Humpherys playing another. 
 
@@ -194,7 +200,9 @@ You can view all 32 deck lists (even the really long one) [here](about:blank).
 
 ### Eric Taylor Eats His Hat
 
-![](http://www.wizards.com/sideboard/images/PTSD02/512.jpg)"If Kai Budde wins this Pro Tour, I am going to eat my hat," boasted Eric Taylor just before Pro Tour-New Orleans. Budde won, and Taylor was now on the spot to prove he is the man of his word. Taylor did not back down - in fact, he promised that the hat-eating would take place at PT-San Diego. Being a man of his word, Taylor showed up with his hat and a large bottle of ketchup in the side event room of PT-San Diego on Sunday afternoon. Encouraged by the amused spectators, Taylor ate a large portion of the hat. Budde missed most of the event, as he was watching the Pro Tour Top 8 in the other room. 
+![](http://www.wizards.com/sideboard/images/PTSD02/512.jpg)
+
+"If Kai Budde wins this Pro Tour, I am going to eat my hat," boasted Eric Taylor just before Pro Tour-New Orleans. Budde won, and Taylor was now on the spot to prove he is the man of his word. Taylor did not back down - in fact, he promised that the hat-eating would take place at PT-San Diego. Being a man of his word, Taylor showed up with his hat and a large bottle of ketchup in the side event room of PT-San Diego on Sunday afternoon. Encouraged by the amused spectators, Taylor ate a large portion of the hat. Budde missed most of the event, as he was watching the Pro Tour Top 8 in the other room. 
 
 Special thanks to Michael Girard of [www.gameplayersnetwork.com](https://web.archive.org/web/20041230144943/http://www.wizards.com/leaving.asp?url=http://www.gameplayersnetwork.com&origin=sideboard_wir_20020117) for providing *The Sideboard* with photos of this momentous occasion. 
 
@@ -222,12 +230,16 @@ Please do not email answers to me. The correct answer will be posted in the next
 
 In the seventh round of Pro Tour-San Diego, Bryce Currence faced off against Roger Miller. Keep in mind that this is Rochester draft, so each knew exactly what cards his opponent has. 
 
-![](https://i.ormos.uk/22/9f/229fbd939257dd6b13c418d5143bd816d4a7f2a792a816695d17d0b60c82c38b.jpg)In the third game Bryce's g-u-b deck and Roger's u-w deck reached a creature stall. Bryce's Wild Mongrel was shut down by Kirtar's Desire and a few blockers, including Aven Flock, were holding off the rest of his team. Then Roger cast a Limestone Golem, and Bryce cracked a huge smile. He tapped four lands and cast his sideboard tech - Decimate! It targeted the Golem, Aven Flock, Kirtar's Desire and a plains. Although Roger was able to salvage situation at least somewhat by sacrificing the Golem to draw a card, he could not recover from the three-for-one spell that, literally, decimated his board. 
+![](https://i.ormos.uk/22/9f/229fbd939257dd6b13c418d5143bd816d4a7f2a792a816695d17d0b60c82c38b.jpg)
+
+In the third game Bryce's g-u-b deck and Roger's u-w deck reached a creature stall. Bryce's Wild Mongrel was shut down by Kirtar's Desire and a few blockers, including Aven Flock, were holding off the rest of his team. Then Roger cast a Limestone Golem, and Bryce cracked a huge smile. He tapped four lands and cast his sideboard tech - Decimate! It targeted the Golem, Aven Flock, Kirtar's Desire and a plains. Although Roger was able to salvage situation at least somewhat by sacrificing the Golem to draw a card, he could not recover from the three-for-one spell that, literally, decimated his board. 
 
 "I had remembered from the draft he had at least two Kirtar's Desires and a Sandstone Deadfall to go along with his Golem," explained Currence. "Even before the round was paired I was hoping to play Roger just to bring in Decimate."
 
 ### Bad Play of the Week
 
-![](https://i.ormos.uk/67/36/67363fe16c04dd4f523859287404efb0ad5b980d615016666d6a0bf0423cbdee.jpg)Noah Weil shared a play with me that he witnessed at a local tournament over a year ago. It was so horrendous, I did not really want to believe it actually happened - but he insists that it had. Apparently, a blue mage started his second turn with an island in play. He played a second island, tapped both and proceeded to cast Gush. After Gush resolved, the blue mage pondered his hand and attempted to play another land. When his opponent pointed out that he already played a land this turn, he frowned, burned for two, and discarded two cards!
+![](https://i.ormos.uk/67/36/67363fe16c04dd4f523859287404efb0ad5b980d615016666d6a0bf0423cbdee.jpg)
+
+Noah Weil shared a play with me that he witnessed at a local tournament over a year ago. It was so horrendous, I did not really want to believe it actually happened - but he insists that it had. Apparently, a blue mage started his second turn with an island in play. He played a second island, tapped both and proceeded to cast Gush. After Gush resolved, the blue mage pondered his hand and attempted to play another land. When his opponent pointed out that he already played a land this turn, he frowned, burned for two, and discarded two cards!
 
 Got an interesting news story, comment, quote, play of the week, or **Magic** trivia to report? Please e-mail me at ashv80@hotmail.com.

@@ -107,7 +107,9 @@ render_recovery:
   - Zombie Infestation
   occurrences: 56
 ---
-![](http://www.wizards.com/sideboard/images/natjp03/a985.jpg)Without a doubt, Katsuhiro Mori is one of the best known Japanese Magic players in the world. His playstyle is quick as lightning, and has to be seen to be believed. Aside from drawing plenty of interest at the feature match table from spectators for the way he plays, Mori can win a few matches too. He was Rookie of the Year two seasons ago, and just recently won the Venice Masters with his team PS2. The other players on that team? Masahiko Morita and Mori’s opponent this round, Masahiro Kuroda. Kuroda is best known for his Constructed skills, and is looking to finish off today’s Standard rounds with a perfect 3-0 record.
+![](http://www.wizards.com/sideboard/images/natjp03/a985.jpg)
+
+Without a doubt, Katsuhiro Mori is one of the best known Japanese Magic players in the world. His playstyle is quick as lightning, and has to be seen to be believed. Aside from drawing plenty of interest at the feature match table from spectators for the way he plays, Mori can win a few matches too. He was Rookie of the Year two seasons ago, and just recently won the Venice Masters with his team PS2. The other players on that team? Masahiko Morita and Mori’s opponent this round, Masahiro Kuroda. Kuroda is best known for his Constructed skills, and is looking to finish off today’s Standard rounds with a perfect 3-0 record.
 
 ### Game 1
 

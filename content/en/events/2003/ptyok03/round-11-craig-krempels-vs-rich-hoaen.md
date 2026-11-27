@@ -79,7 +79,9 @@ render_recovery:
   - Whipgrass Entangler
   occurrences: 24
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a812.jpg)Craig Krempels is a late bloomer among the TOGIT gang. When Gerard Fabiano, Osyp Lebedowicz, Eugene Harvey, and company all started winning Craig was still the last kid left standing against the gate when sides were chosen for drafts. Over the last year all of that has changed; not only is Craig in an excellent spot to make the first PT Top 8 of his career but he is pulling out into the lead in the Rookie of the Year race with his strong performance this weekend—he sat at 9-2 coming into this round. His deck is a U/W powerhouse with two Cloudreach Calvary and countless Gustcloak Harriers and Ascending Avens. He also has a Mobilization that he is not sure he should have taken over what would have been his fourth Harrier.
+![](http://www.wizards.com/sideboard/images/ptyok03/a812.jpg)
+
+Craig Krempels is a late bloomer among the TOGIT gang. When Gerard Fabiano, Osyp Lebedowicz, Eugene Harvey, and company all started winning Craig was still the last kid left standing against the gate when sides were chosen for drafts. Over the last year all of that has changed; not only is Craig in an excellent spot to make the first PT Top 8 of his career but he is pulling out into the lead in the Rookie of the Year race with his strong performance this weekend—he sat at 9-2 coming into this round. His deck is a U/W powerhouse with two Cloudreach Calvary and countless Gustcloak Harriers and Ascending Avens. He also has a Mobilization that he is not sure he should have taken over what would have been his fourth Harrier.
 
 Richard Hoaen is not as impressed with his own deck. After going 7-0 and yesterday—the only player to do so—with Cleric decks, he found himself at 1-2 today with an unspectacular G/R deck with few spells and less removal. 
 
@@ -95,7 +97,9 @@ Craig – 1 Rich - 0
 
 Craig—always one to keep his opponents guessing—sided in three cards. He took out a Plains and an Island for a Plains and an Island in his board. The real card he boarded was a backslide that he took a Daru Sanctifier out for. Rich looked sheepish as he sided in a Biorhythm and a Spitfire Handler.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a815.jpg)Rich mulliganed his opening hand while Craig flashed me a grip of Cloudreach, two Harriers, AND the mana to cast them. Hoaen needed to mulligan to six good cards.
+![](http://www.wizards.com/sideboard/images/ptyok03/a815.jpg)
+
+Rich mulliganed his opening hand while Craig flashed me a grip of Cloudreach, two Harriers, AND the mana to cast them. Hoaen needed to mulligan to six good cards.
 
 Rich played morphs on the his third and fourth turns while Craig's board developed in a predictable fashion. Rich managed to make a race of it when he flipped over a Branchsnap Lorian and then played a Charging Slateback. Craig decided to give up a Harrier to kill the Lorian and a Mistform Shrieker and a Gempalm Avenger in his hand gave him multiple ways to win.
 

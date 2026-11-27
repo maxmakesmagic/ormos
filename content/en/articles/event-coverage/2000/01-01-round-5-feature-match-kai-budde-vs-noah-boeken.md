@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Ben Seck* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/830.jpg)The only two European representatives matched up in this round, with Kai Budde playing a Tempest, Urza's Legacy and Urza's Destiny version of Squirrel Prison. Noah was with a burn heavy Sligh deck, utilizing Tempest, Visions and Urza's Destiny. Kai has been having a terrible day so far, starting 0-4, whilst Noah was cruising at 3-1. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/830.jpg)
+
+The only two European representatives matched up in this round, with Kai Budde playing a Tempest, Urza's Legacy and Urza's Destiny version of Squirrel Prison. Noah was with a burn heavy Sligh deck, utilizing Tempest, Visions and Urza's Destiny. Kai has been having a terrible day so far, starting 0-4, whilst Noah was cruising at 3-1. 
 
 **Game 1** 
 

@@ -102,7 +102,9 @@ In a nutshell, what this amounts to is playing Constructed where the only cards 
 
 Of course, we managed to talk Chris into waiting until *Tenth Edition* came out, as it's always more fun to play with newer cards.
 
-![Tenth Edition Booster Display Box](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af181_10ebox.jpg)Magic before I joined WotC. I played **Magic** before the DCI existed. When I joined up with WotC during the first Clinton presidency I noted that my cards had lost all their perceived value in my own mind. I used to joke that working at WotC was probably like working at the US mint. After you've seen a couple shrink-wrapped pallets of $20 bills, you don't think about money the same way.
+![Tenth Edition Booster Display Box](http://media.wizards.com/legacy/magic/images/mtgcom/fcpics/latest/af181_10ebox.jpg)
+
+Magic before I joined WotC. I played **Magic** before the DCI existed. When I joined up with WotC during the first Clinton presidency I noted that my cards had lost all their perceived value in my own mind. I used to joke that working at WotC was probably like working at the US mint. After you've seen a couple shrink-wrapped pallets of $20 bills, you don't think about money the same way.
 
 *"A bit over a month ago, I felt like playing some **Magic**. While I draft from time to time, it's not really my preferred format. I like constructed. Being one of the heads of the DCI, the answer was obvious. I'd create a rule system that enforced the kind of scarcity and appreciation of limited sets of "owned cards" that doesn't exist naturally in WotC, where bomb rares are as common as grease stains on a fat man's tank top.*
 

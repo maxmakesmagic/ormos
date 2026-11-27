@@ -180,7 +180,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a927.jpg)　2 人とも青緑のデッキを使用し、先手を取った Jelger は《ナントゥーコの信奉者/Nantuko Disciple》、《ボールシャンのグリフィン/Balshan Griffin》と並べ、対する Tom も《ナントゥーコの信奉者》、《地図作り/Cartographer》と、ダメージ量ではあまり変わらない場で 1 進 1 退の攻防を繰り広げている。
+![](http://www.wizards.com/sideboard/images/ptnice02/a927.jpg)
+
+　2 人とも青緑のデッキを使用し、先手を取った Jelger は《ナントゥーコの信奉者/Nantuko Disciple》、《ボールシャンのグリフィン/Balshan Griffin》と並べ、対する Tom も《ナントゥーコの信奉者》、《地図作り/Cartographer》と、ダメージ量ではあまり変わらない場で 1 進 1 退の攻防を繰り広げている。
 
 　とはいえ、 Tom は飛行に攻撃されている事を考えると、このままではいけないので戦線に《突っ走るケンタウルス/Crashing Centaur》を場に放つ。  
  　ではこちらはと《かそけき翼/Ghostly Wings》を《ナントゥーコの信奉者》に付け、《セファリッドの物あさり/Cephalid Looter》をキャストし、 Jelger は手札と場を一気に固める事に。
@@ -216,7 +218,9 @@ Jelger 1 - 1 Tom
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a925.jpg)　Tom が 1 マリガンをしたところで、 Jelger の先手で 3 本目を開始。
+![](http://www.wizards.com/sideboard/images/ptnice02/a925.jpg)
+
+　Tom が 1 マリガンをしたところで、 Jelger の先手で 3 本目を開始。
 
 　2 ターン目に手札を捨てる覚悟で《思考を食うもの/Thought Eater》をキャストし、次ターンに《シートンの願望/Seton's Desire》を付け、《ナントゥーコの信奉者》まで出して Tom を完全に圧倒。
 

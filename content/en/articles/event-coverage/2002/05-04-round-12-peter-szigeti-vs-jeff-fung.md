@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a773.jpg)These two bad boys were once members of the Magic Colony, and they are both poised to make the Top 8 going into the round. I expect a fast and furious game as both are playing green/red (Szigeti is splashing black), and these two have played each other enough time to alleviate the need for mind games. Banter, however, will be plentiful. Szigeti is a little worried, claiming that his deck isn't very good. (You can read about his draft [here.](/en/articles/event-coverage/2002/05-04-draft-4)
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptnice02/a773.jpg)
+
+These two bad boys were once members of the Magic Colony, and they are both poised to make the Top 8 going into the round. I expect a fast and furious game as both are playing green/red (Szigeti is splashing black), and these two have played each other enough time to alleviate the need for mind games. Banter, however, will be plentiful. Szigeti is a little worried, claiming that his deck isn't very good. (You can read about his draft [here.](/en/articles/event-coverage/2002/05-04-draft-4)
 
 Szigeti won the roll, and after debating if the position of the playmat was important, chose to play first.
 

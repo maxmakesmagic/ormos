@@ -159,7 +159,9 @@ Welcome to Japan Week! This week we'll be exploring the impact that **Magic** ha
 
 ### “Hey Mark, How'd You Like A Free Trip To Japan?”
 
-![](https://i.ormos.uk/a8/93/a893792d8171a0d6b173eec344b576a2319d2bf341583ca1e0e9b1e84c3dbbe0.jpg)Ever since I was a little kid, I'd always loved the idea of traveling the world. But before I got to Wizards of the Coast (with the sole exception of a three-week student trip to Europe when I was 13), I hadn't gotten much chance to scratch that itch. And then for the last nine years I've been scratching like a madman. But this story takes place about half a year after I had started working for Wizards. Before traveling around the world had become commonplace. Back then I'd had some opportunity to travel around North America, but I'd yet to go overseas. But **Magic** sold cards in other countries, right? Surely, my chance would come.
+![](https://i.ormos.uk/a8/93/a893792d8171a0d6b173eec344b576a2319d2bf341583ca1e0e9b1e84c3dbbe0.jpg)
+
+Ever since I was a little kid, I'd always loved the idea of traveling the world. But before I got to Wizards of the Coast (with the sole exception of a three-week student trip to Europe when I was 13), I hadn't gotten much chance to scratch that itch. And then for the last nine years I've been scratching like a madman. But this story takes place about half a year after I had started working for Wizards. Before traveling around the world had become commonplace. Back then I'd had some opportunity to travel around North America, but I'd yet to go overseas. But **Magic** sold cards in other countries, right? Surely, my chance would come.
 
 One day while I was visiting *The Duelist* (this was before I became editor-in-chief and was merely R&D liaison to *The Duelist*) I was approached by Wendy Noritake, *The Duelist's* publisher. The conversation started with the quote that heads this section. You see, Wendy was trying to convince our Japanese partner to print a Japanese version of *The Duelist*. To help close the deal Wendy was planning on attending the very first Grand Prix in Japan. And then it dawned on her that it might be good PR move to run a *Duelist* sponsored side event at the Grand Prix. But she only had the budget to take one other person. She needed to find a *Duelist* staffer capable of running a side event all by himself. And wouldn't you know it, only one member of the staff had judging experience. Or should I say one liaison to the staff.
 
@@ -206,7 +208,9 @@ Besides the Tournament Center, I also get the chance to see a number of Tokyo si
 
 ### Down By The Old Mil Stream
 
-![](https://i.ormos.uk/a2/8c/a28c342741e7c4f89a75168110bbee3658bba1fa421a6a1799250e376a272096.jpg)The Tokyo Grand Prix was the third Grand Prix ever held (the first one was in Amsterdam and the second in Washington D.C.) and the first one to be held in Asia. While we had gotten good turnouts, everyone believed that Tokyo was going to crush the record. In fact, many Wizardsfolk thought that the tournament could reach four digits. There had never been a **Magic** tournament with a thousand players so everyone was rightfully excited.
+![](https://i.ormos.uk/a2/8c/a28c342741e7c4f89a75168110bbee3658bba1fa421a6a1799250e376a272096.jpg)
+
+The Tokyo Grand Prix was the third Grand Prix ever held (the first one was in Amsterdam and the second in Washington D.C.) and the first one to be held in Asia. While we had gotten good turnouts, everyone believed that Tokyo was going to crush the record. In fact, many Wizardsfolk thought that the tournament could reach four digits. There had never been a **Magic** tournament with a thousand players so everyone was rightfully excited.
 
 But I wasn't working the Grand Prix. I was in charge of the all-Revised sealed deck side event. And surprise, surprise, it was kind of popular. Actually, a little too popular. You see, getting a chance to pick up *Revised* cards was such a draw, some people who came to play in the Grand Prix were skipping it to play in *The Duelist* side event. Now remember, the entire event was put together as a PR move to make our Japanese partners happy. But they were very invested in having the Grand Prix hit a thousand players so they weren't too happy seeing *The Duelist event* messing with those plans. 
 
@@ -218,7 +222,9 @@ Luckily, we had brought one Wizards employee that actually spoke Japanese. She w
 
 ### Not So Trivial
 
-![](https://i.ormos.uk/6a/08/6a082dd7c92a3d6bbc5e09bf4c36429a37117421c8c54d1028c2aafa7087e908.jpg)Before I worked at Wizards, I lived in Los Angeles. Because I was privy to upcoming cards (I was freelancing at the time – mostly writing articles and puzzles for *The Duelist*), I was banned from sanctioned play. So I got into judging. And every convention after my judging duties were over, I'd run a **Magic** trivia contest (aka a game show). When I started working Pro Tours, I carried the tradition over. Everyone knew me as the **Magic** trivia guy. So when the Japanese heard I was coming, they begged me to do a trivia show. Who was I to say no?
+![](https://i.ormos.uk/6a/08/6a082dd7c92a3d6bbc5e09bf4c36429a37117421c8c54d1028c2aafa7087e908.jpg)
+
+Before I worked at Wizards, I lived in Los Angeles. Because I was privy to upcoming cards (I was freelancing at the time – mostly writing articles and puzzles for *The Duelist*), I was banned from sanctioned play. So I got into judging. And every convention after my judging duties were over, I'd run a **Magic** trivia contest (aka a game show). When I started working Pro Tours, I carried the tradition over. Everyone knew me as the **Magic** trivia guy. So when the Japanese heard I was coming, they begged me to do a trivia show. Who was I to say no?
 
 One afternoon after my side event was over, I was scheduled to run a game show. I was provided with numerous prizes and a bevy of Japanese women to help me. The event started out with me being introduced by two rather attractive Japanese women. But rather than talk directly to the audience, they did what could most accurately be described as a little play. I was informed by someone who spoke the language that the entire dialogue was about me. Once I took the stage, the women just kept posing near me. 
 

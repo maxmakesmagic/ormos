@@ -50,7 +50,9 @@ Cuartos De Final, Mesa 3
 
 Primer juego 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/891.jpg)En el sorteo Le Saux gana y elige robar. Los dos comienzan especulando hasta que en el cuarto turno Jose Barbero juega una Necropotence y roba siete cartas, se descarta de otra Necro y pasa. Le Saux juega Scrubland y un Seal of Cleansing y tambien pasa. Noten que podria haber destruido la Necropotence de Barbero, pero en cambio se lo quedo y esto tuvo un resultado decisivo en el juego, ya que cuando Barbero por fin consigue bajar el Illusions of Grandeur, el jugador chileno no tuvo mas que esperar a que se resolviese el Grandeur y responder al efecto de ganancia de vidas y destruir el Delusions con el Seal para ganar el primer juego. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/891.jpg)
+
+En el sorteo Le Saux gana y elige robar. Los dos comienzan especulando hasta que en el cuarto turno Jose Barbero juega una Necropotence y roba siete cartas, se descarta de otra Necro y pasa. Le Saux juega Scrubland y un Seal of Cleansing y tambien pasa. Noten que podria haber destruido la Necropotence de Barbero, pero en cambio se lo quedo y esto tuvo un resultado decisivo en el juego, ya que cuando Barbero por fin consigue bajar el Illusions of Grandeur, el jugador chileno no tuvo mas que esperar a que se resolviese el Grandeur y responder al efecto de ganancia de vidas y destruir el Delusions con el Seal para ganar el primer juego. 
 
 Le Saux 1 - Barbero 0 
 

@@ -214,7 +214,9 @@ render_recovery:
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/07/eb/07ebf77df04fb45c0af3eec662115d574a457d867b1beb57fde0762697efdb4f.jpg)With an expectation of record breaking attendance (and that expectation was met this morning with over 1500 attendees shattering the previous high water mark for a North American Grand Prix), Grand Prix Trials for three byes were in high demand last night. The fact that they were Sealed Deck, utilizing the incredibly scarce M10, certainly motivated players as well. It would also provide a first look at what color combinations and cards had what it took to make it through a 32-person elimination bracket.
+![](https://i.ormos.uk/07/eb/07ebf77df04fb45c0af3eec662115d574a457d867b1beb57fde0762697efdb4f.jpg)
+
+With an expectation of record breaking attendance (and that expectation was met this morning with over 1500 attendees shattering the previous high water mark for a North American Grand Prix), Grand Prix Trials for three byes were in high demand last night. The fact that they were Sealed Deck, utilizing the incredibly scarce M10, certainly motivated players as well. It would also provide a first look at what color combinations and cards had what it took to make it through a 32-person elimination bracket.
 
 Coming here on the train yesterday, I was chatting with Hall of Famer Zvi Mowshowitz about the format and what would be the dominant trait of winning decklists. There were 18 separate single-elimination tournaments last night and we thought we would take a look at some of the winning lists and see if the format was indeed dominated by rares like Baneslayer Angel and Planeswalkers, uncommons such as Overrun, Mind Control, and Fireball, or if multiple copies of ther high end commons like Lightning Bolt was what it took to push a deck over the top. Some of the decklists from later events have been misplaced overnight but the first nine paint a pretty interesting picture of what a winning decklist looks like.
 

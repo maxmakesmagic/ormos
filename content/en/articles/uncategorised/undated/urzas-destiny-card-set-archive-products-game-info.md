@@ -57,7 +57,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/69/86/69865829f09614ed37354f77890113291f448bbd3e954b316c9b8c0c5379631b.png)This 143-card set includes randomly inserted foil premium cards. It’s the third and final set in the *Urza* block, which features new mechanics like Cycling, Echo, Sleeping Enchantments, and Growing Enchantments.
+![](https://i.ormos.uk/69/86/69865829f09614ed37354f77890113291f448bbd3e954b316c9b8c0c5379631b.png)
+
+This 143-card set includes randomly inserted foil premium cards. It’s the third and final set in the *Urza* block, which features new mechanics like Cycling, Echo, Sleeping Enchantments, and Growing Enchantments.
 
 **Set Name:** *Urza’s Destiny*  
 **Block:** Set 3 of 3 of the *Urza* Block  

@@ -107,7 +107,9 @@ Expect to see all three players in attendance in Australia at the kickoff for a 
 
 "While registering this year for college, I chose to have most of my subjects in the second semester so that I only have one in the first semester in order to get the most of **Magic**," explained Andre as he geared up for three months of nearly non-stop **Magic**. "I guess that when people really want something they just make it work." 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok07/R11_Andre.jpg)Andre has had great success in Grand Prix competition over the past two seasons and was rather surprised when he was not included in the pared-down ballots for Road Warrior this year—a factor in his decision to attend so many events this season, although he did not expect that he would be stamping his passport as thoroughly as he will by year's end, including brief stays in Thailand, Japan, Poland, and the U.S. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok07/R11_Andre.jpg)
+
+Andre has had great success in Grand Prix competition over the past two seasons and was rather surprised when he was not included in the pared-down ballots for Road Warrior this year—a factor in his decision to attend so many events this season, although he did not expect that he would be stamping his passport as thoroughly as he will by year's end, including brief stays in Thailand, Japan, Poland, and the U.S. 
 
 "The criterion for Road Warrior was about how many GPs people played, which is really a matter of time and money and not about skill or scores," explained Andre, who originally expected to play in only ten events in hoping of getting on next year's ballot. "I got some good scores and that changed the situation."
 

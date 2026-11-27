@@ -89,7 +89,9 @@ When the pairings went up for the first round, Osyp was in disbelief. He checked
 
 ### Game 1
 
-![](https://i.ormos.uk/93/b8/93b81ba9b850a8755ad1ec032a2519b4e5c537cd68a3f2a51b5382d20b8bac9b.jpg)Lebedowicz went first, playing Ancient Tomb. Harvey's Duress revealed Crumbling Sanctuary, Mana Leak, Thran Dynamo, Voltaic Key, island and Ancient Tomb\- the Dynamo headed to the graveyard. Lebedowicz simply played lands for a few turns, while Harvey dug into his deck with Brainstorm and Accumulated Knowledge. Tangle Wire was Mana Leaked, and Lebedowicz paid three mana.
+![](https://i.ormos.uk/93/b8/93b81ba9b850a8755ad1ec032a2519b4e5c537cd68a3f2a51b5382d20b8bac9b.jpg)
+
+Lebedowicz went first, playing Ancient Tomb. Harvey's Duress revealed Crumbling Sanctuary, Mana Leak, Thran Dynamo, Voltaic Key, island and Ancient Tomb\- the Dynamo headed to the graveyard. Lebedowicz simply played lands for a few turns, while Harvey dug into his deck with Brainstorm and Accumulated Knowledge. Tangle Wire was Mana Leaked, and Lebedowicz paid three mana.
 
 A second Mana Leak was countered with Lebedowicz's Leak, allowing the artifact to resolve. Harvey tapped all his mana on upkeep, drew, and cast Fact or Fiction. The piles presented were Polluted Delta/island/swamp and Psychatog/Duress; Harvey took the two card pile. He then played a swamp and used the Duress, seeing Mana Leak and Crumbling Sanctuary, sending the counterspell to the graveyard. Without much else to do, Lebedowicz played Crumbling Sanctuary, and Rishadan Port. He would need to draw a threat soon while the Tangle Wire was still holding down Harvey's lands.
 

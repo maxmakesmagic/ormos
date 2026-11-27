@@ -55,7 +55,9 @@ Even at an event as star-studded as this there are a few names that stick out. T
 
 And what interviews they are! No less than defending GP - Singapore Champion Sam Lau, rising star Albertus Law, and the japanese mastermind fresh off his mammoth win at Kobe, Itaru Ishida! Their brains are yours for the picking!
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/978.jpg)Sam Lau is seen locally to be one of the more consistent players. Jumping into the limelight with a Top 8 finish at the 1998 APAC Championships in Tokyo, Japan, he soon followed up with a victory at the 1999 Singapore National Championships, and another win at Grand Prix - Singapore 2000. This year, he probably would've continued this streak by winning the Singapore National Championships for the second time, alas for a little mistake, which eventually cost him the title.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/978.jpg)
+
+Sam Lau is seen locally to be one of the more consistent players. Jumping into the limelight with a Top 8 finish at the 1998 APAC Championships in Tokyo, Japan, he soon followed up with a victory at the 1999 Singapore National Championships, and another win at Grand Prix - Singapore 2000. This year, he probably would've continued this streak by winning the Singapore National Championships for the second time, alas for a little mistake, which eventually cost him the title.
 
 It seems that Lau is still a little unfamiliar with Invasion Block Constructed, as his preparation was focused on the 2001 World Championships. Coming out of that tournament, he found himself plunged in the middle of a locally mature IBC metagame, and needed to catch up on the latest developments in time for this tournament - fast.
 
@@ -63,13 +65,17 @@ Such background may help in explaining why he chose to use David Price's 'Monkey
 
 Like many of the participants in this tournament, he expected lots and lots of 'bears' to show up, although he has specific designs in mind, such as NoMar, Solution and a smattering of red-green. However, unlike some of his teammates, who have decided to fight the bear resurgence, he adopted the "if you can't beat 'em, join 'em" philosophy, as he hopes to ride his own 2/2s to try and win again.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/976.jpg)Albertus Law is one of the more recent rising stars on the Pro Tour scene. Riding a hot streak that began with a Top 16 finish at Pro Tour- Tokyo and continued with a Top 8 finish at Pro Tour-Barcelona, Law joined the ranks of one of three APAC players to break the Top 8 at a Pro Tour. He chose to sit out this past World Championships at Toronto, Canada due to other commitments, and is now back on the professional scene at this Grand Prix.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/976.jpg)
+
+Albertus Law is one of the more recent rising stars on the Pro Tour scene. Riding a hot streak that began with a Top 16 finish at Pro Tour- Tokyo and continued with a Top 8 finish at Pro Tour-Barcelona, Law joined the ranks of one of three APAC players to break the Top 8 at a Pro Tour. He chose to sit out this past World Championships at Toronto, Canada due to other commitments, and is now back on the professional scene at this Grand Prix.
 
 Today, he has chosen to bring along his "Counter-Trench" deck, a white-blue-red deck that was first popularized by Ben Seck at the World Championship PTQs, and then continued on to bring Itaru Ishida the championship in Kobe, the largest event ever. Based on the last-minute Trials held the previous day, Law came into this tournament expecting blue-green bear decks, such as the straight blue-green "Liquid Tempo" decks and it's more recent development, David Price's 'Monkey, May I?' deck, sure to be popular after its win at Grand Prix - Santiago. In testing, such decks had always been a favorable matchup for Counter-Trench, which formed the basis of why he chose to play that deck.
 
 Playing the metagame is always a risky gambit, but if done properly, the rewards are absolutely amazing, as evidenced by Zvi Mowshowitz's victory at Pro Tour-Tokyo in a sea of red decks. Law certainly has the skills required to make a safe prediction, and can now hope to reap the rewards of his research.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/977.jpg)By now, Itaru Ishida should need no introduction. Call him what you want, Team Draft Mastermind, Grand Prix Kobe Champion, or simply a great player, the compliments roll right off his back. Modest almost to a fault, Ishida definitely doesn't take anything for granted. You've got to believe that he was the man everyone was watching after he took the crown at Kobe, and he couldn't simply show up with the same deck and hope to win a second time.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/977.jpg)
+
+By now, Itaru Ishida should need no introduction. Call him what you want, Team Draft Mastermind, Grand Prix Kobe Champion, or simply a great player, the compliments roll right off his back. Modest almost to a fault, Ishida definitely doesn't take anything for granted. You've got to believe that he was the man everyone was watching after he took the crown at Kobe, and he couldn't simply show up with the same deck and hope to win a second time.
 
 For Singapore, Ishida expected a field filled with New Solution and Green-Blue-Red Tempo decks. Both have been widely discussed on the internet (particularly after Santiago), and the former serves as a fair answer for the latter. Still, Ishida didn't want to mire himself in mirror matches for thirteen rounds, and so he needed a deck that could beat both. Something like the second place deck at Grand Prix - Denver.
 

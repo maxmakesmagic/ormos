@@ -103,7 +103,9 @@ So *that* is what I'm up to today. If it sounds interesting, stick around.
 
 **"Every act of creation is first of all an act of destruction."**
 
-[![Demolish](https://i.ormos.uk/2b/c7/2bc7661ee90a735c33231ac5c48876cae8c5a80355a37aed055021cc5e34e2ac.jpg)](https://web.archive.org/web/20080204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Demolish)My major in college was broadcast & film (aka TV and movies) with an emphasis in screenwriting. As such, I took quite a number of screenwriting courses. Of all the things I learned in those classes the following quotation was one of the lessons that most stuck with me and I believe has greatly influenced how I both wrote and do card design. Here's the quote:
+[![Demolish](https://i.ormos.uk/2b/c7/2bc7661ee90a735c33231ac5c48876cae8c5a80355a37aed055021cc5e34e2ac.jpg)](https://web.archive.org/web/20080204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Demolish)
+
+My major in college was broadcast & film (aka TV and movies) with an emphasis in screenwriting. As such, I took quite a number of screenwriting courses. Of all the things I learned in those classes the following quotation was one of the lessons that most stuck with me and I believe has greatly influenced how I both wrote and do card design. Here's the quote:
 
 > ***No scene is worth a line; no movie is worth a scene.***
 
@@ -117,7 +119,9 @@ So what does this have to do with trading card design? Everything.
 
 **"In the land of the blind, the one-eyed is king."**
 
-[![Borborygmos](https://i.ormos.uk/d9/14/d914a6c55e9a861900d53c0f1a41564c40081d3eb4202bef0f006104eb4c0933.jpg)](https://web.archive.org/web/20080204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Borborygmos)Now let's talk about how this applies to trading card design. Most people when they try to evaluate a set start by looking at individual cards. In fact, most of the articles that surround a set's release begin by examining the cards one by one. Because of this, I believe many people jump to the following conclusio: the quality of a set is determined by the quality of the individual cards in that set. Show of hands - who agrees with that statement? Who disagrees? Second group, you get a gold star. The quality of a set (in my humble opinion) is not determined by the quality of the individual cards.
+[![Borborygmos](https://i.ormos.uk/d9/14/d914a6c55e9a861900d53c0f1a41564c40081d3eb4202bef0f006104eb4c0933.jpg)](https://web.archive.org/web/20080204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Borborygmos)
+
+Now let's talk about how this applies to trading card design. Most people when they try to evaluate a set start by looking at individual cards. In fact, most of the articles that surround a set's release begin by examining the cards one by one. Because of this, I believe many people jump to the following conclusio: the quality of a set is determined by the quality of the individual cards in that set. Show of hands - who agrees with that statement? Who disagrees? Second group, you get a gold star. The quality of a set (in my humble opinion) is not determined by the quality of the individual cards.
 
 To prove my point: Let's try a hypothetical experiment. Let's say as lead designer of a set I design a skeleton that plans out what role each card is going to have. This card is a small white common creature. This card is an uncommon red direct damage spell. This card is a rare black build-around-me enchantment. Then I find the top X card designers in the world where X is the number of cards in the set. I give each designer a slot and give them six months to design their one card. Meanwhile during the same six months, I take a stab at designing a card for each slot. At the end of six months, I have two sets, one designed by the cadre of top designers and one designed by myself. Which one would be better?
 
@@ -135,7 +139,9 @@ This brings us back to my professor's quotation. Let's now apply it to trading c
 
 **"Discovery consists of seeing what everybody has seen and thinking what nobody has thought."**
 
-[![Train_of_Thought](https://i.ormos.uk/e5/a4/e5a40658a839397dbc5a3121f195b30a5efe5669b9d6a58518837eddfa941c51.jpg)](https://web.archive.org/web/20080204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Train%2Bof%2BThought)So how does all of this tie into what race/class offers design? For starters, I think it shows that I am looking from a very different vantage point when I examine race/class. I wasn't looking for what individual cards it can create but rather what kind of an *environment* it can create. What can be done with race/class not from an individual card design state of mind but from a collective synergy of the set state of mind? What kind of environment can race/class create that a single creature type cannot?
+[![Train_of_Thought](https://i.ormos.uk/e5/a4/e5a40658a839397dbc5a3121f195b30a5efe5669b9d6a58518837eddfa941c51.jpg)](https://web.archive.org/web/20080204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Train%2Bof%2BThought)
+
+So how does all of this tie into what race/class offers design? For starters, I think it shows that I am looking from a very different vantage point when I examine race/class. I wasn't looking for what individual cards it can create but rather what kind of an *environment* it can create. What can be done with race/class not from an individual card design state of mind but from a collective synergy of the set state of mind? What kind of environment can race/class create that a single creature type cannot?
 
 To understand this let's take a look at four creature types that I will call Creature Type A, Creature Type B, Creature Type C and Creature Type D. What kind of cards can I design in a single creature type world? I can make "Creature Type A Rocks" cards, "Creature Type B Rocks" cards, "Creature Type C Rocks" cards and "Creature Type D Rocks" cards. What decks will these allow? Four deck types - Creature Type A decks, Creature Type B decks, Creature Type C decks and Creature Type D decks.
 
@@ -235,7 +241,9 @@ Remember the importance on synergy that I explained above? More than anything, r
 
 ### Say Goodnight Gracie
 
-[![Voice_of_Grace](https://i.ormos.uk/33/1a/331a819dce61d28761a393d0a66d3a66d003830bed6a091a649f8aea8eac0898.jpg)](https://web.archive.org/web/20080204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Voice%2Bof%2BGrace)I hope today's column gave you all a few ideas to chew on. I'm curious to see your reactions in the thread and in my inbox. And if anyone else wants to write me a nasty email, feel free. I have a lot more columns to write.
+[![Voice_of_Grace](https://i.ormos.uk/33/1a/331a819dce61d28761a393d0a66d3a66d003830bed6a091a649f8aea8eac0898.jpg)](https://web.archive.org/web/20080204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Voice%2Bof%2BGrace)
+
+I hope today's column gave you all a few ideas to chew on. I'm curious to see your reactions in the thread and in my inbox. And if anyone else wants to write me a nasty email, feel free. I have a lot more columns to write.
 
 Join me next week when I'm more counter-intuitive than normal.
 

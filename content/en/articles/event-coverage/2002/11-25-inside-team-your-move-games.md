@@ -44,7 +44,9 @@ archive_source:
   sha256: bce40a7afaf746ad3cee8439350bc79a8665c35c98bb49191ba5ec9c81d3f86b
 render_recovery: []
 ---
-![](https://i.ormos.uk/2c/41/2c4153462c0c1df20291d12d90c45aa7dce81d8eca8efb3aa575ad902e2425df.jpg)Team Your Move Games has been a force on the Pro Tour for a very long time. We’ve been consistently putting players into Pro Tour Top 8s for years. Several times, through format-breaking decks or sheer play skill, we’ve put multiple players in the Top 8. Other teams have rivaled or exceeded our strength from time to time, but none have been so successful for so long.
+![](https://i.ormos.uk/2c/41/2c4153462c0c1df20291d12d90c45aa7dce81d8eca8efb3aa575ad902e2425df.jpg)
+
+Team Your Move Games has been a force on the Pro Tour for a very long time. We’ve been consistently putting players into Pro Tour Top 8s for years. Several times, through format-breaking decks or sheer play skill, we’ve put multiple players in the Top 8. Other teams have rivaled or exceeded our strength from time to time, but none have been so successful for so long.
 
 The Your Move Games team has quite a story behind it. There are the secrets to our past successes, our testing methods and what’s kept us together as a team. But perhaps the most interesting tale is how an event that threatened to tear the team apart led to two of Magic’s biggest names donning the red and black.
 
@@ -54,7 +56,9 @@ In my case, looking out for the well being of the team that represents my stores
 
 Being sponsored by YMG has never been a big money deal. I give my players some product, more at cost if they needed it, access to cards, and my help with deck design and testing (whether I’m qualified for the event or not).
 
-![](http://www.wizards.com/sideboard/images/pthou02/405.jpg)When I first started sponsoring players, I had a simple rule: you had to be a player at my store to be sponsored. I felt this was the best way to represent my shop. For some store owners, a policy like this would mean they wouldn’t have access to much talent, but I was fortunate enough to have a local player base that included Darwin Kastle and David Humpherys, among other talented folks. 
+![](http://www.wizards.com/sideboard/images/pthou02/405.jpg)
+
+When I first started sponsoring players, I had a simple rule: you had to be a player at my store to be sponsored. I felt this was the best way to represent my shop. For some store owners, a policy like this would mean they wouldn’t have access to much talent, but I was fortunate enough to have a local player base that included Darwin Kastle and David Humpherys, among other talented folks. 
 
 A nice side benefit of this “locals only” policy was that the whole team was in the area. We could get together several times a week for face-to-face testing. Many a night, we got together at Your Move Games after closing and played until the wee hours of the morning.
 
@@ -62,7 +66,9 @@ This rule found its exception quickly. Darwin Kastle wanted to work with Justin 
 
 This completed the core of team YMG: Justin Gary, David Humpherys, Darwin Kastle, and myself. Calling these players the core of the team is not to diminish the role and contributions of the other members (players like Chad Ellis, Chris Senhouse, and Danny Mandel); I’m defining core members as long term members solidly on the gravy train. 
 
-![](http://www.wizards.com/sideboard/images/pthou02/964.jpg)This was a wonderful team to be on. Our close proximity and frequent face-to-face testing (with lots of commuting for Justin) made us friends first and teammates second. I think this is how the intense feelings of camaraderie we share came about. It sounds corny, but the Your Move Games team feels like an extended family.
+![](http://www.wizards.com/sideboard/images/pthou02/964.jpg)
+
+This was a wonderful team to be on. Our close proximity and frequent face-to-face testing (with lots of commuting for Justin) made us friends first and teammates second. I think this is how the intense feelings of camaraderie we share came about. It sounds corny, but the Your Move Games team feels like an extended family.
 
 For being masters of Magic tech we were impressively behind the times with real technology. YMG has probably been the least internet-savvy team on the Pro Tour for a long time. While other teams were using Apprentice, we were making proxies with Sharpies. Justin kept trying to get the team on Apprentice so he could join the testing without driving down from New Hampshire, but with the rest of the team able to just pick up their cards and head to the shop, there was no way.
 
@@ -84,7 +90,9 @@ Justin's high profile landed him skilled teammates: Mike Long and Brian Schniede
 
 The following year, Justin paired up with Magic powerhouses David Williams and Bob Maher to form team “The Fix”. They kicked butt in sealed deck, but this group just didn’t have the team draft synergy going on. The only match they won on Day 2 came when a member of the opposing team spilled a drink (which was banned in the tournament area) and they got a critical game loss.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/913.jpg)Finally, Justin found a little team magic for the third Team PT with Illuminati ( Zvi Mowshowitz and Alex Shvartsman). They made the Top 4, and Justin finally had a team he was happy with. These three have been playing together ever since. 
+![](http://www.wizards.com/sideboard/images/ptbos02/913.jpg)
+
+Finally, Justin found a little team magic for the third Team PT with Illuminati ( Zvi Mowshowitz and Alex Shvartsman). They made the Top 4, and Justin finally had a team he was happy with. These three have been playing together ever since. 
 
 The rest of YMG couldn’t be happier for Justin. He had a breakthrough performance with a couple of really great guys. Their team-up meant Your Move Games had close relations with Zvi and Alex during the Team PT season, but the rest of the year, they had their own teams. 
 

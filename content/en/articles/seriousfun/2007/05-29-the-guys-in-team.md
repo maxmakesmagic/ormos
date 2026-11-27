@@ -106,7 +106,9 @@ There's a small "ding!" as my inbox gets another mail. It's from Scott Johns or 
 
 And so I hunch over the keyboard, desperately trying to think of some clever spin on the theme that nobody's tried before. 
 
-[![Team_Spirit](https://i.ormos.uk/05/4d/054dd61b2154daa07bf1234be2b5c9505adff59de971f7ee1a1c2b3c83ea11d2.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Team%2BSpirit)This week, however, was different. Kelly sent the email to me with a textual pump of the fist, saying, "This is right up your alley." And I looked at my assignment: 
+[![Team_Spirit](https://i.ormos.uk/05/4d/054dd61b2154daa07bf1234be2b5c9505adff59de971f7ee1a1c2b3c83ea11d2.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Team%2BSpirit)
+
+This week, however, was different. Kelly sent the email to me with a textual pump of the fist, saying, "This is right up your alley." And I looked at my assignment: 
 
 *Teamwork Week*
 
@@ -252,7 +254,9 @@ Drop your [Blasting Station](https://web.archive.org/web/20070529000000/https://
 
 **Be the Annoying Guy** 
 
-[![Taunting_Elf](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/ONS/Taunting_Elf.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Taunting%2BElf)Throw unfunny insults around. Make inappropriate jokes. Ask your buddies if they've broken up with that girl yet because you are looking for a date this weekend. Play that card that brings the game to a screeching halt two hours in and causes it to stretch out for another three hours. Wait until it's your turn to slowly decide what play you will be making. If they somehow let you win with your [Mephidross Vampire](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mephidross+Vampire) / [Triskelion](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Triskelion) deck, immediately play it again. Blame your losses on luck (in paper **Magic**) or the shuffler (in **Magic Online**). Don't forget to state how you would have won the game in one or two more rounds. Act like an immature thirteen-year-old (unless you *are* an immature thirteen-year-old, in which case, act like a forty-year-old going through a midlife crisis).
+[![Taunting_Elf](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/ONS/Taunting_Elf.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Taunting%2BElf)
+
+Throw unfunny insults around. Make inappropriate jokes. Ask your buddies if they've broken up with that girl yet because you are looking for a date this weekend. Play that card that brings the game to a screeching halt two hours in and causes it to stretch out for another three hours. Wait until it's your turn to slowly decide what play you will be making. If they somehow let you win with your [Mephidross Vampire](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mephidross+Vampire) / [Triskelion](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Triskelion) deck, immediately play it again. Blame your losses on luck (in paper **Magic**) or the shuffler (in **Magic Online**). Don't forget to state how you would have won the game in one or two more rounds. Act like an immature thirteen-year-old (unless you *are* an immature thirteen-year-old, in which case, act like a forty-year-old going through a midlife crisis).
 
 **Be the "Always Wins" Guy**
 
@@ -302,7 +306,9 @@ If you are worried about consistency, every single color has ways to manipulate 
 
 Browse through older sets and even high-level tournament decks from the past for ideas. Most playgroups allow you to play with whatever cards you can get your hands on, loosely adhering to the Legacy and Vintage banned and restricted lists, and playing older cards that nobody has ever seen will win you style points and confused looks from your opponents, who might not have any idea where your strategy is headed. 
 
-![Sylvan Library and Abundance](https://i.ormos.uk/2b/4f/2b4f1e759ff374ee7309d9328c511900e8fd5ad667b43828fb3f5125876987a8.jpg)That [Sylvan Library](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Library) / [Abundance](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Abundance) combo is still just as good as it was back in 1999, and may get you a few respectful nods from the old timers. *\[It would from me —The Ferrett\]* Dust off that pre-Extended trade binder and crap rare box—you might end up finding a gem amongst the rubbish, something to build around or just the card to fill the hole in your brilliant [Proteus Staff](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Proteus+Staff) / [Empty the Warrens](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Empty+the+Warrens) deck. Gatherer is an amazingly helpful resource for research; I recommend clicking the link in the top-right corner of this here site here and taking it for a spin. 
+![Sylvan Library and Abundance](https://i.ormos.uk/2b/4f/2b4f1e759ff374ee7309d9328c511900e8fd5ad667b43828fb3f5125876987a8.jpg)
+
+That [Sylvan Library](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Library) / [Abundance](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Abundance) combo is still just as good as it was back in 1999, and may get you a few respectful nods from the old timers. *\[It would from me —The Ferrett\]* Dust off that pre-Extended trade binder and crap rare box—you might end up finding a gem amongst the rubbish, something to build around or just the card to fill the hole in your brilliant [Proteus Staff](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Proteus+Staff) / [Empty the Warrens](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Empty+the+Warrens) deck. Gatherer is an amazingly helpful resource for research; I recommend clicking the link in the top-right corner of this here site here and taking it for a spin. 
 
 I mean, [Caverns of Despair](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Caverns+of+Despair)? Who knew? 
 
@@ -330,7 +336,9 @@ No deck can answer everything, nor can any strategy be completely bulletproof. A
 
 *Josh Bell*
 
-[![Overtaker](https://i.ormos.uk/4b/fc/4bfc8900a6019cab86c1d22e69e1a0f4d94d550b6dc3b9b4ea5be6e5d5b4d81a.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Overtaker)Hello, peons! I have come before you to reveal myself as *your ruler*!
+[![Overtaker](https://i.ormos.uk/4b/fc/4bfc8900a6019cab86c1d22e69e1a0f4d94d550b6dc3b9b4ea5be6e5d5b4d81a.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Overtaker)
+
+Hello, peons! I have come before you to reveal myself as *your ruler*!
 
 Wow, that was a terrible first impression. Just awful. And the trouble is that I don't get a second chance to leave a first impression. **Magic** is the same way, and the impression you leave with your group can stay with you for a very, very long time.
 
@@ -744,7 +752,9 @@ Chaos multiplayer is not a duel—and if you have the luxury of building decks s
 
 1. *Chaos takes longer.*
 
-[![Chaosphere](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/MI/Chaosphere.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Chaosphere)Generally chaos takes longer, as people have to guard their back and can't immediately commit to a single opponent. This leads to more mana on the table, which leads to bigger creatures, which changes the whole "burning up those creatures" dynamic. 
+[![Chaosphere](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/MI/Chaosphere.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Chaosphere)
+
+Generally chaos takes longer, as people have to guard their back and can't immediately commit to a single opponent. This leads to more mana on the table, which leads to bigger creatures, which changes the whole "burning up those creatures" dynamic. 
 
 This is the big one that people most often don't think through, as it has lots of implications (see points 4 and 5). Per each opponent beyond one, add, oh five turns to the length of game. I plucked this number from a smelly place based on this: a good aggro deck in a duel can wipe a mana-screwed helpless opponent out in five turns; in a three-way, the aggro deck takes ten turns to wipe out two helpless mana-screwed opponents. So, five turns per opponent beyond the first.
 
@@ -826,7 +836,9 @@ The problem is that all my decks were bred for dueling. Ferrett's talked about i
 
 First, use the snake.
 
-[![Death_Rattle](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/FUT/Death_Rattle.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Death%2BRattle)Anthony Alongi likened several types of cards to different animals. One analogy he used was "the Rattlesnake." These are cards that sit on the table, glaring menacingly at potential attackers.
+[![Death_Rattle](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/FUT/Death_Rattle.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Death%2BRattle)
+
+Anthony Alongi likened several types of cards to different animals. One analogy he used was "the Rattlesnake." These are cards that sit on the table, glaring menacingly at potential attackers.
 
 They don't have to be bombs; they can be little cards like [Seal of Doom](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Doom) or [Stinkweed Imp](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stinkweed+Imp), [Pyrohemia](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyrohemia) or [Pyrite Spellbomb](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyrite+Spellbomb). People see these and generally go somewhere else. Even a Rusalka, a [Hissing Miasma](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hissing+Miasma), or an innocuous-looking [Catapult Squad](https://web.archive.org/web/20070529000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Catapult+Squad) can be enough to hold back a small army.
 
@@ -862,7 +874,9 @@ I've been playing **Magic** for a long time; I started back with *Revised* and g
 
 I'm a casual player. 
 
-[![Frozen_Aether](https://i.ormos.uk/c1/48/c148e963bdd1281084fbd0fe2bb9ad355193fc864f48c3fb6b2fc34168ed6d86.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Frozen%2BAether)When I started playing, only one of my friends got into the game with me. We had a lot of fun for a while, but as he and I became used to the other's deck, things started to stagnate. With no variation, no differences in the way that we played, I could practically tell what Mitch was about to play before he could even draw it. 
+[![Frozen_Aether](https://i.ormos.uk/c1/48/c148e963bdd1281084fbd0fe2bb9ad355193fc864f48c3fb6b2fc34168ed6d86.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Frozen%2BAether)
+
+When I started playing, only one of my friends got into the game with me. We had a lot of fun for a while, but as he and I became used to the other's deck, things started to stagnate. With no variation, no differences in the way that we played, I could practically tell what Mitch was about to play before he could even draw it. 
 
 I almost left **Magic** entirely, but then I discovered that fellow classmates of mine liked to play, and around the lunch-table, my first multiplayer group assembled. I was instantly hooked. Everything that I knew about the game was turned on its head as I faced off against multiple opponents, and none of them played the way that Mitch did. Even better: none of them played the way that *I* did. 
 
@@ -876,7 +890,9 @@ On a whim, I decided that I'd contact Ferrett and take him up on his offer of ho
 
 But while I was expecting a new group and new decks, what I really wasn't prepared for was the immense *difference* in the multiplayer environment that my friends and I had suddenly found ourselves in. Decks that we had built that were nigh-unstoppable in our group's dynamic were suddenly running up against what seemed to us to be decks that were slapped together with powerful multiplayer cards... and we were *losing*. 
 
-[![Diabolic_Machine](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/5e/Diabolic_Machine.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Diabolic%2BMachine)Slowly, it dawned on me that all our theme decks and combo decks, decks that we were so proud of, decks that we *allowed* each other to pull off in our group, were in effect just announcing all of our plays beforehand to Ferrett's group. And those decks that seemed to us almost a random jumble of powerful multiplayer cards were, in fact, well-oiled machines designed to take our pants down and spank us. The group dynamic that I had been involved in just hadn't prepared me for what I was suddenly up against. I needed to adapt, for the first time in a long time. 
+[![Diabolic_Machine](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/5e/Diabolic_Machine.jpg)](https://web.archive.org/web/20070529000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Diabolic%2BMachine)
+
+Slowly, it dawned on me that all our theme decks and combo decks, decks that we were so proud of, decks that we *allowed* each other to pull off in our group, were in effect just announcing all of our plays beforehand to Ferrett's group. And those decks that seemed to us almost a random jumble of powerful multiplayer cards were, in fact, well-oiled machines designed to take our pants down and spank us. The group dynamic that I had been involved in just hadn't prepared me for what I was suddenly up against. I needed to adapt, for the first time in a long time. 
 
 I needed to change how I played, and I needed to figure out how to do so... fast.
 

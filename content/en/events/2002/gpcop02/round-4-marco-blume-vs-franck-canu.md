@@ -81,7 +81,9 @@ render_recovery:
   - Glory Seeker
   occurrences: 30
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a980.jpg)Marco Blume is a former German Champion and part of the Phoenix Foundation team that won [Boston](/en/articles/event-coverage/2002/09-27-live-coverage-of-2002-pro-tour-boston) a couple of weeks ago. Unfortunately his sealed deck for this tournament is not very powerful. He had to play blue, easily the weakest colour in the set. His opponent Franck Canu is a French player with a number of high finishes.
+![](http://www.wizards.com/sideboard/images/gpcop02/a980.jpg)
+
+Marco Blume is a former German Champion and part of the Phoenix Foundation team that won [Boston](/en/articles/event-coverage/2002/09-27-live-coverage-of-2002-pro-tour-boston) a couple of weeks ago. Unfortunately his sealed deck for this tournament is not very powerful. He had to play blue, easily the weakest colour in the set. His opponent Franck Canu is a French player with a number of high finishes.
 
 With the number of power cards in *Onslaught* it was a very humble start to the match. Marco Blume had not had the best of luck with his sealed deck and was one of the few people playing islands. His Riptide Biologist didn't look so good as Canu wasn't playing green spells.
 
@@ -101,7 +103,9 @@ Canu elected to go first. Yes, it should have been Marco's choice but as he was 
 
 A Sparksmith showed up for Canu but without more Goblins in support it wasn't going to bother Blume much as he had no 1 toughness monsters in play and a Daru Healer.
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a969.jpg)An Erratic Explosion took care of the Dive Bomber but only after it had caused Canu three mana burn as he'd mistakenly tried to cast it as an instant. Blume replaced it with a Soulgazer then boosted it with Improvised Armor. Choking Tethers ended the game a turn early.
+![](http://www.wizards.com/sideboard/images/gpcop02/a969.jpg)
+
+An Erratic Explosion took care of the Dive Bomber but only after it had caused Canu three mana burn as he'd mistakenly tried to cast it as an instant. Blume replaced it with a Soulgazer then boosted it with Improvised Armor. Choking Tethers ended the game a turn early.
 
 Canu 1-1 Blume
 

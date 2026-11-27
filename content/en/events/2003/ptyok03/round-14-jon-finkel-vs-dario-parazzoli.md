@@ -80,7 +80,9 @@ render_recovery:
   - Searing Flesh
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a759.jpg)Parazzoli can't make Top 8, and is willing to draw, but Finkel isn't sure that a draw will be good enough to carry him to Sunday. On top of that, Parazzoli wants to make Top 32, and won't concede, so both are playing it out- Finkel for Top 8, Parazzoli to play in the next Pro Tour.
+![](http://www.wizards.com/sideboard/images/ptyok03/a759.jpg)
+
+Parazzoli can't make Top 8, and is willing to draw, but Finkel isn't sure that a draw will be good enough to carry him to Sunday. On top of that, Parazzoli wants to make Top 32, and won't concede, so both are playing it out- Finkel for Top 8, Parazzoli to play in the next Pro Tour.
 
 ### Game 1
 
@@ -92,7 +94,9 @@ Finkel- 1 Parazzoli- 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a760.jpg)This time, Parazzoli drew lands and was able to put up a fight. He had Festering Goblin, and an Embalmed Brawler that came out as a 2/2. Finkel played a morph creature, and took three damage on the following attack. Parazzoli summoned Akroma's Devoted, and Finkel played another morph creature. It blocked the Brawler on the following attack, and flipped over after damage went on the stack to reveal Wall of Deceit, resulting in card advantage. Parazzoli cast Toxic Sliver, and ended his turn.
+![](http://www.wizards.com/sideboard/images/ptyok03/a760.jpg)
+
+This time, Parazzoli drew lands and was able to put up a fight. He had Festering Goblin, and an Embalmed Brawler that came out as a 2/2. Finkel played a morph creature, and took three damage on the following attack. Parazzoli summoned Akroma's Devoted, and Finkel played another morph creature. It blocked the Brawler on the following attack, and flipped over after damage went on the stack to reveal Wall of Deceit, resulting in card advantage. Parazzoli cast Toxic Sliver, and ended his turn.
 
 He attacked on the following turn and Festering Goblin was blocked by the other morph creature, which turned out to be Wall of Deceit as well. Finkel made a Mistform Dreamer, and Parazzoli used Cruel Revival on end step to kill a morph creature (Skirk Commando). Parazzoli attacked with Toxic Sliver and Akroma's Devoted\- the Dreamer blocked the Sliver and become one itself, and the on-table trick caused a trade that Parazzoli did not anticipate. Still, he wasn't out of gas and played Severed Legion along with the Festering Goblin that Cruel Revival got back. Finkel put a good clock in the air in the form of Ascending Aven, and it was soon racing against Parazzoli's Legion. Smokespew Invoker had potential to be a problem, but Parazzoli would need to draw two lands before he could start using its ability. 
 
@@ -102,7 +106,9 @@ Finkel- 1 Parazzoli- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a758.jpg)Both players started the game with morph creatures. Finkel attacked with his, and it was unblocked to deal two damage. Mistform Dreamer followed, and Parazzoli's morph got through for two damage. Akroma's Devoted gave Parazzoli a good blocker on the ground, so the Dreamer came over for two, and Finkel's evasion pressure increased with Covert Operative. Noxious Ghoul killed the Dreamer, but the Operative started swinging. Finkel summoned Keeneye Aven, and Parazzoli attacked with all his creatures.
+![](http://www.wizards.com/sideboard/images/ptyok03/a758.jpg)
+
+Both players started the game with morph creatures. Finkel attacked with his, and it was unblocked to deal two damage. Mistform Dreamer followed, and Parazzoli's morph got through for two damage. Akroma's Devoted gave Parazzoli a good blocker on the ground, so the Dreamer came over for two, and Finkel's evasion pressure increased with Covert Operative. Noxious Ghoul killed the Dreamer, but the Operative started swinging. Finkel summoned Keeneye Aven, and Parazzoli attacked with all his creatures.
 
 The Aven and morph blocked Akroma's Devoted, and when damage went on the stack, the morph flipped to reveal Wall of Deceit. Parazzoli cast Toxic Sliver, and ended his turn. The Operative and Aven attacked for five, and Finkel played a deadly Mistform Wall that could gain Toxic Sliver's ability. Parazzoli flipped over his morph to reveal Sootfeather Flock, and attacked with his team. Finkel's Walls contained the attack, and the counterattack along with Searing Flesh ended the match and sent Jon Finkel to the Top 8.
 

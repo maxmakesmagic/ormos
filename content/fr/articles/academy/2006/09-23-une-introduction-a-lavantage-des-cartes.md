@@ -105,7 +105,9 @@ render_recovery:
 
 * * *
 
-![Train_of_Thought](https://i.ormos.uk/e5/a4/e5a40658a839397dbc5a3121f195b30a5efe5669b9d6a58518837eddfa941c51.jpg)Soyez encore une fois les bienvenus, mes chers élèves. Ceux qui sont encore debout, asseyez-vous. Ceux qui sont déjà assis, installez-vous confortablement parce qu'on va réfléchir dur aujourd'hui. Dans notre leçon du jour, je vais vous présenter un des concepts théoriques de base de Magic : l'avantage des cartes. Il existe bien plus d'articles, à la fois bons et mauvais, sur l'avantage des cartes que sur tout autre complexité de Magic. C'était un des concepts stratégiques d'origine du jeu et il continue encore aujourd'hui à guider les actions des pros. Ayant dit cela, c'est mon tour de vous expliquer ces bases pour que vous compreniez de quoi il en retourne la prochaine fois que vous entendrez parler d'avantage des cartes, mais aussi pour que vous commenciez à l'utiliser dans votre jeu, car il vous aidera à devenir meilleur joueur à Magic.
+![Train_of_Thought](https://i.ormos.uk/e5/a4/e5a40658a839397dbc5a3121f195b30a5efe5669b9d6a58518837eddfa941c51.jpg)
+
+Soyez encore une fois les bienvenus, mes chers élèves. Ceux qui sont encore debout, asseyez-vous. Ceux qui sont déjà assis, installez-vous confortablement parce qu'on va réfléchir dur aujourd'hui. Dans notre leçon du jour, je vais vous présenter un des concepts théoriques de base de Magic : l'avantage des cartes. Il existe bien plus d'articles, à la fois bons et mauvais, sur l'avantage des cartes que sur tout autre complexité de Magic. C'était un des concepts stratégiques d'origine du jeu et il continue encore aujourd'hui à guider les actions des pros. Ayant dit cela, c'est mon tour de vous expliquer ces bases pour que vous compreniez de quoi il en retourne la prochaine fois que vous entendrez parler d'avantage des cartes, mais aussi pour que vous commenciez à l'utiliser dans votre jeu, car il vous aidera à devenir meilleur joueur à Magic.
 
 ### Qu'est-ce que j'en ai à faire de la théorie ?
 

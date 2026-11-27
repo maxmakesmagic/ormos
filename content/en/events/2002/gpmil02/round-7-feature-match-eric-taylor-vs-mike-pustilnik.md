@@ -389,13 +389,17 @@ render_recovery:
   - Flametongue Kavu
   occurrences: 1
 ---
-![](https://i.ormos.uk/48/46/4846eada7606dc1c47299b44d4858a1b67ce13a53db9c810a6568284b733f4fd.jpg)Eric Taylor, widely respected for his playing skills and social prestige on irc channel #mtgwacky, is coming hot off of a top 64 finish at PT Nice. Mike Flores recently picked him as one of the seven most important **Magic** writers of all time. Facing him is no less than PT Los Angeles 2001 champion and Limited master Michael Pustilnik. The winner of this match would have very comfortable odds of making it to the Top 8.
+![](https://i.ormos.uk/48/46/4846eada7606dc1c47299b44d4858a1b67ce13a53db9c810a6568284b733f4fd.jpg)
+
+Eric Taylor, widely respected for his playing skills and social prestige on irc channel #mtgwacky, is coming hot off of a top 64 finish at PT Nice. Mike Flores recently picked him as one of the seven most important **Magic** writers of all time. Facing him is no less than PT Los Angeles 2001 champion and Limited master Michael Pustilnik. The winner of this match would have very comfortable odds of making it to the Top 8.
 
 Taylor was playing the breakthrough deck of the tournament, the red-white-blue control deck with Goblin Trenches. He loved his Lightning Angels in his sideboard, attributing them to numerous wins. Pustilnik brought the ever-present Psychatog deck to the picnic.
 
 Taylor won the roll, and chose to go first. The first play of the game was Pustilnik's Nightscape Familiar, which was promptly set to burning with a Taylor Fire. Pustilnik then played the ravenous Psychatog. Taylor Repulsed it, then gained tempo by Memory Lapsing an end-of-turn Fact or Fiction. Pustilnik then replayed his Psychatog.
 
-![](https://i.ormos.uk/08/d1/08d13cad1da23639f7b32647972c5e87683dced3aaf86bd5992551fdbc7e7a95.jpg)The pace went from fast to frenetic as Taylor played a Repulse at the Psychatog. Pustilnik responded by playing a Repulse of his own at the Psychatog. But Taylor Memory Lapsed Pustilnik's Repulse, thus ensuring that the Doctor would not enjoy his next draw. Taylor then untapped and threw down a Fact or Fiction in his main phase. Pustilnik wouldn't hear any of that and Counterspelled the Fact or Fiction. Taylor was looking at his lands and sighing; he had drawn mostly Adarkar Wastes and Shivan Reefs, making all of his mana painful to use.
+![](https://i.ormos.uk/08/d1/08d13cad1da23639f7b32647972c5e87683dced3aaf86bd5992551fdbc7e7a95.jpg)
+
+The pace went from fast to frenetic as Taylor played a Repulse at the Psychatog. Pustilnik responded by playing a Repulse of his own at the Psychatog. But Taylor Memory Lapsed Pustilnik's Repulse, thus ensuring that the Doctor would not enjoy his next draw. Taylor then untapped and threw down a Fact or Fiction in his main phase. Pustilnik wouldn't hear any of that and Counterspelled the Fact or Fiction. Taylor was looking at his lands and sighing; he had drawn mostly Adarkar Wastes and Shivan Reefs, making all of his mana painful to use.
 
 Once again the Psychatog reared its ugly head. Taylor didn't counter it, but used a main phase Fact or Fiction. Pustilnik divided the piles into Goblin Trenches, Fire/Ice or Counterspell with two Islands. Taylor took the Counterspell pile. He then dropped the Trenches which was in his hand. 
 
@@ -407,7 +411,9 @@ Taylor may have been taking pain, but the suffering was worth it as he tapped tw
 
 Eric Taylor - Michael Pustilnik 1-0
 
-![](http://www.wizards.com/sideboard/images/gpmil02/950.jpg)The second game looked bad for Taylor, as he drew two Lightning Angels and a Goblin Trenches, along with an Absorb, Skycloud Expanse, Island, and Coastal Tower. He could do nothing against Pustilnik's turn two Nightscape Familiar, and used Memory Lapse on Pustilnik's second Familiar. Pustilnik tapped two mana, seeing his Circular Logic in hand, but then realized he didn't have any cards in his graveyard. He mana burned for two. The jig was up; Taylor knew at least one Logic was up Pustilnik's sleeve. 
+![](http://www.wizards.com/sideboard/images/gpmil02/950.jpg)
+
+The second game looked bad for Taylor, as he drew two Lightning Angels and a Goblin Trenches, along with an Absorb, Skycloud Expanse, Island, and Coastal Tower. He could do nothing against Pustilnik's turn two Nightscape Familiar, and used Memory Lapse on Pustilnik's second Familiar. Pustilnik tapped two mana, seeing his Circular Logic in hand, but then realized he didn't have any cards in his graveyard. He mana burned for two. The jig was up; Taylor knew at least one Logic was up Pustilnik's sleeve. 
 
 Taylor then played a Meddling Mage from off the top, naming Upheaval. But he wasn't quite anticipating what happened next. 
 

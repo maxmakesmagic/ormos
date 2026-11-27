@@ -53,7 +53,9 @@ archive_source:
   sha256: 696e2242f99668d25ca33fab4fdb120853f0c70babf360513f3b29ab303c2bc5
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a846.jpg)Zev Gurwitz is the accidental creator of Zevatog, the most dominant deck in Standard until recently. He had his first breakout performance at Nationals last year, when he went 5-1 in the draft portion of the tournament. He followed that up with an abysmal 1-5 in Standard, where he played Orbosition in a sea of Yavimaya Barbarians and Juntu Stakes. After winning his first individual Pro Tour Qualifier, he went to Nice and placed in the Top 32. "Mikey P" has won more than his fair share of high profile tournaments. Both players frequently play at Neutral Ground, and have an ongoing rivalry in staring contests. In fact, they decided to have a staring contest to decide who would go first instead of rolling dice or flipping a coin. It lasted about ten seconds, until Pustilnik was the first to laugh. 
+![](http://www.wizards.com/sideboard/images/usnat02/a846.jpg)
+
+Zev Gurwitz is the accidental creator of Zevatog, the most dominant deck in Standard until recently. He had his first breakout performance at Nationals last year, when he went 5-1 in the draft portion of the tournament. He followed that up with an abysmal 1-5 in Standard, where he played Orbosition in a sea of Yavimaya Barbarians and Juntu Stakes. After winning his first individual Pro Tour Qualifier, he went to Nice and placed in the Top 32. "Mikey P" has won more than his fair share of high profile tournaments. Both players frequently play at Neutral Ground, and have an ongoing rivalry in staring contests. In fact, they decided to have a staring contest to decide who would go first instead of rolling dice or flipping a coin. It lasted about ten seconds, until Pustilnik was the first to laugh. 
 
 ### Game 1
 
@@ -82,7 +84,9 @@ A squirrel attack took down some of Gurwitz's team with the help of Narcissism. 
 Pustilnik- "That's not good."  
  Gurwitz- "Heeeeere's Johnny! Oh, wait. There's Johnny. (Points to Jon Finkel at table next to him)" 
 
-![](http://www.wizards.com/sideboard/images/usnat02/a845.jpg)This gave Gurwitz threshold, so Vigilant Sentry pumped up the Aven as well, bringing Pustilnik to four. Mikey P needed to win on his next turn, counter the Champion when it came back out, or lose. Gurwitz untapped and summoned the Champ, and the only card in Pustilnik's hand happened to be Syncopate. It didn't matter, as the rest of Gurwitz's team was able to finish up the job.
+![](http://www.wizards.com/sideboard/images/usnat02/a845.jpg)
+
+This gave Gurwitz threshold, so Vigilant Sentry pumped up the Aven as well, bringing Pustilnik to four. Mikey P needed to win on his next turn, counter the Champion when it came back out, or lose. Gurwitz untapped and summoned the Champ, and the only card in Pustilnik's hand happened to be Syncopate. It didn't matter, as the rest of Gurwitz's team was able to finish up the job.
 
 Gurwitz- 1 Pustilnik- 0
 

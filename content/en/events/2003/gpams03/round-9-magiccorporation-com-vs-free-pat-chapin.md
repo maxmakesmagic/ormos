@@ -91,7 +91,9 @@ Both these Pro Teams scraped into day two with two losses. The pressure is on no
 
 <table>&#10;  <tbody><tr>&#10;    <td>A Mike Pustilnik</td>&#10;    <td>vs.</td>&#10;    <td>Franck Canu</td>&#10;  </tr>&#10;  <tr>&#10;    <td>B Ed Fear</td>&#10;    <td>vs.</td>&#10;    <td>Raphael Levy</td>&#10;  </tr>&#10;  <tr>&#10;    <td>C Andrew Stokinger</td>&#10;    <td>vs.</td>&#10;    <td>Christophe Haim</td>&#10;  </tr>&#10;</tbody></table>
 
-![](http://www.wizards.com/sideboard/images/gpams03/a919.jpg)Mikey P has an unwinnable matchup and Andy Stokinger shouldn't lose so the key match is the black-white mirror between Ed Fear and Raphael Levy. Last time these met was at World's 2000 where Levy came out the better.
+![](http://www.wizards.com/sideboard/images/gpams03/a919.jpg)
+
+Mikey P has an unwinnable matchup and Andy Stokinger shouldn't lose so the key match is the black-white mirror between Ed Fear and Raphael Levy. Last time these met was at World's 2000 where Levy came out the better.
 
 ### Game 1
 
@@ -115,7 +117,9 @@ Fear attacked with his morph anyway and Levy made it a little smaller and his Go
 
 Both Stokinger and Pustilnik went 1-0 up at this point to give Free Pat Chapin a lead across the board.
 
-![](http://www.wizards.com/sideboard/images/gpams03/a918.jpg)Levy Gooed the Feeder and nailed the Wretch with a Misery Charm before bolstering his defenses with a Starlight Invoker.
+![](http://www.wizards.com/sideboard/images/gpams03/a918.jpg)
+
+Levy Gooed the Feeder and nailed the Wretch with a Misery Charm before bolstering his defenses with a Starlight Invoker.
 
 Fear ran three morphs in only for Levy to pick the right blocks and send a Skinthinner and Wingbeat Warrior to the graveyard for no loss. Fear had to finish the Goo off with Profane Prayers before it got to dangerous.
 
@@ -129,7 +133,9 @@ Haim and Canu both leveled their matches to keep the overall match alive.
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpams03/a917.jpg)Game 3 of the seat C match between Haim and Stokinger saw Haim's white-blue deck holding off Stokinger's Mistform Warchief, morph and a Callous Oppressor with a Noble Templar and Aven Redeemer. Haim was also playing red and when he found a mountain he was able to get rid of the Oppressor with Scattershot.
+![](http://www.wizards.com/sideboard/images/gpams03/a917.jpg)
+
+Game 3 of the seat C match between Haim and Stokinger saw Haim's white-blue deck holding off Stokinger's Mistform Warchief, morph and a Callous Oppressor with a Noble Templar and Aven Redeemer. Haim was also playing red and when he found a mountain he was able to get rid of the Oppressor with Scattershot.
 
 This was starting to look like the key match as Canu had just summoned a turn 4 Forgotten Ancient to give Pustilnik real worries in his game.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 0fc1efa655ccbb545b28b4c8919c3851b440a7dd2346f74d1ee063c72732067b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a884.jpg)The Top 8 draft at Grand Prix-Naples was full of established players, the 218 Italians in attendance being unable to secure a spot. Instead the table was comprised of four Germans, three Frenchmen, and a single Dutchman.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a884.jpg)
+
+The Top 8 draft at Grand Prix-Naples was full of established players, the 218 Italians in attendance being unable to secure a spot. Instead the table was comprised of four Germans, three Frenchmen, and a single Dutchman.
 
 The quarterfinal matches:
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 One more match to go to determine the champion of Prague. On the side is the veteran French player Raphael Levy, on the other is the unknown Stefan Jedlicka from Austria.
 
-![](https://i.ormos.uk/fe/aa/feaadbe5637e18af65f2fa5865345c16c7925b6c5568a0d6548bffff3d1a3544.jpg)Levy has a good blue-white deck splashing red for [Lavamancer's Skill](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill)s while Jedlicka has a route one red-green deck with quick beats, beasts and burn.
+![](https://i.ormos.uk/fe/aa/feaadbe5637e18af65f2fa5865345c16c7925b6c5568a0d6548bffff3d1a3544.jpg)
+
+Levy has a good blue-white deck splashing red for [Lavamancer's Skill](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill)s while Jedlicka has a route one red-green deck with quick beats, beasts and burn.
 
 ### Game 1
 
@@ -72,7 +74,9 @@ Levy looked much better this game as he started attacking through the air with a
 
 The Vorine didn't seem too much use against the Defender but then a [Snapping Thragg](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapping+Thragg) appeared to make things interesting.
 
-![](https://i.ormos.uk/ae/6d/ae6d35d86fb9d65de1106cebed99bb146a130b0d9ee2f35167dc6111bab6487b.jpg)Levy didn't care, a second Defender negated any provoke tricks as he sent both first Defender and [Keeneye Aven](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keeneye+Aven) into the red zone.
+![](https://i.ormos.uk/ae/6d/ae6d35d86fb9d65de1106cebed99bb146a130b0d9ee2f35167dc6111bab6487b.jpg)
+
+Levy didn't care, a second Defender negated any provoke tricks as he sent both first Defender and [Keeneye Aven](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keeneye+Aven) into the red zone.
 
 A [Tribal Unity](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tribal+Unity) Suddenly turned the game as the Vorine/Thragg tag team took down a Defender and Aven.
 

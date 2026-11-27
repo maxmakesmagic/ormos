@@ -545,7 +545,9 @@ During Pro Tour-Honolulu I spent some time talking with Nathan Zamora from Texas
 
 I talked with both players about their experience, strategy, and hats. Both players strongly emphasized the desire to play **Magic** for fun as a strong motivation for attending the events.
 
-[![](http://luna/magic/images/tournamentcenter/champs06.jpg)](/en/events/2006/champsmap06/2006-champs-two-headed-giant-limited-map)“I was actually really excited about getting to play in the tournament,” explained Pro Tour-Los Angeles finalist Moreno. “It was 2HG and being a **Magic** fanatic, but also really competitive, it seemed like a fun, meaningful way to play in a more casual event. Plus, while I was visiting friends in Texas and Oklahoma during the last month I went to hang out at a couple of PTQ's and was kinda bummed about not being able to play and share the experience with them. Once again, this was a great chance to do so.”
+[![](http://luna/magic/images/tournamentcenter/champs06.jpg)](/en/events/2006/champsmap06/2006-champs-two-headed-giant-limited-map)
+
+“I was actually really excited about getting to play in the tournament,” explained Pro Tour-Los Angeles finalist Moreno. “It was 2HG and being a **Magic** fanatic, but also really competitive, it seemed like a fun, meaningful way to play in a more casual event. Plus, while I was visiting friends in Texas and Oklahoma during the last month I went to hang out at a couple of PTQ's and was kinda bummed about not being able to play and share the experience with them. Once again, this was a great chance to do so.”
 
 In Honolulu, Fabiano and Antonino De Rosa jumped at the chance to play in a video iPod 2HG tournament after the two players compiled a combined 2-10 record in the main event. While they did not do well in that tournament either, Fabiano stressed that was not why he played in the tournament – or in the overall game of **Magic** for that matter. 
 

@@ -44,13 +44,17 @@ archive_source:
   sha256: bef0554a5ea430c8c6cd6341420ae6d12df561ec7ad16e25d053726a5794cb4a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/774.jpg)By now, few fans of professional Magic haven't heard of the exploits of current World Champion Jon Finkel. Many fewer would have heard of Michel Gurney, who has attended five Pro Tours, but only has a best finish of Top 96 at Chicago '98. He may be outclassed in terms of Pro Tour records, but today, they have identical match records, and are on equal footing.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/774.jpg)
+
+By now, few fans of professional Magic haven't heard of the exploits of current World Champion Jon Finkel. Many fewer would have heard of Michel Gurney, who has attended five Pro Tours, but only has a best finish of Top 96 at Chicago '98. He may be outclassed in terms of Pro Tour records, but today, they have identical match records, and are on equal footing.
 
 Game one, Finkel opens with a Llanowar Knight, Sunscape Apprentice and a Benalish Lancer without kicker. Michael played his own Lancer, and then played a Glimmering Angel. The Angel felt naked, so Michael enchanted it with a Strength of Unity, making it a 5/5 and possibly untargetable. Finkel was in serious trouble. The Rampant Elephant that Finkel summoned on his next turn wasn't of much help, either. He needed to have some of that Finkel magic that has made him a legend. He needed an Armadillo Cloak, and he needed it this turn. So of course, being Finkel, he drew it. The Armadillo Cloak dropped onto the Rampant Elephant and the fattened creature entered the red zone, gaining Finkel some much needed breathing room. Finkel beat down the door again and again with the Elephant, and finally cast Canopy Surge with the kicker, killing Michael.
 
 Game 1 to the Finkeltron.
 
-![](https://i.ormos.uk/0a/f1/0af18d1109c04bb6305719dc5d51db6ce42e541206cef5ab2245ce97ca260f7d.jpg)Finkel prefers to remain extremely businesslike and professional at all times. It seems to work for him, though. His poker face is hard to read, and even when he's in trouble, you can't tell. In Game Two, reading his face didn't give away he fact that his draw was atrocious. He played one spell the entire game, a Might Weaver.
+![](https://i.ormos.uk/0a/f1/0af18d1109c04bb6305719dc5d51db6ce42e541206cef5ab2245ce97ca260f7d.jpg)
+
+Finkel prefers to remain extremely businesslike and professional at all times. It seems to work for him, though. His poker face is hard to read, and even when he's in trouble, you can't tell. In Game Two, reading his face didn't give away he fact that his draw was atrocious. He played one spell the entire game, a Might Weaver.
 
 Game 2 to Gurney.
 

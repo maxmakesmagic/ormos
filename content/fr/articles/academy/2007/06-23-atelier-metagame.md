@@ -131,7 +131,9 @@ Alors, il est important d'avoir une bonne connaissance du metagame pour choisir 
 
 ### Comment se faire une idée du metagame ?
 
-![Sphere_of_Reason](https://i.ormos.uk/9c/87/9c872a0a74b9a45fbcde2eb839a6a7a0c4097fb8ee7ddf2f0cd503fa7d489211.jpg)Surtout dans les tournois de haut niveau, il est possible de prévoir raisonnablement ce qui va apparaître dans le metagame.
+![Sphere_of_Reason](https://i.ormos.uk/9c/87/9c872a0a74b9a45fbcde2eb839a6a7a0c4097fb8ee7ddf2f0cd503fa7d489211.jpg)
+
+Surtout dans les tournois de haut niveau, il est possible de prévoir raisonnablement ce qui va apparaître dans le metagame.
 
 Étudier les résultats (et les listes de deck) des tournois précédents dans le format et se tenir informé grâce aux articles publiés et aux forums de discussion en ligne sont d'excellentes méthodes pour vous y aider. Ce simple exercice vous donne non seulement une sélection de decks tests, mais aussi une idée de leur proportion dans le metagame.
 

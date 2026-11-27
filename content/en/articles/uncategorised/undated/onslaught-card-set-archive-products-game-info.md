@@ -69,7 +69,9 @@ The foundation for exciting Sealed Deck play. Includes 45 randomly assorted card
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/89/85/8985695c46a48306e704a8a46f7f203f3a12c3b482aec8a810f4c181d07336cb.png)This black-bordered, 350-card set features randomly inserted foil premium cards and powerful mechanics like Morph, “Creature Types Matter” Cards, Fear, Chain Spells, and Cycling (an old favorite from *Urza's Saga*).
+![](https://i.ormos.uk/89/85/8985695c46a48306e704a8a46f7f203f3a12c3b482aec8a810f4c181d07336cb.png)
+
+This black-bordered, 350-card set features randomly inserted foil premium cards and powerful mechanics like Morph, “Creature Types Matter” Cards, Fear, Chain Spells, and Cycling (an old favorite from *Urza's Saga*).
 
 **Set Name:** *Onslaught*  
 **Block:** Set 1 of 3 of the *Onslaught* Block  

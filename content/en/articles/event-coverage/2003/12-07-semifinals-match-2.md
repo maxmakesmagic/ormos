@@ -44,7 +44,9 @@ archive_source:
   sha256: 1c6c0fefc03b1218e170002e1eb10b8e5a7c49fffcf896a7d2dd20ec6a006032
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/sf1.jpg)As this bracket of the top 8 had four Germans, it was given that one would reach the finals. Reinhard and Stefan are battling for that slot right now. Reinhard won GP Genova a few months ago but Stefan has his first top 8 here. He is also living in Munich and winning a GP in his hometown has to be an additional motivation.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/sf1.jpg)
+
+As this bracket of the top 8 had four Germans, it was given that one would reach the finals. Reinhard and Stefan are battling for that slot right now. Reinhard won GP Genova a few months ago but Stefan has his first top 8 here. He is also living in Munich and winning a GP in his hometown has to be an additional motivation.
 
 Reinhards deck seems to be superior with [Solar Tide](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Tide), [Triskelion](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Triskelion) and [Lodestone Myr](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lodestone+Myr) along with plenty of artefact removal. Stefan has some power as well with Leonin Sun-Standard and [Loxodon Warhammer](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer). Reinhard won the die roll and chose to play first.
 

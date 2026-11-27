@@ -85,7 +85,9 @@ Take special note of the number of Limited matches he’s played. Ridiculous.
 
 ### Suspended
 
-![](http://www.wizards.com/sideboard/images/gpla02/895.jpg)Former *Sideboard* writer Nick Eisel and recent suspendee Trey Van Cleave have been suspended for three and two years respectively. You probably know all about this by now. Nick’s punishment was handed down for the pre-meditated adding of cards to his GP-Boston sealed deck. Trey, who’d only been back from a suspension for bribery for a little over two months, was suspended in part for cheating by looking at draft neighbor Zvi Mowshowitz’s cards as immortalized in the Josh Bennett photo shown here a couple of weeks ago and before that in the Boston coverage on *Sideboard*.
+![](http://www.wizards.com/sideboard/images/gpla02/895.jpg)
+
+Former *Sideboard* writer Nick Eisel and recent suspendee Trey Van Cleave have been suspended for three and two years respectively. You probably know all about this by now. Nick’s punishment was handed down for the pre-meditated adding of cards to his GP-Boston sealed deck. Trey, who’d only been back from a suspension for bribery for a little over two months, was suspended in part for cheating by looking at draft neighbor Zvi Mowshowitz’s cards as immortalized in the Josh Bennett photo shown here a couple of weeks ago and before that in the Boston coverage on *Sideboard*.
 
 The Eisel case has been surrounded by conspiracy theory, cultivated in part by Nick himself in a recent article at [www.starcitygames.com](https://web.archive.org/web/20030321000000/http://www.wizards.com/leaving.asp?url=http://www.starcitygames.com&origin=sideboard_ww_20030321). Let me clear up any possible misunderstandings right now: in no way would it be in Wizards of the Coast’s best interests for Eisel to be caught. The credibility of punishing ‘one of their own’ is outweighed in ridiculous proportion by losing a strategy writer and promotional tool of Eisel’s caliber. Nick, known to many as the ***Magic** Online* Posterboy, was a new face representing a new kind of **Magic**, the online variety, which has helped tremendously in taking the game to the mainstream, something Wizards and Hasbro have both wanted to do for some time. I recommend checking out each angle with opened eyes.
 
@@ -93,7 +95,9 @@ As for Trey, on a personal note, I’m ecstatic. There have been many who have c
 
 ### Look at the Picture!
 
-![](http://www.wizards.com/sideboard/images/gpbos03/947.jpg)This is a man who is cheating. His head is straight ahead, his eyes to the extreme left, and as a person who has met Trey, I can assure you he doesn’t suffer from an affliction of extreme twitches or the like. I’m very willing to give a player who has served their time their fair chance at redemption, but this guy has shown repeatedly since his return from the sidelines that he was just as willing to use sketchy and unsportsmanlike (to a ridiculous degree) behavior to his advantage in his attempts to win and his suspension prevents him from doing so. That means he can’t wrongfully deprive every person he leapfrogs in a tourney’s final standings of what they rightfully deserve, can’t take the individuals he’d face out of prize contention and can’t demean the game any more. This is a good one for the good guys. Screw impartiality.
+![](http://www.wizards.com/sideboard/images/gpbos03/947.jpg)
+
+This is a man who is cheating. His head is straight ahead, his eyes to the extreme left, and as a person who has met Trey, I can assure you he doesn’t suffer from an affliction of extreme twitches or the like. I’m very willing to give a player who has served their time their fair chance at redemption, but this guy has shown repeatedly since his return from the sidelines that he was just as willing to use sketchy and unsportsmanlike (to a ridiculous degree) behavior to his advantage in his attempts to win and his suspension prevents him from doing so. That means he can’t wrongfully deprive every person he leapfrogs in a tourney’s final standings of what they rightfully deserve, can’t take the individuals he’d face out of prize contention and can’t demean the game any more. This is a good one for the good guys. Screw impartiality.
 
 Oh, on a side note, I predicted at the beginning of the year a previously suspended player would be suspended again. At this point I have to apologize to those who have been asking: I do not provide winning lottery numbers.
 
@@ -105,7 +109,9 @@ Speaking of Hasbro, I just finished *Toy Wars*, a look at the history of Hasbro 
 
 Announced at [http://www.wizards.com/default.asp?x=magic/magiconline/news031103](/en/articles/feature/2003/03-24-press-release), ***Magic** Online’s* presence is going to be felt in the paper community in a more direct way than ever before with the WotC decision to hold a World Championships qualifier online.
 
-![](https://i.ormos.uk/1b/92/1b9225bd145c521d4e1d6dfb733f3d8d25ed1673ea4606077adc915520427c9d.jpg)Is this a big deal? Absolutely. First off, it’s the first ever open qualifier for the World Championships, which until now have only been open to players with ridiculous ratings, enough Pro Tour points to be considered pro players and those fortunate souls who put forth that one superlative effort on Nationals weekend. From a corporate viewpoint, this is a promotional bonanza, offering the possibility of a ***Magic** Online* champion of sorts while showing the world a connection from what have obviously been two separate games in a lot of ways.
+![](https://i.ormos.uk/1b/92/1b9225bd145c521d4e1d6dfb733f3d8d25ed1673ea4606077adc915520427c9d.jpg)
+
+Is this a big deal? Absolutely. First off, it’s the first ever open qualifier for the World Championships, which until now have only been open to players with ridiculous ratings, enough Pro Tour points to be considered pro players and those fortunate souls who put forth that one superlative effort on Nationals weekend. From a corporate viewpoint, this is a promotional bonanza, offering the possibility of a ***Magic** Online* champion of sorts while showing the world a connection from what have obviously been two separate games in a lot of ways.
 
 People seem worried about the integrity of World Championships and the potential for cheating in a world where players don’t have faces. Yes, Mrs. Kibler, Bob Maher Sr. or little Werner Budde (I doubt there’s actually a Werner Budde, but I’m over the Atlantic and need a third example) could qualify and you know what? It’s one slot. And they’ll get slaughtered. No offense guys.
 

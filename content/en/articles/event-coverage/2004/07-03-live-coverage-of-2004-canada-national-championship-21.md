@@ -44,7 +44,9 @@ archive_source:
   sha256: 64445d214181ca59c04306b62c0bf0a55805ef657c06b2b298161be293504565
 render_recovery: []
 ---
-![](https://i.ormos.uk/1b/ea/1bea29f23fe951126b252013a51a2471537a794881e4ab36cde966d3c626bd97.jpg)David Rood is most well known as a member of 2020 the team that went to the finals against Phoenix Foundation two years ago and then lost to PS2 in the finals of the Masters event at Venice. He is widely regarded as a Limited specialist. His reputation has been reinforced after he started out his tournament with an 0-2 skid. He knocked Gary Wise to an 0-3 start in the third round of Constructed and looked forward to righting his ship on the more familiar waters of Limited. He had gone 5-0 in Limited to this point and was facing off against Geordie Tait's foil, Phil Samms.
+![](https://i.ormos.uk/1b/ea/1bea29f23fe951126b252013a51a2471537a794881e4ab36cde966d3c626bd97.jpg)
+
+David Rood is most well known as a member of 2020 the team that went to the finals against Phoenix Foundation two years ago and then lost to PS2 in the finals of the Masters event at Venice. He is widely regarded as a Limited specialist. His reputation has been reinforced after he started out his tournament with an 0-2 skid. He knocked Gary Wise to an 0-3 start in the third round of Constructed and looked forward to righting his ship on the more familiar waters of Limited. He had gone 5-0 in Limited to this point and was facing off against Geordie Tait's foil, Phil Samms.
 
 Phil also got off to an inauspicious start during the constructed portion of the event with an unlikely 1-0-2 record. Phil is most well known for his regular appearances in Geordie's columns. He has also been the subject of several barbed T-shirts that Geordie had made up for this event--not all of them fit for print on a family website. He was not bothered by that as much as by being in the feature march area. "Oh dear…now everyone is going to know how bad I am."
 

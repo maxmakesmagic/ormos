@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/d5/88/d58879cd4ec112895f36dcc4e0c94143d62562355bdf1dc3facb7c4bb03168ee.jpg)This Toothpick-mirror featured upstart Jordan Berkowitz versus the originator, Neil Reeves. Fast friends on the Tour, they adopted a master-and-apprentice relationship. Berkowitz inherited Reeves's love of the toothpick, and now they sit across from each other in a battle to make the semifinals. Berkowitz you might remember from his Top 4 at Pro Tour – Venice, while the always-outspoken Reeves recently added the Event Horizons Invitational Championship to his list of accomplishments. The matchup was apparently heavily weighted in Berkowitz's favor.
+![](https://i.ormos.uk/d5/88/d58879cd4ec112895f36dcc4e0c94143d62562355bdf1dc3facb7c4bb03168ee.jpg)
+
+This Toothpick-mirror featured upstart Jordan Berkowitz versus the originator, Neil Reeves. Fast friends on the Tour, they adopted a master-and-apprentice relationship. Berkowitz inherited Reeves's love of the toothpick, and now they sit across from each other in a battle to make the semifinals. Berkowitz you might remember from his Top 4 at Pro Tour – Venice, while the always-outspoken Reeves recently added the Event Horizons Invitational Championship to his list of accomplishments. The matchup was apparently heavily weighted in Berkowitz's favor.
 
 "This is like Darth Vader versus Luke Skywalker" – Dave Williams
 
@@ -83,7 +85,9 @@ Reeves 1 – Berkowitz 0
 
 Both players sideboarded quickly. Their late-night playtesting meant they knew their strategies well in advance. Berkowitz led with a Lavamancer that was Blooded away, and then resolved a [Compost](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compost). His [Call of the Herd](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) met [Counterspell](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell), but Berkowitz's [Anger](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anger) resolved. 
 
-![](https://i.ormos.uk/d6/35/d635f568aa5cd1cbc1c5a24a060ef783feb6b82931b3b078a2d1f53636dc59dc.jpg)Reeves made no move. Berkowitz kept hitting. Lavamancer and [Call of the Herd](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) hit the table. Reeves [Smother](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother)ed both, giving Berkowitz more cards. He sent a [Hammer](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hammer) to the face and made a Rootwalla. Reeves could only [Smother](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother) again.
+![](https://i.ormos.uk/d6/35/d635f568aa5cd1cbc1c5a24a060ef783feb6b82931b3b078a2d1f53636dc59dc.jpg)
+
+Reeves made no move. Berkowitz kept hitting. Lavamancer and [Call of the Herd](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) hit the table. Reeves [Smother](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother)ed both, giving Berkowitz more cards. He sent a [Hammer](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hammer) to the face and made a Rootwalla. Reeves could only [Smother](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother) again.
 
 Berkowitz's [Compost](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compost) was keeping him in threats, so Reeves needed a big one. He got [Deep Analysis](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis), and played it, turning up two blanks. He shrugged and flashed it back, falling to five and tapping out. Berkowitz untapped, swung, and sent Eruption to the face.
 
@@ -109,7 +113,9 @@ He allowed it, then Edicted it away and flashed back the Analysis, falling to ei
 
 "Will you ever draw a land?" – Neil Reeves
 
-![](https://i.ormos.uk/fe/e0/fee054e1fb15cb94b5cb86a26d10c689c02e57a66095410952a490710b591eb4.jpg)He [Concentrate](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate)d, pulling up three duds. He cycled [Lonely Sandbar](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lonely+Sandbar), earning a momentary reprieve from [Hibernation](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hibernation). Berkowitz played a [Wild Mongrel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) after combat. Reeves untapped and tried to bluff like he had something. Berkowitz cast his Centaur and smashed in.
+![](https://i.ormos.uk/fe/e0/fee054e1fb15cb94b5cb86a26d10c689c02e57a66095410952a490710b591eb4.jpg)
+
+He [Concentrate](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate)d, pulling up three duds. He cycled [Lonely Sandbar](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lonely+Sandbar), earning a momentary reprieve from [Hibernation](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hibernation). Berkowitz played a [Wild Mongrel](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) after combat. Reeves untapped and tried to bluff like he had something. Berkowitz cast his Centaur and smashed in.
 
 "Seven spells in a row is pretty good. Especially [Anger](https://web.archive.org/web/20030629000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anger). He had no business winning that game. No business." – Neil Reeves
 

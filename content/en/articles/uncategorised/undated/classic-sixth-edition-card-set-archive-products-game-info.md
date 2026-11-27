@@ -60,7 +60,9 @@ Battle like the best with these 75 tournament-ready cards, including 30 land car
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/85/ef/85ef633385d3bd0f752ac380da7011062be283613cd0246d7b9601799c42c47a.png)This 350-card **Magic** set includes favorites from the *Visions*, *Mirage*, *Alliances*, and *Weatherlight* expansions. Each card is now numbered for collectors, too, and carries an expansion symbol to indicate its rarity.
+![](https://i.ormos.uk/85/ef/85ef633385d3bd0f752ac380da7011062be283613cd0246d7b9601799c42c47a.png)
+
+This 350-card **Magic** set includes favorites from the *Visions*, *Mirage*, *Alliances*, and *Weatherlight* expansions. Each card is now numbered for collectors, too, and carries an expansion symbol to indicate its rarity.
 
 **Set Name:** *Sixth Edition*  
 **Number of Cards:** 350

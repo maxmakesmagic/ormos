@@ -225,7 +225,9 @@ render_recovery:
 
 ### Game 3
 
-![](https://i.ormos.uk/db/9e/db9e50523948d1bf75c3068ca48479c2887dac297cf65c3531007a72759a52ce.jpg)安藤は三度目の事故。...今度は 4 マナ目で止まってしまうのだが、なんと Jelger の方も事故を起こしていたのだった。 Jelger は《ダークウォーターの卵/Darkwater Egg》《のぞき見/Peek》と打っての事故、かなり悔しいだろう。
+![](https://i.ormos.uk/db/9e/db9e50523948d1bf75c3068ca48479c2887dac297cf65c3531007a72759a52ce.jpg)
+
+安藤は三度目の事故。...今度は 4 マナ目で止まってしまうのだが、なんと Jelger の方も事故を起こしていたのだった。 Jelger は《ダークウォーターの卵/Darkwater Egg》《のぞき見/Peek》と打っての事故、かなり悔しいだろう。
 
 《最後の儀式/Last Rites》を打って《エイヴンの魚捕り/Aven Fisher》だけを残す Jelger 次のターン土地を引かなければ安藤の《墓をこじ開けるもの/Gravegouger》が殴り続ける展開になってしまうところだが無事土地を引いて動きを止める。
 

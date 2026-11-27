@@ -50,7 +50,9 @@ render_recovery: []
 
 ### 信下淳 VS Kung Larn Yan
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gptaipei01/945.jpg)Pheldagriff 入りの超本命デッキと対戦することとなった信下は、信じがたい事故の前に為す術も無く轟沈。Kung は Reef Shaman でもって色マナの不安定さをより深刻な問題とさせ、その間にビートダウンに成功したのだった。 ほぼノーコメント。
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gptaipei01/945.jpg)
+
+Pheldagriff 入りの超本命デッキと対戦することとなった信下は、信じがたい事故の前に為す術も無く轟沈。Kung は Reef Shaman でもって色マナの不安定さをより深刻な問題とさせ、その間にビートダウンに成功したのだった。 ほぼノーコメント。
 
 Wrath of God 1-0 Fire Beat
 

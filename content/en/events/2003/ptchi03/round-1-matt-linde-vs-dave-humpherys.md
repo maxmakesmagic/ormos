@@ -139,7 +139,9 @@ render_recovery:
   - Wirewood Lodge
   occurrences: 172
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a977.jpg)Your Move Games mainstay Dave Humpherys has found a new life on the golden shores of California. Would his physical distance from his teammates affect his practice time, or will the seemingly twenty-four hours a day he spends on Magic Online keep him at his "A" game? Meanwhile, Pro Tour mainstay and facially pierced Matt Linde seeks to improve on his top sixteen booster draft finish at PT Nice with a win here in freezing Chicago.
+![](http://www.wizards.com/sideboard/images/ptchi03/a977.jpg)
+
+Your Move Games mainstay Dave Humpherys has found a new life on the golden shores of California. Would his physical distance from his teammates affect his practice time, or will the seemingly twenty-four hours a day he spends on Magic Online keep him at his "A" game? Meanwhile, Pro Tour mainstay and facially pierced Matt Linde seeks to improve on his top sixteen booster draft finish at PT Nice with a win here in freezing Chicago.
 
 ### Game 1
 
@@ -171,7 +173,9 @@ By the time the Goblin attacked, Dave had regained all his lost life and gotten 
 
 Dave brought his game with Krosan Tusker, which died as soon as Linde untapped to the combination of Sparksmith and Pinpoint Avalanche. This tapped Matt out of red mana, so Dave took the opportunity to drop Mythic Proportions on his 1/1 life gain elf, making it a 9/9 trampler. 
 
-![](https://i.ormos.uk/da/6b/da6b68d9533d0405edf081139790f654964e665766870ef54eb208298bf21b03.jpg)Of course, Linde took the first opportunity possible to unsummon both the Wellwisher and his own Mistform Wall with the Essence Fracture he'd been nursing since his opening hand. Dave cycled twice, but found no answers as Linde went on the offensive for two. Goblin Machinist joined the board, backed by eight mana (three of them now Mountains). 
+![](https://i.ormos.uk/da/6b/da6b68d9533d0405edf081139790f654964e665766870ef54eb208298bf21b03.jpg)
+
+Of course, Linde took the first opportunity possible to unsummon both the Wellwisher and his own Mistform Wall with the Essence Fracture he'd been nursing since his opening hand. Dave cycled twice, but found no answers as Linde went on the offensive for two. Goblin Machinist joined the board, backed by eight mana (three of them now Mountains). 
 
 Dave scrambled to keep control of the game, casting both Wellwisher and a morph creature, and then immediately enchanting the unknown guy with Improved Armor to make it 5/7. Matt drew, shot the Wellwisher down with Sparksmith, and then a top decked Chain of Vapor sent a newly revealed Cabal Executioner back to hand in exchange for a land and a one turn reprieve on the pumper coming across.
 
@@ -195,7 +199,9 @@ While the 1/3 flyer didn't give Linde great top-of-deck options, it did give him
 
 Linde pondered for a while, and then decided to shoot Wirewood Elf on his own turn, plus send Elvish Warrior and Krosan Tusker back to Humpherys hand with his Undo. Bostonian turned Californian Humperys didn't miss a beat, plunking down a 5/4 Treespring Lorian with aplomb. Matt gave Dave another morph to think about, and Dave decided not to trade Treespring Lorian for a bad face down guy. Symbiotic Elf died to the Skill, and Linde played Goblin Machinist to the board against Krosan Tusker.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a976.jpg)Dave attempted to cast Mythic Proportions to turn his 6/5 beast into a 14/13 trampler, but Matt was ready with Mage's Guile to act as a poor man's Intervene. Although the Tusker came through unblocked, Linde finally had the opportunity to cast the second Sage Aven, and combined it with Goblin Machinist to mill two lands and a Mistform Mask to the bottom of his deck.
+![](http://www.wizards.com/sideboard/images/ptchi03/a976.jpg)
+
+Dave attempted to cast Mythic Proportions to turn his 6/5 beast into a 14/13 trampler, but Matt was ready with Mage's Guile to act as a poor man's Intervene. Although the Tusker came through unblocked, Linde finally had the opportunity to cast the second Sage Aven, and combined it with Goblin Machinist to mill two lands and a Mistform Mask to the bottom of his deck.
 
 With the ground almost completely stalled, Linde took to the air with his unenchanted bird wizard. Dave went for the win with Dirge of Dread, but Linde had Choking Tethers ready to stop all three of Dave's creatures at the beginning of Dave's attack. Mistform Shrieker joined the air parade, bringing the life totals to a more even thirteen to eight in the Hump's favor in two short turns, while Dave could only muster a twin Tusker. At the end of Dave's turn, Linde tapped all of Dave's huge monsters with a second Choking Tethers, attacked with all his guys except the Machinist, and revealed one of his morph creatures to be Skittish Valesk.
 

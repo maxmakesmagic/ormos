@@ -55,7 +55,9 @@ This is the big one. It's just a shame it had to be here, instead of with the ti
 
 Both players were eager to get to the action, but they had to wait while camera crews got ready to broadcast their match. Every chair in the audience was filled, and fans lined the Feature Match Area three deep.
 
-![](https://i.ormos.uk/a7/4d/a74d59465b0777d30fa6b37da7b6ed02e0f48bd0e10e68e2f6d2430845695c32.jpg)"They'd better hurry up, we're going to miss the game." – Kai Budde
+![](https://i.ormos.uk/a7/4d/a74d59465b0777d30fa6b37da7b6ed02e0f48bd0e10e68e2f6d2430845695c32.jpg)
+
+"They'd better hurry up, we're going to miss the game." – Kai Budde
 
 "I know. Go Eagles!" – Jon Finkel
 
@@ -105,7 +107,9 @@ Finkel 1 – Budde 1
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a654.jpg)Finkel started this game by tearing through his deck with cycling cards before playing a facedown creature on turn three. Budde cycled [Barren Moor](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Moor) and [Shock](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)ed it. It was [Skirk Commando](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando). He followed up with [Severed Legion](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion), which fell to Finkel's [Erratic Explosion](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion), and then got in with morph and face-up [Fallen Cleric](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fallen+Cleric). Finkel's [Riptide Shapeshifter](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Shapeshifter) stood in the way. Budde added Husk and morph to his army, building his forces. Finkel's abundance of land enabled a [Slipstream Eel](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slipstream+Eel).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a654.jpg)
+
+Finkel started this game by tearing through his deck with cycling cards before playing a facedown creature on turn three. Budde cycled [Barren Moor](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Moor) and [Shock](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)ed it. It was [Skirk Commando](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando). He followed up with [Severed Legion](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Severed+Legion), which fell to Finkel's [Erratic Explosion](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion), and then got in with morph and face-up [Fallen Cleric](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fallen+Cleric). Finkel's [Riptide Shapeshifter](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Shapeshifter) stood in the way. Budde added Husk and morph to his army, building his forces. Finkel's abundance of land enabled a [Slipstream Eel](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slipstream+Eel).
 
 However, Finkel was short on action, and Budde was making ready to bash through. He tapped [Forgotten Cave](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forgotten+Cave) and put a facedown creature into play, but then caught himself, showing the card to be [Goblin Taskmaster](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Taskmaster).
 
@@ -135,7 +139,9 @@ Budde 2 – Finkel 1
 
 "Jonny! 7-0 Eagles!" – Worth Wollpert, from the crowd
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a665.jpg)Finkel's opener was five lands, [Mage's Guile](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mage%27s+Guile) and [Solar Blast](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast). He cycled the Guile into a land, and drew another. Not auspicious. Budde was kind enough to play a [Sparksmith](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) for Finkel's [Solar Blast](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast), and the cheers from the crowd made it clear they were on Finkel's side.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptchi03/a665.jpg)
+
+Finkel's opener was five lands, [Mage's Guile](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mage%27s+Guile) and [Solar Blast](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast). He cycled the Guile into a land, and drew another. Not auspicious. Budde was kind enough to play a [Sparksmith](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) for Finkel's [Solar Blast](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast), and the cheers from the crowd made it clear they were on Finkel's side.
 
 "That's unfortunate." – Kai Budde
 

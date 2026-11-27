@@ -165,13 +165,17 @@ render_recovery:
   - Slithery Stalker
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a886.jpg)　Pro Tour の Feature Match であるわけだから当前なのかもしれないが、まさしくビッグネーム対決が 6 回戦目に実現した。かつての PTLA 王者である David Price と、YMG のエース格の Dawin Kastle というマッチアップである。
+![](http://www.wizards.com/sideboard/images/ptnice02/a886.jpg)
+
+　Pro Tour の Feature Match であるわけだから当前なのかもしれないが、まさしくビッグネーム対決が 6 回戦目に実現した。かつての PTLA 王者である David Price と、YMG のエース格の Dawin Kastle というマッチアップである。
 
 **Game 1**
 
 　赤緑の Price は《精励する農場労働者/Diligent Farmhand》、《地図作り/Cartographer》とクリーチャーを戦線に送り出した。対する青黒の Kastle は《凍血鬼/Bloodcurdler》、《巣立つインプ/Fledgling Imp》、 《エイヴンの魚捕り/Aven Fisher》と展開し、最序盤におけるダメージレースではむしろ Darwin Kastle を圧倒したものだった。
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a887.jpg)　しかし、優良アタッカーである《凶暴象/Rabid Elephant》を展開した Price はここで《吠えたける強風/Howling Gale》。これをフラッシュバックしたことで Kastle の航空戦力をなぎ払い、一気に盤上を一方的なものとした。ただ、Kastle もすぐさま《ボールシャンの協力者/Balshan Collaborator》を展開したことでダメージレースは予断を許さなくなる。
+![](http://www.wizards.com/sideboard/images/ptnice02/a887.jpg)
+
+　しかし、優良アタッカーである《凶暴象/Rabid Elephant》を展開した Price はここで《吠えたける強風/Howling Gale》。これをフラッシュバックしたことで Kastle の航空戦力をなぎ払い、一気に盤上を一方的なものとした。ただ、Kastle もすぐさま《ボールシャンの協力者/Balshan Collaborator》を展開したことでダメージレースは予断を許さなくなる。
 
 　そんな中、Kastle が一瞬の隙を見せてしまう。《凶暴象》を《追い返し/Repel》すべくタップアウトしてしまったのだ。虎視眈々と機をうかがっていた Price はここで《協力者》に《炎熱の突風/Thermal Blast》を叩き込み、一気に流れを引き寄せた。 Price は再度戦場に送り出した《凶暴象》でのアタックを繰り返し、《降り注ぐ塊炭/Shower of Coals》によってとどめをさしたのだった。
 

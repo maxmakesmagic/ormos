@@ -142,7 +142,9 @@ render_recovery:
   - Syphon Mind
   occurrences: 113
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a897.jpg)The long weekend culminates in this. Asahara's blue-white deck against Tanaka's red-green monstrosity, with cash and glory on the line. Both players are surprisingly relaxed considering the stakes. Fatigue definitely plays a part in that. Both have little energy left to play up to the crowd. They need their best focused on the game at hand.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a897.jpg)
+
+The long weekend culminates in this. Asahara's blue-white deck against Tanaka's red-green monstrosity, with cash and glory on the line. Both players are surprisingly relaxed considering the stakes. Fatigue definitely plays a part in that. Both have little energy left to play up to the crowd. They need their best focused on the game at hand.
 
 ### Game 1
 
@@ -154,7 +156,9 @@ Asahara 1 – Tanaka 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a895.jpg)Tanaka got exactly the start he needed against Asahara's air force for Game 2: Back-to-back Timberwatch Elves followed by Airdrop Condor to snarl the air. Asahara had opened with Stoic Champion and facedown Ascending Aven. He added Dive Bomber and Mistform Seaswift to the mix. Tanaka made a Treespring Lorian, getting ready to attack.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a895.jpg)
+
+Tanaka got exactly the start he needed against Asahara's air force for Game 2: Back-to-back Timberwatch Elves followed by Airdrop Condor to snarl the air. Asahara had opened with Stoic Champion and facedown Ascending Aven. He added Dive Bomber and Mistform Seaswift to the mix. Tanaka made a Treespring Lorian, getting ready to attack.
 
 Asahara mulled over the situation. He decided to Sandskin the Condor and hit for two, before putting down Imagecrafter. He took five from the incoming Lorian and then watched as Tanaka played a post-combat Menacing Ogre. Tanaka won the bid three to zero. The life totals were fifteen to thirteen in favor of Asahara.
 
@@ -164,7 +168,9 @@ Asahara 1 – Tanaka 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a896.jpg)Now it was Tanaka's turn to mulligan. With Asahara leading off, it wasn't looking good for him. Asahara started with a morph. Tanaka played a very unthreatening Flamewave Invoker. Asahara showed him Ascending Aven. Tanaka hit for two and played Symbiotic Elf, apparently drawing from the less-than-insane side of his deck. Asahara hit for three in the air and made another morph.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a896.jpg)
+
+Now it was Tanaka's turn to mulligan. With Asahara leading off, it wasn't looking good for him. Asahara started with a morph. Tanaka played a very unthreatening Flamewave Invoker. Asahara showed him Ascending Aven. Tanaka hit for two and played Symbiotic Elf, apparently drawing from the less-than-insane side of his deck. Asahara hit for three in the air and made another morph.
 
 Tanaka untapped and frowned. He had no fifth land. He cycled Barkhide Mauler into Tranquil Thicket before sending in the Invoker. Asahara blocked with his morph, which turned into Gravel Slinger to stay alive. On his turn he unmorphed Mistform Seaswift and dropped Tanaka to just eleven. Keeper of the Nine Gales provided slightly more pressure.
 

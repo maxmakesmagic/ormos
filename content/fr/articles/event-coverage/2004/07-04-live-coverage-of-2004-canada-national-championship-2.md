@@ -44,7 +44,9 @@ archive_source:
   sha256: a91259167986da646efa2bf3fd008ab2952d7151904798b3416ae09d51313568
 render_recovery: []
 ---
-![](https://i.ormos.uk/88/2a/882ae57b9f740540e060c239143103b2f3fa0e9635b06dbde438d21aa534ddd5.jpg)Enfin nous sommes arrivées à un seul match de cinq parties pour déterminer le champion canadien. Le match oppose le jeune Murray Evans, deuxième aux nationaux en 2001 à Jingpeng Zhang, un joueur torontois avec un haut classement DCI.
+![](https://i.ormos.uk/88/2a/882ae57b9f740540e060c239143103b2f3fa0e9635b06dbde438d21aa534ddd5.jpg)
+
+Enfin nous sommes arrivées à un seul match de cinq parties pour déterminer le champion canadien. Le match oppose le jeune Murray Evans, deuxième aux nationaux en 2001 à Jingpeng Zhang, un joueur torontois avec un haut classement DCI.
 
 ### Première Partie
 

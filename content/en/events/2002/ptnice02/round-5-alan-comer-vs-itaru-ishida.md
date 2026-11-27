@@ -111,7 +111,9 @@ render_recovery:
   - Words Of Wisdom
   occurrences: 69
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a890.jpg)Alan Comer is an American who has been around the Pro Tour for forever and is infamous for creating some highly original decks, including bringing about the popularity of Miracle-gro in the recent extended season. He currently runs a deck clinic on the Sideboard website. In limited he likes his big green monsters and they seem to like him as witnessed by his Top 8 deck from Pro Tour Barcelona last year that seemed to have every fat treefolk going. Itaru Ishida is one of the more famous Japanese players with both individual success at recent Grand Prix and as part of team Panzer Hunters.
+![](http://www.wizards.com/sideboard/images/ptnice02/a890.jpg)
+
+Alan Comer is an American who has been around the Pro Tour for forever and is infamous for creating some highly original decks, including bringing about the popularity of Miracle-gro in the recent extended season. He currently runs a deck clinic on the Sideboard website. In limited he likes his big green monsters and they seem to like him as witnessed by his Top 8 deck from Pro Tour Barcelona last year that seemed to have every fat treefolk going. Itaru Ishida is one of the more famous Japanese players with both individual success at recent Grand Prix and as part of team Panzer Hunters.
 
 Both came out of the first draft 3-1. The second draft has given Alan Comer a green-black deck with some interesting green critters. Ishida has a fast red-black beats deck.
 
@@ -121,7 +123,9 @@ Comer went first but his deck started slowly – forest, forest, swamp, forest b
 
 Comer followed his Possessed Centaur with a trademark Comer-type creature – Chlorophant. That sat there quietly growing while a Krosan Archer stopped the Gloomdrifter and a Morbid Hunger took down Ishida's Dwarven Strike Force.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a892.jpg)Ishida summoned a few more monsters but they were only rather unexciting Lunatic's and Mad Dog's and a lot smaller than Comer's fatties.
+![](http://www.wizards.com/sideboard/images/ptnice02/a892.jpg)
+
+Ishida summoned a few more monsters but they were only rather unexciting Lunatic's and Mad Dog's and a lot smaller than Comer's fatties.
 
 The Japanese player tried to fight back by blocking Comer's attacking Chlorophant, Centaur and Archer and then pitching his entire hand to Rite's of Initiation. Unfortunately Comer had a Refresh and when the dust settled the Chlorophant was the only thing left standing and Comer now had threshold.
 
@@ -131,7 +135,9 @@ Comer 1-0 Ishida
 
 Game 2 started much more savagely. Turn 1 Putrid Imp from Ishida was answered with turn 1 Innocent Blood. Both players had a play for virtually every turn.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a891.jpg)Comer summoned a Mesmeric Fiend on turn 2 and rather than taking the dangerous looking Rites of Initiation he chose to take a Pardic Lancer even though it would be a while before that creature hit.
+![](http://www.wizards.com/sideboard/images/ptnice02/a891.jpg)
+
+Comer summoned a Mesmeric Fiend on turn 2 and rather than taking the dangerous looking Rites of Initiation he chose to take a Pardic Lancer even though it would be a while before that creature hit.
 
 This proved correct as Comer's strike force of Fiend, Krosan Avenger and Krosan Archer put him vastly ahead of the race against Ishida's Mad Dog and Trailblazer. The fact that Comer had also seen removal, even if it was just a Patriarch's Desire for a Gravegouger, just tipped the scales further.
 

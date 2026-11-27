@@ -849,7 +849,9 @@ Paulo Henrique de Oliveira / Psychatog
   
  
 
-![](https://i.ormos.uk/5e/04/5e0472aec104f07819d45d72420c1198cfbb2c65f9695918cd0547e77af1073c.jpg)All three of these Psychatog decks run 23 lands and 3 Psychatogs. Roux and Simoneaux run two creatures in addition, a Wonder and a more traditional control creature. Roux's Masticore makes a lot of sense because Psychatog is the natural inheritor to Draw-Go, but Simoneaux's choice of Meloku the Clouded Mirror of Victory, is a testament to that legendary creature's raw power (at PT Columbus, Team TOGIT ran Morphling in the secondary finisher slot against Cranial Extraction). Good enough to finish out of Aluren's sideboard, Simoneaux's Meloku can also set up additional damage for his Psychatog by picking up lands for Dr. Teeth to munch on.
+![](https://i.ormos.uk/5e/04/5e0472aec104f07819d45d72420c1198cfbb2c65f9695918cd0547e77af1073c.jpg)
+
+All three of these Psychatog decks run 23 lands and 3 Psychatogs. Roux and Simoneaux run two creatures in addition, a Wonder and a more traditional control creature. Roux's Masticore makes a lot of sense because Psychatog is the natural inheritor to Draw-Go, but Simoneaux's choice of Meloku the Clouded Mirror of Victory, is a testament to that legendary creature's raw power (at PT Columbus, Team TOGIT ran Morphling in the secondary finisher slot against Cranial Extraction). Good enough to finish out of Aluren's sideboard, Simoneaux's Meloku can also set up additional damage for his Psychatog by picking up lands for Dr. Teeth to munch on.
 
 In previous years, one of Psychatog's strengths was its combination of creature kill and true control elements. However, this week's three top finishers ran a total of 4 Engineered Explosives, 2 Engineered Plagues, 4 Smothers, and 2, um, Boomerangs in their main decks. To be fair, all three decks could use Cunning Wish to grab Diabolic Edict, Ghastly Demise, Smother, or Rebuild out of their sideboards if under creature pressure.
 

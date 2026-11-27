@@ -40,7 +40,9 @@ render_recovery:
 ---
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif"></td>&#10;			<td>&#10;			<h2>2000 Grand Prix Manchester Coverage</h2>&#10;			</td>&#10;			<td> </td>&#10;		</tr></tbody></table>
 
-![](https://i.ormos.uk/90/a4/90a43eb4307ac1ed8c755378ad0a1a277f2ae222f1ea6573482b092cfe02587d.jpg)Darwin Kastle won Grand Prix Manchester, winning out over a star-studded Top 8 that included John Ormerod, Noah Boeken, Mark Le Pine, Zvi Mowshowitz, Justin Gary, and Marc Hernandez.
+![](https://i.ormos.uk/90/a4/90a43eb4307ac1ed8c755378ad0a1a277f2ae222f1ea6573482b092cfe02587d.jpg)
+
+Darwin Kastle won Grand Prix Manchester, winning out over a star-studded Top 8 that included John Ormerod, Noah Boeken, Mark Le Pine, Zvi Mowshowitz, Justin Gary, and Marc Hernandez.
 
 Grand Prix Manchester had 247 competitors from a record 25 different countries. It was the first Grand Prix to use Invasion.
 

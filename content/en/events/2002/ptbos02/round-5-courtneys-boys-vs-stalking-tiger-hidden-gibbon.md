@@ -89,7 +89,9 @@ render_recovery:
   - Strength of Lunacy
   occurrences: 84
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a921.jpg)Bob Maher, Jr has won a Pro Tour and a Grand Prix with multiple Top 8 finishes in a variety of premiere events. But that it is his non-performance over the past six months that has drawn people's attention this weekend. This is Bob's first Pro Tour event since serving a six-month ban from sanctioned play. Many people wondered if he would be up to the challenge. 
+![](http://www.wizards.com/sideboard/images/ptbos02/a921.jpg)
+
+Bob Maher, Jr has won a Pro Tour and a Grand Prix with multiple Top 8 finishes in a variety of premiere events. But that it is his non-performance over the past six months that has drawn people's attention this weekend. This is Bob's first Pro Tour event since serving a six-month ban from sanctioned play. Many people wondered if he would be up to the challenge. 
 
 Bob had an uncharacteristically low number of Pro Points coming into this event and soaked up the points of Neil Reeves and Gary Wise—both of whom had very good years. Apparently they spent the last ten days at the fabled Maher Compound working on the format, building sealed decks and preparing to draft on Day 2. 
 
@@ -130,7 +132,9 @@ Bob finally got his Chainflinger into play and passed the turn. Paul attacked Bo
 
 Bob went to 8 on his next turn as he flashed back Crippling Fatigue and used his Chainflinger to finish off the Aven. He added a Rotting Giant to his side of the board. Paul was happy to make a Devourer and discard a Looter.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a922.jpg)Bob had two turns to live and attacked with everybody, bringing Paul to 11. He played a Gravedigger and picked up a Dusk Imp to serve as a fog next turn. Paul took him down to 4 with the Devourer and played a Wonder. Bob used his Chainflinger to take Paul down to 10.
+![](http://www.wizards.com/sideboard/images/ptbos02/a922.jpg)
+
+Bob had two turns to live and attacked with everybody, bringing Paul to 11. He played a Gravedigger and picked up a Dusk Imp to serve as a fog next turn. Paul took him down to 4 with the Devourer and played a Wonder. Bob used his Chainflinger to take Paul down to 10.
 
 Bob attacked with everybody and Wonder got in the way of Chainflinger and Paul fell to five life. Bob played his Dusk Imp/Fog and a Barbarian Lunatic. Paul had the afflict and they shuffled for Game 2.
 
@@ -160,7 +164,9 @@ Josh Ravitz had won both games against Gary Wise in less time than it took Matt 
 
 Both players kept their opening seven and there was actually some play on the first few turns for a change. Paul peeked at the end of Bob's turn and saw Chainflinger, Morgue Theft, Sonic Seizure, Dirty Wererat and three Swamps. 
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a923.jpg)Paul's Mesmeric Fiend took the Chainflinger and it had a Sonic Seizure EOT—Bob discarded Swamp.
+![](http://www.wizards.com/sideboard/images/ptbos02/a923.jpg)
+
+Paul's Mesmeric Fiend took the Chainflinger and it had a Sonic Seizure EOT—Bob discarded Swamp.
 
 Paul wanted a second Swamp to play a Torturer but only found Island. Bob mocked him with a one-toughness Dusk Imp. Fourth turn only brought Paul more Islands and he had nothing while Bob made a Dirty Wererat.
 

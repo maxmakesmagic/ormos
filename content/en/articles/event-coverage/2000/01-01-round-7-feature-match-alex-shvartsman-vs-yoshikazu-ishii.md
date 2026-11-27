@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Matthew Vienneau* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/777.jpg)Yoshikazu Ishii looked a little inexperienced during the draft with Alex commenting that he felt many of the choices were in his favor. But with the multi-colored assortment of spells made available by Mark Rosewater (every non-mana provider was a gold or split card), mana screw would likely be the decider in many matches today. Alex played every color but green and Ishii played every color but blue and both players let their opponent go first so that they would have a greater chance of drawing the mana they needed. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/777.jpg)
+
+Yoshikazu Ishii looked a little inexperienced during the draft with Alex commenting that he felt many of the choices were in his favor. But with the multi-colored assortment of spells made available by Mark Rosewater (every non-mana provider was a gold or split card), mana screw would likely be the decider in many matches today. Alex played every color but green and Ishii played every color but blue and both players let their opponent go first so that they would have a greater chance of drawing the mana they needed. 
 
 **Game 1** 
 

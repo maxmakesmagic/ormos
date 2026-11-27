@@ -85,7 +85,9 @@ archive_source:
   sha256: 2a5def42bc46cf88201dc1fc796274d382239f132b40f0d80c461526a4937af1
 render_recovery: []
 ---
-![Headlong_Rush](https://i.ormos.uk/8a/31/8a31beac21beef046de62dfa7f24c76d64ccf3bc796a8c7ac46eb930067bcd01.jpg)Hello, and welcome to Magic Academy! This week we're again going to look at tactical aspects of timing: when to play spells and effects, and why. [Last week](https://web.archive.org/web/20070414000000/https://magic.wizards.com/en/node/705326) we looked at the options on your own turn; this week, we'll look at the intricacies of timing during your opponent's turn.
+![Headlong_Rush](https://i.ormos.uk/8a/31/8a31beac21beef046de62dfa7f24c76d64ccf3bc796a8c7ac46eb930067bcd01.jpg)
+
+Hello, and welcome to Magic Academy! This week we're again going to look at tactical aspects of timing: when to play spells and effects, and why. [Last week](https://web.archive.org/web/20070414000000/https://magic.wizards.com/en/node/705326) we looked at the options on your own turn; this week, we'll look at the intricacies of timing during your opponent's turn.
 
 Remember, on your opponent's turn they have priority. In short, that means that they get a chance to do things first (although you can respond as soon as they do). This is often an advantage. They must make decisions without knowing whether you intend to make a play during that phase. If you opt not to after they've passed, the step ends.
 

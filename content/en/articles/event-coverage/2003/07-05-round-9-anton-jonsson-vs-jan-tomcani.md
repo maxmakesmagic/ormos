@@ -44,7 +44,9 @@ archive_source:
   sha256: 43f1d91edbef1a7e527313859175ca7083650694d2215143d1573f53ef37f38b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a910.jpg)At 6-2 at this point these two can't real afford extra slip-ups. Although this is not a do-or-die round the loser will almost certainly need to ace the remaining rounds.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a910.jpg)
+
+At 6-2 at this point these two can't real afford extra slip-ups. Although this is not a do-or-die round the loser will almost certainly need to ace the remaining rounds.
 
 ### Game 1
 
@@ -58,7 +60,9 @@ Tomcani knew he had to move before Anton's creatures started pouring in. He play
 
 [Carbonize](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carbonize) took the Squad totally out of the picture and [Extra Arms](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Extra+Arms) gave the Brawler some extra skills. The Elite-Stinger team went to work as Anton Jonsson worked to control of the Red Zone.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a912.jpg)It seemed Tomcani was out of it. His opponent had just laid out Crowd's Favorite and the Elite-Stinger combo was killing a creature per turn. Noticed how I wrote "It seemed"?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a912.jpg)
+
+It seemed Tomcani was out of it. His opponent had just laid out Crowd's Favorite and the Elite-Stinger combo was killing a creature per turn. Noticed how I wrote "It seemed"?
 
 Well, before the Favorite could finish the job Tomcani had one final opening. And he had the [Enrage](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Enrage) to power his remaining creature for just enough to snatch victory from the White jaws of almost certain defeat.
 
@@ -74,7 +78,9 @@ Tomcani unmorphed [Sootfeather Flock](https://web.archive.org/web/20030705000000
 
 The Slovakian had six creatures, Jonsson had four blockers and eight mana (six untapped when the fourth blocker came into play). Tomcani seemed a bit surprised when Jonsson decided not to tap anyone on the following attack.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a911.jpg)He redid the math a couple of times, stared at the two cards in Jonsson's hand and attacked with only two creatures. [Cloudreach Cavalry](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloudreach+Cavalry) took out the flock and Jonsson fell to seven (from [Gluttonous Zombie](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gluttonous+Zombie)).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a911.jpg)
+
+He redid the math a couple of times, stared at the two cards in Jonsson's hand and attacked with only two creatures. [Cloudreach Cavalry](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloudreach+Cavalry) took out the flock and Jonsson fell to seven (from [Gluttonous Zombie](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gluttonous+Zombie)).
 
 On the next turn the super-tapper started working on the Fear-powered Zombie, keeping it out of the Red Zone. The turns dragged on as Tomcani tried to find a way to finish the game and Jonsson tried to build a army large enough to hold the Slovakian and go in for the seventeen points of damage.
 

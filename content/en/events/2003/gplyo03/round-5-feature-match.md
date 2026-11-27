@@ -79,7 +79,9 @@ render_recovery:
   - Creeping Mold
   occurrences: 38
 ---
-![](https://www.wizards.com/sideboard/images/gplyo03/947.jpg)Mario made top 8 in [GP London](/en/articles/event-coverage/2003/08-23-live-coverage-of-2003-grand-prix-london) a few months back. He is trying again in Lyon. Jeroen is da Gangsta from Holland during GP Lyon and does not want to talk about early accomplishments; he is here to win Lyon and doesn't want anything else on his mind...
+![](https://www.wizards.com/sideboard/images/gplyo03/947.jpg)
+
+Mario made top 8 in [GP London](/en/articles/event-coverage/2003/08-23-live-coverage-of-2003-grand-prix-london) a few months back. He is trying again in Lyon. Jeroen is da Gangsta from Holland during GP Lyon and does not want to talk about early accomplishments; he is here to win Lyon and doesn't want anything else on his mind...
 
 Mario and Jeroen played in London too, also in round 5. Mario won that match, eliminating Jeroen from the tournament.
 
@@ -101,7 +103,9 @@ First plays of this interesting match were Pyrite Spellbomb and Copper Myr on Je
 
 Kai Budde was playing Nicolas Herzog on the other feature match table and couldn't give Jeroen more than a headshake.
 
-![](https://www.wizards.com/sideboard/images/gplyo03/949.jpg)Mario, more a silent guy, at least in this match, was now at 16 thanks to the Cathodion burning him and tried a Pewter Golem. The Golem got burned by the Pyrite Spellbomb in Jeroen's turn and a Neurok Spy joined the fun. Mario passed the turn playing nothing and Jeroen made a Neurok Familiar token with the Soul Foundry at the end of Mario's turn. The top card of Jeroen's library showed him an Aether Spellbomb and he happily added it to his hand. Jeroen served with the Spy and made another token, just to see if he could do that trick again. It got him a Frogmite that he could play for free and Jeroen's mood got a little better again.
+![](https://www.wizards.com/sideboard/images/gplyo03/949.jpg)
+
+Mario, more a silent guy, at least in this match, was now at 16 thanks to the Cathodion burning him and tried a Pewter Golem. The Golem got burned by the Pyrite Spellbomb in Jeroen's turn and a Neurok Spy joined the fun. Mario passed the turn playing nothing and Jeroen made a Neurok Familiar token with the Soul Foundry at the end of Mario's turn. The top card of Jeroen's library showed him an Aether Spellbomb and he happily added it to his hand. Jeroen served with the Spy and made another token, just to see if he could do that trick again. It got him a Frogmite that he could play for free and Jeroen's mood got a little better again.
 
 All Mario could do was to resolve a Nim Shambler, but Jeroen attacked past Mario's defenses with the little fliers and the Neurok Spy and built another token. It got him a random Golem, but Mario had conceded in disgust because of the savage cheatery of this Gangsta...
 
@@ -131,7 +135,9 @@ Mario thougt for a long time and attacked with just the Cathodion; War Wagon got
 
 In Jeroen's turn, the Slith became 3/3 after attacking and did 4 together with the Chosen, which could still do evil things, because of the fact that Mario only had artifacts in play.
 
-![](https://www.wizards.com/sideboard/images/gplyo03/950.jpg)Mario only had 3 lands and that caused Jeroen to tap the mana Myr in Mario's upkeep. Mario could only make a Viridian Longbow in disgust. When the next card, a Soldier Replica, was made, but got Deconstructed in the first mainphase of Jeroen's turn, Mario had seen enough of Jeroen's deck and conceded.
+![](https://www.wizards.com/sideboard/images/gplyo03/950.jpg)
+
+Mario only had 3 lands and that caused Jeroen to tap the mana Myr in Mario's upkeep. Mario could only make a Viridian Longbow in disgust. When the next card, a Soldier Replica, was made, but got Deconstructed in the first mainphase of Jeroen's turn, Mario had seen enough of Jeroen's deck and conceded.
 
 When asked about their sideboard, Mario shows Creeping Mold, Deconstruct and the Viridian Longbow along with some extra forests. Jeroen stuck to his white sideboard plan he had already made at deck construction. The white cards came in for the blue; something he has this to say about:
 

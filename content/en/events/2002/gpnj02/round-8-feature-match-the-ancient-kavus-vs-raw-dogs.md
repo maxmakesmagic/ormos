@@ -294,7 +294,9 @@ The team of Brian Hacker, Gab Tsang and Jeff Cunningham faced off against Mike P
 
 ### Game One: Brian vs. Mike
 
-![](http://www.wizards.com/sideboard/images/gpnj02/912.jpg)Brian, playing black/red, faced off against Mike playing blue/green. Brian killed a couple of Mike's early and smaller creatures with a Crippling Fatigue, but the good doctor brought out the fatty patrol with an Arrogant Wurm and Rabid Elephant. Brian drew no answers to the huge creatures, and fell quickly to the onslaught.
+![](http://www.wizards.com/sideboard/images/gpnj02/912.jpg)
+
+Brian, playing black/red, faced off against Mike playing blue/green. Brian killed a couple of Mike's early and smaller creatures with a Crippling Fatigue, but the good doctor brought out the fatty patrol with an Arrogant Wurm and Rabid Elephant. Brian drew no answers to the huge creatures, and fell quickly to the onslaught.
 
 Mike 1-Brian 0
 
@@ -316,7 +318,9 @@ Mike 1-Brian 1
 
 ### Game One: Jeff vs. Gary
 
-![](http://www.wizards.com/sideboard/images/gpnj02/911.jpg)Gary took an early mulligan, but gained a slight tempo pick-up with a Millikin, powering turn three Mystic Zealot in his white/blue deck. Jeff played his forests, and seemed to have a good offense built with Anurid Barkripper, Ironshell Beetle and Basking Rootwalla, bringing Gary to eight while Gary attempted to stabilize. This plan seemed to work, as Gary played Shelter and Prismatic Strands, the latter making life extremely difficult for Jeff's mono-green board. A couple of more turns of fending left Gary without any tricks in hand and at four, but a newly summoned Cephalid Retainer looked to stabilize the board entirely. With a board full of islands, and a Mystic Zealot on offense, Gary nearly completed the comeback over the course of the next few turns, aided by a pair of Teroh's Faithful to put him at a more comfortable double-digit life total. The turn before death, Jeff finally drew his first island of the game, allowing him to Aether Burst the Zealot off the board. Gary promptly replayed it, as Jeff contemplated his next move. It was a Dematerialize, sending the Zealot back to Krakower's hand yet again. Gary drew an Aether Burst of his own, shipping a couple of creatures back to Jeff's hand. This allowed him a turn to tap out to play Aven Flock and Mystic Zealot. With Jeff at two life, the game finally looked to be over. As Gary tapped a Swarmsnapper and Kirtar's Desired the Fogbringer to swing for the win, Jeff revealed a second Aether Burst of his own (third of the game) to bounce both of Gary's flyers and Cephalid Retainer. 
+![](http://www.wizards.com/sideboard/images/gpnj02/911.jpg)
+
+Gary took an early mulligan, but gained a slight tempo pick-up with a Millikin, powering turn three Mystic Zealot in his white/blue deck. Jeff played his forests, and seemed to have a good offense built with Anurid Barkripper, Ironshell Beetle and Basking Rootwalla, bringing Gary to eight while Gary attempted to stabilize. This plan seemed to work, as Gary played Shelter and Prismatic Strands, the latter making life extremely difficult for Jeff's mono-green board. A couple of more turns of fending left Gary without any tricks in hand and at four, but a newly summoned Cephalid Retainer looked to stabilize the board entirely. With a board full of islands, and a Mystic Zealot on offense, Gary nearly completed the comeback over the course of the next few turns, aided by a pair of Teroh's Faithful to put him at a more comfortable double-digit life total. The turn before death, Jeff finally drew his first island of the game, allowing him to Aether Burst the Zealot off the board. Gary promptly replayed it, as Jeff contemplated his next move. It was a Dematerialize, sending the Zealot back to Krakower's hand yet again. Gary drew an Aether Burst of his own, shipping a couple of creatures back to Jeff's hand. This allowed him a turn to tap out to play Aven Flock and Mystic Zealot. With Jeff at two life, the game finally looked to be over. As Gary tapped a Swarmsnapper and Kirtar's Desired the Fogbringer to swing for the win, Jeff revealed a second Aether Burst of his own (third of the game) to bounce both of Gary's flyers and Cephalid Retainer. 
 
 On his own turn, Jeff brought a Looter into play, followed with a Cephalid Scout. The Looter came online the following turn as Gary played out two flyers, and then down to the Retainer versus card drawing. Jeff drew four cards between the two Cephalids and his draw phase, but couldn't find a solution and was forced to scoop.
 
@@ -332,7 +336,9 @@ Match Win to the Raw Dogs
 
 ### Game Two: Jeff vs. Gary
 
-![](http://www.wizards.com/sideboard/images/gpnj02/910.jpg)Game one took thirty minutes, leaving only twenty minutes left to play game two. The Gab/Matt thrashing took less time than Gary and Jeff's first game, and the third match was well into the third game while these two were shuffling, so it all came down to whether this game would finish or not.
+![](http://www.wizards.com/sideboard/images/gpnj02/910.jpg)
+
+Game one took thirty minutes, leaving only twenty minutes left to play game two. The Gab/Matt thrashing took less time than Gary and Jeff's first game, and the third match was well into the third game while these two were shuffling, so it all came down to whether this game would finish or not.
 
 Jeff started out with the absolutely insane draw of Werebear, Cephalid Looter and Standstill to Gary's nothing. Gary was forced to allow Jeff to draw three cards, but at this point Brian won the match for his team. Playing for tiebreakers at this point, Jeff continued to pound with Wild Mongrel and Possessed Aven (which would have been quite handy the previous game). He then Dematerialized and Aether Bursted all of Gary's blockers and swung with a huge team. Krakower tried to staunch the flow of blood with Sphere of Duty. It didn't work, as Jeff simply destroyed Gary's nearly empty board.
 

@@ -87,7 +87,9 @@ render_recovery:
   - Butcher Orgg
   occurrences: 49
 ---
-![](https://www.wizards.com/sideboard/images/gputs02/989.jpg)Ken'ichi Fujita has had his share of Master and Apprentice showdowns. After all, the big man has played mentor to many of the new crop of Japanese pros. This time, though, he faces his disciple from another arena: Sideboard Japan Coverage. Cub reporter Isamu Fujieda is taking a break from his regular position on the coverage side of things to return to being a player. Pride was on the line on both sides of the table.
+![](https://www.wizards.com/sideboard/images/gputs02/989.jpg)
+
+Ken'ichi Fujita has had his share of Master and Apprentice showdowns. After all, the big man has played mentor to many of the new crop of Japanese pros. This time, though, he faces his disciple from another arena: Sideboard Japan Coverage. Cub reporter Isamu Fujieda is taking a break from his regular position on the coverage side of things to return to being a player. Pride was on the line on both sides of the table.
 
 Fujita started with with Birchlore Rangers, but had no friend for them to accelerate with. He played a Morph creature and then Symbiotic Elf while Fujieda managed only Daru Healer and Spined Basher. The Basher traded with what turned out to be a Snarling Undorak. Gluttonous Zombie forced Fujita to spend Symbiotic Elf and Crown of Suspicion to take it out, and then it seemed like Fujita's offense petered out. He made a morphed creature and passed it back.
 
@@ -95,7 +97,9 @@ Fujieda was just gearing up. He tapped out for Daru Lancer. Fujita tried to bluf
 
 Fujieda 1 - Fujita 0
 
-![](https://www.wizards.com/sideboard/images/gputs02/988.jpg)Fujieda had to take a mulligan for game two, earning a smile from Fujita. He brought the hammer down early with Sparksmith and a secret guy. Fujieda tried a surprise of his own. Fujita held back, playing coy. Fujieda made a Severed Legion to start the pain. Still Fujita didn't budge. Fujieda tried to make him pay with Commando Raid, but Fujita stopped that nonsense with Pinpoint Avalanche.
+![](https://www.wizards.com/sideboard/images/gputs02/988.jpg)
+
+Fujieda had to take a mulligan for game two, earning a smile from Fujita. He brought the hammer down early with Sparksmith and a secret guy. Fujieda tried a surprise of his own. Fujita held back, playing coy. Fujieda made a Severed Legion to start the pain. Still Fujita didn't budge. Fujieda tried to make him pay with Commando Raid, but Fujita stopped that nonsense with Pinpoint Avalanche.
 
 And that seemed to be the end of Fujieda's resistance. Swat took out his Daru Healer, and morphed Birchlore Rangers traded with a morphed Spined Basher. A Cycled Krosan Tusker got Fujita to seven mana, and he dropped Mythic Proportions on his Symbiotic Elf. Two hits, and they were on to game three.
 

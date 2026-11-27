@@ -56,7 +56,9 @@ render_recovery: []
 
 十分な実力と、正しい選択のデッキ。この二つを持っているプレイヤーはそうそう簡単に負けることはない。このデッキを使う彼は当然のように勝ち星を積み重ねていく。インテンショナルドローができる5回戦、6回戦も当然のようにプレイを選択し、あっさりと6連勝。実力をいかんなく発揮し、首位で予選ラウンドの突破を決めた。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpyok03/a917.jpg)しかしながら、優勝確実かと言われると必ずしもそうとは言い切れない。一番の問題点は、全体数としては少なかったはずの「《仕組まれた疫病/[Engineered Plague](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague)》疫病入りのデッキ」がそれなりに残っていることだろう。《仕組まれた疫病/[Engineered Plague](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague)》はこのデッキにとって《赤の防御円/[Circle of Protection: Red](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red)》と並ぶ致命的なカードである。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpyok03/a917.jpg)
+
+しかしながら、優勝確実かと言われると必ずしもそうとは言い切れない。一番の問題点は、全体数としては少なかったはずの「《仕組まれた疫病/[Engineered Plague](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague)》疫病入りのデッキ」がそれなりに残っていることだろう。《仕組まれた疫病/[Engineered Plague](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague)》はこのデッキにとって《赤の防御円/[Circle of Protection: Red](https://web.archive.org/web/20030823000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red)》と並ぶ致命的なカードである。
 
 また、彼のデッキは同キャラ対決にも一抹の不安を残す。他のゴブリン召集を使うほとんどのプレイヤーが同キャラ用のサイドボードを取っているのに対し、彼は全く取っていないのだ。そのあたりをどう乗り越えるか。なかなかに見ものである。
 

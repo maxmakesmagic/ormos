@@ -82,7 +82,9 @@ render_recovery:
   - Betrayal of Flesh
   occurrences: 45
 ---
-![](https://i.ormos.uk/ae/d5/aed573d482cb21eb12822ae57cbb6d7ab77da34a40aaf9a35722854b9db43a24.jpg)With the second draft out the way it’s getting down to crunch time for the players. Both Kai Budde and Dominick Hothow have 9-2 records. As 11-3 might not be good enough to make the top 8 the tournament has effectively entered single elimination mode for both players.
+![](https://i.ormos.uk/ae/d5/aed573d482cb21eb12822ae57cbb6d7ab77da34a40aaf9a35722854b9db43a24.jpg)
+
+With the second draft out the way it’s getting down to crunch time for the players. Both Kai Budde and Dominick Hothow have 9-2 records. As 11-3 might not be good enough to make the top 8 the tournament has effectively entered single elimination mode for both players.
 
 Budde has a solid black-red deck packed with 11 removal spells while Hothow has a slightly shabby looking white-green deck with a bunch of Alpha Myrs and Raise the Alarms.
 
@@ -94,7 +96,9 @@ The Foundry was looking slow and the Golem took a couple of big chunks out of Ho
 
 Budde 1-0 Hothow
 
-![](https://i.ormos.uk/fd/df/fddf6d77f47653c40ec8478f93d2dfdc193c06c6a48b4a6a1d10f48c4b37eadf.jpg)Hothow zipped out again with an Alpha Myr, this time Budde traded early with a Nim Replica. Hothow followed with a Soldier Replica and Nuisance Engine that limited the damage from Budde’s Barter in Blood although it still netted the Soldier.
+![](https://i.ormos.uk/fd/df/fddf6d77f47653c40ec8478f93d2dfdc193c06c6a48b4a6a1d10f48c4b37eadf.jpg)
+
+Hothow zipped out again with an Alpha Myr, this time Budde traded early with a Nim Replica. Hothow followed with a Soldier Replica and Nuisance Engine that limited the damage from Budde’s Barter in Blood although it still netted the Soldier.
 
 Budde started eating Pest tokens with a Haematite Golem and added a Nim Devourer. Hothow was managing to frustrate him with his token generators as a Raise the Alarm mugged the Devourer. The Devourer came back out of the graveyard through an Alpha Myr and Budde had to hold off while Hothow brought out a Leonin Elder and Scimitar’ed up a Den Guard. Grab the Reins removed both Den Guard and Elder but Budde didn’t seem to have any gas and had to just sit behind his Golem and Devourer.
 
@@ -108,7 +112,9 @@ Budde 1-1 Hothow
 
 Budde’s early Serum Tank was met with an Altar's Light before he could make use of it. Hothow started nibbling again with an early Raise the Alarm and used a second to ambush Budde’s Devourer.
 
-![](https://i.ormos.uk/b7/19/b719be1df02ff33cb36aac2bd27a38d226c854168a6801aab3969e50f8588cc6.jpg)A block, Shrapnel Blast and Barter in Blood later and the board was clear. Hothow recovered with a Banshee Blade and then a Nuisance Engine, but he only got to make one pest before Budde Shattered it. Budde recovered much better as he made the near invulnerable Mirror Golem and imprinted an Alpha Myr to give it protection from artifacts and creatures.
+![](https://i.ormos.uk/b7/19/b719be1df02ff33cb36aac2bd27a38d226c854168a6801aab3969e50f8588cc6.jpg)
+
+A block, Shrapnel Blast and Barter in Blood later and the board was clear. Hothow recovered with a Banshee Blade and then a Nuisance Engine, but he only got to make one pest before Budde Shattered it. Budde recovered much better as he made the near invulnerable Mirror Golem and imprinted an Alpha Myr to give it protection from artifacts and creatures.
 
 Hothow’s Alpha Myr succumbed to a Betrayal of Flesh and when that also fetched a Nim Devourer back into play it looked like it was all over for Hothow. A Pewter Golem was just icing on the cake.
 

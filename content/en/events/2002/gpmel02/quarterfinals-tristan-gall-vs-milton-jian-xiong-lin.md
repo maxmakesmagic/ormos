@@ -85,7 +85,9 @@ render_recovery:
   - Profane Prayers
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/gpmel02/a863.jpg)Milton drafted a solid W/B deck featuring Akroma's Vengeance, Tristan had drafted a seemingly W/R deck but ended up with so much lot white including Jareth and Aven Brigadier that he played mono white.
+![](http://www.wizards.com/sideboard/images/gpmel02/a863.jpg)
+
+Milton drafted a solid W/B deck featuring Akroma's Vengeance, Tristan had drafted a seemingly W/R deck but ended up with so much lot white including Jareth and Aven Brigadier that he played mono white.
 
 ### Game 1
 
@@ -93,7 +95,9 @@ Milton started fast with a turn 2 Wretched Anurid backed up with a morph. Trista
 
 Game 2 
 
-![](https://i.ormos.uk/cd/2b/cd2ba4c23dbf3202eecd0996edccc51aec48b257b5d80ee043a87ae1aa09c212.jpg)Tristan played first, but once again Milton was the aggressor with Glory Seeker, Battlefield Medic and Screeching Buzzard. Tristan made two Gustcloak Harriers but could not block due to the medic and was forced to race. Milton kept up the pressure with Boneknitter and a morph, while Tristan used Pearlspear Courier to make his harrier a Serra Angel. Milton seemed to have the edge when Tristan blocked his Glory Seeker with the 4/4 harrier. Milton let the seeker die and then cast Crown of Suspicion on the Pearlspear Courier, killing it and reducing the harrier back to 2/2, which then also died. Tristan was outnumbered and low on life, but refused to yield and kept racing with the harrier while making a Grassland Crusader. Milton's buzzard and a newly cast Severed Legion put Tristan on 3 life, while Milton was on 8 from the harrier. Tristan was facing almost certain death next turn. He untapped and attacked with harrier, pumping it with the crusader, Piety Charming it and casting Inspirit on it to deal exactly 8 damage to Milton for the kill.
+![](https://i.ormos.uk/cd/2b/cd2ba4c23dbf3202eecd0996edccc51aec48b257b5d80ee043a87ae1aa09c212.jpg)
+
+Tristan played first, but once again Milton was the aggressor with Glory Seeker, Battlefield Medic and Screeching Buzzard. Tristan made two Gustcloak Harriers but could not block due to the medic and was forced to race. Milton kept up the pressure with Boneknitter and a morph, while Tristan used Pearlspear Courier to make his harrier a Serra Angel. Milton seemed to have the edge when Tristan blocked his Glory Seeker with the 4/4 harrier. Milton let the seeker die and then cast Crown of Suspicion on the Pearlspear Courier, killing it and reducing the harrier back to 2/2, which then also died. Tristan was outnumbered and low on life, but refused to yield and kept racing with the harrier while making a Grassland Crusader. Milton's buzzard and a newly cast Severed Legion put Tristan on 3 life, while Milton was on 8 from the harrier. Tristan was facing almost certain death next turn. He untapped and attacked with harrier, pumping it with the crusader, Piety Charming it and casting Inspirit on it to deal exactly 8 damage to Milton for the kill.
 
 ### Game 3
 

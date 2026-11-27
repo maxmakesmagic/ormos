@@ -86,7 +86,9 @@ render_recovery:
   - Centaur Glade
   occurrences: 37
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a957.jpg)Shawn “Hammer” Regnier is a fan-favorite. That might be due to his menacing appearance. No-one mentions his name without talking about his history as a pro arm-wrestler, and he’s still got the guns to attest to the fact. He keeps insisting that he’s leaving the game for good, but time and again he shows up for one more run. This time it’s a good one. He’s 7-0 and looking like a lock for Day 2. Opposite him is one of the unsung members of TOGIT: Adam Horvath. The reigning New Jersey State Champion has some lettered supporters, and his performance thusfar corroborates their stories. Of course, Teammate Osyp Lebedowicz couldn’t let that praise go to Horvath’s head, so he spent the round mercilessly taunting him.
+![](https://www.wizards.com/sideboard/images/gpbos03/a957.jpg)
+
+Shawn “Hammer” Regnier is a fan-favorite. That might be due to his menacing appearance. No-one mentions his name without talking about his history as a pro arm-wrestler, and he’s still got the guns to attest to the fact. He keeps insisting that he’s leaving the game for good, but time and again he shows up for one more run. This time it’s a good one. He’s 7-0 and looking like a lock for Day 2. Opposite him is one of the unsung members of TOGIT: Adam Horvath. The reigning New Jersey State Champion has some lettered supporters, and his performance thusfar corroborates their stories. Of course, Teammate Osyp Lebedowicz couldn’t let that praise go to Horvath’s head, so he spent the round mercilessly taunting him.
 
 Horvath came off the blocks with Goblin Turncoat on turn two, and all three colors of mana on turn three. However, he didn’t have a play to go with it. Regnier made a morph and passed it back. Horvath hit for two more before showing Sparksmith. Better late than never. With no solution to that particular problem, Regnier attacked and then sat on his four mana.
 
@@ -96,7 +98,9 @@ Enormous Baloth hit play, turning on Skirk Outrider in addition to providing a r
 
 Horvath 1 – Regnier 0
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a958.jpg)As so often happens, the game didn’t really get going until the third turn, with Regnier’s morph staring down Horvath’s Smokespew Invoker. Crown of Suspicion cleared the path, and Horvath replaced it with a morph, showing that he was stuck on three lands. They traded hits. Regnier had no play on five mana. Horvath made another morph. Shock dispatched it. Finally Regnier had another morph.
+![](https://www.wizards.com/sideboard/images/gpbos03/a958.jpg)
+
+As so often happens, the game didn’t really get going until the third turn, with Regnier’s morph staring down Horvath’s Smokespew Invoker. Crown of Suspicion cleared the path, and Horvath replaced it with a morph, showing that he was stuck on three lands. They traded hits. Regnier had no play on five mana. Horvath made another morph. Shock dispatched it. Finally Regnier had another morph.
 
 It was gripping drama. Horvath made yet another Gray Ogre. Regnier attacked into a double-block. The unblocked morph was revealed to be Haunted Cadaver. Horvath was left with just a morph and one card in hand after discarding a mittful of red cards. Blackmail stripped it, and it was Noxious Ghoul. He ripped mountain to turn over his Shaleskin Plower for Regnier’s lone mountain.
 

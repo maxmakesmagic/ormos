@@ -76,12 +76,16 @@ render_recovery:
   - Living Hive
   occurrences: 21
 ---
-![](https://i.ormos.uk/95/23/9523aa38cf4c569bbdbe40b71cd7d47ec8a890eb38b84601d9e603828d0545aa.jpg)These two players are sitting on 9-2 coming into this round so really need to win all three rounds to be certain of making the top eight though they seem to feel that a 2-1 record should see them in.
+![](https://i.ormos.uk/95/23/9523aa38cf4c569bbdbe40b71cd7d47ec8a890eb38b84601d9e603828d0545aa.jpg)
+
+These two players are sitting on 9-2 coming into this round so really need to win all three rounds to be certain of making the top eight though they seem to feel that a 2-1 record should see them in.
 
 Tuomo made the first play of the match with a turn two Silver Myr which he used to power out a Lodestone Myr. Jens replied with an end-step Raise the Alarm and a Bottle Gnomes during his turn. Tuomo played a Cathodion on his turn and swung in with the Lodestone Myr pumping it three times with the Cathodion, Myr and a Tree of Tales. Jens was only able to play a Skyhunter Cub without any equipment to power it up it looked a bit weak and died to an Irradiate on the next attack phase leaving the rest of Jens's team to take the fall. Jens was able to deal with the Molder Slug that Tuomo played next turn with a Duplicant but when that was the target of a Creeping Mold he was forced to concede. 
 
 Tuomo Nieminen 1 - Jens Thorén 0
 
-![](https://i.ormos.uk/27/77/27771676ac689ec11c7cb4ac871e885907eb2004bc2c7cc0c2a69f8592c2a0ab.jpg)Both players had early action in this game with Jens using a Talisman to power out a Skyhunter Patrol whilst Tuomo had a Silver Myr and a Lumengrid Sentinel which allowed him to tap down large parts of Jens' team. A Clockwork Condor prevented the Skyhunter Patrol from attacking and a Malachite Golem gave Tuomo a sizeable body to work with. Tuomo upped his offensive powers with a Broodstar for five and then proceeded to play more artifacts so that Jens was forced to concede despite playing a Living Hive.
+![](https://i.ormos.uk/27/77/27771676ac689ec11c7cb4ac871e885907eb2004bc2c7cc0c2a69f8592c2a0ab.jpg)
+
+Both players had early action in this game with Jens using a Talisman to power out a Skyhunter Patrol whilst Tuomo had a Silver Myr and a Lumengrid Sentinel which allowed him to tap down large parts of Jens' team. A Clockwork Condor prevented the Skyhunter Patrol from attacking and a Malachite Golem gave Tuomo a sizeable body to work with. Tuomo upped his offensive powers with a Broodstar for five and then proceeded to play more artifacts so that Jens was forced to concede despite playing a Living Hive.
 
 Tuomo Nienen beats Jens Thorén 2-0

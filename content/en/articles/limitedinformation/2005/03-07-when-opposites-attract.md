@@ -824,7 +824,9 @@ render_recovery:
 ---
 Whenever you sit down across from a player who is piloting a two-colour deck you will normally find that they are playing two allied colours. It's not surprising of course, as the allied colours tend to have more in common than the opposing colours do and blue-white or red-green (for example) tend to just work better than other misaligned combinations.
 
-![](https://i.ormos.uk/79/a5/79a54ae754aeb0296477ecb61e6f75de431312a33d85c1fb00098e26f1654a29.jpg)In this block more than in previous ones we've seen the rise of several opposing colour combinations. Black-green can frequently be successful when focused on Spirits and Soulshift backed up by Devouring Greed. I've also discussed the white-red aggro-Samurai deck that is the preferred deck amongst some players. Today though I'm going to be tackling what is probably the most commonly drafted opposing colour combination: blue-red.
+![](https://i.ormos.uk/79/a5/79a54ae754aeb0296477ecb61e6f75de431312a33d85c1fb00098e26f1654a29.jpg)
+
+In this block more than in previous ones we've seen the rise of several opposing colour combinations. Black-green can frequently be successful when focused on Spirits and Soulshift backed up by Devouring Greed. I've also discussed the white-red aggro-Samurai deck that is the preferred deck amongst some players. Today though I'm going to be tackling what is probably the most commonly drafted opposing colour combination: blue-red.
 
 As colours go you don't get much more opposite than blue and red. In the most basic terms of what these colours stand for you have chaos vs. planning and freedom vs. control. Red wants to be aggressive and attacking all the time; blue wants to be a bit more controlling and take things slower. It's obvious to anyone that you wouldn't expect these two colours to cooperate but in this block they frequently do. This isn't the first time that we've seen this particular combination rise in popularity of course; I seem to remember a little card called Lavamancer's Skill that was quite popular a couple of years ago.
 

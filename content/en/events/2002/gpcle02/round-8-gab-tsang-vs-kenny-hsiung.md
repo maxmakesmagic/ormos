@@ -76,7 +76,9 @@ render_recovery:
   - Acorn Harvest
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a940.jpg)"Is it nine o'clock?" said Gab, smiling. "It feels like four! I'm having fun."
+![](http://www.wizards.com/sideboard/images/gpcle02/a940.jpg)
+
+"Is it nine o'clock?" said Gab, smiling. "It feels like four! I'm having fun."
 
 It was the eighth round for the night, and the game was just for glory. Both Gab and Kenny had their seven-plus records and were locked for Day Two, but apparently neither of them felt like quitting; while the room around them was so filled with byes that it felt like the last day of school, these two guys decided to slug it out.
 
@@ -100,7 +102,9 @@ Gab Careful Studied into a double-Wonder drop and cast Mongrel again... But now 
 
 Tsang 0 - Hsiung 1
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a941.jpg)Neither of them mulliganed, and they looked like a mirror match for a second with two islands staring at each other... But Gab didn't Careful Study, instead choosing to drop a Catalyst Stone. "Sure," said Kenny, fingering his cards.
+![](http://www.wizards.com/sideboard/images/gpcle02/a941.jpg)
+
+Neither of them mulliganed, and they looked like a mirror match for a second with two islands staring at each other... But Gab didn't Careful Study, instead choosing to drop a Catalyst Stone. "Sure," said Kenny, fingering his cards.
 
 Gab winced the next turn as he laid a land and cast Quiet Speculation... And sure enough, Kenny had the Envelop for it. It fizzled harmlessly as Gab used his remaining mana to cast a Sylvan Safekeeper, which then got Edicted. Poor Olle.
 
@@ -112,7 +116,9 @@ Gab went for Spec #2, which met Kenny's Envelop #2, but that durned hound knocke
 
 Anyway, the Judge concurred with Gab's deep analysis of the situation; Kenny should just pay the mana and received a Procedural Warning. Since he had no previous warnings, this meant bupkiss. The game continued.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a944.jpg)The Mongrel continued its assault, snapping and biting Kenny down to six. Gab cast Wonder to add pressure, but it met a Ghastly Demise the moment it hit the board. Unfortunately, Kenny's hand was the control player's nightmare: He had a hand full of Logics and Envelops, but nothing to deal with the threat that was actually on the board. Gab attacked, and though he could drop his whole hand and end the game right here, he didn't know that; rightfully afraid of a well-timed Burst, he gave Kenny another turn to draw an answer. His answer, however, was, "A quick and merciful death"... And the next turn, Gab dropped the two cards to the Mongrel for the win.
+![](http://www.wizards.com/sideboard/images/gpcle02/a944.jpg)
+
+The Mongrel continued its assault, snapping and biting Kenny down to six. Gab cast Wonder to add pressure, but it met a Ghastly Demise the moment it hit the board. Unfortunately, Kenny's hand was the control player's nightmare: He had a hand full of Logics and Envelops, but nothing to deal with the threat that was actually on the board. Gab attacked, and though he could drop his whole hand and end the game right here, he didn't know that; rightfully afraid of a well-timed Burst, he gave Kenny another turn to draw an answer. His answer, however, was, "A quick and merciful death"... And the next turn, Gab dropped the two cards to the Mongrel for the win.
 
 Tsang 1 - Hsiung 1
 

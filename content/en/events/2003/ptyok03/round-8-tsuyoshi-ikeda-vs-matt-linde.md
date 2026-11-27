@@ -85,13 +85,17 @@ render_recovery:
   - Essence Sliver
   occurrences: 45
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a863.jpg)The Pacifico Yokohama must be a charmed building for Matt Linde. In 1999 he made his first Top 8 at the World Championships held here. Now he's moving into Day 2 at a comfortable 6-1. Graybeard Tsuyoshi Fujita was one of Japans first emissaries to the Pro Tour, and his consistent attendance speaks well of his skills, as does his single loss on the first day. He's wound up with what is probably the table's best deck, a blue-red monstrosity with Rift and two Lavamancer's Skills. Linde has a strong red-white deck with a few key cards.
+![](http://www.wizards.com/sideboard/images/ptyok03/a863.jpg)
+
+The Pacifico Yokohama must be a charmed building for Matt Linde. In 1999 he made his first Top 8 at the World Championships held here. Now he's moving into Day 2 at a comfortable 6-1. Graybeard Tsuyoshi Fujita was one of Japans first emissaries to the Pro Tour, and his consistent attendance speaks well of his skills, as does his single loss on the first day. He's wound up with what is probably the table's best deck, a blue-red monstrosity with Rift and two Lavamancer's Skills. Linde has a strong red-white deck with a few key cards.
 
 ### Game 1
 
 Linde got things started right away with Deftblade Elite. It got a hit in before it traded with Ikeda's Skirk Drill Sergeant. He replaced it with Flamewave Invoker. Ikeda was light on land, specifically islands, and cycled Keeneye Aven on his third turn. It gave him a mountain. Linde laughed as he tapped six to drop Goblin Goon. From the rail, pal William Jensen raised his eyebrows in appreciation. Ikeda made a morph and accepted the eight damage, falling to nine. Linde added an Aven Redeemer to the mix. It was not looking good for Ikeda.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a864.jpg)Ikeda's island showed up without a second to spare. He made a morph and passed it back with a single blue open. When Linde entered his attack step, Ikeda took a moment. Chain of Vapor sent the Redeemer home. Linde protected his Flamewave Invoker, and then chained it back at one of Ikeda's morphs. Ikeda sent it back at the Goon. Linde declined to chain it again. He bashed Ikeda to seven, and played a land and the Goon.
+![](http://www.wizards.com/sideboard/images/ptyok03/a864.jpg)
+
+Ikeda's island showed up without a second to spare. He made a morph and passed it back with a single blue open. When Linde entered his attack step, Ikeda took a moment. Chain of Vapor sent the Redeemer home. Linde protected his Flamewave Invoker, and then chained it back at one of Ikeda's morphs. Ikeda sent it back at the Goon. Linde declined to chain it again. He bashed Ikeda to seven, and played a land and the Goon.
 
 Ikeda untapped and put on a puzzled expression. He settled on putting Lavamancer's Skill on his morph and playing a Wall of Deceit. Linde dropped the Redeemer and swung in. Ikeda put the Wall in front of the Invoker and fell to one. He untapped and took the Redeemer down with a Crested Craghorn. Linde drew, shrugged, and pointed Chain of Plasma at his face.
 
@@ -109,7 +113,9 @@ The hits just kept on coming for Ikeda, thanks to a facedown Wall of Deceit. He 
 
 That seemed to be the death knell for Linde. He played Slate of Ancestry and handed it back. Ikeda didn't have much pressure, but he did have some serious machinegun action, taking care of the Avarax. Linde made a morph and drew a card with the Slate. Ikeda untapped and axed it, sending for damage. Grassland Crusader did nothing when Ikeda unmorphed his Willbender to maximize his two Skills. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a865.jpg)The only thing keeping Linde in the game was that Ikeda was drawing no action. His time was running out, though, even the anemic beatdown was getting the better of him. Then, Slice and Dice jumped into his hand, aiming to clear the board. Ikeda showed a Chain of Vapor, saving his Willbender and Imagecrafter, and unmorphed his Wall. That looked like the end. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a865.jpg)
+
+The only thing keeping Linde in the game was that Ikeda was drawing no action. His time was running out, though, even the anemic beatdown was getting the better of him. Then, Slice and Dice jumped into his hand, aiming to clear the board. Ikeda showed a Chain of Vapor, saving his Willbender and Imagecrafter, and unmorphed his Wall. That looked like the end. 
 
 But then, a reprieve! Ikeda turned the wall back down at end of turn, killing it thanks to the Slice damage. Ikeda drew Goblin Clearcutter, though, and played it and his Imagecrafter. Linde needed another miracle. He drew Gempalm Avenger. Ikeda drew a blank. Linde pulled a land, then Slated into Essence Sliver. Ikeda drew another non-card. Linde ripped three thanks to his Slate, and the advantage was overwhelming. Even with the Imagecrafter turning off the Sliver, Ikeda drew too many lands to have a chance. It was a spectacular comeback, and only possible because of Ikeda's error.
 

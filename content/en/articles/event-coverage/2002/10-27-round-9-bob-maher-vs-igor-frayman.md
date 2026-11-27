@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a916.jpg)Coming off of the first Rochester draft of the day, these two capable players got paired up for the first match of Sunday morning. Daylight savings time had afforded each an extra hour of sleep, which showed in the bright and bubbly countenances they brought to the table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a916.jpg)
+
+Coming off of the first Rochester draft of the day, these two capable players got paired up for the first match of Sunday morning. Daylight savings time had afforded each an extra hour of sleep, which showed in the bright and bubbly countenances they brought to the table.
 
 The match drew a huge crowd, including Chris Pikula, "Turbo" Bob Wagner, Neil Reeves, and about two dozen other people. Igor won the coin flip and chose to play first.
 
@@ -67,7 +69,9 @@ Bob Maher 1 – Igor Frayman 0.
 
 By this point, Ken Krouner, Dave Bartholow and Mike Flores wandered around the table, whispering in hushed tones and making secretive jokes about the match. Their tone was in contrast with the somber shuffling going on at the table with the actual competitors. Igor in particular seemed downcast, his deck having failed to produce for him in Game 1. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a917.jpg)Bob, on the other hand, was making arrangements for checking out of his hotel room at noon. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a917.jpg)
+
+Bob, on the other hand, was making arrangements for checking out of his hotel room at noon. 
 
 Chris Pikula: "You know who's the most random person I ever found sleeping in my room at a Pro Tour? Nate Clarke."  
  Bob: "Who would be the worst?"  
@@ -81,7 +85,9 @@ Fortunately for Frayman, he drew plenty of lands this game, and dropped morph cr
 
 Would Bob trade the Machinist for the [Dive Bomber](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber) and the Anurid? That scenario never came about, as he enchanted the huge Goblin with [Crown of Fury](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Fury), making it nearly unkillable. The first swing it took, did three points of damage. Igor attempted to race with [Dive Bomber](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber), but Bob had already brought himself to twenty-four with his elf.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a918.jpg)The beasts just kept on coming for Maher Jr, with [Barkhide Mauler](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barkhide+Mauler), joining the fray. Just as it looked all hope would be lost, Igor murdered the Machinist with [Cruel Revival](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival), getting back his [Haunted Cadaver](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunted+Cadaver) from earlier. Bob, unfrayed, swung with his 4/4, which was promptly double blocked by the morphed Cadaver and the [Wretched Anurid](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid). [Pinpoint Avalanche](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche) took out the larger blocker, giving Maher two for one advantage. The Mauler died on the next attack, blocked by the [Dive Bomber](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a918.jpg)
+
+The beasts just kept on coming for Maher Jr, with [Barkhide Mauler](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barkhide+Mauler), joining the fray. Just as it looked all hope would be lost, Igor murdered the Machinist with [Cruel Revival](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival), getting back his [Haunted Cadaver](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunted+Cadaver) from earlier. Bob, unfrayed, swung with his 4/4, which was promptly double blocked by the morphed Cadaver and the [Wretched Anurid](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid). [Pinpoint Avalanche](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pinpoint+Avalanche) took out the larger blocker, giving Maher two for one advantage. The Mauler died on the next attack, blocked by the [Dive Bomber](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber).
 
 The board stabilized, with each of the two playing symmetrical morph creatures. Bob attacked. Igor blocked. Igor revealed [Thrashing Mudspawn](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thrashing+Mudspawn). Bob revealed Skittering Valesk. Igor frowned. 
 

@@ -79,7 +79,9 @@ render_recovery:
   - Skirk Fire Marshall
   occurrences: 82
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a798.jpg)The last time I wrote about Tomi Walamies for the Sideboard he had just posted a dismal 2-3 record in the Sunday PTQ at Pro Tour Houston. After finishing in second place at Pro Tour New Orleans he failed to post any strong follow-up finishes. Following his mediocre Day One at Pro Tour Houston he found himself unqualified to attend Chicago. He promised to attend Venice to play in the Team Masters Gateway with Jens Thoren and Johan Sadeghpour. Despite his poor finishes he still found himself qualified to compete this weekend on the strength of his Constructed rating. 
+![](http://www.wizards.com/sideboard/images/ptven03/a798.jpg)
+
+The last time I wrote about Tomi Walamies for the Sideboard he had just posted a dismal 2-3 record in the Sunday PTQ at Pro Tour Houston. After finishing in second place at Pro Tour New Orleans he failed to post any strong follow-up finishes. Following his mediocre Day One at Pro Tour Houston he found himself unqualified to attend Chicago. He promised to attend Venice to play in the Team Masters Gateway with Jens Thoren and Johan Sadeghpour. Despite his poor finishes he still found himself qualified to compete this weekend on the strength of his Constructed rating. 
 
 Mattias Jorstedt fared much better than Tomi in Houston. His Aluren deck carried him to the Top 8 where he ran afoul of Darwin Kastle's Rock deck in the quarterfinals. It was Mattias' first Pro Tour Top 8 although he had posted multiple Top 16's as well as a handful of Top 8's at Euros.
 
@@ -111,7 +113,9 @@ Mattias – 0 Tomi – 1
 
 As they made their sideboard decisions—Mattias brought in 12 cards—Tomi kidded around, "What do you think about this match-up. Do you think you have the advantage?"
 
-![](http://www.wizards.com/sideboard/images/ptven03/a796.jpg)Mattias, still upset with himself about his misplay, felt he had just lost a golden opportunity, "I thought I had the advantage when I won the coin flip." He was even more upset when he looked at his hand with three Skirk Fire Marshalls and was forced to mulligan. To show his sympathy, Tomi arranged his seven cards on the table to form a frown.
+![](http://www.wizards.com/sideboard/images/ptven03/a796.jpg)
+
+Mattias, still upset with himself about his misplay, felt he had just lost a golden opportunity, "I thought I had the advantage when I won the coin flip." He was even more upset when he looked at his hand with three Skirk Fire Marshalls and was forced to mulligan. To show his sympathy, Tomi arranged his seven cards on the table to form a frown.
 
 "Can you dispatch me in three straight? I have a habit of losing in three straight" Mattias explained his tactics to me, "You see, I am using the whining technique."
 
@@ -141,7 +145,9 @@ Tomi—as always—remained at ease. "It's kind of relaxing to play a deck like 
 
 That is not to say that Mattias was uneasy. Maybe he was just happy to break his 5 game losing streak but he seemed awfully comfortable for someone down 2-1. "I used to put so much pressure on myself to make Top 8 and I even took six months off in order to practice...but I never did. Then, when school was over I suddenly made Top 8 in Houston... Maybe the pressure was gone for me."
 
-![](https://i.ormos.uk/5c/45/5c4588ddd654d43ff525c438d3a10b28409eac3a884f96ab403447240d1d05b3.jpg)"I know what you mean," said Tomi. "New Orleans was going to be my last Pro Tour because I was starting school and there was no pressure. I think you can be more in touch with your intuition when that pressure is gone."
+![](https://i.ormos.uk/5c/45/5c4588ddd654d43ff525c438d3a10b28409eac3a884f96ab403447240d1d05b3.jpg)
+
+"I know what you mean," said Tomi. "New Orleans was going to be my last Pro Tour because I was starting school and there was no pressure. I think you can be more in touch with your intuition when that pressure is gone."
 
 With the sports psychology discussion behind them, they returned to the match at hand. Tomi was leading off for the first time in the match but he had no first turn play despite siding some cheaper creatures back in for that reason. Mattias had the Sledder and Tomi cycled into Sparksmith and played it on his next turn. Mattias played his own Sparksmith and sent the turn back to Tomi.
 

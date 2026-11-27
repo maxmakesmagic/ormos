@@ -929,7 +929,9 @@ Kai had the option of playing in either the Masters or Juniors division of that 
 
 "I did not exactly have high expectations going into the event. Back then I was not nearly the best player in Cologne. Frank Adler had won the Mirage 'prerelease' PT a while back and there were several others that were just better. (That Pro Tour) was the final stop of the PT that had both a Masters and Juniors division and they called this the Junior World Championship. Figuring that I was not going to do very well in the main event, I just used my qualification to play in the Juniors tournament. I 4-0'd my first draft but then dropped two straight in the next including being shot down by an Aladdin's Ring. If I won one of those two matches, I would have been Top 8 with a draw but after winning my last round to go 1-2 in that draft, I finished top 16, if I remember correctly."
 
-![](http://www.wizards.com/magic/images/tournamentcenter/hof/kai_small.jpg)That Top 16 was good enough to get Kai qualified for the next Pro Tour. While he played in the Junior division, Kai later realized that he was playing against some Master-level talent. 
+![](http://www.wizards.com/magic/images/tournamentcenter/hof/kai_small.jpg)
+
+That Top 16 was good enough to get Kai qualified for the next Pro Tour. While he played in the Junior division, Kai later realized that he was playing against some Master-level talent. 
 
 "A few years later the DCI added their match by match database and I saw that in that Juniors Division my opponents in the first draft included Jamie Parke and Brian Kibler, and one of my losses in the second was Eric Philipps. So the opponents there turned out to be able to play **Magic** pretty well a few years later."
 
@@ -961,7 +963,9 @@ This means we can look forward to seeing Kai play in New York this December. Cou
 
 Like the leader of this year's class, Zvi Mowshowitz began his **Magic** career in the Junior division of the Pro Tour when he took part in Pro Tour–Dallas. He made the Finals of the next Junior Pro Tour in Los Angeles but it was not until he took part in Pro Tour–Los Angeles the following season (finishing 12th) that the clock started ticking on his Hall of Fame eligibility. Not including that Finals appearance in the Junior division, Zvi would eventually rack up four Pro Tour Top 8 finishes including a win at Pro Tour–Tokyo in 2000. He was a member of the 1999 U.S. National team and also made the Top 8 of four Grand Prix events, with two victories. 
 
-![](http://www.wizards.com/magic/images/tournamentcenter/hof/zvi_small.jpg)When he finally retired from playing Zvi was in the Top 20 in both lifetime money winnings and Pro Points. Despite his amazing career as a player, Zvi is perhaps better known as a deck designer and **Magic** columnist. He is easily the most prolific writer in the history of the game and has written for a variety of **Magic** sites starting with the **Magic** Dojo and continuing on through **Magicthegathering.com**. 
+![](http://www.wizards.com/magic/images/tournamentcenter/hof/zvi_small.jpg)
+
+When he finally retired from playing Zvi was in the Top 20 in both lifetime money winnings and Pro Points. Despite his amazing career as a player, Zvi is perhaps better known as a deck designer and **Magic** columnist. He is easily the most prolific writer in the history of the game and has written for a variety of **Magic** sites starting with the **Magic** Dojo and continuing on through **Magicthegathering.com**. 
 
 Even when Zvi looked back at the Pro Tour experience that launched his Pro career, his first response involved contextualizing it with the written word.
 

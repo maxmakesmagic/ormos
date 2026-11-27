@@ -510,7 +510,9 @@ Ederは続くターンに2体目の《ゴブリンの戦長/Goblin Warchief》�
 
 ここでEderは3マナで《包囲攻撃の司令官/Siege-Gang Commander》を召喚。何度見ても、《ゴブリンの戦長/Goblin Warchief》とのシナジーは実に恐ろしい限りだ。そして、Humphは慎重に計算を重ね、マナで《堂々巡り/Circular Logic》をプレイ。思えば、5本目にして初のカウンター呪文である。
 
-![](https://i.ormos.uk/a7/f8/a7f8ba179de9f1e33d89d8174d29b56d0d6ec753467c6a2788c21d08c33e40d5.jpg)Ederは2体の《ゴブリンの戦長/Goblin Warchief》と《ゴブリンのそり乗り/Goblin Sledder》1体でアタックし、Eder-3 Humph-4。《火花鍛冶/Sparksmith》をアンタップしたままターンを返した。
+![](https://i.ormos.uk/a7/f8/a7f8ba179de9f1e33d89d8174d29b56d0d6ec753467c6a2788c21d08c33e40d5.jpg)
+
+Ederは2体の《ゴブリンの戦長/Goblin Warchief》と《ゴブリンのそり乗り/Goblin Sledder》1体でアタックし、Eder-3 Humph-4。《火花鍛冶/Sparksmith》をアンタップしたままターンを返した。
 
 Humpherysの《アクアミーバ/Aquamoeba》は墓地の《不可思議/Wonder》の力を借りてフライングクリーチャーである。Humpherysでアタック宣言し、この《アクアミーバ/Aquamoeba》の能力を起動して《尊大なワーム/Arrogant Wurm》をマッドネスでプレイした。
 

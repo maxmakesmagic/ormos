@@ -815,7 +815,9 @@ render_recovery:
 
 * * *
 
-![Militias_Pride](https://i.ormos.uk/dc/68/dc68be2573c53ba63b5536f04e827a7f49d0f28f2b78f86a2ba1b0de1b935b91.jpg)Bonjour à tous, et bon retour à Construire avec un Budget. [La semaine dernière](/en/articles/buildingonabudget/2007/11-07-kithkin-militia-victorious-part-1-of-2), nous avons fait évoluer le deck Milice des sangamis en un deck White Weenie principalement basé sur les sangamis avec un résultat respectable de 10-4. Cependant, il y a eu de multiples pleurnichements sur les forums et mon adresse courriel qui allaient dans ce sens :
+![Militias_Pride](https://i.ormos.uk/dc/68/dc68be2573c53ba63b5536f04e827a7f49d0f28f2b78f86a2ba1b0de1b935b91.jpg)
+
+Bonjour à tous, et bon retour à Construire avec un Budget. [La semaine dernière](/en/articles/buildingonabudget/2007/11-07-kithkin-militia-victorious-part-1-of-2), nous avons fait évoluer le deck Milice des sangamis en un deck White Weenie principalement basé sur les sangamis avec un résultat respectable de 10-4. Cependant, il y a eu de multiples pleurnichements sur les forums et mon adresse courriel qui allaient dans ce sens :
 
 ’Hé ! Tout le monde peut construire un Deck White Weenie ! Il n’y a pas de compétences impliquées dans le jeu ou la construction de ce deck — pourquoi est-ce que tu as perdu ton temps ? ‘
 

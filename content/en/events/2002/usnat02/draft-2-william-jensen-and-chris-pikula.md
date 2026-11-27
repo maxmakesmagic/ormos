@@ -53,7 +53,9 @@ archive_source:
   sha256: 07c920639e62acb94118e8f9089e504b3a9b355c21a80e6c934a78887f0e4516
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a832.jpg)Billy Jensen and Chris Pikula are two of the most well-liked guys on the Pro Tour. The two veterans are always quick with a joke and often can gather crowds with their antics and storytelling. But now it's time for business. With 6-3 records, Pikula and Jensen are in the tenuous position of needing to 3-0 the final draft and hope for the best when the Top 8 tiebreakers are calculated.
+![](http://www.wizards.com/sideboard/images/usnat02/a832.jpg)
+
+Billy Jensen and Chris Pikula are two of the most well-liked guys on the Pro Tour. The two veterans are always quick with a joke and often can gather crowds with their antics and storytelling. But now it's time for business. With 6-3 records, Pikula and Jensen are in the tenuous position of needing to 3-0 the final draft and hope for the best when the Top 8 tiebreakers are calculated.
 
 The table:  
  1 Craig Wescoe  

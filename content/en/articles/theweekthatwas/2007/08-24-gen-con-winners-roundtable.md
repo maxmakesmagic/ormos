@@ -2079,7 +2079,9 @@ render_recovery:
 ---
 * * *
 
-[![](https://i.ormos.uk/20/21/20212c15f0d889680f91a6d5b4eb7f2ca1f85f6beab75299323647eb329ca7ef.jpg)](https://web.archive.org/web/20080615150905/http://www.wizards.com/default.asp?x=welcome/conventions/gencon07)The summer can be a little rough when you are in the tournament commentary and coverage game. The last Pro Tour ended on the first day of July and the last Grand Prix occurred the week before that. We had a brief respite with U.S. and U.K. Nationals getting some big-box coverage, but other than that it has been a pretty sparse schedule of events to report on in this column. 
+[![](https://i.ormos.uk/20/21/20212c15f0d889680f91a6d5b4eb7f2ca1f85f6beab75299323647eb329ca7ef.jpg)](https://web.archive.org/web/20080615150905/http://www.wizards.com/default.asp?x=welcome/conventions/gencon07)
+
+The summer can be a little rough when you are in the tournament commentary and coverage game. The last Pro Tour ended on the first day of July and the last Grand Prix occurred the week before that. We had a brief respite with U.S. and U.K. Nationals getting some big-box coverage, but other than that it has been a pretty sparse schedule of events to report on in this column. 
 
 Well apparently tournaments are like buses...none come along for months and then eight come along at once. This past weekend saw $1,000 Constructed tournaments, multiple PTQs, several different Championship events, and a triple-digit Melee tournament all taking place at Gen Con. You can read about the events – and a whole bunch of other Wizards related stuff regarding Gleemax, Dreamblade, and Dungeons & Dragons – on the [coverage page from the four-day weekend of gaming in Indianapolis](https://web.archive.org/web/20080615150905/http://www.wizards.com/default.asp?x=welcome/conventions/gencon07). It also provided me the perfect opportunity to bring back the roundtable format for this week as I caught up with seven different winners from the weekend. 
 
@@ -2171,7 +2173,9 @@ Here are the participants:
 
 ***TWTW**: How would you describe going to Gen Con to someone who has never been there before?*
 
-![](https://i.ormos.uk/8b/6c/8b6c96f9b25a45e379c62c73a7649ea18517dbe765805db13188e8b1ec2cf082.jpg)**Owen**: Non-stop gaming! Tournaments for every skill level at every hour of the night.
+![](https://i.ormos.uk/8b/6c/8b6c96f9b25a45e379c62c73a7649ea18517dbe765805db13188e8b1ec2cf082.jpg)
+
+**Owen**: Non-stop gaming! Tournaments for every skill level at every hour of the night.
 
 **Kyle**: It's the best four days in gaming!
 
@@ -2279,7 +2283,9 @@ I still needed a top-deck to punch through Ryan's last line of defense (a Treeto
 
 Spending the money on Valencia and hopefully Worlds.
 
-![](https://i.ormos.uk/b3/2c/b32cc43c8bbcca545070a0c1af53ffc3295d1de4e312f0c2efddf3131041ad3a.jpg)**Stephen**: Mox Jet painting by Volkan Baga. It is on the market!
+![](https://i.ormos.uk/b3/2c/b32cc43c8bbcca545070a0c1af53ffc3295d1de4e312f0c2efddf3131041ad3a.jpg)
+
+**Stephen**: Mox Jet painting by Volkan Baga. It is on the market!
 
 **Sam**: Four foil sets of *Time Spiral* (with Timeshifted cards) and *Planar Chaos*. Not *Future Sight*, as I split the finals. Already sold it. No special plans for the money.
 

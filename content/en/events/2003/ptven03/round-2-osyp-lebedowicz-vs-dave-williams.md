@@ -79,7 +79,9 @@ render_recovery:
   - Exalted Angel
   occurrences: 37
 ---
-![](https://i.ormos.uk/f3/ed/f3ed45e55ed7444d38227fa1ba225809f15434cf46a7cdceb5c7ff1eddbebd53.jpg)Dave Williams is still looking for high level since his return from a 1-year ban. Dave is running a Goblin deck with Clickslither, Goblin Goon, and the unexpected Skirk Prospector to power out a third turn monster. 
+![](https://i.ormos.uk/f3/ed/f3ed45e55ed7444d38227fa1ba225809f15434cf46a7cdceb5c7ff1eddbebd53.jpg)
+
+Dave Williams is still looking for high level since his return from a 1-year ban. Dave is running a Goblin deck with Clickslither, Goblin Goon, and the unexpected Skirk Prospector to power out a third turn monster. 
 
 Osyp—last year's runner up in the Rookie of the Year race—is hoping to follow up his 16th place finish form Chicago and string together another extremely solid season. He is running the much-anticipated Slide/Rift deck with a main deck Gempalm Incinerator—with more in the board—that could spell trouble for Dave.
 
@@ -93,7 +95,9 @@ Dave played another Sledder and attacked for with his lonely Piledriver bringing
 
 Osyp played another slide and continued with his plan of keeping the Goon away during turn. When Dave added a Clickslither to his board, Osyp had to start cycling during Dave's turn to not le the Insect through. Osyp played Jareth—the ultimate blocker—and passed the turn back with two white open to protect it from Threaten. 
 
-![](http://www.wizards.com/sideboard/images/ptven03/a966.jpg)Dave played a second Goon and attacked with Goon and Clickslither. While Osyp was making his decisions about which monster to block the piece of paper with his name on it fell onto the play area. Dave: "Bad sign...what does that mean?" Osyp finally decided to block the Goon and Dave sac'd it before damage to deal 5 to his opponent—dropping him to 3. Dave: "What a draw this game... I was all happy that it started out good for me too. Did you draw the Rorix too? All the members of team legend?" All Osyp could do was a face-up Daru Sanctifier destined to block a Goon. 
+![](http://www.wizards.com/sideboard/images/ptven03/a966.jpg)
+
+Dave played a second Goon and attacked with Goon and Clickslither. While Osyp was making his decisions about which monster to block the piece of paper with his name on it fell onto the play area. Dave: "Bad sign...what does that mean?" Osyp finally decided to block the Goon and Dave sac'd it before damage to deal 5 to his opponent—dropping him to 3. Dave: "What a draw this game... I was all happy that it started out good for me too. Did you draw the Rorix too? All the members of team legend?" All Osyp could do was a face-up Daru Sanctifier destined to block a Goon. 
 
 Dave attacked with everyone and Jareth ate the Clickslither and the Sanctifier did the job he was asked to do. Dave decided to try and make his move and Shocked Osyp to 1. When that resolved he played the last card in his hand—another Shock. Dave held up his empty hands and asked if Osyp had the Renewed Faith, "I'm out! Renewed Faith or no? Every card, every piece...I'm out.
 
@@ -116,7 +120,9 @@ Gary Wise sauntered by and asked why Dave and Osyp always seem to play each othe
 
 Dave led off with another Sledder and played Taskmaster and Prospector on turn two. While Osyp debated his turn two play Dave chided him, "Rift... go. After 30 minutes of thinking...c'mon!" Instead Osyp cycled a Gempalm to kill the Sledder.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a965.jpg)Dave swung in for three on the next turn pumping his Taskmaster. Osyp Starstormed for 1 after Dave pumped his Taskmaster twice on the next turn. He missed his fourth land drop but played a Lightning Rift, which drew a Naturalize from Dave. Dave also played a Taskmaster but Osyp had another Rift and killed it with a cycled Blessing.
+![](http://www.wizards.com/sideboard/images/ptven03/a965.jpg)
+
+Dave swung in for three on the next turn pumping his Taskmaster. Osyp Starstormed for 1 after Dave pumped his Taskmaster twice on the next turn. He missed his fourth land drop but played a Lightning Rift, which drew a Naturalize from Dave. Dave also played a Taskmaster but Osyp had another Rift and killed it with a cycled Blessing.
 
 Dave got in for three with Clickslither and shrugged when Osyp played his Astral Slide. He had another Naturalize but—of course—Osyp had another Slide. Osyp played a face-up Exalted Angel and sent the turn back to Dave who had taken no damage thus far save two fetch lands.
 

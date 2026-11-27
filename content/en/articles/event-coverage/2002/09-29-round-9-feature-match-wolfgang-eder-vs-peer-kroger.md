@@ -44,7 +44,9 @@ archive_source:
   sha256: 1e0bf55aa659f7252b5e79eee40a2bbd071139afa22cbfd9ae4147bc31fcea4a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpham02/925.jpg)Wolfgang Eder and Peer Kröger are both accomplished German players. Both have previous GP Top 8's and both have been on the National Team. Both safely drew into day two yesterday and are now looking to get a good start to begin Day 2 with.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpham02/925.jpg)
+
+Wolfgang Eder and Peer Kröger are both accomplished German players. Both have previous GP Top 8's and both have been on the National Team. Both safely drew into day two yesterday and are now looking to get a good start to begin Day 2 with.
 
 Eder is running blue-black [Upheaval](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval)/Infestation and has a tricky matchup against Kröger's white/green beatdown deck.
 
@@ -56,7 +58,9 @@ Eder calmly wished for a [Psychotic Haze](https://web.archive.org/web/2002092900
 
 Eder 1-0 Kröger
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpham02/927.jpg)Kröger started strongly with [Suntail Hawk](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Suntail+Hawk) and [Spurnmage Advocate](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spurnmage+Advocate) on turn two and then a [Divine Sacrament](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divine+Sacrament) on turn three. Unfortunately turn 4 didn't give him the fourth land for his [Battle Screech](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+Screech) and he lost a little tempo while Eder picked off his team with Blood and Edicts.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpham02/927.jpg)
+
+Kröger started strongly with [Suntail Hawk](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Suntail+Hawk) and [Spurnmage Advocate](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spurnmage+Advocate) on turn two and then a [Divine Sacrament](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divine+Sacrament) on turn three. Unfortunately turn 4 didn't give him the fourth land for his [Battle Screech](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+Screech) and he lost a little tempo while Eder picked off his team with Blood and Edicts.
 
 Eder caught up from a mulligan with a couple of [Deep Analysis](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) and then started attacking back with a [Psychatog](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog). Kröger had one bird token remaining and boosted that with [Elephant Guide](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Guide) to take chunks out of Eder's life total.
 
@@ -74,7 +78,9 @@ Eder's next card was not [Upheaval](https://web.archive.org/web/20020929000000/h
 
 Eder 1-1 Kröger
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpham02/926.jpg)Kröger started game 3 with a couple of weenies, [Spurnmage Advocate](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spurnmage+Advocate) and [Suntail Hawk](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Suntail+Hawk). No land on turns 3 and 4 so Kröger could only make another Hawk and a [Tireless Tribe](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tireless+Tribe).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpham02/926.jpg)
+
+Kröger started game 3 with a couple of weenies, [Spurnmage Advocate](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spurnmage+Advocate) and [Suntail Hawk](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Suntail+Hawk). No land on turns 3 and 4 so Kröger could only make another Hawk and a [Tireless Tribe](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tireless+Tribe).
 
 Eder started racing with a 'Tog and then countering the Tribe by madnessing a Logic through an Infestation.
 

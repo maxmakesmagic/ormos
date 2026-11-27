@@ -266,7 +266,9 @@ These duel players will almost invariably take one or two players down with them
 
 Mike Flores wrote a very influential article a long time ago called "[Who's the Beatdown?](http://www.starcitygames.com/php/news/expandnews.php?Article=3692)" in which he discussed understanding that in duels, you played one role: *control* or *beatdown*. In multiplayer, there's also the assignment of "Alpha Threat" and "not Alpha Threat."
 
-[![Alpha_Status](https://i.ormos.uk/73/a2/73a27ea6c4f796d0d150ec10b8f1f4061ffa9436b04356efe824a6ddb41cf0bb.jpg)](https://web.archive.org/web/20071218000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Alpha%2BStatus)The *Alpha Threat* is the player who is so dominant that he has achieved a delightful tipping point: the majority of players at the table now agree that he has to die before they have a chance of winning. Generally, the Alpha Threat has such overwhelming power on the board (or perceived power in his deck) that, left unstopped, he's going to win the game.
+[![Alpha_Status](https://i.ormos.uk/73/a2/73a27ea6c4f796d0d150ec10b8f1f4061ffa9436b04356efe824a6ddb41cf0bb.jpg)](https://web.archive.org/web/20071218000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Alpha%2BStatus)
+
+The *Alpha Threat* is the player who is so dominant that he has achieved a delightful tipping point: the majority of players at the table now agree that he has to die before they have a chance of winning. Generally, the Alpha Threat has such overwhelming power on the board (or perceived power in his deck) that, left unstopped, he's going to win the game.
 
 That power is comparative. If you have seven 4/4s on turn one, people will try to kill you. If you have seven 4/4s on a board where everyone has a bunch of chump blockers, it doesn't matter. If you stick out significantly above the rest of the crowd, the crowd will hammer you. 
 
@@ -337,7 +339,9 @@ This means not always going for the throat.
 
 If I started playing with the most powerful decks with the most powerful cards I own, making it so that every deck had to beat a Legacy-powerful deck or lose, then I'd catapult my poor group into an arms race of pure monetary power—forcing them to buy a lot of older cards to keep up. They wouldn't need as many cards as a lot of folks think, but it'd still be an investment. And having to pay with the wallet to win is Not Fun. 
 
-[![Tide_of_War](https://i.ormos.uk/55/6f/556ffb6db0dd88f252706140ad36b0d0d1652d917b2b8c7820cddc2b0306ee41.jpg)](https://web.archive.org/web/20071218000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Tide%2Bof%2BWar)The other thing is—and I have seen this all too many times—the arms race ends in disaster. People build faster and faster combo decks, and they start winning on turn three, and then who cares? You didn't win, you just played a game of solitaire. You didn't lose, you just didn't play solitaire *fast enough*. 
+[![Tide_of_War](https://i.ormos.uk/55/6f/556ffb6db0dd88f252706140ad36b0d0d1652d917b2b8c7820cddc2b0306ee41.jpg)](https://web.archive.org/web/20071218000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Tide%2Bof%2BWar)
+
+The other thing is—and I have seen this all too many times—the arms race ends in disaster. People build faster and faster combo decks, and they start winning on turn three, and then who cares? You didn't win, you just played a game of solitaire. You didn't lose, you just didn't play solitaire *fast enough*. 
 
 That kind of arms race can destroy a play group, turning things sour. It can make novice players feel shut out, it can make casual players feel a pressure to win that gets nasty, and it can seed a group with an ugly jealousy. 
 

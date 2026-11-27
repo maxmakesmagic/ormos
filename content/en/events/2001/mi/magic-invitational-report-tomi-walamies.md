@@ -177,7 +177,9 @@ This is not a story about power gaming. As you all know, the Invitational is a p
 
 So, about me and the Invitational. My first experience with this fine tournament was when I read through *Duelist* back in the Stone Age. I think it was 1996. There were pictures of these 16 guys, all dedicated pros like Leon Lindbäck and Thomas Andersson and some text about how they would soon fight it out for no prize money. I was troubled by the fact that a magazine I bought while trying to become a better player would waste two pages on something like this. Later I learned, though, about the prestige of this event. The idea of playing for no money was simply less thrilling back when Pro Tour was just starting to develop.
 
-![](http://www.wizards.com/sideboard/images/mi02/985.jpg)The next six years were quite uneventful for me, so I’ll skip them. Somewhere along the way I became a better player, learning from my mistakes. As I started getting mail concerning my tournament reports, and saw a deck referred to as Walamies.dec, I realized that I might have enough name recognition to qualify for Invitational through the vote. Why didn’t I write anything for five months before the vote, then? This was partly due to genuine laziness, and partly because I failed to accomplish much after Nationals. It would feel stupid to write just to remind people of my existence. We writer people have these moral dilemmas about whether it is justified to do something.
+![](http://www.wizards.com/sideboard/images/mi02/985.jpg)
+
+The next six years were quite uneventful for me, so I’ll skip them. Somewhere along the way I became a better player, learning from my mistakes. As I started getting mail concerning my tournament reports, and saw a deck referred to as Walamies.dec, I realized that I might have enough name recognition to qualify for Invitational through the vote. Why didn’t I write anything for five months before the vote, then? This was partly due to genuine laziness, and partly because I failed to accomplish much after Nationals. It would feel stupid to write just to remind people of my existence. We writer people have these moral dilemmas about whether it is justified to do something.
 
 However, be it right or not, I will show you an excerpt from a letter I once got:
 
@@ -199,7 +201,9 @@ So, on to the tournament. I had been a bit nervous about playing in this tournam
 
 I would like to take a moment to congratulate Chris on his eventual finish.
 
-![](https://i.ormos.uk/15/27/152727be11cc3c95a4adc390f271bf545aa322d71c558c752bfd464ceabcbd3e.jpg)The second round was a bit tougher. It seemed that Jens and Chris had better decks for the matchups, but after gaining approximately 50 life points with my Righteous Cause, we pulled it out.
+![](https://i.ormos.uk/15/27/152727be11cc3c95a4adc390f271bf545aa322d71c558c752bfd464ceabcbd3e.jpg)
+
+The second round was a bit tougher. It seemed that Jens and Chris had better decks for the matchups, but after gaining approximately 50 life points with my Righteous Cause, we pulled it out.
 
 Things went worse with Chris. Jens decided that it was a good idea to cast those stupid black multiplayer cards, so after a Buzzard and Syphon Mind, we were seriously down on cards. When I got attacked for lethal damage, I forgot to concede. This would have allowed Chris to block with his guys, totally slaughtering Dave’s team. This was made even more humiliating by the fact that I was the first to point out this trick to other competitors, in round one.
 
@@ -207,7 +211,9 @@ About the format: The multiplayer cards seem stupid. I feel like we won round on
 
 Next up was Extended. The night before leaving for Seattle, Nicolai Herzog told me good things on IRC about the b-g deck he played at Worlds. I got a decklist, and copied it almost card for card.
 
-![](http://www.wizards.com/sideboard/images/mi02/886.jpg)Round four was versus Olivier Ruel. How he escapes from the mental institution to travel to events troubles me to no end. He was playing Battle of Wits, and I had no idea how this matchup (or any else, for that matter) was supposed to go. Hence I just decided to make him discard all of his cards in game one and Braids lock him in the next one, as he was naturally mana screwed twice.
+![](http://www.wizards.com/sideboard/images/mi02/886.jpg)
+
+Round four was versus Olivier Ruel. How he escapes from the mental institution to travel to events troubles me to no end. He was playing Battle of Wits, and I had no idea how this matchup (or any else, for that matter) was supposed to go. Hence I just decided to make him discard all of his cards in game one and Braids lock him in the next one, as he was naturally mana screwed twice.
 
 Next one was Kibler and his g-r beats splashing for black removal. My fondest memory of this person is when I beat him at 2001 Pro Tour-Los Angeles with Armadillo Cloak and then got him to sign it. He was so frustrated about the loss that he didn’t notice when I stepped in line after a woman getting her Riths signed. 
 
@@ -227,7 +233,9 @@ The next morning during breakfast, everyone is trying to find out others’ opin
 
 The bidding itself was relatively cool. Da Hump got the Fact-Flametongue deck way too cheap as others were still figuring out how much to bid. Alex, on the other hand, went all-out on one of the worst decks. He will probably provide us with some reasoning in his own report. I didn’t do so hot either, going to 5 cards with a deck that has expensive guys. I did this because I didn’t recognize the 4 and 5 mana Gustcloaks by name (I still don’t). The deck had some serious mising capabilities though, as it could drop fast guys and Anthem when many others are starting at 12 or something life.
 
-![](https://i.ormos.uk/21/f1/21f13577e08dfabe36fd570de5c856a0b3774e0041f5772454e5377bcc26861c.jpg)Round seven, I was paired against Gary Wise. He got the Looter deck at the same price than I did, 5 cards 20 life. Due to eight Looters, his deck was more stable. I immediately realized this, and decided to draw the perfect cards. If you want to see some truly humorous topdecking, watch my game one versus him. Game two is cool also, although there were some turns when I didn’t get the optimal card. Gary was upset with the result and decided to put me in a headlock.
+![](https://i.ormos.uk/21/f1/21f13577e08dfabe36fd570de5c856a0b3774e0041f5772454e5377bcc26861c.jpg)
+
+Round seven, I was paired against Gary Wise. He got the Looter deck at the same price than I did, 5 cards 20 life. Due to eight Looters, his deck was more stable. I immediately realized this, and decided to draw the perfect cards. If you want to see some truly humorous topdecking, watch my game one versus him. Game two is cool also, although there were some turns when I didn’t get the optimal card. Gary was upset with the result and decided to put me in a headlock.
 
 Next round I played Jon Finkel with Battle of Wits. I was originally going to bash all my opponents, but I have to give Jon props for playing Battle in every format possible. Our games were of the uninteresting kind, as I got the screw game one and he drew practically nothing going the next two games. 
 
@@ -265,7 +273,9 @@ Round 13 was versus Diego. There is probably something nice that can be said abo
 
 The next to last round was against Brian Davis. He and his u-g deck didn’t do much attacking this match, and Brian is more known as a big-time blocker. This matchup was quite easy in OBC, and me having Oppositions does not make it any worse.
 
-![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)At this point I was 10-4, and with some calculations I noticed that I am already in. I had one more match to go, against Humpherys sporting Tog. Dave, mostly known for his wild youth, has recently slowed down a bit. It shows in his play style. In game one, I forget an Analysis in my graveyard and lose because of that. I then lose game three to unnecessarily holding a land in my hand. Not bad.
+![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)
+
+At this point I was 10-4, and with some calculations I noticed that I am already in. I had one more match to go, against Humpherys sporting Tog. Dave, mostly known for his wild youth, has recently slowed down a bit. It shows in his play style. In game one, I forget an Analysis in my graveyard and lose because of that. I then lose game three to unnecessarily holding a land in my hand. Not bad.
 
 The new Standard seems nice. The fact that basic u-g did badly while funky decks went 2-1 or 3-0 is obviously refreshing. About the Bird deck I played: I would cut a Sacrament and something to fit 2 Logics main. The Wraths in the board were versus Sparksmith. Another possible, but more limited, answer is Stupefying Touch. You could also go with Circle of Protection: Red and hose the entire deck, I suppose. A second cycling land would have been nice, since they make Wayfarers better. I contemplated playing Exalted Angel main or sideboard, but decided against it. Glory was nice in the board, but I still think that Opposition is the more versatile card to play main.
 
@@ -277,7 +287,9 @@ We discuss the matchups, and notice that all of them are fairly even. The first 
 
 This was not optimal. I supposed I would have to get my act together a bit more if I wanted my own card. The second matchup went a lot better, mostly due to his inability to draw a single Wrath in twenty-something cards. 
 
-![](https://i.ormos.uk/d6/3e/d63e4a554c1a91dd0cda0cde4fb759407dcc3cc5b7302f1a2c607f1bde5cc294.jpg)The third match was pure slaughter. Jens kept putting down Visara to finish me off. Well, it’s not the first time I’ve lost to a topdecked five-power flier in the finals while getting opponent down to one life.
+![](https://i.ormos.uk/d6/3e/d63e4a554c1a91dd0cda0cde4fb759407dcc3cc5b7302f1a2c607f1bde5cc294.jpg)
+
+The third match was pure slaughter. Jens kept putting down Visara to finish me off. Well, it’s not the first time I’ve lost to a topdecked five-power flier in the finals while getting opponent down to one life.
 
 So, it was over. I felt a bit weird at this point. Obviously it rarely feels good to end the tournament with a loss. On the other hand, I can’t expect to win an event that I do only a few hours of preparation for. Jens actually did more preparation this time, since he had been playing his online Extended deck quite a lot in former Standard.
 

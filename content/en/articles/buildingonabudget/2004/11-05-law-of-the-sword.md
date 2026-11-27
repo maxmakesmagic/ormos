@@ -273,7 +273,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/90/9f/909f7ff422d8c670c2f975ce526fd6769ad14f4294df18886b3036aec41f0b6b.jpg)The time has come. Finally, I will write about a *Champions of Kamigawa* deck. Oh, how I have waited for this moment! When I first laid eyes on *Champions*, I was extremely pleased. The overall theme of the set is great. I am a closet Japan lover (who isn't, really?) and the whole idea just put a smile on my face. One thing in particular especially caught my eyes: Samurai. Loyal defenders, following the way of the sword, Samurai are a force to be reckoned with. The first time I played *Champions* sealed deck at the prerelease, I stated that the set accurately reflected feudal Japan; the guy with the most Samurai was sure to win. Samurai are not only powerful, but they are so darn cool! 
+![](https://i.ormos.uk/90/9f/909f7ff422d8c670c2f975ce526fd6769ad14f4294df18886b3036aec41f0b6b.jpg)
+
+The time has come. Finally, I will write about a *Champions of Kamigawa* deck. Oh, how I have waited for this moment! When I first laid eyes on *Champions*, I was extremely pleased. The overall theme of the set is great. I am a closet Japan lover (who isn't, really?) and the whole idea just put a smile on my face. One thing in particular especially caught my eyes: Samurai. Loyal defenders, following the way of the sword, Samurai are a force to be reckoned with. The first time I played *Champions* sealed deck at the prerelease, I stated that the set accurately reflected feudal Japan; the guy with the most Samurai was sure to win. Samurai are not only powerful, but they are so darn cool! 
 
 After all, there is only one thing that could possibly be cooler than a samurai, and that is Ninja. Notice how there is not a single reference to Ninja in the entire set? It makes a guy wonder if they are lurking in the darkness, making themselves ready to spring in Betrayers. I think America loves the Ninja as much as Japan loves the cowboy….ok, I'll stop myself before going on a Ninja tangent, but c'mon, couldn't we have just one Zombie Ninja?!
 

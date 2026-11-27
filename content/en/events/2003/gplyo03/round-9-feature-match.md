@@ -76,13 +76,17 @@ render_recovery:
   - Viridian Longbow
   occurrences: 30
 ---
-![](https://www.wizards.com/sideboard/images/gplyo03/916.jpg)The very last round today sees two more than accomplished players fighting for a day 2 berth. Rafael Gennari has been a little silent on the Pro Tour scene after his PT top 8 in New Orleans but he's still considered to be Switzerland's best player. Nicolas Labarre is one of the most consistently successful French players in the business with multiple Pro Tour and Grand Prix top 8's.
+![](https://www.wizards.com/sideboard/images/gplyo03/916.jpg)
+
+The very last round today sees two more than accomplished players fighting for a day 2 berth. Rafael Gennari has been a little silent on the Pro Tour scene after his PT top 8 in New Orleans but he's still considered to be Switzerland's best player. Nicolas Labarre is one of the most consistently successful French players in the business with multiple Pro Tour and Grand Prix top 8's.
 
 ### Game 1
 
 Rafael won the toss and chose to play.
 
-![Nicolas Labarre](https://www.wizards.com/sideboard/images/gplyo03/918.jpg "Nicolas Labarre")Nicolas showed all three of his colors on turn two with a black Myr, a Mountain and an Island. Rafael one-upped him with Empyrial Plate and a Krark-Clan Grunt. It came crashing in for 7 on turn 4.
+![Nicolas Labarre](https://www.wizards.com/sideboard/images/gplyo03/918.jpg "Nicolas Labarre")
+
+Nicolas showed all three of his colors on turn two with a black Myr, a Mountain and an Island. Rafael one-upped him with Empyrial Plate and a Krark-Clan Grunt. It came crashing in for 7 on turn 4.
 
 Meanwhile Nicolas accelerated into a turn three Hematite Golem and a less than impressive turn 4 Skeleton Shard.
 
@@ -108,7 +112,9 @@ The Myr got killed the turn after and the Gnomes got into the Red Zone but the d
 
 Suddenly, Nicolas' board didn't look too hot anymore with a Krark-Clan Grunt toting a Warhammer backed with the regenerating Exiles coming his way. A French Shatter came to the rescue killing the Warhammer but there was still the whole regenerator issue. A Clockwork Vorrac seemed like the perfect answer.
 
-![Raphael Gennari](https://www.wizards.com/sideboard/images/gplyo03/917.jpg "Raphael Gennari")A Myr Enforcer and a Viridian Longbow cluttered the board leaving Rafael with no cards in hand and no answer to the self-pumping trampler. It seemed like it would only be a matter of time before the Clockwork monster could come in for the kill, especially when backed up with the Plate.
+![Raphael Gennari](https://www.wizards.com/sideboard/images/gplyo03/917.jpg "Raphael Gennari")
+
+A Myr Enforcer and a Viridian Longbow cluttered the board leaving Rafael with no cards in hand and no answer to the self-pumping trampler. It seemed like it would only be a matter of time before the Clockwork monster could come in for the kill, especially when backed up with the Plate.
 
 A Skeleton Shard sealed the deal a turn later leaving Rafael with no way to deal with the Vorrac. And when the Hematite Golem made an encore performance the writing was on the wall and Nicolas was the one advancing to day 2.
 

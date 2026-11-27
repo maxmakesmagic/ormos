@@ -44,7 +44,9 @@ archive_source:
   sha256: f6b05e06aca3ec686b304b63c8c63c8189c56c3ba9d44b9eafafdbaae4b09755
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a924.jpg)As we already know, Thomas has a solid black-blue deck splashing white with bombs as [Cabal Patriarch](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Patriarch) and [Dusk Imp](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dusk+Imp). Bram is playing green-white. He also has some nice cards like Pianna and [Beast Attack](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beast+Attack).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a924.jpg)
+
+As we already know, Thomas has a solid black-blue deck splashing white with bombs as [Cabal Patriarch](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Patriarch) and [Dusk Imp](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dusk+Imp). Bram is playing green-white. He also has some nice cards like Pianna and [Beast Attack](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beast+Attack).
 
 ### Game 1
 
@@ -74,7 +76,9 @@ Thomas 1 - Bram 1
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a923.jpg)Thomas didn't sideboard but Bram put a Cease Fire in.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a923.jpg)
+
+Thomas didn't sideboard but Bram put a Cease Fire in.
 
 As Bram's deck is pretty aggressive, Thomas chose to play first. He kept a three-land hand but didn't see any more lands for quite some time. He killed Bram's first creature with an [Innocent Blood](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood). Thomas played a [Dusk Imp](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dusk+Imp), while Bram played several good spells like Avenger and [Acorn Harvest](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acorn+Harvest). He attacked and played an Aven, again. 
 

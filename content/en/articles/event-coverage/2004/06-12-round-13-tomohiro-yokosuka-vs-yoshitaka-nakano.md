@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm19_1.jpg)You may not be familiar with Tomohiro Yokosuka, but he has a Pro Tour Top 8 to his name. Now, he's two rounds away from playing in tomorrow's Top 8, and adding more to his reputation. Yoshitaka Nakano is a local player from Osaka, who playtests with Tsuyoshi Fujita, Masahiko Morita and Masashiro Kuroda. With that kind of backup, success shouldn't be surprising. This is not to say that he's lacking playskill either, as he made Top 8 at Grand Prix Hiroshima.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm19_1.jpg)
+
+You may not be familiar with Tomohiro Yokosuka, but he has a Pro Tour Top 8 to his name. Now, he's two rounds away from playing in tomorrow's Top 8, and adding more to his reputation. Yoshitaka Nakano is a local player from Osaka, who playtests with Tsuyoshi Fujita, Masahiko Morita and Masashiro Kuroda. With that kind of backup, success shouldn't be surprising. This is not to say that he's lacking playskill either, as he made Top 8 at Grand Prix Hiroshima.
 
 ### Game 1
 

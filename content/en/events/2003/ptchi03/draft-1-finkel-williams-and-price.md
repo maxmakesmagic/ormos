@@ -182,7 +182,9 @@ That's the first pack, opened by Finkel. He was faced with an interesting choice
 
 In his mind, the choice was between the 3/4 flying Gustcloak Savior and Pinpoint Avalanche. The Savior is widely considered the better card, but red is widely considered the best color. What to do?
 
-![](https://i.ormos.uk/21/eb/21eb18d71182a2f01bd94c280f7c250133179855df867bc8b266c1e88ef4217c.jpg)He chose the red instant, passing the flyer to Williams. Chapman took the Screeching Buzzard, and Tachasukjai took Symbiotic Elf to signal green. Price took Dive Bomber, Mariani the Festering Goblin, Ziegner the Airdrop Condor, and then Nishioka wheeled Crude Rampart and Daru Healer.
+![](https://i.ormos.uk/21/eb/21eb18d71182a2f01bd94c280f7c250133179855df867bc8b266c1e88ef4217c.jpg)
+
+He chose the red instant, passing the flyer to Williams. Chapman took the Screeching Buzzard, and Tachasukjai took Symbiotic Elf to signal green. Price took Dive Bomber, Mariani the Festering Goblin, Ziegner the Airdrop Condor, and then Nishioka wheeled Crude Rampart and Daru Healer.
 
 Williams opened pack 2, and it contained no good white cards. He had to choose between Pinpoint Avalanche, Gluttonous Zombie, or two good green creatures. As white/green may be the worst combination in the format, so it was down to the red card, setting up a fight with Finkel, or the black card, setting up a fight with Chapman. Williams later said that he had discussed such a scenario in the car on the way to the event with Bob Maher, and it was decided that you have to cut off the guy to your left. Many players feel that you have to have red or black in your deck in order to stand a chance, and you can't afford to be squeezed out of both colors by your neighbors.
 
@@ -194,13 +196,17 @@ The next pack complicated the issue for Price; Tachasukjai opened at took Slice 
 
 After Price laid out the next pack, he fanned his drafted cards out on the table for all to see. Such behavior is probable cause for a warning from the judge, but no judge saw it. Price took a second Solar Blast, cementing himself in red/white. Mariani took a Nantuko Husk over Wirewood Savage, much to the chagrin of Nishioka; the Savage went all the way to Finkel.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a985.jpg)At this point, most of the table was set in their colors. Price was white/red, Mariani green/black, Ziegner blue/red, Nishioka white/black, Finkel green/red, and Williams white/black. All known archetypes, and a nice alternation between red and black. Williams and Nishioka were a little too close to be drafting the same deck, however, and Finkel stood to benefit.
+![](http://www.wizards.com/sideboard/images/ptchi03/a985.jpg)
+
+At this point, most of the table was set in their colors. Price was white/red, Mariani green/black, Ziegner blue/red, Nishioka white/black, Finkel green/red, and Williams white/black. All known archetypes, and a nice alternation between red and black. Williams and Nishioka were a little too close to be drafting the same deck, however, and Finkel stood to benefit.
 
 Chapman and Tachasukjai, however, we in a real mess. It looked like Chapman was going to go red/blue, leaving the black for Williams, but with Tachasukjai and Price going red, he had to do something else. That something was going back into black, taking Wretched Anurid, Barren Moor, and Boneknitter out from Williams's nose. Williams was not happy.
 
 Tachasukjai was looking good sticking to red, however. In the second set of packs he opened another Slice and Dice. But in the third go-around, he couldn't resist Visara the Dreadful. With his assortment of Krosan Tuskers and Birchlore Rangers, it will be interesting to see if he plays Visara and the Demon in his red/green deck. I'd consider doing so a mistake, but some players can't resist raw power.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a984.jpg)The rest of the draft wrapped up normally. Finkel nabbed a slew of Beasts, including two Venomspout Brackuses and three Tuskers. Williams got a pair of Glarecasters, which look to be his best chance of winning games. Chapman may end up having to play blue in his red/black deck. Price's deck is solid if unspectacular; he did get two Sparksmiths back-to-back at one point, which should give him hope. Mariani's green/black is not bad; his multiple Cruel Revivals can clear the way for his monsters. Ziegner's blue/red looked scarier than it ended up; even though he has two Lavamancer's Skills, a Lightning Rift, and Arcanis the Omnipotent, the rest of his cards are poor. And Nishioka's can stall with the best of them, but may have a hard time killing anyone.
+![](http://www.wizards.com/sideboard/images/ptchi03/a984.jpg)
+
+The rest of the draft wrapped up normally. Finkel nabbed a slew of Beasts, including two Venomspout Brackuses and three Tuskers. Williams got a pair of Glarecasters, which look to be his best chance of winning games. Chapman may end up having to play blue in his red/black deck. Price's deck is solid if unspectacular; he did get two Sparksmiths back-to-back at one point, which should give him hope. Mariani's green/black is not bad; his multiple Cruel Revivals can clear the way for his monsters. Ziegner's blue/red looked scarier than it ended up; even though he has two Lavamancer's Skills, a Lightning Rift, and Arcanis the Omnipotent, the rest of his cards are poor. And Nishioka's can stall with the best of them, but may have a hard time killing anyone.
 
 If Tachasukjai builds his deck right, he should have the best of the bunch. But Finkel has to be the odds-on favorite to win the table, and I predict at least a 3-1 for him. Price and Williams will both go 2-2, putting the pressure on Price, who needs to make Top 32 at this event to continue playing on the Pro Tour.
 

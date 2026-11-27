@@ -44,7 +44,9 @@ archive_source:
   sha256: 3cefe6fa962fc05b2c362a353722115e9c92d37da1206b8f511e755c3202aeb3
 render_recovery: []
 ---
-![](https://i.ormos.uk/2d/68/2d68579b4f31d5782396ee572892b7b3501f61a3b843869f8e9690cbe795c6a7.jpg)As the final round of the day begins, there's a lot of attention on this match-up. Maher is undefeated at 5-0, but Zvi is close on his heels at 4-1. However, Zvi's only loss came in this format earlier, so he's got more to prove than Bob at this point.
+![](https://i.ormos.uk/2d/68/2d68579b4f31d5782396ee572892b7b3501f61a3b843869f8e9690cbe795c6a7.jpg)
+
+As the final round of the day begins, there's a lot of attention on this match-up. Maher is undefeated at 5-0, but Zvi is close on his heels at 4-1. However, Zvi's only loss came in this format earlier, so he's got more to prove than Bob at this point.
 
 ### Game 1
 

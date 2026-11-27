@@ -77,7 +77,9 @@ It wasn't useful enough, however, as Alan had Tapper Advantage, and Reiji was ne
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/941.jpg)Reiji got the good start this time, with a second-turn Benalish Trapper. Alan's Galina's Knight and [Dream Thrush](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dream+Thrush) were able to poke through a little damage, but it wasn't until Alan's [Sulam Djinn](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sulam+Djinn) showed up with the threat of being a flyer (thanks to a [Disciple of Kangee](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disciple+of+Kangee)) that it looked bad for Reiji.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/941.jpg)
+
+Reiji got the good start this time, with a second-turn Benalish Trapper. Alan's Galina's Knight and [Dream Thrush](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dream+Thrush) were able to poke through a little damage, but it wasn't until Alan's [Sulam Djinn](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sulam+Djinn) showed up with the threat of being a flyer (thanks to a [Disciple of Kangee](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disciple+of+Kangee)) that it looked bad for Reiji.
 
 Reiji had to [Tangle](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tangle) to deal an Alpha Strike, and then was unable to take maximal use of the delay in Alan's untapping. Then Alan played a [Teferi's Moat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teferi%27s+Moat) (set to Green), which effectively neutralized most of Reiji's attack.
 

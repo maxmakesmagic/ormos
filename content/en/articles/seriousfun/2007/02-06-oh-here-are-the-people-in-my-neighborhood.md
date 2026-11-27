@@ -122,7 +122,9 @@ Besides, it’s time to introduce you to my multiplayer group.
 
 ### Hanging With My Homeys
 
-![Mantle_of_Leadership](https://i.ormos.uk/a0/66/a066712562ce4410681c8f2abcde6708a2552b52d82640f95cbe93600413d867.jpg)The beauty of multiplayer is that every group is different. There are aggro groups where everyone attacks, and fun groups where everyone plays old preconstructed decks that really aren’t that good but they are fun, and rigid Standard-legal groups where they only play the latest expansions. 
+![Mantle_of_Leadership](https://i.ormos.uk/a0/66/a066712562ce4410681c8f2abcde6708a2552b52d82640f95cbe93600413d867.jpg)
+
+The beauty of multiplayer is that every group is different. There are aggro groups where everyone attacks, and fun groups where everyone plays old preconstructed decks that really aren’t that good but they are fun, and rigid Standard-legal groups where they only play the latest expansions. 
 
 So when people ask me, “Is this deck good?” my answer is inevitably, “I don’t know. What’s your group like?”
 

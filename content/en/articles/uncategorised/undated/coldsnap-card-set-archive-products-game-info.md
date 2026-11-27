@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/2b/61/2b6160cd20b1749f1322451eb60ddb136984b74a5958d49df479f5a2b88b3c33.png)Released 10 years after its predecessor, *Alliances*, this final set of the Ice Age block contains 155 cards with randomly inserted premium cards.
+![](https://i.ormos.uk/2b/61/2b6160cd20b1749f1322451eb60ddb136984b74a5958d49df479f5a2b88b3c33.png)
+
+Released 10 years after its predecessor, *Alliances*, this final set of the Ice Age block contains 155 cards with randomly inserted premium cards.
 
 **Set Name:** *Coldsnap*  
 **Block:** Set 3 of 3 of the *Ice Age* Block  

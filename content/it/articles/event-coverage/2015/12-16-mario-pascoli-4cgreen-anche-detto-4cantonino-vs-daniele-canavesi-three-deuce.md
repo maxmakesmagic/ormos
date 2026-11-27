@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Sideboard Staff* 
 
-![](https://i.ormos.uk/ba/bb/babb65e0bb6f13c4cbdbaf9fa788f8f7be721b9fdef090e576b137217d2a6feb.jpg)La partita è segnata dalla presenza del torello "Piddì" di Maurizio Vergendo al tavolo, che sostiene Marione. 
+![](https://i.ormos.uk/ba/bb/babb65e0bb6f13c4cbdbaf9fa788f8f7be721b9fdef090e576b137217d2a6feb.jpg)
+
+La partita è segnata dalla presenza del torello "Piddì" di Maurizio Vergendo al tavolo, che sostiene Marione. 
 
 Mario non ha la certezza matematica di entrare negli otto. Invece Daniele deve assolutamente vincere per entrare nei top8. 
 

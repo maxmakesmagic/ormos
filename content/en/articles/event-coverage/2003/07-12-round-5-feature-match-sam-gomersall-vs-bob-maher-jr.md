@@ -44,7 +44,9 @@ archive_source:
   sha256: 0391ee7c51ff456c46a2a3ca6dcc3be871dce1a4573b3233bf974217a4ba9fb5
 render_recovery: []
 ---
-![](https://i.ormos.uk/6e/2c/6e2c588b4daa22f3ef56be8e497786b1751318506d9b4c118f02de5a67fd511a.jpg)England’s Sam Gomersall found himself on this side of the Atlantic for a vacation coinciding with Grand Prix – Detroit, and so could see nothing wrong with running it. He’s playing a black-white control deck with more Wrath effects than you can shake a really big stick at. Across from him sits Bob Maher, recently crowned the last Master’s Champion, and has done absolutely no testing for this weekend. He is with a red-white control deck that looks like a Slideless Astral Slide deck.
+![](https://i.ormos.uk/6e/2c/6e2c588b4daa22f3ef56be8e497786b1751318506d9b4c118f02de5a67fd511a.jpg)
+
+England’s Sam Gomersall found himself on this side of the Atlantic for a vacation coinciding with Grand Prix – Detroit, and so could see nothing wrong with running it. He’s playing a black-white control deck with more Wrath effects than you can shake a really big stick at. Across from him sits Bob Maher, recently crowned the last Master’s Champion, and has done absolutely no testing for this weekend. He is with a red-white control deck that looks like a Slideless Astral Slide deck.
 
 Gomersall sent back a hand of black spells and two white lands, only to be rewarded with a terrible one-lander. He went to five and still only saw one, but he had to keep. Maher sent back his first seven as well, but took the forbidden peek. His next six were fine.
 
@@ -64,7 +66,9 @@ Maher 1 – Gomersall 0
 
 “That was quite a game, considering double-mulligan, on the play.” – Bob Maher, Jr.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a974.jpg)Maher played an early Lightning Rift, quickly Wiped Clean by Gomersall. Both players started to accumulate mana, plainscycling their Eternal Dragons. Maher played another Rift. Before things could get too crazy, Gomersall came down with Withered Wretch to remove Maher’s from the game. It swung in, but Temple of the False God gave Maher plenty of mana to cycle Decree of Justice, make three soldiers, and shoot down the Wretch. The men hit, and Maher gave it back to Gomersall.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a974.jpg)
+
+Maher played an early Lightning Rift, quickly Wiped Clean by Gomersall. Both players started to accumulate mana, plainscycling their Eternal Dragons. Maher played another Rift. Before things could get too crazy, Gomersall came down with Withered Wretch to remove Maher’s from the game. It swung in, but Temple of the False God gave Maher plenty of mana to cycle Decree of Justice, make three soldiers, and shoot down the Wretch. The men hit, and Maher gave it back to Gomersall.
 
 Gomersall wasted no time tapping all his lands to play Decree of Pain. Maher asked for a moment. He cycled away a Vengeance, shooting Gomersall in the face, then Starstormed for one to keep him from drawing three. He untapped and threw down Akroma, taking Gomersall to seven. Gomersall had a Vengeance at the ready.
 

@@ -95,7 +95,9 @@ During a deep shamanic trance, Sarkhan Vol made contact with the spirit of an an
 
 *"Each of the shards of Alara has access to only three of the colors of mana, not five. As far as I can tell, the mana triads of each shard are composed of a dominant center color and its two allies. Each shard-world has thrived around these three mana aspects, twisted together like the blood-braids of the clan-lord Kresh."*
 
-![](http://media.wizards.com/legacy/mtg/images/daily/features/3_c7m98m6p.jpg)After many years of searching the planes, he found Jund, an ash-choked world where dragons rule as the apex predators. He found its skies filled with dragons, and its lands scoured by dragonfire. He has met many dragons—but most of them, he found, did not possess the spirit he longed for. Some of them he challenged—and killed. It has been nearly two years that he's remained in Jund, still searching for a dragon worthy of his fierce devotion.
+![](http://media.wizards.com/legacy/mtg/images/daily/features/3_c7m98m6p.jpg)
+
+After many years of searching the planes, he found Jund, an ash-choked world where dragons rule as the apex predators. He found its skies filled with dragons, and its lands scoured by dragonfire. He has met many dragons—but most of them, he found, did not possess the spirit he longed for. Some of them he challenged—and killed. It has been nearly two years that he's remained in Jund, still searching for a dragon worthy of his fierce devotion.
 
 *"Each shard is a true plane in itself, fully separate from the others. The boundary edges are as distinct as crystal, with the dark fire of chaos flowing in between. Since they are true planes, I can planeswalk to each shard individually. I presume that when Alara was whole, I would not have been able to travel* within *the plane in this way.* 
 

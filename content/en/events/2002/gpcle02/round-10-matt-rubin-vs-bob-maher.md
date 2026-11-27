@@ -95,7 +95,9 @@ render_recovery:
   - Mesmeric Fiend
   occurrences: 80
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a926.jpg)Matt Rubin is one of the rising players on the Pro Tour. Just a couple months ago he hit his first top 8 at US nationals. He was still undefeated in the GP at 6-0-3 with his mono black control deck. His deck was fairly standard. Bob was playing the same deck he played the week before at GP London. His own version of Zombie/Upheaval that sent at least two people to Day 2.
+![](http://www.wizards.com/sideboard/images/gpcle02/a926.jpg)
+
+Matt Rubin is one of the rising players on the Pro Tour. Just a couple months ago he hit his first top 8 at US nationals. He was still undefeated in the GP at 6-0-3 with his mono black control deck. His deck was fairly standard. Bob was playing the same deck he played the week before at GP London. His own version of Zombie/Upheaval that sent at least two people to Day 2.
 
 Normally this would be a good matchup for Bob. Mono black has no real answer to Upheaval. Matt came out pretty quickly early with a pair of Nantuko Shades though and Bob quickly found himself on the ropes with no black mana to remove them the first three turns. Bob found a Darkwater Catacombs turn four and took a mana burn to Innocent Blood away one of the Shades. Matt still was able to knock him to 1 with the remaining Shade. Bob found himself with an Innocent Blood and only the filter land but he tapped out for Deep Analysis and found the Swamp he needed to Blood the Shade pain free. Matt made a play on the next turn he later said he should not have made. He played Rancid Earth on Bob's filter land when all he would need was Threshold to turn it into a win condition. Bob played a Standstill the next turn which stood for a long time. Rubin waited ten turns before finally breaking the Standstill with a Tainted Pact. 
 
@@ -107,7 +109,9 @@ Matt came in with the must-counter threats turn after turn. First a Mirari, then
 
 Rubin 1, Maher 0
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a930.jpg)The next game Maher got his Infestation right away on turn 2. Rubin got his own Infestation, but Maher had more card drawing thanks to his Deep Analysis. Matt played a Braids, but Maher had the Logic. His tokens stalled Matt long enough for Bob to get to 8 mana. Bob unleashed the vicious Upheaval/Infestation combo turn 8. Rubin was unable to stop the Zombie Horde.
+![](http://www.wizards.com/sideboard/images/gpcle02/a930.jpg)
+
+The next game Maher got his Infestation right away on turn 2. Rubin got his own Infestation, but Maher had more card drawing thanks to his Deep Analysis. Matt played a Braids, but Maher had the Logic. His tokens stalled Matt long enough for Bob to get to 8 mana. Bob unleashed the vicious Upheaval/Infestation combo turn 8. Rubin was unable to stop the Zombie Horde.
 
 Rubin 1, Maher 1
 

@@ -52,7 +52,9 @@ Wests Opening Hand: Magnivore x2, Chainer’s Edict, Shadowblood Ridge, Mountain
 
 Vargs: Anurid Brushhopper x 2, Beast Attack, Ravenous Baloth, Mountain x 2, Forest 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a953.jpg)Varga makes the first play summoning an Anurid Brushhopper on turn three. West casts a Chainer’s Edict to remove it but it is phased out, with Beast Attack and Glory pitched. Varga then untaps and smacks in with it, summoning a Ravenous Baloth to add more beats. Innocent Blood from West leads to Varga sacrificing his Brushhopper and with no other play West sends the turn across. The Baloth comes in, dropping West to 13 life and another Brushhopper is summoned to replace the one that was sacrificed. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a953.jpg)
+
+Varga makes the first play summoning an Anurid Brushhopper on turn three. West casts a Chainer’s Edict to remove it but it is phased out, with Beast Attack and Glory pitched. Varga then untaps and smacks in with it, summoning a Ravenous Baloth to add more beats. Innocent Blood from West leads to Varga sacrificing his Brushhopper and with no other play West sends the turn across. The Baloth comes in, dropping West to 13 life and another Brushhopper is summoned to replace the one that was sacrificed. 
 
 West summons a little 2/2 Magnavore but decides against sending it on the offensive and it dies during his opponents attack step after chumping off the Baloth. Keeping the pressure cooker turned up to full Varga casts Call of the Herd, bringing the 3 of Diamonds in as his elephant replacement. West attempts to Befoul the Baloth but as is always the case it is sacrificed in response. The team of Varga crunches in for 6 damage and then a four point Hurricane wraps up the first game.
 
@@ -82,7 +84,9 @@ West opening: Firebolt x2, Earth Rift, Mountain, Sulfurous Springs, Shadowblood 
 
 Varga starts out the deciding game with a Bird of Paradise, which is met with a firebolt, with the same two plays repeated on turn 2. On turn three Varga plays out his Anurid Brushhopper and West simply plays a land and says done. Varga elects not to play a fourth land and simply attacks with the Brushhopper then casts a Call of the Herd.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a949.jpg)West casts Earth rift, targetting the Forest, and sends the turn back, with Varga crashing in with the Brushhopper and the elephantesque 3 of clubs before summoning a Wild Mongrel. Innocent Blood from West forces Varga to sacrifice his Elephant Token but its back a turn later thanks to flashback, with West taking another beating from the creatures. West casts Slice and Dice during his main phase tapping himself out, but it forces Varga to phase out the hopper and empty his hand. Varga attacks with the Hopper and ends the turn. West casts Overmaster and then casts Slice and Dice killing off the Anurid. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a949.jpg)
+
+West casts Earth rift, targetting the Forest, and sends the turn back, with Varga crashing in with the Brushhopper and the elephantesque 3 of clubs before summoning a Wild Mongrel. Innocent Blood from West forces Varga to sacrifice his Elephant Token but its back a turn later thanks to flashback, with West taking another beating from the creatures. West casts Slice and Dice during his main phase tapping himself out, but it forces Varga to phase out the hopper and empty his hand. Varga attacks with the Hopper and ends the turn. West casts Overmaster and then casts Slice and Dice killing off the Anurid. 
 
 Rancid Earth on a Brushland deals 1 damage to both players and Varga simply draws and plays another land down. Varga then draws a creature and plays down Ravenous Baloth, but it is met by yet another Slice and Dice. Earth rift is flashed back knocking out a Plains and Varga is forced to sacrifice his Windswept Heath to search for a mana source. Earth rift knocks out another Plains, leaving a Windswept Heath as Varga’s only possible white mana source but a Bird of Paradise threatens to change that situation.
 

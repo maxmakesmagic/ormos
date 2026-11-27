@@ -121,7 +121,9 @@ But first I want to introduce you to two artists you'll meet at [Pro Tour–San 
 
 **Thanks, Jason!**
 
-![](http://wizards.com//mtg/images/daily/stf/stf78_rk.jpg)The other artist celeb you can meet at PT San Diego is a true master of the **Magic** art world, the inimitable [**rk post**](https://web.archive.org/web/20100217000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoileramp;method=visualamp;action=advancedamp;artist=+%5b%22rk+post%22%5d). I asked him the same questions.
+![](http://wizards.com//mtg/images/daily/stf/stf78_rk.jpg)
+
+The other artist celeb you can meet at PT San Diego is a true master of the **Magic** art world, the inimitable [**rk post**](https://web.archive.org/web/20100217000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoileramp;method=visualamp;action=advancedamp;artist=+%5b%22rk+post%22%5d). I asked him the same questions.
 
 **What inspired you to become an artist, rk, and why specifically a fantasy artist?**
 

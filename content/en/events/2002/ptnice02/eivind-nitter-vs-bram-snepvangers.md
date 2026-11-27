@@ -698,7 +698,9 @@ render_recovery:
 
 **Game 1**
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a663.jpg)昨年度欧州王者の底力とでも言うべきか、『ノルウェーのパンク野郎』Eivind Nitter が鮮やかな 5 Turn Kill を見せ付ける。
+![](http://www.wizards.com/sideboard/images/ptnice02/a663.jpg)
+
+昨年度欧州王者の底力とでも言うべきか、『ノルウェーのパンク野郎』Eivind Nitter が鮮やかな 5 Turn Kill を見せ付ける。
 
 先手 Snepvangers が《集魂者/Soulcatcher》、《エイヴンの群れ/Aven Flock》と航空戦力を展開したところに、Nitter も《地図作り/Cartographer》、《ドングリの収穫/Acorn Harvest》の表・裏から 4 体のリストークンと展開した。盤上を見た限りではどちらも互角の戦いだ。そう、ハンドを無視してかまわないなら。
 
@@ -718,7 +720,9 @@ Eivind Nitter 1-0
 
 **Game 2**
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a665.jpg)最序盤から《天使の壁/Angelic Wall》、《空翼のエイヴン/Skywing Aven》と展開する Snepvangers。今度はやや手の遅い Nitter はこの《エイヴン》に即《炎の稲妻/Firebolt》をキャスト。Snepvangers はハンドの《綿密な分析/Deep Analysis》をコストにこの 2/1 Flyer をハンドにバウンスして火力をフィズらせたのだった。その返しで Snepvangers がサモン《雲を追うエイヴン/Aven Cloudchaser》すれば、Nitter も先ほどのコンボを髣髴とさせる《ドングリの収穫/Acorn Harvest》を展開。
+![](http://www.wizards.com/sideboard/images/ptnice02/a665.jpg)
+
+最序盤から《天使の壁/Angelic Wall》、《空翼のエイヴン/Skywing Aven》と展開する Snepvangers。今度はやや手の遅い Nitter はこの《エイヴン》に即《炎の稲妻/Firebolt》をキャスト。Snepvangers はハンドの《綿密な分析/Deep Analysis》をコストにこの 2/1 Flyer をハンドにバウンスして火力をフィズらせたのだった。その返しで Snepvangers がサモン《雲を追うエイヴン/Aven Cloudchaser》すれば、Nitter も先ほどのコンボを髣髴とさせる《ドングリの収穫/Acorn Harvest》を展開。
 
 Snepvangers は墓地の《綿密な分析/Deep Analysis》をフラッシュバックしてから《空翼のエイヴン/Skywing Aven》召喚。Nitter はこれに《投鎖獣/Chainflinger》召喚で対抗する。しかし、Snepvangers も 2 体目の《空翼のエイヴン/Skywing Aven》を召喚しつつ、キャスト《気病み/Hypochondria》。今度こそ、という Snepvangers の思いが伝わってくる。
 

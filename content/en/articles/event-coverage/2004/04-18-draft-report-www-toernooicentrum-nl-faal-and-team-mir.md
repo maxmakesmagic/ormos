@@ -44,7 +44,9 @@ archive_source:
   sha256: 7ff07f714a11fc867d7bcf424959162265dbd3cc7b97fb2c2558556af6ba07fc
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/dr5_1.jpg)The beginning of this round was quite hectic. Schietkoe and Team Burkas went for the ID on table 1, securing the top 4 for both of them. This reporter was originally assigned to table 2, where the German team The Unusual Suspects was paired against the French team NPC all Stars. They were discussing a draw for a while.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/dr5_1.jpg)
+
+The beginning of this round was quite hectic. Schietkoe and Team Burkas went for the ID on table 1, securing the top 4 for both of them. This reporter was originally assigned to table 2, where the German team The Unusual Suspects was paired against the French team NPC all Stars. They were discussing a draw for a while.
 
 The top of the standings at the beginning of this round was as follows:
 

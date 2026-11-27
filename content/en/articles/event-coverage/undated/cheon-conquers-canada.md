@@ -341,7 +341,9 @@ render_recovery:
   - Indrik Stomphowler
   occurrences: 1
 ---
-![](https://i.ormos.uk/c2/41/c241483923a58789e3af4e363223e5c9feceb1d66a1682c9e7bae3f8bfc363dd.jpg)What a weekend! History has been made AND repeated, and a number of new decks have moved to the top of the Extended heap. Grand Prix-Krakow and former U.S. National Champion Paul Cheon took home the big trophy at the end of play Sunday with his innovative Previous Level Blue deck. His opponent? None other than Ben Lundquist, the same player he had to beat to become U.S. Nationals Champion!
+![](https://i.ormos.uk/c2/41/c241483923a58789e3af4e363223e5c9feceb1d66a1682c9e7bae3f8bfc363dd.jpg)
+
+What a weekend! History has been made AND repeated, and a number of new decks have moved to the top of the Extended heap. Grand Prix-Krakow and former U.S. National Champion Paul Cheon took home the big trophy at the end of play Sunday with his innovative Previous Level Blue deck. His opponent? None other than Ben Lundquist, the same player he had to beat to become U.S. Nationals Champion!
 
 Ben's deck was truly the breakout deck of the tournament as both he and Zack Hall managed to find themselves in the Top 8 with identical 75 card blue-green Tron lists. They weren't the only duo who worked on and played similar lists in the final elimination rounds, however. Canadians Marc Bonnefoy and Aaron Paquette both earned spots in the Top 8 on the backs of strong performances with their TEPS lists that they worked on with each other before riding in the same car to the tournament! The results of the weekend are sure to shake up the Extended environment for weeks to come.
 

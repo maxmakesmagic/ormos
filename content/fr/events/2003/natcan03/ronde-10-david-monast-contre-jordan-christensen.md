@@ -79,7 +79,9 @@ render_recovery:
   - Corrupt
   occurrences: 25
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a928.jpg)Jordan et David sont des joueurs peu connus, ils soupçonnent que leur match a été choisi au hasard. Les deux ont la possibilité de faire Top 8 mais ils ne peuvent perdre un autre match. 
+![](http://www.wizards.com/sideboard/images/natcan03/a928.jpg)
+
+Jordan et David sont des joueurs peu connus, ils soupçonnent que leur match a été choisi au hasard. Les deux ont la possibilité de faire Top 8 mais ils ne peuvent perdre un autre match. 
 
 ### Première Partie
 
@@ -87,7 +89,9 @@ David joue un Careful Study discartant 2 lands au premier tour révélant son de
 
 David ne joue rien pour 4 tours de suite et un Visara the Dreadful le fait bientôt chercher son sideboard. 
 
-![](http://www.wizards.com/sideboard/images/natcan03/a930.jpg)Et quel sideboard ! David a 13 cartes dédiées au match contre mono-noir. Il savait que ce style de deck serai populaire et il s'est donc préparé.
+![](http://www.wizards.com/sideboard/images/natcan03/a930.jpg)
+
+Et quel sideboard ! David a 13 cartes dédiées au match contre mono-noir. Il savait que ce style de deck serai populaire et il s'est donc préparé.
 
 ### Deuxième Partie
 

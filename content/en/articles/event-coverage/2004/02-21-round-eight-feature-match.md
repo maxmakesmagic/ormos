@@ -44,7 +44,9 @@ archive_source:
   sha256: dba43fda1edd8b64ee1cf52eac145e5a6b7c4d1904900e878738be3b62a71ada
 render_recovery: []
 ---
-![](https://i.ormos.uk/ed/7a/ed7ab2ae986ffd06c904e518db07b931ca29f7aac26bbc40b37a5cfe7b7bb009.jpg)There is no question these two warriors have their passport almost stamped to play tomorrow. It's merely a formality now. What's at stake now is who will end the day at the top of the standings and who will end it in the middle of the pack.
+![](https://i.ormos.uk/ed/7a/ed7ab2ae986ffd06c904e518db07b931ca29f7aac26bbc40b37a5cfe7b7bb009.jpg)
+
+There is no question these two warriors have their passport almost stamped to play tomorrow. It's merely a formality now. What's at stake now is who will end the day at the top of the standings and who will end it in the middle of the pack.
 
 ### Game 1
 

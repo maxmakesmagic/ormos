@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Mark Wraith*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/336.JPG)Both players in this match were playing for a quarter-final berth on 25 points. A draw wouldn't be good enough for either of them so they had to play. Stewart Shinkins had an unusual deck, a Rebel deck with a splash of black for Vampiric Tutor and sideboard options such as Perish. Frank had an Angry Hermit deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/336.JPG)
+
+Both players in this match were playing for a quarter-final berth on 25 points. A draw wouldn't be good enough for either of them so they had to play. Stewart Shinkins had an unusual deck, a Rebel deck with a splash of black for Vampiric Tutor and sideboard options such as Perish. Frank had an Angry Hermit deck.
 
 Stewart has a great start for his deck. He plays a turn two Fresh Volunteers, a turn three Lin Sivvi, and a turn four Parallax Wave. He also has a second Lin Sivvi in his hand, in case the first one dies. Frank has nothing except land in play, as his Llanowar Elf and Bird of Paradise have been faded out by the Wave.
 

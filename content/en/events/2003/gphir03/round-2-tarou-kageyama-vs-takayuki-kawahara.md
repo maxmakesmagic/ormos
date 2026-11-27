@@ -82,7 +82,9 @@ render_recovery:
   - Recurring Nightmare
   occurrences: 42
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a997.jpg)This round saw Japan's favorite hard-luck player, Tarou "John" Kageyama, square off against newcomer Takayuki Kawahara. Kawahara is running what looks like Kai Budde's "Randomized Malka" deck from Grand Prix – Reims. Kageyama is playing something a little stranger. Designed by none other than Itaru Ishida, his deck is green-black-white Oath of Lifegain. In addition to saner Oath targets like Ravenous Baloth and Visara the Dreadful, Kageyama's deck boasts Ancestor's Chosen for a big life boost. It can even Rector out Test of Endurance. Ishida rejected the deck as "too crazy", but that only made Kageyama like it more.
+![](http://www.wizards.com/sideboard/images/gphir03/a997.jpg)
+
+This round saw Japan's favorite hard-luck player, Tarou "John" Kageyama, square off against newcomer Takayuki Kawahara. Kawahara is running what looks like Kai Budde's "Randomized Malka" deck from Grand Prix – Reims. Kageyama is playing something a little stranger. Designed by none other than Itaru Ishida, his deck is green-black-white Oath of Lifegain. In addition to saner Oath targets like Ravenous Baloth and Visara the Dreadful, Kageyama's deck boasts Ancestor's Chosen for a big life boost. It can even Rector out Test of Endurance. Ishida rejected the deck as "too crazy", but that only made Kageyama like it more.
 
 ### Game 1
 

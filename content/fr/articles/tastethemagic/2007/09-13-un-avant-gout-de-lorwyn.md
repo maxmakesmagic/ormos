@@ -127,7 +127,9 @@ Malgré ceci, Lorwyn ne se résume pas seulement à des elfes et des sangamis in
 
 Alors commençons avec la lignée de Lorwyn.
 
-![](https://i.ormos.uk/7f/0d/7f0d408273bc2101197b96b425d516632c7391bee2d745b3536d82450489c81e.jpg)Lorwyn tire son inspiration du folklore et de la mythologie des Îles Britanniques. Vous allez trouver des influences des histoires, des langues et des cultures irlandaises, anglaises, galloises, écossaises et celtiques aussi bien dans l’apparence que dans les détails de ce monde. Cette ascendance confère de fait une apparence de livre de contes à Lorwyn, bien que ce monde s’éloigne de façon dramatique de cette source. Le résultat est un monde qui apparaît original et unique à **Magic**, mais qui s’inspire de vieilles traditions folkloriques pour donner une impression d’histoire rustique et bien établie. 
+![](https://i.ormos.uk/7f/0d/7f0d408273bc2101197b96b425d516632c7391bee2d745b3536d82450489c81e.jpg)
+
+Lorwyn tire son inspiration du folklore et de la mythologie des Îles Britanniques. Vous allez trouver des influences des histoires, des langues et des cultures irlandaises, anglaises, galloises, écossaises et celtiques aussi bien dans l’apparence que dans les détails de ce monde. Cette ascendance confère de fait une apparence de livre de contes à Lorwyn, bien que ce monde s’éloigne de façon dramatique de cette source. Le résultat est un monde qui apparaît original et unique à **Magic**, mais qui s’inspire de vieilles traditions folkloriques pour donner une impression d’histoire rustique et bien établie. 
 
 Il est intéressant de noter que le folklore dont s’inspire Lorwyn fait très peu de distinction entre les mots suivants :
 

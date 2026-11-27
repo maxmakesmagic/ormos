@@ -80,7 +80,9 @@ This week I'll show a truly crazy draft I did with twenty-four packs from twenty
 
 ### Night of the Twenty-Four-Pack Wacky Draft
 
-![Twenty-four packs of fun!](http://archive.wizards.com/magic/images/mtgcom/fcpics/latest/dl23_packs.jpg)One dark and stormy night, we threw a party for Wizards Digital Games developer and former Building on a Budget columnist [Nate Heiss](https://web.archive.org/web/20080208000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/authorarchive). Nate decreed an exceptionally wacky draft, so we collected twenty-four packs from twenty-four different sets. But of course we couldn't just draft the cards—first we had to draft the *packs*. What three packs would you have in front of you as the main draft began? Whatever three you drafted in the preliminary pack draft. 
+![Twenty-four packs of fun!](http://archive.wizards.com/magic/images/mtgcom/fcpics/latest/dl23_packs.jpg)
+
+One dark and stormy night, we threw a party for Wizards Digital Games developer and former Building on a Budget columnist [Nate Heiss](https://web.archive.org/web/20080208000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/authorarchive). Nate decreed an exceptionally wacky draft, so we collected twenty-four packs from twenty-four different sets. But of course we couldn't just draft the cards—first we had to draft the *packs*. What three packs would you have in front of you as the main draft began? Whatever three you drafted in the preliminary pack draft. 
 
 Nate went first, and faced this choice of first pick packs. Which would you pick from this list?
 

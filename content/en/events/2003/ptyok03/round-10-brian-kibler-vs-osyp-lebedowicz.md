@@ -85,7 +85,9 @@ render_recovery:
   - Searing Flesh
   occurrences: 43
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a834.jpg)Lebedowicz started asking Kibler to take off his headphones while shuffling, and Kibler refused, noting that he couldn't hear what Osyp was saying. Lebedowicz kept joking around, telling Darwin next to him that he beat Kibler in New Orleans even when he mulliganed to five. Even reporter Brian David-Marshall got in on the act, as everyone started telling stories about Kibler when he (apparently) couldn't hear what they were saying.
+![](http://www.wizards.com/sideboard/images/ptyok03/a834.jpg)
+
+Lebedowicz started asking Kibler to take off his headphones while shuffling, and Kibler refused, noting that he couldn't hear what Osyp was saying. Lebedowicz kept joking around, telling Darwin next to him that he beat Kibler in New Orleans even when he mulliganed to five. Even reporter Brian David-Marshall got in on the act, as everyone started telling stories about Kibler when he (apparently) couldn't hear what they were saying.
 
 ### Game 1
 
@@ -97,7 +99,9 @@ Kibler- "I needed you to play Tempting Wurm so I could play Acid Rain and Conver
 
 Lebedowicz- "I have no idea what you're talking about right now."
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a835.jpg)Lebedowicz- "We were at a bar in New Orleans, and a girl signaled to Kibler. He says, 'Yes I am Brian Kibler', and she just wanted to walk by."
+![](http://www.wizards.com/sideboard/images/ptyok03/a835.jpg)
+
+Lebedowicz- "We were at a bar in New Orleans, and a girl signaled to Kibler. He says, 'Yes I am Brian Kibler', and she just wanted to walk by."
 
 Kibler- "Osyp likes to project."
 

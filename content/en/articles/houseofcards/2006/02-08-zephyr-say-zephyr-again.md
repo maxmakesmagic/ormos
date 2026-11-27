@@ -801,7 +801,9 @@ My opponent, Turn 1: He plays an untapped Watery Grave, casts a Careful Study, a
 
 Me: Forest, go.
 
-![](https://i.ormos.uk/a2/29/a229d3a3596e2521b1cf5f7e6c443cbc91a87f4f74e0c83f5d81463ad8e91ddd.jpg)My opponent, Turn 2: He plays Watery Grave number two, casts a foil Duress (85% more powerful than a regular Duress), and takes an Overgrowth.
+![](https://i.ormos.uk/a2/29/a229d3a3596e2521b1cf5f7e6c443cbc91a87f4f74e0c83f5d81463ad8e91ddd.jpg)
+
+My opponent, Turn 2: He plays Watery Grave number two, casts a foil Duress (85% more powerful than a regular Duress), and takes an Overgrowth.
 
 Me: Mountain, Sakura-Tribe Elder, go.
 
@@ -839,7 +841,9 @@ With the Cloudhooved one on the board, play your Zephyr Spirit of Victory and mi
 
 <table class="deck">&#10;<tbody><tr>&#10;<td></td>&#10;<td></td>&#10;<td></td>&#10;</tr>&#10;<tr>&#10;<td></td>&#10;<td>&#10;<table class="deckcontent">&#10;<tbody><tr>&#10;<td>&#10;<div>Exhibit Z – Standard Legal</div>&#10;<div></div>&#10;</td>&#10;<td><a href="https://web.archive.org/web/20090604144941/https://www.wizards.com/magic/samplehand.asp?x=mtgcom/daily/cm5&amp;decknum=1"><img alt="View a sample hand of this deck" src="https://i.ormos.uk/89/ee/89eebd5ce5d06d74c9ba059ac0595ba3e248212a27cb4e6d0fedc5dfc936cb40.gif"></a><a href="https://web.archive.org/web/20060208000000/http://wizards.com/magic/decks/cm5_exhibitz.dec"><img alt="Download this deck as a Magic Online .dec file" src="https://i.ormos.uk/48/df/48df5ca14d9b259d6ddc8ba7a6f0967075fc736bb2ea679ec29e4feebe2309cd.gif"></a></td>&#10;</tr>&#10;<tr>&#10;<td colspan="2">&#10;<table>&#10;<tbody><tr>&#10;<td colspan="3">&#10;<p>Main Deck</p>&#10;<p>60 cards&#10;                          </p>&#10;</td>&#10;</tr>&#10;<tr>&#10;<td>9 &#10;                            <a>Island</a><br>8 &#10;                            <a>Swamp</a><br>4 &#10;                            <a>Watery Grave</a><br>1 &#10;                            <a>Duskmantle, House of Shadow</a><br>1 &#10;                            <a>Miren, the Moaning Well</a><br>1 &#10;                            <a>Minamo, School at Water's Edge</a><br>1 &#10;                            <a>Shizo, Death's Storehouse</a><br><hr>25 lands</td>&#10;<td>4 &#10;                            <a>Dimir Infiltrator</a><br>2 &#10;                            <a>Circu, Dimir Lobotomist</a><br>2 &#10;                            <a>Kiri-Onna</a><br>4 &#10;                            <a>Cloudhoof Kirin</a><br>3 &#10;                            <a>Zephyr Spirit</a><br><hr>15 creatures</td>&#10;<td>4 &#10;                            <a>Reach Through Mists</a><br>4 &#10;                            <a>Dampen Thought</a><br>4 &#10;                            <a>Consuming Vortex</a><br>3 &#10;                            <a>Disrupting Shoal</a><br>2 &#10;                            <a>Hideous Laughter</a><br>2 &#10;                            <a>Rend Flesh</a><br>1 &#10;                            <a>Death of a Thousand Stings</a><br><hr>20 other spells</td>&#10;</tr>&#10;</tbody></table>&#10;</td>&#10;</tr>&#10;</tbody></table>&#10;</td>&#10;<td></td>&#10;</tr>&#10;<tr>&#10;<td></td>&#10;<td></td>&#10;<td></td>&#10;</tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/43/67/43679f6e731fc6380e6c97b882a60503ff2e8280bd593109c30323687dd38413.jpg)Death of a Thousand Stings could very easily be Petals of Insight. They are both Arcane spells that can be played repeatedly and they both cost five mana. I went with Death of a Thousand Stings because it's an Instant, so I could wait until the opponent's end of turn step to use it and, hopefully, Splice a Dampen Thought on to it.
+![](https://i.ormos.uk/43/67/43679f6e731fc6380e6c97b882a60503ff2e8280bd593109c30323687dd38413.jpg)
+
+Death of a Thousand Stings could very easily be Petals of Insight. They are both Arcane spells that can be played repeatedly and they both cost five mana. I went with Death of a Thousand Stings because it's an Instant, so I could wait until the opponent's end of turn step to use it and, hopefully, Splice a Dampen Thought on to it.
 
 The two things that I most enjoyed doing with this deck: 
 
@@ -848,7 +852,9 @@ The two things that I most enjoyed doing with this deck:
 
 ### For a Few Zephyr Spirits More
 
-![](https://i.ormos.uk/d1/db/d1db9435c3cbf433163d806ee17faff50f6b19660aeefcb1160c61e88abc1f0b.jpg)Another thing you may not have noticed – perhaps because the part of the article where I mention it – is that Zephyr Spirit costs six mana. I know what you're thinking, “Six mana, eh? Didn't we just have a block featuring all kinds of big, expensive creatures, and an expansion in that block which focused on six-mana creatures in particular? Like, three blocks ago?” Hey, you're right! Good call. It wasn't too long ago that *Onslaught* block's *Scourge* expansion introduced us to a number of cards that keyed off of creatures costing six mana. Cards like Fierce Empath, Krosan Drover, Kurgadon, and, most importantly, the cycle of Dragon part enchantments.
+![](https://i.ormos.uk/d1/db/d1db9435c3cbf433163d806ee17faff50f6b19660aeefcb1160c61e88abc1f0b.jpg)
+
+Another thing you may not have noticed – perhaps because the part of the article where I mention it – is that Zephyr Spirit costs six mana. I know what you're thinking, “Six mana, eh? Didn't we just have a block featuring all kinds of big, expensive creatures, and an expansion in that block which focused on six-mana creatures in particular? Like, three blocks ago?” Hey, you're right! Good call. It wasn't too long ago that *Onslaught* block's *Scourge* expansion introduced us to a number of cards that keyed off of creatures costing six mana. Cards like Fierce Empath, Krosan Drover, Kurgadon, and, most importantly, the cycle of Dragon part enchantments.
 
 In went four copies of all the power-enhancing Dragon bits (Dragon Fangs, Scales, and Shadow), and a single copy of the other two (Dragon Breath, Dragon Wings). Now I would need a way to get them all in the graveyard, so that when I played my Zephyr Spirit, they would all hop out of the grave and on to it. For this task, I turned to Tunnel Vision. (You could use Oath of Druids, if you prefer.) Tunnel Vision is a little inconsistent, if you can't manipulate the bottom of your library somehow. I didn't want to include Junktroller, because it just seems out of place in the deck, so I went with Telling Time instead. Hopefully, you'll draw into one of the deck's one-of's, so the subsequent Tunnel Vision will dump your whole library.
 

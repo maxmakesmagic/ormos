@@ -241,7 +241,9 @@ If you're still looking for a place to play, find your location from one of thes
 
 ### Magic Invitational: Crowning a Constructed Master
 
-[![](https://i.ormos.uk/da/32/da326216e7fa098a91f8f4e1f34666e7365fb854d7e2199ff9fda1bfe8ce5bf6.jpg)](https://web.archive.org/web/20070706000000/https://magic.wizards.com/en/node/580471)Gabriel Nassif took down the [Constructed Master ballot](https://web.archive.org/web/20070706000000/https://magic.wizards.com/en/node/580426) by one of the narrowest margins I can recall in Invitational balloting, edging out Mark Herberholz by less than two percentage points. Mark can only appear on one more ballot, and will likely be looking for the North American vote to get him to Germany. Also earning an Invitational invite this week was Jelger Wiegersma, who was voted in by his peers in the [Players Vote](https://web.archive.org/web/20070706000000/https://magic.wizards.com/en/node/580566).
+[![](https://i.ormos.uk/da/32/da326216e7fa098a91f8f4e1f34666e7365fb854d7e2199ff9fda1bfe8ce5bf6.jpg)](https://web.archive.org/web/20070706000000/https://magic.wizards.com/en/node/580471)
+
+Gabriel Nassif took down the [Constructed Master ballot](https://web.archive.org/web/20070706000000/https://magic.wizards.com/en/node/580426) by one of the narrowest margins I can recall in Invitational balloting, edging out Mark Herberholz by less than two percentage points. Mark can only appear on one more ballot, and will likely be looking for the North American vote to get him to Germany. Also earning an Invitational invite this week was Jelger Wiegersma, who was voted in by his peers in the [Players Vote](https://web.archive.org/web/20070706000000/https://magic.wizards.com/en/node/580566).
 
 This week we seek a [Limited Expert](https://web.archive.org/web/20070706000000/https://magic.wizards.com/en/node/580471). Go here to find this week's ballot and vote for the most accomplished drafter from the bunch.
 

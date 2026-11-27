@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/175.jpg)In the last round of the Swiss, Kai Budde was paired up against the Italian player Stefano Fiore. Kai was already safe into the top 8, but Stefano had to win in order to make it. Apparently, the Italian wanted Kai to concede to him, but Kai knew that not only was the deck a bad match-up for himself, but also for his teammate Ben Ronaldson and for his friend Benedikt Klauser. So he chose to play in an attempt to avoid him in the top 8. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/175.jpg)
+
+In the last round of the Swiss, Kai Budde was paired up against the Italian player Stefano Fiore. Kai was already safe into the top 8, but Stefano had to win in order to make it. Apparently, the Italian wanted Kai to concede to him, but Kai knew that not only was the deck a bad match-up for himself, but also for his teammate Ben Ronaldson and for his friend Benedikt Klauser. So he chose to play in an attempt to avoid him in the top 8. 
 
 **Game 1** 
 

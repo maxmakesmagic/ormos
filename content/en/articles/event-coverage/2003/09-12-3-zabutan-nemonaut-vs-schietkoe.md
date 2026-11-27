@@ -66,7 +66,9 @@ render_recovery: []
 
 **■Harvey(赤緑) vs. Cornelissen(赤緑)-Game 1**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a917.jpg)Wiseが怪気炎をあげながら華々しい一勝を掴み取ったとき、隣の席に座したEugene Harveyは《激情の共感者/[Fierce Empath](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fierce+Empath)》から《クローサの拳カマール/[Kamahl, Fist of Krosa](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kamahl%2C+Fist+of+Krosa)》をサーチしているところだった。《ゴブリンの乱伐者/[Goblin Clearcutter](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Clearcutter)》でマナ加速をしたうえでこれを展開したHarveyだったが、Cornelissenもこれは即座に《陽光の突風/[Solar Blast](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)》で除去して見せた。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a917.jpg)
+
+Wiseが怪気炎をあげながら華々しい一勝を掴み取ったとき、隣の席に座したEugene Harveyは《激情の共感者/[Fierce Empath](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fierce+Empath)》から《クローサの拳カマール/[Kamahl, Fist of Krosa](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kamahl%2C+Fist+of+Krosa)》をサーチしているところだった。《ゴブリンの乱伐者/[Goblin Clearcutter](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Clearcutter)》でマナ加速をしたうえでこれを展開したHarveyだったが、Cornelissenもこれは即座に《陽光の突風/[Solar Blast](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)》で除去して見せた。
 
 しかし、ここからがHarveyのデッキの真の見せ場となる。
 
@@ -80,7 +82,9 @@ render_recovery: []
 
 具体的には、《低地の足跡追い/[Lowland Tracker](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lowland+Tracker)》を《戦場の衛生兵/[Battlefield Medic](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Medic)》と《エイヴンの救い手/[Aven Redeemer](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer)》がバックアップするという体制をTurianが早々と築きあげてしまったのだ。つまり、Cornelissenはクリーチャーを展開したくとも出来ないという軽いロックが完成してしまい...そこにTurianはさらにアタッカーとして《歪んだ爪の古老/[Crookclaw Elder](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crookclaw+Elder)》と《エイヴンの兵団長/[Aven Brigadier](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Brigadier)》を追加するという有様だ。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a918.jpg)Cornelissenとしては、虎の子の《生命を破滅させるもの/[Bane of the Living](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bane+of+the+Living)》による逆転勝利を夢見たかもしれないが...そうそう都合の良い展開が繰り返されるものではなかった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a918.jpg)
+
+Cornelissenとしては、虎の子の《生命を破滅させるもの/[Bane of the Living](https://web.archive.org/web/20030912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bane+of+the+Living)》による逆転勝利を夢見たかもしれないが...そうそう都合の良い展開が繰り返されるものではなかった。
 
 **Turian-2 Cornelissen-1**  
 **Zabutan Nemonaut-1 Schietkoe-0**

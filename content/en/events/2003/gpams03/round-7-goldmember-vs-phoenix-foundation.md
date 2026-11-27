@@ -307,7 +307,9 @@ Both of these teams are on 5-1. Phoenix Foundation are perhaps the best known te
 
 ### Kai Budde versus Olle Rade
 
-![](http://www.wizards.com/sideboard/images/gpams03/a948.jpg)This was a green mirror, Olle splashing black, and Kai splashing red. Both players made a bunch of early green guys, but Kai seemed to have the edge as he had a Wellwisher as one of three elves. He also had a Wirewood Savage which threatened to give him large card advantage. Both players continued to pour large beasts onto the table, but with Kai drawing extra cards his were much more impressive, including a 9/9 Feral Throwback.
+![](http://www.wizards.com/sideboard/images/gpams03/a948.jpg)
+
+This was a green mirror, Olle splashing black, and Kai splashing red. Both players made a bunch of early green guys, but Kai seemed to have the edge as he had a Wellwisher as one of three elves. He also had a Wirewood Savage which threatened to give him large card advantage. Both players continued to pour large beasts onto the table, but with Kai drawing extra cards his were much more impressive, including a 9/9 Feral Throwback.
 
 Olle put Dragon Shadow on a Krosan Groundshaker, but it only got one hit in before the Throwback provoked it. Olle cast a Havoc Demon, and sacrificed it to his Husk. Symbiotic Elf and Beast gave him six 1/1s to go with the Husk, and Kai was just left with the Throwback. He was, however, on rather a large amount of life. The Throwback traded with three insect tokens pumping the Husk, but Kai wasn't fazed as he still had plenty of gas in his hand. Olle dealt with the Krosan Tusker Budde played, but had no answer to the Centaur Glade.
 
@@ -321,7 +323,9 @@ A few turns in the third game was rendered irrelevant since both of Kai's teamma
 
 ### Rickard Osterberg versus Dirk Baberowski
 
-![](http://www.wizards.com/sideboard/images/gpams03/a950.jpg)Rickard got a great start, with a Lightning Rift and then a Lavamancer's skill on a wizard gunning down Dirk's whole team. Dirk got back into the game in a big way with a Cruel Revival, killing the skilled Wizard, bringing back Rotlung Reanimator. He then Cloned the Reanimator and started to swing in, posing some stiff questions for Rickard. Not only did he have two Rotlungs to contend with, but Dirk turned up the heat with an Aven Fateshaper. Rickard had a couple of turns to find a solution, but didn't have enough land to put up a fight, despite having cycled a number of cards to find it.
+![](http://www.wizards.com/sideboard/images/gpams03/a950.jpg)
+
+Rickard got a great start, with a Lightning Rift and then a Lavamancer's skill on a wizard gunning down Dirk's whole team. Dirk got back into the game in a big way with a Cruel Revival, killing the skilled Wizard, bringing back Rotlung Reanimator. He then Cloned the Reanimator and started to swing in, posing some stiff questions for Rickard. Not only did he have two Rotlungs to contend with, but Dirk turned up the heat with an Aven Fateshaper. Rickard had a couple of turns to find a solution, but didn't have enough land to put up a fight, despite having cycled a number of cards to find it.
 
 Dirk Baberowski 1 – Rickard Osterberg 0
 
@@ -333,7 +337,9 @@ Dirk Baberowski 2 – Rickard Osterberg 0
 
 ### Morgan Karlson versus Marco Blume
 
-![](http://www.wizards.com/sideboard/images/gpams03/a951.jpg)This was a white mirror match up which unfortunately I was rather too far away to see – the feature match table was fairly long and I was stuck at one end of it. "If Rob Dougherty was here you could borrow his binoculars," joked John Larkin, referring to the YMG players interesting scouting technique at PT Venice. From what I could make out, Marco had the advantage of having Catapult Squad in play, which made his Aven Redeemer pretty much unblockable.
+![](http://www.wizards.com/sideboard/images/gpams03/a951.jpg)
+
+This was a white mirror match up which unfortunately I was rather too far away to see – the feature match table was fairly long and I was stuck at one end of it. "If Rob Dougherty was here you could borrow his binoculars," joked John Larkin, referring to the YMG players interesting scouting technique at PT Venice. From what I could make out, Marco had the advantage of having Catapult Squad in play, which made his Aven Redeemer pretty much unblockable.
 
 It was the Catapult Squad that decided the game, since although both players had plenty of creatures, Morgan could never make any sensible blocks. Eventually Dirk started attacking with a Daru Lancer as well, and Morgan was reduced to chumping with creatures that died to the squad. He drew nothing that could stop the squad dominating the board, and had to scoop.
 

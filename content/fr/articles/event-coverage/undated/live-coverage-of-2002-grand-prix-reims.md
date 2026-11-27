@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/41/ec/41eca202de4e516b06754ce34fd4d4dcf551260fd3dedaf603f6585fafc3bbf2.jpg)Alex Mack has won Grand Prix Reims!
+![](https://i.ormos.uk/41/ec/41eca202de4e516b06754ce34fd4d4dcf551260fd3dedaf603f6585fafc3bbf2.jpg)
+
+Alex Mack has won Grand Prix Reims!
 
 In an unexpected Sligh-on-Sligh finals, Alex Mack defeated Benjamin Caumes to take the first GP of the Extended season.
 

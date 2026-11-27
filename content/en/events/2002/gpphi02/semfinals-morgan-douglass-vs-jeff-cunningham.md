@@ -130,7 +130,9 @@ render_recovery:
   - Withering Hex
   occurrences: 146
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a846.jpg)Morgan Douglass's fast red/black deck made quick work of Nick Eisel in the quarter finals. Now that he has made his first top 8 of a premiere event, Morgan is looking for his first win.
+![](http://www.wizards.com/sideboard/images/gpphi02/a846.jpg)
+
+Morgan Douglass's fast red/black deck made quick work of Nick Eisel in the quarter finals. Now that he has made his first top 8 of a premiere event, Morgan is looking for his first win.
 
 Jeff Cunningham is no stranger to the spotlight. He has competed in many Pro Tours, Grand Prix, and Masters series matches. The last round was important to him, as it secured a place in the Masters Series. Now he is looking to take the title.
 
@@ -160,7 +162,9 @@ Douglass – 1, Cunningham – 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a844.jpg)Jeff chose to play Game 2, hoping to nullify the speed advantage that Morgan's deck enjoyed. Jeff had a turn two Headhunter, and again Morgan had a turn two Sparksmith. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a844.jpg)
+
+Jeff chose to play Game 2, hoping to nullify the speed advantage that Morgan's deck enjoyed. Jeff had a turn two Headhunter, and again Morgan had a turn two Sparksmith. 
 
 Jeff had a turn three Swat for the Sparksmith, though, and was able to sneak in with the Headhunter for one damage and a card out of Morgan's hand, a swamp.
 
@@ -184,7 +188,9 @@ Douglass – 1, Cunningham – 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a845.jpg)Morgan was frustrated at the ruling, but nothing could be done. He chose to play first, but had to ship his firsthand. His second had no play until turn three, and that play was a Festering Goblin. Jeff summoned a Morph for his third turn.
+![](http://www.wizards.com/sideboard/images/gpphi02/a845.jpg)
+
+Morgan was frustrated at the ruling, but nothing could be done. He chose to play first, but had to ship his firsthand. His second had no play until turn three, and that play was a Festering Goblin. Jeff summoned a Morph for his third turn.
 
 Morgan slipped in for a point and summoned a Screeching Buzzard. Jeff sent his Morph, and Morgan let it through unblocked. After damage was on the stack, Jeff revealed it to be a nightmare for Morgan: Haunted Cadaver. Combined with the mulligan, Morgan's hand was completely stripped.
 

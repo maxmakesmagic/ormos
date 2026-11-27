@@ -41,4 +41,6 @@ render_recovery: []
 
 For 20th Anniversary Week last year, [I wrote an article](https://web.archive.org/web/20140623054135/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/259) that examined twenty of the biggest controversies in **Magic**'s history. In a two-podcast series, I examine in detail those twenty events. 
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

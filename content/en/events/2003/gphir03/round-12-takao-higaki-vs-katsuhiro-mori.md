@@ -78,7 +78,9 @@ render_recovery:
   - Planar Portal
   occurrences: 33
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a947.jpg)Local Boy Takao Higaki is tearing up this Grand Prix with Tinker. If he keeps his current pace, he'll have a title of his own before the day is done. First he must best Katsuhiro "Blitzschlag" Mori, former Rookie of the Year and the fastest hands in the east. Mori is playing a Burning WishPsychatog deck that's packed with hate for creature decks. He's ill-equipped to handle Tinker. In fact, he drew with Akira Asahara in round 7 rather than risk his Day 2 against it.
+![](http://www.wizards.com/sideboard/images/gphir03/a947.jpg)
+
+Local Boy Takao Higaki is tearing up this Grand Prix with Tinker. If he keeps his current pace, he'll have a title of his own before the day is done. First he must best Katsuhiro "Blitzschlag" Mori, former Rookie of the Year and the fastest hands in the east. Mori is playing a Burning WishPsychatog deck that's packed with hate for creature decks. He's ill-equipped to handle Tinker. In fact, he drew with Akira Asahara in round 7 rather than risk his Day 2 against it.
 
 ### Game 1
 
@@ -90,7 +92,9 @@ Higaki 1 – Mori 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gphir03/a948.jpg)Higaki practically fell out of his chair when Mori started Game 2 with just an Urborg Volcano. His Ancient Tomb and Defense Grid fell onto the table of their own accord. Mori had no follow-up, and Higaki was free to resolve Metalworker.
+![](http://www.wizards.com/sideboard/images/gphir03/a948.jpg)
+
+Higaki practically fell out of his chair when Mori started Game 2 with just an Urborg Volcano. His Ancient Tomb and Defense Grid fell onto the table of their own accord. Mori had no follow-up, and Higaki was free to resolve Metalworker.
 
 Mori untapped, dropped his third land, and tapped all three, putting down Nightscape Familiar and aiming Fire at the Metalworker. The judge reminded him that his lands were Urborg Volcano and two islands. Worse, he couldn't take back his Familiar, and so was unable to dispatch the Worker. Given the contents of Higaki's hand, it looked like he would win regardless, but suddenly the game was a slaughter.
 

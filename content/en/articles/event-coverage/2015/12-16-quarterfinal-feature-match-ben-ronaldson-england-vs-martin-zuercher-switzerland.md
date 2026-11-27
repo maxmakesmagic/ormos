@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Pete Norris* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/185.jpg)Ben Ronaldson is the reigning English Champion, and has had impressive performances of late, 17th at Euros, 27th at Worlds and 9th at Pro Tour New York. His opponent was Martin Z¨rcher, a rather unknown Swiss player. Z¨rcher did finish 12th at Grand Prix Milan though. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/185.jpg)
+
+Ben Ronaldson is the reigning English Champion, and has had impressive performances of late, 17th at Euros, 27th at Worlds and 9th at Pro Tour New York. His opponent was Martin Z¨rcher, a rather unknown Swiss player. Z¨rcher did finish 12th at Grand Prix Milan though. 
 
 **Game 1** 
 

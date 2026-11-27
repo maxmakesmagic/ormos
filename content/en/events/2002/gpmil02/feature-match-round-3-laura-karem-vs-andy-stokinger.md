@@ -100,13 +100,17 @@ render_recovery:
   - Rushing River
   occurrences: 99
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/983.jpg)Andy Stokinger, who is coming off a top 64 finish at Pro Tour: Nice and is noted for maintaining the notorious Team Academy website, faced off against Laura Karem. Karem hails from Kentucky and recently finished 27th at Grand Prix Atlanta. Both players came to the table cool, calm, and collected.
+![](http://www.wizards.com/sideboard/images/gpmil02/983.jpg)
+
+Andy Stokinger, who is coming off a top 64 finish at Pro Tour: Nice and is noted for maintaining the notorious Team Academy website, faced off against Laura Karem. Karem hails from Kentucky and recently finished 27th at Grand Prix Atlanta. Both players came to the table cool, calm, and collected.
 
 The matchup pitted Karem's blue, red, and white control deck versus Stokinger's madness-fueled green-blue deck with a splash of red. Victory would be determined by seeing if Stokinger's quick beats of Wild Mongrel and Arrogant Wurm would make it past Karem's counters and bounce tactics.
 
 Stokinger won the roll, and chose to play first. He started the party with a second turn Merfolk Looter. He tried to follow that up with a Wild Mongrel, but Karem would have none of that and Counterspelled the dog. But when it rains, it pours, and on his next turn his next Mongrel made it to the table assisted by a madness-paid Circular Logic.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/984.jpg)Karem's stock appeared to sink low as she could only meet Stokinger's third Mongrel with a Memory Lapse. Stokinger's Wild Mongrel kept nipping at her heels, bringing her life total to 14. She threw a Prophetic Bolt at Stokinger's Merfolk Looter, but it was met a Circular Logic. She then was able to Fire away the Looter, and Fact or Fictioned to Prophetic Bolt a newly cast Mongrel. But Stokinger topdecked a fourth Mongrel, and Karem needed amazing draws to stay in the game.
+![](http://www.wizards.com/sideboard/images/gpmil02/984.jpg)
+
+Karem's stock appeared to sink low as she could only meet Stokinger's third Mongrel with a Memory Lapse. Stokinger's Wild Mongrel kept nipping at her heels, bringing her life total to 14. She threw a Prophetic Bolt at Stokinger's Merfolk Looter, but it was met a Circular Logic. She then was able to Fire away the Looter, and Fact or Fictioned to Prophetic Bolt a newly cast Mongrel. But Stokinger topdecked a fourth Mongrel, and Karem needed amazing draws to stay in the game.
 
 At 6 life, Karem rolled the dice and threw down a Fact or Fiction which was split into 2 Fire/Ices and a pile with Repulse and 2 land. Karem took the two Fire/Ices. Stokinger couldn't commit more beef to the table while Karem was Icing his Wild Mongrel, his Arrogant Wurm meeting Memory Lapse. Karem continued to grab for board control, turning over an amazing five cards with Fact or Fiction. Stokinger stared at Earthquake, Goblin Trenches, Syncopate, Fact or Fiction, and Counterspell.
 
@@ -116,7 +120,9 @@ Stokinger kept attacking with his sole creature, Wild Mongrel. But the well-trai
 
 Laura Karem - Andy Stokinger 1-0
 
-![](http://www.wizards.com/sideboard/images/gpmil02/985.jpg)Game 2 was a far smoother affair, with Stokinger bringing the beats with a turn 2 Mongrel. Karem failed to make a land drop on her third turn. She drew a mountain off the top on her fourth turn and played an Earthquake for two. Stokinger discarded an irrelevant Epicenter and kept the beats up, adding a Merfolk Looter to his side. Karem had a Wrath of God in hand, but few counters and needed to draw a second source of white mana to clear the board. She couldn't find it, and Stokinger put his own life on the line to soak up a Flaming Gambit and defeat Karem.
+![](http://www.wizards.com/sideboard/images/gpmil02/985.jpg)
+
+Game 2 was a far smoother affair, with Stokinger bringing the beats with a turn 2 Mongrel. Karem failed to make a land drop on her third turn. She drew a mountain off the top on her fourth turn and played an Earthquake for two. Stokinger discarded an irrelevant Epicenter and kept the beats up, adding a Merfolk Looter to his side. Karem had a Wrath of God in hand, but few counters and needed to draw a second source of white mana to clear the board. She couldn't find it, and Stokinger put his own life on the line to soak up a Flaming Gambit and defeat Karem.
 
 Laura Karem - Andy Stokinger 1-1
 

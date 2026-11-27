@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Michelle Bush* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/865.jpg)It was close to midnight by the time Round 7 started, and fatigue was hanging heavy in the Queen Mary exhibition hall as the players resigned themselves to the feature match area. Fortunately, both David Humpherys and Svend Geertsen are PT veterans well versed in the art of Magic Marathons. Geertsen, the young man from Denmark considered to be one of the most strikingly handsome figures on Tour, is absolutely on fire today. He went into round 7 wielding a classic blue/black tempo deck with an unusually devastating amount of card advantage. Geertsen had a perfect 6-0 record at the start of this round, and was looking to advance to Day 2 undefeated. Dave Humpherys was only slightly behind him at 5-1, and hoped for the match win to be in prime striking position for the Top 8. The Hump, a quiet, brainy Your Move Games player from Boston, drafted a blue/black/white deck that wasn't quite as fast as Geertsen's, but had some powerful high end spells that could spell victory if the game went long. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/865.jpg)
+
+It was close to midnight by the time Round 7 started, and fatigue was hanging heavy in the Queen Mary exhibition hall as the players resigned themselves to the feature match area. Fortunately, both David Humpherys and Svend Geertsen are PT veterans well versed in the art of Magic Marathons. Geertsen, the young man from Denmark considered to be one of the most strikingly handsome figures on Tour, is absolutely on fire today. He went into round 7 wielding a classic blue/black tempo deck with an unusually devastating amount of card advantage. Geertsen had a perfect 6-0 record at the start of this round, and was looking to advance to Day 2 undefeated. Dave Humpherys was only slightly behind him at 5-1, and hoped for the match win to be in prime striking position for the Top 8. The Hump, a quiet, brainy Your Move Games player from Boston, drafted a blue/black/white deck that wasn't quite as fast as Geertsen's, but had some powerful high end spells that could spell victory if the game went long. 
 
 **Game 1** 
 
@@ -60,6 +62,8 @@ Having seen how fast Geertsen's deck started in game 1, Hump chose to play first
 
 Geertsen came out with yet another great tempo draw in game three, leading with a Nightscape Apprentice and the third appearance of his Hate Weaver. Realizing that he had very little time to secure victory, he chose to play a Faerie Squadron without kicker on turn 3, hoping he could use the Hate Weaver to pump up the 1/1 Fairies for extra beats. Hate Weaver is a remarkable effective damage source, and Humpherys was at 6 life before he stabilized with a Trench Wurm and Benalish Heralds. Time was called on the turn that Geertsen made his final attack of the game, reducing The Hump to 1. On turn 2 of extra time, Geertsen untapped and calmly Soul Burned Humpherys out of the match. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/867.jpg)Geertsen advanced to day two at 7-0, the number one seeded player in the swiss, while Humpherys went into day 2 very much alive in 23rd place. If both continue on their current hot streaks, it is very conceivable that The Hump will have the opportunity to avenge himself in a rematch tomorrow. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/867.jpg)
+
+Geertsen advanced to day two at 7-0, the number one seeded player in the swiss, while Humpherys went into day 2 very much alive in 23rd place. If both continue on their current hot streaks, it is very conceivable that The Hump will have the opportunity to avenge himself in a rematch tomorrow. 
 
 **Final Result:** Geertsen 2 - Humpherys 1

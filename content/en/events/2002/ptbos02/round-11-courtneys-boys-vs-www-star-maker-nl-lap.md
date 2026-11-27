@@ -118,7 +118,9 @@ render_recovery:
   - Flash of Defiance
   occurrences: 98
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a826.jpg)Everything's riding on this match. The spot in the Top 4. The money. Reputation. Pride. All that makes an already gruelling day that much harder. How do you find the resolve to put on your best game just once more?
+![](http://www.wizards.com/sideboard/images/ptbos02/a826.jpg)
+
+Everything's riding on this match. The spot in the Top 4. The money. Reputation. Pride. All that makes an already gruelling day that much harder. How do you find the resolve to put on your best game just once more?
 
 Neither of these teams have that difficulty. Courtney's Boys have been around the block more than once. Gary Wise has been through the Team Pro Tour before and came out on top. Bob Maher's claimed a singles title. Neil Reeves was at the final table earlier this year. All of them know what it takes to be a champion, and have shown they can handle it.
 
@@ -156,7 +158,9 @@ The Shade had dropped Karsten to six and Wise had other attackers at the ready. 
 
 The Fisher forced the flashback of Chainer's Edict. Karsten regrew his Collaborator and played it. Wise's Waste Away was just in time, and the Gloomdrifter got busy. Karsten fell to four. He Unhinged, catching a land, and brought Wise to five. Wise made Cephalid Inkshrouder and held back, trading Gloomdrifter for the Imp. Karsten busted out Phantom Flock and Earsplitting Rats. Wise topdecked Patriarch's Desire to kill the Flock. They traded two damage. Karsten dropped Blessed Orator, leaving five mana open. He was at two. Wise drew Toxic Stench.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a828.jpg)If it had been a land, it would have been easy. But now he had two ways to try and win the game. If the card in Karsten's hand was Embolden, he needed to kill the Orator to have a chance to win. If the card was Second Thoughts, he needed to pitch it for unblockability and untargetability, swinging for the win. He looked at the ceiling. He shrugged and pitched it. Karsten turned over mountain. Wise didn't even smile. He was already looking at Game 3.
+![](http://www.wizards.com/sideboard/images/ptbos02/a828.jpg)
+
+If it had been a land, it would have been easy. But now he had two ways to try and win the game. If the card in Karsten's hand was Embolden, he needed to kill the Orator to have a chance to win. If the card was Second Thoughts, he needed to pitch it for unblockability and untargetability, swinging for the win. He looked at the ceiling. He shrugged and pitched it. Karsten turned over mountain. Wise didn't even smile. He was already looking at Game 3.
 
 Things were well past complex in the Maher-Wiegersma match. Crippling Fatigue had long ago negated Maher's Bodyguard and Chainflinger. Every defensive white creature was on both sides of the table. Still, Wiegersma had the advantage, and was diminishing Maher's resources with every attack. Maher was two turns from giving up the ghost. He drew Grim Lavamancer, and passed it back. Some fancy work involving a re-used Embolden answered an involved combat phase.
 

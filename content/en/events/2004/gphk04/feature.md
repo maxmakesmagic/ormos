@@ -663,7 +663,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gphk04/anton.jpg)There was no shortage of star power for this Grand Prix. There were players with Pro Tour Top 8 on their resume from Japan, America, Finland, France and Sweden. In fact, there were more players with high level Top 8 finishes in the room then the Top 8 on Sunday could accommodate. A quick poll of the name players in the room as to the most likely player to win the event was generally met with a shrug and a reluctant, "Anton…"
+![](http://www.wizards.com/sideboard/images/gphk04/anton.jpg)
+
+There was no shortage of star power for this Grand Prix. There were players with Pro Tour Top 8 on their resume from Japan, America, Finland, France and Sweden. In fact, there were more players with high level Top 8 finishes in the room then the Top 8 on Sunday could accommodate. A quick poll of the name players in the room as to the most likely player to win the event was generally met with a shrug and a reluctant, "Anton…"
 
 I sat down with the Swedish player as he opened the collection of cards he would have to work with this weekend. The Grand Prix marked his first Limited tournament since his Top 8 performance in Amsterdam. This was also his first opportunity to play with Darksteel in a tournament environment. 
 

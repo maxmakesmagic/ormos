@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/799.jpg)In the last Team Pro Tour in Washington DC, Team Game Empire lost in the finals against Your Move Games. Now, Kurt Burgner (30), Alan Comer (31) and Brian Selden (19) are back together, but their situation has slightly changed as Brian has moved to Berkeley to study. "Back then we could play together. Now we don't play at all," Comer explains. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/799.jpg)
+
+In the last Team Pro Tour in Washington DC, Team Game Empire lost in the finals against Your Move Games. Now, Kurt Burgner (30), Alan Comer (31) and Brian Selden (19) are back together, but their situation has slightly changed as Brian has moved to Berkeley to study. "Back then we could play together. Now we don't play at all," Comer explains. 
 
 Team Game Empire was formed before PTDC. At that time, both Brian and Alan lived in San Diego, while Burgner lived in Los Angeles. So the three of them got together and made a team because they were able to practice before the event. Choosing a team name was not too difficult either. Their name is the same as a game store in San Diego, which is also their sponsor. "The paid the most," Comer laughs. Then again, all three of them are solid players. In addition to the top 8 in the Team Pro Tour last year, Comer has three individual top 8 finishes; 1997 Pro Tour Los Angeles, 1998 World Championship and 1999 Pro Tour Chicago. Burgner made top 8 at Pro Tour Mainz and in Pro Tour Los Angeles this year where Selden also made the playoff. Selden is also a former World Champion, he won the title in the 1998 World Championship in Seattle. 
 

@@ -96,7 +96,9 @@ Lionel: "Taking a mulligan makes people lucky"
 
 Jelger 1 – Lionel 1
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a855.jpg)Playing only one last game for a top 8 slot and lots of money made both players uncomfortable, so they agreed on a 20 percent money split.
+![](http://www.wizards.com/sideboard/images/gplyo03/a855.jpg)
+
+Playing only one last game for a top 8 slot and lots of money made both players uncomfortable, so they agreed on a 20 percent money split.
 
 ### Game 3
 

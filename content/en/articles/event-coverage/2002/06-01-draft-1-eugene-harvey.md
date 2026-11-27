@@ -59,7 +59,9 @@ Harvey was sitting in seat 2 with Borteh two seats to his right and Hegstad two 
 
 Harvey opened an interesting *Odyssey* pack with Merfolk Looter, Mystic Enforcer, Shelter, Nantuko Disciple, and Sylvan Might. If he takes the Enforcer, he's passing quality green and white and setting himself up for a fight. If he takes the Looter, then, well, he's simply not taking the best card in the pack. With green/white becoming quite viable with the advent of Judgment, he took the Enforcer.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a896.jpg)The problem was that Borteh first-picked a Call of the Herd and Melnikow a Werebear in front of him, and Gates took Overrun behind him. Green was going to be hotly contested.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a896.jpg)
+
+The problem was that Borteh first-picked a Call of the Herd and Melnikow a Werebear in front of him, and Gates took Overrun behind him. Green was going to be hotly contested.
 
 There were no good green cards in pack 2 (How could there be if Melnikow took Werebear first?), so Harvey had to decide between Resilient Wanderer, Shelter, and Dreamwinder; he took the Wanderer.
 

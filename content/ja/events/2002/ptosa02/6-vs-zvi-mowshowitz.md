@@ -110,7 +110,9 @@ render_recovery:
 ---
 ### 
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a848.jpg)　ラウンド 6 のフィーチャリングマッチは、最近非常にモチベーションが上がっており、マスターズも決勝戦を控えるのみとなった石田と、前回の限定構築戦の PT を制した Zvi との対決。
+![](http://www.wizards.com/sideboard/images/ptosa02/a848.jpg)
+
+　ラウンド 6 のフィーチャリングマッチは、最近非常にモチベーションが上がっており、マスターズも決勝戦を控えるのみとなった石田と、前回の限定構築戦の PT を制した Zvi との対決。
 
 ### Game 1
 

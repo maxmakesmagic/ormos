@@ -102,7 +102,9 @@ render_recovery:
   - Seal of Removal
   occurrences: 91
 ---
-![](https://i.ormos.uk/b7/12/b7127938584d53d894e3f32a62aa408158e3004c6c798439cc2a84d5c741a3f0.jpg)Does it get anymore rogue than this? Morgan Douglass piloted Tinker, the most dejected and discarded of potential extended archetypes, to a Top 8 finish. His first round opponent: Diego Ostrovich, whose current [Elves! deck](/en/events/2003/gpno03/deck-tech-elves) quietly slipped to some impressive finishes at PT Houston. Among the cards in their two decks are Crumbling Sanctuary; Predator, Flagship; Planar Portal; Slate of Ancestry; Skyshroud Poacher; and Fecundity. If this extended season has proven anything so far, it's that the metagame can accommodate all different types of decks and builds. 
+![](https://i.ormos.uk/b7/12/b7127938584d53d894e3f32a62aa408158e3004c6c798439cc2a84d5c741a3f0.jpg)
+
+Does it get anymore rogue than this? Morgan Douglass piloted Tinker, the most dejected and discarded of potential extended archetypes, to a Top 8 finish. His first round opponent: Diego Ostrovich, whose current [Elves! deck](/en/events/2003/gpno03/deck-tech-elves) quietly slipped to some impressive finishes at PT Houston. Among the cards in their two decks are Crumbling Sanctuary; Predator, Flagship; Planar Portal; Slate of Ancestry; Skyshroud Poacher; and Fecundity. If this extended season has proven anything so far, it's that the metagame can accommodate all different types of decks and builds. 
 
 ### Game 1
 
@@ -114,7 +116,9 @@ Morgan Douglass 1 – Diego Ostrovich 0
 
 ### Game 2
 
-![](https://i.ormos.uk/39/11/3911a12ac58b9768814cf392818e51db8b86e5f937bad4fdf46fc59bf3e3bf76.jpg)Elves! decided to pump out some namesake creatures early this time, with Llanowar Elves and Rofellos jumping from hand to table on the first turns. Tinker accelerated with Ancient Tomb for a Tangle Wire, which slowed the game down to snail's pace. This game though was all green and no brown, as Diego laid land after land to power up Rofellos, and started dropping Ravenous Baloth and Call of the Herd. In addition, he found the time to preemptively nab Uktabi Orangutan from the sideboard. 
+![](https://i.ormos.uk/39/11/3911a12ac58b9768814cf392818e51db8b86e5f937bad4fdf46fc59bf3e3bf76.jpg)
+
+Elves! decided to pump out some namesake creatures early this time, with Llanowar Elves and Rofellos jumping from hand to table on the first turns. Tinker accelerated with Ancient Tomb for a Tangle Wire, which slowed the game down to snail's pace. This game though was all green and no brown, as Diego laid land after land to power up Rofellos, and started dropping Ravenous Baloth and Call of the Herd. In addition, he found the time to preemptively nab Uktabi Orangutan from the sideboard. 
 
 With his life looming precariously low, Morgan stroked himself for seven again, but this time lacked any action cards. He attempted to Tinker both Crumbling Sanctuary and Masticore onto the board, but the Orangutan monkeyed around with the damage preventer, and the horde came across through the Masticore. An additional Deranged Hermit joined the team, but Morgan couldn't find enough mana to shoot down Diego's board, succumbing to his horde.
 
@@ -122,7 +126,9 @@ Morgan Douglass 1 – Diego Ostrovich 1.
 
 ### Game 3
 
-![](https://i.ormos.uk/1a/11/1a11eab6ed0a40f6497c79e843619446d46a662ab294e5a69c4a8316d5c25bf4.jpg)Sometimes, the game just doesn't work out for either player. Morgan started out with a mulligan, only to be one-upped by Diego's double mulligan. However, Morgan stalled on two lands until turn six, while Diego went turn four Llanowar Elves, turn five Deranged Hermit, Gaea's Cradle, Masticore. Morgan failed to find the land he needed to do anything, and quickly succumbed.
+![](https://i.ormos.uk/1a/11/1a11eab6ed0a40f6497c79e843619446d46a662ab294e5a69c4a8316d5c25bf4.jpg)
+
+Sometimes, the game just doesn't work out for either player. Morgan started out with a mulligan, only to be one-upped by Diego's double mulligan. However, Morgan stalled on two lands until turn six, while Diego went turn four Llanowar Elves, turn five Deranged Hermit, Gaea's Cradle, Masticore. Morgan failed to find the land he needed to do anything, and quickly succumbed.
 
 **Final Result:** Diego Ostrovich 2 – Morgan Douglass 1
 

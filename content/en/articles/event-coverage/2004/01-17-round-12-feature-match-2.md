@@ -44,7 +44,9 @@ archive_source:
   sha256: 4bacf65f5bcb67824b34f10496b34067aa1176c91362aaf7251488d81c780148
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm24_1.jpg)It's hard not to get excited when two giants of the game sit down to battle. Harvey's resume might not be the world-shaker that Budde's is, but really, it'll be a while before anyone measures up. Even still, the soft-spoken CMU'er is universally seen as one of the game's best. The two shuffled and talked about the tournament so far.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm24_1.jpg)
+
+It's hard not to get excited when two giants of the game sit down to battle. Harvey's resume might not be the world-shaker that Budde's is, but really, it'll be a while before anyone measures up. Even still, the soft-spoken CMU'er is universally seen as one of the game's best. The two shuffled and talked about the tournament so far.
 
 "I've paris'ed maybe once yesterday, and it was the same with all my opponents. It seems like you don't have to mulligan a lot in this format, between Spellbombs and Myrs." - Kai Budde
 

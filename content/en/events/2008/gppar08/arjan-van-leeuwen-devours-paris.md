@@ -940,7 +940,9 @@ On the other hand, the quarterfinal between Menno Dolstra (NLD) and Romain Lisci
 
     *by Hanno Terbuyken*
 
-![](https://i.ormos.uk/3b/bd/3bbd1832e813da3324bd4f4fc9f30e0be53c4ec505b43593360c57626efc785d.jpg)Simon Görtzen, one of Germany's many Limited experts, is not one of the big names of international Magic. But he was the most well-known player in this top 8. His confident manner reflected his draft, which went quite well. But Niels had no slouch deck either; he had an insanely high number of removal spells, and looked secure in the knowledge that he had an even chance at least.
+![](https://i.ormos.uk/3b/bd/3bbd1832e813da3324bd4f4fc9f30e0be53c4ec505b43593360c57626efc785d.jpg)
+
+Simon Görtzen, one of Germany's many Limited experts, is not one of the big names of international Magic. But he was the most well-known player in this top 8. His confident manner reflected his draft, which went quite well. But Niels had no slouch deck either; he had an insanely high number of removal spells, and looked secure in the knowledge that he had an even chance at least.
 
 **Game 1:** 
 
@@ -985,7 +987,9 @@ Niels Noorlander 1 - 1 Simon Görtzen
 
 **Game 3:** 
 
-![](https://i.ormos.uk/40/c7/40c7dc52c75d31a7bb0377c9758d27586b365259a8024563064cf9cb44cbb2e8.jpg)More of the same, as Simon had his Tidehollow Strix destroyed by Magma Spray. But Niels was stuck on four lands and had to discard. Niels: "That sucks." Simon: "Didn't you do this in the Swiss against me - and then won?" Indeed Niels had done that, but here, he was relegated to cycle cards away to find more land.
+![](https://i.ormos.uk/40/c7/40c7dc52c75d31a7bb0377c9758d27586b365259a8024563064cf9cb44cbb2e8.jpg)
+
+More of the same, as Simon had his Tidehollow Strix destroyed by Magma Spray. But Niels was stuck on four lands and had to discard. Niels: "That sucks." Simon: "Didn't you do this in the Swiss against me - and then won?" Indeed Niels had done that, but here, he was relegated to cycle cards away to find more land.
 
 Meanwhile, Simon Görtzen had two Steelclad Serpents ready to bite the Dutchman hard. One of them had already taken Niels from 18 to 14, so now he dropped to 6. His board was Algae Gharial, and that was it. With Executioner's Capsule waiting, Simon looked to seal the deal and nail Niel's coffin shut once and for all.
 

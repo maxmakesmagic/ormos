@@ -139,7 +139,9 @@ render_recovery:
 ---
 Despite all of Linde, Huey and Parker's accomplishments, none of them have ever been Pro Tour Champions. They now have an opportunity to add that title to their individually impressive resumes, and it wasn't an easy task to get here. Last round, they went up against the seemingly invincible Phoenix Foundation, and denied the Germans a three-peat in this event.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a782.jpg)Still, they shouldn't make the mistake of overlooking their opponents. Even though this is the first breakthrough tournament for the members of Original Slackers, they're been around the Pro Tour for a while, and earned their way to finals. Last round, they beat Limited specialists Turian, Wise and Harvey, proving that they can go up against the best the Pro Tour has to offer and emerge successful. If they can pull off one more upset here, they'll be Pro Tour Champions.
+![](http://www.wizards.com/sideboard/images/ptbos03/a782.jpg)
+
+Still, they shouldn't make the mistake of overlooking their opponents. Even though this is the first breakthrough tournament for the members of Original Slackers, they're been around the Pro Tour for a while, and earned their way to finals. Last round, they beat Limited specialists Turian, Wise and Harvey, proving that they can go up against the best the Pro Tour has to offer and emerge successful. If they can pull off one more upset here, they'll be Pro Tour Champions.
 
 ### Game 1
 
@@ -149,7 +151,9 @@ Osterberg played Aurification, so Linde's big Flock became a wall on its next at
 
 The Flock attacked on the following turn, turning into a wall but bringing Osterberg to six. A third Flock followed, and brought the life total to three. Silent Specter would have finished it, but Osterberg had Echo Tracer to delay defeat for a few turns. Aven Farseer provided a blocker, and perhaps even an answer if Osterberg could unmorph three creatures. Since Silent Specter came back on the table face down, it flipped over to make the Farseer 2/2, but Linde put two Dragon Scales on it to create a dominating threat.
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a813.jpg)Once again, Osterberg was able to stay alive by unmorphing Master of the Veil to put his Echo Tracer face down, and bounced the Specter to get it out of the way. This also made his Farseer 4/4. Silent Specter came out face up, and got both Scales back from the graveyard. When it attacked, Osterberg blocked with his Farseer and unmorphed Daru Mender to regenerate it, making it grow to 5/5. This still wasn't big enough to deal with the 6/8 Specter, and had to chump block. A turn later, Osterberg was out of ways to delay it, and took lethal damage.
+![](http://www.wizards.com/sideboard/images/ptbos03/a813.jpg)
+
+Once again, Osterberg was able to stay alive by unmorphing Master of the Veil to put his Echo Tracer face down, and bounced the Specter to get it out of the way. This also made his Farseer 4/4. Silent Specter came out face up, and got both Scales back from the graveyard. When it attacked, Osterberg blocked with his Farseer and unmorphed Daru Mender to regenerate it, making it grow to 5/5. This still wasn't big enough to deal with the 6/8 Specter, and had to chump block. A turn later, Osterberg was out of ways to delay it, and took lethal damage.
 
 Osterberg- 0 Linde- 1
 
@@ -159,7 +163,9 @@ Once again, Osterberg played Aven Farseer on turn two. Linde put a morph into pl
 
 It became huge on the following turn, with Improvised Armor and Dragon Scales enchanting it. The flying monster attacked, and Osterberg used Demystify to destroy the Improvised Armor and make things a little less threatening. He finally drew an island and played it, then said go with four mana untapped. Linde sent his Flock and morph into the Red Zone, and Osterberg blocked with his morph, and sent the Farseer after the Flock. Osterberg's morph flipped over to reveal Daru Sanctifier, destroying the Dragon Scales and allowing the Farseer to become 2/2 and take down the Flock. 
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a814.jpg)Whereas before Linde seemed to have the game well within his grasp, he was running out of resources while Osterberg started to take control. Daru Stinger came out as a 4/4, and attacked on the next turn. Linde removed it with Wing Shards, as Osterberg became upset at himself, realizing he had just risked what would have been a board dominating creature, and paid for it. He played yet another morph but didn't attack, while Linde kept drawing land. Ascending Aven was flipped over, and attacked to put some pressure on Osterberg. This was followed by another morph, and Linde played one as well.
+![](http://www.wizards.com/sideboard/images/ptbos03/a814.jpg)
+
+Whereas before Linde seemed to have the game well within his grasp, he was running out of resources while Osterberg started to take control. Daru Stinger came out as a 4/4, and attacked on the next turn. Linde removed it with Wing Shards, as Osterberg became upset at himself, realizing he had just risked what would have been a board dominating creature, and paid for it. He played yet another morph but didn't attack, while Linde kept drawing land. Ascending Aven was flipped over, and attacked to put some pressure on Osterberg. This was followed by another morph, and Linde played one as well.
 
 Osterberg sent a morph and the Aven in for an attack, and Linde unmorphed Skinthinner to kill the Aven, taking two damage from the morph. Noble Templar would have given Osterberg even more control over the board, but it died to Misery Charm as soon as it attacked. Linde played another morph, and Osterberg cycled Dragon Wings on end step, then put it on Gempalm Avenger. Osterberg attacked with the 3/5 flier on his next turn, along with the morph that Linde kept letting through for damage. This time, Linde sent all his creatures to block it, and it turned out to be Daru Lancer. First strike damage took down Noxious Ghoul, and Frontline Strategist kept the Lancer around. Linde put up a fight to control the ground, but couldn't find an answer to the 3/5 flier.
 

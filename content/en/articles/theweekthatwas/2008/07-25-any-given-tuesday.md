@@ -274,4 +274,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Kenneth Nagle](https://i.ormos.uk/16/05/16053b7b64b9e7e5aa81d46a9f7443e364df99c959f8bc26ce8f2d50e0a65053.jpg "Kenneth Nagle")This article was written by Swimming with Sharks author Mike Flores!
+![Kenneth Nagle](https://i.ormos.uk/16/05/16053b7b64b9e7e5aa81d46a9f7443e364df99c959f8bc26ce8f2d50e0a65053.jpg "Kenneth Nagle")
+
+This article was written by Swimming with Sharks author Mike Flores!

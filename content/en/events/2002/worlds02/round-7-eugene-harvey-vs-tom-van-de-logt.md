@@ -739,7 +739,9 @@ Harvey 1 – van de Logt 0
 
 Van de Logt, down a game and playing first, dug himself a grave by mulliganing twice. His five-card hand was three land, a Stern Judge, and a Shelter.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a890.jpg)Eugene could not capitalize, playing a Seton's Scout as his only creature for the first six turns. Van de Logt forces were not impressive—Stern Judge, Benevolent Bodyguard, and Tireless Tribe—but they were able to attack, and Eugene found himself down to 11 life.
+![](http://www.wizards.com/sideboard/images/worlds02/a890.jpg)
+
+Eugene could not capitalize, playing a Seton's Scout as his only creature for the first six turns. Van de Logt forces were not impressive—Stern Judge, Benevolent Bodyguard, and Tireless Tribe—but they were able to attack, and Eugene found himself down to 11 life.
 
 Eugene made a few awkward plays, like casting Grip of Amnesia on his own Simplify and then a Howling Gale with no fliers in play, just to get threshold so his Scout would grow to 4/3. Harvey's attempt at Treacherous Vampire (one of two black spells in his deck) was nailed with a Rites of Refusal, but he did get a Wormfang Drake into play to stop Tom from attacking.
 

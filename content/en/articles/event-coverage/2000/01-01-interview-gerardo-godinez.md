@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/764.jpg)Gerardo Godinez from Neza, Mexico was a rather unknown name for most Magic players until he got an invitation to play in the 2000 Magic Invitational. However, he has been one of Mexico's finest players for a long time, and 2000 Pro Tour Chicago is his 15th Pro Tour. "People still don't recognize me," Godinez smiles. "They sit down and think 'oh, it's a Mexican; he must be a scrub.' But I like that. They get overconfident and I win, and they can't believe that they lost to me." 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/764.jpg)
+
+Gerardo Godinez from Neza, Mexico was a rather unknown name for most Magic players until he got an invitation to play in the 2000 Magic Invitational. However, he has been one of Mexico's finest players for a long time, and 2000 Pro Tour Chicago is his 15th Pro Tour. "People still don't recognize me," Godinez smiles. "They sit down and think 'oh, it's a Mexican; he must be a scrub.' But I like that. They get overconfident and I win, and they can't believe that they lost to me." 
 
 Godinez is far from a scrub. He started playing Magic back in 1996, when Mirage was the most current set. "My friends forced me to play," he says, explaining that the Mexican National Champion was one of the players who taught him how to play. However, Godinez enjoyed the game a lot. He liked the strategy and the competition, and he got to travel and meet people. "It makes me proud to be good at it," Gerardo says. 
 

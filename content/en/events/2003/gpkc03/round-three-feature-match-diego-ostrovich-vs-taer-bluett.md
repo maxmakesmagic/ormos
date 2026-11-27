@@ -167,7 +167,9 @@ render_recovery:
 ---
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a972.jpg)Diego decided to keep his cards right from the get go and Taer was in complete agreement.
+![](http://www.wizards.com/sideboard/images/gpkc03/a972.jpg)
+
+Diego decided to keep his cards right from the get go and Taer was in complete agreement.
 
 A turn two Leonin Skyhunter hit the table for Taer and Diego turned it around to read it. The 2/2 flyer looked good enough on his own, but the next turn a Bonesplitter hit the table and was attached to him, making him a 4/2 flyer.
 
@@ -175,7 +177,9 @@ Diego had creatures of his own for the match as well, playing first a Krark-Clan
 
 “I have you at 12,” Taer asked. After Diego confirmed that number Taer sent both the Hoverguard and the Skyhunter back into the red zone.
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a976.jpg)Diego was happy to see Taer with only one blocker, a lowly Iron Myr, as he tapped his Fangren Hunter, Duskworker and Krark-Clan Grunt and sent them into the red zone.
+![](http://www.wizards.com/sideboard/images/gpkc03/a976.jpg)
+
+Diego was happy to see Taer with only one blocker, a lowly Iron Myr, as he tapped his Fangren Hunter, Duskworker and Krark-Clan Grunt and sent them into the red zone.
 
 Unable to do anything about the flyers on Taer’s side Diego scooped up his cards and got ready for game two.
 
@@ -189,7 +193,9 @@ Taer dropped a turn two Steelshaper before Diego played a turn three Viridian Sh
 
 The tables turned the following turn though as Taer found what he was looking for, a fifth land, which he used to play Skyhunter Patrol. The Skyhunter Patrol was joined a turn later by a Leonin Skyhunter, bringing the board firmly back into Taer’s control.
 
-![](http://www.wizards.com/sideboard/images/gpkc03/a975.jpg)“I attacked with the wrong one,” Taer exclaimed as Diego sent his creatures into the red zone. His first striking Skyhunter Patrol was still tapped from a trip into the red zone and he was forced to take the four damage instead of losing his Leonine Skyhunter to an ill-advised block.
+![](http://www.wizards.com/sideboard/images/gpkc03/a975.jpg)
+
+“I attacked with the wrong one,” Taer exclaimed as Diego sent his creatures into the red zone. His first striking Skyhunter Patrol was still tapped from a trip into the red zone and he was forced to take the four damage instead of losing his Leonine Skyhunter to an ill-advised block.
 
 On his next turn Taer attacked with the right creatures, his Leonin Skyhunter and his now very large Auriok Steelshaper, equipped with Bonesplitter. Diego went down to nine life, and then to eight when Taer hit him with his Granite Shard.
 

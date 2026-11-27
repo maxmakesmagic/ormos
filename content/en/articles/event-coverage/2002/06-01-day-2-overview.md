@@ -44,7 +44,9 @@ archive_source:
   sha256: 22f31f4379ef2e641d75a80bf574f44c0ab194495fae5ae38a0373f96391e89d
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat02/920.jpg)After 12 rounds and two drafts, the Top 8 have been decided. Several of Japan's top players who looked like they would make it stumbled at the end, leaving the field open for relative unknowns. Still, the final round was not without excitement--with Katsuhiro Mori and Michihisa Onoda having identical Opponent Match Win Percentages, 8th place was decided on Player Game Win Percentage, with the nod going to Onoda by a mere 2%. When the Top 8 was announced, a crestfallen Mori walked over to Onoda and congratulated him with a handshake.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat02/920.jpg)
+
+After 12 rounds and two drafts, the Top 8 have been decided. Several of Japan's top players who looked like they would make it stumbled at the end, leaving the field open for relative unknowns. Still, the final round was not without excitement--with Katsuhiro Mori and Michihisa Onoda having identical Opponent Match Win Percentages, 8th place was decided on Player Game Win Percentage, with the nod going to Onoda by a mere 2%. When the Top 8 was announced, a crestfallen Mori walked over to Onoda and congratulated him with a handshake.
 
 The Top 8 deck breakdown more or less mirrors the overall field: 4 Psychatog decks, 2 black control decks, and 2 RB steroid decks. 
 

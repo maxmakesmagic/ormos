@@ -255,7 +255,9 @@ A few card-by-card notes:
 *   **[Defense Grid](https://web.archive.org/web/20041105000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Defense+Grid)** . [Xantid Swarm](https://web.archive.org/web/20041105000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Xantid+Swarm) seems like the counterspell hoser of choice, but I can't see how that fits into Oath. Maybe it can. But I settled for [Defense Grid](https://web.archive.org/web/20041105000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Defense+Grid). I got it out against 4cControl in one game and it was wonderful.
 *   **[Cursed Totem](https://web.archive.org/web/20041105000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cursed+Totem)** . Anti-Welder, anti-Fish. Not that great for me actually.
 
-![](http://media.wizards.com/legacy/global/images/mtgcom_daily_mr29_pic1.jpg)John Carter and Worth Wollpert were nice enough to loan me all the cards I needed (no proxies for me!). The deck looked lovely--everything was black bordered except for the Lotus, and that was signed. I was nervous carrying the darn thing around, thinking about how in the world I'd be able to afford replacements if something happened. This format takes nerves of steel!
+![](http://media.wizards.com/legacy/global/images/mtgcom_daily_mr29_pic1.jpg)
+
+John Carter and Worth Wollpert were nice enough to loan me all the cards I needed (no proxies for me!). The deck looked lovely--everything was black bordered except for the Lotus, and that was signed. I was nervous carrying the darn thing around, thinking about how in the world I'd be able to afford replacements if something happened. This format takes nerves of steel!
 
 ### Off to Play...
 

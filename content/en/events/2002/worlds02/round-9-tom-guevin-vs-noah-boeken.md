@@ -138,15 +138,21 @@ render_recovery:
   - Spiritualize
   occurrences: 112
 ---
-![](https://i.ormos.uk/d6/7d/d67d18035933dfbd4cef0577cb45ede8fb21ae8b7b00daef78ddf74ca1125c70.jpg)To the surprise of absolutely no one, there was a lot of talk during the match between Noah Boeken and Tom Guevin. Each is used to throwing an opponent off his game with a never-ending stream of meaningless chatter. Each is also having a good day so far, with wins in each of the first two rounds.
+![](https://i.ormos.uk/d6/7d/d67d18035933dfbd4cef0577cb45ede8fb21ae8b7b00daef78ddf74ca1125c70.jpg)
+
+To the surprise of absolutely no one, there was a lot of talk during the match between Noah Boeken and Tom Guevin. Each is used to throwing an opponent off his game with a never-ending stream of meaningless chatter. Each is also having a good day so far, with wins in each of the first two rounds.
 
 Boeken was the aggressor early in Game 1, playing creatures on turns 2, 3, and 4 before Guevin was able to play a single spell. Violent Eruption has a way of slowing down a weenie deck though – suddenly the only creature in play was Boeken's Teroh's Faithful. He enchanted it with Exoskeletal Armor, turning it into quite a beast, but Guevin had Second Thoughts and that threat was promptly dispatched. Guevin's removal simply never stopped. Lava Dart killed Militant Monk. Ember Shot killed Aven Cloudchaser. Morbid Hunger killed Suntail Hawk. Waste Away killed Arrogant Wurm. Anarchist brought back the Hunger and finally gave Guevin something to attack with. 
 
-![](http://www.wizards.com/sideboard/images/worlds02/a850.jpg)Guevin's deck was actually quite interesting: He ran a total of 19 lands to support all his expensive spells (and his three colors). Boeken could not keep anything alive long enough to attack with it – not even with two counters on his Soulcatcher's Aerie. Cheering himself on with "Come on, Tommy!" he took a 1-0 lead, threatening to win the table with his 19-land beauty.
+![](http://www.wizards.com/sideboard/images/worlds02/a850.jpg)
+
+Guevin's deck was actually quite interesting: He ran a total of 19 lands to support all his expensive spells (and his three colors). Boeken could not keep anything alive long enough to attack with it – not even with two counters on his Soulcatcher's Aerie. Cheering himself on with "Come on, Tommy!" he took a 1-0 lead, threatening to win the table with his 19-land beauty.
 
 Game 2 started with Guevin pile-shuffling Boeken's deck and noticing that it had 41 cards. "41 cards? Oh yeah, you're on that team that believes in that prime numbers bull. I'm surprised, Noah. I mean, if I had two Battle Screeches I'd want to draw them." The key turn in the game came when Boeken tried to enchant his Auramancer with Exoskeletal Armor. There were already two creatures in his graveyard and Guevin was sure to kill more. Guevin played a Lava Dart as a response and the sacrificed a mountain to flash it back. Boeken used Pay No Heed to stop the second point of dart damage and his Armor resoved. "Card #41," he explained, "that 41st card did it." Indeed it did – Guevin was never able to stabilize the board and theywere soon on to game 3.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a849.jpg)Boeken finally drew a Battle Screech in game 3 and his turn 3 Auramancer meant four birds came out to play on turn 4. Those birds dropped Guevin down to 9 before his deck delivered up a Mystic Familiar that could hold off future beats. That stalled long enough for Guevin to draw a second swamp for his Torturer plus Morbid Hunger. Suddenly, Guevin was in charge and starting to ham it up as only he can. His Torturer killed 7 different creatures and Guevin was able to mount an offense with a motley crew consisting of barbarian Outcast, Mystic Familiar and Shieldmage Advocate. Boeken discarded a card to Hypochondria every turn so he was just taking one, but all that did was stall the inevitable and give Guevin more chances to play to the crowd.
+![](http://www.wizards.com/sideboard/images/worlds02/a849.jpg)
+
+Boeken finally drew a Battle Screech in game 3 and his turn 3 Auramancer meant four birds came out to play on turn 4. Those birds dropped Guevin down to 9 before his deck delivered up a Mystic Familiar that could hold off future beats. That stalled long enough for Guevin to draw a second swamp for his Torturer plus Morbid Hunger. Suddenly, Guevin was in charge and starting to ham it up as only he can. His Torturer killed 7 different creatures and Guevin was able to mount an offense with a motley crew consisting of barbarian Outcast, Mystic Familiar and Shieldmage Advocate. Boeken discarded a card to Hypochondria every turn so he was just taking one, but all that did was stall the inevitable and give Guevin more chances to play to the crowd.
 
 **Final Result:** Guevin 2 - Boeken 1
 

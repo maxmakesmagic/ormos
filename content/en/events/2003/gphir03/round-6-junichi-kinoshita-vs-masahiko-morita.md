@@ -80,7 +80,9 @@ render_recovery:
   - Jackal Pup
   occurrences: 36
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a978.jpg)Junichi Kinoshita is one of Japan's rising stars, with two Grand Prix Top 8's to his name as well as a Top 2 at one of Japan's largest events, called The Finals. Today he sits opposite "Mister Second Place" himself, Masahiko Morita. He's more than just a pretty face carried to Grand Prix gold by his teammates on P.S.2. He's looking to add to his string of finals defeats and is playing an unorthodox Blue-Green Tradewind-Opposition deck. Kinoshita is with mono-red beats.
+![](http://www.wizards.com/sideboard/images/gphir03/a978.jpg)
+
+Junichi Kinoshita is one of Japan's rising stars, with two Grand Prix Top 8's to his name as well as a Top 2 at one of Japan's largest events, called The Finals. Today he sits opposite "Mister Second Place" himself, Masahiko Morita. He's more than just a pretty face carried to Grand Prix gold by his teammates on P.S.2. He's looking to add to his string of finals defeats and is playing an unorthodox Blue-Green Tradewind-Opposition deck. Kinoshita is with mono-red beats.
 
 ### Game 1
 
@@ -100,7 +102,9 @@ Morita 1 – Kinoshita 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gphir03/a977.jpg)Game 3 was not to be a repeat of Game 2. Morita had double Wall of Blossoms to start. Kinoshita got a pair of Sparksmiths on board to cut into the problem, but Morita followed up with Opposition. Kinoshita waited. Morita made a Deranged Hermit.
+![](http://www.wizards.com/sideboard/images/gphir03/a977.jpg)
+
+Game 3 was not to be a repeat of Game 2. Morita had double Wall of Blossoms to start. Kinoshita got a pair of Sparksmiths on board to cut into the problem, but Morita followed up with Opposition. Kinoshita waited. Morita made a Deranged Hermit.
 
 Kinoshita started to saw through his troops. Between his two Sparksmiths, Grim Lavamancer and Seal of Fire he was able to cut down both Walls before he untapped. Then he went to work on the Hermit and his tokens. He hit seven life before he was done with them. In the meantime he added Jackal Pup to his team. He still had enough firepower to take out the second Call token, and then a pair of Elves. A frantic Morita was left with just a lone River Boa, and then Kinoshita brought out the Goblin Piledriver. He stood at a single life. Morita drew a land. Kinoshita forced the Boa to regenerate at end of turn and swung in, taking Morita to seven in one fell swoop. He drew another land, and extended the hand in defeat.
 

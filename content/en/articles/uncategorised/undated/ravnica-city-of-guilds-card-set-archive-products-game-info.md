@@ -69,7 +69,9 @@ The foundation for exciting Sealed Deck play. Includes 45 randomly assorted card
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/16/97/169752e3cc36445ee0be6bd0de6caa90840df66d552ccbcdb9ab394968dccea6.png)This 306-card set features four of the Ravnica guilds: Boros Legion (red-white), House Dimir (black-blue), Golgari Swarm (black-green), and Selesnya Conclave (green-white).
+![](https://i.ormos.uk/16/97/169752e3cc36445ee0be6bd0de6caa90840df66d552ccbcdb9ab394968dccea6.png)
+
+This 306-card set features four of the Ravnica guilds: Boros Legion (red-white), House Dimir (black-blue), Golgari Swarm (black-green), and Selesnya Conclave (green-white).
 
 **Set Name:** *Ravnica: City of Guilds*  
 **Block:** Set 1 of 3 of the *Ravnica* Block  

@@ -990,7 +990,9 @@ Ben Stark 2 – Josh Utter-Leyton 0
 
 Willy Edel opened with a [Knight of Infamy](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+Infamy), his White-Black Exalted-like deck, hoping to get there against Pascal Maynard's White-Green assault. Edel continued with a [Attended Knight](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Attended+Knight) and kept things cruising.
 
-![](https://i.ormos.uk/4f/68/4f682cbb4746d21adfdbff9b1e57dcf6b87d2146f07a9cc17a81266fbbb1397a.jpg)Maynard Captain's Call was the first play from him, but he followed with a [Crusader of Odric](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crusader+of+Odric) and a [Warclamp Mastiff](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Warclamp+Mastiff). That seemed all right until a [Healer of the Pride](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Healer+of+the+Pride) started to get Edel's life total out of control. It was 21-13 in his favor when he swung with a double-exalted Knight thanks to another [Aven Squire](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Squire).
+![](https://i.ormos.uk/4f/68/4f682cbb4746d21adfdbff9b1e57dcf6b87d2146f07a9cc17a81266fbbb1397a.jpg)
+
+Maynard Captain's Call was the first play from him, but he followed with a [Crusader of Odric](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crusader+of+Odric) and a [Warclamp Mastiff](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Warclamp+Mastiff). That seemed all right until a [Healer of the Pride](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Healer+of+the+Pride) started to get Edel's life total out of control. It was 21-13 in his favor when he swung with a double-exalted Knight thanks to another [Aven Squire](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Squire).
 
 This continued for a few turns while Maynard tried to add enough creatures to stop Edel's madness. Around 5 life, thanks to a timely Captain's Call and [Aven Squire](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Squire), making the [Crusade](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crusade)r very big, Maynard stabilized with the totals 13-5. The only reason Edel was so low himself was because he'd taken some hits rather that lose any of his critical guys giving him the advantageous board.
 
@@ -1064,7 +1066,9 @@ Nakamura started with his Planeswalker in his opening grip. If he could get to J
 
 Another [Augur of Bolas](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Augur+of+Bolas) whiffed, and although the Japanese player was surviving he was yet to win. It was 13-18. Sacher was still putting up some decent threats and was making Nakamura work for everything. Nakamura threw one creature after the next in front of Jace, as the amount of counters grew to seven. That's ultimate amount, my friends.
 
-![](https://i.ormos.uk/d9/9e/d99eaec7e6977186725f340f2f4ffad77ec812b56d8b5fb87ff9fc5c3759aeb6.jpg)However, Nakamura was all-but out of creatures. He tapped out to make a Talrand Sky Summoner and an [Encrust](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Encrust) on the [Duskmantle Prowler](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duskmantle+Prowler). After that, he had only land in his hand.
+![](https://i.ormos.uk/d9/9e/d99eaec7e6977186725f340f2f4ffad77ec812b56d8b5fb87ff9fc5c3759aeb6.jpg)
+
+However, Nakamura was all-but out of creatures. He tapped out to make a Talrand Sky Summoner and an [Encrust](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Encrust) on the [Duskmantle Prowler](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duskmantle+Prowler). After that, he had only land in his hand.
 
 Sacher attacked with everything. The [Griffin Protector](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Griffin+Protector) jumped in the way and died for the cause. Jace sunk to 3 counters. Talrand and [Aven Squire](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Squire) continued to just chump-block. Sacher's chin rested on his first. His opponent's life total still hadn't changed. However, after a Captain's Call, Nakamura felt comfortable to take four life off Sacher. It was A.J.'s turn to start losing life, and there were 19 cards left in Sacher's library.
 
@@ -1080,7 +1084,9 @@ Shuhei Nakamura 2 – 1 A.J. Sacher
 
 "So you have the Jace I opened?" Willy Edel joked. "I told this guy \[points to me\] before the match that I would die to that card." Shuhei Nakamura had indeed received that Planeswalker, and used it to dismantle A.J. Sacher to get here. Edel was the lone representative from the southern hemisphere left in the tournament. And from the man who was considering leaving the game just a short time ago, finds himself qualified for the next Pro Tour and with some significant Pro points, with a Top 32 finish at Pro Tour Barcelona and two Top 16 Grand Prix finishes at Vancouver and Sao Paolo.
 
-![](https://i.ormos.uk/f7/d5/f7d55b2f0c80b20327f71f0b50200bc68d6830b9df030494678010c9af5aa0a2.jpg)I don't think we'll be seeing Willy Edel leaving anytime soon. Although he might be leaving soon from this specific tournament. Shuhei Nakamura's deck is fierce, real fierce.
+![](https://i.ormos.uk/f7/d5/f7d55b2f0c80b20327f71f0b50200bc68d6830b9df030494678010c9af5aa0a2.jpg)
+
+I don't think we'll be seeing Willy Edel leaving anytime soon. Although he might be leaving soon from this specific tournament. Shuhei Nakamura's deck is fierce, real fierce.
 
 ### Game 1
 
@@ -1170,7 +1176,9 @@ Ben Stark 1 – David Sharfman 2
 
 Ben Stark chimed in from the crowd to no one in particular, "We'll be going to dinner soon." I'm sure that didn't help Sharfman's confidence level. "Five minutes, tops."
 
-![](https://i.ormos.uk/d0/02/d002c6f0f864bdfc6649108c019626013b6ca3aaa9a5fca53fa8ea8329e07599.jpg)However things looked up for Sharfman early and he could do nothing but smile when Shuhei Nakamura had to mulligan to five cards. This was an early-game victory for him. He told me not to put that into the coverage. I didn't listen.
+![](https://i.ormos.uk/d0/02/d002c6f0f864bdfc6649108c019626013b6ca3aaa9a5fca53fa8ea8329e07599.jpg)
+
+However things looked up for Sharfman early and he could do nothing but smile when Shuhei Nakamura had to mulligan to five cards. This was an early-game victory for him. He told me not to put that into the coverage. I didn't listen.
 
 ### Game 1
 
@@ -1182,7 +1190,9 @@ Sharfman left everything untapped and had attacked with nothing, choosing to kee
 
 After two attacks the total went from 17-14 to 17-8. Sharfman was on back-peddling. Not out of the game by a long shot, but he couldn't hold back attackers anymore and still expect to win. Heeding my hive-mind advice, he swung in with his [Chronomaton](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chronomaton) and [Harbor Bandit](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harbor+Bandit), taking Nakamura to 12, while leaving back a 2/2 [Wind Drake](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wind+Drake).
 
-![](https://i.ormos.uk/50/19/5019a706ac0c7874e76588c69012eef0edd529e1b51adb0ef667d1ce6475452a.jpg)Nakamura attacked with one Drake (pumped by the [Aven Squire](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Squire)). Sharfman thought for a bit, then cast a Public Execution. He pointed the card at the non-attacking Drake. "This guy." The token disappeared and Shuhei passed the turn without having done any damage.
+![](https://i.ormos.uk/50/19/5019a706ac0c7874e76588c69012eef0edd529e1b51adb0ef667d1ce6475452a.jpg)
+
+Nakamura attacked with one Drake (pumped by the [Aven Squire](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Squire)). Sharfman thought for a bit, then cast a Public Execution. He pointed the card at the non-attacking Drake. "This guy." The token disappeared and Shuhei passed the turn without having done any damage.
 
 Most people observing at this point posed the question why Shuhei didn't use his [Redirect](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Redirect) on the Public Execution. It was a stumper for everyone except for Shuhei. The wording on [Public Execution](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Public+Execution) reads "Destroy target creature an opponent controls", so casting [Redirect](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Redirect) would do little good. It was amazing that Nakamura knew that well enough to not even give a second thought, as most other people in the room where confused by that play.
 
@@ -1192,7 +1202,9 @@ Nakamura had his [Talrand, Sky Summoner](https://web.archive.org/web/20211204144
 
 He made three Soldier tokens and dropped Sharfman to 5 with a 3/3 Drake attack. Sharfman drew two cards from [Divination](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divination) and retreated into his brain. He had four mana left open. He used two of it to make [Harbor Bandit](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harbor+Bandit) unblockable at take Nakamura to 4. \[4-5\]. He had a [Negate](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Negate) in his hand, awaiting a juicy target.
 
-![](https://i.ormos.uk/95/d8/95d89ce5511209255219e9405da2c6213afa0f9012d69ddf82a3177e0bb66c8f.jpg)A Drake crack-back made it 4-2. Nakamura cast Talrand. He had a [Watercourser](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Watercourser), [Aven Squire](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Squire), three tokens and a the legend to block. Sharfman had a [Harbor Bandit](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harbor+Bandit) that could go past all of them. He tapped two, made it unblockable and took Nakamura to one.
+![](https://i.ormos.uk/95/d8/95d89ce5511209255219e9405da2c6213afa0f9012d69ddf82a3177e0bb66c8f.jpg)
+
+A Drake crack-back made it 4-2. Nakamura cast Talrand. He had a [Watercourser](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Watercourser), [Aven Squire](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Squire), three tokens and a the legend to block. Sharfman had a [Harbor Bandit](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harbor+Bandit) that could go past all of them. He tapped two, made it unblockable and took Nakamura to one.
 
 Sharfman went for the win. He used his remaining mana on an [Essence Drain](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Essence+Drain) leaving nothing open for the [Negate](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Negate). Against mere mortals, this would have been more than enough for the win, but Nakamura had the craziest trump sitting in his hand. Remember it? It was [Redirect](https://web.archive.org/web/20211204144005/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Redirect).
 

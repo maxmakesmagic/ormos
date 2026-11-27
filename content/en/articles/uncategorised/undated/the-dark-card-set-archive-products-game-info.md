@@ -48,7 +48,9 @@ Each booster pack in *The Dark* set includes eight cards.
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/d4/db/d4db08f990eb2430a37d6bda529259f6c5d1d91c7c88af4110ed24bcd2052b17.png)This 119-card set, the fourth Magic expansion, features many cards that pair tempting Magic abilities with damaging penalties.
+![](https://i.ormos.uk/d4/db/d4db08f990eb2430a37d6bda529259f6c5d1d91c7c88af4110ed24bcd2052b17.png)
+
+This 119-card set, the fourth Magic expansion, features many cards that pair tempting Magic abilities with damaging penalties.
 
 **Set Name:** The Dark  
 **Number of Cards:** 119

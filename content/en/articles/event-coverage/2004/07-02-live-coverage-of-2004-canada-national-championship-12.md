@@ -44,7 +44,9 @@ archive_source:
   sha256: 1cc125ef40d816d82fa34f163dda2f97716e459df94c12ec27270d236d73fc54
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm1_1.jpg)Louie Boileau was playing [Tooth and Nail](https://web.archive.org/web/20040702000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail). The Montreal player made a name for himself with Top 8 appearances in Grand Prix Detroit and Montreal as well as a Top 16 finish at Pro Tour Nice. Murray "The Mauler" Evans burst onto the Canadian Magic scene when he finished second at 2001 Nationals. He appeared on the Pro Tour six times before a Top 64 at Amsterdam, which was followed by a disappointing San Diego. Murray was splaying Affinity and both players were 2-0.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm1_1.jpg)
+
+Louie Boileau was playing [Tooth and Nail](https://web.archive.org/web/20040702000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail). The Montreal player made a name for himself with Top 8 appearances in Grand Prix Detroit and Montreal as well as a Top 16 finish at Pro Tour Nice. Murray "The Mauler" Evans burst onto the Canadian Magic scene when he finished second at 2001 Nationals. He appeared on the Pro Tour six times before a Top 64 at Amsterdam, which was followed by a disappointing San Diego. Murray was splaying Affinity and both players were 2-0.
 
 ### Game 1
 

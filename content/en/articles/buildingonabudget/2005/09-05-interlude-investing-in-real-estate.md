@@ -135,7 +135,9 @@ These tournaments took place in an environment with access to [Wayfarer's Bauble
 
 I would bet a sizeable amount of money that next year's Nationals will be filled with multicolor decks, even if *Ravnica* and its fabled multicolor themes never arrives. Why? For one simple reason: *9th Edition's* painlands make them possible. 
 
-![](https://i.ormos.uk/0c/3f/0c3f99eb08732f0e29cf4e06dc5cd1bd30f929b721e1f6ba295b7d06230cc5b0.jpg)Of course it's not a fair bet, since *Ravnica* will be arriving, along with another set of [great multi-lands](https://web.archive.org/web/20050905000000/https://magic.wizards.com/en/articles/archive/special-ravnica-preview-2005-08-18). Standard is about to be flooded with deck possibilities that are unheard of prior to *9th Edition's* release. 
+![](https://i.ormos.uk/0c/3f/0c3f99eb08732f0e29cf4e06dc5cd1bd30f929b721e1f6ba295b7d06230cc5b0.jpg)
+
+Of course it's not a fair bet, since *Ravnica* will be arriving, along with another set of [great multi-lands](https://web.archive.org/web/20050905000000/https://magic.wizards.com/en/articles/archive/special-ravnica-preview-2005-08-18). Standard is about to be flooded with deck possibilities that are unheard of prior to *9th Edition's* release. 
 
 “Wait a minute,” you're probably thinking. “I'm a casual gamer, man. I don't need my deck to survive through ten rounds of Swiss pairings. I don't care about being a State Champion. I'm perfectly happy with [Coastal Tower](https://web.archive.org/web/20050905000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coastal+Tower) over [Adarkar Wastes](https://web.archive.org/web/20050905000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Adarkar+Wastes). My Black/White deck is fine with basic land. Take your painland fascism and stuff it. You must not be talking to me.”
 

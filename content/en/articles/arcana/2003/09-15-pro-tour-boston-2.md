@@ -53,7 +53,9 @@ archive_source:
   sha256: 23266cc3736e34d7b608dc919defd71f7e1b59cf2b386d1b45cfe176d76fa104
 render_recovery: []
 ---
-![](https://i.ormos.uk/e3/39/e339fb89396572bea3e41de439619312f386254c64594987d28694b49e8a3b34.jpg)The Brockafellars are the 2003 Pro Tour - Boston champions! Armed only with their inborn talents and vast experience in Limited they edged out the Sealed deck portion with a 4-2 perfomance. Round seven was their first-ever *Onslaught* Block Team Rochester. When you're William Jensen, Brock Parker and Matt Linde, though, you can get away with forgoing practice drafts.
+![](https://i.ormos.uk/e3/39/e339fb89396572bea3e41de439619312f386254c64594987d28694b49e8a3b34.jpg)
+
+The Brockafellars are the 2003 Pro Tour - Boston champions! Armed only with their inborn talents and vast experience in Limited they edged out the Sealed deck portion with a 4-2 perfomance. Round seven was their first-ever *Onslaught* Block Team Rochester. When you're William Jensen, Brock Parker and Matt Linde, though, you can get away with forgoing practice drafts.
 
 In the first round they faced the titans: Phoenix Foundation. Jensen isn't the sort to be bowled over by hype, and his team went into the draft like it was business as usual. Never mind that the Foundation only has one lifetime sanctioned Team Limited loss. Never mind that they've won the last two Team Pro Tours. Never mind that they 9-0'd to secure their Top 4. When Linde won the second match for the Brockafellars, the stunned crowd didn't know how to react. What do you mean, Phoenix Foundation lost?
 

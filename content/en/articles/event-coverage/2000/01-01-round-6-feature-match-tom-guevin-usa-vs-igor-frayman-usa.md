@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/913.jpg)The round actually started with Tom Guevin playing Sigurd Eskeland. However, after a mix-up with the pairings, Frayman subbed in for a very frustrated Eskeland. Frayman brought along his Green/White deck with Blastoderm, Armageddon and Parallax Wave. Frayman is a Pro Tour regular and has a number of Top 16s under his belt. He wasn't too happy with his deck to start with and Guevin didn't help his confidence when he said, "I hope you're playing green because I eat Forests for lunch." 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/913.jpg)
+
+The round actually started with Tom Guevin playing Sigurd Eskeland. However, after a mix-up with the pairings, Frayman subbed in for a very frustrated Eskeland. Frayman brought along his Green/White deck with Blastoderm, Armageddon and Parallax Wave. Frayman is a Pro Tour regular and has a number of Top 16s under his belt. He wasn't too happy with his deck to start with and Guevin didn't help his confidence when he said, "I hope you're playing green because I eat Forests for lunch." 
 
 Famous "Tight Tommy" Guevin, 1996 PT LA second place finisher and internet personality, was ecstatic about the match. "I love this format and I love this deck!" shouted Guevin to his crowd of fans. Guevin was playing a Blue/White control deck with Blinding Angel for the kill. 
 

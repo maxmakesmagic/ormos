@@ -44,7 +44,9 @@ archive_source:
   sha256: 6770acaab6782a312a619986e52993ad1bb2f172bc2e7ed20d36129132d3326d
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a960.jpg)To the recollection of both players, Kastle and Vienneau have only played each other just *once*. That once was a whopping seven years ago during the Swiss rounds of Pro Tour Atlanta, where Kastle was the only person to defeat Vienneau during the Swiss rounds. Part of that was because Vienneau made mistakes a-plenty, probably giving Kastle the impression that Vienneau was a horrible player. The fact that both Kastle and Vienneau made the Top 8 playoffs of that Pro Tour has done nothing to change Kastle’s opinion, and Kastle still maintains that viewpoint even today.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a960.jpg)
+
+To the recollection of both players, Kastle and Vienneau have only played each other just *once*. That once was a whopping seven years ago during the Swiss rounds of Pro Tour Atlanta, where Kastle was the only person to defeat Vienneau during the Swiss rounds. Part of that was because Vienneau made mistakes a-plenty, probably giving Kastle the impression that Vienneau was a horrible player. The fact that both Kastle and Vienneau made the Top 8 playoffs of that Pro Tour has done nothing to change Kastle’s opinion, and Kastle still maintains that viewpoint even today.
 
 Ever the fun-loving guy, Vienneau demonstrated his own, unique way of determining who plays or draws first. Revealing a set of six dice- three with positive values, three with negative ones. Rolling all six granted Vienneau the choice to play or draw.
 
@@ -60,7 +62,9 @@ The opening looked like a battle of monoblack against monored. Vienneau on the d
 
 *“Whew.”* – Matt Vienneau
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a961.jpg)Goblin Clearcutter entered play on Kastle’s side, while Vienneau cycled a Krosan Tusker to fetch himself a fifth land. When Vienneau made an attempt at a second Beast, a Prowling Pangolin, Kastle Shocked the Wirewood Savage in response, denying Vienneau the draw, then lapsed deep into thought, debating what to do with the Pangolin. In the end, he decided to lose both his creatures to kill the 6/5 off.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a961.jpg)
+
+Goblin Clearcutter entered play on Kastle’s side, while Vienneau cycled a Krosan Tusker to fetch himself a fifth land. When Vienneau made an attempt at a second Beast, a Prowling Pangolin, Kastle Shocked the Wirewood Savage in response, denying Vienneau the draw, then lapsed deep into thought, debating what to do with the Pangolin. In the end, he decided to lose both his creatures to kill the 6/5 off.
 
 Gustcloak Harrier put a clock back in the board, but was outclassed by a Timberwatch Elf-backed morph from Vienneau. Kastle tried to remain on equal terms with his own morph, but his land-locked position didn’t help out much. When Vienneau attacked and his morph went unblocked, he flipped it over to reveal Haunted Cadaver, ripping three spells out of Kastle’s hand. Vienneau then made a replacement morph. Surprisingly, Vienneau refused to attack, possibly signaling a Spitting Gourna as his morph. Kastle didn’t call the bluff and held back, instead opting to add a Battlefield Medic to his side of the board, which was dealt in timely fashion by a Crown of Suspicion. Then, Vienneau revealed his morph- not Spitting Gourna, but Venomspout Brackus. When Vienneau played a Smokespew Invoker with many, many lands in play, Kastle was forced to off it with a Pinpoint Avalanche. Vienneau simply shrugged it off with an Aphetto Dredging for three of his beasts.
 
@@ -81,7 +85,9 @@ Both players opened up with turn-two plays- Kastle with Battlefield Medic, Vienn
 
 Despite the fact that Kastle didn’t like this “go ahead stuff”, he too, resigned himself to those same two words. The board was locked. Neither player wanted to make a move for fear of what the other held in store. This style of “draw-go” went on for another few more turns, until Vienneau hit seven lands. Unfortunately for Kastle, Vienneau’s deck is a *little* bit more adept at using many lands, and Vienneau’s addition of Krosan Tusker demonstrated that painful fact. An Akroma’s Devoted from Kastle paled in comparison.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a962.jpg)The Tusker entered the red zone. Vienneau still had five cards in hand and had seven mana available to him. Muttering the words, “This could get *real* ugly,” Kastle gave in, and triple blocked the incoming Tusker with his Blade Sliver, his Akroma’s Devoted, and his face-down creature. Sure enough, Vienneau was not without tricks. Cruel Revival removed the Blade Sliver before combat damage, and all six points of Tusker power went into the Akroma’s Devoted, to stop the Battlefield Medic from saving it. Kastle then added a Gustcloak Harrier to his side of the board. The Tusker attacked again.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a962.jpg)
+
+The Tusker entered the red zone. Vienneau still had five cards in hand and had seven mana available to him. Muttering the words, “This could get *real* ugly,” Kastle gave in, and triple blocked the incoming Tusker with his Blade Sliver, his Akroma’s Devoted, and his face-down creature. Sure enough, Vienneau was not without tricks. Cruel Revival removed the Blade Sliver before combat damage, and all six points of Tusker power went into the Akroma’s Devoted, to stop the Battlefield Medic from saving it. Kastle then added a Gustcloak Harrier to his side of the board. The Tusker attacked again.
 
 “Triple block *again*,” came the announcement, bringing out some signs of surprise out of Vienneau. Run Wild saved the Tusker, and then Smokespew Invoker came into play on Vienneau’s side.
 

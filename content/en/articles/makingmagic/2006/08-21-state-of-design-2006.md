@@ -129,7 +129,9 @@ Just because we had success with *Ravnica* block doesn't mean that the goals are
 
 ![Sacred_Foundry](http://www.wizards.com/magic/images/cardart/RAV/Sacred_Foundry.jpg%0A%09%09%09)
 
-![Sacred_Foundry](https://i.ormos.uk/d2/65/d265b6af1ab04458f01781f0348f02bace70cee99b43e555990bfe697e382eb7.jpg)**Design Between Blocks** – This is an ongoing goal with has two distinct parts. First, I am trying to find new ways to flavor and theme blocks that allow some subtlety in deck design. The “play a lot of X” model (where X was the aspect being focused on, be it multicolored, tribal, artifacts, etc.) made sense as we were finding our feet with the idea of themes, but as design has matured, I think we need to find more layered themes that create environments that are more open to creative deckbuilding.
+![Sacred_Foundry](https://i.ormos.uk/d2/65/d265b6af1ab04458f01781f0348f02bace70cee99b43e555990bfe697e382eb7.jpg)
+
+**Design Between Blocks** – This is an ongoing goal with has two distinct parts. First, I am trying to find new ways to flavor and theme blocks that allow some subtlety in deck design. The “play a lot of X” model (where X was the aspect being focused on, be it multicolored, tribal, artifacts, etc.) made sense as we were finding our feet with the idea of themes, but as design has matured, I think we need to find more layered themes that create environments that are more open to creative deckbuilding.
 
 Second, we need to be careful when picking our themes such that we can juxtapose them to allow interesting synergies between blocks rather than just within them. Once *Time Spiral* is out, I hope you will see that the *Ravnica* and *Time Spiral* blocks were very aware of what the other one was up to, and not in a super-obvious-slap-the-players-across-the-face kind of way.
 

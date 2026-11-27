@@ -44,7 +44,9 @@ archive_source:
   sha256: 18c5805cc474b695402ccdaf30402a8e4d6e8b27373a775b871e239c9f637414
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm4ja_1.jpg)Each of these two competitors have had tremendous success in Grand Prix competition. Ben Stark has gone on 8-0 runs in his last two events and made the Top 8 of each. Osamu has made the Top 8 of almost every Grand Prix he has played in. He only failed to make the Top 8 of Shizuoka when he chose to concede Ken'ichi Fujita and Koichiro Maki so they could make the Top 8 and qualify for this event.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm4ja_1.jpg)
+
+Each of these two competitors have had tremendous success in Grand Prix competition. Ben Stark has gone on 8-0 runs in his last two events and made the Top 8 of each. Osamu has made the Top 8 of almost every Grand Prix he has played in. He only failed to make the Top 8 of Shizuoka when he chose to concede Ken'ichi Fujita and Koichiro Maki so they could make the Top 8 and qualify for this event.
 
 Neither of them has played in the Top 8 of the Pro Tour and at identical 5-1 records thjey were each in good shape to make a run at it this weekend. They were each relying on busty rares-Bosh for Osamu and [Broodstar](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Broodstar) for Stark-to carry them through the draft.
 

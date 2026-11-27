@@ -54,13 +54,17 @@ render_recovery: []
 ---
 *Josh Bennett*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/974.jpg)Tobey Tamber decried his team's having to play this round. Alligator are just two Pro Tour points short of having a bye. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/974.jpg)
+
+Tobey Tamber decried his team's having to play this round. Alligator are just two Pro Tour points short of having a bye. 
 
 Tamber was under the gun early against Tseyu Ho, as Ho dropped a Hooded Kavu, and enchanted it with Sinister Strength. Tamber used Chromatic Sphere, and found himself a third land. Fortune was with him, though, and a fourth land was waiting at the top of his deck for a kicked Orim's Thunder.
 
 Just as that tide was turning, down at the A seat, Jim Len was dropping furious beats on Juan-Ping Seng. Seng was holding a fistful of blue cards, and drew his island only after it was too late. An Aether Mutation from Len convinced him to scoop.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/973.jpg)Meanwhile, Tamber had taken control of his situation, showing Ho just how bad two Charging Trolls can be. A kicked Explosive Growth ended things.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/973.jpg)
+
+Meanwhile, Tamber had taken control of his situation, showing Ho just how bad two Charging Trolls can be. A kicked Explosive Growth ended things.
 
 With their team up two games, Robin Ki of Alligator was struggling against Yi-Hua Weng. He had a Plague Spitter to stop a very nasty Crimson Acolyte, but it soon had him at four life, with Weng's Angelfire Crusader meaning he had to leave back a blocker. Neither player drew a non-land card four three turns, and Ki was getting frantic. Suddenly, a Plague Spores off the top, and the game was his.
 
@@ -68,7 +72,9 @@ It wasn't all wine and roses for Alligator, however. Len's second game against S
 
 There was no stopping Tamber. He stalled the board in his second game with Squee's Embrace on a Charging Troll. Ho had already kicked up a Duskwalker and Pouncing Kavu, and added Tek to his side of the board. Tamber dropped the bomb: Breath of Darigaaz. Now the only creature on the table was his 5/5. Ho packed it up.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/972.jpg)The third game between Len and Seng was down to the wire. Seng had slowed his offence with Mourning, and started to race in the air with Rainbow Crow and a kicked Squadron. Len was forced to match his pace, helped out with an Aether Mutation. Seng supply of creatures was steady, however, and an eleventh-hour all-out attack by Len proved ineffectual. Each team had a match in their pocket.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/972.jpg)
+
+The third game between Len and Seng was down to the wire. Seng had slowed his offence with Mourning, and started to race in the air with Rainbow Crow and a kicked Squadron. Len was forced to match his pace, helped out with an Aether Mutation. Seng supply of creatures was steady, however, and an eleventh-hour all-out attack by Len proved ineffectual. Each team had a match in their pocket.
 
 Ki was behind in the second game of his match, and Power Armor from Weng wasn't helping matters. He staved off death as long as he could, but eventually succumbed.
 
@@ -76,7 +82,9 @@ So it was to be their third game that decided matters. Weng blazed off the start
 
 Ki dropped Trench Wurm, stopping some of his opponent's forces. The Knight hit again, and Weng dropped Angelfire Crusader. Ki had no option but to Probe with Kicker. Weng tapped his blocker and sent for seven, knocking Ki to seven himself.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/971.jpg)Time was running out on the round, just two minutes of play left as Ki began his turn. He tapped out for Razorfin Hunter and Volcano Imp, passing things back to Weng. Weng drew, and thought, holding Gerrard's Command. Time was called, and he sent his whole crew into the Red Zone. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/971.jpg)
+
+Time was running out on the round, just two minutes of play left as Ki began his turn. He tapped out for Razorfin Hunter and Volcano Imp, passing things back to Weng. Weng drew, and thought, holding Gerrard's Command. Time was called, and he sent his whole crew into the Red Zone. 
 
 Ki threw his Hunter in front of the Crusader, and took down the Acolyte and tapper with his other creatures. The unblocked Knight got a Command, and Ki fell to two.
 

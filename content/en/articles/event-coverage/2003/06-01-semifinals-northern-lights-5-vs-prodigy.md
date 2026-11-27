@@ -46,7 +46,9 @@ render_recovery: []
 ---
 Mike Long and his Northern Lights #5 crew are used to the spotlight. Long has played in an uncountable number of high-pressure matches. Justin Schneider was a junior PT champion years ago, and hasn't lost his edge since. Only Mike Krzywicki may not be a familiar face, but with the other two flanking him, he's been a pillar all weekend.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a965.jpg)Across from them in the semifinals are three guys from Florida that go by "Prodigy": Charles Gindy, Jamie Duguid, and Manny Orellana. Did they expect to be here? Let's just say they were rearranging their flight plans between rounds today.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a965.jpg)
+
+Across from them in the semifinals are three guys from Florida that go by "Prodigy": Charles Gindy, Jamie Duguid, and Manny Orellana. Did they expect to be here? Let's just say they were rearranging their flight plans between rounds today.
 
 The veteran Lights were friendly to the upstarts to start the match, joking about age and the love of basketball. But when the matches began, the lightheartedness was put away, and all the game faces were on.
 
@@ -79,7 +81,9 @@ Had Orellana realized Long's [Carrion Feeder](https://web.archive.org/web/200306
 "I'm the worst," said the Floridian to he friends in the crowd.  
  "Yep, it gets pretty good up here at the pro level," Long chided. "You ARE a pro now," he added, hinting at the handful of PT points each player gets for making the top 4.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a940.jpg)During all this ruckus, Krzywicki managed to steal Game 1 from Gindy when Gindy blinked first on a board full of creatures. It really looked like Gindy had the upper hand the whole way, including a face-down [Chromeshell Crab](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chromeshell+Crab). But he made a bad attack that Krzywicki had an answer to, allowing Krzywicki to strike back for the kill.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a940.jpg)
+
+During all this ruckus, Krzywicki managed to steal Game 1 from Gindy when Gindy blinked first on a board full of creatures. It really looked like Gindy had the upper hand the whole way, including a face-down [Chromeshell Crab](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chromeshell+Crab). But he made a bad attack that Krzywicki had an answer to, allowing Krzywicki to strike back for the kill.
 
 Schneider fell in Game 3 when Duguid ripped [Aphetto Dredging](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Dredging) off the top and used it to get back his [Gempalm Strider](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gempalm+Strider). With the number of Elves he had in play, Schneider had no good blocks and took an exactly lethal 14 damage in an all-out assault.
 

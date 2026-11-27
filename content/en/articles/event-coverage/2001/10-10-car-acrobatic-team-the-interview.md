@@ -58,7 +58,9 @@ Now for a look into the minds of the most successful team on the Pro Tour today,
 
 **Andy Johnson:** It's a reference to the bad guys in Speed Racer. Aaron thought it up, and it was better than Cuneo's vote for Myth Science Arkestra.
 
-![](http://www.wizards.com/sideboard/images/PTNY01/805.jpg)**Aaron Forsythe:** I wanted a team name that was a pop culture reference with the word "team" in it. Other than "The A-Team" this was all I could think of. The C.A.T. are the villains from old Speed Racer cartoons. I never really thought we'd need the name this long - I made it up for a PTQ last year.
+![](http://www.wizards.com/sideboard/images/PTNY01/805.jpg)
+
+**Aaron Forsythe:** I wanted a team name that was a pop culture reference with the word "team" in it. Other than "The A-Team" this was all I could think of. The C.A.T. are the villains from old Speed Racer cartoons. I never really thought we'd need the name this long - I made it up for a PTQ last year.
 
 **SB:** Funny, the A-Team seems rather appropriate, considering all of your names start with 'A'. Considering how well you did the year before, how much did you practice for this year's Team NY?
 

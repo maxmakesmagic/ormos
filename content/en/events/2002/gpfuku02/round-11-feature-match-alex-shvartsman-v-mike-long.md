@@ -86,7 +86,9 @@ render_recovery:
 ---
 The only two Americans in the tournament, and they find themselves paired against one another. Fortunately, it has less to do with conspiracy and more with their respective strong performances. Both need at least a win and two draws, so the loser will need to win out to make Top 8. It's looking good for Shvartsman, since Long was complaining that his draft was a disaster, and that he would need a lot of manascrews in order to win.
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/917.jpg)Shvartsman won the die roll and chose to kick off, seeing a hand of five lands, an Egg, and Repel. He kept. Long started the beats with Barbarian Outcast and Cabal Torturer. Shvartsman hid behind a Mystic Zealot. Reckless Charge let the Outcast come through for five, and then five more on the following turn. Shvartsman had made a Soul Scourge in the meantime.
+![](http://www.wizards.com/sideboard/images/gpfuku02/917.jpg)
+
+Shvartsman won the die roll and chose to kick off, seeing a hand of five lands, an Egg, and Repel. He kept. Long started the beats with Barbarian Outcast and Cabal Torturer. Shvartsman hid behind a Mystic Zealot. Reckless Charge let the Outcast come through for five, and then five more on the following turn. Shvartsman had made a Soul Scourge in the meantime.
 
 Long was relentless. While Shvartsman came overhead for three, he swung into the Zealot with his Outcast, saving with the Torturer and finishing the job with Firebolt. Shvartsman Repelled. He desperately needed that blocker. Long attacked again, and Shvartsman let it through. Long reused his Firebolt on the Scourge.
 
@@ -99,7 +101,9 @@ Long did find a Dirty Wererat. He took out Shvartsman's Torturer with a Barbaria
 
 That was when Shvartsman topdecked Whispering Shade. For a moment it looked like the end, but Long was ready with Patriarch's Desire. He also dropped Braids. Shvartsman had no play. He was at six. Long thought about going for an all-out attack, but held back. That let Shvartsman draw into his Deep Analysis, which served up a very timely Embolden.
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/918.jpg)Long decided it was time. He sacrificed Braids (needing all of his mana for his plan) and attacked all out. The Wererat got through, and Long hit threshold. Shvartsman showed him Embolden. Long frowned. His Scorching Missile only reduced him to one.
+![](http://www.wizards.com/sideboard/images/gpfuku02/918.jpg)
+
+Long decided it was time. He sacrificed Braids (needing all of his mana for his plan) and attacked all out. The Wererat got through, and Long hit threshold. Shvartsman showed him Embolden. Long frowned. His Scorching Missile only reduced him to one.
 
 Now Shvartsman extended his defences with a Pilgrim of Justice. He swung with the Zealot and spent his Embolden stopping the Wererat's damage. Long aimed Volley of Boulders at his head, and Shvartsman sacrificed his Pilgrim to save. He attacked again. If long found a land, he could flash his Missile back for the win. He did not.
 

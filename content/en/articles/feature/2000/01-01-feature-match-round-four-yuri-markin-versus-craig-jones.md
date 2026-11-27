@@ -63,7 +63,9 @@ You will already have seen how Yuri and his W-U-R deck made it through. Craig is
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/967.jpg)Craig had to mulligan an opening hand containing [Battlefield Forge](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Forge) as it's only land. Yuri's decision was a little more difficult as he had two lands and was going second, but he chose to mulligan as well as he had no white mana for the two [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight)s in his hand. His six cards didn't contain any land at all, so he probably regretted the choice. Eventually he kept a five card hand that was very similar to his opening draw, but with one less land.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/967.jpg)
+
+Craig had to mulligan an opening hand containing [Battlefield Forge](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlefield+Forge) as it's only land. Yuri's decision was a little more difficult as he had two lands and was going second, but he chose to mulligan as well as he had no white mana for the two [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight)s in his hand. His six cards didn't contain any land at all, so he probably regretted the choice. Eventually he kept a five card hand that was very similar to his opening draw, but with one less land.
 
 Yuri missed a land drop on his second turn, but Craig only had [Repulse](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repulse)s and Ices, so he couldn't really take advantage. He [Absorb](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Absorb)ed Yuri's attempt to play a [Galina's Knight](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Galina%27s+Knight), but a second one resolved.
 
@@ -83,7 +85,9 @@ The Mage prevented Jones from summoning his [Lightning Angel](https://web.archiv
 
 Craig Jones 1 - Yuri Markin 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/968.jpg)I was slightly surprised that Craig didn't bring some countermagic back in, particularly the [Evasive Action](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Evasive+Action) as they seem quite good when you are going first.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/968.jpg)
+
+I was slightly surprised that Craig didn't bring some countermagic back in, particularly the [Evasive Action](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Evasive+Action) as they seem quite good when you are going first.
 
 For the third time this match, Craig's opening hand was rather dubious, but he kept this one, and it worked out for him as he drew the Mountain he needed to get all three colours of mana.
 

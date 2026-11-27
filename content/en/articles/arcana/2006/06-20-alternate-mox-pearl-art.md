@@ -72,7 +72,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/04/8c/048c0f8350d12b886f067360b56e1c866e7d55686f67902456d75c5bc10d61fa.jpg)Back in 1993, it may not have been clear to folks not named “Richard Garfield” that a zero-mana mana-producing artifact was slightly better than “just a basic Plains.” But these days, Vintage players definitely know the power of their moxen.
+![](https://i.ormos.uk/04/8c/048c0f8350d12b886f067360b56e1c866e7d55686f67902456d75c5bc10d61fa.jpg)
+
+Back in 1993, it may not have been clear to folks not named “Richard Garfield” that a zero-mana mana-producing artifact was slightly better than “just a basic Plains.” But these days, Vintage players definitely know the power of their moxen.
 
 So when the winner of the [2006 Vintage Championship](/en/events/2006/vintage06/2006-vintage-championship-fact-sheet) walks up on stage to claim his or her specially-commissioned alternate art for Mox Pearl this August, he or she will deserve every moxy inch. Here's a photo of this special prize, with a **Magic** card shown for scale.
 

@@ -433,7 +433,9 @@ Hamamoto took out his package of creature cards to bring in Pyrostatic Pillars, 
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/cc/aa/ccaa548e6f2673bb49e0a6b814f98e8cf2b60d7f47250d670eba4a893b1af0ad.jpg)We have been paying a lot of attention to the Scepter Zoo deck played by Kenji Hamamoto but it is former Player of the Year Tomoharu Saito who sits atop the standings with his take on Zoo going into the last round of the tournament. His version – dubbed Knight Zoo in the coverage – replaces Wooly Thoctar with Knight of the Reliquary, maindecks Ethersworn Canonist, and can attack with some of its lands as well as having some interesting cards in the sideboard for various matchups. 
+![](https://i.ormos.uk/cc/aa/ccaa548e6f2673bb49e0a6b814f98e8cf2b60d7f47250d670eba4a893b1af0ad.jpg)
+
+We have been paying a lot of attention to the Scepter Zoo deck played by Kenji Hamamoto but it is former Player of the Year Tomoharu Saito who sits atop the standings with his take on Zoo going into the last round of the tournament. His version – dubbed Knight Zoo in the coverage – replaces Wooly Thoctar with Knight of the Reliquary, maindecks Ethersworn Canonist, and can attack with some of its lands as well as having some interesting cards in the sideboard for various matchups. 
 
 Knight Zoo Tomoharu Saito – Top 8 
 

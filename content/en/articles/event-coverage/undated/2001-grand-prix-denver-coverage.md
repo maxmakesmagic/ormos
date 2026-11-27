@@ -42,7 +42,9 @@ render_recovery:
 
 ![](https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif)
 
-![Brett Shears](https://i.ormos.uk/6d/17/6d17d289448e8cdd14c01a9932b8e71cbdb1e7586b6992db1fa9d54c9f7b642d.jpg)17 year old Brett Shears took a 24-hour bus ride from Los Angeles to attend his first constructed tournament in over two years. His friends and the prize money got him interested in playing Magic again and his buddy handed him a blue-black-green neo-Kowal deck. One weekend later Shears is a Grand Prix Champion and one his way back to the Pro Tour. He took out Your Move Games's rising star Danny Mandel in a hard fought championship match.
+![Brett Shears](https://i.ormos.uk/6d/17/6d17d289448e8cdd14c01a9932b8e71cbdb1e7586b6992db1fa9d54c9f7b642d.jpg)
+
+17 year old Brett Shears took a 24-hour bus ride from Los Angeles to attend his first constructed tournament in over two years. His friends and the prize money got him interested in playing Magic again and his buddy handed him a blue-black-green neo-Kowal deck. One weekend later Shears is a Grand Prix Champion and one his way back to the Pro Tour. He took out Your Move Games's rising star Danny Mandel in a hard fought championship match.
 
 ## top 8 bracket
 

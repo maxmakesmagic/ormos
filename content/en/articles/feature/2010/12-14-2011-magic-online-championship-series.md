@@ -77,7 +77,9 @@ render_recovery:
   - Vincent.Price@wizards.com
   occurrences: 1
 ---
-![](https://i.ormos.uk/f3/22/f322b3dd8d47dee3a5e29a6360c069251a5c1a9a84d0d52f5f14d3f7acddc5a1.jpg)Test your skills against today's best **Magic** players and see if you can earn one of 12 invitations to participate in the 2011 **Magic Online** Championship held November 17-20 on location in San Francisco, CA! Please read the full rules below for more information about the **Magic Online** Championship Series (MOCS). 
+![](https://i.ormos.uk/f3/22/f322b3dd8d47dee3a5e29a6360c069251a5c1a9a84d0d52f5f14d3f7acddc5a1.jpg)
+
+Test your skills against today's best **Magic** players and see if you can earn one of 12 invitations to participate in the 2011 **Magic Online** Championship held November 17-20 on location in San Francisco, CA! Please read the full rules below for more information about the **Magic Online** Championship Series (MOCS). 
 
 **QUICK LINKS:** 
 

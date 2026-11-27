@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Omeed Dariani*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b11.JPG)Andrew Bonham recently missed the top 8 in Canadian Nationals using his Bargain deck, so he brought it to the Amateur Championships at Origins to give it one more try. His opponent, Robert Pittman, is more of a casual player but was playing a strong deck based on the Angry Hermit deck that Aaron Forsythe and Mike Turian used to make top 8 at US Nationals. This match was in the Yawgmoth Bargain deck's favor, but Robert could win it if he got a fast Rofellos/Plow Under or Rofellos/Deranged Hermit draw.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b11.JPG)
+
+Andrew Bonham recently missed the top 8 in Canadian Nationals using his Bargain deck, so he brought it to the Amateur Championships at Origins to give it one more try. His opponent, Robert Pittman, is more of a casual player but was playing a strong deck based on the Angry Hermit deck that Aaron Forsythe and Mike Turian used to make top 8 at US Nationals. This match was in the Yawgmoth Bargain deck's favor, but Robert could win it if he got a fast Rofellos/Plow Under or Rofellos/Deranged Hermit draw.
 
 Game 1
 

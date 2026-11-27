@@ -44,7 +44,9 @@ archive_source:
   sha256: 2ea0cc9264c6bcd5676726075cdcbce218434f9bb341d9370b93ea4c93509554
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm5_1.jpg)Masashi Oiso is on a tear, and is showing no signs of slowing down. He made the Top 8 in Extended and Limited Pro Tours this season, and that multi-format skill should suit him well this weekend. Thus far, he's gone a perfect 3-0 in the day's Standard rounds, and is looking to follow up strong in the Limited rounds to set up a run at the Top 8 tomorrow. His opponent this round is Ryou Ogura, who qualified for Nationals by winning the Toukai Regional tournament.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/fm5_1.jpg)
+
+Masashi Oiso is on a tear, and is showing no signs of slowing down. He made the Top 8 in Extended and Limited Pro Tours this season, and that multi-format skill should suit him well this weekend. Thus far, he's gone a perfect 3-0 in the day's Standard rounds, and is looking to follow up strong in the Limited rounds to set up a run at the Top 8 tomorrow. His opponent this round is Ryou Ogura, who qualified for Nationals by winning the Toukai Regional tournament.
 
 ### Game 1
 

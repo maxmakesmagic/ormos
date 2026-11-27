@@ -53,7 +53,9 @@ archive_source:
   sha256: 103ad69a607e3e014f8b82df6fdabc17dcda69a5a546c5e59085340875323a4a
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a849.jpg)You all know the German. Dirk Baberowski may have a Pro Tour Championship and a Masters victory with his team, Phoenix Foundation, but what few people remembered is that he had already won a Pro Tour before semi-retiring from the game. 
+![](http://www.wizards.com/sideboard/images/euro02/a849.jpg)
+
+You all know the German. Dirk Baberowski may have a Pro Tour Championship and a Masters victory with his team, Phoenix Foundation, but what few people remembered is that he had already won a Pro Tour before semi-retiring from the game. 
 
 He is one of the only two players—the other being Randy Buehler, now a member of WotC's R&D—to win the very first Pro Tour they played in. Kamiel Cornelissen came very close but had to "settle" for a second place.
 
@@ -128,7 +130,9 @@ Dirk flashbacked the Analysis to go down to five and tried to play Flametongue K
 
 Dirk: "I was afraid of that."
 
-![](http://www.wizards.com/sideboard/images/euro02/a850.jpg)All the German could do was drop another Looter and let the Italian have his way. Santin thought for a moment before flashbacking Deep Analysis and sending everyone in. Again a Familiar traded with Basking Rootwalla.
+![](http://www.wizards.com/sideboard/images/euro02/a850.jpg)
+
+All the German could do was drop another Looter and let the Italian have his way. Santin thought for a moment before flashbacking Deep Analysis and sending everyone in. Again a Familiar traded with Basking Rootwalla.
 
 The Aquamoeba brought Dirk to two life and Andrea finally played the poor Blightcutter. Things were looking grim but Dirk isn't a Pro Tour champion for nothing: he ripped a Flametongue Kavu.
 

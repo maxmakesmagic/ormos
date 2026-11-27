@@ -83,7 +83,9 @@ render_recovery:
   - Ghostly Wings
   occurrences: 42
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a871.jpg)Only one match left to decide the champion of Grand Prix-Naples. On one side is an in form Dutch player – Jelger Wiegersma, with a Top 8 in Grand Prix-Heidelberg already in this format. On the other is the two-time French Champion Pierre Malherbaud, who has already completed the difficult task of knocking Kai Budde out of a Top 8.
+![](http://www.wizards.com/sideboard/images/gpnap02/a871.jpg)
+
+Only one match left to decide the champion of Grand Prix-Naples. On one side is an in form Dutch player – Jelger Wiegersma, with a Top 8 in Grand Prix-Heidelberg already in this format. On the other is the two-time French Champion Pierre Malherbaud, who has already completed the difficult task of knocking Kai Budde out of a Top 8.
 
 "You like the matchup?" Wiegersma asked.  
  "Yep," Malherbaud replied.  
@@ -127,7 +129,9 @@ Millikin was first on the rack and a Farmhand went hunting for land before it wa
 
 Malherbaud summoned a Crashing Centaur and now Wiegersma had only one nervous looking Dreamwinder to hold off that, a Wild Mongrel and two chattering Squirrels.
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a866.jpg)Wiegersma wasn't afraid to use massive overkill as Waste Away sent the annoying Torturer to the graveyard and also gave Wiegersma Threshold to improve a Seton's Scout that galloped out of his hand.
+![](http://www.wizards.com/sideboard/images/gpnap02/a866.jpg)
+
+Wiegersma wasn't afraid to use massive overkill as Waste Away sent the annoying Torturer to the graveyard and also gave Wiegersma Threshold to improve a Seton's Scout that galloped out of his hand.
 
 Malherbaud cast Tainted Pact and took the first card it turned over – a Famished Ghoul.
 

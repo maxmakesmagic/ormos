@@ -91,7 +91,9 @@ render_recovery:
   - Tainted Isle
   occurrences: 43
 ---
-![](http://www.wizards.com/sideboard/images/gpfuku02/923.jpg)World traveller Alex Shvartsman is right at home at an Asian Grand Prix. With two titles to his name, and a string of Top 8 appearances as long as your arm, he's no stranger to excellence in the face of top-level competition. Having 3-0'd his last draft pod, Shvartsman was downright giddy. All he needed to do was win his first match, and he'd be able to draw into the Top 8. That is, providing his opponents were alright with that. He was being fed by Yusuke Sasaki and feeding Masashiro Kuroda, who coincidentally flanked Tsuyoshi Fujita during the first draft.
+![](http://www.wizards.com/sideboard/images/gpfuku02/923.jpg)
+
+World traveller Alex Shvartsman is right at home at an Asian Grand Prix. With two titles to his name, and a string of Top 8 appearances as long as your arm, he's no stranger to excellence in the face of top-level competition. Having 3-0'd his last draft pod, Shvartsman was downright giddy. All he needed to do was win his first match, and he'd be able to draw into the Top 8. That is, providing his opponents were alright with that. He was being fed by Yusuke Sasaki and feeding Masashiro Kuroda, who coincidentally flanked Tsuyoshi Fujita during the first draft.
 
 Shvartsman started off with Mystic Zealot over Kirtar's Desire. He was looking to go blue, but when none came, he was just as happy taking Dirty Wererat and Patriarch's Desire. Mystic Visionary came next, and it seemed like the packs were petering out, but it was only for a moment. Next he took Whispering Shade over Cabal Pit, then Embolden, Aven Flock, and Malevolent Awakening.
 

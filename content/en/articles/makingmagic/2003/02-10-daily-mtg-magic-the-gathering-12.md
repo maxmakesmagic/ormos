@@ -52,7 +52,9 @@ archive_source:
   sha256: 21b6f9c1024602d3470b73d65a00f0dea1be177c18e2c8289d132b3a9a965c79
 render_recovery: []
 ---
-![Skaff](https://i.ormos.uk/4d/4d/4d4d8216b9ef446e6d56ee24a2fbcb7f784b159257ecc89792acd4134cd47fed.jpg)You stand there as Skaff begins a monologue about how his side is the correct one. You look at your watch. You are now late for your meeting.
+![Skaff](https://i.ormos.uk/4d/4d/4d4d8216b9ef446e6d56ee24a2fbcb7f784b159257ecc89792acd4134cd47fed.jpg)
+
+You stand there as Skaff begins a monologue about how his side is the correct one. You look at your watch. You are now late for your meeting.
 
  **[Stay and listen.](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=52)  
  [Politely try to leave again.](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=51)**

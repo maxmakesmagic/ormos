@@ -264,15 +264,21 @@ render_recovery:
   - Zombie Cannibal
   occurrences: 298
 ---
-![](http://www.wizards.com/sideboard/images/gpnj02/861.jpg)After two days of intense competition, it all came down to this: The Jokas vs. Illuminati. The winner would not only come home with a Grand Prix trophy, but an invitation to the Team Masters Series at Pro Tour Venice in March of 2003. Illuminati is looking to make their way to a victory after losing an upset to Les Plus Class in the Top 4 of Pro Tour New York back in September.
+![](http://www.wizards.com/sideboard/images/gpnj02/861.jpg)
+
+After two days of intense competition, it all came down to this: The Jokas vs. Illuminati. The winner would not only come home with a Grand Prix trophy, but an invitation to the Team Masters Series at Pro Tour Venice in March of 2003. Illuminati is looking to make their way to a victory after losing an upset to Les Plus Class in the Top 4 of Pro Tour New York back in September.
 
 Rose opened the first pack, and grabbed Syncopate, while Woods went right into his comfortable aggro niche with Firebolt. Gary drafted Childhood Horror, Zvi picked up Werebear and a Refresh, while Alex got a Scrivener. James got Peek, and Sphere of Law. The second pack let Woods ease into his familiar red/green, as he gladly took Wild Mongrel. Gary drafted Chainflinger, Zvi added Springing Tiger to his green army, and Shvartsman got Hallowed Healer to go into blue/white. Meanwhile, Rose drafted a second Syncopate. The following pack gave Gary an Afflict, and Zvi a second Tiger. In an interesting development, James got a second Sphere of Law, which could prove to be very relevant against Gary's red/black deck. 
 
-![](http://www.wizards.com/sideboard/images/gpnj02/862.jpg)Zvi still had no second color, so he jumped at the opportunity to grab a Puppeteer and go into blue. Shvartsman than drafted Mystic Crusader, which had potential to be great against James' green/red deck. The next pack hooked up The Jokas, as James got Patriarch's Desire, Rose drafted Hallowed Healer, and Woods picked Sylvan Might. Rounding out the rest of *Odyssey*, James went into green to supplement his black with Rabid Elephant, Gary picked up Mindslicer and Dirty Wererat, and Woods got Overrun. 
+![](http://www.wizards.com/sideboard/images/gpnj02/862.jpg)
+
+Zvi still had no second color, so he jumped at the opportunity to grab a Puppeteer and go into blue. Shvartsman than drafted Mystic Crusader, which had potential to be great against James' green/red deck. The next pack hooked up The Jokas, as James got Patriarch's Desire, Rose drafted Hallowed Healer, and Woods picked Sylvan Might. Rounding out the rest of *Odyssey*, James went into green to supplement his black with Rabid Elephant, Gary picked up Mindslicer and Dirty Wererat, and Woods got Overrun. 
 
 To follow up in *Torment*, Gary drafted Violent Eruption, while James got Carrion Wurm. Shvartsman opened his *Torment* pack to reveal Sengir Vampire, and Gary raised his hands in triumph, as he knew the 4/4 flier was his. As if that wasn't good enough, Gary's deck got even more nuts with a Faceless Butcher in the next pack, and Grotesque Hybrid followed in the very next one. Woods drafted Centaur Chieftain to give him another breakthrough card in addition to Overrun, while James got a second Butcher to make his matchup against Gary's powerful deck very interesting. 
 
-![](http://www.wizards.com/sideboard/images/gpnj02/863.jpg)In *Judgment*, Woods drafted *three*Arcane Teachings, and Rose was shipped Phantom Nishoba in a pack opened by Alex. He was more than happy to splash green for it in his blue/white deck. Not all was lost for Illuminati, as Gary got Masked Gorgon, and Mowshowitz drafted Phantom Centaur. 
+![](http://www.wizards.com/sideboard/images/gpnj02/863.jpg)
+
+In *Judgment*, Woods drafted *three*Arcane Teachings, and Rose was shipped Phantom Nishoba in a pack opened by Alex. He was more than happy to splash green for it in his blue/white deck. Not all was lost for Illuminati, as Gary got Masked Gorgon, and Mowshowitz drafted Phantom Centaur. 
 
 When all was said and done, there were plenty of impressive decks at the table. Woods' deck is a powerhouse, with three Arcane Teachings, Overrun, Centaur Chieftain, and everything in-between. Gary's deck is chock full 'o broken cards, and Rose's solid white/blue deck is splashing green for powerhouse finisher Phantom Nishoba. If nothing else, the finals should be action packed, and entertaining.
 

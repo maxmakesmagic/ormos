@@ -495,7 +495,9 @@ McGee is relying on the proven power of the Ravager Affinity decks, while Caless
 
 Caless mulliganed his opening hand, while McGee boasted that his draw is awesome. Caless was able to draw into a pretty good one himself though, as he opened with Swamp, Chrome Mox and Ravenous Rats. His second turn play was to cast Damping Matrix – shutting down multiple Skullclamps McGee already put into play.
 
-![](http://www.wizards.com/sideboard/images/nac04/aRound1Game1.jpg)McGee summoned a Myr Enforcer, but his opponent was ready with a Dark Banishing. McGee drew some cards with Thoughtcasts and summoned an Arcbound Ravager, but he could not activate its ability under the Matrix and Caless soon played a second Matrix as insurance against a possible Shatter or Detonate. 
+![](http://www.wizards.com/sideboard/images/nac04/aRound1Game1.jpg)
+
+McGee summoned a Myr Enforcer, but his opponent was ready with a Dark Banishing. McGee drew some cards with Thoughtcasts and summoned an Arcbound Ravager, but he could not activate its ability under the Matrix and Caless soon played a second Matrix as insurance against a possible Shatter or Detonate. 
 
 Rotlung Reanimator was holding off McGee's Ravager while Caless was able to attack with a Blinkmoth Nexus. Pretty soon the Reanimator was turning sideways also, Caless trading a total of three damage for one every turn. Meantime McGee drew land after land, unable to put more pressure on his opponent.
 

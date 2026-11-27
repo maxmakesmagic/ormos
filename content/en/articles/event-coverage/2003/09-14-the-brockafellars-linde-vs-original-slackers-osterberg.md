@@ -77,7 +77,9 @@ Osterberg の1 マリガンスタート。
 
 対するLinde は変異、変異と順調に展開していくが5 ターン目に《沈黙の死霊》をフェイスアップして起きている《エイヴンの遠見》がいる場に対してアタックする。実はここでフェイスアップさせずに2体とも変異状態でアタックしていた場合、Osterberg に対して2 択を迫らせることができていたはずである。これによりOsterberg は《沈黙の死霊》をブロック、《篤信の魔除け/[Piety Charm](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Piety+Charm)》を使い相打ちにする。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a780.jpg)こんなことでくじけないとばかりにLinde は次の大型フライングクリーチャーを製作する。《煤羽の群れ》＋《間に合わせの鎧/[Improvised Armor](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor)》＋《ドラゴンの鱗》の6 /9 飛行の完成である。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos03/a780.jpg)
+
+こんなことでくじけないとばかりにLinde は次の大型フライングクリーチャーを製作する。《煤羽の群れ》＋《間に合わせの鎧/[Improvised Armor](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor)》＋《ドラゴンの鱗》の6 /9 飛行の完成である。
 
 しかしこのクリーチャーもアタックをする間もなく《啓蒙/[Demystify](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demystify)》を打たれ次ターンには《ダールの奉納者/[Daru Sanctifier](https://web.archive.org/web/20030914000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Sanctifier)》により普通の3 /2 に逆戻りして前々ターンに出されていた2 体目の《エイヴンの遠見》と相打ちに。
 

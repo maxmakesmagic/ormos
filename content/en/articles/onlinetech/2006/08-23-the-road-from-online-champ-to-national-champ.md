@@ -654,7 +654,9 @@ Last week was an odd one, since the *Coldsnap* release events were taking the pl
 
 ### German Nationals: Erayo-Ninja
 
-![](http://www.wizards.com/global/images/mtgcom_daily_fk2_picMain_en.jpg)Roughly two weeks ago, a creative rogue deck made it to the semifinals of Premier Event #796283 (a Standard 2x event with 58 players). It was an interesting creation based around Erayo, Soratami Ascendant. The deck used cheap cards such as Ornithopter, Repeal and Birds of Paradise to quickly reach the 4-spells-in-a-turn mark needed to flip Erayo. The 0-power flyers filled another role as well: enabling a turn 2 Ninja of the Deep Hours. A typical ideal game would go like this:
+![](http://www.wizards.com/global/images/mtgcom_daily_fk2_picMain_en.jpg)
+
+Roughly two weeks ago, a creative rogue deck made it to the semifinals of Premier Event #796283 (a Standard 2x event with 58 players). It was an interesting creation based around Erayo, Soratami Ascendant. The deck used cheap cards such as Ornithopter, Repeal and Birds of Paradise to quickly reach the 4-spells-in-a-turn mark needed to flip Erayo. The 0-power flyers filled another role as well: enabling a turn 2 Ninja of the Deep Hours. A typical ideal game would go like this:
 
 **Turn 1**: Ornithopter.  
 **Turn 2**: Attack, then when your opponent raises an eyebrow, you swap it with Ninja of the Deep Hours.  

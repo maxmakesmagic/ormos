@@ -288,7 +288,9 @@ A second Rune Snag came from Wafo Tapa to protect his Wall of Roots from Shriekm
 
 This 10 soon dwindled away, as Shuhei relentlessly entered the red zone. Even Oona, Queen of the Fae from Wafo-Tapa was of minimal concern to the Japanese player, as by the time the legend had hit the board, there were only 4 points of damage left to do. He swung in with just Wren's Run Vanquisher, and paid 5 for a second, only to see a Rune Snag from Guillaume. 
 
-![](https://i.ormos.uk/1a/33/1a338b9ccf044984cb92cfd8026b2289d57580049b0d34633b004d29a7e76a6c.jpg)After much thought, Guillaume used Oona for 3 on Shuhei, naming Green. If he hit, he'd have a veritable army of blockers. He saw a pair of land and Bitterblossom. Not ideal. 
+![](https://i.ormos.uk/1a/33/1a338b9ccf044984cb92cfd8026b2289d57580049b0d34633b004d29a7e76a6c.jpg)
+
+After much thought, Guillaume used Oona for 3 on Shuhei, naming Green. If he hit, he'd have a veritable army of blockers. He saw a pair of land and Bitterblossom. Not ideal. 
 
 Passing, Guillaume tried again for the final one that he had mana for when Shuhei attacked with a sizeable team. He saw a Profane Command, and extended his hand.
 
@@ -305,7 +307,9 @@ Shuhei Nakamura defeats Guillaume Wafo-Tapa 2 - 0. After the game, Shuhei collap
 
 Tomoharu Saito has had a quite superb tournament thus far here in Copenhagen. Going into the final round of the swiss portion of the tournament, he had yet to drop a point. Paired against Guillaume Wafo-Tapa, Saito took his chance at making history, and played for undefeated status on the Swiss. He lost that match, but this flicker certainly didn't give him any cause for concern. He smoothly defeated Robert van Medevoort in the quarterfinals, stunning the Dutchman who felt the matchup was a good one for him.
 
-![](https://i.ormos.uk/34/9b/349becf7af3bfa5bb5b4b5977ddcf7dad7e246c321ccf5055d783103fe2c3046.jpg)Now Saito finds himself against Jakub Jahoba, the Czech who has had a great tournament, making his way to top 8, and then top 4 with Merfolk. While there weren't as many Faeries decks to prey on as he might have liked, the existence of Magus of the Moon in the format had meant more basics, a circumstance that Lord of Atlantis is well set up to prey on.
+![](https://i.ormos.uk/34/9b/349becf7af3bfa5bb5b4b5977ddcf7dad7e246c321ccf5055d783103fe2c3046.jpg)
+
+Now Saito finds himself against Jakub Jahoba, the Czech who has had a great tournament, making his way to top 8, and then top 4 with Merfolk. While there weren't as many Faeries decks to prey on as he might have liked, the existence of Magus of the Moon in the format had meant more basics, a circumstance that Lord of Atlantis is well set up to prey on.
 
 Saito took a mulligan to five in the first game of this semi-final. Not an ideal start, but certainly not one that rattled the Player of the Year. He had a Magus of the Scroll turn one, while jahoba had a Cursecatcher followed by a Stonybrook Banneret. 
 
@@ -355,7 +359,9 @@ Saito moved to his attack step. He bashed with his 8/8, and killed off Reveillar
 
 There was indeed one, targeting Merrow Reejerey, to which Jakub responded with Cryptic Command, to counter the burn spell and bounce the colossal Figure of Destiny. An Incinerate did for Merrow Reejerey, and Saito dropped to 16 on attacks.
 
-![](https://i.ormos.uk/13/a9/13a90054142dd5061a4eef5bbc5aec0fa904d04819b26a3622b1adb5d100ac8c.jpg)Saito had a Murderous Redcap, to again empty Jakub's side of the board. He swung the Czech down to 10, and with Magus of the Scroll at the ready, and 3 lands untapped, now seemed in control for the game. He dealt 2 with his Magus at the end of turn, showing Figure of Destiny, and then bashed for 4, to put Jakub within easy burn range. 
+![](https://i.ormos.uk/13/a9/13a90054142dd5061a4eef5bbc5aec0fa904d04819b26a3622b1adb5d100ac8c.jpg)
+
+Saito had a Murderous Redcap, to again empty Jakub's side of the board. He swung the Czech down to 10, and with Magus of the Scroll at the ready, and 3 lands untapped, now seemed in control for the game. He dealt 2 with his Magus at the end of turn, showing Figure of Destiny, and then bashed for 4, to put Jakub within easy burn range. 
 
 At the end of turn Magus dropped him to 2, and he knew that he was one upkeep away from death. He played Venser to bounce Figure of Destiny, and then got to swing in with it equipped with his hammer. A Merrow Reejerey from Jakub got killed off, and then Magus of the Scroll finished Venser himself. 
 

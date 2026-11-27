@@ -84,7 +84,9 @@ render_recovery:
   - Swat
   occurrences: 26
 ---
-![](http://www.wizards.com/sideboard/images/gpmel02/a921.jpg)Ben Seck, currently sitting at 5-0, hopes to emulate his performance at Grand Prix Cape Town ast year and the next obstacle in his path is Adealaide's Andrew Lai. Andrew has consistantly been one of Australia's highest ranked player in the last 18 months, but although undefeated today is not confidant in his deck.
+![](http://www.wizards.com/sideboard/images/gpmel02/a921.jpg)
+
+Ben Seck, currently sitting at 5-0, hopes to emulate his performance at Grand Prix Cape Town ast year and the next obstacle in his path is Adealaide's Andrew Lai. Andrew has consistantly been one of Australia's highest ranked player in the last 18 months, but although undefeated today is not confidant in his deck.
 
 ### Game 1
 
@@ -104,7 +106,9 @@ Seck – Island, Mistform Wall, Lavamancer's Skill, Crown of Fury. Out, Plains, 
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a910.jpg)Lai is happy to play this time, opening with a swamp, cycling Barren Moors in the next two turns – this time after 3 turns he has one land out of each of his three main colours. To ease his mana issues further he had a Wirewood Elf and a Birchlore Ranger out as well giving him a fifth turn Treefolk Lorian. On the other side of the board Seck had stabilised with a morph and a Gustcloak Sentinel – although not big enough to take the Lorian down it gave Andrew something to think upon. 
+![](http://www.wizards.com/sideboard/images/gpmel02/a910.jpg)
+
+Lai is happy to play this time, opening with a swamp, cycling Barren Moors in the next two turns – this time after 3 turns he has one land out of each of his three main colours. To ease his mana issues further he had a Wirewood Elf and a Birchlore Ranger out as well giving him a fifth turn Treefolk Lorian. On the other side of the board Seck had stabilised with a morph and a Gustcloak Sentinel – although not big enough to take the Lorian down it gave Andrew something to think upon. 
 
 Lai found his sideboard trick in the Ascendant Aven, getting it into play with the help of the elves. While Ben built up an impressive army of face down creatures Andrew took a look at victory (a mere 14 life points away thanks to the Aven), and saw the Lorian, Aven, Glutonous Zombie, Snarling Undorak (face down) and his pair of elves would give him lethal damage. Tapping out for a Wave of Indifference, he attacked with everything except the Birchlore for a calculated 14.
 

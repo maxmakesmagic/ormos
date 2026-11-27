@@ -87,7 +87,9 @@ render_recovery: []
 ---
 I could only imagine William Forsythe and John Goodman screaming in Raising Arizona when Steve Sadin described him and Matt Boccio driving back to their hotel during [**Magic** Weekend](https://web.archive.org/web/20070817000000/https://magic.wizards.com/en/events/coverage/all-hail-scott-vargas-omnipotent). It was the night before Nationals, and after vacillating between a variety of decks Steve had finally decided to dance with that one that brought him to the party and just play with Gruul. 
 
-![](https://i.ormos.uk/07/d2/07d27445151159b58a6c03ffcf3830afc9fb6d20ecb0cf5f755d7d7e73b5645f.jpg)I am not entirely clear on who was responsible for the care of little Nathan Arizona, but apparently Matt was the last to hold the little bundle of Gruul. He rested it on roof of the car as they prepared to leave the venue, where it was forgotten until the dye pack exploded all over the auto's interior. Much like Gale and Eville Snoats slinking back to prison, Steve showed up for round one of Nationals with his face stained blue and a copy of Gerry Thompson's [Momentary Blink](https://web.archive.org/web/20070817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Momentary+Blink) deck in tow, and an 0-4 record in his immediate future.
+![](https://i.ormos.uk/07/d2/07d27445151159b58a6c03ffcf3830afc9fb6d20ecb0cf5f755d7d7e73b5645f.jpg)
+
+I am not entirely clear on who was responsible for the care of little Nathan Arizona, but apparently Matt was the last to hold the little bundle of Gruul. He rested it on roof of the car as they prepared to leave the venue, where it was forgotten until the dye pack exploded all over the auto's interior. Much like Gale and Eville Snoats slinking back to prison, Steve showed up for round one of Nationals with his face stained blue and a copy of Gerry Thompson's [Momentary Blink](https://web.archive.org/web/20070817000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Momentary+Blink) deck in tow, and an 0-4 record in his immediate future.
 
 I don't know if it was any solace or if it just provoked another round of screaming but Steve's first deck choice was validated on Sunday when East Coast PTQ fixture Greg Poverelli cruised to the MSS Championship title with the deck he called Sadin Update. The deck provided him with just the right cocktail of burn and creatures—check out [his narrow, Craig Jones–inspired victory in the semifinals](/en/articles/event-coverage/2007/07-29-mss-semifinals-craig-jones)—to take some of the sting out of passing up an opportunity to play at Pro Tour–Kobe last year with $10,000 toward his college education. 
 
@@ -121,7 +123,9 @@ Scott: We go to Asia Pacific each year.... This has usually been Japan. As we ha
 
 **2\. What makes it such a great choice?**
 
-![Kuala Lumpur](https://i.ormos.uk/b1/a4/b1a4a958d98a377b35dc10efacebfa3f5667c3fe18c966c2f7007c77ebacee24.jpg)Scott: It is a place we have never been with a Pro Tour and has quite an active **Magic** community. It's probably the most "different" place we have taken the Pro Tour to date. I hope all players that are Q'd will come and enjoy the experience.
+![Kuala Lumpur](https://i.ormos.uk/b1/a4/b1a4a958d98a377b35dc10efacebfa3f5667c3fe18c966c2f7007c77ebacee24.jpg)
+
+Scott: It is a place we have never been with a Pro Tour and has quite an active **Magic** community. It's probably the most "different" place we have taken the Pro Tour to date. I hope all players that are Q'd will come and enjoy the experience.
 
 **3\. When will we know the rest of the schedule—and more importantly the formats?** 
 
@@ -137,7 +141,9 @@ Scott: Not yet. We are still reviewing the results of Pro Tour–San Diego, weig
 
 ### 2007 Magic Invitational: Who's Your Favorite?
 
-[![](https://i.ormos.uk/77/d2/77d2809d7bdeb25344f528bb3c5c7f5f90771d54696489c067877318c88434c7.jpg)](/en/events/2007/mi07/paulo-vitor-damo-da-rosa-is-the-fan-favorite)It seems a little odd to call this week's ballot the [Fan Favorite ballot](/en/events/2007/mi07/paulo-vitor-damo-da-rosa-is-the-fan-favorite) when the voters have already demonstrated a fondness for [The Magic Show](http://www.starcitygames.com/pages/articlefinder.php?keyword=Evan+Erwin)'s Evan Erwin. Despite his never having been to a Pro Tour the voters have spoken and rewarded Evan's weekly efforts in bringing **Magic** to life via his YouTube web show about the game on [last week's Storyteller ballot](/en/events/2007/mi07/evan-erwin-is-the-magic-storyteller). Congrats Evan, and if you have a sense of humor about the whole hullabaloo you will call your Invitational card submission Irving Urza. 
+[![](https://i.ormos.uk/77/d2/77d2809d7bdeb25344f528bb3c5c7f5f90771d54696489c067877318c88434c7.jpg)](/en/events/2007/mi07/paulo-vitor-damo-da-rosa-is-the-fan-favorite)
+
+It seems a little odd to call this week's ballot the [Fan Favorite ballot](/en/events/2007/mi07/paulo-vitor-damo-da-rosa-is-the-fan-favorite) when the voters have already demonstrated a fondness for [The Magic Show](http://www.starcitygames.com/pages/articlefinder.php?keyword=Evan+Erwin)'s Evan Erwin. Despite his never having been to a Pro Tour the voters have spoken and rewarded Evan's weekly efforts in bringing **Magic** to life via his YouTube web show about the game on [last week's Storyteller ballot](/en/events/2007/mi07/evan-erwin-is-the-magic-storyteller). Congrats Evan, and if you have a sense of humor about the whole hullabaloo you will call your Invitational card submission Irving Urza. 
 
 The ballot generated a fair amount of heat on the message boards and seemed to shake out into a Pros vs. Joes battle with Pro Players past and present arguing for the purity of the Invitational as an All-Star game despite Aaron Forsythe's [recent column](/en/articles/latestdevelopments/2007/08-10-extending-the-invitation) where he expressed a desire to turn it into something more akin to "Dancing With the Stars." No matter what side of the argument you were on it was one of the most voted upon ballots so far, and the forums were must-reads all week long.
 

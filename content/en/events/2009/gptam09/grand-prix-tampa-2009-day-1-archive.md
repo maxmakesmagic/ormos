@@ -366,7 +366,9 @@ Levy was pecking away with his Cliff Threader and hoped to hide behind his Basil
 
 ### Game 2
 
-![](https://i.ormos.uk/fa/17/fa17c616231de04145652c1e544716f1eafc2e72fc984d1adf815d9bfb90482e.jpg)This format looked every bit as aggressive as advertised as Raph roared back in Game 2 with Steppe Lynx and Oran-Rief Survivalist vs a Plated Geopede for Mitamura. Raph got in for six with Lynx on turn three as he Harrowed up a fourth turn Shepherd of the Lost. Mitamura was already at 10 and quickly they were onto Game 3.
+![](https://i.ormos.uk/fa/17/fa17c616231de04145652c1e544716f1eafc2e72fc984d1adf815d9bfb90482e.jpg)
+
+This format looked every bit as aggressive as advertised as Raph roared back in Game 2 with Steppe Lynx and Oran-Rief Survivalist vs a Plated Geopede for Mitamura. Raph got in for six with Lynx on turn three as he Harrowed up a fourth turn Shepherd of the Lost. Mitamura was already at 10 and quickly they were onto Game 3.
 
   
 
@@ -444,7 +446,9 @@ Gaudenis sideboarded out all of his red for black. Wanting the most black creatu
 
 ### Game 2
 
-![](https://i.ormos.uk/56/3c/563c0886d90f44f0f6771a2212f308656c5842af5f4303104dd99aa3edac3b4f.jpg)Both players again started with good opening spells. Welkin Tern this time answered a turn-one Lacerator (soon equipped with a Blazing Torch – I hope it’s not scared of itself!). An un-kicked Goblin Ruinblaster (it looks so nice in foil) soon hasted into a Vampire Nighthawk as Gaudenis was happy to trade his ‘hawk for the Goblin and the Torch – netting two life in the process. 
+![](https://i.ormos.uk/56/3c/563c0886d90f44f0f6771a2212f308656c5842af5f4303104dd99aa3edac3b4f.jpg)
+
+Both players again started with good opening spells. Welkin Tern this time answered a turn-one Lacerator (soon equipped with a Blazing Torch – I hope it’s not scared of itself!). An un-kicked Goblin Ruinblaster (it looks so nice in foil) soon hasted into a Vampire Nighthawk as Gaudenis was happy to trade his ‘hawk for the Goblin and the Torch – netting two life in the process. 
 
 The curves kept curving with a Crypt Ripper from Vidugiris and a Bladetusk Boar from Watanabe. More two-for-one’s for the Madisonian, as his shade ran head-long into the Boar and Lacerator. The score 20-9 in Vidugiris’ favor, he pressed the attack with an Guul Draz Vampire (now with +2/+1), and traded up for Yuuya’s unkicked Heartstabber Mosquito. Yuuya could only hope Gaudenis would eventually run out of aggression, but when the American calmly cast a Living Tsunami, Watanabe realized he wouldn’t. A draw-step later, it was on to Game 3.
 
@@ -556,7 +560,9 @@ Guillaume Wafo-tapa defeats Ruud Warmenhoven 2-1.
 
 Manuel is a level 7 member of the Pro Players Club, weekly Magic columnist and a member of the winning Swiss team from the World Team Championships in 2007. While many players this weekend have advocated fast decks with an emphasis on curve, Manuel got off to a 6-0 start with an atypical deck that is splashing Sorrin Markov and a pair of Malakir Gatekeepers. Manuel explained that he likes two color beatdown decks in this format, but “if you get a strong Ally chain, that’s probably the best archetype in the format.” When he received his card pool today, he didn’t immediately jump towards the multicolor version that he ended up with. He started with a blue-black beatdown version, but found that that stopped at 18 cards. He then tried a base black version, splashing both blue and red, but couldn’t get a curve of any kind going. After the green showed him more or less only mana fixing, he took another look at the powerful rare Ally in that color and tried to build around Turntimber Ranger.
 
-![](https://i.ormos.uk/7f/39/7f3970905b209c92799c227a7882a54daa0d853da38f3bcb5af3a70a8fece19f.jpg)Eventually he built the multicolor deck that you can see below - one that has a number of unconventional card choices. Manuel explained that “I tried to not just put in all the most powerful cards, but to actually have a reasonable mana base.” This need for some consistency led him to leave such useful cards as Living Tsunami, Bladetusk Boar and Baloth Cage Trap out of the main deck, despite the large amounts of mana fixing that his pool provided him. The Cage Trap has been seeing some play, though - Manuel has been sideboarding it in for one of the Windrider Eels against aggressive decks to give him an extra blocker. The only other sideboarding he has done, he said, was to swap a Khalni Heart Expedition out for the second Expedition Map against white decks because of Kor Sanctifiers.
+![](https://i.ormos.uk/7f/39/7f3970905b209c92799c227a7882a54daa0d853da38f3bcb5af3a70a8fece19f.jpg)
+
+Eventually he built the multicolor deck that you can see below - one that has a number of unconventional card choices. Manuel explained that “I tried to not just put in all the most powerful cards, but to actually have a reasonable mana base.” This need for some consistency led him to leave such useful cards as Living Tsunami, Bladetusk Boar and Baloth Cage Trap out of the main deck, despite the large amounts of mana fixing that his pool provided him. The Cage Trap has been seeing some play, though - Manuel has been sideboarding it in for one of the Windrider Eels against aggressive decks to give him an extra blocker. The only other sideboarding he has done, he said, was to swap a Khalni Heart Expedition out for the second Expedition Map against white decks because of Kor Sanctifiers.
 
 While obviously not a card that would fit into his deck, I also took the time to ask Manuel his opinion on a card that I’ve heard several different opinions on -- Adventuring Gear. He opined that it’s a win-more card - with so many of the aggressive creatures already having landfall, it makes your “good” draws - the ones where you are drawing land - better, but doesn’t help the bad draws, and he would rather have something that can help in both cases. At the end of the interview, I asked if he wished he’d built the deck differently, but he said no. “I discussed it with Raphael Levy and the Ruels, and they couldn’t come up with another way to build it.” While not a normal build, it’s been good enough to run him this far, and he should be able to take it into Day 2 with one more win -- although he took a seventh round loss. Here is the deck and all the unused cards. Feel free to dig into it and see what you would have done if you had come to GP Tampa and been given this Sealed Deck pool. 
 
@@ -587,7 +593,9 @@ Grand Prix Tampa Day 1 Decklist
 
 Magic is a game of community. It always has been and it always will be. It’s the social aspect of the game that, in the end, everything comes back to. So it’s odd that with so many articles written every day – endless draft-pick disseminations, archetype breakdowns, and post-tournament analyses – there is nary a word written about how the community organizes, and how it all happens behind the scenes, and how it is that these players travel around the globe collecting their trophies and checks. After I talked to local player and organizer Megan Holland, I realized why that’s such a travesty.
 
-![](https://i.ormos.uk/f3/08/f308f5473519732b79ae2152f0730e7b57bf049e05e8c4d4b3d2c0c880bee3ef.jpg)I met up with Megan after a tough round seven loss. Sitting now at 5-2, she still has a good shot at Day Two. Megan’s Magic beginnings were humble, as she started simply because her boyfriend (now husband, Kit Holland) was addicted, and she didn’t just want to be a cheerleader. After quickly becoming hooked and indoctrinated into the community, she saw how disorganized some of the talented local players were and her self-diagnosed “Non-Clinical OCD” kicked in. There were so many Pro Tour Qualifiers going on all the time, and Holland wanted to make sure everybody went and everybody had a blast. “If you go to an event by yourself, you can’t have that good of a time,” she said. So she started using social networking sites and local forums to organize everyone into traveling together, staying together and making sure everyone was aware of all the Magic around them – including booking hotels, sending shuttle information; you name it, she did it.
+![](https://i.ormos.uk/f3/08/f308f5473519732b79ae2152f0730e7b57bf049e05e8c4d4b3d2c0c880bee3ef.jpg)
+
+I met up with Megan after a tough round seven loss. Sitting now at 5-2, she still has a good shot at Day Two. Megan’s Magic beginnings were humble, as she started simply because her boyfriend (now husband, Kit Holland) was addicted, and she didn’t just want to be a cheerleader. After quickly becoming hooked and indoctrinated into the community, she saw how disorganized some of the talented local players were and her self-diagnosed “Non-Clinical OCD” kicked in. There were so many Pro Tour Qualifiers going on all the time, and Holland wanted to make sure everybody went and everybody had a blast. “If you go to an event by yourself, you can’t have that good of a time,” she said. So she started using social networking sites and local forums to organize everyone into traveling together, staying together and making sure everyone was aware of all the Magic around them – including booking hotels, sending shuttle information; you name it, she did it.
 
 It started by just getting the group to rent a daily condo for a far-off PTQ, but it quickly sprouted into so much more. Soon Grand Prix and Pro Tours trips were being planned by Megan and she helped get everybody on the plane they needed to be on, be at the car-rental place at the right time and that the hotel had the necessary accommodations. When she wasn’t able to get all the information, she contacted Wizards to make sure she had the most updated info to pass to the rest of the community. She also plays the role of chef, preparing pumpkin pie, brownies, and cupcakes for the big events. She’s become so ubiquitous, Pro-Tour champion and Florida local Charles Gindy calls her his “unofficial travel agent.” At Grand Prix – Tampa, in her backyard, she offered to put up a bevy of national and international players, and for the last week, she’s been drafting with the likes of Michael Jacob, Gabriel Nassif and Patrick Chapin.
 
@@ -782,7 +790,9 @@ Alex Yatsenko - 2 Ben Stark - 1
 
     *by Marc Calderaro*
 
-![](https://i.ormos.uk/1b/d2/1bd25f913056e991b3ee8819f75b4a4ec49e3878475d2f3f3543e044910d9f83.jpg)So the first day is over. It’s been full of expected results – like Yuuya Watanabe finishing 8-1 – and unexpected results – like Steve Sadin pulling out a 7-2 finish on his 21st birthday. I walked once more around the arena to review our top stories of the day.
+![](https://i.ormos.uk/1b/d2/1bd25f913056e991b3ee8819f75b4a4ec49e3878475d2f3f3543e044910d9f83.jpg)
+
+So the first day is over. It’s been full of expected results – like Yuuya Watanabe finishing 8-1 – and unexpected results – like Steve Sadin pulling out a 7-2 finish on his 21st birthday. I walked once more around the arena to review our top stories of the day.
 
 I grabbed Sadin first after his close match with Sam Black and I asked how he was going to celebrate the rest of his special day. He said he was going to have some dinner, enjoy adulthood responsibly, curl up with a nice, warm pillow, and fall asleep. Add a book to that list and that sounds like the best birthday ever.
 
@@ -790,7 +800,9 @@ Nassim Ketita, one of the undefeated Grand Prix Trial competitors from last nigh
 
 In a heart-breaking final game, Manuel Bucher lost the last round despite having a Sorin Markov stuffed to the gills with eight loyalty counters, but luckily made it to Day two on tiebreakers at 6-3.
 
-![](http://www.wizards.com/mtg/images/daily/events/gptam09/tidbits%202.JPG)Though Czech pro, Martin Juza had a stellar 8-1 performance on the day, his throat was still feeling terribly. When reached for comment, he said, “.....“.
+![](http://www.wizards.com/mtg/images/daily/events/gptam09/tidbits%202.JPG)
+
+Though Czech pro, Martin Juza had a stellar 8-1 performance on the day, his throat was still feeling terribly. When reached for comment, he said, “.....“.
 
 Madisonian Gaudenis Vidugiris topped off his great first day by taking Guillaume Wafo-Tapa in two straight games. Both players are in for tomorrow, but Gaudenis heads in a match ahead at 9-0, with the Frenchman at 8-1. Gaudenis is one of three undefeated players, along with Jan Ruess and Conley Woods.
 

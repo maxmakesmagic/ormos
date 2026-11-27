@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Liam Coltman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/833.jpg)The Counter Phoenix vs. Sligh matchup was common during the Tempest Constructed format and is traditionally a match that is hard for the Sligh mage to win, and this match proved no different. Coming into the match on 3-1 Rubin was pleased with his deck and having won the die roll, he chose to play. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/833.jpg)
+
+The Counter Phoenix vs. Sligh matchup was common during the Tempest Constructed format and is traditionally a match that is hard for the Sligh mage to win, and this match proved no different. Coming into the match on 3-1 Rubin was pleased with his deck and having won the die roll, he chose to play. 
 
 **Game 1** 
 

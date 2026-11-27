@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/c7/d3/c7d319d1e02f428afa6d07d03c2150f08fc9d8bcde64edc1a609c6a4e2fbfd63.jpg)Christophe currently lives in Paris, where he makes his living as a shoe salesman. Osaka is his first Pro Tour event, where he teamed with Olivier and Antoine Ruel, Nicholas Olivieri, and other French players to build decks to bring to Japan. He developed an efficient Blue/Green madness deck, carrying him to an impressive top 8 finish in his very first major event.
+![](https://i.ormos.uk/c7/d3/c7d319d1e02f428afa6d07d03c2150f08fc9d8bcde64edc1a609c6a4e2fbfd63.jpg)
+
+Christophe currently lives in Paris, where he makes his living as a shoe salesman. Osaka is his first Pro Tour event, where he teamed with Olivier and Antoine Ruel, Nicholas Olivieri, and other French players to build decks to bring to Japan. He developed an efficient Blue/Green madness deck, carrying him to an impressive top 8 finish in his very first major event.
 
 If every player here was a fairy tale character, Christophe would certainly be Cinderella. Just like that proud woman, Christophe put on a glass slipper and ended up at the midnight ball, looking for his prince charming. Except in this case, his evil step sisters were Mono Black control and Black/Blue Psychatog, and the pumpkin to carry him far away was an intercontinental jumbo jet. 
 

@@ -212,7 +212,9 @@ Cards get tweaked. Sets get *developed*.
 
 That’s not to say that design teams don’t have the larger picture in mind when they’re designing. They do. I, the Mimic, have been on one or two design teams in my day (okay, one), and I can tell you that there is definitely work done long before development to make sure that a set is fun and functional for a variety of formats and ways to play the game. But design’s main mission is to translate a vision into set themes, mechanics, and individual cards. Once the goals of the set are clear, and those goals have been incarnated in a complete set of cards that reflect those goals (and those goals have been reevaluated with playtesting, and the cards tweaked to reflect the new goals), their job is done. It’s development’s turn.
 
-![pure_intentions](https://i.ormos.uk/a0/3c/a03c5b8ac3d25fd1058c48b698ca5f78ec68675b1e507baed69a8187e5bebb28.jpg)There’s a lot of power in development. After design hands off the card file, development “owns” it, meaning they get to call the shots about what happens to the cards at that point—and since development is the later step in that process, they basically determine what actually ends up in the set. (Of course, during the development process, there’s an open dialogue between the design and development teams, and all the members of R&D when it comes down to it. But still, the ultimate call for any typical card comes down to the developers.) I imagine that it’d be easy for there to be “activist developers” who took it upon themselves to simply replace stuff they weren’t interested in with entirely new set themes and mechanics, without any regard for the goals of the designers. But in my experience, that isn’t the case. The development team works hard to preserve the *design intent*, that vision that the design team built the set around. The developer’s job isn’t to alter the vision of the set, but to make sure the way that vision gets implemented works best in all the myriad ways that we play **Magic**.
+![pure_intentions](https://i.ormos.uk/a0/3c/a03c5b8ac3d25fd1058c48b698ca5f78ec68675b1e507baed69a8187e5bebb28.jpg)
+
+There’s a lot of power in development. After design hands off the card file, development “owns” it, meaning they get to call the shots about what happens to the cards at that point—and since development is the later step in that process, they basically determine what actually ends up in the set. (Of course, during the development process, there’s an open dialogue between the design and development teams, and all the members of R&D when it comes down to it. But still, the ultimate call for any typical card comes down to the developers.) I imagine that it’d be easy for there to be “activist developers” who took it upon themselves to simply replace stuff they weren’t interested in with entirely new set themes and mechanics, without any regard for the goals of the designers. But in my experience, that isn’t the case. The development team works hard to preserve the *design intent*, that vision that the design team built the set around. The developer’s job isn’t to alter the vision of the set, but to make sure the way that vision gets implemented works best in all the myriad ways that we play **Magic**.
 
 ### Breaking *Eventide*
 
@@ -350,4 +352,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Kenneth Nagle](https://i.ormos.uk/36/ec/36ec6013327716582eaca4dccd0e02a5ff23310016e218e4b883d659190f9844.jpg "Kenneth Nagle")This article was written by Taste the Magic author Doug Beyer!
+![Kenneth Nagle](https://i.ormos.uk/36/ec/36ec6013327716582eaca4dccd0e02a5ff23310016e218e4b883d659190f9844.jpg "Kenneth Nagle")
+
+This article was written by Taste the Magic author Doug Beyer!

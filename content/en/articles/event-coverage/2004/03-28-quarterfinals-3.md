@@ -44,7 +44,9 @@ archive_source:
   sha256: 925117a61f1ccbaa612c101caae4744bee103e124e9080b2eca2ed9218bac346
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/qf2_1.jpg)In another strong European Grand Prix top 8 Mattias Jorstedt is probably the most accomplished of the players with PT Yokohama under his belt. David Grant is one of the stronger British players, having represented the national team back in 2002.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/qf2_1.jpg)
+
+In another strong European Grand Prix top 8 Mattias Jorstedt is probably the most accomplished of the players with PT Yokohama under his belt. David Grant is one of the stronger British players, having represented the national team back in 2002.
 
 ### Game 1
 

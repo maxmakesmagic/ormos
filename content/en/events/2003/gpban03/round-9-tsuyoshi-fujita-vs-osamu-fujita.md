@@ -103,7 +103,9 @@ Both players opened with 1/1's—a Prospector from Osamu and a Sledder from Tsuy
 
 Tsuyoshi pressed the card advantage angel and cast Goblin Matron for another Gempalm. Osamu thought about his attack step but decided to play a Matron instead. They had to laugh at the silliness of the mirror as Osamu searched out an Incinerator of his own. Matron blocked a Sledder and Osamu sacrificed his Matron to save the 1/1.
 
-![](https://i.ormos.uk/88/7d/887df96b74316cd53b99f664d6f7f9af29559409c633b9e8bbe223df4b4be8e1.jpg)Another matron from the Top 8 machine found a Siege-Gang Commander. Osamu played a Warchief and weighed his options. He sent in the team and a Matron blocked a Sledder—Osamu saved it and bolted the Sledder after combat.
+![](https://i.ormos.uk/88/7d/887df96b74316cd53b99f664d6f7f9af29559409c633b9e8bbe223df4b4be8e1.jpg)
+
+Another matron from the Top 8 machine found a Siege-Gang Commander. Osamu played a Warchief and weighed his options. He sent in the team and a Matron blocked a Sledder—Osamu saved it and bolted the Sledder after combat.
 
 Tsuyoshi played out a Siege-Gang Commander and searched for tokens—eventually settling on three credit cards. It was Incinerated and Osamu played two more Sledders and attacked with everyone. The three pieces of plastic blocked the 1/1s and when the dust settled, Osamu was left with a Warchief and a Sledder. 
 

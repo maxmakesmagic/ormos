@@ -122,7 +122,9 @@ render_recovery:
 
 **Game 3**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a779.jpg)　1-1 で迎えた三本目。A 席では勝たねばならない Sonne が猛烈に事故ってしまい、Dirk Baberowski が僅か数ターンで勝利を決めている。中央では McCord が 一本を先取しているものの、まずはこの一戦を取らねばチームの敗北が確定してしまう SPF。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a779.jpg)
+
+　1-1 で迎えた三本目。A 席では勝たねばならない Sonne が猛烈に事故ってしまい、Dirk Baberowski が僅か数ターンで勝利を決めている。中央では McCord が 一本を先取しているものの、まずはこの一戦を取らねばチームの敗北が確定してしまう SPF。
 
 　立ち上がり、両者共に《熊人間/[Werebear](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear)(OD)》から。だが、先手の McCord は秒で《麻痺の感触/[Stupefying Touch](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stupefying+Touch)(TO)》を Kai のそれに装着。続けて《思考を食うもの/[Thought Eater](https://web.archive.org/web/20020929000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thought+Eater)(OD)》を。
 

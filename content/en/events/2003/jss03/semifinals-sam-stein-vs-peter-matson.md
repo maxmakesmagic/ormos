@@ -101,7 +101,9 @@ render_recovery:
   - Turbulent Dreams
   occurrences: 147
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a690.jpg)A crowd has gathered to watch these matches, though it could have something to do with the U.S. Nationals semifinals going on at the next table. Regardless, I'm certain that at least Sam and Peter's parents were cheering their kids on. Most of the spectators were kids who'd played in the JSS previously, either in the championship yesterday or the grinders on Friday, and all were interested in seeing who would win this match.
+![](http://www.wizards.com/sideboard/images/natus03/a690.jpg)
+
+A crowd has gathered to watch these matches, though it could have something to do with the U.S. Nationals semifinals going on at the next table. Regardless, I'm certain that at least Sam and Peter's parents were cheering their kids on. Most of the spectators were kids who'd played in the JSS previously, either in the championship yesterday or the grinders on Friday, and all were interested in seeing who would win this match.
 
 ### Game 1
 
@@ -139,7 +141,9 @@ Sam swung with the Llanowar Elf and then played a Karplusan Forest. He didn't pl
 
 Peter played a Phantom Centaur and passed the turn. Sam then played a Flaring Pain and Firebolted the Centaur to kill it. Peter, unperturbed, played a Ravenous Baloth and passed. Sam tapped four and played a Violent Eruption, killing the Baloth, and swung again with his mighty Elf. 
 
-![](http://www.wizards.com/sideboard/images/natus03/a692.jpg)Peter played another Phantom Centaur and passed the turn to Sam, who drew his card and nodded his head. "One card?" he asked Peter. When Peter answered in the affirmative, Sam shook his head instead and played Call of the Herd, then flashed it back. Peter then played a Wonder and passed the turn back to Sam. Sam counted up his lands as he untapped them and flashed back Flaring Pain. He flashed back the Firebolt to kill the remaining Phantom Centaur, and Peter thought about it for a minute. "Yup," he said as he put the Centaur into the graveyard.
+![](http://www.wizards.com/sideboard/images/natus03/a692.jpg)
+
+Peter played another Phantom Centaur and passed the turn to Sam, who drew his card and nodded his head. "One card?" he asked Peter. When Peter answered in the affirmative, Sam shook his head instead and played Call of the Herd, then flashed it back. Peter then played a Wonder and passed the turn back to Sam. Sam counted up his lands as he untapped them and flashed back Flaring Pain. He flashed back the Firebolt to kill the remaining Phantom Centaur, and Peter thought about it for a minute. "Yup," he said as he put the Centaur into the graveyard.
 
 Sam swung with both his elephants and Peter blocked with his Wonder. Peter then played a City of Brass and the last card in his hand – a Roar of the Wurm! Sam, left with no other options, then attacked with all his creatures. Peter blocked an Elephant and went to 6 life. Post-combat, Sam played a Volcanic Hammer to kill the Wurm and then played a Llanowar Elf.
 
@@ -155,7 +159,9 @@ Sam Stein 1 – Peter Matson 1
 
 Sam led Game 3 with a first-turn Mountain and a second-turn Wild Mongrel. Peter played an Island, a Forest, and a Wild Mongrel of his own. Sam discarded a Violent Eruption to his Wild Mongrel, and chose to deal all four damage to Peter's Mongrel. Peter pitched a Wonder to the Mongrel, but didn't throw away any more cards and let the Mongrel die.
 
-![](http://www.wizards.com/sideboard/images/natus03/a689.jpg)On his next turn, Peter cast a Quiet Speculation, getting Roar of the Wurm, Roar of the Wurm, and Deep Analysis. Sam swung with his Mongrel to take Peter to 15 life, then played a Krosan Reclamation at Peter and flashed it back. Peter was forced to reshuffle his Roars, his Deep Analysis, and his Wonder – a dramatic shift in the momentum of the game.
+![](http://www.wizards.com/sideboard/images/natus03/a689.jpg)
+
+On his next turn, Peter cast a Quiet Speculation, getting Roar of the Wurm, Roar of the Wurm, and Deep Analysis. Sam swung with his Mongrel to take Peter to 15 life, then played a Krosan Reclamation at Peter and flashed it back. Peter was forced to reshuffle his Roars, his Deep Analysis, and his Wonder – a dramatic shift in the momentum of the game.
 
 Sam attacked with the Mongrel again, bringing Peter to 13. Peter kept playing more lands – if he had had all that good stuff in his graveyard, things would be looking very grim for Sam right about now. Sam Firebolted Peter and kept attacking with the Wild Mongrel, bringing Peter down to 5 in very short order. He then flashed back the Firebolt to take Peter to 3 life. Peter managed to Unsummon the Mongrel at the end of Sam's turn, then cast a Deep Analysis on his own turn. 
 

@@ -69,7 +69,9 @@ If you'd like to have a face to put with each name, click below to reveal our ca
 
 ## Click to reveal
 
-![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)**SPS**—Sam Stoddard, that's-a-me! Also *EMN* lead developer
+![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)
+
+**SPS**—Sam Stoddard, that's-a-me! Also *EMN* lead developer
 
 ![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_kennagle.jpg)**KEN**—Ken Nagle, *EMN* design lead
 

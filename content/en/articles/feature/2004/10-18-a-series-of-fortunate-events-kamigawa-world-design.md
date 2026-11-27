@@ -85,7 +85,9 @@ archive_source:
   sha256: e12c7148da8f9aeaaf2349714eeea6a6a95da5dfd2f52d8186818fc27d732cd4
 render_recovery: []
 ---
-![Wizards of the Coast offices](https://i.ormos.uk/9d/15/9d15cab306c713da8c6f88ad6e8eb18dbc279e86111d8f26905cfdabeaa2845e.jpg)March 2005 will mark eight years of Wizards service for me. *Eight years.* Have you done *anything* every day for eight years besides use the toilet? Don't you have to be frickin' *insane* to do anything for that long?
+![Wizards of the Coast offices](https://i.ormos.uk/9d/15/9d15cab306c713da8c6f88ad6e8eb18dbc279e86111d8f26905cfdabeaa2845e.jpg)
+
+March 2005 will mark eight years of Wizards service for me. *Eight years.* Have you done *anything* every day for eight years besides use the toilet? Don't you have to be frickin' *insane* to do anything for that long?
 
 This comes to mind because I realized that it was a full three years ago when, during a chat with my boss at the time, I said I wanted to try my hand at card design. I had edited and proofread **Magic**, I had done technical writing for it, I had playtested it, named and wrote flavor text for it, managed its rules . . . I wanted to see what it was like to design cards.
 

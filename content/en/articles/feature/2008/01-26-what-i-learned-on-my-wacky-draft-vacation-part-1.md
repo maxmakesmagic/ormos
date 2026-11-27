@@ -70,21 +70,35 @@ render_recovery:
 ---
 Now that *Morningtide* previews are complete and the set is revealed in its entirety, allow me to reveal the *Morningtide* development team in its entirety:
 
-![Mike Turian](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_MikeTurian.jpg)**Mike Turian (lead developer) –** A *Magic* developer for several years, Mike has made many Magic sets a lot more fun to play, and when leading *Morningtide*, he did exactly that. Mike loves weenie creatures, aggressive fast-moving gameplay, and powerful exciting rares, which made him the perfect choice to lead *Morningtide*, his second lead after *Future Sight*. Mike also worked on *Lorwyn* development, so he knew the race tribes like the back of his hand. Working on *Lorwyn* also gave Mike the opportunity to get the five class tribes ready for their *Morningtide* debut by seeding them throughout *Lorwyn*.
+![Mike Turian](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_MikeTurian.jpg)
 
-![Erik Lauer](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_ErikLauer.jpg)**Erik Lauer –** Erik is a hardcore developer who focuses the team on a card or mechanic's specific goals, then works to make sure those goals are met as well as they possibly can be. Long-known as the "Mad Genius of *Magic*," Erik put together an impressive Pro Tour career and a reputation as one of the Pro Tour's best deckbuilders before he came to work for Wizards of the Coast. Now that he's here, Erik uses those same deckbuilding skills to ensure that we understand the power level of all our best control and combo cards before releasing them. For *Morningtide*, Erik also served as the representative from the design team.
+**Mike Turian (lead developer) –** A *Magic* developer for several years, Mike has made many Magic sets a lot more fun to play, and when leading *Morningtide*, he did exactly that. Mike loves weenie creatures, aggressive fast-moving gameplay, and powerful exciting rares, which made him the perfect choice to lead *Morningtide*, his second lead after *Future Sight*. Mike also worked on *Lorwyn* development, so he knew the race tribes like the back of his hand. Working on *Lorwyn* also gave Mike the opportunity to get the five class tribes ready for their *Morningtide* debut by seeding them throughout *Lorwyn*.
 
-![Henry Stern](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_HenryStern.jpg)**Henry Stern –** Along with Mark Rosewater and Bill Rose, Henry is one of the most-accomplished and longest-serving members of *Magic* R&D. While Mark and Bill moved more and more towards design over the years, Henry stayed on the development path, leading the development for many sets over many years, including *Darksteel* and *Torment*. Henry's accumulated wisdom and expertise always provide a good anchor to development teams.
+![Erik Lauer](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_ErikLauer.jpg)
 
-![Noah Weil](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_NoahWeil.jpg)**Noah Weil –** Noah impressed us with his design work in [the Great Designer Search](https://web.archive.org/web/20080126000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/designersearch/episode1), and we knew from his long-running Pro Tour experience that he was primed to have the skills to be a good developer as well. As soon as the Great Designer Search ended, we hired Noah as a development intern and put him on our newest development team: *Morningtide*. Noah's valuable contributions on *Morningtide* earned him the respect of his peers, and you can see Noah's changes all over the set.
+**Erik Lauer –** Erik is a hardcore developer who focuses the team on a card or mechanic's specific goals, then works to make sure those goals are met as well as they possibly can be. Long-known as the "Mad Genius of *Magic*," Erik put together an impressive Pro Tour career and a reputation as one of the Pro Tour's best deckbuilders before he came to work for Wizards of the Coast. Now that he's here, Erik uses those same deckbuilding skills to ensure that we understand the power level of all our best control and combo cards before releasing them. For *Morningtide*, Erik also served as the representative from the design team.
+
+![Henry Stern](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_HenryStern.jpg)
+
+**Henry Stern –** Along with Mark Rosewater and Bill Rose, Henry is one of the most-accomplished and longest-serving members of *Magic* R&D. While Mark and Bill moved more and more towards design over the years, Henry stayed on the development path, leading the development for many sets over many years, including *Darksteel* and *Torment*. Henry's accumulated wisdom and expertise always provide a good anchor to development teams.
+
+![Noah Weil](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_NoahWeil.jpg)
+
+**Noah Weil –** Noah impressed us with his design work in [the Great Designer Search](https://web.archive.org/web/20080126000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/designersearch/episode1), and we knew from his long-running Pro Tour experience that he was primed to have the skills to be a good developer as well. As soon as the Great Designer Search ended, we hired Noah as a development intern and put him on our newest development team: *Morningtide*. Noah's valuable contributions on *Morningtide* earned him the respect of his peers, and you can see Noah's changes all over the set.
 
 At the very beginning of the development cycle, we added additional people to the mix to give *Morningtide* a final design sparkle before the beginning of development proper:
 
-![Alexis Janson](http://archive.wizards.com/magic/images/mtgcom/fcpics/latest/dl21_LifeBurst.jpg)**Alexis Janson –** Alexis won the Great Designer Search with an impressive string of successes across the GDS's many challenges. Alexis' natural design talent and deep knowledge of *Magic* helped her to win challenge after challenge and helped her to design a variety of cool *Morningtide* cards.
+![Alexis Janson](http://archive.wizards.com/magic/images/mtgcom/fcpics/latest/dl21_LifeBurst.jpg)
 
-![Bill Rose](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_BillRose.jpg)**Bill Rose** – Bill Rose is the vice president of R&D as well as a frequent set designer and set lead designer. Some vice presidents would just sit behind a desk, but Bill likes to roll up his sleeves and get into the card file with the rest of the department until the set meets his high standards for what a *Magic* should be.
+**Alexis Janson –** Alexis won the Great Designer Search with an impressive string of successes across the GDS's many challenges. Alexis' natural design talent and deep knowledge of *Magic* helped her to win challenge after challenge and helped her to design a variety of cool *Morningtide* cards.
 
-![Jake Theis](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_JakeTheis.jpg)**Jake Theis –** Jake started out on the Brand team and now works as the Creative Manager for *Magic*. Jake specializes in bringing *Magic*'s worlds and storylines into harmony with the sets' mechanics, and vice versa. Jake's success filling holes from the sidelines of previous sets made him a good candidate to bring to fill final holes in *Morningtide* at the start of development.
+![Bill Rose](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_BillRose.jpg)
+
+**Bill Rose** – Bill Rose is the vice president of R&D as well as a frequent set designer and set lead designer. Some vice presidents would just sit behind a desk, but Bill likes to roll up his sleeves and get into the card file with the rest of the department until the set meets his high standards for what a *Magic* should be.
+
+![Jake Theis](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_JakeTheis.jpg)
+
+**Jake Theis –** Jake started out on the Brand team and now works as the Creative Manager for *Magic*. Jake specializes in bringing *Magic*'s worlds and storylines into harmony with the sets' mechanics, and vice versa. Jake's success filling holes from the sidelines of previous sets made him a good candidate to bring to fill final holes in *Morningtide* at the start of development.
 
 ### Welcome to Wacky Draft
 

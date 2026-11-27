@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/44/e4/44e4c6a423711f06bb2db4817a3cb14942afbc5b63ad3aacfe56d41cbe36bfbe.jpg)It was all Ann Arbor all the time when Eric Taylor met Pat Chapin in the finals of Grand Prix - Milwaukee. Taylor was anticipating such a match up all along, however, and had built the perfect anti-Chapin sideboard. In a quick and brutal two games, Taylor's Goblin Trenches deck took down Chapin's Squirrel Opposition deck.
+![](https://i.ormos.uk/44/e4/44e4c6a423711f06bb2db4817a3cb14942afbc5b63ad3aacfe56d41cbe36bfbe.jpg)
+
+It was all Ann Arbor all the time when Eric Taylor met Pat Chapin in the finals of Grand Prix - Milwaukee. Taylor was anticipating such a match up all along, however, and had built the perfect anti-Chapin sideboard. In a quick and brutal two games, Taylor's Goblin Trenches deck took down Chapin's Squirrel Opposition deck.
 
 Congratulations to Eric Taylor, champion of the largest North American Grand Prix ever!
 

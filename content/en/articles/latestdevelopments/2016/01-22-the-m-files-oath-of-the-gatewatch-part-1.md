@@ -103,7 +103,9 @@ If you'd like to have a face to put with each name, click below to review our ca
 
 ![](http://media.wizards.com/2016/images/daily/mfiles_glenn-jones.jpg) GJ—Glenn Jones, editor
 
-![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)SPS—Sam Stoddard, that's-a me!
+![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_samstoddard.jpg)
+
+SPS—Sam Stoddard, that's-a me!
 
 And now, off to the files:
 

@@ -115,7 +115,9 @@ render_recovery: []
 
 **[Stern Judge](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge):** Ahem. [River Boa](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=River+Boa), you may present your case.
 
-[![River_Boa](https://i.ormos.uk/05/ee/05ee46d8c92eb14c87d5e59cced25380d6f61a8d11756afd56d72e106fe7c3f2.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=River%2BBoa)**[River Boa](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=River+Boa):** Sssso I know the color pie through and through. Just look at me. I'm a classic green creature, with two thoroughly green abilities. First the classic green regeneration, plus a second green ability: islandwalk. Landwalk is more clossssely tied to green than any other color, and the blue-hating islandwalk is one of the most green landwalk abilities there is, appearing on tons of green creatures.
+[![River_Boa](https://i.ormos.uk/05/ee/05ee46d8c92eb14c87d5e59cced25380d6f61a8d11756afd56d72e106fe7c3f2.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=River%2BBoa)
+
+**[River Boa](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=River+Boa):** Sssso I know the color pie through and through. Just look at me. I'm a classic green creature, with two thoroughly green abilities. First the classic green regeneration, plus a second green ability: islandwalk. Landwalk is more clossssely tied to green than any other color, and the blue-hating islandwalk is one of the most green landwalk abilities there is, appearing on tons of green creatures.
 
 **[Stern Judge](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge):** Get to the point, [River Boa](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=River+Boa).
 
@@ -155,7 +157,9 @@ In summary: **"A deck can break the color pie if it jumps through enough hoops."
 
 **[Stern Judge](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge):** Present your case.
 
-[![Masako_the_Humorless](https://i.ormos.uk/25/c7/25c734348f4881ecdf05e7c1b820ecefaf31b48a6df502641fac502f1a36b9d2.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Masako%2Bthe%2BHumorless)**[Masako the Humorless](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Masako+the+Humorless):** So I'm leading a classic battle of white creatures versus red burn spells. I have the advantage, and I'm pressing the attack. Despite various [Shock](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)s and [Incinerate](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incinerate)s to my companions, my allies and I keep getting through for damage. Late in the game, we have the red mage down to 2 life, with five white creatures left alive, no red creatures, and not a [Pyroclasm](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyroclasm) in sight.
+[![Masako_the_Humorless](https://i.ormos.uk/25/c7/25c734348f4881ecdf05e7c1b820ecefaf31b48a6df502641fac502f1a36b9d2.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Masako%2Bthe%2BHumorless)
+
+**[Masako the Humorless](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Masako+the+Humorless):** So I'm leading a classic battle of white creatures versus red burn spells. I have the advantage, and I'm pressing the attack. Despite various [Shock](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)s and [Incinerate](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incinerate)s to my companions, my allies and I keep getting through for damage. Late in the game, we have the red mage down to 2 life, with five white creatures left alive, no red creatures, and not a [Pyroclasm](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyroclasm) in sight.
 
 **Devin Low:** Five creatures?! So you totally won, right?
 
@@ -185,7 +189,9 @@ In summary: **"A card can break the color pie when it has truly outstanding, com
 
 **[Stern Judge](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge):** Jury of [Form of the Dragon](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Form+of+the+Dragon)'s peers, how do you find this claim?
 
-[![Fathom_Seer](https://i.ormos.uk/25/d3/25d334c377cf74182e55b10542dd0086490c7d1f9b96b81ebe8208a8f4df1af4.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Fathom%2BSeer)**[Thalakos Seer](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thalakos+Seer):** Yeah, I see what he means. The whole top-down card fits together so well that I buy it as a red card in spite of the life gain.
+[![Fathom_Seer](https://i.ormos.uk/25/d3/25d334c377cf74182e55b10542dd0086490c7d1f9b96b81ebe8208a8f4df1af4.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Fathom%2BSeer)
+
+**[Thalakos Seer](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thalakos+Seer):** Yeah, I see what he means. The whole top-down card fits together so well that I buy it as a red card in spite of the life gain.
 
 **[Crystal Seer](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Seer):** Yeah, I see it too.
 
@@ -213,7 +219,9 @@ In summary: **"A card can break the color pie when it has truly outstanding, com
 
 **[Stern Judge](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge):** Present your case.
 
-[![Dehydration](https://i.ormos.uk/73/56/73562945a40281bd6f07358911f8d603f39dc448db5b4b1c1c541c316f4738ea.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dehydration)**[Dehydration](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dehydration):** Now, I almost never get to land on [Serra Angel](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel) because of her constant vigilance, so when my friend [Twitch](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twitch) tapped her, it was finally my chance to shine. I announced my intention to enchant her, confident it was going to work, and the mono-white player taps a single [Plains](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains), says "Counter target spell that targets a permanent I control," and plays [Rebuff the Wicked](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rebuff+the+Wicked). I mean, *come on!* I know that *Planar Chaos* was about stretching the color pie, but mono-white spells countering spells is straight up ridiculous. That's blue's job.
+[![Dehydration](https://i.ormos.uk/73/56/73562945a40281bd6f07358911f8d603f39dc448db5b4b1c1c541c316f4738ea.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dehydration)
+
+**[Dehydration](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dehydration):** Now, I almost never get to land on [Serra Angel](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel) because of her constant vigilance, so when my friend [Twitch](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twitch) tapped her, it was finally my chance to shine. I announced my intention to enchant her, confident it was going to work, and the mono-white player taps a single [Plains](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains), says "Counter target spell that targets a permanent I control," and plays [Rebuff the Wicked](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rebuff+the+Wicked). I mean, *come on!* I know that *Planar Chaos* was about stretching the color pie, but mono-white spells countering spells is straight up ridiculous. That's blue's job.
 
 **Devin Low:** [Dehydration](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dehydration), are you saying that you've never been countered by a white spell before?
 
@@ -270,7 +278,9 @@ In summary: **"A card can stretch the color pie in the mechanical tools it uses,
 
 **Devin Low:** [Cloud Djinn](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloud+Djinn), shouldn't you be happy that [Jugan, the Rising Star](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Jugan%252C%2Bthe%2BRising%2BStar) has flying?
 
-[![Cloud_Djinn](https://i.ormos.uk/cb/a0/cba0aa5c45032d0edd7af8e53f5290e50841288269df3031ae556f5033f91ae2.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Cloud%2BDjinn)**[Cloud Djinn](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloud+Djinn):** Um no, I'm obviously not happy about it at all. I'm bringing him up on charges.
+[![Cloud_Djinn](https://i.ormos.uk/cb/a0/cba0aa5c45032d0edd7af8e53f5290e50841288269df3031ae556f5033f91ae2.jpg)](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Cloud%2BDjinn)
+
+**[Cloud Djinn](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloud+Djinn):** Um no, I'm obviously not happy about it at all. I'm bringing him up on charges.
 
 **Devin Low:** But [Jugan, the Rising Star](https://web.archive.org/web/20080502000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Jugan%252C%2Bthe%2BRising%2BStar)'s flying plays right into your cloudy hands. [Cloud Djinn](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloud+Djinn), could you please read to the court your own text box?
 
@@ -308,7 +318,9 @@ In summary: **"A card can break the color pie to maintain the integrity of a key
 
 **Devin Low:** Your Honor, I request a courtroom recess of one week before the final four Breaking the Color Pie trials.
 
-![Mark Rosewater](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)**Mark Rosewater:** Your honor, I would like to address the court.
+![Mark Rosewater](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)
+
+**Mark Rosewater:** Your honor, I would like to address the court.
 
 **[Stern Judge](https://web.archive.org/web/20080502000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge):** Allowed. Please speak.
 

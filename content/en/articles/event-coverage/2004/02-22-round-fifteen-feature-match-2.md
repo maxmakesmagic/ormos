@@ -44,7 +44,9 @@ archive_source:
   sha256: a700e514f04412af92404c95069bd7ac54b3f700247eeff1084ecf7d7c53177a
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r15fm1_1.jpg)Both players have a slim chance at top 8, with the winner having to wait for a lot of results in order to know his fate.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r15fm1_1.jpg)
+
+Both players have a slim chance at top 8, with the winner having to wait for a lot of results in order to know his fate.
 
 ### Game 1
 

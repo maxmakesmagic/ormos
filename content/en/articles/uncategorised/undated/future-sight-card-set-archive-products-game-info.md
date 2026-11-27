@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/cd/dd/cddd874e85e13ad5dc59463e568be42ae77b9ccf67cf4d0042439204f8b5d29c.png)The third and final set in the *Time Spiral* block, *Future Sight* features 180 cards, including 81 with a frame treatment from an alternative future timeline, and randomly inserted premium cards. Some “timeshifted” cards from this set have appeared in later expansions.
+![](https://i.ormos.uk/cd/dd/cddd874e85e13ad5dc59463e568be42ae77b9ccf67cf4d0042439204f8b5d29c.png)
+
+The third and final set in the *Time Spiral* block, *Future Sight* features 180 cards, including 81 with a frame treatment from an alternative future timeline, and randomly inserted premium cards. Some “timeshifted” cards from this set have appeared in later expansions.
 
 **Set Name:** *Future Sight*  
 **Block:** Set 3 of 3 of the *Time Spiral* Block  

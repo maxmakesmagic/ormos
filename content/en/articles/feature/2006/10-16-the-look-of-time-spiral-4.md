@@ -71,7 +71,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/96/05/960593e0fc120fa1bcb869f4f9ac40d0781b8ea1adc8eebd079a45e3a1bccaf2.jpg)The look of *Time Spiral*. Where to begin? *Time Spiral* was a very different block for **Magic** Creative from day one. Many of the normal conversations were completely irrelevant (is it crazy metal-world? Who runs the Izzet Guild?), and a whole new set of visual problems had to be tackled… and tackled well! We knew the bar was set awfully high after the tight, smart and successful world building executed in the *Ravnica* block. I’m going to be speaking between roles here. My main involvement in *Time Spiral* creative was not as Art Director, but as lead Concept Artist, working with Jeremy Cranford (my predecessor) and Brady Dommermuth to provide the visuals that would ultimately populate the style guide. I will do my best to give insight from the Art Direction and Concept Art standpoint as faithfully as I can.
+![](https://i.ormos.uk/96/05/960593e0fc120fa1bcb869f4f9ac40d0781b8ea1adc8eebd079a45e3a1bccaf2.jpg)
+
+The look of *Time Spiral*. Where to begin? *Time Spiral* was a very different block for **Magic** Creative from day one. Many of the normal conversations were completely irrelevant (is it crazy metal-world? Who runs the Izzet Guild?), and a whole new set of visual problems had to be tackled… and tackled well! We knew the bar was set awfully high after the tight, smart and successful world building executed in the *Ravnica* block. I’m going to be speaking between roles here. My main involvement in *Time Spiral* creative was not as Art Director, but as lead Concept Artist, working with Jeremy Cranford (my predecessor) and Brady Dommermuth to provide the visuals that would ultimately populate the style guide. I will do my best to give insight from the Art Direction and Concept Art standpoint as faithfully as I can.
 
 It’s worth mentioning that you can listen to a pretty good preamble to all of this in [September’s podcast](/en/articles/podcast/2006/09-16-all-time-spiral-all-the-time). It’s worth the download just to hear me marble-mouth my way through the interview. Fun!
 

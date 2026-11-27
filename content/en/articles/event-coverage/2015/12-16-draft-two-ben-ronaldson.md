@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/221.JPG)There were 33 3-0 players after the players were done with their first draft decks. With 302 players competing this weekend, no one can afford to give away any matches. Table 2 was probably the toughest table with during the second draft. On one side of the table Noah Boeken was feeding Michael Debard who was feeding Raphael Levy. ([click here](https://web.archive.org/web/20151216000000/http://archive.wizards.com/eventarticle.asp?event=EURO00&name=947d2levy) to read Brian Hacker's analysis of Levy's draft.) I stood behind Ben Ronaldson, who was being fed by Andre Konstanczer.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/221.JPG)
+
+There were 33 3-0 players after the players were done with their first draft decks. With 302 players competing this weekend, no one can afford to give away any matches. Table 2 was probably the toughest table with during the second draft. On one side of the table Noah Boeken was feeding Michael Debard who was feeding Raphael Levy. ([click here](https://web.archive.org/web/20151216000000/http://archive.wizards.com/eventarticle.asp?event=EURO00&name=947d2levy) to read Brian Hacker's analysis of Levy's draft.) I stood behind Ben Ronaldson, who was being fed by Andre Konstanczer.
 
 Ronaldson is the unknown member of the European Alliance. Alliance members are universally quick to credit him as a major contributor to the team. He did a lot of the team's playtesting before their breakout performance at Pro Tour New York (where they claimed 3 of the coveted spots in the Top 8) despite being unqualified for the event. He finally broke out with a tournament success of his own a few months ago when he won English Nationals. Konstanczer is a long-time Pro Tour regular with one PT Top 8 to his credit and he is the 2000 German national champion.
 

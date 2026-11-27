@@ -50,7 +50,9 @@ Current National Champion Josh Wagener helped the US bring the team World Champi
 
 ### Game 1
 
-![](https://i.ormos.uk/9a/04/9a04b320df56c05d60a663e5f2bd1b85815cbd35847929b11626aa13f5d8c2b4.jpg)Both players kept their opening hands and the party started. Josh showed forests immediately, playing a Basking Rootwalla turn one and swinging with it turn two. His turn two Wild Mongrel was met with a hastily cast Mana Leak from Harvey.
+![](https://i.ormos.uk/9a/04/9a04b320df56c05d60a663e5f2bd1b85815cbd35847929b11626aa13f5d8c2b4.jpg)
+
+Both players kept their opening hands and the party started. Josh showed forests immediately, playing a Basking Rootwalla turn one and swinging with it turn two. His turn two Wild Mongrel was met with a hastily cast Mana Leak from Harvey.
 
 Land drop three for Wagener was a mountain, showing everyone that he's playing the Standard deck that carried him to the National Championship, Red-Green. Eugene Harvey on the other hand is playing one of the few roguish decks doing well at the event, a blue-white control deck, akin to that played by Jon Sonne at Worlds.
 
@@ -72,7 +74,9 @@ Holding Deep Analysis, an Exalted Angel, Decree of Justice and other goodies, Eu
 
 Josh Wagener 1 - Eugene Harvey 0
 
-![](https://i.ormos.uk/89/97/89977b8d945d0c0a1f0bfe682fbc809d4c554671875e4e0509a09ca0f1df21d5.jpg)"You got mana screwed pretty bad," Josh remarked as the players shuffled up for Game 2. 
+![](https://i.ormos.uk/89/97/89977b8d945d0c0a1f0bfe682fbc809d4c554671875e4e0509a09ca0f1df21d5.jpg)
+
+"You got mana screwed pretty bad," Josh remarked as the players shuffled up for Game 2. 
 
 It was the only thing either competitor said as Eugene was off shuffling with a vengeance. The deck had not made him happy in Game 1, and a good draw was vital to winning this match with Josh.
 
@@ -92,7 +96,9 @@ Again we saw the same series of plays. A cycled Decree of Justice for only one s
 
 The large Mongrel swung, and then shrunk. A Ray of Distortion from Eugene dropped the Mongrel back into the land of the bears. A second Mongrel tried to join his friend at the table, and is met with a Mana Leak from Eugene. Josh swung again, sending Eugene down to five life, and then to three with a Firebolt. Eugene swung back. Exalted Angel sent his life total back to seven, while dropping Josh to six. 
 
-![](https://i.ormos.uk/7d/25/7d25985ab10e53f22f4918dc1dc24e9c317fd08528c8df04c475dbddc0699e07.jpg)"Chain," Harvey said, setting the Chain on his own Angel. He quickly followed that up with the announcement of "Wrath," having safely hidden his Angel back in his hand. Josh scooped up his army and placed it in his graveyard.
+![](https://i.ormos.uk/7d/25/7d25985ab10e53f22f4918dc1dc24e9c317fd08528c8df04c475dbddc0699e07.jpg)
+
+"Chain," Harvey said, setting the Chain on his own Angel. He quickly followed that up with the announcement of "Wrath," having safely hidden his Angel back in his hand. Josh scooped up his army and placed it in his graveyard.
 
 The Exalted Angel came back onto the table on Eugene's next turn, and matched favorably with a Wild Mongrel for Josh. Two turns later the Angel had swung for the win.
 

@@ -81,7 +81,9 @@ render_recovery: []
 
 I don't suppose it would surprise anyone when I say that **Magic**'s art director has often been a **Magic** artist as well. Jesper Myrfors, Sandra Everingham, Dana Knutson, Matt Wilson, Ron Spears, Jeremy Jarvis—all **Magic** artists, all **Magic** art directors. And so here I am, a **Magic** artist, holding down the fort in the Creative department as a writer. Odd, eh? Well, not so odd. In fact, I am not even the first one to do it.
 
-![](https://i.ormos.uk/54/61/546172461dcd95db84b5b0cfd5e24e030f1cd44b122ac3abbe1cf83b5af5ff30.jpg)About 10 years ago, long-time **Magic** art baron Pete Venters was a part of **Magic**'s non-art-related Creative as well. I came to know about Pete and his deep vault of arcane **Magic** lore while working on Coldsnap. Pete was a tremendously valuable source of first-hand information on that period in **Magic**'s history. It also became clear that he had more info than we knew what to do with—and that brings us here...
+![](https://i.ormos.uk/54/61/546172461dcd95db84b5b0cfd5e24e030f1cd44b122ac3abbe1cf83b5af5ff30.jpg)
+
+About 10 years ago, long-time **Magic** art baron Pete Venters was a part of **Magic**'s non-art-related Creative as well. I came to know about Pete and his deep vault of arcane **Magic** lore while working on Coldsnap. Pete was a tremendously valuable source of first-hand information on that period in **Magic**'s history. It also became clear that he had more info than we knew what to do with—and that brings us here...
 
 ...To our first installment of Tea and Biscuits. (I was going to call it Coffee and Donuts, but changed it at the urging of Venters, a Brit.) These will be interviews that go down the same way as our Milk and Cookies ones do, but we won't be talking about art. In this case, we'll be talking about whatever spills forth from the Venters cerebral font regarding his work on the **Magic** Creative team (then called the Continuity Department.)
 
@@ -89,7 +91,9 @@ Pete and I agreed to meet on Ravnica. As you all know, we're all planeswalkers, 
 
 **MC:** Let's start at the beginning. How did you get your paint-spattered foot in the door of the Continuity Department?
 
-![](https://i.ormos.uk/7a/bc/7abc3c062e8f2332bfe2859fabf46e8411beedefd1058489cdab5ce77f0839a2.jpg)**PV:** The answer is a convoluted one. On one of my early trips to Seattle, I found myself talking to John Tynes, who was at that time tasked with unifying the **Magic** storylines. The first step in the plan was to produce an "Encyclopedia Dominia," a humongous coffee table book filled with stories and facts of the multiverse. My chief involvement was to produce a fully painted comic book introduction, but I soon found myself brainstorming with John about the history and cultures of the **Magic** universe, including the story of Galina III and her escape from Sarpadia to rule the merfolk city of Etlan Shiis.
+![](https://i.ormos.uk/7a/bc/7abc3c062e8f2332bfe2859fabf46e8411beedefd1058489cdab5ce77f0839a2.jpg)
+
+**PV:** The answer is a convoluted one. On one of my early trips to Seattle, I found myself talking to John Tynes, who was at that time tasked with unifying the **Magic** storylines. The first step in the plan was to produce an "Encyclopedia Dominia," a humongous coffee table book filled with stories and facts of the multiverse. My chief involvement was to produce a fully painted comic book introduction, but I soon found myself brainstorming with John about the history and cultures of the **Magic** universe, including the story of Galina III and her escape from Sarpadia to rule the merfolk city of Etlan Shiis.
 
 **MC:** Quick interjection—is Galina III related somehow to the [Empress Galina](https://web.archive.org/web/20070607000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Empress+Galina) from *Invasion*?
 

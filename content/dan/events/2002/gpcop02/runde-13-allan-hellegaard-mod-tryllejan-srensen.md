@@ -70,7 +70,9 @@ render_recovery:
   - Elvish Warrior
   occurrences: 13
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a881.jpg)Begge spillere havde ikke længere chancen for at nå top 8, men de spillede stadigvæk om en del penge og muligvis om en kvalifikation til Chicago. 
+![](http://www.wizards.com/sideboard/images/gpcop02/a881.jpg)
+
+Begge spillere havde ikke længere chancen for at nå top 8, men de spillede stadigvæk om en del penge og muligvis om en kvalifikation til Chicago. 
 
 Jan startede, men det var Allan der lagde det første dyr: en Wretched Anurid. Jan morphede et dyr i spil runden efter, og således fortsatte de to med at bygge armeer op. Jan havde ikke mange muligheder for at angribe, men anuriden fik hurtigt Allan ned på 9 liv. Allan prøvede at slippe af med den ved at angribe, men Jan blev ved med at lade den leve, enten ved at tage skaden or ved at chumpblocke med insekttokens. Allan gav op da han var på 1 liv – den onde zombie havde givet ham 13 i skade.
 

@@ -102,7 +102,9 @@ Many expected Jordan to sit alongside Josh on the U.S. National Team, but Justin
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpatl03/a912.jpg)"He's the luckiest person I know," Josh said of the playtesting. Josh then stared at the cards in his hand for several moments, before finally deciding to mulligan.
+![](http://www.wizards.com/sideboard/images/gpatl03/a912.jpg)
+
+"He's the luckiest person I know," Josh said of the playtesting. Josh then stared at the cards in his hand for several moments, before finally deciding to mulligan.
 
 "One land and two Birds," he pondered aloud. "Would you have killed my first turn Bird," he asked Jordan.
 
@@ -128,7 +130,9 @@ Jordan Berkowitz 1 - Josh Wagener 0
 
 Turn two Josh played a Wild Mongrel to go with his lands, as Berkowitz went Sledder and Sparky on consecutive turns. The turn two Sparksmith always has the potential to dominate games, but with the Mongrel on the table people were wondering how many times Jordan could afford to use the ability. 
 
-![](https://i.ormos.uk/04/46/04468d2f4ff93ac339d767a7006082d88a7e59ca55082ea613e0cae32d70541f.jpg)The stalemate between the two continued until Jordan tried to play a Goblin Sharpshooter. Josh said that he had responses, then discarded Violent Eruption to his Mongrel, using it to blow up the Sledder and the Sparksmith.
+![](https://i.ormos.uk/04/46/04468d2f4ff93ac339d767a7006082d88a7e59ca55082ea613e0cae32d70541f.jpg)
+
+The stalemate between the two continued until Jordan tried to play a Goblin Sharpshooter. Josh said that he had responses, then discarded Violent Eruption to his Mongrel, using it to blow up the Sledder and the Sparksmith.
 
 The following turn, Josh added a Phantom Centaur to his army, dominating Berkowitz's meager board of Sharpshooter. Jordan had all the answers. He used a Firebolt to kill the Mongrel and then went to work on the Centaur. Two activations of the Sharpshooter ability and another Firebolt ended the life of the Centaur. 
 
@@ -158,7 +162,9 @@ Jordan kept a one land hand without a one drop in it, and passed on his second t
 
 Mongrel was joined by its Elephant guide and the beatings are on. Jordan could do nothing but take the five damage the now sizable Mongrel delivered to him. Goblin Warchief joined Jordan's side, and he surveyed the table, asking Josh how many cards he had.
 
-![](https://i.ormos.uk/58/32/5832284b1f2c487264384158f5d917e08d1533e96958331ebf330a89cb67e8a5.jpg)"Two," said Josh. "How many of them do you think are Violent Eruptions?"
+![](https://i.ormos.uk/58/32/5832284b1f2c487264384158f5d917e08d1533e96958331ebf330a89cb67e8a5.jpg)
+
+"Two," said Josh. "How many of them do you think are Violent Eruptions?"
 
 "Zero," Jordan responded. On the one hand he had to be worried about the Violent Eruption, but he also couldn't let it decide for him how he would play the game.
 

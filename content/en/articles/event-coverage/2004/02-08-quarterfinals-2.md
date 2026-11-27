@@ -44,7 +44,9 @@ archive_source:
   sha256: 934bb35b7d8c08556ecc664e6162f43bc6f718f61263d162e7b5d52f817a34b9
 render_recovery: []
 ---
-![Want to have a staring contest?](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/qf1_1.jpg)Mike Turian is just coming off his top 8 in Amsterdam to his undefeated streak in the swiss portion of this Grand Prix. Needless to say he is happy at the great success he has had recently before his final Pro Tour coming up at PT San Diego.
+![Want to have a staring contest?](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/qf1_1.jpg)
+
+Mike Turian is just coming off his top 8 in Amsterdam to his undefeated streak in the swiss portion of this Grand Prix. Needless to say he is happy at the great success he has had recently before his final Pro Tour coming up at PT San Diego.
 
 Mitchell Tamblyn has been out of Magic for awhile, but when he was 15, he was 5-0 at a Pro Tour and featured as the child prodigy. Mitchell said that taking time off of Magic was really good for him but he was glad to be back.
 

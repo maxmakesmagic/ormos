@@ -217,7 +217,9 @@ render_recovery:
 
 A while ago, I began an occasional series on game theory, which readers seemed to like. I promised to return to game theory topics from time to time, and now is one such time. It won't consume the whole article; but it's certainly relevant.
 
-![](https://i.ormos.uk/ed/49/ed49eb1d674f6c4035b987354bcff24e59c303f97070c44b061e62f35863a7f3.jpg)One of the concepts I've explained is the Prisoner's Dilemma, where each of two players can choose either cooperation (with each other, to deceive the police) or abandonment (to confess). If they cooperate with each other, they earn a higher combined payoff – but if one abandons the other, he can achieve a higher individual payoff. If both abandon, they hurt each other badly. Each player has what's called a "dominant" strategy to abandon the other, which means more often than not they end up in a bad situation.
+![](https://i.ormos.uk/ed/49/ed49eb1d674f6c4035b987354bcff24e59c303f97070c44b061e62f35863a7f3.jpg)
+
+One of the concepts I've explained is the Prisoner's Dilemma, where each of two players can choose either cooperation (with each other, to deceive the police) or abandonment (to confess). If they cooperate with each other, they earn a higher combined payoff – but if one abandons the other, he can achieve a higher individual payoff. If both abandon, they hurt each other badly. Each player has what's called a "dominant" strategy to abandon the other, which means more often than not they end up in a bad situation.
 
 I bring up Prisoner's Dilemma again not for its own sake, but because it's a good example of a *repeatable game*. Repeatable games are – big surprise – games that happen over and over, giving the participants time and opportunity to strategize over the long term.
 
@@ -247,7 +249,9 @@ Why should you care about cockroach cards? Three reasons:
 
 ### *What* For Tat?
 
-![](https://i.ormos.uk/06/c8/06c899f0236f0b3f5de06dede608af0a45ffbb106f0791a545ea365e18f20138.jpg)Suppose you have a Myr Matrix in your free-for-all five-player game, and another opponent has a Myr Matrix as well. You each have enough mana to make two myr tokens per turn. The other three opponents each have five 1/1 goblin tokens. (Apparently, someone had fun with a Hunted Phantasm or two earlier in the game; but those are long gone.)
+![](https://i.ormos.uk/06/c8/06c899f0236f0b3f5de06dede608af0a45ffbb106f0791a545ea365e18f20138.jpg)
+
+Suppose you have a Myr Matrix in your free-for-all five-player game, and another opponent has a Myr Matrix as well. You each have enough mana to make two myr tokens per turn. The other three opponents each have five 1/1 goblin tokens. (Apparently, someone had fun with a Hunted Phantasm or two earlier in the game; but those are long gone.)
 
 You and the other Matrix controller have a basic choice for the next couple of turns: you can make 3/3 myr tokens and ram them into each other; or you can make 3/3 myr tokens and hold them back against the tide of goblins. If you ram them against each other, one of you risks being Overwhelmed by successive goblin attacks. If you hold them back, you're letting the other guy keep up – and risking an alpha strike if something goes wrong.
 

@@ -60,7 +60,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![Gabriel Nassif - Prepares To Build](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/gabriel_nassif_160w.jpg)As soon as Gabriel heard his sealed deck was going to be featured he warned me that this would be his first individual sealed deck - he had played team sealed with *Mirrodin* already in the French Team Cup. His sealed deck would prove to be rather tough, with removal concentrated in black and red, and his creatures concentrated in white and blue.
+![Gabriel Nassif - Prepares To Build](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplyo03/gabriel_nassif_160w.jpg)
+
+As soon as Gabriel heard his sealed deck was going to be featured he warned me that this would be his first individual sealed deck - he had played team sealed with *Mirrodin* already in the French Team Cup. His sealed deck would prove to be rather tough, with removal concentrated in black and red, and his creatures concentrated in white and blue.
 
 ![Betrayal of Flesh](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Betrayal+of+Flesh)
 

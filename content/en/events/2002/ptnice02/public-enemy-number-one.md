@@ -53,7 +53,9 @@ archive_source:
   sha256: 6c727abad354691b055249d1de5933fe421962095682f67b0871df6b1cdecc01
 render_recovery: []
 ---
-![](https://i.ormos.uk/47/ac/47acd76c517a85a9196639b038072d95e9c3cb3f273ddc5ca9e093f5412c676a.jpg)He is young, he is rude, he has shaved his head, he has never worn the same thing to a Pro Tour and he is constantly looking to overdo himself. For 2002 Pro Tour Nice, Peter Szigeti dressed up in a white furry "pimp suit", but only because he couldn't get the even more outlandish outfit that he ordered in time for the event. "I am pretty sure I'm public enemy number one. I think that's even what I want," the controversial player says.
+![](https://i.ormos.uk/47/ac/47acd76c517a85a9196639b038072d95e9c3cb3f273ddc5ca9e093f5412c676a.jpg)
+
+He is young, he is rude, he has shaved his head, he has never worn the same thing to a Pro Tour and he is constantly looking to overdo himself. For 2002 Pro Tour Nice, Peter Szigeti dressed up in a white furry "pimp suit", but only because he couldn't get the even more outlandish outfit that he ordered in time for the event. "I am pretty sure I'm public enemy number one. I think that's even what I want," the controversial player says.
 
 Most people who have checked out the various Magic websites on the internet may have encountered articles written by or about Peter. His internet nick is "ptr", and the latest internet controversy he was in, was an argument with [Sol Malka](/en/events/2002/ptnice02/a-man-of-the-internet) that resulted in Ed Fear challenging them to meet in a three-format tournament. Fear even said he'd put up 400 dollars of his own. The conditions were simple; the loser would basically have to pay up 100 dollars. Malka declined. Szigeti wanted to go for it. "If someone is going to give away free money, I don't care who the opponent is. But it's not really about the money, it's about beating Sol," he claims.
 

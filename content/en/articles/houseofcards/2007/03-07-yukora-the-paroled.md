@@ -1177,7 +1177,9 @@ render_recovery:
 ---
 * * *
 
-![Eager_Cadet](https://i.ormos.uk/4d/89/4d89a390edc0cd541084ee2daefa3971eed8677d77328bd18b24634d4a26bee5.jpg)Like many **Magic** players, my gaming heyday occurred when I was in college. There's a time and a place for everything, and that happened to be the time and the place for gaming. Living with a houseful of gamers is the first step towards a full-blown game addiction. I won't say that it had a, uh, *deleterious* effect on my education (after all, I can apparently use the word "deleterious" without embarrassment), but back then, I could successfully navigate every level of GoldenEye with my eyes closed, but never could manage to find the location of my calculus tutorial. (They just *had* to go and put it in the math building.)
+![Eager_Cadet](https://i.ormos.uk/4d/89/4d89a390edc0cd541084ee2daefa3971eed8677d77328bd18b24634d4a26bee5.jpg)
+
+Like many **Magic** players, my gaming heyday occurred when I was in college. There's a time and a place for everything, and that happened to be the time and the place for gaming. Living with a houseful of gamers is the first step towards a full-blown game addiction. I won't say that it had a, uh, *deleterious* effect on my education (after all, I can apparently use the word "deleterious" without embarrassment), but back then, I could successfully navigate every level of GoldenEye with my eyes closed, but never could manage to find the location of my calculus tutorial. (They just *had* to go and put it in the math building.)
 
 That was a few years ago, though. Things change. People grow up, move away, graduate (or not), get married, and/or get a job. Nowadays, with all of our adult responsibilities (like, uh, playing and writing about **Magic**), it's tougher for all my **Magic** cronies to find the time to get together and play cards. Still, we try to get together for a weekend, once every few months. Lately, we've been playing formats that are friendly to those who haven't been keeping up on all the latest technology. One of these formats is the Reject Rare Draft.
 

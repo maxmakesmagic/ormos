@@ -146,7 +146,9 @@ render_recovery:
 
 　Parker の変異と《思考繋ぎのプライモック/Thoughtbound Primoc》。互いに二点のクロックで攻撃しあう。だが、Parker は《森林守りのエルフ/Timberwatch Elf》の力でそのダメージをいつでも増やす事が出来る。時がくれば。
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a833.jpg)　《森林守りのエルフ/Timberwatch Elf》によって場を支えながら、Parker は《超大なベイロス/Enormous Baloth》まで繋げた。一方で、Tsang は特に場を進展させる事が出来ない。
+![](http://www.wizards.com/sideboard/images/ptbos03/a833.jpg)
+
+　《森林守りのエルフ/Timberwatch Elf》によって場を支えながら、Parker は《超大なベイロス/Enormous Baloth》まで繋げた。一方で、Tsang は特に場を進展させる事が出来ない。
 
 　その《超大なベイロス/Enormous Baloth》が攻撃する。
 

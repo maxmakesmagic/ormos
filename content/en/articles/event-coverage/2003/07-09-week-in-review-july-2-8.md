@@ -301,7 +301,9 @@ The sixth annual European Championships took place last weekend in lovely London
 
 An interesting variation on the 3 rounds of Standard, 6 rounds of draft, 3 rounds of Standard format was used... 3 rounds of Standard, 7 rounds of draft, 3 rounds of Standard.
 
-![](http://www.wizards.com/sideboard/images/euro03/826.jpg)It was the first large tournament to use *Scourge* for Constructed, and there were some interesting new developments. Gabriel Nassif turned heads with his latest creation Ebony and Ivory, which utilized a whopping six Decrees. Kai Budde and Dirk Baberowski unveiled a dazzling Mind's Desire combo deck, and Jan Doise packed a hearty goblin deck with all the Scourge fixins'. You can find all of the decklists [here](/en/events/2003/euro03/2003-european-championship-all-standard-decks).
+![](http://www.wizards.com/sideboard/images/euro03/826.jpg)
+
+It was the first large tournament to use *Scourge* for Constructed, and there were some interesting new developments. Gabriel Nassif turned heads with his latest creation Ebony and Ivory, which utilized a whopping six Decrees. Kai Budde and Dirk Baberowski unveiled a dazzling Mind's Desire combo deck, and Jan Doise packed a hearty goblin deck with all the Scourge fixins'. You can find all of the decklists [here](/en/events/2003/euro03/2003-european-championship-all-standard-decks).
 
 Pierre Mahlerbaud's camp dominated the first day of competition, with Mahlerbaud himself going 7-0 and teammate Karim Aouidad going 6-1. Pro Tour-New York winner Sigurd Eskeland, former European Champion Nicolai Herzog, Chicago Masters-winning Franck Canu, and two-time Pro Tour winner Tommi Hovi rounded out the rest of a strong 6-1 bracket. 
 

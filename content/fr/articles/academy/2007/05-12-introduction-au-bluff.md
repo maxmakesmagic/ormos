@@ -123,7 +123,9 @@ Votre adversaire a une Guivre vorace dégagée. Vous l'attaquez avec des Grizzli
 *   **Pour votre adversaire, est-ce que ce que vous risquez en vaut la peine ?** Quelle est l'importance de vos Grizzlis pour lui en tenant compte de l'état du jeu actuel ? Plus ils paraîtront important, plus votre adversaire croira à votre bluff, et plus il aura de chances de bloquer.
 *   **Un des deux joueurs est-il en train de *gagner* ?** Contrairement au poker, où un bon jeu implique de rentabiliser l'avantage de toutes les mains (même si cela signifie se retirer), à Magic, une partie se gagne ou se perd. Pour être plus précis, sans discuter de considérations de temps, gagner avec une grosse marge, c'est pareil que gagner avec une petite marge.
 
-![Culling_Scales](https://i.ormos.uk/5f/79/5f79575961f1282af7c3954c230ba310a393dbc49abcf973d8fc69840d14ca25.jpg)En gros, cela veut dire que si vous êtes en tête et qu'il y a de fortes chances que vous gagniez, il est inutile de prendre des risques — même s'ils vous donnent un avantage. Si ces risques vous aident, vous étiez de toute façon déjà sur la bonne voie, donc pas de problème. Dans le cas contraire, vous pourriez tout simplement perdre !
+![Culling_Scales](https://i.ormos.uk/5f/79/5f79575961f1282af7c3954c230ba310a393dbc49abcf973d8fc69840d14ca25.jpg)
+
+En gros, cela veut dire que si vous êtes en tête et qu'il y a de fortes chances que vous gagniez, il est inutile de prendre des risques — même s'ils vous donnent un avantage. Si ces risques vous aident, vous étiez de toute façon déjà sur la bonne voie, donc pas de problème. Dans le cas contraire, vous pourriez tout simplement perdre !
 
 Si vous êtes déjà en tête, le risque est moins attrayant.
 

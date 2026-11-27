@@ -44,7 +44,9 @@ archive_source:
   sha256: ca749da200aa8a4cb00ebde865b392bf3ce20f6b9b8e5196b4cdda9125c8b479
 render_recovery: []
 ---
-![](https://i.ormos.uk/93/7a/937a599b192a74d308eb7dd366665a7afe4577228297417ec6d98c17c2400d15.jpg)Phoenix Foundation has been playing in a single elimination tournament since the fifth round of day one. After starting out 2-2-0, Kai, Marco, and Dirk have torn off five straight matches to give themselves a chance at defending their title as the Team Pro Tour Champions.
+![](https://i.ormos.uk/93/7a/937a599b192a74d308eb7dd366665a7afe4577228297417ec6d98c17c2400d15.jpg)
+
+Phoenix Foundation has been playing in a single elimination tournament since the fifth round of day one. After starting out 2-2-0, Kai, Marco, and Dirk have torn off five straight matches to give themselves a chance at defending their title as the Team Pro Tour Champions.
 
 Hobby One—formerly know as Black Ops—might have a thing or two to say about whether or not they get that chance. Florent Jeudon, Antoine Ruel, and Olivier Ruel have a Grand Prix victory and a Pro Tour top 6 in this format.
 
@@ -79,7 +81,9 @@ Kai swung into the red zone and played a [Standstill](https://web.archive.org/we
 
 Kai – 1 Antoine – 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a937.jpg)I looked over to see what was happening in Marco and Olivier's match. Marco had a [Savage Firecat](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savage+Firecat) in play with [Benevolent Bodyguard](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Benevolent+Bodyguard) for back up. If Olivier somehow managed to deal with both of those cards, Marco was holding enough burn to kill his opponent.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a937.jpg)
+
+I looked over to see what was happening in Marco and Olivier's match. Marco had a [Savage Firecat](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savage+Firecat) in play with [Benevolent Bodyguard](https://web.archive.org/web/20020928000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Benevolent+Bodyguard) for back up. If Olivier somehow managed to deal with both of those cards, Marco was holding enough burn to kill his opponent.
 
 Marco – 1 Olivier – 0
 

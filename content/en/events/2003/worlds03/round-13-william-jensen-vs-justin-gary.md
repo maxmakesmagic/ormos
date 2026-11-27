@@ -88,13 +88,17 @@ render_recovery:
   - Fact or Fiction
   occurrences: 52
 ---
-![](https://i.ormos.uk/c0/41/c0412c287ab124d1a46bb0171372ddc29f2da539e59ef5f20a7a57c0575da25b.jpg)Yesterday, Huey asked me what he should play in Extended. I don't know the Extended environment very well, so I gave him the only response I could- Battle of Wits. I'm sure my suggestion didn't actually influence his deck choice today, but perhaps he was looking for some sort of affirmation. He told me, "I always play Battle when I can, for the love of the game." This is not to say that Battle of Wits is just a "fun" deck in this environment. It has enough tutors that it can search out whatever answer it needs to a particular deck, or of course it can just go get Battle of Wits if it's not under any pressure. Plus, there's the added benefit of having a huge deck in some matchups. "The Brain Freeze decks can't beat me. I want to sit down against someone who will puke all over the table because they can't win."
+![](https://i.ormos.uk/c0/41/c0412c287ab124d1a46bb0171372ddc29f2da539e59ef5f20a7a57c0575da25b.jpg)
+
+Yesterday, Huey asked me what he should play in Extended. I don't know the Extended environment very well, so I gave him the only response I could- Battle of Wits. I'm sure my suggestion didn't actually influence his deck choice today, but perhaps he was looking for some sort of affirmation. He told me, "I always play Battle when I can, for the love of the game." This is not to say that Battle of Wits is just a "fun" deck in this environment. It has enough tutors that it can search out whatever answer it needs to a particular deck, or of course it can just go get Battle of Wits if it's not under any pressure. Plus, there's the added benefit of having a huge deck in some matchups. "The Brain Freeze decks can't beat me. I want to sit down against someone who will puke all over the table because they can't win."
 
 ### Game 1
 
 Gary opened with Duress, and saw a hand of lands, Smother and Battle of Wits\- the enchantment obviously went to the graveyard. Although he had the Duress to strip away Jensen's key card, Gary was lacking a second land. He cast Entomb on end step to get Akroma, played a second land, and had the Reanimate to put her right into play. Jensen played Charcoal Diamond and ended his turn, then took another shot from Akroma to go down to eight. On the next attack, he used Intuition to get three copies of Diabolic Edict, which handled the massive threat.
 
-![](https://i.ormos.uk/64/b4/64b4fba362ff5e19ad28685fb4614e0b987197679b741d7274f7435db330f496.jpg)A turn later, Gary cast Vampiric Tutor to get Duress, which he cast right away on his turn. Jensen responded with Cunning Wish, getting Cremate, which he used to remove Akroma from the game. Duress now resolved, and Gary took Concentrate out of Jensen's hand, leaving him with a land and two Smother. Jensen drew his own Duress off the top, and saw a hand of Petradon, Cabal Therapy, Exhume, Visara and City of Traitors\- Therapy went to the graveyard. On the following turn, Huey drew and cast Burning Wish, letting out a smile. He searched up Recall, getting Concentrate and Battle of Wits back from the graveyard. The Battle came down soon after, and Gary conceded.
+![](https://i.ormos.uk/64/b4/64b4fba362ff5e19ad28685fb4614e0b987197679b741d7274f7435db330f496.jpg)
+
+A turn later, Gary cast Vampiric Tutor to get Duress, which he cast right away on his turn. Jensen responded with Cunning Wish, getting Cremate, which he used to remove Akroma from the game. Duress now resolved, and Gary took Concentrate out of Jensen's hand, leaving him with a land and two Smother. Jensen drew his own Duress off the top, and saw a hand of Petradon, Cabal Therapy, Exhume, Visara and City of Traitors\- Therapy went to the graveyard. On the following turn, Huey drew and cast Burning Wish, letting out a smile. He searched up Recall, getting Concentrate and Battle of Wits back from the graveyard. The Battle came down soon after, and Gary conceded.
 
 Gary- "That was insane!"
 
@@ -108,7 +112,9 @@ Jensen- 1 Gary- 1
 
 ### Game 3
 
-![](https://i.ormos.uk/8f/3c/8f3c062539e0ba2b0683b533452277229be18cc04737aecb37e7f4db73dbf805.jpg)Once more, Gary had a first turn Entomb, which got Symbiotic Wurm. He untapped and played Cabal Therapy, joking that the odds of hitting the card he named were pretty slim. He named Cunning Wish, and saw a hand of lands, Concentrate, Urza's Rage, Diabolic Edict and Absorb. He then cast Reanimate, putting the Wurm into play. It was sacrificed to flash back Cabal Therapy, getting Absorb out of Jensen's hand.
+![](https://i.ormos.uk/8f/3c/8f3c062539e0ba2b0683b533452277229be18cc04737aecb37e7f4db73dbf805.jpg)
+
+Once more, Gary had a first turn Entomb, which got Symbiotic Wurm. He untapped and played Cabal Therapy, joking that the odds of hitting the card he named were pretty slim. He named Cunning Wish, and saw a hand of lands, Concentrate, Urza's Rage, Diabolic Edict and Absorb. He then cast Reanimate, putting the Wurm into play. It was sacrificed to flash back Cabal Therapy, getting Absorb out of Jensen's hand.
 
 The seven insects came out, and attacked on the next turn. When Gary tried to make things even worse by Exhuming the Wurm, Jensen had Mana Leak waiting. He drew three more cards with Concentrate to try and find an answer, and Gary pitched his hands to Last Rites, taking Fact or Fiction, Absorb and Diabolic Edict out of Jensen's hand. He had outs left, but only one turn to find one, and it didn't come off the top.
 

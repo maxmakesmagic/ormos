@@ -46,11 +46,15 @@ render_recovery: []
 ---
 *by Yaro Starak*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm2pic1.jpg)The second round feature match placed the Filipino Knight, Miguel Suaco, against John Taro from Japan.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm2pic1.jpg)
+
+The second round feature match placed the Filipino Knight, Miguel Suaco, against John Taro from Japan.
 
 **Game One** Both players start very fast with John opening up with a Spiketail Hatchling and Miguel with a Darting Merfolk. The Hatchling did one turn of damage before it was sacrificed to counter a Blaster Mage. Next, John brings in a Stinging Barrier which is followed by an Ogre Taskmaster by Miguel. The Darting Merfolk is sent to the graveyard by a ping from the Stinging Barrier, but then Miguel drops his bomb, playing a Troubled Healer. The Healer is followed by a Giant Caterpillar by John and a Latulla, Keldon Overseer by Miguel. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm2pic2.jpg)The game slows down as every attack phase is precluded by lots of thinking by each player. It looks like Miguel may gain the upperhand when he draws enough land to cast a Dominate, but it ends up being Counterspelled by John. John starts getting better draws, with more fat coming over to his side in the form of a Snorting Gahr. John starts attacking with everything and Miguel is forced to start sacrificing land to his Troubled Healer as he hovers above one life. When Miguel is forced down to 2 land and one life he scoops, giving John the first game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm2pic2.jpg)
+
+The game slows down as every attack phase is precluded by lots of thinking by each player. It looks like Miguel may gain the upperhand when he draws enough land to cast a Dominate, but it ends up being Counterspelled by John. John starts getting better draws, with more fat coming over to his side in the form of a Snorting Gahr. John starts attacking with everything and Miguel is forced to start sacrificing land to his Troubled Healer as he hovers above one life. When Miguel is forced down to 2 land and one life he scoops, giving John the first game.
 
 Game Result: John Wins
 
@@ -59,7 +63,9 @@ Game Result: John Wins
 Game Result: Miguel Wins  
  Match: 1-1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm2pic3.jpg)**Game Three** The first few turns feature a Flowstone Armour by John and after the 4th land drop, an Ogre Taskmaster by Miguel. A Zerapa Minotaur follows the Ogre on Miguel's team and John can only manage a Spore Frog and a Spiketail Drake. Miguel continues the beatings by dropping an Oraxid and a Shock Troops. John produces a Stinging Barrier which is immediately followed by a Blaster Mage by Miguel. Miguel plays a Scoria Cat which combines with the Ogre and Minotaur to finish John off and Miguel wins the match.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm2pic3.jpg)
+
+**Game Three** The first few turns feature a Flowstone Armour by John and after the 4th land drop, an Ogre Taskmaster by Miguel. A Zerapa Minotaur follows the Ogre on Miguel's team and John can only manage a Spore Frog and a Spiketail Drake. Miguel continues the beatings by dropping an Oraxid and a Shock Troops. John produces a Stinging Barrier which is immediately followed by a Blaster Mage by Miguel. Miguel plays a Scoria Cat which combines with the Ogre and Minotaur to finish John off and Miguel wins the match.
 
 Game Result: Miguel Wins
 

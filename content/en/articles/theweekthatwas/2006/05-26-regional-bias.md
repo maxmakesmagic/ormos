@@ -833,7 +833,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/protour/images/reg_lg.jpg)Last weekend, North American players took the first steps on what has become known as the Road to Worlds. All across the U.S. and Canada – and even as far off as South Korea – players vied for invites to U.S. and Canadian National Championships. The format for Regionals was post-*Dissension* Standard, which made these events the first Constructed tournaments featuring the ultimate expansion in the *Ravnica* block. 
+![](http://www.wizards.com/protour/images/reg_lg.jpg)
+
+Last weekend, North American players took the first steps on what has become known as the Road to Worlds. All across the U.S. and Canada – and even as far off as South Korea – players vied for invites to U.S. and Canadian National Championships. The format for Regionals was post-*Dissension* Standard, which made these events the first Constructed tournaments featuring the ultimate expansion in the *Ravnica* block. 
 
 I spoke with three different Regional champions about their decks, their expectations, and plans for Nationals. Joe Waller took part in one of the most far-flung events among all the U.S. Regionals, playing in the U.S. Military Regionals event in South Korea. Joe lives in Seoul teaching English as a second language, and it turns out that military Regionals events are open to U.S. citizens living abroad. Albert Ruskey is a 17-year old student from Victoria, British Columbia. Conrad Kolos is a 21-year old student at Temple University in Philadelphia. Thanks to all three of them for taking time away from their victory laps to answer ten questions about their Regionals experiences. 
 

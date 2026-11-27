@@ -41,7 +41,9 @@ render_recovery: []
 
 *   [The Card Pool](https://web.archive.org/web/20211130022619/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=942sd2decks#elbow)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/810.jpg)Michael Long, Peter Leiher, and Steve Cowley were disappointed to only have one draw from their first two matches. In particular, Pete was involved in a close match with Casey McCarrel which could have affected their score, so they were hoping for better things in the next two rounds of Sealed Decks. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/810.jpg)
+
+Michael Long, Peter Leiher, and Steve Cowley were disappointed to only have one draw from their first two matches. In particular, Pete was involved in a close match with Casey McCarrel which could have affected their score, so they were hoping for better things in the next two rounds of Sealed Decks. 
 
 When they opened there decks they weren't too impressed with the first impressions. The Nemesis in particular was weak. As usual they started by sorting the cards into colors, and then deciding which of the cards within the colors were playable or not. Steve, the less experienced member of the team at this level, sorts the blue. He makes a few interesting, not to say dubious, decisions. Pete Leiher corrects a couple of the more obvious errors, removing Quicksilver Wall, and adding in Rhystic Scrying, which Michael sees as an "extremely, extremely good card". Among the highlights of the blue cards are a Stinging Barrier, an Extravagant Spirit, and a Waterfront Bouncer. 
 

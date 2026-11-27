@@ -71,7 +71,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/MASTERSNY00/Images/998.jpg)Tony won the roll to play first but was forced to mulligan his opening hand as it contained no lands at all. He kept his six-card hand but missed his land drop on his second turn. Noah, meanwhile, started with a Wall of Roots and an Elvish Lyrist which was a very key card in this matchup. Tony found a land on his third turn and Noah started to apply the pressure by attacking with the Lyrist and making a Masticore. Tony drew another Island and played a Stasis and a Claws of Gix while the Lyrist was tapped hoping that he could stem the attack for a few turns and perhaps force Noah to let his Masticore die. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/MASTERSNY00/Images/998.jpg)
+
+Tony won the roll to play first but was forced to mulligan his opening hand as it contained no lands at all. He kept his six-card hand but missed his land drop on his second turn. Noah, meanwhile, started with a Wall of Roots and an Elvish Lyrist which was a very key card in this matchup. Tony found a land on his third turn and Noah started to apply the pressure by attacking with the Lyrist and making a Masticore. Tony drew another Island and played a Stasis and a Claws of Gix while the Lyrist was tapped hoping that he could stem the attack for a few turns and perhaps force Noah to let his Masticore die. 
 
 This decision proved to look better and better for Dobson as he continued to draw nothing but Islands over the next five turns while Noah had to let his Masticore die and sit there wishing he hadn't attacked with the Lyrist. Noah tried to apply some pressure using a Rofellos to summon a Deranged Hermit and a Gaea's Cradle to try for a Stampeding Wildebeest. The Hermit's Squirrels were dealt with by a Powder Keg and the Wildebeest was met with a Counterspell as Tony stabilized his position. Tony played a Gush to keep the Stasis going and soon after sacrificed the first Stasis to his Claws allowing him to untap and play a second. 
 

@@ -169,7 +169,9 @@ render_recovery:
   - Worldslayer
   occurrences: 192
 ---
-![](https://i.ormos.uk/65/35/6535f05f7bb86fe584b69b4b9ee26b39a5ceb13222995853ad23ae72d163038a.jpg)Earlier in the day last season's Rookie of the Year Masashi Oiso agonized over some final decisions for his deck including whether or not to play an Isochron Scepter, whether or not to play sixteen or seventeen lands and--once he committed to sixteen--whether his final card should have been Trolls of Tel-Jilad or a Clockwork Condor. He played the Scepter with a pair of Shatters and an Annul to go with it and he chose the Condor but he was not happy about it. He had three rounds worth of byes to sit around and debate his decisions but the die had been cast. He would finally get to battletest his decisions.
+![](https://i.ormos.uk/65/35/6535f05f7bb86fe584b69b4b9ee26b39a5ceb13222995853ad23ae72d163038a.jpg)
+
+Earlier in the day last season's Rookie of the Year Masashi Oiso agonized over some final decisions for his deck including whether or not to play an Isochron Scepter, whether or not to play sixteen or seventeen lands and--once he committed to sixteen--whether his final card should have been Trolls of Tel-Jilad or a Clockwork Condor. He played the Scepter with a pair of Shatters and an Annul to go with it and he chose the Condor but he was not happy about it. He had three rounds worth of byes to sit around and debate his decisions but the die had been cast. He would finally get to battletest his decisions.
 
 His opponent was Kouhei Yamadaya, the last winner of a Grand Prix in Shizuoka. When he upset the field at the previous tournament he did so with devilish mana in the Top 8. His first picks were all bombs--Iridescent Angel, Stone-Tongue Basilisk and Aboshan, Cephalid Emperor. He played all three with a 5-5-6 mana base with only a Skycloud Expanse to 'fix' his mana. Somehow he made it all work and defeated a more experienced field to hoist the trophy.
 
@@ -191,7 +193,9 @@ Oiso - 0 Yamadaya - 1
 
 ### Game Two
 
-![](https://i.ormos.uk/fb/37/fb376fcae8b6ad5672b3739c11d93cdf2ee06524c1adc66f3710afa3bd15a145.jpg)Oiso laughed as he reached for the Trolls of Tel-Jilad that he had agonized during deck construction, exiling his Condor to the board. He seemed unconvinced that this was they right play and went back to put the Condor in--this time sending the Scepter to the bench.
+![](https://i.ormos.uk/fb/37/fb376fcae8b6ad5672b3739c11d93cdf2ee06524c1adc66f3710afa3bd15a145.jpg)
+
+Oiso laughed as he reached for the Trolls of Tel-Jilad that he had agonized during deck construction, exiling his Condor to the board. He seemed unconvinced that this was they right play and went back to put the Condor in--this time sending the Scepter to the bench.
 
 Yamadaya was definitely keeping a hand with Shatter, Creeping Mold and Pyrite Spellbomb but not before Osio made a decision. His hand had one land and a number of Myr. If he drew another land he would be fine but with only sixteen could he take that chance? He decided that he could not and sent it back for six more.
 

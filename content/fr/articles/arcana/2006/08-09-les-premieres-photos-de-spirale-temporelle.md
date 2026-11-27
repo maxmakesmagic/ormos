@@ -73,7 +73,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/14/5d/145d425e59dc756495e869591e98dfe5fb6589003fb359673bee789ab8cd2e03.jpg)Il est important de se rappeler ces moments là. Celui où l’on découvre à quoi va ressembler l’avenir. Voici donc les packaging pour la série d’Octobre 2006 :*Spirale Temporelle*.
+![](https://i.ormos.uk/14/5d/145d425e59dc756495e869591e98dfe5fb6589003fb359673bee789ab8cd2e03.jpg)
+
+Il est important de se rappeler ces moments là. Celui où l’on découvre à quoi va ressembler l’avenir. Voici donc les packaging pour la série d’Octobre 2006 :*Spirale Temporelle*.
 
 Soyez prêts
 

@@ -175,7 +175,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/7f/f9/7ff9cb67c04285758496509d0b06c71732e94a21f0e713d05c15376fa776c3ad.jpg)Mitchell is the first South African player to be in a Pro Tour feature match. With several Pro Tours under his belt, he is also the top player from his country. Mitchell is playing a modified version of my mono-black deck and is currently at 7-3. He needs to go 3-0-1 in order to place in the top 8. Dave Price, the King of Beatdown needs to make top 32 in this Pro Tour in order to remain on the gravy train.
+![](https://i.ormos.uk/7f/f9/7ff9cb67c04285758496509d0b06c71732e94a21f0e713d05c15376fa776c3ad.jpg)
+
+Mitchell is the first South African player to be in a Pro Tour feature match. With several Pro Tours under his belt, he is also the top player from his country. Mitchell is playing a modified version of my mono-black deck and is currently at 7-3. He needs to go 3-0-1 in order to place in the top 8. Dave Price, the King of Beatdown needs to make top 32 in this Pro Tour in order to remain on the gravy train.
 
 Both brought mono-black decks to the table. Price's version is better suited to the mirror match due to the greater number of Mind Sludges, but Mitchell has a superior sideboard in the matchup, as it features Mesmeric Fiend in addition to Braids and Rancid Earth.
 
@@ -201,7 +203,9 @@ In: Caustic Tar, Mind Sludge, Skeletal Scrying, Mind Sludge, 4 Braids, 4 Mesmeri
 
 ### Game 2
 
-![](https://i.ormos.uk/a7/f8/a7f8e222a500264f6e5010ba762845804c18a8e196f04cff3336331317e70899.jpg)Price did not get the necessary Fiend, Rancid Earth draw – but neither did Mitchell. Price lost his Shade to Innocent Blood and then lost his Braids to an Edict. However, Mitchell lost two Shades – one to Edict, and one to the Braids sacrificial effect. Second Braids came out on Price's side of the table but Mitchell had a decent answer, getting back up to four mana and summoning a Mesmeric Fiend to hide away his opponent's Shade. Unfazed, Price summoned a third Braids in a row. 
+![](https://i.ormos.uk/a7/f8/a7f8e222a500264f6e5010ba762845804c18a8e196f04cff3336331317e70899.jpg)
+
+Price did not get the necessary Fiend, Rancid Earth draw – but neither did Mitchell. Price lost his Shade to Innocent Blood and then lost his Braids to an Edict. However, Mitchell lost two Shades – one to Edict, and one to the Braids sacrificial effect. Second Braids came out on Price's side of the table but Mitchell had a decent answer, getting back up to four mana and summoning a Mesmeric Fiend to hide away his opponent's Shade. Unfazed, Price summoned a third Braids in a row. 
 
 Price used Skeletal Scrying to draw three more cards in order to stay ahead of his opponent with Braids. He did not find any lands, but he did draw a Rancid Earth which would further hinder Mitchell on the following turn. Price summoned a Fiend of his own, hiding away Mitchell's currently useless Diabolic Tutor. Mitchell let his own Fiend go during upkeep to keep a pair of lands in play, top-decked another Mesmeric Fiend, but conceded upon seeing a pair of Nantuko Shades in Price's hand – Price would easily be able to upkeep Braids long enough to keep Mitchell crippled.
 
@@ -217,7 +221,9 @@ Price
 
 ### Game 3
 
-![](https://i.ormos.uk/c0/2f/c02f3583b672782d740de9f65ee500221393cd20e42e3c7270f528ea92ae51de.jpg)Mitchell took a mulligan but his six-card hand was quite reasonable. He summoned a Mesmeric Fiend on turn 2, hiding Chainer's Edict. Price summoned a Nantuko Shade. It was Mitchell's turn to cast Braids. Price let go of his Shade, played a fourth Swamp and cast Innocent Blood. Mitchell let the Fiend go, releasing Chainer's Edict, which Price immediately cast to deal with the Cabal Minion.
+![](https://i.ormos.uk/c0/2f/c02f3583b672782d740de9f65ee500221393cd20e42e3c7270f528ea92ae51de.jpg)
+
+Mitchell took a mulligan but his six-card hand was quite reasonable. He summoned a Mesmeric Fiend on turn 2, hiding Chainer's Edict. Price summoned a Nantuko Shade. It was Mitchell's turn to cast Braids. Price let go of his Shade, played a fourth Swamp and cast Innocent Blood. Mitchell let the Fiend go, releasing Chainer's Edict, which Price immediately cast to deal with the Cabal Minion.
 
 Mitchell failed to draw a fifth land in order to cast Mind Sludge. He summoned Nantuko Shade and passed the turn. Price Sludged, taking out Mitchell's hand. An Edict in his graveyard would also let him kill Nantuko Shade next turn and award him control of the game. After that happened, Mitchell summoned a second Shade. 
 

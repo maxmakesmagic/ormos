@@ -44,7 +44,9 @@ archive_source:
   sha256: d9b6219782f71fdd1223bcc037605cb9b19f4719348ae8ebac087bb73107d494
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a990.jpg)Both these players are on hot streaks at the moment. Mattias Jorstedt has made it to the top 8 at three out of the last four Pro Tours finally taking a title at the last one in Yokohama. Currently he's breathing down Kai's neck in the player of the year race. Larkin has also had a good year following his quarter-finals finish at last year's World Championships.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a990.jpg)
+
+Both these players are on hot streaks at the moment. Mattias Jorstedt has made it to the top 8 at three out of the last four Pro Tours finally taking a title at the last one in Yokohama. Currently he's breathing down Kai's neck in the player of the year race. Larkin has also had a good year following his quarter-finals finish at last year's World Championships.
 
 Jorstedt is running red-white-green Slide while Larkin is running blue-green Madness.  
  Jorstedt won the die roll and elected to go first.
@@ -55,7 +57,9 @@ Larkin came out of the blocks with a turn one Rootwalla, but his deck didn't pro
 
 The Swede had laid a morph card on turn 3, but was in no hurry to flip it over. After Slicing the 'Walla's he dropped a [Lightning Rift](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Rift) and cycled to shock a freshly summoned [Merfolk Looter](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a991.jpg)From then on the game started to go away from Larkin as Jorstedt unmorphed the [Exalted Angel](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel) and started swinging. The Irishman dug for answers with [Deep Analysis](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) but none were forthcoming and they were swiftly onto Game 2.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a991.jpg)
+
+From then on the game started to go away from Larkin as Jorstedt unmorphed the [Exalted Angel](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel) and started swinging. The Irishman dug for answers with [Deep Analysis](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) but none were forthcoming and they were swiftly onto Game 2.
 
 Jorstedt 1-0 Larkin
 
@@ -67,7 +71,9 @@ Larkin left the Rift where it was for the moment. He flashed back [Roar](https:/
 
 The Swede cleared the board with [Wrath](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath) and then it seemed like Larkin's blue-green deck had run out of gas. He took more damage to flashback a [Deep Analysis](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis). He Rayed away the Rift and then Careful Studied a Rootwalla into play.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a992.jpg)Then the Irishman seemed to draw a bunch of land and not a lot else. Jorstedt got rid of the 'Walla with a [Slice and Dice](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice) and then started serving with [Teroh's Faithful](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teroh%27s+Faithful) and [Nantuko Monastery](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Monastery).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a992.jpg)
+
+Then the Irishman seemed to draw a bunch of land and not a lot else. Jorstedt got rid of the 'Walla with a [Slice and Dice](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice) and then started serving with [Teroh's Faithful](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teroh%27s+Faithful) and [Nantuko Monastery](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Monastery).
 
 Larkin wasn't out of it though as he cast [Upheaval](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval), floating enough mana to follow it with an [Aquamoeba](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba). In his end step madness brought a discarded Rootwalla into play and it seemed like the game had been turned round for the Irishman.
 

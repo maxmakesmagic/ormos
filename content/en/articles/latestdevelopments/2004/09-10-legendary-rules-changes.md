@@ -109,7 +109,9 @@ Additionally, "Legend" was a creature type, but "Legendary"—as in Legendary La
 
 ### The Right Time
 
-![](https://i.ormos.uk/40/7c/407c8fb30fa211813e0e8c6277729d53355bc99af97b53f77717c9ccdf7583b2.jpg)Flash forward a little bit, to the design of *Champions of Kamigawa*. As the set came together, it was apparent that Legends were going to be a big part of what the set was about. What was also apparent was that we really, really wanted to make good, aggressive, cheap Legends, but the existing "legend rule" hamstrung us.
+![](https://i.ormos.uk/40/7c/407c8fb30fa211813e0e8c6277729d53355bc99af97b53f77717c9ccdf7583b2.jpg)
+
+Flash forward a little bit, to the design of *Champions of Kamigawa*. As the set came together, it was apparent that Legends were going to be a big part of what the set was about. What was also apparent was that we really, really wanted to make good, aggressive, cheap Legends, but the existing "legend rule" hamstrung us.
 
 Zvi to the rescue!
 

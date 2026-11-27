@@ -44,7 +44,9 @@ archive_source:
   sha256: 72217f715c18a5e526d4a149ba26320bb9772985ab57c8bdaf7a89cc40a4ce92
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a917.jpg)Tennessee's Craig Wescoe qualified for Nationals the day before – during the "US Open" or "meatgrinders." He took his "Psychatog + Red" deck to a 6-0 record yesterday, but is only 2-2 with it so far in the main event.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a917.jpg)
+
+Tennessee's Craig Wescoe qualified for Nationals the day before – during the "US Open" or "meatgrinders." He took his "Psychatog + Red" deck to a 6-0 record yesterday, but is only 2-2 with it so far in the main event.
 
 Alan Comer, playing his "Deck Doctor" Desolation Angel deck, is also 2-2. Psychatog is a difficult matchup for Comer. 
 
@@ -54,7 +56,9 @@ Wescoe Fact or Fictioned in his main phase for some land and a second FoF, calli
 
 Comer took advantage of Wescoe tapping out to Edict away the Familiar. Comer then Fact or Fictioned himself, netting Dromar's Charm and a backup FoF of his own. Both players FoF'ed again, setting up for some long fights later on.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a919.jpg)One such fight was picked when Wescoe played a Psychatog. Comer wanted to off it with Chainer's Edict, but Wescoe had a Repulse waiting. Comer said, "Um, no," and Counterspelled it, Wescoe cast Circular Logic, but Comer had the trump – Dromar's Charm.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a919.jpg)
+
+One such fight was picked when Wescoe played a Psychatog. Comer wanted to off it with Chainer's Edict, but Wescoe had a Repulse waiting. Comer said, "Um, no," and Counterspelled it, Wescoe cast Circular Logic, but Comer had the trump – Dromar's Charm.
 
 Both players then reloaded, Comer with Concentrates, and Wescoe by flashing back two copies of Deep Analysis that were in his graveyard from earlier Fact or Fiction splits.
 
@@ -66,7 +70,9 @@ With only three cards in hand, Wescoe looked to be vulnerable to a Comer Gerrard
 
 Comer 1 – Wescoe 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a918.jpg)Game 2 was not exactly one for the ages. Comer was stuck on two Coastal Towers and had to discard a few times while Wescoe was developing nicely with two Nightscape Familiars and some very cheap Fact or Fictions. Comer eventually drew two more land, but Wescoe was so ridiculously ahead. A third Familiar and a Psychatog joined the party, and Wescoe's seven-card hand scared Comer into scooping.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a918.jpg)
+
+Game 2 was not exactly one for the ages. Comer was stuck on two Coastal Towers and had to discard a few times while Wescoe was developing nicely with two Nightscape Familiars and some very cheap Fact or Fictions. Comer eventually drew two more land, but Wescoe was so ridiculously ahead. A third Familiar and a Psychatog joined the party, and Wescoe's seven-card hand scared Comer into scooping.
 
 Comer 1 – Wescoe 1
 

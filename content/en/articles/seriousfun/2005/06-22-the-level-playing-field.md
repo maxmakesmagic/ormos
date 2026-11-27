@@ -215,7 +215,9 @@ It's an email I get about once every two weeks. The tone is thoughtful, but the 
 
 ### The Value Of Inequality
 
-![](https://i.ormos.uk/c5/0d/c50d9db5c00f7e7bebc08246d8524e927d785f056010035967d86d5f9454a797.jpg)Since my brother-in-law and I began playing together (badly, may I add) in the Spring of 1999, I have experienced inequality in our play group. His cards were much more numerous than mine; he's an experienced card collector. Later on, as we added friends to our group, and our friends brought in friends, and those friends brought in work buddies, and those work buddies told some friends, until it was like a shampoo commercial from hell…well, the inequalities changed over time, but inequality itself has been a constant.
+![](https://i.ormos.uk/c5/0d/c50d9db5c00f7e7bebc08246d8524e927d785f056010035967d86d5f9454a797.jpg)
+
+Since my brother-in-law and I began playing together (badly, may I add) in the Spring of 1999, I have experienced inequality in our play group. His cards were much more numerous than mine; he's an experienced card collector. Later on, as we added friends to our group, and our friends brought in friends, and those friends brought in work buddies, and those work buddies told some friends, until it was like a shampoo commercial from hell…well, the inequalities changed over time, but inequality itself has been a constant.
 
 Our group is a healthy group, on balance. We all like each other and we've assimilated (yes, assimilated…insert geeky Borg joke here) many different personalities and play styles. We're not perfect – we lost at least one good fellow a few years ago to irreconcilable differences – but we sit at about a dozen regular players, with eight or more showing up each week.
 
@@ -230,7 +232,9 @@ When those eight people show up, you can bet there are eight variations on each 
 *   trading experience
 *   unhealthy attachment to cards like Psychic Battle and Infernal Denizen.
 
-![](https://i.ormos.uk/d6/5f/d65f4173c3bd52611ae54baafa1badbdee6f9fdd21bdcecc0f8d311e7c0d6547.jpg)Believe me when I say I do not rank #1 in *any* of these categories. Seriously, the freaks that come out each Thursday night would scare your socks green.
+![](https://i.ormos.uk/d6/5f/d65f4173c3bd52611ae54baafa1badbdee6f9fdd21bdcecc0f8d311e7c0d6547.jpg)
+
+Believe me when I say I do not rank #1 in *any* of these categories. Seriously, the freaks that come out each Thursday night would scare your socks green.
 
 Because we've had to negotiate such a variety of abilities, resources, and preferences over the years, we've ironed out quite a bit. Here's my advice, complete with new and used format suggestions, to any group struggling with the same issues.
 

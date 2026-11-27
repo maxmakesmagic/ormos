@@ -83,7 +83,9 @@ render_recovery:
   - Powder Keg
   occurrences: 43
 ---
-![](https://i.ormos.uk/bb/fe/bbfe255662f4fb04bbbafcdbcab894352b960c633e93759a027632a33efd8e0b.jpg)Ken Krouner's winning smile hasn't faded since his Top 8 appearance at Worlds in August. He still sports the same dye-job hairdo and completely easygoing nature. Waiting for his deck to pass inspection, Krouner had a minute to talk about his deck choice. He said that he chose The Rock because it's a deck that goes 55% against everything, and the field was too wide-open to predict. 
+![](https://i.ormos.uk/bb/fe/bbfe255662f4fb04bbbafcdbcab894352b960c633e93759a027632a33efd8e0b.jpg)
+
+Ken Krouner's winning smile hasn't faded since his Top 8 appearance at Worlds in August. He still sports the same dye-job hairdo and completely easygoing nature. Waiting for his deck to pass inspection, Krouner had a minute to talk about his deck choice. He said that he chose The Rock because it's a deck that goes 55% against everything, and the field was too wide-open to predict. 
 
 "Though, I asked Ishida what he's played so far, and it was two Rock decks. He's 2-0." - Ken Krouner
 
@@ -99,7 +101,9 @@ Ishida calmly untapped, Wished for Corpse Dance, and played his sixth land to da
 
 Ishida 1 - Krouner 0
 
-![](https://i.ormos.uk/68/96/68969a7619eb0e101907eba6a9909c78a604b62e508111ddcc086bcd111678e4.jpg)"That is the coolest thing that's ever happened to me in a match I lost. I am seriously in awe. This is why I should test the Japanese." - Ken Krouner
+![](https://i.ormos.uk/68/96/68969a7619eb0e101907eba6a9909c78a604b62e508111ddcc086bcd111678e4.jpg)
+
+"That is the coolest thing that's ever happened to me in a match I lost. I am seriously in awe. This is why I should test the Japanese." - Ken Krouner
 
 This time around Krouner led with Duress. He saw Intuition, Sapphire Medallion, Cunning Wish, Annul, Treachery and two lands. Naturally he took the Medallion. Ishida played a land and passed it back. Cabal Therapy for Cunning Wish saw that he'd drawn a second one.
 
@@ -107,7 +111,9 @@ Now Krouner was rolling. Ishida played a second land and was faced with Phyrexia
 
 Ishida 1 - Krouner 1
 
-![](https://i.ormos.uk/09/7b/097b4850084a66b3516652a345e8227f5fc7044f771e24994455105638190527.jpg)Ishida didn't like it, but he knew he had to send back his first hand. Krouner had no trouble keeping his. He led with Duress, stealing Counterspell and seeing Cunning Wish. His second turn he played Cabal Therapy, and again, Ishida had drawn a second Wish.
+![](https://i.ormos.uk/09/7b/097b4850084a66b3516652a345e8227f5fc7044f771e24994455105638190527.jpg)
+
+Ishida didn't like it, but he knew he had to send back his first hand. Krouner had no trouble keeping his. He led with Duress, stealing Counterspell and seeing Cunning Wish. His second turn he played Cabal Therapy, and again, Ishida had drawn a second Wish.
 
 With Ishida's hand dismantled, Krouner set about killing him. Vampiric Tutor got him his fifth land, a Dust Bowl, enabling Spiritmonger. Ravenous Baloth and Treetop Village soon followed. Ishida's draws of Sapphire Medallion, Powder Keg and Psychatog were no match.
 

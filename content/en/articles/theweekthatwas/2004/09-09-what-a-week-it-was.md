@@ -235,7 +235,9 @@ render_recovery:
 
 ### What a Week!
 
-![](https://i.ormos.uk/d7/68/d7680620f84b7cc40876c0deb6ed8edb45dc4e95071c201929ff157af64bbc4f.jpg)It really was a great week. It was a long five-day tournament that tested players in three different disciplines, and for members of National teams it was four different formats! The world's greatest **Magic** players gathered together in northern California to determine the World Champion, Team Champion, Player of the Year, and Rookie of the Year. With the Player-of-the-Year race would also come the final standings for the end-of-year payout that was put into place this season to replace the Master Series. 
+![](https://i.ormos.uk/d7/68/d7680620f84b7cc40876c0deb6ed8edb45dc4e95071c201929ff157af64bbc4f.jpg)
+
+It really was a great week. It was a long five-day tournament that tested players in three different disciplines, and for members of National teams it was four different formats! The world's greatest **Magic** players gathered together in northern California to determine the World Champion, Team Champion, Player of the Year, and Rookie of the Year. With the Player-of-the-Year race would also come the final standings for the end-of-year payout that was put into place this season to replace the Master Series. 
 
 When the whole weekend was said and done, more than $1 million was given away. It also brought the prize total for the just-concluded season to $3 million. Even more impressive than that was the fact -- which Wizards emphasized with a towering physical representation -- that since the inception of the Pro Tour, just shy of $22 million dollars has been given way in cash and scholarships! 
 
@@ -247,7 +249,9 @@ The next time I heard of him was this week when he won the Rookie of the Year in
 
 Nuijten played an Eternal Slide deck in Standard and tore his way through the Top 8 defeating Canada's Murray Evans (with Affinity), Japan's Ryo Ogura (with mono-red Goblins), and then Paquette in the finals. When Nuijten faced off with Paquette, their match had more money in play than any in the history of the game. Not only would the winner take home $12,000 more than the loser, but the corresponding Pro Tour points would come with a hefty chunk of the end-of-year cash. They were also playing for Rookie of the Year honors and a free trip to any Pro Tour this coming season (\*cough\* Japan \*cough\*).
 
-![](https://i.ormos.uk/26/61/2661181ca432ee1b2fba9b0c5840c838d34b6e2bce2be9a87d75b233bd76dbf8.jpg)While the 15-year-old showed remarkable poise during the finals -- Aeo's Affinity deck was the significant underdog coming into the finals -- Nuijten seemed somewhat overwhelmed by the enormity of his accomplishments afterward.
+![](https://i.ormos.uk/26/61/2661181ca432ee1b2fba9b0c5840c838d34b6e2bce2be9a87d75b233bd76dbf8.jpg)
+
+While the 15-year-old showed remarkable poise during the finals -- Aeo's Affinity deck was the significant underdog coming into the finals -- Nuijten seemed somewhat overwhelmed by the enormity of his accomplishments afterward.
 
 I tagged along with photographer Craig Gibson as he shot the young champion for the site's front page and asked him how he felt about his accomplishment, “Everyone keeps asking me that but I don't know what to say to that question.”
 
@@ -255,7 +259,9 @@ It was not the first time the young man had won money playing **Magic**. In fact
 
 He will certainly not have to worry much about qualifying for upcoming Pro Tours. He is qualified for the remainder of the year now and he plans on attending every one of them. Besides airline tickets there was only one other specific item earmarked for purchase with his winnings. “I will go to the next 10 Pro Tours and spend the rest on stuff -- and I promised my brother a car if I won. And I won, so…”
 
-![](https://i.ormos.uk/39/94/3994d762a403443c2a9b2e184742360211d1b3fb1e20290f1379143f842fe0c6.jpg)His brother Daniel should not get his hopes up for a fancy new sports car. “I just said “a car” though. He is just two years living on his own and he had a car but it was hit by a truck. He will be happy with any car.”
+![](https://i.ormos.uk/39/94/3994d762a403443c2a9b2e184742360211d1b3fb1e20290f1379143f842fe0c6.jpg)
+
+His brother Daniel should not get his hopes up for a fancy new sports car. “I just said “a car” though. He is just two years living on his own and he had a car but it was hit by a truck. He will be happy with any car.”
 
 The curly-haired Julien played green-white slide this week but it was not his choice for the Standard portion of Dutch Nationals, where he played Affinity. I asked him why the change and he pointed to some recent metagame changes. “Well, the reason I didn't play it at Nationals was because it has a horrible matchup against Goblin Bidding. It is almost unwinnable. I figured everyone was taking out the Biddings for Naturalizes and stuff since everyone was going to play Affinity. So Goblins suddenly turned into a good matchup and that made me decide to play green-white. And it just felt right in testing.”
 
@@ -269,7 +275,9 @@ As we walked back to the tournament site, Julien was looking forward to celebrat
 
 ### Slow and Steady Wins the Race
 
-![](https://i.ormos.uk/41/a2/41a2c6d84b149d6502e714909d7adba65ad364b849edd09ee2ceccf7134ca7a3.jpg)Twenty-three-year old Gabriel Nassif is the 2004 Player of the Year. The young Frenchman is the first player not named Kai Budde to win that award in the last three years. He is also the first player to win the title without winning a Pro Tour over the course of that season. He vaulted ahead of front-running, two-time Pro Tour winner Nicolai Herzog with his third Top 8 this season to take the title and the top cash prize of $20,000. He will also get free airfare and accommodations to the next season of Pro Tour events. 
+![](https://i.ormos.uk/41/a2/41a2c6d84b149d6502e714909d7adba65ad364b849edd09ee2ceccf7134ca7a3.jpg)
+
+Twenty-three-year old Gabriel Nassif is the 2004 Player of the Year. The young Frenchman is the first player not named Kai Budde to win that award in the last three years. He is also the first player to win the title without winning a Pro Tour over the course of that season. He vaulted ahead of front-running, two-time Pro Tour winner Nicolai Herzog with his third Top 8 this season to take the title and the top cash prize of $20,000. He will also get free airfare and accommodations to the next season of Pro Tour events. 
 
 In addition to being one of the best players in the world, Nassif is one of the most beloved. His good humor, humble nature, and refusal to ever direct the spotlight in his own direction have made him into a favorite of both professional and casual players all over the world. 
 
@@ -277,7 +285,9 @@ Nassif began playing **Magic** with his friends from school when *Ice Age* came 
 
 “They didn't stop, they just play casually not seriously," Nassif said. "They are all pretty excited by what I have done but I was never better than them cause they never played in a PTQ. We started playing casually and trading cards. Then I went to the local gaming center and they never went there. They never tried to compete on the same level. I think a few of them would have been pretty good if they had played because they were smart and all that. So it was never a competition like that.”
 
-![](https://i.ormos.uk/5f/ab/5fabf12899418ca0c658e801b49885c2315bf66d299875288dbf0d88c13d7859.jpg)Nassif's rise from casual to competitive player was rapid, although he does not think so. While many players toil in the PTQ ranks for years before understanding how to break onto the Pro Tour, it seems to have come to him with great ease -- although there were other obstacles. 
+![](https://i.ormos.uk/5f/ab/5fabf12899418ca0c658e801b49885c2315bf66d299875288dbf0d88c13d7859.jpg)
+
+Nassif's rise from casual to competitive player was rapid, although he does not think so. While many players toil in the PTQ ranks for years before understanding how to break onto the Pro Tour, it seems to have come to him with great ease -- although there were other obstacles. 
 
 “One year I played…my Mom didn't know I was playing and I had to keep it from her. So I just played in a few PTQs and was just scooping. I went 4-0 and scooped twice and went 6-0 and scooped twice. I did this a couple of times. Then I played in the first PTQ in Paris and won it.
 
@@ -293,13 +303,17 @@ He seems to chaff at that distinction for a couple of reasons. Most importantly 
 
 “What happened was Olivier Ruel had a Cloudpost deck with I don't know what in it -- Angels, Memnarch and stuff. It wasn't very good. You never come with a deck on your own. In this case Oliver had the Sylvan Scrying-Reap and Sow-Cloudpost deck with lots of expensive artifacts but not the card Tooth and Nail. That was my contribution and then we all tested the deck together.”
 
-![](https://i.ormos.uk/57/b8/57b8e2d23a0fdff3a51eb6a456f9154aeb77673627ccc47f982a5de08b7db35a.jpg)It is no coincidence that, like World Champion Nuijten, Nassif lives in an area with a high concentration of the game's top players. “We all live in Paris so that is pretty lucky. Like for New Orleans for instance I was only with Frank Canu -- it was mostly me and Canu. I would go to his place every day after school and test the Charbelcher deck. For Kobe I tested with the Ruels mostly.”
+![](https://i.ormos.uk/57/b8/57b8e2d23a0fdff3a51eb6a456f9154aeb77673627ccc47f982a5de08b7db35a.jpg)
+
+It is no coincidence that, like World Champion Nuijten, Nassif lives in an area with a high concentration of the game's top players. “We all live in Paris so that is pretty lucky. Like for New Orleans for instance I was only with Frank Canu -- it was mostly me and Canu. I would go to his place every day after school and test the Charbelcher deck. For Kobe I tested with the Ruels mostly.”
 
 Nassif also uses ***Magic** Online* to test his constructed decks whenever possible, “For this PT I did. When I can I try to get the cards and play both in real life and ***Magic** Online*. The eight-mans are pretty decent -- not all scrubs. For this event I played a few eight-mans with my blue-white deck.”
 
 I asked Nassif how he felt about winning Player of the Year without winning a Pro Tour and whether or not someone with two Pro Tour victories was more deserving. William Jensen, who was standing nearby, answered for him rather emphatically, stating that Nassif was the best player in the world. 
 
-![](https://i.ormos.uk/10/3c/103c1b25a4a44392169c389396e7c3966fb1b52d6ae0c41c0bae898098ba3493.jpg)Nassif was not as confident that was true, “I think I make lots of mistakes. I make up for my mistakes with my deck designing and playtesting. I'm sure there are at least four or five players that are just better than me and don't make any mistakes and such.”
+![](https://i.ormos.uk/10/3c/103c1b25a4a44392169c389396e7c3966fb1b52d6ae0c41c0bae898098ba3493.jpg)
+
+Nassif was not as confident that was true, “I think I make lots of mistakes. I make up for my mistakes with my deck designing and playtesting. I'm sure there are at least four or five players that are just better than me and don't make any mistakes and such.”
 
 When asked who those players were, Nassif grinned and rolled his eyes hoping to dodge the question. When pressed he conceded, “Kai is probably better.” Then he pointed toward a moved William Jensen, who ran over and gave him a bear hug, and added, “He is probably better. Actually probably more than five -- I make a lot of mistakes. Maybe people don't talk about their mistakes but I still find myself making lots of them.”
 
@@ -339,7 +353,9 @@ Next week is the wrap-up for the WSOP and you may hear a thing or two about **Ma
 
 ### Bad Beat of the Week
 
-![](https://i.ormos.uk/90/84/9084c0aa6b5ef5c3ce966974719d1bc9cab78cf25fd30ccdfe2d1fd2b894e2ec.jpg)Nicolai Herzog won two Limited Pro Tours this year and was leading the Player-of-the-Year race coming into the 2004 World Championships. There were two players close on his heels in the standings and we know that Nassif managed to overtake him with his Top 8 performance.
+![](https://i.ormos.uk/90/84/9084c0aa6b5ef5c3ce966974719d1bc9cab78cf25fd30ccdfe2d1fd2b894e2ec.jpg)
+
+Nicolai Herzog won two Limited Pro Tours this year and was leading the Player-of-the-Year race coming into the 2004 World Championships. There were two players close on his heels in the standings and we know that Nassif managed to overtake him with his Top 8 performance.
 
 After Day 1, Nicolai was in excellent shape and heading into what many felt would be his strongest day of competition -- *Mirrodin* Block booster draft. After all, he had won two Limited Pro Tours in *Mirrodin* block this season. He went 2-1 in his first draft, and despite being extremely happy with his draft in the second pod, stunned everyone with an 0-3 performance and dropped out of Top 8 contention with a 6-6 record after Day 2.
 

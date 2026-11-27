@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/801.jpg)Many people consider Team Black Ops to be the best team in the world. The French trio, consisting of Florent Jeudon (20) and the two brothers Olivier (19) and Antoine (20) Ruel won the Team Challenge held during 2000 Pro Tour New York, and they also won Grand Prix Cannes. Still, the Black-Ops don't consider themselvfes favourites for the 2000 Team Pro Tour New York. "We are outsiders," Olivier thinks. "Team Antarctica are the favourites." 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/801.jpg)
+
+Many people consider Team Black Ops to be the best team in the world. The French trio, consisting of Florent Jeudon (20) and the two brothers Olivier (19) and Antoine (20) Ruel won the Team Challenge held during 2000 Pro Tour New York, and they also won Grand Prix Cannes. Still, the Black-Ops don't consider themselvfes favourites for the 2000 Team Pro Tour New York. "We are outsiders," Olivier thinks. "Team Antarctica are the favourites." 
 
 Regardless of what the Black-Ops think, they are still one of the teams that people expect to find high up on the standings list when the Pro Tour is over. One week ago, the two Ruel brothers ruled Grand Prix Porto; Antoine became the champion after defeating Olivier in the finals. That same weekend, Florent became the European Champion of Netrunner, so even though it wasn't Magic, they all proved that they are in a good strategic shape. In addition, they have playtested a lot. 
 

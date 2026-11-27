@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a587.jpg)World Championships 2002 has had a number of strong stories come from its annals, but the most important in years to come may be Latin America's maturation as a Pro Tour force to be reckoned with. Never before has a Latin American made it to the Sunday of a Pro Tour, usually fighting amongst themselves for the scraps that are their continental Grand Prix' while the rest of the world has dined on steak. Now, like Carlos Romao, Ostrovich is just three small steps away from the ultimate prize.
+![](http://www.wizards.com/sideboard/images/worlds02/a587.jpg)
+
+World Championships 2002 has had a number of strong stories come from its annals, but the most important in years to come may be Latin America's maturation as a Pro Tour force to be reckoned with. Never before has a Latin American made it to the Sunday of a Pro Tour, usually fighting amongst themselves for the scraps that are their continental Grand Prix' while the rest of the world has dined on steak. Now, like Carlos Romao, Ostrovich is just three small steps away from the ultimate prize.
 
 Diego, having completed high school but not quite ready for University or the public sector, has been playing Magic in the mean time, lots of it. He logs on to Magic Online daily, he's been a part of the formation of Bandana, the team of Argentineans, Chileans Brazilians, Uruguayans and Venezuelans that has unified South American Magic with such startling results, and he's been resilient. This is his third World Championships, his second as National Champion, but this is the first time he's tasted success on this stage.
 

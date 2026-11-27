@@ -98,7 +98,9 @@ Williams- 1 Dougherty- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptno03/931.jpg)Dougherty had a first turn Tarnished Citadel, and Williams played Mogg Fanatic, then a Piledriver on turn two. Vampiric Tutor on end step was followed by Engineered Plague on Goblins, and Williams played a Ringleader, which got him a Prospector and a Recruiter. Despite the Plague, the two Goblins still dealt three damage when they attacked. Cabal Therapy took the Recruiter out of Williams' hand, leaving the Prospector, Mogg Fanatic and a Warchief.
+![](http://www.wizards.com/sideboard/images/ptno03/931.jpg)
+
+Dougherty had a first turn Tarnished Citadel, and Williams played Mogg Fanatic, then a Piledriver on turn two. Vampiric Tutor on end step was followed by Engineered Plague on Goblins, and Williams played a Ringleader, which got him a Prospector and a Recruiter. Despite the Plague, the two Goblins still dealt three damage when they attacked. Cabal Therapy took the Recruiter out of Williams' hand, leaving the Prospector, Mogg Fanatic and a Warchief.
 
 The Warchief was summoned and attacked with the rest of the team, dealing six damage total to bring Dougherty to four life points. Putrid Imp blocked and traded with the Piledriver, and a Recruiter came out and died immediately, but the search effect still triggered. With no answers left, Dougherty conceded.
 

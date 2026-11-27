@@ -44,7 +44,9 @@ archive_source:
   sha256: 44ed9fc737b01fdc994bcb878db16b35866e17768f1aa745c0e640576b045b82
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm4_1.jpg)Matteo Di Tomaso is a former national champion from a couple of years back. Stephano Fiori was one of the trio of Italian players that reached the quarter-finals at Pro Tour Kobe earlier this year. This time Fiori is running blue-green control over big red while his opponent has [Tooth and Nail](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) with a red splash.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm4_1.jpg)
+
+Matteo Di Tomaso is a former national champion from a couple of years back. Stephano Fiori was one of the trio of Italian players that reached the quarter-finals at Pro Tour Kobe earlier this year. This time Fiori is running blue-green control over big red while his opponent has [Tooth and Nail](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) with a red splash.
 
 Di Tomaso went first and got to watch as Fiori shipped his cards back, again and again. Fiori elected to stick with four and was looking none too healthy. Di Tomaso tipped off he was playing [Tooth and Nail](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tooth+and+Nail) as he opened with a [Cloudpost](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloudpost) and used subsequent [Sylvan Scrying](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Scrying)s to fetch two more from his deck. Fiori had managed to find land with his four card land, but he also had a [Viridian Shaman](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Shaman) that looked like nothing more than a Grey Ogre in this matchup.
 

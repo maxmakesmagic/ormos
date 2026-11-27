@@ -74,7 +74,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](https://i.ormos.uk/d2/5f/d25f8a807d29e8536fdaf467fbdad48ee3129bf4a99c1fd53cf071371c626b7f.jpg)Radoslaw chose to play first with his black/red deck. The game started with an Embalmed Brawler turn 3 amplified 3 times on Radoslaw's side, which hits pretty hard for both players, followed by a turn 4 morph. Meanwhile Stan was fighting with his blue/green deck for mana as he didn't see a third land on his fourth turn, but was helped out by Wirewood Elf.
+![](https://i.ormos.uk/d2/5f/d25f8a807d29e8536fdaf467fbdad48ee3129bf4a99c1fd53cf071371c626b7f.jpg)
+
+Radoslaw chose to play first with his black/red deck. The game started with an Embalmed Brawler turn 3 amplified 3 times on Radoslaw's side, which hits pretty hard for both players, followed by a turn 4 morph. Meanwhile Stan was fighting with his blue/green deck for mana as he didn't see a third land on his fourth turn, but was helped out by Wirewood Elf.
 
 To make matters worse, Rado played Lay Waste on Stan's only island, and the board looked bad for the Dutchman. But with Birchlore Rangers and a blocking Stonewood Invoker he was able to play Caller of the Claw for 1 bear, after damage was dealt. A Timberwatch Elf followed on Stan's next main phase and he could attack for lethal damage on his next turn with Wirewood Pride, as the zombie had already eaten 2/3 of Radoslaw's life total.
 
@@ -84,7 +86,9 @@ Stan van der Velden 1-0
 
 ### Game 2
 
-![](https://i.ormos.uk/51/e4/51e4b25a52a864dd08be1ba6f69cbac765de28288acaed56badfd15251975336.jpg)Radoslaw mulliganed his opening hand going first, but a Withered Wretch hit his side of the board turn 2. Stan's curve wasn't too shabby, as a turn 2 Wirewood Elf accelerated him into turn 3 Snarling Undorak and turn 4 Krosan Vorine, both of them making an abyss-like combo.
+![](https://i.ormos.uk/51/e4/51e4b25a52a864dd08be1ba6f69cbac765de28288acaed56badfd15251975336.jpg)
+
+Radoslaw mulliganed his opening hand going first, but a Withered Wretch hit his side of the board turn 2. Stan's curve wasn't too shabby, as a turn 2 Wirewood Elf accelerated him into turn 3 Snarling Undorak and turn 4 Krosan Vorine, both of them making an abyss-like combo.
 
 A feeding frenzy on a blocked Krosan Vorine stopped it, at the cost of 2 cards. After a couple of inactive turns, Radoslaw played a real threat: Imperial Hellkite. The dragon's empire didn't last very long, as Stan cycled Choking Tethers, leaving Radoslaw with a tapped out board, letting Stan attack without fear of surprise effects.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By David Price*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b19.JPG)Both players are 7-1, fighting for a spot in the top 8. The winner is almost assured a spot in the top 8, giving him at the very least Magic for a Year. The loser most likely won't make it into the top 16. Casey Munn, from Cincinnati, OH, was playing Accelerated Blue and Charles Hinton, from Louisville, KY, was playing Replenish. Replenish seemed to have an edge in this matchup, with many must-counter spells and additional troublesome cards in the sideboard like Mana Short. Still, the Accelerated blue deck could get a fast Morphling with counters to back it up, so it was really anyone's game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b19.JPG)
+
+Both players are 7-1, fighting for a spot in the top 8. The winner is almost assured a spot in the top 8, giving him at the very least Magic for a Year. The loser most likely won't make it into the top 16. Casey Munn, from Cincinnati, OH, was playing Accelerated Blue and Charles Hinton, from Louisville, KY, was playing Replenish. Replenish seemed to have an edge in this matchup, with many must-counter spells and additional troublesome cards in the sideboard like Mana Short. Still, the Accelerated blue deck could get a fast Morphling with counters to back it up, so it was really anyone's game.
 
 Game 1
 

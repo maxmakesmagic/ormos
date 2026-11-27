@@ -81,7 +81,9 @@ render_recovery:
   - Unnatural Selection
   occurrences: 79
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a912.jpg)For years, Gary Wise has yearned to square off against an equal. Someone whose maturity, wisdom, and raw talent matched his own. Today, in thirteen year-old Cole Swannack, he has found that equal.
+![](http://www.wizards.com/sideboard/images/worlds02/a912.jpg)
+
+For years, Gary Wise has yearned to square off against an equal. Someone whose maturity, wisdom, and raw talent matched his own. Today, in thirteen year-old Cole Swannack, he has found that equal.
 
 Though that hardly seems fair to Swannack, does it?
 
@@ -105,7 +107,9 @@ Swannack 1 - Wise 0
 
 Down a game, Wise's mood turned serious. Just because Swannack is thirteen doesn't give him a free ride to 4-1. Besides, sportsmanship demands you play your best, out of respect for your opponent's abilities. After the drubbing he got Game 1, Wise had respect in abundance.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a913.jpg)He kicked off, and again opened with Careful Study, this time discarding Basking Rootwalla and Deep Analysis. Swannack did the same, but his Rootwalla was joined by Roar of the Wurm. They compared Merfolk Looters.
+![](http://www.wizards.com/sideboard/images/worlds02/a913.jpg)
+
+He kicked off, and again opened with Careful Study, this time discarding Basking Rootwalla and Deep Analysis. Swannack did the same, but his Rootwalla was joined by Roar of the Wurm. They compared Merfolk Looters.
 
 But then Wise Looted up Arrogant Wurm, while Swannack only had Aquamoeba. Wise Looted Wonder into his 'yard and hit, busting up Swannack's Roar with Circular Logic.
 
@@ -123,7 +127,9 @@ The worst part of it was that Swannack was holding the second Burst, meaning tha
 
 Swannack 1 - Wise 1
 
-![](http://www.wizards.com/sideboard/images/worlds02/a914.jpg)Wise was really worried about Aether Burst, putting in Sylvan Safekeeper to combat it. He had to mulligan his first hand. Swannack, going first, had already found his acceptable.
+![](http://www.wizards.com/sideboard/images/worlds02/a914.jpg)
+
+Wise was really worried about Aether Burst, putting in Sylvan Safekeeper to combat it. He had to mulligan his first hand. Swannack, going first, had already found his acceptable.
 
 Swannack started with island. Wise played a Safekeeper. Swannack showed him Merfolk Looter. Wise made a Mongrel. Swannack held back on his three mana, showing his intention to Arrogant Wurm.
 

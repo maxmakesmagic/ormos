@@ -88,7 +88,9 @@ render_recovery:
   - Ray of Revelation
   occurrences: 56
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a923.jpg)Josh Rider will tell you straight up he's no good when he's distracted. He was in a position to draw into the Top 8, but was paired down. With so much on the line, it's a good thing he's playing against Sam Lau, the picture of a meticulous, no-nonsense player. Lau's no stranger to Nationals Greatness. He made the team in 2000, and the Top 8 last year. Now he's a win and a draw away from another shot. Lau is playing Psychatog, which is nothing unusual for him. Rider is playing the black-green Oversold Cemetery deck that had a brief moment of hype.
+![](http://www.wizards.com/sideboard/images/natcan03/a923.jpg)
+
+Josh Rider will tell you straight up he's no good when he's distracted. He was in a position to draw into the Top 8, but was paired down. With so much on the line, it's a good thing he's playing against Sam Lau, the picture of a meticulous, no-nonsense player. Lau's no stranger to Nationals Greatness. He made the team in 2000, and the Top 8 last year. Now he's a win and a draw away from another shot. Lau is playing Psychatog, which is nothing unusual for him. Rider is playing the black-green Oversold Cemetery deck that had a brief moment of hype.
 
 ### Game 1
 
@@ -114,7 +116,9 @@ Rider 1 – Lau 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/natcan03/a922.jpg)Lau was in a much better position going first for Game 2. He Spiked a Llanowar Elves then Counterspelled Rider's attempt at a Wirewood Herald. A second Herald resolved, and then both players stared at each other for two turns, playing out lands. Lau broke the silence with Psychatog with two blue open. Rider Smothered it at end of turn, and Lau let it happen. Rider hit for one and was done.
+![](http://www.wizards.com/sideboard/images/natcan03/a922.jpg)
+
+Lau was in a much better position going first for Game 2. He Spiked a Llanowar Elves then Counterspelled Rider's attempt at a Wirewood Herald. A second Herald resolved, and then both players stared at each other for two turns, playing out lands. Lau broke the silence with Psychatog with two blue open. Rider Smothered it at end of turn, and Lau let it happen. Rider hit for one and was done.
 
 Lau dropped Zombie Infestation, and chided Rider when he reached over to read it. Rider untapped and tried Braids. Lau funneled a Circular Logic and Underground River through his Infestation, countering the spell and making a zombie. He untapped and dropped Engineered Plague to off the Herald while Rider couldn't play the Caller of the Claw he'd get. Rider topdecked another Braids and it resolved. Lau sacrificed a land and tried to swing, only to see his token Smothered. Rider started swinging, and the two kept up playing lands and sacrificing them.
 

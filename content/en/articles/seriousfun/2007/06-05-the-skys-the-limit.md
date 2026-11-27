@@ -83,7 +83,9 @@ Your enthusiasm is a wonderful thing... But it's taking me longer than I thought
 
 Today, let's talk about Limited. 
 
-[![Pack_Hunt](https://i.ormos.uk/98/d9/98d9851067350ad8a3c8d539bb8b4f99604ed9151223760e3fa3095a5b54bcce.jpg)](https://web.archive.org/web/20070605000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Pack%2BHunt)This past Wednesday, we gathered at the Compendium in Rocky River, Ohio, to play some multiplayer. But there was a twist: Ben had a boatload of **Magic** boxes, including enough *Time Spiral* Block to go around. So instead of breaking out our normal decks, we had a set of five-player drafts and then played Chaos Multiplayer with the decks we'd created. 
+[![Pack_Hunt](https://i.ormos.uk/98/d9/98d9851067350ad8a3c8d539bb8b4f99604ed9151223760e3fa3095a5b54bcce.jpg)](https://web.archive.org/web/20070605000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Pack%2BHunt)
+
+This past Wednesday, we gathered at the Compendium in Rocky River, Ohio, to play some multiplayer. But there was a twist: Ben had a boatload of **Magic** boxes, including enough *Time Spiral* Block to go around. So instead of breaking out our normal decks, we had a set of five-player drafts and then played Chaos Multiplayer with the decks we'd created. 
 
 It was, not surprisingly, a lot of fun. 
 

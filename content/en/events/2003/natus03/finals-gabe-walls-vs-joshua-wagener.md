@@ -98,13 +98,17 @@ render_recovery:
   - Dwarven Blastminer
   occurrences: 73
 ---
-![](https://i.ormos.uk/05/21/0521cbb5bcee7cad60c427cb7f8c5458e8d0410d35e069a76e979a36579b5187.jpg)The consensus prediction by matchups had Walls and Wagener in the finals, so no one is terribly surprised to see the only two players in the Top 8 without Pro Tour success meeting here. This will be the third red-green deck Walls has faced today, which is a very good matchup for his Slide deck. Wagener went through two mono-black decks to get here, but a deck with Astral Slide, Wrath of God and plenty of efficient life gain will be very difficult to conquer.
+![](https://i.ormos.uk/05/21/0521cbb5bcee7cad60c427cb7f8c5458e8d0410d35e069a76e979a36579b5187.jpg)
+
+The consensus prediction by matchups had Walls and Wagener in the finals, so no one is terribly surprised to see the only two players in the Top 8 without Pro Tour success meeting here. This will be the third red-green deck Walls has faced today, which is a very good matchup for his Slide deck. Wagener went through two mono-black decks to get here, but a deck with Astral Slide, Wrath of God and plenty of efficient life gain will be very difficult to conquer.
 
 ### Game 1
 
 Wagener played a Basking Rootwalla and attacked for three, then summoned Llanowar Elves. On the following turn, Reckless Charge made one bigger and Wagener did not pump before damage in order to avoid getting wrecked by a cycled Slice and Dice. Walls cycled away four lands and a Lay Waste, before playing Teroh's Faithful on turn four. Reckless Charge was flashed back on the Rootwalla, and the Faithful chump blocked it. Walls used a sac-land and went down to eleven, and kept cycling through cards, staying back on three untapped mana to threaten Slice and Dice and take a hit for two instead of four from the Rootwalla and Elf.
 
-![](https://i.ormos.uk/51/7b/517bb02a9843a3c3a8878bbfa717472501628764dd3c7b14375d084ebaaa5ac6.jpg)Walls didn't actually have Slice and Dice, but was doing a very good job of bluffing it. A Tusker was cycled on end step, and Walls tapped six for Exalted Angel. Wagener sent Violent Eruption to the face on end step, then used another on his turn to finish Walls and take the first game.
+![](https://i.ormos.uk/51/7b/517bb02a9843a3c3a8878bbfa717472501628764dd3c7b14375d084ebaaa5ac6.jpg)
+
+Walls didn't actually have Slice and Dice, but was doing a very good job of bluffing it. A Tusker was cycled on end step, and Walls tapped six for Exalted Angel. Wagener sent Violent Eruption to the face on end step, then used another on his turn to finish Walls and take the first game.
 
 Walls- 0 Wagener- 1
 

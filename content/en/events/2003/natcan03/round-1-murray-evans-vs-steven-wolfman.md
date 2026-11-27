@@ -74,13 +74,17 @@ render_recovery:
   - Mirari's Wake
   occurrences: 23
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a997.jpg)Once known as "The Mauler", Murray Evans has been a name among Canadian players since before his big finals appearance at Nationals four years ago. He's somewhat less celebrated nowadays, but is no less intense. Opposite him is Steven "The Wolf" Wolfman, best known as the lynchpin behind Canadian team giants 2020. Neither was too excited to be in the Feature Match Area for the first round, but at least there weren't that many spectators yet.
+![](http://www.wizards.com/sideboard/images/natcan03/a997.jpg)
+
+Once known as "The Mauler", Murray Evans has been a name among Canadian players since before his big finals appearance at Nationals four years ago. He's somewhat less celebrated nowadays, but is no less intense. Opposite him is Steven "The Wolf" Wolfman, best known as the lynchpin behind Canadian team giants 2020. Neither was too excited to be in the Feature Match Area for the first round, but at least there weren't that many spectators yet.
 
 ### Game 1
 
 Wolfman led with Krosan Verge, revealing his Wake deck immediately. Evans answered with swamp, presumably with mono-black control. His next two turns of inactivity confirmed that. Fortunately for him Wolfman didn't have a Compulsion to follow up the Verge. He tried a Diabolic Tutor, but it was Lapsed, and then countered outright on the following turn. Wolfman continued to develop his mana with a second Verge.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a994.jpg)The pieces seemed to be falling into place for Wolfman. He played Deep Analysis, then island and Compulsion with two blue mana up. Evans made no play on six swamps, and now Wolfman was really running away with things. Another empty turn from Evans let him Cunning Wish for Opportunity and draw four. Wolfman showed him another Deep Analysis, and rather than let this farce play out, Evans conceded the first game.
+![](http://www.wizards.com/sideboard/images/natcan03/a994.jpg)
+
+The pieces seemed to be falling into place for Wolfman. He played Deep Analysis, then island and Compulsion with two blue mana up. Evans made no play on six swamps, and now Wolfman was really running away with things. Another empty turn from Evans let him Cunning Wish for Opportunity and draw four. Wolfman showed him another Deep Analysis, and rather than let this farce play out, Evans conceded the first game.
 
 Wolfman 1 – Evans 0
 
@@ -90,6 +94,8 @@ Evans boarded out his useless creature control for more disruption and Nantuko S
 
 Evans waited until the second turn to maximize his Cabal Therapy naming Compulsion. Wolfman had none, but instead a Memory Lapse, a pair of Renewed Faiths, and Mirari. Sure enough, Wolfman's Lapse hit Evans's Nantuko Shade. Evans had no fourth land, and when he went to try the Shade again, Wolfman had drawn the Counterspell.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a998.jpg)With Evans unable to operate on just three swamps, Wolfman was able to throw down the Compulsion he'd drawn. Evans just rolled his eyes. Mirari's Wake soon followed, with a single island untapped. Evans drew swamp number four, but Wolfman had Lapse number two. Then came the Mirari, and Wolfman started Forking Deep Analysis. It wasn't too much longer until Exalted Angel hit play, and Evans, unable to do anything about it, packed it in.
+![](http://www.wizards.com/sideboard/images/natcan03/a998.jpg)
+
+With Evans unable to operate on just three swamps, Wolfman was able to throw down the Compulsion he'd drawn. Evans just rolled his eyes. Mirari's Wake soon followed, with a single island untapped. Evans drew swamp number four, but Wolfman had Lapse number two. Then came the Mirari, and Wolfman started Forking Deep Analysis. It wasn't too much longer until Exalted Angel hit play, and Evans, unable to do anything about it, packed it in.
 
 **Final Result:** Steven Wolfman defeats Murray Evans 2-0

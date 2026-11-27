@@ -104,7 +104,9 @@ Before we get to the preview, some quick facts on *Coldsnap* with regard to Orga
 
 ### What about Snow-Covered Lands?
 
-![](https://i.ormos.uk/bc/84/bc842cd7fc03487e712b0a94ed818cca01cfe50137f85e7f1e1fb0321e1e4af3.jpg)The five basic snow-covered lands that originally appeared in *Ice Age* are being reprinted in *Coldsnap* as common cards. Yes, that means that the same cards are in the first and third sets of a block, but the demands of having *Coldsnap* stand on its own in Limited and having snow-covered lands available in sufficient numbers for Constructed play trumped our desire to make the block feel “seamless” despite the decade-long gap between sets.
+![](https://i.ormos.uk/bc/84/bc842cd7fc03487e712b0a94ed818cca01cfe50137f85e7f1e1fb0321e1e4af3.jpg)
+
+The five basic snow-covered lands that originally appeared in *Ice Age* are being reprinted in *Coldsnap* as common cards. Yes, that means that the same cards are in the first and third sets of a block, but the demands of having *Coldsnap* stand on its own in Limited and having snow-covered lands available in sufficient numbers for Constructed play trumped our desire to make the block feel “seamless” despite the decade-long gap between sets.
 
 For Limited play, you won't be able to add snow-covered lands to your deck, but instead can play only with those in your card pool (in this way they are not unlike the artifact lands from *Mirrodin*). The set is constructed in such a way that these lands will have an impact on gameplay even in small numbers.
 
@@ -116,7 +118,9 @@ When we were designing *Coldsnap*, the team made a very conscious effort to hit 
 
 But there was one mechanic from the days of yore that we were unwilling to touch… that of “graveyard order matters.”
 
-![](https://i.ormos.uk/fa/5b/fa5b7f7160a4e17206fa89d5aaeeecfb08e3182dc5029ed0d76845f1ded79686.jpg)Death Spark and its ilk are some of the most memorable cards from the *Ice Age* / *Alliances* era, and I'm sure that most of us that worked on the set had some memory of interesting play decisions that came from playing with cards that made the order of your graveyard relevant somehow. There was always this interesting cat-and-mouse subgame wherein one player was trying to “trap” the other player's Death Spark beneath a noncreature card, denying access to the recursion for the rest of the game.
+![](https://i.ormos.uk/fa/5b/fa5b7f7160a4e17206fa89d5aaeeecfb08e3182dc5029ed0d76845f1ded79686.jpg)
+
+Death Spark and its ilk are some of the most memorable cards from the *Ice Age* / *Alliances* era, and I'm sure that most of us that worked on the set had some memory of interesting play decisions that came from playing with cards that made the order of your graveyard relevant somehow. There was always this interesting cat-and-mouse subgame wherein one player was trying to “trap” the other player's Death Spark beneath a noncreature card, denying access to the recursion for the rest of the game.
 
 But **Magic** has long since drifted away from making players care about the order of their graveyards. The last card to care about graveyard order appeared in the *Tempest* block, and is no longer legal even in Extended. Most modern players aren't even aware that the official rules of the game require players to maintain graveyard order—it just doesn't matter these days and hence is never enforced. There's no way we could in good conscience ask players to suddenly have to start caring about graveyard order in tournament play (theme decks are another story).
 

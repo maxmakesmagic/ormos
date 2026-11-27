@@ -44,7 +44,9 @@ archive_source:
   sha256: 41f11ead69fcad06893683ce9426ab920bfa8681f7c4d7343a4d1149f92bc2d5
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/176.jpg)Dave has a strong rebel chain with 2 Sergeants, Steadfast, Lieutenant, Vanguard, Nightwind Glider, Lightbringer, Lawbringer and 2 Trenching Steeds. Unfortunately for Mike this is fantastic against his red/black deck. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/176.jpg)
+
+Dave has a strong rebel chain with 2 Sergeants, Steadfast, Lieutenant, Vanguard, Nightwind Glider, Lightbringer, Lawbringer and 2 Trenching Steeds. Unfortunately for Mike this is fantastic against his red/black deck. 
 
 **Game 1** 
 
@@ -55,7 +57,9 @@ When Dave then casts his Wandering Eye, their hands are revealed:
 Mike: Intimidator, Wild Jhovall, Avatar of Woe, Battle Squadron.  
  Dave: Sergeant, Mine Bearer, Plains, ALEXI. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/177.jpg)As the Airship comes in again they both know this match was going to be a struggle for the red/black deck now as Alexi can just bounce it's way to victory. Sure enough Mike fails to draw an answer for the Legend and his creatures are boinged. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/177.jpg)
+
+As the Airship comes in again they both know this match was going to be a struggle for the red/black deck now as Alexi can just bounce it's way to victory. Sure enough Mike fails to draw an answer for the Legend and his creatures are boinged. 
 
 Dave 1 - Mike 0 
 
@@ -65,6 +69,8 @@ They both sideboard in just one card. For red the Brutal Suppression was inserte
 
 Again Mike begins and the permanents start hitting faster this time. Yet again Williams has drawn his Lieutenant and this time Mike has no fast answer. Meanwhile a Ramosian Sergeant is nipping in for a cheeky 2 whilst a Cackling Witch chickens out of blocking. The two finally trade off on turn 5 and then Mike makes a bid to screw his opponent with a Devastate, but Dave draws his fifth land and manages to search out a Lawbringer (which immediately kills a Cinder Elemental) and a Vanguard. A turn 4 Divining Griffin has been serving for 2 for a while now - so it gets its Soul Severed, a Wild Jhoval is made and the Defiant Vanguard gets the CLAP, but it draws out the Nightwind Glider in response. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/178.jpg)The board situation is now Dave with a Nightwind Glider and a Lieutenant and Mike with a Wild Jhovall. The life scores are 19-11 respectively. The Oraxid then hits and all Mike can do is watch as both the Oraxid and the Glider roll on over for 4 a turn as all he draws is land and red creatures. Just to take the piss Dave lays out a Defender-en-Vec and an Alexi to force the concession. At one stage in this game he had 3 more permanents than Mike and 5 more cards in hand. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/178.jpg)
+
+The board situation is now Dave with a Nightwind Glider and a Lieutenant and Mike with a Wild Jhovall. The life scores are 19-11 respectively. The Oraxid then hits and all Mike can do is watch as both the Oraxid and the Glider roll on over for 4 a turn as all he draws is land and red creatures. Just to take the piss Dave lays out a Defender-en-Vec and an Alexi to force the concession. At one stage in this game he had 3 more permanents than Mike and 5 more cards in hand. 
 
 Williams wins 2-0

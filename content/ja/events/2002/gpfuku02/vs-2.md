@@ -304,7 +304,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/903.jpg)なんとかイーブンに持ち込もうと意気込む佐々木が、《巡視犬/Patrol Hound(OD)》使い魔と連打。一方、森田は召喚できるクリーチャーを引き当てられず、その攻撃を受け続ける。佐々木はそれを尻目に《尊い癒し手/Hallowed Healer(OD)》までをもキャスト。ゲームは一方的になるかに見えた。
+![](http://www.wizards.com/sideboard/images/gpfuku02/903.jpg)
+
+なんとかイーブンに持ち込もうと意気込む佐々木が、《巡視犬/Patrol Hound(OD)》使い魔と連打。一方、森田は召喚できるクリーチャーを引き当てられず、その攻撃を受け続ける。佐々木はそれを尻目に《尊い癒し手/Hallowed Healer(OD)》までをもキャスト。ゲームは一方的になるかに見えた。
 
 だが、この時森田の場には森沼山が各一枚に《森林地の廃墟/Timberland Ruins(OD)》そして手札には《降り注ぐ塊炭/Shower of Coals(OD)》。そう、土地をもう一枚引きさえすれば佐々木の眼前に並ぶ三体を一斉に除去可能な態勢が整っていたのである。
 

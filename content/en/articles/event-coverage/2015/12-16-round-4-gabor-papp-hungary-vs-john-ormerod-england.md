@@ -64,7 +64,9 @@ Papp used his Ensnare to effectively Fog for a turn and then drew into a Rhystic
 
 As expected, Ormerod attacked with all creatures and Papp blocked the two Crawlers. Ormerod then activated his Stampede Driver and announced that he will be assigning lethal damage to ONE of the two creatures blocking each Crawler and trampling the rest of the damage over to Papp.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/229.JPG)If you think something is wrong with that play, congratulations - you know the trample rule better than the two competitors in this match. The way Trample ability is currently worded, it is not possible to assign damage to a player until lethal damage is assigned to all creatures involved in combat. Papp did not know this and scooped up his cards, assuming he just lost the game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/229.JPG)
+
+If you think something is wrong with that play, congratulations - you know the trample rule better than the two competitors in this match. The way Trample ability is currently worded, it is not possible to assign damage to a player until lethal damage is assigned to all creatures involved in combat. Papp did not know this and scooped up his cards, assuming he just lost the game.
 
 The judges were summoned quickly as both players realized their mistake. Ormerod was given a warning, but it was not possible to revoke the concession by Papp. Neither player was upset though. It was pretty clear that Ormerod was going to win that game anyway over the next few turns. It was furthermore pretty clear that Ormerod made an honest mistake rather than attempt to cheat his opponent.
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: dbbb4abbd341afc063c1e5ec2ec6896404ef8d63ac9db198b3542040a1e87bc8
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplon03/a848.jpg)Yann Hamon is piloting the only deck with Forests to make day two, and he’s made it all the way to the top four, pretty impressive. In his way is Eivind Nitter. He’s won a European Championships and a Pro Tour but never a Grand Prix. He’s hoping to change that. Hamon’s deck is an Explosive Vegetation hybrid with more random never-before-seen-in-constructed cards than your average limited deck. It is, however, meant to be very good at beating WR control. Not good for Eivind.
+![](http://www.wizards.com/sideboard/images/gplon03/a848.jpg)
+
+Yann Hamon is piloting the only deck with Forests to make day two, and he’s made it all the way to the top four, pretty impressive. In his way is Eivind Nitter. He’s won a European Championships and a Pro Tour but never a Grand Prix. He’s hoping to change that. Hamon’s deck is an Explosive Vegetation hybrid with more random never-before-seen-in-constructed cards than your average limited deck. It is, however, meant to be very good at beating WR control. Not good for Eivind.
 
 Nitter won the coin flip but it was Hamon with the first play, a Lightning Rift. Nitter’s hand was a bunch of cyclers and an Astral Slide. Yann on the other hand had cyclers of his own, a Silklash Spider and a Cabal Conditioning. This card has been the most commented on feature of the deck. It’s a seven mana situational discard spell, but it spells doom for any kind of control deck.
 
@@ -75,7 +77,9 @@ Eivind regrew a Dragon and swung back with his Angel leaving the life at 13-10. 
 
 Hamon 1 – Nitter 0
 
-![](http://www.wizards.com/sideboard/images/gplon03/a851.jpg)Nitter brought out all of his Spark Sprays, one Rift and one Slide for a Decree of Annihilation, a Plains, a Temple of the False God, two Akroma, Angel of Wrath and an Oblation. 
+![](http://www.wizards.com/sideboard/images/gplon03/a851.jpg)
+
+Nitter brought out all of his Spark Sprays, one Rift and one Slide for a Decree of Annihilation, a Plains, a Temple of the False God, two Akroma, Angel of Wrath and an Oblation. 
 
 Hamon took out almost all of his anti-creature spells for a Rorix Bladewing, three Fierce Empath, a Kamahl, Fist of Krosa, a Cabal Conditioning, two Explosive Vegetation and a Contested Cliffs.
 
@@ -97,7 +101,9 @@ The Empath came down on turn three, finding Kamahl. Nitter answered with a Rift.
 
 A turn five Rorix smashed Nitter to twelve. The Norwegian was forced to cycle a Dragon in the endstep to find land, unable to activate his Rifts. He untapped and thought long and hard about what tot do next. He was in trouble and he stared at his hand of Plains, Secluded Steppe, Decree of Annihilation, Decree of Justice, Dragon and Starstorm searching for a solution. He made the Plains and said go.
 
-![](http://www.wizards.com/sideboard/images/gplon03/a852.jpg)The Rorix and the Empath tottered into the Red Zone. Nitter cycled the Steppe activating only one Rift to kill the Empath. He left himself enough mana to cast a hopefully top decked Wing Shards. It was not to be and the Rorix halved his life total. Yann Broke Asunder one of Nitter’s Rifts and passed the turn. Eivind cycled the Dragon, sending two damage at Yann, knocking him to eighteen. Whilst Nitter was tapped out, Hamon cycled a Krosan Tusker, finding his one Swamp.
+![](http://www.wizards.com/sideboard/images/gplon03/a852.jpg)
+
+The Rorix and the Empath tottered into the Red Zone. Nitter cycled the Steppe activating only one Rift to kill the Empath. He left himself enough mana to cast a hopefully top decked Wing Shards. It was not to be and the Rorix halved his life total. Yann Broke Asunder one of Nitter’s Rifts and passed the turn. Eivind cycled the Dragon, sending two damage at Yann, knocking him to eighteen. Whilst Nitter was tapped out, Hamon cycled a Krosan Tusker, finding his one Swamp.
 
 The fashion prodigy’s frantic cycling had paid off. Akroma’s Vengeance swept the board clean. Hamon replied with the Kamahl he had fetched earlier, leaving two mana open.
 

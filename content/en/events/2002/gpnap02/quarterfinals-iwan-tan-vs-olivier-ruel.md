@@ -80,7 +80,9 @@ render_recovery:
   - Mystic Zealot
   occurrences: 39
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a883.jpg)Olivier Ruel needs no introduction, coming out fresh from his second place in Osaka recently. He brought his Winnie the Pooh as usual, and that definitely brought him luck so far.
+![](http://www.wizards.com/sideboard/images/gpnap02/a883.jpg)
+
+Olivier Ruel needs no introduction, coming out fresh from his second place in Osaka recently. He brought his Winnie the Pooh as usual, and that definitely brought him luck so far.
 
 Tan is a business consultant from Hannover, a regular at PTQ's in Germany and Grand Prix events all over. His first breakthrough was a second place at Grand Prix-Moscow in 2001.
 
@@ -102,7 +104,9 @@ Tan made the first play by a turn two Patrol Hound; which got killed directly by
 
 Tan kept his pressure up playing Hydromorph Gull, backed up by Balshan Collaborator. Olivier had a Barbarian Lunatic on his side, which dealt the first two damage to Tan. He made then another Lunatic. Ruel then killed the Balshan by saccrifying his tapped Lunatic. Faded not Tan played out Aquamoeba and Teroh Faithful. Ruel played a Crackling Club and passed the turn. Tan slowed down after drawing, for the first time in this match, to re-exam the situation. Tan then sended his Gull into combat, which was killed by the Club and the Lunatic direct damage power. Tan then played a decisive Chamber of Manipulation.
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a882.jpg)Ruel just laughed and replied with his tiny Mystic Visionary. Tan sent in his creatures like nothing had happened. Ruel blocked the Aquamoeba with the Visionary, played the Gallantry on it. Tan replied by Chambering it. 
+![](http://www.wizards.com/sideboard/images/gpnap02/a882.jpg)
+
+Ruel just laughed and replied with his tiny Mystic Visionary. Tan sent in his creatures like nothing had happened. Ruel blocked the Aquamoeba with the Visionary, played the Gallantry on it. Tan replied by Chambering it. 
 
 A ruling question came up of whether or not Ruel was allowed to draw a card for the Gallantry, since the Visionary was no longer in combat, thus making the Gallantry illegal on resolution. Head Judge Davide Bitetto decided that, since Ruel had seen his next card, he had to show it to Tan as well. The card was a Moutain. Ruel tried definitely something here, to get threshold could have been an educated guess - playing his Temporary Insanity to get the control of Tan´s Aquamoeba after combat without much reason. But Tan decided to throw away a card to get that back. Ruel played out his Zealot, which was bounced by Churning Eddie the turn after from Tan. 
 
@@ -122,7 +126,9 @@ The Chamber came out and joined the party. With four cards in hand Tan had thing
 
 Zealot came out to help Ruel on his quest. He then used his sideboard tech, Earth Rift on the Chambered land. The match was turned again. 
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a881.jpg)Not many seconds went by before Tan played his good card, Cultural Exchange, giving away the Phantom Whelp and Patrol Hound for Pardic Arsonist and Mystic Zealot, with threshold. The table was turned once again. 
+![](http://www.wizards.com/sideboard/images/gpnap02/a881.jpg)
+
+Not many seconds went by before Tan played his good card, Cultural Exchange, giving away the Phantom Whelp and Patrol Hound for Pardic Arsonist and Mystic Zealot, with threshold. The table was turned once again. 
 
 Ruel commented on the exchange that he happened to like the creatures he got from Tan. Ruel drew his card, said "And I think you have just lost!" He went on to discard a card to his Patrol Hound and sac'ed the Ravaged Highland for mana. This gave him enough cards in his graveyard to use Temporal Insanity to regain his own Mystic Zealot. He sent all his creatures to the red zone. 
 

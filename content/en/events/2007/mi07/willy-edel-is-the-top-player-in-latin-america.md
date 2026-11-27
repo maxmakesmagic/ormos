@@ -64,13 +64,17 @@ render_recovery: []
 
 *Profiles by Brian David-Marshall*
 
-[![](https://i.ormos.uk/09/be/09be5e99fdb6b0e372aadfe78e4da9e8410638f2c87468e77c4d2e8b00ac2186.jpg)](https://web.archive.org/web/20070726000000/http://boards1.wizards.com/showthread.php?t=894032)Welcome to the voting for the 11th annual **Magic** Invitational!
+[![](https://i.ormos.uk/09/be/09be5e99fdb6b0e372aadfe78e4da9e8410638f2c87468e77c4d2e8b00ac2186.jpg)](https://web.archive.org/web/20070726000000/http://boards1.wizards.com/showthread.php?t=894032)
+
+Welcome to the voting for the 11th annual **Magic** Invitational!
 
 This ballot has toughened considerably over the past two seasons of the Pro Tour as the addition of airfare to PTQ prizes has allowed a new crop of talented players to flood the Pro Tour scene and take up their fair share seats at the Sunday table. The infusion of new blood has also reinvigorated the career of at least one staple of the Latin American ballot and pushed other familiar names off the ballot. 
 
 ### Winner: Willy Edel (39.3% of votes)
 
-![](https://i.ormos.uk/e4/18/e4184cd10dd3b971cd76f11d1033f450a66d86aba538039ed350a111e7b2bfb3.jpg)Brazil’s Willy Edel did not come to the first two Pro Tours in 2006 but that did not stop him from stamping his Players Club membership card with Level 5 status for 2007, thanks to back-to-back second-place finishes (Charleston and Kobe) and a Top 32 at Worlds down the stretch. He leapfrogged right into an elite class of players with three Top 8s when he started off the current season with yet another Sunday finish in Geneva. His first Pro Tour would likely not have happened without the addition of airfares to PTQ prizing in Brazil, but with three Pro Tour Top 8s in just six events it doesn’t look like his last PT is going to happen anytime soon. 
+![](https://i.ormos.uk/e4/18/e4184cd10dd3b971cd76f11d1033f450a66d86aba538039ed350a111e7b2bfb3.jpg)
+
+Brazil’s Willy Edel did not come to the first two Pro Tours in 2006 but that did not stop him from stamping his Players Club membership card with Level 5 status for 2007, thanks to back-to-back second-place finishes (Charleston and Kobe) and a Top 32 at Worlds down the stretch. He leapfrogged right into an elite class of players with three Top 8s when he started off the current season with yet another Sunday finish in Geneva. His first Pro Tour would likely not have happened without the addition of airfares to PTQ prizing in Brazil, but with three Pro Tour Top 8s in just six events it doesn’t look like his last PT is going to happen anytime soon. 
 
 ### Paulo Vitor Damo Da Rosa (37.0%)
 
@@ -86,6 +90,8 @@ This ballot has toughened considerably over the past two seasons of the Pro Tour
 
 ### Celso Zampere (3.1%)
 
-![](https://i.ormos.uk/ea/cf/eacf49231cbb58bcd8a42339cbf37e47c08ffd04b878fd747b59f0c94f29a4df.jpg)Celso Zampere was the third member of the Brazilian Raaala Pumba team that reached the finals of Pro Tour–Charleston, but like his teammates from that event, he has begun to work on his individual resume. He stampeded through the Montreal field—including a semifinal victory over Kenji Tsumura—with his Green-White Time Spiral Block Constructed deck that literally enjoyed the Thrill of the Hunt. It was the second Grand Prix Top 8 of Zampere’s career. 
+![](https://i.ormos.uk/ea/cf/eacf49231cbb58bcd8a42339cbf37e47c08ffd04b878fd747b59f0c94f29a4df.jpg)
+
+Celso Zampere was the third member of the Brazilian Raaala Pumba team that reached the finals of Pro Tour–Charleston, but like his teammates from that event, he has begun to work on his individual resume. He stampeded through the Montreal field—including a semifinal victory over Kenji Tsumura—with his Green-White Time Spiral Block Constructed deck that literally enjoyed the Thrill of the Hunt. It was the second Grand Prix Top 8 of Zampere’s career. 
 
 [**Click here**](https://web.archive.org/web/20070726000000/http://boards1.wizards.com/showthread.php?t=894032) to read posts from the voters!

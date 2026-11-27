@@ -44,7 +44,9 @@ archive_source:
   sha256: 123910113abd6379f2ff794d6a9095c7cc08884290fbb1ba8c63e3cbd7bcf4e3
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptven03/a899.jpg)Both Mattias Jorstedt and John Larkin made the Top 8 at the last Constructed Pro Tour, and are both doing well here; each is 5-1. Larkin is running the same three-color [Biorhythm](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Biorhythm) deck that Kai Budde and Gary Wise are running, and Jorstedt is playing a Goblin deck with [Thoughtbound Primoc](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc).
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptven03/a899.jpg)
+
+Both Mattias Jorstedt and John Larkin made the Top 8 at the last Constructed Pro Tour, and are both doing well here; each is 5-1. Larkin is running the same three-color [Biorhythm](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Biorhythm) deck that Kai Budde and Gary Wise are running, and Jorstedt is playing a Goblin deck with [Thoughtbound Primoc](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc).
 
 Larkin had to mulligan a hand with multiple [Biorhythm](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Biorhythm)s in Game 1. "Who wants to draw 8-casting-cost f\*\*\*in' sorceries against a Sligh deck?"
 
@@ -54,7 +56,9 @@ Mattias busted out of the gates with a [Goblin Sledder](https://web.archive.org/
 
 Mattias would not overcommit. His three creatures brought Larkin to 10 and Larkin was forced to [Slice and Dice](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice). The Sledder allowed the Primoc to survive, and Mattias added a second to the table. Two [Shock](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)s from Larkin killed one of the 2/3's, but Mattias replaced it with a [Gempalm Incinerator](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gempalm+Incinerator). Larkin countered with [Silvos, Rogue Elemental](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silvos%2C+Rogue+Elemental), but Mattias had two [Shock](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)s of his own to take game 1.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptven03/a898.jpg)Larkin said afterwards that he made the wrong play with the [Slice and Dice](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice). He had [Shock](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock), so he could have dealt with the Sledder first, taken three more damage, and then [Slice and Dice](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice)d on his next turn. "I had already mentally lost the game at that point," he said.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptven03/a898.jpg)
+
+Larkin said afterwards that he made the wrong play with the [Slice and Dice](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice). He had [Shock](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock), so he could have dealt with the Sledder first, taken three more damage, and then [Slice and Dice](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slice+and+Dice)d on his next turn. "I had already mentally lost the game at that point," he said.
 
 Jorstedt 1 – Larkin 0
 
@@ -68,7 +72,9 @@ Larkin: "That's a large man."
 
 Larkin held the answer to the Goon however, and dropped it onto the board—[Broodhatch Nantuko](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Broodhatch+Nantuko). Now if the Goon attacked, Larkin's side of the board would be loaded with 1/1 Insects, keeping the Goon permanently at home. Jorstedt was unfazed; he simply cycled a [Gempalm Incinerator](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gempalm+Incinerator), and then [Shock](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)ed the resulting token. The Goon plowed on.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptven03/a900.jpg)Larkin had another Broodhatch, but Mattias was careful not to attack into it with his Goon, instead opting to trade it with his Sledder. Mattias added a [Thoughtbound Primoc](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc) to his team, but again Larkin had two [Shock](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)s for it.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/ptven03/a900.jpg)
+
+Larkin had another Broodhatch, but Mattias was careful not to attack into it with his Goon, instead opting to trade it with his Sledder. Mattias added a [Thoughtbound Primoc](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtbound+Primoc) to his team, but again Larkin had two [Shock](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)s for it.
 
 Larkin finally drew the land he needed to Startstorm away the Goon, but—surprise, surprise—Jorstedt had another in his hand. Larkin played his third Broodhatch, but Jorstedt's deck was kind to him. He ripped land #6, allowing [Rorix Bladewing](https://web.archive.org/web/20030321000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rorix+Bladewing) to enter play and finish Larkin off.
 

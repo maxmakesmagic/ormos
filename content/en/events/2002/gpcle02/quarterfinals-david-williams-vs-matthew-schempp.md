@@ -96,7 +96,9 @@ render_recovery:
   - Screams of the Damned
   occurrences: 49
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a894.jpg)Dave Williams is still on fire. Suspended at the height of his Pro Tour career last year, Williams came back to his first sanctioned tournament and made it into the Top 8 with only one bye. Williams played "the Pirates" which originated last week at GP London. Williams was the only player to make Day 2 with the deck, but found it to be amazing in the mono black intense metagame of day two.
+![](http://www.wizards.com/sideboard/images/gpcle02/a894.jpg)
+
+Dave Williams is still on fire. Suspended at the height of his Pro Tour career last year, Williams came back to his first sanctioned tournament and made it into the Top 8 with only one bye. Williams played "the Pirates" which originated last week at GP London. Williams was the only player to make Day 2 with the deck, but found it to be amazing in the mono black intense metagame of day two.
 
 Matthew Schempp came all the way from Minnesota to make his first GP top 8. Schempp claims to have gone 1-6 in the last two OBC qualifiers he has played in. Schempp also played a deck that was ideal for the mono black metagame. His white/green madness deck sent him straight into the top eight with only a single loss all weekend. We could be in the midst of GPSchempp.
 
@@ -104,11 +106,15 @@ Schempp won the roll and started out with a first turn Tireless Tribe. It would 
 
 Williams 1, Schempp 0
 
-![](https://i.ormos.uk/6b/3a/6b3a4a8f1bd38b45fac1f67444f43e8ca2166d4d40f77b796f86c45f6b5e2310.jpg)Schempp's next draw was much better. He started with a Rootwalla, and beefed it up with an Elephant Guide. Williams removed this nuisance with a Slithery Stalker. Schempp had plenty of back up for the Rootwalla though. The next turn he played a Squirrel Nest, a definite problem card for the Braids deck. The nest locked up the game for Schempp, but Williams stayed in the game by keeping Schempp's Arrogant Wurm off the board with a Faceless Butcher. Schempp would not be defeated though and played a Brushhopper followed by a Phantom Centaur the turn afterward. With no answer to the Centaur, Williams soon died to the pro black monstrosity.
+![](https://i.ormos.uk/6b/3a/6b3a4a8f1bd38b45fac1f67444f43e8ca2166d4d40f77b796f86c45f6b5e2310.jpg)
+
+Schempp's next draw was much better. He started with a Rootwalla, and beefed it up with an Elephant Guide. Williams removed this nuisance with a Slithery Stalker. Schempp had plenty of back up for the Rootwalla though. The next turn he played a Squirrel Nest, a definite problem card for the Braids deck. The nest locked up the game for Schempp, but Williams stayed in the game by keeping Schempp's Arrogant Wurm off the board with a Faceless Butcher. Schempp would not be defeated though and played a Brushhopper followed by a Phantom Centaur the turn afterward. With no answer to the Centaur, Williams soon died to the pro black monstrosity.
 
 Williams 1, Schempp 1
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a887.jpg)The final game saw a solid draw from Williams and a broken draw from Schempp. First there was a showdown of the best two "bears" of the format, Nantuko Shade and Wild Mongrel. Williams Edicted away the Mongrel, but Schemmp had a Brushhopper for third turn. Schempps fourth and fifth turns he played Phantom Centaur, and there was just nothing Williams could do against that. The two pro black beasts made quick work of Williams and Schempp was victorious.
+![](http://www.wizards.com/sideboard/images/gpcle02/a887.jpg)
+
+The final game saw a solid draw from Williams and a broken draw from Schempp. First there was a showdown of the best two "bears" of the format, Nantuko Shade and Wild Mongrel. Williams Edicted away the Mongrel, but Schemmp had a Brushhopper for third turn. Schempps fourth and fifth turns he played Phantom Centaur, and there was just nothing Williams could do against that. The two pro black beasts made quick work of Williams and Schempp was victorious.
 
 **Final Result:** Schempp defeated Williams 2-1
 

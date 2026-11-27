@@ -88,13 +88,17 @@ render_recovery:
   - Forgotten Cave
   occurrences: 52
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a948.jpg)Michael Pustilnik and Itaru Ishida have plenty in common. Not only are they both two of the Tour's stronger players, but they have similar reputations for being the quiet, reserved type. And they both wear glasses! How crazy is that?
+![](http://www.wizards.com/sideboard/images/ptyok03/a948.jpg)
+
+Michael Pustilnik and Itaru Ishida have plenty in common. Not only are they both two of the Tour's stronger players, but they have similar reputations for being the quiet, reserved type. And they both wear glasses! How crazy is that?
 
 ### Game 1
 
 Pustilnik opened with Goblin Taskmaster, and Ishida had Wretched Anurid. Pustilnik's morph creature became Exalted Angel, and it attacked for four damage in the air. Solar Blast was cycled to kill the Taskmaster, and Deathmark Prelate took down the Angel after two attacks. Daru Stinger came down as a 3/3, revealing two Gempalm Avengers, and died to Pinpoint Avalanche. Gempalm Avenger provided a solid 3/5 body to work with, but Ishida started to get ahead, playing Corpse Harvester to go along with his Prelate. The Avenger attacked for three and was joined by the second, along with Starlight Invoker. This left Pustilnik with no cards in hand, and seven lands out. Ishida summoned Menacing Ogre\- he bid one, while Pustilnik bid three. As a 3/3, the Ogre stayed back.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a947.jpg)Pustilnik attacked with both Avengers, and one was double blocked by the Ogre and Harvester. Another Avenger was cycled, and first strike took down the Harvester. It was sacrificed before dying. This attack brought Ishida down to one life point, but the game wasn't over yet as he brought out Lavaborn Muse and Nantuko Husk. Pustilnik got his eighth land, and gained five life. He attacked with both Avengers, and they were gang blocked and traded with the Muse and Ogre. The Husk attacked back, and Pustilnik blocked with his Invoker, offering a trade with the Prelate. Instead, Ishida sacrificed the Husk to kill the Invoker, and summoned Ridgetop Raptor. Pustilnik came back with Glory Seeker and Tephraderm, and things seemed even until Ishida used Aphetto Dredgings to bring back Nantuko Husk, Corpse Harvester and Wretched Anurid. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a947.jpg)
+
+Pustilnik attacked with both Avengers, and one was double blocked by the Ogre and Harvester. Another Avenger was cycled, and first strike took down the Harvester. It was sacrificed before dying. This attack brought Ishida down to one life point, but the game wasn't over yet as he brought out Lavaborn Muse and Nantuko Husk. Pustilnik got his eighth land, and gained five life. He attacked with both Avengers, and they were gang blocked and traded with the Muse and Ogre. The Husk attacked back, and Pustilnik blocked with his Invoker, offering a trade with the Prelate. Instead, Ishida sacrificed the Husk to kill the Invoker, and summoned Ridgetop Raptor. Pustilnik came back with Glory Seeker and Tephraderm, and things seemed even until Ishida used Aphetto Dredgings to bring back Nantuko Husk, Corpse Harvester and Wretched Anurid. 
 
 Tephraderm attacked, and was chump blocked by the Raptor. Wretched Anurid came out and was immediately sacrificed to the Prelate to kill Tephraderm. Nantuko Husk attacked and got through for two damage, and was then sacrificed to the Prelate to kill Pustilnik's morph creature, which was Unstable Hulk. Pustilnik started to run out of gas, and was left with only Glory Seeker, which traded with Goblin Turncoat. Ishida still had the Harvester and Prelate, and then flipped over Infernal Caretaker to gain a tremendous advantage and take the game.
 

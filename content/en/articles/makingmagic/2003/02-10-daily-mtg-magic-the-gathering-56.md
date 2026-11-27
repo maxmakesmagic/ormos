@@ -52,7 +52,9 @@ archive_source:
   sha256: 7543dd8ac86fe00a2db8dc9210aff470e274f6ee5da22bcefd84729a390bf2e2
 render_recovery: []
 ---
-![The computer lab](https://i.ormos.uk/28/51/28510a2d34d4534e8815bf3a13b9fa4d4efad32957829d76c5621f025e7071d6.jpg)In the room at the back of the lab is a creative text meeting. It sounds like they are talking about flavor text for the upcoming set. You move on.
+![The computer lab](https://i.ormos.uk/28/51/28510a2d34d4534e8815bf3a13b9fa4d4efad32957829d76c5621f025e7071d6.jpg)
+
+In the room at the back of the lab is a creative text meeting. It sounds like they are talking about flavor text for the upcoming set. You move on.
 
  **[Go to the “Danger Room.”](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=39)  
  [Go to “Focus 1.”](https://web.archive.org/web/20030210000000/https://www.wizards.com/magic/mr58process.asp?go=40)  

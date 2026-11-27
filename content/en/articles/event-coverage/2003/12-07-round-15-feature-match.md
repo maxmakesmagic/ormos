@@ -44,7 +44,9 @@ archive_source:
   sha256: 9e8008ef6c2e9d472a8559566a6f6ea0ea131cba40d900d6f7cfa7c69e14dc6a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm15.jpg)Finally, it's the last round. These two have survived fourteen rounds of swiss at, or near, the top of the standings. Their reward? A do-or-die round. Winner reaches the Top 8. The loser joins the side-events.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm15.jpg)
+
+Finally, it's the last round. These two have survived fourteen rounds of swiss at, or near, the top of the standings. Their reward? A do-or-die round. Winner reaches the Top 8. The loser joins the side-events.
 
 We have been following Hamon's draft throughout the rounds. He is quite a veteran on a rampage lately. Bastien might not have the same curriculum but for the next fifty minutes it's all about the decks, and the skills. Not about CVs.
 

@@ -79,7 +79,9 @@ render_recovery:
 ---
 * * *
 
-[![Player Rewards program (click for more info)](http://www.wizards.com/dci/images/Magic_PlayerRewards_Logo.jpg "Player Rewards program (click for more info)")](https://web.archive.org/web/20030611000000/http://www.wizards.com/dci/rewards.asp?x=rewards)Two new tokens have been created for the Magic Player Rewards program, and those of you that have played in several tournaments lately may have gotten some in the mail already.
+[![Player Rewards program (click for more info)](http://www.wizards.com/dci/images/Magic_PlayerRewards_Logo.jpg "Player Rewards program (click for more info)")](https://web.archive.org/web/20030611000000/http://www.wizards.com/dci/rewards.asp?x=rewards)
+
+Two new tokens have been created for the Magic Player Rewards program, and those of you that have played in several tournaments lately may have gotten some in the mail already.
 
 ![Bear and Goblin tokens](https://i.ormos.uk/87/9b/879b7cf141d1401d54354f3f3899f668390b8c8b952c50e53e6ba7fbc1b3f0be.jpg)
 

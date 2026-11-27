@@ -44,7 +44,9 @@ archive_source:
   sha256: ec09957957adbb88f92ccff019e279c345c5eb94c6b9b0c8e0a14869e47682e7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm14_1.jpg)Both players need four points at the beginning of the round to enter top 8, meaning while the looser will compete for top 16 the winner is almost in.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm14_1.jpg)
+
+Both players need four points at the beginning of the round to enter top 8, meaning while the looser will compete for top 16 the winner is almost in.
 
 Palumbo chooses to play first, and kept a not too good opening hand featuring Talisman, Pulse of the forge, [Furnace Dragon](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Furnace+Dragon) and four lands (two mountains two Citadels). When I ask them if they know what each other are playing Rocco answers with an enigmatic "I think I do", and he'd better be right as affinity is probably the only deck he can beat with this hand.
 

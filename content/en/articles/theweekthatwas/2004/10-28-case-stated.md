@@ -1618,7 +1618,9 @@ render_recovery:
 ---
 * * *
 
-![Champs 2004](https://i.ormos.uk/c2/93/c29383094a1f73370bf327e0dee662b4e24e10af73ddf1a8234de1ac159928a0.jpg)This is a great week to be a **Magic** player. We are smack dab in the middle of the two huge Constructed **Magic** weekends in two different formats just as *Champions of Kamigawa* becomes legal for sixty-card play. This past weekend saw players all around the globe trailblazing the new Standard format at their local Champs tournaments. From New York to Newfoundland and New Zealand to Nagano players gathered to earn their hometown championships and answer all the questions about the emerging format.
+![Champs 2004](https://i.ormos.uk/c2/93/c29383094a1f73370bf327e0dee662b4e24e10af73ddf1a8234de1ac159928a0.jpg)
+
+This is a great week to be a **Magic** player. We are smack dab in the middle of the two huge Constructed **Magic** weekends in two different formats just as *Champions of Kamigawa* becomes legal for sixty-card play. This past weekend saw players all around the globe trailblazing the new Standard format at their local Champs tournaments. From New York to Newfoundland and New Zealand to Nagano players gathered to earn their hometown championships and answer all the questions about the emerging format.
 
 They were also answering my questions. We sent out a simple five question form to all the tournament organizers (Thank you Tom Ko!) and asked them to have their Top 8 players fill it out and email me their replies. I received enough feedback to actually make a dent in my Gmail account's storage capacity and I have been plowing through it since Sunday. Thank you to everyone who took the time to send in the questionnaire--I'm sorry I couldn't use everybody's answers but as it is this article is threatening to swell past 10,000 words. 
 

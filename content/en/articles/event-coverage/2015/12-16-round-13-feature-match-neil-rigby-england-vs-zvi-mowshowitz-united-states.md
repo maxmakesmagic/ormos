@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/158.jpg)This is the final round of the Swiss portion of Grand Prix Manchester, and Neil Rigby needed to win this match to make it through to the top eight. Zvi Mowshowitz had a good chance of making it through regardless of the result. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/158.jpg)
+
+This is the final round of the Swiss portion of Grand Prix Manchester, and Neil Rigby needed to win this match to make it through to the top eight. Zvi Mowshowitz had a good chance of making it through regardless of the result. 
 
 Neil had a three-colour deck, which seemed to be mainly white/blue, with a splash of green for cards such as a pair of Armadillo Cloaks. Zvi's deck is black/blue quite a lot of flying or evasion creatures, such as Tower Drake, and Duskwalker, but not so much removal. 
 

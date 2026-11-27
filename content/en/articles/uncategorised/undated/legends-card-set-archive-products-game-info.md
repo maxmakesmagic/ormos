@@ -48,7 +48,9 @@ Each booster pack includes 15 cards to add to your collection.
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/e1/fb/e1fb65da44eb90e3c1253d05263fbbcaa611c6c1da34c8078c073c16f3a416bc.png)Legends features 310 cards and four new mechanics (multicolored cards, Rampage, Bands with Other, and Legendary creatures and lands).
+![](https://i.ormos.uk/e1/fb/e1fb65da44eb90e3c1253d05263fbbcaa611c6c1da34c8078c073c16f3a416bc.png)
+
+Legends features 310 cards and four new mechanics (multicolored cards, Rampage, Bands with Other, and Legendary creatures and lands).
 
 **Set Name:** Legends  
 **Number of Cards:** 310

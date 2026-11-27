@@ -68,7 +68,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/308.jpg)Sigurd Eskeland and Bob Maher were in 4th and 2nd place respectively when they sat down for their round 14 feature match. Each won a Pro Tour this year and each can win the Player of the Year crown by making the Top 8 and then doing well on Sunday. Eskeland also has a chance to be the first person ever to win back to back Pro Tours.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/308.jpg)
+
+Sigurd Eskeland and Bob Maher were in 4th and 2nd place respectively when they sat down for their round 14 feature match. Each won a Pro Tour this year and each can win the Player of the Year crown by making the Top 8 and then doing well on Sunday. Eskeland also has a chance to be the first person ever to win back to back Pro Tours.
 
 Norwegian national team member Eskeland is running yet another Rising Waters deck. This time around he and his Mogg Squad teammates have built a more aggressive version of the deck than the one Eskeland used to win Pro Tour New York. Their design includes Troublesome Spirits, Rishadan Airships, and Stronghold Zeppelins in the main deck. Maher decided to play a black/green deck with lots of fatties (like Blastoderm and Thrashing Wumpus) along with a healthy election of black creature removal spells (nicknamed "terrors" after the original Alpha card).
 

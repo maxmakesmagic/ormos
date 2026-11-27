@@ -77,7 +77,9 @@ archive_source:
   sha256: fc49142760a935070b230e1cb3a8ace61fac9db6eba5093b34518f9aed496b07
 render_recovery: []
 ---
-![](https://i.ormos.uk/f9/b0/f9b071367ba21cd2ad457914777e053811e845c4126079ee3d1aa8981d234caa.jpg)I've started my new job at Taco Bell, which so far has been fan-friggin-tastic. People work hard here, but they also have a tremendous amount of fun. They also have Taste Panels four times a day, which turns out to be an excellent way to have lunch for free. I'm starting to realize that a cost of this new job is not only the loss of my weekly writing gig, but also me getting really fat.
+![](https://i.ormos.uk/f9/b0/f9b071367ba21cd2ad457914777e053811e845c4126079ee3d1aa8981d234caa.jpg)
+
+I've started my new job at Taco Bell, which so far has been fan-friggin-tastic. People work hard here, but they also have a tremendous amount of fun. They also have Taste Panels four times a day, which turns out to be an excellent way to have lunch for free. I'm starting to realize that a cost of this new job is not only the loss of my weekly writing gig, but also me getting really fat.
 
 In fact, the Taste Panels aren't the only culprit. I've been a Taco Bell “mystery shopper,” where my job is to tour Taco Bells in a certain area and grade them on their cleanliness, food, hospitality, etc. Taco Bell's corporate office has one of the best cafeterias of any company in Orange County, so much so that people drive from all over to eat here midday. Cookies and treats adorn every administrator's desk. To top it off, on my first day in the office I was shown the infamous Snack Drawer.
 
@@ -109,7 +111,9 @@ Although the games and characters we played changed, the location remained a con
 
 Of the many delights Kevin's mom created for our group of would-be heroes, by far the most famous was her gooey rice-crispie treats. About five inches high, dripping in marshmallowy goodness, they were as messy as they were satisfying. At least every other week, Kevin's mom would bust out the box of Rice Krispies to a round of adolescent cheers. 
 
-![](https://i.ormos.uk/24/27/2427887e5f0fa37d6807c991187354bbf65ce1235be732444f266007ae132ed0.jpg)As I was rummaging through the Snack Drawer last week, I happened upon a box of packaged rice crispie treats. They were a lot smaller than what Kevin's mom made, and neither warm nor gooey. They were relatively (and I mean relatively) lower in calories, though, so I popped one open and brought it back to my desk.
+![](https://i.ormos.uk/24/27/2427887e5f0fa37d6807c991187354bbf65ce1235be732444f266007ae132ed0.jpg)
+
+As I was rummaging through the Snack Drawer last week, I happened upon a box of packaged rice crispie treats. They were a lot smaller than what Kevin's mom made, and neither warm nor gooey. They were relatively (and I mean relatively) lower in calories, though, so I popped one open and brought it back to my desk.
 
 You know what? It was good. Maybe not fresh-out-of-the-oven-homemade good, but the simple combination of Rice Krispies and marshmallow just plain tastes yummy. I wondered how I had possibly made it through college, graduate school, and over eight years of corporate life without ever picking up a snack I had liked so much in high school. 
 
@@ -139,7 +143,9 @@ Right. Trader Joe's. So the treats that my son gets for finding the monkey are p
 
 I can't exactly remember the first time I tried the pretzel thingies. I think maybe my son received two bags by mistake, or the cashier was generous and gave me and my son each one for a particularly well-hidden monkey. Whatever the case, we had been playing the monkey game for months before I first got my hand on those pretzel-coated, peanut-butter nuggets. 
 
-![](https://i.ormos.uk/81/09/8109e6564f67cff107a8b08268d21a4480042a0cf8031d2f4dc37bf510621aac.jpg)And *man* they were good! I've never been the biggest bagged pretzel fan because they also struck me as... dry. I always wanted to drink a gallon of water afterwards and the pretzel taste never seemed worth it to me. These Trader Joe's snacks, though, combined dry pretzels with one of my favorite substances on Earth in peanut butter. Although not quite as delicious as chocolate and peanut butter, I found that pretzels and peanut butter was a darned good combination. Trader Joe's marketing ploy worked wonders, too, since I now buy a large bag of the pretzel thingies whenever I'm there.
+![](https://i.ormos.uk/81/09/8109e6564f67cff107a8b08268d21a4480042a0cf8031d2f4dc37bf510621aac.jpg)
+
+And *man* they were good! I've never been the biggest bagged pretzel fan because they also struck me as... dry. I always wanted to drink a gallon of water afterwards and the pretzel taste never seemed worth it to me. These Trader Joe's snacks, though, combined dry pretzels with one of my favorite substances on Earth in peanut butter. Although not quite as delicious as chocolate and peanut butter, I found that pretzels and peanut butter was a darned good combination. Trader Joe's marketing ploy worked wonders, too, since I now buy a large bag of the pretzel thingies whenever I'm there.
 
 I started to wonder: How come more people haven't explored the idea of pretzels--and I mean the dry, crunchy, salted, traditional variety here--as a complement to other tastes instead of just a taste all by itself? Anytime a snack uses bread, couldn't they try pretzel as well? Would pretzels and ham be good? Pig in a pretzel, instead of pig in a blanket? Why are pretzels and cheese the exception rather than the rule? A hard pretzel shell with mozzarella, pepperoni, and sauce in the middle sounds awesome. These snacks very well may exist, but they certainly aren't popular enough to show up in the Snack Drawer yet.
 
@@ -167,7 +173,9 @@ Yep, she hated them. Oh, she was nice enough about it, but I noticed that she ne
 
 I was reminded of this story in a recent raid of the Snack Drawer. I picked up Cajun-style pistachio nuts to bring back to my desk. I'm not quite as fanatical about pistachios as my mother-in-law is for sunflower seeds, but I enjoy cracking open some shells now and again. 
 
-![](https://i.ormos.uk/19/f8/19f80d31ea7dcaada15762199f1f3373752faf7ccae8fd31c0e7a593f710cd02.jpg)Anyway, it only took me about three nuts to realize that there is absolutely no reason to flavor pistachio nuts, just as, I suppose, there is no reason to flavor sunflower seeds. The original, with nothing more than salt, tastes good enough. Traditional pistachios and sunflower seeds have been selling since our great-grandparents moseyed on down to the corner store because they're yummy. Companies have recently tried flavoring classic nuts and seeds to differentiate them from the other snack foods crowding the shelves, but the truth is that they're not better, just different. In fact, by my way of thinking, no amount of flavoring is going to improve upon a normal pistachio. It sounds like a good idea, but in practice I'm not impressed. 
+![](https://i.ormos.uk/19/f8/19f80d31ea7dcaada15762199f1f3373752faf7ccae8fd31c0e7a593f710cd02.jpg)
+
+Anyway, it only took me about three nuts to realize that there is absolutely no reason to flavor pistachio nuts, just as, I suppose, there is no reason to flavor sunflower seeds. The original, with nothing more than salt, tastes good enough. Traditional pistachios and sunflower seeds have been selling since our great-grandparents moseyed on down to the corner store because they're yummy. Companies have recently tried flavoring classic nuts and seeds to differentiate them from the other snack foods crowding the shelves, but the truth is that they're not better, just different. In fact, by my way of thinking, no amount of flavoring is going to improve upon a normal pistachio. It sounds like a good idea, but in practice I'm not impressed. 
 
 Sometimes it's fine to leave well enough alone. This is sort of the reverse of my last snack lesson. Whereas dry pretzels represent to me an underexplored *addition* to snack foods, most nuts and seeds stand alone fine without being dressed up. 
 
@@ -187,7 +195,9 @@ I think these are the cards that force a grudging smile from **Magic** players a
 
 Several years ago, Nabisco finally figured out an advertising gem in their “There's no wrong way to eat an Oreo” campaign because so many people could relate to it. The truth was, there really were lots of different ways to enjoy eating Oreo cookies, and you could routinely find people who were adamant that their way was the “best.” The myriad of Oreo-eating strategies has even spawned various personality tests (for a funny example, go [here](http://www.angelfire.com/ga/sweetgeorgiapeach/oreo.html)). Try “ways to eat oreos” in an internet search engine and check out the weirdo results. 
 
-![](https://i.ormos.uk/6f/4a/6f4a108821a520b37776a09e1799943917494b54c17d4bd4ac894dba0af0e3a0.jpg)I am an Oreo lover, though I prefer Nutter Butter because of that whole peanut butter thing. In fact, Nutter Butters are the snack I most often fish out of the Snack Drawer. They are the number one reason I'm going to gain weight in this new job (though the two free bean burritos I had at today's Taste Panel won't hurt). 
+![](https://i.ormos.uk/6f/4a/6f4a108821a520b37776a09e1799943917494b54c17d4bd4ac894dba0af0e3a0.jpg)
+
+I am an Oreo lover, though I prefer Nutter Butter because of that whole peanut butter thing. In fact, Nutter Butters are the snack I most often fish out of the Snack Drawer. They are the number one reason I'm going to gain weight in this new job (though the two free bean burritos I had at today's Taste Panel won't hurt). 
 
 With both Oreos and Nutter Butters, I tend to twist off the top of two separate cookies, eat them, then mash the remaining halves to create my own “double filling” cookie. The double-stuff cookie I'll eat as Nabisco originally intended, chomping through wafer and filling by the mouthful. Other times I'll eat the cookie part alone, then save up the filling into a big ball that I eat separately. According to an Oreo personality test, this means that I have a highly curious nature. I take pleasure in breaking things apart to find out how they work, though I'm not always able to put them back together, so I destroy all the evidence of my activities. I deny my involvement when things go wrong. I am a compulsive liar and exhibit deviant, if not criminal, behavio-- Hey! 
 

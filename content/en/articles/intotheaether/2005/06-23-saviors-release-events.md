@@ -407,7 +407,9 @@ Things really get cooking next Thursday, June 30th; that's when the [*Saviors* R
 
 ### In it for the Fun? You Got It!
 
-![](https://i.ormos.uk/3e/4c/3e4c2d6ca28bb1fd574cb7962873a57b138eee58d93361bc7487d45be003be99.jpg)Anyone who's played in paper **Magic** prerelease tournaments knows that these sorts of events are all about having fun. Most people are laid back; many are playing with these cards for the very first time and are looking for some games to get used to what the new set has to offer. Even the more competitive events feel more casual and fun, with players of all stripes jumping in to acquire new cards and see how they run.
+![](https://i.ormos.uk/3e/4c/3e4c2d6ca28bb1fd574cb7962873a57b138eee58d93361bc7487d45be003be99.jpg)
+
+Anyone who's played in paper **Magic** prerelease tournaments knows that these sorts of events are all about having fun. Most people are laid back; many are playing with these cards for the very first time and are looking for some games to get used to what the new set has to offer. Even the more competitive events feel more casual and fun, with players of all stripes jumping in to acquire new cards and see how they run.
 
 If you have not run in a Prerelease event or one of MTGO's Release events, check out [Brian David-Marshall's column on attending a Prerelease](/en/articles/feature/2005/05-15-saviors-of-kamigawa-prerelease-primer). Most of what he suggests applies to these events as well.
 
@@ -419,7 +421,9 @@ If you have not run in a Prerelease event or one of MTGO's Release events, check
 
 ### In it for the Competition? You Got It!
 
-![](https://i.ormos.uk/9c/68/9c68141814b83b440ce01c787cb19e9b0160e0e401db2aad7d5247c1f6f2c190.jpg)Those looking to whet their competitive appetites have plenty of opportunity in the Premier event flights offering 2x and even 4x in prizes! 
+![](https://i.ormos.uk/9c/68/9c68141814b83b440ce01c787cb19e9b0160e0e401db2aad7d5247c1f6f2c190.jpg)
+
+Those looking to whet their competitive appetites have plenty of opportunity in the Premier event flights offering 2x and even 4x in prizes! 
 
 *Premier Event Flights 2x prizes*  
  Starting on June 30th at 3pm, 2x flights of 24-32 players will start up every hour on the hour. The winner gets 24 boosters of Saviors, with payout down to 4 packs for eighth place. These smaller flights are a good place to get your feet wet for tournament play if you're new to the game, or if you don't have all day to spend on it.
@@ -473,7 +477,9 @@ I thought it would be fun to finish things off with Eater of Days. Sure, you're 
 
 ### Behind the Curtain: Interview with RachelR regarding Programming *Saviors*
 
-![](https://i.ormos.uk/c8/03/c8033c2471e286b9e714705d781bf7ae3947a1d5399f07ddfe224263896d3d1a.jpg)Some of you may remember Jay Moldenhauer-Salazar's interview last fall [Introducing Rachel Reynolds](/en/articles/intotheaether/2004/10-05-men-vedalken-and-rachelr), one of the people hard at work programming ***Magic** Online*. She's back this time to give us the lowdown on programming *Saviors*, and also shares with us a few other changes to the interface: the Phage Vanguard ability gets a tweak, and we get a rundown of keyboard shortcuts you won't want to miss!
+![](https://i.ormos.uk/c8/03/c8033c2471e286b9e714705d781bf7ae3947a1d5399f07ddfe224263896d3d1a.jpg)
+
+Some of you may remember Jay Moldenhauer-Salazar's interview last fall [Introducing Rachel Reynolds](/en/articles/intotheaether/2004/10-05-men-vedalken-and-rachelr), one of the people hard at work programming ***Magic** Online*. She's back this time to give us the lowdown on programming *Saviors*, and also shares with us a few other changes to the interface: the Phage Vanguard ability gets a tweak, and we get a rundown of keyboard shortcuts you won't want to miss!
 
 **IntoTheAether**: Any insights for the layperson about what coding a set like *Saviors of Kamigawa* is like?  
 **RachelR**: A lot of fun :) With a small set like *Saviors of Kamigawa*, there are usually a little over a hundred cards that don't start working automatically (I believe the number was around 120 for *Saviors*). Each one is a unique puzzle to be solved, and there are many rewarding moments as small goals are accomplished.

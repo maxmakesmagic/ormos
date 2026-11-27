@@ -154,7 +154,9 @@ After six rounds of drafting, a strong Top 8 emerged, featuring such names as Mo
 
 ### Grand Prix-Sevilla
 
-![](http://www.wizards.com/sideboard/images/gpsev03/880.jpg)European players had their own GP on the same weekend as GP-Boston. It was held in the Spanish city of Seville. At least I think Seville is the correct English name for it, as Sideboard coverage lists the name as Sevilla – which it is, in Spanish. As previous GP events in Spain, the turnout did not disappoint, with over 800 people playing. 
+![](http://www.wizards.com/sideboard/images/gpsev03/880.jpg)
+
+European players had their own GP on the same weekend as GP-Boston. It was held in the Spanish city of Seville. At least I think Seville is the correct English name for it, as Sideboard coverage lists the name as Sevilla – which it is, in Spanish. As previous GP events in Spain, the turnout did not disappoint, with over 800 people playing. 
 
 The greatest surprise was the number of South American players making the trip. For a long time now, U.S. and European pros have traveled to Asia and South America in search of additional pro points and prize money. South America’s top pro pair – World Champion Carlos Romao and Diego Ostrovich have now joined the ranks of such pros and their performance did not disappoint. Ostrovich placed in the Top 32, while Romao managed a second place finish. He was defeated by Sweden’s Anton Jonsson in the finals. Two-time Pro Tour Top 8 finisher Jonsson earned his fourth GP Top 8 and his first career championship title. 
 

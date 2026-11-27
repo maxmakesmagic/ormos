@@ -87,7 +87,9 @@ render_recovery:
   - Shivan Reef
   occurrences: 30
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a902.jpg)This match saw former National Team Member "Superman" Sam Lau square off against young up-and-comer Ray Weiss from Manitoba. Lau's experience was evident. His face was pure serenity. Weiss, on the other hand, was jittery and boasted a huge grin. He was enjoying his success almost as much as the matchup. The Squirrel-Opposition deck in his hands was the same design as Eugene Harvey's deck that taught Psychatog so much respect at US Nationals. 
+![](http://www.wizards.com/sideboard/images/canat02/a902.jpg)
+
+This match saw former National Team Member "Superman" Sam Lau square off against young up-and-comer Ray Weiss from Manitoba. Lau's experience was evident. His face was pure serenity. Weiss, on the other hand, was jittery and boasted a huge grin. He was enjoying his success almost as much as the matchup. The Squirrel-Opposition deck in his hands was the same design as Eugene Harvey's deck that taught Psychatog so much respect at US Nationals. 
 
 Things got underway at an amble. Weiss opened with Bird and Call of the Herd while Lau made Nightscape Familiar. Weiss dropped Opposition and held back, tapping Lau's land. Lau waited and Repulsed the Call token at the end of Weiss's turn. Then he tried to hold stop a Mongrel with Memory Lapse, but Weiss had Circular Logic to force it through. That left him empty-handed, and Lau freed up his mana with Recoil on the Opposition.
 
@@ -99,7 +101,9 @@ Weiss locked up two islands and a Salt Marsh, then at the end of Lau's turn left
 
 "Here, let me help you out here. Since you are so sporting, I'll group my lands together, effectively helping you beat me." - Sam Lau
 
-![](http://www.wizards.com/sideboard/images/canat02/a888.jpg)Weiss untapped, tapped Lau's remaining black mana, then destroyed all three Familiars with Fire/Ice and Flametongue Kavu. He tied Lau's mana up as best he could, but Lau was able to afford the Fact or Fiction. The cards were two Circular Logics, Salt Marsh, Psychatog and Counterspell. Lau got Counterspell, Psychatog and Salt Marsh. He had three mana open at end of turn. Weiss untapped, locked him up, and swung for the win.
+![](http://www.wizards.com/sideboard/images/canat02/a888.jpg)
+
+Weiss untapped, tapped Lau's remaining black mana, then destroyed all three Familiars with Fire/Ice and Flametongue Kavu. He tied Lau's mana up as best he could, but Lau was able to afford the Fact or Fiction. The cards were two Circular Logics, Salt Marsh, Psychatog and Counterspell. Lau got Counterspell, Psychatog and Salt Marsh. He had three mana open at end of turn. Weiss untapped, locked him up, and swung for the win.
 
 Weiss 1 - Lau 0
 
@@ -144,7 +148,9 @@ Lau really needed a Recoil. Flametongue Kavu removed one of the Familiars. The n
 
 Weiss 2 - Lau 0
 
-![](http://www.wizards.com/sideboard/images/canat02/a889.jpg)Lau kept a gassy two-lander for Game 3, featuring twin Counterspells. He drew successive land and was in business. Weiss had meanwhile brought a pair of Birds of Paradies into play. That let him force through Squirrel Nest with Gainsay. Lau untapped and ripped Engineered Plague. He wasted no time putting it into play.
+![](http://www.wizards.com/sideboard/images/canat02/a889.jpg)
+
+Lau kept a gassy two-lander for Game 3, featuring twin Counterspells. He drew successive land and was in business. Weiss had meanwhile brought a pair of Birds of Paradies into play. That let him force through Squirrel Nest with Gainsay. Lau untapped and ripped Engineered Plague. He wasted no time putting it into play.
 
 Weiss got in therre with Opposition. Lau was far from delighted. With his three available mana he made a Psychatog, only to get stomped by Flametongue Kavu. Psychatog went to the graveyard. His mana even more constrained, Lau was happy to have a Ghastly Demise to take out the Flametongue. Weiss replaced it with two mongrels.
 

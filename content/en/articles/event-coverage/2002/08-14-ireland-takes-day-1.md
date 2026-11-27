@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 3
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a874.jpg)Part of the fun of World Championships is watching the National Team standings. For too long, the United States has had a stranglehold on the Teams Competition, but this year, with powerhouse teams showing up from Germany, The Netherlands, France and Sweden, it's really anyone's game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a874.jpg)
+
+Part of the fun of World Championships is watching the National Team standings. For too long, the United States has had a stranglehold on the Teams Competition, but this year, with powerhouse teams showing up from Germany, The Netherlands, France and Sweden, it's really anyone's game.
 
 As Day 1 drew to a close, only one of the five hot picks was fighting for top spot: Sweden. Round six ended and Sweden was in second by four points. The day belonged to Ireland.
 

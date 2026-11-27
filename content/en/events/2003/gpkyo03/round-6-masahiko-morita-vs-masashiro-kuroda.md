@@ -53,7 +53,9 @@ archive_source:
   sha256: dcd9153aa7575386c1c0cdff1e4cc66887663479318c9c9d51058b4100124e57
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a963.jpg)Both of these two had won their respective Feature Matches this afternoon, but now the teammates of the highly successful PS2 would face each other in the Pit. There was no talk of intentional draws. It was far too early and a win and loss served them both better. Besides, these two didn't become Masters Champions for no reason. Even with a loss they'd be expected to scrape together a Day 2.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a963.jpg)
+
+Both of these two had won their respective Feature Matches this afternoon, but now the teammates of the highly successful PS2 would face each other in the Pit. There was no talk of intentional draws. It was far too early and a win and loss served them both better. Besides, these two didn't become Masters Champions for no reason. Even with a loss they'd be expected to scrape together a Day 2.
 
 ### Game 1
 
@@ -65,7 +67,9 @@ Kuroda 1 – Morita 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a965.jpg)Morita could only purse his lips as he sent his hand packing for Game 2. Kuroda simply passed his "Neil Reeves Sytle" toothpick from one corner of his mouth to the other. Morita had some good early answers, but was definitely behind. He shocked Wirewood Elf but had no immediate answer to Kuroda's morph. Kuroda added Screeching Buzzard and his morph fell to Erratic Explosion.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a965.jpg)
+
+Morita could only purse his lips as he sent his hand packing for Game 2. Kuroda simply passed his "Neil Reeves Sytle" toothpick from one corner of his mouth to the other. Morita had some good early answers, but was definitely behind. He shocked Wirewood Elf but had no immediate answer to Kuroda's morph. Kuroda added Screeching Buzzard and his morph fell to Erratic Explosion.
 
 Kuroda kept the pressure up, this time with Snarling Undorak. Morita was at the ready with Solar Blast. Kuroda replaced it with Berserk Murlodont. Morita made a Murkdiver. Kuroda smashed in and when his crew went unblocked dropped Wellwisher and a morph. Morita untapped and held his ground, hoping he'd last.
 

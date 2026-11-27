@@ -44,7 +44,9 @@ archive_source:
   sha256: b5215d2601e2c3ab36e5bad9b899fac8a731c6905c4dc16e404821b9027347f0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a880.jpg)The dust has settled. 198 teams are now 4 and those 4 teams are packed with experience. Ace Ten Off count Eric Froehlich, the legend Jon Finkel and twice PT runner-up Kamiel Cornelissen as their members. Ranged against them is the cream of Scandinavia. The members of Object of Affection – Anton Jonsson, Jens Thoren and Tomi Walamies – have many Pro Tour Top 8s between them.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a880.jpg)
+
+The dust has settled. 198 teams are now 4 and those 4 teams are packed with experience. Ace Ten Off count Eric Froehlich, the legend Jon Finkel and twice PT runner-up Kamiel Cornelissen as their members. Ranged against them is the cream of Scandinavia. The members of Object of Affection – Anton Jonsson, Jens Thoren and Tomi Walamies – have many Pro Tour Top 8s between them.
 
 <table><thead><tr><th></th>&#10;		<th></th>&#10;	</tr></thead><tbody><tr><td>A Kamiel Cornelissen</td>&#10;			<td>vs</td>&#10;			<td>Tomi Walamies</td>&#10;		</tr><tr><td>B Jon Finkel</td>&#10;			<td>vs</td>&#10;			<td>Jens Thoren</td>&#10;		</tr><tr><td>C Eric Froehlich</td>&#10;			<td>vs</td>&#10;			<td>Anton Jonsson</td>&#10;		</tr></tbody></table>
 
@@ -80,7 +82,9 @@ Ouch.
 
 Ace Ten Off 1-0 Object of Affection
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a881.jpg)In Seat B Finkel was facing down a [Nantuko Husk](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk), [Noxious Ghoul](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noxious+Ghoul) and double Redeemer. A [Windborn Muse](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Windborn+Muse) was slowing Thoren down but eventually it had to chump the husk and it was time to a decider.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a881.jpg)
+
+In Seat B Finkel was facing down a [Nantuko Husk](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk), [Noxious Ghoul](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noxious+Ghoul) and double Redeemer. A [Windborn Muse](https://web.archive.org/web/20030608000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Windborn+Muse) was slowing Thoren down but eventually it had to chump the husk and it was time to a decider.
 
 Finkel 1-1 Thoren
 

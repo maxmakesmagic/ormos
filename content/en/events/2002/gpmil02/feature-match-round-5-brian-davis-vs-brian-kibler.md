@@ -99,13 +99,17 @@ render_recovery:
   - Obliterate
   occurrences: 99
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/965.jpg)Two stars contended for dominance. On one side of the table, Brian Davis just finished in the Top 4 at PT Nice. Well known for his youthful exuberance and personality, he never fails to gain attention. Davis was packing the potent blue-red-white control deck so popular in Milwaukee. Goblin Trenches promised to send large amounts of tokens towards his opponent. Dragonlord, Handsome Man, and Ayatollah of Rock and Rollah Brian Kibler sat at the other side of the table. Well known for his writing, innovative deck designs, and love of big friggin' creatures, Kibler embodies charisma and confidence. Surprisingly, Kibler declined to play with large flying beats, and instead chose to run the widely popular Upheaval/Psychatog deck.
+![](http://www.wizards.com/sideboard/images/gpmil02/965.jpg)
+
+Two stars contended for dominance. On one side of the table, Brian Davis just finished in the Top 4 at PT Nice. Well known for his youthful exuberance and personality, he never fails to gain attention. Davis was packing the potent blue-red-white control deck so popular in Milwaukee. Goblin Trenches promised to send large amounts of tokens towards his opponent. Dragonlord, Handsome Man, and Ayatollah of Rock and Rollah Brian Kibler sat at the other side of the table. Well known for his writing, innovative deck designs, and love of big friggin' creatures, Kibler embodies charisma and confidence. Surprisingly, Kibler declined to play with large flying beats, and instead chose to run the widely popular Upheaval/Psychatog deck.
 
 Davis won the roll and chose to play first. The early game was dominated by land drop after nerve wracking land drop. Davis finished the monotony by playing Compulsion, and forced it through by Memory Lapsing a Kibler Counterspell. 
 
 The fight for board dominance kicked off. Kibler untapped and played his fourth land, surveying the six counters in his hand, and passed the turn. Davis dropped a land, and at the end of Kibler's next turn attempted a Prophetic Bolt. But Kibler grabbed the opportunity to slow Davis's tempo and Memory Lapsed the Prophetic Bolt. The second time around, Davis's Prophetic Bolt was countered by a one-strength Circular Logic. Kibler then threw down a Nightscape Familiar. Davis took the opportunity to use Compulsion, cycling an Urza's Rage and Repulse away. 
 
-![](http://www.wizards.com/sideboard/images/gpmil02/966.jpg)Kibler then turned up the heat, throwing down a Familiar. Davis continued to refine his hand, and Kibler turned up the Familiar beats. "First blood, raaaaaar!" Kibler tapped out to Probe with kicker, forcing Davis to discard another Urza's Rage and Prophetic Bolt. 
+![](http://www.wizards.com/sideboard/images/gpmil02/966.jpg)
+
+Kibler then turned up the heat, throwing down a Familiar. Davis continued to refine his hand, and Kibler turned up the Familiar beats. "First blood, raaaaaar!" Kibler tapped out to Probe with kicker, forcing Davis to discard another Urza's Rage and Prophetic Bolt. 
 
 This was Davis's opportunity, for Kibler had tapped out. With only a Fact or Fiction in hand and 6 land on the table, Davis took a chance. He untapped, and drew ... Goblin Trenches. If Davis played Trenches, he couldn't use Fact or Fiction. But if he played Fact or Fiction first and got a land, he could play the Trenches as well. On the other hand, if Kibler had an Upheaval in hand, Davis's goose would be cooked.
 
@@ -126,7 +130,9 @@ The ills of outrageous misfortune continued to plague Davis in Game 2. He mullig
 
 Kibler: *"My stacking only works with 60 card decks, not 40 card decks, and this is why I'm bad at Limited."*
 
-![](http://www.wizards.com/sideboard/images/gpmil02/967.jpg)Davis failed to draw a land on his second turn and drew the dishearteningly slow Coastal Tower on his third turn. By the time he was able to play a Meddling Mage (naming Psychatog), Kibler had already played a Nightscape Familiar and Deep Analysis. Kibler played a second Familiar and then Lobotomized to show Davis' hand of Counterspell, Absorb, Repulse, and Syncopate. Trusting in his Familiars, he stripped the Repulses from Davis. 
+![](http://www.wizards.com/sideboard/images/gpmil02/967.jpg)
+
+Davis failed to draw a land on his second turn and drew the dishearteningly slow Coastal Tower on his third turn. By the time he was able to play a Meddling Mage (naming Psychatog), Kibler had already played a Nightscape Familiar and Deep Analysis. Kibler played a second Familiar and then Lobotomized to show Davis' hand of Counterspell, Absorb, Repulse, and Syncopate. Trusting in his Familiars, he stripped the Repulses from Davis. 
 
 Finally, Davis managed to draw his third and fourth land. But it was to no avail. Kibler gained too much card advantage through Fact or Fiction and Upheavaled with double counter backup, and slammed down his Psychatog. Davis offered the handshake in concession.
 

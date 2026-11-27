@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gphir03/a937.jpg)**GB Reanimate Control vs. UBG Aluren**
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gphir03/a937.jpg)
+
+**GB Reanimate Control vs. UBG Aluren**
 
 はるばる広島までやってきた韓国人軍団の中から Lee Ji-Hoon と Kang Jisang が Feature された 14 回戦。勝てばどちらかが抜ける状態でマッチアップされてしまうのは不運とよぶべきか。あるいは、片方は必ず決勝へ通るので...これは幸運なのだろうか？
 
@@ -72,7 +74,9 @@ Lee は《ラノワールの荒原/[Llanowar Wastes](https://web.archive.org/web
 またも3 ターン目に《戦慄をなす者ヴィザラ》降臨。  
  Kang も全く同じ行動で返した...様に見えたが今度は違った。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gphir03/a938.jpg)《金粉のドレイク》が場に出ると同時に《燻し/[Smother](https://web.archive.org/web/20030126000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother)》がキャストされて交換不成立となり... 5 / 5 Flying の凶悪なクリーチャーが無事に生き延びたのである。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gphir03/a938.jpg)
+
+《金粉のドレイク》が場に出ると同時に《燻し/[Smother](https://web.archive.org/web/20030126000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother)》がキャストされて交換不成立となり... 5 / 5 Flying の凶悪なクリーチャーが無事に生き延びたのである。
 
 もう 1 枚《生ける願い》願いがハンドにある Kang だったが、先程の光景が脳裏にちらついているのだろうか？　次ターンの《魔の魅惑/[Aluren](https://web.archive.org/web/20030126000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren)》を引いたときに一発で決められる様に《魂の管理人/[Soul Warden](https://web.archive.org/web/20030126000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Warden)》を指定した。
 

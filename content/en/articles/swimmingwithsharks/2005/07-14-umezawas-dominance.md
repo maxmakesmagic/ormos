@@ -907,7 +907,9 @@ Ken Nowell - Three-color Creature Control
   
  
 
-![](https://i.ormos.uk/9f/65/9f65d1e7828671bc00e9e0abe44aa4af3b08dc2f478df94acc55d621c5396201.jpg)Rather than going for Yosei and Myojin of Cleansing Fire at the top of his curve, Nowell went dedicated Black. Everywhere we would typically see Hokori, Dust Drinker, Nowell has Infernal Kirin for disruption. Ken trades Evening for Morning Star, and Kagemaro for Final Judgment.
+![](https://i.ormos.uk/9f/65/9f65d1e7828671bc00e9e0abe44aa4af3b08dc2f478df94acc55d621c5396201.jpg)
+
+Rather than going for Yosei and Myojin of Cleansing Fire at the top of his curve, Nowell went dedicated Black. Everywhere we would typically see Hokori, Dust Drinker, Nowell has Infernal Kirin for disruption. Ken trades Evening for Morning Star, and Kagemaro for Final Judgment.
 
 While the switch to Black is interesting on its face while never deviating from the core strength of the Tribe-Elder/Kodama's Reach/Time of Need engine, Ken's most unique switch is not on the colored card front but in his artifacts. Rather than playing four copies of Umezawa's Jitte, Nowell touches Godo instead of Meloku for a single search target... But on top of cutting three Jittes, he replaces Sensei's Divining Top with Pithing Needle, the anti-Top.
 

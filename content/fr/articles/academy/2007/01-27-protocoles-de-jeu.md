@@ -83,7 +83,9 @@ render_recovery:
 
 Bonjour et bienvenue à Magic Academy ! Cette semaine, nous allons étudier les protocoles de jeu utilisés entre autres dans les événements de Jeu Organisé. 
 
-![](https://i.ormos.uk/14/42/1442a67ec8cef36045dbe5ed663b82e972f9a2181f4549346456e7e9850639ca.jpg)Dans un tournoi d'échecs, les tours des joueurs sont tellement bien définis qu'il est possible d'utiliser un chronomètre pour mesurer le temps utilisé par chaque joueur. C'est tout simplement votre tour ou non, et chaque tour a une certaine durée. Dans Magic, la priorité est bien plus difficile. Le tour de chaque joueur se joue en une succession de minitours, puisque les deux adversaires ont la possibilité de répondre aux sorts de l'autre pendant chaque phase et, qui plus est, chacun a différentes motivations stratégiques pour jouer ses sorts pendant des phases spécifiques. Même s'il est possible de gérer tout cela de façon efficace sur Magic Online, avec des pauses numériques et un chronomètre qui peut calculer des temps de quelques secondes, dans une partie physique, on utilise un système d'efficacité basé sur une compréhension partagée. 
+![](https://i.ormos.uk/14/42/1442a67ec8cef36045dbe5ed663b82e972f9a2181f4549346456e7e9850639ca.jpg)
+
+Dans un tournoi d'échecs, les tours des joueurs sont tellement bien définis qu'il est possible d'utiliser un chronomètre pour mesurer le temps utilisé par chaque joueur. C'est tout simplement votre tour ou non, et chaque tour a une certaine durée. Dans Magic, la priorité est bien plus difficile. Le tour de chaque joueur se joue en une succession de minitours, puisque les deux adversaires ont la possibilité de répondre aux sorts de l'autre pendant chaque phase et, qui plus est, chacun a différentes motivations stratégiques pour jouer ses sorts pendant des phases spécifiques. Même s'il est possible de gérer tout cela de façon efficace sur Magic Online, avec des pauses numériques et un chronomètre qui peut calculer des temps de quelques secondes, dans une partie physique, on utilise un système d'efficacité basé sur une compréhension partagée. 
 
 Précédemment dans cette rubrique, Ted Knutson vous a détaillé la structure officielle d'un tour ("[La dynamique d'un tour](/en/articles/academy/2006/11-04-the-dynamics-of-a-turn)"). Une fois que vous avez assimilé cette première étape importante, il faut savoir que, dans la réalité, les joueurs n'annoncent généralement pas chaque étape de leur tour et ne marquent pas non plus de pause pour permettre à leur adversaire de réagir. Voilà ce à quoi un tour de Magic non-virtuel ressemble en pratique. 
 
@@ -150,7 +152,9 @@ Il peut y avoir des raisons différentes (toutes deux marginales, j'ai donné un
 
 *5\. Phase de fin*
 
-![Time_Stop](https://i.ormos.uk/86/f3/86f3fc6013a4a1fe7b234cdd037864cc42f43e27f29bf699f6ec7dfca74c3998.jpg)Étape de fin de tour : Bien sûr, à l'exception d'effets obligatoires, ou de l'intention de l'adversaire de jouer un sort ou une capacité, vous pouvez terminer votre tour quand vous le désirez en disant tout simplement 'C'est à toi', ou 'J'ai terminé'. Attention, une fois que vous avez émis l'intention de finir votre tour, vous ne pouvez plus changer d'avis si votre adversaire ne veut rien faire d'autre non plus.
+![Time_Stop](https://i.ormos.uk/86/f3/86f3fc6013a4a1fe7b234cdd037864cc42f43e27f29bf699f6ec7dfca74c3998.jpg)
+
+Étape de fin de tour : Bien sûr, à l'exception d'effets obligatoires, ou de l'intention de l'adversaire de jouer un sort ou une capacité, vous pouvez terminer votre tour quand vous le désirez en disant tout simplement 'C'est à toi', ou 'J'ai terminé'. Attention, une fois que vous avez émis l'intention de finir votre tour, vous ne pouvez plus changer d'avis si votre adversaire ne veut rien faire d'autre non plus.
 
 Même s'il arrivera parfois que vous voudrez jouer un effet pendant votre étape de fin de tour, c'est assez rare. Si vous voulez le faire, annoncez-le au moment où vous commencez la phase. Généralement, cette étape est réservée à votre adversaire, qui a maintenant une occasion de jouer des éphémères en sachant que vous ne pouvez plus jouer ni rituels, ni créatures, et qu'il va bientôt dégager ses permanents. 
 

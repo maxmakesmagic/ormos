@@ -44,7 +44,9 @@ archive_source:
   sha256: 788b0b67408dcdc9ef81d717578b8e6dbb1705dba5af77932356ac8d23fc8da7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/349.JPG)Joost, a 20-yeard old from the Netherlands, went 5-1 in the draft and 4-0-2 in the standard playing accelerated blue.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/349.JPG)
+
+Joost, a 20-yeard old from the Netherlands, went 5-1 in the draft and 4-0-2 in the standard playing accelerated blue.
 
 How long have you been playing Magic ?
 

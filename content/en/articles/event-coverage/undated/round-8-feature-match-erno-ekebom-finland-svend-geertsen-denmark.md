@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Sigurd Eskeland* 
 
-![](https://i.ormos.uk/48/98/48984c49543786c310deceb30e4a23eb0c21545c443227449d40752d436106d1.jpg)The top table of this round was a match between two Scandinavian players that are no strangers to the Boat. Ekebom finished in the Top 8 here last year, while Geertsen made it to the Top 8 here in '98 and '99. Svend had drafted a green/white deck with 4 tappers. Unfortunately he had to play a couple of suboptimal cards. Erno's deck seemed to be a solid Black/Red deck with good creatures and some removal. 
+![](https://i.ormos.uk/48/98/48984c49543786c310deceb30e4a23eb0c21545c443227449d40752d436106d1.jpg)
+
+The top table of this round was a match between two Scandinavian players that are no strangers to the Boat. Ekebom finished in the Top 8 here last year, while Geertsen made it to the Top 8 here in '98 and '99. Svend had drafted a green/white deck with 4 tappers. Unfortunately he had to play a couple of suboptimal cards. Erno's deck seemed to be a solid Black/Red deck with good creatures and some removal. 
 
 **Game 1** 
 
@@ -59,7 +61,9 @@ Geertsen was smiling and bragging about the quality of his Llanowar Cavalry betw
 
 Ekebom chose to play first, but had to call a mulligan. Geertsen's hand seemed good, but he only had three Forests and no Plains. He did however have a Nomadic Elf, so he wisely chose to keep the draw. Erno played a turn one Nightscape Apprentice followed by a Viashino Grappler on turn three. Meanwhile Geertsen had played a Nomadic Elf on turn two. On his third turn he played his third Forest and summoned a Thornscape Apprentice. Erno attacked with the Grappler on the following turn. Svend blocked with his Elf, and when Ekebom used his Apprentice to give the Grappler first strike, Geertsen cast Orim's Touch with a white mana he got from the Elf thus saving it. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/850.jpg)Geertsen summoned an Obsidian Acolyte on his fourth turn and attacked with the Nomadic Elf and the Apprentice. Ekebom summoned a Duskwalker, a Kavu Aggressor and a Cinder Shade on is next few turns, but they were all held back by Svend's defense that now included a Kavu Climber. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/850.jpg)
+
+Geertsen summoned an Obsidian Acolyte on his fourth turn and attacked with the Nomadic Elf and the Apprentice. Ekebom summoned a Duskwalker, a Kavu Aggressor and a Cinder Shade on is next few turns, but they were all held back by Svend's defense that now included a Kavu Climber. 
 
 The deciding point of the match came when Geertsen attacked with his Kavu Climber and Ekebom blocked with a 4/4 Cinder Shade and a Viashino Grappler with first strike. But Geertsen cast Aggressive Urge and gave the Climber protection from black thus saving it, while killing the Cinder Shade. After this the match was pretty much over. Ekebom never drew an answer to Geertsen's Acolyte and the match ended in few turns. 
 

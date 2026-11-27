@@ -80,7 +80,9 @@ render_recovery:
   - Voidmage Apprentice
   occurrences: 53
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a880.jpg)Matt Cory is the sole surviving amateur remaining in this tournament. He takes great pride in the fact that he has *never* played in a sanctioned limited tournament prior to this event, and his Top 8 appearance here may be a sign of things to come. Cory is with Blue-Red, while Aaron is with Black-Green, although his opening appeared to resemble monoblack.
+![](https://www.wizards.com/sideboard/images/gpbos03/a880.jpg)
+
+Matt Cory is the sole surviving amateur remaining in this tournament. He takes great pride in the fact that he has *never* played in a sanctioned limited tournament prior to this event, and his Top 8 appearance here may be a sign of things to come. Cory is with Blue-Red, while Aaron is with Black-Green, although his opening appeared to resemble monoblack.
 
 Things were kept mysterious with two morphs from Cory on turns three and four, before Breider had about enough of things, and killed them both with Infest. Not to be outdone, Cory played his third straight morph in three turns. The possibilities ran through Breider’s head. His Vile Deacon didn’t quite feel up to the task of trading with Cory’s morph, and Sage Aven resembled the start of a string of things to come. Vile Deacon number two made Cory wince. One died to Shock, but the other continued to serve. Embalmed Brawler, amplified once with a joining Nantuko Husk came into play to give Breider the board advantage. Cory, knowing his next draw steps, did not have much to look forward to. Solar Blast took out the second Vile Deacon, but he still needed an answer to the Husk.
 
@@ -92,7 +94,9 @@ Next turn, Breider served yet again, but fortunately, Cory had planned his last 
 
 Cory 1 – Breider 0
 
-![](https://i.ormos.uk/2e/63/2e63a10af28d3253472a0cac77e655eb9dccbfc98abb44bf87f43f5c5199b71a.jpg)“We had *such* an exciting game just then, and the crowd is *still* over there?!” Cory exclaimed, in reference to the crowd that was surrounding the Kibler-Zajdner semifinal match, compared to the lone spectator over on this semifinal. After a mulligan, Breider bought out a Crypt Sliver and followed it up with a Wirewood Savage. Cory, on the other hand offered up some defense in the form of a Thoughtbound Primoc, which resulted in the following exchange:
+![](https://i.ormos.uk/2e/63/2e63a10af28d3253472a0cac77e655eb9dccbfc98abb44bf87f43f5c5199b71a.jpg)
+
+“We had *such* an exciting game just then, and the crowd is *still* over there?!” Cory exclaimed, in reference to the crowd that was surrounding the Kibler-Zajdner semifinal match, compared to the lone spectator over on this semifinal. After a mulligan, Breider bought out a Crypt Sliver and followed it up with a Wirewood Savage. Cory, on the other hand offered up some defense in the form of a Thoughtbound Primoc, which resulted in the following exchange:
 
 Breider: “All right, I’ll draw a card then.”  
  Cory: “Oh yes! Very good, very *good*! Draw a card!”
@@ -105,7 +109,9 @@ Breider attacked with the Vile Deacon, which became a 4/4. It traded with two of
 
 “This is like, morph-tacular” – Matt Cory
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a883.jpg)Breider hit land number eight and swung with the Stonewood Invoker. Cory blocked with the Master, to which Breider pumped the Invoker. Fortunately, Cory had planned for this situation, and had a Solar Blast at the ready to take down the Invoker before it, well, grew. Now it was time to try and take the game. Unmorphing Ascending Aven, Cory decided to race through the air, sending in both the Ascending and Sage Aven. When Breider attacked with his Wirewood Savage, Cory went on to demonstrate his mind-reading skills:
+![](https://www.wizards.com/sideboard/images/gpbos03/a883.jpg)
+
+Breider hit land number eight and swung with the Stonewood Invoker. Cory blocked with the Master, to which Breider pumped the Invoker. Fortunately, Cory had planned for this situation, and had a Solar Blast at the ready to take down the Invoker before it, well, grew. Now it was time to try and take the game. Unmorphing Ascending Aven, Cory decided to race through the air, sending in both the Ascending and Sage Aven. When Breider attacked with his Wirewood Savage, Cory went on to demonstrate his mind-reading skills:
 
 “Okay, which one is it? Primal Boost or Infest?”
 

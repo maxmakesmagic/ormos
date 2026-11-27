@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a976.jpg)The 2001 European Champion sat across from Swedish Mattias Jorstedt, who finished fifth in the 1999 European Championship. Both players seemed rather relaxed as they started their first match on Day 1.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a976.jpg)
+
+The 2001 European Champion sat across from Swedish Mattias Jorstedt, who finished fifth in the 1999 European Championship. Both players seemed rather relaxed as they started their first match on Day 1.
 
 ### Game 1
 
@@ -75,7 +77,9 @@ Next two turns Mattias built out a flying armada which could cause even more tro
 
 Eivind fearlessly sent in his Nantuko Disciple and it found no resistance as Mattias was aware of possible danger from Sudden Strength. Eivind cast Chainer's Edict and the Hapless Researcher on Mattias' side found a new purpose. As Mattias 'requested permisson' to play Stupifying Touch on Seton's Scout he attacked with his three flyers. Battlewise Aven found only five cards in the graveyard so it wasn't big enough yet. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a977.jpg)Decisive blocking on Eivind's part wasn't enough and Mattias lost no creatures as the Scout died. Eivind found himself on a downside and Deep Analysed for answers. Which he found in the shape of Sickening Dreams for three, causing all of Mattias' creatures to die, leaving Eivind with a self-saving Nantuko Disciple. Mattias cast a Hallowed Healer trying to buy him some time but the Healer found itself outnumbered as Eivind played Scrivener and Harvester Druid. He then cast Mental Note and the next turn killed the Healer with a flashbacked Chainer's Edict. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a977.jpg)
+
+Decisive blocking on Eivind's part wasn't enough and Mattias lost no creatures as the Scout died. Eivind found himself on a downside and Deep Analysed for answers. Which he found in the shape of Sickening Dreams for three, causing all of Mattias' creatures to die, leaving Eivind with a self-saving Nantuko Disciple. Mattias cast a Hallowed Healer trying to buy him some time but the Healer found itself outnumbered as Eivind played Scrivener and Harvester Druid. He then cast Mental Note and the next turn killed the Healer with a flashbacked Chainer's Edict. 
 
 For a while things go back and forth as both players played some small creatures, but the Disciple always had the better hand in the matter, putting Mattias on a constant downside. 
 

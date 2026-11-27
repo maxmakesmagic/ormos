@@ -128,7 +128,9 @@ render_recovery:
   - Wave of Indifference
   occurrences: 100
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a902.jpg)Brian Kibler entered round 11 at 8-2, and he was looking to make top 8. He has a great history of doing very well at Grand Prix, almost always making top 16 and often making top 8. He has a top 8 at PT Chicago 2000 and he won Grand Prix Toronto, a Mirage Block Constructed event. Antonio De Rosa has been doing very well as of late. Teaming with the Italian pros and members of Team TOGIT, he has put together a great resume of very high finishes. At 7-2-1, he needs to win out and hope the tiebreakers are kind in order to make top 8. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a902.jpg)
+
+Brian Kibler entered round 11 at 8-2, and he was looking to make top 8. He has a great history of doing very well at Grand Prix, almost always making top 16 and often making top 8. He has a top 8 at PT Chicago 2000 and he won Grand Prix Toronto, a Mirage Block Constructed event. Antonio De Rosa has been doing very well as of late. Teaming with the Italian pros and members of Team TOGIT, he has put together a great resume of very high finishes. At 7-2-1, he needs to win out and hope the tiebreakers are kind in order to make top 8. 
 
 Brian's deck is a solid u/w, featuring some quick creatures and good counter backup. It does have the same weakness that all u/w decks have: Sparksmith. Fortunately for him, there was only one in the draft. Unfortunately for him, it was in Antonio's very fast r/w deck, the preferred choice of most players.
 
@@ -142,7 +144,9 @@ Brian tried to slow Antonio's attack with a Morph of his own, but Antonio's Shoc
 
 Eventually, Antonio saw his opening and attacked with both Morph creatures and the Daunting Defender. One Morph was blocked by a Gravel Slinger and Glory Seeker while Brian's Dive Bomber blocked the other. Before damage went on the stack, Antonio revealed the Morph being double blocked: Crude Rampart. Combined with the Sparksmith, it managed to kill off the two soldiers while the other Morph traded with the Dive Bomber. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a900.jpg)That attack simply destroyed Brian's board position, and he conceded the next turn.
+![](http://www.wizards.com/sideboard/images/gpphi02/a900.jpg)
+
+That attack simply destroyed Brian's board position, and he conceded the next turn.
 
 Between games, the topic of JSS players came up, and Antonio described his match with New Zealand national champion Cole Swannack. "He got a game loss, and with his cute New Zealand accent he said, "It's alright. I'll still destroy him." He WRECKED me."
 
@@ -154,7 +158,9 @@ Brian chose to play first. He had no turn 2 play, but Antonio did: Sparksmith! B
 
 Both players played turn 3 Morphed creatures, but this game Antonio had a second goblin allowing Sparksmith to dominate the board. Making things even worse for Brian, it was Embermage Goblin. Able to do three damage to any creature on the board, Antonio was in complete control.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a901.jpg)The one creature Antonio could not shoot down was Brian's Illusionary Wall. Brian chose to nip in for a few damage with the wall by changing its creature type to his favorite: dragon. Even with a u/w deck in a format with only one dragon and one enchantment that makes dragons, Brian Kibler attacks with dragons.
+![](http://www.wizards.com/sideboard/images/gpphi02/a901.jpg)
+
+The one creature Antonio could not shoot down was Brian's Illusionary Wall. Brian chose to nip in for a few damage with the wall by changing its creature type to his favorite: dragon. Even with a u/w deck in a format with only one dragon and one enchantment that makes dragons, Brian Kibler attacks with dragons.
 
 Brian tried to slow things by Discombobulating a Morphed creature. All that served to do was make Antonio try to pronounce Discombobulate. "Dis... com... bob.. ob... lob..."
 

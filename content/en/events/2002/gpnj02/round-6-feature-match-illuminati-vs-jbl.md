@@ -303,7 +303,9 @@ render_recovery:
 ---
 Zvi built up his defense right from the start, with Patrol Hound and Hypochondria. Phantom Nomad made things even better, and Berkowitz only had two gray ogres out as defense. They swung back and forth for four damage total, and Berkowitz brought out a strong defender in Dreamwinder. Zvi summoned a second Phantom Nomad and ended his turn, content to halt Berkowitz's attack. Frightcrawler was able to get through Zvi's defenses a bit, and was joined by Zombie Assassin. Zvi brought out Dwarven Driller, which is either great, horrible or underrated depending on who you talk to. Berkowitz took the first game.
 
-![](http://www.wizards.com/sideboard/images/gpnj02/916.jpg)Landis opened against Gary with Stern Judge and Militant Monk, while Gary cast Chatter of the Squirrel twice, followed by Rabid Elephant. Landis' board became more impressive, as he brought out Teroh's Faithful, Cephalid Inkshrouder and Mystic Zealot. Prismatic Strands stopped a Morbid Hunger's attempt at removal, and Kirtar's Desire nullified the Elephant. Landis' defense locked up the board, and he easily took the first game.
+![](http://www.wizards.com/sideboard/images/gpnj02/916.jpg)
+
+Landis opened against Gary with Stern Judge and Militant Monk, while Gary cast Chatter of the Squirrel twice, followed by Rabid Elephant. Landis' board became more impressive, as he brought out Teroh's Faithful, Cephalid Inkshrouder and Mystic Zealot. Prismatic Strands stopped a Morbid Hunger's attempt at removal, and Kirtar's Desire nullified the Elephant. Landis' defense locked up the board, and he easily took the first game.
 
 Meanwhile, Bridy had Jeska, Warrior Adept and an Elephant token beating down Shvartsman. Wormfang Turtle held down the fort for Shvartsman, Kirtar's Desire slowed down Jeska's attack, and Flame Burst burned away Shvartsman's Puppeteer. Bridy's Barbarian Bully got Lost in Thought, while Shvartsman summoned Thought Eater. Bridy was able to pound through for the win.
 

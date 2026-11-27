@@ -92,7 +92,9 @@ render_recovery:
   - Cunning Bandit
   occurrences: 1
 ---
-![](https://i.ormos.uk/39/f5/39f527a46007458cea99a766a3e8bf9c9c8428992055b2abee07b9f0c37b389e.jpg)Welcometo Week Two of the *Betrayers of Kamigawa* previews. If you've cracked my secret column-naming code, you've deduced that this week I'm going to be talking about the flip cards in *Betrayers*. To do that I'm going to have to take you to a place that I seldom go in my column – into the mind of *Betrayers* lead designer Mike Elliott.
+![](https://i.ormos.uk/39/f5/39f527a46007458cea99a766a3e8bf9c9c8428992055b2abee07b9f0c37b389e.jpg)
+
+Welcometo Week Two of the *Betrayers of Kamigawa* previews. If you've cracked my secret column-naming code, you've deduced that this week I'm going to be talking about the flip cards in *Betrayers*. To do that I'm going to have to take you to a place that I seldom go in my column – into the mind of *Betrayers* lead designer Mike Elliott.
 
 I should quickly add the caveat that this column is me taking my best guess at how Mike's design worked. One of the major reasons that I focus on my own designs (perhaps you've noticed) is that I mostly understand my own fevered creative processes. But every designer works differently, so whenever I focus on another designer, I have to use my basic designer instincts to make a logical guess how they would have designed the card(s) in question. (I do also talk to the designer, but I find that most designers have trouble verbalizing how their own processes work.) In short, this column is my best guess at what happened.
 

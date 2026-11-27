@@ -60,7 +60,9 @@ A few days before Grand Prix Los Angeles, I spoke with Ken Krouner between draft
 **BB:** How many byes do you have this weekend?  
 **KK:** Three byes, on rating. All those 6-0’s at worlds really paid off.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/998.jpg)The players were given the signal to open their decks, so Ken began to build.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/998.jpg)
+
+The players were given the signal to open their decks, so Ken began to build.
 
 **KK:** (Sorting through the white and blue) This doesn’t look too exciting. (Gets to the red and Green). [Starstorm](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Starstorm) and [Butcher Orgg](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Butcher+Orgg) and [Stag Beetle](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stag+Beetle). Ok, my deck looks really good. 
 

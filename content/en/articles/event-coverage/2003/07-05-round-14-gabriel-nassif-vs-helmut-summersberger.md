@@ -44,7 +44,9 @@ archive_source:
   sha256: bf1ae815a965ab32a64cbd55a2bac54906d059cbea34179fdd6148d94af63bb5
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a876.jpg)This is the big round. Winner makes the Top 8, loser settles for the Top 16 and a bit of cash. The whole weekend boils down to the next two – or three – games for these two players.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a876.jpg)
+
+This is the big round. Winner makes the Top 8, loser settles for the Top 16 and a bit of cash. The whole weekend boils down to the next two – or three – games for these two players.
 
 ### Game 1
 
@@ -74,7 +76,9 @@ Gabriel 1-0 Helmut.
 
 Helmut send his first hand back, and wasn't too happy about keeping the second one. Nassif was very tempted to keep his first hand as well. He only had one land but he had [Circle of Protection: Red](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red). He decided to mulligan and after peeking at the top of deck seemed quite pleased with his choice. His second hand wasn't bad either.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a878.jpg)[Llanowar Elves](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves) entered the game and on the next turn gained an [Elephant Guide](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Guide). It attacked once alone and Summersberger played [Call of the Herd](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) to help them out. Meanwhile Nassif was playing lands, with the help of [Eternal Dragon](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Dragon).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a878.jpg)
+
+[Llanowar Elves](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves) entered the game and on the next turn gained an [Elephant Guide](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Guide). It attacked once alone and Summersberger played [Call of the Herd](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) to help them out. Meanwhile Nassif was playing lands, with the help of [Eternal Dragon](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Dragon).
 
 He [Disenchant](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant)ed the Guide on the next combat phase, falling to twelve and used [Chastise](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chastise) to send the [Call](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call) token a little later. Summersberger flashbacked the [Call](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call) to keep the pressure.
 
@@ -93,7 +97,9 @@ Helmut: "Perfect!"
 
 In came the turn one Elves, turn two Lavamancer. Nassif played [Circle of Protection: Red](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red) after hesitating a bit. Four mana gave Helmut [Phantom Centaur](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur). [Chastise](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chastise) took care of that on the next swing, leaving Gabriel at twenty-two.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a877.jpg)Helmut played another Elves and attacked with it a couple of times. Nassif took his own sweet time and eventually fired [Duress](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) seeing only land and [Violent Eruption](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption). For once [Duress](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) was glad to meet Eruption: the [COP: Red](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=COP%3A+Red) too care of it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a877.jpg)
+
+Helmut played another Elves and attacked with it a couple of times. Nassif took his own sweet time and eventually fired [Duress](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) seeing only land and [Violent Eruption](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption). For once [Duress](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) was glad to meet Eruption: the [COP: Red](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=COP%3A+Red) too care of it.
 
 The Austrian's army was too small to put Gabriel Nassif under considerable pressure. Even with an added [Basking Rootwalla](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla), Nassif had a lot of life to work with. When Helmut pumped the Rootwalla the Frenchman had his second [Chastise](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chastise). Again, Helmut rebuilt. This time with [Wild Mongrel](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel).
 

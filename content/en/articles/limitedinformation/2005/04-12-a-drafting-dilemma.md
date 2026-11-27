@@ -90,7 +90,9 @@ Welcome back to week two of my stint as guest host! While I could go on about my
 
 ### The Qualifiers
 
-[![](https://i.ormos.uk/a3/c6/a3c6c4e88d691880f826a60dd400cfed2536a9f40d91a29ed38ceef376cde47c.jpg)](/en/articles/event-coverage/undated/pro-tourlondon-qualifying-season-booster-draft-top-8-decklists)Last week I suggested people check out the Top 8 decks from recent [Pro Tour London qualifiers](/en/articles/event-coverage/undated/pro-tourlondon-qualifying-season-booster-draft-top-8-decklists). I’ve got a good six pages of ideas and conclusions but unfortunately I don’t have the space to include them this week due to the complexity of the draft choices review. Next week I promise to include charts and statistics that may just change how you draft!
+[![](https://i.ormos.uk/a3/c6/a3c6c4e88d691880f826a60dd400cfed2536a9f40d91a29ed38ceef376cde47c.jpg)](/en/articles/event-coverage/undated/pro-tourlondon-qualifying-season-booster-draft-top-8-decklists)
+
+Last week I suggested people check out the Top 8 decks from recent [Pro Tour London qualifiers](/en/articles/event-coverage/undated/pro-tourlondon-qualifying-season-booster-draft-top-8-decklists). I’ve got a good six pages of ideas and conclusions but unfortunately I don’t have the space to include them this week due to the complexity of the draft choices review. Next week I promise to include charts and statistics that may just change how you draft!
 
 ### The Draft
 

@@ -273,7 +273,9 @@ render_recovery:
 ---
 [Draft Coverage](/en/events/2002/gpnj02/top-4-draft-lovespell-vs-the-jokas) 
 
-![](https://www.wizards.com/sideboard/images/gpnj02/874.jpg)Here were two teams that knew what they were playing for. The team of Benafel, Froehlich, and Borteh was as good as it gets. The star of The Jokas is Kyle Rose, but his teammates were not scrubs. In fact, they played up to, if not past, their well known opponents.
+![](https://www.wizards.com/sideboard/images/gpnj02/874.jpg)
+
+Here were two teams that knew what they were playing for. The team of Benafel, Froehlich, and Borteh was as good as it gets. The star of The Jokas is Kyle Rose, but his teammates were not scrubs. In fact, they played up to, if not past, their well known opponents.
 
 In front, we had the Norman Woods vs. Eric Froehlich match up, and it was a classic. Blue/white was in Eric's hands, while Woods was playing red green. The game was off, and Woods had a bomb in Call of the Herd on turns three and four. Froehlich played back, casting Aether Burst, and using Guided Strike in conjunction with a two power creature. 
 
@@ -281,7 +283,9 @@ A Pardic Lancer came out to play with Eric's life totals, and since he was short
 
 Froehlich played a quick Floating Shield, naming red, and used it to kill the Arcane Teachings. Woods came back with Acorn Harvest and an Anurid Barkripper. All Froehlich had to follow up with was a Shieldmage Advocate, and Woods took the opportunity to cast a Vivify and make an alpha strike. They completely forgot about the attacking land, and since I noticed this, I told a judge. The judge gave a ruling and Froehlich appealed to the Head Judge. The ruling was that too much time had passed and people had made decisions based on life total, so the mistake stood.
 
-![](https://www.wizards.com/sideboard/images/gpnj02/872.jpg)While the Judge was ruling, I took a look around. Benafel and Rose were facing off with an even board, until Narcissism hit the table for Benafel. At the end of the table, Borteh had lost the first game, and they were shuffling.
+![](https://www.wizards.com/sideboard/images/gpnj02/872.jpg)
+
+While the Judge was ruling, I took a look around. Benafel and Rose were facing off with an even board, until Narcissism hit the table for Benafel. At the end of the table, Borteh had lost the first game, and they were shuffling.
 
 Back to the game at hand, as more and more creatures poured into play, on both sides. Another disagreement came up when Froehlich, asked to pick top or bottom, mumbled something totally inaudible, and his opponent revealed the top card. Woods then pointed out that he heard Froehlich say "top." A disagreement on reality occured that set me back years of therapy. The issue was resolved and the game continued, as Froehlich played a Teroh's Faithful, and eventually an Aven Windreader. With a Sentry out, the game ended in three short turns.
 
@@ -289,7 +293,9 @@ By this time, game one of Benafel and Rose was over. Benafel played Narcissism t
 
 Norman Wood came out blasting this game. Turn two Forcemage Advocate, turn three Anurid Barkripper, Nantuko Calmer, a Springing Tiger, and an Acorn Harvest. Froehlich's draw was not up to the task, as he was overwhelmed by his opponent's creatures, and a key Flairing Pain in response to Pay No Heed. As such, game two went to Norman Woods. 
 
-![](https://www.wizards.com/sideboard/images/gpnj02/873.jpg)The next game started just as Benafel lost game two. Froehlich once again was short on land, and Woods had the first play, a Phantom Tiger. The Tiger was hit by Chastise, and a Nantuko Calmer took its place. Woods then swung with the Calmer, and cast an Acorn Harvest. He then flashed it back, giving him a good amount of creatures. All Froehlich had was a Vigilant Sentry, and this slowly went through the squirrels, one turn at a time. Woods has nothing really, until he drew a Barkripper, with threshold. Froehlich had to waste a Dematerialize, just to survive the turn. 
+![](https://www.wizards.com/sideboard/images/gpnj02/873.jpg)
+
+The next game started just as Benafel lost game two. Froehlich once again was short on land, and Woods had the first play, a Phantom Tiger. The Tiger was hit by Chastise, and a Nantuko Calmer took its place. Woods then swung with the Calmer, and cast an Acorn Harvest. He then flashed it back, giving him a good amount of creatures. All Froehlich had was a Vigilant Sentry, and this slowly went through the squirrels, one turn at a time. Woods has nothing really, until he drew a Barkripper, with threshold. Froehlich had to waste a Dematerialize, just to survive the turn. 
 
 Froehlich did draw his Ambassador Laquatus, enabling him to get to threshold, and strengthening his defenses with the Sentries threshold ability. For every creature Froehlich played, Woods had a matching monster, and with his very low life total Froehlich needed to draw something quick. When an Erhnam Djinn came out, there was nothing Froehlich could do, except show the two lands he was holding to the world, and extend the hand.
 

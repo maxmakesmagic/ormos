@@ -135,7 +135,9 @@ render_recovery:
   - Threaten
   occurrences: 122
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a977.jpg)Allan Shuldiner achieved something phenomenal today: He became the first amateur to grind into the Masters. With the invitations shifting from rating to Pro Points, it only made sense to offer Gateway qualifications based on rating. Shuldiner was here this weekend courtesy a Qualifier victory and decided to run it. Now he's two thousand dollars richer and within reach of more.
+![](http://www.wizards.com/sideboard/images/pthou02/a977.jpg)
+
+Allan Shuldiner achieved something phenomenal today: He became the first amateur to grind into the Masters. With the invitations shifting from rating to Pro Points, it only made sense to offer Gateway qualifications based on rating. Shuldiner was here this weekend courtesy a Qualifier victory and decided to run it. Now he's two thousand dollars richer and within reach of more.
 
 His first opponent in the big event? None other than the Winningest Man in Magic. For all his success on the tour, recently feathered by a repeat Team PT win at Boston, he has been unable to do well in singles Masters competition. He's looking to turn things around today.
 
@@ -151,7 +153,9 @@ Shuldiner 1 - Budde 0
 
 Budde made a face at his opening hand for Game 2, but chose to keep. He had a Shock for Shuldiner's Battlefield Medic, and then a morph. Shuldiner matched him. Budde swung in and turned over Snarling Undorak when Shuldiner blocked, costing him what turned out to be Daru Healer. So far, so good. He hit for three more.
 
-![](https://i.ormos.uk/2b/32/2b3248383351d46e126ac3ec028dbf4bc7f24ece87005d297ebd183431f23068.jpg)Unfortunately, his next morph (a Lorian) was answered by Prowling Pangolin, and now he wasn't drawing the mana he needed. Instead of a sixth land he got Flamestick Courier. Between Wave of Indifference and Searing Flesh, he could win this race. That is, if he drew the lands. Shuldiner turned his Pangolin sideways. Budde thought hard. His third card, Vitality Charm, soaked up six damage. Shuldiner busted out Daunting Defender.
+![](https://i.ormos.uk/2b/32/2b3248383351d46e126ac3ec028dbf4bc7f24ece87005d297ebd183431f23068.jpg)
+
+Unfortunately, his next morph (a Lorian) was answered by Prowling Pangolin, and now he wasn't drawing the mana he needed. Instead of a sixth land he got Flamestick Courier. Between Wave of Indifference and Searing Flesh, he could win this race. That is, if he drew the lands. Shuldiner turned his Pangolin sideways. Budde thought hard. His third card, Vitality Charm, soaked up six damage. Shuldiner busted out Daunting Defender.
 
 Budde drew Wirewood Herald. The Undorak turned and dealt four when it went unblocked. The Herald got ready to chump. Shuldiner looked at his board and swung again. The Herald served up a Wirewood Elf. Shuldiner Pacified the Undorak, Misery Charmed his Daru Healer, and played it face-down. Budde readied another chumpblocker and hit for four. Shuldiner brought him to eleven and played Severed Legion.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### Game One
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a988.jpg)Cameron first saw Mirrodin during the Trial last night. The last time Sideboard saw Laura Mills she was beating Sol Malka at the US Nationals in 2002. Since then Laura has gone from writing for Brainburst to writing for Star City Games. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a988.jpg)
+
+Cameron first saw Mirrodin during the Trial last night. The last time Sideboard saw Laura Mills she was beating Sol Malka at the US Nationals in 2002. Since then Laura has gone from writing for Brainburst to writing for Star City Games. 
 
 The two players settled in for what looked like it would be a friendly game. The early banter was lighthearted and friendly. Both players took the early mulligan to six cards.
 
@@ -74,7 +76,9 @@ Cameron Heize 1 – Laura Mills 0
 
 ### Game Two
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a983.jpg)Cameron was once again unhappy with the cards he pulled off the top of his deck to start the game. His mulligan to six made him feel a little better about his chances and he kept.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a983.jpg)
+
+Cameron was once again unhappy with the cards he pulled off the top of his deck to start the game. His mulligan to six made him feel a little better about his chances and he kept.
 
 Laura didn’t like her seven cards at all and sent them flopping back onto the top of the deck, ready to be shuffled up again.
 
@@ -110,7 +114,9 @@ Both players kept for the first time in the match, happy with their seven card h
 
 Turn four the beef started to hit the table, with Clockwork Condor joining the table on Cameron’s side, weighing it heavily in his direction.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a986.jpg)Laura played a Vulshok Berserker and sent him into the red zone, maybe hoping that Cameron would block with his Condor and remove them both from the table. Instead, Cameron took the damage and then swung to do three damage of his own.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpkc03/a986.jpg)
+
+Laura played a Vulshok Berserker and sent him into the red zone, maybe hoping that Cameron would block with his Condor and remove them both from the table. Instead, Cameron took the damage and then swung to do three damage of his own.
 
 The pace of play picked up quite a bit at this point. The two players knew they were under time constraints and wanted to try and get game three completed.
 

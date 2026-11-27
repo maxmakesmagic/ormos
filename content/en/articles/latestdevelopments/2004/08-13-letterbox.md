@@ -101,7 +101,9 @@ Let's begin.
 > 
 > **--Josh Wittenmyer**
 
-![](https://i.ormos.uk/28/68/286820dfe44c6d8784e42c3dc92a43cb589aaba75bdd89aee14593c6725dd224.jpg)Thanks, Josh. It was a tough subject, and I'm glad that I could convey everything I needed to in a way that made sense to (just about) everyone. We're still pushing cards, and we hope that no more "Skullclamps" have slipped through the cracks.
+![](https://i.ormos.uk/28/68/286820dfe44c6d8784e42c3dc92a43cb589aaba75bdd89aee14593c6725dd224.jpg)
+
+Thanks, Josh. It was a tough subject, and I'm glad that I could convey everything I needed to in a way that made sense to (just about) everyone. We're still pushing cards, and we hope that no more "Skullclamps" have slipped through the cracks.
 
 > **Thanks for explaining all that; I no longer feel so bad watching my best decks, decks I have spent months slaving over, inevitably fall to the new guy's Skullclamp/affinity deck. You'd think 2 or 3 [Mutilate](https://web.archive.org/web/20040813000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutilate)s and a Visara would keep a guy down. Sheesh.**
 > 

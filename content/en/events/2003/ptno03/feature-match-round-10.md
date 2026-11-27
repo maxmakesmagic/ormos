@@ -104,13 +104,17 @@ render_recovery:
 
 ### Game 1
 
-![OISO!!!!!!!!](http://www.wizards.com/sideboard/images/ptno03/897.jpg "OISO!!!!!!!!")Oiso double mulliganed to start. He played Voltaic Key, and Okamoto summoned Mogg Fanatic. Seething Song on turn two (thanks to Ancient Tomb) brought out a pair of Goblin Warchiefs, putting a significant amount of pressure on the board. Meanwhile, Oiso drew and missed his third land drop, and seemingly had a draw that was ill-prepared to deal with Okamoto's quick Goblin assault. When Goblin Matron came out on turn three, he quickly scooped up his cards.
+![OISO!!!!!!!!](http://www.wizards.com/sideboard/images/ptno03/897.jpg "OISO!!!!!!!!")
+
+Oiso double mulliganed to start. He played Voltaic Key, and Okamoto summoned Mogg Fanatic. Seething Song on turn two (thanks to Ancient Tomb) brought out a pair of Goblin Warchiefs, putting a significant amount of pressure on the board. Meanwhile, Oiso drew and missed his third land drop, and seemingly had a draw that was ill-prepared to deal with Okamoto's quick Goblin assault. When Goblin Matron came out on turn three, he quickly scooped up his cards.
 
 Oiso 0 - Okamoto 1
 
 ### Game 2
 
-![OKAMOTO!!!!!](http://www.wizards.com/sideboard/images/ptno03/898.jpg "OKAMOTO!!!!!")Once again, Oiso mulliganed down to five with a cringe. Okamoto summoned a Prospector, and Oiso was stuck with just a Rishadan Port for land. The Prospector helped bring out a second turn Goblin Warchief, a Matron searched up a Piledriver, and the match was soon over as Oiso was never able to put up a fight.
+![OKAMOTO!!!!!](http://www.wizards.com/sideboard/images/ptno03/898.jpg "OKAMOTO!!!!!")
+
+Once again, Oiso mulliganed down to five with a cringe. Okamoto summoned a Prospector, and Oiso was stuck with just a Rishadan Port for land. The Prospector helped bring out a second turn Goblin Warchief, a Matron searched up a Piledriver, and the match was soon over as Oiso was never able to put up a fight.
 
 Oiso 0 - Okamoto 2
 

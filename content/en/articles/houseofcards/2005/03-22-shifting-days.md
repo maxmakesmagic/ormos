@@ -511,7 +511,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/c7/86/c78652a23c487f539bd6a38ea0d826fae61a4b26bfa66cfb44f9f84cc581a8fa.jpg)It worked! It worked! The time machine worked! Now I'll have [more time to write my column](/en/articles/feature/2005/03-21-past-present-future) each week! Since the deadlines are now further apart… aw, nuts. Stupid temporal mechanics.
+![](https://i.ormos.uk/c7/86/c78652a23c487f539bd6a38ea0d826fae61a4b26bfa66cfb44f9f84cc581a8fa.jpg)
+
+It worked! It worked! The time machine worked! Now I'll have [more time to write my column](/en/articles/feature/2005/03-21-past-present-future) each week! Since the deadlines are now further apart… aw, nuts. Stupid temporal mechanics.
 
 While moving over to Tiu's Day from Thor's Day (Where I really belong is Loki's Day, but that doesn't seem to exist… yet), I made a quick pitstop at December 2, 2004, when I promised to one day get into my rant about the theories of time travel. Now (if you give any credence to the relative and self-contradictory concept of “now”) seems like an appropriate time (if you give any credence to the relative and self-contradictory concept of “time”) for that.
 
@@ -525,7 +527,9 @@ Other types of paradoxes can't happen under this theory. There was no way the Te
 **Theory 2: The *T2: Judgment Day* theory.**  
  Uh-oh. Despite the fact that *T2* is, in my opinion, a vastly superior film to the glorified zombie movie (“There's an unkillable monster hunting us”) that was *The Terminator*—and don't even get me started on *Alien* or *Jurassic Park*—it irks me to no end that they switched time-travel theories between one film and the next.
 
-![](https://i.ormos.uk/eb/ef/ebef0f4aaeca8c0dad426e5565532c5c9a2920f55b762df054b9db3330c925e4.jpg)In this theory, there are multiple timestreams. Let's make up some terms: The “linear future” is the future in terms of the calendar. March 11, 4219 is in the linear future from now. Your “personal past” is an event in your history, regardless of when it occurs on the calendar. John Connor sticking Kyle in a time machine happened in the linear future, but in Sarah Connor's personal past. So, back to the topic: In this theory, taking a specific action can change the course of the linear future, even if it would also change your personal past (which is impossible under the first theory). 
+![](https://i.ormos.uk/eb/ef/ebef0f4aaeca8c0dad426e5565532c5c9a2920f55b762df054b9db3330c925e4.jpg)
+
+In this theory, there are multiple timestreams. Let's make up some terms: The “linear future” is the future in terms of the calendar. March 11, 4219 is in the linear future from now. Your “personal past” is an event in your history, regardless of when it occurs on the calendar. John Connor sticking Kyle in a time machine happened in the linear future, but in Sarah Connor's personal past. So, back to the topic: In this theory, taking a specific action can change the course of the linear future, even if it would also change your personal past (which is impossible under the first theory). 
 
 In this film, we start out with a paradox built off of Theory 1 dynamics: Skynet births itself. The cyborg technology from the future, which was sent to the past in the first film, becomes the basis for creating Skynet, which then creates the cyborg technology in the future. Another chicken-and-the-egg question. If the T-800's right arm hadn't existed in 1984 in the first place, Skynet would never have arisen and the T-800's right arm couldn't be sent back to 1984. So far, Theory 1 is consistent. Then Sarah and John destroy this technology. Skynet doesn't rise on schedule. The war doesn't start on schedule. The ripple effect changes everything from that point onwards. The situation in this new 2029 (or whenever), when John sends Kyle back to the past, can't possibly be exactly the same as in the old 2029—but that part isn't changed because it already happened. Those calendar pages are ripped off, stored safely, and replaced with different ones. Voila, multiple timestreams.
 
@@ -556,7 +560,9 @@ The deck can be blindingly fast. Turn 5 kills are quite achievable. In my second
 
 ### Collar of the Claw
 
-![](https://i.ormos.uk/c3/b9/c3b98979a10fa62665a8dcc36084736d81c63dcc0a5a0a8ec38ec1a44c01bee2.jpg)Last week, Adrian Sullivan [showed us the power](/en/articles/singlecardstrategies/2005/03-16-natures-will) of Nature's Will and Nate Heiss showed us [the power of Ninja](/en/articles/buildingonabudget/2005/03-18-secret-sword). But what, wondered Tobias Aberg, about their power together? Tobias sent me his deck after Adrian's column was posted but before Nate's, so I can only assume he has some sort of time machine too.
+![](https://i.ormos.uk/c3/b9/c3b98979a10fa62665a8dcc36084736d81c63dcc0a5a0a8ec38ec1a44c01bee2.jpg)
+
+Last week, Adrian Sullivan [showed us the power](/en/articles/singlecardstrategies/2005/03-16-natures-will) of Nature's Will and Nate Heiss showed us [the power of Ninja](/en/articles/buildingonabudget/2005/03-18-secret-sword). But what, wondered Tobias Aberg, about their power together? Tobias sent me his deck after Adrian's column was posted but before Nate's, so I can only assume he has some sort of time machine too.
 
 Both Ninja and Nature's Will like unblocked creatures. They both especially like first strike damage, which is why the secret weapon of this deck is—oh, yes—Sparring Collar. Imagine this: You've tapped your lands to play stuff (like, perhaps, Nature's Will). You attack with a Sage Owl that has first strike. It deals combat damage to your opponent. All of his lands tap and all of your lands untap. Now, *still in the first-strike damage step*, you use the ninjutsu ability to pop in a Ninja of the Deep Hours, returning the Sage Owl to your hand. Use your lands to pay for whatever other effects you like. When the game moves to the normal combat damage step, the Ninja deals damage to your opponent, you draw a card, and your lands untap *again*. Now you replay the Sage Owl.
 

@@ -105,7 +105,9 @@ render_recovery:
   - Blazing Salvo
   occurrences: 108
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a969.jpg)Magic Invitationalist Alex Shvartsman's Blue/Black deck has so much bounce it could suck the life out of a basketball. His deck contains FOUR Aether Bursts and a Churning Eddy. Other highlights include Cephalid Broker and a couple of Dreamwinders. He expects to go 2-1.
+![](http://www.wizards.com/sideboard/images/gpkl02/a969.jpg)
+
+Magic Invitationalist Alex Shvartsman's Blue/Black deck has so much bounce it could suck the life out of a basketball. His deck contains FOUR Aether Bursts and a Churning Eddy. Other highlights include Cephalid Broker and a couple of Dreamwinders. He expects to go 2-1.
 
 Singapore's Kelvin Hoon is flying high. His deck is a Mongrel short of being the textbook example of a great R/G deck. It has Call of the Herd, Beast Attack, two Chainflingers, Arrogant Wurm and Shower of Coals. He predict's he'll go 3-0. Unfortunately, that much token generation is going to get savaged by Shvartsman's bounce.
 
@@ -121,7 +123,9 @@ Now, Alex's Dusk Imp had done six points of damage to Kelvin, and that was six p
 
 It was unfortunate that Kelvin had no good response to the Rat. He passed the turn and his board was looking rather sad with only the elephant on his side, while Alex could potentially have eight power on the table, as Alex drew ever closer to achieving Threshold. 
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a967.jpg)And so Threshold was achieved on Alex's turn, when he played Churning Eddy to clear the way for his attackers, sacrificing his last Island to drive the Dreamwinder and pump the Wererat. Hoon was down to one. Despite playing several chump blockers he eventually succumbed to the Wererat.
+![](http://www.wizards.com/sideboard/images/gpkl02/a967.jpg)
+
+And so Threshold was achieved on Alex's turn, when he played Churning Eddy to clear the way for his attackers, sacrificing his last Island to drive the Dreamwinder and pump the Wererat. Hoon was down to one. Despite playing several chump blockers he eventually succumbed to the Wererat.
 
 Shvartsman 1 Hoon 0
 

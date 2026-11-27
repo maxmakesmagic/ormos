@@ -66,7 +66,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/354.jpg)Following up with our interview with Gab Tsang, we watched as team Canada went through the deck building process, knowing that with Tsang's earlier comments, they had lofty expectations to live up to.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/354.jpg)
+
+Following up with our interview with Gab Tsang, we watched as team Canada went through the deck building process, knowing that with Tsang's earlier comments, they had lofty expectations to live up to.
 
 The process began with Tsang, national champ Ryan Fuller, Nationals finalist Murray "the Mauler" Evans and 4th chair Sam Lau took the product and began dividing it into colors, after which they divided each color into playable and unplayable piles. Sam worked on the blue cards, which were obviously a powerhouse with two each of Waterfront Bouncer, Ribbon Snake, Blockade Runner and Drake Hatchling. Ryan worked on the Black which, despite some efficient kill, was deemed as weak due to the lack of efficient creatures. Gab worked on the very powerful white, which featured a strong Rebel chain, Troubled healer, Defender En-Vec and Wave of Reckoning, and Murray worked on the Green which featured 2 Spidersilk Armors and a number of large Green creatures, including Blastoderm.
 

@@ -483,7 +483,9 @@ This is Ben and MikeyP's first feature match, and their first match against each
 
 ### Game 1
 
-![](https://i.ormos.uk/89/bb/89bb5f1aa089d65d5706de06fc537da596678802a96d3348b8fda2ce095653be.jpg)Mike won the die roll and elected to play first. He led with a plains, and Ben countered with a Bloodstained Mire for a mountain and a Raging Goblin, bringing both players to 19. Mike played another land (a Skycloud Expanse) and passed the turn.
+![](https://i.ormos.uk/89/bb/89bb5f1aa089d65d5706de06fc537da596678802a96d3348b8fda2ce095653be.jpg)
+
+Mike won the die roll and elected to play first. He led with a plains, and Ben countered with a Bloodstained Mire for a mountain and a Raging Goblin, bringing both players to 19. Mike played another land (a Skycloud Expanse) and passed the turn.
 
 Ben attacked with his goblin, then Firebolted Mike. He played another mountain and passed the turn. Mike cycled Renewed Faith at the end of Ben's turn, and then played a Nantuko Monastery. After another cycled Faith, Mike played an island to round out his complement of lands, and passed the turn.
 
@@ -507,7 +509,9 @@ Mike responded with a Cunning Wish, and picked up his sideboard, hunting for som
 
 "You can't keep a good Prairie down," Ben joked. He then played a Goblin Goon after attacking with his goblins. Mike played another Prairie and played a Wrath of God. Ben, unfazed, played a Goblin Piledriver and a Goblin Warchief. "I'll take two, you take five," he said. Mike shook his head and Wrathed again. Ben drew his card and played another Goblin Goon, going to 13 from his Barbarian Rings. 
 
-![](https://i.ormos.uk/48/2a/482aed5f6059f740e3ead7064d82927dc632b3179dc34cb0fe8ed40c9dfc3eed.jpg)Ben sent the Goon in, but Mike had the Wing Shards. Ben checked Mike's graveyard, then played a Volcanic Hammer at Mike, who went to 8. Mike untapped and made a strange face as he drew his card. He tossed down a Circle of Protection: Red as Ben frowned.
+![](https://i.ormos.uk/48/2a/482aed5f6059f740e3ead7064d82927dc632b3179dc34cb0fe8ed40c9dfc3eed.jpg)
+
+Ben sent the Goon in, but Mike had the Wing Shards. Ben checked Mike's graveyard, then played a Volcanic Hammer at Mike, who went to 8. Mike untapped and made a strange face as he drew his card. He tossed down a Circle of Protection: Red as Ben frowned.
 
 "Circle Red..." Ben said, mostly to himself, as he sacrificed a Barbarian Ring to damage Mike further. Mike played a Deep Analysis and passed the turn. Ben, obviously affected by this turn of events, took a break from his normally frantic style of play to think about what to do next.
 
@@ -527,7 +531,9 @@ Ben Stark 1 – Mike Pustilnik 1
 
 Ben led with a Bloodstained Mire, and played a Goblin Sledder with his fetched red mana. Mike played a Lonely Sandbar for his turn, and Ben just smiled. He followed his strong first turn with a burlier second – a mountain and a Goblin Piledriver. Mike, still unfazed, played a Circle of Protection: Red on his second turn.
 
-![](https://i.ormos.uk/11/21/11213937bfe4324283e20dd051eaabd2b0c6b75adea29eabeeff4e4cf8a9a19d.jpg)Ben, going for broke, played another Sledder and a Volcanic Hammer at Mike's head. He the attacked with his goblins, and passed the turn back. Mike played his land and passed back, and Ben played a Stone Rain on Mike's plains. He attacked with all of his goblins to take Mike to 9 life, but Mike recovered slightly with some more lands on subsequent turns.
+![](https://i.ormos.uk/11/21/11213937bfe4324283e20dd051eaabd2b0c6b75adea29eabeeff4e4cf8a9a19d.jpg)
+
+Ben, going for broke, played another Sledder and a Volcanic Hammer at Mike's head. He the attacked with his goblins, and passed the turn back. Mike played his land and passed back, and Ben played a Stone Rain on Mike's plains. He attacked with all of his goblins to take Mike to 9 life, but Mike recovered slightly with some more lands on subsequent turns.
 
 He fished out a Wrath of God and played it, wiping out Ben's entire army. With no cards in hand and nothing on the table, Ben had virtually no options. He flashed back a Firebolt to kill a morphed Exalted Angel that Mike couldn't protect. 
 

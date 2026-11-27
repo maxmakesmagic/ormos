@@ -99,7 +99,9 @@ render_recovery:
   - Sylvan Safekeeper
   occurrences: 66
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a904.jpg)It is do or die time for the two competitors, as the winner of this match will advance to their first Grand Prix top 8. Moskovich is playing the ever-popular mono-black control deck, while Dove brought a white-green creature deck to the table.
+![](http://www.wizards.com/sideboard/images/gpcle02/a904.jpg)
+
+It is do or die time for the two competitors, as the winner of this match will advance to their first Grand Prix top 8. Moskovich is playing the ever-popular mono-black control deck, while Dove brought a white-green creature deck to the table.
 
 Dove opened with Anurid Brushhopper. He phased it out pitching Glory and a land in response to an Edict, and summoned Phantom Centaur. He phased it out yet again in response to Mutilate but could not stop the Edict out of the graveyard, which allowed Moskovich to stabilize. Having removed two Tireless Tribes via Innocent Bloods, Moskovich summoned Nantuko Shade and attacked with it for fourteen. Dove top-decked a Wild Mongrel which, cheered by Glory in the graveyard, could block the Shade indenfinitely, but Moskovich had yet another Edict! Its path clear, Shade delivered the killing blow.
 

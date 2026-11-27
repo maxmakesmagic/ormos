@@ -724,7 +724,9 @@ The celebratory elixir Mr. Zebub gave me when I signed that contract seems to be
 
 At the moment, the spotlight is on Minion of Leshrac, which isn't a Minion. To keep it company (and feed it) is Sengir Autocrat, which is a Minion. That Minion comes into play with three minions of his own that are, of course, not Minions—they're Serfs.
 
-![](https://i.ormos.uk/31/4c/314c9fa6b7e4a09263a41a78be0432f600f69f2711d36e317ec19f0e30a2cec0.jpg)I loved Minion of Leshrac back in the day. I loved Demonic Hordes, and this was just better. “Tap to Befoul?!” I'd say. Well, I wouldn't actually say that because Befoul wouldn't be printed for another three years. And MoL's ability can wipe out any creature, not just a nonblack one. But it allows for regeneration. Still, despite the non-Minion Minion's confusing near-similarity to a card that didn't exist, I loved it. Not that I ever really got it to work. But I loved it.
+![](https://i.ormos.uk/31/4c/314c9fa6b7e4a09263a41a78be0432f600f69f2711d36e317ec19f0e30a2cec0.jpg)
+
+I loved Minion of Leshrac back in the day. I loved Demonic Hordes, and this was just better. “Tap to Befoul?!” I'd say. Well, I wouldn't actually say that because Befoul wouldn't be printed for another three years. And MoL's ability can wipe out any creature, not just a nonblack one. But it allows for regeneration. Still, despite the non-Minion Minion's confusing near-similarity to a card that didn't exist, I loved it. Not that I ever really got it to work. But I loved it.
 
 Poor, poor Minion of Leshrac. It was printed before its time. Only now, supported by combo powerhouses Standardize and Faces of the Past, can its true might be unleashed! This three-card combo allows you to wipe out all of your opponent's creatures in one turn. Standardize all creature types to be Demon (or anything else), and whenever Minion of Leshrac taps to destroy a creature, Faces of the Past untaps it for more maniacal fun.
 
@@ -736,7 +738,9 @@ The Serfs and Pests are there to be fodder, fodder, and more fodder. You need to
 
 ### Tempting Whispers
 
-![](https://i.ormos.uk/1e/06/1e06fefd4e2c04de278dd4d3e727801dceee109a5218573feafbbad7d2e9241f.jpg)I'm feeling it now. Bubba Lou's bubbling beverage seems to be boiling my internal organs. There was something about that guy I didn't trust, but I just couldn't put my finger on it… and now I really can't put my finger on it as it seems to have disintegrated from the inside out. I better finish typing before the other nine go.
+![](https://i.ormos.uk/1e/06/1e06fefd4e2c04de278dd4d3e727801dceee109a5218573feafbbad7d2e9241f.jpg)
+
+I'm feeling it now. Bubba Lou's bubbling beverage seems to be boiling my internal organs. There was something about that guy I didn't trust, but I just couldn't put my finger on it… and now I really can't put my finger on it as it seems to have disintegrated from the inside out. I better finish typing before the other nine go.
 
 When I was searching for Demon cards to write about, I hit all cards with “Demon” in the type line (hello, Lord of the Pit), “Demon” in the text (greetings, Boris Devilboon), and “Demon” in the card title (welcome, Demonic Tutor… and Pandemonium?) Pandemonium was a bit of a surprise. It shouldn't have been. Etymologically speaking, the word straight-up means “demon world,” a fitting precursor to its current common definition of “tumult” or “chaos.” OK. I can run with that.
 

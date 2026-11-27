@@ -85,7 +85,9 @@ render_recovery:
   - Afflict
   occurrences: 49
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a924.jpg)As we already know, Thomas has a solid black-blue deck splashing white with bombs as Cabal Patriarch and Dusk Imp. Bram is playing green-white. He also has some nice cards like Pianna and Beast Attack.
+![](http://www.wizards.com/sideboard/images/gpnap02/a924.jpg)
+
+As we already know, Thomas has a solid black-blue deck splashing white with bombs as Cabal Patriarch and Dusk Imp. Bram is playing green-white. He also has some nice cards like Pianna and Beast Attack.
 
 ### Game 1
 
@@ -115,7 +117,9 @@ Thomas 1 - Bram 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a923.jpg)Thomas didn't sideboard but Bram put a Cease Fire in.
+![](http://www.wizards.com/sideboard/images/gpnap02/a923.jpg)
+
+Thomas didn't sideboard but Bram put a Cease Fire in.
 
 As Bram's deck is pretty aggressive, Thomas chose to play first. He kept a three-land hand but didn't see any more lands for quite some time. He killed Bram's first creature with an Innocent Blood. Thomas played a Dusk Imp, while Bram played several good spells like Avenger and Acorn Harvest. He attacked and played an Aven, again. 
 

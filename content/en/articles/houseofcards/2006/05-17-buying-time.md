@@ -635,7 +635,9 @@ How do we solve these two problems?
 
 Heartbeat of Spring, Sakura-Tribe Elder, Kodama's Reach.
 
-![](http://www.wizards.com/global/images/mtgcom_daily_cm19_picMain_en.jpg)I bet if you go back through the [House of Cards archives](https://web.archive.org/web/20060517000000/http://www.wizards.com/default.asp?x=/default.asp?x=mtgcom/columnarchive&column=HouseofCards), you'll discover that cards like Explosive Vegetation, Rampant Growth, the *Mirrodin* Talismans, and the dynamic, unambiguously-good duo (Elder and Reach) are among the most consistently used cards. I know for a fact that I've made extensive use of the *Ravnica* Block Signets and *9th Edition's* Fellwar Stone. These cards allow to effectively skip ahead a turn. Instead of playing a three-mana spell on your third turn, you can play a four-mana spell. While your opponent is stuck at three lands, Elder and Reach let you send them a postcard from turn 5. This is a good thing for Pro Tour decks, but it's probably even better for fun casual decks, where the cards are by nature less efficient.
+![](http://www.wizards.com/global/images/mtgcom_daily_cm19_picMain_en.jpg)
+
+I bet if you go back through the [House of Cards archives](https://web.archive.org/web/20060517000000/http://www.wizards.com/default.asp?x=/default.asp?x=mtgcom/columnarchive&column=HouseofCards), you'll discover that cards like Explosive Vegetation, Rampant Growth, the *Mirrodin* Talismans, and the dynamic, unambiguously-good duo (Elder and Reach) are among the most consistently used cards. I know for a fact that I've made extensive use of the *Ravnica* Block Signets and *9th Edition's* Fellwar Stone. These cards allow to effectively skip ahead a turn. Instead of playing a three-mana spell on your third turn, you can play a four-mana spell. While your opponent is stuck at three lands, Elder and Reach let you send them a postcard from turn 5. This is a good thing for Pro Tour decks, but it's probably even better for fun casual decks, where the cards are by nature less efficient.
 
 ### Card drawing, tutoring!
 

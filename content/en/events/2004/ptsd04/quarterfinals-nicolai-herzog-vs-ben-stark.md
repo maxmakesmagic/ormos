@@ -751,7 +751,9 @@ render_recovery:
 ---
 * * *
 
-![Ben Stark](http://wizards.com/sideboard/images/ptsd04/qf2_1.jpg)Ben Stark wasn't exactly a big name until recently, but his skills are quite respected in Pro circles. His results are catching up to his reputation however, with two Grand Prix Top 4's in 2003 and most recently a Top 8 at Pro Tour Kobe. If anything's the mark of a great player, it's back-to-back Top 8's.
+![Ben Stark](http://wizards.com/sideboard/images/ptsd04/qf2_1.jpg)
+
+Ben Stark wasn't exactly a big name until recently, but his skills are quite respected in Pro circles. His results are catching up to his reputation however, with two Grand Prix Top 4's in 2003 and most recently a Top 8 at Pro Tour Kobe. If anything's the mark of a great player, it's back-to-back Top 8's.
 
 Stark is pleased with how his Top 8 draft went, saying he'd trade this deck for four of the five he drafted this weekend (excluding an ABSURD affinity deck with five artifact lands, Chromescale Drake, Broodstar, double-Thoughtcast and all the fixin's). He's confident he can win this Pro Tour. With so much removal, Isochron Scepter and Altar of Shadows, Stark plans to rule the board and win with one unanswered creature and his suite of burn spells. The only deck he fears is one with enough removal that it can answer all his creatures. 
 

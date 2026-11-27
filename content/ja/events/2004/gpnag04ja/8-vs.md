@@ -172,7 +172,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpnag04/r8_Nakano.JPG)ダイスロールで志岐先攻。しばしの後「やります」と宣言した志岐に対し、「後手…」とつぶやいた後マリガンを宣言した中野。
+![](http://www.wizards.com/sideboard/images/gpnag04/r8_Nakano.JPG)
+
+ダイスロールで志岐先攻。しばしの後「やります」と宣言した志岐に対し、「後手…」とつぶやいた後マリガンを宣言した中野。
 
 《ダークスティールの城塞/Darksteel Citadel》《羽ばたき飛行機械/Ornithopter》《彩色の宝球/Chromatic Sphere》と並べるが、第2ターンに早くも「ランドが、止まったー」の志岐。《電結の働き手/Arcbound Worker》を出して終了。
 

@@ -95,7 +95,9 @@ render_recovery:
   - Stupefying Touch
   occurrences: 79
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a735.jpg)Ireland has fallen to second place in the team standings behind the surging Argentinean team, and John Larkin blames Raphael Levy, who fell last round to the top Argentinean, Diego Ostrovich.
+![](http://www.wizards.com/sideboard/images/worlds02/a735.jpg)
+
+Ireland has fallen to second place in the team standings behind the surging Argentinean team, and John Larkin blames Raphael Levy, who fell last round to the top Argentinean, Diego Ostrovich.
 
 Levy cast a Mental Note, and then Larkin cast a Mesmeric Fiend, taking a moment to decide to steal Levy's Aether Burst. Levy played a Werebear, and then Larkin one-upped him with a Shadowmage Infiltrator. Levy tried putting out some small creatures like Werebear and Nimble Mongoose, but Larkin had Edict's at the ready and the Infiltrator was drawing more.
 
@@ -112,7 +114,9 @@ He played out a Werebear on turn 2, which was Edicted, another Werbear on turn t
 Levy: "This was a bad draw."  
  Larkin: "I thought it would be better than *this*."
 
-![](http://www.wizards.com/sideboard/images/worlds02/a739.jpg)With an empty hand and six mana and a Mongoose in play, Levy topdecked an Upheaval. He cast it, replayed a Forest and dropped the Mongoose. He wasn't even close to threshold. Larkin passed the turn, and Levy played a Werebear. Larkin recast his Mesmeric Fiend and was saddened to see that Levy had drawn a Breakthrough which would be capable of giving him threshold at a moment's notice, so he took that card.
+![](http://www.wizards.com/sideboard/images/worlds02/a739.jpg)
+
+With an empty hand and six mana and a Mongoose in play, Levy topdecked an Upheaval. He cast it, replayed a Forest and dropped the Mongoose. He wasn't even close to threshold. Larkin passed the turn, and Levy played a Werebear. Larkin recast his Mesmeric Fiend and was saddened to see that Levy had drawn a Breakthrough which would be capable of giving him threshold at a moment's notice, so he took that card.
 
 Unfortunately Levy drew another Breakthrough on his next turn and he cast it for two, discarding three Wonders and getting threshold. He attacked for seven with the Bear and the 'Goose.
 
@@ -120,7 +124,9 @@ Larkin had a Coffin Purge, good enough for two of the Wonders, and an Edict for 
 
 Larkin 1 – Levy 1
 
-![](http://www.wizards.com/sideboard/images/worlds02/a737.jpg)Both players started with 2/1's in the deciding game—Larkin played a Nantuko Shade and Levy a Seton's Scout. Levy's was killed with an Edict, and he replaced it with a Werebear, fully thresholded thanks to a pair of Careful Studies.
+![](http://www.wizards.com/sideboard/images/worlds02/a737.jpg)
+
+Both players started with 2/1's in the deciding game—Larkin played a Nantuko Shade and Levy a Seton's Scout. Levy's was killed with an Edict, and he replaced it with a Werebear, fully thresholded thanks to a pair of Careful Studies.
 
 Faceless Butcher took care of that Bear, and then Larkin dropped the hammer in the form of Rancid Earth on Levy's only forest. Levy was stuck with uncastable spells, and Larkin started playing out guys.
 

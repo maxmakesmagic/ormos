@@ -65,7 +65,9 @@ render_recovery:
   - Masticore
   occurrences: 8
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a916.jpg)Bram is still reeling from the beating he got last round at the hands of Patrick Mello's Sligh deck and finds himself at 9-1-1 going into this round, still toting his trusty Rock deck. Rouven Korzetz is not that well known internationally but he's been tearing up the opposition here in Reims with a Suicide Black deck featuring Plague Spitters.
+![](http://www.wizards.com/sideboard/images/gprei02/a916.jpg)
+
+Bram is still reeling from the beating he got last round at the hands of Patrick Mello's Sligh deck and finds himself at 9-1-1 going into this round, still toting his trusty Rock deck. Rouven Korzetz is not that well known internationally but he's been tearing up the opposition here in Reims with a Suicide Black deck featuring Plague Spitters.
 
 ### Game 1
 

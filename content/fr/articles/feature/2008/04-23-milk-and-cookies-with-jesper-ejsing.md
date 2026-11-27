@@ -156,7 +156,9 @@ Aidez moi à accueillir l’artiste Jesper Ejsing!
 
 **DB : Pour commencer, dis m’en plus à ton sujet. À quoi est-ce que cela ressemble d’être Jesper Ejsing ?**
 
-![Jesper Ejsing](https://i.ormos.uk/35/1b/351b1486a80bb44f8f0214f9c6ecfd98c4ea2c2a4e6384847c252114548b5736.jpg "Jesper Ejsing")**JE :** Je suis un Viking danois – vous savez, comme les gars barbus de l’extension *Ère Glaciaire*. Les berserkers fous qui ont conquis l’Angleterre, brûlé et pillé le reste de l’Europe ? Je suis exactement comme ça, sauf pour la barbe, le coté frénétique et la pyromanie… Et je passe la majorité du temps dans un studio devant de ma table à dessins ou un ordinateur. J’ai des lunettes vraiment très épaisses et j’en ai d’autres encore plus épaisses pour voir les détails lorsque je peins. Mon dos me fait mal lorsque j’essaye de soulever des trucs et je m’essouffle lorsque je dois monter des escaliers… Et j’ai le visage d’une fille de quatorze ans, mais à part tout ça je suis tout à fait un berserker Viking. J’ai même des armes et armures de jeu de rôle grandeur nature au studio… Donc n’essaye rien contre moi. 
+![Jesper Ejsing](https://i.ormos.uk/35/1b/351b1486a80bb44f8f0214f9c6ecfd98c4ea2c2a4e6384847c252114548b5736.jpg "Jesper Ejsing")
+
+**JE :** Je suis un Viking danois – vous savez, comme les gars barbus de l’extension *Ère Glaciaire*. Les berserkers fous qui ont conquis l’Angleterre, brûlé et pillé le reste de l’Europe ? Je suis exactement comme ça, sauf pour la barbe, le coté frénétique et la pyromanie… Et je passe la majorité du temps dans un studio devant de ma table à dessins ou un ordinateur. J’ai des lunettes vraiment très épaisses et j’en ai d’autres encore plus épaisses pour voir les détails lorsque je peins. Mon dos me fait mal lorsque j’essaye de soulever des trucs et je m’essouffle lorsque je dois monter des escaliers… Et j’ai le visage d’une fille de quatorze ans, mais à part tout ça je suis tout à fait un berserker Viking. J’ai même des armes et armures de jeu de rôle grandeur nature au studio… Donc n’essaye rien contre moi. 
 
 Je vis à Copenhague, au Danemark. J’ai une femme nommée Lea. Elle est éditrice de livres et auteur. Nous avons un fils nommé Asbjørn (ce qui veut dire ‘dieu des ours’ en danois) et nous allons très bientôt avoir un autre fils. 
 
@@ -189,7 +191,9 @@ C’était il y a 12 ans.
 
 **DB : Parlons de tes influences artistiques. Qui sont tes artistes préférés, à la fois dans et en dehors de l’art de fantaisie ?**  
   
-![Glamer_Spinners](https://i.ormos.uk/f0/83/f0830b3ac1d0630003ea7c70b560b60859b01a07ea174f1cd2a08a2e7b4474c1.jpg)**JE :** Mon premier travail vraiment bien payé fut la colorisation d’une bande dessinée nommée *Valhalla*, la bande dessinée se vendant sans conteste le mieux au Danemark. Ce fut également le travail qui m’a vraiment fait rejoindre le coté obscur des illustrations et le travail qui m’a fait arrêter mes études d’histoire de l’art. 
+![Glamer_Spinners](https://i.ormos.uk/f0/83/f0830b3ac1d0630003ea7c70b560b60859b01a07ea174f1cd2a08a2e7b4474c1.jpg)
+
+**JE :** Mon premier travail vraiment bien payé fut la colorisation d’une bande dessinée nommée *Valhalla*, la bande dessinée se vendant sans conteste le mieux au Danemark. Ce fut également le travail qui m’a vraiment fait rejoindre le coté obscur des illustrations et le travail qui m’a fait arrêter mes études d’histoire de l’art. 
 
 J’ai tellement appris en coloriant les bandes dessinées. Et Peter Madsen – le dessinateur de la bande dessinée – m’a tellement appris sur la façon dont rendre une image immédiatement lisible pour le public grâce aux couleurs. Il est vraiment une grande source d’inspiration. 
 
@@ -209,7 +213,9 @@ J’ai également une pensée pour Kev Walker. J’ai toujours voulu lui poser d
 
 Avant de soumettre le croquis j’ajoute certains tons de gris pour capturer l’ambiance et la lumière.
 
-![Fonctionnement du travail de Jesper](https://i.ormos.uk/73/eb/73ebf00cbcba9e5415cca49888594d6a4c782a786512a60ff70ca87147004129.jpg "Fonctionnement du travail de Jesper")Puis je transfère tout sur un tableau en frottant le dos du dessin avec de la poussière de graphite et en appuyant toutes les lignes avec un crayon. De cette façon j’ai l’image imprimée depuis le papier sur le tableau. C’est la partie de mon travail qui pue le plus. Je n’ajoute absolument rien ; j’agis simplement comme une photocopieuse, et une très mauvaise qui plus est. 
+![Fonctionnement du travail de Jesper](https://i.ormos.uk/73/eb/73ebf00cbcba9e5415cca49888594d6a4c782a786512a60ff70ca87147004129.jpg "Fonctionnement du travail de Jesper")
+
+Puis je transfère tout sur un tableau en frottant le dos du dessin avec de la poussière de graphite et en appuyant toutes les lignes avec un crayon. De cette façon j’ai l’image imprimée depuis le papier sur le tableau. C’est la partie de mon travail qui pue le plus. Je n’ajoute absolument rien ; j’agis simplement comme une photocopieuse, et une très mauvaise qui plus est. 
 
 Puis j’encre le croquis transféré avec un stylo et ajoute des tons de gris et de noirs. En fait c’est comme si je finissais la peinture en noir et blanc. 
 

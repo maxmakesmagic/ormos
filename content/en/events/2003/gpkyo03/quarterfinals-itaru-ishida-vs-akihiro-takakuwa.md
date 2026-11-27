@@ -137,7 +137,9 @@ render_recovery:
   - Wirewood Herald
   occurrences: 120
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a904.jpg)Itaru Ishida is not the man you want to sit across from in your quarterfinal match. The unflappable head of Panzer Hunters is also something of a machine when it comes to singles play. You'd best be on top of your game. Fortunately, Akihiro Takakuwa is. One of the Top 8's lesser-knowns, Takakuwa drafted the deck that had all the reporters murmuring. Three Lavamancer's Skills. Good wizards and evasion creatures. Riptide Director. Blistering Firecat. It certainly looks like he's the man to beat in this Top 8. Ishida's is a more pedestrian green-red, but in his hands, anything is lethal.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a904.jpg)
+
+Itaru Ishida is not the man you want to sit across from in your quarterfinal match. The unflappable head of Panzer Hunters is also something of a machine when it comes to singles play. You'd best be on top of your game. Fortunately, Akihiro Takakuwa is. One of the Top 8's lesser-knowns, Takakuwa drafted the deck that had all the reporters murmuring. Three Lavamancer's Skills. Good wizards and evasion creatures. Riptide Director. Blistering Firecat. It certainly looks like he's the man to beat in this Top 8. Ishida's is a more pedestrian green-red, but in his hands, anything is lethal.
 
 ### Game 1
 
@@ -153,7 +155,9 @@ Takakuwa 1 – Ishida 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a905.jpg)Ishida started Game 2 with a morph. Takakuwa shut it down quickly with Mistform Wall. Ishida made no move on his third turn, and unmorphed his Undorak after Takakuwa came down with Riptide Director. Ishida hit for three then Solar Blasted the Director. It looked like Ishida had the edge when Takakuwa could only hit for one and make an Ascending Aven. Ishida shot back for four and played a Skirk Commando face-down.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a905.jpg)
+
+Ishida started Game 2 with a morph. Takakuwa shut it down quickly with Mistform Wall. Ishida made no move on his third turn, and unmorphed his Undorak after Takakuwa came down with Riptide Director. Ishida hit for three then Solar Blasted the Director. It looked like Ishida had the edge when Takakuwa could only hit for one and make an Ascending Aven. Ishida shot back for four and played a Skirk Commando face-down.
 
 Of course, Takakuwa's deck is never without Lavamancer's Skill. He dropped it on the Wall, shot the hidden Commando, and still had mana left to cycle Choking Tethers on the Snarling Undorak.
 

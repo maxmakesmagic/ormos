@@ -75,13 +75,17 @@ render_recovery:
   - Mesmeric Fiend
   occurrences: 37
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/951.jpg)This is a bad match up for Olivier, his Blue-Black Upheaval-Zombie deck against Jonny's mono-black deck. As soon as he sat down Ruel offered the draw as he had played a few friendly games against myself earlier in the day with the same deck and lost them all. It is possible for the black deck to draw too many anti-creature cards.
+![](https://www.wizards.com/sideboard/images/gplon02/951.jpg)
+
+This is a bad match up for Olivier, his Blue-Black Upheaval-Zombie deck against Jonny's mono-black deck. As soon as he sat down Ruel offered the draw as he had played a few friendly games against myself earlier in the day with the same deck and lost them all. It is possible for the black deck to draw too many anti-creature cards.
 
 ### Game One
 
 Chapman started the game with a very land heavy hand. He played a second turn Crypt Creeper and Ruel had a Zombie Infestation. After the Creeper traded for two of Olivier's cards Ruel dropped a Standstill which Chapman was forced to break with a Braids, Cabal Minion. Olivier immediately dropped another one. Olivier and Jonny both sacrificed a land a turn for a long time, until Ruel decided to make a second Zombie and start attacking. Olivier by this time had only one land in play but as Chapman was trying hard not to break Standstill he was taking a lot of damage. He had the option to play his own Infestation, which might have been the thing to do, especially when Olivier had only one land in his hand.
 
-![](https://www.wizards.com/sideboard/images/gplon02/952.jpg)Jonny laid a land every turn for a while but it was no longer looking so good for him when he had to start sacrificing his land to Braids. Ruel realized this and decided to hold the Zombie tokens back for a while, since Jonny would probably block with Braids, and he was soon going to be forced to sacrifice it.
+![](https://www.wizards.com/sideboard/images/gplon02/952.jpg)
+
+Jonny laid a land every turn for a while but it was no longer looking so good for him when he had to start sacrificing his land to Braids. Ruel realized this and decided to hold the Zombie tokens back for a while, since Jonny would probably block with Braids, and he was soon going to be forced to sacrifice it.
 
 Chapman attempted the Infestation at last, but it was countered with a Circular Logic. When Olivier had another Circular Logic for a Crypt Creeper, Jonny had to concede to the Zombies.
 
@@ -91,7 +95,9 @@ Jonny sideboarded in his Cabal Therapy, Buried Alive, a Filth, and a fourth Icho
 
 The Englishman decided to go first, with a good draw including Nantuko Shade, Zombie Infestation, and Buried Alive, although it only had two lands. He played the Infestation on turn two, and since discarded Filth and an Edict to make a token. When he drew his third land, he cast Buried Alive to fetch an Ichorid and two more Crypt Creepers.
 
-![](https://www.wizards.com/sideboard/images/gplon02/953.jpg)Jonny's draw also included two Cabal Therapy, and they totally wrecked Olivier as they could combo fantastically with the Ichorid. A couple of turns later Ruel had to concede as a second Buried Alive put two more Ichorids into the graveyard. During the entire game Olivier didn't cast any spells except for Chainer's Edict and a flashbacked Deep Analysis.
+![](https://www.wizards.com/sideboard/images/gplon02/953.jpg)
+
+Jonny's draw also included two Cabal Therapy, and they totally wrecked Olivier as they could combo fantastically with the Ichorid. A couple of turns later Ruel had to concede as a second Buried Alive put two more Ichorids into the graveyard. During the entire game Olivier didn't cast any spells except for Chainer's Edict and a flashbacked Deep Analysis.
 
 ### Game Three
 

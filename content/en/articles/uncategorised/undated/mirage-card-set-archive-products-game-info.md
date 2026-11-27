@@ -63,7 +63,9 @@ Everything you need to start building your tournament-worthy deck. Includes 60 c
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/ef/2a/ef2a1eb0123557f35041f623af9de89798ffcac56f9b13cc8952e0ff2bd2461c.png)The 350-card, black-bordered set features 110 rares, 110 uncommons, 110 commons, and 20 basic lands. It also introduced two new abilities to **Magic**: Phasing and Flanking.
+![](https://i.ormos.uk/ef/2a/ef2a1eb0123557f35041f623af9de89798ffcac56f9b13cc8952e0ff2bd2461c.png)
+
+The 350-card, black-bordered set features 110 rares, 110 uncommons, 110 commons, and 20 basic lands. It also introduced two new abilities to **Magic**: Phasing and Flanking.
 
 **Set Name:***Mirage*  
 **Block:** Set 1 of 3 in the *Mirage* Block  

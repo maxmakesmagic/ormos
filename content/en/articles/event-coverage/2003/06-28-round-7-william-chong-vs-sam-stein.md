@@ -44,7 +44,9 @@ archive_source:
   sha256: 4f9deb4063193ee948d94c503bb5dc6fb0d6252474a017a6ae2df55059d5bf23
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a771.jpg)William is from Ontario, and qualified through a JSS tournament there. He qualified for Canadian Nationals, but he couldn't attend due to school commitments. "I want to say hello to Wensoi Wong, my girlfriend in Ontario," he commented.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a771.jpg)
+
+William is from Ontario, and qualified through a JSS tournament there. He qualified for Canadian Nationals, but he couldn't attend due to school commitments. "I want to say hello to Wensoi Wong, my girlfriend in Ontario," he commented.
 
 Sam is from Los Angeles, and he qualified for this tournament off of rating, rather than by winning a JSS qualifier. He's had 2 PTQ Top 8s before as well. "Hi to my mom and dad," he said before the match.
 
@@ -56,7 +58,9 @@ It didn't stay long, as William hit the Elephant with a [Volcanic Hammer](https:
 
 William played another land and attacked with his Rootwalla, walking right into Sam's Rootwalla. Both players opted to pump the Rootwalla to trade. William's next play was a [Phantom Centaur](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur), complete with the requisite "I've forgotten my counters" pieces of paper.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a772.jpg)When William attacked again, Sam blocked the Llanowar Elf with his Elephant and let the Centaur through. William then flashed back the [Firebolt](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) to kill the Elephant. Sam threw a [Volcanic Hammer](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer) at the Centaur, but William played a [Call of the Herd](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) of his own on his next turn. With enough land in play, he flashed it back immediately.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a772.jpg)
+
+When William attacked again, Sam blocked the Llanowar Elf with his Elephant and let the Centaur through. William then flashed back the [Firebolt](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) to kill the Elephant. Sam threw a [Volcanic Hammer](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer) at the Centaur, but William played a [Call of the Herd](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) of his own on his next turn. With enough land in play, he flashed it back immediately.
 
 William attacked with both Elephants and the Centaur (which only had one counter on it). Sam blocked with a Llanowar Elf, but he couldn't draw any more creatures, and the game ended shortly after.
 
@@ -68,7 +72,9 @@ Sam began this game with a [Wooded Foothills](https://web.archive.org/web/200306
 
 Sam played a [Phantom Centaur](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur) on his third turn, and William's only response was a [Call of the Herd](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd). Sam then discarded a forest to make his [Wild Mongrel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) black, and then used his Lavamancer to get rid of William's Lavamancer. 
 
-![](https://i.ormos.uk/28/58/28585c9e1c3b9d065a5d5d10d872f4e9a9b60eb566813467d7c672c97cd9345c.jpg)William played another land and tapped everything. "One, two, one," he said, tapping [Violent Eruption](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption) on Llanowar Elf, [Wild Mongrel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel), and Lavamancer, all in that order. He repeated it next turn, but couldn't find a way to kill Sam's previously played [Phantom Centaur](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur). Sam swung back for more than William could handle, and the game was over quickly.
+![](https://i.ormos.uk/28/58/28585c9e1c3b9d065a5d5d10d872f4e9a9b60eb566813467d7c672c97cd9345c.jpg)
+
+William played another land and tapped everything. "One, two, one," he said, tapping [Violent Eruption](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption) on Llanowar Elf, [Wild Mongrel](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel), and Lavamancer, all in that order. He repeated it next turn, but couldn't find a way to kill Sam's previously played [Phantom Centaur](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur). Sam swung back for more than William could handle, and the game was over quickly.
 
 William Chong 1 – Sam Stein 1
 

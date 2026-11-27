@@ -293,7 +293,9 @@ I've been in more complicated games, to be sure – but this is just the right b
 
 *Setup: Wherever we play – we haven't settled on a host yet – I'm pretty sure we'll do an Emperor draft. You will find information on how to conduct an Emperor draft in the [Serious Fun archives](https://web.archive.org/web/20090602122532/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/columnarchive).* 
 
-![](https://i.ormos.uk/17/8d/178da6b559b23c4d86654d75f0dd161fd4a11fa7961844bf8cc962f047cf2626.jpg)I'll tell ya what I'm going to do, the next time we Emperor draft. (This will be before Saviors comes out. By the way, my preview card will come next week. Thanks for your patience.) I'm gonna do four things:
+![](https://i.ormos.uk/17/8d/178da6b559b23c4d86654d75f0dd161fd4a11fa7961844bf8cc962f047cf2626.jpg)
+
+I'll tell ya what I'm going to do, the next time we Emperor draft. (This will be before Saviors comes out. By the way, my preview card will come next week. Thanks for your patience.) I'm gonna do four things:
 
 First, I'm going to ask my team if I can be Emperor. This won't be any ego trip on my part – I've just been doing the flanks for some time now and feel I've "unlocked" that part of the draft. (Best strategy is a cheap red-green, focused tightly on spirit/arcane spells.) I'll look forward to being an emperor for a while and pushing some different ideas – for example, green in the center seat may not be such a bad idea.
 

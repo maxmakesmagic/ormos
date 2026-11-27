@@ -112,7 +112,9 @@ Seriously. Choosing the way to contrast the two worlds wasn't that hard. The dev
 
 ### Tribes, but not Tribal
 
-![](https://i.ormos.uk/24/58/2458e36bec8232994e163dca94eaa31f7e28e8259ca2c9c6611f90a977622395.jpg)It's a good time to emphasize that *Shadowmoor* and *Eventide* are *not* a tribal block. Nor do they form some kind of "reverse tribal" or "anti-tribal" block to contrast with *Lorwyn*. From a mechanical standpoint, it's an all-new block that happens to be set on the plane that was once Lorwyn. It has its own mechanical themes, its own styles of deckbuilding, and all-new keywords that steer it away from *Lorwyn's* tribal-heavy gameplay.
+![](https://i.ormos.uk/24/58/2458e36bec8232994e163dca94eaa31f7e28e8259ca2c9c6611f90a977622395.jpg)
+
+It's a good time to emphasize that *Shadowmoor* and *Eventide* are *not* a tribal block. Nor do they form some kind of "reverse tribal" or "anti-tribal" block to contrast with *Lorwyn*. From a mechanical standpoint, it's an all-new block that happens to be set on the plane that was once Lorwyn. It has its own mechanical themes, its own styles of deckbuilding, and all-new keywords that steer it away from *Lorwyn's* tribal-heavy gameplay.
 
 However, our pal Vorthos, magnanimous psychographic that he is, will offer a powerful gift to Timmy, Johnny and Spike once *Shadowmoor* releases. The fact that the plane of Shadowmoor is peopled with the same races that lived on Lorwyn means that you (as a deckbuilder) can continue to evolve and empower the tribal decks you have already built from *Lorwyn* and *Morningtide* cards. *Shadowmoor* adds a few unusual monsters beyond the normal tribal races, and a few oddball class types too; the further we get away from *Lorwyn*, the less of the eight core tribal races you'll see. But for now, the overlap is pretty huge, giving you a lot more ammunition for your elf decks, giant decks, warrior decks, shaman decks, and what-have-you.
 
@@ -166,7 +168,9 @@ So, elves are green-white now. What, pray tell, does this do for their flavor? T
 
 *A fortified elven homestead, usually located in the trees and sometimes on the ground as well, to protect it from attack and to give the elves a bird's eye view of surrounding lands. Safeholds are fortified both physically and magically. The oldest and largest safeholds are built into trees that stand on small hillocks called shee knolls. A shee knoll is an ancient gravesite, where the souls of elf warriors and druids lie slumbering. The soil around a shee knoll is sterile. It provides a clear meadow that makes sneaking up on a safehold difficult. If a safehold is destroyed, the shee knoll beneath it remains. This place becomes a horrid, twisted reflection of the great defeat suffered by the elves. Rarely, the ghosts of elvish dead haunt these places.*
 
-![](https://i.ormos.uk/d1/9c/d19cd3baaa44ef2807b4bc13331454556047145f4f830298f2a604ad0832ba65.jpg)So if Shadowmoor is a world of eerie gloom, why did I start out by previewing an elf, now the world's only defenders of light? It's because the elves show off the change in the most dramatic way. Some of the world's races changed only a little after the Aurora, but the elves, as the race with the most to lose, have transformed the most completely. As previews continue, keep tuning in to the site to see how the other creatures of Lorwyn have become darker incarnations of themselves—and how other creepy-crawlies have made their way out of the folklore and into the newly gloomy world.
+![](https://i.ormos.uk/d1/9c/d19cd3baaa44ef2807b4bc13331454556047145f4f830298f2a604ad0832ba65.jpg)
+
+So if Shadowmoor is a world of eerie gloom, why did I start out by previewing an elf, now the world's only defenders of light? It's because the elves show off the change in the most dramatic way. Some of the world's races changed only a little after the Aurora, but the elves, as the race with the most to lose, have transformed the most completely. As previews continue, keep tuning in to the site to see how the other creatures of Lorwyn have become darker incarnations of themselves—and how other creepy-crawlies have made their way out of the folklore and into the newly gloomy world.
 
 ### Letter of the Week
 

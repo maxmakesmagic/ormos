@@ -53,7 +53,9 @@ render_recovery:
 ---
 And finally it all comes down to one match. Out of just under 270 players the field has been whittled down to two highly experienced players. Both Pierre Malherbaud and Nicolai Herzog have been here before way back in 1999. That year Herzog became the eventual champion. This year the Norwegian is looking to repeat the feat while Malherbaud is looking to win the title for the first time.
 
-![](https://i.ormos.uk/2f/e3/2fe3ba986816611561ec22e69b973d5e677b60ab39c4a6099594ecede60cbccb.jpg)"You've already won it once, you can let me win it this time." – Malherbaud.
+![](https://i.ormos.uk/2f/e3/2fe3ba986816611561ec22e69b973d5e677b60ab39c4a6099594ecede60cbccb.jpg)
+
+"You've already won it once, you can let me win it this time." – Malherbaud.
 
 "That's really funny." – Herzog.
 
@@ -97,7 +99,9 @@ Herzog 2-0 Malherbaud
 
 No turn one [Duress](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) for Malherbaud again as he dropped a [Barren Moor](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Moor) and then Wished for [Zombify](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombify) on his next turn. Herzog tapped out for [Aquamoeba](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba) and then had his hand shredded by a [Last Rites](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Last+Rites) that took out every spell and left him with nothing but land. A Rootwalla appeared off the top, leaving the Frenchman clear to [Zombify](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zombify) out [Phantom Nishoba](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Nishoba).
 
-![](https://i.ormos.uk/c2/11/c211d02d87b48a1f2cc6b8a6f43db09043055b10a6949dd3ec0b4be6c1e01e6f.jpg)Herzog drew a timely [Counterspell](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell) for a [Doomed Necromancer](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doomed+Necromancer), but it still wasn't good for him as the Nishoba continued to take the game away in massive life swings. An [Aquamoeba](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba) got trodden over for a turn to keep Herzog alive, but the top of his library had no help forthcoming and the Frenchman got to pull one back.
+![](https://i.ormos.uk/c2/11/c211d02d87b48a1f2cc6b8a6f43db09043055b10a6949dd3ec0b4be6c1e01e6f.jpg)
+
+Herzog drew a timely [Counterspell](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell) for a [Doomed Necromancer](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doomed+Necromancer), but it still wasn't good for him as the Nishoba continued to take the game away in massive life swings. An [Aquamoeba](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba) got trodden over for a turn to keep Herzog alive, but the top of his library had no help forthcoming and the Frenchman got to pull one back.
 
 Herzog 2-1 Malherbaud
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: c00065df5ca92192295906921e8187ffd865f9b51efa50517980413fe6e8f559
 render_recovery: []
 ---
-![](https://www.wizards.com/sideboard/images/gpdet03/a937.jpg)Eric “Danger” Taylor came to the table wearing a jaunty little chapeau, and his attitude matched it. Often times the absent-minded professor of Magic, Taylor has a reputation as a writer of some of the most fundamental articles about the game. He’s also no slouch as a player. He last tasted glory in when he defeated friend and roommate Pat Chapin in the finals of Grand Prix – Milwaukee. This weekend he’s been having a ball casting big spells with Red-White Control. His opponent is Dave Williams, who is continuing a history of strong GP performances this weekend, and is in shooting distance of Top 8 with Zombie Bidding.
+![](https://www.wizards.com/sideboard/images/gpdet03/a937.jpg)
+
+Eric “Danger” Taylor came to the table wearing a jaunty little chapeau, and his attitude matched it. Often times the absent-minded professor of Magic, Taylor has a reputation as a writer of some of the most fundamental articles about the game. He’s also no slouch as a player. He last tasted glory in when he defeated friend and roommate Pat Chapin in the finals of Grand Prix – Milwaukee. This weekend he’s been having a ball casting big spells with Red-White Control. His opponent is Dave Williams, who is continuing a history of strong GP performances this weekend, and is in shooting distance of Top 8 with Zombie Bidding.
 
 “Jeez, it’s cold in here. DeRosa, come sit by me, bring a couple more big kids.” – Dave Williams
 
@@ -67,7 +69,9 @@ Facing an army of men, Taylor tapped out for Akroma, who sailed over to smack Wi
 
 Taylor 1 – Williams 0
 
-![](https://www.wizards.com/sideboard/images/gpdet03/a938.jpg)The first action was Williams swampcycling an Abomination and then dropping a morph. Taylor sat on his three mana and waited. Williams hit for four, pitching a Noxious Ghoul and made a Rotlung Reanimator, with Unholy Grotto on the table. He got one more hit in before Taylor could cast a Vengeance. Williams tried a Graveborn Muse. That earned a second Vengeance.
+![](https://www.wizards.com/sideboard/images/gpdet03/a938.jpg)
+
+The first action was Williams swampcycling an Abomination and then dropping a morph. Taylor sat on his three mana and waited. Williams hit for four, pitching a Noxious Ghoul and made a Rotlung Reanimator, with Unholy Grotto on the table. He got one more hit in before Taylor could cast a Vengeance. Williams tried a Graveborn Muse. That earned a second Vengeance.
 
 “Look at you go.” – Dave Williams
 
@@ -85,7 +89,9 @@ Taylor 1 – Williams 1
 
 Taylor had to mulligan for the deciding game, and his next six were a little slow. Williams had a quick draw of Withered Wretch and Rotlung Reanimator, and started beating while Taylor cycled. His fourth land was Temple of the False God, and he ate another four. Williams swampcycled an Abomination and played the swamp.
 
-![](https://www.wizards.com/sideboard/images/gpdet03/a939.jpg)Taylor dropped a mountain and passed it back. He Starstormed away Williams’s incoming team, leaving two tokens behind. Williams followed up with Graveborn Muse and Taylor sent out his Eternal Dragon then untapped and Vengeanced. Williams got in with Withered Wretch. Taylor played Grand Coliseum as his eighth mana. Williams meanwhile ate the Dragon and regrew his Reanimator, then hit for two and played it.
+![](https://www.wizards.com/sideboard/images/gpdet03/a939.jpg)
+
+Taylor dropped a mountain and passed it back. He Starstormed away Williams’s incoming team, leaving two tokens behind. Williams followed up with Graveborn Muse and Taylor sent out his Eternal Dragon then untapped and Vengeanced. Williams got in with Withered Wretch. Taylor played Grand Coliseum as his eighth mana. Williams meanwhile ate the Dragon and regrew his Reanimator, then hit for two and played it.
 
 Taylor wasted no time getting Akroma into play and swinging. Williams tried a Call to the Grave, but this time Taylor had the Decree. He made a bunch of men. Williams came back with Noxious Ghoul, forcing Akroma’s sacrifice. That meant that Taylor had to Vengeance again, and Williams was left with two zombies. He regrew his Rotlung and swung for four before playing it.
 

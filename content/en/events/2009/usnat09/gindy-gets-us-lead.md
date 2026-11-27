@@ -693,7 +693,9 @@ Charles Gindy wins 3-0
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/3c/06/3c06bc1927560d65131ac455a548b838c63bbf73597c04dee08f30bd746aeb14.jpg)With a slightly later start than the previous two days of tournament play I stayed up late into the night playing Magic. One of the last players still in the hall as they were locking up were Adam Yurchick and Cedric Phillips testing Adam’s semifinal match-up against either Brad Nelson or Brett Piazza. Adam had the luxury of knowing exactly what deck he would be facing since that quarterfinal pairing featured matching sets of 75 cards. This is not to imply that Adam had not tested his quarterfinal match-up against Drew Dumanski. They had played out the sideboarded games many times over; two Negates after sideboarding, maindeck Jace Beleren, plus Identity Crisis and Ajani Vengeant from the board left Adam confident that they would need to be prepared for the semis. He was concerned about a couple of cards from Dumanski like Lilliana Vess, Scepter of Fugue, and a Pithing Needle and his record against the deck in games that counted this weekend.
+![](https://i.ormos.uk/3c/06/3c06bc1927560d65131ac455a548b838c63bbf73597c04dee08f30bd746aeb14.jpg)
+
+With a slightly later start than the previous two days of tournament play I stayed up late into the night playing Magic. One of the last players still in the hall as they were locking up were Adam Yurchick and Cedric Phillips testing Adam’s semifinal match-up against either Brad Nelson or Brett Piazza. Adam had the luxury of knowing exactly what deck he would be facing since that quarterfinal pairing featured matching sets of 75 cards. This is not to imply that Adam had not tested his quarterfinal match-up against Drew Dumanski. They had played out the sideboarded games many times over; two Negates after sideboarding, maindeck Jace Beleren, plus Identity Crisis and Ajani Vengeant from the board left Adam confident that they would need to be prepared for the semis. He was concerned about a couple of cards from Dumanski like Lilliana Vess, Scepter of Fugue, and a Pithing Needle and his record against the deck in games that counted this weekend.
 
 “We played the first round of Standard after the drafts,” said Adam as the two players sat down to determine which of them would not have a shot at a U.S. National team berth. “He won.”
 
@@ -703,7 +705,9 @@ Drew had not tested the match-up as extensively. The 18-year old explained about
 
 ### Game 1
 
-![](https://i.ormos.uk/dc/b1/dcb176eb60f44fc5b7c985da8f81bb5420f654ad14c619a96bc57b2d822013c0.jpg)Adam was on the draw and attempted the first play of the game with Drew only having two open mana -- Jace Beleren. Drew had the Broken Ambitions. Adam revealed Esper Charm to Drew’s land, which drew him two cards at the end of the next turn. When next we pick up the action both players had nine lands and a Plumeveil as the two players crafted their hands for the eventual endgame. Adam continued to draw lands while Drew had to discard Volcanic Fallout, two Broodmate Dragons, Hallowed Burial and Agony Warp while “stalled” on nine lands. Adam decided to break the seal with a Broodmate Dragon rather than discard his. He had significantly out-mana’d his opponent and could afford to get into a fight. Drew was not willing to accept the challenge and Adam reached for his dragon token. 
+![](https://i.ormos.uk/dc/b1/dcb176eb60f44fc5b7c985da8f81bb5420f654ad14c619a96bc57b2d822013c0.jpg)
+
+Adam was on the draw and attempted the first play of the game with Drew only having two open mana -- Jace Beleren. Drew had the Broken Ambitions. Adam revealed Esper Charm to Drew’s land, which drew him two cards at the end of the next turn. When next we pick up the action both players had nine lands and a Plumeveil as the two players crafted their hands for the eventual endgame. Adam continued to draw lands while Drew had to discard Volcanic Fallout, two Broodmate Dragons, Hallowed Burial and Agony Warp while “stalled” on nine lands. Adam decided to break the seal with a Broodmate Dragon rather than discard his. He had significantly out-mana’d his opponent and could afford to get into a fight. Drew was not willing to accept the challenge and Adam reached for his dragon token. 
 
 Adam looked to clear an airstrip for his dragons with Maelstrom Pulse on Plumeveil but Drew countered it with Cryptic Command bouncing the token. Adam nodded and then sent the other half into the Plumeveil. he played Cruel Ultimatum after combat and Drew’s Cryptic Command was Negated. When the dust settled Adam was discarding and Drew had two cards. One of them was Cruel Ultimatum but Adam still had enough mana left to Cryptic Command that. Esper Charm finished off Drew’s hand. It is hard to call someone “mana-screwed” with nine lands in play but that was how this key sequence felt.
 
@@ -713,13 +717,17 @@ Adam Yurchick - 1 Drew Dumanski - 0
 
 ### Game 2
 
-![](https://i.ormos.uk/de/70/de70e5af30404e7e6d76e2e1396d44deaccabff4001868beecbcc48cf130313f.jpg)Adam’s sideboarded out 3 Plumeveil, 3 Volcanic Fallout, 2 Hallowed Burial, and a Doomblade for Negate, 2 Ajani Vengeant, 2 Identity Crisis, 2 Great Sable Stag, and 2 Runed Halo. Adam sided out a similar set of cards for Lilliana Vess, Pithing Needle, Runed Halos, and Stags.
+![](https://i.ormos.uk/de/70/de70e5af30404e7e6d76e2e1396d44deaccabff4001868beecbcc48cf130313f.jpg)
+
+Adam’s sideboarded out 3 Plumeveil, 3 Volcanic Fallout, 2 Hallowed Burial, and a Doomblade for Negate, 2 Ajani Vengeant, 2 Identity Crisis, 2 Great Sable Stag, and 2 Runed Halo. Adam sided out a similar set of cards for Lilliana Vess, Pithing Needle, Runed Halos, and Stags.
 
 Both players kept their hands and Drew kicked off the action with Scepter of Fugue. Adam dropped Runed Halo naming Scepter and evoked Mulldrifter a turn later to find lands. Drew played Great Sable Stag only to have it bolted by Ajani Vengeant. Drew untapped to name Ajani with his own Runed Halo. Adam was still able to lock down a land but he was stalled on four. When Drew attempted to draw cards with Esper Charm, Adam Cryptic Commanded the spell and his land. Now it was Adam’s turn to discard while Drew drew plenty of lands over the next handful of turns. Drew played a second Runed Halo also naming the now ultimate-enabled Ajani.
 
 Adam played an end of turn Esper Charm, and Drew was fine with it as long as it did not interact with him or his board, “Drawing two?” Adam nodded and the two cards got the lands flowing for the Grand Prix Philadelphia finalist. The two players silently bided their time as Ajani’s loyalty was nealry great enough to fire off twice. Adam began to work his way toward that dream and destroyed one Runed Halo with an Esper Charm. Drew untapped into Pithing Needle -- a card that Adam had joked was going to get him the night before. There was no counter from Adam and Drew Needled Ajani. Adam Esper Charmed the remaining Halo at the end of Drew’s turn. 
 
-![](https://i.ormos.uk/48/e8/48e8edc0f5cfb60f863dd5fd797d0cfdf959b30cc0a53c31bcdb4904f2d878bd.jpg)Adam deliberated about getting into a fight over bouncing the Needle but remained patient. Once he bounced that Needle he could blow up all of Drew’s land and the game would end soon thereafter. Adam instead played a Great Sable Stag and passed the turn, waiting for his opponent to do something he could get into a tussle over. Drew offered up Broodmate Dragon and that was the opening Adam was looking for. “That’s fine,” said Adam knowing that the end game had arrived. Both players had eight mana available to them which would mean Adam was on the losing end of Cryptic Command Fight but he had brought extra bullets to this gunfight. At the end of Drew’s turn he attempted Cryptic Command to bounce the Needle and draw a card. Drew countered with his own Cryptic Command -- attempting to bounce Ajani -- but Adam had a Negate for it and the Broken Ambitions that followed.
+![](https://i.ormos.uk/48/e8/48e8edc0f5cfb60f863dd5fd797d0cfdf959b30cc0a53c31bcdb4904f2d878bd.jpg)
+
+Adam deliberated about getting into a fight over bouncing the Needle but remained patient. Once he bounced that Needle he could blow up all of Drew’s land and the game would end soon thereafter. Adam instead played a Great Sable Stag and passed the turn, waiting for his opponent to do something he could get into a tussle over. Drew offered up Broodmate Dragon and that was the opening Adam was looking for. “That’s fine,” said Adam knowing that the end game had arrived. Both players had eight mana available to them which would mean Adam was on the losing end of Cryptic Command Fight but he had brought extra bullets to this gunfight. At the end of Drew’s turn he attempted Cryptic Command to bounce the Needle and draw a card. Drew countered with his own Cryptic Command -- attempting to bounce Ajani -- but Adam had a Negate for it and the Broken Ambitions that followed.
 
 Adam got to untappageddon with seven loyalty still in the tank. Cruel Ultimatum, also on that turn was enough for Drew to scoop.
 
@@ -735,7 +743,9 @@ While they shuffled, Drew continued to chew on not killing the Scepter. “Were 
 
 “Yeah...they cost two.”
 
-![](https://i.ormos.uk/bc/11/bc11b984174d3884e8fa2af3886dcd661d7bb565a05184cba51dc14f8728b05a.jpg)By now the two players were off and Adam was able to Negate a turn three Scepter. He untapped into Jace and greedily drew one card for himself only. Drew evoked Mulldrifter to keep pace. Adam one-upped him by paying full price his Mulldrifter and went up three cards that turn. Drew had no play and took two from the flier a turn later. Adam ticked the loyalty up on Jace and they both drew. Adam’s card advantage mounted as he Esper Charmed for two cards at the end of turn. Drew stuck a Scepter but at this point it was just going to save Adam the trouble of discarding at the end of his own turn.
+![](https://i.ormos.uk/bc/11/bc11b984174d3884e8fa2af3886dcd661d7bb565a05184cba51dc14f8728b05a.jpg)
+
+By now the two players were off and Adam was able to Negate a turn three Scepter. He untapped into Jace and greedily drew one card for himself only. Drew evoked Mulldrifter to keep pace. Adam one-upped him by paying full price his Mulldrifter and went up three cards that turn. Drew had no play and took two from the flier a turn later. Adam ticked the loyalty up on Jace and they both drew. Adam’s card advantage mounted as he Esper Charmed for two cards at the end of turn. Drew stuck a Scepter but at this point it was just going to save Adam the trouble of discarding at the end of his own turn.
 
 Adam leveraged his advantage to force through an Identity Crisis. Drew did his best to scratch his way back out of his existential miasma with Esper Charm into Mulldrifter but Adam was loaded for bear and played Cruel Ultimatum without any resistance. He Esper Charmed Drew’s lone card after it was drawn during the draw step. Drew extended his empty hand in defeat.
 
@@ -1064,7 +1074,9 @@ When Yurchick played a Broodmate Dragon on his next turn Nelson drew, revealed t
 
     *by Kelly Digges*
 
-![](https://i.ormos.uk/47/c1/47c1cbe952d4f5dda4f6b73de642269b6585655275ad0f1c23c8a14d95befd30.jpg)There’s a big crowd gathered to see the final match of 2009 U.S. Nationals. Meanwhile, though, I sought the conclusion to another, quieter drama: Would Legion Events’ Matt Danner finish his level 2 Menger sponge before the end of the event?
+![](https://i.ormos.uk/47/c1/47c1cbe952d4f5dda4f6b73de642269b6585655275ad0f1c23c8a14d95befd30.jpg)
+
+There’s a big crowd gathered to see the final match of 2009 U.S. Nationals. Meanwhile, though, I sought the conclusion to another, quieter drama: Would Legion Events’ Matt Danner finish his level 2 Menger sponge before the end of the event?
 
 The answer, as it turned out, was a resounding yes. Matt proudly showed off the culmination of his solitary effort at the public events registration table. Passersby stopped to marvel at it, and he even gave a few demonstrations on how the cards are folded to curious onlookers.
 
@@ -1089,7 +1101,9 @@ I eavesdropped on Nelson and deck designer Conley Woods while they chatted befor
 
 ### Game 1
 
-![](https://i.ormos.uk/ca/70/ca700a2055dc607beb36e7781cb71d544609becab9fe58dca503a4d4cdb81181.jpg)The first action of the game was a Kitchen Finks from Nelson that met a Broken Ambitions. The Caldera Hellion that Nelson revealed ended up on the bottom, while the Broken Ambitions that Anderson kept on top stopped an evoked Mulldrifter from Nelson. Anderson dominated the second clash with a Cruel Ultimatum that he kept on top for later. Nelson’s second evoked Mulldrifter met a Cryptic Command. Nelson was stuck on three lands, which did not bode well for his chances. 
+![](https://i.ormos.uk/ca/70/ca700a2055dc607beb36e7781cb71d544609becab9fe58dca503a4d4cdb81181.jpg)
+
+The first action of the game was a Kitchen Finks from Nelson that met a Broken Ambitions. The Caldera Hellion that Nelson revealed ended up on the bottom, while the Broken Ambitions that Anderson kept on top stopped an evoked Mulldrifter from Nelson. Anderson dominated the second clash with a Cruel Ultimatum that he kept on top for later. Nelson’s second evoked Mulldrifter met a Cryptic Command. Nelson was stuck on three lands, which did not bode well for his chances. 
 
 The Mulldrifter that Anderson cast with a full five lands was unopposed, then followed up by a vivid land. Would Anderson finish with a Cruel Ultimatum next turn? Brad played a tapped land and passed with no action again. Anderson’s seventh land was another vivid land. Nelson finally cast a spell with Bloodbraid Elf into Volcanic Fallout, but that was stymied by a Plumeveil before the Cruel Ultimatum that had been waiting in Anderson’s hand since turn four finally hit the table. Nelson’s chances went to near zero.
 
@@ -1097,7 +1111,9 @@ After the Cruel Ultimatum resolved, Anderson forgot to play a land and discarded
 
 Anderson 1, Nelson 0
 
-![](https://i.ormos.uk/c4/a8/c4a8f6025167801308b2b6b08b9663e920e2c9e1423251e06aacb894d0f67d4a.jpg)While shuffling for Game 2, Anderson and Nelson betrayedtheir recent arrival to high level competition by exchanging stories from years of grinding at Pro Tour Qualifiers. Despite years of Magic Online play, Nelson had not actually won a qualifier top eight until this year. Anderson had similar tales from this past extended season.
+![](https://i.ormos.uk/c4/a8/c4a8f6025167801308b2b6b08b9663e920e2c9e1423251e06aacb894d0f67d4a.jpg)
+
+While shuffling for Game 2, Anderson and Nelson betrayedtheir recent arrival to high level competition by exchanging stories from years of grinding at Pro Tour Qualifiers. Despite years of Magic Online play, Nelson had not actually won a qualifier top eight until this year. Anderson had similar tales from this past extended season.
 
 After a little of this, Nelson changed the subject. “My advice for this game is don’t \[forget to play a land and\] discard a land on turn one.”
 
@@ -1113,7 +1129,9 @@ Nelson glowed. “Was that as good for you as it was for me?”
 
 Anderson 1, Nelson 1
 
-![](https://i.ormos.uk/3a/93/3a935859755584d381b58a9ee89ab0c426b46457823468256bd7b67d2eb60035.jpg)Nelson sensed weakness in Anderson and needled him while they shuffled. “We’re in the top four, you’re already going to Rome. How can you tilt?” Anderson was quiet. Perhaps Nelson’s years spent terrorizing the Magic Online world as FFfreaK were enough to make him a hardened veteran even after only one Pro Tour.
+![](https://i.ormos.uk/3a/93/3a935859755584d381b58a9ee89ab0c426b46457823468256bd7b67d2eb60035.jpg)
+
+Nelson sensed weakness in Anderson and needled him while they shuffled. “We’re in the top four, you’re already going to Rome. How can you tilt?” Anderson was quiet. Perhaps Nelson’s years spent terrorizing the Magic Online world as FFfreaK were enough to make him a hardened veteran even after only one Pro Tour.
 
 ### Game 3
 
@@ -1141,7 +1159,9 @@ Anderson picked up Nelson’s graveyard. “Let’s see what the worst thing you
 
 After the Ultimatum, he stated “I’m going to play a land this turn.” It was a Vivid Creek. All Nelson could do after the Ultimatum was attack with Great Sable Stag. At this point, Anderson realized he had eight cards in his hand. A warning was issued and a card was discarded. Then Nelson cast another Thought Hemorrhage, this time on Cruel Ultimatum.
 
-![](https://i.ormos.uk/ce/16/ce16e9b9ec54d742ec0cac50e469dea3781cde6109f6760f2ff9ecb7866425d5.jpg)Nelson was entirely out of gas, although Anderson was going to have to win with Great Sable Stags and Mulldrifters rather than the Broodmate Dragons he had hoped to use. A Runed Halo naming Anathemancer would protect Anderson from any surprises, then a second Mulldrifter and a Great Sable Stag gave Anderson enough of a squad to win with. Nelson had only a Putrid Leech. A second Stag from Anderson with a Negate and Cryptic Command up put the game away.
+![](https://i.ormos.uk/ce/16/ce16e9b9ec54d742ec0cac50e469dea3781cde6109f6760f2ff9ecb7866425d5.jpg)
+
+Nelson was entirely out of gas, although Anderson was going to have to win with Great Sable Stags and Mulldrifters rather than the Broodmate Dragons he had hoped to use. A Runed Halo naming Anathemancer would protect Anderson from any surprises, then a second Mulldrifter and a Great Sable Stag gave Anderson enough of a squad to win with. Nelson had only a Putrid Leech. A second Stag from Anderson with a Negate and Cryptic Command up put the game away.
 
 Anderson 2, Nelson 1
 
@@ -1177,7 +1197,9 @@ Nelson: “There is no number of trophies that this lunch box is worth.”
 
 ### Game 5
 
-![](https://i.ormos.uk/aa/e6/aae67dde36f31a68369cc09e976abe5908ad695c32d5faa6f4d1b05143f9ff3f.jpg)Nelson mulliganed to six. He still started strong with a turn two Putrid Leech but was stymied by a Broken Ambitions. It revealed a Great Sable Stag that popped into play next turn. Nelson replaced the countered Putrid Leech, but for the umpteenth time in the match was stuck on three lands with no action. A second Great Sable Stag from Anderson piled on the pressure, and the only defense that Nelson found was an Anathemancer that couldn’t even block the Stags. The pair of elk killed Nelson in only three attacks.
+![](https://i.ormos.uk/aa/e6/aae67dde36f31a68369cc09e976abe5908ad695c32d5faa6f4d1b05143f9ff3f.jpg)
+
+Nelson mulliganed to six. He still started strong with a turn two Putrid Leech but was stymied by a Broken Ambitions. It revealed a Great Sable Stag that popped into play next turn. Nelson replaced the countered Putrid Leech, but for the umpteenth time in the match was stuck on three lands with no action. A second Great Sable Stag from Anderson piled on the pressure, and the only defense that Nelson found was an Anathemancer that couldn’t even block the Stags. The pair of elk killed Nelson in only three attacks.
 
 Anderson 3, Nelson 2
 
@@ -1190,7 +1212,9 @@ Congratulations to Todd Anderson for making the 2009 United States national team
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/fe/05/fe05ac0a924a2c7228a76a8cfa7156dd3a16d2a8932f310358e1c9f50c941900.jpg)Having locked up National team membership with their semifinal victories the pressure was off for both of these Pro Tour veterans, who were assessing the dreaded 3rd/4th matchup between Todd Anderson and Brad Nelson. Like every other National team they were imagining how they would match up against the Japanese. Someone pointed out that there was talk that the third player on the Japanese team, Yuma Shiota, might not be attending Worlds due to a demanding work schedule. 
+![](https://i.ormos.uk/fe/05/fe05ac0a924a2c7228a76a8cfa7156dd3a16d2a8932f310358e1c9f50c941900.jpg)
+
+Having locked up National team membership with their semifinal victories the pressure was off for both of these Pro Tour veterans, who were assessing the dreaded 3rd/4th matchup between Todd Anderson and Brad Nelson. Like every other National team they were imagining how they would match up against the Japanese. Someone pointed out that there was talk that the third player on the Japanese team, Yuma Shiota, might not be attending Worlds due to a demanding work schedule. 
 
 “Was Kenji fourth?” asked Adam Yurchick, who had not dropped a game yet in the Top 8 and was playing with tremendous confidence, to a chorus of bobbing heads. “That’s gross. At least I never lose against Shuhei.” 
 
@@ -1202,7 +1226,9 @@ As they sat down to play they high-fived.
 
 “Its what we predicted!” exclaimed Gindy who was looking around for Tim Aten, who had a special card for him. “I want my Broodmate token.” 
 
-![](https://i.ormos.uk/2a/e2/2ae2358b1d24aa3df4949d72dd4664bbf2dfe2f356c43523a045ee366d8d1be3.jpg)It was a Tim Aten player card that Tim had customized with a word balloon: “You’ll have 2 dragons out, and you’ll prolly still lose!” 
+![](https://i.ormos.uk/2a/e2/2ae2358b1d24aa3df4949d72dd4664bbf2dfe2f356c43523a045ee366d8d1be3.jpg)
+
+It was a Tim Aten player card that Tim had customized with a word balloon: “You’ll have 2 dragons out, and you’ll prolly still lose!” 
 
 “Tim just wants me to know how bad I suck,” laughed Gindy. 
 
@@ -1266,7 +1292,9 @@ Adam’s was:
  +1 Negate  
  +2 Runed Halo
 
-![](https://i.ormos.uk/15/9d/159d6b029971640939f7b5f91f150a7b045d24994c2cbb8af1591464dda74d52.jpg)Gindy took a page out of Adam’s book with a discard mode Esper Charm at the end of Adam’s fourth turn. Adam pitched a land and Ajani. Gindy missed his fifth land drop and played a sideboarded Great Sable Stag. Adam untapped and killed the Stag with Ajani. 
+![](https://i.ormos.uk/15/9d/159d6b029971640939f7b5f91f150a7b045d24994c2cbb8af1591464dda74d52.jpg)
+
+Gindy took a page out of Adam’s book with a discard mode Esper Charm at the end of Adam’s fourth turn. Adam pitched a land and Ajani. Gindy missed his fifth land drop and played a sideboarded Great Sable Stag. Adam untapped and killed the Stag with Ajani. 
 
 “Another one? Really?” said Gindy who knew there were only two copied of Ajani in Adam’s deck. Adam began to play draw-grow with Ajani while Gindy dug for more cards with Esper Charm. Gindy offered up Jace Beleren and Adam cast Cryptic Command to counter it and bounce one of Gindy’s untapped vivid lands. Gindy did not have the Negate and replayed the land tapped. Adam untapped into Identity Crisis and grew Ajani. They played draw-grow for a while -- Ajani was two turns away from going ultimate. Adam attempted another Identity Crisis but it drew Negate from Gindy. All his lands went away a turn later. 
 

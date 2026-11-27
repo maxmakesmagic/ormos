@@ -44,7 +44,9 @@ archive_source:
   sha256: e99ab177c6269d075f85a994b04d7bcb777c883a4963685db98ca2ea6cda6a90
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a833.jpg)The tension of the feature match area is not unknown for these two players. With Kamiel running Beast-Bidding and Gabriel running Goblins this match would prove to be a quick one. Either Kamiel would get out an army of beasts on turn 5, or the little red men would overrun him. Gabriel also won the toss, giving Kamiel one turn less to do his thing.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a833.jpg)
+
+The tension of the feature match area is not unknown for these two players. With Kamiel running Beast-Bidding and Gabriel running Goblins this match would prove to be a quick one. Either Kamiel would get out an army of beasts on turn 5, or the little red men would overrun him. Gabriel also won the toss, giving Kamiel one turn less to do his thing.
 
 ### Game 1
 
@@ -54,7 +56,9 @@ Kamiel 0 – Gabriel 1
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a832.jpg)At least Kamiel got to play first this time around. He played out a [Forest](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) and [Swamp](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) during his first two turns, cycling a [Primoc Escapee](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Primoc+Escapee) at the end of Gabriel's second turn. Gabriel started with a [Skirk Prospector](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Prospector) and [Goblin Piledriver](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Piledriver) to put the pressure on. Kamiel once again showed the weakness of his hand by cycling another beast during his main phase to fetch a land. Gabriel however realized this could well be a mind trick to lure him into an [Infest](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infest). During his turn he thought for quite a while before playing out another [Skirk Prospector](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Prospector) and a [Sparksmith](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith). 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a832.jpg)
+
+At least Kamiel got to play first this time around. He played out a [Forest](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) and [Swamp](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) during his first two turns, cycling a [Primoc Escapee](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Primoc+Escapee) at the end of Gabriel's second turn. Gabriel started with a [Skirk Prospector](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Prospector) and [Goblin Piledriver](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Piledriver) to put the pressure on. Kamiel once again showed the weakness of his hand by cycling another beast during his main phase to fetch a land. Gabriel however realized this could well be a mind trick to lure him into an [Infest](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infest). During his turn he thought for quite a while before playing out another [Skirk Prospector](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Prospector) and a [Sparksmith](https://web.archive.org/web/20030322000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith). 
 
 "Gotta go for it!"
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: fd34ea6e2f9c24d910fc775dd2c6896de41584d0af4cffdf027a68998ccd83cb
 render_recovery: []
 ---
-![Tenth Edition](https://i.ormos.uk/26/f7/26f74844e2fcd347989943cdfe2e77ab90be9202332cd07d5fd5011b325e82b0.jpg)Since*Tenth Edition* hit the scene I have been waiting for an opportunity to swim in its deep, deep pool of awesome art. Now that I have such an opportunity, I am drowning, drowning I say! There is so much amazing art in this set that I, at the very moment I am typing these words, have no idea how I am going to get to it all. Normally I can showcase the top ten or fifteen pieces in a set and feel like I have pretty much covered my bases. But with *Tenth*, ten or fifteen just scratches the surface.
+![Tenth Edition](https://i.ormos.uk/26/f7/26f74844e2fcd347989943cdfe2e77ab90be9202332cd07d5fd5011b325e82b0.jpg)
+
+Since*Tenth Edition* hit the scene I have been waiting for an opportunity to swim in its deep, deep pool of awesome art. Now that I have such an opportunity, I am drowning, drowning I say! There is so much amazing art in this set that I, at the very moment I am typing these words, have no idea how I am going to get to it all. Normally I can showcase the top ten or fifteen pieces in a set and feel like I have pretty much covered my bases. But with *Tenth*, ten or fifteen just scratches the surface.
 
 The wonderful difference between core sets and expansions is that the core set gets to cherry pick art from all the past printings of its cards. In a case where appropriate art cannot be found in a pool of previous printings, new art can be assigned (and usually gets tossed to one of **Magic**'s current buttkicking artists.) *Tenth Edition* has, in my opinion, really taken advantage of this system and put together a set with both amazing quality and amazing diversity. Not only does it sport some dandy scratchings from new kids on the block, but it also reprints, as it well should, some of the artistic doozies of the old days.
 

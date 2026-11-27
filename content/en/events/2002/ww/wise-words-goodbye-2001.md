@@ -61,7 +61,9 @@ render_recovery:
 ---
 ### 
 
-![](http://www.wizards.com/sideboard/images/PTNY01/902.jpg)Thanks to September 11, I doubt that 2001 was the best of times for too many people. I for one am looking forward to 2002 as the first year I'll start outside of Canada, as a time for change and potential prosperity, and can only wish the same for the rest of the Magic community. Happy New Year, guys and gals: hope this one is a good one.
+![](http://www.wizards.com/sideboard/images/PTNY01/902.jpg)
+
+Thanks to September 11, I doubt that 2001 was the best of times for too many people. I for one am looking forward to 2002 as the first year I'll start outside of Canada, as a time for change and potential prosperity, and can only wish the same for the rest of the Magic community. Happy New Year, guys and gals: hope this one is a good one.
 
 I've made a few New Year's resolutions I'd like to share with you for a moment:
 
@@ -113,7 +115,9 @@ Jackson, now attending Yale, has taken something of a diminished role in the gam
 
 ### Best National Emergence
 
-![](http://www.wizards.com/worlds/images/flag_japan.jpg)For years, I looked forward to playing against those Japanese pros who were good enough to make it to the Pro Tour. They were courteous, honorable game lovers who I knew I would likely beat, so when I sat down, I knew I had reason to feel confident. That's all in the past now.
+![](http://www.wizards.com/worlds/images/flag_japan.jpg)
+
+For years, I looked forward to playing against those Japanese pros who were good enough to make it to the Pro Tour. They were courteous, honorable game lovers who I knew I would likely beat, so when I sat down, I knew I had reason to feel confident. That's all in the past now.
 
 This year saw Japanese players emerge, making their first Pro Tour Top 8 and first Masters final while also managing to take their first major individual award. 27 year old Tsoyoshi Fujita of Osaka, en route to the Invitational, made Japan's first Top 8 on home soil, surviving all the way to the final before finally losing to Zvi Mowshowitz in the finals. That same weekend, Panzer Hunters, headed by Pro Tour mainstay Itaru Ishida, made the finals of the Masters before losing to AlphaBetaUnlimited.com. That was really only the beginning. 
 
@@ -127,7 +131,9 @@ Led by the new guard of Mori and Fujita and the old guard of Ishida, Satoshi Nak
 
 ### Best Play
 
-![](https://i.ormos.uk/79/1f/791ff633146acc44c39db17eabafe873e705ed4c9348b49b29854a17be1efd7e.jpg)In terms of the mechanics of the game, I doubt there will be any moment from 2001 that will be better remembered than Mike Pustilnik's $30,000 Ravenous Rat. Playing Kamiel Cornelissen in the final game of PT-LA, Mikey P sat staring at Kamiel's five lands and one card in hand and cast the 1/1 Ravenous Rats, forcing the Dutch rookie to discard. 
+![](https://i.ormos.uk/79/1f/791ff633146acc44c39db17eabafe873e705ed4c9348b49b29854a17be1efd7e.jpg)
+
+In terms of the mechanics of the game, I doubt there will be any moment from 2001 that will be better remembered than Mike Pustilnik's $30,000 Ravenous Rat. Playing Kamiel Cornelissen in the final game of PT-LA, Mikey P sat staring at Kamiel's five lands and one card in hand and cast the 1/1 Ravenous Rats, forcing the Dutch rookie to discard. 
 
 Cornelissen put the last card in his hand into the graveyard, revealing Rith, the Awakener, the best card in Kamiel's deck and at that point in the match an obvious game breaker. Mikey P, upon seeing the discarded dragon legend, muttered "best rat ever", causing the crowd to go wild. In the end, that Rat made all the difference, propelling the Brooklyn native to the championship and eternal supremacy of the Queen Mary.
 

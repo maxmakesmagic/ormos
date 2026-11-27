@@ -201,7 +201,9 @@ Although the deck ended up named after Paul Sligh, it was designed by Jay Schnei
 
 Despite the deck's "goofy" appearance, players quickly realized that Paul Sligh and Jay Schneider were on to something here. Shortly thereafter various Sligh builds were running rampant in the metagame. Players would even adjust their Sligh decks for the mirror, using Keeper of Kookus! Others would play 3 to 5-color Sligh, splashing for powerful off-color cards such as Armageddon and Derelor.
 
-![](https://i.ormos.uk/4f/ce/4fce23e153522eeb149955fac4b2fd715336e54a7f7f83e815a7d59352e3e3ce.jpg)While Sligh decks continued to exist in the metagame from 1996 on, it was the introduction of *Tempest* that really kicked the archetype into high gear. Cursed Scroll,Jackal Pup and Mogg Fanatic were all obvious additions to the deck. Wasteland did not hurt either. In fact, there were so many good red cards in *Tempest* that Sligh became by far the most popular and the most powerful deck in that Block format.
+![](https://i.ormos.uk/4f/ce/4fce23e153522eeb149955fac4b2fd715336e54a7f7f83e815a7d59352e3e3ce.jpg)
+
+While Sligh decks continued to exist in the metagame from 1996 on, it was the introduction of *Tempest* that really kicked the archetype into high gear. Cursed Scroll,Jackal Pup and Mogg Fanatic were all obvious additions to the deck. Wasteland did not hurt either. In fact, there were so many good red cards in *Tempest* that Sligh became by far the most popular and the most powerful deck in that Block format.
 
 Dave Price, already a popular player and writer for The Dojo and *Duelist* magazine, earned his Pro Tour championship title using this strategy in Los Angeles. A huge percentage of the field was running Mountains, but he beat out the competition. It's important to note that around this time was when the deck typically referred to as "Sligh" shifted from a more board controlling strategy to a much more focused beatdown approach.
 

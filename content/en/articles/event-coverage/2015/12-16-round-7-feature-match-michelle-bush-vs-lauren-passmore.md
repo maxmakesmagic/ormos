@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Christopher Wong* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/fm7a.jpg)Round 7 matched both of these female competitors against each other with the winner going on to Day 2 and the loser relegated to sitting on the sidelines. Both players played the most popular deck of Grand Prix Phoenix, Necro-Donate. This match was sure to be an attention grabber given the situation. Unfortunately, this match was both brutal and short 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/fm7a.jpg)
+
+Round 7 matched both of these female competitors against each other with the winner going on to Day 2 and the loser relegated to sitting on the sidelines. Both players played the most popular deck of Grand Prix Phoenix, Necro-Donate. This match was sure to be an attention grabber given the situation. Unfortunately, this match was both brutal and short 
 
 **Game 1** 
 
@@ -60,10 +62,14 @@ Lauren let the donate go, going back down to 18 and firestormed Michelle for 1. 
 
 **Game 2** 
 
-![](https://i.ormos.uk/25/00/2500893238fc8054a4c0746ce2ad790d21659dd654eaf6db5957d34cf7835de3.jpg)After some heavy sideboarding by both players, Michelle went first again. She played a swamp and duressed Lauren. Lauren showed a Force of Will, 2 Demonic Consultation, a Mox Diamond, a Swamp and 2 Gemstone Mine. Michelle took the Force of Will and passed the turn. Lauren drew, laid her swamp and mox diamond discarding a gemstone mine and ended her turn. 
+![](https://i.ormos.uk/25/00/2500893238fc8054a4c0746ce2ad790d21659dd654eaf6db5957d34cf7835de3.jpg)
+
+After some heavy sideboarding by both players, Michelle went first again. She played a swamp and duressed Lauren. Lauren showed a Force of Will, 2 Demonic Consultation, a Mox Diamond, a Swamp and 2 Gemstone Mine. Michelle took the Force of Will and passed the turn. Lauren drew, laid her swamp and mox diamond discarding a gemstone mine and ended her turn. 
 
 Michelle laid a badlands and said go, with Lauren consulting for a necro during her end step. She blasted through a lot of land during her consult but got her necro about 20 cards into her library. She then played a mox diamond, discarding a gemstone mine and cast her necro. She necroed for 5 and ended her turn. 
 
 Michelle answered right back by laying a swamp and cast her own Necro, Necroing for 10. She discarded land, 3 vampiric tutors, and a duress. Lauren consulted for an illusions during her main step which was only about 10 cards down, cast a mox diamond and laid a badlands. She cast her Illusions of Grandeur and necroed for the rest of her deck which only had 14 cards left. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/fm7c.jpg)Michelle laid a swamp and duressed Lauren, which was Force of Willed. After looking through the out of game pile, Michelle necroed for 7 going down to 3 life. Lauren donated the illusions during her own turn. In response, Michelle consulted for a Force of Will and alternatively cast it pitching another Force of Will. Lauren answered right back with her own Force of Will. With no other options available, Michelle conceded.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/fm7c.jpg)
+
+Michelle laid a swamp and duressed Lauren, which was Force of Willed. After looking through the out of game pile, Michelle necroed for 7 going down to 3 life. Lauren donated the illusions during her own turn. In response, Michelle consulted for a Force of Will and alternatively cast it pitching another Force of Will. Lauren answered right back with her own Force of Will. With no other options available, Michelle conceded.

@@ -44,7 +44,9 @@ archive_source:
   sha256: ab7e47e0c87e62db90729a687fa8f3c46c2a8fe84e0254c84c1807cd6fe73171
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a900.jpg)You might remember Peter "PTR" Szigeti as "that jerk" or "the guy in the pimp coat at last year's Nationals". Going into this year's event he promised his wardrobe would feature something even better. Not more outrageous, that might not be possible, but better. He didn't disappoint. Having smashed the Southern California Regionals with Elves, he came into the room today with his plaque on a chain around his neck. It was truly something to behold.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a900.jpg)
+
+You might remember Peter "PTR" Szigeti as "that jerk" or "the guy in the pimp coat at last year's Nationals". Going into this year's event he promised his wardrobe would feature something even better. Not more outrageous, that might not be possible, but better. He didn't disappoint. Having smashed the Southern California Regionals with Elves, he came into the room today with his plaque on a chain around his neck. It was truly something to behold.
 
 This round he faces Brian Kibler with both of them sitting comfortably at 3-0. Kibler is no stranger to the spotlight, though every year he seems to fall victim to "The Kibler Curse": The moment he tells the press how good his constructed deck is, he and anyone playing it starts to tank. So far he's refusing interviews. Both he and PTR agree that they have two of the strongest decks at the table. PTR has bombs like [Eternal Dragon](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Dragon), two Specters (one Silent and one Hollow) and [Decree of Pain](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decree+of+Pain), while Kibler's deck is a single-minded mono-black killing machine.
 
@@ -64,7 +66,9 @@ Finally Szigeti found a real threat: [Corpse Harvester](https://web.archive.org/
 
 "Ooh, my Dirge is awesome!" – Peter Szigeti
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a898.jpg)Kibler decided to bash through, suiting up his Husk with [Clutch of Undeath](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clutch+of+Undeath) to hit for five. Szigeti fell to nine. He hit back for three with his Templar, then dropped [Goblin Turncoat](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Turncoat), Reaped the Graves for Goo and Polluter, and played his Goo. His attention was momentarily caught by his nameplate.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a898.jpg)
+
+Kibler decided to bash through, suiting up his Husk with [Clutch of Undeath](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clutch+of+Undeath) to hit for five. Szigeti fell to nine. He hit back for three with his Templar, then dropped [Goblin Turncoat](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Turncoat), Reaped the Graves for Goo and Polluter, and played his Goo. His attention was momentarily caught by his nameplate.
 
 "Can I change it from California to Awesomeville?" – Peter Szigeti
 
@@ -88,7 +92,9 @@ Kibler spent his fifth turn on a discounted [Aphetto Vulture](https://web.archiv
 
 "You're gonna love this." – Brian Kibler
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a899.jpg)Kibler untapped and put [Crown of Awe](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Awe) on his Warchief.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natus03/a899.jpg)
+
+Kibler untapped and put [Crown of Awe](https://web.archive.org/web/20030627000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crown+of+Awe) on his Warchief.
 
 "Those are beats." – Peter Szigeti
 

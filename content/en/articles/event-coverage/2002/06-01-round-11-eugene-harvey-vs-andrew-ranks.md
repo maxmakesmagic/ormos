@@ -44,7 +44,9 @@ archive_source:
   sha256: 4f89e593cfb69e548c4bbab1400e92da645d1debc79b33775122f8a4e49c454b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a802.jpg)At this time last year, people were asking the same thing about Eugene Harvey that is bound to be asked about Andrew Ranks: "Who is this guy?" Approximately 365 days ago, Eugene Harvey exploded on the competitive Magic scene, grinding into Nationals and taking a spot on the National team. Between then and now, Harvey has proven himself to be one of the game's top players. If Andrew Ranks' performance this weekend is any indication, he may also turn out to be the next big thing. Going into this match, he was 10-0, a feat only matched by Mike Long. A win against Harvey here would give him the biggest undefeated streak in the history of United States Nationals at 11-0. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a802.jpg)
+
+At this time last year, people were asking the same thing about Eugene Harvey that is bound to be asked about Andrew Ranks: "Who is this guy?" Approximately 365 days ago, Eugene Harvey exploded on the competitive Magic scene, grinding into Nationals and taking a spot on the National team. Between then and now, Harvey has proven himself to be one of the game's top players. If Andrew Ranks' performance this weekend is any indication, he may also turn out to be the next big thing. Going into this match, he was 10-0, a feat only matched by Mike Long. A win against Harvey here would give him the biggest undefeated streak in the history of United States Nationals at 11-0. 
 
 ### Game 1
 

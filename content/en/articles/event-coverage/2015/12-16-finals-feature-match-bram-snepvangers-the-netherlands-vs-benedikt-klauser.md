@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *By Pete Norris* 
 
-![](https://i.ormos.uk/c1/b5/c1b5d7aa125ce1c3ee9a500575b85014f5a6b07203796e7964b6a7f46679a40d.jpg)Bram is another one of the Netherlands-produced top-class players, with good performances including, top 8's in Grand Prix Amsterdam, Chicago 99 and second in Cannes with Alex Shvartsman and Thomas Preyer. 
+![](https://i.ormos.uk/c1/b5/c1b5d7aa125ce1c3ee9a500575b85014f5a6b07203796e7964b6a7f46679a40d.jpg)
+
+Bram is another one of the Netherlands-produced top-class players, with good performances including, top 8's in Grand Prix Amsterdam, Chicago 99 and second in Cannes with Alex Shvartsman and Thomas Preyer. 
 
 Benedikt Klauser came 4th both at Worlds 2000 and P.T.Chicago 98, and is one of Austria's best young players. 
 

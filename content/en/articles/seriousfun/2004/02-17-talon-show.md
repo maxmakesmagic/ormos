@@ -778,7 +778,9 @@ render_recovery:
 ---
 ### The best group cards in *Darksteel*
 
-![Talon Show](https://i.ormos.uk/7b/cd/7bcdf032ac9512dd7fb7ee93d46ca01deca845d5b405e6b4b9aeb8e2574b69b3.jpg)One of the more satisfying aspects of *Darksteel* is the lack of a clear “best in set”. When a set produces multiple cards that intrigue tournament and casual deckbuilders alike, it's usually a pretty good sign. Sets like *Apocalypse* and *Mirrodin* (neither of which has a clear stand-out “#1 best card”) please many players because they encourage the use of multiple cards and deck types. For a game built on creativity, that's essential.
+![Talon Show](https://i.ormos.uk/7b/cd/7bcdf032ac9512dd7fb7ee93d46ca01deca845d5b405e6b4b9aeb8e2574b69b3.jpg)
+
+One of the more satisfying aspects of *Darksteel* is the lack of a clear “best in set”. When a set produces multiple cards that intrigue tournament and casual deckbuilders alike, it's usually a pretty good sign. Sets like *Apocalypse* and *Mirrodin* (neither of which has a clear stand-out “#1 best card”) please many players because they encourage the use of multiple cards and deck types. For a game built on creativity, that's essential.
 
 As the set actually rolls out into players' decks, I have to say I'm still as uncertain about the “best multiplayer card” in *Darksteel* today as I was several weeks ago. While I did a quick Top Ten list with Bennie Smith in *Scrye* magazine, I wanted to use the benefits of more time and space here at **magicthegathering.com** to explore a few of my initial picks and suggest some more detailed uses of the cards.
 
@@ -939,7 +941,9 @@ You can go a couple of ways on this sort of deck. I really like the possibilitie
 
 Weenies – zombies, in this case – are one way to get multiple instances of damage through. The Thrashing Wumpus is another (though be warned, it's a bit frail in this deck…so I added some Barbed Wire as a backup plan). Tombstone Stairwell and Noxious Ghoul should ensure the board stays fairly clear of defenders – and any that remain will have some unappetizing blocking assignments (Festering Goblin, Lim-Dul's Cohort, Vengeful Dead). Naturally, the Withered Wretches ensure that there won't be any expendable zombie token blockers.
 
-![](https://i.ormos.uk/be/fc/befcc8f23cbeb1d2b09535b6a029c57eeec13919642c146bc43bd4799a1d1119.jpg)I didn't mean to create the stupid win condition of Vengeful Dead and Tombstone Stairwell; but it's there, I guess. Come to think of it, an occasional player in our group has that going. (See how my subconscious works against me? I've just validated one of the stupidest decks of all time. Cripes, I even remember whining about that deck now. *What am I thinking?!* Take out the Vengeful Dead, for heaven's sake! Put in something warm and fuzzy, like Undead Warchief.)
+![](https://i.ormos.uk/be/fc/befcc8f23cbeb1d2b09535b6a029c57eeec13919642c146bc43bd4799a1d1119.jpg)
+
+I didn't mean to create the stupid win condition of Vengeful Dead and Tombstone Stairwell; but it's there, I guess. Come to think of it, an occasional player in our group has that going. (See how my subconscious works against me? I've just validated one of the stupidest decks of all time. Cripes, I even remember whining about that deck now. *What am I thinking?!* Take out the Vengeful Dead, for heaven's sake! Put in something warm and fuzzy, like Undead Warchief.)
 
 There are other applications of Talon to fairly well-known deck types – sliver decks with Aluren will have both the creature mass and mana available to work the Talon; stupid Hermit Crab – Hermetic Study decks will like the damage source that sticks around after their pinging combo is inevitably destroyed; and even boutique decks with win conditions like Squallmonger/Urza's Armor may want to consider the Talon's positive synergy.
 

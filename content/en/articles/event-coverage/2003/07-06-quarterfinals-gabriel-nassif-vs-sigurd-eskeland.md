@@ -53,7 +53,9 @@ render_recovery:
 ---
 Everybody seemed very calm and collected in the moments before the start of this Quarterfinal match. Of course these were two very experienced players with many Pro Tour appearances and Top 8s between them.
 
-![](https://i.ormos.uk/38/92/3892851b952ccec824082664d3576f88ebf4689cb9b8dbe29bf1ed49b6ba647f.jpg)Sigurd joked before the game and confirmed that could choose to switch which side of the table he sat at if he won the dice roll. Rune Horvik, the head judge, was standing close by and confirmed that he could.
+![](https://i.ormos.uk/38/92/3892851b952ccec824082664d3576f88ebf4689cb9b8dbe29bf1ed49b6ba647f.jpg)
+
+Sigurd joked before the game and confirmed that could choose to switch which side of the table he sat at if he won the dice roll. Rune Horvik, the head judge, was standing close by and confirmed that he could.
 
 ### Game 1
 
@@ -87,7 +89,9 @@ The Frenchman cast [Chastise](https://web.archive.org/web/20030706000000/https:/
 
 A [Wrath of God](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) cleared the table and one of the Centaurs from the Norwegian's hand entered play. A [Chastise](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chastise) on the Centaur brought the life totals to 18-12 in Eskeland's favor and he flashed back another [Roar](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar) token. A cycled [Renewed Faith](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith) was followed by a [Duress](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) from Nassif which missed but Eskeland drew and played [Quiet Speculation](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quiet+Speculation) for three [Deep Analysis](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis), casting one from the graveyard straight away. An attack from the [Roar](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar) token was met with [Chastise](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chastise) but Eskeland had drawn the necessary [Logic](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Logic) and the damage got through. 15 – 8.
 
-![](https://i.ormos.uk/d6/4b/d64ba0a0d4994c8e4de8ab8b96e93226e2450f94ac3a5476f86d65803a36bf4e.jpg)The Frenchman spent a lot of time thinking during his next turn but eventually cast [Skeletal Scrying](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Scrying) for four. 15 – 4. On his next turn Eskeland cast [Upheaval](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) and Nassif scooped.
+![](https://i.ormos.uk/d6/4b/d64ba0a0d4994c8e4de8ab8b96e93226e2450f94ac3a5476f86d65803a36bf4e.jpg)
+
+The Frenchman spent a lot of time thinking during his next turn but eventually cast [Skeletal Scrying](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Scrying) for four. 15 – 4. On his next turn Eskeland cast [Upheaval](https://web.archive.org/web/20030706000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) and Nassif scooped.
 
 ### Game 4
 

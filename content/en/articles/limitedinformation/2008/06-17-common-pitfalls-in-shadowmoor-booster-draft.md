@@ -311,7 +311,9 @@ So what did I do while I was waiting to see if I needed to go to the hospital? I
 
 I drafted.
 
-![Engineered_Plague](https://i.ormos.uk/3f/1e/3f1ef4d510b0c695af6e4234911a4b5a53d2a35df70441c446bf1d17b9a96cf1.jpg)As you probably already know, the problem didn't take care of itself, and a little bit later I found myself in the hospital with a staph infection. I spent the better part of the next 12 days in the hospital, missing [GP–Birmingham](/en/events/2008/gpbir08/lee-shi-tian-trumps-birmingham) in the process, but fortunately I'm not going to suffer any sort of long-term damage.
+![Engineered_Plague](https://i.ormos.uk/3f/1e/3f1ef4d510b0c695af6e4234911a4b5a53d2a35df70441c446bf1d17b9a96cf1.jpg)
+
+As you probably already know, the problem didn't take care of itself, and a little bit later I found myself in the hospital with a staph infection. I spent the better part of the next 12 days in the hospital, missing [GP–Birmingham](/en/events/2008/gpbir08/lee-shi-tian-trumps-birmingham) in the process, but fortunately I'm not going to suffer any sort of long-term damage.
 
 It's still going to take me a little while to get back to 100%, but I am certainly on the mend, and, barring any further complications, I have been cleared to travel to [GP–Indianapolis](/en/events/2008/indianapolis08/grand-prixindianapolis) (Limited, yes!) and [GP–Buenos Aires](/en/events/2008/buenosaires08/grand-prixbuenos-aires) this month.
 

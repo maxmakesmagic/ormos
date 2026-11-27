@@ -78,7 +78,9 @@ Wilfried is known as an all-round good guy. Kamiel is kind of slow, but he does 
 
 ### Game 1
 
-![](https://i.ormos.uk/26/e0/26e02f26bfee923ef50fb1dc3cd490527067cec8f69881483b50b2a6d5969d2d.jpg)Kamiel is going first ("Ze nineteen with ze dice!" –Wilfried). Kamiel mulligans. He gets a turn one Imagecrafter, followed by Cloudreach Cavalry. The combo! Followed by Dreamer, Kamiel has quite the mulligan. Wilfried's GR deck has no play in the first three rounds. Kamiel decides to landcycle a big flyer as his draw is quite good anyway. Scattershot takes care of the dreamer though, and 4/4 Canopy Crawler shows up. Flier hits him to seven, and Kamiel morphs. Crawler goes agro and 4/4 Stag Beetle arrives...but what about the flier? Can Wilfried pull out from this one? 
+![](https://i.ormos.uk/26/e0/26e02f26bfee923ef50fb1dc3cd490527067cec8f69881483b50b2a6d5969d2d.jpg)
+
+Kamiel is going first ("Ze nineteen with ze dice!" –Wilfried). Kamiel mulligans. He gets a turn one Imagecrafter, followed by Cloudreach Cavalry. The combo! Followed by Dreamer, Kamiel has quite the mulligan. Wilfried's GR deck has no play in the first three rounds. Kamiel decides to landcycle a big flyer as his draw is quite good anyway. Scattershot takes care of the dreamer though, and 4/4 Canopy Crawler shows up. Flier hits him to seven, and Kamiel morphs. Crawler goes agro and 4/4 Stag Beetle arrives...but what about the flier? Can Wilfried pull out from this one? 
 
 Four life, getting interesting. Lowland Tracker makes quite the pitiful appearance. Stag Beetle sends. Another morph for Wilfried, who is rubbing his neck. Kamiel drops Windborn Muse and hits his opponent down to one. Needleshot Gourna arrives for Wilfried, but will mister Cornelissen realize he has two fliers? He doesn't have to, due to an Echo Tracer.
 
@@ -94,7 +96,9 @@ Wilfried cycles a Tusker to get his sixth land. Kamiel keeps looking at the Fars
 
 I would like to take a moment to congratulate both teams for their finals appearance.
 
-![](http://www.wizards.com/sideboard/images/gpams03/a862.jpg)Wilfried has a morph, and he attacks with the Murlodont. Through! Gourna is replayed as Wilfried's land number nine hits the table...he really needs spells soon. Jesse's older brother beat Ranque to ten and passes, three cards in hand. Gourna and Murlodont are sent into the red zone. Kamiel seems hesitant to lose his 2/6 Sliver wall to some burn. No he doesn't. Wall blocks Murlo, morph takes Gourna. After damage is on the stack, a dying Chromeshell Crab brings the Gourna over.
+![](http://www.wizards.com/sideboard/images/gpams03/a862.jpg)
+
+Wilfried has a morph, and he attacks with the Murlodont. Through! Gourna is replayed as Wilfried's land number nine hits the table...he really needs spells soon. Jesse's older brother beat Ranque to ten and passes, three cards in hand. Gourna and Murlodont are sent into the red zone. Kamiel seems hesitant to lose his 2/6 Sliver wall to some burn. No he doesn't. Wall blocks Murlo, morph takes Gourna. After damage is on the stack, a dying Chromeshell Crab brings the Gourna over.
 
 Wilfried plays Timberwatch and morph after combat. Slivers bash the Frenchman down to six, time is running out. Murlodont, Symbiotic and the three morphs go at it in an all-out attack. Kamiel blocks everything but the Murlodont. Kamiel concedes as his friends both lost. Looks like this match was the lamest, as Kamiel even has three Echo Tracers.
 

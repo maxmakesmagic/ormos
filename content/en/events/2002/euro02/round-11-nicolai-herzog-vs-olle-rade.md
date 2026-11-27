@@ -94,7 +94,9 @@ render_recovery:
   - Skeletal Scrying
   occurrences: 51
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a865.jpg)In the eleventh round of the 2002 European Championship, former European Champion Nicolai Herzog faced a Swedish **Magic** legend, Olle Råde. With 6-4 records, both were out of contention for the Top 8. The two players know each other well, and so the atmosphere of the match was really friendly throughout the match.
+![](http://www.wizards.com/sideboard/images/euro02/a865.jpg)
+
+In the eleventh round of the 2002 European Championship, former European Champion Nicolai Herzog faced a Swedish **Magic** legend, Olle Råde. With 6-4 records, both were out of contention for the Top 8. The two players know each other well, and so the atmosphere of the match was really friendly throughout the match.
 
 ### Game 1
 
@@ -116,7 +118,9 @@ After losing the first duel, Herzog wanted Råde to play first in the second mat
 
 Råde cast an Addle, naming black. Herzog revealed his hand, it consisted of three lands, two Spiritmongers and a Phyrexian Arena—and the latter soon found itself in the graveyard. The two players dropped lands only for a few turns, and then Nicolai slapped Braids, Cabal Minion on the table. "Damn!" Olle said, he had three lands only on the table, and had to sacrifice one of them.
 
-![](http://www.wizards.com/sideboard/images/euro02/a862.jpg)Herzog had the initiative in the game, but Råde somehow dealt with the threats. An Innocent Blood took care of Braids. A Slay killed a Spiritmonger. Another Innocent Blood killed the other Spiritmonger. Two Elephant tokens died to a Mutilate. A Jade Leech was able to attack twice, but once it was joined by an Elephant token, both creatures died to a Mutilate.
+![](http://www.wizards.com/sideboard/images/euro02/a862.jpg)
+
+Herzog had the initiative in the game, but Råde somehow dealt with the threats. An Innocent Blood took care of Braids. A Slay killed a Spiritmonger. Another Innocent Blood killed the other Spiritmonger. Two Elephant tokens died to a Mutilate. A Jade Leech was able to attack twice, but once it was joined by an Elephant token, both creatures died to a Mutilate.
 
 Finally, Herzog tapped out to play his last two cards in hand, a Jade Leech and another Braids, Cabal Minion. "How can I win this?" Olle wondered. "Mutilate and a land?" Herzog replied. Unfortunately, Råde didn't have a Mutilate. He Slayed the Jade Leech, but Braids kept his land total down. A Duress showed that he had three Corrupts in his hand, and they stayed there until he ran out of life a few turns later.
 

@@ -80,7 +80,9 @@ render_recovery:
   - Anurid Murkdiver
   occurrences: 31
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a887.jpg)These players were in the second draft pod and probably need to win two matches to be able to draw into the top eight, although they might also make it in with two wins and a loss. Jelger is playing Green-Black, and Frederic is playing White-Black.
+![](http://www.wizards.com/sideboard/images/gpcop02/a887.jpg)
+
+These players were in the second draft pod and probably need to win two matches to be able to draw into the top eight, although they might also make it in with two wins and a loss. Jelger is playing Green-Black, and Frederic is playing White-Black.
 
 ### Game 1
 
@@ -90,7 +92,9 @@ Courtois played another creature face-down and attacked, leaving Jelger on fifte
 
 At the end of the turn Courtois cycled a Renewed Faith to go back up to nine life, then attacked with a Morph, then played a Nantuko Husk. The position was Jelger with Serpentine Basilisk, Wretched Anurid and two Morphs, against Frederik with a Nantuko Husk and a Medic, and a tapped Morph.
 
-![](https://i.ormos.uk/3e/95/3e95fadf29b8b6af288dd9a50176351ebe8329680b317565489c15f7902a7fa3.jpg)The Dutchman's attack dropped Frederik to six as he blocked a Morphed Lorian with his Nantuko Husk, and sacrificed his Medic to Starlight Sanctum. Jelger played a Spitting Gourna after his attack phase. Frederic then had to think for a while since he had Cruel Revival in his hand, but instead opted to play Daru Healer. Wiegersma attacked with everything again, losing the Gourna but dropping Frederic to one.
+![](https://i.ormos.uk/3e/95/3e95fadf29b8b6af288dd9a50176351ebe8329680b317565489c15f7902a7fa3.jpg)
+
+The Dutchman's attack dropped Frederik to six as he blocked a Morphed Lorian with his Nantuko Husk, and sacrificed his Medic to Starlight Sanctum. Jelger played a Spitting Gourna after his attack phase. Frederic then had to think for a while since he had Cruel Revival in his hand, but instead opted to play Daru Healer. Wiegersma attacked with everything again, losing the Gourna but dropping Frederic to one.
 
 It seemed like Courtois was in trouble after Jelger played an Elven Riders threatening lethal damage next turn, but Jelger was only on five himself and the Frenchman managed a perfect topdeck. He drew Rotlung Reanimator, which he played. The Anurid knocked Jelger down to four. Frederic then sacrificed it to Starlight Sanctum, putting another creature into play, which put Jelger on one. Since the Dutchman only had the Elven Riders available to block, this meant that the Husk and Morph could attack in for the win. The Morph was revealed to be Silent Specter.
 
@@ -100,7 +104,9 @@ Frederic Courtois 1 – Jelger Wiegersma 0
 
 Neither player managed to draw a land in their opening hand, so they both had to start with a six card hand. Jelger's was much better though. He went first and played a Wirewood Savage on the third turn, whereas Frederik who had no Plains could only manage to play an uncastable Daru Healer face down to go with his Shepherd of Rot. Courtois decided not to block the Savage, and Jelger added a Serpentine Basilisk. The Frenchman drew a fourth land but it was yet another Swamp so he could once again only play a Morph.
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a888.jpg)He couldn't block the Basilisk without losing two creatures so he had to let it through. Wiegersma then played a Festering Goblin and another Morph. Courtois yet again topdecked land but this wasn't bad news at all as it let him strip Jelger's hand by unmorphing the Silent Specter he had played. Wiegersma attacked again, and Frederic didn't block, instead going down to nine life.
+![](http://www.wizards.com/sideboard/images/gpcop02/a888.jpg)
+
+He couldn't block the Basilisk without losing two creatures so he had to let it through. Wiegersma then played a Festering Goblin and another Morph. Courtois yet again topdecked land but this wasn't bad news at all as it let him strip Jelger's hand by unmorphing the Silent Specter he had played. Wiegersma attacked again, and Frederic didn't block, instead going down to nine life.
 
 The Specter swung again putting Jelger at twelve, and Courtois played Anurid Murkdiver, leaving that and the Shepherd and Morph available to block. Jelger attacked and Frederik just blocked with his Morph and his Murkdiver, going down to four. Jelger couldn't cast the card he had drawn, and so he had no way of stopping the lethal damage Frederic had in play, with the Shepherd of Rot dealing three, and the Murkdiver and Specter coming over for the remaining eight damage.
 

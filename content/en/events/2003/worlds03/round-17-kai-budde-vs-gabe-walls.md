@@ -223,7 +223,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/a3/a3/a3a3295efd6e7aa876091d7af2030c01956c012ced9d0e6d130c72fe2e153687.jpg)Any speculation that Gabe Walls was simply a "random" who lucked his way onto the U.S. National team should be put to rest by now. After sixteen rounds and three different formats, he finds himself one win away from the Top 8 of Worlds. Unfortunately for him, the man across the table is Kai Budde, the player you least want to face when your career has reached a clutch moment. Interestingly enough, this match may be even more important to Kai. His feature matches have been filled to the brim with spectators all week, and local media has been following the hometown hero all day. After getting this close, missing the Top 8 in front of his countrymen would be a huge disappointment.
+![](https://i.ormos.uk/a3/a3/a3a3295efd6e7aa876091d7af2030c01956c012ced9d0e6d130c72fe2e153687.jpg)
+
+Any speculation that Gabe Walls was simply a "random" who lucked his way onto the U.S. National team should be put to rest by now. After sixteen rounds and three different formats, he finds himself one win away from the Top 8 of Worlds. Unfortunately for him, the man across the table is Kai Budde, the player you least want to face when your career has reached a clutch moment. Interestingly enough, this match may be even more important to Kai. His feature matches have been filled to the brim with spectators all week, and local media has been following the hometown hero all day. After getting this close, missing the Top 8 in front of his countrymen would be a huge disappointment.
 
 ### Game 1
 
@@ -247,7 +249,9 @@ Walls' Duress revealed Vampiric Tutor, Reanimate, Wonder and lands- the Tutor we
 
 Walls- "You're going to play that Wonder and just kill me."
 
-![](https://i.ormos.uk/32/9e/329efca4c699f5404f4b9c352c120d43655079de987cfb59a5636b1decd899c7.jpg)Indeed, Budde summoned Wonder on turn four, and Walls Entombed Nether Spirit on end step. Wonder attacked for two, and Budde cast Duress. Walls responded by Entombing Coffin Purge, and Walls' hand contained City of Traitors, Diabolic Edict, Last Rites, Faceless Butcher and Cabal Therapy\- the Edict went to the graveyard. The Spirit attacked for two, and Walls used the Butcher to get rid of Wonder, which surprised Budde.
+![](https://i.ormos.uk/32/9e/329efca4c699f5404f4b9c352c120d43655079de987cfb59a5636b1decd899c7.jpg)
+
+Indeed, Budde summoned Wonder on turn four, and Walls Entombed Nether Spirit on end step. Wonder attacked for two, and Budde cast Duress. Walls responded by Entombing Coffin Purge, and Walls' hand contained City of Traitors, Diabolic Edict, Last Rites, Faceless Butcher and Cabal Therapy\- the Edict went to the graveyard. The Spirit attacked for two, and Walls used the Butcher to get rid of Wonder, which surprised Budde.
 
 Regardless, Walls' plan to live for the moment was working, as Budde was drawing nothing but land, while Walls made his clock even more impressive with Phyrexian Negator. With his back against the wall, Budde went digging with Careful Study off the top, followed by Brainstorm. He Entombed Verdant Force, and Walls played to the crowd, begging Kai not to slow roll him. Indeed, Kai had nothing, but seemed to have fun making Walls sweat.
 

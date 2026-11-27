@@ -90,7 +90,9 @@ render_recovery:
   - Wirewood Savage
   occurrences: 100
 ---
-![](https://i.ormos.uk/41/f2/41f2e5096aee7609376351d95384fedaa398ea917cd4bca085ccf2756eaf15b2.jpg)And there he was, facing down Tomi Walamies in the Pro Tour Venice semifinals. Jordan Berkowitz has qualified for every Pro Tour this season the hard way, but he won't be playing in any PTQs next year. He also won the flip and would be playing R/G Beasts. Tomi on the other hand was playing Punisher Goblins.
+![](https://i.ormos.uk/41/f2/41f2e5096aee7609376351d95384fedaa398ea917cd4bca085ccf2756eaf15b2.jpg)
+
+And there he was, facing down Tomi Walamies in the Pro Tour Venice semifinals. Jordan Berkowitz has qualified for every Pro Tour this season the hard way, but he won't be playing in any PTQs next year. He also won the flip and would be playing R/G Beasts. Tomi on the other hand was playing Punisher Goblins.
 
 ### Game 1
 
@@ -104,7 +106,9 @@ Sideboard Tomi: -2 Menacing Ogre, -4 Gempalm Incinerator, -1 Skirk Prospector, +
 
 ### Game 2
 
-![](https://i.ormos.uk/16/91/1691fd0f195efdac9631cbb1660f630464a341eb8f48ff9af20c78e25e89d09b.jpg)The pressure on Jordan was somewhat lower this time around as Tomi didn't play a Goblin until his second turn – a Goblin Piledriver. It was Shocked by Jordan who played out a Thoughtbound Primoc. A new Piledriver hit the board next turn along with a Goblin Sledder. Next turn, Jordan had to show the mediocrity of his hand. He had nothing to play as his land was only Forgotten Cave, Contested Cliffs and a Mountain. Tomi played a Clickslither and ruthlessly attacked Jordan. The Primoc blocked the Piledriver but the Goblin Sledder saved it. Jordan only managed to play out a morph on his next turn and shuffled up for game 3. 
+![](https://i.ormos.uk/16/91/1691fd0f195efdac9631cbb1660f630464a341eb8f48ff9af20c78e25e89d09b.jpg)
+
+The pressure on Jordan was somewhat lower this time around as Tomi didn't play a Goblin until his second turn – a Goblin Piledriver. It was Shocked by Jordan who played out a Thoughtbound Primoc. A new Piledriver hit the board next turn along with a Goblin Sledder. Next turn, Jordan had to show the mediocrity of his hand. He had nothing to play as his land was only Forgotten Cave, Contested Cliffs and a Mountain. Tomi played a Clickslither and ruthlessly attacked Jordan. The Primoc blocked the Piledriver but the Goblin Sledder saved it. Jordan only managed to play out a morph on his next turn and shuffled up for game 3. 
 
 Tomi 2 – Jordan 0
 
@@ -114,7 +118,9 @@ Jordan slumped in his chair when he looked at his opening cards. Tomi kept his p
 
 Jordan's hand didn't turn out to be all that bad, as he played out a second and third turn Broodhatch Nantuko, to provide him with the necessary time to get out his big creatures. Tomi played out a Skirk Prospector and Goblin Piledriver, only to see his Prospector Shocked by Jordan. He then played a Goblin Sledder and attacked with his Piledriver, which took the American down to 18. Jordan only cycled a land and attacked with one of his Broodhatch Nantukos. Tomi played out a Goblin Burrows along with a Goblin Sledder in order to force through 3 damage with his Goblin Piledriver. 
 
-![](https://i.ormos.uk/35/fc/35fc4f096ea7f16d9e4a173b12365ae5b0a019b0d72c52c2eb005e2e283af126.jpg)Jordan finally managed to get a reasonably big creature into play when he amplified his Canopy Crawler showing a Krosan Tusker. It died next turn in combat when it jumped in front of Tomi's Piledriver, along with the Broodhatch Nantuko that stayed home. Both Broodhatch Nantukos came in on Jordan's next turn after he played a Tephraderm. Tomi sent both his Goblin Sledders, pumped the one that was blocked by the Tephraderm and Shocked the beast after damage resolved. The Tephraderm was replaced by a Ravenous Baloth, which provided Jordan with some breathing space. He would need it as Rorix Bladewing came down, bringing Jordan down to 8 life. The American played out a Contested Cliffs and the Krosan Tusker he showed Tomi earlier. He then attacked with his Baloth and Nantukos to bring Tomi down to 8 life, giving him a window of opportunity to beat the dragon.
+![](https://i.ormos.uk/35/fc/35fc4f096ea7f16d9e4a173b12365ae5b0a019b0d72c52c2eb005e2e283af126.jpg)
+
+Jordan finally managed to get a reasonably big creature into play when he amplified his Canopy Crawler showing a Krosan Tusker. It died next turn in combat when it jumped in front of Tomi's Piledriver, along with the Broodhatch Nantuko that stayed home. Both Broodhatch Nantukos came in on Jordan's next turn after he played a Tephraderm. Tomi sent both his Goblin Sledders, pumped the one that was blocked by the Tephraderm and Shocked the beast after damage resolved. The Tephraderm was replaced by a Ravenous Baloth, which provided Jordan with some breathing space. He would need it as Rorix Bladewing came down, bringing Jordan down to 8 life. The American played out a Contested Cliffs and the Krosan Tusker he showed Tomi earlier. He then attacked with his Baloth and Nantukos to bring Tomi down to 8 life, giving him a window of opportunity to beat the dragon.
 
 Rorix came in regardless and took Jordan down to 2 life. A Clickslither hit play to provide Tomi with some much-needed defense. Jordan thought very long and hard before sending one Broodhatch Nantuko and the Krosan Tusker into the Red Zone. The Clickslither blocked the Tusker and the lone Goblin Sledder jumped in front of the Broodhatch Nantuko. The Tusker took down Rorix Bladewing in the Contested Cliffs only to be replaced by a new one next turn, giving Tomi the match.
 

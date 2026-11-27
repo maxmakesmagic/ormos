@@ -53,7 +53,9 @@ render_recovery:
   occurrences: 2
 - code: broad_content_selector
 ---
-![](https://i.ormos.uk/bc/d5/bcd54ae1c03445f7dbfadeff4d8c929f88de897c2aa19005c4c5b0ad24a96c66.jpg)Congratulations to Lee Shi Tian, winner of 2008 Grand Prix–Birmingham!
+![](https://i.ormos.uk/bc/d5/bcd54ae1c03445f7dbfadeff4d8c929f88de897c2aa19005c4c5b0ad24a96c66.jpg)
+
+Congratulations to Lee Shi Tian, winner of 2008 Grand Prix–Birmingham!
 
 He and his Kithkin deck first defeated Matthias Künzler’s Faeries 2-1 in the quarterfinals, then dispatched Raphael Levy’s elemental deck in three games, and in the finals against Remi Fortier’s Faeries the combination of [Goldmeadow Stalwart](https://web.archive.org/web/20220808192203/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goldmeadow+Stalwart) and [Wizened Cenn](https://web.archive.org/web/20220808192203/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wizened+Cenn) swept to a clean 2-0 triumph!
 

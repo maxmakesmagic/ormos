@@ -136,7 +136,9 @@ render_recovery:
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a946.jpg)Finkel 序盤から《日を浴びるルートワラ/Basking Rootwalla》《野生の雑種犬/Wild Mongrel》と展開し体制の整っていない Kibler を攻め立てる。
+![](http://www.wizards.com/sideboard/images/ptosa02/a946.jpg)
+
+Finkel 序盤から《日を浴びるルートワラ/Basking Rootwalla》《野生の雑種犬/Wild Mongrel》と展開し体制の整っていない Kibler を攻め立てる。
 
 2 体目の《野生の雑種犬/Wild Mongrel》が出たところですかさず《激発/Violent Eruption》続く Finkel の《リスの巣/Squirrel Nest》を《堂々巡り/Circular Logic》でカウンターし Finkel に後続を与えない Kibler 。
 
@@ -150,7 +152,9 @@ Finkel 1 - 0 Kibler
 
 Finkel が《リスのお喋り/Chatter of the Squirrel》《野生の雑種犬/Wild Mongrel》 Kibler が《強制/Compulsion》《セファリッドの物あさり/Cephalid Looter》と両者とも上々の立ち上がり。
 
-![](https://i.ormos.uk/9c/5b/9c5b5f64e844622cc66a2cb13eafca7b3d61a701e53d8dcf145892a56ec539a8.jpg)序盤を制したのは Finkel リスと《野生の雑種犬/Wild Mongrel》がダメージを重ね《野生の雑種犬/Wild Mongrel》の Pump Up に《日を浴びるルートワラ/Basking Rootwalla》 2 体を出す Finkel これには流石の Kibler も苦い顔をするが《ナルシシズム/Narcissism》を出す隙を見計らっての《激発/Violent Eruption》でリスと 2 体の《日を浴びるルートワラ/Basking Rootwalla》を除去すると《セファリッドの皇帝アボシャン/Aboshan, Cephalid Emperor》《サイカトグ/Psychatog》と一気に出して Finkel の《野生の雑種犬/Wild Mongrel》をバウンスし殴り勝つ。
+![](https://i.ormos.uk/9c/5b/9c5b5f64e844622cc66a2cb13eafca7b3d61a701e53d8dcf145892a56ec539a8.jpg)
+
+序盤を制したのは Finkel リスと《野生の雑種犬/Wild Mongrel》がダメージを重ね《野生の雑種犬/Wild Mongrel》の Pump Up に《日を浴びるルートワラ/Basking Rootwalla》 2 体を出す Finkel これには流石の Kibler も苦い顔をするが《ナルシシズム/Narcissism》を出す隙を見計らっての《激発/Violent Eruption》でリスと 2 体の《日を浴びるルートワラ/Basking Rootwalla》を除去すると《セファリッドの皇帝アボシャン/Aboshan, Cephalid Emperor》《サイカトグ/Psychatog》と一気に出して Finkel の《野生の雑種犬/Wild Mongrel》をバウンスし殴り勝つ。
 
 Finkel 1 - 1 Kibler
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: d9ffb08d82df7c345e4cc7107fac501e0d0c8cd834ad38e5e63ed8a45593f765
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/frnat04/fm9_1.jpg)Coming into the round, Farid is on 7-1 and Mathias is two points back at 6-1-1. Although not well-known outside France Mathias has been to a handful of Pro Tours with his best finish being 35th.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/frnat04/fm9_1.jpg)
+
+Coming into the round, Farid is on 7-1 and Mathias is two points back at 6-1-1. Although not well-known outside France Mathias has been to a handful of Pro Tours with his best finish being 35th.
 
 ### Game 1
 

@@ -100,13 +100,17 @@ render_recovery:
   - Static Orb
   occurrences: 84
 ---
-![](https://i.ormos.uk/40/57/4057bf8236a53df9c14bbb191a65ad427abb592aa6bfa28735833a1045993804.jpg)Justin Gary hasn't been in the Top 8 of Nationals since 1997, when he won the whole thing. He was quick to point out that he has come in ninth and tenth since then, both on tiebreakers. A win here would go a long way towards putting him in the Top 8 of Nationals for the first time in six years. His opponent, Josh Wagener, is no stranger to success either, with a Top 8 at Grand Prix Boston, and a third place finish at JSS Worlds a few years ago. A Top 8 finish in this tournament would be a huge step forward for his Magic career.
+![](https://i.ormos.uk/40/57/4057bf8236a53df9c14bbb191a65ad427abb592aa6bfa28735833a1045993804.jpg)
+
+Justin Gary hasn't been in the Top 8 of Nationals since 1997, when he won the whole thing. He was quick to point out that he has come in ninth and tenth since then, both on tiebreakers. A win here would go a long way towards putting him in the Top 8 of Nationals for the first time in six years. His opponent, Josh Wagener, is no stranger to success either, with a Top 8 at Grand Prix Boston, and a third place finish at JSS Worlds a few years ago. A Top 8 finish in this tournament would be a huge step forward for his Magic career.
 
 ### Game 1
 
 Wagener mulliganed down to six. He opened with Basking Rootwalla, which died to Chainer's Edict. Wild Mongrel would have died to a second Edict, but Wagener discarded a Rootwalla into play, which took the bullet instead. A second Mongrel made Wagener's side better, but he missed his third land drop. Gary cast Diabolic Tutor, and took four more damage from the Mongrels, plus another two from Firebolt.
 
-![](https://i.ormos.uk/c0/8d/c08d64f573e702fffd464ec49f969d0424f73c2c69ed74765d327bbcc5375b30.jpg)He untapped, and used Duress to take away Call of the Herd, leaving Wagener with two Violent Eruption in hand, but still only two lands. Mutilate followed, and Wagener drew two lands in a row to keep him in the game. Call of the Herd was flashed back, and the elephant died to Corrupt, bringing Gary up to a very comfortable eighteen life points. He played Riptide Replicator on the following turn, and set it to make white, 2/2 Chickens. He made a few 2/2 tokens, then played Diabolic Tutor. Wagener conceded, but asked Gary to reveal the card he searched out, which was Corrupt.
+![](https://i.ormos.uk/c0/8d/c08d64f573e702fffd464ec49f969d0424f73c2c69ed74765d327bbcc5375b30.jpg)
+
+He untapped, and used Duress to take away Call of the Herd, leaving Wagener with two Violent Eruption in hand, but still only two lands. Mutilate followed, and Wagener drew two lands in a row to keep him in the game. Call of the Herd was flashed back, and the elephant died to Corrupt, bringing Gary up to a very comfortable eighteen life points. He played Riptide Replicator on the following turn, and set it to make white, 2/2 Chickens. He made a few 2/2 tokens, then played Diabolic Tutor. Wagener conceded, but asked Gary to reveal the card he searched out, which was Corrupt.
 
 Gary- 1 Wagener- 0
 
@@ -114,7 +118,9 @@ Gary- 1 Wagener- 0
 
 Llanowar Elves traded with Innocent Blood to start, and Wagener had a turn two Compost, followed by Wild Mongrel and Grim Lavamancer on turn three. Volcanic Hammer went right to Gary to bring him to fourteen, and Mutilate killed both creatures. Wagener came right back with another Lavamancer, and Call of the Herd. Gary untapped, and with the help of Cabal Coffers played Visara on turn five.
 
-![](https://i.ormos.uk/4d/1c/4d1c3b32d5259e02cc91013553a8c0aa4de676e52c24e5e45f88fe8c451cfaf3.jpg)The elephant attacked to bring Gary to eleven, and the Call was flashed back to make another. Visara attacked through the air, and Mutilate killed everything in play but the 5/5 Legend. Firebolt and Volcanic Hammer took it down, and Wagener played a Rootwalla. Gary played yet another Visara, and it blocked the Rootwalla. Wagener tried to pump it, but Gary responded with Smother. Wagener played Grim Lavamancer, which could end the game with burn assistance since Gary was at eleven.
+![](https://i.ormos.uk/4d/1c/4d1c3b32d5259e02cc91013553a8c0aa4de676e52c24e5e45f88fe8c451cfaf3.jpg)
+
+The elephant attacked to bring Gary to eleven, and the Call was flashed back to make another. Visara attacked through the air, and Mutilate killed everything in play but the 5/5 Legend. Firebolt and Volcanic Hammer took it down, and Wagener played a Rootwalla. Gary played yet another Visara, and it blocked the Rootwalla. Wagener tried to pump it, but Gary responded with Smother. Wagener played Grim Lavamancer, which could end the game with burn assistance since Gary was at eleven.
 
 To make matters worse, Wagener played a second Compost. With Wagener at thirteen, Gary decided to use Visara to kill the Lavamancer instead of attacking. Phantom Centaur provided an even bigger threat on the board, and swung back when Gary attacked with Visara. Wagener cast Call of the Herd, and Gary attacked to bring Wagener down to three. Diabolic Tutor searched up Corrupt, and that was the match.
 

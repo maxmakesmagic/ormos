@@ -316,7 +316,9 @@ There are other amazing writers in our community. There are even other writers -
 
 You may know of Baxter from a couple of PT Top 8s and a successful U.S. National Team. You may have heard rumors of his table-shuffling skills on The Boat. What you probably don't know is that before the information age, Baxter was information.
 
-![](https://i.ormos.uk/99/11/99110cda362fe6dd29fa03516df3aae0b5d7ecd860308e4d3762e9d914e41070.jpg)Players have recently done a lot of complaining about the [Brainburst](https://web.archive.org/web/20020506000000/http://www.wizards.com/leaving.asp?url=http://www.brainburst.com&origin=sideboard_feature_20020506a) Premium service, but half a decade ago, if you wanted information about **Magic**, you really, really, *had* to *pay* for it. While the traffic on the newsgroups was a thing of beauty (especially given the work of some other players on this list), things like The *Sideboard's* coverage of events half a world away were totally unheard of. If you wanted to know what the Top 8 deck lists from the last PT were, there were no Archives to click.
+![](https://i.ormos.uk/99/11/99110cda362fe6dd29fa03516df3aae0b5d7ecd860308e4d3762e9d914e41070.jpg)
+
+Players have recently done a lot of complaining about the [Brainburst](https://web.archive.org/web/20020506000000/http://www.wizards.com/leaving.asp?url=http://www.brainburst.com&origin=sideboard_feature_20020506a) Premium service, but half a decade ago, if you wanted information about **Magic**, you really, really, *had* to *pay* for it. While the traffic on the newsgroups was a thing of beauty (especially given the work of some other players on this list), things like The *Sideboard's* coverage of events half a world away were totally unheard of. If you wanted to know what the Top 8 deck lists from the last PT were, there were no Archives to click.
 
 Baxter gave players information with books like *Deep Magic* and *The Tables of Magic*. In the mid-90's, players were hungry for deck lists; Baxter gave them lists both successful and speculative. In an age before the explosion of **Magic** websites and the proliferation of "net" deck lists, Baxter's books were valuable reference material both for deck ideas and for dummy decks against which to test one's own designs.
 
@@ -352,7 +354,9 @@ If there is any criticism you can make for his writing, it is that as a then-Eng
 
 And besides that, he invented the beatdown.
 
-![](https://i.ormos.uk/e2/15/e21588c48b4d6ea64b72a1be44307cd7fc1c14f295687d2910eeceb479d70601.jpg)I once asked David Price about the fact that he played a Bad Moon/Necropotence deck way back at 1996 PT-New York, but that Hacker was getting all the credit after smashing the Swiss at PT-Dallas. "It's okay," said Dave. "I think you'll agree that Brian did a better job."
+![](https://i.ormos.uk/e2/15/e21588c48b4d6ea64b72a1be44307cd7fc1c14f295687d2910eeceb479d70601.jpg)
+
+I once asked David Price about the fact that he played a Bad Moon/Necropotence deck way back at 1996 PT-New York, but that Hacker was getting all the credit after smashing the Swiss at PT-Dallas. "It's okay," said Dave. "I think you'll agree that Brian did a better job."
 
 Besides the "better job," Brian made sure that his readers would learn to beat down as well. As just one example, Hacker's demonstration of deck redundancy theory via the Dallas black deck is the most important contribution to aggressive decks since Jay Schneider's discovery of the mana curve. 
 
@@ -417,7 +421,9 @@ But Frank was also an exceedingly influential writer himself.
 
 Working from Rob Hahn's model, Frank wrote to my knowledge only two **Magic** articles of any real note. One of them was "STRATEGY: Sligh decks (History and Theory)", which happens to be one of the three or four most influential articles of all time.
 
-![](https://i.ormos.uk/25/c7/25c7c500b4f91e0aab147f3741b96a925eb69388bf337b4b977c7face87521de.jpg)"STRATEGY: Sligh decks (History and Theory)" was read by one edt, immediately prior to Pro Tour-Dallas. Said hat-eating dinosaur gave a modified Sligh deck to his then-protégé Patrick Chapin, who went on to score a Junior Pro Tour Top 8 with the deck... and begin the age of Sligh. It was in Dallas format Standard that Dave Price began his legend, it was on the work of Jay Schneider that all these successes began, but it was Frank's little information collection that got the Ball Lightning rolling in a truly meaningful way.
+![](https://i.ormos.uk/25/c7/25c7c500b4f91e0aab147f3741b96a925eb69388bf337b4b977c7face87521de.jpg)
+
+"STRATEGY: Sligh decks (History and Theory)" was read by one edt, immediately prior to Pro Tour-Dallas. Said hat-eating dinosaur gave a modified Sligh deck to his then-protégé Patrick Chapin, who went on to score a Junior Pro Tour Top 8 with the deck... and begin the age of Sligh. It was in Dallas format Standard that Dave Price began his legend, it was on the work of Jay Schneider that all these successes began, but it was Frank's little information collection that got the Ball Lightning rolling in a truly meaningful way.
 
 The essential Kusumoto article:
 
@@ -427,7 +433,9 @@ The essential Kusumoto article:
 
 He invented the tournament report.
 
-![](http://www.wizards.com/sideboard/images/PTNOR01/994.jpg)While one could argue (wrongly, if one's criteria involves either "entertainment value" or "writing skill") that others subsequently did it better, you really cannot get around the fact that Shuler did it first. 
+![](http://www.wizards.com/sideboard/images/PTNOR01/994.jpg)
+
+While one could argue (wrongly, if one's criteria involves either "entertainment value" or "writing skill") that others subsequently did it better, you really cannot get around the fact that Shuler did it first. 
 
 Given the fact that the tournament report was at one point the most popular choice for **Magic** expression outside of the deck list, and was the form on which some of the greatest writers in the history of the game, including Randy Buehler, Sol Malka, and Jamie Wakefield, cut their teeth, I think that it is fairly obvious how innovative and important John's contribution is.
 

@@ -48,7 +48,9 @@ Both Emmanuel Vernay and Patrick Mello can afford to breathe fairly easily. At 7
 
 Like a lot of the French Vernay had chosen to run Suicide Black. Unfortunately for him Mello was running Piledriver Sligh, a matchup firmly in favor of the German.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a949.jpg)Compounded on top of this Vernay chose to play a one swamp hand and his deck stubbornly refused to cough up another. He was still able summon two [Carnophage](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carnophage) and attempt a [Cabal Therapy](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy), which missed.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a949.jpg)
+
+Compounded on top of this Vernay chose to play a one swamp hand and his deck stubbornly refused to cough up another. He was still able summon two [Carnophage](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carnophage) and attempt a [Cabal Therapy](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy), which missed.
 
 Unfortunately Mello had two [Goblin Piledriver](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Piledriver)s and a [Reckless Charge](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reckless+Charge). Two swings for nine and the Frenchman was shuffling up for game 2.
 
@@ -60,7 +62,9 @@ Vernay dropped a [Skittering Skirge](https://web.archive.org/web/20021130000000/
 
 A Negator rolled up and turned the game round again, putting Mello in an awkward situation. Any damage to the Negator would give him an outlet to sacrifice the damaging [Sarcomancy](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarcomancy) enchantments. But could he just take 5 damage a turn?
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a950.jpg)Vernay made another [Sarcomancy](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarcomancy) and Mello pondered the situation in his end step. He decided to play it safe and went after the Negator. The Frenchman sacrificed two residual [Sarcomancy](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarcomancy)'s. Mello scrolled it again in his main phase leaving Vernay a lot to consider.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a950.jpg)
+
+Vernay made another [Sarcomancy](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarcomancy) and Mello pondered the situation in his end step. He decided to play it safe and went after the Negator. The Frenchman sacrificed two residual [Sarcomancy](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarcomancy)'s. Mello scrolled it again in his main phase leaving Vernay a lot to consider.
 
 The Negator took itself and the remaining [Sarcomancy](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarcomancy) off the table, leaving Mello in control with a [Cursed Scroll](https://web.archive.org/web/20021130000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cursed+Scroll).
 

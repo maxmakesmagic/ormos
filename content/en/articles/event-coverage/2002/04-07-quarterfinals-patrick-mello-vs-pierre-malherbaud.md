@@ -44,7 +44,9 @@ archive_source:
   sha256: db623e7f871cc31d856551c71b5bb018d8070bb124ec10745df71c92979613d9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a877.jpg)Pierre Malherbaud is the two-time French National Champion and no stranger to Grand Prix Top 8's. He made the quarterfinals of Grand Prix-London 2001. Patrick Mello is part of the same international super-team Godzilla that Kai Budde belongs to and is on a bit of a purple patch at the moment after finishing runner-up in Grand Prix-Lisbon and reaching the Top 8 of Grand Prix-Heidelberg.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a877.jpg)
+
+Pierre Malherbaud is the two-time French National Champion and no stranger to Grand Prix Top 8's. He made the quarterfinals of Grand Prix-London 2001. Patrick Mello is part of the same international super-team Godzilla that Kai Budde belongs to and is on a bit of a purple patch at the moment after finishing runner-up in Grand Prix-Lisbon and reaching the Top 8 of Grand Prix-Heidelberg.
 
 Mello had managed to draft mono-black, with a [Cabal Patriarch](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Patriarch) as the highlight. Malherbaud has a reasonable green-black deck and joked that he was playing Portal as virtually all his spells were at sorcery speed. 
 
@@ -70,7 +72,9 @@ Malherbaud 1-0 Mello
 
 Mello had awful luck in the second game. He mulliganed his first hand and then drew six [Swamp](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s. He had to mulligan this and then went down to five cards.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a875.jpg)Malherbaud had a good curve again as a turn 3 Torturer followed a turn 2 [Crypt Creeper](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crypt+Creeper). The hapless German was beginning to feel tortured himself as his deck refused to cough up a third swamp.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a875.jpg)
+
+Malherbaud had a good curve again as a turn 3 Torturer followed a turn 2 [Crypt Creeper](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crypt+Creeper). The hapless German was beginning to feel tortured himself as his deck refused to cough up a third swamp.
 
 Malherbaud turned the screw with [Acorn Harvest](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acorn+Harvest) but then chose not to flash it back the next turn. This gave Mello the opportunity to nick it with a [Gravegouger](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravegouger) when he finally found a third land. The reason for Malherbaud not flashing it back became apparent as he used the land to cast [Elephant Ambush](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Ambush) at end of turn. 
 

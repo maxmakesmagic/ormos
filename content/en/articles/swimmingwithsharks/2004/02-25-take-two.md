@@ -1408,7 +1408,9 @@ After every game one Josh would make these changes. He had the opportunity to do
 
 I asked Josh what specifically prompted his successful revamp, “Mostly after noticing my lack of artifact removal and efficient answers to equipment--I had none besides the splashed Deconstruct--wasn't really going to provide the type of answers I needed to win. I switched to a more tempo-oriented build which lost only a few games throughout the day. Notable moments included Carrying Away a Warhammer followed by Terroring that person's Pristine Angel!”
 
-![](http://www.wizards.com/global/images/magic/general/Nim_Lasher.jpg)“Switching to blue also allowed me to remove cards that were strenuous to my mana base as well as bad creatures such as Krark-Clan Stoker. I was able to side in much better cards such as Hoverguard Observer and Neurok Prodigy. It also allowed me to play with Nim Lasher, which is awesome!”
+![](http://www.wizards.com/global/images/magic/general/Nim_Lasher.jpg)
+
+“Switching to blue also allowed me to remove cards that were strenuous to my mana base as well as bad creatures such as Krark-Clan Stoker. I was able to side in much better cards such as Hoverguard Observer and Neurok Prodigy. It also allowed me to play with Nim Lasher, which is awesome!”
 
 I was curious about Josh's decision to leave the popular Lightning Greaves in the sideboard of both versions of his deck. Before I could pose the question he gave me his answer while talking about a Banshee's Blade that was sitting in the sideboard of another Top 8 competitor's Sealed Deck. “I would not have run it. I generally don't play equipment—that's just how I build my decks. Most people do play equipment but I generally do not.”
 

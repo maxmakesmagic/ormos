@@ -175,7 +175,9 @@ Yuusuke Sasaki was on the Japanese National team in 2002 and ha s a smattering o
 
 ### Game One
 
-![](https://i.ormos.uk/a4/c9/a4c9a193478836fb271a1e344ea51ce543fcf12ad578ee27a69e3f1e93b17741.jpg)Ishida kept his opening hand as did Sasaki. A turn two Talisman was trumped by a turn two Leonin Skyhunter. Ishida was unfazed and played a turn three Tel-Jilad Exile. His opponent played a Leaden Myr and swung for two. Ishida cracked back for two points and played an Iron Myr.
+![](https://i.ormos.uk/a4/c9/a4c9a193478836fb271a1e344ea51ce543fcf12ad578ee27a69e3f1e93b17741.jpg)
+
+Ishida kept his opening hand as did Sasaki. A turn two Talisman was trumped by a turn two Leonin Skyhunter. Ishida was unfazed and played a turn three Tel-Jilad Exile. His opponent played a Leaden Myr and swung for two. Ishida cracked back for two points and played an Iron Myr.
 
 Sasaki's Ogre Leadfoot kept Ishida's forces at bay while he was free to rule the skies with his airbear. He played another Myr and a Nim Shrieker and passed the turn. Ishida could still not attack but he could use Viridian Shaman to destroy his opponent's only source of black. Sasaki played a Myr Prototype and swung in for four in the air. Ishida played a Mirror Golem and removed the Myr from Sasaki's bin. Sasaki got in for four more damage and played a Spikeshot Goblin. Ishida finally had a creature that could get through in the Mirror Golem but it was too little too late. He bought another turn with a Pearl Shard but there was not help to found during his next draw step.
 
@@ -195,7 +197,9 @@ Ishida - 1 Sasaki - 1
 
 ### Game three
 
-![](https://i.ormos.uk/e0/83/e0838370e62e82df778ef646ef8ae91c08d157f3117ff6c0557bfcc299f7f988.jpg)More sideboarding from Ishida--Battlegrowth became a Titanium Golem. While he was looking for cards to remove he flashed a Glissa and he would certainly like her to show up for the deciding game. He also flipped past Solar Tide. His deck was certainly impressive although for the second round in row during feature matches we found a white player with Soul Nova starting in the board. With such powerful cards it would surely be disappointing for Ishida to miss the cut.
+![](https://i.ormos.uk/e0/83/e0838370e62e82df778ef646ef8ae91c08d157f3117ff6c0557bfcc299f7f988.jpg)
+
+More sideboarding from Ishida--Battlegrowth became a Titanium Golem. While he was looking for cards to remove he flashed a Glissa and he would certainly like her to show up for the deciding game. He also flipped past Solar Tide. His deck was certainly impressive although for the second round in row during feature matches we found a white player with Soul Nova starting in the board. With such powerful cards it would surely be disappointing for Ishida to miss the cut.
 
 Ishida had the first play with an Auriok Transfixer and Sasaki gave him something to tap with a Leaden Myr. That did not slow Sasaki down and he had a Skyhunter Cub for turn three. Ishida's turn three was Viridian Joiner. The airbear showed up for Sasaki on his turn four.
 

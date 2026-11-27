@@ -44,7 +44,9 @@ archive_source:
   sha256: 67716616a469fd497e264eb5f04106437a9f14d75f50a1657c09a0aed0d914c8
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a946.jpg)Sporting his now-ubiquitous emokid glasses, Chris Benafel was the only one of the trio of Gabe Walls, PTR and himself to pilot their crazy Explosive Vegetation deck into Day 2. This round he squares off against that swingin’ editor of Brainburst, Adrian Sullivan. A vocal member of Cabal Rogue, Sullivan is lauded as one of the game’s great innovators. Today he is with an unorthodox Goblins build, that includes maindeck Sulfuric Vortex.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a946.jpg)
+
+Sporting his now-ubiquitous emokid glasses, Chris Benafel was the only one of the trio of Gabe Walls, PTR and himself to pilot their crazy Explosive Vegetation deck into Day 2. This round he squares off against that swingin’ editor of Brainburst, Adrian Sullivan. A vocal member of Cabal Rogue, Sullivan is lauded as one of the game’s great innovators. Today he is with an unorthodox Goblins build, that includes maindeck Sulfuric Vortex.
 
 Sullivan got the quick beats with Sledder and Piledriver, but didn’t complete the trifecta with a Warchief. Benafel was happy to Vegetation and then Starstorm them away before they could deal too much damage. Sullivan made a Warchief and swung, but Benafel had Blatant Thievery to take away his acceleration. It was key, since Sullivan was low on lands. He made a Vortex, and they waited.
 
@@ -52,7 +54,9 @@ Sullivan rebuilt with Sparksmith and Piledriver, but then Benafel turned his War
 
 Sullivan 1 – Benafel 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a949.jpg)Dealing out their hands for the second game, Sullivan took a moment to decide on his hand. He looked up at Benafel.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a949.jpg)
+
+Dealing out their hands for the second game, Sullivan took a moment to decide on his hand. He looked up at Benafel.
 
 “You do not look like a man beaten by Jacks.” – Adrian Sullivan
 
@@ -62,7 +66,9 @@ Sullivan led with Taskmaster and Goblin Piledriver, and Benafel had no Gempalm I
 
 “Some killer draws I’m getting against you.” – Chris Benafel
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a948.jpg)Sullivan dropped a Goblin Burrows and swung in. Benafel took four. Sullivan passed the turn with his mana open. Benafel fetched out a Mountain and cleared the board with Starstorm. He played a Grand Coliseum, and answered Sullivan’s Warchief with a Shock. He untapped and tapped out for Future Sight. A Wooded Foothills on top of his deck came into play, and he gave it back with Discombobulate waiting for him. Sullivan Shocked him, then untapped and threw down a Firecat, taking the game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpdet03/a948.jpg)
+
+Sullivan dropped a Goblin Burrows and swung in. Benafel took four. Sullivan passed the turn with his mana open. Benafel fetched out a Mountain and cleared the board with Starstorm. He played a Grand Coliseum, and answered Sullivan’s Warchief with a Shock. He untapped and tapped out for Future Sight. A Wooded Foothills on top of his deck came into play, and he gave it back with Discombobulate waiting for him. Sullivan Shocked him, then untapped and threw down a Firecat, taking the game.
 
 Afterwards Benafel was inconsolable about his error. He should have Complicated the Warchief, saving his Shock. Then he could have untapped, played a Vegetation, and still had Shock back. Sullivan agreed it would have changed the game dramatically.
 

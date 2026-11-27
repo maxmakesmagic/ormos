@@ -111,7 +111,9 @@ From the day it was released, **Magic** was a runaway hit. For about a year and 
 
 Wizards, it turned out, was not just selling a game, but rather an entire experience. What good is a game if there's no one to play with? This philosophy led Wizards very early on (in late 1993) to create the Duelist Convocation (the “DC” of “DCI” – the later added I is for International). The DC(I) worked very hard to help tournament organizers from around the world run **Magic** tournaments.
 
-![](https://i.ormos.uk/0f/d7/0fd78786c4b97d0aace25005e3fe36aad82a3d0b3339b610d1daee3077af2fa4.jpg)And in 1995, all was going well. But then **Magic** Brand Manager Skaff Elias (one of Richard Garfield's original playtesters) felt that Organized Play needed to step up to the next level. There needed to be a structure to the tournament scene. Players had to have something to aspire to. And thus was created the Pro Tour (*very* briefly called the Black Lotus Tour). 
+![](https://i.ormos.uk/0f/d7/0fd78786c4b97d0aace25005e3fe36aad82a3d0b3339b610d1daee3077af2fa4.jpg)
+
+And in 1995, all was going well. But then **Magic** Brand Manager Skaff Elias (one of Richard Garfield's original playtesters) felt that Organized Play needed to step up to the next level. There needed to be a structure to the tournament scene. Players had to have something to aspire to. And thus was created the Pro Tour (*very* briefly called the Black Lotus Tour). 
 
 I started working full-time in the fall of 1995. Because I had been a judge before coming to Wizards, I suggested to Skaff that I should be the R&D representative to the Pro Tour team. He agreed. This meant that I was involved with the Pro Tour from early on. One of my fondest memories is the early Pro Tour team sitting around talking about how we wanted the Pro Tour to work. 
 
@@ -145,7 +147,9 @@ In the main event, after seven rounds, the tournament cut to the top sixteen (wi
 
 But Justice wasn't the only name in the Top Eight. Betrand Lestree was well known for coming in second to Zak Dolan at the very first World Championships. Eric Tam was the reigning Canadian National Champion. And George Baxter was a renowned author of **Magic** strategy books. 
 
-![](https://i.ormos.uk/6d/21/6d21ae9b2cc263f6e80e9205a3169cd4fcaf0571cd4b9649dbe85917ba655671.jpg)The finals between Loconto and Lestree would be a marathon event. Loconto was playing a white/blue Millstone deck while Lestree was playing a white/green Ernham/Armageddon deck. Both slow, controlling decks, the finals stretched on and on. I remember Bill Rose (the current VP of R&D) had left to have dinner with some friends who lived in New York. He left during the first game and returned after having a full dinner during the third game. All in all, the finals lasted four hours. And that was after the judges decided to make it two out of three rather than three out of five.
+![](https://i.ormos.uk/6d/21/6d21ae9b2cc263f6e80e9205a3169cd4fcaf0571cd4b9649dbe85917ba655671.jpg)
+
+The finals between Loconto and Lestree would be a marathon event. Loconto was playing a white/blue Millstone deck while Lestree was playing a white/green Ernham/Armageddon deck. Both slow, controlling decks, the finals stretched on and on. I remember Bill Rose (the current VP of R&D) had left to have dinner with some friends who lived in New York. He left during the first game and returned after having a full dinner during the third game. All in all, the finals lasted four hours. And that was after the judges decided to make it two out of three rather than three out of five.
 
 The first Pro Tour would be honored with two different products. The first was a series of eight decks (with unique backs) that duplicated the decks of the Top Eight. The second item was a video of the event put out by Wizards. (Like many events I'll touch upon, the story of the making of the video could be its own column. But I'll leave that for another day.) These two items helped spread the word of the Pro Tour. Players around the globe started playing with the decks and watching the matches. The buzz had begun.
 
@@ -165,7 +169,9 @@ When all was said and done, we realized that things were a bit rough and there w
 
 PT Los Angeles '96 was the first Pro Tour to use a limited format. And at the time, it was a bit controversial. Back in the day, it was believed that constructed was the only true skill-testing **Magic** format. Limited, even drafts, were too “luck based”. At least that was the claim by the Europeans. So, they didn't practice. I mean, what was the point? Then came the cut to Day Two. Sixty North Americans. Two Japanese. And two Europeans. Let's just say, the Europeans didn't make the same mistake twice.
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/PTBAR01/865.jpg)There are many memorable stories from Los Angeles, but I think the most important event was the finals itself. Shawn”Hammer” Regnier was a professional arm wrestler that had opened a game store. He found himself sucked into **Magic** and became one of the biggest names in New England. Los Angeles was where Hammer went from a local **Magic** celebrity to a global one. While Hammer drafted well, it was his ability to win games out of sheer mental domination that made this finals an instant classic.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/PTBAR01/865.jpg)
+
+There are many memorable stories from Los Angeles, but I think the most important event was the finals itself. Shawn”Hammer” Regnier was a professional arm wrestler that had opened a game store. He found himself sucked into **Magic** and became one of the biggest names in New England. Los Angeles was where Hammer went from a local **Magic** celebrity to a global one. While Hammer drafted well, it was his ability to win games out of sheer mental domination that made this finals an instant classic.
 
 This led to the finals were Hammer went up against his rival, a fellow New Englander, Tom Guevin. The two disliked each other and it showed. The five game final match took four and a half hours. The mood got so intense, Guevin is reported to have excused himself to the bathroom to throw up. Guevin put up a good fight, but Hammer seemed to have every answer; he appeared able to read Guevin's every move. 
 
@@ -210,11 +216,15 @@ No one at the time realized how big a star Rade would become.
  1) United States (Dennis Bentley, George Baxter, Mike Long, Matt Place)  
  2) Czech Republic (David Korejtko, Jakub Slemr, Ondrej Baudys, Lucas Kocourek)
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/ptsea04/jafeat1_2.jpg)The 1996 World Championships was held at Wizards of the Coast's corporate offices. While it was the third World Championships, it was the first one to be a Pro Tour. The big story of the tournament was Mark Justice's run at being the World Champion. While their were others making a play to be the “best **Magic** player in the word”, Justice held onto the title a little longer by being a hair's breath away from being the World Champion, the one title he most wanted. 
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/ptsea04/jafeat1_2.jpg)
+
+The 1996 World Championships was held at Wizards of the Coast's corporate offices. While it was the third World Championships, it was the first one to be a Pro Tour. The big story of the tournament was Mark Justice's run at being the World Champion. While their were others making a play to be the “best **Magic** player in the word”, Justice held onto the title a little longer by being a hair's breath away from being the World Champion, the one title he most wanted. 
 
 Justice showed up for the final in a three piece suit ready to claim his rightful title. But he was undone by an unkown Australian named Tom Chanpheng. Or as some like to tell it, by Justice himself. Responding to a Balance by Chanpheng that would destroy all the lands in play (in combination with Zuran Orb), Justice declared two Demonic Consultations (each for Dark Ritual) without seeing how the first would turn out. The Consultations ate through his deck so much that it cost him a game that many felt he should have won if he'd played it correctly. 
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTNY0001/images/528.jpg)Another tidbit about this event was one of the prizes, a one-of-a-kind card titled, appropriately, 1996 World Champion. The card was encased in the trophy. (I believe Chanpheng sold the trophy many years later to a collector for thousands of dollars.) 
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTNY0001/images/528.jpg)
+
+Another tidbit about this event was one of the prizes, a one-of-a-kind card titled, appropriately, 1996 World Champion. The card was encased in the trophy. (I believe Chanpheng sold the trophy many years later to a collector for thousands of dollars.) 
 
 In the team event, the Americans managed to win for the second year in a row. But the Czech Republic put up a very good fight proving that they were the number two country in **Magic**.
 
@@ -491,7 +501,9 @@ The event had numerous firsts. Finn Tommi Hovi became the first player to win tw
  7) Svend Geertsen (Denmark) – **3rd FINAL DAY**  
  8) Mike Long (United States) – **3rd FINAL DAY**
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTLA99/images/Awards.JPG)This was another Pro Tour of interesting footnotes. Jon Finkel on the heels of Olle Rade becomes the second person to ever hit the five Final day plateau. (In time, reaching the fifth Final Day appearance has come to become a very symbolic moment. Five Final Days means you have gone down in the history books as one the best.) Another future R&D member (Worth Wollpert) makes a Top Eight appearance. And the O'Mahoney Schwartz-Finkel final goes down as another classic final (the two were very good friends and would later play together on one of the first power-house teams for the upcoming team events).
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTLA99/images/Awards.JPG)
+
+This was another Pro Tour of interesting footnotes. Jon Finkel on the heels of Olle Rade becomes the second person to ever hit the five Final day plateau. (In time, reaching the fifth Final Day appearance has come to become a very symbolic moment. Five Final Days means you have gone down in the history books as one the best.) Another future R&D member (Worth Wollpert) makes a Top Eight appearance. And the O'Mahoney Schwartz-Finkel final goes down as another classic final (the two were very good friends and would later play together on one of the first power-house teams for the upcoming team events).
 
 **Pro Tour-New York (April 30 – May 2, 1999)  
  FORMAT: *Urza's Saga* Block Constructed (*Urza's Saga*, *Urza's Legacy*)**
@@ -505,7 +517,9 @@ The event had numerous firsts. Finn Tommi Hovi became the first player to win tw
  7) Nicolas Labarre (France) – **2nd FINAL DAY**  
  8) Terry Tsang (Canada)
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTNY99/images/McCarrel.jpg)While most of the players in this Top Eight did not have a previous Final Day appearance, many members would go on to be Top Eight staples. (One of the popular ways historically to judge the power level of a Top Eight is to add up all the Final Day appearances. This group's current number, for instance, is 26.)
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTNY99/images/McCarrel.jpg)
+
+While most of the players in this Top Eight did not have a previous Final Day appearance, many members would go on to be Top Eight staples. (One of the popular ways historically to judge the power level of a Top Eight is to add up all the Final Day appearances. This group's current number, for instance, is 26.)
 
 Another significance of this Pro Tour is that it showed the importance that Pro Tour teams were playing behind the scenes. The top two finishes, McCarrel and Keller (along with eighth place finisher Terry Tsang) had all worked together on a playtesting team named the Jumble. Rob Dougherty and Dave Humpherys were members of the premiere Boston team, Team Your Move Games, while Zvi was the newly added member of Team Mogg Squad, another very well known team. 
 
@@ -526,7 +540,9 @@ Another significance of this Pro Tour is that it showed the importance that Pro 
  1) United States (Kyle Rose, John Hunka, Zvi Mowshowitz, Charles Kornblith)  
  2) Germany (Marco Blume, Patrick Mello, David Brucker, Rosario Maij)
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/worlds99/images/champion.jpg)Kai Budde currently holds the record for the most Pro Tour wins at seven. 1999 World Championships is probably best known as Budde's first win. Budde had shown up at a few Pro Tours in the previous few years (his first event was playing in the last Junior Pro Tour at the Pro Tour New York won by Terry Borer), but it wasn't until he swept four Grand Prix in a row (going second, first, first, first) that the Pro Tour regulars started to take notice. Even then, it would be years before Budde would topple Finkel from the top spot.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/worlds99/images/champion.jpg)
+
+Kai Budde currently holds the record for the most Pro Tour wins at seven. 1999 World Championships is probably best known as Budde's first win. Budde had shown up at a few Pro Tours in the previous few years (his first event was playing in the last Junior Pro Tour at the Pro Tour New York won by Terry Borer), but it wasn't until he swept four Grand Prix in a row (going second, first, first, first) that the Pro Tour regulars started to take notice. Even then, it would be years before Budde would topple Finkel from the top spot.
 
 Budde's win was crushing as he defeated Le Pine in the shortest amount of time Pro Tour final in history (somewhere around twenty minutes). Germany also proved their strength in the team event as they came very close to taking the team title. But in the end, the US took their fourth team title. Budde's win did allow him to take the title of Pro Player of the Year.
 
@@ -538,7 +554,9 @@ Budde's win was crushing as he defeated Le Pine in the shortest amount of time P
 1) Team Your Move Game \[Rob Dougherty (United States) – **2nd FINAL DAY**, Dave Humpherys (United States) – **2nd FINAL DAY**, Darwin Kastle (United States) – **4th FINAL DAY**\]  
  2) Team Game Empire \[Kurt Burgner (United States) – **2nd FINAL DAY**, Alan Comer (United States) – **3rd FINAL DAY**, Brian Selden (United States) – **2nd FINAL DAY**\] 3) Team Antarctica \[Jon Finkel (United States) – **6th FINAL DAY**, Dan O'Mahoney-Schwartz (United States), Steven O'Mahoney-Schwartz (United States) – **3rd FINAL DAY**\] 4) Team THL \[Marc Aquino (United States), Richard Jones (United States), Drew McLean (United States)\]
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTDC99/images/yourmovegames.jpg)Pro Tour Washington D.C. was the introduction of the team format. The event was won by Team Your Move Games, one of the highest profile Pro teams on the tour. The interesting story of the event was a food poisoning that took out many of the players and staff. One player was Rob Dougherty, who played the finals sick as a dog. (It's interesting to note that the one other high profile “playing the finals sick” was none other than teammate Darwin Kastle at the **Magic** Invitational in Rio de Janeiro.) Dougherty managed to win his finals match despite having to take a few bathroom breaks.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTDC99/images/yourmovegames.jpg)
+
+Pro Tour Washington D.C. was the introduction of the team format. The event was won by Team Your Move Games, one of the highest profile Pro teams on the tour. The interesting story of the event was a food poisoning that took out many of the players and staff. One player was Rob Dougherty, who played the finals sick as a dog. (It's interesting to note that the one other high profile “playing the finals sick” was none other than teammate Darwin Kastle at the **Magic** Invitational in Rio de Janeiro.) Dougherty managed to win his finals match despite having to take a few bathroom breaks.
 
 This finals has the distinction of being only one of two Pro Tours where all the players on the final day were from the same country (both this and PT LA I were all-American finals). In addition, Finkel became the first player to have six Final Day appearances.
 
@@ -596,7 +614,9 @@ The story of this tournament was yet another controversy concerning **Magic's** 
  7) Travis Turning (United States)  
  8) John Hunka (United States) 
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTNY00/images/AwardsEskeland.jpg)Due to the birth of my daughter Rachel, this was the first Pro Tour I ever missed. I am told that this wins the title of most boring format every played at a Pro Tour. The entire field broke down to two decks (Rebels and Rising Waters) both of which were painfully slow, especially when they played their mirror or each other. The event was won by popular Norwegian Sigurd Eskeland.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/PTNY00/images/AwardsEskeland.jpg)
+
+Due to the birth of my daughter Rachel, this was the first Pro Tour I ever missed. I am told that this wins the title of most boring format every played at a Pro Tour. The entire field broke down to two decks (Rebels and Rising Waters) both of which were painfully slow, especially when they played their mirror or each other. The event was won by popular Norwegian Sigurd Eskeland.
 
 **2000 Worlds Championship – Brussels, Belgium (August 2-6, 2000)  
  FORMATS: *Mercadian Masques* Block Booster Draft (*Mercadian Masques*, *Nemesis*, *Prophecy*), *Mercadian Masques* Block Constructed (*Mercadian Masques*, *Nemesis*, *Prophecy*), Standard**
@@ -615,7 +635,9 @@ The story of this tournament was yet another controversy concerning **Magic's** 
  1) United States (Jon Finkel, Chris Benafel, Frank Hernandez, Aaron Forsythe)  
  2) Canada (Ryan Fuller, Murray Evans, Gab Tsang, Sam Lau)
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/worlds2000/images/Trophy.jpg)Finkel's results had fallen off. He decided to put some energy to brining his game back up to speed. During the summer of 2000, Finkel won US Nationals and the World Championships as both an individual and as the captain of the US Team (a feat that had never before been accomplished). Clearly, Finkel was still number 1.
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/worlds2000/images/Trophy.jpg)
+
+Finkel's results had fallen off. He decided to put some energy to brining his game back up to speed. During the summer of 2000, Finkel won US Nationals and the World Championships as both an individual and as the captain of the US Team (a feat that had never before been accomplished). Clearly, Finkel was still number 1.
 
 The finals of this Pro Tour is another one often picked as one of the greatest finals in Pro Tour history. Jon Finkel faced off against friend and team member Bob Maher. The two were playing identical decks with just a one card difference. The first game between the two is one of the most exciting games played in a Pro Tour final. The game swung back and forth as each player seemed to be clinching the game only to see the other player wrest it away.
 

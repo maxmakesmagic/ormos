@@ -54,7 +54,9 @@ Battle like the best. Includes 60 tournament-ready cards and an *Ice Age* rulebo
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/93/64/9364decce8b55568f3f91ac3d0b5a77b33b8674419a8df7a02d2e7ba7dd70fb4.png)Originally released in June 1995, *Ice Age* was the first true stand-alone expansion, with 383 cards. It’s compatible with the basic game, but contains enough land and spells to play on its own.
+![](https://i.ormos.uk/93/64/9364decce8b55568f3f91ac3d0b5a77b33b8674419a8df7a02d2e7ba7dd70fb4.png)
+
+Originally released in June 1995, *Ice Age* was the first true stand-alone expansion, with 383 cards. It’s compatible with the basic game, but contains enough land and spells to play on its own.
 
 **S**e**t Name:** *Ice Age*  
 **Block:** Set 1 of 3 of the *Ice Age* Block  

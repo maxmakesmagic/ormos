@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/d6/94/d694795aff41330f0fc0e14b8d2f54778513913a10884f4d5cf0aaf6f82739df.jpg)Gabe Walls is running a Rock deck featuring everybody's favorite [Troll Ascetic](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troll+Ascetic) while Mike Abraham is playing the [Hermit Druid](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hermit+Druid) deck capable of a turn two kill. Both players were 9-3 at the start of the round with a loss knocking the loser out of Top 8 contention.
+![](https://i.ormos.uk/d6/94/d694795aff41330f0fc0e14b8d2f54778513913a10884f4d5cf0aaf6f82739df.jpg)
+
+Gabe Walls is running a Rock deck featuring everybody's favorite [Troll Ascetic](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troll+Ascetic) while Mike Abraham is playing the [Hermit Druid](https://web.archive.org/web/20031214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hermit+Druid) deck capable of a turn two kill. Both players were 9-3 at the start of the round with a loss knocking the loser out of Top 8 contention.
 
 Gabe won the all-decisive die roll and decided to play first. After shuffling each other's deck and a brief dispute about where on the playmat Mike should keep his library, the match was underway.
 

@@ -54,7 +54,9 @@ render_recovery: []
 ---
 *Josh Bennett*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/954.jpg)This round saw visiting would-be conquerors Antarctica square off against Team T.T.T., Taiwan's best limited team. The winner would be at a comfortable 5-0, looking good for the dreaded Day 2.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/954.jpg)
+
+This round saw visiting would-be conquerors Antarctica square off against Team T.T.T., Taiwan's best limited team. The winner would be at a comfortable 5-0, looking good for the dreaded Day 2.
 
 In a battle of diabolical masterminds, Jon Finkel faced down the unflappable Doctor Wong. The Doctor was on the offensive early with Galina's Knight, and Finkel took it, building his defense with Angelic Shield, Tower Drake and Benalish Heralds. Wong made a Metathran Aerostat, and Maliced the card-drawer. Finkel rescued with the Shield. He was behind in the race, and Wong turned up the pressure with a kicked Faerie Squadron.
 
@@ -62,7 +64,9 @@ Things were looking better for the Antarcticans in Dan OMS's match. Dell Sun had
 
 Steve OMS and Tsu-Ching Kuo were stuck in the Red-Black mirror. Though it seemed Kuo had the upper hand, with Duskwalker and Pouncing Kavu, both kicked, OMS kept the pressure off with a Nightscape Familiar. It soon found Sinister Strength, further frustrating Kuo's attacks.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/953.jpg)Finkel tried to bait Wong into his Exclude, Repulsing his Squadron, but Wong was too busy destroying Finkel's creatures. First the Heralds fell to an Agonizing Demise, then Exotic Curse took out his Tower Drake. Wong then had the gall to Probe with kicker. Finkel finally tapped out for Faerie Squadron. Wong recast his.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/953.jpg)
+
+Finkel tried to bait Wong into his Exclude, Repulsing his Squadron, but Wong was too busy destroying Finkel's creatures. First the Heralds fell to an Agonizing Demise, then Exotic Curse took out his Tower Drake. Wong then had the gall to Probe with kicker. Finkel finally tapped out for Faerie Squadron. Wong recast his.
 
 Scorching Lava took out Steve OMS's Familiar, and Kuo's creatures poured into the breach. Steve blocked as best as he could, but had no gas of his own. A Kavu Runner from Kuo ended the game in his favor.
 
@@ -70,7 +74,9 @@ Both Dan and Dell were slow to start their second game. This suited Dell just fi
 
 Meanwhile, Finkel folded like the Sunday paper after Wong brought back a pair of dudes with Urborg Uprising and then continued his mad card-advantage rumble with Benalish Heralds.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/952.jpg)Dan OMS held his head in his hands, realizing that his best option was to drop Alpha Kavu and Phyrexian Rager, and hope that Dell was out of gas. When Dell passed the turn back, his mood brightened.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptaipei01/952.jpg)
+
+Dan OMS held his head in his hands, realizing that his best option was to drop Alpha Kavu and Phyrexian Rager, and hope that Dell was out of gas. When Dell passed the turn back, his mood brightened.
 
 Steve OMS had to face a Flametongue Kavu twice, and that's never a good thing. He Bogged Kuo down, removing Plague Spores, Pouncing Kavu, and Shivan Emissary, but Kuo held onto Recover, bringing back the brutal uncommon. OMS's last hope was a Dwarven Patrol, and Kuo topdecked Agononizing Demise to end their match with style.
 

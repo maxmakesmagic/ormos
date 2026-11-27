@@ -69,7 +69,9 @@ The foundation for exciting Sealed Deck play. Includes 45 randomly assorted card
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/4f/e7/4fe701dc6d2788a16f1b6765521f04649083f44ae021427859d6b8a81fbf21f9.png)This 306-card, black-bordered set introduces several new mechanics to **Magic** (Imprint, Affinity, and Entwine) as well as the new Equipment card type, adding power and reusability to your deck.
+![](https://i.ormos.uk/4f/e7/4fe701dc6d2788a16f1b6765521f04649083f44ae021427859d6b8a81fbf21f9.png)
+
+This 306-card, black-bordered set introduces several new mechanics to **Magic** (Imprint, Affinity, and Entwine) as well as the new Equipment card type, adding power and reusability to your deck.
 
 **Set Name:** *Mirrodin*  
 **Block:** Set 1 of 3 of the *Mirrodin* Block  

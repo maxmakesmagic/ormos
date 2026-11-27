@@ -90,7 +90,9 @@ render_recovery:
 ---
 Ah, the final eight. After fourteen rounds of swiss in different formats, the best of Europe gain the right to fight it out for the ultimate glory. These guys have proved their worth...but who on earth are they?
 
-![](http://www.wizards.com/sideboard/images/euro03/a862.jpg)Thomas is from France, and has been playing since *Antiquities*. He is a regular teammate of Pierre Malherbaud in team events since 1999, and they finished seventh in Boston this season with Karim Aouidad. This is apparently not the finest thing with the team, though, as Pierre told me very happily that they always make it to the semifinals of the French team nationals (?). Jussi is a Finn (Yeah!), and started playing during Revised. His accomplishments include top 64 at Pro Tour Nice and top 16 at Grand Prix Oslo 2001. He also sings in the church boy choir Cantores Minores, which is quite popular in Japan.
+![](http://www.wizards.com/sideboard/images/euro03/a862.jpg)
+
+Thomas is from France, and has been playing since *Antiquities*. He is a regular teammate of Pierre Malherbaud in team events since 1999, and they finished seventh in Boston this season with Karim Aouidad. This is apparently not the finest thing with the team, though, as Pierre told me very happily that they always make it to the semifinals of the French team nationals (?). Jussi is a Finn (Yeah!), and started playing during Revised. His accomplishments include top 64 at Pro Tour Nice and top 16 at Grand Prix Oslo 2001. He also sings in the church boy choir Cantores Minores, which is quite popular in Japan.
 
 Thomas went 5-1-1 in standard, while Jussi achieved a 7-0 record. Of note is the fact that his Zombie deck beat four red-green opponents.
 
@@ -109,7 +111,9 @@ Thomas 1 – 0 Jussi
 
 Thomas finds it funny that Jussi got flooded so much, as in his testing group the Zombie deck required more than 24 lands.
 
-![](http://www.wizards.com/sideboard/images/euro03/a861.jpg)There are many different ways for both players to sideboard. Thomas can simply take in all eight creatures and two Plagues, or opt for the Persecutes instead. Jussi brings in Sludges and Edicts, but whether he should have Echoes or some additional Smother depends on how Thomas boards. But what happened was the following:
+![](http://www.wizards.com/sideboard/images/euro03/a861.jpg)
+
+There are many different ways for both players to sideboard. Thomas can simply take in all eight creatures and two Plagues, or opt for the Persecutes instead. Jussi brings in Sludges and Edicts, but whether he should have Echoes or some additional Smother depends on how Thomas boards. But what happened was the following:
 
 Jussi -4 Smother – 1 Wretch -2 Butcher + 2 Sludge +2 Echoes +2 Edict +1 Corrupt  
  Thomas: -1 Visara -2 Gladiator -1 Duress -1 Sludge +2 Plague +1 Echoes +2 Persecute

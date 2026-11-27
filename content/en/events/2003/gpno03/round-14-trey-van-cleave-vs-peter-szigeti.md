@@ -381,7 +381,9 @@ render_recovery:
   - Submerge
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpno03/a939.jpg)After a long debate whether or not to draw, PTR and TVC sat down to game. These two have a long and sordid history with each other. As recently as GP Los Angeles (Trey's return to Magic after a DCI-enforced sabbatical), Szigeti went out of his way to antagonize and harass. If these two drew, they would both most likely make the top 16, but if they played, one had an outside chance to make the top 8. This seems like the perfect opportunity for Van Cleave to take revenge on his outspoken nemesis.
+![](http://www.wizards.com/sideboard/images/gpno03/a939.jpg)
+
+After a long debate whether or not to draw, PTR and TVC sat down to game. These two have a long and sordid history with each other. As recently as GP Los Angeles (Trey's return to Magic after a DCI-enforced sabbatical), Szigeti went out of his way to antagonize and harass. If these two drew, they would both most likely make the top 16, but if they played, one had an outside chance to make the top 8. This seems like the perfect opportunity for Van Cleave to take revenge on his outspoken nemesis.
 
 ### Game 1
 
@@ -401,7 +403,9 @@ PTR: "Why should it matter if I pick one?"
 
 Trey's slow and methodical play, especially given that he was playing an aggressive red deck, seemed to grow on PTR's patience. Szigeti scowled, even as flashing back Deep Analysis and getting Aquamoeba + Basking Rootwalla into play. Even as Trey tapped mana to activate his artifact again, Szigeti angrily snatched the die off the table. In response, Trey repeatedly asked to see Szigeti's graveyard. 
 
-![](http://www.wizards.com/sideboard/images/gpno03/a941.jpg)The game ground to even more of a halt as Van Cleave attempted to cast a second Cursed Scroll with Peter at eight life. Peter responded with Intuition (which brought Roar of the Wurm to his hand and sent two Wonders to the bin). This allowed him to cast Circular Logic with enough cards in graveyard to stop the bleeding. It also made his Aquamoeba a 3/1, allowing Trey to clear the board with a Scroll activation plus a Mogg Fanatic. 
+![](http://www.wizards.com/sideboard/images/gpno03/a941.jpg)
+
+The game ground to even more of a halt as Van Cleave attempted to cast a second Cursed Scroll with Peter at eight life. Peter responded with Intuition (which brought Roar of the Wurm to his hand and sent two Wonders to the bin). This allowed him to cast Circular Logic with enough cards in graveyard to stop the bleeding. It also made his Aquamoeba a 3/1, allowing Trey to clear the board with a Scroll activation plus a Mogg Fanatic. 
 
 PTR rushed through his next couple of turns, hard-casting Roar of the Wurm, and then flashing it back with Waterfront Bouncer support. Trey meanwhile whittled away at the life count, but ended up on the wrong end of an 11-5 life total—even though he was technically ahead, the two flying Wurms would end the game faster than the remaining Mogg Fanatic plus the one activation of Cursed Scroll left. Trey drew—Blistering Firecat. The hasting trampler came down full fury, forcing a block and getting through a point of trample damage. This gave Trey the exact edge he needed to win the game.
 
@@ -417,7 +421,9 @@ A second Mogg Fanatic took one for the team to kill Waterfront Bouncer. Trey loo
 
 Arrogant Wurm once again came down for five mana, except this time it swung across and empty board. Trey began building up his side again with a second Scroll and a Powder Keg of his own. After a couple of swings, the burn deck found a Volcanic Hammer to combine with the one casting cost artifact to kill the big creature. 
 
-![](http://www.wizards.com/sideboard/images/gpno03/a940.jpg)The whole while, Trey decided to hold back putting counters on his own Powder Keg. This gave Szigeti the opportunity to draw a Powder Keg of his own, which summarily dismissed Cursed Scroll from the game. If Van Cleave had put even a single counter on his Keg, he would have been able to save his more important artifact. It took an Aquamoeba (the first play of the game after several turns of land-laying) to finally prompt Van Cleave to build up his boom-device.
+![](http://www.wizards.com/sideboard/images/gpno03/a940.jpg)
+
+The whole while, Trey decided to hold back putting counters on his own Powder Keg. This gave Szigeti the opportunity to draw a Powder Keg of his own, which summarily dismissed Cursed Scroll from the game. If Van Cleave had put even a single counter on his Keg, he would have been able to save his more important artifact. It took an Aquamoeba (the first play of the game after several turns of land-laying) to finally prompt Van Cleave to build up his boom-device.
 
 The game stopped with twelve minutes left in the round as Trey cast Flametongue Kavu. PTR assumed that the targeting from the killer creature had already been decided, so he responded by discarding Arrogant Wurm to the Aquamoeba. Trey thought that the madness occurred in response to the FTK, so he wanted to kill the 4/4 trampler. Colin Jackson came in to adjudicate the situation, ruling in favor of PTR. 
 

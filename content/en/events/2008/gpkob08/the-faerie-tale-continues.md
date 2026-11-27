@@ -481,7 +481,9 @@ Katsuya Ueda defeats Naoki Shimizu 2-1
 
     *by Tim Willoughby*
 
-![](https://i.ormos.uk/a9/4f/a94ff5ae4516025376514cbe997eac42e961c4e23fdb06f4d71e4afeee061110.jpg)Shuuhei Nakamura is one of those players who I see everywhere, because essentially, if there is a premier event happening, he *will* be there. For GP Kobe, he seemed particularly excited about his deck, and judging by his performance thus far, this feeling is entirely justified. 
+![](https://i.ormos.uk/a9/4f/a94ff5ae4516025376514cbe997eac42e961c4e23fdb06f4d71e4afeee061110.jpg)
+
+Shuuhei Nakamura is one of those players who I see everywhere, because essentially, if there is a premier event happening, he *will* be there. For GP Kobe, he seemed particularly excited about his deck, and judging by his performance thus far, this feeling is entirely justified. 
 
 Designed by Yuuya Watanabe, the PWC Special (named after the Planeswalker’s Cup, a big tournament run in Tokyo of which Yuuya is the current champion) could equally easily be described as ‘The Greedy Man Special’.
 
@@ -580,7 +582,9 @@ Between them, Jim and Chippy have been really busy this weekend, and judging fro
 
     *by Tim Willoughby*
 
-![](https://i.ormos.uk/54/7a/547a6c375f15530d2d47483f5db8f3aada62738a342452e827edea37be9dce2a.jpg)The quarterfinals of Grand Prix Kobe suddenly saw a crowd descend on the feature match area. Now there was only one place where the action would happen, and everyone was keen to get the best spot. With four great matches to choose from, I elected to get my seat in on the action looking at Takayuki Takagi and Hiroshi Yosida. It was no coincidence that from here I had a clear view of what GP Shizuoka winner Yuuta Takahashi was up to. The crowd favourite to win the whole show, Takahashi had a faeries mirror in the quarterfinals. He has plent y of practice with them though, having had to win one in Shizuoka against Olivier Ruel to win his last title.
+![](https://i.ormos.uk/54/7a/547a6c375f15530d2d47483f5db8f3aada62738a342452e827edea37be9dce2a.jpg)
+
+The quarterfinals of Grand Prix Kobe suddenly saw a crowd descend on the feature match area. Now there was only one place where the action would happen, and everyone was keen to get the best spot. With four great matches to choose from, I elected to get my seat in on the action looking at Takayuki Takagi and Hiroshi Yosida. It was no coincidence that from here I had a clear view of what GP Shizuoka winner Yuuta Takahashi was up to. The crowd favourite to win the whole show, Takahashi had a faeries mirror in the quarterfinals. He has plent y of practice with them though, having had to win one in Shizuoka against Olivier Ruel to win his last title.
 
 Yosida watched his opponent mulligan, and kept a strong hand himself. On the draw, he saw an early Treefolk Harbinger to fetch Murmuring Bosk on the other side of the board, but was happy not to find a Doran, The Siege Tower, immediately after. 
 
@@ -620,7 +624,9 @@ When Takagi swung in with his entire team, Yosida had to extend his hand. He was
 
 Takayuki Takagi defeats Hirosi Yosida 2-1 and advances to the semifinals!
 
-![](https://i.ormos.uk/f7/98/f7984e42e1b1137d9abcd7e6bc7a8251a6d0fcbdb8a75b448b12aca2ecb90d03.jpg)Game 3 of the faerie mirror looked tight. Both players had Bitterblossom, and Ueda had aggressively countered Mistbind Clique with Familiar’s Ruse, but being a little short on coloured mana, this left him entirely open to Takahashi’s resolving a second Bitterblossom – with mana up to play another Mistbind Clique in Ueda’s upkeep. The faerie was hit by Cryptic Command, but again this forced Ueda to virtually tap out, meaning that Takahashi could resolve spells for fun if he wished. Takahashi chose to hold mana back to stop whatever came from his opponent. He had an aggressive clock in the form of his Bitterblossoms, and at this point could afford to take control.
+![](https://i.ormos.uk/f7/98/f7984e42e1b1137d9abcd7e6bc7a8251a6d0fcbdb8a75b448b12aca2ecb90d03.jpg)
+
+Game 3 of the faerie mirror looked tight. Both players had Bitterblossom, and Ueda had aggressively countered Mistbind Clique with Familiar’s Ruse, but being a little short on coloured mana, this left him entirely open to Takahashi’s resolving a second Bitterblossom – with mana up to play another Mistbind Clique in Ueda’s upkeep. The faerie was hit by Cryptic Command, but again this forced Ueda to virtually tap out, meaning that Takahashi could resolve spells for fun if he wished. Takahashi chose to hold mana back to stop whatever came from his opponent. He had an aggressive clock in the form of his Bitterblossoms, and at this point could afford to take control.
 
 A Scion of Oona in combat was countered by a Spellstutter Sprite from Ueda. When Ueda tried to follow up with his own upkeep Mistbind Clique though, it was stopped by a Cryptic Command, which also drew Takahashi a card. 
 
@@ -651,7 +657,9 @@ To make matters worse, Yoshimori then mulliganed, and had to Treefolk Harbinger 
 
 Ootsuka continued to swing through in the air with his Faerie Rogues, this time a Spellstutter Sprite sacrificing itself to the Colossus for the greater good. With more Mutavaults in play now, it looked like Ootsuka had a pretty good shot at continuing to chump the Colossus until his Faeries could bring it home. A Profane Command dropped Ootsuka to 6 and reanimated Doran, making Yoshimori’s pair of Treefolk Harbingers particularly threatening, forcing him to chump with the two freshest Faeries and a Mutavault. Ootsuka dropped to 4 and swung back, leaving just enough Faeries and his last Mutavault to keep Yoshimori from killing him, before he finally dropped to 2 and attacked for the win.
 
-![](https://i.ormos.uk/e1/bc/e1bccf1b36246835e8eeea500e5899220262c536939ea0a74bbb3f5314d694bd.jpg)Ootsuka’s turn two Bitterblossom was answered by Yoshimori’s turn three Doran. It seemed that both players had kept strong hands indeed. The first swing from Doran went unblocked, allowing Ootsuka to start attacking back before playing... you guessed it, yet another Bitterblossom. Yoshimori considered the end of Ootsuka’s turn a good time to Evoke a Cloudthresher, and when Ootsuka made a Spellstutter Speedbump, err, I mean Spellstutter Sprite, Yoshimori brushed it aside with a Nameless Inversion to get another five damage through, and added a Wolf-Skull Shaman to his team. It wasn’t long before another Evoked Cloudthresher had Ootsuka reaching for his sideboard. 
+![](https://i.ormos.uk/e1/bc/e1bccf1b36246835e8eeea500e5899220262c536939ea0a74bbb3f5314d694bd.jpg)
+
+Ootsuka’s turn two Bitterblossom was answered by Yoshimori’s turn three Doran. It seemed that both players had kept strong hands indeed. The first swing from Doran went unblocked, allowing Ootsuka to start attacking back before playing... you guessed it, yet another Bitterblossom. Yoshimori considered the end of Ootsuka’s turn a good time to Evoke a Cloudthresher, and when Ootsuka made a Spellstutter Speedbump, err, I mean Spellstutter Sprite, Yoshimori brushed it aside with a Nameless Inversion to get another five damage through, and added a Wolf-Skull Shaman to his team. It wasn’t long before another Evoked Cloudthresher had Ootsuka reaching for his sideboard. 
 
 Game 3 started out very badly for Ootsuka, who couldn’t find an opening hand worth keeping and opted to mulligan to five, eventually keeping a hand with only a single land. Yoshimori wasted no time fetching a Murmuring Bosk with his Treefolk Harbinger to allow him to build up to something big. He cleared the way with a Thoughtseize on his third turn and seeing Spellstutter Sprite, Thoughtseize, Nameless Inversion, Shriekmaw, Cryptic Command and a Scion of Oona that was chucked aside. Ootsuka drew a second Island, indicating that the coast was clear for Yoshimori to resolve whatever he had, but it turned out he was missing a fourth land, and could only pass it back without play. But don’t get your hopes up for poor Ootsuka, Yoshimori found the land he needed on the following turn and a Chameleon Colossus came down to mop up what was left of Ootsuka’s double mulligan. 
 
@@ -687,7 +695,9 @@ Masayasu, meanwhile, was drawing thin. He looked at the opposing army, which wou
 
 Yuuta Takahashi 1 – 0 Masayasu Tanahashi 
 
-![](https://i.ormos.uk/cd/a9/cda9a7154e43374a4d7a29e17acd620588083c2328c262ece8b899320069152d.jpg)Masayasu exploded out of the gates in Game 2, with a turn one Goldmeadow Stalwart, turn two Knight of Meadowgrain. In this time, Yuuta, understandably, did comparatively little. It wsan’t until he played Nameless Inversion on Knight of Meadowgrain that he had played a spell at all. Masayasu had a Wizened Cenn to replace it, but there was a Stillmoon Cavalier from Yuuta, who would prove quite the blocker. 
+![](https://i.ormos.uk/cd/a9/cda9a7154e43374a4d7a29e17acd620588083c2328c262ece8b899320069152d.jpg)
+
+Masayasu exploded out of the gates in Game 2, with a turn one Goldmeadow Stalwart, turn two Knight of Meadowgrain. In this time, Yuuta, understandably, did comparatively little. It wsan’t until he played Nameless Inversion on Knight of Meadowgrain that he had played a spell at all. Masayasu had a Wizened Cenn to replace it, but there was a Stillmoon Cavalier from Yuuta, who would prove quite the blocker. 
 
 Masayasu was unafraid. His next recruits were Figure of Destiny and Wispmare. Team Kithkin had an elemental on their side, and in total they were ready for business. Everything but Wizened Cenn attacked. Yuuta blocked the Figure of Destiny. Post-combat Windbrisk Heights brought a Cloudgoat Ranger, but it was stopped by Cryptic Command, which also bounced Wizened Cenn, meaning that Figure of Destiny was destined to die also. Nice spell.
 
@@ -707,7 +717,9 @@ Yuuta Takahashi defeats Masayasu Tanahashi 2 – 0, advancing to the finals!
 
     *by Ray “blisterguy” Walkinshaw*
 
-![](https://i.ormos.uk/71/cb/71cbd7f7468035f9146b87ffe49b4b3294c078bdd712250adbe089baa81bd43d.jpg)While this match may appear to be a Doran, the Siege Tower Mirror, Takayuki Takagi’s build is a little more aggressive, leading as he did in this game, with Wilt-Leaf Cavaliers and following it with a Chameleon Colossus. Shou Yoshimori assembled a defense with Doran himself and a Chameleon Colossus of his own, backed up by a Wolf-Skull Shaman. Takagi’s Cavalier went down to a well-timed Nameless Inversion, but he replaced it with another Colossus. Takagi continued to attack, trading one of his Colossi for Yoshimori’s while the other began to eat one after another of Yoshimori’s blockers. Eventually Yoshimori dared to attack with his Doran, before playing a Wren’s Run Vanquisher to hold off the Colossus. Takagi pumped his fist, promptly untapped and threw a Profane Command onto the table, killing the Vanquisher and doming Yoshimori for enough to make his attack step lethal. 
+![](https://i.ormos.uk/71/cb/71cbd7f7468035f9146b87ffe49b4b3294c078bdd712250adbe089baa81bd43d.jpg)
+
+While this match may appear to be a Doran, the Siege Tower Mirror, Takayuki Takagi’s build is a little more aggressive, leading as he did in this game, with Wilt-Leaf Cavaliers and following it with a Chameleon Colossus. Shou Yoshimori assembled a defense with Doran himself and a Chameleon Colossus of his own, backed up by a Wolf-Skull Shaman. Takagi’s Cavalier went down to a well-timed Nameless Inversion, but he replaced it with another Colossus. Takagi continued to attack, trading one of his Colossi for Yoshimori’s while the other began to eat one after another of Yoshimori’s blockers. Eventually Yoshimori dared to attack with his Doran, before playing a Wren’s Run Vanquisher to hold off the Colossus. Takagi pumped his fist, promptly untapped and threw a Profane Command onto the table, killing the Vanquisher and doming Yoshimori for enough to make his attack step lethal. 
 
 Yoshimori kept his hand going into Game 2, but Takagi decided within seconds to ditch his for the chance at something better. A Treefolk Harbinger searched up another on Yoshimori’s first turn, suggesting that he would no doubt be following them up with a Doran. Sure enough, the second Harbinger on turn two tutored for the Legend. When it came into play, only a single Harbinger made it through for three while the other succumbed to a Nameless Inversion. Takagi could only pass his third turn and take eight on the nose from the incoming Trees. He played a fourth turn Colossus, which was enough to stop Yoshimori’s attack in it’s tracks for a turn. 
 

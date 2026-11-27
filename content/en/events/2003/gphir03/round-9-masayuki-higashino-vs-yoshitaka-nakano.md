@@ -98,7 +98,9 @@ render_recovery:
   - Thran Foundry
   occurrences: 57
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a963.jpg)Masayuki Higashino might not look menacing, with his gentle rounded features and bundled up in his great coat, but don't be fooled. Higashino has earned his reputation as Japan's thug extraordinaire. At the last Grand Prix – Hiroshima, it was Higashino who walked away with the title. Today he's playing against type, red beatdown instead of black. Yoshitaka Nakano is a friend of Higashino's, and both hail from Osaka, and has taken up the black cards in Higashino's stead. He's no slouch, either, appearing in the Top 8 of Japanese Nationals in 2002.
+![](http://www.wizards.com/sideboard/images/gphir03/a963.jpg)
+
+Masayuki Higashino might not look menacing, with his gentle rounded features and bundled up in his great coat, but don't be fooled. Higashino has earned his reputation as Japan's thug extraordinaire. At the last Grand Prix – Hiroshima, it was Higashino who walked away with the title. Today he's playing against type, red beatdown instead of black. Yoshitaka Nakano is a friend of Higashino's, and both hail from Osaka, and has taken up the black cards in Higashino's stead. He's no slouch, either, appearing in the Top 8 of Japanese Nationals in 2002.
 
 ### Game 1
 
@@ -110,7 +112,9 @@ Higashino 1 - Nakano 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gphir03/a964.jpg)Nakano had no illusions about his chances for Game 2. His hand was a middling affair with four land and few beats. He hoped for the best. Higashino matched his Carnophage with Jackal Pup. Nakano shrugged and paid the life to keep his zombie active. He dropped Dauthi slayer and handed it over.
+![](http://www.wizards.com/sideboard/images/gphir03/a964.jpg)
+
+Nakano had no illusions about his chances for Game 2. His hand was a middling affair with four land and few beats. He hoped for the best. Higashino matched his Carnophage with Jackal Pup. Nakano shrugged and paid the life to keep his zombie active. He dropped Dauthi slayer and handed it over.
 
 Higashino swung in, trading his Pup for the Carnophage, then dropped Mogg Fanatic and Grim Lavamancer, whistling innocently. Nakano drew and found he had no more creatures to play. He tried Cabal Therapy for Volcanic Hammer, and saw instead Powder Keg and Flametongue Kavu. 
 

@@ -357,7 +357,9 @@ Lors de *La sélection de la Neuvième édition*, les lecteurs ont eu la chance 
 
 **Ouragan**
 
-![](https://i.ormos.uk/62/a1/62a1b8563db8c75f273162845f792141acee39b2d223d5f42dca0adba4301e99.jpg)Et, pour le vote sur le dernier texte d’ambiance, c’est le texte de Molimo, maro-sorcier imaginé par Doug Beyer qui l’emporte de très peu sur Matt Cavotta.
+![](https://i.ormos.uk/62/a1/62a1b8563db8c75f273162845f792141acee39b2d223d5f42dca0adba4301e99.jpg)
+
+Et, pour le vote sur le dernier texte d’ambiance, c’est le texte de Molimo, maro-sorcier imaginé par Doug Beyer qui l’emporte de très peu sur Matt Cavotta.
 
 <table><tbody><tr><td>Doug Beyer</td>&#10;<td>6866</td>&#10;<td>55.9%</td>&#10;</tr>&#10;<tr><td>Matt Cavotta</td>&#10;<td>5419</td>&#10;<td>44.1%</td>&#10;</tr>&#10;<tr><td><b>Totals</b></td>&#10;<td><b>12285</b></td>&#10;<td><b>100%</b></td>&#10;</tr>&#10;</tbody></table>
 

@@ -45,7 +45,9 @@ archive_source:
   sha256: b5dc13d9159e6e604d2b9cb2db7a53d1406afb0ff89eea093dc530ab62139248
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ky03/969.jpg)Kyle Eden, is an engineering student at the University of Kentucky, and is originally from Missouri. He has some small success in Magic tournaments around the way, but has always been thought of as a limited player. His most recent top eight was at the Scourge Prerelease, and he is looking to add a constructed top eight to his credit. Ryan Nunn representing Western Kentucky, had qualified for two Pro Tours in the past, Rome and New Orleans. 
+![](http://www.wizards.com/sideboard/images/ky03/969.jpg)
+
+Kyle Eden, is an engineering student at the University of Kentucky, and is originally from Missouri. He has some small success in Magic tournaments around the way, but has always been thought of as a limited player. His most recent top eight was at the Scourge Prerelease, and he is looking to add a constructed top eight to his credit. Ryan Nunn representing Western Kentucky, had qualified for two Pro Tours in the past, Rome and New Orleans. 
 
 Ryan won the die roll, and choose to play first. Both players kept their opening hands, and it was off to the races for Nunn, who goes with the popular play of Forest, Elves. Ryan was playing Beasts, the three color beat down deck that Kentucky player Brian Fox designed and Gary Wise made famous at the Chicago Masters Series. This version is the newest build straight from the mind of Fox. Kyle played Forgotten Cave, and followed that up with a land and Lightning Rift. Both players got set in for a long game. 
 
@@ -53,7 +55,9 @@ Ryan casts his first real threat of the match, Wild Mongrel, and passed the turn
 
 Speaking of that Wild Mongrel, it remained the only threat on Nunn’s side of the board. He ripped land after land for three or four turns. He drew an Elephant Guide and windmill slammed the card onto his Mongrel. Kyle wisely blocked the five powered beater. Astral Slide finally hit play for Eden, and a cycled Tranquil Thicket removed the guide from the Mongrel. If Ryan was going to win, his deck was going to need to start cooperating with him soon. There was a moment of hope for Nunn when his Mongrel hit for another two, but after adding nothing else to board he was giving Eden all the time in the world to find answers. 
 
-![](http://www.wizards.com/sideboard/images/ky03/970.jpg)Wrath of God destroyed Ryan’s Wild Mongrel and the lone Bird of Paradise that was in play. That was all the action that Eden had. Both players were going nuts trying to find threats. Whenever Ryan did not draw a land off the top of his deck, he was drawing Birds or Elves. Kyle, on the other hand just kept drawing cycling cards. Eden Finally cast a face down creature, after what felt like three hundred turns, and knowing it was Angel, Ryan begged his deck for an answer. It coughed up a Wild Mongrel. Kyle let Ryan breathe a bit easier as he slide out his face down angel during the end step of Ryan‘s turn. Just a little wording mistake. It was implied that Kyle used the Slide during Ryan’s second Main Phase, but it was worded in a manner that made it stay out until the end of his own turn. 
+![](http://www.wizards.com/sideboard/images/ky03/970.jpg)
+
+Wrath of God destroyed Ryan’s Wild Mongrel and the lone Bird of Paradise that was in play. That was all the action that Eden had. Both players were going nuts trying to find threats. Whenever Ryan did not draw a land off the top of his deck, he was drawing Birds or Elves. Kyle, on the other hand just kept drawing cycling cards. Eden Finally cast a face down creature, after what felt like three hundred turns, and knowing it was Angel, Ryan begged his deck for an answer. It coughed up a Wild Mongrel. Kyle let Ryan breathe a bit easier as he slide out his face down angel during the end step of Ryan‘s turn. Just a little wording mistake. It was implied that Kyle used the Slide during Ryan’s second Main Phase, but it was worded in a manner that made it stay out until the end of his own turn. 
 
 Burning Wish brought out a lay waste for Kyle, and he passed turn. Sure enough that contested cliff looked menacing, but with no beasts in play, it was nothing more then a mana producer. Ryan cast Glory, and at his end step, Kyle slide out glory, shot Mongrel with lightning rift, and dug a bit deeper into his own deck. (Guide was pitched to keep him alive, but it was all for naught as a cycled steppe killed the mongrel.) 
 
@@ -78,7 +82,9 @@ Both players kept their hands for the second game. Nunn had the first play again
 
 Showing me his hand, Ryan Nunn, stated “I played the Crippler, (Static Orb) and nothing else happened.” At the time his hand was two mana creatures and a land. 
 
-![](http://www.wizards.com/sideboard/images/ky03/971.jpg)Wrath of God was nothing more then a white bog down when Kyle cast it. Two birds of Paradise went to the bin to save the Brushhopper. Llanowar Elf joined Ryan’s team, and Kyle was franticly looking for answers to Orb. Ryan still brought nothing new to the table. When the combat phase came, and cycled Krosan Tusker temporarily took out the frog like beatstick. Wrath of God showed two lands from Ryan Nunn, as he saved the hopper but lost two elves. Ryan Nunn kept ripping lands like a PT champ, and could not bring anymore pressure to the board with the Anurid. Kyle fell to five for a sac land, but a cycled Renewed Faith brought him up to seven and rid the board of the never ending brushhopper. 
+![](http://www.wizards.com/sideboard/images/ky03/971.jpg)
+
+Wrath of God was nothing more then a white bog down when Kyle cast it. Two birds of Paradise went to the bin to save the Brushhopper. Llanowar Elf joined Ryan’s team, and Kyle was franticly looking for answers to Orb. Ryan still brought nothing new to the table. When the combat phase came, and cycled Krosan Tusker temporarily took out the frog like beatstick. Wrath of God showed two lands from Ryan Nunn, as he saved the hopper but lost two elves. Ryan Nunn kept ripping lands like a PT champ, and could not bring anymore pressure to the board with the Anurid. Kyle fell to five for a sac land, but a cycled Renewed Faith brought him up to seven and rid the board of the never ending brushhopper. 
 
 Turn 87 came, and Ryan Nunn Finally took a point of damage. Windswept Heath took a chunk out of his life total, and Exalted Angel came down for Ryan. Kyle entered his scoop phase. Static Orb, Brushhopper won Ryan that game. 
 

@@ -105,7 +105,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a931.jpg)Matthew Schempp played green/white against Gerard's blue/black upheaval deck, traditional enemies in Magic: the Gathering's story line. Green/white has creatures, "magic bullets" (like the Phantom Centaur with protection from black), while blue/black has blue's power cards (like Upheaval) and black's creature elimination.
+![](http://www.wizards.com/sideboard/images/gpcle02/a931.jpg)
+
+Matthew Schempp played green/white against Gerard's blue/black upheaval deck, traditional enemies in Magic: the Gathering's story line. Green/white has creatures, "magic bullets" (like the Phantom Centaur with protection from black), while blue/black has blue's power cards (like Upheaval) and black's creature elimination.
 
 Gerard was incredibly friendly and relaxed. "Where are you from? Good luck." Matt was tense and on looking at his first hand he gave a tiny shake of the head. Mulliganned. Mulliganned again. Down to five cards, and game 1 seemed to be over before it even started.
 
@@ -119,7 +121,9 @@ Matt shook his head and started playing quicker. 2 points to 20 with a Brushhopp
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a927.jpg)The two players bantered. Fabiano pushed his thumb and finger together "It was this close, that circular logic." Schempp replied, "No. I was just waiting to see if it was a Circular logic or a Syncopate."
+![](http://www.wizards.com/sideboard/images/gpcle02/a927.jpg)
+
+The two players bantered. Fabiano pushed his thumb and finger together "It was this close, that circular logic." Schempp replied, "No. I was just waiting to see if it was a Circular logic or a Syncopate."
 
 Gerard led with land, and Matt started out with Tireless Tribe , and on Gerard's next turn, dropped a madness Basking Rootwalla in response to Gerard's Innocent Blood to start the game. Gerard played Cabal Therapy and like a truly magical David Copperfield, guessed right, taking down Wild Mongrel. Matt was meanwhile all the time keeping three mana up. Matt had a Glory in his hand and Tireless Tribe on the board, so any time that Gerard wanted to Aether Burst one of the creatures, Matt would be able to respond by pitching Glory to the graveyard, and then activating the ability. However when Gerard actually did Aether Burst the Tireless Tribe, Matt didn't pitch Glory to the graveyard in response. Instead he merely replayed the Tireless Tribe, which was met with Circular Logic by Gerard. The next turn Matt played an Elephant Guide on his Basking Rootwalla, which was met with a Cunning Wished Ghastly Demise by Gerard. Matt shook his head, and banged his fist on the graveyard.
 
@@ -129,7 +133,9 @@ With the board clean, Gerard played Standstill. 11 life points to 20 in favor of
 
 Gerard ever the gentleman, wished Matt, "Good luck," to start game 3. Matt had a slow start dropping lands on turns one and two and finally dropping his first creature, a Basking Rootwalla on turn three. Matt then started dropping a bit more meat on the table over the next few turns with Squirrel Nest, Squirrel Nest, and a turn six Wild Mongrel. Again Gerard pawed the table, this time excitedly impatient and hopeful for the game and match win. With the life score 20 to 6 in Matt's favor Gerard had a long think. Then he dropped Upheaval. Matt, "No floating?" Gerard said, "No," and then dropped land before passing the turn.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a928.jpg)Matt dropped a Tireless Tribe and a few turns later Gerard dropped Standstill. Gerard immediately broke the standstill, which is the general rule, but in this case it might have been a bit better to just keep attacking with the dinky 1/1 guy. Gerard had Glory in the graveyard so his man would be unblockable and it was a five-turn clock, so it seems that Gerard would have had to break the Standstill before he was ready to Upheaval again, in which case, Matt would draw the three cards. Probably the hardest judgement calls to make in Magic are the ones where you go against the general rule in order to play for the exception to the rule. 
+![](http://www.wizards.com/sideboard/images/gpcle02/a928.jpg)
+
+Matt dropped a Tireless Tribe and a few turns later Gerard dropped Standstill. Gerard immediately broke the standstill, which is the general rule, but in this case it might have been a bit better to just keep attacking with the dinky 1/1 guy. Gerard had Glory in the graveyard so his man would be unblockable and it was a five-turn clock, so it seems that Gerard would have had to break the Standstill before he was ready to Upheaval again, in which case, Matt would draw the three cards. Probably the hardest judgement calls to make in Magic are the ones where you go against the general rule in order to play for the exception to the rule. 
 
 As it was, Gerard picked up three cards from the Standstill and wipe the board with Innocent Blood and Chainer's Edict. A few turns later, the score stood at 20 to 4 with both sides having a Squirrel Nest in play (one of them Gerard stole from Matt with a Cunning Wished Aura Graft). With Glory in Matt's graveyard and a Sylvan Might in Matt's hand (Gerard knew this from a previous Cabal Therapy), Gerard was forced to Upheaval just as time was called. Matt was able to put Gerard down to 1 life point on the fifth turn, but it wasn't enough for the win.
 

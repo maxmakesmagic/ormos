@@ -37,7 +37,9 @@ archive_source:
   sha256: dc2a3a2a4e9c583dea039090719d7c663a8415908bd18fcfc0611822919907bc
 render_recovery: []
 ---
-![](https://i.ormos.uk/97/43/9743337e50be87b84ce6538b444522c6ad68f3440630771dc0018a6bd11e240e.jpg)In the spirit of the season, we’d like to give something extra to you. Be one the first six customers to purchase a full display box of **Magic: The Gathering** product at participating stores in North America this winter and get a pack of five Euro land cards!
+![](https://i.ormos.uk/97/43/9743337e50be87b84ce6538b444522c6ad68f3440630771dc0018a6bd11e240e.jpg)
+
+In the spirit of the season, we’d like to give something extra to you. Be one the first six customers to purchase a full display box of **Magic: The Gathering** product at participating stores in North America this winter and get a pack of five Euro land cards!
 
 First distributed in Europe back in 2000, these cards have since become highly sought after by many **Magic** fans. Now, they can be yours. Starting on November 28, 2008, all you have to do is purchase a full display box of ANY **Magic: The Gathering** product at your local retailer (while supplies last). 
 

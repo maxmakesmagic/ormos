@@ -90,7 +90,9 @@ render_recovery:
 
 ### • King of the Grinder
 
-![](http://www.wizards.com/sideboard/images/natjp03/a958.jpg)As the names of the Top 8 began to fall into place during the last round of Swiss, spectators and players began looking over the standings to see if their favorite player made it in. Around the room, the same question could be heard repeated over and over.
+![](http://www.wizards.com/sideboard/images/natjp03/a958.jpg)
+
+As the names of the Top 8 began to fall into place during the last round of Swiss, spectators and players began looking over the standings to see if their favorite player made it in. Around the room, the same question could be heard repeated over and over.
 
 "Who's Youhei Yamamoto?"
 

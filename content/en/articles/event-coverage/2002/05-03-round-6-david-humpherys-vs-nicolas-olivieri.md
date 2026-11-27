@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/06/72/06723b0dd1f79de86497ca9100404e30500e94a780bcb1f075d451581c395282.jpg)Both have eight points heading into this round. David Humpherys is both known for being a part of team YMG and being outrun by glaciers while he playing. That means that although he gets full marks for deckbuilding, playing skills and sportsmanship he isn´t exactly the most enjoyable player to watch.
+![](https://i.ormos.uk/06/72/06723b0dd1f79de86497ca9100404e30500e94a780bcb1f075d451581c395282.jpg)
+
+Both have eight points heading into this round. David Humpherys is both known for being a part of team YMG and being outrun by glaciers while he playing. That means that although he gets full marks for deckbuilding, playing skills and sportsmanship he isn´t exactly the most enjoyable player to watch.
 
 Nicolas Olivieri is one of the top players in France, which is a very good thing to be if you considered the way they have been ripping apart the Pro Tour scene recently.
 
@@ -85,7 +87,9 @@ The token strolled around the Red Zone while the American decided he wanted to s
 
 A third - yup, a third one - [Petravark](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) finally deprived Olivieri of any red mana. Still the French sent everyone, even the Farmhand, into the Red Zone. David agonized over his three [Petravark](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark)s but eventually decided to throw them all in front of the elephant token.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a884.jpg)A [Rites of Initiation](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Initiation) gave the token enough power to bring down two land grabbers and dropped Humpherys down to seven. When Nicolas sacrificed his second Farmhand David grabbed the chanced to shuffle the Barbarian away with a [Repel](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repel).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a884.jpg)
+
+A [Rites of Initiation](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Initiation) gave the token enough power to bring down two land grabbers and dropped Humpherys down to seven. When Nicolas sacrificed his second Farmhand David grabbed the chanced to shuffle the Barbarian away with a [Repel](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repel).
 
 Olivieri tried to flashback the Ambush but Humpherys had a [Syncopate](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Syncopate) ready for it. A [Pardic Firecat](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pardic+Firecat), with a [Crackling Club](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crackling+Club), joined the [Petravark](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) and for once David was not on the receiving end of the attacks.
 
@@ -113,7 +117,9 @@ Despite all this mana fight the Barbarian was still taking huge chunks out of Da
 
 The American played a [Dreamwinder](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder) to finally stall the ground and it was Olivieri´s turn to slumber into deep thought. He settled for flashbacking the Chatter and playing Halderbier and waiting for another opportunity.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a883.jpg)[Liquid Fire](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Liquid+Fire) took out the Barbarian as David reached the magical six mana. He could now cast his expensive spells. [Anarchist](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anarchist) got him the Fire back and added another creature to the huge armies.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a883.jpg)
+
+[Liquid Fire](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Liquid+Fire) took out the Barbarian as David reached the magical six mana. He could now cast his expensive spells. [Anarchist](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anarchist) got him the Fire back and added another creature to the huge armies.
 
 [Blazing Salvo](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blazing+Salvo) took out [Dreamwinder](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder) and the following turn a [Wild Mongrel](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) showed up. With the clock winding down things got a bit tense. The second casting of [Liquid Fire](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Liquid+Fire) took out the Mongrel and [Syncopate](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Syncopate) ate up [Elephant Ambush](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Ambush).
 

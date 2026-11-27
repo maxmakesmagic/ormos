@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/118.jpg)Because of the low number of players and the high number of people with three byes, a lot of name players faced each other in the fourth round. Two of them were Germany's Janosch Kühn and England's Tony Dobson. They both had three byes, and were looking to win the necessary two matches to get into the Top 64. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/118.jpg)
+
+Because of the low number of players and the high number of people with three byes, a lot of name players faced each other in the fourth round. Two of them were Germany's Janosch Kühn and England's Tony Dobson. They both had three byes, and were looking to win the necessary two matches to get into the Top 64. 
 
 Tony won the die roll and he chose to let Janosch play first. Janosch had a black, green and red deck, and three turns into the game, he had one land of each colour on the table along with a Bog Initiate. Tony was with black, blue and white, and he also got to the correct coloured mana pretty quickly, during turn four. His answer to the Initiate was a Tower Drake, but Janosch had an Urza's Rage and quickly got rid of it. The German then cast a Quirion Trailblazer, optimizing his mana by getting another swamp. 
 
@@ -62,7 +64,9 @@ Tony let Janosch play first in the second game as well, probably a good decision
 
 Unfortunately, Janosch had a lot more creatures. He dropped a Kavu Climber, drew a card, and during the next turns he dropped a Serpentine Kavu. Tony got rid of the Climber by casting Plague Spores, and he then cast a Dream Thrush and a Tsabo's Assassin. The Assassin never recovered from summoning sickness. Janosch had an Urza's Rage and killed it, and he then sent the 4/4 Kavu over, knocking Tony down to twelve life. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/119.jpg)Tony attacked with the Thrush, getting Janosch down to the not-so-frightening 19 life, while the Kavu on the other side of the table was joined in his attack by a kicked-up Pouncing Kavu. At five life only, Tony cast a Crosis's Attendant to try and hold back for a little while longer, but Janosch played Tsabo's Decree calling Golems, and Tony scooped. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/119.jpg)
+
+Tony attacked with the Thrush, getting Janosch down to the not-so-frightening 19 life, while the Kavu on the other side of the table was joined in his attack by a kicked-up Pouncing Kavu. At five life only, Tony cast a Crosis's Attendant to try and hold back for a little while longer, but Janosch played Tsabo's Decree calling Golems, and Tony scooped. 
 
 Kühn 1.5 - Dobson .5 
 

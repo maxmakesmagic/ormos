@@ -107,7 +107,9 @@ Not wanting to dwell on mistakes, Gary revealed that Brian Davis was 2-1-1 lifet
 
 ### Game 1
 
-![](https://i.ormos.uk/a3/3a/a33affea8121e8a1f2bfc70842a0006b2c8634b6f6bc8cb52455c6c60e3f5220.jpg)Brian mulliganed but Gary found his first seven acceptable. Brian, who was G-R opened with a Rootwalla and Gary, playing G-R-W came back with a Mongrel. The Mongrel took down the Rootwalla at the cost of two cards--one of which was Exalted Angel and received an arched eyebrow from Brian. Firebolt finished off the Mongrel but Gary calmly played another and then played a Call of the Herd on his next turn. Brian tried to keep Gary's mana at bay and used a Fiery Temper to kill a Lllanowar Elf leaving Gary at three lands for a while.
+![](https://i.ormos.uk/a3/3a/a33affea8121e8a1f2bfc70842a0006b2c8634b6f6bc8cb52455c6c60e3f5220.jpg)
+
+Brian mulliganed but Gary found his first seven acceptable. Brian, who was G-R opened with a Rootwalla and Gary, playing G-R-W came back with a Mongrel. The Mongrel took down the Rootwalla at the cost of two cards--one of which was Exalted Angel and received an arched eyebrow from Brian. Firebolt finished off the Mongrel but Gary calmly played another and then played a Call of the Herd on his next turn. Brian tried to keep Gary's mana at bay and used a Fiery Temper to kill a Lllanowar Elf leaving Gary at three lands for a while.
 
 Both players made Call tokens for a few turns and would routinely trade them in combat. Then both players played morph creatures. Gary was getting low on life and was forced to block what he assumed was a Firecat with his Call token. It was a Firecat and Gary fell to seven. He fell to six on his next turn when he flipped over his Exalted Angel and promptly went back to ten. 
 

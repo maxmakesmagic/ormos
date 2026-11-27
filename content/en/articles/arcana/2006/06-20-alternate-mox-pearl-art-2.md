@@ -61,7 +61,9 @@ archive_source:
   sha256: 1e7949bec287c7720301fd9d5a3dbda496947684966d85d91473350b790bac53
 render_recovery: []
 ---
-![](https://i.ormos.uk/04/8c/048c0f8350d12b886f067360b56e1c866e7d55686f67902456d75c5bc10d61fa.jpg)Back in 1993, it may not have been clear to folks not named “Richard Garfield” that a [Mox Pearl](https://web.archive.org/web/20060620000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mox%2BPearl) was slightly better than “just a basic Plains.” But these days, Vintage players definitely know the power of their moxen.
+![](https://i.ormos.uk/04/8c/048c0f8350d12b886f067360b56e1c866e7d55686f67902456d75c5bc10d61fa.jpg)
+
+Back in 1993, it may not have been clear to folks not named “Richard Garfield” that a [Mox Pearl](https://web.archive.org/web/20060620000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mox%2BPearl) was slightly better than “just a basic Plains.” But these days, Vintage players definitely know the power of their moxen.
 
 So when the winner of the [2006 Vintage Championship](/en/articles/event-coverage/2006/04-07-2006-vintage-championship-fact-sheet) walks up on stage to claim his or her specially-commissioned alternate art for [Mox Pearl](https://web.archive.org/web/20060620000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mox+Pearl) this August, he or she will deserve every moxy inch. Here's a photo of this special prize, with a **Magic** card shown for scale.
 

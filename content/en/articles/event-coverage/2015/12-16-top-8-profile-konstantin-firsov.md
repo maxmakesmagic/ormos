@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPHEL00/150.jpg)Very few players in this game can boast winning a National championship. Let alone twice. Let alone twice in a row. Firsov has been there, and done that. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPHEL00/150.jpg)
+
+Very few players in this game can boast winning a National championship. Let alone twice. Let alone twice in a row. Firsov has been there, and done that. 
 
 Russia's two time national champion is a quite, thoughtful young guy. At the age of twenty one, he currently works as a network administrator and resides in Russia's second most important city - St. Petersburg. 
 

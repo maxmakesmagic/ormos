@@ -65,7 +65,9 @@ The following Pro Tour Hall of Famers and members of Wizards of the Coast R&D wi
 
 ### Mark Gottlieb, Advanced Developer, **Magic** R&D
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/ptams10/cc_gottlieb.jpg)I am, rather inexplicably, the newest, freshest face on the **Magic** Development team. Previously, I served as the **Magic** Rules Manager for all sets from *Guildpact* through the *Magic 2011* Core Set. I was also on the design teams of *Dissension*, *Future Sight*, *Shadowmoor*, *Conflux*, *Alara Reborn*, and *Scars of Mirrodin*, was the lead designer of the upcoming *Mirrodin Besieged*, was a member of the *Ravnica* development team, and led the development of *Masters Edition II*.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/ptams10/cc_gottlieb.jpg)
+
+I am, rather inexplicably, the newest, freshest face on the **Magic** Development team. Previously, I served as the **Magic** Rules Manager for all sets from *Guildpact* through the *Magic 2011* Core Set. I was also on the design teams of *Dissension*, *Future Sight*, *Shadowmoor*, *Conflux*, *Alara Reborn*, and *Scars of Mirrodin*, was the lead designer of the upcoming *Mirrodin Besieged*, was a member of the *Ravnica* development team, and led the development of *Masters Edition II*.
 
 Cards I've designed include [Erratic Explosion](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion), [Dimir Doppelganger](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dimir+Doppelganger), [Warp World](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Warp+World), [Swans of Bryn Argoll](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swans+of+Bryn+Argoll), [Scapeshift](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scapeshift), [Path to Exile](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Path+to+Exile), [Dragon Broodmother](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Broodmother), [Sovereigns of Lost Alara](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sovereigns+of+Lost+Alara), [Progenitus](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Progenitus), and [Eldrazi Monument](https://web.archive.org/web/20100826000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eldrazi+Monument).
 
@@ -73,7 +75,9 @@ I joined Wizards of the Coast in 2000. An MIT graduate, I enjoy the constant opp
 
 ### Dave Guskin, Advanced Developer, **Magic** Digital R&D
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/ptams10/cc_guskin.jpg)Contrary to popular belief, **Magic** R&D is not all about the cards! As part of a new **Magic** Digital team within R&D, I hold brainstorms, coordinate projects and do playtesting / game design / game development for a number of digital products – some that you know and love like **Magic Online** or *Duels of the Planeswalkers*, and some new ones on the horizon!
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/ptams10/cc_guskin.jpg)
+
+Contrary to popular belief, **Magic** R&D is not all about the cards! As part of a new **Magic** Digital team within R&D, I hold brainstorms, coordinate projects and do playtesting / game design / game development for a number of digital products – some that you know and love like **Magic Online** or *Duels of the Planeswalkers*, and some new ones on the horizon!
 
 I've worked on many **Magic** Design and Development teams, including *Alara Reborn*, *Planechase, Archenemy,* *Magic 2011*, "Action" (the third set of *Scars of Mirrodin* block) and "Roll" (the third set of *"Shake"* block). In my previous role as a web developer, I also helped create Gatherer and did a bunch of work prototyping Facebook games.
 

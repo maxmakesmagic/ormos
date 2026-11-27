@@ -94,7 +94,9 @@ Dave went on to link to an explanation of Rotisserie Draft from some ancient Sid
 
 ....
 
-[![Feast_of_the_Unicorn](https://i.ormos.uk/a2/a0/a2a0c7e1cf63e42a71991c29ebf34cec9a583e370f623dbd7aedfa0219139854.jpg)](https://web.archive.org/web/20071126000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Feast%2Bof%2Bthe%2BUnicorn)Nah, just kidding, I won't wait. To hold a Rotisserie Draft, you'll need eight people and a large, preferably coherent bunch of **Magic** cards—traditionally, the complete contents of a large set minus basic lands. Randomly determine a pick order from 1 through 8. If you're feeling very strategic, you could even randomly determine in what order people get to *pick* their place in the pick order, but we leave that as an exercise for those with a lot of time on their hands.
+[![Feast_of_the_Unicorn](https://i.ormos.uk/a2/a0/a2a0c7e1cf63e42a71991c29ebf34cec9a583e370f623dbd7aedfa0219139854.jpg)](https://web.archive.org/web/20071126000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Feast%2Bof%2Bthe%2BUnicorn)
+
+Nah, just kidding, I won't wait. To hold a Rotisserie Draft, you'll need eight people and a large, preferably coherent bunch of **Magic** cards—traditionally, the complete contents of a large set minus basic lands. Randomly determine a pick order from 1 through 8. If you're feeling very strategic, you could even randomly determine in what order people get to *pick* their place in the pick order, but we leave that as an exercise for those with a lot of time on their hands.
 
  Lay out your cards however you like so that everyone can see them. You're going to need a *lot* of room. We organized them by their collector numbers (which are sorted by color / type [\*](#footnote1), then title), but we later realized that sorting them by rarity, then collector number might actually be more useful. Your mileage may vary.
 

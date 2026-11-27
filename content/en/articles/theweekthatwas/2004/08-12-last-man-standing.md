@@ -457,7 +457,9 @@ And for those of you fooled by [last week's format](/en/articles/theweekthatwas/
 
 With the **Magic: the Gathering** World Championships looming, last weekend saw the final chance for players to qualify for the tournament. The finals of the MTGO World Championship Qualifier saw more than 450 players fight not only for an invite to the tournament, but for airfare and accommodations too. Players had to win one of umpteen qualifying events in the weeks leading up to Sunday's tournament in order to play.
 
-![](https://i.ormos.uk/b0/a7/b0a775132c0e336499b0b6ac6b97ca52ee53e57d11a9d22e549a3582f3f4309e.jpg)After 14 rounds of Standard, Toshinori Shigehara won the last invite and all the trimmings with his green-Urza build of Tooth and Nail featuring Mephidross Vampire and Triskelion (Chad showcased the Top 8 decks from the tournament in [his column on Tuesday](/en/articles/onlineandenjoyingit/2004/08-10-banning-and-online-extended)). Shigehara is an 18-year-old college student from a rural part of Japan near Hiroshima. He does not run in the same circles as Japan's more famous players and has never made the Top 8 at either a Grand Prix or Pro Tour—in fact, this will be the first Pro Tour he has ever attended.
+![](https://i.ormos.uk/b0/a7/b0a775132c0e336499b0b6ac6b97ca52ee53e57d11a9d22e549a3582f3f4309e.jpg)
+
+After 14 rounds of Standard, Toshinori Shigehara won the last invite and all the trimmings with his green-Urza build of Tooth and Nail featuring Mephidross Vampire and Triskelion (Chad showcased the Top 8 decks from the tournament in [his column on Tuesday](/en/articles/onlineandenjoyingit/2004/08-10-banning-and-online-extended)). Shigehara is an 18-year-old college student from a rural part of Japan near Hiroshima. He does not run in the same circles as Japan's more famous players and has never made the Top 8 at either a Grand Prix or Pro Tour—in fact, this will be the first Pro Tour he has ever attended.
 
 The Japanese players have been tearing it up on ***Magic** Online* and it did not come as a surprise when three Japanese players surfaced in the Top 8 of the event. Nobody was expecting Shigehara to win though -- not even himself. He has played in countless PTQs in his **Magic** career and this was the first time his efforts have resulted in an invite.
 
@@ -526,7 +528,9 @@ Good luck in San Fransisco, Toshinori. I will definitely be pulling for you!
 
 ### Poor Ben Seck
 
-![](https://i.ormos.uk/90/0a/900ac0e2f34ad7be634a40dd1cf271d0df62200f97b9ce627c9978eeb80ef80a.jpg)Last month I had the opportunity to cover Grand Prix Kuala Lumpur. In my coverage for the event, I featured a deck called Thai Breakfast played by Pulperm Phungprachit (and designed by countryman Apiwat Pod Niyomjoy). The deck was an Elf and Nail variant that replaced the card drawing of Skullclamp with Fecundity and the Tooth and Nail engine with Beacon of Creation and Blasting Station. The deck seemed very powerful to me despite a poor result by Pulperm. I wrote about it in broad strokes on Day 1 and revealed the actual list during play on Sunday. 
+![](https://i.ormos.uk/90/0a/900ac0e2f34ad7be634a40dd1cf271d0df62200f97b9ce627c9978eeb80ef80a.jpg)
+
+Last month I had the opportunity to cover Grand Prix Kuala Lumpur. In my coverage for the event, I featured a deck called Thai Breakfast played by Pulperm Phungprachit (and designed by countryman Apiwat Pod Niyomjoy). The deck was an Elf and Nail variant that replaced the card drawing of Skullclamp with Fecundity and the Tooth and Nail engine with Beacon of Creation and Blasting Station. The deck seemed very powerful to me despite a poor result by Pulperm. I wrote about it in broad strokes on Day 1 and revealed the actual list during play on Sunday. 
 
 Ben was reading the coverage and was inspired to build his own version of the deck. He was planning on attempting to qualify for this past Sunday's tournament and decided to give it a whirl with the product of his tinkering. He won the opportunity to play in the finals with the following decklist:
 
@@ -556,7 +560,9 @@ Ben recorded a 6-0 record against affinity players -- which should be of interes
 
 “I'm pretty sure this deck should be a force at Worlds,” said Ben. “It plays terrific and is a lot of fun. I got to steal one player's Angel token with Fractured Loyalty for the win.” 
 
-![Ben Seck made the Top 8 at Pro Tour-Yokohama in 2003.](http://www.wizards.com/sideboard/images/ptyok03/a718.jpg)The Loyalty is in the deck mostly for Tooth and Nail, allowing you to steal the opposing player's Darksteel Colossus. With few ways to target in Tooth decks, they rarely get a chance to take it back, and even if they do it will usually be futile. In addition to being able to target with the Blasting Station, Ben pointed out that you can untap the opponent's creatures with Wirewood Symbiote -- something I never realized until talking with him for this column. Here's Ben's take on the deck's matchups in Standard.
+![Ben Seck made the Top 8 at Pro Tour-Yokohama in 2003.](http://www.wizards.com/sideboard/images/ptyok03/a718.jpg)
+
+The Loyalty is in the deck mostly for Tooth and Nail, allowing you to steal the opposing player's Darksteel Colossus. With few ways to target in Tooth decks, they rarely get a chance to take it back, and even if they do it will usually be futile. In addition to being able to target with the Blasting Station, Ben pointed out that you can untap the opponent's creatures with Wirewood Symbiote -- something I never realized until talking with him for this column. Here's Ben's take on the deck's matchups in Standard.
 
 “Affinity is a good matchup," he said. "Eternal Slide is a fine match up unless they get Plow Under Recursion because your plan is to just Rude Awakening them out. They can't slide out anything really all your guys are resilient to Slide, and Fecundity is horrendous for them.
 

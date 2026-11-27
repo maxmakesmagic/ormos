@@ -407,7 +407,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a547.jpg)If Mark Ziegner really enjoys playing Magic, today should be perfect. Not only has he made his way to the Top 4 in the individual competition, but as a member of Team Germany he just drafted against the Americans and will play in that final as well. Theoretically, he could become World Champion and be a member of the World Championship Team- a feat that has only been accomplished once by Jon Finkel in 2000. This would be somewhat appropriate, as Ziegner is sometimes called "The German Finkel". This is not so much in reference to his playskill as much as the striking similarity between the two. Apparently when Ziegner had shorter hair he looked almost exactly like Jon Finkel.
+![](http://www.wizards.com/sideboard/images/worlds02/a547.jpg)
+
+If Mark Ziegner really enjoys playing Magic, today should be perfect. Not only has he made his way to the Top 4 in the individual competition, but as a member of Team Germany he just drafted against the Americans and will play in that final as well. Theoretically, he could become World Champion and be a member of the World Championship Team- a feat that has only been accomplished once by Jon Finkel in 2000. This would be somewhat appropriate, as Ziegner is sometimes called "The German Finkel". This is not so much in reference to his playskill as much as the striking similarity between the two. Apparently when Ziegner had shorter hair he looked almost exactly like Jon Finkel.
 
 ### Game 1
 
@@ -417,7 +419,9 @@ Humpherys- 0 Ziegner- 1
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds02/a553.jpg)This game went much like the first, with both players fighting for card advantage; exchanging Deep Analysis, Fact or Fiction and countermagic. Ziegner managed to force through Lobotomy, and took Psychatog with a tone of victorious aggression. He realized he had more cards in his library than Humpherys, so he changed his plan to decking the American. As a result, he allowed two Engineered Plagues on Atogs to resolve, which effectively nullified Ziegner's Psychatogs as well, except for the one tutorable Upheaval in his sideboard. 
+![](http://www.wizards.com/sideboard/images/worlds02/a553.jpg)
+
+This game went much like the first, with both players fighting for card advantage; exchanging Deep Analysis, Fact or Fiction and countermagic. Ziegner managed to force through Lobotomy, and took Psychatog with a tone of victorious aggression. He realized he had more cards in his library than Humpherys, so he changed his plan to decking the American. As a result, he allowed two Engineered Plagues on Atogs to resolve, which effectively nullified Ziegner's Psychatogs as well, except for the one tutorable Upheaval in his sideboard. 
 
 Both players then started to cast Deep Analysis on their opponent, and all seemed to be working out in Ziegner's favor. Humpherys had a mere nine cards in his library, while Ziegner had twenty. Humpherys fought back, forcing multiple copies of Deep Analysis through, but was still a bit short of decking Ziegner. He cast Cunning Wish and contemplated taking Psychotic Haze, since Ziegner was at two life points. Instead, he got a removed from game Circular Logic and played a second Wish to get Mana Short from the sideboard. It was cast, and resolved. With Ziegner tapped out, Humpherys targeted the German with Cephalid Coliseum. The American took his turn and spent some time trying to figure out how he could win the game, and how to go about doing it. 
 
@@ -427,7 +431,9 @@ Humpherys- 1 Ziegner- 1
 
 ### Game 3
 
-![](https://i.ormos.uk/48/70/487063f027bef24ef20645cc8d43596dd2c0186dea97a865895cd621b27c03a1.jpg)Humpherys played Cunning Wish on Ziegner's end step, getting Fact or Fiction. Ziegner played Burning Wish, and it was Memory Lapsed. It resolved on the following turn and got Deep Analysis. Humpherys was stuck at three lands and used a second Cunning Wish to get Mana Short. Deep Analysis was discarded because Humpherys could not cast anything, and Ziegner went to work with his Analysis. Humpherys flashed back Deep Analysis, and finally got a fourth land in Darkwater Catacombs. This left him with only two untapped lands and Lobotomy resolved, getting three copies of Fact or Fiction out of the American's hand. The discard attack continued, as Ziegner's Duress drew out Counterspell. Gainsay was added to the stack and Duress resolved, showing a hand of Upheaval, Divert and Mana Short. Upheaval was discarded, and Ziegner refilled his hand with Deep Analysis. Both players summoned Psychatogs, but Ziegner had a clear edge in the card advantage department, thanks mostly to Humpherys' mana stalled opening. From there, the German's win was inevitable.
+![](https://i.ormos.uk/48/70/487063f027bef24ef20645cc8d43596dd2c0186dea97a865895cd621b27c03a1.jpg)
+
+Humpherys played Cunning Wish on Ziegner's end step, getting Fact or Fiction. Ziegner played Burning Wish, and it was Memory Lapsed. It resolved on the following turn and got Deep Analysis. Humpherys was stuck at three lands and used a second Cunning Wish to get Mana Short. Deep Analysis was discarded because Humpherys could not cast anything, and Ziegner went to work with his Analysis. Humpherys flashed back Deep Analysis, and finally got a fourth land in Darkwater Catacombs. This left him with only two untapped lands and Lobotomy resolved, getting three copies of Fact or Fiction out of the American's hand. The discard attack continued, as Ziegner's Duress drew out Counterspell. Gainsay was added to the stack and Duress resolved, showing a hand of Upheaval, Divert and Mana Short. Upheaval was discarded, and Ziegner refilled his hand with Deep Analysis. Both players summoned Psychatogs, but Ziegner had a clear edge in the card advantage department, thanks mostly to Humpherys' mana stalled opening. From there, the German's win was inevitable.
 
 Humpherys- 1 Ziegner- 2
 

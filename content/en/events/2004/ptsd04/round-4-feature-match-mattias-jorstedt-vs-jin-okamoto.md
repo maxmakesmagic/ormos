@@ -423,7 +423,9 @@ render_recovery:
 ---
 * * *
 
-![Jin Okamoto](http://wizards.com/sideboard/images/ptsd04/fm8_1.jpg)The conversation opened with Mattias and Jin trying to remember what round they had played each other in the recent Magic Invitational. Neither could remember, but when Mark Rosewater walked over it turned into a strategy discussion about the Pack Draft format, where players were able to draft packs from different sets and then later create sealed decks with them. Mattias started out the draft with three packs of *Scourge* and finished up with a Darksteel and a 7th Edition, but he was now thinking that he should have switched to *Legions* once the *Scourge* dried up.
+![Jin Okamoto](http://wizards.com/sideboard/images/ptsd04/fm8_1.jpg)
+
+The conversation opened with Mattias and Jin trying to remember what round they had played each other in the recent Magic Invitational. Neither could remember, but when Mark Rosewater walked over it turned into a strategy discussion about the Pack Draft format, where players were able to draft packs from different sets and then later create sealed decks with them. Mattias started out the draft with three packs of *Scourge* and finished up with a Darksteel and a 7th Edition, but he was now thinking that he should have switched to *Legions* once the *Scourge* dried up.
 
 In any case, his Darksteel pack gave him a Skullclamp, so he couldn't complain. Then someone mentioned Drooling Ogre and he brightened, "I should have just gone for Darksteel and played all the Drooling Ogres. They're just 3/3s for two mana. No one has artifacts."
 

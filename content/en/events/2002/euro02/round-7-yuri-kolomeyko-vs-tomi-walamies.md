@@ -53,7 +53,9 @@ archive_source:
   sha256: aeb4fbd329af48dab4a072c4e38aac7b4a55f473fd2ddb513a0c93a53724306d
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a911.jpg)First of all we have a message from Tomi Walamies. He would like to send his greetings to Jesus Belle. So there you go, the Finnish got his wish. We never say no to a **Magic** player with pink hair, especially when it's such a simple thing.
+![](http://www.wizards.com/sideboard/images/euro02/a911.jpg)
+
+First of all we have a message from Tomi Walamies. He would like to send his greetings to Jesus Belle. So there you go, the Finnish got his wish. We never say no to a **Magic** player with pink hair, especially when it's such a simple thing.
 
 It's the last round of a very long day and these two probably just want to get things over with. Tomorrow they still have to run through seven rounds of the last big Standard tournament before *Judgment* so there is probably a lot of metagaming still to do today.
 
@@ -107,7 +109,9 @@ They started the game as lightning pace since they were short on time and having
 
 Creatures kept piling in and the pace slowed down with little more than ten minutes on the clock. Stupefying Touch stopped Militant Monk and Aquamoeba attacked. A block and Two Guided Strikes later it traded with the Monk.
 
-![](http://www.wizards.com/sideboard/images/euro02/a912.jpg)The Ukrainian finally dropped the elbow: Giant Warthog. With only Mirror Wall on the table Walamies needed to regroup fast. He played Balshan Griffin and let the Warthog through.
+![](http://www.wizards.com/sideboard/images/euro02/a912.jpg)
+
+The Ukrainian finally dropped the elbow: Giant Warthog. With only Mirror Wall on the table Walamies needed to regroup fast. He played Balshan Griffin and let the Warthog through.
 
 A double-action Crippling Fatigue cleaned Walamies side of the table (since the Wall had blocked the Nomad) and things were very, very grim for the Finnish. He played Auramancer and Skywing Aven and again let the Warthog through.
 

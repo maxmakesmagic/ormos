@@ -261,7 +261,9 @@ render_recovery:
   - Wormfang Manta
   occurrences: 301
 ---
-![](https://i.ormos.uk/13/b2/13b215f39ad7a57e2e69ea43ac659fa6538208f222ad2d2b111b62a3665d4284.jpg)I seem to remember this from last year: Kai Budde, Dirk Baberowski, and Marco Blume against a team of relative unknowns in the team finals. Last year, Kai's team won, but the losing Les Plus Class ended up becoming quite dominant on the PT the course of the following year. 2020, the surprise Canadian team of David Rood, Elijah Pollock, and Steve Wolfman would like to have it all – the PT win and the impressive follow-up year. They beat Courtney's Boys last round; can they put an end to Phoenix Foundation's run here?
+![](https://i.ormos.uk/13/b2/13b215f39ad7a57e2e69ea43ac659fa6538208f222ad2d2b111b62a3665d4284.jpg)
+
+I seem to remember this from last year: Kai Budde, Dirk Baberowski, and Marco Blume against a team of relative unknowns in the team finals. Last year, Kai's team won, but the losing Les Plus Class ended up becoming quite dominant on the PT the course of the following year. 2020, the surprise Canadian team of David Rood, Elijah Pollock, and Steve Wolfman would like to have it all – the PT win and the impressive follow-up year. They beat Courtney's Boys last round; can they put an end to Phoenix Foundation's run here?
 
 Phoenix Foundation has a strategy, they stick to the strategy, and that's all there is to it. They've found that the most consistent and powerful decks come when you put white/red in seat C, blue/green in B, and black in A, and they almost never deviate. It's worked so far; they're 6-for-6 in drafts in this tournament.
 
@@ -271,7 +273,9 @@ Rood, in seat B, opened the first pack and took Mystic Zealot, showing a willing
 
 Pollock took Firebolt in pack 2, showing green/red, and after that things fell into a pattern. Kai drafted green/blue in B and Marco red/white in C, right according to plan. Rood was blue/white in B and Pollock was red/green in C. Both A-set players were drafting black and trying to determine good choices for their second colors.
 
-![](https://i.ormos.uk/58/a6/58a613157a11ab328691edc47cef6d3864ccc2fd36198da5504818f884912a55.jpg)Phoenix Foundation looked to come out ahead by the end of *Odyssey*. Marco picked up a Kamahl, Pit Fighter and a Divine Sacrament which will be great because Pollock isn't white. Kai grabbed a Wild Mongrel and lots of good aggressive cards, whereas his opponent Rood took card drawing and counters. Only Dirk looked to be lagging behind Wolfman, who had Ghastly Demise, Afflict, and Dirty Wererat in his pile.
+![](https://i.ormos.uk/58/a6/58a613157a11ab328691edc47cef6d3864ccc2fd36198da5504818f884912a55.jpg)
+
+Phoenix Foundation looked to come out ahead by the end of *Odyssey*. Marco picked up a Kamahl, Pit Fighter and a Divine Sacrament which will be great because Pollock isn't white. Kai grabbed a Wild Mongrel and lots of good aggressive cards, whereas his opponent Rood took card drawing and counters. Only Dirk looked to be lagging behind Wolfman, who had Ghastly Demise, Afflict, and Dirty Wererat in his pile.
 
 In *Torment*, Wolfman started off by taking Chainer, Dementia Master over Soul Scourge, a pick many people would disagree with. Then Phoenix Foundation went on a run of drafting great cards: Breakthrough and Fiery Temper for Marco, Arrogant Wurm, Basking Rootwalla, and Narcissism for Kai, and Balshan Collaborator, Faceless Butcher, and Crippling Fatigue for Dirk.
 
@@ -283,7 +287,9 @@ Wolfman was in fact planning to draft green, and did so in *Judgment*, taking ma
 
 At one point Pollock had to D-draft a black card, and his teammates opted for him to take Masked Gorgon instead of Filth, handing Dirk a Filth for the second draft in a row.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a755.jpg)As the dust settled, Marco didn't get any decent damage removal from *Judgment*, making his deck very vulnerable to the one Flash of Defiance in Pollock's deck. Pollock also got a seventh-pick Worldgorger Dragon that could be trouble for Blume.
+![](http://www.wizards.com/sideboard/images/ptbos02/a755.jpg)
+
+As the dust settled, Marco didn't get any decent damage removal from *Judgment*, making his deck very vulnerable to the one Flash of Defiance in Pollock's deck. Pollock also got a seventh-pick Worldgorger Dragon that could be trouble for Blume.
 
 Budde has way too much offense for Rood to handle. Mongrel/Rootwalla/Arrogant Wurm is nutty, and while Rood's deck can certainly draw cards, there aren't many answers for him to draw into.
 

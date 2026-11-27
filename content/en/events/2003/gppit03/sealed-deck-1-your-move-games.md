@@ -1297,7 +1297,9 @@ render_recovery:
 ---
 Team Your Move Games is one of the most dominant teams in the circuit. They won the first Team Pro Tour in Washington, D.C. in 1999, and ended up as semi-finalists at the first GP: Pittsburgh in 2000. Since then, their understanding of the intricacies of Team Sealed has only increased. Few large events, either team or individual, go by without a red dragon T-shirt somewhere in the Top 8, and it'll be fascinating to see how Rob, Darwin, and Dave deal with Scourge's impact on this format.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a988.jpg)"Last time, the reporter kept making fun of us," Darwin jokes. "They kept writing, 'How can you play with those cards? They're terrible!'" Indeed, the boys from Boston are certainly not strangers to the feature-match tables. 
+![](http://www.wizards.com/sideboard/images/gppit03/a988.jpg)
+
+"Last time, the reporter kept making fun of us," Darwin jokes. "They kept writing, 'How can you play with those cards? They're terrible!'" Indeed, the boys from Boston are certainly not strangers to the feature-match tables. 
 
 Almost immediately, Rob hands Dave the stack of Scourge cards. Dave hasn't seen any of the new cards yet, and as he reads over new Scourge mechanics, Darwin and Rob double-check the decklist. "That card's ridiculous," Darwin says as Dave shows him a Decree of Savagery.
 

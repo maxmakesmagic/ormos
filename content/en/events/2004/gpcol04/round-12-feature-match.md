@@ -823,7 +823,9 @@ render_recovery:
 ---
 ### David Williams vs. Jonathan Becker
 
-![](http://www.wizards.com/sideboard/images/gpcol04/fm11_1.jpg)David Williams has a number of tournament successes, most notably in team events, where he has two team Grand Prix wins. He is currently teaming with Bob Maher and Neil Reeves, and is trying to pick up a couple of pro points today to get invitations to the next individual Pro Tours. Jonathan Becker has been playing tournament Magic basically since its inception, and was a member of Tongo Nation, one of the first teams of Magic pros. He is also known for his internet writings. Dave and Jon chatted a bit about playing in the feature match area - both seemed to prefer normal matches to ones in the spotlight, but neither seemed particularly uncomfortable.
+![](http://www.wizards.com/sideboard/images/gpcol04/fm11_1.jpg)
+
+David Williams has a number of tournament successes, most notably in team events, where he has two team Grand Prix wins. He is currently teaming with Bob Maher and Neil Reeves, and is trying to pick up a couple of pro points today to get invitations to the next individual Pro Tours. Jonathan Becker has been playing tournament Magic basically since its inception, and was a member of Tongo Nation, one of the first teams of Magic pros. He is also known for his internet writings. Dave and Jon chatted a bit about playing in the feature match area - both seemed to prefer normal matches to ones in the spotlight, but neither seemed particularly uncomfortable.
 
 ### Game 1
 

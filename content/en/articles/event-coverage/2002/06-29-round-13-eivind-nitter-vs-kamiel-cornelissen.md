@@ -44,7 +44,9 @@ archive_source:
   sha256: 4e2edd023bf7f300c00b967df52e46929063a798ec7e2e6348a2a1b4bc62b673
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a843.jpg)After twelve rounds of play, both Eivind Nitter and Kamiel Cornelissen were out of contention from the Top 8. However, at 7-4-1, they could still get a decent finish and earn some money, so they still had something to play for.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a843.jpg)
+
+After twelve rounds of play, both Eivind Nitter and Kamiel Cornelissen were out of contention from the Top 8. However, at 7-4-1, they could still get a decent finish and earn some money, so they still had something to play for.
 
 ### Game 1
 
@@ -88,7 +90,9 @@ Nitter 1 – 1 Cornelissen
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a846.jpg)Cornelissen chose to play first in the third game, and he kept his opening hand. Nitter kept as well, and he played a turn one Careful Study, discarding a Basking Rootwalla that came into play thanks to the madness, and a forest. Cornelissen played one of his Nightscape Familiars. During his following turn, he played Fact or Fiction, flipping island, island, two Ghastly Demise and an Engineered Plague. Nitter seemed to gamble on Cornelissen being short on land, and he chose to put the two lands in a separate pile. The choice could be questioned as the Dutchman had a Familiar in play, and Cornelissen chose the pile with the three spells, indicating that he had enough lands.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a846.jpg)
+
+Cornelissen chose to play first in the third game, and he kept his opening hand. Nitter kept as well, and he played a turn one Careful Study, discarding a Basking Rootwalla that came into play thanks to the madness, and a forest. Cornelissen played one of his Nightscape Familiars. During his following turn, he played Fact or Fiction, flipping island, island, two Ghastly Demise and an Engineered Plague. Nitter seemed to gamble on Cornelissen being short on land, and he chose to put the two lands in a separate pile. The choice could be questioned as the Dutchman had a Familiar in play, and Cornelissen chose the pile with the three spells, indicating that he had enough lands.
 
 Again, Nitter got out a Nantuko Blightcutter. Cornelissen answered by getting out a Psychatog, but it didn't prevent Nitter from attacking with his two creatures. Cornelissen chose to block the Rootwalla with his Psychatog, and when Nitter pumped it, the Dutchman Ghastly Demised it. Then, Nitter summoned an Aquamoeba.
 

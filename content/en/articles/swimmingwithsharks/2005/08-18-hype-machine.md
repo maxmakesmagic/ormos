@@ -312,7 +312,9 @@ Jonathan Sonne
   
  
 
-![](https://i.ormos.uk/1b/c2/1bc2209bfb892b05fca2f54f834651236705f7f8047f02e1f3d439a7c138cfd3.jpg)De Rosa and Sonne play essentially the same plan. They ramp up their mana, breaking the UrzaTron in the same way a Tooth and Nail player tries to do. Because they don't have search cards like Reap and Sow, their UrzaTron Blue decks dig with spells like Concentrate or Thirst for Knowledge. Once their land combos are put together, look for these decks to bully the beatdown with Triskelion or take control of your next turn – and the game itself – via Mindslaver. 
+![](https://i.ormos.uk/1b/c2/1bc2209bfb892b05fca2f54f834651236705f7f8047f02e1f3d439a7c138cfd3.jpg)
+
+De Rosa and Sonne play essentially the same plan. They ramp up their mana, breaking the UrzaTron in the same way a Tooth and Nail player tries to do. Because they don't have search cards like Reap and Sow, their UrzaTron Blue decks dig with spells like Concentrate or Thirst for Knowledge. Once their land combos are put together, look for these decks to bully the beatdown with Triskelion or take control of your next turn – and the game itself – via Mindslaver. 
 
 The main differences come out in the players' sideboards. Sonne morphs into a more controlling deck in the mirror, using Jushi Apprentices like a “regular” Mono-Blue Control deck, whereas De Rosa can aim Cranial Extraction at the head of a Tooth and Nail player. When facing little decks, Sonne hides behind his Defenders, whereas De Rosa plays maybe the most frustrating card in all of Standard: Sun Droplet.
 
@@ -340,7 +342,9 @@ Kirk Dalton
   
  
 
-![](https://i.ormos.uk/0b/9f/0b9f72f98cd028b967a4c3bc837930e4daedc9de99a04cd88df4bf8dd9bd1cb6.jpg)Kirk's deck is anything but an expected archetype for this Standard. His creature setup is something that we would expect out of maybe Medium Green… Until you get to the two copies of Ink-Eyes, Servant of Oni at the top of his curve. Kirk can get a quick beatdown with Troll Ascetic, dominate the weenie decks with an Iwamori of the Open Fist, or play a control / blocking strategy, hiding behind Sakura-Tribe Elder and his 187s.
+![](https://i.ormos.uk/0b/9f/0b9f72f98cd028b967a4c3bc837930e4daedc9de99a04cd88df4bf8dd9bd1cb6.jpg)
+
+Kirk's deck is anything but an expected archetype for this Standard. His creature setup is something that we would expect out of maybe Medium Green… Until you get to the two copies of Ink-Eyes, Servant of Oni at the top of his curve. Kirk can get a quick beatdown with Troll Ascetic, dominate the weenie decks with an Iwamori of the Open Fist, or play a control / blocking strategy, hiding behind Sakura-Tribe Elder and his 187s.
 
 Looking over his spell section, it's hard to figure out where Kirk gets all the room. He has the Maximum Number of starting Plow Unders… *and* room for Persecute as an additional disruptive element. On top of all that, he can keep tempo against another deck with creatures via a package of Rend Flesh *and* Terror. 
 

@@ -894,13 +894,17 @@ Here is the complete breakdown of the deck archetypes that were played in the to
 
 ### Clamp Bidding - Six players
 
-![](https://i.ormos.uk/ab/fd/abfdef543851f423f996fc27b39b831a26b329d8a1075561e3ae6b8221614cdb.jpg)With three decks making the Top 8 it was also the most successful archetype in the tournament. There was some minor variation from deck to deck—Detonates, Terrors, Electrostatic Bolts, even Scrabbling Claws—but one thing was constant. Each of the decks had four copies of Skullclamp and three or more copies of Patriarch's Bidding along with the four-of goblins. 
+![](https://i.ormos.uk/ab/fd/abfdef543851f423f996fc27b39b831a26b329d8a1075561e3ae6b8221614cdb.jpg)
+
+With three decks making the Top 8 it was also the most successful archetype in the tournament. There was some minor variation from deck to deck—Detonates, Terrors, Electrostatic Bolts, even Scrabbling Claws—but one thing was constant. Each of the decks had four copies of Skullclamp and three or more copies of Patriarch's Bidding along with the four-of goblins. 
 
 This is definitely one of the top decks and should be something you are either prepared to play with or against. Build a fairly standard copy and add it to your playtest gauntlet. If you don't have experience with or against this deck you could be in for a short Saturday at your local regionals.
 
 ### Ravager Affinity - Five players
 
-![](https://i.ormos.uk/ff/02/ff02382bedf93238658932881f167aca139412cc0993e26741498a6f067e1af9.jpg)I am making a distinction between this archetype and the deck that made Top 8. For the most part I am referring to decks that run twelve to sixteen artifact lands and also feature Disciple of the Vault. The highest place any of these decks posted was tenth. 
+![](https://i.ormos.uk/ff/02/ff02382bedf93238658932881f167aca139412cc0993e26741498a6f067e1af9.jpg)
+
+I am making a distinction between this archetype and the deck that made Top 8. For the most part I am referring to decks that run twelve to sixteen artifact lands and also feature Disciple of the Vault. The highest place any of these decks posted was tenth. 
 
 It could be just an aberration that kept these decks from floating to the top or it could be that Sparksmith gives the Goblin decks the edge they needed in game one. The fact that just about every deck seems to have eight anti-artifact spells doesn't help either. 
 
@@ -908,7 +912,9 @@ With Ravagers going for astronomical prices I wouldn't expect to see this deck n
 
 ### Mono-black Control - five players
 
-![](https://i.ormos.uk/30/79/30798aaf57adf5e0b073c72629a801ce8a31c00c5694d31aeac882544f924e3d.jpg)This was a pretty broad category that encompassed everything from the Soul Foundry deck in the Top 8 to a deck that touched blue for March of the Machines out of its sideboard. The one thing they all had in common was Death Cloud. (Yes, I realize that the Soul Foundry deck was touching red for artifact removal. Let's call them NMBC for Nearly Mono Black Control.)
+![](https://i.ormos.uk/30/79/30798aaf57adf5e0b073c72629a801ce8a31c00c5694d31aeac882544f924e3d.jpg)
+
+This was a pretty broad category that encompassed everything from the Soul Foundry deck in the Top 8 to a deck that touched blue for March of the Machines out of its sideboard. The one thing they all had in common was Death Cloud. (Yes, I realize that the Soul Foundry deck was touching red for artifact removal. Let's call them NMBC for Nearly Mono Black Control.)
 
 ### Red Deck Wins or Mono-Red - three players
 

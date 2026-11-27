@@ -44,7 +44,9 @@ archive_source:
   sha256: f7d5248e95e91d04fb4aa4ea76c664c98ee3e52b69e6959915ac64b2c3d66531
 render_recovery: []
 ---
-![](https://i.ormos.uk/3a/0e/3a0e9fa33801a105ab01a3139312239a8ecde3d72d14743b1c1a29d2d24b21aa.jpg)**Magic** has returned to its home city for the latest Grand Prix stop. More than 350 players have gathered in the Emerald City to test their Extended decks against the best. With Pro Tour-Atlanta just a week away, several of the top Japanese players have used Seattle as a rest stop on their way across the globe, highlighting an international field. Follow along all day Saturday and Sunday as Brian David-Marshall brings you inside Grand Prix-Seattle!
+![](https://i.ormos.uk/3a/0e/3a0e9fa33801a105ab01a3139312239a8ecde3d72d14743b1c1a29d2d24b21aa.jpg)
+
+**Magic** has returned to its home city for the latest Grand Prix stop. More than 350 players have gathered in the Emerald City to test their Extended decks against the best. With Pro Tour-Atlanta just a week away, several of the top Japanese players have used Seattle as a rest stop on their way across the globe, highlighting an international field. Follow along all day Saturday and Sunday as Brian David-Marshall brings you inside Grand Prix-Seattle!
 
 ## EVENT COVERAGE
 

@@ -150,7 +150,9 @@ Bienvenue dans le *Guide de survie dans Lorwyn* [\*](#footnote1), une nouvelle 
 
 **Comment s'y rendre**
 
-![Dolmen_Gate](https://i.ormos.uk/9a/f7/9af78711f9fe2a5173b4429e264bd1f9fb7a255041dca76a282bc1d307808922.jpg)On dit que transplaner en Lorwyn est difficile, mais cette réputation ne devrait pas dissuader le voyageur accompli. Lorwyn se trouve bien à l'écart des grandes intersections planaires et on trouve peu de renseignements sur ce monde dans la littérature paragéographique. De plus, le plan n'est pas particulièrement visible dans le vide ; il est localisé dans une région du rêve et de l'Æther qui le cache à la plupart des voyageurs. Cependant, certains arpenteurs ont réussi à s'y rendre sans incident en préparant au préalable des sorts qui harmonisent l'esprit avec les forces de la nature. Cette préparation permet à l'étincelle des arpenteurs traversant les Éternités aveugles d'être naturellement attirée par les frontières du plan.
+![Dolmen_Gate](https://i.ormos.uk/9a/f7/9af78711f9fe2a5173b4429e264bd1f9fb7a255041dca76a282bc1d307808922.jpg)
+
+On dit que transplaner en Lorwyn est difficile, mais cette réputation ne devrait pas dissuader le voyageur accompli. Lorwyn se trouve bien à l'écart des grandes intersections planaires et on trouve peu de renseignements sur ce monde dans la littérature paragéographique. De plus, le plan n'est pas particulièrement visible dans le vide ; il est localisé dans une région du rêve et de l'Æther qui le cache à la plupart des voyageurs. Cependant, certains arpenteurs ont réussi à s'y rendre sans incident en préparant au préalable des sorts qui harmonisent l'esprit avec les forces de la nature. Cette préparation permet à l'étincelle des arpenteurs traversant les Éternités aveugles d'être naturellement attirée par les frontières du plan.
 
 **Manque d'humanité**
 
@@ -166,7 +168,9 @@ Si vous n’avez pas un talent suffisant pour créer une illusion qui protège v
 
 **Races de Lorwyn**
 
-![Naths_Elite](https://i.ormos.uk/b5/92/b5922ca7a716b8d7beb981c7d2bd83d420a9dbecc25bf9a38b8d31efc6d99a69.jpg)La faune indigène de Lorwyn est dominée par huit races intelligentes : les elfes, les sangamis, les suires, les sangpyres, les boggarts, les sylvins, les géants et les færies, aussi appelé communément le peuple fée. Lorwyn sert aussi de résidence à une véritable ménagerie d'animaux et de formes de vie surnaturelles, dont bisons, sautelièvres et cervins, des créatures semi-intelligentes aux dons mimétiques appelées changelins et les majestueux grands élémentaux. Toutes ces espèces abondent dans le climat tempéré de Lorwyn et sa saison de croissance éternelle, qui contribuent à préserver le caractère sauvage et naturel du plan.
+![Naths_Elite](https://i.ormos.uk/b5/92/b5922ca7a716b8d7beb981c7d2bd83d420a9dbecc25bf9a38b8d31efc6d99a69.jpg)
+
+La faune indigène de Lorwyn est dominée par huit races intelligentes : les elfes, les sangamis, les suires, les sangpyres, les boggarts, les sylvins, les géants et les færies, aussi appelé communément le peuple fée. Lorwyn sert aussi de résidence à une véritable ménagerie d'animaux et de formes de vie surnaturelles, dont bisons, sautelièvres et cervins, des créatures semi-intelligentes aux dons mimétiques appelées changelins et les majestueux grands élémentaux. Toutes ces espèces abondent dans le climat tempéré de Lorwyn et sa saison de croissance éternelle, qui contribuent à préserver le caractère sauvage et naturel du plan.
 
 ### Elfes, sangamis, sangpyres et boggarts
 
@@ -198,7 +202,9 @@ Bavards et intelligents, les suires prennent rapidement le contrôle de la conve
 
 Nulle race de Lorwyn n'est plus étrange ou mystérieuse que les færies. La vie des fées est éphémère et dédiée aux commérages, aux diversions et aux intrigues les plus amusantes. Dédaigneuses et orgueilleuses, les færies sont comparables à des enfants turbulents. Elles passent leur temps à s'amuser, à profiter le plus possible de l'été éternel de Lorwyn et à satisfaire leurs caprices. Mais elles peuvent aussi se révéler cruelles, lunatiques et revanchardes. L'étude des færies peut paraître gratifiante pour les voyageurs extraplanaires, mais elle est parfois frustrante, voir même dangereuse.
 
-![Oonas_Prowler](https://i.ormos.uk/80/a2/80a2ed50b45dbb5fcfc4ff8bdb7343ab8283cb287d3de37646e7c711da8092a2.jpg)Les færies voyagent en petits groupes de trois à six appelés *cliques*. On ignore tout de leur origine, mais elles prétendent servir Oona, l'énigmatique Reine des færies. Personne n'a jamais vu Oona, et la plupart des races de Lorwyn pense qu'il s'agit simplement d'un mythe.
+![Oonas_Prowler](https://i.ormos.uk/80/a2/80a2ed50b45dbb5fcfc4ff8bdb7343ab8283cb287d3de37646e7c711da8092a2.jpg)
+
+Les færies voyagent en petits groupes de trois à six appelés *cliques*. On ignore tout de leur origine, mais elles prétendent servir Oona, l'énigmatique Reine des færies. Personne n'a jamais vu Oona, et la plupart des races de Lorwyn pense qu'il s'agit simplement d'un mythe.
 
 **Moisson des rêves**
 
@@ -210,7 +216,9 @@ Les sylvins de Lorwyn ont une espérance de vie et une mémoire infiniment plus 
 
 Le caractère et le rôle des sylvins sont largement déterminés par leur espèce. Les frênes, les bouleaux, les chênes, les sorbiers et les peupliers noirs ont tous des places différentes dans la société sylvine. Les sylvins germés d'ifs vénéneux ont à présent disparu sur Lorwyn, mais au moment de la publication de ces lignes, il en subsiste encore un : un grand ancêtre sylvin au savoir immense appelé Colfénor.
 
-![Battlewand_Oak](https://i.ormos.uk/69/a9/69a9e5dd6ea1fa90770e9604a163e2d6620f24c057d2e7eb804a26069b69cb24.jpg)Il est intéressant de savoir que les sylvins ne considèrent pas l'utilisation du bois comme tabou. Même s'ils pensent que tuer un arbre vivant est un crime, ils ne s’opposent pas à l'utilisation d'arbres morts pour fabriquer des outils. De plus, bon nombre d'espèces d'arbres sont parfaitement capables de se régénérer après la coupe de branches, que même les sylvins utilisent. Certains guerriers sylvins portent même des plaques d'armure et des massues de bois dur, parfois arrachées à leur propre tronc.
+![Battlewand_Oak](https://i.ormos.uk/69/a9/69a9e5dd6ea1fa90770e9604a163e2d6620f24c057d2e7eb804a26069b69cb24.jpg)
+
+Il est intéressant de savoir que les sylvins ne considèrent pas l'utilisation du bois comme tabou. Même s'ils pensent que tuer un arbre vivant est un crime, ils ne s’opposent pas à l'utilisation d'arbres morts pour fabriquer des outils. De plus, bon nombre d'espèces d'arbres sont parfaitement capables de se régénérer après la coupe de branches, que même les sylvins utilisent. Certains guerriers sylvins portent même des plaques d'armure et des massues de bois dur, parfois arrachées à leur propre tronc.
 
 Les voyageurs planaires ont tout intérêt à entrer en contact avec les puissants sylvins. Excepté dans quelques rares cas, ils offrent leur philosophie et leur connaissance mystique à quiconque la demande — sous la forme d'aphorismes simples, et pourtant difficiles à déchiffrer. Décortiquer la sagesse des sylvins peut parfois prendre des années au penseur le plus assidu, mais la patience sera récompensée. Les sylvins ont visité Lorwyn plus en profondeur, et pendant plus de temps, que les races humanoïdes ; pour eux, ces siècles d'expérience sont un trésor aussi précieux que les butins des boggarts. À l'instar des ressources naturelles de Lorwyn encore vierges, la sagesse de ses sylvins est encore loin d’être exploitée.
 
@@ -252,7 +260,9 @@ Cette étendue forestière labyrinthique est considérée comme la meilleure ré
 
 **La rivière de Vinerrance**
 
-![Wanderwine_Hub](https://i.ormos.uk/6c/47/6c47601c06da69ab85a70eacb4f882374732ba99dd5339c634825eb8baaf20e5.jpg)Toutes les Voies des Suires valent la peine d'être explorées. Mais si vous n'avez le temps de voir qu'un fleuve, visitez la Vinerrance. C'est la rivière de Lorwyn qui connaît le plus de trafic, et par conséquent, le lieu où vous aurez le plus l'occasion de converser et de marchander avec ces créatures aquatiques. Certains tunnels menant aux Méandres obscurs s'ouvrent dans le lit de la Vinerrance.
+![Wanderwine_Hub](https://i.ormos.uk/6c/47/6c47601c06da69ab85a70eacb4f882374732ba99dd5339c634825eb8baaf20e5.jpg)
+
+Toutes les Voies des Suires valent la peine d'être explorées. Mais si vous n'avez le temps de voir qu'un fleuve, visitez la Vinerrance. C'est la rivière de Lorwyn qui connaît le plus de trafic, et par conséquent, le lieu où vous aurez le plus l'occasion de converser et de marchander avec ces créatures aquatiques. Certains tunnels menant aux Méandres obscurs s'ouvrent dans le lit de la Vinerrance.
 
 **Kinsbayel**
 
@@ -264,7 +274,9 @@ Les régions habitées de Lorwyn sont entourées de montagnes sinueuses qui semb
 
 **Le Vallon d'Elendra**
 
-![Secluded_Glen](https://i.ormos.uk/5e/22/5e222db27f35ac81695f961261def0638608db440abc0078e7c82cdb0c72eee2.jpg)On raconte qu'au cœur des montagnes de Lorwyn se cache une vallée mystique appelée le Vallon d'Elendra, où sont cachés de vastes trésors magiques. Localiser le Vallon d'Elendra a fait l'objet de plusieurs tentatives et, bien que plusieurs vallées encaissées aient été découvertes et répertoriées dans les montagnes, aucune d'entre elles ne correspond à la description de la légende. Il est possible que de puissantes illusions protègent le Vallon ; en fait, il se pourrait même qu'une des vallées désertes déjà répertoriées *soit* le Vallon. Bien que l'identité des forces dissimulant le Vallon d'Elendra et les raisons de sa protection fassent l'objet de nombreuses théories, sa véritable signification reste un mystère complet.
+![Secluded_Glen](https://i.ormos.uk/5e/22/5e222db27f35ac81695f961261def0638608db440abc0078e7c82cdb0c72eee2.jpg)
+
+On raconte qu'au cœur des montagnes de Lorwyn se cache une vallée mystique appelée le Vallon d'Elendra, où sont cachés de vastes trésors magiques. Localiser le Vallon d'Elendra a fait l'objet de plusieurs tentatives et, bien que plusieurs vallées encaissées aient été découvertes et répertoriées dans les montagnes, aucune d'entre elles ne correspond à la description de la légende. Il est possible que de puissantes illusions protègent le Vallon ; en fait, il se pourrait même qu'une des vallées désertes déjà répertoriées *soit* le Vallon. Bien que l'identité des forces dissimulant le Vallon d'Elendra et les raisons de sa protection fassent l'objet de nombreuses théories, sa véritable signification reste un mystère complet.
 
 **Le Bosquet bruissant**
 
@@ -272,7 +284,9 @@ En plein cœur de la forêt la plus grande de Lorwyn se trouve le Bosquet bruiss
 
 **L'Amphithéâtre de Galanda Tuquerelle**
 
-![Ancient_Amphitheater](https://i.ormos.uk/eb/0a/eb0a8caa7c50c539a107f9711e0fa01f6238c03e9aae1e7bee0ca91c667da7e7.jpg)L'arbitre géante la plus respectée de Lorwyn, Galanda Tuquerelle siège dans un énorme amphithéâtre en cuvette situé dans les montagnes. Pour certains, ce sera la dernière cour qu'ils visiteront. Si Galanda décide d'écouter les témoignages des deux partis, son jugement est rapide et absolu — les innocents ont le droit de partir sans encombre, et les coupables sont souvent tués pour avoir fait perdre son temps à l'arbitre. Cherchez de gigantesques dolmens formant une sorte de cuvette, et gardez l'œil ouvert.
+![Ancient_Amphitheater](https://i.ormos.uk/eb/0a/eb0a8caa7c50c539a107f9711e0fa01f6238c03e9aae1e7bee0ca91c667da7e7.jpg)
+
+L'arbitre géante la plus respectée de Lorwyn, Galanda Tuquerelle siège dans un énorme amphithéâtre en cuvette situé dans les montagnes. Pour certains, ce sera la dernière cour qu'ils visiteront. Si Galanda décide d'écouter les témoignages des deux partis, son jugement est rapide et absolu — les innocents ont le droit de partir sans encombre, et les coupables sont souvent tués pour avoir fait perdre son temps à l'arbitre. Cherchez de gigantesques dolmens formant une sorte de cuvette, et gardez l'œil ouvert.
 
 **Velis Vel**
 

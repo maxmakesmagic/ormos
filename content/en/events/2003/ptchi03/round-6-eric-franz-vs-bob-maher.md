@@ -123,7 +123,9 @@ render_recovery:
   - Unified Strike
   occurrences: 101
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a877.jpg)Bob Maher is on a streak as of late, doing well in every premier event he showed up for. He's on the ropes now though, as both he and his opponent, Eric Franz, are on 3-2. Eric Franz has been quiet after finishing second at US Nationals and the team competition at Worlds last season. He's looking to get another money finish here but he needs to win this match to draw into day 2.
+![](http://www.wizards.com/sideboard/images/ptchi03/a877.jpg)
+
+Bob Maher is on a streak as of late, doing well in every premier event he showed up for. He's on the ropes now though, as both he and his opponent, Eric Franz, are on 3-2. Eric Franz has been quiet after finishing second at US Nationals and the team competition at Worlds last season. He's looking to get another money finish here but he needs to win this match to draw into day 2.
 
 ### Game 1
 
@@ -131,7 +133,9 @@ Maher won the die roll and chose to play first. He's with a white/red aggressive
 
 Franz returned the favor by killing Maher's morph with a Shock and playing another one. All Maher could manage was a Harrier on his turn 5 so when Franz' morph went unblocked and turned out to be Commando number two the game looked rough for Maher. A Wirewood Savage for Franz only added to his misery.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a878.jpg)A well timed Threaten came up just in time to regain a bit of tempo for Maher as Franz chose to block the stolen Skirk with his Savage, losing both his creatures in the process. Had he not blocked he would've still had the Commando but apparently he had misinterpreted Threaten a little. A Harrier from Maher gave him a little pressure to work with. Franz' oversight turned out not to matter over the next couple of turns as Franz drew and played Symbiotic Elf, Goblin Sledder and Barkhide Mauler while Maher drew a Mountain, a Plains, and an Explosion for one. Not a fair fight at all.
+![](http://www.wizards.com/sideboard/images/ptchi03/a878.jpg)
+
+A well timed Threaten came up just in time to regain a bit of tempo for Maher as Franz chose to block the stolen Skirk with his Savage, losing both his creatures in the process. Had he not blocked he would've still had the Commando but apparently he had misinterpreted Threaten a little. A Harrier from Maher gave him a little pressure to work with. Franz' oversight turned out not to matter over the next couple of turns as Franz drew and played Symbiotic Elf, Goblin Sledder and Barkhide Mauler while Maher drew a Mountain, a Plains, and an Explosion for one. Not a fair fight at all.
 
 "My last couple of draw phases were a little too similar." – Bob Maher
 
@@ -143,7 +147,9 @@ Maher got off to a better start this game with a turn one Weatherer Wayfarer and
 
 Turn four brought a morph for Maher and an Undorak for Franz. Maher then held off on his turn 5 and passed the turn without a play. Franz eyed him suspiciously and, after some thinking, decided to just play his Centaur Glade and pass. Maher did indeed have a trick in his hand in Akroma's Blessing but Franz didn't fall for it and Maher was way behind on tempo now and the Glade didn't give him a lot of time to catch up either.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a879.jpg)An Avarax came out on turn 6 but all it did was trade with the Undorak. A Symbiotic Beast and a Menacing Ogre were a little more threatening then a Gustcloak Harrier in the next couple of turns but Maher still had a chance. His hand had not one, not two, but three Erratic Explosions so he just bid zero for the Ogre and let Franz lose three life to make it 5/5. He then traded his morph for the Symbiotic Beast on Franz' attack, using the Medic to save his Harrier. A Shock from Franz finished off the Harrier afterwards and Maher didn't have the small chance of racing Franz' Beast horde. When his first Erratic Explosion hit a Shock putting Franz on 14, the game turned academic. A couple of Centaurs and the Menacing Ogre quickly finished the still struggling Maher and Franz advances to day 2 to try and show his Nationals performance wasn't a fluke.
+![](http://www.wizards.com/sideboard/images/ptchi03/a879.jpg)
+
+An Avarax came out on turn 6 but all it did was trade with the Undorak. A Symbiotic Beast and a Menacing Ogre were a little more threatening then a Gustcloak Harrier in the next couple of turns but Maher still had a chance. His hand had not one, not two, but three Erratic Explosions so he just bid zero for the Ogre and let Franz lose three life to make it 5/5. He then traded his morph for the Symbiotic Beast on Franz' attack, using the Medic to save his Harrier. A Shock from Franz finished off the Harrier afterwards and Maher didn't have the small chance of racing Franz' Beast horde. When his first Erratic Explosion hit a Shock putting Franz on 14, the game turned academic. A couple of Centaurs and the Menacing Ogre quickly finished the still struggling Maher and Franz advances to day 2 to try and show his Nationals performance wasn't a fluke.
 
 **Final Result:** Game 2 and the match to Eric Franz
 

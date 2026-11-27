@@ -37,7 +37,9 @@ archive_source:
   sha256: 309a1bd836ea97b1c29915aa0d4b640ee535c44c2aa3c845510395d331b50153
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/767.jpg)Michael Pustilnik and Svend Sparre Geertsen are both at 9-1-1 record right now. A 2-1 finish in this draft pod will guarantee either of them a slot in the Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/767.jpg)
+
+Michael Pustilnik and Svend Sparre Geertsen are both at 9-1-1 record right now. A 2-1 finish in this draft pod will guarantee either of them a slot in the Top 8.
 
 Pustilnik drafted a solid B/U/w deck with three Faerie Squadrons, a Rout, and a number of other goodies. Geertsen drafted a typical B/R deck. Although his creatures are mostly solid, his removal is lacking, as not enough good removal spells were opened during their draft.
 
@@ -51,7 +53,9 @@ Halam Djinn hit Pustilnik once, but a Recoil was able to send it back to Geertse
 
 Pustilnik boarded out his Dismantling Blow for a Metathran Zombie. Geertsen, knowing about Pustilnik's somewhat precarious mana situation, boarded in Pain/Suffering.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/768.jpg)Pustilnik played a Phyrexian Infiltrator and proceeded to attack with it for a few turns, removing Geertsen's creatures along the way. Geertsen used Suffering to destroy his opponent's only Island, then cast Hypnotic Cloud to take out a bunch of good cards, but he still did not have any offense on the table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/768.jpg)
+
+Pustilnik played a Phyrexian Infiltrator and proceeded to attack with it for a few turns, removing Geertsen's creatures along the way. Geertsen used Suffering to destroy his opponent's only Island, then cast Hypnotic Cloud to take out a bunch of good cards, but he still did not have any offense on the table.
 
 Creatures finally began to enter play on Geertsen's side of the table at this point. He cast Alloy Golem and a kicked Kavu Aggressor. Pustilnik left the Infiltrator untapped, ready to block, put damage on the stack, then steal an Alloy Golem - but Geertsen had other plans, using his Stun on the Infiltrator to attack for 8. Pustilnik announced this to be the best Stun ever, but refused to simply trade his Infiltrator for an Alloy Golem, going down to 8 life points instead.
 
@@ -65,7 +69,9 @@ Geertsen boarded in a Tainted Well, further trying to meddle with his opponent's
 
 This time it was Geertsen's turn to mulligan. His new hand was keepable but far from exciting. Geertsen could not muster an early offense, but much like his opponent in the first game, he drew into the other lands he needed very quickly.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/769.jpg)Marauding Knight came to play as a 4/4, but Pustilnik had a number of answers. His Phyrexian Infiltrator needed just one more Island to trade with the Knight, and he cast a Stormscape Apprentice to go along with it.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/769.jpg)
+
+Marauding Knight came to play as a 4/4, but Pustilnik had a number of answers. His Phyrexian Infiltrator needed just one more Island to trade with the Knight, and he cast a Stormscape Apprentice to go along with it.
 
 Geertsen was able to kill the Apprentice and deal some damage with the Knight, till Pustilnik finally managed to trade it in combat for the Infiltrator (once the Knight switched sides, it no longer had +2/+2, and died to combat damage from the Infiltrator).
 

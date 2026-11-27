@@ -44,7 +44,9 @@ archive_source:
   sha256: eeabc84a8b45341faea40ff999e3cf421f125519844ecbec310727f2b5807c2e
 render_recovery: []
 ---
-![](https://i.ormos.uk/ed/b7/edb76be9818aec5cbfa15b014b4ca61950cb7c798a58a3aa6356db55892ff1dc.jpg)"This is the fourth time I have made the top 8, but it feels even better this time. It has been so long since the last time," Svend Geertsen grins. After lurking in the shadows for a while, the Dane stepped back into the spotlight by going into the playoff of 2002 Pro Tour Nice as the first seed.
+![](https://i.ormos.uk/ed/b7/edb76be9818aec5cbfa15b014b4ca61950cb7c798a58a3aa6356db55892ff1dc.jpg)
+
+"This is the fourth time I have made the top 8, but it feels even better this time. It has been so long since the last time," Svend Geertsen grins. After lurking in the shadows for a while, the Dane stepped back into the spotlight by going into the playoff of 2002 Pro Tour Nice as the first seed.
 
 It has been many years since the 15-year-old Svend Geertsen made a name for himself after making the top 8 at Worlds 1995. After that, he took Stompy to new heights, and at the young age of 21, Svend is one of the old-timers of Magic: the Gathering. The Dane's last top 8 finish came back in 1999 Pro Tour Los Angeles though, and after a sort of mediocre finish at the Danish Nationals just a week ago, Svend found himself unqualified for Worlds for the first time since 1995.
 

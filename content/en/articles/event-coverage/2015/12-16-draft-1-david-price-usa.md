@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Rui Oliveira*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/163.jpg)Sometimes even the Pros step into the Twilight Zone. If you don't believe me you can ask David Price. Little did the King of Qualifiers know what he was about to face as he walked to his first Draft. Sitting on the third seat Price had a Portuguese player to his right who is a very young local Constructed player, he had never played Draft before and he could not understand English, his name: Marcio Carvalho. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/163.jpg)
+
+Sometimes even the Pros step into the Twilight Zone. If you don't believe me you can ask David Price. Little did the King of Qualifiers know what he was about to face as he walked to his first Draft. Sitting on the third seat Price had a Portuguese player to his right who is a very young local Constructed player, he had never played Draft before and he could not understand English, his name: Marcio Carvalho. 
 
 Most players seemed to be going to extremes when faced with Price's presence: some would look at him after making each pick (waiting for his acquiescence) while others would totally ignore him (probably because he kept shaking his head). 
 

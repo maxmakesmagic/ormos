@@ -506,7 +506,9 @@ Other than that they still require the same entry fee (2 Event Tickets plus prod
 
 ### Tribal Wars
 
-![](https://i.ormos.uk/07/f2/07f2aa1b41e8d30b52dda9f39e9b68022f926ff1c6cacf7b3c23eef6177b2293.jpg)Tribal Wars is a pretty cool format that popped up in one **Magic** Invitational and also got a huge boost in *Onslaught* block, where “creature type matters.” The format has been covered here and there on **magicthegathering.com**, and here's a few links for those of you who haven't dabbled in the format yet.
+![](https://i.ormos.uk/07/f2/07f2aa1b41e8d30b52dda9f39e9b68022f926ff1c6cacf7b3c23eef6177b2293.jpg)
+
+Tribal Wars is a pretty cool format that popped up in one **Magic** Invitational and also got a huge boost in *Onslaught* block, where “creature type matters.” The format has been covered here and there on **magicthegathering.com**, and here's a few links for those of you who haven't dabbled in the format yet.
 
 *   [Family Feuds](/en/articles/houseofcards/2003/04-24-family-feuds) by Mark Gottlieb
 *   [Into The Aether: Men, Vedalken, and RachelR](https://web.archive.org/web/20050908000000/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/jm68) by JMS (with lots of other links)
@@ -544,7 +546,9 @@ The most important question now is... what tribe? I thought long and hard about 
 
 ### Bringing It!
 
-![](https://i.ormos.uk/31/c2/31c2183cc1045fb1563a4a1cc52fa307fa7571c38af727616213bbfd65cc05a2.jpg)That's why I decided on the Bringer Tribe. Fun, obscure, and potentially powerful, these *Fifth Dawn* critters bring some interesting deck construction challenges.
+![](https://i.ormos.uk/31/c2/31c2183cc1045fb1563a4a1cc52fa307fa7571c38af727616213bbfd65cc05a2.jpg)
+
+That's why I decided on the Bringer Tribe. Fun, obscure, and potentially powerful, these *Fifth Dawn* critters bring some interesting deck construction challenges.
 
 Once you decide on the Bringers, your choices are pretty well locked in; with only five Bringers, you've got to play four copies of all of them just to meet your minimum requirements of 20 tribal members. After that, you've got some serious mana concerns; how can you consistently get all five colors out there to actually play these guys via their alternative mana costs since for five mana they're a bargain, but for nine? Ouch!
 

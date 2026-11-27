@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM9benafel.jpg)Pro Tour: Paris winner Mike Long faces off against Pro Tour: LA '99 finalist Chris Benafel in this round. The two played each other in the quarterfinals of PTLA, where Benafel ended up winning the close match. They have become good friends since, so their match was an interesting mixture of their extremely competitive natures balanced by the fact that the two were friends. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM9benafel.jpg)
+
+Pro Tour: Paris winner Mike Long faces off against Pro Tour: LA '99 finalist Chris Benafel in this round. The two played each other in the quarterfinals of PTLA, where Benafel ended up winning the close match. They have become good friends since, so their match was an interesting mixture of their extremely competitive natures balanced by the fact that the two were friends. 
 
 Benafel drafted a solid U/W/g deck with Rout, Fact or Fiction and some tappers. Long's deck was B/U/W, with a number of good cards like Stalking Assassin and Agonizing Demise. Benafel felt confident that his deck was superior or at least equal to Long's prior to the match. 
 
@@ -58,7 +60,9 @@ A turn or two later Benafel cast Fact or Fiction, which yielded his MVP - a Rout
 
 At that point both players become extremely conservative. Long traded a Glimmering Angel for a Benalish Lancer in combat - normally a terrible trade, but neither player wanted to have many more creatures than the other in order to avoid Rout advantage. Benafel already had an advantage in that he could return Shackles to his hand before casting Rout, and Long wanted to be very careful to make sure Benafel's advantage did not become devastating. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM9long.jpg)Long did a great job pretending to play around Rout. In fact, he was simply mana-flooded. By the time the game ended, Long had drawn a total of twelve lands and ten spells! Benafel was actually holding back some creatures in his hand, but he never had to cast his Rout. Keeping just one creature ahead of Long, he won eventually by attacking for two points a turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM9long.jpg)
+
+Long did a great job pretending to play around Rout. In fact, he was simply mana-flooded. By the time the game ended, Long had drawn a total of twelve lands and ten spells! Benafel was actually holding back some creatures in his hand, but he never had to cast his Rout. Keeping just one creature ahead of Long, he won eventually by attacking for two points a turn. 
 
 The second game saw the two players trade some small creatures in a series of early skirmishes. Long got a tapper on the table and played a defensive game, while Benafel summoned several large creatures - an Alloy Golem, Wayfaring Giant and a Benalish Lancer. 
 
@@ -78,7 +82,9 @@ Long was still in fairly good shape. He had enough life points left to stabilize
 
 Benafel declared his attack step and Long used his tapper to tap Benafel's tapper. In response, Benafel used his own tapper's ability to remove one of the potential blockers. This allowed him to sneak an extra two points of damage, leaving Long at 4 life. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM9morebenafel.jpg)Time was called during that turn. Long could no longer win the game, but he could play to a draw by surviving two more attacks. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM9morebenafel.jpg)
+
+Time was called during that turn. Long could no longer win the game, but he could play to a draw by surviving two more attacks. 
 
 The situation on the board was very complicated - with multiple tappers and other creatures capable of producing effects relevant to the game. Benafel came extremely close to winning, but Long played these last few turns very carefully, and achieved board control when time was called. He was down to one life point against Benafel's twenty, but would most likely win the game if there was about five more minutes of time available to them. He now had three of his Zombies, a tapper and an Assassin in play to Benafel's Benalish Trapper and a Capashen Unicorn. 
 

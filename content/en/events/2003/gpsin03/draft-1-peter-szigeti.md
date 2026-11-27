@@ -91,7 +91,9 @@ render_recovery:
 ---
 Going into the pod Szigeti had little idea what to expect, as he knew none of the players who were drafting at this table. He had spoken to a few locals who had told him to expect the unexpected when he sat down, but that really doesn't give you much of an idea about whos feeding you. Szigeti admitted after the draft that he was in fact looking to draft the colour combination that he ended up with, but unfortunately not quite this style of deck.
 
-![](http://www.wizards.com/sideboard/images/gpsin03/a963.jpg)When you have no idea whats happening on either side of you one of the best ways to over come it is to just open a nice rare and that's exactly what happened. After tearing open his first pack Szigeti found Jareth, Leonine Titan staring back at him. He flipped through the rest of the pack to see if there was anything else of interest, finding a Shock and a Primal Boost but they weren't even close on his grand scale.
+![](http://www.wizards.com/sideboard/images/gpsin03/a963.jpg)
+
+When you have no idea whats happening on either side of you one of the best ways to over come it is to just open a nice rare and that's exactly what happened. After tearing open his first pack Szigeti found Jareth, Leonine Titan staring back at him. He flipped through the rest of the pack to see if there was anything else of interest, finding a Shock and a Primal Boost but they weren't even close on his grand scale.
 
 Sliding the Jareth onto the table gave him the first half of his preferred colour combination, now if he could only secure the second. As the second pack came around he thumbed through with only two cards catching his eye, Swat and Barkhide Mauler, but there was no real decision to be made there, with Swat making the cut. Grabbing two Glory Seekers out of the next two packs Szigeti looked to be setting up a cute little white black deck, although he admitted that he would have rather been drafting the cleric version of the deck.
 

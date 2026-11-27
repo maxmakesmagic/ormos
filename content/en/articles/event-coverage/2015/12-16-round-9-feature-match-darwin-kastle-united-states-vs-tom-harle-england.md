@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/149.jpg)In the second round of the first draft, Darwin Kastle faced the young and talented Tom Harle from England. Darwin had a powerful black, blue and red deck, while Tom had a white and green deck with at least one basic land of each type. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/149.jpg)
+
+In the second round of the first draft, Darwin Kastle faced the young and talented Tom Harle from England. Darwin had a powerful black, blue and red deck, while Tom had a white and green deck with at least one basic land of each type. 
 
 Tom won the die roll and opted to draw, not play. Darwin played lands only during his first four turns, while Tom Harrowed and then dropped a turn four Sunscape Apprentice and then a Benalish Heralds. Darwin Recoiled the Heralds, and Tom had to discard, choosing a Hunting Kavu that headed to the graveyard. 
 

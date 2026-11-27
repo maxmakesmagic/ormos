@@ -157,7 +157,9 @@ render_recovery:
   - Phyrexian Negator
   occurrences: 1
 ---
-![](https://i.ormos.uk/32/9e/329efca4c699f5404f4b9c352c120d43655079de987cfb59a5636b1decd899c7.jpg)　岡本尋 Top 8 入りの興奮冷めやまぬところだが、しかし世界選手権はまだまだ佳境の真っ最中。岡本はこのラウンドを既に ID しており、悠々自適の休憩中。一方このマッチは、始まったかと思えばデッキチェックに突入し、ちょっとやきもき。
+![](https://i.ormos.uk/32/9e/329efca4c699f5404f4b9c352c120d43655079de987cfb59a5636b1decd899c7.jpg)
+
+　岡本尋 Top 8 入りの興奮冷めやまぬところだが、しかし世界選手権はまだまだ佳境の真っ最中。岡本はこのラウンドを既に ID しており、悠々自適の休憩中。一方このマッチは、始まったかと思えばデッキチェックに突入し、ちょっとやきもき。
 
 　それでは、しばしの休憩後にゲームをお届けしましょう。  
  　皆様もしばしご歓談でも。
@@ -182,7 +184,9 @@ render_recovery:
 
 　次のターンで更に Kai は《陰謀団式療法/Cabal Therapy》を。今回は Walls は動かない。裏向けのカードを見せつけながら Kai の指定を待つ。
 
-![](https://i.ormos.uk/a3/a3/a3a3295efd6e7aa876091d7af2030c01956c012ced9d0e6d130c72fe2e153687.jpg)　スカ。Walls が先ほどの《吸血の教示者/Vampiric Tutor》で入手したカードは《納墓/Entomb》。が、まぁこれはたいした事じゃぁない。Kai は慌てず騒がずに《再活性/Reanimate》を使用し《新緑の魔力/Verdant Force》に活を。
+![](https://i.ormos.uk/a3/a3/a3a3295efd6e7aa876091d7af2030c01956c012ced9d0e6d130c72fe2e153687.jpg)
+
+　スカ。Walls が先ほどの《吸血の教示者/Vampiric Tutor》で入手したカードは《納墓/Entomb》。が、まぁこれはたいした事じゃぁない。Kai は慌てず騒がずに《再活性/Reanimate》を使用し《新緑の魔力/Verdant Force》に活を。
 
 　無事 Kai の検閲を通過した Walls は《怒りの天使アクローマ/Akroma, Angel of Wrath》を墓地へと送る。釣りカードは手札には無い。なら簡単だ。引けばいいのさ。
 
@@ -202,7 +206,9 @@ render_recovery:
 
 **Game 2**
 
-![](https://i.ormos.uk/86/dc/86dc910f9dfe9d325fe71eba76129eec74a0d7265b5120a5e16799b310e85c24.jpg)　今度は逆に Walls の《強迫/Duress》から。Kai の手札から《吸血の教示者/Vampiric Tutor》が落とされる。更に Kai が動かぬ間に Walls の《陰謀団式療法/Cabal Therapy》が《再活性/Reanimate》をお役ご免。
+![](https://i.ormos.uk/86/dc/86dc910f9dfe9d325fe71eba76129eec74a0d7265b5120a5e16799b310e85c24.jpg)
+
+　今度は逆に Walls の《強迫/Duress》から。Kai の手札から《吸血の教示者/Vampiric Tutor》が落とされる。更に Kai が動かぬ間に Walls の《陰謀団式療法/Cabal Therapy》が《再活性/Reanimate》をお役ご免。
 
 　ゲームはリアニ対決らしからず地味な展開へと。Kai が《不可思議/Wonder》を生出しすれば、Walls の場には墓地に落とした《冥界のスピリット/Nether Spirit》が。更に Kai の《不可思議/Wonder》は《顔なしの解体者/Faceless Butcher》によって世を離れ、Kai には援軍無いままに Walls の場には《ファイレクシアの抹殺者/Phyrexian Negator》までもが。
 

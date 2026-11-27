@@ -136,7 +136,9 @@ render_recovery:
   - Zombie Cannibal
   occurrences: 130
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a944.jpg)Earlier on this year Gary had predicted that Katsuhiro would make his first Pro Tour top 8 this season and had played him twice since. Neither player was particularly happy to be facing each other due to mutual respect for each other's games.
+![](http://www.wizards.com/sideboard/images/ptnice02/a944.jpg)
+
+Earlier on this year Gary had predicted that Katsuhiro would make his first Pro Tour top 8 this season and had played him twice since. Neither player was particularly happy to be facing each other due to mutual respect for each other's games.
 
 Gary was running a Kamahl and a Cephalid Broker along with a few strong removal cards in black, but it was a bit of a three colour monstrosity as far as mana went. If he had good land draws he felt he could do reasonably well with it for the next three rounds.
 
@@ -152,7 +154,9 @@ After quite some thought Gary decided to draw. "You're welcome," he said with a 
 
 Once again the turn two Mad Dog made an appearance, but had no turn three play to back it up. Gary could do nothing till turn four, when he made a Cephalid Broker and correctly guessed that an Elephant token would come into play at the end of his turn. The Broker was duly Flame Bursted. Wise insinuated that it wasn't allowed with a smile, knowing how much trouble he was already in, then Thermal Blasted the Elephant Token.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a945.jpg)When Gary managed to summon an Aven Windreader the Mad Dog had finally met it's match, but the 3/3 flyer was then facing down a Krosan Archer and a Krosan Restrictor. No problem – he 'Repelled' the Archer and cast Chainer's Edict on the Restrictor, leaving his Aven Windreader free to attack for a turn. By this stage Mori had managed to reach the five mana needed to Flash back his Elephant Ambush. Wise traded a Soul Skirge with it – relieved that his opponent did not have a pump spell.
+![](http://www.wizards.com/sideboard/images/ptnice02/a945.jpg)
+
+When Gary managed to summon an Aven Windreader the Mad Dog had finally met it's match, but the 3/3 flyer was then facing down a Krosan Archer and a Krosan Restrictor. No problem – he 'Repelled' the Archer and cast Chainer's Edict on the Restrictor, leaving his Aven Windreader free to attack for a turn. By this stage Mori had managed to reach the five mana needed to Flash back his Elephant Ambush. Wise traded a Soul Skirge with it – relieved that his opponent did not have a pump spell.
 
 Soon afterwards Gary's Aven Windreader was Fiery Tempered and the board was cleared for a moment when Gary flashed back the Edict to kill the Archer that had been recast after the Repel.
 
@@ -168,7 +172,9 @@ Katsuhiro elected to play first but managed neither a turn 2 nor turn 3 play.
 
 "Go?" inquired Gary, happy to be able to make the first creature for once – a Fledgling Imp. When Mori then seemingly failed to make a fourth turn play Gary was suspicious of the Elephant Ambush again (Mori had 2 in his deck), but attacked into the untapped four mana anyway. Sure enough the Elephant came, but Gary had an Afflict and the two creatures traded.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a943.jpg)Once again the Japanese made no play in his own turn and Gary was then facing five untapped mana. Nevertheless he made a Pardic Firecat and swung over with haste. This seemed to work that turn, but the next turn, Mori now having 6 mana open, the Firecat hit a second Elephant. Shrugging, Wise cast Churning Eddy and killed the token and bounced a land.
+![](http://www.wizards.com/sideboard/images/ptnice02/a943.jpg)
+
+Once again the Japanese made no play in his own turn and Gary was then facing five untapped mana. Nevertheless he made a Pardic Firecat and swung over with haste. This seemed to work that turn, but the next turn, Mori now having 6 mana open, the Firecat hit a second Elephant. Shrugging, Wise cast Churning Eddy and killed the token and bounced a land.
 
 Once again there were no creatures on the board and Gary was feeling reasonably confident I imagine, as he was still on 20 life against the beat down deck. Mori then made a Minotaur Explorer (discarding Forest), and cast Fiery Temper on Wise's Cephalid Broker.
 

@@ -81,7 +81,9 @@ render_recovery:
   - Misdirection
   occurrences: 70
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a515.jpg)You would be hard pressed to find two more... how to put this... *confident* players in the world of professional Magic. Ben has not won a Pro Tour although he has made the finals twice. Eivind has only made the finals once but he did happen to win that one. Ben is the only player that can boast two Masters titles but he will always be remembered for his last round yesterday. With a 4-2 record and facing elimination, Ben was paired with one Kai Budde. A draw would guarantee both players a day 2 berth and Kai offered the draw. 
+![](http://www.wizards.com/sideboard/images/pthou02/a515.jpg)
+
+You would be hard pressed to find two more... how to put this... *confident* players in the world of professional Magic. Ben has not won a Pro Tour although he has made the finals twice. Eivind has only made the finals once but he did happen to win that one. Ben is the only player that can boast two Masters titles but he will always be remembered for his last round yesterday. With a 4-2 record and facing elimination, Ben was paired with one Kai Budde. A draw would guarantee both players a day 2 berth and Kai offered the draw. 
 
 Ben wanted to play and today he is sitting at the feature match table while Kai sleeps in for the first Pro Tour Saturday in over two years.
 
@@ -101,7 +103,9 @@ The Norwegian sent his Tog into the red zone for the first non-fetch land point 
 
 The draw-go portion of the game was on as both players played their lands and passed the turns fairly briskly. Slowly Ben started to catch up in the land department and nothing exciting happened until a brief skirmish over Eivind's EOT Gush, which resulted in Ben's FoF getting Memory Lapsed and two cards for the man from Norway.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a516.jpg)Tog hit the board after he untapped and another conflict developed over the Lapsed FoF during Ben's turn. In the middle of three Counterspells Ben snuck an Edict onto the stack to kill the smiling Atog. In any AK mirror match it is risky to cast the first one the game often comes down to who can hold out the longest. Eivind cracked first and drew a card during Ben's EOT.
+![](http://www.wizards.com/sideboard/images/pthou02/a516.jpg)
+
+Tog hit the board after he untapped and another conflict developed over the Lapsed FoF during Ben's turn. In the middle of three Counterspells Ben snuck an Edict onto the stack to kill the smiling Atog. In any AK mirror match it is risky to cast the first one the game often comes down to who can hold out the longest. Eivind cracked first and drew a card during Ben's EOT.
 
 Another Tog hit the table—the remove from game ability can let you cast your AK's and minimize your opponent's ability to cash in on them—and then Eivind cast his second AK. Ben attempted to Edict in response but and Aether Burst crumbed the play and then AK resolved for two cards...and then another for three cards. Ben had nothing for the bottom half of the turn.
 
@@ -123,7 +127,9 @@ Was it time for the Tog? Ben used Duress to find out and saw two Misdirection, C
 
 Ben – 1 Eivind – 1
 
-![](http://www.wizards.com/sideboard/images/pthou02/a517.jpg)Eivind played first and both players kept up a brisk pace throughout the match as neither one would be content with a draw. Ben attempted a turn three main phase Intuition that served to duress a Counterspell—although Ben would have probably preferred to find a fourth land. Ben cast AK at the end of the fourth turn but missed a land drop and discarded Deep Analysis. Eivind played lands every turn until Ben took a Leak on his EOT Gush. Eivind Intuitioned for Underground River at the end of the next exchange of turns and Ben drew out a Gainsay with FoF. Ben flashed back his Deep Analysis only to have it Misdirected to Eivind. Ben then played another form his hand and both players drew two cards.
+![](http://www.wizards.com/sideboard/images/pthou02/a517.jpg)
+
+Eivind played first and both players kept up a brisk pace throughout the match as neither one would be content with a draw. Ben attempted a turn three main phase Intuition that served to duress a Counterspell—although Ben would have probably preferred to find a fourth land. Ben cast AK at the end of the fourth turn but missed a land drop and discarded Deep Analysis. Eivind played lands every turn until Ben took a Leak on his EOT Gush. Eivind Intuitioned for Underground River at the end of the next exchange of turns and Ben drew out a Gainsay with FoF. Ben flashed back his Deep Analysis only to have it Misdirected to Eivind. Ben then played another form his hand and both players drew two cards.
 
 Despite drawing cards Eivind was till falling short in the action department. Ben attempted a Tog that did not survive the counter war. Ben went to ten and flashed back last turn's Deep Analysis. Eivind cast an AK for two cards and found a Tog of his own. He used the ACC for Gush and drew two cards and replayed an Island. Ben attempted to Edict it on his turn and an Aether Burst saved it. Ben cast FoF and took another Leak on Eivind's Counterspell. Eivind made the 2xIntuition and 2xIsland vs. Tog split and Ben opted for the four-card pile.
 

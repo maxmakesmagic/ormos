@@ -107,7 +107,9 @@ The main failure is our ability to get information out in a timely manner when i
 
 ### Other Items
 
-![](https://i.ormos.uk/51/91/5191b642b4e48c71fa3f59eaaa3aafa02adb759c44d7b300aeda11a85fa1cbd0.jpg)I know many of you have expressed interest in still having *Darksteel* events, even this late in the game. We were ready to toss the idea, but we've still got some time before *Fifth Dawn* releases online. However, I for one will push not to have them unless we see some solid server time with leagues running. I'm sorry, but given a choice between events or server stability, I want to keep ***Magic** Online* up and running.
+![](https://i.ormos.uk/51/91/5191b642b4e48c71fa3f59eaaa3aafa02adb759c44d7b300aeda11a85fa1cbd0.jpg)
+
+I know many of you have expressed interest in still having *Darksteel* events, even this late in the game. We were ready to toss the idea, but we've still got some time before *Fifth Dawn* releases online. However, I for one will push not to have them unless we see some solid server time with leagues running. I'm sorry, but given a choice between events or server stability, I want to keep ***Magic** Online* up and running.
 
 After this weekend, the team's a bit gun-shy about starting leagues. We saw leagues working during last week's test, but we also didn't see those two bugs. The dev team, understandably, would like some time to monitor the game. The team will be discussing when to flip the switch and I'll let you know as soon as a decision is made.
 

@@ -302,4 +302,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Kenneth Nagle](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)This article was written by Making Magic author and **Magic** head designer Mark Rosewater. Special thanks are due to interviewee Jeremy Jarvis!
+![Kenneth Nagle](https://i.ormos.uk/36/f7/36f721b7d86cd6baa42e539d43b8e75e0b0213a5a1b8570f547b0e9cfc889867.jpg)
+
+This article was written by Making Magic author and **Magic** head designer Mark Rosewater. Special thanks are due to interviewee Jeremy Jarvis!

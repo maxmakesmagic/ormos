@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Omeed Dariani*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b27.JPG)Sideboard (S): Where are you from?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b27.JPG)
+
+Sideboard (S): Where are you from?
 
 Meade Co., Ky.
 

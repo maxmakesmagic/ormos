@@ -136,7 +136,9 @@ render_recovery:
   - Trade Secrets
   occurrences: 125
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a877.jpg)Gary Wise and Mike Turian are both looking to make top 8, but because they have 28 points each, they need to win out to do so. Both players have great resumes to their credit. CMU regular Mike Turian has a Grand Prix win at Montreal and also a Pro Tour top 8. To go along with this he has many other high finishes. The blue/black deck he is armed with is very good, sporting fast creatures and a Voidmage Prodigy (can't keep Kai out of the feature match area). 
+![](http://www.wizards.com/sideboard/images/gpphi02/a877.jpg)
+
+Gary Wise and Mike Turian are both looking to make top 8, but because they have 28 points each, they need to win out to do so. Both players have great resumes to their credit. CMU regular Mike Turian has a Grand Prix win at Montreal and also a Pro Tour top 8. To go along with this he has many other high finishes. The blue/black deck he is armed with is very good, sporting fast creatures and a Voidmage Prodigy (can't keep Kai out of the feature match area). 
 
 Gary Wise has what may be an even greater list of accomplishments. He recently placed in the top 4 of Pro Tour Boston as a member of Courtney's Boys and a Worlds top 8 to go with the usual laundry list of high Pro Tour and Grand Prix finishes. Gary's deck is a high-powered red/white deck featuring multiple Sparksmiths and good removal. 
 
@@ -154,7 +156,9 @@ Beyond the Wretched Anurid, Mike's draw was not good. He had to play out Barren 
 
 Gary summoned a Dive Bomber, further torturing Mike through his Wretched Anurid's drawback. All Mike could do was summon an Entrails Feaster. It looked like Mike was trying to kill Gary through Sparksmith damage, but then Mike showed his trick. In response to Sparksmith shooting the Entrails Feaster, Mike cast Read the Runes for three, sacrificing the treacherous Anurid and the Entrails Feaster that would die anyway. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a878.jpg)The Sparksmith dominated play for a few turns while Gary attacked with the Sparksmith, Goblin Sledder, and a recently summoned Gustcloak Harrier, bringing Mike to 12 until Mike managed a Crown of Suspicion to finish the Sparksmith shenanigans. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a878.jpg)
+
+The Sparksmith dominated play for a few turns while Gary attacked with the Sparksmith, Goblin Sledder, and a recently summoned Gustcloak Harrier, bringing Mike to 12 until Mike managed a Crown of Suspicion to finish the Sparksmith shenanigans. 
 
 Gary had another. 
 

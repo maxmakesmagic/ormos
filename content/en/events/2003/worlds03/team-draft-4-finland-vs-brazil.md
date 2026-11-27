@@ -308,6 +308,8 @@ Tuomo Nieminen was looking to crush Carlos's dream for the second straight day. 
 
 If Carlos was looking for revenge he might need some help. Tuomo had dominated the tournament all week with only three match losses in a staggering twenty one games. Over that span he had only lost nine individual games. 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a554.jpg)While Carlos's deck ended up being a spicy little number with gobs of removal, Tuomo's deck featured a pair of Stoic Champions and seven solid cyclers. The Finn had a good amount of his own removal plus he had Crown of Awe, which was going straight in the deck. That card was just one example of how the Finns felt the draft was lost by the Brazilian team. "They don't take cards away from us," explained Tomi. "I have an Imagecrafter and a Seaswift—they should not have let me get the Crypt Sliver, for example."
+![](http://www.wizards.com/sideboard/images/worlds03/a554.jpg)
+
+While Carlos's deck ended up being a spicy little number with gobs of removal, Tuomo's deck featured a pair of Stoic Champions and seven solid cyclers. The Finn had a good amount of his own removal plus he had Crown of Awe, which was going straight in the deck. That card was just one example of how the Finns felt the draft was lost by the Brazilian team. "They don't take cards away from us," explained Tomi. "I have an Imagecrafter and a Seaswift—they should not have let me get the Crypt Sliver, for example."
 
 The Finns passed an Ambush Commander for the second time today and they claimed it was not the same situation. Tuomo took a solid card for his deck with his first pick of the pack. Not the same as letting the opponent get a highly useful card—like a disenchant or a tribal component--on the way back around. "Ambush Commander is good but its not like Jareth or anything," concluded Tomi.

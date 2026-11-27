@@ -74,7 +74,9 @@ render_recovery:
   - Moment's Peace
   occurrences: 32
 ---
-![](http://www.wizards.com/sideboard/images/gpham02/907.jpg)With three rounds to go both of these German players are in very strong positions. Arndt Meier stands at 10-1 while his opponent Dennis Schmitz is on 9-1-1. Meier is running G/W while Schmitz is running a U/G deck focused around threshold.
+![](http://www.wizards.com/sideboard/images/gpham02/907.jpg)
+
+With three rounds to go both of these German players are in very strong positions. Arndt Meier stands at 10-1 while his opponent Dennis Schmitz is on 9-1-1. Meier is running G/W while Schmitz is running a U/G deck focused around threshold.
 
 Both got a strong start with Mongrels and Rootwallas on turn two. Meier laid a plains and added an Anurid Brushhopper while Schmitz summoned a Werebear that didn’t quite match, for the moment.
 
@@ -94,7 +96,9 @@ Schmitz got off to a flier game two with Rootwalla, and two successive Wild Mong
 
 “What is that?” Schmitz said turning the card to read it.
 
-![](http://www.wizards.com/sideboard/images/gpham02/906.jpg)He attacked anyway, happy to trade an excess Island in his hand to keep the damage going. His deck was running out of steam as he could only summon a Wonder. Meanwhile Meier had found the fat flier portion of his deck as his own incarnation, Glory, entered play.
+![](http://www.wizards.com/sideboard/images/gpham02/906.jpg)
+
+He attacked anyway, happy to trade an excess Island in his hand to keep the damage going. His deck was running out of steam as he could only summon a Wonder. Meanwhile Meier had found the fat flier portion of his deck as his own incarnation, Glory, entered play.
 
 Schmitz still kept sending his Hounds into the red zone, trading two cards for Glory and bouncing Commander Eesha with an Aether Burst. Meier didn’t replay it dropping Mongrel instead with mana open to use Glory.
 

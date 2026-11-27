@@ -152,7 +152,9 @@ render_recovery:
   - Zombie Trailblazer
   occurrences: 125
 ---
-![](https://i.ormos.uk/14/bc/14bcbb2691961de25f9dc5148538aa7d7818ffa3da8faf518e6f551b52bbb11b.jpg)For this report, I mainly followed Kai's draft, with a bit of a sideline about Patrick. 
+![](https://i.ormos.uk/14/bc/14bcbb2691961de25f9dc5148538aa7d7818ffa3da8faf518e6f551b52bbb11b.jpg)
+
+For this report, I mainly followed Kai's draft, with a bit of a sideline about Patrick. 
 
 Kai opened his first booster, which wasn't very promising. He had Aether Burst and Gravedigger to choose from. After some deliberation Kai decided to go with the Burst. Then came Irridescent Angel as a second pick, making clear what would be his choice of draft. Second Thoughts came. The fourth choice was quite difficult since it included Mystic Zealot, Chamber of Manipulation and Repel. Kai didn't want to pass Patrick Mello the wrong signal, but he had no choice, so Zealot it was. Patrick took the Repel and thought Kai let him go blue, which would make it difficult for both of them. Luckily Patrick decided to stay out of it, he had his deck set on green-black, with Squirrel Nest first pick, Caustic Tar third pick. 
 

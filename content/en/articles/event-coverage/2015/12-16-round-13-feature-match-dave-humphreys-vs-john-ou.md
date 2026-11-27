@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Jamie Lynn* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/817.jpg)Your Move Games' Dave Humphreys was matched up against one of Melbourne's favorites John Ou. It was a long and important match for two reasons. The reason it was long was that both were playing Counter Oath decks, and important because whoever won would make Top 8 and a draw would eliminate them both. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/817.jpg)
+
+Your Move Games' Dave Humphreys was matched up against one of Melbourne's favorites John Ou. It was a long and important match for two reasons. The reason it was long was that both were playing Counter Oath decks, and important because whoever won would make Top 8 and a draw would eliminate them both. 
 
 **Game 1** 
 
@@ -60,7 +62,9 @@ Ou started game two off with a first turn Hidden Gibbons. He was fortunate becau
 
 As in all three games, Ou went first after he and Humphreys both mulliganed. Ou played a first and second turn Hidden Gibbons. Humphreys followed up with two Seal of Cleansings and Abundance. Ou only let one of the Seal of Cleansings get in play as he Mana Leaked and Counterspelled the other two. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/818.jpg)Humphreys drew first blood with his Faerie Conclave. The next turn Ou tried to cast Sylvan Library and had it Counterspelled to which he responded with a Force of Will. In the midst of all that, Humphreys sacrificed Seal of Cleansing to destroy the Hidden Gibbons. The tables turned when Humphreys cast Morphling. He then Swords to Plowshared Ou's Hidden Gibbons which put Ou at 17. Ou then got an Oath of Druids in play and retrieved a Morphling of his own off of it. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/818.jpg)
+
+Humphreys drew first blood with his Faerie Conclave. The next turn Ou tried to cast Sylvan Library and had it Counterspelled to which he responded with a Force of Will. In the midst of all that, Humphreys sacrificed Seal of Cleansing to destroy the Hidden Gibbons. The tables turned when Humphreys cast Morphling. He then Swords to Plowshared Ou's Hidden Gibbons which put Ou at 17. Ou then got an Oath of Druids in play and retrieved a Morphling of his own off of it. 
 
 When Ou was shuffling his graveyard back into his library he accidentally shuffled in the Hidden Gibbons that were removed from game earlier. He was given a warning and the Hidden Gibbons was removed from his library. 
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/8c/d7/8cd7c588be3c4a75cd852658884046a098a4ed3c0d4d418c31527f3c215b512d.jpg)Raphael Levy has been one of the top French players for a while and is still in form with a Top 8 finish from GP Barcelona to his credit. Jeff Cunningham made Top 8 in Pro Tour San Diego and was part of the Magic Colony experiment for Pro Tour Osaka.
+![](https://i.ormos.uk/8c/d7/8cd7c588be3c4a75cd852658884046a098a4ed3c0d4d418c31527f3c215b512d.jpg)
+
+Raphael Levy has been one of the top French players for a while and is still in form with a Top 8 finish from GP Barcelona to his credit. Jeff Cunningham made Top 8 in Pro Tour San Diego and was part of the Magic Colony experiment for Pro Tour Osaka.
 
 Cunningham has an aggressive red-black deck with a [Stalking Bloodsucker](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Bloodsucker) to settle the mid to late game. Levy has a blue-black deck.
 
@@ -87,7 +89,9 @@ Still needing more options Levy flashed back the second [Deep Analysis](https://
 
 Cunningham 1-0 Levy
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a951.jpg)Cunningham had another zippy start as [Filthy Cur](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Filthy+Cur) came in on turn 2. A [Peek](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peek) revealed the curve was there and sure enough Cunningham dropped [Gravegouger](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravegouger) and then Wererat.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a951.jpg)
+
+Cunningham had another zippy start as [Filthy Cur](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Filthy+Cur) came in on turn 2. A [Peek](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peek) revealed the curve was there and sure enough Cunningham dropped [Gravegouger](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravegouger) and then Wererat.
 
 [Innocent Blood](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood) took care of the Cur and a [Dreamwinder](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamwinder) put a halt on any attacking.
 
@@ -107,7 +111,9 @@ Cunningham 1-1 Levy
 
 Cunningham repeated game 2 with a turn 2 [Filthy Cur](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Filthy+Cur). He followed it with a threatening looking [Ember Beast](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ember+Beast).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a950.jpg)Levy couldn't remove the Cur directly and had to look to a [Skywing Aven](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven) to block it. Cunningham had a back up creature in the form of a Wererat to ensure the [Ember Beast](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ember+Beast) would keep coming. Then a [Cabal Torturer](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Torturer) appeared after it to neutralise Levy's [Skywing Aven](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a950.jpg)
+
+Levy couldn't remove the Cur directly and had to look to a [Skywing Aven](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven) to block it. Cunningham had a back up creature in the form of a Wererat to ensure the [Ember Beast](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ember+Beast) would keep coming. Then a [Cabal Torturer](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Torturer) appeared after it to neutralise Levy's [Skywing Aven](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven).
 
 Problems for the Frenchman, already short of half his life. A [Hydromorph Guardian](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hydromorph+Guardian) was not really the answer he needed.
 

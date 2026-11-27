@@ -637,7 +637,9 @@ render_recovery:
   - Taunting Elf
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a976.jpg)Everyone loves Mikey P but they also love Tomi Walamies. The onlookers seemed to fall along geographic lines as they chose which one of Magic's crowd favorites they wanted to urge on.
+![](http://www.wizards.com/sideboard/images/pthou02/a976.jpg)
+
+Everyone loves Mikey P but they also love Tomi Walamies. The onlookers seemed to fall along geographic lines as they chose which one of Magic's crowd favorites they wanted to urge on.
 
 Both players kept their opening hands although Mike had only two lands—an Island and the Goblin Burrows. He drew another Island on the second turn and played a Riptide Biologist. Tomi threw down two forests and the stout Elvish Warrior—"Not a beast?" asked Mike with a smile. Mike didn't draw a mountain for many turns but he was able to play an Ascending Aven and start to thaw out his deck with Screaming Seahawk x 4. Mike was poking through for some damage but Tomi was able to keep it to a minimum with a Wellwisher gaining him two life each turn. Tomi threw down a Screeching Buzzard to slow down Mike's airforce and a Symbiotic Beast to fortify his ground troops. When the Buzzard and the Aven traded Mike had a decision to make. He was holding two Pinpoint Avalanche, a Screaming Seahawk, Lavamancer's Skills and an Island in his hand. Mike wanted to be able to play a Seahawk and a Lavamancer's Skills—if he ever drew a Mountain and ultimately decided to discard one of his impossibly far off Pinpoint Avalanches. Mike kept playing Seahawks and not drawing Mountain while Tomi hoped to hold them off with a Spitting Gourna.
 

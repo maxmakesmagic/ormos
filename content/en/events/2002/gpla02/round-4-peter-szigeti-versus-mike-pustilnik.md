@@ -178,7 +178,9 @@ Mikey P won the die roll and chose to play first. Neither player mulliganed as t
 
 ### Game one:
 
-![](https://www.wizards.com/sideboard/images/gpla02/984.jpg)Doctor Mikey P started things off with a face-down Battering Craghorn, which got molested by PTR's Shock. PTR dropped a morph of his own (Goblin Taskmaster), which died to Mikey P's blocking Festering Goblin.
+![](https://www.wizards.com/sideboard/images/gpla02/984.jpg)
+
+Doctor Mikey P started things off with a face-down Battering Craghorn, which got molested by PTR's Shock. PTR dropped a morph of his own (Goblin Taskmaster), which died to Mikey P's blocking Festering Goblin.
 
 PTR beat down with Screeching Buzzard, and followed it up with a second morph creature, which was revealed to be Skittish Valesk as it died to Pinpoint Avalanche. Mikey P meticulously drew and kept life totals, marking each of PTR's morph creatures with a die. In contrast, PTR fidgeted with his whole body, stared at the board, and rushed through his turns, even as he played down two more morph guys. 
 

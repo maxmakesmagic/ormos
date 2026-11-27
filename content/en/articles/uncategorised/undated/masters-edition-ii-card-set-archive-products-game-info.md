@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/0c/5e/0c5ef5b09fb1f88f56fc175e69b5170f3750aae14e659335fc218255ff7df445.png)Available only on **Magic Online**, *Masters Edition II* features 245 cards with randomly-inserted premium cards. The cards are legal in the Classic format and any format that uses Classic to define card legality. It’s available only online in booster packs and theme decks, and the cards are not redeemable for physical product. The set includes 80 rares, 80 uncommons, 80 commons, and 5 snow-covered basic lands.
+![](https://i.ormos.uk/0c/5e/0c5ef5b09fb1f88f56fc175e69b5170f3750aae14e659335fc218255ff7df445.png)
+
+Available only on **Magic Online**, *Masters Edition II* features 245 cards with randomly-inserted premium cards. The cards are legal in the Classic format and any format that uses Classic to define card legality. It’s available only online in booster packs and theme decks, and the cards are not redeemable for physical product. The set includes 80 rares, 80 uncommons, 80 commons, and 5 snow-covered basic lands.
 
 **Set Name:** *Masters Edition II*  
 **Number of Cards:** 245

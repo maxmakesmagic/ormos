@@ -712,7 +712,9 @@ render_recovery:
 ---
 * * *
 
-![Urzas_Blueprints](https://i.ormos.uk/2f/a3/2fa32d0b0b80a106ccdcc5e4be05d4adaebe28a2ef092ecb07d0cf8e9eed9eb5.jpg)Ah, echo. Right now, I have four tried-and-true decks I’m playing for multiplayer (Rebels, Señor Stompy, my U/R Control deck, and G/W Slivers), and two of them (Stompy and U/R Control) feature echo creatures fairly prominently. 
+![Urzas_Blueprints](https://i.ormos.uk/2f/a3/2fa32d0b0b80a106ccdcc5e4be05d4adaebe28a2ef092ecb07d0cf8e9eed9eb5.jpg)
+
+Ah, echo. Right now, I have four tried-and-true decks I’m playing for multiplayer (Rebels, Señor Stompy, my U/R Control deck, and G/W Slivers), and two of them (Stompy and U/R Control) feature echo creatures fairly prominently. 
 
 Why *is* that? Why is echo so darned *nice* in multiplayer? 
 

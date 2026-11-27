@@ -59,7 +59,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm1ja_1.jpg)Neither of these European competitors needs much in the way of introduction. Nicolai Herzog made the finals of the last Rochester draft Pro Tour, losing only to Kai. He's been playing (and finishing highly) in Pro Tours for longer than I can remember. Eivind Nitter, rock star of the Pro Tour, was once quoted as saying that he was going to use his winnings from Pro Tour Nice to buy a new wardrobe. Today he seemed a little more subdued than his usual self.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm1ja_1.jpg)
+
+Neither of these European competitors needs much in the way of introduction. Nicolai Herzog made the finals of the last Rochester draft Pro Tour, losing only to Kai. He's been playing (and finishing highly) in Pro Tours for longer than I can remember. Eivind Nitter, rock star of the Pro Tour, was once quoted as saying that he was going to use his winnings from Pro Tour Nice to buy a new wardrobe. Today he seemed a little more subdued than his usual self.
 
 The table judge walked up to put up the nametags. "Are you…Nitter?" he jokingly said to Nicolai. "Haha," came the droll reply. "You wish," added Eivind.
 

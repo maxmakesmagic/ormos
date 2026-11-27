@@ -597,7 +597,9 @@ After all, most casual groups play with Type I restrictions - either formally or
 
 All this means that decks are less predictable. At least four different things might happen to your group as *Mirrodin* rolls out. It all depends on how your group thinks and acts:
 
-![](https://i.ormos.uk/75/dc/75dc0051d6e5122e2f764a890b509b1f56d76643bf38b7bf7178e61eab1c84b2.jpg)**1) *Mirrodin* cards dominate your group's decks, and gently slide away as new expansions become available.** When I say "dominate", I mean four-fifths of the non-land cards in every deck. This will happen more commonly than veterans realize, because we all forget that the new generations of **Magic** players have to start somewhere. Those who started with *Onslaught* or later are going to embrace *Mirrodin*, and the decks will play like fairly solid limited or block constructed decks, depending on the group's resources.
+![](https://i.ormos.uk/75/dc/75dc0051d6e5122e2f764a890b509b1f56d76643bf38b7bf7178e61eab1c84b2.jpg)
+
+**1) *Mirrodin* cards dominate your group's decks, and gently slide away as new expansions become available.** When I say "dominate", I mean four-fifths of the non-land cards in every deck. This will happen more commonly than veterans realize, because we all forget that the new generations of **Magic** players have to start somewhere. Those who started with *Onslaught* or later are going to embrace *Mirrodin*, and the decks will play like fairly solid limited or block constructed decks, depending on the group's resources.
 
 There's not much groups in this category need to worry about, in terms of metagame. Most of them are still learning the finer points of the game, and predicting/adjusting to opponents' decks isn't really a concern. It's a wild and fun time, and they don't need my help today. Let's move on to a more interesting case.
 
@@ -607,7 +609,9 @@ Of course, I mention Goblin Replica for a reason - it's a slow but very real rep
 
 But we have to consider other, more extreme possibilities...
 
-![](https://i.ormos.uk/a6/44/a6446f813a952639ce17aa5d837b1d715c25989610f4b23b731b6d60414cb9b8.jpg)**3) *Mirrodin* begins to push artifacts, but your group pushes back violently, and the set has a short-lived effect on your group.** I hope this doesn't happen in your corner of the world, but I have to believe that there will be some groups where two "deep" pools intersect: deep collections featuring cards like Splinter and Shatterstorm, and deep desire to penalize the latest "trend".
+![](https://i.ormos.uk/a6/44/a6446f813a952639ce17aa5d837b1d715c25989610f4b23b731b6d60414cb9b8.jpg)
+
+**3) *Mirrodin* begins to push artifacts, but your group pushes back violently, and the set has a short-lived effect on your group.** I hope this doesn't happen in your corner of the world, but I have to believe that there will be some groups where two "deep" pools intersect: deep collections featuring cards like Splinter and Shatterstorm, and deep desire to penalize the latest "trend".
 
 This desire would be the very same that inspired dusting off Tsabo's Decree and Extinction during *Onslaught* block, or Tormod's Crypt during *Odyssey* block. In small doses, it's no big deal - one guy packs the "perfect hoser" in a random deck or two - but if three or four players start to put it in more than one deck, it chills enthusiasm for the new set's flavor, and a lot of creativity gets lost.
 

@@ -278,7 +278,9 @@ My question is about this part specifically: "If the player discards a card, he 
 
 **A**: A mana curve is the mana cost of the spells in your deck laid out in ascending order. The idea is that you want several low-cost spells, some medium-cost spells, and a few high-cost spells so that you are more likely to have spells to cast at each stage of the game. If you have too many expensive (high-cost) spells, you won't live long enough to play them because you're more likely to be stuck doing nothing earlier in the game. You apply a mana curve when you're deciding how to build your deck (at say a sealed deck event, for instance). If your games seem to end with you holding several expensive spells, then maybe it's time to adjust your mana curve and/or raise the amount of lands you play. 
 
-![](https://i.ormos.uk/3c/0c/3c0c1bd9fbcd942ee2c54927164005eb0dee5f08846a8658a9ab0b1d50550c15.jpg)**Q**: Can I use world championship cards in tournaments if the cards are in colored sleeves? --Zach
+![](https://i.ormos.uk/3c/0c/3c0c1bd9fbcd942ee2c54927164005eb0dee5f08846a8658a9ab0b1d50550c15.jpg)
+
+**Q**: Can I use world championship cards in tournaments if the cards are in colored sleeves? --Zach
 
 **A**: No, [World Championship cards](https://web.archive.org/web/20041002000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/expansion/worldchampionshipdecks2003) are specifically prohibited from tournament play. This is true if you can't see the card backs (ie: opaque sleeves). Here's the text that applies from the [**Magic** Floor Rules](https://web.archive.org/web/20041002000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=dci/utr/intro):
 
@@ -295,7 +297,9 @@ My question is about this part specifically: "If the player discards a card, he 
 
 **A**: Not all spirits fly. The [token given out in 2001](http://www.magiclibrary.net/rarities-magic-player-rewards-tokens-2001.html) was created to go with the card [March of Souls](https://web.archive.org/web/20041002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=March+of+Souls). These are different spirits than the ones that come out of [Dripping-Tongue Zubera](https://web.archive.org/web/20041002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dripping-Tongue+Zubera), [Honden of Life's Web](https://web.archive.org/web/20041002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Honden+of+Life%27s+Web), or [Forbidden Orchard](https://web.archive.org/web/20041002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forbidden+Orchard).
 
-![](https://i.ormos.uk/c2/93/c29383094a1f73370bf327e0dee662b4e24e10af73ddf1a8234de1ac159928a0.jpg)**Q**: If I'm playing at the State Championships, can I have a list of favorable targets for [Cranial Extraction](https://web.archive.org/web/20041002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cranial+Extraction), or do I have to try and remember all these new card names? --Sean
+![](https://i.ormos.uk/c2/93/c29383094a1f73370bf327e0dee662b4e24e10af73ddf1a8234de1ac159928a0.jpg)
+
+**Q**: If I'm playing at the State Championships, can I have a list of favorable targets for [Cranial Extraction](https://web.archive.org/web/20041002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cranial+Extraction), or do I have to try and remember all these new card names? --Sean
 
 **A**: You cannot use outside notes during a match. “Outside notes” are anything that you did not write during that match. You could take notes during the match though. However, you can also call over a judge and ask for a card's name. All you have to do is be able to uniquely identify the card—just keep it fast. For example, you could say “the black dragon in *Champions*”, and the judge can confirm that that card's name is [Kokusho, the Evening Star](https://web.archive.org/web/20041002000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kokusho%2C+the+Evening+Star). Be careful, if you can't accurately describe the card, a judge might not be able to help—saying “the Akroma card” isn't good enough because there are multiple cards with “Akroma” in the name. 
 

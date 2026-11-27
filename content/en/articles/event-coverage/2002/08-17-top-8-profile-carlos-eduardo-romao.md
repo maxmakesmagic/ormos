@@ -44,7 +44,9 @@ archive_source:
   sha256: e3059f762f3662fd7d1117879d3c1dfe5dd4dc6ea57a110c2476fa07cb849319
 render_recovery: []
 ---
-![](https://i.ormos.uk/5c/4e/5c4ee031caf943ba90899fdaa4e7e43b8495fe6e0f3b6dc9feeb48e78afdd450.jpg)Carlos Eduardo Romao is living a dream. "I can't believe I made the Top 8," said the 20-year old Brazilian, "It's like a dream come true."
+![](https://i.ormos.uk/5c/4e/5c4ee031caf943ba90899fdaa4e7e43b8495fe6e0f3b6dc9feeb48e78afdd450.jpg)
+
+Carlos Eduardo Romao is living a dream. "I can't believe I made the Top 8," said the 20-year old Brazilian, "It's like a dream come true."
 
 Latin America has never had as much as a single PT Top 8; now, alongside Argentina's Diego Ostrovich, Romao has given them two.
 

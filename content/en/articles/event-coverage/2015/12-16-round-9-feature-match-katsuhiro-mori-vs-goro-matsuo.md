@@ -60,7 +60,9 @@ Katsuhiro Mori
 
 Game 2 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPkyo00/954.jpg)Katsuhiro mulliganed down to six. Goro started and on turn two played a Merfolk Looter. Turn three Mori played a Powder Keg and sacrificed it turn five to rid Goro of his Merfolk Looter. Next he followed up with intuition where he Force of Willed Goro's Counterspell. He played an Intuition and Goro went on to play Spike Feeder, Quirion Ranger and Masticore. At 14 life Mori played Replenish and had Goro Counterspell it, which in turn Mori Counterspelled and Force of Willed Goro's second Counterspell. Mori had two Saproling Bursts and one Pandemonium come into play. It was the end of the game but Goro tried to stay alive using counters from Spike Feeder. It wasn't enough and that was the end of Game two and the match. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPkyo00/954.jpg)
+
+Katsuhiro mulliganed down to six. Goro started and on turn two played a Merfolk Looter. Turn three Mori played a Powder Keg and sacrificed it turn five to rid Goro of his Merfolk Looter. Next he followed up with intuition where he Force of Willed Goro's Counterspell. He played an Intuition and Goro went on to play Spike Feeder, Quirion Ranger and Masticore. At 14 life Mori played Replenish and had Goro Counterspell it, which in turn Mori Counterspelled and Force of Willed Goro's second Counterspell. Mori had two Saproling Bursts and one Pandemonium come into play. It was the end of the game but Goro tried to stay alive using counters from Spike Feeder. It wasn't enough and that was the end of Game two and the match. 
 
 2-0 Katsuhiro Mori 
 

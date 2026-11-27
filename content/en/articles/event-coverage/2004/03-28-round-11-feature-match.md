@@ -44,7 +44,9 @@ archive_source:
   sha256: 10d777e3f0f36e595ca43de00ac61d64c6f163bb67efdc0d9d1345f02b45b3bd
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm10_1.jpg)Rene Kraft from Germany has a couple of Grand Prix top 8's to his credit and is currently the only player left in the tournament with a perfect record. His opponent is Jose Barbero, formally from Argentina, but a resident of Paris and frequent GP visitor for the past year or so. Barbero's credits include winning GP Amsterdam with team Rankko-Bongo-unpronounceable-something-or-other and a quarter-final appearance at Pro Tour Yokohama.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm10_1.jpg)
+
+Rene Kraft from Germany has a couple of Grand Prix top 8's to his credit and is currently the only player left in the tournament with a perfect record. His opponent is Jose Barbero, formally from Argentina, but a resident of Paris and frequent GP visitor for the past year or so. Barbero's credits include winning GP Amsterdam with team Rankko-Bongo-unpronounceable-something-or-other and a quarter-final appearance at Pro Tour Yokohama.
 
 ### Game 1
 

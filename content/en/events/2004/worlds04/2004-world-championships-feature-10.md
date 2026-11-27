@@ -383,7 +383,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/c9/1f/c91f4d90b35855dbb98152b5cf536e06e84bb0382f408d58f6d312c49ab21c69.jpg)Seated down at pod 13 for the second draft of the day, Anton Jonsson probably wasn't sitting quite as high in the standings as he may have gotten used to enjoying in previous limited Pro Tours this season. But a strong performance here could go a long way to helping his position, as well as improving the prospects for the Swedish national team.
+![](https://i.ormos.uk/c9/1f/c91f4d90b35855dbb98152b5cf536e06e84bb0382f408d58f6d312c49ab21c69.jpg)
+
+Seated down at pod 13 for the second draft of the day, Anton Jonsson probably wasn't sitting quite as high in the standings as he may have gotten used to enjoying in previous limited Pro Tours this season. But a strong performance here could go a long way to helping his position, as well as improving the prospects for the Swedish national team.
 
 Along with Mike Turian and Nicolai Herzog, Anton had achieved the impressive feat of making Top 4 at both individual draft Pro Tour events this year -- Amsterdam and then San Diego. 
 

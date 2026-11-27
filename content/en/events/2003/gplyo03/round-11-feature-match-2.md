@@ -82,7 +82,9 @@ Baberowski bashed away with a Neurok Spy and Leaden Myr while Blech was struggli
 
 As fast as Blech could put the cards out Baberowski was sending them to the bin. A second Spikeshot Goblin fell to an Irradiate before Blech finally found a fourth land to bring out a Vulshok Berserker on defensive duties.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a889.jpg)That paused Baberowski as he brought out a Lodestone Myr and gave it a Bonesplitter to play with. Blech found another land and brought out a Leadfoot Ogre. Together they brought down the Myr and the 'splitter was passed to the Spy.
+![](http://www.wizards.com/sideboard/images/gplyo03/a889.jpg)
+
+That paused Baberowski as he brought out a Lodestone Myr and gave it a Bonesplitter to play with. Blech found another land and brought out a Leadfoot Ogre. Together they brought down the Myr and the 'splitter was passed to the Spy.
 
 Blech went down to 2, drew a card and then conceded the game.
 
@@ -94,7 +96,9 @@ The Spy got blasted by "Spikey" and the troublesome Gauntlets were passed to the
 
 "Spikey" shot the Golem and needed a breather to recharge as Blech summoned some Tel-Jihad Chosen. Exiles followed and held the Gauntlets for a while.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a890.jpg)Baberowski was struggling with some land and not a lot else. Spikey shot his last creature, the Soldier, and Baberowski drew and then conceded as he wasn't coming back into this game.
+![](http://www.wizards.com/sideboard/images/gplyo03/a890.jpg)
+
+Baberowski was struggling with some land and not a lot else. Spikey shot his last creature, the Soldier, and Baberowski drew and then conceded as he wasn't coming back into this game.
 
 Baberowski 1-1 Blech
 

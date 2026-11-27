@@ -91,7 +91,9 @@ Dave Humpherys terrorized his local **Magic** scene with his prowess on the $1,0
 
 Dave's first four events yielded finishes of 25th, 15th, 16th, and 18th. He had a couple of heartbreaking ninth-place finishes in Paris 1997 and Rome 1999 before he finally basked in the Sunday spotlight. [New York 1999](https://web.archive.org/web/20061115000000/http://www.wizards.com/sideboard/article.asp?x=PTNY9899/welcome) was the event that finally broke the dam for him and he went on to rack up five such appearances in his career. 
 
-![](https://i.ormos.uk/48/70/487063f027bef24ef20645cc8d43596dd2c0186dea97a865895cd621b27c03a1.jpg)"I felt honored and relieved," Dave revealed after learning of his election. "I was disappointed that I did relatively poorly in the ballot last year so this was reassuring. I realized getting in after this year would be an uphill battle."
+![](https://i.ormos.uk/48/70/487063f027bef24ef20645cc8d43596dd2c0186dea97a865895cd621b27c03a1.jpg)
+
+"I felt honored and relieved," Dave revealed after learning of his election. "I was disappointed that I did relatively poorly in the ballot last year so this was reassuring. I realized getting in after this year would be an uphill battle."
 
 Looking back at that first Pro Tour, Humpherys said it definitely stood out as a new experience.
 

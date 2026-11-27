@@ -80,7 +80,9 @@ render_recovery:
   - Daru Stinger
   occurrences: 25
 ---
-![](http://www.wizards.com/sideboard/images/gpams03/a861.jpg)Both of these teams had two Americans and a European. RBW have south Americans Jose Barbero and Carlos Romao and Frenchman Wilfried Ranque. Ace Ten off have US players Jon Finkel, and Eric Froehlich and Dutchman Kamiel Cornelissen. Both teams only lost one match all weekend so far. RBW were beaten by Boys of Summer, and Ace Ten off were slightly outkicked by French amateurs R21 managers.
+![](http://www.wizards.com/sideboard/images/gpams03/a861.jpg)
+
+Both of these teams had two Americans and a European. RBW have south Americans Jose Barbero and Carlos Romao and Frenchman Wilfried Ranque. Ace Ten off have US players Jon Finkel, and Eric Froehlich and Dutchman Kamiel Cornelissen. Both teams only lost one match all weekend so far. RBW were beaten by Boys of Summer, and Ace Ten off were slightly outkicked by French amateurs R21 managers.
 
 **Eric Froehlich versus Jose Barbero** 
 
@@ -98,7 +100,9 @@ His bombs include Timberwatch Elf and Canopy Crawler. He also has a Form of the 
 
 **Prediction:** Kamiel Cornelissen wins
 
-![](http://www.wizards.com/sideboard/images/gpams03/a863.jpg)Jon Finkel's red-green deck looks very good. He started the draft with a Venomspout Brackus as his first pick, and continued to draft beast throughout. Since he knew he was playing Carlos' virtually mono-white deck, he didn't draft as much fat as red-green usually plays. In *Scourge* he picked up two Goblin Brigands over better cards overall, showing that he intended to go for speed. Like Wilfried, he also has a Timberwatch Elf. Other cards of note are Skirk Marauder, Extra Arms, and Hundroog!
+![](http://www.wizards.com/sideboard/images/gpams03/a863.jpg)
+
+Jon Finkel's red-green deck looks very good. He started the draft with a Venomspout Brackus as his first pick, and continued to draft beast throughout. Since he knew he was playing Carlos' virtually mono-white deck, he didn't draft as much fat as red-green usually plays. In *Scourge* he picked up two Goblin Brigands over better cards overall, showing that he intended to go for speed. Like Wilfried, he also has a Timberwatch Elf. Other cards of note are Skirk Marauder, Extra Arms, and Hundroog!
 
 Unfortunately the Hundroog didn't get picked and once again must languish in a sideboard. Carlos is white with a blue splash. He doesn't have enough flyers to give him an edge that blue-white often has. His *Scourge* cards helped him out a lot though – Rush of Knowledge, Frozen Solid, and Zombie Cutthroat to mention a few. He also has a Daru Stinger.
 

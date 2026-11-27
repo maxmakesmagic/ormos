@@ -143,7 +143,9 @@ render_recovery:
 Kastle 先攻《日を浴びるルートワラ/Basking Rootwalla》からゲームスタート。  
  デッキが同色の場合回った方が勝つのが通説で、 Taylor は 3 枚で土地が止まるが緑青デッキの根幹の一つである《強制》を引きゆっくりとデッキを回し始める。
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a887.jpg)出す《野生の雑種犬/Wild Mongrel》もバウンスされ Kastle は場に《尊大なワーム/Arrogant Wurm》《リスの巣/Squirrel Nest》と展開。一方的になりかけたが通算 2 枚目となる ( Kastle 1 Taylor 1 ) 《霊気の噴出/AEther Burst》を引き《尊大なワーム》をバウンス、リスを消すと何とかなりそうな展開となってきた。
+![](http://www.wizards.com/sideboard/images/ptosa02/a887.jpg)
+
+出す《野生の雑種犬/Wild Mongrel》もバウンスされ Kastle は場に《尊大なワーム/Arrogant Wurm》《リスの巣/Squirrel Nest》と展開。一方的になりかけたが通算 2 枚目となる ( Kastle 1 Taylor 1 ) 《霊気の噴出/AEther Burst》を引き《尊大なワーム》をバウンス、リスを消すと何とかなりそうな展開となってきた。
 
 その後 2 枚目の《霊気の噴出》を引いた Taylor が場を制し《野生の雑種犬》《尊大なワーム》で殴りきる事になった。《強制》の有無が勝敗を分けたと言っても過言ではないかも知れない。
 
@@ -166,7 +168,9 @@ Taylor 1 - 1 Kastle
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a889.jpg)両者共に事故無く順調に進んで行く、キーカードの《強制》を先に貼ったのは Taylor だが軽いクリーチャーを引かずに Kastle の《野生の雑種犬》 2 体が全く止まらない嫌な展開となった。
+![](http://www.wizards.com/sideboard/images/ptosa02/a889.jpg)
+
+両者共に事故無く順調に進んで行く、キーカードの《強制》を先に貼ったのは Taylor だが軽いクリーチャーを引かずに Kastle の《野生の雑種犬》 2 体が全く止まらない嫌な展開となった。
 
 ダメージソースを増やしていく Kastle と ドローソースを増やしていく Taylor 、 Taylor の引いてきた《ワームの咆吼》から出た 6 / 6 ワームトークンが場は硬直させ二人共ひたすらドローを繰り返す。
 

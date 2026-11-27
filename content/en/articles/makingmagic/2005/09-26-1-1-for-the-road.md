@@ -199,7 +199,9 @@ Uh, what Mark said.
 
 ### Glass Action
 
-![](https://i.ormos.uk/7d/96/7d967b006ec905fd3a4be1319c00dd28e8672a570ba47c1d2ef3bde0654a3b3c.jpg)At this point, we're three thousand words in and you're going. Isn't *Ravnica* coming out in a week or so? What does this have to do with *Ravnica*? Doesn't “Making **Magic**” try to be relevant to the most recent set?
+![](https://i.ormos.uk/7d/96/7d967b006ec905fd3a4be1319c00dd28e8672a570ba47c1d2ef3bde0654a3b3c.jpg)
+
+At this point, we're three thousand words in and you're going. Isn't *Ravnica* coming out in a week or so? What does this have to do with *Ravnica*? Doesn't “Making **Magic**” try to be relevant to the most recent set?
 
 The answer is that *Ravnica* block is kind of a renaissance for the counter/token. And we owe it all to green. Why? Because green has this little theme called growth. And whenever green gets together with another color (you know, guilding up), there's always this question “So how does growth interact with this color?”
 

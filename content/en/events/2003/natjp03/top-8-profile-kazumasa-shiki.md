@@ -74,7 +74,9 @@ render_recovery:
 ---
 *Translated by Ron Foster* 
 
-![](https://www.wizards.com/sideboard/images/natjp03/a951.jpg)This is Shiki's third Nationals, and hopefully the third time's the charm for this 19-year old player from Nagasaki. 
+![](https://www.wizards.com/sideboard/images/natjp03/a951.jpg)
+
+This is Shiki's third Nationals, and hopefully the third time's the charm for this 19-year old player from Nagasaki. 
 
 Although Shiki is a soft-spoken and polite, he becomes a different person at the game table. He plays extremely aggressively, and shows no quarter to his opponents. In 2001, he played AggroWaters, and chose Star-Spangled Slaughter for last year's Nationals. This year, he played Steroids, which turned out to be the Standard deck of choice. When asked what the key to winning with an aggressive deck is, he answered "Timing and good draws."
 

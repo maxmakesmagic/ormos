@@ -53,7 +53,9 @@ archive_source:
   sha256: e2317ff3650e6b7beb44de4ce3ac841c8d051e7ffdf9082e54494a610874f4fd
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a870.jpg)We have had Witt here before this weekend so lets just run through his introduction really quickly: he was the first player ever to win a Masters after grinding in. He was also quite generous with his prize money. Across the table a name you might recognize from last year's block season. Rickard Österberg won an *Invasion* Block Constructed Grand Prix in Warsaw.
+![](http://www.wizards.com/sideboard/images/euro02/a870.jpg)
+
+We have had Witt here before this weekend so lets just run through his introduction really quickly: he was the first player ever to win a Masters after grinding in. He was also quite generous with his prize money. Across the table a name you might recognize from last year's block season. Rickard Österberg won an *Invasion* Block Constructed Grand Prix in Warsaw.
 
 ### Game 1
 
@@ -98,7 +100,9 @@ A first turn Duress from Witt got Fact or Fiction over Probe, the rest of the ca
 
 A few turns later he found a second Familiar and got it into play without problem. In fact his draws had been pretty good because when Witt tried to Probe him he had the perfect Circular Logic for it.
 
-![](http://www.wizards.com/sideboard/images/euro02/a872.jpg)On the following turn he returned the favour, this time with success, dropping Alexander down to a single card in hand. The Dutch did have Psychatog in play but Österberg had control of the game. To further stall the table the Dutch played his own Familiar.
+![](http://www.wizards.com/sideboard/images/euro02/a872.jpg)
+
+On the following turn he returned the favour, this time with success, dropping Alexander down to a single card in hand. The Dutch did have Psychatog in play but Österberg had control of the game. To further stall the table the Dutch played his own Familiar.
 
 The four creatures enjoyed their little Mexican standoff and the two players settled in for the long game of "Draw-Go" as they fought for advantage. Rickard's first Fact or Fiction was a good example of how important getting extra cards is in this match. Four counters ended up in the stack before he got to flip five cards.
 

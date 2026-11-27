@@ -198,7 +198,9 @@ render_recovery:
 
 序盤はまたしても殴り合いとなったがため息と共に信下の土地が止まり、横山だけが順調に回っていく。信下はタッチした黒が仇になり、白マナを引けないようだ。
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/909.jpg)勝負が決まる前に白マナを引き《尊い癒し手/Hallowed Healer》を場に出せた信下、手はそこまで悪くなく《文化交流/Cultural Exchange》も握られている、これは持ち直せるか？
+![](http://www.wizards.com/sideboard/images/gpfuku02/909.jpg)
+
+勝負が決まる前に白マナを引き《尊い癒し手/Hallowed Healer》を場に出せた信下、手はそこまで悪くなく《文化交流/Cultural Exchange》も握られている、これは持ち直せるか？
 
 だが横山の手は止まらない、次々とクリーチャーを並べて信下がパワーが低いために相打ちを取れないを見るとどんどん殴る。
 

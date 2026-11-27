@@ -75,7 +75,9 @@ render_recovery:
   - Smother
   occurrences: 23
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a874.jpg)Both players won their first round and need to win the next two as well to still have a shot at a place in the top 8. Eivind was really unlucky during the draft but still managed a solid deck while Rapahel got an average deck with 2 huge bombs: Akroma's Vengeance and Insurrection. You can read about the draft [here](/en/events/2002/gpcop02/2002-grand-prix-copenhagen-draft-2-table-4-antoine-ruel-and-eivind-nitter).
+![](http://www.wizards.com/sideboard/images/gpcop02/a874.jpg)
+
+Both players won their first round and need to win the next two as well to still have a shot at a place in the top 8. Eivind was really unlucky during the draft but still managed a solid deck while Rapahel got an average deck with 2 huge bombs: Akroma's Vengeance and Insurrection. You can read about the draft [here](/en/events/2002/gpcop02/2002-grand-prix-copenhagen-draft-2-table-4-antoine-ruel-and-eivind-nitter).
 
 Game 1 
 
@@ -93,7 +95,9 @@ Raphael decided to start again and this time kept his opening 7. Raphael played 
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a875.jpg)Now it was Eivind's time to start and he gladly accepted after the beating he received last game.
+![](http://www.wizards.com/sideboard/images/gpcop02/a875.jpg)
+
+Now it was Eivind's time to start and he gladly accepted after the beating he received last game.
 
 No mulligans again and Raphael had his turn 1 Gustcloak Runner. Like game 1 he attacked turn 2 and again Eivind blocked with his Wirewood Herald; of course Raphael removed his Runner from combat once again. After the usual amount of small dorks from Raphael's side Eivind laid Silklash Spider which probably has enough toughness to hold back Raphael's entire deck on his own. He also added a turn 7 Krosan Tusker and things were starting to look grim for Raphael. When it attacked next turn Raphael gang blocked with three creatures but when Eivind just played a Cruel Revival to remove one of the blockers so the Tusker stayed alive and all the dorks died. At this point even Insurrection wouldn't have helped Raphael anymore because Eivind would be able to kill two of his own guys with the Shock and Smother he was holding. 
 

@@ -94,7 +94,9 @@ render_recovery:
   - Decklist
   occurrences: 7
 ---
-[![Time_Walk](https://i.ormos.uk/fe/59/fe5920952f0425b56bb7d8a13fb14459de94e403acf393956eee81291796b963.jpg)](https://web.archive.org/web/20071210000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Time%2BWalk)You've probably heard the saying "time flies when you're having fun." The opposite is also true. Can you remember sitting in your last period class in high school, practically counting down the ticks of the clock, hoping, praying, begging for those minutes to pass so 3pm rolls around and classes let out? You've also probably heard someone remark, perhaps a parent or an aunt, that each year seems shorter than the last, the older they get. How can this be? Is it simply that old people have more fun? 
+[![Time_Walk](https://i.ormos.uk/fe/59/fe5920952f0425b56bb7d8a13fb14459de94e403acf393956eee81291796b963.jpg)](https://web.archive.org/web/20071210000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Time%2BWalk)
+
+You've probably heard the saying "time flies when you're having fun." The opposite is also true. Can you remember sitting in your last period class in high school, practically counting down the ticks of the clock, hoping, praying, begging for those minutes to pass so 3pm rolls around and classes let out? You've also probably heard someone remark, perhaps a parent or an aunt, that each year seems shorter than the last, the older they get. How can this be? Is it simply that old people have more fun? 
 
 When you're engrossed in some activity, a sport, a game, an occupation, a relationship, or some other pursuit, you aren't focused on time – you aren't even conscious of it. But when you look back on what you've done, when you reflect upon your experience, there is a fullness about it, the impression of an authentic experience. It's like the first time you go to Disneyland. It may have only been a few days (or even a day), but it stands out. It seems much longer. It seems richer, more profound. 
 
@@ -1070,7 +1072,9 @@ a:26:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";s:9
 
 This deck brilliantly took advantage of some key printings in 2007—[Magus of the Moon](https://web.archive.org/web/20071210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Moon), [Tarmogoyf](https://web.archive.org/web/20071210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf), and, most impressively, [Stingscourger](https://web.archive.org/web/20071210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stingscourger)—to foil an entire metagame. His technically perfect play and outstanding metagaming show that even a broken format can be cracked, even using "fair" colors. 
 
-![Tarmogoyf, Magus of the Moon, and Stingscourger](https://i.ormos.uk/a2/15/a21501d12ac23043a40db6c87cc752721328d94f5d8fc73a6928cf3973812ad0.jpg)Take a look at [the rest of the Top 8](http://sales.starcitygames.com/deckdatabase/deckshow.php?&t%5BC1%5D=vin&start_date=2007-11-11&end_date=2007-11-11&event_type=P9).
+![Tarmogoyf, Magus of the Moon, and Stingscourger](https://i.ormos.uk/a2/15/a21501d12ac23043a40db6c87cc752721328d94f5d8fc73a6928cf3973812ad0.jpg)
+
+Take a look at [the rest of the Top 8](http://sales.starcitygames.com/deckdatabase/deckshow.php?&t%5BC1%5D=vin&start_date=2007-11-11&end_date=2007-11-11&event_type=P9).
 
 So, this Top 8 looked as follows: 
 

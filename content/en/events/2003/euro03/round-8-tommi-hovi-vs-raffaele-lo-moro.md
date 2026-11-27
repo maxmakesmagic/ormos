@@ -79,7 +79,9 @@ render_recovery:
   - Gustcloak Harrier
   occurrences: 32
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a917.jpg)For the first Feature Match of the second day we have two Magic "old-timers". Tommi Hovi, the first player to win two Pro Tours ad Raffaele Lo Moro, one of Italy's most recognizable names, with a Worlds Top 8 to his credit.
+![](http://www.wizards.com/sideboard/images/euro03/a917.jpg)
+
+For the first Feature Match of the second day we have two Magic "old-timers". Tommi Hovi, the first player to win two Pro Tours ad Raffaele Lo Moro, one of Italy's most recognizable names, with a Worlds Top 8 to his credit.
 
 ### Game 1
 
@@ -101,7 +103,9 @@ Tommi 1-0 Raffaele.
 
 Again Hovi came out with second turn Seeker, but this time Lo Moro was ready with Flamewave Invoker to trade on the next combat step. They both followed with morphs and Tommi thought long and hard about is next attack.
 
-![](http://www.wizards.com/sideboard/images/euro03/a918.jpg)Eventually he sent his morph in and Lo Moro let it through. He played another morph and decided not to block incoming one. As it turns out it was Skirk Commando. Out went the first morph: Echo Tracer.
+![](http://www.wizards.com/sideboard/images/euro03/a918.jpg)
+
+Eventually he sent his morph in and Lo Moro let it through. He played another morph and decided not to block incoming one. As it turns out it was Skirk Commando. Out went the first morph: Echo Tracer.
 
 That seemed to slow Hovi a bit. Lo Moro seized the opportunity to played Frenetic Raptor and Hovi answered with a somewhat smaller Noble Templar. The Italian was in a hurry and a Torrent of Fire took the Templar out of the way.
 
@@ -119,7 +123,9 @@ They retouched their sideboards in deep silence, going back and forth between ca
 
 Hovi's starting hand wasn't easy. He only had two Islands as lands and a lot of White cards. Still, he decided to stick with it and by turn three he had a Plains to play out a morph and by turn four he had a second Plains to drop Mistform Ultimus.
 
-![](http://www.wizards.com/sideboard/images/euro03/a919.jpg)Lo Moro started with two Flamewave Invokers. With the ground clogging up Hovi went up with Gustcloak Harrier. In a hurry to get things going Lo Moro brought down a Torrent of Fire on the Ultimus and sent the twins in.
+![](http://www.wizards.com/sideboard/images/euro03/a919.jpg)
+
+Lo Moro started with two Flamewave Invokers. With the ground clogging up Hovi went up with Gustcloak Harrier. In a hurry to get things going Lo Moro brought down a Torrent of Fire on the Ultimus and sent the twins in.
 
 Hovi returned the favor and dropped a second Harrier and Glory Seeker. The race was on. Tommi ignored the incoming Invokers and sent his whole army in. Lo Moro stared at them and walked right into Frontline Strategist losing two blockers. Which obviously drew some Italian words from Raffaele.
 

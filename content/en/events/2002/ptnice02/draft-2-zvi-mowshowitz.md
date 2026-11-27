@@ -263,7 +263,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a981.jpg)Perhaps the biggest story today is "Zvi's Gambit". Working around the theory that most players will avoid drafting white due to its weakness in *Torment*, Zvi announced to the world on the internet that he intended to force white from the start. Just to be sure everyone got the message loud and clear, he wore a shirt proclaiming himself to be the white mage. The desired effect is that Zvi will clean up in white, with players gladly passing him Zealots, Aven Flocks and Shelters, not wanting to fight with him over the color. Some players are a bit skeptical of this strategy's effectiveness, but so far the numbers don't lie: Scott Johns and Zvi Mowshowitz are the only two players wearing shirts that proclaim they are "pretty fly for a white guy", and they are both 3-1.
+![](http://www.wizards.com/sideboard/images/ptnice02/a981.jpg)
+
+Perhaps the biggest story today is "Zvi's Gambit". Working around the theory that most players will avoid drafting white due to its weakness in *Torment*, Zvi announced to the world on the internet that he intended to force white from the start. Just to be sure everyone got the message loud and clear, he wore a shirt proclaiming himself to be the white mage. The desired effect is that Zvi will clean up in white, with players gladly passing him Zealots, Aven Flocks and Shelters, not wanting to fight with him over the color. Some players are a bit skeptical of this strategy's effectiveness, but so far the numbers don't lie: Scott Johns and Zvi Mowshowitz are the only two players wearing shirts that proclaim they are "pretty fly for a white guy", and they are both 3-1.
 
 Zvi opened a pack with Resilient Wanderer, Nantuko Disciple and Morbid Hunger, and gladly took the powerful white creature. From there, he forced white as promised, taking Hallowed Healer over AEther Burst, followed by Master Apothecary. He leaned into a second color with Flame Burst and Barbarian Lunatic, and picked up a gift in a seventh pick Mystic Zealot. Pilgrim of Virtue also came around late to help power the Apothecary.
 

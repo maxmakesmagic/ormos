@@ -94,7 +94,9 @@ Pour les tournois en format Limité (uniquement les plus importants et général
 
 Les erreurs de listes de deck sont pénalisées, alors faites attention à ce que vous faites.
 
-![Wild_Pair](https://i.ormos.uk/82/d6/82d6c61cc88da53d04332c428b3845f701fd8f852701e6608819d0b96837677b.jpg)**Appariements** : Cinq minutes avant le début d'une ronde, un arbitre affiche les feuilles d'appariement de la ronde et annonce qu'elles sont disponibles. Ces feuilles indiquent à chaque joueur un numéro de table où il rencontre son adversaire.
+![Wild_Pair](https://i.ormos.uk/82/d6/82d6c61cc88da53d04332c428b3845f701fd8f852701e6608819d0b96837677b.jpg)
+
+**Appariements** : Cinq minutes avant le début d'une ronde, un arbitre affiche les feuilles d'appariement de la ronde et annonce qu'elles sont disponibles. Ces feuilles indiquent à chaque joueur un numéro de table où il rencontre son adversaire.
 
 Un retard implique là aussi une pénalisation, alors faites en sorte de ne pas traîner entre deux rondes.
 
@@ -106,7 +108,9 @@ Pour faire appliquer les règles, chaque tournoi a au moins un arbitre à dispos
 
 Si vous avez des questions, que vous ne comprenez pas quelque chose ou que vous pensez que votre adversaire fait quelque chose qui n'est pas permis par les règles, n'hésitez pas à appeler un arbitre.
 
-![Stitch_in_Time](https://i.ormos.uk/7a/8a/7a8a8626e1e99be63ce3b5b8747c2aa668742c9776d8a39d82007711b14101c3.jpg)**Vitesse de jeu** : Une certaine vitesse de jeu est exigée pendant les tournois. Il est difficile de définir exactement un rythme – certains tours sont bien entendu plus longs, et d'autres très courts – mais cette vitesse est généralement qualifiée de 'raisonnable'. La réflexion est bien entendu autorisée, mais vous devez jouer rapidement en règle générale. Si vous jouez trop lentement, on vous demandera d'accélérer un peu, et si vous n'obtempérez pas, vous recevrez un avertissement officiel.
+![Stitch_in_Time](https://i.ormos.uk/7a/8a/7a8a8626e1e99be63ce3b5b8747c2aa668742c9776d8a39d82007711b14101c3.jpg)
+
+**Vitesse de jeu** : Une certaine vitesse de jeu est exigée pendant les tournois. Il est difficile de définir exactement un rythme – certains tours sont bien entendu plus longs, et d'autres très courts – mais cette vitesse est généralement qualifiée de 'raisonnable'. La réflexion est bien entendu autorisée, mais vous devez jouer rapidement en règle générale. Si vous jouez trop lentement, on vous demandera d'accélérer un peu, et si vous n'obtempérez pas, vous recevrez un avertissement officiel.
 
 De plus, jouer lentement de façon intentionnelle pour obtenir un avantage stratégique (la plupart du temps, gagner du temps pour obtenir une victoire 1-0 ou un match nul) n'est pas autorisé et les pénalités sont très lourdes.
 

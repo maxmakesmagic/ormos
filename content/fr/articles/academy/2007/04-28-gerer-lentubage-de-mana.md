@@ -161,7 +161,9 @@ L'entubage de mana est plus spécifique qu'il n'en a l'air. Votre objectif gén�
 
 **Inondation de mana** *(trop de mana)*
 
-![Flood](https://i.ormos.uk/29/3d/293d439caaf65c730d00e789874655f8378d32f17523fc7b21827f78756e70fc.jpg)Vous êtes victime d'une inondation de mana quand le pourcentage de terrains piochés (ou de vos sorts) est trop élevé et devient potentiellement problématique, comparé à votre liste de deck.
+![Flood](https://i.ormos.uk/29/3d/293d439caaf65c730d00e789874655f8378d32f17523fc7b21827f78756e70fc.jpg)
+
+Vous êtes victime d'une inondation de mana quand le pourcentage de terrains piochés (ou de vos sorts) est trop élevé et devient potentiellement problématique, comparé à votre liste de deck.
 
 Comme l'entubage de mana, l'inondation de mana peut provenir d'un mauvais mulligan ou d'une pioche trop importante de terrains pendant la partie. Plus vous avez d'étapes de pioche, plus vous avez de chances de piocher des sorts. Une fois de plus, vous essayez de stabiliser le jeu (peut-être au prix de points de vie ou de risques calculés) pour vous assurer des étapes de pioche supplémentaires.
 
@@ -183,7 +185,9 @@ Pendant la construction de deck, un certain nombre de méthodes sont utilisées 
 
 **Entubage de couleur***(manque d'une couleur principale)*
 
-![Blood_Moon](https://i.ormos.uk/cc/45/cc457ffe5d731b403933dbf3343d0e1fa55b2b672d35fe4e4996cbc707c9a076.jpg)Vous êtes victime d'un entubage de couleur quand le pourcentage de terrains colorés pioché est considérablement plus faible par rapport aux sorts de cette couleur, comparé aux prévisions de votre liste de deck (ou si suffisamment de ces ressources de mana ont été détruites pour vous mettre dans cette situation).
+![Blood_Moon](https://i.ormos.uk/cc/45/cc457ffe5d731b403933dbf3343d0e1fa55b2b672d35fe4e4996cbc707c9a076.jpg)
+
+Vous êtes victime d'un entubage de couleur quand le pourcentage de terrains colorés pioché est considérablement plus faible par rapport aux sorts de cette couleur, comparé aux prévisions de votre liste de deck (ou si suffisamment de ces ressources de mana ont été détruites pour vous mettre dans cette situation).
 
 Être la victime d'un entubage de couleur est une situation similaire à l'entubage de mana, mais il y a quelques différences importantes. 
 

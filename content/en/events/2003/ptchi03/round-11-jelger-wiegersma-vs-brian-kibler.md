@@ -116,13 +116,17 @@ render_recovery:
   - Sea's Claim
   occurrences: 103
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a788.jpg)As Jelger won the die roll, Brian chose to switch the playmat. It's one of those things that pro players have. The Feature Match playmat has a left and a right side. As Mark Rosewater is pretty strict about putting the right cards in the right zones it means one of the two will need to play with his deck on the left side of the table and the other on the right side of the table. Both of these players have known the glories of a Pro Tour Top 8, and are eager to repeat that. They're short on outs, though, probably needing to win out.
+![](http://www.wizards.com/sideboard/images/ptchi03/a788.jpg)
+
+As Jelger won the die roll, Brian chose to switch the playmat. It's one of those things that pro players have. The Feature Match playmat has a left and a right side. As Mark Rosewater is pretty strict about putting the right cards in the right zones it means one of the two will need to play with his deck on the left side of the table and the other on the right side of the table. Both of these players have known the glories of a Pro Tour Top 8, and are eager to repeat that. They're short on outs, though, probably needing to win out.
 
 ### Game 1
 
 Jelger started with a turn 2 Elvish Vanguard and it grew with a Wirewood Herald. It grew some more with Brian's Wirewood Savage. Jelger's elves came in for 4 and the Dutchman added a morph to his array of creatures. No creatures for Brian on his fourth turn as he kept mana open to Smother Jelger's Vanguard. Jelger cycled his Krosan Tusker to make his way out of a mana screw and passed the turn. The Savage hit the Red Zone and the first of many beasts hit play – a Spitting Gourna.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a787.jpg)Jelger morphed his Treespring Lorian into play. Anurid Murkdiver was Brian's next beast, a 4/3 unblockable creature as Jelger did have a Swamp in play. Jelger's Herald and morphed Lorian charged. The Murkdiver blocked the Herald and the Spitting Gourna blocked the Lorian. The Gourna fell in combat and Jelger fetched an Elvish Warrior. The Murkdiver and Savage retaliated, bringing Jelger to 12 life. A second Savage and a Death Pulse for the Lorian changed Brian's board position for mediocre to dominating. The Savage traded with a morphed Undorak next turn. Jelger made his Elvish Warrior and a Symbiotic Elf. After that, a Treespring Lorian for Brian added more goodies to the mix and the Murkdiver brought Jelger down to 8 life ...
+![](http://www.wizards.com/sideboard/images/ptchi03/a787.jpg)
+
+Jelger morphed his Treespring Lorian into play. Anurid Murkdiver was Brian's next beast, a 4/3 unblockable creature as Jelger did have a Swamp in play. Jelger's Herald and morphed Lorian charged. The Murkdiver blocked the Herald and the Spitting Gourna blocked the Lorian. The Gourna fell in combat and Jelger fetched an Elvish Warrior. The Murkdiver and Savage retaliated, bringing Jelger to 12 life. A second Savage and a Death Pulse for the Lorian changed Brian's board position for mediocre to dominating. The Savage traded with a morphed Undorak next turn. Jelger made his Elvish Warrior and a Symbiotic Elf. After that, a Treespring Lorian for Brian added more goodies to the mix and the Murkdiver brought Jelger down to 8 life ...
 
 Jelger's elves bashed some more, and Brian's Lorian blocked the Warrior. Elvish Pride gave the Warrior +4/+4 due to a freshly cast Wirewood Elf and a morph added some more pressure. Brian enchanted his Anurid Murkdiver with a Mythic Proportions and took Game 1.
 
@@ -136,7 +140,9 @@ No second turn drop for Jelger but Brian did get his second turn Wirewood Elf.
 
 "No Vanguard for you! Well I got my first pick" – Brian
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a789.jpg)The Dutchman did get a turn 3 Savage and a turn 4 Symbiotic Elf. Brian expanded his army with another Wirewood Elf, a Wirehood Herald and a morph. Jelger's 5th turn Barkhide Mauler didn't hit play until after the Savage was Smothered. Brian enchanted his morph with a Mythic Proportions and sent the 10/10 trampler into the red zone. Jelger cycled one of his lands to try and find an answer to the gigantic trampler. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a789.jpg)
+
+The Dutchman did get a turn 3 Savage and a turn 4 Symbiotic Elf. Brian expanded his army with another Wirewood Elf, a Wirehood Herald and a morph. Jelger's 5th turn Barkhide Mauler didn't hit play until after the Savage was Smothered. Brian enchanted his morph with a Mythic Proportions and sent the 10/10 trampler into the red zone. Jelger cycled one of his lands to try and find an answer to the gigantic trampler. 
 
 "It's not fun; a turn 5 Mythic Proportions" – Jelger
 

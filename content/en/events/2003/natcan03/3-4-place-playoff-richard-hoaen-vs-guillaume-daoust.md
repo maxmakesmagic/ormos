@@ -92,7 +92,9 @@ As the players shuffled for this match that would determine the final roster spo
 
 Guillaume was philosophical about it, "I was lucky all weekend."
 
-![](http://www.wizards.com/sideboard/images/natcan03/a892.jpg)Rich took a moment to reflect and nodded, "I don't think anyone can beat me in the luck department this weekend—the whole drop and undrop fiasco!"
+![](http://www.wizards.com/sideboard/images/natcan03/a892.jpg)
+
+Rich took a moment to reflect and nodded, "I don't think anyone can beat me in the luck department this weekend—the whole drop and undrop fiasco!"
 
 ### Game 1
 
@@ -126,7 +128,9 @@ Rich cast Deep Analysis and flashed it back but he seemed to have nothing. Guill
 
 "Not yet."
 
-![](http://www.wizards.com/sideboard/images/natcan03/a893.jpg)Slowly but surely, Guillaume began to whittle away Rich's hand while performing stupid Gladiator tricks during his upkeep. When Guillaume played Mirari, Rich knew it was time to make his move. "Cast Upheaval floating a blue and a black." As they picked everything up, Head Judge Marc Hernandez went adjust the game totals in the feature match area. Rich stopped him, "No, no. Not yet." He played and Island and cast Engineered Plague naming zombies. This got almost as big a laugh as the six land Persecute.
+![](http://www.wizards.com/sideboard/images/natcan03/a893.jpg)
+
+Slowly but surely, Guillaume began to whittle away Rich's hand while performing stupid Gladiator tricks during his upkeep. When Guillaume played Mirari, Rich knew it was time to make his move. "Cast Upheaval floating a blue and a black." As they picked everything up, Head Judge Marc Hernandez went adjust the game totals in the feature match area. Rich stopped him, "No, no. Not yet." He played and Island and cast Engineered Plague naming zombies. This got almost as big a laugh as the six land Persecute.
 
 Two turns later Rich was groaning as he played out a Tog, "Of course I drew it the next turn." He groaned a little more when Guillaume had the Smother EOT. The Scepter came back down but it had a lot of work to do. Rich's Duress revealed a hand of Scepter, Haunting Echoes, Cabal Coffers, Mirari, and Skeletal Scrying—he took the Mirari and played his Compulsion.
 
@@ -142,7 +146,9 @@ Rich – 2 Guillaume – 0
 
 Guillaume was faced with another hand of six lands and a spell—this time it was a Smother. He kept it and drew into a third turn Nantuko Shade that was countered. Rich had no early plays and Guillaume seemed startled when his Diabolic Tutor resolved for a Mind Sludge. He ripped a Cabal Therapy to force it through. He took away Rich's only Counterspell and Mind Sludge took care of everything else.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a894.jpg)One of the cards Rich lost was Deep Analysis and he began to recoup his lost cards. When Guillaume attempted another Tutor on the next turn it was countered. A fresh Deep Analysis found Rich four more cards and a Duress, which revealed a hand of Innocent Blood and Smother—he took the Smother. 
+![](http://www.wizards.com/sideboard/images/natcan03/a894.jpg)
+
+One of the cards Rich lost was Deep Analysis and he began to recoup his lost cards. When Guillaume attempted another Tutor on the next turn it was countered. A fresh Deep Analysis found Rich four more cards and a Duress, which revealed a hand of Innocent Blood and Smother—he took the Smother. 
 
 Pretty soon Rich had more cards than he knew what to do with. After playing a Concentrate he cast Zombie Infestation. On his next turn he looked at Guillaume and said, "Noir..." Guillaume was puzzled so Rich repeated it, "Noir... I am naming black." He showed him the persecute he was referring to and took away the Quebecer's Duress and Innocent Blood. Guillaume drew a Skeletal Scrying and attempted to draw seven cards but Rich countered it with Logic after discarding it to make a zombie token.
 

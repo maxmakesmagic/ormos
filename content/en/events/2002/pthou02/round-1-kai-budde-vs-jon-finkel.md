@@ -93,7 +93,9 @@ render_recovery:
   - Shadowmage
   occurrences: 93
 ---
-![](https://i.ormos.uk/07/03/07033678d3389065b836f11f6c8b13160ac782903a1b388a0c2402c72c5d6c84.jpg)I don't remember ever hearing such a collective gasp at a Pro Tour before this first round pairing of Shadowmage Infiltrator and Voidmage Prodigy. Even seasoned veterans like Mark Rosewater and Aaron Forsythe were awed by the crowd's reaction—keep in mind that there is barely anyone here this early in the morning who is not playing in this event.
+![](https://i.ormos.uk/07/03/07033678d3389065b836f11f6c8b13160ac782903a1b388a0c2402c72c5d6c84.jpg)
+
+I don't remember ever hearing such a collective gasp at a Pro Tour before this first round pairing of Shadowmage Infiltrator and Voidmage Prodigy. Even seasoned veterans like Mark Rosewater and Aaron Forsythe were awed by the crowd's reaction—keep in mind that there is barely anyone here this early in the morning who is not playing in this event.
 
 As they sat down and began shuffling, Kai made small talk with the man he recently passed on the leader board of all time earnings. 
 
@@ -142,7 +144,9 @@ Kai could only shrug in agreement but he nabbed the Reanimate with his discard s
 
 Jon sacrificed his Hapless Researcher and discarded Swamp. He played another sac'd it and discarded another land. Finally, he was forced to Death a researcher into play to chump block. Kai cast Mesmeric Fiend and stole his Reanimate. 
 
-![](https://i.ormos.uk/51/27/5127aed1bdc22e2febce53b030abf71dc8d7866e79514e9bed2ab745d9f26e5c.jpg)Jon had nothing on the next turn and Kai beat him down to seven during his next attack step. Jon drew a futile Duress and Kai—who was holding Gilded Drake and two Careful Studies—Vampiriced in response. Jon wanted to take the Gilded Drake and failing that wanted to take the Island that he suggested was resting on top of Kai's library. He had to settle for one of the Careful Studies. Jon threw the helpless Researcher in the way and dug one card deeper finally discarding an animal in the form of Rorix but it was too little, way too late.
+![](https://i.ormos.uk/51/27/5127aed1bdc22e2febce53b030abf71dc8d7866e79514e9bed2ab745d9f26e5c.jpg)
+
+Jon had nothing on the next turn and Kai beat him down to seven during his next attack step. Jon drew a futile Duress and Kai—who was holding Gilded Drake and two Careful Studies—Vampiriced in response. Jon wanted to take the Gilded Drake and failing that wanted to take the Island that he suggested was resting on top of Kai's library. He had to settle for one of the Careful Studies. Jon threw the helpless Researcher in the way and dug one card deeper finally discarding an animal in the form of Rorix but it was too little, way too late.
 
 **Jon:** "Thanks for kicking my ass!"
 

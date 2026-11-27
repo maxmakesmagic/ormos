@@ -88,7 +88,9 @@ If a player goes out of the way to harass you, perhaps by following you to your 
 
 ### 4\. Moderators & Support Staff Room
 
-![](http://wizards.com/global/images/magic_magiconline_articleak051403_pic2_en.jpg)Stumped, stymied, or confused? Just head to the **Moderators & Support Staff** room with your question. You will always find an Adept in the room along with quite a few knowledgeable players who also might have the answer to your question.
+![](http://wizards.com/global/images/magic_magiconline_articleak051403_pic2_en.jpg)
+
+Stumped, stymied, or confused? Just head to the **Moderators & Support Staff** room with your question. You will always find an Adept in the room along with quite a few knowledgeable players who also might have the answer to your question.
 
 This isn't a chat room, but it's a great place to go if you need help with game mechanics, card rulings, or general questions. Also, don't expect deck tips or trade advice, it's not the place for that type of information.
 
@@ -100,7 +102,9 @@ Adepts are there to answer questions about the game and ensure folks follow the 
 
 ### 6\. The Help Files
 
-![](http://wizards.com/global/images/magic_magiconline_articleak051403_pic3_en.jpg)Click on the large question mark on the left side of the main screen to access the help files. It's the easiest way to glean the information you may need. You can use the index to simplify your search.
+![](http://wizards.com/global/images/magic_magiconline_articleak051403_pic3_en.jpg)
+
+Click on the large question mark on the left side of the main screen to access the help files. It's the easiest way to glean the information you may need. You can use the index to simplify your search.
 
 Try to check the help files before asking one of the Adepts. Most of the answers you need are answered in the help files. Of course, if you need clarification on something, by all means seek out an Adept to help you.
 

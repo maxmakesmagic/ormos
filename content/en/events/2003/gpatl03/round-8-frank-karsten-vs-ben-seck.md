@@ -102,7 +102,9 @@ Frank led Game 1 with an early Compulsion, a necessary component for a Wake vict
 
 "Mesmeric Fiend," Ben announced. A long pause followed. The ability of the Mesmeric Fiend can be very difficult for Wake to overcome, losing a key card to the black/red Reanimator build of Ben Seck.
 
-![](https://i.ormos.uk/99/54/9954f3c66b753db108d76bb9d16596e333c8519ef9b86bba2189b1d59b799cf8.jpg)"Off the top," Ben announced, setting a card on the table. Someone watching the match had to ask what card that was, the card was a foreign language Buried Alive, and Ben started searching for items to bury. Arcanis, the Omnipotent, Anger and Undead Gladiator all went the graveyard. At the end of the turn Frank started Compulsioning cards away. A Wrath of God and a second Compulsion went to the graveyard, until Frank stopped on Deep Analysis. Deep Analysis played and flashed back refilled Frank's hand. 
+![](https://i.ormos.uk/99/54/9954f3c66b753db108d76bb9d16596e333c8519ef9b86bba2189b1d59b799cf8.jpg)
+
+"Off the top," Ben announced, setting a card on the table. Someone watching the match had to ask what card that was, the card was a foreign language Buried Alive, and Ben started searching for items to bury. Arcanis, the Omnipotent, Anger and Undead Gladiator all went the graveyard. At the end of the turn Frank started Compulsioning cards away. A Wrath of God and a second Compulsion went to the graveyard, until Frank stopped on Deep Analysis. Deep Analysis played and flashed back refilled Frank's hand. 
 
 Ben Zombified his Arcanis in an effort to refill his own hand as well. 
 
@@ -154,7 +156,9 @@ The two players talked it over and agreed to a 50% split, but the joking continu
 
 "I will mulligan," Ben said. He was given some condolences by his friend, who had just returned from the Dawn contest. 
 
-![](https://i.ormos.uk/fc/61/fc611e571988aa0013e6d75abb54a5c44636b5c145622f3dadfe2dc7109f3e5b.jpg)Ben led things off with a turn two Interrogator. Nonplussed, Frank played a turn two Compulsion. A Last Rites for two from Ben nets him two copies of Cunning Wish, right out of Franks hand and into his graveyard.
+![](https://i.ormos.uk/fc/61/fc611e571988aa0013e6d75abb54a5c44636b5c145622f3dadfe2dc7109f3e5b.jpg)
+
+Ben led things off with a turn two Interrogator. Nonplussed, Frank played a turn two Compulsion. A Last Rites for two from Ben nets him two copies of Cunning Wish, right out of Franks hand and into his graveyard.
 
 Ben then started to get the Interrogator working. He tapped him to look at three cards and Frank protected the important one, Mirari's Wake. A Skycloud Expanse did end up going to the graveyard though. The second activation saw Frank still protecting Mirari's Wake, but now he was holding two of them and Ben was able to get one copy of it in the graveyard.
 

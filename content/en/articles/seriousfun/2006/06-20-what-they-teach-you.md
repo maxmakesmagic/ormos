@@ -109,7 +109,9 @@ While we cannot consider ourselves the center of the universe to teach **Magic**
 
 **You are still very important, because you add value.** A lot of people wander in an emotional sort of no-man's land until they have someone who looks up to them. Then they realize a purpose and straighten out their own lives. Sometimes, they even come up with a second purpose – say, a guy who changes his career because he wants to spend more time with his kids.
 
-![](https://i.ormos.uk/88/43/8843daae23d8b345d4c46568e8c6f23a43ba42974ac93a8e15c59982cbf89c49.jpg)As a **Magic** tutor, you may not go through a career transformation for the sake of the 13-year-old kid you just met at the local shop; but you might see something in yourself that you didn't before. You might decide you like teaching people and add that path to your career options. Young or old, you might be stellar at it.
+![](https://i.ormos.uk/88/43/8843daae23d8b345d4c46568e8c6f23a43ba42974ac93a8e15c59982cbf89c49.jpg)
+
+As a **Magic** tutor, you may not go through a career transformation for the sake of the 13-year-old kid you just met at the local shop; but you might see something in yourself that you didn't before. You might decide you like teaching people and add that path to your career options. Young or old, you might be stellar at it.
 
 The best way to experience this lesson is to *find more protégés*. The more you do it, the more satisfying it should become. And you'll get a great reputation at your local store: it's a nice feeling to have lots of people looking up to you, even as their skills might surpass your own.
 
@@ -125,7 +127,9 @@ Because I was capable of behaving myself (by this time, I was dating my future w
 
 What was happening? In explaining the material to another person and hearing out their questions, **I was forcing myself to look at the material a different way**.
 
-![](https://i.ormos.uk/81/cd/81cda38b27d2e03f51b98e1cd4c16886a31e41ce6dfbe6b06c59a4ac847063ba.jpg)One of the most important learning tools around is *reflection*. When you reflect, you give your brain time to stretch and wrap itself around topics in new ways. You increase the chances you will remember things, and you rehearse opinions and judgments based on the facts you've learned. (One of the reasons why television can be so maddening to me is because it *can* offer wonderful opportunities for reflection in both fictional and non-fictional settings – witness stuff like the BBC's *Walking with Dinosaurs* or ABC's *Lost* – but too often *won't*, instead getting mired in garbage like "reality" shows like *Big Brother 12 ¾*, where the "reflection" that happens is no more than posturing and preening for the cameras.
+![](https://i.ormos.uk/81/cd/81cda38b27d2e03f51b98e1cd4c16886a31e41ce6dfbe6b06c59a4ac847063ba.jpg)
+
+One of the most important learning tools around is *reflection*. When you reflect, you give your brain time to stretch and wrap itself around topics in new ways. You increase the chances you will remember things, and you rehearse opinions and judgments based on the facts you've learned. (One of the reasons why television can be so maddening to me is because it *can* offer wonderful opportunities for reflection in both fictional and non-fictional settings – witness stuff like the BBC's *Walking with Dinosaurs* or ABC's *Lost* – but too often *won't*, instead getting mired in garbage like "reality" shows like *Big Brother 12 ¾*, where the "reflection" that happens is no more than posturing and preening for the cameras.
 
 Reflecting on **Magic** games requires us (and by "us", I mean "me") to do more than just complain about land-screw or a "lucky play" by an opponent. It requires us to dig deeper into the probabilities that our deck offers, and the choices we make during play. It requires us to assume we can do better than we've already done. And it requires us to help our protégés go through the same steps.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: cef948f89b07455bd839bf9ecb25e8eb59b0205106e44fafdf7b8624afc60317
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a820.jpg)The King of Beatdown sits down at his seven person table between Alex Shvartsman and Frederic Courtois. With a 4-2-1 record, he needs a good deck to remain in contention for top 8. Price drafted R/G in both drafts yesterday, and shows a high inclination towards the beatdown. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a820.jpg)
+
+The King of Beatdown sits down at his seven person table between Alex Shvartsman and Frederic Courtois. With a 4-2-1 record, he needs a good deck to remain in contention for top 8. Price drafted R/G in both drafts yesterday, and shows a high inclination towards the beatdown. 
 
 The first pack goes decently as he starts with a [Roar of the Wurm](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm). Price is given several chances to delve into Black, with a [Morbid Hunger](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Morbid+Hunger), Crypt Keeper and [Skeletal Scrying](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Scrying), but stays firm in mono Green. He seems to want to force Red, but with only a reckless charge and seeing no other good Red cards from the right it may not be the best of ideas. He also shows how high he values [Muscle Burst](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muscle+Burst) by taking it over the board controlling [Nantuko Disciple](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Disciple). 
 

@@ -416,7 +416,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/2e/d5/2ed5a72589ff188faaeb561ee005650ac85f62e137a7e36f4e5b025e48b4509b.jpg)Both Geoffrey Siron and Roland Bode finished the draft with sunburst style decks, although Siron’s is based in green while Bode’s is based in blue. Siron has a Bringer of the Red Dawn and Duplicant as bombs, but didn’t seem confident in his deck. Bode, on the other hand, had a core built around two Vedalken Engineers and two Spire Golems, with a Skyreach Manta providing some more air support. Siron’s answers consisted of mainly a Tel-Jilad Archers and a Leonin Bola.
+![](https://i.ormos.uk/2e/d5/2ed5a72589ff188faaeb561ee005650ac85f62e137a7e36f4e5b025e48b4509b.jpg)
+
+Both Geoffrey Siron and Roland Bode finished the draft with sunburst style decks, although Siron’s is based in green while Bode’s is based in blue. Siron has a Bringer of the Red Dawn and Duplicant as bombs, but didn’t seem confident in his deck. Bode, on the other hand, had a core built around two Vedalken Engineers and two Spire Golems, with a Skyreach Manta providing some more air support. Siron’s answers consisted of mainly a Tel-Jilad Archers and a Leonin Bola.
 
 ### Game 1
 

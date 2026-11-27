@@ -54,7 +54,9 @@ Battle like the best. Includes 60 tournament-ready cards and a rulebook.
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/6d/b9/6db9bcfb4ad942a2cea7c8206aca634ac973a1e729bf9f64288b9a40b48a8608.png)The *Revised Edition* basic set featured 306 white-bordered cards, new rule clarifications, and graphical improvements.
+![](https://i.ormos.uk/6d/b9/6db9bcfb4ad942a2cea7c8206aca634ac973a1e729bf9f64288b9a40b48a8608.png)
+
+The *Revised Edition* basic set featured 306 white-bordered cards, new rule clarifications, and graphical improvements.
 
 **Set Name:** *Revised Edition*  
 **Number of Cards:** 306

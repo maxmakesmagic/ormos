@@ -730,7 +730,9 @@ With *Guildpact* virtual booster pack wrappers cluttering virtual tabletops in a
 > 
 > “Of course the dual lands are all great and will see play. There will also probably be Izzet Guildmage combo decks, and then someone will play Shock and the Guildmage player will be sad.”
 
-![](https://i.ormos.uk/31/11/311116ec28285dbb064da607f7053405cd25257bbe46214a186fc21d97a6eb0d.jpg)There you have it, some *Guildpact* cards to be on the lookout for around the ***Magic** Online* multiplayer tables! Personally, I'm looking forward to using Skarrg, the Rage Pits to get involved in the creature combat of other players if the need arises. I will also personally guarantee anyone attacking with Dune-Brood Nephilim will get my assistance breaking through to generate ultra-cool Sand tokens! 
+![](https://i.ormos.uk/31/11/311116ec28285dbb064da607f7053405cd25257bbe46214a186fc21d97a6eb0d.jpg)
+
+There you have it, some *Guildpact* cards to be on the lookout for around the ***Magic** Online* multiplayer tables! Personally, I'm looking forward to using Skarrg, the Rage Pits to get involved in the creature combat of other players if the need arises. I will also personally guarantee anyone attacking with Dune-Brood Nephilim will get my assistance breaking through to generate ultra-cool Sand tokens! 
 
 ### Coming up...
 

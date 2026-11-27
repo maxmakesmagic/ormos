@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a957.jpg)Kyle Hadfield, originally from Ontario, currently goes to school in Nova Scotia, which allowed him to play in South Maritime Regionals, where he made top 4. He is no stranger to big events, having finished in the Top 32 at PT Nice. He is still a newcomer to the game, however, having participated in only 15 sanctioned events lifetime. Quite a start to a career.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a957.jpg)
+
+Kyle Hadfield, originally from Ontario, currently goes to school in Nova Scotia, which allowed him to play in South Maritime Regionals, where he made top 4. He is no stranger to big events, having finished in the Top 32 at PT Nice. He is still a newcomer to the game, however, having participated in only 15 sanctioned events lifetime. Quite a start to a career.
 
 Steve Cassell recently broke into the big time with a Top 8 at GP Milwaukee playing ZevAtog, but now he's running a red [Psychatog](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) deck, packed with burn and [Merfolk Looter](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter)s. 
 
@@ -68,7 +70,9 @@ Of course, Hadfield had the third Firebolt. He also had drawn a Forest an a [Bas
 
 Hadfield put out a Wild Mongrel, but Cassell was ready to start with the real business, and cast [Fact or Fiction](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fact+or+Fiction), flopping [Counterspell](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell)/Counterspell/Mountian/[Recoil](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recoil)/Fact or Fiction.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a959.jpg)Hadfield: "And now I get to make my first error on the Sideboard."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a959.jpg)
+
+Hadfield: "And now I get to make my first error on the Sideboard."
 
 He split the piles Counter x2 + Mountain, and that's the pile Cassell chose. The Looter then started working overtime, enabling madness on [Fiery Temper](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fiery+Temper), [Circular Logic](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circular+Logic), and even [Obsessive Search](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Obsessive+Search). Hadfield never pulled out of him mana problems, and with all the extra cards, Cassell was able to overwhelm him with two [Flametongue Kavu](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) and a bunch of permission.
 
@@ -85,7 +89,9 @@ Hadfield kept a one-Forest draw ("I know, I'm really dumb."), but drew two Mount
 Hadfield: "I walked into that."  
  Cassell: "Yes you did."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a958.jpg)On his next turn, Hadfield tried two [Meteor Storm](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meteor+Storm)s (the first was Counterspelled), and now Cassell had real problems, especially considering he had no black mana available. He did manage to Flametongue the Lavamancer, but Hadfield killed the Flametongue with a Fiery Temper and then hit Cassell with a Firebolt to the head. (Yes, that seems backwards, two to you and three to the Flametongue. I would have played it very differently... Hadfield had four land and a Meteor Storm in play, with a hand of Firebolt, Fiery Temper, land and Rootwalla. I think the most optimal play would have been Firebolt the Kavu and play the land, then on his next upkeep, tap five mana and discard the Rootwalla and the Temper to Meteor Storm.)
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a958.jpg)
+
+On his next turn, Hadfield tried two [Meteor Storm](https://web.archive.org/web/20020614000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meteor+Storm)s (the first was Counterspelled), and now Cassell had real problems, especially considering he had no black mana available. He did manage to Flametongue the Lavamancer, but Hadfield killed the Flametongue with a Fiery Temper and then hit Cassell with a Firebolt to the head. (Yes, that seems backwards, two to you and three to the Flametongue. I would have played it very differently... Hadfield had four land and a Meteor Storm in play, with a hand of Firebolt, Fiery Temper, land and Rootwalla. I think the most optimal play would have been Firebolt the Kavu and play the land, then on his next upkeep, tap five mana and discard the Rootwalla and the Temper to Meteor Storm.)
 
 But even playing all willy-nilly, Hadfield was able to dispatch Cassell with activations of Meteor Storm and flashed-back Firebolts.
 

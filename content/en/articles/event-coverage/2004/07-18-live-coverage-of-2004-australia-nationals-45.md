@@ -44,7 +44,9 @@ archive_source:
   sha256: 6094ffb60f462ec19d03a28c57e0cc40a539df0168bf907ae45650c5d9a21103
 render_recovery: []
 ---
-![](https://i.ormos.uk/7f/8f/7f8ffcab2761216288712349a62d86f164db02b92d73b14fc67f1463cdf98ad2.jpg)Although they're used to friendly matches at Melbourne's Card Heaven store, there was a little more on the line between David Zhao an Michael Kotchoff this time. Zhao has long been considered a bit of an heir apparent to the waning fortunes of the more-established Melbourne teams, while Kotchoff has lately put together some impressive finishes on the local scene.
+![](https://i.ormos.uk/7f/8f/7f8ffcab2761216288712349a62d86f164db02b92d73b14fc67f1463cdf98ad2.jpg)
+
+Although they're used to friendly matches at Melbourne's Card Heaven store, there was a little more on the line between David Zhao an Michael Kotchoff this time. Zhao has long been considered a bit of an heir apparent to the waning fortunes of the more-established Melbourne teams, while Kotchoff has lately put together some impressive finishes on the local scene.
 
 Kotchoff was playing a Red/Green Land Destruction deck that has carried him to a 5-1 finish in the constructed portion, and Zhao is running mono-Red goblins (which he went 2-1 with - he intentionally drew three times after winning the draft portion!). Michael was using some interesting tech by including [Panoptic Mirror](https://web.archive.org/web/20040718000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Panoptic+Mirror) in the main deck.
 

@@ -142,7 +142,9 @@ render_recovery:
   - Words of Wilding
   occurrences: 114
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a355.jpg)Wolfman wanted to confirm that he won the flip and looked to Rune Horvik for confirmation, "So I will play first?"
+![](http://www.wizards.com/sideboard/images/ptven03/a355.jpg)
+
+Wolfman wanted to confirm that he won the flip and looked to Rune Horvik for confirmation, "So I will play first?"
 
 "You will choose to play or draw," said Rune, laying down the law early.
 
@@ -156,7 +158,9 @@ Wolfman – 0 Mori – 1
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptven03/a357.jpg)Wolfman sided out an Anurid Murkdiver in favor of a Spined Basher. 
+![](http://www.wizards.com/sideboard/images/ptven03/a357.jpg)
+
+Wolfman sided out an Anurid Murkdiver in favor of a Spined Basher. 
 
 This game went much better for Wolfman as he was able to make a 4/4 Brawler on the third turn. Mori did little more than play morphs to clog up the ground. Dirge of Dread allowed Wolfman to break the stalemate with fatal results for the Converse-clad Mori.
 

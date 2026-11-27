@@ -78,7 +78,9 @@ render_recovery:
   - Counterspell
   occurrences: 44
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a993.jpg)This is certainly not the way they want to start Euro 2003. Playing against more than a countryman, more than a team-mate, against a friend. Don't expect to hear any of their witty comments because I haven't brushed up my Dutch yet.
+![](http://www.wizards.com/sideboard/images/euro03/a993.jpg)
+
+This is certainly not the way they want to start Euro 2003. Playing against more than a countryman, more than a team-mate, against a friend. Don't expect to hear any of their witty comments because I haven't brushed up my Dutch yet.
 
 ### Game 1
 
@@ -88,7 +90,9 @@ He followed that with a flashbacked Analysis. Across the table Jelger's Verge ga
 
 Velden used Cunning Wish to pick a fight: he got his Man Short. With the Wake helping him out, Jelger set out on a quest for better cards. In an end of turn step he "cycled" five cards (using Compulsion).
 
-![](http://www.wizards.com/sideboard/images/euro03/a994.jpg)Stan flashbacked another Analysis and kept digging through his deck, discarding Future Sight and a land for a Careful Study. Jelger Cunning Wished for Opportunity and tried to draw four cards but Velden used Cunning Wish to get Seedtime.
+![](http://www.wizards.com/sideboard/images/euro03/a994.jpg)
+
+Stan flashbacked another Analysis and kept digging through his deck, discarding Future Sight and a land for a Careful Study. Jelger Cunning Wished for Opportunity and tried to draw four cards but Velden used Cunning Wish to get Seedtime.
 
 Wiegersma got his four cards but Stan van der Velden got an extra turn. With Wiegersma tapped out he set out to work. Early Harvest, Future Sight, a huge Flash of Insight, a second Harvest, a twelve-card Brain Freeze, another Harvest, Cunning Wish for Krosan Reclamation, a few more spells, Reclaim for Brain Freeze, Brain Freeze for the win.
 
@@ -98,7 +102,9 @@ Stan 1-0 Jelger.
 
 Mental Note threw two good spells into Velden's graveyard: Cunning Wish and Quiet Speculation. A small Far Wanderings and Wild Growth gave him some extra mana. Meanwhile Wiegersma was busy looking for help. He cycled two Renewed Faith and lost Mirari before finding a playable spell: Compulsion.
 
-![](http://www.wizards.com/sideboard/images/euro03/a995.jpg)Velden resolved Future Sight after a two Counterspell battle. Things were going downhill for Jelger Wiegersma. Early Harvest untapped Velden and he tried to speed things along. He Cunning Wished for Seedtime and played it.
+![](http://www.wizards.com/sideboard/images/euro03/a995.jpg)
+
+Velden resolved Future Sight after a two Counterspell battle. Things were going downhill for Jelger Wiegersma. Early Harvest untapped Velden and he tried to speed things along. He Cunning Wished for Seedtime and played it.
 
 He now had a brand new turn to play with. With the Sight's help he sped through his deck in impressive form. His found his remaining Wanderings but kept turning over lands with Future Sight. Yet, every single time he seemed on the verge of stalling out he found a way out of it.
 

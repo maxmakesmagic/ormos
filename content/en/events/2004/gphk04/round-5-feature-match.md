@@ -423,7 +423,9 @@ render_recovery:
 ---
 ### Ben Stark vs. Antoine Ruel
 
-![](http://www.wizards.com/sideboard/images/gphk04/r5fm1_1.jpg)Grand Prix Juggernaut Ben Stark was fresh off of his first Pro Tour Top 8 in Kobe where he lost to Ruel's countryman Gabriel Nassif. Antoine Ruel also has a Top 8 to his credit, although it was his brother Olivier who accomplished the feat most recently. They may be the only brother combination with individual Top 8s to each of their names.
+![](http://www.wizards.com/sideboard/images/gphk04/r5fm1_1.jpg)
+
+Grand Prix Juggernaut Ben Stark was fresh off of his first Pro Tour Top 8 in Kobe where he lost to Ruel's countryman Gabriel Nassif. Antoine Ruel also has a Top 8 to his credit, although it was his brother Olivier who accomplished the feat most recently. They may be the only brother combination with individual Top 8s to each of their names.
 
 This was not the first time these two players had faced each other. Antoine recalled a match they played at Pro Tour Houston that was not to his liking, "Do you remember the last time we played each other? You discarded on turn two, three, and four. You still won." 
 

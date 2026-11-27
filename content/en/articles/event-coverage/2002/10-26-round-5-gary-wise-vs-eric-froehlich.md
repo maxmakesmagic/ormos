@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/cb/0c/cb0ce620036f8436fd651dec30bf143093cde2e9ef62ea7f386928078b857131.jpg)Gary arrived to the feature match area first, and began kvetching about Papa Froehlich (Eric's father) playing [Brightstone Ritual](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brightstone+Ritual) during this very Grand Prix. He continued his complaining after Eric sat down to play. On and on Gary droned about [Brightstone Ritual](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brightstone+Ritual), well into the beginning of the first game. Eric, on the other hand, mumbled incoherently to himself all throughout the match. It was a striking contrast to listen to the contrast in volume levels between the two competitors. 
+![](https://i.ormos.uk/cb/0c/cb0ce620036f8436fd651dec30bf143093cde2e9ef62ea7f386928078b857131.jpg)
+
+Gary arrived to the feature match area first, and began kvetching about Papa Froehlich (Eric's father) playing [Brightstone Ritual](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brightstone+Ritual) during this very Grand Prix. He continued his complaining after Eric sat down to play. On and on Gary droned about [Brightstone Ritual](https://web.archive.org/web/20021026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brightstone+Ritual), well into the beginning of the first game. Eric, on the other hand, mumbled incoherently to himself all throughout the match. It was a striking contrast to listen to the contrast in volume levels between the two competitors. 
 
 ### Game 1
 

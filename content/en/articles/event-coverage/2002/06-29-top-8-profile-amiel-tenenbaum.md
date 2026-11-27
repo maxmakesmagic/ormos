@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/95/b8/95b8b3dbfcd03abfaa7ff41bfbc02b812e9033c4e0c8a6414e8c7d21d4f409f8.jpg)Amiel Tenebaum might be young, just twenty years old, but he is already used to be the Magic spotlight. You might not recognize him from the photos now but picture him with long hair and you might have flashbacks of Team Pro Tour.
+![](https://i.ormos.uk/95/b8/95b8b3dbfcd03abfaa7ff41bfbc02b812e9033c4e0c8a6414e8c7d21d4f409f8.jpg)
+
+Amiel Tenebaum might be young, just twenty years old, but he is already used to be the Magic spotlight. You might not recognize him from the photos now but picture him with long hair and you might have flashbacks of Team Pro Tour.
 
 Along with Nicolas Olivieri and Gabriel Nassif, Amiel formed Les Plus Class and made it all the way to the finals. Finally stopped by Phoenix Foundation (Budde, Blume, Baberowski) they were amongst the first to show the world the new wave of good French players.
 

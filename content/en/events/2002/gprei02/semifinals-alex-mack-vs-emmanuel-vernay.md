@@ -81,7 +81,9 @@ Alex is playing the Blistering Firecat version of the red deck, whereas Emmanuel
 
 ### Game 1
 
-![](https://i.ormos.uk/1e/cb/1ecbf5794d8b5666703d9d68b77c878602d5e0512077bfdfbcaede5f7c60e1b6.jpg)Alex started off with a Grim Lavamancer, followed by a Mogg Fanatic. Emmanuel used Duress and Cabal Therapy to reduce Alex to no hand. Even so the Lavamancer was always going to be a real problem for his deck.
+![](https://i.ormos.uk/1e/cb/1ecbf5794d8b5666703d9d68b77c878602d5e0512077bfdfbcaede5f7c60e1b6.jpg)
+
+Alex started off with a Grim Lavamancer, followed by a Mogg Fanatic. Emmanuel used Duress and Cabal Therapy to reduce Alex to no hand. Even so the Lavamancer was always going to be a real problem for his deck.
 
 Emmanuel managed to put a creature into play that wouldn't die to the Lavamancer, which was a Flesh Reaver. Unfortunately for Alex he didn't know exactly how the card worked and ran his Mogg Fanatic at it, sacrificing when damage was on the stack. Since the Flesh Reaver hadn't dealt damage successfully, Emmanuel didn't have to lose the four life.
 
@@ -93,7 +95,9 @@ Emmanuel attacked with the Slayer and dropped a Skittering Skirge, which died to
 
 ### Game 2
 
-![](https://i.ormos.uk/97/de/97de4bb30520d63519ff402934cebe305b9740da802565bb43fa287fe2c4f6da.jpg)This game Alex had to take a mulligan and lost his Seal of Fire to a first turn Duress. Mack summoned a Goblin Cadets and Emmanuel a Flesh Reaver and a Sarcomancy. The Sarcomancy really isn't too hot in this match. Alex Volcanic Hammered the token so that he could start dealing some damage.
+![](https://i.ormos.uk/97/de/97de4bb30520d63519ff402934cebe305b9740da802565bb43fa287fe2c4f6da.jpg)
+
+This game Alex had to take a mulligan and lost his Seal of Fire to a first turn Duress. Mack summoned a Goblin Cadets and Emmanuel a Flesh Reaver and a Sarcomancy. The Sarcomancy really isn't too hot in this match. Alex Volcanic Hammered the token so that he could start dealing some damage.
 
 Next turn Emmanuel made a Planar Void (Lavamancer protection) and a Cursed Scroll. He was stuck on two land however, and Alex had two Rishadan Ports, so for a few turns the only damage that was dealt was from Emmanuel's Sarcomancy. After a few turns, however, Alex drew a Cursed Scroll effectively ending the game. He made a mistake by not attacking with the Mogg Fanatic into the Flesh Reaver when it was going to die to Emmanuel's Cursed Scroll anyway.
 

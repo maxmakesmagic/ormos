@@ -317,7 +317,9 @@ mikeの初手が《切り刻まれた軍勢/Severed Legion》、長岡の初手�
 
 Mike先攻ではじまったものの長岡が２ターン目に《墓所スリヴァー/Crypt Sliver》召喚と先手を打ってはじまった。mikeは３ターン目に《切り刻まれた軍勢/Severed Legion》と召喚し、返す長岡も《煙吐く発動者/Smokespew Invoker》を出して応戦する。
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a846.jpg)しかし、４ターン目にmikeは《ダールのとげ刺し/Daru Stinger》を召喚することに成功、しかも増幅２のために見せたカードに《熟達の刃の精鋭/Deftblade Elite》が含まれていたのである。
+![](http://www.wizards.com/sideboard/images/ptbos03/a846.jpg)
+
+しかし、４ターン目にmikeは《ダールのとげ刺し/Daru Stinger》を召喚することに成功、しかも増幅２のために見せたカードに《熟達の刃の精鋭/Deftblade Elite》が含まれていたのである。
 
 手札に除去のない長岡は《霧衣の壁/Mistform Wall》や《定員過剰の墓地/Oversold Cemetery》を張って耐えようとするが...引けども引けどもクリーチャーしか引かず、mikeに《低地の足跡追い/Lowland Tracker》まで追加され、挑発《ダールのとげ刺し/Daru Stinger》コンボの前に長岡は１本目をとられることになる。
 
@@ -341,7 +343,9 @@ Mike先攻ではじまったものの長岡が２ターン目に《墓所スリ�
 
 ４ターン目のmikeは《鞭草の絡め手/Whipgrass Entangler》を召喚とちょっと地味めなのに対し、長岡は何とか攻撃を止めようと《慧眼のエイヴン/Keeneye Aven》を召喚した。
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a843.jpg)がmikeは次ターン《変異/Morph》《鞭草の絡め手/Whipgrass Entangler》で攻撃、長岡はおおいに悩んで結局《鞭草の絡め手/Whipgrass Entangler》の方を《慧眼のエイヴン/Keeneye Aven》でブロックする。Mikeは更に《変異/Morph》を自陣に加えエンド、長岡は《金切り声のノスリ/Screeching Buzzard》を戦線に加える。
+![](http://www.wizards.com/sideboard/images/ptbos03/a843.jpg)
+
+がmikeは次ターン《変異/Morph》《鞭草の絡め手/Whipgrass Entangler》で攻撃、長岡はおおいに悩んで結局《鞭草の絡め手/Whipgrass Entangler》の方を《慧眼のエイヴン/Keeneye Aven》でブロックする。Mikeは更に《変異/Morph》を自陣に加えエンド、長岡は《金切り声のノスリ/Screeching Buzzard》を戦線に加える。
 
 次ターンmikeは《切り刻まれた軍勢/Severed Legion》を召喚した後全員で攻撃。ここで《鋼の霊体/Astral Steel》を持ってると確信に至った長岡は《鞭草の絡め手/Whipgrass Entangler》を《慧眼のエイヴン/Keeneye Aven》と《金切り声のノスリ/Screeching Buzzard》でダブルブロックする。とりあえず《鋼の霊体/Astral Steel》を使わせないとはじまらないという訳だ。
 

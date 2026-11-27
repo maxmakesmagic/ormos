@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/880.jpg)After the players, the staff, and the judges had at least attempted to get a good night's sleep, everybody arrived at the Pro Tour site in the inner regions of the Hyatt Regency Chicago to see the top 96 players fight for a slot in the playoff. During the first round of the second day, seven Europeans and one lone American entered the feature match area to battle it out in front of eager spectators. The American was Justin Gary, and he was facing England's Tony Dobson. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/880.jpg)
+
+After the players, the staff, and the judges had at least attempted to get a good night's sleep, everybody arrived at the Pro Tour site in the inner regions of the Hyatt Regency Chicago to see the top 96 players fight for a slot in the playoff. During the first round of the second day, seven Europeans and one lone American entered the feature match area to battle it out in front of eager spectators. The American was Justin Gary, and he was facing England's Tony Dobson. 
 
 Gary was with a blue and white control deck with countermagic, library manipulation, Wrath of Gods and Blinding Angels for the kill. Dobson was one of five players in the tournament sporting a white/black rebel deck. He had at least Snuff Outs and a Rebel Informer main deck, and after sideboarding, his deck became pretty powerful in the mirror matchup as he had Tsabo's Decree and Vampiric Tutors. 
 
@@ -51,7 +53,9 @@ Justin played lands only during his first two turns, while Tony dropped a turn o
 
 Dobson used his Lieutenant to get a Lin Sivvi, Defiant Hero into play, and his following attack took Justin down to 17 life. So Justin decided it was time to cast a Wrath of God to get rid of the annoying rebels on the table. Dobson needed to get out more threats to keep up the pressure. First, he attempted to cast the Lin Sivvi he had been holding in his hand since the start of the game, but it was Counterspelled. But then he dropped a Chimeric Idol. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/879.jpg)Gary didn't have any answers to the Idol. He cast Accumulated Knowledge for two this time, but took three from the Idol. He cast another Accumulated Knowledge for three, but the Idol kept attacking him, knocking him lower and lower on life. Dobson attempted to play a Parallax Wave, but it was Counterspelled, but that didn't stop the Idol onslaught. Justin was down to one life only when he finally topdecked a Dismantling Blow. So when Dobson tried to attack for the kill, Justin cast his Dismantling Blow, and Dobson Sealed it in response to prevent Justin from drawing cards. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/879.jpg)
+
+Gary didn't have any answers to the Idol. He cast Accumulated Knowledge for two this time, but took three from the Idol. He cast another Accumulated Knowledge for three, but the Idol kept attacking him, knocking him lower and lower on life. Dobson attempted to play a Parallax Wave, but it was Counterspelled, but that didn't stop the Idol onslaught. Justin was down to one life only when he finally topdecked a Dismantling Blow. So when Dobson tried to attack for the kill, Justin cast his Dismantling Blow, and Dobson Sealed it in response to prevent Justin from drawing cards. 
 
 Since a player has to tap all their lands in order to activate a Chimeric Idol, Dobson was all tapped out and he couldn't do anything after the Idol was dead. So Justin got to untap, and he was all ready for whatever would come when Dobson got to take his next turn. The Englishman cast a Rebel Informer, but it was Absorbed, and Gary was back to four life. A Defiant Falcon came into play, but Justin used a Wrath of God to get rid of it. Lin Sivvi was then Absorbed, and Justin was at seven. A Parallax Wave resolved, but at that time, the American was ready to start his own offence. 
 

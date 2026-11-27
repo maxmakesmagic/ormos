@@ -85,7 +85,9 @@ render_recovery:
   - Cultural Exchange
   occurrences: 38
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a976.jpg)Malaysia's Michael Tan is one of those players quietly earning a strong local reputation without the high-profile finished to back it up. Recently, he made Top 16 at Grand Prix - Singapore last year. That same event saw Singapore's Royce Chai hit the Top 8. Finally Tan has a chance for revenge. Chai enjoys a bit of celebrity himself, known as "The Tourist" after he spent Worlds taking photos of himself with his opponents.
+![](http://www.wizards.com/sideboard/images/gpkl02/a976.jpg)
+
+Malaysia's Michael Tan is one of those players quietly earning a strong local reputation without the high-profile finished to back it up. Recently, he made Top 16 at Grand Prix - Singapore last year. That same event saw Singapore's Royce Chai hit the Top 8. Finally Tan has a chance for revenge. Chai enjoys a bit of celebrity himself, known as "The Tourist" after he spent Worlds taking photos of himself with his opponents.
 
 Tan leapt to the offensive immediately. Mesmeric Fiend stole Krosan Archer, leaving Patriarch's Desire behind. He then suited up with Ghostly Wings and started serving. Nantuko Disciple gave Chai pause, but he wanted that Krosan Archer back. Down came the Desire, and Tan pitched to rescue it. When the Fiend came back, it stole Chai's best hope: Narcissism.
 
@@ -95,7 +97,9 @@ Tan 1 - Chai 0
 
 Chai kicked off the second with Basking Rootwalla. It hit twice, then fell to Afflict. He was clearly short on offense, as he brought it back with Morgue Theft. Tan meanwhile got his Deep Analysis on, and answered Narcissism by tapping out for Dirty Wererat and Wild Mongrel. He was already at eleven. He had to play it safe.
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a977.jpg)Chai put Patriarch's Desire on the dog. Tan kept it alive for a turn with a pitch. Then he added Zombie Assassin to his team. Stupefying Touch took away Dirty Wererat's regeneration, but again Tan pitched to keep it active for a turn. Chai added Werebear, trying to keep up.
+![](http://www.wizards.com/sideboard/images/gpkl02/a977.jpg)
+
+Chai put Patriarch's Desire on the dog. Tan kept it alive for a turn with a pitch. Then he added Zombie Assassin to his team. Stupefying Touch took away Dirty Wererat's regeneration, but again Tan pitched to keep it active for a turn. Chai added Werebear, trying to keep up.
 
 Tan continued to outstrip him. Cartographer and Hydromorph Guardian made sure he'd have ample defenders. Zombie Assassin ate the Rootwalla after Chai pitched to save it. Tan hit back, and added Hydromorph Gull to his team. Chai forced him to blow up his Guardian to stop a Demise on it.
 

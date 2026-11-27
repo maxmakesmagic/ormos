@@ -98,7 +98,9 @@ Hot off a Top 16 finish at Pro Tour – Chicago last weekend, Hisaya Tanaka is l
 
 The two matched manlands. Tanaka brought out Treetop Village and Sasanuma answered with Faerie Conclave. Tanaka followed up with Living Wish, and settled on Wasteland after considering Dust Bowl and Gigapede. He Wasted the Conclave on the following turn, while Sasanuma dug for land. He found Shivan Reef only to see Tanaka pull Dust Bowl.
 
-![](http://www.wizards.com/sideboard/images/gphir03/a992.jpg)Two turns passed while Sasanuma went through Accumulated Knowledge and Brainstorm, trying to draw out of his predicament. Tanaka cycled Krosan Tusker to keep himself in land. He continued to hit with his Treetop Village. Finally Sasanuma started to hit basic lands. Tanaka Tutored up a Cabal Therapy, hoping to shut down a quick win. He aimed for Erratic Explosion and hit, but saw a hand of counters, Fact or Fiction, Draco and Intuition. He hit for three more and flashed back his Therapy, earning a Memory Lapse.
+![](http://www.wizards.com/sideboard/images/gphir03/a992.jpg)
+
+Two turns passed while Sasanuma went through Accumulated Knowledge and Brainstorm, trying to draw out of his predicament. Tanaka cycled Krosan Tusker to keep himself in land. He continued to hit with his Treetop Village. Finally Sasanuma started to hit basic lands. Tanaka Tutored up a Cabal Therapy, hoping to shut down a quick win. He aimed for Erratic Explosion and hit, but saw a hand of counters, Fact or Fiction, Draco and Intuition. He hit for three more and flashed back his Therapy, earning a Memory Lapse.
 
 However, Sasanuma seemed to have enough gas to outrace three damage a turn. At the end of Tanaka's next turn he played Fact or Fiction, taking Scroll Rack over Counterspell and three lands. He dropped the Rack and passed it back. He fell to four. Intuition for Accumulated Knowledges gave him four more cards. He Racked for the full eight on his turn, drawing exactly what he needed: Two Fire/Ice and two Erratic Explosion. He Exploded Draco to put Tanaka at two. Tanaka made a Baloth and handed it back, but two Fires, appropriately stacked, gave Game 1 to Sasanuma.
 

@@ -73,7 +73,9 @@ Both players shuffled their decks quietly and pondered the matchup. Bram has bee
 
 ### Game 1
 
-![](https://www.wizards.com/sideboard/images/gplon02/892.jpg)Dario won the die roll and chose to start. He wasn’t happy with his opening and chose to mulligan. The next hand wasn’t much better as he stalled on one land for a turn. He tried to keep up with Bram but as he was stuck with two islands he could only play an Aquamoeba. Bram played a turn 5 Battle Screech that would allow him to put 6 birds into play as he had speculated for a Battle Screech earlier and had two additional creatures in play. Instead of dying in a few turns to this massive air force enhanced by Divine Sacrament Dario preferred to concede. 
+![](https://www.wizards.com/sideboard/images/gplon02/892.jpg)
+
+Dario won the die roll and chose to start. He wasn’t happy with his opening and chose to mulligan. The next hand wasn’t much better as he stalled on one land for a turn. He tried to keep up with Bram but as he was stuck with two islands he could only play an Aquamoeba. Bram played a turn 5 Battle Screech that would allow him to put 6 birds into play as he had speculated for a Battle Screech earlier and had two additional creatures in play. Instead of dying in a few turns to this massive air force enhanced by Divine Sacrament Dario preferred to concede. 
 
 Bram 1 – Dario 0 
 

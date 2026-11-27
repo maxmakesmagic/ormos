@@ -51,15 +51,21 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/149fm8turzvi.jpg)Team CMU vs. Team Godzilla, Pittsburgh vs. New York, however you split it up, this a battle between two of the best known players on the tour. As they wiped the sleep from their eyes to kick off Day 2 on a surprisingly chilly morning in Las Vegas, both players seemed confident heading in. They have played numerous times in the past, at PT New York, London and LA. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/149fm8turzvi.jpg)
+
+Team CMU vs. Team Godzilla, Pittsburgh vs. New York, however you split it up, this a battle between two of the best known players on the tour. As they wiped the sleep from their eyes to kick off Day 2 on a surprisingly chilly morning in Las Vegas, both players seemed confident heading in. They have played numerous times in the past, at PT New York, London and LA. 
 
 Zvi is with Turboland, his trademark archetype, with main deck Thawing Glaciers, to help out the control match-ups and keeping Oath of Druids in the sideboard. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/148fm8zvi.jpg)Mike "The Potato" Turian is with a green/blue control deck, similar to the one used by Dan Clegg, sitting right next to him in the featured match pit. Clegg got the deck from Turian and both players advanced to day 2 (while no one else ran it). Turian got the deck from a Michigan player named Max McGuffin.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/148fm8zvi.jpg)
+
+Mike "The Potato" Turian is with a green/blue control deck, similar to the one used by Dan Clegg, sitting right next to him in the featured match pit. Clegg got the deck from Turian and both players advanced to day 2 (while no one else ran it). Turian got the deck from a Michigan player named Max McGuffin.
 
 Zvi's early Glacier meets a Wasteland, as does his second, and both players just start manipulating their decks, trying to build up an optimal hand, and get some card advantage cooking. Zvi manages to find a third Glacier and starts the slow, but sure process of building up his mana and increasing his draw quality. Turian has Fact or Fictions (a beating in the control on control matches), but cannot get them to resolve. After several turns of setting up, Zvi brings out an Elephant to send the beats, so... Turian answers with a Morphling. (He casts this with zero mana untapped to try and protect it, or force it down, obviously expecting a counter. When Zvi gives a sour look and an "OK", Turian cannot help but to exclaim "Excellent" in his most evil Mister Burns voice.) His hand was forced due to Zvi's rapidly growing card and mana advantage, but Morphling resolving allows him to easily race Zvi and his army of elephants. 4 hits later, Superman takes down Team Godzilla's most notorious representative.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/147fm8turianclegg.jpg)An important factor between games, is that Turian never played a non-blue land in the first game, holding back several Treetop Villages and Tropicals in his hand so as not to give any tips away. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/147fm8turianclegg.jpg)
+
+An important factor between games, is that Turian never played a non-blue land in the first game, holding back several Treetop Villages and Tropicals in his hand so as not to give any tips away. 
 
 Turian kicks off game two with a Treetop Village and a Tropical, bringing a look of surprise from Zvi. Zvi's life total starts going down in three point increments. A bevy of Wastelands from Turian strips out Zvi's Dustbowl and green mana base. The mighty homeland of the Elves beats down for 7 turns straight, leaving Zvi to just chuckle and extend the hand. 
 

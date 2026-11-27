@@ -53,7 +53,9 @@ archive_source:
   sha256: 32436ef16120d86a1e285ede80f20a2da2b556030ecebdf0074e2f3ac245f97e
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a970.jpg)Sideboard Japan Columnists and ex-Executioners Ken'ichi Fujita and Koichiro Maki have joined up with Sideboard Japan reporter Isamu Fujieda to bust up the tournament. This round they face Mropaganda, a strong trio of Kanako Kawaguchi, Hideo Muroga and Rei Hashimoto.
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a970.jpg)
+
+Sideboard Japan Columnists and ex-Executioners Ken'ichi Fujita and Koichiro Maki have joined up with Sideboard Japan reporter Isamu Fujieda to bust up the tournament. This round they face Mropaganda, a strong trio of Kanako Kawaguchi, Hideo Muroga and Rei Hashimoto.
 
 At the far end of the table Fujieda was being frustrated by Hashimoto's Angelic Wall and his own inability to draw fatties. This gave Hashimoto plenty of time to dig with Compulsion.
 

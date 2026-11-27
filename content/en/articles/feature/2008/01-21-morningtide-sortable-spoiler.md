@@ -63,6 +63,8 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/cc/12/cc129be3ca0830c82114d6155e2f15da8b4e30cd7fada37562002cc760a486fd.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Morningtide*. Enjoy! 
+![](https://i.ormos.uk/cc/12/cc129be3ca0830c82114d6155e2f15da8b4e30cd7fada37562002cc760a486fd.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Morningtide*. Enjoy! 
 
 **[Launch the *Morningtide* card list](https://web.archive.org/web/20080122130427/http://www.wizards.com/default.asp?x=magic/cardlist/morningtide)**

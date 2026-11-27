@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### 山本 明聖（和歌山） vs. Gabriel Nassif（フランス）
 
-![](https://i.ormos.uk/c9/42/c942960ff55f24dc17d16fded070765fb35305c8e54266415aec3b7a9fb5c84a.jpg)**棚橋 雅康**（新潟）が準々決勝でLSVに敗れ、残った日本人は**山本 明聖**（和歌山）だけとなった。デッキ相性からの下馬評は、圧倒的不利。しかも、相手は古豪、**Gabriel Nassif**（フランス）だ。ここを超えたところに、おそらくはLSVが待っている。世界の壁が、プロツアー初出場の山本に容赦なく立ちはだかる。
+![](https://i.ormos.uk/c9/42/c942960ff55f24dc17d16fded070765fb35305c8e54266415aec3b7a9fb5c84a.jpg)
+
+**棚橋 雅康**（新潟）が準々決勝でLSVに敗れ、残った日本人は**山本 明聖**（和歌山）だけとなった。デッキ相性からの下馬評は、圧倒的不利。しかも、相手は古豪、**Gabriel Nassif**（フランス）だ。ここを超えたところに、おそらくはLSVが待っている。世界の壁が、プロツアー初出場の山本に容赦なく立ちはだかる。
 
 Nassifからすると、久々のトップ戦線復帰と言えよう。本日のウェブキャスト解説を担当している鍛冶 友浩（東京）がプロツアーに定期参戦し始めた頃、ちょうどNassifは全盛期だった。鍛冶をして「美しいマジック」をすると評するNassifのマジックに、山本が挑む。
 
@@ -120,7 +122,9 @@ Nassifは《熟考漂い/[Mulldrifter](https://web.archive.org/web/2009030100000
 
 **Game 3**
 
-![](https://i.ormos.uk/90/28/90287413af473eed5de8d7f0e9ff4c35a42958f94a1410a052b91a61963ab231.jpg)マリガンスタートから、《平地/[Plains](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains)》《反射池/[Reflecting Pool](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reflecting+Pool)》《遍歴の騎士、エルズペス/[Elspeth, Knight-Errant](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elspeth%2C+Knight-Errant)》《目覚ましヒバリ/[Reveillark](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reveillark)》《幽体の行列/[Spectral Procession](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Procession)》《イーオスのレインジャー/[Ranger of Eos](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ranger+of+Eos)》というハンドをキープ。《山/[Mountain](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)》を引いたものの白3マナは揃わず、トップした《運命の大立者/[Figure of Destiny](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Figure+of+Destiny)》を3ターン目に送り込むという、スローな立ち上がり。
+![](https://i.ormos.uk/90/28/90287413af473eed5de8d7f0e9ff4c35a42958f94a1410a052b91a61963ab231.jpg)
+
+マリガンスタートから、《平地/[Plains](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains)》《反射池/[Reflecting Pool](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reflecting+Pool)》《遍歴の騎士、エルズペス/[Elspeth, Knight-Errant](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elspeth%2C+Knight-Errant)》《目覚ましヒバリ/[Reveillark](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reveillark)》《幽体の行列/[Spectral Procession](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Procession)》《イーオスのレインジャー/[Ranger of Eos](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ranger+of+Eos)》というハンドをキープ。《山/[Mountain](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)》を引いたものの白3マナは揃わず、トップした《運命の大立者/[Figure of Destiny](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Figure+of+Destiny)》を3ターン目に送り込むという、スローな立ち上がり。
 
 この序盤は、Nassifに《エスパーの魔除け/[Esper Charm](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Esper+Charm)》によるドローと《恐怖/[Terror](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terror)》を打ち込む時間を許し、《精神石/[Mind Stone](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind+Stone)》でたどり着いた4マナで《イーオスのレインジャー/[Ranger of Eos](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ranger+of+Eos)》をプレイするも、これには《砕けた野望/[Broken Ambitions](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Broken+Ambitions)》。
 
@@ -138,7 +142,9 @@ Nassifは《熟考漂い/[Mulldrifter](https://web.archive.org/web/2009030100000
 
 **Game 4**
 
-![](https://i.ormos.uk/46/c7/46c762044c6b275c927fc2471397d791bb155fe33e97431775570266ea510bc3.jpg)《白蘭の騎士/[Knight of the White Orchid](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+the+White+Orchid)》《包囲攻撃の司令官/[Siege-Gang Commander](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siege-Gang+Commander)》《目覚ましヒバリ/[Reveillark](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reveillark)》に土地4枚。負ければそこで、試合終了という場面で、厳しい選択を迫られた山本。
+![](https://i.ormos.uk/46/c7/46c762044c6b275c927fc2471397d791bb155fe33e97431775570266ea510bc3.jpg)
+
+《白蘭の騎士/[Knight of the White Orchid](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+the+White+Orchid)》《包囲攻撃の司令官/[Siege-Gang Commander](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siege-Gang+Commander)》《目覚ましヒバリ/[Reveillark](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reveillark)》に土地4枚。負ければそこで、試合終了という場面で、厳しい選択を迫られた山本。
 
 結局マリガンを選択し、《炎族の先触れ/[Flamekin Harbinger](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamekin+Harbinger)》《苦悩火/[Banefire](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Banefire)》《イーオスのレインジャー/[Ranger of Eos](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ranger+of+Eos)》《精神石/[Mind Stone](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind+Stone)》に土地2枚。好転した。
 

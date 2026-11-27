@@ -50,7 +50,9 @@ Canu had to mulligan after getting an opening hand with two Forests and no green
 
 Wiegersma attacked with his Apprentice and cast another tapper, a Benalish Trapper. After Canu had played another land, he attacked again with his two tappers. Canu got out his first creature, a Slimy Kavu, and then Wiegersma cast a Rampant Elephant. Unfortunately, the Frenchman got out a Kavu Runner, and that stopped Wiegersma's attack for a little while. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/997.jpg)However, the Dutchman had more threats. A Razorfoot Griffin and a Quirion Sentinel came into play on his side of the table, and Canu had to get out some blockers, so he dropped a Quirion Elves calling blue, a Nightscape Apprentice and a Thornscape Apprentice. The two 1/1 creatures traded for the Elephant after Wiegersma activated the Elephant's ability, and the Griffin started hitting Canu for two. So Canu chose not to hold back, and he started attacking with his Slimy Kavu and the Kavu Runner to deal some damage of his own. The Frenchman also Tribal Flamed the Benalish Trapper, leaving Wiegersma with only one tapper, the Apprentice. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/997.jpg)
+
+However, the Dutchman had more threats. A Razorfoot Griffin and a Quirion Sentinel came into play on his side of the table, and Canu had to get out some blockers, so he dropped a Quirion Elves calling blue, a Nightscape Apprentice and a Thornscape Apprentice. The two 1/1 creatures traded for the Elephant after Wiegersma activated the Elephant's ability, and the Griffin started hitting Canu for two. So Canu chose not to hold back, and he started attacking with his Slimy Kavu and the Kavu Runner to deal some damage of his own. The Frenchman also Tribal Flamed the Benalish Trapper, leaving Wiegersma with only one tapper, the Apprentice. 
 
 Wiegersma's Griffin and Sentinel took Canu down to eleven life, and the Dutchman also cast a Dream Thrush to add to his offense in the air. He held back the Stormscape Apprentice to tap down the Kavu Runner so that he wouldn't take too much damage, and thus Canu's offense was reduced to the Slimy Kavu. And when Wiegersma topdecked an Armadillo Cloak and cloaked up the Sentinel, the Frenchman scooped. 
 
@@ -70,6 +72,8 @@ Canu chose to put the three lands in one pile and the two creatures in the other
 
 Faced with 4/6 Spirit Linked Heralds, things looked bad for Canu. The following attack took him down to seven life, while Wiegersma went back up to 20 life. Canu then sighed and dropped a Thunderscape Master and a Quirion Elves, calling black. Wiegersma didn't really like the Master. So during his turn, he played the second Forest. He then activated the ability of both the Elephants, forcing Canu's Thunderscape Master and Serpentine Kavu to block. The slight mistake of him not activating one Elephant twice to save one of them didn't matter. Canu went down to three life and Wiegersma then dropped a Glimmering Angel, leaving one blue mana open to defend it. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/999.jpg)Canu couldn't do much but attack with his Serpentine Kavu. The Frenchman held back the rest of his creatures to block, but Wiegersma simply cloaked up the Glimmering Angel to win a slot in the second ever Masters Series. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/999.jpg)
+
+Canu couldn't do much but attack with his Serpentine Kavu. The Frenchman held back the rest of his creatures to block, but Wiegersma simply cloaked up the Glimmering Angel to win a slot in the second ever Masters Series. 
 
 **Final Results:** Jelger Wiegersma 2 - Franck Canu 0

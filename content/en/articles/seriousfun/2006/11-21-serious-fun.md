@@ -649,7 +649,9 @@ As the editor of StarCityGames.com and a long-time **Magic** player, I've seen p
 
 Oh, and it can't win through combo, control, or creatures. I'll get right on that. 
 
-![Allied_Strategies](https://i.ormos.uk/24/b5/24b5ac4e538be99b42c2d46e10bf5fb42e41f6e335ab55b1ebb764b1dfd15065.jpg)The boon of playing **Magic** is that it's fun for all *kinds* of people. In fact, we have four classic methods of enjoyment, all battling it out in the arena: Timmy, who loves to win with 13/13 tramplers; Johnny, who wants to pull off some crazy combo that nobody was expecting; Spike, who wants to win, period; and Vorthos, who wants to imagine vast armies struggling for dominance when he plays.
+![Allied_Strategies](https://i.ormos.uk/24/b5/24b5ac4e538be99b42c2d46e10bf5fb42e41f6e335ab55b1ebb764b1dfd15065.jpg)
+
+The boon of playing **Magic** is that it's fun for all *kinds* of people. In fact, we have four classic methods of enjoyment, all battling it out in the arena: Timmy, who loves to win with 13/13 tramplers; Johnny, who wants to pull off some crazy combo that nobody was expecting; Spike, who wants to win, period; and Vorthos, who wants to imagine vast armies struggling for dominance when he plays.
 
 That makes **Magic** wonderful. Unlike simpler games, it allows **Magic** to attract all *sorts* of people, each of whom mines a different type of enjoyment from the game. That pulls more players in, and makes the game more popular, and means that you can find people to play with. 
 

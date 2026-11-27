@@ -61,7 +61,9 @@ archive_source:
   sha256: f51736b763dc1bab7dce13e8a69acea6478030240f3faeec931c1f4cbf0667f1
 render_recovery: []
 ---
-![You Make the Mirage Theme Deck](https://i.ormos.uk/d1/72/d1727ae3697fa06f35f02874c5057ac6c2acf8b4a87697047451d18195855d92.jpg)Thank you all for your [rare card votes](/en/articles/feature/2005/10-13-you-make-the-mirage-theme-deck-part-3-2)!
+![You Make the Mirage Theme Deck](https://i.ormos.uk/d1/72/d1727ae3697fa06f35f02874c5057ac6c2acf8b4a87697047451d18195855d92.jpg)
+
+Thank you all for your [rare card votes](/en/articles/feature/2005/10-13-you-make-the-mirage-theme-deck-part-3-2)!
 
 Our winners are [Subterranean Spirit](https://web.archive.org/web/20051024000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Subterranean+Spirit) and [Mist Dragon](https://web.archive.org/web/20051024000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mist+Dragon).
 

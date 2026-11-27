@@ -389,7 +389,9 @@ render_recovery:
   - Naturalize
   occurrences: 1
 ---
-![](https://i.ormos.uk/b0/25/b025570a611bc43adcf22f82613bca25633b2b8989d5fcc8110ca72e97d32f91.jpg)This is it – the final match that will determine which of these competitors wins a free year of college, and which will simply be able to make half of their tuition payment without asking their parents for money. Imagine having Magic pay for your college education! Soon, this will become a reality for one of these lucky kids – although perhaps kids isn't the right word, since Mitch is taller than many, and has more facial hair than some of the judges at this event.
+![](https://i.ormos.uk/b0/25/b025570a611bc43adcf22f82613bca25633b2b8989d5fcc8110ca72e97d32f91.jpg)
+
+This is it – the final match that will determine which of these competitors wins a free year of college, and which will simply be able to make half of their tuition payment without asking their parents for money. Imagine having Magic pay for your college education! Soon, this will become a reality for one of these lucky kids – although perhaps kids isn't the right word, since Mitch is taller than many, and has more facial hair than some of the judges at this event.
 
 ### Game 1
 
@@ -403,7 +405,9 @@ Sam attacked with his Wild Mongrel, then cast a Volcanic Hammer to take Mitch to
 
 Mitch cycled a Forgotten Cave and slid out his Faithful, gaining four life when it came back at the end of his turn. Mitch played a face-down morph creature and cycled a Renewed Faith, sliding the morph out and bringing Exalted Angel back in. Sam threw an Elephant Guide on his Wild Mongrel and swung, bringing Mitch to 11.
 
-![](http://www.wizards.com/sideboard/images/natus03/a713.jpg)However, when Mitch swung with his Exalted Angel and cycled out another Renewed Faith, Sam realized the situation was hopeless and conceded rather than prolonging the inevitable.
+![](http://www.wizards.com/sideboard/images/natus03/a713.jpg)
+
+However, when Mitch swung with his Exalted Angel and cycled out another Renewed Faith, Sam realized the situation was hopeless and conceded rather than prolonging the inevitable.
 
 Mitch Towner 1 – Sam Stein 0
 

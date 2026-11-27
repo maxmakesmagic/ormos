@@ -78,7 +78,9 @@ render_recovery:
   - Dragon Blood
   occurrences: 22
 ---
-![](https://i.ormos.uk/e0/58/e058c58d15c4d11010aaa4126693df1c961aede529f7559bd629b872dea22220.jpg)Jelger Wiegersma finished at the top of swiss and as a result chose which seat he was sat in. He chose seat number five and was rewarded with a strong looking white and green deck with triple Auriok Transfixer and several Skyhunter Cubs however he seems short of the equipment to power them up which may cause him some problems though his deck is aggressive enough anyway that he will probably do reasonably well. 
+![](https://i.ormos.uk/e0/58/e058c58d15c4d11010aaa4126693df1c961aede529f7559bd629b872dea22220.jpg)
+
+Jelger Wiegersma finished at the top of swiss and as a result chose which seat he was sat in. He chose seat number five and was rewarded with a strong looking white and green deck with triple Auriok Transfixer and several Skyhunter Cubs however he seems short of the equipment to power them up which may cause him some problems though his deck is aggressive enough anyway that he will probably do reasonably well. 
 
 Daniel Zink has drafted an aggressive blue red deck with a decent selection of cheap creatures. His main route to victory will probably be through an early rush he seems to lack the spot removal that he will probably need to push his attacks through. He does however have both a Bosh and a Mindslaver to help him to victory if the games go into the late stages.
 
@@ -86,7 +88,9 @@ Sam Gomersall has the unenviable task of facing Kai in the quarter finals. He ha
 
 Tommi Hovi drafted a red black blue deck making him one of three red drafters in a row behind Daniel Zink and Sam Gomersall. Tommi started off looking like he was going to go black blue but he took a third pick Spikeshot Goblin in the second set of packs and never looked back. Although his creature base is a little lacking to say the least he does however have a decent array of removal with double Consume Spirit, a sixth pick Irradiate, Terror and Barter in Blood. He also has Spikeshot Goblin though he has very few ways to pump its power. He also has one of two Boshs at the table to pose a major threat if it were ever to resolve.
 
-![](https://i.ormos.uk/db/94/db94a00836ea692ae7f18433067a57c70f5ada8cc1ec1dcdbbfc6279a167a349.jpg)Benjamin Lindquist has a white green deck with a number of equipment cards that he can use to pump up his white creatures, he has also drafted a number of red cards so may well be splashing for some removal. He is also sporting a Luminous Angel that he took as the first pick of the draft and a Solar Tide which he may well need to beat his Quarterfinal opponent Jelgar's aggressive creature rush.
+![](https://i.ormos.uk/db/94/db94a00836ea692ae7f18433067a57c70f5ada8cc1ec1dcdbbfc6279a167a349.jpg)
+
+Benjamin Lindquist has a white green deck with a number of equipment cards that he can use to pump up his white creatures, he has also drafted a number of red cards so may well be splashing for some removal. He is also sporting a Luminous Angel that he took as the first pick of the draft and a Solar Tide which he may well need to beat his Quarterfinal opponent Jelgar's aggressive creature rush.
 
 Daniel Bertlesen has drafted a UWG deck with yet more Auriok Transfixers, he also has an Altar of Shadows that Kai wanted for his deck. He seems to have one of the weaker decks at the table lacking both removal and sizeable creatures though he does have a fair amount of evasion in the shape of numerous Cobalt Golems, and a Looming and Somber Hoverguards. He has a very tough Quaterfinal opponent in the shape of World Champion Daniel Zink to contend with as well so things look tough for Bertlesen.
 

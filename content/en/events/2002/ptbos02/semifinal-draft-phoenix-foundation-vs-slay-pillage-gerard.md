@@ -239,7 +239,9 @@ render_recovery:
   - Spellgorger Barbarian
   occurrences: 283
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a791.jpg)This matchup should be very interesting, as both teams have ridden the strategy of black/X in seat A, blue/green in seat B, and red/white in seat C to the top of the standings. Now that they know they'll be playing what looks like three mirror matchups, it will be interesting to see whether the New Yorkers or the Germans have a better contingency plan.
+![](http://www.wizards.com/sideboard/images/ptbos02/a791.jpg)
+
+This matchup should be very interesting, as both teams have ridden the strategy of black/X in seat A, blue/green in seat B, and red/white in seat C to the top of the standings. Now that they know they'll be playing what looks like three mirror matchups, it will be interesting to see whether the New Yorkers or the Germans have a better contingency plan.
 
 The teams are:
 
@@ -279,7 +281,9 @@ Fabiano got an Elephant Guide from Sonne's Brawn pack, but that allowed Kai to p
 
 The middle of *Judgment* went normally, with Kai picking up two Elephant Guides of his own. Dirk had to counterdraft the second Thriss because Sonne would wreck him with it. Similarly, Sonne countered a Selfless Exorcist from Marco at McCord's insistence, because it can "eat" Anger and keep his Vigilant Sentries from threshold.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a792.jpg)The last pack was interesting. Dirk opened Treacherous Vampire, Arcane Teachings, Phantom Tiger, and Filth. Without hesitation, Dirk took the Incarnation, Kai the Tiger, and Marco the Teachings, allowing the 4/4 flyer to get to Sonne.
+![](http://www.wizards.com/sideboard/images/ptbos02/a792.jpg)
+
+The last pack was interesting. Dirk opened Treacherous Vampire, Arcane Teachings, Phantom Tiger, and Filth. Without hesitation, Dirk took the Incarnation, Kai the Tiger, and Marco the Teachings, allowing the 4/4 flyer to get to Sonne.
 
 After the draft, the Germans stated that Filth is better in the black-on-black match than any other card is in any other matchup (including Glory, Aboshan, you name it). While I agree that if Filth had gotten to Sonne it would have destroyed Dirk, Dirk's deck is not very aggressive, he has only two ways to discard, and Sonne has two Gravegougers. I may have taken the Vampire and had Kai counter the Filth.
 

@@ -54,7 +54,9 @@ render_recovery: []
 ---
 **Lucien Bui**
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/Bui.JPG)Pro Tour Los Angeles is Lucien Bui's first Pro Tour ever. But the 18 year old French High School student wasn't afraid of playing against the big name-players. Quite on the contrary, Lucien beat one opponent after the other and ended up as the top seed in a star-studded Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/Bui.JPG)
+
+Pro Tour Los Angeles is Lucien Bui's first Pro Tour ever. But the 18 year old French High School student wasn't afraid of playing against the big name-players. Quite on the contrary, Lucien beat one opponent after the other and ended up as the top seed in a star-studded Top 8.
 
 "It's very good, but I hadn't expected this," Lucien admits. "I just played as I usually do. Normally, I prefer green because of the good creatures, but I also like red and black. But I can take any colours."
 
@@ -76,13 +78,17 @@ After the second draft, he was paired against Top Eight finisher, Patrick Chapin
 
 **Patrick Chapin**
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/Chapin.JPG)According to the eighteen year-old Patrick Chapin, preparation was the key to his Top Eight finish here at Pro Tour Los Angeles. "I prepared quite a bit, netdrafting regularly on #MTGPRO. I have to thank them for their high level of competitive drafting, especially Gary Wise and Nate Clarke." In what has become a tradition among the top players in the game, a destination is set the week previous to a Pro Tour and players are invited to come and practice. This time, the site was in Pittsburgh and the team doing the invitations was Team CMU. "CMU's weekend was amazing," said Chapin. "All the players (professionals) from New Jersey, New York, Ohio, Michigan, and Pittsburgh were there. Overall as a group, we did better than any other group in the world." Other than the invitation weekend, Chapin and friend Eric Taylor drove down from Eastern Michigan University (5 hours) to test with the CMU guys over the course of several weekends, as well as drafting at local stores Neutral Ground Detroit and Campus Collectibles (Ann Arbor, Michigan).
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/Chapin.JPG)
+
+According to the eighteen year-old Patrick Chapin, preparation was the key to his Top Eight finish here at Pro Tour Los Angeles. "I prepared quite a bit, netdrafting regularly on #MTGPRO. I have to thank them for their high level of competitive drafting, especially Gary Wise and Nate Clarke." In what has become a tradition among the top players in the game, a destination is set the week previous to a Pro Tour and players are invited to come and practice. This time, the site was in Pittsburgh and the team doing the invitations was Team CMU. "CMU's weekend was amazing," said Chapin. "All the players (professionals) from New Jersey, New York, Ohio, Michigan, and Pittsburgh were there. Overall as a group, we did better than any other group in the world." Other than the invitation weekend, Chapin and friend Eric Taylor drove down from Eastern Michigan University (5 hours) to test with the CMU guys over the course of several weekends, as well as drafting at local stores Neutral Ground Detroit and Campus Collectibles (Ann Arbor, Michigan).
 
 Chapin, making his second Top Eight appearance (Top Eight Pro Tour New York 1997), described his drafting style as, "I do a lot of friendly drafting to get people (draft neighbors) to commit to colors." This strategy led him to a 5-2 record on Day One and a perfect 7-0 on Day Two. With confidence level on high, Chapin expects to finish high.
 
 **Terry Lau**
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/Lau.JPG)A twenty-eight year-old native of Vancouver, Canada, Terry Lau has high hopes going into his first Pro Tour Top Eight. "Canada is going to dominate this Top Eight," said the confident Lau. "You can take that to the bank!"
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/Lau.JPG)
+
+A twenty-eight year-old native of Vancouver, Canada, Terry Lau has high hopes going into his first Pro Tour Top Eight. "Canada is going to dominate this Top Eight," said the confident Lau. "You can take that to the bank!"
 
 A sales engineer, Lau attributed his drafting success to weekly trips to Mishra's Game Factory (in Vancouver) and help from his teammates Jeff Fung, Ryan Fuller, and Pete Radonjic. "It feels pretty damned good to be in the Top Eight," said Lau. "All my teammates have been there or close. It's nice to be up there with them. I'm looking forward to the draft." As for his drafting style, Terry summed it up as, "Draft the colors that come to you. Very rarely force colors."
 
@@ -92,7 +98,9 @@ Drafting two Blue/White decks during the second day, Lau went 3-2-2 (two intenti
 
 **Steven O'Mahoney-Schwartz**
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/SteveOMS.JPG)One of four 1999 Barcelona *Duelist* Invitational invitees in the Top 8, Steve O'Mahoney-Schwartz is one of the more respected players in the game. The first player ever to win two Grand Prix events (Zurich, Madrid), as well as three other Top Eight Grand Prix finishes (Rio 2nd, Boston 3rd, and Toronto). His history at Pro Tour events has been stellar as well (2nd PT Germany, Top 32 Paris and Los Angeles '97).
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/SteveOMS.JPG)
+
+One of four 1999 Barcelona *Duelist* Invitational invitees in the Top 8, Steve O'Mahoney-Schwartz is one of the more respected players in the game. The first player ever to win two Grand Prix events (Zurich, Madrid), as well as three other Top Eight Grand Prix finishes (Rio 2nd, Boston 3rd, and Toronto). His history at Pro Tour events has been stellar as well (2nd PT Germany, Top 32 Paris and Los Angeles '97).
 
 A Boston University student, eighteen year-old Steve was able to go home over the course of several weekends to practice with his drafting group of Hashim Bello, Jon Finkel (also in Top Eight), Mike Lucarello, and David Price). Working together, they came up with the Four by Four theory, where the drafter tries to draft Red, Green or both, then choose sixteen creatures based around their casting cost. The goal was to get four creatures that cost one, two, three, and four mana. This allowed them to achieve a good mana curve, allowing for early and consistent beatdown. In addition, depending on the color they drafted, Symbiosis or Arc Lightning was a preferable support card. This strategy worked fairly strong, as all the above mentioned playtesters made the second day of the Pro Tour.
 

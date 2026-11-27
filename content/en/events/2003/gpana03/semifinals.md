@@ -495,7 +495,9 @@ render_recovery:
 ---
 ### Peter Szigeti vs Ben Rubin
 
-![](https://i.ormos.uk/41/ed/41ed0f013420d310025338320431c55c9e5760975b33beb3395b26462ce88955.jpg)The convention center was packing up at the start of this match, so the players were moved to a back corner of the hall. Ben and Peter shuffled quietly as the match begun. Peter won the die roll and chose to play. Both players mulliganed to six, then the game began.
+![](https://i.ormos.uk/41/ed/41ed0f013420d310025338320431c55c9e5760975b33beb3395b26462ce88955.jpg)
+
+The convention center was packing up at the start of this match, so the players were moved to a back corner of the hall. Ben and Peter shuffled quietly as the match begun. Peter won the die roll and chose to play. Both players mulliganed to six, then the game began.
 
 ### Game 1
 

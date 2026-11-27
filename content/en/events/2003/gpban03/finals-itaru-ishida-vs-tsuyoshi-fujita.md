@@ -101,7 +101,9 @@ render_recovery:
 ---
 The finals match was yet another study in contrasts. While both of these Japanese players have vast experience at high level tournaments it is their approach that differentiates them. While Tsuyoshi's game is clearly visible all across his highly animated features, Itaru chooses to reveal nothing. He refuses to even smile for the cameras lest he give some edge away.
 
-![](https://i.ormos.uk/96/db/96db275d0b5805f228b1d6e6fb8a371fb3b62bdb3d555916e9273bb2400fac58.jpg)Tsuyoshi has been the star of the tournament and his deck has been fighting him for top billing. All three players running his build of the deck advanced to the Top 8. It does not bode well for Yoshi that his opponent dispatched one of those players in the Semifinals—Fujita Osamu. Itaru was playing one of the most popular decks in the format—Green-Red beats. One would imagine that Itaru would be dripping with confidence—although you could not tell by looking at him.
+![](https://i.ormos.uk/96/db/96db275d0b5805f228b1d6e6fb8a371fb3b62bdb3d555916e9273bb2400fac58.jpg)
+
+Tsuyoshi has been the star of the tournament and his deck has been fighting him for top billing. All three players running his build of the deck advanced to the Top 8. It does not bode well for Yoshi that his opponent dispatched one of those players in the Semifinals—Fujita Osamu. Itaru was playing one of the most popular decks in the format—Green-Red beats. One would imagine that Itaru would be dripping with confidence—although you could not tell by looking at him.
 
 ### Game 1
 
@@ -133,7 +135,9 @@ If any tension could be seen in Ishida's face you would have to be reading quite
 
 Yoshi led off with the Skirk Prospector and had the Firebolt ready for the Rootwalla. He followed up with a third turn Warchief but it only got in for two before drawing a Firebolt of its own. He followed up with a Sledder and a Sparksmith but Ishida had the Phantom Centaur. 
 
-![](https://i.ormos.uk/1f/43/1f43bc8cff29d134c1212b4d7c868240f120dae1f4e185b1b56c6338e87b119f.jpg)Yoshi was stalled on three lands and thinned his deck with a Matron. He thought about getting a Warchief but ended up with a Sharpshooter. The Matron chipped a counter off of the Centaur. Violent Eruption killed the Sledder and Prospector and the Sparksmith shot off another counter form the Centaur EOT.
+![](https://i.ormos.uk/1f/43/1f43bc8cff29d134c1212b4d7c868240f120dae1f4e185b1b56c6338e87b119f.jpg)
+
+Yoshi was stalled on three lands and thinned his deck with a Matron. He thought about getting a Warchief but ended up with a Sharpshooter. The Matron chipped a counter off of the Centaur. Violent Eruption killed the Sledder and Prospector and the Sparksmith shot off another counter form the Centaur EOT.
 
 Fujita finished the Centaur off with the Sparksmith and used a Matron to fetch another Matron. He was trying to thin his deck into land. Ishida was only one land ahead but was bale to cast a Blistering Firecat face-up and take Yoshi down to eleven—he may have also lost some hair from the tugging he was giving it hoping for lands.
 

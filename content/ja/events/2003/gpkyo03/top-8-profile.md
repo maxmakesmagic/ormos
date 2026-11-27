@@ -60,7 +60,9 @@ render_recovery: []
 
 ### 二代目 Rookie !?
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a909.jpg)　**大礒正嗣**。檜垣率いる Hato Beam の若大将にして、「にこやかな核弾頭」が大磯である。ちょっとここで今年の Rookie of the Year レースの状況を見て欲しい。
+![](http://www.wizards.com/sideboard/images/gpkyo03/a909.jpg)
+
+　**大礒正嗣**。檜垣率いる Hato Beam の若大将にして、「にこやかな核弾頭」が大磯である。ちょっとここで今年の Rookie of the Year レースの状況を見て欲しい。
 
 <table><tbody><tr><td><b>First</b></td>&#10;<td><b>Last</b></td>&#10;<td><b>Country</b></td>&#10;<td><b>Pro Points</b></td>&#10;</tr>&#10;<tr><td>Masashi</td>&#10;<td>Ooiso</td>&#10;<td>Japan</td>&#10;<td>18</td>&#10;</tr>&#10;<tr><td>Craig</td>&#10;<td>Krempels</td>&#10;<td>United States</td>&#10;<td>17</td>&#10;</tr>&#10;<tr><td>Jun</td>&#10;<td>Ishihara</td>&#10;<td>Japan</td>&#10;<td>16</td>&#10;</tr>&#10;<tr><td>Craig</td>&#10;<td>Stevenson</td>&#10;<td>England</td>&#10;<td>14</td>&#10;</tr>&#10;<tr><td>Valentin</td>&#10;<td>Moskovich</td>&#10;<td>United States</td>&#10;<td>13</td>&#10;</tr>&#10;</tbody></table>
 
@@ -81,7 +83,9 @@ render_recovery: []
 
 ### Panzer Hunters の生命線
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a904.jpg)　**石田格**。言わずと知れた日本のビッグネーム代表格。Panzer Hunters の軍師として二年連続 Masters 準優勝を果たした立役者で有り、世界最高人数が集った Grand Prix 神戸の優勝を始めあまりにも数多くの実績を残している。
+![](http://www.wizards.com/sideboard/images/gpkyo03/a904.jpg)
+
+　**石田格**。言わずと知れた日本のビッグネーム代表格。Panzer Hunters の軍師として二年連続 Masters 準優勝を果たした立役者で有り、世界最高人数が集った Grand Prix 神戸の優勝を始めあまりにも数多くの実績を残している。
 
 　「ちょっとプレイングを変えてみようと思って」
 
@@ -92,7 +96,9 @@ render_recovery: []
 
 ### 合い言葉は「とどちゃま」
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a907.jpg)　**田中久也**。PT Chicago で Pro Tour 二度目の参戦にして日本人最高位の 13位に食い込んだ期待の男。Grand Prix 静岡で優勝した山田屋「ゴージャス」耕平を忍ばせる受けの広いドラフトテクニックは、強烈な爆弾カードが数多く炸裂するオンスロート環境と的確にマッチし、一気に花開いた。
+![](http://www.wizards.com/sideboard/images/gpkyo03/a907.jpg)
+
+　**田中久也**。PT Chicago で Pro Tour 二度目の参戦にして日本人最高位の 13位に食い込んだ期待の男。Grand Prix 静岡で優勝した山田屋「ゴージャス」耕平を忍ばせる受けの広いドラフトテクニックは、強烈な爆弾カードが数多く炸裂するオンスロート環境と的確にマッチし、一気に花開いた。
 
 　ちなみに、「とどちゃま」とは本人がネット上で使用しているハンドルネーム。何故とどちゃまなのか、とか、もっと書くべきところがあるだろ！　とか最もな突っ込みが予想できますが、やはり時代はとどちゃまなのです。  
  　声援の際は...、もう言わなくても解りますよね。

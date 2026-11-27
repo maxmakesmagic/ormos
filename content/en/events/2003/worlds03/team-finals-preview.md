@@ -329,7 +329,9 @@ render_recovery:
 
 Boy oh boy, it is going to be close. 
 
-![](http://www.wizards.com/sideboard/images/worlds03/a506.jpg)It seems that both teams have drafted pretty well and ended up with solid overall decks. It is very difficult to make an accurate prediction as to who will win each matchup, since the advantages players enjoy over each other based on the deck lists are actually so minor.
+![](http://www.wizards.com/sideboard/images/worlds03/a506.jpg)
+
+It seems that both teams have drafted pretty well and ended up with solid overall decks. It is very difficult to make an accurate prediction as to who will win each matchup, since the advantages players enjoy over each other based on the deck lists are actually so minor.
 
 The champions will face off in a battle of the black decks. Walamies has several blue cards to supplement his deck, most notably a pair of Echo Tracers. Meantime, Wagener is essentially mono-black, splashing green just for Claws of Wirewood. This turned out to be a very poor decision as Walamies is playing only one main deck flyer. Even if he chose to also play a Death's-Hand Buzzard, it would still be hardly worth it to splash a color for a card that deals with just a pair of potential threats.
 
@@ -341,7 +343,9 @@ Strong points of Walls' deck are his enchantments. Future Sight can dominate the
 
 As impressive as Walls' bombs are, Nieminen's rares may be even better. His deck features Decree of Justice – a card his opponent will remember well [from earlier today](/en/events/2003/worlds03/quarterfinals-tuomo-nieminen-vs-gabe-walls) – and Dawn Elemental. Celestial Gatekeeper is no joke in this deck either. Nieminen sports a Warhawk and a Stinger of his own, and his soldier squad is also complemented by a pair of Grassland Crusaders. Nieminen also has some answers to his opponent's enchantments – Daru Sanctifier and a Piety Charm. The black splash is not particularly impressive – Infest and Swat are all right but will not deal with any of the key cards, while Sootfeather Flock and Vile Deacon are decent. Three of his four black cards have two black mana in casting cost, which is a problem too. Nieminen is playing six Swamps and so may not be able to truly take advantage of his Infest and Swat early in the game when they are most relevant.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a505.jpg)Finally, battle of the green decks. Gary's packs a punch but is excruciatingly slow. He is packing tons of five casting cost and higher spells that will crush his opponent – if he can live that long. His early game is not very impressive, with creatures like Flamewave Invoker and Goblin Grappler. Gary really needs to draw his Elvish Warrior and especially Wirewood Savage early a lot to pull ahead. 
+![](http://www.wizards.com/sideboard/images/worlds03/a505.jpg)
+
+Finally, battle of the green decks. Gary's packs a punch but is excruciatingly slow. He is packing tons of five casting cost and higher spells that will crush his opponent – if he can live that long. His early game is not very impressive, with creatures like Flamewave Invoker and Goblin Grappler. Gary really needs to draw his Elvish Warrior and especially Wirewood Savage early a lot to pull ahead. 
 
 Toikka's deck is faster but significantly less impressive in the long run. He is however quite able to set up broken combos early on with his Timberwatch Elf and Wirewood Symbiote. Toikka is splashing three non-green cards in his deck, a Rush of Knowledge, Torrent of Fire, and Crested Craghorn. He has a pair of Birchlore Rangers to smooth out the mana. This matchup can easily just come down to who plays a Timberwatch Elf.
 

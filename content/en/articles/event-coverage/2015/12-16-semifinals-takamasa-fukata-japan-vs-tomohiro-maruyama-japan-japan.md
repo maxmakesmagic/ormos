@@ -70,7 +70,9 @@ Match is tied at 1-1
 
 **Game Three** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/SemiFinal2.jpg)Another long game developed in the third match. Takamasa built an army of creatures including a Pygmy Razorback, Rushwood Dryad, Giant Caterpillar and a Thresher Beast. Meanwhile Tomohiro had established a lot of control thanks to a Troubled Healer and a Ballista Squad. Tomohiro added Waterfront Bouncer and Cho-Arrim Alchemist to his arsenal. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/SemiFinal2.jpg)
+
+Another long game developed in the third match. Takamasa built an army of creatures including a Pygmy Razorback, Rushwood Dryad, Giant Caterpillar and a Thresher Beast. Meanwhile Tomohiro had established a lot of control thanks to a Troubled Healer and a Ballista Squad. Tomohiro added Waterfront Bouncer and Cho-Arrim Alchemist to his arsenal. 
 
 Some very well thought out attacking and blocking phases saw both players start to float below ten life, but the advantage was clearly on Tomohiro's side because of the Troubled Healer and Cho-Arrim Alcemist. A last ditch attack with everything Takamasa had brought Tomohiro down to two life. That was the best Takamasa could do, and it looked as if it was only a matter of time until Tomohiro pulled a power card and won. 
 

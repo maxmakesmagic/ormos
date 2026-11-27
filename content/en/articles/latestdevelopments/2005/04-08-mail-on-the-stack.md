@@ -274,7 +274,9 @@ To the point—it was part of an April Fools' joke. I hoped everyone understood 
 
 > Dear Aaron,
 > 
-> ![](https://i.ormos.uk/27/50/2750f53ee2762b89317f5ea7f558f589d8f098275cbb93cead26927ca1f0aa80.jpg)First, I am so sorry to hear about your leg injury. Last year I had some surgery on my ankle (that involved screws!), so I'm no stranger to that sort of awful radiating pain where you can't walk. My deepest condolences go out to you, and I'm glad to hear your doing better.
+> ![](https://i.ormos.uk/27/50/2750f53ee2762b89317f5ea7f558f589d8f098275cbb93cead26927ca1f0aa80.jpg)
+>
+> First, I am so sorry to hear about your leg injury. Last year I had some surgery on my ankle (that involved screws!), so I'm no stranger to that sort of awful radiating pain where you can't walk. My deepest condolences go out to you, and I'm glad to hear your doing better.
 > 
 > But I digress. I wanted to write to thank you for your article on Winston Drafting. Not having very many other **Magic** players around me, combined with work and college, makes it awfully difficult to get drafts going, so this is the perfect way for me to get my drafting in. I just finished playing a few games with my brother via Winston Draft, and I must say, we both had a GREAT time, and I will definitely be recommending this to everyone.
 > 
@@ -434,7 +436,9 @@ That's not a bad thing, Stephen. Part of the reason for putting "attributions" o
 > 
 > --Mike
 
-![](https://i.ormos.uk/9e/86/9e86c6073a09ee67d2d43e186c3720c5d79317d40da0f5b86d08404416a1724e.jpg)Hey, I don't make the pictures (anymore). I believe what happened was that the graphic designer wanted to use Durkwood Boars in that illustration but their "pose" didn't mesh with the art from Ninja of the Deep Hours. Argothian Swine, on the other hand, had art that worked well with the Ninja to create that hilarious collage.
+![](https://i.ormos.uk/9e/86/9e86c6073a09ee67d2d43e186c3720c5d79317d40da0f5b86d08404416a1724e.jpg)
+
+Hey, I don't make the pictures (anymore). I believe what happened was that the graphic designer wanted to use Durkwood Boars in that illustration but their "pose" didn't mesh with the art from Ninja of the Deep Hours. Argothian Swine, on the other hand, had art that worked well with the Ninja to create that hilarious collage.
 
 > I think it is unfortunate we didn't get a ninja with a mill ability simply due to space. Any chance that the ability could be keyworded something like "Mill: 1"? I think most people refer to such effects as "milling," due to the good old reliable, yet oddly controversial Millstone. (Remember the old debates about how good random milling is?) Oh well, just a random thought. We've got plenty of good mill effect right now with Dampen Thought among other things.  
 >  --Lewis Himelhoch

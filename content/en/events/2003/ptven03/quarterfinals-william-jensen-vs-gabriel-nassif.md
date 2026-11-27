@@ -97,7 +97,9 @@ render_recovery:
   - Shock
   occurrences: 105
 ---
-![](http://www.wizards.com/sideboard/images/ptven03/a788.jpg)William Jensen, or "Baby Huey" like most people know him, was running a Kibler creation. Gigantic fliers that cost a bajillion to cast and in general just fat creatures. He had to face Gabriel Nassif's goblins in the quarterfinals, and it would prove to be an interesting match. Gabriel won the flip and chose to start.
+![](http://www.wizards.com/sideboard/images/ptven03/a788.jpg)
+
+William Jensen, or "Baby Huey" like most people know him, was running a Kibler creation. Gigantic fliers that cost a bajillion to cast and in general just fat creatures. He had to face Gabriel Nassif's goblins in the quarterfinals, and it would prove to be an interesting match. Gabriel won the flip and chose to start.
 
 ### Game 1
 
@@ -113,7 +115,9 @@ Sideboarding William: -3 Silvos, Rogue Elemental, -1 Explosive Vegetation, -1 Wi
 
 As William got to play first this game, the threat of being overrun by the little red men was quite a bit lower. Still Gabriel came out with two Goblin Grapplers on his first two turns but William had a morph on his second turn. Gabriel had no way to kill it so he just had to pass his third turn doing nothing. The morph turned out to be a Daru Sanctifier as William played Explosive Vegetation rather than unmorphing his guy. Gabriel attempted to increase pressure with a Clickslither but it only brought William down to 16.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a789.jpg)An Exalted Angel came down next for William. At a healthy life total this must have been a good feeling. Gabriel cycled a Gempalm Incinerator on the morph, which indeed was the Sanctifier and brought William down to 13 with his Clickslither. The Exalted Angel hit the Red Zone and a Windborn Muse joined its ranks. Gabriel played out a gigantic flier of his own in Rorix Bladewing but it was pacified on William's next turn. The subsequent attack brought Gabriel down to 7 life. Akroma, Angel of Wrath finished it off on William's next turn.
+![](http://www.wizards.com/sideboard/images/ptven03/a789.jpg)
+
+An Exalted Angel came down next for William. At a healthy life total this must have been a good feeling. Gabriel cycled a Gempalm Incinerator on the morph, which indeed was the Sanctifier and brought William down to 13 with his Clickslither. The Exalted Angel hit the Red Zone and a Windborn Muse joined its ranks. Gabriel played out a gigantic flier of his own in Rorix Bladewing but it was pacified on William's next turn. The subsequent attack brought Gabriel down to 7 life. Akroma, Angel of Wrath finished it off on William's next turn.
 
 Sideboarding Gabriel: +2 Goblin Goon –2 Gratuitous Violence  
  Sideboarding William: +2 Broodhatch Nantuko, +1 Windborn Muse, –1 Explosive Vegetation, -2 Daru Sanctifier
@@ -128,7 +132,9 @@ William: "Oh you're not winning the Ogre battle; I play poker!"
 
 Gabriel: "Well if you write down your number face up like some other players I might."
 
-![](http://www.wizards.com/sideboard/images/ptven03/a791.jpg)Gabriel won the bid two to one and the Ogre took down William to 8. It was pacified next turn and cast a Ravenous Baloth. Another Ogre came down and once again Gabriel won the bid, this time three to one. William's Akroma, Angel of Wrath was once again there to finish the Frenchman off, who went down to 8 from the bid.
+![](http://www.wizards.com/sideboard/images/ptven03/a791.jpg)
+
+Gabriel won the bid two to one and the Ogre took down William to 8. It was pacified next turn and cast a Ravenous Baloth. Another Ogre came down and once again Gabriel won the bid, this time three to one. William's Akroma, Angel of Wrath was once again there to finish the Frenchman off, who went down to 8 from the bid.
 
 Gabriel 1 – William 2
 

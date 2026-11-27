@@ -1858,7 +1858,9 @@ Gerry Thompson defeats Nate Elkins 2-0.
 
     *by Riki Hayashi*
 
-![](https://i.ormos.uk/e9/0a/e90a361e4ec8a6667bb43cf48e69d0ad857837161786238e15f03832ca9ede4f.jpg)Lee went first and kept. Kenneth "you can call me Kenny" mulliganed to six.
+![](https://i.ormos.uk/e9/0a/e90a361e4ec8a6667bb43cf48e69d0ad857837161786238e15f03832ca9ede4f.jpg)
+
+Lee went first and kept. Kenneth "you can call me Kenny" mulliganed to six.
 
 Steht got things going quickly with a turn two Bitterblossom. Kenny’s turn two was less exciting as he missed a land. Merrow Reejery and Cryptic Command got discarded on consecutive turns, while Faerie Rogues chipped away at Kenny’s life. Lee’s Thoughtseize saw a hand with Chameleon Colossus, Mirror Entity, Merrow Reejery, Nameless Inversion, Sage’s Dousing, Silvergill Adept, and Stonybrook Banneret—a spicy hand, if Kenny could have found a second land. Lee took the Banneret, and still seeing no land on his next draw, Kenny scooped.
 
@@ -1866,7 +1868,9 @@ Steht 1, Castor 0.
 
 Kenny gave his friend in the crowd a knowing look regarding his mulligan. "There’s no justice..." A second turn Thoughtseize prompted Lee to exclaim "What?!" to Kenny’s hand of two Cloudthreshers, Chameleon Colossus, Cryptic Command and some lands. "Thought you were playing Merfolk, man," said Lee. "Thought you were playing Faeries," deadpanned Kenny. Colossus hit the bin.
 
-![](https://i.ormos.uk/9c/d8/9cd8b70e47a1eabac5a5b55d6d70c4b8246e907053ff8ba3801334179e3fbfd3.jpg)Castor played a freshly drawn Stonybrook Banneret while Lee made Bitterblossom. Steht then went for end-of-turn Nameless Inversion on the Banneret. That met a Cryptic Command in counter-and-bounce on one of Lee’s lands. Another Nameless on Lee’s turn got the Banneret, and Kenny’s follow up Merrow Reejery died to a third Inversion. Meanwhile, Bitterblossom grew Lee a small army.
+![](https://i.ormos.uk/9c/d8/9cd8b70e47a1eabac5a5b55d6d70c4b8246e907053ff8ba3801334179e3fbfd3.jpg)
+
+Castor played a freshly drawn Stonybrook Banneret while Lee made Bitterblossom. Steht then went for end-of-turn Nameless Inversion on the Banneret. That met a Cryptic Command in counter-and-bounce on one of Lee’s lands. Another Nameless on Lee’s turn got the Banneret, and Kenny’s follow up Merrow Reejery died to a third Inversion. Meanwhile, Bitterblossom grew Lee a small army.
 
 Castor addressed this problem with his two Cloudthreshers, the first being countered.
 

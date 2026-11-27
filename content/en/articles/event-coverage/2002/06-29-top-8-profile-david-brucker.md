@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/6b/a9/6ba9126d635880806a9867da623956a13f9fa13fbf9063b11e1fec0bb38738f5.jpg)An original German from the heart of Germany, München, made it to the Top 8 at Euros. Together with his countryman Roland Bode he is one of the German representatives here since Kai Budde only finished 22nd.
+![](https://i.ormos.uk/6b/a9/6ba9126d635880806a9867da623956a13f9fa13fbf9063b11e1fec0bb38738f5.jpg)
+
+An original German from the heart of Germany, München, made it to the Top 8 at Euros. Together with his countryman Roland Bode he is one of the German representatives here since Kai Budde only finished 22nd.
 
 Not an unknown name to many, David played with the German National Team during 1999 and was runner-up at Worlds Team Competition. The 20-year old student drafts three-four times a week at his local store and was qualified for Euros through his ranking. 
 

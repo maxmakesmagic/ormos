@@ -54,7 +54,9 @@ render_recovery: []
 ---
 Worth Wollpert (USA) vs. Jon Finkel (USA)
 
-![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/FriFinkel2.jpg)Two Deadguys met in the final match of the first day. Worth Wollpert and Jon Finkel were both 5-1, and they chose to play the match.
+![](https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/FriFinkel2.jpg)
+
+Two Deadguys met in the final match of the first day. Worth Wollpert and Jon Finkel were both 5-1, and they chose to play the match.
 
 Wollpert went first, and summoned an Elvish Herder, neutralizing Finkel's first turn Goblin Patrol. After this, he played a Ravenous Skirge, which was killed by a Shower of Sparks, and then reanimated by a Diabolic Servitude.
 

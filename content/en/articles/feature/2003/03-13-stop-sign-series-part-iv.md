@@ -97,7 +97,9 @@ Just like your **Game Play Settings** yields, the in-game yields tell ***Magic**
 
 ### What Are In-Game Yields?
 
-![](https://i.ormos.uk/e7/74/e774cfc36c6976b3df22dab0168ea3f1d16cdf579041de9d345408939e0e4d62.jpg)In-game yields are the yields you set by right-clicking on abilities on the stack. When you do, you get two options: to always yield to that ability, or to yield to that ability until the end of the turn.
+![](https://i.ormos.uk/e7/74/e774cfc36c6976b3df22dab0168ea3f1d16cdf579041de9d345408939e0e4d62.jpg)
+
+In-game yields are the yields you set by right-clicking on abilities on the stack. When you do, you get two options: to always yield to that ability, or to yield to that ability until the end of the turn.
 
 These yields affect only that ability on that card. If another copy of that card or another card with the same ability is put into play, you have to set another yield for it. Also, if you set a yield for one ability on a card that has two, the yield only works for the ability on the stack.
 
@@ -113,7 +115,9 @@ Another time you might want to set these yields is in a team game like Two-Heade
 
 ### What Good Is Setting A Yield Until The End Of The Turn?
 
-![](https://i.ormos.uk/a2/17/a217ba1aa2c3bb4378b80a69ff7f2e0e44989d8afb7ac8e487a9038ad3f5f9ba.jpg)It may seem less than useful to only set a yield until the end of a turn, but there are situations where you'll want to. Any time there's an ability that triggers multiple times in a turn and, while you don't have a response in your hand right then, you have an answer somewhere in your deck, you'll want a stop like this. If you draw that answer next turn, the ability can't be used without you having an opportunity to play.
+![](https://i.ormos.uk/a2/17/a217ba1aa2c3bb4378b80a69ff7f2e0e44989d8afb7ac8e487a9038ad3f5f9ba.jpg)
+
+It may seem less than useful to only set a yield until the end of a turn, but there are situations where you'll want to. Any time there's an ability that triggers multiple times in a turn and, while you don't have a response in your hand right then, you have an answer somewhere in your deck, you'll want a stop like this. If you draw that answer next turn, the ability can't be used without you having an opportunity to play.
 
 For example, if your opponent has a Nantuko Husk in play and starts sacrificing creatures to it, you may not have anything to stop it. Somewhere in your deck, however, is a Smother. You may want to let the ability resolve for the rest of the turn without clicking **OK**, but want a chance to respond if you draw the Smother later on. (Granted, if you're opponent is clearing his or her side of the board, you'll probably wait for resolution of the ability anyway.)
 

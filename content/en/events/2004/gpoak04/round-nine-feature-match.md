@@ -719,7 +719,9 @@ render_recovery:
 ---
 ### Ben Rubin vs. Alex Alepin
 
-![What extra half chin are you referring to?](http://www.wizards.com/sideboard/images/gpoak04/r9fm1_1.jpg)Alex Alepin was not happy with how his deck turned out. He had many solid black-green cards but was worried about getting run over. "I was looking for Myr and I just did not get them. My deck is kind of slow."
+![What extra half chin are you referring to?](http://www.wizards.com/sideboard/images/gpoak04/r9fm1_1.jpg)
+
+Alex Alepin was not happy with how his deck turned out. He had many solid black-green cards but was worried about getting run over. "I was looking for Myr and I just did not get them. My deck is kind of slow."
 
 He was also concerned about his first pick Skeleton Shard. "I probably did not get enough guys to make this good. It was either Shard or Domineer and I don't like to be blue."
 

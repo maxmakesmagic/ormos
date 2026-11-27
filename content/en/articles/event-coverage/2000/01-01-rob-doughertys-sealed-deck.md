@@ -44,7 +44,9 @@ archive_source:
   sha256: 241527f0453353d89782be3ed575b6d505bb52027de47db00f111459fee390cf
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/993.jpg)One of the best ways to learn anything about Magic is to watch the Pros. So while the 417 players where racking their minds to build a good sealed deck I sat down to watch Rob Dougherty at work. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/993.jpg)
+
+One of the best ways to learn anything about Magic is to watch the Pros. So while the 417 players where racking their minds to build a good sealed deck I sat down to watch Rob Dougherty at work. 
 
 Rob quickly admitted that his team hadn't practised enough for this tournament. He got stranded in Dallas, while returning from PT LA, due to a huge snowstorm in Boston. In today's tough Pro Tour schedule every day counts. They only had time for one practice session, which makes Valencia the premier event Rob has been least prepared for. This lack of practice forced Rob to carefully read every Planeshift card. 
 
@@ -72,7 +74,9 @@ Rob picks black and adds Soul Burn, Defiling Tears, Nightscape Battlemage and Bo
  4cc:Canopy Surge, Breath of Darigaaz, Jade Leech, Stormscape Battlemage  
  5cc+:Pouncing Kavu, Serpentine Kavu, Soul Burn, Nightscape Battlemage 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/702.jpg)A total of 19 cards. Rob goes back to the piles looking for those elusive last spells. At the time I thought Rob was going to use 18 lands and 22 spells but it turns out he felt his two Quirion Explorers allowed him to cut one land. So Rob was missing four cards. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/702.jpg)
+
+A total of 19 cards. Rob goes back to the piles looking for those elusive last spells. At the time I thought Rob was going to use 18 lands and 22 spells but it turns out he felt his two Quirion Explorers allowed him to cut one land. So Rob was missing four cards. 
 
 After reviewing blue, again, Rob added two Phyrexian Reaper and Cursed Flesh. He also found a Sparkcaster in his gold cards. One card to go and that one was a tough one to pick. After a long, long review of all his options Rob added the Armadillo Cloak. That was a little risky because he only had three sources of white: two Explorers and a Elfhame Palace. Would he be adding Plains? 
 

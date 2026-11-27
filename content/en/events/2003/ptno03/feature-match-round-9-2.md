@@ -119,7 +119,9 @@ Neil rolled his eyes, "They don't actually do that anymore-". When a judge cut h
 
 ### Game 1
 
-![JT Money holds a clinic](http://www.wizards.com/sideboard/images/ptno03/911.jpg "JT Money holds a clinic")While Neil seemed content with his opening hand, Osyp shipped his back for a new set of six that he kept. Neil was still griping about his deck. He was relaying the story of a match against a Goblin deck where he got his "nut-high" draw-a few lands, Chrome Mox, two Fire/Ice, Scepter and an Oath. On turn two his opponent played Seething Song and cast Goblin Recruiter to stack his deck, Skirk Prospector and then sacrificed both Goblins to cast Goblin Charbelcher.
+![JT Money holds a clinic](http://www.wizards.com/sideboard/images/ptno03/911.jpg "JT Money holds a clinic")
+
+While Neil seemed content with his opening hand, Osyp shipped his back for a new set of six that he kept. Neil was still griping about his deck. He was relaying the story of a match against a Goblin deck where he got his "nut-high" draw-a few lands, Chrome Mox, two Fire/Ice, Scepter and an Oath. On turn two his opponent played Seething Song and cast Goblin Recruiter to stack his deck, Skirk Prospector and then sacrificed both Goblins to cast Goblin Charbelcher.
 
 Neil's draw was looking very good for game one of this match as he played a turn two Isochron Scepter imprinting Naturalize to follow up Osyp's turn one key. Osyp did not play either of his artifact lands for fear of the Scepter and Neil destroyed the Key at the end of the turn. Neil was missing his fourth land drop and hoped to remedy that with another Scepter-this time imprinting Fire/Ice.
 
@@ -139,7 +141,9 @@ One of the techiest cards in the sideboard of the Scepter-Oath deck is Illusion/
 
 Neil took one form his Shivan Reef on the first turn to Brainstorm. Osyp played an Ancient Tomb but had no play. Neil imprinted his Oath of Druids on a Mox and played Treetop Village and Iced Osyp's land during his upkeep. Osyp played a Port and passed the turn. 
 
-![Osyp flies into a berserker rage!](http://www.wizards.com/sideboard/images/ptno03/909.jpg "Osyp flies into a berserker rage!")At the end of Osyp's next turn Neil had the Fact or Fiction. The buffet he gave Osyp to choose from was two Counterspell, Cunning Wish, Fire/Ice, and Mana Leak. Neil was impressed with his pull, "That is above average. Don't get me wrong…it is not the stone-you-know-whats but definitely above average." Osyp eventually split the cards Cunning Wish or everything else and Neil took the latter.
+![Osyp flies into a berserker rage!](http://www.wizards.com/sideboard/images/ptno03/909.jpg "Osyp flies into a berserker rage!")
+
+At the end of Osyp's next turn Neil had the Fact or Fiction. The buffet he gave Osyp to choose from was two Counterspell, Cunning Wish, Fire/Ice, and Mana Leak. Neil was impressed with his pull, "That is above average. Don't get me wrong…it is not the stone-you-know-whats but definitely above average." Osyp eventually split the cards Cunning Wish or everything else and Neil took the latter.
 
 Neil played a Forest but did nothing on his turn except for a Brainstorm. When Osyp attacked Neil's blue source during his own turn, Neil floated the blue. Osyp declared his attack step and Neil cast Cunning Wish for Illusion/Reality. "Let me see that," demanded Osyp.
 

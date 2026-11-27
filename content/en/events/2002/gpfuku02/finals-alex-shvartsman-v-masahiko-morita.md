@@ -86,7 +86,9 @@ render_recovery:
 ---
 Masahiko Morita really wants this win. He came close in Shizuoka, but couldn't convert. Nevertheless, his presence at the final table in two limited Grand Prix speaks volumes about his skills. And speaking of volumes, you'd need them to catalogue the accomplishments of Alex Shvartsman, who has more Top 8's than fingers. Shvartsman's deck is powerful, but he believes the matchup to be close.
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/881.jpg)Shvartsman won the die roll and chose to play. His opening hand wasn't great, but it got a lot better when Morita mulliganed. He found a swamp on the third turn to go with his Mesmeric Fiend. He saw that Morita had Morbid Hunger, Last Rites, Fledgling Imp and Gravegouger. He robbed him of the Rites.
+![](http://www.wizards.com/sideboard/images/gpfuku02/881.jpg)
+
+Shvartsman won the die roll and chose to play. His opening hand wasn't great, but it got a lot better when Morita mulliganed. He found a swamp on the third turn to go with his Mesmeric Fiend. He saw that Morita had Morbid Hunger, Last Rites, Fledgling Imp and Gravegouger. He robbed him of the Rites.
 
 Down came the Imp and Gouger. Shvartsman deflected them with Aven Windreader. However, Morita went one better, busting out Rabid Elephant while Shvartsman was tapped out. He forgot to swing on the following turn, however, so excited was he to add a Dirty Wererat to his team.
 
@@ -98,7 +100,9 @@ Morita realized that waiting was no longer an option. He attacked all out. Shvar
 
 But Morita wasn't done! He played Nostalgic Dreams for three, getting back the Burst, Rabid Elephant and Werebear. Shvartsman's Gravegouger showed up a turn too late. This time the Muscle Burst cost Shvartsman his Narcissism. Then he drew two successive lands, and the Rabid Elephant did him in.
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/880.jpg)Shvartsman's green splash was unkind to him again in game two, giving him both of his forests and no islands. However, he had an Egg to enable a Balshan Collaborator, and it coincidentally got him a Tainted Isle. His Gravegouger never got to hit, because Morita had made a Springing Tiger.
+![](http://www.wizards.com/sideboard/images/gpfuku02/880.jpg)
+
+Shvartsman's green splash was unkind to him again in game two, giving him both of his forests and no islands. However, he had an Egg to enable a Balshan Collaborator, and it coincidentally got him a Tainted Isle. His Gravegouger never got to hit, because Morita had made a Springing Tiger.
 
 That was unacceptable to Shvartsman, who Aether Bursted it out of the way. Morita replayed it, and the Gravegouger tackled it with the help of Afflict. Narcissism was his next play, and as if Morita hadn't taken enough pain, Shvartsman came over the top with Laquatus's Champion. The whole affair took mere minutes.
 

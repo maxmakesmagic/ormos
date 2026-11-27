@@ -909,7 +909,9 @@ So this week is all about the “machine”, eh?
 
 Like any term in **Magic** (see: “casual”, “aggro-control”, and/or “broken”), “machine” decks are going to get a wide interpretation by the universe of players out there. If you want the official definition from Wizards see Mark Rosewater's article from the first week of *Fifth Dawn* previews, [Dawn of a New Day](https://web.archive.org/web/20040525000000/http://www.wizards.com/default.asp?x=).
 
-![](https://i.ormos.uk/56/2f/562fed9765ad8e32ad273eb5c667e1553662d8cf208a9e535d9183557113ab7c.jpg)My own personal interpretation after reading Mark's column is that machine decks are “complex combo” – that is, combo decks that require at least three pieces (and often more) to generate some arbitrarily large number of creatures/mana/events. The fact that all of the pieces happen to be artifacts is fairly irrelevant, to this casual player. Whether it's Triskelion – Scythe of the Wretched – Blasting Station or Goblin Bombardment – Enduring Renewal – Ornithopter, the point of these decks is to trudge through a game with whatever defensive measures ensure survival, and then pounce on turn X with an endlessly repeating series of events.
+![](https://i.ormos.uk/56/2f/562fed9765ad8e32ad273eb5c667e1553662d8cf208a9e535d9183557113ab7c.jpg)
+
+My own personal interpretation after reading Mark's column is that machine decks are “complex combo” – that is, combo decks that require at least three pieces (and often more) to generate some arbitrarily large number of creatures/mana/events. The fact that all of the pieces happen to be artifacts is fairly irrelevant, to this casual player. Whether it's Triskelion – Scythe of the Wretched – Blasting Station or Goblin Bombardment – Enduring Renewal – Ornithopter, the point of these decks is to trudge through a game with whatever defensive measures ensure survival, and then pounce on turn X with an endlessly repeating series of events.
 
 I don't consider such decks to be terribly fun, so I'm pretty ambivalent about the emergence of a whole new generation of machine decks.
 
@@ -964,7 +966,9 @@ Of course, you could also just go with a full-creature feature. White does have 
 
 (A gentle reminder to readers: when I present a deck fragment, I expect *you* to fill in the blanks. The point here is to spur creativity, not steer you to a particular build. You know your own group, collection, and deck preferences best. For all these reasons and more, I won't complete deck fragments, even if you ask nicely. 
 
-![](https://i.ormos.uk/39/52/39521937576f70161e6e483046370e494da61205e8d4bfc85e6be306371178dc.jpg)**Green**: Here's a color that's gotten a *lot* better at machine disruption over the years. It used to be all sorcery speed – witness the slow (but undeniably terrific) Splinter. But with creatures like Nullmage Advocate and Woodripper, the green mage's lot improved. Then came Naturalize, and Oxidize – and creatures like Molder Slug and Glissa Sunseeker. Add to this the orangutan “reprint” of Viridian Shaman, and green honestly shouldn't have much trouble with machine decks.
+![](https://i.ormos.uk/39/52/39521937576f70161e6e483046370e494da61205e8d4bfc85e6be306371178dc.jpg)
+
+**Green**: Here's a color that's gotten a *lot* better at machine disruption over the years. It used to be all sorcery speed – witness the slow (but undeniably terrific) Splinter. But with creatures like Nullmage Advocate and Woodripper, the green mage's lot improved. Then came Naturalize, and Oxidize – and creatures like Molder Slug and Glissa Sunseeker. Add to this the orangutan “reprint” of Viridian Shaman, and green honestly shouldn't have much trouble with machine decks.
 
 I won't bother with a deck fragment, since most of this stuff works in just about any deck you'd build without pulling too much from your central theme. If you want to go completely bonkers and wreck a machine deck, I'd consider a “trash” *Mirrodin* rare: Hum of the Radix. Folks, if past patterns of block themes are any indication (i.e., if the next block doesn't emphasize artifacts), then this card is going to be reliably good in multiplayer groups for exactly six more months. *Fifth Dawn* is probably spurring the last wave of artifact-dominant decks you'll see in a while. If you've busted one or two Hums from packs, why not use them now?
 

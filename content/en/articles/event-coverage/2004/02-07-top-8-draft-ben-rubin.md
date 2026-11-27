@@ -44,7 +44,9 @@ archive_source:
   sha256: cdd5634b0accbd69f42ea38cee806e93c2abc09b6b7c7a2bd61bc276b60e9654
 render_recovery: []
 ---
-![Casual? Definately. But amateur?](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/rubin.jpg)Going into GP Anaheim in December, Rubin described himself using adjectives like "casual" and "amateur." After winning that Grand Prix, coming twenty-first in Amsterdam, and now making the top eight here, the IRS may disagree.
+![Casual? Definately. But amateur?](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoak04/rubin.jpg)
+
+Going into GP Anaheim in December, Rubin described himself using adjectives like "casual" and "amateur." After winning that Grand Prix, coming twenty-first in Amsterdam, and now making the top eight here, the IRS may disagree.
 
 Ben started out the draft well, first-picking [Loxodon Warhammer](https://web.archive.org/web/20040207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer). Gabe Walls, feeding him from the right, also started strong, picking up a [Fangren Hunter](https://web.archive.org/web/20040207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fangren+Hunter). As Rubin had just shipped a Hunter to Mike Turian on his left, he looked to be set up perfectly for drafting blue. A second pick [Sculpting Steel](https://web.archive.org/web/20040207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sculpting+Steel) and third pick [Bottle Gnomes](https://web.archive.org/web/20040207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bottle+Gnomes) from a disappointing pack left him without color-commitments. 
 

@@ -149,7 +149,9 @@ render_recovery:
 
 　幸先悪く、布施がダブルマリガン。
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a877.jpg)　その隙を突き、序盤から一気に攻め立てたい丸井だが、 4 ターン目に《腐れざる喧嘩屋/Embalmed Brawler》からの展開。
+![](http://www.wizards.com/sideboard/images/gpyok03/a877.jpg)
+
+　その隙を突き、序盤から一気に攻め立てたい丸井だが、 4 ターン目に《腐れざる喧嘩屋/Embalmed Brawler》からの展開。
 
 　布施もダブルマリガンながら、ゆっくりと土地を引き始めてなんとか《ゴブリンの乱伐者/Goblin Clearcutter》を出す所までゲームは進む。
 

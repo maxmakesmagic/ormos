@@ -109,7 +109,9 @@ render_recovery:
   - Second Thoughts
   occurrences: 62
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a812.jpg)Phoenix Foundation is the picture of professionalism. Kai Budde, the poster boy of the entire pro circuit, is a fair and friendly opponent. The same thing can be said of his two compatriots, Marco Blume and Dirk Baberowski.
+![](http://www.wizards.com/sideboard/images/ptbos02/a812.jpg)
+
+Phoenix Foundation is the picture of professionalism. Kai Budde, the poster boy of the entire pro circuit, is a fair and friendly opponent. The same thing can be said of his two compatriots, Marco Blume and Dirk Baberowski.
 
 And then there's Tom Guevin. Ever since being scarred for life at the hands of a ruthless Shawn "Hammer" Regnier in the finals of the first limited Pro Tour ever, Guevin has been extracting revenge on Magic players across the globe for five years with his own trademark brand of trash talk and distracting antics.
 
@@ -145,7 +147,9 @@ Tommy had a Hallowed Healer, claiming, "Kai plays a threat, but Tom answers! He 
 
 Kai added a Puppeteer and a Cephalid Inkshrouder. At the end of Tom's turn, Kai debated what to tap with the Puppeteer. "Judge, can you watch this match for slow play?" asked Tom. Kai looked at him and shook his head. "You can try it, I suppose," said the German.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a811.jpg)Guevin eventually drew Fiery Temper to kill the Puppeteer which allowed him to use his Healer again. But Kai kept up the pressure with an Aether Burst, then a Breakthrough for 4 with an empty hand. Tom Cagemailed the Mongrel after it hit him. The Kai played a Battlefield Scrounger, and Tom played a Phantom Flock.
+![](http://www.wizards.com/sideboard/images/ptbos02/a811.jpg)
+
+Guevin eventually drew Fiery Temper to kill the Puppeteer which allowed him to use his Healer again. But Kai kept up the pressure with an Aether Burst, then a Breakthrough for 4 with an empty hand. Tom Cagemailed the Mongrel after it hit him. The Kai played a Battlefield Scrounger, and Tom played a Phantom Flock.
 
 Kai attacked with the Scrounger into the Flock and in response to Kai activating it, Tom hit it with a Sonic Seizure. Kai tried to activate it again, then realized he couldn't. "Oh. That was smart," said Kai.
 

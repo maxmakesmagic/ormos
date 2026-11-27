@@ -142,7 +142,9 @@ render_recovery:
   - Words of Wisdom
   occurrences: 97
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a820.jpg)I'm not even going to try to introduce these two. It's virtually impossible to follow the Pro Tour without knowing them. Today they both had a little side story to bring to the table. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a820.jpg)
+
+I'm not even going to try to introduce these two. It's virtually impossible to follow the Pro Tour without knowing them. Today they both had a little side story to bring to the table. 
 
 Price has a tricky sideboard just for this match against Shvartsman's blue and black deck: Llawan, Cephalid Empress and two islands. If it resolves things can get very complicated for Alex.
 

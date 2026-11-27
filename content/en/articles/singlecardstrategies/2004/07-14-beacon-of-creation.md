@@ -505,7 +505,9 @@ render_recovery:
 ---
 ### Redoing an old card right
 
-![](https://i.ormos.uk/3d/46/3d46035246c5687a62760c6d1eb8d1f15a0d990ccd26f596802d906a897698c3.jpg)It doesn't seem like all that long ago that I started going to **Magic** tournaments in earnest. I had gotten my first taste of the PTQs back in 1996, and I was a bit hooked. I wanted more. In one auspicious event back in early 1997 there was a big PTQ in far off Minneapolis, and no one wanted to go. Spurred on by my good friend Kevin, I decided to take a Greyhound to the event and I negotiated the city buses to Dreamers.
+![](https://i.ormos.uk/3d/46/3d46035246c5687a62760c6d1eb8d1f15a0d990ccd26f596802d906a897698c3.jpg)
+
+It doesn't seem like all that long ago that I started going to **Magic** tournaments in earnest. I had gotten my first taste of the PTQs back in 1996, and I was a bit hooked. I wanted more. In one auspicious event back in early 1997 there was a big PTQ in far off Minneapolis, and no one wanted to go. Spurred on by my good friend Kevin, I decided to take a Greyhound to the event and I negotiated the city buses to Dreamers.
 
 It was an auspicious event for many reasons. One of the biggest and brightest was beginning a deck collaboration with soon-to-be genius Brian Kowal. Kowal and I would make a lot of decks together and separately, but it was the feedback and advice that we gave each other that would help shape a lot of each of our most successful decks. Also exciting for me that weekend was getting within a stone's throw of Top 8 with my mono-green control deck, Green Machine.
 
@@ -527,7 +529,9 @@ One of the first things that becomes obvious about the insects of Beacon of Crea
 
 For the deck that *isn't* mono-green, there are a few options. One of the first and best options is to combine the use of Birds of Paradise with the appropriate colored lands between Wooded Foothills and Windswept Heath. By using *Onslaught's* fetch lands, you can run a bare minimum of non-Forests. Especially when combined with Birds of Paradise (or in an Elf-heavy deck, Birchlore Rangers), you can maintain a second color without losing too much oomph from the Beacon. 
 
-![](https://i.ormos.uk/83/13/8313c37f71db117de6742d7ef6be94eebaf3c723f7eadd7be290f15d2b562c3d.jpg)Another exciting option is to use Paradise Mantle. While Paradise Mantle won't be all that much for accelerating your mana, essentially, since Paradise Mantle turns any of your creatures into a Bird of Paradise, you can spend your single Green mana to filter it into any color of mana. A spare insect (or two) should do the trick here, and have you casting any spell you might want. Joiner Adept also pulls of the same trick just as neatly.
+![](https://i.ormos.uk/83/13/8313c37f71db117de6742d7ef6be94eebaf3c723f7eadd7be290f15d2b562c3d.jpg)
+
+Another exciting option is to use Paradise Mantle. While Paradise Mantle won't be all that much for accelerating your mana, essentially, since Paradise Mantle turns any of your creatures into a Bird of Paradise, you can spend your single Green mana to filter it into any color of mana. A spare insect (or two) should do the trick here, and have you casting any spell you might want. Joiner Adept also pulls of the same trick just as neatly.
 
 For any Beacon deck, getting a bunch of forests in play is going to be a great boon. Certainly you don't have to actively hunt out forests; even without trying to go gung ho about getting forests, you should have a goodly amount of insects. If you *do* go gung ho, you can change a goodly amount to an absurd amount.
 
@@ -535,7 +539,9 @@ There are a ton of good choices here. Just within the Standard environment some 
 
 ### An Army of Ants
 
-![](https://i.ormos.uk/1b/7b/1b7b6272a9678c6f7ef4631b70bcbacd9a5cbff1a5773705a30126721f003286.jpg)In one episode of MacGuyver from about a million years ago, Richard Dean Anderson saved the day (and a whole country!) from a huge insect army. It wasn't easy, though. That many insects could sure accomplish a lot. And they can do a lot for you. There are a whole slew of ways to turn all of those Beacon of Creation tokens into your personal workhorses. The first (and perhaps best) choice here is Skullclamp. When you have an army of 1/1s, a Skullclamp is an incredible way to create some card-drawing. Of course, Skullclamp is *so* powerful that it was banned in Block and Standard constructed, but there are other formats one can play. With a Skullclamp in play, it won't be that uncommon for you to get 2 cards for every land you have in play. That's a lot of cards.
+![](https://i.ormos.uk/1b/7b/1b7b6272a9678c6f7ef4631b70bcbacd9a5cbff1a5773705a30126721f003286.jpg)
+
+In one episode of MacGuyver from about a million years ago, Richard Dean Anderson saved the day (and a whole country!) from a huge insect army. It wasn't easy, though. That many insects could sure accomplish a lot. And they can do a lot for you. There are a whole slew of ways to turn all of those Beacon of Creation tokens into your personal workhorses. The first (and perhaps best) choice here is Skullclamp. When you have an army of 1/1s, a Skullclamp is an incredible way to create some card-drawing. Of course, Skullclamp is *so* powerful that it was banned in Block and Standard constructed, but there are other formats one can play. With a Skullclamp in play, it won't be that uncommon for you to get 2 cards for every land you have in play. That's a lot of cards.
 
 Symbiotic Deployment is another interesting option. Here, the card drawing isn't as dramatic, but you aren't losing the insects. When you're ready, they can still turn around and fight. If they are ready to fight, a Fecundity can turn all of your dying friends (even tokens!) into valuable cards. On the other hand, if you're able to keep your creatures around, Collective Unconscious and Slate of Ancestry will be able to give you a huge handful of cards in one quick fix.
 

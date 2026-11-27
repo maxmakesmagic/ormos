@@ -342,7 +342,9 @@ MG: Ever won a Grande Picante, or whatever they call those affairs?
 
 *AA: Grand Prix. Again, no. But once, in a five-player chaos game, I –* 
 
-![](https://i.ormos.uk/41/72/4172aaead60acf139d4303d0ad2a710c42b0a0503864d265a9bbd1a9df1d4c0a.jpg)MG: That sounds like a really intriguing story, Meat, and I'd love to hear it right after I nap. But first, let me finish my bloody point. If a 4/3 flyer for ![2 Mana](https://i.ormos.uk/f9/cc/f9cc8a15b009997919d58ad79964384351495d1b6c9231f938316577453038a8.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif) cannot make it in today's Standard environment, it won't be *my* fault. Current ruling on my ability even makes loss of life contingent on my getting played from hand – so in a reanimator deck, I don't even have a drawback! What exactly about me is *not* attractive? \[*Stretches out wingclaws, stomps cloven feet.*\] Tell me seriously, Meat. You think I'm not pretty enough?
+![](https://i.ormos.uk/41/72/4172aaead60acf139d4303d0ad2a710c42b0a0503864d265a9bbd1a9df1d4c0a.jpg)
+
+MG: That sounds like a really intriguing story, Meat, and I'd love to hear it right after I nap. But first, let me finish my bloody point. If a 4/3 flyer for ![2 Mana](https://i.ormos.uk/f9/cc/f9cc8a15b009997919d58ad79964384351495d1b6c9231f938316577453038a8.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif)![Black Mana](https://i.ormos.uk/e1/6b/e16bcf75cffdd1079b6ba1f9f43c9e6e7253bb89521acdf6b3e93d3c2e63dbb5.gif) cannot make it in today's Standard environment, it won't be *my* fault. Current ruling on my ability even makes loss of life contingent on my getting played from hand – so in a reanimator deck, I don't even have a drawback! What exactly about me is *not* attractive? \[*Stretches out wingclaws, stomps cloven feet.*\] Tell me seriously, Meat. You think I'm not pretty enough?
 
 *AA: You're gorgeous. Let's talk social life. Besides playing **Magic**, what do you do for fun?*
 

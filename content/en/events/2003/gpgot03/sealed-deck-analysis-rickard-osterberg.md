@@ -127,7 +127,9 @@ render_recovery:
   - Vault of Whispers
   occurrences: 93
 ---
-![](https://i.ormos.uk/8c/f5/8cf501a895ddbdf18e2bd469b3988ae1f03bf9775e35ed60a12b1b179728cfd6.jpg)Sometimes you wait in anticipation for that Sealed Deck and it turns out to be golden. Two colours stand out as the obvious choices. The mana curve fits nicely. The cards have great synergy together. Building it takes no time as it pretty much builds itself.
+![](https://i.ormos.uk/8c/f5/8cf501a895ddbdf18e2bd469b3988ae1f03bf9775e35ed60a12b1b179728cfd6.jpg)
+
+Sometimes you wait in anticipation for that Sealed Deck and it turns out to be golden. Two colours stand out as the obvious choices. The mana curve fits nicely. The cards have great synergy together. Building it takes no time as it pretty much builds itself.
 
 Other times you can open your cards and be looking at a nightmare…
 
@@ -212,7 +214,9 @@ Wizard Replica
 
 Afterwards he summed it up succinctly: “A mess.”
 
-![](https://i.ormos.uk/40/ac/40ac524ffc5e1b4b9a674c69e62c38c62db530ff0d6ca7c3a8002076304f4e11.jpg)He wasn’t really happy with how he built it. He had to play white for creatures, and then he had to play the Hoversail and Sword of Kaldra just to make his creatures good. Time had just caught up with him. He knew he also should have dropped a card, but wasn’t sure what it should be. In the end he’d ended up with 41 cards and 17 lands, which he knew was wrong.
+![](https://i.ormos.uk/40/ac/40ac524ffc5e1b4b9a674c69e62c38c62db530ff0d6ca7c3a8002076304f4e11.jpg)
+
+He wasn’t really happy with how he built it. He had to play white for creatures, and then he had to play the Hoversail and Sword of Kaldra just to make his creatures good. Time had just caught up with him. He knew he also should have dropped a card, but wasn’t sure what it should be. In the end he’d ended up with 41 cards and 17 lands, which he knew was wrong.
 
 “So little time left.”
 

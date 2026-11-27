@@ -208,11 +208,15 @@ One of my favorite **Magic** players, Elliot Fung, lives in California. During *
 
 "Off the boat!"
 
-![](http://www.wizards.com/sideboard/images/PTLA01/858.jpg)Every time we crossed paths we would yip, "Off the boat!"
+![](http://www.wizards.com/sideboard/images/PTLA01/858.jpg)
+
+Every time we crossed paths we would yip, "Off the boat!"
 
 Now I am not a flavor text expert, but Diabolic Edict took the cake. Not only was it a versatile **Magic** card, it had some great flavor text. From a Pro Tour player's perspective, nothing can compare with "Off the boat!"
 
-![](https://i.ormos.uk/5a/29/5a29e9c475b8b5d860e92a3749dfeaff0e0b7590e98ac03339029b3ce1d46624.jpg)Luckily, while Diabolic Edict has for the most part been filed away in closets, *Torment* gives us the next printing of Diabolic.
+![](https://i.ormos.uk/5a/29/5a29e9c475b8b5d860e92a3749dfeaff0e0b7590e98ac03339029b3ce1d46624.jpg)
+
+Luckily, while Diabolic Edict has for the most part been filed away in closets, *Torment* gives us the next printing of Diabolic.
 
 Did they call it Diabolic Edict II? The Return of Diabolic Edict? Edict: The Revenge?
 
@@ -224,7 +228,9 @@ Watch out, Diabolic Edict is back, and then back again.
 
 Changing a card from an instant to sorcery will usually take the kick out of the spell. Besides the obvious lack of power Counterspell would have as a sorcery, cards like Giant Growth, and Muscle Burst would be miserable as sorceries.
 
-![](https://i.ormos.uk/1a/a0/1aa06258532d7f6f71a996189d6adac7143fefba8ede14d9122c0935fb3cb849.jpg)With creature removal however, cost is just as important a factor as is the speed in which it is cast. With Chainer's Edict the speed is not very important since it isn't targeted. Instead of waiting for your opponent to cast an enchantment, or play a fast effect just go ahead and Edict their creature right away.
+![](https://i.ormos.uk/1a/a0/1aa06258532d7f6f71a996189d6adac7143fefba8ede14d9122c0935fb3cb849.jpg)
+
+With creature removal however, cost is just as important a factor as is the speed in which it is cast. With Chainer's Edict the speed is not very important since it isn't targeted. Instead of waiting for your opponent to cast an enchantment, or play a fast effect just go ahead and Edict their creature right away.
 
 Guess what? When you get to seven mana, you get to Edict all over again. The early game removal and mid-game flashback will insure that control decks keep their life totals high while gaining control and card advantage.
 
@@ -244,7 +250,9 @@ In the current Standard environment the two most popular and most powerful creat
 
 Card advantage has always been a big factor in Constructed play, and Chainer's Edict offers that in exchange for mana. 
 
-![](https://i.ormos.uk/40/b3/40b3cca43c57dd01cef837a9cc894192b2f689c19cc87f29db4bcd19292d570c.jpg)Don't forget "Superman". Morphling is vulnerable to this little spell as well, and anything that kills Morphling gets a big thumbs-up in my book. While Diabolic Edict is probably more reasonable in Extended since it also kills Ball Lightning, don't ever overlook more kryptonite for "Superman". 
+![](https://i.ormos.uk/40/b3/40b3cca43c57dd01cef837a9cc894192b2f689c19cc87f29db4bcd19292d570c.jpg)
+
+Don't forget "Superman". Morphling is vulnerable to this little spell as well, and anything that kills Morphling gets a big thumbs-up in my book. While Diabolic Edict is probably more reasonable in Extended since it also kills Ball Lightning, don't ever overlook more kryptonite for "Superman". 
 
 While this article began by discussing Diabolic Edict, it is very important to recognize that while similar in their effect the power of each is very different.
 

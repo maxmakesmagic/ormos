@@ -77,7 +77,9 @@ render_recovery:
   - Dragon Scales
   occurrences: 23
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a946.jpg)After six rounds yesterday only two players emerged with perfect records. They sat next to one another in the draft—with Gab taking late cards away from Guillaume whenever he could—and were now facing off to see which one of them would carry the perfect record forward.
+![](http://www.wizards.com/sideboard/images/natcan03/a946.jpg)
+
+After six rounds yesterday only two players emerged with perfect records. They sat next to one another in the draft—with Gab taking late cards away from Guillaume whenever he could—and were now facing off to see which one of them would carry the perfect record forward.
 
 Guillaume was laughing about his draft experience yesterday. He had never drafted *Scourge* before and although he knew what the cards did, he had to read them to recognize them. Despite what he says was a bad deck he did go 3-0 with it.
 
@@ -85,7 +87,9 @@ Gab is an old hand at this. It turns out that he plays much more Magic than you 
 
 ### Game 1
 
-![](https://i.ormos.uk/09/ab/09ab6f503c024ae785db8dc21d5a75dab6feba647cc009418700353d09cc1f98.jpg)Both players thought their opening hands were swell and things got underway with no mulligans. Gab played a turn three Pearlspear Courier that got in for two points of damage when Guillaume had not turn three play of his own. Gab had nothing to follow up with on the next few turns and elected to use the Courier to block Guillaume's turn four Goblin Clearcutter. Guillaume tried to Shock the Courier when Gab activated it to pump itself but Gab had the Dispersal Shield. Guillaume followed up with a Ridgetop Raptor.
+![](https://i.ormos.uk/09/ab/09ab6f503c024ae785db8dc21d5a75dab6feba647cc009418700353d09cc1f98.jpg)
+
+Both players thought their opening hands were swell and things got underway with no mulligans. Gab played a turn three Pearlspear Courier that got in for two points of damage when Guillaume had not turn three play of his own. Gab had nothing to follow up with on the next few turns and elected to use the Courier to block Guillaume's turn four Goblin Clearcutter. Guillaume tried to Shock the Courier when Gab activated it to pump itself but Gab had the Dispersal Shield. Guillaume followed up with a Ridgetop Raptor.
 
 Grassland Crusader came down on turn six and he was unwilling to trade it for the Raptor. Guillaume used his Torrent of Fire to torch the annoying soldier cleric before it came online. Gab made a 3/3 Daru Stinger on the next turn but he took another four from the Raptor waiting for it to be of some use. Guillaume reinforced with Barkhide Mauler.
 

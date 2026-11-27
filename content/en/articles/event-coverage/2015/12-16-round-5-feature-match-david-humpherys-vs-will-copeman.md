@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Liam Coltman* 
 
-![](https://i.ormos.uk/ea/13/ea13de0d0e9efa988b35f772d2e79524cda87580cd1d41e4b4f5d3b48b20bf1d.jpg)Even if Dave Humpherys doesn't do so well in the GP, he has nothing to complain about. After last year's Invitational, winner Chris Pikula promised to bring Humpherys with him after he built his three constructed decks for him. In this match we saw Humpherys' Counter-Oath deck against Copeman's TS deck, with Humpherys playing first. 
+![](https://i.ormos.uk/ea/13/ea13de0d0e9efa988b35f772d2e79524cda87580cd1d41e4b4f5d3b48b20bf1d.jpg)
+
+Even if Dave Humpherys doesn't do so well in the GP, he has nothing to complain about. After last year's Invitational, winner Chris Pikula promised to bring Humpherys with him after he built his three constructed decks for him. In this match we saw Humpherys' Counter-Oath deck against Copeman's TS deck, with Humpherys playing first. 
 
 **Game 1** 
 

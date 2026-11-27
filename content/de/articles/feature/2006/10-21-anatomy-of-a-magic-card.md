@@ -206,7 +206,9 @@ In der rechten oberen Ecke stehen die Manakosten. Diese Ansammlung von Symbolen 
 
 Um diese Bestie auszuspielen, musst du zwei rote Mana und sechs beliebige Mana generieren. „Beliebiges Mana“ bedeutet, dass du jede beliebige Farbe dafür verwenden kannst. 
 
-![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)Dies im Hinterkopf, ist es an der Zeit, das Konzept der „converted mana cost“ \[umgewandelten Manakosten\] – kurz CMC - einzuführen. Umgewandelte Manakosten stellen die Gesamtzahl an Manakosten dar, unabhängig von der *Art* des Manas. Um die CMC des Colussus zu ermitteln, addierst du die 2 roten Mana zu den 6 beliebigen Mana, was einen Gesamtwert von 8 ergibt. Einfach das gesamte Mana addieren und die Summe ermitteln. Eigentlich einfach, oder?
+![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)
+
+Dies im Hinterkopf, ist es an der Zeit, das Konzept der „converted mana cost“ \[umgewandelten Manakosten\] – kurz CMC - einzuführen. Umgewandelte Manakosten stellen die Gesamtzahl an Manakosten dar, unabhängig von der *Art* des Manas. Um die CMC des Colussus zu ermitteln, addierst du die 2 roten Mana zu den 6 beliebigen Mana, was einen Gesamtwert von 8 ergibt. Einfach das gesamte Mana addieren und die Summe ermitteln. Eigentlich einfach, oder?
 
 Wenn in Artikeln über Mana geschrieben wird, werden häufig Buchstaben anstelle der Symbole verwendet. Nachfolgend habe ich hierzu einfach mal eine kurze Liste gemacht, damit du weißt, was damit gemeint ist: 
 
@@ -222,7 +224,9 @@ Das mag jetzt erstmal sehr verwirrend sein, aber mit der Zeit geht das ins Blut 
 
 ### Typus-Zeile
 
-![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)In diesem Bereich der Karte wird angezeigt, mit was für einer Art von Karte du es zu tun hast. Es gibt sechs Grund-Kartentypen: Länder, Kreaturen, Verzauberungen, Artefakte, Spontanzauber und Hexereien. In dieser Zeile können auch noch genauere Informationen stehen. Wenn es sich beispielsweise um eine Kreaturen-Karte handelt, findest du hier die Information, um was für eine Art von Kreatur es sich handelt (Goblin, Ninja, etc.). 
+![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)
+
+In diesem Bereich der Karte wird angezeigt, mit was für einer Art von Karte du es zu tun hast. Es gibt sechs Grund-Kartentypen: Länder, Kreaturen, Verzauberungen, Artefakte, Spontanzauber und Hexereien. In dieser Zeile können auch noch genauere Informationen stehen. Wenn es sich beispielsweise um eine Kreaturen-Karte handelt, findest du hier die Information, um was für eine Art von Kreatur es sich handelt (Goblin, Ninja, etc.). 
 
 Die Informationen in dieser Zeile können deutlich komplexer sein, aber zunächst reicht dies erstmal. In den meisten Fällen sind alle relevanten Informationen, die du während einer **Magic**-Partie benötigst, auf der Karte vorhanden. Wenn beispielsweise eine Karte allen deinen Goblins einen Bonus gibt, und die fragliche Karte in der Typus-Zeile den Eintrag Goblin hat, dann kannst du den Bonus addieren. Wenn wir später etwas tiefer in die Regeln eingetaucht sind, werden wir zu dieser Zeile zurückkehren und auf Untertypen, Supertypus und Ähnliches eingehen.
 
@@ -260,11 +264,15 @@ Abschließend noch eine Bonusinformation zu diesem Thema, mit der du sicher eini
 
 ### Künstler
 
-![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)Unter der Text-Box befindet sich in der linken Ecke der Name des Künstlers, der das Bild auf der Karte gemalt hat. Die Qualität der Artworks auf den Karten hat sich seit den Anfängen von **Magic** im Jahre 1993 stark entwickelt und die Bilder gehören zu den coolsten Fantasybildern, die es derzeit gibt. 
+![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)
+
+Unter der Text-Box befindet sich in der linken Ecke der Name des Künstlers, der das Bild auf der Karte gemalt hat. Die Qualität der Artworks auf den Karten hat sich seit den Anfängen von **Magic** im Jahre 1993 stark entwickelt und die Bilder gehören zu den coolsten Fantasybildern, die es derzeit gibt. 
 
 ### Sammlernummer
 
-![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)Gerade so über dem unteren Kartenrand wirst du in sehr kleiner Schrift ein Copyright-Symbol, ein paar Daten, die Worte Wizards of the Coast und ein paar weitere Zahlen oder Buchstaben finden. Das meiste sind einfach nur Copyrightinformationen, aber die Zahlen ganz rechts stellen die so genannte Sammlernummer dar. Sie gibt an, an welcher Stelle er Sets die Karte kommt, wenn du deine Sammlung entsprechend sortieren möchtest. Sehr zum Leidwesen meiner Frau, bevorzuge ich die Methode „Karten einfach in die nächste verfügbare Schachtel werfen, die ich finden kann“ – eine Methode, die natürlich nicht sehr empfehlenswert ist.
+![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)
+
+Gerade so über dem unteren Kartenrand wirst du in sehr kleiner Schrift ein Copyright-Symbol, ein paar Daten, die Worte Wizards of the Coast und ein paar weitere Zahlen oder Buchstaben finden. Das meiste sind einfach nur Copyrightinformationen, aber die Zahlen ganz rechts stellen die so genannte Sammlernummer dar. Sie gibt an, an welcher Stelle er Sets die Karte kommt, wenn du deine Sammlung entsprechend sortieren möchtest. Sehr zum Leidwesen meiner Frau, bevorzuge ich die Methode „Karten einfach in die nächste verfügbare Schachtel werfen, die ich finden kann“ – eine Methode, die natürlich nicht sehr empfehlenswert ist.
 
 ### Stärke/Widerstandskraft
 

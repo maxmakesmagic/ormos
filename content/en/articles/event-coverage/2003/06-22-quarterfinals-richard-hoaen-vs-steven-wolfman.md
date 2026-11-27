@@ -56,7 +56,9 @@ This is the second Top 8 at Canadian Nationals for both of these players. Richar
 
 "Split?" offered Wolfman—who had obviously tested as well.
 
-![](https://i.ormos.uk/1a/30/1a30529dae3de17f0eea79f9bdf3541f585195530e158f7ae620feece737cb99.jpg)"No sir! We were testing in the car before the tournament. It was 5-2 for me and that was without me bringing in [Duress](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)!"
+![](https://i.ormos.uk/1a/30/1a30529dae3de17f0eea79f9bdf3541f585195530e158f7ae620feece737cb99.jpg)
+
+"No sir! We were testing in the car before the tournament. It was 5-2 for me and that was without me bringing in [Duress](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)!"
 
 "[Duress](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)? That card doesn't do anything against me," Wolfman attempted half-heartedly.
 
@@ -132,7 +134,9 @@ Wolfman was unimpressed with their gaudy ratings, "We would just change our name
 
 "How much have you won in singles?"
 
-![](https://i.ormos.uk/37/f3/37f3f4b5555ee344497541c007e9b8d66693a048459b4c3d2b2c9f4b350bfb65.jpg)"$500...But we're getting another $1,000 here today," sighed Wolfman, no doubt recalling the playtest results.
+![](https://i.ormos.uk/37/f3/37f3f4b5555ee344497541c007e9b8d66693a048459b4c3d2b2c9f4b350bfb65.jpg)
+
+"$500...But we're getting another $1,000 here today," sighed Wolfman, no doubt recalling the playtest results.
 
 "Hey Wolfman, I'm surprised you haven't made the lame joke about getting the cards you loaned me back."
 
@@ -160,7 +164,9 @@ Wolfman led off the game with a [Krosan Verge](https://web.archive.org/web/20030
 
 "Unfortunately for you, I own half your permanents and I would like them back now."
 
-![](https://i.ormos.uk/cb/b1/cbb13167c925a3c0fe6d0520ee62f86f354d7b556c73bd2c901ba5a28f846bbb.jpg)"I had one Delta of my own. There is a 25% chance it is mine."
+![](https://i.ormos.uk/cb/b1/cbb13167c925a3c0fe6d0520ee62f86f354d7b556c73bd2c901ba5a28f846bbb.jpg)
+
+"I had one Delta of my own. There is a 25% chance it is mine."
 
 Two [Duress](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress)es over the next several turns took away the [Wrath](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath) and revealed that Wolfman was drawing nothing but lands. Meanwhile Hoaen was casting [Deep Analysis](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis) and [Concentrate](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate) while compulsing at the end of every turn. His hand consisted of three [Counterspell](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell)s, two [Circular Logic](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circular+Logic)s AND a [Concentrate](https://web.archive.org/web/20030622000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Concentrate). 
 

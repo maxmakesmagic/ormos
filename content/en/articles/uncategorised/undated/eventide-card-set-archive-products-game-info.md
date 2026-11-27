@@ -64,7 +64,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/ea/f8/eaf804430e55cdad0791020e065bebe79c64fdbc8480b2a123faf386e020856f.png)The fourth set in the Lorwyn-Shadowmoor block, this 180-card expansion set has randomly inserted premium cards and two new mechanics: Chroma and Retrace.
+![](https://i.ormos.uk/ea/f8/eaf804430e55cdad0791020e065bebe79c64fdbc8480b2a123faf386e020856f.png)
+
+The fourth set in the Lorwyn-Shadowmoor block, this 180-card expansion set has randomly inserted premium cards and two new mechanics: Chroma and Retrace.
 
 **Set Name:** *Eventide*  
 **Block:** Set 4 of 4 of the *Lorwyn-Shadowmoor* Block  

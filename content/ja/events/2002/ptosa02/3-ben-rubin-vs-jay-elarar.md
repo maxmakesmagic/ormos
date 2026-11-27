@@ -192,7 +192,9 @@ Rubin 0 - 1 Elarar
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a909.jpg)　変わって Rubin の先手、《シャドーブラッドの卵/Shadowblood Egg》を出し、 4 ターン目にゆっくりと《強制/Compulsion》を張り準備を整える。
+![](http://www.wizards.com/sideboard/images/ptosa02/a909.jpg)
+
+　変わって Rubin の先手、《シャドーブラッドの卵/Shadowblood Egg》を出し、 4 ターン目にゆっくりと《強制/Compulsion》を張り準備を整える。
 
 　対する Elarar は《魔性の教示者》を撃って、前回と同じく《精神ヘドロ/Mind Sludge》を持ってきて、次のターンに 4 枚ディスカードをを迫ると、なんと《方向転換/Divert》で自分がディスカードするハメに！  
  　  

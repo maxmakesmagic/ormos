@@ -117,7 +117,9 @@ render_recovery:
 
 [初日](/ja/events/2002/pthou02/the-rock-dominates-day-1)をTopで折り返したのはYMGのDarwin Kastle。そして、「The Rock」(Malka Death) をプレイした彼は見事に3位でスイスラウンドを終えている。また、「New Benzo」のRobert Doughertyが2位、Kastleが途中のラウンドでマッチ を投了してくれるというバックアップを受けたJustin Gary（「Turbo Oath」）が首位につけている。そう、スイス終了段階でのTop 3をYMGが総 なめにしているのである。
 
-![](http://www.wizards.com/sideboard/images/pthou02/a409.jpg)昨年のNew OrleansではKai BuddeによってDoughertyもHumpherysも踏み台とされてしまったわけだが、今回のTop 8にBuddeの名前がないことはいいニュースといえるかもし れない。･･･それに、今回のYMGは2人ではなく3人も決勝に送り込んでいるのである。
+![](http://www.wizards.com/sideboard/images/pthou02/a409.jpg)
+
+昨年のNew OrleansではKai BuddeによってDoughertyもHumpherysも踏み台とされてしまったわけだが、今回のTop 8にBuddeの名前がないことはいいニュースといえるかもし れない。･･･それに、今回のYMGは2人ではなく3人も決勝に送り込んでいるのである。
 
 **■Japanese Decks** 
 

@@ -93,7 +93,9 @@ Okay, brilliant it's not. At least I was able to get back to sleep.
 
 Writing names and flavor text for **Magic** cards is obsessive work. It's the kind of work you don't leave at the office, or leave anywhere you would normally sit down and write. It comes along with you throughout your day and wakes you up at night. It's mental peanut butter – delicious but sticky.
 
-![](http://archive.wizards.com/global/images/mtgcom_feature_370_picMain_en.jpg)I'm working on the flavor text for “Icatian Rouser,” a white spellshaper creature with flavor similar to [Icatian Town](https://web.archive.org/web/20061023000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Icatian+Town). The sketch depicts a woman in garb that doesn't fit the style guide – she's a victim of the rifts.
+![](http://archive.wizards.com/global/images/mtgcom_feature_370_picMain_en.jpg)
+
+I'm working on the flavor text for “Icatian Rouser,” a white spellshaper creature with flavor similar to [Icatian Town](https://web.archive.org/web/20061023000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Icatian+Town). The sketch depicts a woman in garb that doesn't fit the style guide – she's a victim of the rifts.
 
 > \[Icatian Rouser\]  
 >  2W  
@@ -109,7 +111,9 @@ But suddenly, due to a buckling of the timeline, she finds herself in the ruins 
 
 But I still don't have piece of flavor text that sums up all of that. I return to my writer's cave every couple of nights or so throughout this round of writing—bedroom door shut (no interference from girlfriend or cats), lights off (no distracting visual stimuli), earphones playing instrumental music (no words competing with my verbal centers). It's basically a sensory deprivation chamber, and for the same purpose—to let my brain wander wherever it wants to go.
 
-![Icatian_Town](https://i.ormos.uk/d9/8d/d98ddf5fd496bd0dd074268626829200ea518829ebefbd7033ec9b1755ab741d.jpg)Back to the messenger torn away from her Icatia. This time-transported woman and her useless message – is this a **Magic** card or a stage tragedy? My final realization is that her message isn't useless at all. Her failure to deliver the news may have caused the destruction of her village, but she may yet have a chance to redeem herself. She can still deliver the message – to strangers a thousand years younger than her, but still to good effect. She can still [raise the alarm](https://web.archive.org/web/20061023000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=raise+the+alarm) (okay, that card makes Soldier tokens, but whatever) to prepare her new countrymen for the harsh world they now face.
+![Icatian_Town](https://i.ormos.uk/d9/8d/d98ddf5fd496bd0dd074268626829200ea518829ebefbd7033ec9b1755ab741d.jpg)
+
+Back to the messenger torn away from her Icatia. This time-transported woman and her useless message – is this a **Magic** card or a stage tragedy? My final realization is that her message isn't useless at all. Her failure to deliver the news may have caused the destruction of her village, but she may yet have a chance to redeem herself. She can still deliver the message – to strangers a thousand years younger than her, but still to good effect. She can still [raise the alarm](https://web.archive.org/web/20061023000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=raise+the+alarm) (okay, that card makes Soldier tokens, but whatever) to prepare her new countrymen for the harsh world they now face.
 
 > *A thousand years removed from her home, her news of war lost its context, but not its relevance.*
 
@@ -136,7 +140,9 @@ This is true even when the set returns to a preexisting plane, like *Time Spiral
 
 When I opened the emails from Matt Cavotta about the set's themes, I knew this would be tough. Dominaria had a 10,000-year timeline packed with history. And with the harsh, post-apocalyptic filter over the plane, I would have to be careful about my emotional investment. A writer could get burnt out writing too many pieces about the painful irony of a dead world. But I had a job to do.
 
-![Invasion_Plans](https://i.ormos.uk/84/d1/84d140d1e56827ad124bca0dc2b78ac6646c0ed7f863b09e2fa11148be84f27e.jpg)So, I thought, how does one go about portraying this new Dominaria? Brady Dommermuth and Matt Cavotta have talked a lot on **magicthegathering.com** about the role of story on cards. The gist is this: cards aren't movie trailers or novel chapters – they just aren't very good at showing off a sequence of events over time. Yet that's exactly what I needed to portray. Most first sets get away with showing off tidbits of the new plane being visited, but this was different. This was Dominaria!
+![Invasion_Plans](https://i.ormos.uk/84/d1/84d140d1e56827ad124bca0dc2b78ac6646c0ed7f863b09e2fa11148be84f27e.jpg)
+
+So, I thought, how does one go about portraying this new Dominaria? Brady Dommermuth and Matt Cavotta have talked a lot on **magicthegathering.com** about the role of story on cards. The gist is this: cards aren't movie trailers or novel chapters – they just aren't very good at showing off a sequence of events over time. Yet that's exactly what I needed to portray. Most first sets get away with showing off tidbits of the new plane being visited, but this was different. This was Dominaria!
 
 Cards are excellent at one thing, however, and that is highlighting themes. Cards can have flavor themes just as much as mechanical themes. The more cards you see that focus on a given theme (as you peruse those cards in Gatherer, build decks with them, crack them open and play sealed with them, whatever), the stronger that theme comes across. You hit a theme often enough, and you can communicate the structure of that world even without the help of that deep-voiced movie trailer guy.
 

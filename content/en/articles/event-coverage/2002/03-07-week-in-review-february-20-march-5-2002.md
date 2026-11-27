@@ -205,7 +205,9 @@ You have no cards in your hand and no cards in your graveyard. You have any numb
 
 Answer:
 
-![](https://i.ormos.uk/75/70/7570a88a496a16d1194524dbf7a437924d2b05255008db5f6a9d69bffa88ff1b.jpg)Wild Research. Respond to Rage by activating Research to look for Fiery Temper. As it is the only card in your hand, it will be discarded at random, allowing you to pay its madness cost. Repeat this 3 more times, with 3 more Fiery Tempers. This requires 12 mana to do. With the remaining 10, search for 2 Violent Eruptions, one at a time, and pay their madness costs. Before the Rage resolves your opponent has taken 20 damage
+![](https://i.ormos.uk/75/70/7570a88a496a16d1194524dbf7a437924d2b05255008db5f6a9d69bffa88ff1b.jpg)
+
+Wild Research. Respond to Rage by activating Research to look for Fiery Temper. As it is the only card in your hand, it will be discarded at random, allowing you to pay its madness cost. Repeat this 3 more times, with 3 more Fiery Tempers. This requires 12 mana to do. With the remaining 10, search for 2 Violent Eruptions, one at a time, and pay their madness costs. Before the Rage resolves your opponent has taken 20 damage
 
 New Question (Courtesy of Scott Wills):
 

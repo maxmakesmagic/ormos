@@ -131,7 +131,9 @@ render_recovery:
   - Trickery Charm
   occurrences: 119
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a764.jpg)Ahhh ... it's back to the old days. Johnny Magic, back at the top tables to battle it out for top 8. One more win and a good pairing equal a chance to draw in the top 8. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a764.jpg)
+
+Ahhh ... it's back to the old days. Johnny Magic, back at the top tables to battle it out for top 8. One more win and a good pairing equal a chance to draw in the top 8. 
 
 ### Game 1
 
@@ -143,7 +145,9 @@ Finkel 1 – Bruneau 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a805.jpg)Bruneau opened with a turn 2 Sparksmith and a morph on turn 3. Because there was no second goblin just yet, Finkel too played a morph. Bruneau played his fourth Mountain and due to a lack of blue mana was unable to do anything at all. Finkel played Solar Blast on Bruneau's Smith after Bruneau found his Island next turn and played a Mistform Dreamer. The Dreamer blocked Finkel's attacking morph and Finkel cycled his Primal Boost on the morph. A Wellwisher joined Finkel's side of the board while Bruneau only has an extra Mountain. He cycled his Choking Tethers on Finkel's morph to dig for the second Island and found it. After that he played his Riptide Shapeshifter, but that too got Solar Blasted. The two morphs clashed in combat next turn. After damage was on the stack, Finkel Vitality Charmed his morph. Bruneau spent yet another turn without playing anything.
+![](http://www.wizards.com/sideboard/images/ptchi03/a805.jpg)
+
+Bruneau opened with a turn 2 Sparksmith and a morph on turn 3. Because there was no second goblin just yet, Finkel too played a morph. Bruneau played his fourth Mountain and due to a lack of blue mana was unable to do anything at all. Finkel played Solar Blast on Bruneau's Smith after Bruneau found his Island next turn and played a Mistform Dreamer. The Dreamer blocked Finkel's attacking morph and Finkel cycled his Primal Boost on the morph. A Wellwisher joined Finkel's side of the board while Bruneau only has an extra Mountain. He cycled his Choking Tethers on Finkel's morph to dig for the second Island and found it. After that he played his Riptide Shapeshifter, but that too got Solar Blasted. The two morphs clashed in combat next turn. After damage was on the stack, Finkel Vitality Charmed his morph. Bruneau spent yet another turn without playing anything.
 
 The Krosan Groundshaker hit the board again, without a big risk of being stolen as Bruneau was still stuck on 2 Islands. The creatures beat down, bringing Bruneau down to 8 life. Forced to do something, Imagecrafter and Goblin Sharpshooter came down on his turn. The wizard blocked the Wellwisher and the Sharpshooter chumped the morph – bringing Bruneau down to 2. His next draw step didn't provide an answer. Bruneau did have the Blatant Thievery – had he drawn his 3rd Island. 
 

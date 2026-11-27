@@ -575,7 +575,9 @@ Kenneth, I enjoy the creative choices you make. I really like how you see the ga
 
 ### Ryan Sutherland
 
-![](http://archive.wizards.com/global/images/mtgcom_designersearchprofile_ryan-sutherland_picMain_en.jpg)I'll take the physical challenge, Mark.
+![](http://archive.wizards.com/global/images/mtgcom_designersearchprofile_ryan-sutherland_picMain_en.jpg)
+
+I'll take the physical challenge, Mark.
 
 **Card #1 (Conrad Corbett) “Do twice” instant or sorcery** 
 

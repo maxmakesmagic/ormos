@@ -191,7 +191,9 @@ I must begin this week’s column by apologizing to my regular readers. You may 
 
 ### World Championship
 
-![](http://www.wizards.com/tournaments/images/W_SM_1.jpg)It may be old news to most of you now, but World Championships was a very exciting event for those attending, so I would like to recap it briefly in the column. The tournament gathered several hundred participants – the attendance was lower than that of Worlds in Toronto because fewer people were willing to travel to Australia – which is far away from everywhere; it’s even a 12 hour flight from Japan. Somewhat lower tournament attendance was made up for by the enthusiastic locals, who flocked to the event. John Grant, who was manning the DCI booth, commented that far more people stopped by to update their information than have in Toronto.
+![](http://www.wizards.com/tournaments/images/W_SM_1.jpg)
+
+It may be old news to most of you now, but World Championships was a very exciting event for those attending, so I would like to recap it briefly in the column. The tournament gathered several hundred participants – the attendance was lower than that of Worlds in Toronto because fewer people were willing to travel to Australia – which is far away from everywhere; it’s even a 12 hour flight from Japan. Somewhat lower tournament attendance was made up for by the enthusiastic locals, who flocked to the event. John Grant, who was manning the DCI booth, commented that far more people stopped by to update their information than have in Toronto.
 
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/65/b4/65b44cec90bda938bbb278a79acba1f455a38a19b714807bea68c253b77de30d.jpg"></td><td></td><td><img alt="" src="https://i.ormos.uk/dd/0a/dd0a617788694ee0e82eed58b0746ab9dbdbdb6e709ee5390dcfb32556a6990e.jpg"></td></tr>&#10;<tr><td><img alt="" src="https://i.ormos.uk/96/f5/96f5d53e3ef958055c4fdf5bf835be99797bd18449a68a882c96ab3801bae612.jpg"></td><td><a><img alt="Psychatog" src="https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg"></a></td><td></td></tr>&#10;<tr><td><img alt="" src="https://i.ormos.uk/a0/a9/a0a91e69ef087e17e689f758224146196f0a29fad934eb2639d2fb73d4cf3c75.jpg"></td><td><img alt="" src="https://i.ormos.uk/c0/e2/c0e24bff2fa206011911cb4b5cb20b4559cb82301a77e757b6e86de3c1ae659a.jpg"></td><td><img alt="" src="https://i.ormos.uk/fa/ab/faab219b94a5d6a8405ff77aefe6f815ba2bba52fc447652a633eec85e227836.jpg"></td></tr>&#10;</tbody></table>
 
@@ -213,7 +215,9 @@ There was a number of interesting side events, too. Most notable of them was a $
 
 ### Player of the Year Results
 
-![](http://www.wizards.com/sideboard/images/worlds02/863.jpg)Surprising no one, Kai Budde received his third Player of the Year title. Farid Meraghni became Rookie of the Year despite the fact that he skipped both PT-Osaka and Worlds. Amiel Tenenbaum had a chance to catch up to his countryman, but lost out on tiebreakers to finish ninth at Worlds.
+![](http://www.wizards.com/sideboard/images/worlds02/863.jpg)
+
+Surprising no one, Kai Budde received his third Player of the Year title. Farid Meraghni became Rookie of the Year despite the fact that he skipped both PT-Osaka and Worlds. Amiel Tenenbaum had a chance to catch up to his countryman, but lost out on tiebreakers to finish ninth at Worlds.
 
 ### Grand Prix: Sapporo
 

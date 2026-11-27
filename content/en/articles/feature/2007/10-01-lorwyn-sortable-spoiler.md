@@ -61,6 +61,8 @@ archive_source:
   sha256: 417582adad428b4da356d2753bef47a387d8e0cab77df83be7ac109f544dfa15
 render_recovery: []
 ---
-![](https://i.ormos.uk/ed/58/ed58c20be26a02e50ef86ab7b76764e2e427753786822b4da7ac87be2b3eec19.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Lorwyn*. Enjoy! 
+![](https://i.ormos.uk/ed/58/ed58c20be26a02e50ef86ab7b76764e2e427753786822b4da7ac87be2b3eec19.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Lorwyn*. Enjoy! 
 
 **[Launch the *Lorwyn* card list](https://web.archive.org/web/20071001000000/http://archive.wizards.com/default.asp?x=magic/cardlist/lorwyn)**

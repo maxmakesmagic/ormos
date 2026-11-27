@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/154.jpg)In the second draft in Grand Prix Helsinki, Dominik Hothow from Germany and Zvi Mowshowitz from the USA were seated beside each other. Florent Jeudon of the Black-Ops was in the one seat passing to unknown Janne Harkonen, Hothow was in the third seat, Mowshowitz in the fourth seat, Jens Thoren from Sweden in the fifth seat passing to Mattias Jorstedt of Sweden in the sixth seat, then Justin Gary was in the seventh seat passing to Haljoki Osmo. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/154.jpg)
+
+In the second draft in Grand Prix Helsinki, Dominik Hothow from Germany and Zvi Mowshowitz from the USA were seated beside each other. Florent Jeudon of the Black-Ops was in the one seat passing to unknown Janne Harkonen, Hothow was in the third seat, Mowshowitz in the fourth seat, Jens Thoren from Sweden in the fifth seat passing to Mattias Jorstedt of Sweden in the sixth seat, then Justin Gary was in the seventh seat passing to Haljoki Osmo. 
 
 The players went into colours pretty early. Florent opened a Tsabo's Assassin which he took, Dominik picked a Dream Thrush and signaled that he wanted blue, Zvi got a Thornscape Apprentice and went into green. In the second pack, Harkonen opened an Armadillo Cloak, a Duskwalker and a Spite/Malice, and he chose the latter. Dominik got a Glimmering Angel and fell into blue and white from there, Zvi got the Armadillo Cloak and went into green and white while Florent strengthened his black by getting Recover and Phyrexian Reaper on the wheel. 
 

@@ -261,7 +261,9 @@ Letter of the Week
 
 Hi Andrey, great question. I'm excited to get into some deeper on the shards, after what feels like a year of writing brief summaries to introduce people to the setting. 
 
-![](http://wizards.com//mtg/images/daily/stf/stf4_slx49r12.jpg)You're exactly right that the shards don't have any contact with one another (other than the secretive travel of planeswalkers), and yet Bant is shown full of knights, paladins, armored soldiers, and battle angels, not to mention high-walled castles and citadels.
+![](http://wizards.com//mtg/images/daily/stf/stf4_slx49r12.jpg)
+
+You're exactly right that the shards don't have any contact with one another (other than the secretive travel of planeswalkers), and yet Bant is shown full of knights, paladins, armored soldiers, and battle angels, not to mention high-walled castles and citadels.
 
 The reason is twofold. First, Bant's culture descends from a proud military tradition that traces back to the time when Alara was a single plane. After the shards split apart, the region we now call Bant no longer had to face terrors such as scheming demons and rampaging dragons, but they still had strong traditions that centered around combat. Over the years, Bant's armies became less martial and more ceremonial. The martial arts they practiced became ritualized, saturated with customs and conventions. The exalted mechanic represents how, even on a battlefield full of soldiers, Bant disputes are often settled by a one-on-one duel of heroic champions from each side.
 

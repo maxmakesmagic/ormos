@@ -2186,7 +2186,9 @@ Thus, I'm afraid, I cannot give it the crown. Made of bones of War Pride though 
 
 **We've Gone For *How* Long?**
 
-![Bloodshot_Trainee](https://i.ormos.uk/c1/88/c188890d55be6befd3194202350210822d6451e6a8a93dc01ae814725bfa90ed.jpg)My oh my, is that my editor's word processor breaking down? That's five thousand words on the most powerful cards in *Future Sight*... And we've only covered the *bottom* of the Top 10 readers' choices. That's about three times as long as the average **Magic** article, and we're just getting started!
+![Bloodshot_Trainee](https://i.ormos.uk/c1/88/c188890d55be6befd3194202350210822d6451e6a8a93dc01ae814725bfa90ed.jpg)
+
+My oh my, is that my editor's word processor breaking down? That's five thousand words on the most powerful cards in *Future Sight*... And we've only covered the *bottom* of the Top 10 readers' choices. That's about three times as long as the average **Magic** article, and we're just getting started!
 
 So rather than grind on, let's take a convenient break. Next week, we'll look at the Top 5 that you chose, then choose an actual winner! In addition, we'll start to cover the first tentative ground of the War-Pride contest. Stay tuned!
 

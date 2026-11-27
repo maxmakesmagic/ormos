@@ -397,7 +397,9 @@ render_recovery:
   - Seething Song
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/jpnat04/qf1_1.jpg)Tomohiro Yokosuka put together his Standard deck on Friday morning, simply throwing together a strategy that he thought would best handle Affinity. Apparently it worked well for Yokosuka, who has a Pro Tour Top 8 to his credit. Odds are he's happy with his first round pairing, since he's up against Kenji Tsumura's Affinity deck.
+![](http://www.wizards.com/sideboard/images/jpnat04/qf1_1.jpg)
+
+Tomohiro Yokosuka put together his Standard deck on Friday morning, simply throwing together a strategy that he thought would best handle Affinity. Apparently it worked well for Yokosuka, who has a Pro Tour Top 8 to his credit. Odds are he's happy with his first round pairing, since he's up against Kenji Tsumura's Affinity deck.
 
 ### Game 1
 

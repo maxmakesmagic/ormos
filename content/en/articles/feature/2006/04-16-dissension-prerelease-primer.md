@@ -61,7 +61,9 @@ archive_source:
   sha256: a8d920781c4bcedfcad7351f5f055f45b44ebe15c147db3799f2feba1403d7c4
 render_recovery: []
 ---
-![Ravnica tournament pack and three Dissension boosters](https://i.ormos.uk/f9/69/f9696bc73411126ee97b5742b3ffa49b548b7cbfbec3e7154d7442877d9a45eb.jpg)It has been over twelve years since I was shaken by a frustrated and desperate man in search of **Magic** packs. That event led me down the path that eventually deposited me at your virtual doorstep selling this weekend’s Prerelease tournament. Do you know what the secret to being a successful salesperson is? You have to believe in your product.
+![Ravnica tournament pack and three Dissension boosters](https://i.ormos.uk/f9/69/f9696bc73411126ee97b5742b3ffa49b548b7cbfbec3e7154d7442877d9a45eb.jpg)
+
+It has been over twelve years since I was shaken by a frustrated and desperate man in search of **Magic** packs. That event led me down the path that eventually deposited me at your virtual doorstep selling this weekend’s Prerelease tournament. Do you know what the secret to being a successful salesperson is? You have to believe in your product.
 
 I could not write this article if I was not excited about attending the Prerelease and getting to know the remaining three guilds of the *Ravnica* block. Despite the 12 years of complete immersion the world of **Magic**, I have never enjoyed a block as much as I have been enjoying this one. Based on what little I have seen so far, *Dissension* promises to admirably follow in the footsteps of its predecessors.
 

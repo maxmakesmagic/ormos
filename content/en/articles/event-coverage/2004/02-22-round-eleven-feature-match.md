@@ -44,7 +44,9 @@ archive_source:
   sha256: d7934b8dc8e02a5fce9c624eb852eb748afae0c263ccc146dc127c30874c5c79
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r11fm1_1.jpg)Jose Barbero is half a world away from home. Now living in Europe, but from Argentina, he is one of the top players from South America on the Pro Tour circuit. Helio is much closer to home - a mere 600 km away - but with the same score in this tournament: 9-1.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r11fm1_1.jpg)
+
+Jose Barbero is half a world away from home. Now living in Europe, but from Argentina, he is one of the top players from South America on the Pro Tour circuit. Helio is much closer to home - a mere 600 km away - but with the same score in this tournament: 9-1.
 
 There is still along way to go, but so far they are in the fast lane to the Top Eight. A win here will make it a lot easier for one of them.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a777.jpg)After "Good Man" Ken Krouner started the tournament 0-3, his playtest partner Mike Turian pulled him aside and told him that he was horrible and then he'd better get his act together.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a777.jpg)
+
+After "Good Man" Ken Krouner started the tournament 0-3, his playtest partner Mike Turian pulled him aside and told him that he was horrible and then he'd better get his act together.
 
 Krouner showed Turian what was up over the next twelve rounds, winning all of them before falling to Germany's Mark Zeigner in round 16. Krouner now just needs one win in the next two rounds to make the Top 8. Not bad for his first Worlds.
 
@@ -71,7 +73,9 @@ Unfortunately for Tom, that card was [Envelop](https://web.archive.org/web/20020
 
 Krouner 1 – van de Logt 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a734.jpg)Van de Logt started in with the beats in the second game with a turn-2 Shade and an Edict for Krouner's [Werebear](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear). Krouner cast [Quiet Speculation](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quiet+Speculation) for three Roars on his next turn, and the dropped a [Bearscape](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bearscape). Van de Logt kept attacking with the Shade.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a734.jpg)
+
+Van de Logt started in with the beats in the second game with a turn-2 Shade and an Edict for Krouner's [Werebear](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear). Krouner cast [Quiet Speculation](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quiet+Speculation) for three Roars on his next turn, and the dropped a [Bearscape](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bearscape). Van de Logt kept attacking with the Shade.
 
 When Krouner finally had enough mana to flashback the Wurms and play a [Phantom Centaur](https://web.archive.org/web/20020816000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Centaur), van de Logt had a faceless Butcher and another Edict respectively. The Shade and the tempo were too much for Krouner.
 

@@ -113,7 +113,9 @@ Wilfried gagne le toss, avec un dé aimablement prêté par le patriarche bienve
 
 Pas de mulligan dans cette partie.
 
-![](http://www.wizards.com/sideboard/images/natfra03/a925.jpg)Karim bénéficie d'un très bon départ avec careful study pour rootwalla et wonder au tour 1, mongrel au tour 2 et arrogant wurm au tour 3, le tout protégé par deux circular logic... difficile pour Wilfried d'arrêter cet assaut, surtout qu'il souffre de problèmes de mana.
+![](http://www.wizards.com/sideboard/images/natfra03/a925.jpg)
+
+Karim bénéficie d'un très bon départ avec careful study pour rootwalla et wonder au tour 1, mongrel au tour 2 et arrogant wurm au tour 3, le tout protégé par deux circular logic... difficile pour Wilfried d'arrêter cet assaut, surtout qu'il souffre de problèmes de mana.
 
 Karim 1 – Wilfried 0
 

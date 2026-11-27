@@ -55,11 +55,15 @@ Sitting in seat 5 of the draft looked to be an excellent start for West, and whe
 
 After giving such a strong signal it was all guns blazing to force green and maybe keep one of the other two from going for it, netting him a second pick Elvish Warrior and a fourth pick Venomspout Barackus. He had also grabbed a Charging Slateback in his third pick when there was nothing better. When it was time to open his first pack he was greeted by a welcome sight, Goblin Sharpshooter. With only seven people at the table he got a Craghorn on his wheel and then sat back and relaxed while the dead seat 8 packs took place.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a929.jpg)Coming into the second pack he picked up a Vitality Charm over a Barkhide Mauler, proving how important he thought that tempo would be, and second pick took a Vitality Charm this time over a Krosan Tusker. In a terrible pack that he opened he was forced to first pick a Wall of Mulch and hate drafted a Mistform Wall during his wheel, closing out the second pack with a Tranquil Thicket.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a929.jpg)
+
+Coming into the second pack he picked up a Vitality Charm over a Barkhide Mauler, proving how important he thought that tempo would be, and second pick took a Vitality Charm this time over a Krosan Tusker. In a terrible pack that he opened he was forced to first pick a Wall of Mulch and hate drafted a Mistform Wall during his wheel, closing out the second pack with a Tranquil Thicket.
 
 “I only got one green card in Legions and it serves me right” stated West, in reference to him attempting to go green behind two other drafters, but he seemed pleased with the red cards that he picked up. His team had come into the first day of nationals with the opinion that they would take green as long as the person on their right wasn’t taking it, or they’d pick up the seconds if they thought that the person on their right wasn’t drafting it properly.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a993.jpg)He began Legions with a Goblin Clearcutter and then took a Flamewave Invoker as his second pick. No one on the table had been grabbing much red, mostly due to the lack of quality red opened in the first 2 sets, there wasn’t even a single Sparksmith in the draft. Macetail Hystrodon was his third pick and he grabbed a Rockshard Elemental as his forth. “I hope that guys good” said West, “I don’t think I’ve ever played with him or against him in all the drafts I’ve done”. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ausnat03/a993.jpg)
+
+He began Legions with a Goblin Clearcutter and then took a Flamewave Invoker as his second pick. No one on the table had been grabbing much red, mostly due to the lack of quality red opened in the first 2 sets, there wasn’t even a single Sparksmith in the draft. Macetail Hystrodon was his third pick and he grabbed a Rockshard Elemental as his forth. “I hope that guys good” said West, “I don’t think I’ve ever played with him or against him in all the drafts I’ve done”. 
 
 Opening his pack in legions yielded him a Wirewood Channeler, which he took over a Skirk Marauder. Wheeling another Macetail Hystrodon and a Flamewave Invoker helped to fill out his deck even more, and finally with his last pick of the draft a Macetail Hystrodon made its way into his pile of cards.
 

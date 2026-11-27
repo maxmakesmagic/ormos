@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 3
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a987.jpg)If you've been keeping up with Gary Wise's "[Wise Words](https://web.archive.org/web/20020927000000/http://archive.wizards.com/default.asp?x=sideboard/ww/20020924)" column here on the Sideboard, you're aware that he's playing in this event with Neil Reeves and Bob Maher.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptbos02/a987.jpg)
+
+If you've been keeping up with Gary Wise's "[Wise Words](https://web.archive.org/web/20020927000000/http://archive.wizards.com/default.asp?x=sideboard/ww/20020924)" column here on the Sideboard, you're aware that he's playing in this event with Neil Reeves and Bob Maher.
 
 Wise and Maher are both Pro Tour champions, with Wise's win coming in this very format two years ago with Potato Nation. But it is Reeves, whose southern brashness makes him the PT's version of Bubba Sparxx, who has the potential to make this team great, as opposed to very good, and his two teammates know it.
 

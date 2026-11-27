@@ -53,7 +53,9 @@ archive_source:
   sha256: 66935bd79e055518d75807b687c969a1f6fecadde69044b999b6ca86659fc2d2
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a859.jpg)While the staff finished setting up the Masters area the took the time to discuss the match up and their first day at the Pro Tour. Thoren, also known as Jens "Broken" Thoren is one of the best Europeans players around, with a rapidly increasing resume and a stellar reputation. Yesterday he played the incredibly long match against Chris Benafel.
+![](http://www.wizards.com/sideboard/images/ptnice02/a859.jpg)
+
+While the staff finished setting up the Masters area the took the time to discuss the match up and their first day at the Pro Tour. Thoren, also known as Jens "Broken" Thoren is one of the best Europeans players around, with a rapidly increasing resume and a stellar reputation. Yesterday he played the incredibly long match against Chris Benafel.
 
 Alexander Witt is another of the huge group of very good Dutch players parading through the Pro Tour Circuit. He is the Cinderella story in this Masters: he grinded his way through the Gateway to get here. 
 
@@ -93,7 +95,9 @@ The arrival of Thoren´s support crew worked some evil voodoo on Witt´s deck fo
 
 Tired of all this one-sided action Witt used Brainstorm and Flooded Plains to get rid of some useless cards before dropping Quirion Dryad. Since Thoren didn´t seem interested in stopping him he got into card drawing mode with Gush and Sleight of Hand.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a862.jpg)On the following turn he played another Sleight before attacking for four. On the end step Thoren fetched out Accumulated Knowledge with Intuition. He casted the third one and then used Merchant Scroll to fetch out the fourth.
+![](http://www.wizards.com/sideboard/images/ptnice02/a862.jpg)
+
+On the following turn he played another Sleight before attacking for four. On the end step Thoren fetched out Accumulated Knowledge with Intuition. He casted the third one and then used Merchant Scroll to fetch out the fourth.
 
 Meanwhile Witt just stared at him unable, or unwillingly, to interfere. On his turn the Dutch played Seal of Cleansing and lost his Dryad to the Keg. Thoren dropped a Medallion and let another Quirion Dryad resolve.
 
@@ -107,7 +111,9 @@ Still the best he felt brave enough to try was a fully charged Werebear. The fir
 
 Things were looking very grim for the Dutch side as the Superman tag team promised a swift end to this game. Witt tried to fight back with Mystic Enforcer but Thoren had Counterspell to stop it.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a860.jpg)Despite Witt´s best efforts his two creatures were no match for the Morphlings. He even added a second Werebear to his army but Jens Thoren slowly and carefully mastered his Morphlings into victory.
+![](http://www.wizards.com/sideboard/images/ptnice02/a860.jpg)
+
+Despite Witt´s best efforts his two creatures were no match for the Morphlings. He even added a second Werebear to his army but Jens Thoren slowly and carefully mastered his Morphlings into victory.
 
 Alexander 1-1 Jens.
 

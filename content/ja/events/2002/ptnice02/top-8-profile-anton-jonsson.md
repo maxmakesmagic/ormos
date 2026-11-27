@@ -54,7 +54,9 @@ render_recovery:
   - Cabal Patriarch
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a731.jpg)ほんの少し前まで、 Umeå はマジックの世界地図には記されていない土地だった。そう、プレイヤーはストックホルムまで足をのばすしか方法が無かったわけだ。しかし、今や Umeå でも PTQ が開催されるようになり、Jens Thoren というスターがツアーに登場し、Anton Jonsson がこのプロツアーニースで同一シーズン中で二度目となる Top 8 進出を果たしたことになる。
+![](http://www.wizards.com/sideboard/images/ptnice02/a731.jpg)
+
+ほんの少し前まで、 Umeå はマジックの世界地図には記されていない土地だった。そう、プレイヤーはストックホルムまで足をのばすしか方法が無かったわけだ。しかし、今や Umeå でも PTQ が開催されるようになり、Jens Thoren というスターがツアーに登場し、Anton Jonsson がこのプロツアーニースで同一シーズン中で二度目となる Top 8 進出を果たしたことになる。
 
 *「素晴らしいメンバーによるドラフトが毎週行えるのが勝因かな」*と、24 歳のプレイヤーは語った。
 

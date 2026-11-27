@@ -44,7 +44,9 @@ archive_source:
   sha256: c0daf0a837b1e1bdd423e5ab03f010820697b84e7cbb16da06ffd47220b4cb86
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a965.jpg)This is what we have for you this round: a former Pro Tour champion who came out of nowhere against the three-time Dutch National champion and former World champion. Not bad. Not bad at all.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a965.jpg)
+
+This is what we have for you this round: a former Pro Tour champion who came out of nowhere against the three-time Dutch National champion and former World champion. Not bad. Not bad at all.
 
 ### Game 1
 
@@ -54,7 +56,9 @@ The [Edgewalker](https://web.archive.org/web/20030704000000/https://gatherer.wiz
 
 The ever-growing Feeders kept churning away, as the French played another morph and the Dutch played another Prelate. Behind on the damage race Farid sent the whole team in, unmorphing [Daru Lancer](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Lancer) to kill the blocking Prelate.
 
-![](https://i.ormos.uk/fb/4e/fb4e03c3caee2eb37990b3b401af28fa8c7819b1c54d4a6ba30137b4f4df557b.jpg)[Misery Charm](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Misery+Charm) rescued the Prelate from the graveyard but Tom still took his time on the following. Finally he played [Whipgrass Entangler](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipgrass+Entangler). Farid paid the "Propaganda" effect, added a morph to the mix and started tolling the bells for Tom's Feeder with a [Lingering Death](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lingering+Death).
+![](https://i.ormos.uk/fb/4e/fb4e03c3caee2eb37990b3b401af28fa8c7819b1c54d4a6ba30137b4f4df557b.jpg)
+
+[Misery Charm](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Misery+Charm) rescued the Prelate from the graveyard but Tom still took his time on the following. Finally he played [Whipgrass Entangler](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipgrass+Entangler). Farid paid the "Propaganda" effect, added a morph to the mix and started tolling the bells for Tom's Feeder with a [Lingering Death](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lingering+Death).
 
 Farid's army stormed into the Red Zone and when the dust cleared, Tom Van de Logt was at four, facing two creatures without any non-land permanents. His next draw failed to yield any miracle.
 
@@ -68,7 +72,9 @@ But Meraghni had a big trick up his sleeve. He revealed his morph... [Bane of th
 
 With the score close (Tom thirteen, Farid twelve), the Dutch took his time, trying to work out a new battle plan. He attacked with the Templar, played one of his Prelates and sent the turn over to the French. The Farseer kept pecking away and the French played another morph.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a967.jpg)Meraghni unmorphed [Gravel Slinger](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravel+Slinger), and sent his pumped-up Farseer into the Red Zone. Tom played [Decree of Justice](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decree+of+Justice) to get himself a big Angel but the French didn't even blink. The Dutch reviewed his options over and over, and sent the Angel in.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a967.jpg)
+
+Meraghni unmorphed [Gravel Slinger](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravel+Slinger), and sent his pumped-up Farseer into the Red Zone. Tom played [Decree of Justice](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decree+of+Justice) to get himself a big Angel but the French didn't even blink. The Dutch reviewed his options over and over, and sent the Angel in.
 
 Again the French was more than ready: his last morph was [Aphetto Exterminator](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Exterminator). Things were looking grim for Tom Van de Logt. Farid's creatures outnumbered his two to one, he was locked out of the ground by [Bane of the Living](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bane+of+the+Living) and a 3/3 Farseer had him on a three-turn clock.
 

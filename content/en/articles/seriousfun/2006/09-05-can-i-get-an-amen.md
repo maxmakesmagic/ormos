@@ -147,7 +147,9 @@ Far better, I feel, to play the Evangelize without comment, but when you see oth
 
 ### The Rules Of Religion
 
-![True_Believer](https://i.ormos.uk/f8/71/f8719bca172b9968ac07017c2a1f4e04cddee64b8cb84cdcafccdfc7dbedeafe.jpg)A few rules notes to keep in mind as you plot your evangelistic strategies.
+![True_Believer](https://i.ormos.uk/f8/71/f8719bca172b9968ac07017c2a1f4e04cddee64b8cb84cdcafccdfc7dbedeafe.jpg)
+
+A few rules notes to keep in mind as you plot your evangelistic strategies.
 
 *   When you put the spell on the stack, you choose an opponent, then that opponent chooses the target. Then people can react to the spell on the stack. "Which creature" is *not* a choice made on resolution.
 *   This means, among other things, that your opponent cannot respond to Evangelize by creating a crappy little token and then targeting it. The crappy little token has to be on the board before you even get started with the evangelizin'.
@@ -162,7 +164,9 @@ Evangelize may have some specific uses in Constructed duelist sideboards, when g
 
 But enough of this analysis. No reader of mine with a brain expects Evangelize to tear a hole through the tournament scene. That's not why this card is exciting. Last week I said I'd get to go out showing you "three of the most amazing freaking preview cards" I've written about. Why is this one so exciting?
 
-![Preacher](https://i.ormos.uk/9a/cc/9acca806e99d6e0253aef5ad563b557f29d907586fe42927919b9ccc1347fdff.jpg)It's hard for someone who's been playing as long as me, who's got a deep enough collection to have cards like this, to put into words how awesome it is to see a card like Evangelize. But I think I have enough readers who already understand. Go back to that image of [Preacher](https://web.archive.org/web/20060905000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Preacher). [Preacher](https://web.archive.org/web/20060905000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Preacher) was a card that *anyone* who mucked around with cards from *The Dark* spent some time with. How many times have I received emails from players who like **Magic** just fine, but wish Wizards would go back a bit more to "what made the game great"? And here we are: a card that recalls one of the strangest, but still most iconic, cards of one of the strangest but most iconic **Magic** sets. Evangelize is a card where Wizards is telling the older and more veteran players, "We know why you fell in love with this game. We remember. And this one's for you."
+![Preacher](https://i.ormos.uk/9a/cc/9acca806e99d6e0253aef5ad563b557f29d907586fe42927919b9ccc1347fdff.jpg)
+
+It's hard for someone who's been playing as long as me, who's got a deep enough collection to have cards like this, to put into words how awesome it is to see a card like Evangelize. But I think I have enough readers who already understand. Go back to that image of [Preacher](https://web.archive.org/web/20060905000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Preacher). [Preacher](https://web.archive.org/web/20060905000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Preacher) was a card that *anyone* who mucked around with cards from *The Dark* spent some time with. How many times have I received emails from players who like **Magic** just fine, but wish Wizards would go back a bit more to "what made the game great"? And here we are: a card that recalls one of the strangest, but still most iconic, cards of one of the strangest but most iconic **Magic** sets. Evangelize is a card where Wizards is telling the older and more veteran players, "We know why you fell in love with this game. We remember. And this one's for you."
 
 The whole *Time Spiral* set has cards like this. It's a grand feeling, one that reminds me of a recent family vacation on Cape Cod. I grew up a few miles from Chapin Beach (which is on the bay side – where the *real* Cape beaches are!). Every time I go back to the Cape, I make sure I get to a bayside beach. Wading through the low tide, hunting for hermit crabs to stay at the little hotel I've dug for them in the mud – there's a sensation that I only feel when I'm doing this. It's like seeing an old friend. (The hermit crabs appear nostalgic, as well. But I might be projecting.)
 

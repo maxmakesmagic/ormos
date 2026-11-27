@@ -44,7 +44,9 @@ archive_source:
   sha256: 5733a7ddca1d9d61292cba993f903e6381b4649285f1108b5711f850801466ce
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmel02/a898.jpg)This is a match between the local lad Jiang (Kangar within Team Heaven) and the near-north invader, Dane from Canberra. It would be a close match-up between BW beats and RG (elves and goblins), with the loser being knocked out of contention for the top 8.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmel02/a898.jpg)
+
+This is a match between the local lad Jiang (Kangar within Team Heaven) and the near-north invader, Dane from Canberra. It would be a close match-up between BW beats and RG (elves and goblins), with the loser being knocked out of contention for the top 8.
 
 ### Game 1
 
@@ -68,7 +70,9 @@ From this point it was simply a matter of Jiang casting chump blockers for the a
 
 Jiang wins – 1 game all.
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmel02/a899.jpg)Jiang added his second [Naturalize](https://web.archive.org/web/20021125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Naturalize) for [Explosive Vegetation](https://web.archive.org/web/20021125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Explosive+Vegetation); Dane makes no changes.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmel02/a899.jpg)
+
+Jiang added his second [Naturalize](https://web.archive.org/web/20021125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Naturalize) for [Explosive Vegetation](https://web.archive.org/web/20021125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Explosive+Vegetation); Dane makes no changes.
 
 ### Game 3
 

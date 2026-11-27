@@ -182,7 +182,9 @@ render_recovery:
 
 ### ■　檜垣貴生　(Reanimator 3-2、Turbo Upheaval 4-0-1)
 
-![](http://www.wizards.com/sideboard/images/jpfin02/947.jpg)　宇都宮 Best 32、Pro Tour Houston、Boston で連続二日目に進出している檜垣。Team Hato Beam を宇都宮で Best 8 入りしている大磯と共に牽引している。現在練習に使っているのは、皆でお金を出し合って借りているアパート。以前に使っていたお店が無くなってしまったためということだが、その行動力が今回の成績に繋がったのではないだろうか。
+![](http://www.wizards.com/sideboard/images/jpfin02/947.jpg)
+
+　宇都宮 Best 32、Pro Tour Houston、Boston で連続二日目に進出している檜垣。Team Hato Beam を宇都宮で Best 8 入りしている大磯と共に牽引している。現在練習に使っているのは、皆でお金を出し合って借りているアパート。以前に使っていたお店が無くなってしまったためということだが、その行動力が今回の成績に繋がったのではないだろうか。
 
 　初日いきなりの二連敗。かなり崖っぷちからのスタートとなった檜垣だが、そこから破竹の七連勝をきめ、最後は ID でのフィニッシュ。初日に使用したのは、本人曰く「ファンデッキ」。赤黒のリアニメイトだが、完成したのは三日前。そこからほぼ寝ずに調整を続けたこのデッキだが、成績を見る限りエクステンドが決勝のが良かったんじゃないだろうか。ちょっと聞いてみた。
 
@@ -191,7 +193,9 @@ render_recovery:
 
 ### ■　加藤一貴　( mk2 Cycling 4-1、mk2 Oath 3-1-1)
 
-![](http://www.wizards.com/sideboard/images/jpfin02/948.jpg)　Big Magic 名古屋店を拠点とする加藤。普段は、大塚高太郎、小倉・塩津といった名古屋勢と共に遊んでいる高校一年生。
+![](http://www.wizards.com/sideboard/images/jpfin02/948.jpg)
+
+　Big Magic 名古屋店を拠点とする加藤。普段は、大塚高太郎、小倉・塩津といった名古屋勢と共に遊んでいる高校一年生。
 
 　高校一年生！
 
@@ -238,7 +242,9 @@ render_recovery:
 
 ### ■　中村修平　（黒コン 3-2、サイカトグ 4-0-1）
 
-![](http://www.wizards.com/sideboard/images/jpfin02/944.jpg)　Grand Prix 宇都宮で準優勝。Grand Prix 名古屋を S.S.D で準優勝、Grand Prix 福岡 でベスト 8。森田雅彦とシルバーコレクター戦線デッドヒート中なのが中村修平。
+![](http://www.wizards.com/sideboard/images/jpfin02/944.jpg)
+
+　Grand Prix 宇都宮で準優勝。Grand Prix 名古屋を S.S.D で準優勝、Grand Prix 福岡 でベスト 8。森田雅彦とシルバーコレクター戦線デッドヒート中なのが中村修平。
 
 　勿論今回も狙うぜ、準優勝！
 
@@ -255,7 +261,9 @@ render_recovery:
 
 ### ■　西村徳仁　（ Cycling 4-1、青緑 3-2 ）
 
-![](http://www.wizards.com/sideboard/images/jpfin02/939.jpg)　レベッカ杯二位に入っている西村は現在高校三年生。大阪のチーム、バクライ所属。バクライは高校選手権三位の広沢や、昨年優勝高の内田などが所属している若手で構成された強豪チーム。詳しくチェックしている人なら覚えがあるんじゃないでしょうか。
+![](http://www.wizards.com/sideboard/images/jpfin02/939.jpg)
+
+　レベッカ杯二位に入っている西村は現在高校三年生。大阪のチーム、バクライ所属。バクライは高校選手権三位の広沢や、昨年優勝高の内田などが所属している若手で構成された強豪チーム。詳しくチェックしている人なら覚えがあるんじゃないでしょうか。
 
 　今回の調整も勿論バクライ仕込み。
 

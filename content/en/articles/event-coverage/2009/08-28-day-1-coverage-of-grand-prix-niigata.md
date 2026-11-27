@@ -48,7 +48,9 @@ render_recovery: []
 
  
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/gpnii09/EndofDay.jpg)Over 700 players entered Grand Prix-Niigata on Day 1, but only three of them will head into battle Sunday with unblemished records. Their names are Ren Ishikawa, Kentarou Yamamoto, and Takaya Saitou. Ishikawa, who finished the day in first place, is barely a month removed from his Top 8 at Japanese Nationals. Of course, not far behind him are Japanese all stars Akira Asahara, Makahito Mihara, and Shingou Kurihara.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/gpnii09/EndofDay.jpg)
+
+Over 700 players entered Grand Prix-Niigata on Day 1, but only three of them will head into battle Sunday with unblemished records. Their names are Ren Ishikawa, Kentarou Yamamoto, and Takaya Saitou. Ishikawa, who finished the day in first place, is barely a month removed from his Top 8 at Japanese Nationals. Of course, not far behind him are Japanese all stars Akira Asahara, Makahito Mihara, and Shingou Kurihara.
 
 It was a hard day for non-Japanese pros, with traveling players Olivier Ruel and American Mike Bernat falling by the wayside, locking up a late rising time for Sunday play. Gaudenis Vidugiris, another American, will enter the second day of competition in 17th place, with Taiwanese standout Tzu Ching Kuo in 29th. But, who will end the day on top? Will the Japanese continue dominance of their own individual Grand Prix titles in Japan, or will one of the visiting pros finally take a title down? Tune in all day tomorrow on **magicthegathering.com** to find out!
 

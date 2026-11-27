@@ -99,7 +99,9 @@ render_recovery:
   - Chatter of the Squirrel
   occurrences: 117
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a960.jpg)This was a rematch of the GP Kuala Lumpur 2000 quarterfinals, in which two local favourites played each other. Back then, Ti Shen won and made it to the finals. Not to be outdone, Wei Ren has trained hard and has found success as a current member of this year's Australian national team. Both are fighting to 3-0 the table.
+![](http://www.wizards.com/sideboard/images/gpkl02/a960.jpg)
+
+This was a rematch of the GP Kuala Lumpur 2000 quarterfinals, in which two local favourites played each other. Back then, Ti Shen won and made it to the finals. Not to be outdone, Wei Ren has trained hard and has found success as a current member of this year's Australian national team. Both are fighting to 3-0 the table.
 
 Wei Ren has a blue-red deck with an insane amount of burn. He has 3 Firebolts, 2 Flame Bursts, 2 Fiery Tempers, Violent Eruption, Thermal Blast and Engulfing Flames! Savage Firecat makes up the obligatory bomb. 
 
@@ -114,7 +116,9 @@ Wei Ren brought the first creature into play, a Phantom Whelp. With cheap burn i
 Tham: "This is CounterBurn"  
  Khoo: "This is CounterWhelp"
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a961.jpg)The Whelp did six damage before Tham had enough and Firebolted the Whelp. He then cast Acorn Harvest. Khoo called up an Aquamoeba to defend. When the squirrels attacked, Ti Shen flashed back the Firebolt to clear Wei Ren's board. He flashed back the Acorn Harvest and passed. Wei Ren answered with Hydromorph Guardian. Ti Shen was content to play another Acorn Harvest from his hand and wait for backup. On Khoo's turn he decided it would not do to have too many squirrel tokens in play and he used Firebolt and a flashed back Engulfing Flames to take away two more tokens. The Guardian came in, and Ti Shen chose not to block. He could start going on the offensive with the little army of squirrels he was building up. The Guardian brought him to nine.
+![](http://www.wizards.com/sideboard/images/gpkl02/a961.jpg)
+
+The Whelp did six damage before Tham had enough and Firebolted the Whelp. He then cast Acorn Harvest. Khoo called up an Aquamoeba to defend. When the squirrels attacked, Ti Shen flashed back the Firebolt to clear Wei Ren's board. He flashed back the Acorn Harvest and passed. Wei Ren answered with Hydromorph Guardian. Ti Shen was content to play another Acorn Harvest from his hand and wait for backup. On Khoo's turn he decided it would not do to have too many squirrel tokens in play and he used Firebolt and a flashed back Engulfing Flames to take away two more tokens. The Guardian came in, and Ti Shen chose not to block. He could start going on the offensive with the little army of squirrels he was building up. The Guardian brought him to nine.
 
 Ti Shen flash'd back his second Acorn Harvest - going dangerously close to burn range at six life. The next turn Wei Ren traded his Guardian for a couple of squirrels and played Mad Dog. Ti Shen played a Narcissism and attacked. When the Mad Dog came over Ti Shen let it through again and was brought to 4. Wei Ren, holding Violent Eruption could barely contain himself - he only had two Mountains. He TD'd the third Mountain two turns later before Ti Shen could build up enough cards to finish him off with Narcissism.
 
@@ -129,7 +133,9 @@ Tham mulliganed and got back a much slower hand. Wei Ren did not have any Island
 
 Tham did not have any plays for the first three turns. Wei Ren got his Island on his third draw and made a turn-two Aquamoeba. When Ti Shen made Petravark it didn't matter as Wei Ren held Fiery Temper. He got his Island back, and cast Phantom Whelp. On his fourth turn Ti Shen held Acorn Harvest but it was useless and left mana up for Flame Burst instead. 
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a962.jpg)He suspected right. On Wei Ren's fourth turn he discarded a card to Aquamoeba to make it 3/1, cast Reckless Charge on the Phantom Whelp and tried to flashback the charge on the Aquamoeba. Ti Shen responded with the Flame Burst - which was ill timed because he should have waited for the Charge to resolve. The Aquamoeba switched p/t again, and survived the Flame Burst. The Charge resolved and Ti Shen took nine damage that turn instead of six. This devastating attack brought Ti Shen from 17 to 8. At least the Whelp got sent back. 
+![](http://www.wizards.com/sideboard/images/gpkl02/a962.jpg)
+
+He suspected right. On Wei Ren's fourth turn he discarded a card to Aquamoeba to make it 3/1, cast Reckless Charge on the Phantom Whelp and tried to flashback the charge on the Aquamoeba. Ti Shen responded with the Flame Burst - which was ill timed because he should have waited for the Charge to resolve. The Aquamoeba switched p/t again, and survived the Flame Burst. The Charge resolved and Ti Shen took nine damage that turn instead of six. This devastating attack brought Ti Shen from 17 to 8. At least the Whelp got sent back. 
 
 Backed against the wall, Ti Shen did not have any other tricks in his hand and so cast the Acorn Harvest and enchanted a squirrel with Crackling Club to be able to handle the Aquamoeba. The Aquamoeba and Squirrel w/ Club got traded, and Wei Ren replayed the Whelp. It managed to deal two more damage before Ti Shen stalled the ground with Elephant AmbushKrosan Avenger and Wild Mongrel but by then Wei Ren had another Whelp and a Barbarian Lunatic. 
 

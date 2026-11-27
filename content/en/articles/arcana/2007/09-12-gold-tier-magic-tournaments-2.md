@@ -73,7 +73,9 @@ render_recovery:
 
 Starting September 14th and running until September 22nd, official Wizards of the Coast "Gold Tier" Premier stores will be running exclusive *Gold Tier **Magic** Tournaments.* These one-day tournaments will be held across North America, at locations selected from some of the very best hobby game stores on the continent. To find a location near you (and which day they are running the tournament), check out [the list](https://web.archive.org/web/20070912000000/http://www.wizards.com/default.asp?x=mtgcom/arcana/1417a).
 
-![](https://i.ormos.uk/ee/b3/eeb362112ef567e1b4e50e91fd2ee5d8041ee6090672f3eccda52ec36e04b316.jpg)What do you get for participating? Prizes! Popularity! The envy of your peers!
+![](https://i.ormos.uk/ee/b3/eeb362112ef567e1b4e50e91fd2ee5d8041ee6090672f3eccda52ec36e04b316.jpg)
+
+What do you get for participating? Prizes! Popularity! The envy of your peers!
 
 The first 32 players to register at each location receive a Memory Lapse foil promo card. In addition, prizes will be awarded at the "Top 16" (**Magic** Deck Box) and "Top 8" (**Magic** Hat) level. Even better, the first-place winner from each store will also receive an ultra-cool **Magic** Duffel Bag (pictured here) AND be awarded a FREE booster box of the upcoming **Magic** set, *Lorwyn,* shortly after the set's prerelease event.
 

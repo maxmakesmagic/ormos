@@ -93,7 +93,9 @@ render_recovery:
   - Corpse Dance
   occurrences: 74
 ---
-![](https://i.ormos.uk/d8/e2/d8e2943a741e2de3eb182f944b49673831f0cb24eba120e4eee91d0d3d3a5ec9.jpg)"Turian! Join YMG...we want to have a member at every feature match station," shouted Justin Gary referring to Darwin Kastle and Rob Dougherty also preparing to square off with their opponents at two of the three other stations. 
+![](https://i.ormos.uk/d8/e2/d8e2943a741e2de3eb182f944b49673831f0cb24eba120e4eee91d0d3d3a5ec9.jpg)
+
+"Turian! Join YMG...we want to have a member at every feature match station," shouted Justin Gary referring to Darwin Kastle and Rob Dougherty also preparing to square off with their opponents at two of the three other stations. 
 
 "We'll take Carlos," shrugged Zvi from the sidelines. "We need a good Tog player!"
 
@@ -117,7 +119,9 @@ The Tog was protected from an Edict with Counterspell. Turian untapped and attem
 
 Carlos – 1 Turian – 0
 
-![](https://i.ormos.uk/1f/bb/1fbbeceab3f9a94aa353b6dd770de6d4ca7c8f0352d546ff62370294b133fee5.jpg)Turian could not believe that the game slipped out his grasp, "AK, AK, AK, AK!!! I mean c'mon!" He sided out a variety of Spikes, Trellis and Tutor to bring in Phyrexian Negators and Filth.
+![](https://i.ormos.uk/1f/bb/1fbbeceab3f9a94aa353b6dd770de6d4ca7c8f0352d546ff62370294b133fee5.jpg)
+
+Turian could not believe that the game slipped out his grasp, "AK, AK, AK, AK!!! I mean c'mon!" He sided out a variety of Spikes, Trellis and Tutor to bring in Phyrexian Negators and Filth.
 
 ### Game 2
 
@@ -137,7 +141,9 @@ Carlos opened with Island and used it to put a Force Spike through Turian's Bird
 
 Carlos was sitting comfortably on five lands when Mike found his third (Mike: "Yay!") and cast Elder drawing the aforementioned Mana Leak (Mike: "Frown"). At the end of that turn Carlos used the Cunning Wish to retrieve a FoF from his board (Mike: "Great...").
 
-![](https://i.ormos.uk/ca/ef/caef5306ea0ff392bc1efdb3d4f3fe1d122d2cd2b5c20eda9ce383d744f99b86.jpg)It seemed like a good time to play Tog and that's exactly what the Champ did and protected it from Edict on Mike's turn with a Leak. The Tog flew over for one—the math was not quite right yet. Turian had drawn and played three consecutive lands and attempted Spiritmonger. Fact or Fiction gave Carlos three more cards and he untapped. Cunning Wish found Gush. The alternative casting cost of "return two islands" made Gush into Might of Oaks. With Wonder in the Brazilian's bin and another Fact or Fiction it wasn't even necessary to do the math.
+![](https://i.ormos.uk/ca/ef/caef5306ea0ff392bc1efdb3d4f3fe1d122d2cd2b5c20eda9ce383d744f99b86.jpg)
+
+It seemed like a good time to play Tog and that's exactly what the Champ did and protected it from Edict on Mike's turn with a Leak. The Tog flew over for one—the math was not quite right yet. Turian had drawn and played three consecutive lands and attempted Spiritmonger. Fact or Fiction gave Carlos three more cards and he untapped. Cunning Wish found Gush. The alternative casting cost of "return two islands" made Gush into Might of Oaks. With Wonder in the Brazilian's bin and another Fact or Fiction it wasn't even necessary to do the math.
 
 **Final Result:** Carlos – 2 Turian – 1
 

@@ -90,7 +90,9 @@ render_recovery:
 ---
 *Translated by Ron Foster* 
 
-![](http://www.wizards.com/sideboard/images/natjp03/a948.jpg)Tooru Maegawa burst onto the stage like a comet at this year's National Championship. While this is his first major appearance, he's actually been playing since the beginning, starting with a Japanese 4th Edition Starter pack 7 years ago. All the years of practice have paid off this weekend, with a Top 8 finish and a chance to take a National title for the 23-year old college student.
+![](http://www.wizards.com/sideboard/images/natjp03/a948.jpg)
+
+Tooru Maegawa burst onto the stage like a comet at this year's National Championship. While this is his first major appearance, he's actually been playing since the beginning, starting with a Japanese 4th Edition Starter pack 7 years ago. All the years of practice have paid off this weekend, with a Top 8 finish and a chance to take a National title for the 23-year old college student.
 
 ### • The Standard Metagame
 

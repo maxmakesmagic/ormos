@@ -231,7 +231,9 @@ In 1997, Alan went out on his own once again -- but this time with some experien
 
   
 
-![](https://i.ormos.uk/f5/ec/f5ecb5c59d8a55adb295974822aebdb0a90e87513264a1872bd4f60ff363675b.jpg)Randy Gallegos began illustrating in 1994, at the tender age of 19 -- a fact that surprises many people who meet him and consider him young for having illustrated for **Magic** so many years. His first **Magic** set was 1995's *Ice Age*, and since then he has been a fairly regular contributor for the game, having illustrated more than 125 **Magic** cards up through *Shards of Alara* at present. Some of the more notable cards he has illustrated include Accumulated Knowledge, Soul Warden, Bant Charm, and Grimoire Thief. As well as his work on **Magic**, Randy has produced illustrations for many of Wizards of the Coasts' games over the years, including as a regular contributor to **Dungeons & Dragons**.
+![](https://i.ormos.uk/f5/ec/f5ecb5c59d8a55adb295974822aebdb0a90e87513264a1872bd4f60ff363675b.jpg)
+
+Randy Gallegos began illustrating in 1994, at the tender age of 19 -- a fact that surprises many people who meet him and consider him young for having illustrated for **Magic** so many years. His first **Magic** set was 1995's *Ice Age*, and since then he has been a fairly regular contributor for the game, having illustrated more than 125 **Magic** cards up through *Shards of Alara* at present. Some of the more notable cards he has illustrated include Accumulated Knowledge, Soul Warden, Bant Charm, and Grimoire Thief. As well as his work on **Magic**, Randy has produced illustrations for many of Wizards of the Coasts' games over the years, including as a regular contributor to **Dungeons & Dragons**.
 
 He currently lives in New York City, and over the past years has spent time living in Spain, Italy and England. He speaks Spanish well, and greatly enjoys traveling and meeting **Magic** players the world over.
 

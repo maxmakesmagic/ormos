@@ -497,7 +497,9 @@ render_recovery:
 
   
 
-![](https://i.ormos.uk/ab/82/ab8227d2a72fd33ad214e15fe46e222ad11bcd5036b9137e3b8df2fcc2513fa2.jpg)Junya Iyanaga piloted his controlling Blue/White deck through a star-studded Top 8 here at Grand Prix Kitakyūshū this weekend, defeating Grand Prix playoff veterans such as Shouta Yasooka and Olivier Ruel. Ruel had his own victory this weekend too, achieving Level 6 status within the Pro Players Club and keeping his hopes alive in the Player of the Year race. With only one more Grand Prix stop between here and the World Championships in New York in a month's time, PoY hopefuls are going to have their best game faces on for Daytona Beach next weekend. Tune in here next weekend and we'll keep you updated with who is still in the running as they round the last corner and make a b-line for the finish. 
+![](https://i.ormos.uk/ab/82/ab8227d2a72fd33ad214e15fe46e222ad11bcd5036b9137e3b8df2fcc2513fa2.jpg)
+
+Junya Iyanaga piloted his controlling Blue/White deck through a star-studded Top 8 here at Grand Prix Kitakyūshū this weekend, defeating Grand Prix playoff veterans such as Shouta Yasooka and Olivier Ruel. Ruel had his own victory this weekend too, achieving Level 6 status within the Pro Players Club and keeping his hopes alive in the Player of the Year race. With only one more Grand Prix stop between here and the World Championships in New York in a month's time, PoY hopefuls are going to have their best game faces on for Daytona Beach next weekend. Tune in here next weekend and we'll keep you updated with who is still in the running as they round the last corner and make a b-line for the finish. 
 
   
   
@@ -585,7 +587,9 @@ From then on, the packs became empty. Olivier took a couple of playable black an
 
 The second pack offered Colfenor's Plans, Peppersmoke and Pestermite. Olivier went for the Peppersmoke, feeling bad about passing the plans (more about this card later). Shapesharer, Faerie Harbinger or Sentinels of Glen Elendra? Close call, but Oli took the rare. Cheap, efficient, it can turn the tide of a game when you have targets and enough mana to take full advantage of it. 
 
-![](https://i.ormos.uk/e0/13/e013ba0159189762876c77dc574911e85db6e56ca2329f1b6c57308ff7cc1aad.jpg)The deck did not look very exciting so far, but things were about to change. Except for the Fodder Launch, Oli did not pass a single black card in the first pack, and he was rewarded for that. Dreamspoiler Witches showed up... in numbers! The second witch came after a Peppersmoke (that followed Witches number one), then Witches number three... and four joined the clan. Quite an impressive turn of events, as at that point, Oli's deck was lacking a bit of focus. From then on, he tried to fill the deck to support the black flyers.
+![](https://i.ormos.uk/e0/13/e013ba0159189762876c77dc574911e85db6e56ca2329f1b6c57308ff7cc1aad.jpg)
+
+The deck did not look very exciting so far, but things were about to change. Except for the Fodder Launch, Oli did not pass a single black card in the first pack, and he was rewarded for that. Dreamspoiler Witches showed up... in numbers! The second witch came after a Peppersmoke (that followed Witches number one), then Witches number three... and four joined the clan. Quite an impressive turn of events, as at that point, Oli's deck was lacking a bit of focus. From then on, he tried to fill the deck to support the black flyers.
 
 Colfenor's Plans came back, a very underestimated card. While you will seldom have ways to get rid of it (Oblivion Ring, Æthersnipe, Wispmare), this card has potential that many players seem to ignore. Think about it from this angle:  
 
@@ -605,16 +609,22 @@ Thanks to the two twigs and the Creek, Oli was able to splash Gilt-Leaf Ambush, 
 
 And then there were two. Junya Iyanaga has had just a single Grand Prix top 8 appearance before this one, but despite his relative inexperience in the face of Pro Tour winner and multiple Grand Prix top 8 competitor Shouta Yasooka, he did just beat Olivier Ruel with his smooth controlling Blue/White draft deck. 
 
-![](https://i.ormos.uk/0b/48/0b4810d1b33a0b3722ebeac79bd16d05c6d37d64394f50dff7dba07ddac1999f.jpg)Shouta stumbled into Game 1, missing his third land drop and having to ask his two drops to drum up extra mana with a Springleaf Drum just to play a Battlewand Oak. When he finally drew a third land to play a Bog-Strider Ash, Junya was waiting with a Broken Ambitions. After losing the clash, Shouta moved his card to the bottom to increase his chances of drawing more land, only to have the Counterspell mill four of them off the top. Meanwhile, Junya was swinging in with some flyers, and the Cloudcrown Oak Shouta played the following turn unopposed indicated that Junya may have been a little hasty in countering the Bog-Strider, which would have posed very little threat to him.
+![](https://i.ormos.uk/0b/48/0b4810d1b33a0b3722ebeac79bd16d05c6d37d64394f50dff7dba07ddac1999f.jpg)
+
+Shouta stumbled into Game 1, missing his third land drop and having to ask his two drops to drum up extra mana with a Springleaf Drum just to play a Battlewand Oak. When he finally drew a third land to play a Bog-Strider Ash, Junya was waiting with a Broken Ambitions. After losing the clash, Shouta moved his card to the bottom to increase his chances of drawing more land, only to have the Counterspell mill four of them off the top. Meanwhile, Junya was swinging in with some flyers, and the Cloudcrown Oak Shouta played the following turn unopposed indicated that Junya may have been a little hasty in countering the Bog-Strider, which would have posed very little threat to him.
 
   
 
-![](https://i.ormos.uk/de/e3/dee326885678c213975576e2ddd185a87b057c64a707bf5f91d2c5a458d22600.jpg)Now back in the game, even if only just, Shouta was still having trouble drawing more land to play out his hand. Junya found a Goldmeadow Harrier to start pushing damage past the Cloudcrown Oak, and soon added his Mirror Entity to the board. Shouta's next card earned a hiss of disapproval from its owner for obviously being yet another non-land card. On the next turn when Junya's Entity beefed up his army to 4/4 all 'round, Shouta peeked at the top card of his deck and found the land he had been waiting, four lands actually. He could only shake his head while shuffling up for Game 2.
+![](https://i.ormos.uk/de/e3/dee326885678c213975576e2ddd185a87b057c64a707bf5f91d2c5a458d22600.jpg)
+
+Now back in the game, even if only just, Shouta was still having trouble drawing more land to play out his hand. Junya found a Goldmeadow Harrier to start pushing damage past the Cloudcrown Oak, and soon added his Mirror Entity to the board. Shouta's next card earned a hiss of disapproval from its owner for obviously being yet another non-land card. On the next turn when Junya's Entity beefed up his army to 4/4 all 'round, Shouta peeked at the top card of his deck and found the land he had been waiting, four lands actually. He could only shake his head while shuffling up for Game 2.
 
   
 
 Shouta made his third land-drop in this game, and played back to back Battlewand Oaks, but found their progress impeded by a Goldmeadow Harrier. Again he couldn't continue laying lands and needed to use an Elvish Harbinger to power out his Cloudcrown Oak, and follow it with the Jagged-Scar Archers they fetched. The Oak stopped Junya's Sentinels of Glen Elendra from attacking and he was forced to play out the rest of his guys for plan B, which followed a few turns later, the Mirror Entity. Shouta ripped the fourth land he needed off the top to throw a Weed Strangle at the Changeling, only to have Junya calmly tap two Blue and bounce his Judge of Currents to protect it with a Familiar's Ruse. 
 
-![](https://i.ormos.uk/b4/b6/b4b6e03d449ad796eaabe85272909c8e5b4f228edd97e55b10b662c981711573.jpg)A second land off the top for Shouta allowed him to slam a Vigor into play and start attacking back. Junya began carefully managing his tap effects and ensuring he had enough bodies to power up the Mirror Entity without letting too much damage through from Green 6/6 Incarnation. Peering at the board position and counting up the damage in front of him, Junya finally pushed all of his men into the red zone. Shouta tried to find the optimal way to block, take down the Entity and still survive but he just couldn't find it. When Junya indicated his willingness to turn all of his men into 5/5's Shouta scooped up cards and offered his hand in congratulations. 
+![](https://i.ormos.uk/b4/b6/b4b6e03d449ad796eaabe85272909c8e5b4f228edd97e55b10b662c981711573.jpg)
+
+A second land off the top for Shouta allowed him to slam a Vigor into play and start attacking back. Junya began carefully managing his tap effects and ensuring he had enough bodies to power up the Mirror Entity without letting too much damage through from Green 6/6 Incarnation. Peering at the board position and counting up the damage in front of him, Junya finally pushed all of his men into the red zone. Shouta tried to find the optimal way to block, take down the Entity and still survive but he just couldn't find it. When Junya indicated his willingness to turn all of his men into 5/5's Shouta scooped up cards and offered his hand in congratulations. 
 
 Junya Iyanaga defeats Shouta Yasooka and wins Grand Prix-Kitakyuushuu!

@@ -53,7 +53,9 @@ archive_source:
   sha256: c1f1fafa8e62bbbaec8f1467bda93aa147581eb676780dca36e4cccb9ed3c3fa
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a975.jpg)This round two feature match brought to mind 1950's stop-motion animation Christmas specials. In one corner was Eric Taylor, man of the ages, in the role of Yukon Cornelius. In the other corner, resplendent in his yeti suit, Peter Szigeti played the part of The Bumble.
+![](http://www.wizards.com/sideboard/images/usnat02/a975.jpg)
+
+This round two feature match brought to mind 1950's stop-motion animation Christmas specials. In one corner was Eric Taylor, man of the ages, in the role of Yukon Cornelius. In the other corner, resplendent in his yeti suit, Peter Szigeti played the part of The Bumble.
 
 Both players were running blue/green decks that made generous use of the madness mechanic. Taylor version added Opposition and Squirrel Nest, while PTR splashed black for Duress and Engineered Plague.
 
@@ -70,7 +72,9 @@ Taylor couldn't come up with a good answer to the Wurm as PTR had Circular Logic
 
 Szigeti 1 – Taylor 0
 
-![](http://www.wizards.com/sideboard/images/usnat02/a976.jpg)As they sideboarded, Szigeti said, "I have no idea what I'm doing. I probably sideboarded all wrong. My deck probably doesn't even work anymore. Whatever, I'm here to draft."
+![](http://www.wizards.com/sideboard/images/usnat02/a976.jpg)
+
+As they sideboarded, Szigeti said, "I have no idea what I'm doing. I probably sideboarded all wrong. My deck probably doesn't even work anymore. Whatever, I'm here to draft."
 
 "I'm here to be National Champion," said Taylor.
 
@@ -84,7 +88,9 @@ Taylor tried a second Opposition on his next turn, but this time Szigeti had Gai
 
 Both players put out additional Wild Mongrels, and Szigeti attacked with one of his. Taylor blocked with both of his Mongrels and an Elf. Szigeti discarded an Arrogant Worm and cast it with madness, but Taylor had a Circular Logic. Szigeti had a Logic of his own, and Taylor, thinking he got way with one, paid the necessary six mana when PTR passed priority. But all that meant was that PTR could successfully Disrupt Taylor's Circular Logic. Szigeti's Mongrel ended up dying and Taylor saved both of his by discarding down to three cards in hand.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a974.jpg)Taylor then cast Fact or Fiction, and Szigeti was forced to make a 4-1 split to avoid allowing Taylor to have the fourth Opposition, a card that Szigeti can't deal with. The extra card advantage turned Taylor's Mongrels into killing machines, and PTR fell in a few turns.
+![](http://www.wizards.com/sideboard/images/usnat02/a974.jpg)
+
+Taylor then cast Fact or Fiction, and Szigeti was forced to make a 4-1 split to avoid allowing Taylor to have the fourth Opposition, a card that Szigeti can't deal with. The extra card advantage turned Taylor's Mongrels into killing machines, and PTR fell in a few turns.
 
 Szigeti 1 – Taylor 1
 

@@ -84,7 +84,9 @@ Those of you who read all the coverage available will have seen the deck tech ar
 
 Game One
 
-![](https://www.wizards.com/sideboard/images/gplon02/902.jpg)Craig started with a Mesmeric Fiend, revealing land, two Quiet Speculations, Beloved Chaplain, Tireless Tribe, Battle Screech, and Spurnmage Advocate. Not such a bad draw, and Craig took the Chaplain. Peter got three Deep Analysis into his graveyard with Quiet Speculation.
+![](https://www.wizards.com/sideboard/images/gplon02/902.jpg)
+
+Craig started with a Mesmeric Fiend, revealing land, two Quiet Speculations, Beloved Chaplain, Tireless Tribe, Battle Screech, and Spurnmage Advocate. Not such a bad draw, and Craig took the Chaplain. Peter got three Deep Analysis into his graveyard with Quiet Speculation.
 
 Stevenson didn’t have a third land, so he just played a Zombie Infestation and attacked with the Fiend. Peter made a Tireless Tribe. At the end of his turn Craig made a Zombie discarding Ichorid and Chainer's Edict. The Ichorid, Zombie and Fiend swung in after the Tribe was Edicted. This put Peter down to only ten. Gysemans cast Battle Screech and passed the turn. Craig attacked once more and a bird traded with Ichorid; two Zombie tokens knocking Peter to six.
 
@@ -92,7 +94,9 @@ His position was sufficiently precarious that Peter cast Quiet Speculation for P
 
 Game Two
 
-![](https://www.wizards.com/sideboard/images/gplon02/903.jpg)Peter had to take a mulligan, as he had drawn two Glory, four land, and a Confessor. His second draw was a lot better though. Peter played first turn Tribe, and second turn Beloved Chaplain. The Tribe was murdered by a Slithery Stalker, but Peter followed up with a second Chaplain and another Chaplain. There’s no doubt that these are the best creature for the match up. 
+![](https://www.wizards.com/sideboard/images/gplon02/903.jpg)
+
+Peter had to take a mulligan, as he had drawn two Glory, four land, and a Confessor. His second draw was a lot better though. Peter played first turn Tribe, and second turn Beloved Chaplain. The Tribe was murdered by a Slithery Stalker, but Peter followed up with a second Chaplain and another Chaplain. There’s no doubt that these are the best creature for the match up. 
 
 Gysemans played a Divine Sacrament and then a third Chaplain. One of the Chaplains was killed with Chainer's Edict, but the situation looked bad for him. Luckily for the Englishman, he had a Mutilate, which cleared the board completely. 
 
@@ -100,7 +104,9 @@ Stevenson used Faceless Butcher to kill off a Confessor, and began to beat down.
 
 Game Three
 
-![](https://i.ormos.uk/33/2a/332accdea67b04f32c5c460f89979744514eb1242d275d5e7cf0632dfba552fb.jpg)They began the game with only around fifteen minutes left in the round, and with a draw knocking them both out of contention. The Belgian had a no-land hand and had to take a mulligan. 
+![](https://i.ormos.uk/33/2a/332accdea67b04f32c5c460f89979744514eb1242d275d5e7cf0632dfba552fb.jpg)
+
+They began the game with only around fifteen minutes left in the round, and with a draw knocking them both out of contention. The Belgian had a no-land hand and had to take a mulligan. 
 
 Peter played a second turn Spurnmage Advocate and a third turn Phantatog, whereas the English player used Millikin to Accelerate himself into a third turn Braids. Peter had a poor draw, with multiple Battle Screeches, and without any creatures to cast, he found himself locked in an anticlimatic end to a good match.
 

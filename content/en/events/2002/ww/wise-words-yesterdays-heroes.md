@@ -172,7 +172,9 @@ Weissman is the father of card advantage. He didn't give birth to the concept, t
 
 **Innovation: Beatdown**
 
-![](http://www.wizards.com/sideboard/GPSD99/images/gpsd12.jpg)Originally known by a much less appropriate name, DKLA adopted this one when Justice began his representation practices. These four Californians, later joined by the likes of Gab Tsang, Igor Frayman, Gabe Higa and Sigurd Eskeland in their escapades, brought to the table everything that was fun about the game while at the same time understanding that there was more to **Magic** than just controlling your opponent with card advantage.
+![](http://www.wizards.com/sideboard/GPSD99/images/gpsd12.jpg)
+
+Originally known by a much less appropriate name, DKLA adopted this one when Justice began his representation practices. These four Californians, later joined by the likes of Gab Tsang, Igor Frayman, Gabe Higa and Sigurd Eskeland in their escapades, brought to the table everything that was fun about the game while at the same time understanding that there was more to **Magic** than just controlling your opponent with card advantage.
 
 These guys beat down. Hard. If it cost more than one, Bui likely wouldn't play it, and the others weren't too far behind. Like Weissman, DKLA was very active on the newsgroups, expressing opinions, wanted or otherwise, on everything from the cards to the players, and in doing so they taught the world how to draft and draft properly. Fifteen creatures. Seventeen lands. Eight spells. These were the guys who know how that worked. Brian Hacker still shows up to play once in a while. If he does and you like the forty card decks, be sure to thank him. 
 
@@ -180,7 +182,9 @@ These guys beat down. Hard. If it cost more than one, Bui likely wouldn't play i
 
 **Innovation: Trash talk** 
 
-![](http://www.wizards.com/sideboard/images/USNAT01/929.jpg)Okay, Hammer didn't introduce trash talk to the game of **Magic**. He wasn't the first to use it, certainly won't be the last, but as for best… well, its hard to argue against him. 
+![](http://www.wizards.com/sideboard/images/USNAT01/929.jpg)
+
+Okay, Hammer didn't introduce trash talk to the game of **Magic**. He wasn't the first to use it, certainly won't be the last, but as for best… well, its hard to argue against him. 
 
 He made Top 8 at the first PT and won the second, Hammer, a.k.a. Shawn Regnier, was a former professional arm wrestler and no stranger to the professional arena that so many of the old timers were being introduced to in a trial by fire. Hammer's trash talk was so fierce it is reputed to have caused Tom Guevin to vomit when they played during the Finals at 1996 PT-LA (Guevin denies this to be the case), and even after his game failed to keep up with his mercurial mouth, it was understood that regardless of the 24-inch pythons, this was not a man to be trifled with. Hammer last appeared at Barcelona a year and a half ago. 
 
@@ -196,7 +200,9 @@ As good as he was, Baxter's play will not be what he's remembered for in this ga
 
 **Innovation: Rules lawyering**
 
-![](http://www.wizards.com/sideboard/images/GPdal00/fm3place.jpg)Of course Place didn't invent this stuff. PCL and Tongo were doing it since the dawn of time, but Matt, he was the master. A fresh-faced kid out of the Midwest, Place was dominating the tourney scene in that area way before the PT came about. When it finally did, the man won Mainz despite a grand total of three practice drafts, testimony to the talent he possessed.
+![](http://www.wizards.com/sideboard/images/GPdal00/fm3place.jpg)
+
+Of course Place didn't invent this stuff. PCL and Tongo were doing it since the dawn of time, but Matt, he was the master. A fresh-faced kid out of the Midwest, Place was dominating the tourney scene in that area way before the PT came about. When it finally did, the man won Mainz despite a grand total of three practice drafts, testimony to the talent he possessed.
 
 He found a rules loophole that allowed you to ask your opponent if you could Lightning Bolt them after they'd drawn, with a 'yes' meaning their main phase was done, effectively ending their turn. Of course, these problems were solved by the rules gurus as quickly as possible, but they left their mark.
 
@@ -204,7 +210,9 @@ He found a rules loophole that allowed you to ask your opponent if you could Lig
 
 **Innovation: Fun on the Tour**
 
-![](https://i.ormos.uk/5c/95/5c9589a9db8d044dcc4926d554c67a341bdf3e99287284272cdcf504f577867d.jpg)Shock, dismay, how dare I speak of such things? The Pro Tour and its players have a rep for a cold, calculating demeanor that in the eyes of casuals, that sucks anything that might be construed as fun out of the game. Alan Comer's six-year career proved the antithesis to these theories.
+![](https://i.ormos.uk/5c/95/5c9589a9db8d044dcc4926d554c67a341bdf3e99287284272cdcf504f577867d.jpg)
+
+Shock, dismay, how dare I speak of such things? The Pro Tour and its players have a rep for a cold, calculating demeanor that in the eyes of casuals, that sucks anything that might be construed as fun out of the game. Alan Comer's six-year career proved the antithesis to these theories.
 
 While Alan never managed to corral a title of his own, he did make it to five Sundays before hanging up the wand recently to go work for Wizards on **Magic** Online. While still active, Comer's forte was building unconventional decks. I still remember testing High Tide, Survival and Oath in Rome with Scott Johns and Sigurd Eskeland while Alan was in the corner building a white weenie deck with four Enlightened Tutors and one hateful enchantment for each major archetype. He played that deck and went 6-1 on Day 1.
 
@@ -214,7 +222,9 @@ Alan's creations included Godzilla, and Turbo Xerox. While he popularized Miracl
 
 **Innovation: European strength**
 
-![](http://www.wizards.com/sideboard/images/gppra01/867.jpg)Another guy who had a lot of fun with the game, Jakub Slemr was around since the early days. Yes, other non-Americans like Olle Rade and Frank Adler had grabbed big titles, but when Jakub won World Championships, it was a wake up call to America: There's going to be competition from all over the world. 
+![](http://www.wizards.com/sideboard/images/gppra01/867.jpg)
+
+Another guy who had a lot of fun with the game, Jakub Slemr was around since the early days. Yes, other non-Americans like Olle Rade and Frank Adler had grabbed big titles, but when Jakub won World Championships, it was a wake up call to America: There's going to be competition from all over the world. 
 
 Jakub really does have to share credit here. The Top 8 at 1997 Worlds was a study in diversity, with Slemr defeating German Janosch Kuhn in the finals, with Denmark's Svend Geertsen and Canada's Paul McCabe rounding out the Top 4. Slemr went on to make two more Top 8s before quitting for work reasons last year.
 
@@ -222,7 +232,9 @@ Jakub really does have to share credit here. The Top 8 at 1997 Worlds was a stud
 
 **Innovation - The team**
 
-![](http://www.wizards.com/sideboard/PTNY0001/images/528.jpg)Before YMG and Jumble and Godzilla and Mogg Squad and Deadguy and Punisher and all the rest, there was PCL. The first truly great team of the Pro Tour era, PCL dominated early on, both in the main events and side events. They understood before everyone else the importance of strength in numbers, and provided an example that is followed by the Tour's best teams today and will continue to be for the foreseeable future.
+![](http://www.wizards.com/sideboard/PTNY0001/images/528.jpg)
+
+Before YMG and Jumble and Godzilla and Mogg Squad and Deadguy and Punisher and all the rest, there was PCL. The first truly great team of the Pro Tour era, PCL dominated early on, both in the main events and side events. They understood before everyone else the importance of strength in numbers, and provided an example that is followed by the Tour's best teams today and will continue to be for the foreseeable future.
 
 PCL placed Justice and Poulter in the Top 8 of PT-NY, and set the tone for their dominance in the first year. Johns made three consecutive Top 8s, Chalice made one of his own, Justice and Stern made Top 8 at 1996 Worlds… they were strength personified. Eventually, Stern moved on to WotC, Justice left the west coast and the team drifted apart for assorted reasons, but their mark had been left on the Tour. The smart gamer would never play alone again.
 
@@ -230,7 +242,9 @@ PCL placed Justice and Poulter in the Top 8 of PT-NY, and set the tone for their
 
 **Innovation: Internet utilization**
 
-![](http://www.wizards.com/sideboard/images/PTCHI00/921.jpg)While not a pro player in his own right, Frank Kusomoto may have made the most important innovation on this list. A naval officer and **Magic** enthusiast, Frank noticed a trend towards the game's intellectualization in newsgroups cropping from the likes of Hacker and Weissman and began organizing the better thought out posts on his website, www.thedojo.com. What started as a little hobby started consuming most of the man's time as more and more gamers, hungry for information, started flocking as word spread.
+![](http://www.wizards.com/sideboard/images/PTCHI00/921.jpg)
+
+While not a pro player in his own right, Frank Kusomoto may have made the most important innovation on this list. A naval officer and **Magic** enthusiast, Frank noticed a trend towards the game's intellectualization in newsgroups cropping from the likes of Hacker and Weissman and began organizing the better thought out posts on his website, www.thedojo.com. What started as a little hobby started consuming most of the man's time as more and more gamers, hungry for information, started flocking as word spread.
 
 The Dojo was absolutely amazing in its day, with no competitors meaning no supply and demand for writers, in turn meaning that a lot of people gave of their time for no reason other than to spread the **Magic** gospel and share their gaming experiences. Most of the names on this list participated at one time or another. You can still find their work archived on the net. 
 

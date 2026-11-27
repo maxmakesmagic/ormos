@@ -82,7 +82,9 @@ render_recovery:
   - Chain of Plasma
   occurrences: 41
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a716.jpg)"The last Top 8 I was in, I got 3-0'd. Canadian Nationals, that man right there." – Richard Hoaen
+![](http://www.wizards.com/sideboard/images/ptyok03/a716.jpg)
+
+"The last Top 8 I was in, I got 3-0'd. Canadian Nationals, that man right there." – Richard Hoaen
 
 He pointed to teammate Jon Stern, matching from the rail.
 
@@ -108,7 +110,9 @@ Hoaen 1 – Jorstedt 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a717.jpg)While shuffling up, the conversation turned to Magic Online. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a717.jpg)
+
+While shuffling up, the conversation turned to Magic Online. 
 
 "It was my summer job, at least, under the old prize structure. I made about a hundred bucks a night." – Richard Hoaen
 
@@ -128,7 +132,9 @@ Hoaen 1 – Jorstedt 1
 
 Hoaen kept a draw short on white mana for the third game and after trading Festering Goblins with Jorstedt found himself without a third-turn play opposite Blade Sliver. He cycled Barren Moor and turned up Skinthinner. Without any more land in hand he raw dogged it and traded with the Sliver. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a720.jpg)Hoaen continued to fail to draw lands while Jorstedt tattooed him. Murkdiver, Vile Deacon and Goblin Sledder all got in on the party. Jorstedt even had Thoughtbound Primoc, but a face-up Exterminator stole it again. Hoaen was still way behind. By the time he drew the plains all he could do was play Renewed Faiths to stay in the game. Two turns later they were on to Game 4.
+![](http://www.wizards.com/sideboard/images/ptyok03/a720.jpg)
+
+Hoaen continued to fail to draw lands while Jorstedt tattooed him. Murkdiver, Vile Deacon and Goblin Sledder all got in on the party. Jorstedt even had Thoughtbound Primoc, but a face-up Exterminator stole it again. Hoaen was still way behind. By the time he drew the plains all he could do was play Renewed Faiths to stay in the game. Two turns later they were on to Game 4.
 
 Hoaen 1 – Jorstedt 2
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: cb5b25318c4f1a930a5b6393ddf17a5549c6992b31df81bd9750462d5e1f60ae
 render_recovery: []
 ---
-![](https://i.ormos.uk/d1/25/d1252a1d8ce61c03ec0a84910f9cae752142c6067519e54e27074601af05921d.jpg)Gunning for [Psychatog](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) has served these two players well. Franck Canu and Ken Ho smashed through the first three rounds with ease before destroying Antoine Ruel and Neil Reeves. Now they must face each other, and Canu has the edge. Best of three, for all the marbles.
+![](https://i.ormos.uk/d1/25/d1252a1d8ce61c03ec0a84910f9cae752142c6067519e54e27074601af05921d.jpg)
+
+Gunning for [Psychatog](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) has served these two players well. Franck Canu and Ken Ho smashed through the first three rounds with ease before destroying Antoine Ruel and Neil Reeves. Now they must face each other, and Canu has the edge. Best of three, for all the marbles.
 
 ### Game 1
 
@@ -54,7 +56,9 @@ Canu [Duress](https://web.archive.org/web/20030119000000/https://gatherer.wizard
 
 Now Ho needed just a bit of luck. If his [Merfolk Looter](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter) survived, or if he drew a fifth land he'd be able to start powering out the big creatures. Canu made things tricky with a second [Smother](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother). His troops brought Ho to nine. He added a second Elf.
 
-![](https://i.ormos.uk/20/0a/200af7a838d39aeea87568126fb092ddafff409013ef33741a0dbc8e3468e054.jpg)Ho drew [Roar of the Wurm](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm).
+![](https://i.ormos.uk/20/0a/200af7a838d39aeea87568126fb092ddafff409013ef33741a0dbc8e3468e054.jpg)
+
+Ho drew [Roar of the Wurm](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm).
 
 Shaking his head, he handed it back. Canu swung in, and pitched his whole hand for the kill.
 
@@ -64,7 +68,9 @@ Canu 1 – Ho 0
 
 Cheering Canu on from the sidelines were four of France's Pro Tour best: Raphael Levy, Christophe Haim, and the brothers Ruel. Ho pulled his hand up slowly. The first six were blue cards, [Wild Mongrel](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and forest. He waited on his seventh card, but then gave in. It was a second forest. He couldn't bring himself to send it back. Canu's hand brought him much less concern.
 
-![](https://i.ormos.uk/af/87/af87df66eeef75a5f453f0f666c7c9f7282692b8eea0cc821988ee76f6e67876.jpg)Canu led with Llanowar Elf, then played a [Squirrel Nest](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest) on his forest after Ho dropped his [Mongrel](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mongrel). Ho drew a second [Mongrel](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mongrel) and third forest, so he still had a lot of game. Canu showed him exactly what game looked like by tapping out on his next turn for [Opposition](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opposition).
+![](https://i.ormos.uk/af/87/af87df66eeef75a5f453f0f666c7c9f7282692b8eea0cc821988ee76f6e67876.jpg)
+
+Canu led with Llanowar Elf, then played a [Squirrel Nest](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squirrel+Nest) on his forest after Ho dropped his [Mongrel](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mongrel). Ho drew a second [Mongrel](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mongrel) and third forest, so he still had a lot of game. Canu showed him exactly what game looked like by tapping out on his next turn for [Opposition](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opposition).
 
 Canu's hand held only lands, but it hardly mattered. He started generating Icy Manipulators while Ho struggled to find an island. After three turns he did, and made a [Merfolk Looter](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter). Canu was ready with [Smother](https://web.archive.org/web/20030119000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother), and Ho was only willing to endure three turns of lockdown before he gave up entirely.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 055e19881a0f4f22ac4d1c373a681bb259b3ccf0511270e012177f55c47d0796
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r13fm1_1.jpg)They shuffled up in silence while the crowd gathered around. Some people were there to cheer for the Spanish player, some people just wanted a picture of Kai Budde. For Gonzalez it must be strange to play a game surrounded by barriers to keep the crowd back. For Kai Budde is probably just another Feature Match.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/r13fm1_1.jpg)
+
+They shuffled up in silence while the crowd gathered around. Some people were there to cheer for the Spanish player, some people just wanted a picture of Kai Budde. For Gonzalez it must be strange to play a game surrounded by barriers to keep the crowd back. For Kai Budde is probably just another Feature Match.
 
 ### Game 1
 

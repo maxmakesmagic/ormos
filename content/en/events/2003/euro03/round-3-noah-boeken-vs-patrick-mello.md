@@ -71,7 +71,9 @@ render_recovery:
   - Phantom Centaur
   occurrences: 25
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a981.jpg)Noah Boeken wants his European Champion title so bad he forced me to trade Feature Match with Craig Jones because I supposedly give him good luck. Mello wasn't very happy about it, not wanting to give Boeken any sort of advantage. Superstition at the highest level of European Magic... who would have thought?
+![](http://www.wizards.com/sideboard/images/euro03/a981.jpg)
+
+Noah Boeken wants his European Champion title so bad he forced me to trade Feature Match with Craig Jones because I supposedly give him good luck. Mello wasn't very happy about it, not wanting to give Boeken any sort of advantage. Superstition at the highest level of European Magic... who would have thought?
 
 They spent their shuffling period trading Team Grand Prix Amsterdam "war" stories. They actually played against each other in that Grand Prix, and had a very agitated game (actually a game that was irrelevant for the round since Boeken's team had already taken the round), involving several judges, the Head Judge and a warning for Noah Boeken. All because Boeken wasn't paying attention to the game... still, now they laugh about it.
 
@@ -81,7 +83,9 @@ Noah: "It's the first time I play a Green deck since I won Euros. Feels good."
 
 Boeken had to mulligan and Mello gave him no respite coming out with Basking Rootwalla, Grim Lavamancer and Llanowar Elves. Noah answered with Rootwalla and Mongrel.
 
-![](http://www.wizards.com/sideboard/images/euro03/a982.jpg)They traded blows for few turns and the German played Call of the Herd. Volcanic Hammer and Firebolt took the token and Lavamancer out of the game. Patrick returned the favor by Firebolting the Rootwalla and flashing back the Call.
+![](http://www.wizards.com/sideboard/images/euro03/a982.jpg)
+
+They traded blows for few turns and the German played Call of the Herd. Volcanic Hammer and Firebolt took the token and Lavamancer out of the game. Patrick returned the favor by Firebolting the Rootwalla and flashing back the Call.
 
 Still, Noah Boeken can be a very stubborn player: he had another Hammer for the second Call token. His dog went in and he played Grim Lavamancer to scare Mello's little guys. The German smiled and played a perfect Violent Eruption cleaning Boeken's side of the table.
 
@@ -93,7 +97,9 @@ Still, Mello's turns played out like some perfect Swiss watch mechanism. He sent
 
 Grim Lavamancer and Call of the Herd was the best the Dutch could muster. With three cards in hand Patrick Mello look firmly in control. He flashed back the Firebolt to take out the Lavamancer and the Call jumped in front of Mongrel. Mello emptied his hand.
 
-![](http://www.wizards.com/sideboard/images/euro03/a983.jpg)Noah Boeken drew his last head, shook his head one last time and scooped. All he could do was reach for sideboard and retell his woes in the first game.
+![](http://www.wizards.com/sideboard/images/euro03/a983.jpg)
+
+Noah Boeken drew his last head, shook his head one last time and scooped. All he could do was reach for sideboard and retell his woes in the first game.
 
 ### Game 2
 

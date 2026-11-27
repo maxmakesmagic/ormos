@@ -56,7 +56,9 @@ Ben: So what are you guys up to, in real life?
  Ben: Is he really?  
  Dave: Sure, why not.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj02/964.jpg)TEAM GROUCH (Feming Chan, Mike Lucarello, Andy Longo)--More Jersey players from the Outer Realms/Neutral Ground area.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj02/964.jpg)
+
+TEAM GROUCH (Feming Chan, Mike Lucarello, Andy Longo)--More Jersey players from the Outer Realms/Neutral Ground area.
 
 John Chinnock: And put down that Mike is playing cello in Dave's orchestra. Ben: And what are you doing these days Feming? Feming: I'm in school now. Ben: Ok, I'll put down you're a student.
 
@@ -77,7 +79,9 @@ Ben: Hey guys, what's going on?
  Ben: What about you, Andrew?  
  Andrew: I'm a mergers and acquisitions lawyer.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj02/977.jpg)It seems as if all the old New York players/former Jersey Kids are either heavy into the financial sector or lawyering. I guess all those years of playing **Magic** paid off for them, using the mental skills they honed through learning the rules of **Magic** and applying them to banking and legal systems. But what about the grandfather of all comebacks, and king of money drafts? I speak of none other than Brian Hacker, from California.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnj02/977.jpg)
+
+It seems as if all the old New York players/former Jersey Kids are either heavy into the financial sector or lawyering. I guess all those years of playing **Magic** paid off for them, using the mental skills they honed through learning the rules of **Magic** and applying them to banking and legal systems. But what about the grandfather of all comebacks, and king of money drafts? I speak of none other than Brian Hacker, from California.
 
 Ben: Brian, what are you doing in real life these days?  
  Brian: I'm actually doing game design.  

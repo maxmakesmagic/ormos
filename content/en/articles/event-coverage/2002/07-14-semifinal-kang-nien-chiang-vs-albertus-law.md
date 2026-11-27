@@ -57,7 +57,9 @@ He played Fact or Fiction with six mana up. Chiang was ready with Counterspell.
 
 Chiang 1 - Law 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a940.jpg)Law looked at his hand for Game 2. It was six land and Fact or Fiction. He couldn't let that ride, so he sent it back. He was rewarded for his decision. He had only two land, but Familiar, Fact or Fiction, Engineered Plauge and Fire/Ice.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gptai02/a940.jpg)
+
+Law looked at his hand for Game 2. It was six land and Fact or Fiction. He couldn't let that ride, so he sent it back. He was rewarded for his decision. He had only two land, but Familiar, Fact or Fiction, Engineered Plauge and Fire/Ice.
 
 Chiang answered his Familiar with Llanowar Elf and Compost. Next came Call of the Herd while Law failed to find land number three. He Iced and found nothing. The second time he got a Salt Marsh, but Chiang showed him a very fine Phantom Centaur. Things looked grim.
 

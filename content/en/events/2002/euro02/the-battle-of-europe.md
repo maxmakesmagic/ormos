@@ -53,7 +53,9 @@ archive_source:
   sha256: 68ceac2378daf5fd6caa7d0da0efa08eabc7040679a63662abece65bca59e9c8
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a995.jpg)Amsterdam has always been a favourite location for a lot of players. Situated in the middle of Europe, it is easy to get to, and it is also a nice city with plenty of opportunities for people to have fun and enjoy themselves. Originally, the 2002 European Championship was supposed to be held in England, but it was eventually moved to the Dutch capital instead. "Amsterdam has everything you want and you can do anything you want to do, all within ten minutes from the centre," Noah Boeken says.
+![](http://www.wizards.com/sideboard/images/euro02/a995.jpg)
+
+Amsterdam has always been a favourite location for a lot of players. Situated in the middle of Europe, it is easy to get to, and it is also a nice city with plenty of opportunities for people to have fun and enjoy themselves. Originally, the 2002 European Championship was supposed to be held in England, but it was eventually moved to the Dutch capital instead. "Amsterdam has everything you want and you can do anything you want to do, all within ten minutes from the centre," Noah Boeken says.
 
 The European Championship is a relatively new tradition. It all started four years ago, in Berlin, when Norwegian Sturla Bingen defeated Jakub Slemr to become history's first European Champion. Since then, the Norwegians have continued to do well in this battle of Europe. The small country in the north has taken home three out of four titles, Nicolai Herzog and Eivind Nitter being the two last champions. Noah Boeken, from the Netherlands, is the only non-Norwegian to win–he won two years ago.
 
@@ -65,7 +67,9 @@ Inside the building, however, people are instantly in familiar surroundings. Gre
 
 As usual, the players will compete in two different formats. The first format of the tournament is *Odyssey* Block Booster Draft. After seven rounds of draft, the players will go on to seven rounds of pre-*Judgment* Standard. Then, the Top 8 players will bring their Standard decks to the final playoff, where they play for $15 000 and the European Champion title.
 
-![](http://www.wizards.com/sideboard/images/euro02/a994.jpg)"I don't like the formats. Drafting black is a risk, you can't control it. If the guy behind you jumps to black, it will be good for him. It is very much about luck. This is probably the worst draft format. Or, *Homelands/Fallen Empires* was probably worse," Kai Budde says. For the Standard portion, he doesn't really expect anything new. In fact, Kai would have skipped the Euros to go to Grand Prix-New Jersey if it hadn't been really expensive to go there because of the summer holidays. So while he is playing for a Top 8 finish and hoping to win the only title he lacks in his collection, Kai's highlight of the weekend will be the soccer World Cup finals between Germany and Brazil.
+![](http://www.wizards.com/sideboard/images/euro02/a994.jpg)
+
+"I don't like the formats. Drafting black is a risk, you can't control it. If the guy behind you jumps to black, it will be good for him. It is very much about luck. This is probably the worst draft format. Or, *Homelands/Fallen Empires* was probably worse," Kai Budde says. For the Standard portion, he doesn't really expect anything new. In fact, Kai would have skipped the Euros to go to Grand Prix-New Jersey if it hadn't been really expensive to go there because of the summer holidays. So while he is playing for a Top 8 finish and hoping to win the only title he lacks in his collection, Kai's highlight of the weekend will be the soccer World Cup finals between Germany and Brazil.
 
 With 305 players that theoretically can take home the title, it is hard to pick one favourite. However, Germany's Kai Budde is in a league of his own, and few people would be surprised to see him win this tournament. In addition, the Norwegians will obviously try to keep their dominance while the Dutch will try to win on their home turf. Another major contender is the Punisher team, featuring Finnish Tomi Walamies and the Swedes Anton Jonsson and Jens Thorén.
 

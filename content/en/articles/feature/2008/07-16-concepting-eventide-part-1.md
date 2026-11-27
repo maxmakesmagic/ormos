@@ -95,7 +95,9 @@ We walked up to the third floor and entered the little area that housed the crea
 
 I still remember the exact words Brady Dommermuth used:
 
-![Wizards of the Coast](https://i.ormos.uk/1d/2e/1d2e8e4f8099d2112661731eb5628399e4b01e5d034bd492091c1188148bd45b.jpg)"How would you like to do a whole lot more work for less money?"
+![Wizards of the Coast](https://i.ormos.uk/1d/2e/1d2e8e4f8099d2112661731eb5628399e4b01e5d034bd492091c1188148bd45b.jpg)
+
+"How would you like to do a whole lot more work for less money?"
 
 I chuckled, assuming that was rhetorical. I figured the two of them, Matt and Brady, had been having a previous discussion about the state of American workloads or wages or something, and they were jokingly going to use my uninformed opinion on the matter as another data point.
 
@@ -109,7 +111,9 @@ It soon became clear that Brady was serious—he sounded jocular, but he meant i
 
 ### Flavor of Destiny
 
-[![Call_the_Skybreaker](https://i.ormos.uk/ef/ec/efecf3b32fd4a21d6b4a4a43bbddd0004849ca047687cf50dc4b5509ffa4aef5.jpg)](https://web.archive.org/web/20080716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Call%2Bthe%2BSkybreaker)I instant messaged my girlfriend and told her "I think I just got 'The Call,'" like I had just been called up to the majors. That was premature, of course. But even being considered was flattering.
+[![Call_the_Skybreaker](https://i.ormos.uk/ef/ec/efecf3b32fd4a21d6b4a4a43bbddd0004849ca047687cf50dc4b5509ffa4aef5.jpg)](https://web.archive.org/web/20080716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Call%2Bthe%2BSkybreaker)
+
+I instant messaged my girlfriend and told her "I think I just got 'The Call,'" like I had just been called up to the majors. That was premature, of course. But even being considered was flattering.
 
 I buzzed with questions. What kind of work would the position be? What was Matt's day-to-day schedule like? Did I want to leave the web team, where I was well-established and respected? Would I be any *good* at doing **Magic** creative full time? Did I stand any chance against the other applicants? How many others were there? If I didn't get the job, would I turn into Mr. Frowny Guy from then on? Would it really be a pay cut, and if so, how much was I willing to drop to work in R&D on making **Magic** cards full time? ...Did I just miss my lunch break?
 
@@ -121,7 +125,9 @@ It didn't actually take that much soul-searching, when it came down to it.
 
 I applied. All the applicants took a "creative test," which is a funny-sounding term for a timed challenge of our flavor-writing abilities. We were given mechanical descriptions of some made-up **Magic** cards, and within a week we were to write flavor text for all of them, a couple of samples per card. We were also tested on naming the cards and on card concepting, which is the true heart of the **Magic** creative process, a process that results in the art description that tells artist of the card what exactly to paint. I had been in charge of writing Magic Arcana for **magicthegathering.com** for a while, so, via the Sketches series, I had seen my way around an art description or two.
 
-[![Savage_Conception](https://i.ormos.uk/d3/7c/d37c21d59478d3e5fa0a6bafbb720738c3fc512c4f72de42af6586b822e2a17a.jpg)](https://web.archive.org/web/20080716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Savage%2BConception)I found the concepting part of it especially fun, but I also had the least clue about whether I was on the right track for that part. While I had written names and flavor text for a zillion cards, I had never tried taking a bare set of **Magic** card mechanics (cost, type, rules text, power/toughness) and coming up with the idea of what that card's art should look like—what that card should *be*.
+[![Savage_Conception](https://i.ormos.uk/d3/7c/d37c21d59478d3e5fa0a6bafbb720738c3fc512c4f72de42af6586b822e2a17a.jpg)](https://web.archive.org/web/20080716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Savage%2BConception)
+
+I found the concepting part of it especially fun, but I also had the least clue about whether I was on the right track for that part. While I had written names and flavor text for a zillion cards, I had never tried taking a bare set of **Magic** card mechanics (cost, type, rules text, power/toughness) and coming up with the idea of what that card's art should look like—what that card should *be*.
 
 The creative test went well. A few days later, Mark Rosewater, who was (in addition to his Head Designer duties) manager of the creative team at the time, told me I had done well enough to be interviewed.
 
@@ -131,7 +137,9 @@ I interviewed with Mark, Matt, and Brady in a conference room on the third floor
 
 Fast forward about a year. I had trained with Matt Cavotta during the latter part of the *Time Spiral* block, taking the reins of **Magic** creative text more and more through *Future Sight*. After Matt left, I had managed the flavor text writers for *Tenth Edition* flavor text solo, and then ran the team for *Lorwyn*, and then for *Morningtide*. 
 
-[![Endless_Horizons](https://i.ormos.uk/83/e7/83e702f0e1df6702653d203b0ab60fbc16a61b6049c4747716b1682141f81a8f.jpg)](https://web.archive.org/web/20080716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Endless%2BHorizons)The world was still seeing *Future Sight* previews, but we were fast approaching the end of creative work on *Shadowmoor*. Doing four all-new sets in one year was a big challenge for our little team at the time (Brady Dommermuth, art director Jeremy Jarvis, concept illustrator Richard Whitters, and me), and *Eventide* was really going to be the test. *Shadowmoor* already marked more cards than the team had ever undertaken in one year, and there was still a whole small set to go. 
+[![Endless_Horizons](https://i.ormos.uk/83/e7/83e702f0e1df6702653d203b0ab60fbc16a61b6049c4747716b1682141f81a8f.jpg)](https://web.archive.org/web/20080716000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Endless%2BHorizons)
+
+The world was still seeing *Future Sight* previews, but we were fast approaching the end of creative work on *Shadowmoor*. Doing four all-new sets in one year was a big challenge for our little team at the time (Brady Dommermuth, art director Jeremy Jarvis, concept illustrator Richard Whitters, and me), and *Eventide* was really going to be the test. *Shadowmoor* already marked more cards than the team had ever undertaken in one year, and there was still a whole small set to go. 
 
 Furthermore, the clock was ticking. Brady, as lead world-building guy, needed to start looking ahead to "Rock," the Fall 2008 expansion that would become known as *Shards of Alara*. Brady, who had done all the concepting for every **Magic** set since, um, well, since a long time ago, was in a bind. There was no way he was going to be able to have time to concept a fourth set *and* kick off the creation of the style guide for the next setting. 
 

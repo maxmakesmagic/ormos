@@ -280,7 +280,9 @@ Slaughterhouse
 
 ### Fiery Dawn
 
-![](https://i.ormos.uk/ce/10/ce10f71bdf5490806b4ac620d7cf21a71bfa965f10e272a754dc5f769dc182ba.jpg)The "Fiery Dawn" deck focuses on the power of Humans working together. Since this is an aggressive deck, your primary focus will be to cast creatures and start attacking with them as early as possible.
+![](https://i.ormos.uk/ce/10/ce10f71bdf5490806b4ac620d7cf21a71bfa965f10e272a754dc5f769dc182ba.jpg)
+
+The "Fiery Dawn" deck focuses on the power of Humans working together. Since this is an aggressive deck, your primary focus will be to cast creatures and start attacking with them as early as possible.
 
 Many of your cards provide bonuses whenever another creature shows up on your side. Some bonuses, such as those provided by Kessig Malcontents and Vigilante Justice, deal damage to take out potential blockers so you can attack with ease or shorten the game by taking a chunk out of your opponent's life total. Kruin Striker temporarily makes itself bigger, while Goldnight Commander temporarily makes your entire army bigger. Cathars' Crusade is an enchantment that goes one step beyond that: it makes your entire army bigger permanently!
 

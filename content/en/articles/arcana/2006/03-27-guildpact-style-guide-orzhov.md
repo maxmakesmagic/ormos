@@ -79,7 +79,9 @@ archive_source:
   sha256: ce6e5f08a72a18345a82379e0c343a000d10b4ec3a0e1a1b3c471cbd50e24bfc
 render_recovery: []
 ---
-![Guildpact style guide image](https://i.ormos.uk/4b/d6/4bd669b7ac148112c0bb103ff24113636618673570a0adf954d7cdd78e311531.jpg)A politically-charged compromise between White's devotion to community order and Black's thirst for individual power, the Orzhov Syndicate is a guild entirely committed to the establishment and maintainance of a power structure in Ravnica.
+![Guildpact style guide image](https://i.ormos.uk/4b/d6/4bd669b7ac148112c0bb103ff24113636618673570a0adf954d7cdd78e311531.jpg)
+
+A politically-charged compromise between White's devotion to community order and Black's thirst for individual power, the Orzhov Syndicate is a guild entirely committed to the establishment and maintainance of a power structure in Ravnica.
 
 Today we take a look at the *Guildpact* style guide to see how the look and feel of the Orzhov illustrates this commitment as well as some other interesting details about them. 
 

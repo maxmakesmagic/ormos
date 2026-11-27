@@ -80,7 +80,9 @@ render_recovery:
 ---
 This is it. Everything rests on this. On the one hand you have the ultra-snazzy title of "Grand Prix-Boston Champion", a cool cheque for $2,400 in your name and a brand new paperweight, er, I mean *trophy* for the desk. On the other, you have the not-as-snazzy-but-still-cool title of "Grand Prix-Boston Finalist", a cheque for a little bit less, $1,700 and a smaller paperweight. Hey, at least it's easier to lug back home, although you *do* lose some of the "Oooooh! Aaaahhh!" factor in there.
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a875.jpg)Matthew Cory is the sole survivor from the massacre of amateurs that entered the tournament for search of the promised land yesterday. Right now, he is already taking the amateur prize of $1,500 back home for winning that portion of the cash purse, but a few extra thousand or so bucks here couldn't hurt. It was an ante match for $700, which is probably the highest amount of money Cory's ever played **Magic** for. In fact, for those who *still* do not know, Cory has never played a sanctioned match of Limited before this event, meaning that he entered this tournament *with a 1600 Limited rating*. (One can only imagine how much that has ballooned over the course of this weekend.)
+![](https://www.wizards.com/sideboard/images/gpbos03/a875.jpg)
+
+Matthew Cory is the sole survivor from the massacre of amateurs that entered the tournament for search of the promised land yesterday. Right now, he is already taking the amateur prize of $1,500 back home for winning that portion of the cash purse, but a few extra thousand or so bucks here couldn't hurt. It was an ante match for $700, which is probably the highest amount of money Cory's ever played **Magic** for. In fact, for those who *still* do not know, Cory has never played a sanctioned match of Limited before this event, meaning that he entered this tournament *with a 1600 Limited rating*. (One can only imagine how much that has ballooned over the course of this weekend.)
 
 Standing in his way between him and the title "Hero of the People", is none other than the dragon lord, the heartthrob, the hero of the kids, call him what you will, Brian Kibler. Kibler is out here, grinning at the aspect of adding this Grand Prix to his list of accomplishments (and actually get a physical trophy- no he did *not* in fact get a trophy for Grand Prix- Toronto way back when).
 
@@ -98,7 +100,9 @@ Kibler 1 - Cory 0
 *Kibler:* "Er, I played Rubin in the quarterfinals."  
 *Cory:* "Right."
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a876.jpg)Kai came down on turn two, as a solution to potential problems. He was matched with a Glory Seeker from Kibler, and then the morphs started to roll in. Keeneye Aven from Cory provided a stop to Kibler's assault, and the game slowed down to a crawl, much to the chagrin of my laptop's dwindling battery lifespan.
+![](https://www.wizards.com/sideboard/images/gpbos03/a876.jpg)
+
+Kai came down on turn two, as a solution to potential problems. He was matched with a Glory Seeker from Kibler, and then the morphs started to roll in. Keeneye Aven from Cory provided a stop to Kibler's assault, and the game slowed down to a crawl, much to the chagrin of my laptop's dwindling battery lifespan.
 
 Kibler attacked with the Glory Seeker, representing some form of trick, but Cory blocked anyway, perhaps thinking that he still had the Prodigy to counter a Piety Charm if he really must. Unfortunately, Kibler then unmorphed a Gravel Slinger to take down the Aven, but at least it still traded, card for card. A Wingbeat Warrior came into play, but Cory turned over Kai's Apprentice (I wonder who…) to put an end to that. Cory was now playing a very defensive game, holding Sage Aven and Backslide, each providing an additional form of countermagic.
 

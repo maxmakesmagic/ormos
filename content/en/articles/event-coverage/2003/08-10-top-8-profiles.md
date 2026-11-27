@@ -46,7 +46,9 @@ render_recovery: []
 ---
 **Peer Kröger**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a540.jpg)Peer is no stranger to the Top 8 of Pro Tours—although he may be a stranger to players outside of Germany who have not been with the game very long. The Berlin resident made his third appearance on Day 3 this weekend. The last two times were PT Dallas in 1996 and PT Mainz in 1997. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a540.jpg)
+
+Peer is no stranger to the Top 8 of Pro Tours—although he may be a stranger to players outside of Germany who have not been with the game very long. The Berlin resident made his third appearance on Day 3 this weekend. The last two times were PT Dallas in 1996 and PT Mainz in 1997. 
 
 He managed to stay on the Pro Tour until 1998 when he found himself without enough points—or the passion—to remain a professional Magic player. When he passed on an invitation to the 1999 World Championships in Japan he knew that his relationship with Magic had changed.
 
@@ -60,7 +62,9 @@ Pro Tour New Orleans is another story. Despite being back on the gravy train aft
 
 **Gabe Walls**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a533.jpg)Gabe Walls is relatively new to the Pro Tour circuit and until Nationals had not posted any money finishes. He has followed that up impressively with another Top 8 here in Berlin. In addition to his Top 8 finish he also won a key match against fellow Top 8 finisher Tuomo Nieminen that earned him and his teammates the Worlds Team Championship. He has more than made up for his previous lack of winnings with his paycheck for this past week's hard work.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a533.jpg)
+
+Gabe Walls is relatively new to the Pro Tour circuit and until Nationals had not posted any money finishes. He has followed that up impressively with another Top 8 here in Berlin. In addition to his Top 8 finish he also won a key match against fellow Top 8 finisher Tuomo Nieminen that earned him and his teammates the Worlds Team Championship. He has more than made up for his previous lack of winnings with his paycheck for this past week's hard work.
 
 Gabe first got onto the tour over a year ago at a PTQ at his stomping grounds in Indiana during the Invasion Block Constructed season. He played Goblin Trenches, "That deck was gas!" 
 
@@ -72,7 +76,9 @@ Gabe is currently attending school at All-State University but his thinking abou
 
 **Wolfgang Eder**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a539.jpg)Germany's newest member of the Top 8 club is Wolfgang Eder--a Magic everyman. After a questionable play in the Top 8 of the World Championships he was difficult to find. Someone suggested that he did not want to think or talk about Magic after his painful loss. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a539.jpg)
+
+Germany's newest member of the Top 8 club is Wolfgang Eder--a Magic everyman. After a questionable play in the Top 8 of the World Championships he was difficult to find. Someone suggested that he did not want to think or talk about Magic after his painful loss. 
 
 How wrong they were. Wolfgang was in the side events area happily engaged in a Sealed Deck tournament match. He loves to play Magic. Wolfgang first appeared on the Magic radar after his thirteenth place finish at the European Championships earned him an invite to this event. The deck he played was Goblin Bidding--a deck he originated that has become a tier one Standard deck.
 
@@ -84,7 +90,9 @@ His team failed to qualify for Boston, falling in the finals but he is now on th
 
 **Jeroen Remie**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a535.jpg)Leading up to Pro Tour Houston, this Dutch player was in the midst of a good year. He picked his game up to a new level in Houston posting his first Top 8 Pro Tour ever. A regular column on Brainburst pushed him further into the spotlight of Magic celebrity. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a535.jpg)
+
+Leading up to Pro Tour Houston, this Dutch player was in the midst of a good year. He picked his game up to a new level in Houston posting his first Top 8 Pro Tour ever. A regular column on Brainburst pushed him further into the spotlight of Magic celebrity. 
 
 Jeroen became keenly aware of the pressure that professional Magic was exerting on him. "It was grueling to finish a Pro Tour only to have to start playtesting for the next one two weeks later."
 
@@ -96,7 +104,9 @@ He credits the break and new perspective on having some fun with Magic as key to
 
 **Tuomo Nieminen**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a542.jpg)Tuomo certainly earned a name for himself this weekend—and perhaps a reputation. During the Swiss portions of the event he only lost three matches all weekend. He had a chance to draw with the reigning World Champion Carlos Romao in the final round but chose to play and knock the champ out of contention for Day 3.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a542.jpg)
+
+Tuomo certainly earned a name for himself this weekend—and perhaps a reputation. During the Swiss portions of the event he only lost three matches all weekend. He had a chance to draw with the reigning World Champion Carlos Romao in the final round but chose to play and knock the champ out of contention for Day 3.
 
 Tuomo was on the way to making a name for himself when he found himself on the Pro Tour Gravy Train after Pro Tour New Orleans. He was kicked off the train by a mandatory nine month stint in the Finnish army. When he returned he had only a smattering of points and was not qualified.
 
@@ -110,7 +120,9 @@ He reconsidered and could not help smiling, "I won so much money this weekend...
 
 **Dave Humpherys**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a536.jpg)Dave is one of the original member of Your Move Games. He was attending school in the area when he caught the Magic bug and met Rob Dougherty and company. Since graduating he has been living in San Diego and catching up with friends and family that he hadn't seen much of between grad school and Magic. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a536.jpg)
+
+Dave is one of the original member of Your Move Games. He was attending school in the area when he caught the Magic bug and met Rob Dougherty and company. Since graduating he has been living in San Diego and catching up with friends and family that he hadn't seen much of between grad school and Magic. 
 
 He is forced to rely on MODO for his playtesting and he credits it with a sharp improvement of his Limited game. "Conversely my constructed game has suffered. I can *only* test online and most of the team—particularly Darwin and Rob—hate testing online.
 
@@ -122,10 +134,14 @@ This was Dave's fourth time playing on a Sunday—excluding team events—and it
 
 **Daniel Zink**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a541.jpg)For most players, winning Nationals or placing well at a major tournament would be incentive to dedicate even more time to Magic, but that wasn't the case for Daniel Zink. Zink, a player from Bochum, Germany, had a great run a few years back, winning German Nationals and coming in fourth at the European Championships. After that success, he decided to take some time off for his girlfriend and other interests. He hasn't quite come back at full steam either, and plays about once a month. He does play a lot of Magic Online, however, which helps keep his skills sharp. To get ready for Worlds, he stayed at Dirk Baberowski's house for about four days, testing with Baberowski, Marco Blume and Kai Budde. That preparation paid off, as Zink now finds himself with the opportunity to become a World Champion. It's apparent that he has the talent to win, and with the help of Germany's best, he should be successful for a long time to come. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a541.jpg)
+
+For most players, winning Nationals or placing well at a major tournament would be incentive to dedicate even more time to Magic, but that wasn't the case for Daniel Zink. Zink, a player from Bochum, Germany, had a great run a few years back, winning German Nationals and coming in fourth at the European Championships. After that success, he decided to take some time off for his girlfriend and other interests. He hasn't quite come back at full steam either, and plays about once a month. He does play a lot of Magic Online, however, which helps keep his skills sharp. To get ready for Worlds, he stayed at Dirk Baberowski's house for about four days, testing with Baberowski, Marco Blume and Kai Budde. That preparation paid off, as Zink now finds himself with the opportunity to become a World Champion. It's apparent that he has the talent to win, and with the help of Germany's best, he should be successful for a long time to come. 
 
 That is, of course, if he decides to show up.
 
 **Jin Okamoto**
 
-![](https://i.ormos.uk/e3/de/e3dedb5b1a4646d9e3399118d98dc992cd88d58711f51e31207ea8878f5b87c1.jpg)"The Last Emperor" has long been considered one of Japan's best players, and with good reason. He won the last APACs, hence his nickname, and has had a great deal of success on the Pro Tour. In fact, he missed making the Top 8 of a Pro Tour twice on tiebreakers, which makes playing on Sunday at Berlin all the more sweet. This serves not only as a great cornerstone to Okamoto's career, but helps to cement Japan's reputation as a true force in competitive Magic. This is Japan's fourth Pro Tour Top 8 this season, and the only step left is for Japan to finally get past the finals and have a Pro Tour Champion. If Okamoto has his way, he'll not only win that title, but will become a World Champion in the process. Jin is a quiet, reserved player, who unlike many Japanese players who wear their emotions on their sleeve, is not easy to read. The full-time Magic Pro prefers to let his cards do the talking, and when he's under the lights on Sunday, he won't need to say a word to get everyone watching.
+![](https://i.ormos.uk/e3/de/e3dedb5b1a4646d9e3399118d98dc992cd88d58711f51e31207ea8878f5b87c1.jpg)
+
+"The Last Emperor" has long been considered one of Japan's best players, and with good reason. He won the last APACs, hence his nickname, and has had a great deal of success on the Pro Tour. In fact, he missed making the Top 8 of a Pro Tour twice on tiebreakers, which makes playing on Sunday at Berlin all the more sweet. This serves not only as a great cornerstone to Okamoto's career, but helps to cement Japan's reputation as a true force in competitive Magic. This is Japan's fourth Pro Tour Top 8 this season, and the only step left is for Japan to finally get past the finals and have a Pro Tour Champion. If Okamoto has his way, he'll not only win that title, but will become a World Champion in the process. Jin is a quiet, reserved player, who unlike many Japanese players who wear their emotions on their sleeve, is not easy to read. The full-time Magic Pro prefers to let his cards do the talking, and when he's under the lights on Sunday, he won't need to say a word to get everyone watching.

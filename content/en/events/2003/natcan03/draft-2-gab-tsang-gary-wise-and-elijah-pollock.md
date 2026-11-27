@@ -74,7 +74,9 @@ render_recovery:
   - Undead Warchief
   occurrences: 19
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a953.jpg)Three players in the draft were firmly u/w within a handful of picks. Two of them were Gary Wise and Gab Tsang who were sitting one seat apart. In between them sat Guillaume Daoust—being fed by Gab—who would be Gab's first round opponent since they were the only two players remaining with 6-0 records.
+![](http://www.wizards.com/sideboard/images/natcan03/a953.jpg)
+
+Three players in the draft were firmly u/w within a handful of picks. Two of them were Gary Wise and Gab Tsang who were sitting one seat apart. In between them sat Guillaume Daoust—being fed by Gab—who would be Gab's first round opponent since they were the only two players remaining with 6-0 records.
 
 When Francis Cormier opened the first pack and he took a Skirk Commando leaving Gab to choose between Wirewood Savage and Snarling Undurak—the age old debate—and Gab took the Savage hoping that Guillaume would pick the beast. "I took it on the outside possibility that the guy next to me would take the Undurak." When asked which card he would have chosen without knowing who his opponent was going to be Gab was less sure of his pick. "I think I generally prefer this guy (Savage) but it is close. I had three Savages in my deck yesterday and it was RIDICULOUS!"
 
@@ -90,7 +92,9 @@ Rood was unimpressed with Josh's choice, "Trust me!"
 
 Gab: "I did trust you. I took them over everything." 
 
-![](https://i.ormos.uk/09/ab/09ab6f503c024ae785db8dc21d5a75dab6feba647cc009418700353d09cc1f98.jpg)"Since I haven't played much with *Scourge* I am relying on my teammates. A lot of decisions were made before the draft even started." Gab also knew before the draft started that he would be passing cards to his first round opponent. "That's really not fair that I was feeding him—even if I didn't take advantage of it as much as I could have. I did steal a Crested Craghorn and two Vigilantes from him."
+![](https://i.ormos.uk/09/ab/09ab6f503c024ae785db8dc21d5a75dab6feba647cc009418700353d09cc1f98.jpg)
+
+"Since I haven't played much with *Scourge* I am relying on my teammates. A lot of decisions were made before the draft even started." Gab also knew before the draft started that he would be passing cards to his first round opponent. "That's really not fair that I was feeding him—even if I didn't take advantage of it as much as I could have. I did steal a Crested Craghorn and two Vigilantes from him."
 
 It did not look like Gary had much of a deck until the third pack when he managed to grab only blue and white cards with all fifteen picks—11 or 12 of them are playable. One card that he snagged is going in his sideboard and is sure to arch some eyebrows. "They are all going to say I'm nuts. This is an unusual choice," pointing to the main deck Dawning Purist and the Wing Shards in his sideboard. "He is my only enchantment kill, plus he is a cheap morph. I only have four morphs for my Aven Farseers. Don't get me wrong—I am bringing it in out of the sideboard. I just don't think the card is as good as people say. I don't have any cheap spells to optimize it—I'm just going to get their worst attacker. Granted I have not drafted *Scourge* very much so I could be undervaluing it."
 

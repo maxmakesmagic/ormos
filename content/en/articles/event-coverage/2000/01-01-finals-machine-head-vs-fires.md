@@ -48,7 +48,9 @@ DCIのマネドラ部でそのプレイスキルを磨いてきた金。方や�
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/348F.jpg)初手に緑マナが無かったためマリガンを選択するか悩む松尾。しかし、スタートする事を選択するが、その後 5 ターンほど土地が引けない。その間に金は 3 ターン目に 《[Plague Spitter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter) 》、そして 5 ターン目にはキッカーの 《[Skizzik](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skizzik)》が襲いかかる。松尾も僅かながらに 《[Urza's Rage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage) 》で対抗するが次ターン、金は大きなミスを犯す。セットランドし場には 6 マナ。そこでキッカー 《Skizzik 》をサモンし松尾に 《Urza's Rage 》で除去されてしまう。この時、金の手札には 《[Duress](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) 》があったのだ。松尾が事故っていたため気が抜けてしまったのだろうか？結局このプレイが仇になり松尾が事故っていた 1 本目を落としてしまう。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/348F.jpg)
+
+初手に緑マナが無かったためマリガンを選択するか悩む松尾。しかし、スタートする事を選択するが、その後 5 ターンほど土地が引けない。その間に金は 3 ターン目に 《[Plague Spitter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter) 》、そして 5 ターン目にはキッカーの 《[Skizzik](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skizzik)》が襲いかかる。松尾も僅かながらに 《[Urza's Rage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Rage) 》で対抗するが次ターン、金は大きなミスを犯す。セットランドし場には 6 マナ。そこでキッカー 《Skizzik 》をサモンし松尾に 《Urza's Rage 》で除去されてしまう。この時、金の手札には 《[Duress](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) 》があったのだ。松尾が事故っていたため気が抜けてしまったのだろうか？結局このプレイが仇になり松尾が事故っていた 1 本目を落としてしまう。
 
 金 0-1 松尾
 
@@ -60,12 +62,16 @@ DCIのマネドラ部でそのプレイスキルを磨いてきた金。方や�
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/342F.jpg)お互いもくもくとセットランドが続く。4 ターン目に 《[Blastoderm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blastoderm) 》をサモンしダブル 《[Rishadan Port](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rishadan+Port) 》で金を追い込める。その後 《[Flametongue Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) 》を除去出来ずに松尾が取り返した。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/342F.jpg)
+
+お互いもくもくとセットランドが続く。4 ターン目に 《[Blastoderm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blastoderm) 》をサモンしダブル 《[Rishadan Port](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rishadan+Port) 》で金を追い込める。その後 《[Flametongue Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flametongue+Kavu) 》を除去出来ずに松尾が取り返した。
 
 金 1-2 松尾
 
 ### Game 4
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/341F.jpg)金は先手 《Dark Ritual 》から 《Flametounge Kavu 》で松尾の 《[Llanowar Elves](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves) 》を除去し最高の回りを見せる。しかし、返しの 《 Assault/Battery 》で除去されるとクリーチャーがぴたりと止まってしまう。 5 ターン目にキッカー 《Skizzik 》を通したものの、返しで 《Fire/Burst 》が決まり 2001 の日本チャンピオンは決定したのだった。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/JPNAT01/341F.jpg)
+
+金は先手 《Dark Ritual 》から 《Flametounge Kavu 》で松尾の 《[Llanowar Elves](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves) 》を除去し最高の回りを見せる。しかし、返しの 《 Assault/Battery 》で除去されるとクリーチャーがぴたりと止まってしまう。 5 ターン目にキッカー 《Skizzik 》を通したものの、返しで 《Fire/Burst 》が決まり 2001 の日本チャンピオンは決定したのだった。
 
 金 1-3 松尾

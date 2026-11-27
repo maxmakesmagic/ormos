@@ -68,7 +68,9 @@ render_recovery:
   - email form
   occurrences: 1
 ---
-![](https://i.ormos.uk/a1/c3/a1c32cb4cea706bb480729e50669771d75d76b266de86e82df6e9d8f4d16d6ec.jpg)Wizards of the Coast welcomes Hall of Famer Raphaël Lévy as the featured player here at "Ask the Pro." A fixture on the Pro Tour for the last eight years, Raphaël is uniquely positioned to answer your questions about the life of a professional **Magic** player, give a historical perspective on the game and high-level tournament scene, share stories about travelling the world, and talk about the role **Magic** plays in his life.
+![](https://i.ormos.uk/a1/c3/a1c32cb4cea706bb480729e50669771d75d76b266de86e82df6e9d8f4d16d6ec.jpg)
+
+Wizards of the Coast welcomes Hall of Famer Raphaël Lévy as the featured player here at "Ask the Pro." A fixture on the Pro Tour for the last eight years, Raphaël is uniquely positioned to answer your questions about the life of a professional **Magic** player, give a historical perspective on the game and high-level tournament scene, share stories about travelling the world, and talk about the role **Magic** plays in his life.
 
 Fifth on the lifetime Pro Points list, Raphaël began his Pro Tour career back at Pro Tour-Paris in 1997. He became a regular on the tour starting at the 1998 World Championships. Since then he hasn't missed a Pro Tour, an astounding streak cresting 50 consecutive events. He was recently honored as a member of the [**Magic** Pro Tour Hall of Fame](https://web.archive.org/web/20071002000000/https://magic.wizards.com/en/node/574031)'s 2006 class and was inducted at the 2006 World Championships in Paris. He was recently named the 2007 [Road Warrior](https://web.archive.org/web/20071002000000/https://magic.wizards.com/en/node/580661) by a vote of **Magicthegathering.com** readers, earning a spot at the [2007 Magic Invitational](https://web.archive.org/web/20071002000000/https://magic.wizards.com/en/node/580771) in October. 
 
@@ -84,7 +86,9 @@ Note: This feature isn't intended for rules-related questions. For those questio
 
 That one made it on time, dropping me at the airport 45 minutes in advance. I checked in and I was informed that my flight was delayed 30 minutes. I guess I should have had a bit more faith...
 
-![](https://i.ormos.uk/fc/da/fcdac99de7f47544c48197108f4ba62063f521feb1553c8c6cd776bba9d11787.jpg)I landed in Tyrol, where I spent two days visiting Christina. She would show me Innsbruck around and tell me about local customs. Together we found "Der Kluene Prinz" in a bookstore. "Der Kluene Prinz" is the Tyrolean version of Antoine de St Exupery's book "The Little Prince." Everywhere I go, I try to find the book in the local language. The goal, over a lifetime, would be to collect them all. I own about 50 already, and would need to find the 200 others missing... 
+![](https://i.ormos.uk/fc/da/fcdac99de7f47544c48197108f4ba62063f521feb1553c8c6cd776bba9d11787.jpg)
+
+I landed in Tyrol, where I spent two days visiting Christina. She would show me Innsbruck around and tell me about local customs. Together we found "Der Kluene Prinz" in a bookstore. "Der Kluene Prinz" is the Tyrolean version of Antoine de St Exupery's book "The Little Prince." Everywhere I go, I try to find the book in the local language. The goal, over a lifetime, would be to collect them all. I own about 50 already, and would need to find the 200 others missing... 
 
   
 

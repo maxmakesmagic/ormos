@@ -112,7 +112,9 @@ I am moving on because time demands it. In two different ways.
 
 ### Time Demands, #1
 
-![Time_Walk](https://i.ormos.uk/fe/59/fe5920952f0425b56bb7d8a13fb14459de94e403acf393956eee81291796b963.jpg)First, when it comes to time, I have none. In addition to **Magic** writing, I have had at least three other careers – Director of Minnesota's Dislocated Worker program, Hastings City Council member, and co-author of the JENNIFER SCALES series with my wife MaryJanice Davidson. In addition, I play racquetball and **Magic**; and I've been told I have a wife and children. (The dog tells me this; she's a wily bitch, but I think I can trust her.)
+![Time_Walk](https://i.ormos.uk/fe/59/fe5920952f0425b56bb7d8a13fb14459de94e403acf393956eee81291796b963.jpg)
+
+First, when it comes to time, I have none. In addition to **Magic** writing, I have had at least three other careers – Director of Minnesota's Dislocated Worker program, Hastings City Council member, and co-author of the JENNIFER SCALES series with my wife MaryJanice Davidson. In addition, I play racquetball and **Magic**; and I've been told I have a wife and children. (The dog tells me this; she's a wily bitch, but I think I can trust her.)
 
 So flash back to an early June evening. I'm in a plush hotel room, courtesy of our publisher, relaxing with MaryJanice – this is Chicago, I think. She's just wowed the latest crowd on the book tour, we're both exhausted, she's collapsed on this enormous bed with about thirty-three pillows, but I'm still sitting at the desk and madly poking at the computer. My team at work is planning activities for the workers at the Saint Paul Ford plant (which announced it would shut down, putting 1,900 workers in financial turmoil); a bunch of Hastings businesses are putting the final touches on a Historic Car Show for this coming weekend; and I just got a brainstorm for a new book series I'd like to outline before I go to bed and lose half the plotline. Also, I'd like to get a bit of work in on the third Jennifer Scales book (THE SILVER MOON ELM).
 
@@ -136,7 +138,9 @@ Then I wrote the article. But for the first time in a while, I felt resentful fo
 
 ### Time Demands, #2
 
-![Time_and_Tide](https://i.ormos.uk/00/b5/00b57651eceb7479638b6ea9c6fbc5fbb9a54add6f99476987d72777b4e4662a.jpg)The second way in which time factors in this decision is this: time runs out. Hours and years pass. We play **Magic** games, we go to classes, we fall in love, children spawn asexually out of grain bins like eleventh-century rats, et cetera. If you're at something for more than a few years and it didn't involve wedding vows and/or a really good spaghetti sauce, then you might want to consider a change of pace.
+![Time_and_Tide](https://i.ormos.uk/00/b5/00b57651eceb7479638b6ea9c6fbc5fbb9a54add6f99476987d72777b4e4662a.jpg)
+
+The second way in which time factors in this decision is this: time runs out. Hours and years pass. We play **Magic** games, we go to classes, we fall in love, children spawn asexually out of grain bins like eleventh-century rats, et cetera. If you're at something for more than a few years and it didn't involve wedding vows and/or a really good spaghetti sauce, then you might want to consider a change of pace.
 
 I've been at this **Magic** writing thing for more than eight years, including every week here at **magicthegathering.com** since its inception. If you go to the archives you'll see over 240 results for this column, which when you add it to the 150 "Casual Fridays" columns I did for starcitygames.com and thedojo.com, as well as the few dozen "Top Ten" and "Double Take" columns I did with Bennie Smith at Scrye magazine – well, it's a lot.
 
@@ -162,7 +166,9 @@ Thank you to Turquoise Alongi, the *only* writer I've ever trusted enough to gue
 
 Thank you to the editors and managers: Charles "Tuna" Hwa, Mike Flores, Rob Hahn, Omeed Dariani, The Ferrett, Pete Hoefling, Aaron Forsythe, Bennie Smith, Joyce Greenholdt, Monty Ashley, Scott Johns, and Ted Knutson. They have all handled, with varying degrees of success, my stupendously large ego. A little Anthony Alongi goes an awfully long \[censored\] way. The lesson to learn from editors is the same lesson we've learned about the Development team at Wizards: thank heavens they're there, or we'd all be swimming in a river of mistakes.
 
-![](https://i.ormos.uk/b6/3d/b63d6468a3d9e419315c3e7e5e464ea6d696f4834b4d76404a4e6c5d638b003f.jpg)Thank you to Kevin Endo and the graphics staff at Wizards. When it comes to my articles, they have taken some real hard-luck cases and made them look great. The lesson for all of us to learn from the web graphics team is that *art matters*. Special kudos to Jen Page, who designed the giant penguin wizard token. (That has to become a real token someday, Jen. It *has* to!)
+![](https://i.ormos.uk/b6/3d/b63d6468a3d9e419315c3e7e5e464ea6d696f4834b4d76404a4e6c5d638b003f.jpg)
+
+Thank you to Kevin Endo and the graphics staff at Wizards. When it comes to my articles, they have taken some real hard-luck cases and made them look great. The lesson for all of us to learn from the web graphics team is that *art matters*. Special kudos to Jen Page, who designed the giant penguin wizard token. (That has to become a real token someday, Jen. It *has* to!)
 
 Thank you to Kevin Boris and the ***Magic** Online* staff, who gave me a free account for two years. It will kill most of my readers to learn I barely used it these last twelve months. This sort of thing belongs in the hands of a player who'll use the opportunity! What did I learn from ***Magic** Online*, during the time I was playing it almost every night? Anonymity + mass communication vehicle = a few genuine meatheads. But it also makes the nice people you meet an even sweeter deal. Because they could have been that way at no cost to themselves, yet they weren't. So thanks as well to all of the really cool people online who shared their time and energy with me.
 

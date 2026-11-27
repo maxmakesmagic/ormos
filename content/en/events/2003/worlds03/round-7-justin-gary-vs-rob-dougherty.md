@@ -247,7 +247,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds03/a844.jpg)Gary and Dougherty are Your Move Games teammates, a group that had an incredible season on the Pro Tour this year. It will be interesting to see how this match plays out, since YMG are known as Constructed specialists, and are not particularly known for high finishes in draft tournaments. Additionally, there's a little more riding on this match, since Justin Gary is on the United States team, and every match he plays factors into the team's chances of making the finals.
+![](http://www.wizards.com/sideboard/images/worlds03/a844.jpg)
+
+Gary and Dougherty are Your Move Games teammates, a group that had an incredible season on the Pro Tour this year. It will be interesting to see how this match plays out, since YMG are known as Constructed specialists, and are not particularly known for high finishes in draft tournaments. Additionally, there's a little more riding on this match, since Justin Gary is on the United States team, and every match he plays factors into the team's chances of making the finals.
 
 ### Game 1
 
@@ -271,7 +273,9 @@ Dougherty- "Yes, I'd like to thank the public for such a ridiculous card in Limi
 
 Gary mulliganed his opening hand. Dougherty had a second turn Gempalm Strider, and Gary played a morph. The Strider came through for two damage, and Dougherty played a morph of his own. Gary's morph swung back to keep pace, and he ended his turn with four mana untapped. Dougherty drew, and cycled Wirewood Guardian to get a fourth land. Dragon Shadow went on the Strider, which couldn't attack quite yet since it was tapped down by Choking Tethers.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a842.jpg)Gary played Zealous Inquisitor, which died to Dougherty's Misery Charm. The Strider attacked for three, and Dougherty played a second morph. Gary's morph got through for another two points of damage, and he tapped out for Grassland Crusader. Dougherty now attacked with his whole team, dealing seven damage total to bring Gary down to eight. Symbiotic Elf came out to give Dougherty a little more pressure. Gary used Temporal Fissure to bounce the Strider, which was an effective answer to the Dragon Shadow problem. 
+![](http://www.wizards.com/sideboard/images/worlds03/a842.jpg)
+
+Gary played Zealous Inquisitor, which died to Dougherty's Misery Charm. The Strider attacked for three, and Dougherty played a second morph. Gary's morph got through for another two points of damage, and he tapped out for Grassland Crusader. Dougherty now attacked with his whole team, dealing seven damage total to bring Gary down to eight. Symbiotic Elf came out to give Dougherty a little more pressure. Gary used Temporal Fissure to bounce the Strider, which was an effective answer to the Dragon Shadow problem. 
 
 Dougherty attacked with two morphs and the Symbiotic Elf\- the morphs were blocked by Gary's Grassland Crusader and morph creature respectively. The Crusader made itself 4/6, and after damage went on the stack, Frontline Strategist flipped over to completely shift the board in Gary's favor. Both of Dougherty's creatures headed to the graveyard, and they were Patron of the Wild and Skinthinner. Dougherty didn't have the second swamp to unmorph Skinthinner, and was a bit unhappy to send him right to the graveyard. Whipgrass Entangler provided even more defense, and slowed down an attack phase- Chill Haunting got it out of the way.
 

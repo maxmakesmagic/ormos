@@ -94,7 +94,9 @@ render_recovery:
   - Transcendence
   occurrences: 177
 ---
-![](http://www.wizards.com/sideboard/images/worlds03/a518.jpg)With four Mirari's Wake decks in the top 8 there was bound to be a mirror match in the quarterfinals. Usually such a mirror match ends up as quite a coinflip but these two decks had quite a different character. Remie's deck had four Decree of Justice maindeck where Zink only had two but Zink had Mirari. This should make Zink the control player as he had less threats but more answers to Remie's oncoming soldiers. After sideboarding however, this would be a whole different ballgame. Remie had Call of the Herd to bring in and Zink could sideboard in Brushhoppers and Exalted Angels. 
+![](http://www.wizards.com/sideboard/images/worlds03/a518.jpg)
+
+With four Mirari's Wake decks in the top 8 there was bound to be a mirror match in the quarterfinals. Usually such a mirror match ends up as quite a coinflip but these two decks had quite a different character. Remie's deck had four Decree of Justice maindeck where Zink only had two but Zink had Mirari. This should make Zink the control player as he had less threats but more answers to Remie's oncoming soldiers. After sideboarding however, this would be a whole different ballgame. Remie had Call of the Herd to bring in and Zink could sideboard in Brushhoppers and Exalted Angels. 
 
 ### Game 1
 

@@ -551,7 +551,9 @@ Many of the short term ways of raising the dead involve removing the creature fr
 
 ### Sometimes one is not enough
 
-![](https://i.ormos.uk/18/2a/182a3b5d14ca550cf8b4880273dd7733456c5ea7457c95da0a25266fe903148b.jpg)Finally, one of the things that is true about cards is that we want more of the same. If this wasn't the case, every deck would always run one-of this and one-of that, and no one would run extra copies.
+![](https://i.ormos.uk/18/2a/182a3b5d14ca550cf8b4880273dd7733456c5ea7457c95da0a25266fe903148b.jpg)
+
+Finally, one of the things that is true about cards is that we want more of the same. If this wasn't the case, every deck would always run one-of this and one-of that, and no one would run extra copies.
 
 There are cards that just benefit from a few extra copies. Here are a few as food for thought:
 

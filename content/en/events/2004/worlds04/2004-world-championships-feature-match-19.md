@@ -375,7 +375,9 @@ render_recovery:
 ---
 ### Quarterfinals: Aeo Paquette vs. Gabriel Nassif
 
-![](https://i.ormos.uk/5f/ab/5fabf12899418ca0c658e801b49885c2315bf66d299875288dbf0d88c13d7859.jpg)Gabriel Nassif clinched Player of the Year on Saturday during the teams competition, but that hasn't left him complacent as the 25-year-old Frenchman is looking to add World Champion to his already impressive resume. He even brought out his old yellow hat for the final day, displaying the image he was mostly known for when he first got on the Pro Tour -- before his play made him more than just a shy, gawky kid in a bright yellow hat.
+![](https://i.ormos.uk/5f/ab/5fabf12899418ca0c658e801b49885c2315bf66d299875288dbf0d88c13d7859.jpg)
+
+Gabriel Nassif clinched Player of the Year on Saturday during the teams competition, but that hasn't left him complacent as the 25-year-old Frenchman is looking to add World Champion to his already impressive resume. He even brought out his old yellow hat for the final day, displaying the image he was mostly known for when he first got on the Pro Tour -- before his play made him more than just a shy, gawky kid in a bright yellow hat.
 
 Nassif's opponent is a relative newcomer to the **Magic** scene, but Aeo Paquette -- known as CoolAeo to his Magic Online opponents -- has definitely made his mark, Top 8'ing both Pro Tours he has attended. The young Canadian is looking to continue his hot streak, hoping that his Ravager Affinity deck -- piled high with interesting card choices like Chrome Mox and Shrapnel Blast in his maindeck and Serum Visions in the sideboard -- will allow him to overcome Gabriel Nassif's permissive blue-white control deck.
 

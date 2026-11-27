@@ -44,7 +44,9 @@ archive_source:
   sha256: d4cfb4050d0583d8e7499401ec9c76ac429cfbd528357c185bb8a5c3b5a9dfea
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a929.jpg)Both Carlos Romao and Justin Gary have proven themselves in constructed formats over the past year, with Romao winning Worlds and Gary winning PT Houston. Of course, both players won with dedicated control decks, which don't really exist here in this environment. This Pro Tour is like the Mesozoic Era of Magic, with huge thundering beasts stomping across the land. Which of these life-long blue mages has the better skill with giant monsters? With both players at 2-2, the loser is out, so tension was high.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a929.jpg)
+
+Both Carlos Romao and Justin Gary have proven themselves in constructed formats over the past year, with Romao winning Worlds and Gary winning PT Houston. Of course, both players won with dedicated control decks, which don't really exist here in this environment. This Pro Tour is like the Mesozoic Era of Magic, with huge thundering beasts stomping across the land. Which of these life-long blue mages has the better skill with giant monsters? With both players at 2-2, the loser is out, so tension was high.
 
 ### Game 1
 
@@ -52,7 +54,9 @@ In Game 1, Justin's white-red cycling deck gave him neither [Lightning Rift](htt
 
 Romao put out a second [Tephraderm](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tephraderm), which forced Gary to play [Akroma's Vengeance](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance). "A fair trade," he said, looking to go two-for-two—Vengeance and Rift for two Tephaderms. But Romao had a different trade in mind, using a [Vitality Charm](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm) to save one of his [Tephraderm](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tephraderm)s. Akroma is no God in the [Wrath](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath) department.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a930.jpg)Romao added an [Elvish Warrior](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior) to his side. Gary played back-to-back [Renewed Faith](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith)s, which kept him alive long enough to find another Vengeance. But Romao had a third [Tephraderm](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tephraderm) ready, and that one did Gary in.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a930.jpg)
+
+Romao added an [Elvish Warrior](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior) to his side. Gary played back-to-back [Renewed Faith](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renewed+Faith)s, which kept him alive long enough to find another Vengeance. But Romao had a third [Tephraderm](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tephraderm) ready, and that one did Gary in.
 
 Romao 1 – Gary 0
 
@@ -68,7 +72,9 @@ Romao 1 – Gary 1
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a928.jpg)Carlos was stuck on two land for a few turns at the beginning of the third game, and looked unhappy about it. He eventually pulled out of it, but Justin started dropping huge beaters:
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptven03/a928.jpg)
+
+Carlos was stuck on two land for a few turns at the beginning of the third game, and looked unhappy about it. He eventually pulled out of it, but Justin started dropping huge beaters:
 
 [Jareth](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jareth)...  
 [Exalted Angel](https://web.archive.org/web/20030321000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel)...  

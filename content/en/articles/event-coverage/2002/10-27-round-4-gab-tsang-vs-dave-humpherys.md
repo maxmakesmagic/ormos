@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a964.jpg)Gab Tsang seems never to go away. Just when it looks like his Pro career has taken a turn for the worse, he busts back on the scene with an impressive finish. This year it was at Grand Prix Cleveland, where he finished 2nd after claiming to have never practiced the format. This time, the format is limited, his strong suit, and he wants to improve on that 2nd.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a964.jpg)
+
+Gab Tsang seems never to go away. Just when it looks like his Pro career has taken a turn for the worse, he busts back on the scene with an impressive finish. This year it was at Grand Prix Cleveland, where he finished 2nd after claiming to have never practiced the format. This time, the format is limited, his strong suit, and he wants to improve on that 2nd.
 
 Dave Humpherys has never gone away, either, and that isn't a surprise to anyone. "The Hump" has been finishing high at events ever since the Pro Tour's inception, and his attendance at this year's Invitational based on Pro Points is indication that he isn't slowing down.
 
@@ -65,7 +67,9 @@ Gab started of with an [Elvish Warrior](https://web.archive.org/web/200210270000
 
 Gab swung in for 2 and cast a [Wirewood Elf](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf). The Hump attacked back, and Glocked the 2/2 with his 1/2, representing [Vitality Charm](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm). Sure enough, when the Hump passed priority, Gab cast the green instant. But the Hump showed his morph to be the 3/1 first striking [Battering Craghorn](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battering+Craghorn), earning a nifty 2-for-0.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a965.jpg)If the rules allowed first strike damage to be put on the stack even if no first strikers were in play, Gab may have been able to avoid getting wrecked. But, alas, that's not how the game works.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a965.jpg)
+
+If the rules allowed first strike damage to be put on the stack even if no first strikers were in play, Gab may have been able to avoid getting wrecked. But, alas, that's not how the game works.
 
 The Hump made a 4/3 [Charging Slateback](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Charging+Slateback), and Gab answered with his own 4/3, the unblockable [Anurid Murkdiver](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anurid+Murkdiver). Hump swung in with his Beasts for 7, then dropped a [Headhunter](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Headhunter) and a [Rotlung Reanimator](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rotlung+Reanimator) (eliciting, "Oooh, that guy's a nice one" from Gab).
 
@@ -79,7 +83,9 @@ Tsang 1 – Humpherys 0
 
 The Hump came out strong in Game 2 with a [Wretched Anurid](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wretched+Anurid), but it quickly turned sour when he missed his third land drop and had to settle for an unmorphed [Headhunter](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Headhunter).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a966.jpg)Gab dropped a [Shepherd of Rot](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shepherd+of+Rot) and a [Nantuko Husk](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk), and the Shepherd ended up trading with the Anurid. The Hump eventually found more land, but Gab had deployed a 4/4 [Soulless One](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soulless+One) that was looking to end things in a hurry.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpphi02/a966.jpg)
+
+Gab dropped a [Shepherd of Rot](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shepherd+of+Rot) and a [Nantuko Husk](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Husk), and the Shepherd ended up trading with the Anurid. The Hump eventually found more land, but Gab had deployed a 4/4 [Soulless One](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soulless+One) that was looking to end things in a hurry.
 
 The Hump did manage to start casting spells, but because of his land problems it was like he was two turns behind. [Barkhide Mauler](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barkhide+Mauler), [Silklash Spider](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silklash+Spider), and [Krosan Tusker](https://web.archive.org/web/20021027000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker) from Gab were too much.
 

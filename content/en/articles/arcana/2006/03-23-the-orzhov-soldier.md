@@ -61,7 +61,9 @@ archive_source:
   sha256: e09793537fe619d16e901a6e47dac2a3a9080010f6fbbd025126de82dda3c04b
 render_recovery: []
 ---
-![Guildpact style guide image](https://i.ormos.uk/e0/0f/e00f7583686058905a1238a2bed8595db33719044e92cc14e97e6869fd5015e5.jpg)Like any organization of hierarchical power, the Orzhov Syndicate has its enforcers. These Orzhov soldiers are there as a show of force as much as for actual face-pounding -- a symbol of the Orzhov's everpresent rule. 
+![Guildpact style guide image](https://i.ormos.uk/e0/0f/e00f7583686058905a1238a2bed8595db33719044e92cc14e97e6869fd5015e5.jpg)
+
+Like any organization of hierarchical power, the Orzhov Syndicate has its enforcers. These Orzhov soldiers are there as a show of force as much as for actual face-pounding -- a symbol of the Orzhov's everpresent rule. 
 
 As you can see in the style guide image to the right (concept illustration by D. Alexander Gregory), the typical Orzhov soldier has dark and light elements in its armor, and a stylized sun symbol to reflect the Orzhov signet.
 

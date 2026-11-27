@@ -241,7 +241,9 @@ render_recovery:
 
 ### Game1
 
-![](https://www.wizards.com/sideboard/images/natjp03/a971.jpg)先手の佐藤は《熟達の刃の精鋭/Deftblade Elite》、変異と出すと大塚も《映像の造形者/Imagecrafter》、変異と出す。
+![](https://www.wizards.com/sideboard/images/natjp03/a971.jpg)
+
+先手の佐藤は《熟達の刃の精鋭/Deftblade Elite》、変異と出すと大塚も《映像の造形者/Imagecrafter》、変異と出す。
 
 大塚は置いていた変異《虚空魔道士の弟子/Voidmage Apprentice》で《低地の足跡追い/Lowland Tracker》をカウンターし、青白に致命的な《絹鎖の蜘蛛/Silklash Spider》を呼ぶ。
 

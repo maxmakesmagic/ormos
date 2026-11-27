@@ -75,7 +75,9 @@ render_recovery:
   - Mirari’s Wake
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/gpham02/962.jpg)Round 4 is normally when the pro giants enter the arena but most of them are in Pro Tour Boston. It still isn’t that easy for those remaining as a very successful trial season in the host nation had produced a lot of players with 3 byes. Local Hamburg player Georg Sheljasov was one such recipient. His Belgian opponent Geoffrey Siron finished ninth at Pro Tour Osaka and has played on the Masters.
+![](http://www.wizards.com/sideboard/images/gpham02/962.jpg)
+
+Round 4 is normally when the pro giants enter the arena but most of them are in Pro Tour Boston. It still isn’t that easy for those remaining as a very successful trial season in the host nation had produced a lot of players with 3 byes. Local Hamburg player Georg Sheljasov was one such recipient. His Belgian opponent Geoffrey Siron finished ninth at Pro Tour Osaka and has played on the Masters.
 
 Sheljasov didn’t really have a quick start, laying island, forest, island while Siron’s White Weenie deck got very aggro with two Patrol Hounds and two Tireless Tribe on the table at the end of turn 3. An end step Cunning Wish for a Moment's Peace showed Sheljasov was not playing a usual Blue-Green beatdown deck. This was confirmed when his fourth land was a Krosan Verge. Siron dumped two Deep Analysis and a Battle Screech into the graveyard with Quiet Speculation.
 
@@ -87,7 +89,9 @@ Sheljasov wasn’t finished busting out power cards and a Mirari looked very omi
 
 Sheljasov 1-0 Siron
 
-![](http://www.wizards.com/sideboard/images/gpham02/965.jpg)Siron started game two with a turn 1 Confessor, proving the lengths white has to go to find creatures in this format. The Belgian developed his hand with a Quiet Speculation for two Deep Analysis and a Battle Screech. His side of the table then started to resemble a horrific draft accident as a Phantatog joined the Confessor and a Tireless Tribe. He tapped all his white creatures to flash back the Screech.
+![](http://www.wizards.com/sideboard/images/gpham02/965.jpg)
+
+Siron started game two with a turn 1 Confessor, proving the lengths white has to go to find creatures in this format. The Belgian developed his hand with a Quiet Speculation for two Deep Analysis and a Battle Screech. His side of the table then started to resemble a horrific draft accident as a Phantatog joined the Confessor and a Tireless Tribe. He tapped all his white creatures to flash back the Screech.
 
 Meanwhile Sheljasov was happy to slowly develop his mana base with a Verge and Far Wanderings. Moment's Peace slowed down some damage but his Kirtar's Wrath failed to get past Siron’s Envelop.
 

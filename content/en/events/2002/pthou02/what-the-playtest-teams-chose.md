@@ -93,7 +93,9 @@ Getting a lot of oohs and ahhs is this new take on Reanimator. Noah Boeken and K
 
 **Kibler and friends** 
 
-![](https://i.ormos.uk/7e/3d/7e3d436518cc2e0170db97787b7e6f76222fd99f871b19d0ca847b5d02a80287.jpg)It's no secret that Brian Kibler likes constructed formats. He tore into the new Extended with nothing on his mind but finding the best deck. The only problem was that he had no-one to playtest with. Bosom buddy Ben Rubin didn't have a computer, so long-distance Apprentice wasn't an option. He played the majority of his games against Josh Ravitz, and designed the deck virtually without outside input. The end result is Gush-A-Tog, tuned within an inch of its life. Though working closely with William Jensen, the two were working on completely different decks, and Jensen abandoned his at the last minute when it became clear that it wasn't going to cut it. Lots of players are putting their faith in Kibler's design. Matt Linde put it another way "I'm playing this deck because Kibler likes it and we didn't have a second deck." Not the most glowing endorsement.
+![](https://i.ormos.uk/7e/3d/7e3d436518cc2e0170db97787b7e6f76222fd99f871b19d0ca847b5d02a80287.jpg)
+
+It's no secret that Brian Kibler likes constructed formats. He tore into the new Extended with nothing on his mind but finding the best deck. The only problem was that he had no-one to playtest with. Bosom buddy Ben Rubin didn't have a computer, so long-distance Apprentice wasn't an option. He played the majority of his games against Josh Ravitz, and designed the deck virtually without outside input. The end result is Gush-A-Tog, tuned within an inch of its life. Though working closely with William Jensen, the two were working on completely different decks, and Jensen abandoned his at the last minute when it became clear that it wasn't going to cut it. Lots of players are putting their faith in Kibler's design. Matt Linde put it another way "I'm playing this deck because Kibler likes it and we didn't have a second deck." Not the most glowing endorsement.
 
 **The Germans** 
 

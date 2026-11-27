@@ -88,7 +88,9 @@ render_recovery:
   - Visara
   occurrences: 59
 ---
-![](https://i.ormos.uk/e8/37/e837750f5fd111cae28b11bdcc0f94a46235ed6cceb9efc74f47a9260aa7f2fc.jpg)Noah won a qualifier in Charlottesville, VA. He's been playing Magic for a little over a year, having started with *Judgment*. He brings a mono-black Zombies build to this tournament. Steven placed second in a JSS Challenge Qualifier in Costa Mesa, CA. Steven started playing shortly after the release of Invasion. He decided to go with three-color Mirari's Wake for this event, probably one of the most skill intensive decks to play in this format.
+![](https://i.ormos.uk/e8/37/e837750f5fd111cae28b11bdcc0f94a46235ed6cceb9efc74f47a9260aa7f2fc.jpg)
+
+Noah won a qualifier in Charlottesville, VA. He's been playing Magic for a little over a year, having started with *Judgment*. He brings a mono-black Zombies build to this tournament. Steven placed second in a JSS Challenge Qualifier in Costa Mesa, CA. Steven started playing shortly after the release of Invasion. He decided to go with three-color Mirari's Wake for this event, probably one of the most skill intensive decks to play in this format.
 
 ### Game 1
 
@@ -105,7 +107,9 @@ Noah Barnett 1 – Steven Gutierrez 0
 Game 2  
  The sideboarding started immediately after Steven packed up his cards following Game 1. Sideboarding on his side appeared to be a pre-made decision. Mono-black has been all over Nationals, and Steven seems to have made his sideboarding decisions before this event even began.
 
-![](http://www.wizards.com/sideboard/images/natus03/a869.jpg)Steven pulled Mirari and Compulsion out of his deck, adding in two copies of Chastise.
+![](http://www.wizards.com/sideboard/images/natus03/a869.jpg)
+
+Steven pulled Mirari and Compulsion out of his deck, adding in two copies of Chastise.
 
 For Noah the sideboarding decision took a little longer, and was much more excessive. Four copies of Smother, three Mutilates and two Shambling Swarms left the deck, replaced by four copies of Braids, four copies of Duress and a single Haunting Echoes.
 
@@ -123,7 +127,9 @@ Following combat, Noah cast Cabal Therapy. "It resolves," Steven said. "Counters
 
 Noah adds a Graveborn Muse to the table, and things appeared to be going his way. An Oversold Cemetery is also added to the table, but it was useless at this point. The real problem for Steven was that Noah was drawing two cards a turn from the Muse and then getting another one from his draw step. When Wake gets outdrawn by mono-black, it tends to lose.
 
-![](http://www.wizards.com/sideboard/images/natus03/a870.jpg)"Cabal Therapy," Noah announced. It was greeted with a Counterspell from Steven though. "Sacrifice him," Noah announces, holding his Withered Wretch in the air. "I'll name Chastise," he finished.
+![](http://www.wizards.com/sideboard/images/natus03/a870.jpg)
+
+"Cabal Therapy," Noah announced. It was greeted with a Counterspell from Steven though. "Sacrifice him," Noah announces, holding his Withered Wretch in the air. "I'll name Chastise," he finished.
 
 The Chastise was in Steven's hand when the first Cabal Therapy was cast, so Noah knew he had a hit there. Steven turned his hand over revealing Chastise, Forest and Krosan Verge. Things appeared to be over.
 

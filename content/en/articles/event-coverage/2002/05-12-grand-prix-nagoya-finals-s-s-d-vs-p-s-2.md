@@ -44,7 +44,9 @@ archive_source:
   sha256: aeddf0f48522f0f983461a85d388abbd172c74b8c1012108ef1fd5abe3ccc3a4
 render_recovery: []
 ---
-![](https://i.ormos.uk/c1/01/c101cf77ff23527457f12c9555c5f7a4f9d03c57e480a30599ebb2516f453825.jpg)Things are not looking good for S.S.D. Their opponents, Masashiro Kuroda, Katsuhiro "Lightning" Mori, and Masahiko Morita have outstanding decks. Meanwhile Shuuhei Nakamura has a great deck, Kimio Imai has a passable deck, and Naoki Kabouchi has something that barely masquerades as a deck. It would be an uphill battle.
+![](https://i.ormos.uk/c1/01/c101cf77ff23527457f12c9555c5f7a4f9d03c57e480a30599ebb2516f453825.jpg)
+
+Things are not looking good for S.S.D. Their opponents, Masashiro Kuroda, Katsuhiro "Lightning" Mori, and Masahiko Morita have outstanding decks. Meanwhile Shuuhei Nakamura has a great deck, Kimio Imai has a passable deck, and Naoki Kabouchi has something that barely masquerades as a deck. It would be an uphill battle.
 
 The tone of the finals was set early by Morita. He blazed out with Beloved Chaplain, Narcissism and Teroh's Faithful while Imai's Dwarven Recruiter and Krosan Archer looked on. Then came Rabid Elephant. Imai looked like he wanted to pack it in right there. He mustered his courage and tried to find a winning play.
 
@@ -78,7 +80,9 @@ P.S.2 1 - S.S.D. 1
 
 All eyes were on Kuroda and Kabouchi. Kuroda turned up a great seven for the deciding game. Kabouchi winced, but kept his seven. Mesmeric Fiend revealed his uncertainty. He had four land, Cephalid Broker, Treetop Sentinel and Rites of Spring. Kuroda, holding Flame Burst, didn't hesitate to take the Rites, preventing Kabouchi from thinning his deck and finding his second island.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnagoya02/a936.jpg)Reckless Charge let the Fiend to extra damage, and a newly-drawn Flame Burst stopped Puppeteer, saving the original for the Broker in the wings. Kabouchi got a Halberdier to stop the Fiend. Kuroda missed his fifth land drop, stopping Soul Scourge from taking to the air. He passed it back.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnagoya02/a936.jpg)
+
+Reckless Charge let the Fiend to extra damage, and a newly-drawn Flame Burst stopped Puppeteer, saving the original for the Broker in the wings. Kabouchi got a Halberdier to stop the Fiend. Kuroda missed his fifth land drop, stopping Soul Scourge from taking to the air. He passed it back.
 
 Kabouchi let out a huge sigh of relief. He tried his Broker. It was Bursted. Kuroda slammed the top card of his deck down on the table: Swamp. Zombie Assassin joined the party. Kabouchi had no play. Soul Scourge visibly frustrated him.
 

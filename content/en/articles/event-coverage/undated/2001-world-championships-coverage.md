@@ -42,7 +42,9 @@ render_recovery:
 
 ![](https://i.ormos.uk/1d/ce/1dce2f0f325e04fc0ce2aa54d4f1907ba1055dbb61e998d4ffdf3504f04efe5c.jpg)![](https://i.ormos.uk/1d/ce/1dce2f0f325e04fc0ce2aa54d4f1907ba1055dbb61e998d4ffdf3504f04efe5c.jpg)
 
-![](https://i.ormos.uk/6a/98/6a986dd077836e839453d8e5839dc20985ad3d984d9b7fc58fb889cf6bc3757c.jpg)Team USA defeated Team Norway, two matches to one. In the battle of National Champions, Trevor Blackwell defeated Nicolai Herzog, 2-1 (his only match win in Standard through the whole tournament!) while Eugene Harvey lost in two straight games to Jan Pieter Groenhof. It was left to Brian Hegstad to win it for the US, which he did, defeating Øyvind Ødegaard.
+![](https://i.ormos.uk/6a/98/6a986dd077836e839453d8e5839dc20985ad3d984d9b7fc58fb889cf6bc3757c.jpg)
+
+Team USA defeated Team Norway, two matches to one. In the battle of National Champions, Trevor Blackwell defeated Nicolai Herzog, 2-1 (his only match win in Standard through the whole tournament!) while Eugene Harvey lost in two straight games to Jan Pieter Groenhof. It was left to Brian Hegstad to win it for the US, which he did, defeating Øyvind Ødegaard.
 
 Meanwhile, in the individual race, Tom Van de Logt of the Netherlands defeated American Alex Borteh in three straight games in the finals to become the 2001 **Magic: the Gathering** World Champion. Van de Logt takes home $35,000 for his individual success, as well as $1,000 for being on the Dutch National Team. The only other person in the Top 8 to also be on a National team was Jan Tomcani of the Slovak Republic. Tomcani won Day 1 to take the Standard title. Brock Parker posted the best record on the Invasion Block Rochester day, and Alexander Witt won the Extended day.
 

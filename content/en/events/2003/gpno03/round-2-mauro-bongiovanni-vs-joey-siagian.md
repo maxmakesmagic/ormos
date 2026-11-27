@@ -110,7 +110,9 @@ render_recovery:
   - Teferi's Response
   occurrences: 94
 ---
-![](https://i.ormos.uk/46/61/46618cd1b74055ff3d5428922e9a18182871602eb4bda3e8b45623641fc2298d.jpg)If there's one thing Mauro Bongiovanni and Joey Siagian have in common, it's their bewilderment at being chosen as a feature match. Siagian has been making the rounds on the Asian Grand Prix circuit, but a trip stateside gave him a chance to test his game against America's best. Today he is with Scrounger-Oath. Bongiovanni is a familiar face at all the tournaments around his native Montreal, as well as an off-and-on Pro Tour competitor. Last night he came within a hair of snatching three byes with blue-green madness, the same deck he's piloting today.
+![](https://i.ormos.uk/46/61/46618cd1b74055ff3d5428922e9a18182871602eb4bda3e8b45623641fc2298d.jpg)
+
+If there's one thing Mauro Bongiovanni and Joey Siagian have in common, it's their bewilderment at being chosen as a feature match. Siagian has been making the rounds on the Asian Grand Prix circuit, but a trip stateside gave him a chance to test his game against America's best. Today he is with Scrounger-Oath. Bongiovanni is a familiar face at all the tournaments around his native Montreal, as well as an off-and-on Pro Tour competitor. Last night he came within a hair of snatching three byes with blue-green madness, the same deck he's piloting today.
 
 ### Game 1
 
@@ -124,7 +126,9 @@ Bongiovanni 1 - Siagian 0
 
 ### Game 2
 
-![](https://i.ormos.uk/1a/b1/1ab1774bc5a03e74e45c71fb9ed544be5d705f871c10748d121ac2735a0b4acf.jpg)This time around Siagian had his blue mana, and it set up some strong ridiculousness. He had Brainstorm - Flooded Strand, then Counterspell and Gainsay for Bongiovanni's plays of Wild Mongrel and Waterfront Bouncer. He refueled with a pair of Accumulated Knowledges while Bongiovanni failed to draw his third land. He discarded Deep Analysis and played it on his following turn, but drew only spells.
+![](https://i.ormos.uk/1a/b1/1ab1774bc5a03e74e45c71fb9ed544be5d705f871c10748d121ac2735a0b4acf.jpg)
+
+This time around Siagian had his blue mana, and it set up some strong ridiculousness. He had Brainstorm - Flooded Strand, then Counterspell and Gainsay for Bongiovanni's plays of Wild Mongrel and Waterfront Bouncer. He refueled with a pair of Accumulated Knowledges while Bongiovanni failed to draw his third land. He discarded Deep Analysis and played it on his following turn, but drew only spells.
 
 Meanwhile Siagian cycled through his deck with Brainstorms, fetchlands, and Intuition. This last showed Bongiovanni the remaining two Knowledges and a Cunning Wish. Bongiovanni let him draw four. From there things just got silly. Siagian resolved both Future Sight and Oath of Druids. Bongiovanni had Naturalize for the Oath. Mana Leak stopped it.
 
@@ -134,7 +138,9 @@ Bongiovanni 1 - Siagian 1
 
 ### Game 3
 
-![](https://i.ormos.uk/74/ce/74cefcd2c10199b5009b1427ccc4f94809f1c27dfdf10c26fc46268745d61398.jpg)Finally it was Bongiovanni's turn to go first. He opened with Rootwalla and Wild Mongrel to Siagian's Brainstorm. Siagian played more lands, but unfortunately for him, Bongiovanni didn't need to cast many more spells. He pitched and resolved a Deep Analysis. Mana Leak stopped Wild Mongrel, and Forbid cut down an Arrogant Wurm, but when Siagian tapped five it was only for Future Sight. Bongiovanni did some calculations, and came up with a number greater than Siagian's life total.
+![](https://i.ormos.uk/74/ce/74cefcd2c10199b5009b1427ccc4f94809f1c27dfdf10c26fc46268745d61398.jpg)
+
+Finally it was Bongiovanni's turn to go first. He opened with Rootwalla and Wild Mongrel to Siagian's Brainstorm. Siagian played more lands, but unfortunately for him, Bongiovanni didn't need to cast many more spells. He pitched and resolved a Deep Analysis. Mana Leak stopped Wild Mongrel, and Forbid cut down an Arrogant Wurm, but when Siagian tapped five it was only for Future Sight. Bongiovanni did some calculations, and came up with a number greater than Siagian's life total.
 
 **Final Result:** Mauro Bongiovanni defeats Joey Siagian 2-1
 

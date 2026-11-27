@@ -62,7 +62,9 @@ render_recovery:
 ---
 *Translated by Ron Foster*
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/natjp03/a947.jpg)The 2002-2003 Pro Season is one Hisaya Tanaka is not likely to forget soon. After placing 13th at PT Chicago—the highest ranked Japanese player at that event—he went on to become the GP Kyoto Finalist, solidly establishing his credentials as one of Japan's best Limited players. Now, he hopes to add another title to his résumé: National Champion.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/natjp03/a947.jpg)
+
+The 2002-2003 Pro Season is one Hisaya Tanaka is not likely to forget soon. After placing 13th at PT Chicago—the highest ranked Japanese player at that event—he went on to become the GP Kyoto Finalist, solidly establishing his credentials as one of Japan's best Limited players. Now, he hopes to add another title to his résumé: National Champion.
 
 ### • Playing From The Gut
 

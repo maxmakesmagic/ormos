@@ -85,7 +85,9 @@ render_recovery:
   - Oath of Druids
   occurrences: 44
 ---
-![Feature Match: Tom Guevin vs. Jon Finkel](http://www.wizards.com/sideboard/images/ptno03/949.jpg "Feature Match: Tom Guevin vs. Jon Finkel")For the past several years the biggest weakness in Jon Finkel's **Magic** game has been Constructed formats. Jon would often find himself flailing for a deck hours before the tournament with little practice and no understanding of the metagame. 
+![Feature Match: Tom Guevin vs. Jon Finkel](http://www.wizards.com/sideboard/images/ptno03/949.jpg "Feature Match: Tom Guevin vs. Jon Finkel")
+
+For the past several years the biggest weakness in Jon Finkel's **Magic** game has been Constructed formats. Jon would often find himself flailing for a deck hours before the tournament with little practice and no understanding of the metagame. 
 
 To avoid a repeat performance, Jon has joined up with Your Move Games. Not only is he playing one of their decks-Scepter Oath-but he even participated on their mailing list and was an active participant in the team's work on the format.
 
@@ -97,7 +99,9 @@ Both players were already saddled with two losses and Jon seemed cheered by the 
 
 ### Game 1
 
-![A pensive Jon Finkel](http://www.wizards.com/sideboard/images/ptno03/947.jpg "A pensive Jon Finkel")Jon rolled a die and then Tom went through his dramatic die roll, which involves tossing the die twenty feet in the air catching it and tossing it onto the table. After all that work he was understandably disappointed to lose the roll. "Very huge."
+![A pensive Jon Finkel](http://www.wizards.com/sideboard/images/ptno03/947.jpg "A pensive Jon Finkel")
+
+Jon rolled a die and then Tom went through his dramatic die roll, which involves tossing the die twenty feet in the air catching it and tossing it onto the table. After all that work he was understandably disappointed to lose the roll. "Very huge."
 
 Jon had to send back his first two hands and eventually settled on a one-lander. Tom was fine with his and the match was underway. Jon led off with a Yavimaya Coast and Tom played and used a Wooded Foothills to play Mogg Fanatic. Jon found a Shivan Reef on the top of his deck and was able to Counterspell the Goblin Recruiter that Tom attempted on the next turn.
 
@@ -115,7 +119,9 @@ Finkel 0 - Tom 1
 
 ### Game 2
 
-![Stone-Faced Tom Guevin](http://www.wizards.com/sideboard/images/ptno03/948.jpg "Stone-Faced Tom Guevin")While they shuffled Tom teased Jon about getting Magic through the Dark Ages before it had any other superstars, "Johnny was like the Magic Johnson/Larry Bird of Magic. If you are the Larry-I'm sorry. You were Magic Johnson-who was Larry Bird?"
+![Stone-Faced Tom Guevin](http://www.wizards.com/sideboard/images/ptno03/948.jpg "Stone-Faced Tom Guevin")
+
+While they shuffled Tom teased Jon about getting Magic through the Dark Ages before it had any other superstars, "Johnny was like the Magic Johnson/Larry Bird of Magic. If you are the Larry-I'm sorry. You were Magic Johnson-who was Larry Bird?"
 
 Jon had no answer handy and just shrugged and offered, "Justice?"
 

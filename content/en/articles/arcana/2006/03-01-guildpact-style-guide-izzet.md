@@ -161,7 +161,9 @@ As you can see below, the wizards of the Izzet guild dress in flamboyant and alc
 
 ![Guildpact style guide images by D. Alexander Gregory](https://i.ormos.uk/50/b2/50b2c4e1ad1f95ce9b62aa547254d2b3d9cd7065a9547411098627c10c789cb8.jpg) 
 
-![Guildpact style guide images by D. Alexander Gregory](https://i.ormos.uk/7e/74/7e742d1c8604f0bb0ac9f33495aed28b0fb9770b966d89cc819e27eda61f1ffd.jpg)The Izzet employ more than one kind of assistant in their mad experimentation. There are the [weirds](https://web.archive.org/web/20060301000000/http://gatherer.wizards.com/?first=1&last=100&term=weird&field_rules=on&field_type=on&setfilter=allsets&colorfilter=all&typefilter=all&output=summary&sort=name&x=31&y=24), walking fusions of opposing elements originally invented by Niv-Mizzet himself. And then there are the wizard wannabes, the Izzet goblins. Check out these two diminutive apprentices (right) doing gruntwork for some Izzet mage. Note the art of Frazzle, Mimeofacture and of course [Goblin Flectomancer](https://web.archive.org/web/20060301000000/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/1024) to see more examples of Izzet goblins based on these fellows. 
+![Guildpact style guide images by D. Alexander Gregory](https://i.ormos.uk/7e/74/7e742d1c8604f0bb0ac9f33495aed28b0fb9770b966d89cc819e27eda61f1ffd.jpg)
+
+The Izzet employ more than one kind of assistant in their mad experimentation. There are the [weirds](https://web.archive.org/web/20060301000000/http://gatherer.wizards.com/?first=1&last=100&term=weird&field_rules=on&field_type=on&setfilter=allsets&colorfilter=all&typefilter=all&output=summary&sort=name&x=31&y=24), walking fusions of opposing elements originally invented by Niv-Mizzet himself. And then there are the wizard wannabes, the Izzet goblins. Check out these two diminutive apprentices (right) doing gruntwork for some Izzet mage. Note the art of Frazzle, Mimeofacture and of course [Goblin Flectomancer](https://web.archive.org/web/20060301000000/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/1024) to see more examples of Izzet goblins based on these fellows. 
 
   
 

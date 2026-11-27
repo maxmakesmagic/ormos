@@ -1025,7 +1025,9 @@ Hello everyone, and welcome back to Building on a Budget! [Four weeks ago](/en/a
 
 As you may have noticed, this series has changed from (Part X of 2) to (Part X of 3). Originally I had intended to go straight into playtesting with DELangley's deck, with a brief introduction about the deck choices made for his initial build. However, after writing part of the introduction, I found a very rich lesson about how even the smallest cards choices can have a large impact on the performance of your deck. 
 
-![Choice_of_Damnations](https://i.ormos.uk/b2/10/b2109a9561580ef012e79cad0b47d7b8012f36de80dae924d9075d673e962d90.jpg)One of the challenges of deckbuilding is being able to choose the best card for your deck when presented with choices that have minor variances. For instance, let's say you're playing mono-black control and want a generic single-target kill spell for your deck – something that can be used to take out opposing creatures in a pinch. In Standard (including *Ninth Edition*, not including *Tenth Edition*—*Tenth Edition* isn't legal online for another couple of weeks!), these would be your choices:
+![Choice_of_Damnations](https://i.ormos.uk/b2/10/b2109a9561580ef012e79cad0b47d7b8012f36de80dae924d9075d673e962d90.jpg)
+
+One of the challenges of deckbuilding is being able to choose the best card for your deck when presented with choices that have minor variances. For instance, let's say you're playing mono-black control and want a generic single-target kill spell for your deck – something that can be used to take out opposing creatures in a pinch. In Standard (including *Ninth Edition*, not including *Tenth Edition*—*Tenth Edition* isn't legal online for another couple of weeks!), these would be your choices:
 
 ### Standard's Big Black Removal Suite
 

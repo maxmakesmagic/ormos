@@ -366,7 +366,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/d5/63/d563920035d5e923013341e37ef734ed9ca873365e2f3958eb238e360227ca18.jpg)Readers responded pretty firmly to last week's column, which spoke to "imagery" decks that played off of a story. A particular subset of theme decks, imagery decks can be tremendously fun to design, play, and even play against.
+![](https://i.ormos.uk/d5/63/d563920035d5e923013341e37ef734ed9ca873365e2f3958eb238e360227ca18.jpg)
+
+Readers responded pretty firmly to last week's column, which spoke to "imagery" decks that played off of a story. A particular subset of theme decks, imagery decks can be tremendously fun to design, play, and even play against.
 
 So this week, we're just going to kick back and have some harmless – and be warned, fairly pointless – fun. Hey, I'm all for satisfying readers' appetites, but I like doing it on my own terms. I'll throw out three *highly random* decks I've created. Each is based in a story that ought to be familiar – at least within Western culture. (I apologize if these stories are not familiar to your culture. What can I say – I was born here, and I don't enjoy the sort of household budget or career that would make me intimately familiar with anything else. I encourage those from other cultures to post their own imagery decks on the message boards. Share with us – we'd love to hear from you!)
 

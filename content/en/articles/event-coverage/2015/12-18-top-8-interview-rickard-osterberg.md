@@ -44,7 +44,9 @@ archive_source:
   sha256: 91eff1b3e7cd925438ac2f616679a8fc124618d95b953606628c64157d67e64c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/343.JPG)Rickard Osterberg, a 24-year-old from Sweden, went 4 - 2 in the draft then 5 - 0 - 1 in the standard, with his accelerated blue deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/343.JPG)
+
+Rickard Osterberg, a 24-year-old from Sweden, went 4 - 2 in the draft then 5 - 0 - 1 in the standard, with his accelerated blue deck.
 
 How long have you been playing Magic ?
 

@@ -170,7 +170,9 @@ Like Timmy and Johnny, Spike has his own subgroups. What separates these subgrou
 
 **Innovators**
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr220b_picMain_en.jpg)This group is the closest thing Spike has to Johnny sensibilities. (Although I should point out the Innovator Spike wants to win first and foremost; he doesn't feel any need to be novel or unnecessarily different.) Innovator Spike prides himself on his ability to judge new cards. His goal is to find the next broken thing. Innovator Spike's dream is to spawn the next dominant deck. He wants to break the game. And like Johnny, he wants credit.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr220b_picMain_en.jpg)
+
+This group is the closest thing Spike has to Johnny sensibilities. (Although I should point out the Innovator Spike wants to win first and foremost; he doesn't feel any need to be novel or unnecessarily different.) Innovator Spike prides himself on his ability to judge new cards. His goal is to find the next broken thing. Innovator Spike's dream is to spawn the next dominant deck. He wants to break the game. And like Johnny, he wants credit.
 
 Because Innovator Spike is so focused on breaking new cards, he spends a great deal of time understanding the nuances of the mechanics. If something broke once, odds are greater that R&D will misjudge the same thing in the future. Because this group wants to understand how the game ticks, they are the ones most likely to be interest in **Magic** game theory. They want to understand things like card advantage and card utility because it is this intimate knowledge that's going to reward them later on.
 
@@ -216,7 +218,9 @@ Timmy/Johnny/Spike wants it all. He wants to prove that he can win while being i
 
 ### Vorthos
 
-![](http://archive.wizards.com/magic/images/mtgcom/fcpics/taste/mc2_vorthos.jpg)The last thing I feel obliged to touch upon is the “fourth” player type introduced by Matt Cavotta in his column on the creative side of **Magic** (“[Taste the Magic](https://web.archive.org/web/20131203000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc18)”). In his column, Matt explained that he felt there was a missing fourth player type who he named Vorthos. Rather than paraphrasing, why don't I just quote Matt:
+![](http://archive.wizards.com/magic/images/mtgcom/fcpics/taste/mc2_vorthos.jpg)
+
+The last thing I feel obliged to touch upon is the “fourth” player type introduced by Matt Cavotta in his column on the creative side of **Magic** (“[Taste the Magic](https://web.archive.org/web/20131203000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc18)”). In his column, Matt explained that he felt there was a missing fourth player type who he named Vorthos. Rather than paraphrasing, why don't I just quote Matt:
 
 > Vorthos (His name is actually John, but since there's already a “Johnny” in the mix, he opted to go with the name of his 16th level half-elven ranger/warmage.) is the guy who never puts more than one of any legend card in his deck because “it just wouldn't be right.” He's the guy who will only play with the Icy Manipulator from *Ice Age* because it's the one they call the “Bone Crank.” He won't play with the *Fallen Empires* cards with the stinky alternate art. Vorthos is the guy who started collecting cards because he liked the art, then read some **Magic** novels, then saw his favorite characters appear on some cards and decided to learn to play. There are a lot of Vorthoses out there. Some collect cards, but might not even play. Some have a hoot getting artists to sign their cards. Some don't read flavor text 'til after they finish the novel in case it might spoil the ending. Vorthos understands that **Magic can be fun even when you're not playing the game**.
 

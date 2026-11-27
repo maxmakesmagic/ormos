@@ -78,7 +78,9 @@ render_recovery:
   - Firebolt
   occurrences: 23
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a947.jpg)In this round, rising Thai star Veerapat Sirilertvorakul squared off against Singapore's Bernard Mok. The disparity in the size of their last names only added to the rivalry. Sirilertvorakul tore up Day 1 with the sickest sealed deck ever, and has since stayed at the top of the standings. Mok, on the other hand, has had to fight his way up from twenty-seventh.
+![](http://www.wizards.com/sideboard/images/gpkl02/a947.jpg)
+
+In this round, rising Thai star Veerapat Sirilertvorakul squared off against Singapore's Bernard Mok. The disparity in the size of their last names only added to the rivalry. Sirilertvorakul tore up Day 1 with the sickest sealed deck ever, and has since stayed at the top of the standings. Mok, on the other hand, has had to fight his way up from twenty-seventh.
 
 Mok parised to start. His grip of six was far from great. Sirilertvorakul got things going with Dwarven Recruiter. Mok tried Cabal Torturer. Sirilertvorakul trumped with Chainflinger. Mok's frown reached the floor. Barbarian Outcast failed to impress.
 

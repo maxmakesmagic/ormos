@@ -124,15 +124,21 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 8/7/2010 8:21:21 PM
 
-[![](http://a3.twimg.com/profile_images/570171491/twitterProfilePhoto_normal.jpg)](http://twitter.com/ScrappySPJ)[**ScrappySPJ**](http://twitter.com/ScrappySPJ) 2nd at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) with Brg control. Lost in final round to GR, Bloodbraid Elf and Wolfbriar tElemental too good.
+[![](http://a3.twimg.com/profile_images/570171491/twitterProfilePhoto_normal.jpg)](http://twitter.com/ScrappySPJ)
+
+[**ScrappySPJ**](http://twitter.com/ScrappySPJ) 2nd at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) with Brg control. Lost in final round to GR, Bloodbraid Elf and Wolfbriar tElemental too good.
 
 8/7/2010 3:04:17 AM
 
-[![](http://a3.twimg.com/profile_images/517599559/sbsgfd_normal.jpg)](http://twitter.com/Ryanontour)[**Ryanontour**](http://twitter.com/Ryanontour) Got first at my first [**#mtgFNM**](http://search.twitter.com/search?q=%23mtgFNM) haha. Undefeated! Can't sideboard for this deck. Sorry!
+[![](http://a3.twimg.com/profile_images/517599559/sbsgfd_normal.jpg)](http://twitter.com/Ryanontour)
+
+[**Ryanontour**](http://twitter.com/Ryanontour) Got first at my first [**#mtgFNM**](http://search.twitter.com/search?q=%23mtgFNM) haha. Undefeated! Can't sideboard for this deck. Sorry!
 
 8/7/2010 1:02:35 AM
 
-[![](http://a0.twimg.com/profile_images/1084212752/bubble_pipe_normal.png)](http://twitter.com/necr0mancer)[**necr0mancer**](http://twitter.com/necr0mancer) 2nd at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tonight. Lost only to mono red. :\\ Eeeeeeeehhhhhhhhhhhhhhhhhhhh.
+[![](http://a0.twimg.com/profile_images/1084212752/bubble_pipe_normal.png)](http://twitter.com/necr0mancer)
+
+[**necr0mancer**](http://twitter.com/necr0mancer) 2nd at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) tonight. Lost only to mono red. :\\ Eeeeeeeehhhhhhhhhhhhhhhhhhhh.
 
 8/6/2010 11:31:03 PM
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: e2a893b56aee3253fd0ccf26fbc6ec28e29e9be926b8db00a998cfd8b3df5f6e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm12_1.jpg)Well, these two are certainly not used to the Feature Match playmat. Comparing it to **Pokémon** didn't help. They are virtually unknown as far as premier events go but right now they are very much in the hunt for this Grand Prix Top 8. And that is all that counts.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm12_1.jpg)
+
+Well, these two are certainly not used to the Feature Match playmat. Comparing it to **Pokémon** didn't help. They are virtually unknown as far as premier events go but right now they are very much in the hunt for this Grand Prix Top 8. And that is all that counts.
 
 ### Game 1
 

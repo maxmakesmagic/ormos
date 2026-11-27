@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *by Mark Wraith* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/160.jpg)Both players had managed to draft their favourite colors in the draft, with John playing a Blue/Black deck, with a little white for only one or two spells, and to pay the activation on his Stormscape Apprentice. Zvi has another White/Blue deck, which he has tried to draft every time so far today. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/160.jpg)
+
+Both players had managed to draft their favourite colors in the draft, with John playing a Blue/Black deck, with a little white for only one or two spells, and to pay the activation on his Stormscape Apprentice. Zvi has another White/Blue deck, which he has tried to draft every time so far today. 
 
 John's start in game one was slow, after he was forced to mulligan his one land opening hand, allowing Zvi to play a Galina's Knight, a 3/3 Faerie Squadron, and a 2/3 Ardent Militia. John could only manage a Trench Wurm, although by enchanting it with a Sleeper's Robe, he tried to find an answer to Mowshowitz's creatures, particularly the flyer. John only got to attack once with it, as Zvi's next attack brought him down to nine, and Zvi summoned a Crosis's Attendant. This meant that John had to hold back with the Wurm, to use it as a deterrent. John recoiled the Faerie Squadron during the American's next attack, but Zvi simply replayed it on his next turn, and brings John down to six. John couldn't find an answer fast enough without the card-drawing power of Sleeper's Robe, and was once again forced to hold back with the Trench Wurm. Zvi added up the power of his creatures in play, and realised that if he simply attacked with all his creatures, that would be the end of the first game 
 

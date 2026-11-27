@@ -128,7 +128,9 @@ render_recovery:
 ---
 Round 14 Abraham Snepvangers vs. Bill Stead
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a731.jpg)This is it. The final round of the swiss. Top 8 is on the line ... Glory, fame, and a hell of a lot of money and Pro Tour Points.
+![](http://www.wizards.com/sideboard/images/ptchi03/a731.jpg)
+
+This is it. The final round of the swiss. Top 8 is on the line ... Glory, fame, and a hell of a lot of money and Pro Tour Points.
 
 And then Bill Stead asked me to say hi to his mom.
 
@@ -149,7 +151,9 @@ Snepvangers 1 – Stead 0
 
 Again a Goblin Sledder popped up in the early game for Bram. Bill's answer was a Thoughtbound Primoc and Bram only had a morph to play. The Primoc attacked and Bill summoned a morph himself. Bram's morph went unblocked and turned out to be a Skirk Commando – taking out Bill's morphed Charging Slateback. Still the Primoc served and Bram retaliated. A Wirewood Savage was added to the mix on the Dutchman's side and Bill played his Embermage Goblin. The Commando and Savage hit the Red Zone and Bill blocked the Commando with his Primoc. The Goblin Sledder made sure it and the Primoc would trade. Snapping Thragg made an unmorphed appearance on Bram's side while the American just played land. Bram cycled his Solar Blast to kill the Embermage Goblin and serves for 5. 
 
-![](https://i.ormos.uk/9c/67/9c671ce4b5680d08982fea818246e29d96b76e7f3ccbe848ab02aef5329163df.jpg)Bill played out a morph and Bram played a cantrip Spitting Gourna and found his Thragg tapped down by Bill's Choking Tethers. Bill's morph hit the Red Zone and he cast his Slice and Dice clearing the board. A new morph was summoned and Bram came back with a morph of his own and a Wirewood Elf. Bill's morph stayed home for defense but a Wave of Indifference made sure it wouldn't really care. Bram's creatures hit the red zone and he unmorphed his Skirk Commando. Bill unmorphed his and it was ... a Disruptive Pitmage.
+![](https://i.ormos.uk/9c/67/9c671ce4b5680d08982fea818246e29d96b76e7f3ccbe848ab02aef5329163df.jpg)
+
+Bill played out a morph and Bram played a cantrip Spitting Gourna and found his Thragg tapped down by Bill's Choking Tethers. Bill's morph hit the Red Zone and he cast his Slice and Dice clearing the board. A new morph was summoned and Bram came back with a morph of his own and a Wirewood Elf. Bill's morph stayed home for defense but a Wave of Indifference made sure it wouldn't really care. Bram's creatures hit the red zone and he unmorphed his Skirk Commando. Bill unmorphed his and it was ... a Disruptive Pitmage.
 
 "Peek-a-boo!!!" – Bill  
  "Sure" – Bram  

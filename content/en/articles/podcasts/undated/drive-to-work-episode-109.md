@@ -41,4 +41,6 @@ render_recovery: []
 
 My second podcast today is my first podcast about the design of *Judgment*, the third set in the *Odyssey* block. This is the set that balanced out the "Black Set" of *Torment* by focusing on black's enemies, green and white. 
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

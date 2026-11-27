@@ -106,7 +106,9 @@ And that should have been the end of it. No invitational for Craig Jones and to 
 
 But wait, the story doesn't end here...
 
-![](https://i.ormos.uk/d1/e7/d1e77007035ac93e6ebfc7e03e27ba712f11527d15089718adf166b3947536a2.jpg)Current World Champion Makihito Mihara is unable to take the time off work. With him being unable to attend the slot drops to the second-place finisher in the Fan Favourite ballot...except Olivier Ruel has already booked a flight to Grand Prix Brisbane.
+![](https://i.ormos.uk/d1/e7/d1e77007035ac93e6ebfc7e03e27ba712f11527d15089718adf166b3947536a2.jpg)
+
+Current World Champion Makihito Mihara is unable to take the time off work. With him being unable to attend the slot drops to the second-place finisher in the Fan Favourite ballot...except Olivier Ruel has already booked a flight to Grand Prix Brisbane.
 
 And so my story begins with me ninja'ing my way into the Invitational through the sneakiest of back doors.
 

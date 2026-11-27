@@ -213,7 +213,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpnag04/r7_Okamoto.JPG)代わって射場本先攻。再び《沼/Swamp》と《霊気の薬瓶/Aether Vial》が向かい合う展開。しかし今回は岡本の《霊気の薬瓶/Aether Vial》が何も生み出すことがなく、逆に《金属モックス/Chrome Mox》(《残響する真実/Echoing Truth》を刻印)　経由の《真面目な身代わり/Solemn Simulacrum》をプレイした射場本が一手先じる格好になる。
+![](http://www.wizards.com/sideboard/images/gpnag04/r7_Okamoto.JPG)
+
+代わって射場本先攻。再び《沼/Swamp》と《霊気の薬瓶/Aether Vial》が向かい合う展開。しかし今回は岡本の《霊気の薬瓶/Aether Vial》が何も生み出すことがなく、逆に《金属モックス/Chrome Mox》(《残響する真実/Echoing Truth》を刻印)　経由の《真面目な身代わり/Solemn Simulacrum》をプレイした射場本が一手先じる格好になる。
 
 クリーチャーを引かず、《霊気の薬瓶/Aether Vial》のみが残る最悪の展開かと思われた岡本だが、《ちらつき蛾の生息地/Blinkmoth Nexus》と《頭蓋囲い/Cranial Plating》が細くもないクロックを維持する。それが射場本には痛い。
 

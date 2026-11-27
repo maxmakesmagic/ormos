@@ -63,7 +63,9 @@ render_recovery: []
 ---
 **Jun-Wei Hew vs. Jim Len**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPKL00/images/R7FeatureMatch.JPG)Dark Ritual and Mana Vault were just banned by the DCI to break up the best deck in the format: Necro-Donate. When Necro-Donate gets a good draw, it is almost impossible to beat. Jun-Wei Hew was playing Necro-Donate, and his opponent Jim Len was playing two-color Oath of Druids, similar to the deck played in Chicago by Dirk Baberowski. The match should depend on whether Necropotence hits the table or not, with Duress and Force of Will to protect it against counterspells.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPKL00/images/R7FeatureMatch.JPG)
+
+Dark Ritual and Mana Vault were just banned by the DCI to break up the best deck in the format: Necro-Donate. When Necro-Donate gets a good draw, it is almost impossible to beat. Jun-Wei Hew was playing Necro-Donate, and his opponent Jim Len was playing two-color Oath of Druids, similar to the deck played in Chicago by Dirk Baberowski. The match should depend on whether Necropotence hits the table or not, with Duress and Force of Will to protect it against counterspells.
 
 Hew's deck was known to Len. Len won the flip and looked at his hand: Island, Wasteland, three Counterspells, Brainstorm and Treetop Village. Normally, that's a good hand. Its two problems are not having a second blue mana and not having a Force of Will; it also didn't have an Oath or Powder Keg, but in this matchup that didn't matter. I would consider that a good hand, though, since you can Brainstorm on turn one. Missing a Thawing Glaciers also doesn't matter much here; the card is often too slow. He chose to mulligan the hand. His new hand wasn't as good: Mana Leak, Oath of Druids, Treetop Village, Wasteland and Tropical Island. With only six cards, he had to keep that. Hew kept his hand.
 

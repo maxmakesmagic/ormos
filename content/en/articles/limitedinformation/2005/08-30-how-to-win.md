@@ -529,7 +529,9 @@ How you do this changes so frequently that it's usually impossible to have one o
 
 ### Having a Plan
 
-![](https://i.ormos.uk/64/0c/640cdb63dae6385341ca0566ae7d2da5f26212217fa318071ccecd17af7c834d.jpg)I've said this several times before and I'll reiterate it here again now: at all times – during the draft, during deck construction, during play – you should have a plan in your head about how you are going to win the game. There are several plans that work and several ways you can go about winning so I'll recap those quickly so we're all on the same page, and then move on to how and when to switch between them.
+![](https://i.ormos.uk/64/0c/640cdb63dae6385341ca0566ae7d2da5f26212217fa318071ccecd17af7c834d.jpg)
+
+I've said this several times before and I'll reiterate it here again now: at all times – during the draft, during deck construction, during play – you should have a plan in your head about how you are going to win the game. There are several plans that work and several ways you can go about winning so I'll recap those quickly so we're all on the same page, and then move on to how and when to switch between them.
 
 **Plan 1 – Deal Damage**
 
@@ -599,7 +601,9 @@ In round three the plan changed back to card advantage once again. I knew I coul
 
 Overall there are four different situations in which you need to think about how you're going to win:
 
-![](https://i.ormos.uk/84/ad/84ad8ebe0924a2327937ea702ebff23715b69b936317bac4c1b297caaa805cca.jpg)**During the draft** – Even when you are taking cards during the draft you should think about the deck you are creating and how you plan on winning with it. Once you get into the second and third packs of the draft you should have a rough idea as to 10-15 cards that will be making your main deck and you can start to form an opinion as to what plan you will most commonly be using. Once you know that you then adjust your picks accordingly. 
+![](https://i.ormos.uk/84/ad/84ad8ebe0924a2327937ea702ebff23715b69b936317bac4c1b297caaa805cca.jpg)
+
+**During the draft** – Even when you are taking cards during the draft you should think about the deck you are creating and how you plan on winning with it. Once you get into the second and third packs of the draft you should have a rough idea as to 10-15 cards that will be making your main deck and you can start to form an opinion as to what plan you will most commonly be using. Once you know that you then adjust your picks accordingly. 
 
 You should have an idea as to what your deck needs to be able to implement its plan and concentrate more on what your deck actually needs rather than what the best card in your colours is. It's rare that you'll take a much weaker card over a more powerful one; you probably aren't going to take Minamo Scrollkeeper over Shinen of Flight's Wings for example. However, there will be times when you need to pick Ashen-Skin Zubera over Waking Nightmare as I did last week, or Frostling over Frost Ogre, or Glitterfang over Shinen of Fury's Fire. 
 
@@ -607,7 +611,9 @@ You should have an idea as to what your deck needs to be able to implement its p
 
 These choices may seem comparatively minor, and sometimes they are, but if you are deciding on the final five spells to make your main deck then that's more than 20% of your deck that you're making decisions over. If you draw a couple of these final choices in a game they could end up having a large impact on how the game plays out.
 
-![](https://i.ormos.uk/07/af/07afe8ef3dfa2c8a52b67b25c77b138d2c3ad1d7955884a38e2d73bbcecf9609.jpg)**During play** – It's when you are playing each game that you really have to understand when to change your plan, as it will frequently change from turn to turn. 
+![](https://i.ormos.uk/07/af/07afe8ef3dfa2c8a52b67b25c77b138d2c3ad1d7955884a38e2d73bbcecf9609.jpg)
+
+**During play** – It's when you are playing each game that you really have to understand when to change your plan, as it will frequently change from turn to turn. 
 
 Let's say you are playing blue-white against black-red and have stabilised the board on the ground and have a Mothrider Samurai holding off a Gibbering Kami and Kami of the Waning Moon in the air. You're behind on life 16-12 but have a Soratami Mirror-Guard that's letting one of your ground guys get in each turn. You probably don't want to start racing at that point and attacking with the Mothrider too, as the Gibbering Kami will hit you back and the Kami of the Waning Moon can take out your Mirror-Guard if that attacks. The Mirror-Guard is your way to win here, and unless your opponent top-decks a lot of Spirits in the next 5-6 turns you'll probably be able to race ok. You can also alpha-strike using the Mirror-Guard on two of your ground guys later on. 
 

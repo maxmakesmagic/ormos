@@ -129,7 +129,9 @@ render_recovery: []
 
 ### Reputation
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FinalsF.jpg)"I am famous for being late to tournaments and I've been late to several PTQ's. I'm not a morning person, so I have trouble getting up. Luckily, I've never been late to a major tournament. That's because all my friends come to wake me up.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/APAC00/Images/FinalsF.jpg)
+
+"I am famous for being late to tournaments and I've been late to several PTQ's. I'm not a morning person, so I have trouble getting up. Luckily, I've never been late to a major tournament. That's because all my friends come to wake me up.
 
 I also have a reputation for playing as quickly as possible, so as not to waste time. I don't want my match to time out-I want to win or lose, not draw."
 

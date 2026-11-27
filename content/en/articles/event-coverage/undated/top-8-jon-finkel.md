@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/695.jpg)If there is a man who doesn't need any introduction in Magic, it's Jon Finkel. The 22-year old player from New Brunswick, New Jersey has done most of what there is to do in Magic. He got one of the missing pieces when he won the Magic Invitational in Sydney. Now he's on to the one missing piece, winning Masters, and at the same time, he may pass Tommi Hovi on Pro Tour wins - Finkel took his Fires deck all the way to the Top 8 of 2000 Pro Tour Chicago. "It feels good," Finkel says, calm as ever. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/695.jpg)
+
+If there is a man who doesn't need any introduction in Magic, it's Jon Finkel. The 22-year old player from New Brunswick, New Jersey has done most of what there is to do in Magic. He got one of the missing pieces when he won the Magic Invitational in Sydney. Now he's on to the one missing piece, winning Masters, and at the same time, he may pass Tommi Hovi on Pro Tour wins - Finkel took his Fires deck all the way to the Top 8 of 2000 Pro Tour Chicago. "It feels good," Finkel says, calm as ever. 
 
 During the first rounds of 2000 Pro Tour Chicago, Finkel didn't know which decks were good matchups for his deck and which ones were bad ones. It took him a good while to figure it out, too - the Magic legend won nine games in a row before then losing three in a row. "I thought I'd give up like the French in the war, but then I won the last two - including drawing an Earthquake off the top in the last match," Finkel says. 
 

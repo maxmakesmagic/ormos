@@ -84,7 +84,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/630.jpg)Both players begin the game with Spellbombs, Copeman with a Pyric and Bow with an AEther. The two then match Leaden Myrs but Copeman decides to Spellblast Bows, summoning a Slith Firewalker and sending it and the Myr into the red zone. Bow stalls on two mana but has another Leaden Myr, praying that it'll stay alive long enough to become active. It gets Electrostatic Bolted before the attack phase and Copeman drops down a Vulshok Gauntlets to go with his beat force.
+![](https://www.wizards.com/sideboard/images/gpsyd03/630.jpg)
+
+Both players begin the game with Spellbombs, Copeman with a Pyric and Bow with an AEther. The two then match Leaden Myrs but Copeman decides to Spellblast Bows, summoning a Slith Firewalker and sending it and the Myr into the red zone. Bow stalls on two mana but has another Leaden Myr, praying that it'll stay alive long enough to become active. It gets Electrostatic Bolted before the attack phase and Copeman drops down a Vulshok Gauntlets to go with his beat force.
 
 Bow explodes his AEther Spellbomb for a card, pulling a mountain off the top and then summons a Pyric Spellbomb. When Copeman attempts to equip the Gauntlets to his Myr they get bombed in response and the Firewalker is forced to attack alone, dropping Bow to 12 life. Bow decides to do nothing during his own turn but before the attack step casts Thirst for Knowledge, Discarding a Leonin Scimitar. Copeman plays Neurok Familiar, grabbing a Vault of Whispers and then straps the Gauntlets to it. Bow draws a card and then concedes, unable to find the black mana he needed to cast the Terror stuck in his hand.
 
@@ -98,7 +100,9 @@ Copeman thought long and hard about his hand in game 2 before deciding that it w
 
 Bow decided to Domineer the little Leaden Myr, depriving Copeman of his black mana. Copeman had no need for his splash color and dropped down a Krark-Clan Grunt. Wanderguard Sentry was summoned by Bow revealing a hand of Electrostatic Bolt, Shrapnel Blast and Island.
 
-![](https://www.wizards.com/sideboard/images/gpsyd03/629.jpg)With no evasion ability thanks to the stolen Myr the Grunt and the Spy traded off in Combat and Bow ended his turn. Copeman sent in his own spy and wore 4 damage back on his chin for his troubles. Ogre Leadfoot looked to give Bow some edge on the field and combined with the Sentry it set about reducing Copeman to 0 life. Bow continued to develop his board dropping down a Cobalt Golem.
+![](https://www.wizards.com/sideboard/images/gpsyd03/629.jpg)
+
+With no evasion ability thanks to the stolen Myr the Grunt and the Spy traded off in Combat and Bow ended his turn. Copeman sent in his own spy and wore 4 damage back on his chin for his troubles. Ogre Leadfoot looked to give Bow some edge on the field and combined with the Sentry it set about reducing Copeman to 0 life. Bow continued to develop his board dropping down a Cobalt Golem.
 
 Copeman continued to attack with his spy and droped down a Duskworker. Bow sent in his Cobalt Golem, the Sentry and the Leadfoot and Copeman had had enough. He sent a Bolt to the Golem but was forced to take 6 damage from the other two creatures. Copeman tried to stay back on defense but a Terror aimed at one of his blockers spelled the end of the game.
 

@@ -172,7 +172,9 @@ render_recovery:
   - Welding Jar
   occurrences: 189
 ---
-![](https://i.ormos.uk/f1/b8/f1b8e63ae0bc36d3cb7dccf35370d189cee2cfcf689aae1d5f7c1a2b21cc2714.jpg)Masahiko Morita is one of the cornerstones of Japanese powerhouse team PS2, the team that won the last Team Masters in Venice. The Silver Collector has made the Top 8 of eight Grand Prix making the finals half of time. He has won a Grand Prix with PS2 but has not cracked the winner's circle for an individual event.
+![](https://i.ormos.uk/f1/b8/f1b8e63ae0bc36d3cb7dccf35370d189cee2cfcf689aae1d5f7c1a2b21cc2714.jpg)
+
+Masahiko Morita is one of the cornerstones of Japanese powerhouse team PS2, the team that won the last Team Masters in Venice. The Silver Collector has made the Top 8 of eight Grand Prix making the finals half of time. He has won a Grand Prix with PS2 but has not cracked the winner's circle for an individual event.
 
 Satoshi Nakamura won the APAC Championships back in 1998 and was the first Japanese player to attend the Magic Invitational. He was the winner of Grand Prix Sapporo in 2000 and was a member of the Japanese National team way back in 1996. He is the only member of that team to remain playing actively. Rumor has it that his teammates were wiped out when a meteorite struck the Earth and plunged it into glacial darkness. Like all of the top Japanese players he too has a nickname--Hatman--for reasons I am sure you can figure out on your own.
 
@@ -202,7 +204,9 @@ Morita - 1 Nakamura- 1
 
 The table judge decided that Morita's sleeves were not up to snuff to remain on his cards for the rest of the match and asked him to desleeve for game three. 
 
-![](https://i.ormos.uk/f2/e9/f2e9db66586a7526d5bad576ae31b55e1130f93b5009f6a576bde3cbb91ccd1e.jpg)Both players shuffled earnestly for the deciding game. Morita looked at his cards one by one and decided that he could not make a go of it with what was staring back at him. His next six seemed to suit him no better and he went to five.
+![](https://i.ormos.uk/f2/e9/f2e9db66586a7526d5bad576ae31b55e1130f93b5009f6a576bde3cbb91ccd1e.jpg)
+
+Both players shuffled earnestly for the deciding game. Morita looked at his cards one by one and decided that he could not make a go of it with what was staring back at him. His next six seemed to suit him no better and he went to five.
 
 Nakamura meanwhile had a solid assortment of land and spells including a Cub and a Rustspore Ram. He opened with AEther Spellbomb and a Myr. Morita's mulligan looked pretty darn good when he played a Slith Ascendant on turn three. Nakamura was able to keep it at bay with a Lumengrid Sentinel and Morita followed with a Cub.
 

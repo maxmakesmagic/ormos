@@ -138,7 +138,9 @@ render_recovery:
   - Trickery Charm
   occurrences: 157
 ---
-![](https://i.ormos.uk/a1/70/a170d003f697d8ebb2bc7f0c260fe08c0397d70b12818401dbce85676adf827e.jpg)The two are well thought-of fixtures on the Pro Tour, but one is louder.
+![](https://i.ormos.uk/a1/70/a170d003f697d8ebb2bc7f0c260fe08c0397d70b12818401dbce85676adf827e.jpg)
+
+The two are well thought-of fixtures on the Pro Tour, but one is louder.
 
 Gary Wise is well-known for his "Wise Words" column on The Sideboard, for testing with Ben Ronaldson and John Ormerod, and for a scattering of high finishes all over the globe. 
 
@@ -196,7 +198,9 @@ And the fourth mountain came down, causing Wise to mutter, "Uh-oh." Gary gamely 
 
 "Do you have an Akroma's Vengeance?" asked Danny. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a914.jpg)"Three," Wise replied. "I can't believe you don't remember that!"
+![](http://www.wizards.com/sideboard/images/gpphi02/a914.jpg)
+
+"Three," Wise replied. "I can't believe you don't remember that!"
 
 Danny sent with everything, bringing Wise down to thirteen. Gary laid a sole morph, which looked pretty small in the face of the small army he was staring down.
 
@@ -234,7 +238,9 @@ Mandel sent the Spider in, then laid Flamestick Courier to add salt to the Gobli
 
 Mandel used a Contested Cliffs to try and axe the Glory Seeker with the Lorian, but Gary had the Piety Charm to force a trade.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a913.jpg)Mandel laid a morph, bringing his total of creatures up to six - half of them red - while Gary had a sole Lancer. He chose not to attack, waiting for the blitz; trying to regain position, Gary laid the 6/6 Aven Fateshaper - which the Silklash Spider promptly swept away, and Mandel started in on the assault at last by unmorphing a Hystrodon and sending in with all of his green creatures. Gary had blocked the morph, though, anticipating the move, but still took seven damage.
+![](http://www.wizards.com/sideboard/images/gpphi02/a913.jpg)
+
+Mandel laid a morph, bringing his total of creatures up to six - half of them red - while Gary had a sole Lancer. He chose not to attack, waiting for the blitz; trying to regain position, Gary laid the 6/6 Aven Fateshaper - which the Silklash Spider promptly swept away, and Mandel started in on the assault at last by unmorphing a Hystrodon and sending in with all of his green creatures. Gary had blocked the morph, though, anticipating the move, but still took seven damage.
 
 Gary cast an Ascending Aven, but had no cards. Mandel picked up on this instantly. "How many cards?" he asked, not believing his good luck.
 

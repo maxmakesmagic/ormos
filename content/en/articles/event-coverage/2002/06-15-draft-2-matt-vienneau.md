@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a927.jpg)Six of the eight players at table three are still mathematically in contention for the Top 8 at Canadian Nationals. Each of them needs to win out and pray.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a927.jpg)
+
+Six of the eight players at table three are still mathematically in contention for the Top 8 at Canadian Nationals. Each of them needs to win out and pray.
 
 One such hanger-on is Toronto's own Matt Vienneau. Vienneau, an outspoken member of the Magic community for the last several years, has recently fallen off the Pro Tour "gravy train" and needs an amazing finish here in order to qualify for Worlds. A good record might get him a rating invitation, but the only sure thing would be to make the team.
 

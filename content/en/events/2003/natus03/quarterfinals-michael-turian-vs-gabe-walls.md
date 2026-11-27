@@ -104,7 +104,9 @@ render_recovery:
   - Threaten
   occurrences: 95
 ---
-![](https://i.ormos.uk/e0/ce/e0cec2a2926ef289df30e5fe8a11e81d46171f3044fcdc2e7e268b1a05853714.jpg)Mike Turian was last in the Top 8 of Nationals three years ago, where he came just short of making the National team. Today he has a second chance, but unfortunately, he's against the perceived winner. Despite being the least accomplished player in the Top 8, Gabe Walls is favored to go home with the Championship trophy this weekend, because his Astral Slide deck is the perfect foil for all the creature decks in the Top 8. Particularly, Walls' side of the bracket is loaded with red/green decks, which is a great matchup for Slide. Turian, of course, is running red/green himself.
+![](https://i.ormos.uk/e0/ce/e0cec2a2926ef289df30e5fe8a11e81d46171f3044fcdc2e7e268b1a05853714.jpg)
+
+Mike Turian was last in the Top 8 of Nationals three years ago, where he came just short of making the National team. Today he has a second chance, but unfortunately, he's against the perceived winner. Despite being the least accomplished player in the Top 8, Gabe Walls is favored to go home with the Championship trophy this weekend, because his Astral Slide deck is the perfect foil for all the creature decks in the Top 8. Particularly, Walls' side of the bracket is loaded with red/green decks, which is a great matchup for Slide. Turian, of course, is running red/green himself.
 
 ### Game 1
 
@@ -116,7 +118,9 @@ Turian- 0 Walls- 1
 
 ### Game 2
 
-![](https://i.ormos.uk/74/f8/74f8adb0ef40889a6108d08c90323b2598e361fb1b6e7a31ef3115be79b81067.jpg)This time, the early game was much better for Turian, as he played a first turn Llanowar Elves, followed by Wild Mongrel. Elephant Guide went on the Mongrel to increase the clock drastically, but Moment's Peace slowed things down. Turian added more to his side with Call of the Herd, and Walls cast Wrath of God to clear the board. Elephant Guide put a 3/3 into play after it resolved; Turian put Elephant Guide on the token, and attacked for six. Walls played Teroh's Faithful and chump blocked with it, while Turian had a Mongrel and elf.
+![](https://i.ormos.uk/74/f8/74f8adb0ef40889a6108d08c90323b2598e361fb1b6e7a31ef3115be79b81067.jpg)
+
+This time, the early game was much better for Turian, as he played a first turn Llanowar Elves, followed by Wild Mongrel. Elephant Guide went on the Mongrel to increase the clock drastically, but Moment's Peace slowed things down. Turian added more to his side with Call of the Herd, and Walls cast Wrath of God to clear the board. Elephant Guide put a 3/3 into play after it resolved; Turian put Elephant Guide on the token, and attacked for six. Walls played Teroh's Faithful and chump blocked with it, while Turian had a Mongrel and elf.
 
 A second Wrath once again cleared the board except for an elephant, which attacked and was joined by another when the Call was flashed back. Walls played a face-down Angel, and cast a second Moment's Peace out of his hand. The Angel flipped over and attacked, giving Turian a moment of opportunity when Walls couldn't flash back a Moment's Peace. The attack brought Walls to five, but Turian didn't have the burn he needed to finish the job. Walls played Astral Slide, which Turian Naturalized on end step, and Walls responded by cycling Renewed Faith and killing a token. Turian cast another Call, and Walls tapped six to play a second Angel, taking the second game.
 
@@ -124,7 +128,9 @@ Turian- 0 Walls- 2
 
 ### Game 3
 
-![](https://i.ormos.uk/a8/b1/a8b160800b3006ef502b3b302ac04e0135958384ca68cde28581f181ecf5570c.jpg)Turian mulliganed his opening hand, and had a first turn Basking Rootwalla. It attacked for three twice, and was joined by a second Rootwalla. Slice and Dice was cycled to kill both of them, and Turian summoned Phantom Centaur. Another cycled Slice and Dice made it a little smaller, and Turian played Call of the Herd. Wrath of God killed the creatures on the board, and Turian flashed back the Call. Walls was now at six lands, and tapped out to play Exalted Angel. A pair of Volcanic Hammers killed it, clearing the way for an elephant attack that brought Walls to seven.
+![](https://i.ormos.uk/a8/b1/a8b160800b3006ef502b3b302ac04e0135958384ca68cde28581f181ecf5570c.jpg)
+
+Turian mulliganed his opening hand, and had a first turn Basking Rootwalla. It attacked for three twice, and was joined by a second Rootwalla. Slice and Dice was cycled to kill both of them, and Turian summoned Phantom Centaur. Another cycled Slice and Dice made it a little smaller, and Turian played Call of the Herd. Wrath of God killed the creatures on the board, and Turian flashed back the Call. Walls was now at six lands, and tapped out to play Exalted Angel. A pair of Volcanic Hammers killed it, clearing the way for an elephant attack that brought Walls to seven.
 
 Thanks to Nantuko Monastery, Turian's elephants were held back from attacking. Walls found another Exalted Angel, and Turian played Elephant Guide on one of his tokens, then attacked with it. Walls blocked, and cast Disenchant on the Guide before damage. The Angel survived, but ended up dying to burn a few turns later. Nantuko Monastery took care of the rest, as Teroh's Faithful and Astral Slide made sure Turian couldn't mount a comeback.
 

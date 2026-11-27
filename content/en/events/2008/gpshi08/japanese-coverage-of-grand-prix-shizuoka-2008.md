@@ -976,7 +976,9 @@ Olivierも、待機が明けてプレイされる高橋の《祖先の幻視/Anc
 
 1体は《霧縛りの徒党》でブロックして返り討ちにするも、4体の攻撃が本体に通りOlivierのライフは15から7に。
 
-![](http://www.wizards.com/sideboard/images/gpshi08/KJ2.jpg)Olivierは《霧縛りの徒党/Mistbind Clique》アタックから、ノーマルモードでの《悪名高き群れ/Notorious Throng》をプレイ。4体のトークンを出し、高橋のアタックに耐えようとするが、もはや抵抗もここまで！
+![](http://www.wizards.com/sideboard/images/gpshi08/KJ2.jpg)
+
+Olivierは《霧縛りの徒党/Mistbind Clique》アタックから、ノーマルモードでの《悪名高き群れ/Notorious Throng》をプレイ。4体のトークンを出し、高橋のアタックに耐えようとするが、もはや抵抗もここまで！
 
 *高橋 2-0 Olivier* 
 

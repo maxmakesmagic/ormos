@@ -44,7 +44,9 @@ archive_source:
   sha256: 0e74a4c2e2a527addb1549520d6968856191a4f429a64d173dccff08a5e4ee74
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplon02/918.jpg)There are many French players here this weekend, and these two are currently the highest placed, with 30 points coming into the round. This puts them only one win away from a virtually certain top eight berth. Of the two, Christophe is a much better known player, with a top eight finish in Osaka. He is playing Blue-Green Madness while Gerard is playing Blue-Black: Control, rather than the [Upheaval](https://web.archive.org/web/20020901000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplon02/918.jpg)
+
+There are many French players here this weekend, and these two are currently the highest placed, with 30 points coming into the round. This puts them only one win away from a virtually certain top eight berth. Of the two, Christophe is a much better known player, with a top eight finish in Osaka. He is playing Blue-Green Madness while Gerard is playing Blue-Black: Control, rather than the [Upheaval](https://web.archive.org/web/20020901000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) deck.
 
 ### Game One
 

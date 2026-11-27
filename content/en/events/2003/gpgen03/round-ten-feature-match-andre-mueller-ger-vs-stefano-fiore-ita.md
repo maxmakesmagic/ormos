@@ -57,7 +57,9 @@ This is what it all came down to. Two single players remain with nothing but win
 
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpgen03/a964.jpg)Mueller came out perfectly, with a first turn Spray for Prospector and a second turn Rift. That gave Fiore food for thought. Finally he decided to play a second Prospector and Goblin Warchief. The Red enchantment ate up the Warchief as soon as Andre could untap.
+![](http://www.wizards.com/sideboard/images/gpgen03/a964.jpg)
+
+Mueller came out perfectly, with a first turn Spray for Prospector and a second turn Rift. That gave Fiore food for thought. Finally he decided to play a second Prospector and Goblin Warchief. The Red enchantment ate up the Warchief as soon as Andre could untap.
 
 Since his little creatures wouldn't last long Stefano changed plans: Clickslither.
 

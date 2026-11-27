@@ -107,7 +107,9 @@ render_recovery:
   - Teferi's Response
   occurrences: 139
 ---
-![](https://i.ormos.uk/e7/36/e73699c455b996e0902ba3d6772d07948dae3be71ae6e8ebce1717bb34138af0.jpg)Many players joked before the tournament that straight-laced Mike Pustilnik would be a shoo-in to win GP New Orleans, as he would be apt to party less than many of the other more rambunctious Magic players. This joke turned into reality as a well-rested Mikey P slept off the after effects of a cold with good food and early bedtimes to cruise to the top of the field at the end of the Swiss rounds. By contrast, Eugene Harvey arrived in New Orleans and immediately began partying. He hadn't let up a bit, going out each night and living La Vida Loca. In a contest featuring these two Grand Prix champions, would the laid-back Mike Pustilnik emerge victorious, or would party animals extraordinaire Eugene Harvey two-fist his way to the finals?
+![](https://i.ormos.uk/e7/36/e73699c455b996e0902ba3d6772d07948dae3be71ae6e8ebce1717bb34138af0.jpg)
+
+Many players joked before the tournament that straight-laced Mike Pustilnik would be a shoo-in to win GP New Orleans, as he would be apt to party less than many of the other more rambunctious Magic players. This joke turned into reality as a well-rested Mikey P slept off the after effects of a cold with good food and early bedtimes to cruise to the top of the field at the end of the Swiss rounds. By contrast, Eugene Harvey arrived in New Orleans and immediately began partying. He hadn't let up a bit, going out each night and living La Vida Loca. In a contest featuring these two Grand Prix champions, would the laid-back Mike Pustilnik emerge victorious, or would party animals extraordinaire Eugene Harvey two-fist his way to the finals?
 
 ### Game 1
 
@@ -117,7 +119,9 @@ Eugene cast a main-phase Fact or Fiction, which Mike Disrupted to stifle Eugene'
 
 Mike swung for five with Morphling, bringing the life totals to 19-14 in Mike's favor (the extra point on each side being due to sacrificed Polluted Deltas). Eugene drew and attempted to pass the turn. With plenty of mana to spare, Mike dug into his sideboard with Cunning Wish, and attempted to cast the five cost spell after untapping. Eugene responded with Counterspell. Mike cast Counterspell targeting the Counterspell. Eugene then cast Fact or Fiction, and was given the choice of Mana Leak or three Islands + Accumulated Knowledge. Eugene chose the Mana Leak, and countered back on the Counterspell, winning the war and sending Sunder helplessly to the graveyard. Mike got Morphling in for another five, bringing Harvey down to nine.
 
-![](https://i.ormos.uk/c8/ab/c8ab451cfbeb10bcb6c1c98de07e0569ee828f1f996e9137b59ca6762a454933.jpg)Eugene untapped, and then quickly retapped all eight of his lands, floated a black and a blue, cast Upheaval, and then dropped a land and Psychatog. With seven cards in hand and nineteen cards in graveyard, the game was over and Mikey P graciously conceded.
+![](https://i.ormos.uk/c8/ab/c8ab451cfbeb10bcb6c1c98de07e0569ee828f1f996e9137b59ca6762a454933.jpg)
+
+Eugene untapped, and then quickly retapped all eight of his lands, floated a black and a blue, cast Upheaval, and then dropped a land and Psychatog. With seven cards in hand and nineteen cards in graveyard, the game was over and Mikey P graciously conceded.
 
 Eugene Harvey 1 – Mike Pustilnik 0
 
@@ -132,7 +136,9 @@ After another turn of nothing, Eugene cast an end-of-turn Accumulated Knowledge 
 
 Another turn went by uneventfully, with Mike casting Brainstorm and Eugene's attempt at Intuition meeting with Counterspell. Mike found a fifth land the following turn, and Eugene found yet another Fact or Fiction, a Deep Analysis, and ten cards in hand. By the end of his turn, Eugene's discard pile towered higher than the remainder of his deck, and his land count dominated by a score of nine to six. 
 
-![](https://i.ormos.uk/2e/b0/2eb098a038f7718d624a5b5ae148242392ba66afd6191e5ec705363b9cf87052.jpg)This time, the other side of the jungle resolved Fact or Fiction. Sunder went away, two lands, Smother and Cunning Wish came to play. Confusion briefly ensued about the word "Discard", but Mike quickly realized that Eugene was asking to discard, not commanding the same of him.
+![](https://i.ormos.uk/2e/b0/2eb098a038f7718d624a5b5ae148242392ba66afd6191e5ec705363b9cf87052.jpg)
+
+This time, the other side of the jungle resolved Fact or Fiction. Sunder went away, two lands, Smother and Cunning Wish came to play. Confusion briefly ensued about the word "Discard", but Mike quickly realized that Eugene was asking to discard, not commanding the same of him.
 
 At the end of Pustilnik's turn, Eugene finally moved towards the big 'it' by grabbing Mana Short from his sideboard via Cunning Wish and casting his millionth Fact or Fiction of the game. This time the split ended up pretty dire, with Eugene getting multiple Counterspells instead of a fourth Accumulated Knowledge plus a Mana Leak. Mike joined in the infinite Fact or Fiction fest adding Misdirection to his hand. 
 

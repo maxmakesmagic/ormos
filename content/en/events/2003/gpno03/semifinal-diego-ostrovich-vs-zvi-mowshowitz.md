@@ -101,7 +101,9 @@ render_recovery:
   - Uktabi Orangutan
   occurrences: 89
 ---
-![](http://www.wizards.com/sideboard/images/gpno03/a926.jpg)Who else but Zvi Mowshowitz would dare run TurboLand? The certifiable Genius/Madman couldn't resist, though, and he tuned his pet deck for another spin. His appearance in the Top 8 is a vindication, he says. He's hungry for this title, having never taken down a Grand Prix. He's already thinking of the finals, considering the matchup.
+![](http://www.wizards.com/sideboard/images/gpno03/a926.jpg)
+
+Who else but Zvi Mowshowitz would dare run TurboLand? The certifiable Genius/Madman couldn't resist, though, and he tuned his pet deck for another spin. His appearance in the Top 8 is a vindication, he says. He's hungry for this title, having never taken down a Grand Prix. He's already thinking of the finals, considering the matchup.
 
 He's facing Diego Ostrovich, Invitationalist, former Argentinean National Champion, and Worlds Semifinalist. He came all the way to New Orleans for the Grand Prix, and he's made good. His deck is crazy, the same mono-green deck he played at Houston. It uses tons of mana producers and Gaea's Cradle to power out big guns like Deranged Hermit and Masticore. Unfortunately, he has few ways to stop Mowshowitz's juggernaut. 
 
@@ -129,7 +131,9 @@ Mowshowitz 1 - Ostrovich 0
 
 Again Ostrovich had an explosive start: Forest, Elf. Then Forest, Elf, Rofellos. Then Cradle, Poacher, Masticore. Mowshowitz had a turn two Oath, and turned up his Scrounger after about thirty cards. He spent his turn Accumulating for three, then playing Exploration and an extra island. He Scrounged Capsize, Time Warp, and island back under his deck.
 
-![](http://www.wizards.com/sideboard/images/gpno03/a930.jpg)Ostrovich untapped, pitched his last card: Forest. He activated his Poacher, and Mowshowitz activated his Scrounger in response. Fortunately, Ostrovich had enough creatures in play that Cradle gave him enough mana to shoot it down before the ability resolved. He searched up a Hermit, bashed for four, and handed it back to Mowshowitz.
+![](http://www.wizards.com/sideboard/images/gpno03/a930.jpg)
+
+Ostrovich untapped, pitched his last card: Forest. He activated his Poacher, and Mowshowitz activated his Scrounger in response. Fortunately, Ostrovich had enough creatures in play that Cradle gave him enough mana to shoot it down before the ability resolved. He searched up a Hermit, bashed for four, and handed it back to Mowshowitz.
 
 Mowshowitz thought hard, then Intuitioned up a fifth island and dropped a Keg. He activated it, aiming to buy an additional turn. Ostrovich turned over Bind. Mowshowitz looked at his horde of creatures and scooped.
 
@@ -137,7 +141,9 @@ Mowshowitz 1 - Ostrovich 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpno03/a929.jpg)Unfortunately for Ostrovich, that meant Mowshowitz would lead for the deciding game. He started strong. Oath on turn two, Intuition for Accumulated Knowledges on turn three (after Ostrovich played nothing but three forests for fear of the Oath). Finally he tapped out to draw three and play Powder Keg.
+![](http://www.wizards.com/sideboard/images/gpno03/a929.jpg)
+
+Unfortunately for Ostrovich, that meant Mowshowitz would lead for the deciding game. He started strong. Oath on turn two, Intuition for Accumulated Knowledges on turn three (after Ostrovich played nothing but three forests for fear of the Oath). Finally he tapped out to draw three and play Powder Keg.
 
 Ostrovich untapped and dropped Naturalize on the Oath. Mowshowitz took his time, tapping out for Battlefield Scrounger. Ostrovich answered with Skyshroud Poacher. Mowshowitz took an extra turn, then Capsized it with buyback, having dealt six to Ostrovich. Ostrovich tried Deranged Hermit, what with Mowshowitz's Keg at one counter. Mowshowitz answered with Oath. Though Ostrovich had some men, Mowshowitz Oathed into Scrounger, and from there, was free to set up Time Warp recursion. Ostrovich shrugged and packed up his cards.
 

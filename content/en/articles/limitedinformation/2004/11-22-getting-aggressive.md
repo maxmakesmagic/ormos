@@ -657,7 +657,9 @@ Why is this relevant here? Quite simply because I believe there's a similar answ
 
 ### Going Aggro
 
-![](https://i.ormos.uk/35/a7/35a7ccef8cd7c6a67ffdcfeb66734960e09c9ccf401935a44721e8f800bf74b0.jpg)Why is this so important in this format? Quite simply because the high number of two-power two-drops in *Champions* means that you can find yourself very far behind your opponent if you fail to do anything relevant on the second and especially the third turn of a game. Many games see opening starts like ‘Turn two Wicked Akuba, turn three Nezumi Ronin” or “Turn two Kami of Ancient Law, turn three Ronin Houndmaster”. If you've lost the coin flip and you don't do anything on your second and third turn you've probably already lost. Missed land-drops can be equally painful unless you have enough low-costed creatures or spells to be able to weather the storm until you start drawing into some lands.
+![](https://i.ormos.uk/35/a7/35a7ccef8cd7c6a67ffdcfeb66734960e09c9ccf401935a44721e8f800bf74b0.jpg)
+
+Why is this so important in this format? Quite simply because the high number of two-power two-drops in *Champions* means that you can find yourself very far behind your opponent if you fail to do anything relevant on the second and especially the third turn of a game. Many games see opening starts like ‘Turn two Wicked Akuba, turn three Nezumi Ronin” or “Turn two Kami of Ancient Law, turn three Ronin Houndmaster”. If you've lost the coin flip and you don't do anything on your second and third turn you've probably already lost. Missed land-drops can be equally painful unless you have enough low-costed creatures or spells to be able to weather the storm until you start drawing into some lands.
 
 The importance of the good two-drops can't be understated. There have been times when I've taken a two-drop over a better, but more expensive card just because of the need to have some. You'll see the effect this has on the red and black pick orders but I thought it was worth stressing this point strongly as I'm sure some of the positions might look a little odd to some people.
 

@@ -70,7 +70,9 @@ The foundation for exciting Sealed Deck play. Includes 45 randomly assorted card
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/eb/69/eb698bee20699ab504d737ec15ff54820b5c8efa9070ed744b7c4ca09264c564.png)This 301-card expansion set features randomly inserted premium cards, mono-colored hybrid cards, and four new game mechanics: Wither, Persist, Untap, and Conspire.
+![](https://i.ormos.uk/eb/69/eb698bee20699ab504d737ec15ff54820b5c8efa9070ed744b7c4ca09264c564.png)
+
+This 301-card expansion set features randomly inserted premium cards, mono-colored hybrid cards, and four new game mechanics: Wither, Persist, Untap, and Conspire.
 
 **Set Name:** *Shadowmoor*  
 **Block:** Set 3 of 4 of the *Lorwyn-Shadowmoor* Block  

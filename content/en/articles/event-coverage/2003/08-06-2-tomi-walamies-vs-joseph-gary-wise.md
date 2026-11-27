@@ -44,7 +44,9 @@ archive_source:
   sha256: 3c908bc2f4a5a6e2db1ee658c846b1a4373b01da22d53e4bdc20500eac4d6812
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a933.jpg)　Wise Words のライターとして、プレミアイベントの喧騒屋として今更紹介する必要の無い Gary Wise。しかし、単なる人気者に終わらないのは彼が残した幾つもの成績が証明している。対する Tomi Walamies、Team Punishers の一員としてPro Tour New Orleans での準優勝以来サーキットの重要な一員となっていたが、それ以降の成果に恵まれずグレイビートレインの乗車券をも失い一時は引退さえ囁かれていた。しかし、Pro Tour Venice の準優勝で劇的なカムバックを成し遂げ引退宣言も撤回している。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a933.jpg)
+
+　Wise Words のライターとして、プレミアイベントの喧騒屋として今更紹介する必要の無い Gary Wise。しかし、単なる人気者に終わらないのは彼が残した幾つもの成績が証明している。対する Tomi Walamies、Team Punishers の一員としてPro Tour New Orleans での準優勝以来サーキットの重要な一員となっていたが、それ以降の成果に恵まれずグレイビートレインの乗車券をも失い一時は引退さえ囁かれていた。しかし、Pro Tour Venice の準優勝で劇的なカムバックを成し遂げ引退宣言も撤回している。
 
 　共に使用するのは、今大会の三大勢力の一つである青緑マッドネス。この人気者対決を制するのはどちらになるだろうか。
 
@@ -59,7 +61,9 @@ render_recovery: []
 
 **Game 2**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a932.jpg)　手札を確認してちょっと嫌な表情を浮かべる Gary。しかし、ゲームは既に始まっている。この表情を素直に信じる者はマジックでは大成しないだろう。全てのシグナルには何かしらの意味があるはずだ。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a932.jpg)
+
+　手札を確認してちょっと嫌な表情を浮かべる Gary。しかし、ゲームは既に始まっている。この表情を素直に信じる者はマジックでは大成しないだろう。全てのシグナルには何かしらの意味があるはずだ。
 
 　先手を取った Walamies は 2 ターン目に《物静かな思索/[Quiet Speculation](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quiet+Speculation)》で墓地に《ワームの咆哮/[Roar of the Wurm](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm)》《綿密な分析/[Deep Analysis](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis)》《綿密な分析/[Deep Analysis](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis)》とブースト燃料を。対する Wise もやはり先ほどの表情とは全く関係無い順調な立ち上がり。
 
@@ -79,7 +83,9 @@ render_recovery: []
 
 **Game 3**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a934.jpg)　再び微妙な表情を浮かべる Gary だが、今回はどんなブラフが隠されているのだろうか。対する Walamies は対照的に手札を見ても全くシグナルを発しない。Wise が動なら Walamies は静のプレイヤーだ。沈黙は金、雄弁は銀という言葉もあるが、それはマジックでも同じなのだろうか。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a934.jpg)
+
+　再び微妙な表情を浮かべる Gary だが、今回はどんなブラフが隠されているのだろうか。対する Walamies は対照的に手札を見ても全くシグナルを発しない。Wise が動なら Walamies は静のプレイヤーだ。沈黙は金、雄弁は銀という言葉もあるが、それはマジックでも同じなのだろうか。
 
 　Wise は《入念な研究/Careful Study》から《ワームの咆哮/[Roar of the Wurm](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm)》と《入念な研究/Careful Study》を。次に両者は《野生の雑種犬/[Wild Mongrel](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel)》をキャストするが、手札の枚数に大きく差があるため Wise は攻撃に行くことが出来ない。そこで《物静かな思索/[Quiet Speculation](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quiet+Speculation)》を使用し、更なる《ワームの咆哮/[Roar of the Wurm](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm)》を 2 枚と、この対決で渋い光を放つ《クローサ流再利用/[Krosan Reclamation](https://web.archive.org/web/20030806000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Reclamation)》を。
 

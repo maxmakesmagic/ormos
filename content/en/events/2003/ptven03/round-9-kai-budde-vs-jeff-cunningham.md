@@ -78,7 +78,9 @@ render_recovery:
   - Avarax
   occurrences: 26
 ---
-![](https://i.ormos.uk/22/89/2289bdd93a688b745035f9bfa1b5ba6500495b2e874206e20834c6bed773c286.jpg)Kai Budde of Germany and Jeff Cunningham of Canada are great for this game. Both are accomplished players, frequent Internet strategy writers, and perfect gentlemen when at the table. 
+![](https://i.ormos.uk/22/89/2289bdd93a688b745035f9bfa1b5ba6500495b2e874206e20834c6bed773c286.jpg)
+
+Kai Budde of Germany and Jeff Cunningham of Canada are great for this game. Both are accomplished players, frequent Internet strategy writers, and perfect gentlemen when at the table. 
 
 Of course, being gentlemen usually means the banter will be at a minimum, which was certainly true for this match.
 
@@ -88,7 +90,9 @@ Kai is playing a three-color Biorhythm deck, and Cunningham—one of the last tr
 
 Cunningham opened with a trio of 1/1's—Goblin Sledder, Sparksmith, and Skirk Prospector. Kai had just what he needed on turn 3, a Slice and Dice, leaving just the 'Smith alive.
 
-![](https://i.ormos.uk/2a/e2/2ae26d6688986d4b50068415881c6fa105005ef8eeaf2cdf9b2dd7f181378d43.jpg)Cunningham had just the man he needed to keep up what little momentum he had left—Goblin Goon. Kai was distressed, and had no play other that Explosive Vegetation, which let the Goon and the 'Smith—aided by Goblin Burrows—smack him down to 6. Kai played a Krosan Tusker on his next turn, but Cunningham had the goods: Clickslither and Goblin Sledder. Haste is good.
+![](https://i.ormos.uk/2a/e2/2ae26d6688986d4b50068415881c6fa105005ef8eeaf2cdf9b2dd7f181378d43.jpg)
+
+Cunningham had just the man he needed to keep up what little momentum he had left—Goblin Goon. Kai was distressed, and had no play other that Explosive Vegetation, which let the Goon and the 'Smith—aided by Goblin Burrows—smack him down to 6. Kai played a Krosan Tusker on his next turn, but Cunningham had the goods: Clickslither and Goblin Sledder. Haste is good.
 
 Cunningham 1 – Budde 0
 
@@ -100,7 +104,9 @@ Kai did nothing but play a land on his fifth turn, and Cunningham dispatched of 
 
 Cunningham thought for a few minutes about how best to play around Kai's arsenal of mass destruction, and decided his best course of action was to go for the throat. He played land number 6 and Rorix Bladewing, giving him 15 points of offense. Kai killed the Clickslither with a Startstorm for 3, but still took a big hit from the other two and was down to 11 life.
 
-![](https://i.ormos.uk/e0/4a/e04a4ec1ab11595cad1545c1f706bb13f5c01d6662484699a7ee2b23d389b7bb.jpg)Kai played the anti-Goon technology Broodhatch Nantuko on his next turn and left five land untapped. Cunningham had more juice, though, dropping another Clickslither and sending the team. Kai did what he had to, and blocked the Goon. If Cunningham sacrificed the Goon to the 'Slither, Kai could Starstorm for three in response and come out in good shape. Cunningham bit the bullet and let Kai get six 1/1 Insect tokens and drop to two life.
+![](https://i.ormos.uk/e0/4a/e04a4ec1ab11595cad1545c1f706bb13f5c01d6662484699a7ee2b23d389b7bb.jpg)
+
+Kai played the anti-Goon technology Broodhatch Nantuko on his next turn and left five land untapped. Cunningham had more juice, though, dropping another Clickslither and sending the team. Kai did what he had to, and blocked the Goon. If Cunningham sacrificed the Goon to the 'Slither, Kai could Starstorm for three in response and come out in good shape. Cunningham bit the bullet and let Kai get six 1/1 Insect tokens and drop to two life.
 
 Kai swung in with the Insects and then Startstormed the board clean when Cunningham declared his next attack. Cunningham had an Avarax which he played after combat, but Kai had another Startstorm on his next turn. But the problem with Avarax is that they come with friends, and Kai had no answer for the replacement.
 

@@ -96,7 +96,9 @@ render_recovery:
   - Mesmeric Fiend
   occurrences: 89
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a732.jpg)These two met in the Semifinals of Worlds last year, where Van de Logt barely pulled out the win with Urza's Rage, surprising the crowd and the commentators. Of course, Van de Logt went on to smash Alex Borteh's Fish deck with his black/red machine, taking the World Championship. Van de Logt has already been to Sunday at Worlds twice, and once today is over he may find himself there yet again.
+![](http://www.wizards.com/sideboard/images/worlds02/a732.jpg)
+
+These two met in the Semifinals of Worlds last year, where Van de Logt barely pulled out the win with Urza's Rage, surprising the crowd and the commentators. Of course, Van de Logt went on to smash Alex Borteh's Fish deck with his black/red machine, taking the World Championship. Van de Logt has already been to Sunday at Worlds twice, and once today is over he may find himself there yet again.
 
 ### Game 1
 
@@ -106,13 +108,17 @@ Ruel- 1 Van de Logt- 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds02/a733.jpg)This game was much better for Van de Logt, as he actually played two lands in a row, and even played a Nantuko Shade. Ruel's Quiet Speculation got two Roar of the Wurm and Deep Analysis. The Shade attacked for three, and was joined by another, while Ruel flashed back Deep Analysis and cast Basking Rootwalla. Van de Logt went into race mode, swinging with both his Shades and dealing eight damage to bring Ruel to six. At this point, however, Ruel got to four lands and was able to flash back Roar of the Wurm. One Shade attacked, and was double blocked by the Wurm and the Rootwalla. Thanks to Cabal Coffers, the Shade became massive and took down both creatures, but also headed to the graveyard in the exchange. Careful Study gave Ruel a madness Arrogant Wurm and put another Roar in the graveyard, but Van de Logt had Chainer's Edict to clear the way for the Shade and the win.
+![](http://www.wizards.com/sideboard/images/worlds02/a733.jpg)
+
+This game was much better for Van de Logt, as he actually played two lands in a row, and even played a Nantuko Shade. Ruel's Quiet Speculation got two Roar of the Wurm and Deep Analysis. The Shade attacked for three, and was joined by another, while Ruel flashed back Deep Analysis and cast Basking Rootwalla. Van de Logt went into race mode, swinging with both his Shades and dealing eight damage to bring Ruel to six. At this point, however, Ruel got to four lands and was able to flash back Roar of the Wurm. One Shade attacked, and was double blocked by the Wurm and the Rootwalla. Thanks to Cabal Coffers, the Shade became massive and took down both creatures, but also headed to the graveyard in the exchange. Careful Study gave Ruel a madness Arrogant Wurm and put another Roar in the graveyard, but Van de Logt had Chainer's Edict to clear the way for the Shade and the win.
 
 Ruel- 1 Van de Logt- 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/worlds02/a734.jpg)Van de Logt swung and missed with a Tainted Pact that hit two swamps in a row. Ruel played his first spell of the game on turn four when he summoned Aquamoeba, and Van de Logt cast Chainer's Edict. Aether Burst was played in response, saving the 1/3 madness outlet. Ruel replayed it, and then cast Standstill. Van de Logt broke it with Mutilate, and Ruel discarded Roar and Deep Analysis before it resolved and killed the Aquamoeba. Roar was flashed back, Van de Logt put up a huge Wurm barrier in the form of Grotesque Hybrid, so Ruel flashed back Deep Analysis and played Wild Mongrel. Another Edict was Enveloped, and Nantuko Shade was countered with Circular Logic. 
+![](http://www.wizards.com/sideboard/images/worlds02/a734.jpg)
+
+Van de Logt swung and missed with a Tainted Pact that hit two swamps in a row. Ruel played his first spell of the game on turn four when he summoned Aquamoeba, and Van de Logt cast Chainer's Edict. Aether Burst was played in response, saving the 1/3 madness outlet. Ruel replayed it, and then cast Standstill. Van de Logt broke it with Mutilate, and Ruel discarded Roar and Deep Analysis before it resolved and killed the Aquamoeba. Roar was flashed back, Van de Logt put up a huge Wurm barrier in the form of Grotesque Hybrid, so Ruel flashed back Deep Analysis and played Wild Mongrel. Another Edict was Enveloped, and Nantuko Shade was countered with Circular Logic. 
 
 Ruel untapped and cast Careful Study, putting two lands in his graveyard. The Mongrel attacked, and Standstill was placed on the lopsided board. Van de Logt was forced to break it with Diabolic Tutor, and Ruel countered it with Envelop. Aether Burst bounced the Hybrid, and Ruel attacked for eight damage. Van de Logt's back was up against the wall and he cast Mutilate. This was great, because he still had two Edicts in the graveyard waiting to be flashed back. Ruel used Centaur Garden to save his Wurm, and Van de Logt replayed the Hybrid, leaving him with no cards in hand. The Wurm attacked again and was not blocked, bringing the World Champion down to four life points. Ruel followed up with Arrogant Wurm
 

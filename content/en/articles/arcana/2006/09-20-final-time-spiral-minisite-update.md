@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/96/05/960593e0fc120fa1bcb869f4f9ac40d0781b8ea1adc8eebd079a45e3a1bccaf2.jpg)This Saturday and Sunday are the [*Time Spiral* prerelease events](https://web.archive.org/web/20060920000000/http://www.wizards.com/default.asp?x=mtgcom/prerelease/timespiral), which means this is the final update for the [*Time Spiral* minisite](https://web.archive.org/web/20080421212717/http://www.wizards.com/default.asp?x=magic/timespiral/home). As of today, you have one final sneak peek at preview art from the set, a puzzle and bonus wallpaper, and the final volume of the “Urza-Mishra War” comic.
+![](https://i.ormos.uk/96/05/960593e0fc120fa1bcb869f4f9ac40d0781b8ea1adc8eebd079a45e3a1bccaf2.jpg)
+
+This Saturday and Sunday are the [*Time Spiral* prerelease events](https://web.archive.org/web/20060920000000/http://www.wizards.com/default.asp?x=mtgcom/prerelease/timespiral), which means this is the final update for the [*Time Spiral* minisite](https://web.archive.org/web/20080421212717/http://www.wizards.com/default.asp?x=magic/timespiral/home). As of today, you have one final sneak peek at preview art from the set, a puzzle and bonus wallpaper, and the final volume of the “Urza-Mishra War” comic.
 
 The theme for today’s update is “Temporal Deluge”—and as you’ll see, you’ll be inundated with references to classic cards from **Magic’s** past. *Time Spiral* is a bold new part of the **Magic** landscape shot through with a network of homages, new twists on past cards and insider allusions—a feast for both the new player and the veteran fan.
 

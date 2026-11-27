@@ -85,7 +85,9 @@ But pack behavior is not the only common animal behavior we **Magic** players in
 
 ### Blood In The Water
 
-![](https://i.ormos.uk/bd/79/bd79c8b1647680bf7cb89c40add27316165e8c081a6151bf5778564442e694c9.jpg)Most teenagers and adults know the well-worn metaphor: sharks gather near prey, one takes a bite, blood hits the water…and suddenly, bedlam breaks out. Everybody gets hit a little, but the first to bleed is almost certainly the first to die. And of course, that's the way with many **Magic** games: one player takes a small hit, and suddenly everybody joins in. Three or four turns later, the player with a slight flesh wound is a decapitated mess.
+![](https://i.ormos.uk/bd/79/bd79c8b1647680bf7cb89c40add27316165e8c081a6151bf5778564442e694c9.jpg)
+
+Most teenagers and adults know the well-worn metaphor: sharks gather near prey, one takes a bite, blood hits the water…and suddenly, bedlam breaks out. Everybody gets hit a little, but the first to bleed is almost certainly the first to die. And of course, that's the way with many **Magic** games: one player takes a small hit, and suddenly everybody joins in. Three or four turns later, the player with a slight flesh wound is a decapitated mess.
 
 What's going on? Nothing too surprising: the attackers have excellent senses of smell, blood is pungent, and the instinct to feed overwhelms all.
 
@@ -103,7 +105,9 @@ The trend is less desirable when there's *one* player who *always* seems to play
 
 ### Groundhog Day, As Lived By Tuna
 
-![](https://i.ormos.uk/2f/19/2f19cd3200e7ba895bfddad14fcdce375f112a2f77ff9608f555722f8bd942f2.jpg)Empathy is not a common masculine trait – and since most **Magic** players are male, let me run you all through a quick exercise in imagination.
+![](https://i.ormos.uk/2f/19/2f19cd3200e7ba895bfddad14fcdce375f112a2f77ff9608f555722f8bd942f2.jpg)
+
+Empathy is not a common masculine trait – and since most **Magic** players are male, let me run you all through a quick exercise in imagination.
 
 For the next five to ten **Magic** games your group plays, pay attention to who's struggling early. Is it the same person over and over? If not, you can simply use this time to note the same common causes for bad starts – a poor decision not to mulligan, simple bad luck, or whatever.
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: 5e80edad72a96ba2313cac4e931ddf25a44ef0b376098cffab7d8a74cd901667
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a841.jpg)Magic is a social game. Yes, the mathematics and card interactions are important, but in the end, without someone to play with, you can't get a game in edgewise. While the Pro Tour is a little more serious than your average basement game, the friendships seen in your local shops persist in much the same way, except the friends in this case propel one another to cash, fame and glory.
+![](http://www.wizards.com/sideboard/images/usnat02/a841.jpg)
+
+Magic is a social game. Yes, the mathematics and card interactions are important, but in the end, without someone to play with, you can't get a game in edgewise. While the Pro Tour is a little more serious than your average basement game, the friendships seen in your local shops persist in much the same way, except the friends in this case propel one another to cash, fame and glory.
 
 Rubin-Kibler, Budde-Baberowski, Pikula-Price...you've heard them all mentioned in their dedication to one another, but through the game's history, one such relationship has stood above all others: Finkel-OMS. Jon and SteveO have been friends for close to eight years, meeting before high school and staying close up until the present. Unfortunately, with both players at 5-2-1, they sit on the bubble, needing to win out to make day three, and with both in precarious PT points positions, entry into World Championships is at stake. While both players want on the team pretty badly, Jon Finkel's desire may have forced him to push a little too far.
 
@@ -69,7 +71,9 @@ The Fisher attacked, trading with the flashed back Prismatic Strands, allowing S
 
 Things were looking pretty bad for Jon, but Aven Smokeweaver would help with trying to slow Steve down. With the score 16-14 in Finkel's favor, Steve brought out a very large Face of Fear, leaving Jon on the defensive. When Steve attacked with everything on his next turn, Jon had Guided Strike ready, taking six while killing the Butcher and giving Jon back the Flock. Steve then cast Dusk Imp and Whispering Shade (with three Swamps in play) and ended his turn.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a844.jpg)Jon drew, asked how many cards Steve had in hand (two), then paused for a long time before attacking with The Smokeweaver, taking the score to ten each and killing the Shade with Patriarch's Desire. With Jon leaving two Plains untapped, the Flock seemed up to holding down the fort, but Steve Ghastly Demised the 2/2 Soulcatcher and attacked with everything, with Dusk Imp dying en route to Finkel going to four. Jon attacked with the Weaver, taking OMS to eight before casting Benevolent Bodyguard. Steve untapped and drew, activating Face of Fear's ability and attacked with it and the swampwalking Slithery Stalker, ending the game.
+![](http://www.wizards.com/sideboard/images/usnat02/a844.jpg)
+
+Jon drew, asked how many cards Steve had in hand (two), then paused for a long time before attacking with The Smokeweaver, taking the score to ten each and killing the Shade with Patriarch's Desire. With Jon leaving two Plains untapped, the Flock seemed up to holding down the fort, but Steve Ghastly Demised the 2/2 Soulcatcher and attacked with everything, with Dusk Imp dying en route to Finkel going to four. Jon attacked with the Weaver, taking OMS to eight before casting Benevolent Bodyguard. Steve untapped and drew, activating Face of Fear's ability and attacked with it and the swampwalking Slithery Stalker, ending the game.
 
 OMS 1, Finkel 0
 
@@ -79,7 +83,9 @@ After Jon cast Cephalid Sage, OMS made a nice play, casting Aven Fogbringer, ret
 
 Steve's next play was a crippler: Cabal Torturer. The 1/1 could kill anything on Jon's side with it's pre-threshold ability, and Steve actually had threshold, meaning that larger threats could be dealt with. Jon, still without a Swamp, could only draw and pass the turn, with the Aven returning to his hand when Steve tried to Torture it, but things were definitely going OMS' way. Steve untapped and used the Torturer to kill the Monk. Attacking with the Butcher and Collaborator, with Jon using another Strands to prevent blue damage and taking one. Jon drew and cast Angelic Wall, which didn't block in light of the two Strands in the graveyard, but that may have been a mistake, as OMS then cast Famished Ghoul. Jon cast Skywing Aven, which Steve promptly sent back to his hand with the Torturer.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a843.jpg)Steve attacked with everything but the Torturer on his next turn, with the Wall getting a Guided Strike in order to draw Finkel a card. After combat, with Jon at eight, Steve cast Rat's Feast for five, removing the two Strands amongst other cards, and the end seemed to be near. Jon played Seafloor Debris and cast Aven Smokeweaver. Steve drew and cast Slithery Stalker, attacking to kill the chump blocking Smokeweaver, and a turn later, Jon admitted defeat.
+![](http://www.wizards.com/sideboard/images/usnat02/a843.jpg)
+
+Steve attacked with everything but the Torturer on his next turn, with the Wall getting a Guided Strike in order to draw Finkel a card. After combat, with Jon at eight, Steve cast Rat's Feast for five, removing the two Strands amongst other cards, and the end seemed to be near. Jon played Seafloor Debris and cast Aven Smokeweaver. Steve drew and cast Slithery Stalker, attacking to kill the chump blocking Smokeweaver, and a turn later, Jon admitted defeat.
 
 OMS 2, Finkel 0 
 

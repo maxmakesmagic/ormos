@@ -51,7 +51,9 @@ archive_source:
   sha256: bbc94b9b06f1f1ba0eeeabd6137c2753bb704f4e9a853cc3c3ed1cd94c58ad18
 render_recovery: []
 ---
-![](http://wizards.com//mtg/images/daily/events/ptq_2012.jpg)The Pro Tour Qualifier season for Pro Tour *Journey into Nyx* is under way. This is your chance to test your Standard Constructed skills, because invitations and tickets to Pro Tour *Journey into Nyx* go to PTQ winners! 
+![](http://wizards.com//mtg/images/daily/events/ptq_2012.jpg)
+
+The Pro Tour Qualifier season for Pro Tour *Journey into Nyx* is under way. This is your chance to test your Standard Constructed skills, because invitations and tickets to Pro Tour *Journey into Nyx* go to PTQ winners! 
 
 Look through the events below for Top 8 Standard decklists. You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20140106000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw. 
 

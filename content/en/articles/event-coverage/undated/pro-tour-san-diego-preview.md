@@ -77,7 +77,9 @@ The Queen is dead. Long live San Diego.
 
 This year, for the first time, when the Pro Tour makes its annual stop in California, it will not be heading to Long Beach, instead making its way to San Diego, two hours down the coast. Home to Alan Comer, Brian Selden, Brian Hacker and other **Magic** luminaries, San Diego is not without its **Magic** history, but one must hope that the new traditions spawned at the coming event will rival, or better yet, surpass those of old. It's a tall order.
 
-![](http://wizards.com/sideboard/images/USNAT01/929.jpg)The first Pro Tour-Los Angeles, the second Pro Tour ever held, is primarily remembered for two reasons: its format and it's final. It was the first Limited Pro Tour, using the basic set to produce cards like Shivan Dragon and Control Magic in the finals. The eventual winner was Shawn "Hammer" Regnier, a trash-talking professional arm wrestler who would go on to be **Magic's** poster boy for the next year. His defeat of Tom Guevin became the stuff of instant legend, with the Hammer's trash talking taking such effect that Guevin had to excuse himself to retire to the restroom in order to vomit in privacy. Guevin is still on the Tour to this day, but he hasn't played on Sunday since. 
+![](http://wizards.com/sideboard/images/USNAT01/929.jpg)
+
+The first Pro Tour-Los Angeles, the second Pro Tour ever held, is primarily remembered for two reasons: its format and it's final. It was the first Limited Pro Tour, using the basic set to produce cards like Shivan Dragon and Control Magic in the finals. The eventual winner was Shawn "Hammer" Regnier, a trash-talking professional arm wrestler who would go on to be **Magic's** poster boy for the next year. His defeat of Tom Guevin became the stuff of instant legend, with the Hammer's trash talking taking such effect that Guevin had to excuse himself to retire to the restroom in order to vomit in privacy. Guevin is still on the Tour to this day, but he hasn't played on Sunday since. 
 
 Each PT-LA, new stories have been written, justices done, goals attained, heroes recognized. To recap:
 
@@ -87,19 +89,27 @@ This is the most infamous Pro Tour in our history, with the finals ending on a d
 
 ### 1998 PT-LA
 
-![](http://wizards.com/sideboard/images/USNAT01/833.jpg)With order restored, the Pro Tour returned to L.A. to crown one of its old school. Dave Price had attended every Pro Tour to this point without some manner of requalification, but time and again he scratched and clawed his way back through the PTQs. LA 3 proved to be payment in full, with Price taking home the title and becoming one of the game's instant legends, forever synonymous with aggressive monored decks. In the final, Price defeated rookie Ben Rubin, who would go on to three more Top 8 finishes and two Masters victories.
+![](http://wizards.com/sideboard/images/USNAT01/833.jpg)
+
+With order restored, the Pro Tour returned to L.A. to crown one of its old school. Dave Price had attended every Pro Tour to this point without some manner of requalification, but time and again he scratched and clawed his way back through the PTQs. LA 3 proved to be payment in full, with Price taking home the title and becoming one of the game's instant legends, forever synonymous with aggressive monored decks. In the final, Price defeated rookie Ben Rubin, who would go on to three more Top 8 finishes and two Masters victories.
 
 ### 1999 PT-LA
 
-![](http://wizards.com/sideboard/images/USNAT01/892.jpg)Kai Budde might still be second to Jon Finkel in most people's eyes if Jon had managed to defeat long time friend and teammate Steve O'Mahoney-Schwartz in the finals of this tournament, but it was not to be. In a study of the benefits of cooperative drafting, Jon, Steve, Worth Wollpert and Terry Lau, sitting in a row, worked together during the draft while their respective opponents, Lucien Bui, Mike Long, Pat Chapin and Svend Geeertsen clashed with one another. The first four each won their respective quarterfinal matches, with a most deserving OMS capturing his one Pro Tour crown.
+![](http://wizards.com/sideboard/images/USNAT01/892.jpg)
+
+Kai Budde might still be second to Jon Finkel in most people's eyes if Jon had managed to defeat long time friend and teammate Steve O'Mahoney-Schwartz in the finals of this tournament, but it was not to be. In a study of the benefits of cooperative drafting, Jon, Steve, Worth Wollpert and Terry Lau, sitting in a row, worked together during the draft while their respective opponents, Lucien Bui, Mike Long, Pat Chapin and Svend Geeertsen clashed with one another. The first four each won their respective quarterfinal matches, with a most deserving OMS capturing his one Pro Tour crown.
 
 ### 2000 PT-LA
 
-![](http://wizards.com/sideboard/images/MI00/804.jpg)Mike Long's return after a year long absence did not disappoint, with the Virginian reaching the Top 8 and then drafting what most observers felt was the best deck there, but he couldn't get past the semifinals where Chris Benafel, playing in his second Pro Tour, stopped him. Benafel then went on to lose in turn to Trevor Blackwell, who, like Long, was making his return to Pro Tour play. Blackwell would win U.S. Nationals a year later. 
+![](http://wizards.com/sideboard/images/MI00/804.jpg)
+
+Mike Long's return after a year long absence did not disappoint, with the Virginian reaching the Top 8 and then drafting what most observers felt was the best deck there, but he couldn't get past the semifinals where Chris Benafel, playing in his second Pro Tour, stopped him. Benafel then went on to lose in turn to Trevor Blackwell, who, like Long, was making his return to Pro Tour play. Blackwell would win U.S. Nationals a year later. 
 
 ### 2001 PT-LA
 
-![](http://wizards.com/sideboard/images/PTCHI00/906.jpg)The finale, this Pro Tour may have featured the best Budde-less Top 8 of all time (The final cast of PT Chicago 1 may argue), with Jon Finkel, Mike Pustilnik, Kamiel Cornelissen and Ben Klauser advancing to the semis. In the end, it was Mikey P walking away with the win, thanks to one very well-timed Ravenous Rats which forced Cornelissen to discard Rith, the Awakener. Pustilnik would go on to win the Masters in New Orleans, becoming the first player to win both events.
+![](http://wizards.com/sideboard/images/PTCHI00/906.jpg)
+
+The finale, this Pro Tour may have featured the best Budde-less Top 8 of all time (The final cast of PT Chicago 1 may argue), with Jon Finkel, Mike Pustilnik, Kamiel Cornelissen and Ben Klauser advancing to the semis. In the end, it was Mikey P walking away with the win, thanks to one very well-timed Ravenous Rats which forced Cornelissen to discard Rith, the Awakener. Pustilnik would go on to win the Masters in New Orleans, becoming the first player to win both events.
 
 With that long history as a measuring stick, San Diego has a tough act to follow. These are the players who may have the best chance to start writing the new history:
 
@@ -107,7 +117,9 @@ With that long history as a measuring stick, San Diego has a tough act to follow
 
 **Mike Pustilnik** - Forever the champion of L.A., Mikey P is looking pretty good right now, with wins in New Orleans and Las Vegas making him the non-Budde odds on favorite. Despite his more consistent showings in Constructed events, his wins in two of the last three premier-level Limited events make taking on the little man a most daunting task. If Mikey wins, will they start to forget Kai?
 
-![](http://wizards.com/sideboard/WORLDS2000/images/317.jpg)**Jon Finkel** - Regardless of whether he's the best, Jon can flat out play. Limited is the New Jersey native's specialty because what Finkel does best is think on his feet, seemingly knowing the right play without having to look for it. Jon is looking for his tenth Top 8 appearance (that would be five more than Kai, by the way). I'd say he has a pretty good chance.
+![](http://wizards.com/sideboard/WORLDS2000/images/317.jpg)
+
+**Jon Finkel** - Regardless of whether he's the best, Jon can flat out play. Limited is the New Jersey native's specialty because what Finkel does best is think on his feet, seemingly knowing the right play without having to look for it. Jon is looking for his tenth Top 8 appearance (that would be five more than Kai, by the way). I'd say he has a pretty good chance.
 
 **Team CMU** - The best drafting in the world is being done in Pittsburgh, Pennsylvania right now. Mike Turian has long been among the top five drafters in the world, but it was Andy Johnson and Eugene Harvey who faced off in the finals of GP-Atlanta, and with Harvey and Turian having strong showings in US Nationals and Worlds respectively and Turian's win in Montreal, you have to give some long-due respect to the team that just doesn't die. Look for at least one of Turian, Johnson, Harvey or Andrew Cuneo to still be standing when the top eight is announced.
 

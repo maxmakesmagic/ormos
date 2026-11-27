@@ -44,7 +44,9 @@ archive_source:
   sha256: 429f9f2255171cb98c116ad770877047d835821c39e7f594ccafda4f87809612
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a874.jpg)Both players won their first round and need to win the next two as well to still have a shot at a place in the top 8. Eivind was really unlucky during the draft but still managed a solid deck while Rapahel got an average deck with 2 huge bombs: [Akroma's Vengeance](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) and [Insurrection](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Insurrection). You can read about the draft [here](/en/articles/event-coverage/2002/10-13-2002-grand-prix-copenhagen-draft-2-table-4-antoine-ruel-and-eivind-nitter).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a874.jpg)
+
+Both players won their first round and need to win the next two as well to still have a shot at a place in the top 8. Eivind was really unlucky during the draft but still managed a solid deck while Rapahel got an average deck with 2 huge bombs: [Akroma's Vengeance](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) and [Insurrection](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Insurrection). You can read about the draft [here](/en/articles/event-coverage/2002/10-13-2002-grand-prix-copenhagen-draft-2-table-4-antoine-ruel-and-eivind-nitter).
 
 Game 1 
 
@@ -62,7 +64,9 @@ Raphael decided to start again and this time kept his opening 7. Raphael played 
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a875.jpg)Now it was Eivind's time to start and he gladly accepted after the beating he received last game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a875.jpg)
+
+Now it was Eivind's time to start and he gladly accepted after the beating he received last game.
 
 No mulligans again and Raphael had his turn 1 [Gustcloak Runner](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Runner). Like game 1 he attacked turn 2 and again Eivind blocked with his [Wirewood Herald](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Herald); of course Raphael removed his Runner from combat once again. After the usual amount of small dorks from Raphael's side Eivind laid [Silklash Spider](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silklash+Spider) which probably has enough toughness to hold back Raphael's entire deck on his own. He also added a turn 7 [Krosan Tusker](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker) and things were starting to look grim for Raphael. When it attacked next turn Raphael gang blocked with three creatures but when Eivind just played a [Cruel Revival](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival) to remove one of the blockers so the Tusker stayed alive and all the dorks died. At this point even [Insurrection](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Insurrection) wouldn't have helped Raphael anymore because Eivind would be able to kill two of his own guys with the [Shock](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock) and [Smother](https://web.archive.org/web/20021013000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smother) he was holding. 
 

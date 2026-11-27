@@ -66,6 +66,8 @@ render_recovery: []
 ![Akroma](https://i.ormos.uk/f1/09/f1091d56c70d357c5911c5cc9385c116a80b5af43194f85b5a6af4ab0b1f68b0.jpg)  
   
 
-![Legions Player's Guide and Fat Pack](https://i.ormos.uk/22/0a/220afe611d40122c4087feec93248ae4a0334880a9c1570a11946d3790a1c9a0.jpg)The clip above is from the Player's Guide form the *Legions* Fat Pack. If you like the behind-the-scenes information about **Magic** that you get here on MagicTheGathering.com, then you'll love the Fat Pack! Not only do you get a Player's Guide, which includes a full visual spoiler and a bunch of insider info about the set written by R&D, but the Fat Pack also includes a bunch of booster packs, a novel, and a Spindown life counter. Not a bad deal!
+![Legions Player's Guide and Fat Pack](https://i.ormos.uk/22/0a/220afe611d40122c4087feec93248ae4a0334880a9c1570a11946d3790a1c9a0.jpg)
+
+The clip above is from the Player's Guide form the *Legions* Fat Pack. If you like the behind-the-scenes information about **Magic** that you get here on MagicTheGathering.com, then you'll love the Fat Pack! Not only do you get a Player's Guide, which includes a full visual spoiler and a bunch of insider info about the set written by R&D, but the Fat Pack also includes a bunch of booster packs, a novel, and a Spindown life counter. Not a bad deal!
 
 *Legions* goes on sale in stores on Monday, February 3.

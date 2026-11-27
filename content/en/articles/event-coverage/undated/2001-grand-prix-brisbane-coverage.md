@@ -42,7 +42,9 @@ render_recovery:
 
 ![](https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif)
 
-![](https://i.ormos.uk/20/0d/200d30e9105095c6446a64ff47cc98de69c84809d90d25e21575a3d9dc09cacc.jpg)It was to be another trans-tasman struggle between Australia and New Zealand for the title of Grand Prix Brisbane winner, with Melbourne's Richard Johnston squaring off against New Zealand's Roger Miller. Miller was packing a black/blue Atog deck whilst Johnston had drafted a blue/white control deck. In the end control prevailed over the Atogs, giving Australia revenge for New Zealands victory at GP Sydney 2000. Congratulations to 15-year-old Richard Johnston, Grand Prix Brisbane Champion.
+![](https://i.ormos.uk/20/0d/200d30e9105095c6446a64ff47cc98de69c84809d90d25e21575a3d9dc09cacc.jpg)
+
+It was to be another trans-tasman struggle between Australia and New Zealand for the title of Grand Prix Brisbane winner, with Melbourne's Richard Johnston squaring off against New Zealand's Roger Miller. Miller was packing a black/blue Atog deck whilst Johnston had drafted a blue/white control deck. In the end control prevailed over the Atogs, giving Australia revenge for New Zealands victory at GP Sydney 2000. Congratulations to 15-year-old Richard Johnston, Grand Prix Brisbane Champion.
 
  
 

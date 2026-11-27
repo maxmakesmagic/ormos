@@ -57,7 +57,9 @@ Even those two cards, however, could not stop the recursive power of Lin Sivvi. 
 
 **Game 2** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/932.jpg)Ryan had sided in four Last Breaths as metagame against the rebel leader. This game started far more slowly, with six turns seeing two Lin Sivvi's removed from the game and Alex gaining life as if he was in a multiplayer chaos game. Ryan had certainly hoped Alex's deck only had two of the rebel leader; and he was visibly irritated to see a third Lin Sivvi appear a few turns later. She and a Falcon were swept by a Wrath of God. Alex spent the next turn clearing the rest of the board with Armageddon. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/932.jpg)
+
+Ryan had sided in four Last Breaths as metagame against the rebel leader. This game started far more slowly, with six turns seeing two Lin Sivvi's removed from the game and Alex gaining life as if he was in a multiplayer chaos game. Ryan had certainly hoped Alex's deck only had two of the rebel leader; and he was visibly irritated to see a third Lin Sivvi appear a few turns later. She and a Falcon were swept by a Wrath of God. Alex spent the next turn clearing the rest of the board with Armageddon. 
 
 Mr. Shvartsman set up a new rebel chain quickly and finally began dealing damage. A Steadfast Guard, Ramosian Sergeant, and Crusade worked together to bring Ryan down to 12 life. Ryan worked his way back to five mana and cast a Blinding Angel that kept the late game interesting. Alex had to bide his time until he could search for his FOURTH Lin Sivvi - this pleased Mr. Fuller to no end - and when the blue mage used Mystical Tutor to get a Last Breath for her, she resurrected the Lin Sivvi that was in the graveyard on her way out the door. 
 

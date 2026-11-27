@@ -141,7 +141,9 @@ render_recovery:
   - Unhinge
   occurrences: 129
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a746.jpg)Mikko is the Cinderella story in this Pro Tour. He came out of nowhere to reach the first draft table for the crucial last three rounds. Not a bad weekend for the Finnish player. He started his feature match with a feature for every rookie: the playmat tutorial by Mark Rosewater.
+![](http://www.wizards.com/sideboard/images/ptnice02/a746.jpg)
+
+Mikko is the Cinderella story in this Pro Tour. He came out of nowhere to reach the first draft table for the crucial last three rounds. Not a bad weekend for the Finnish player. He started his feature match with a feature for every rookie: the playmat tutorial by Mark Rosewater.
 
 Denmark's Svend Geertsen will forever be remembered as the very young player who turned Stompy in a legendary deck with his performance at Worlds 1997. No matter how many great results he piled after that - he had another two Pro Tour Top 8's - he will always be the Stompy guy and one of the nicest players in the circuit.
 
@@ -167,7 +169,9 @@ Svend 1-0 Mikko.
 
 Mikko started things with Cephalid Scout before Geertsen found Basking Rootwalla. On the next turn he played Elvish Lyrist and Reckless Charge to start the Red Zone trips.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a748.jpg)The Scout ate up a land but Mikko dropped a Cartographer to recover it. The little green creature persuaded Geertsen to sit back and drop Werebear instead of attacking.
+![](http://www.wizards.com/sideboard/images/ptnice02/a748.jpg)
+
+The Scout ate up a land but Mikko dropped a Cartographer to recover it. The little green creature persuaded Geertsen to sit back and drop Werebear instead of attacking.
 
 When he tried to play Nantuko Disciple Punakallio was ready: he used Rites of Refusal to counter it. Rites of Spring brought up a Plains that made Geertsen raise his eyebrows.
 

@@ -81,7 +81,9 @@ Both of these players are most likely unfamiliar to the average reader, but with
 
 ### Game 1
 
-![](https://i.ormos.uk/a8/1d/a81d1bb8e89240530ae125ce867ed51f3ac7f6adceb11a4c69cb81ae6971e43a.jpg)Bastien got a good draw with a second turn Wild Mongrel and a third turn Arrogant Wurm. Alexandre also had creatures on both turns two and three; Nantuko Shade and Rotlung Reanimator. He didn't block and went down to eleven on turn four. Perez added a Merfolk Looter.
+![](https://i.ormos.uk/a8/1d/a81d1bb8e89240530ae125ce867ed51f3ac7f6adceb11a4c69cb81ae6971e43a.jpg)
+
+Bastien got a good draw with a second turn Wild Mongrel and a third turn Arrogant Wurm. Alexandre also had creatures on both turns two and three; Nantuko Shade and Rotlung Reanimator. He didn't block and went down to eleven on turn four. Perez added a Merfolk Looter.
 
 Perez got rid of the Mongrel with Chainer's Edict and attacked with the Rotlung to make the life totals 16-11 in Perez' favor. With the Shade hanging back to block, Bastien decided not to attack with the Arrogant Wurm as they would only trade. He only had three lands in play, so he couldn't flash back the Roar of the Wurm discarded to Looter either.
 

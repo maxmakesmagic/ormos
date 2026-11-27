@@ -44,7 +44,9 @@ archive_source:
   sha256: 78912884f616d78078c6a0fbef6bac834f140274d861090595179505e61a2a02
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a938.jpg)Trey Van Cleave, fresh off his top 8 at Grand Prix New Orleans is trying to make it consecutive top 8s here. He won Grand Prix Philadelphia 2000 and was doing very well on the pro tour before taking a forced yearlong hiatus from the game. He is back, though, and has an aggressive red/green deck, complete with [Ravenous Baloth](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ravenous+Baloth) and plenty of other big green men.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a938.jpg)
+
+Trey Van Cleave, fresh off his top 8 at Grand Prix New Orleans is trying to make it consecutive top 8s here. He won Grand Prix Philadelphia 2000 and was doing very well on the pro tour before taking a forced yearlong hiatus from the game. He is back, though, and has an aggressive red/green deck, complete with [Ravenous Baloth](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ravenous+Baloth) and plenty of other big green men.
 
 Facing him is Pro Tour regular Zvi Mowshowitz. As a member of Team Your Move Games, Zvi took the Grand Prix New Orleans title. He also has a Pro Tour win at Tokyo and several other Top 8 appearances. 
 
@@ -52,7 +54,9 @@ As the players shuffled, Zvi requested that a table judge be present. Before pre
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a941.jpg)Zvi won the die roll and chose to play first. He led with a turn two [Riptide Biologist](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Biologist) against Trey’s turn one [Birchlore Rangers](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birchlore+Rangers). Zvi was able to follow the Biologist with a turn three [Sparksmith](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith), but lacked a third land. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a941.jpg)
+
+Zvi won the die roll and chose to play first. He led with a turn two [Riptide Biologist](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Biologist) against Trey’s turn one [Birchlore Rangers](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birchlore+Rangers). Zvi was able to follow the Biologist with a turn three [Sparksmith](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith), but lacked a third land. 
 
 Trey cast his [Ravenous Baloth](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ravenous+Baloth) to get some pressure going alongside his recently cast morph, but all he could do was come through for two damage.
 
@@ -66,7 +70,9 @@ Zvi – 1, Trey – 0
 
 Trey was a little miffed at the power of Zvi’s red cards, as he was feeding him for two of the three packs. Somehow, Zvi had better red than Trey despite that.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a942.jpg)Trey chose to play game two, and again led off with a [Birchlore Rangers](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birchlore+Rangers). He followed that with a [Wellwisher](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher). Zvi simply cycled [Solar Blast](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast) to finish the [Wellwisher](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) before it got out of hand. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbos03/a942.jpg)
+
+Trey chose to play game two, and again led off with a [Birchlore Rangers](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birchlore+Rangers). He followed that with a [Wellwisher](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher). Zvi simply cycled [Solar Blast](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast) to finish the [Wellwisher](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wellwisher) before it got out of hand. 
 
 Both players summoned morphs, which traded with each other, and Trey summoned a [Symbiotic Elf](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Elf). Zvi countered with [Riptide Shapeshifter](https://web.archive.org/web/20030223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Shapeshifter).
 

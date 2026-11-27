@@ -1110,7 +1110,9 @@ Finally, there are five cards with "dragon" showing up solely in their names: Dr
 
 ### Question #35 (*Mirrodin*)
 
-![Hall of Famer Gary Wise](http://www.wizards.com/images/global/mtgevent_hofplayer_gwise_picMain_en.jpg)Every year at the **Magic** Invitational all sixteen invitees turn in the card they want to see printed as their prize if they win the event. Each winner has had their card made (or an alternative if R&D rejects their initial card) save Antoine Ruel and Tiago Chan, whose cards have not yet made it to print. Tsuyoshi Fujita had his card (Gemstones Cavern) printed because we ran a promotion one year where the audience got to pick a submitted card they wanted to see get printed. Other than these cards, only one other Invitational submission has ever seen print. This card was in *Mirrodin* and was R&D's tweaked version of the card submitted by Pro Tour Hall of Famer Gary Wise. What is the card?
+![Hall of Famer Gary Wise](http://www.wizards.com/images/global/mtgevent_hofplayer_gwise_picMain_en.jpg)
+
+Every year at the **Magic** Invitational all sixteen invitees turn in the card they want to see printed as their prize if they win the event. Each winner has had their card made (or an alternative if R&D rejects their initial card) save Antoine Ruel and Tiago Chan, whose cards have not yet made it to print. Tsuyoshi Fujita had his card (Gemstones Cavern) printed because we ran a promotion one year where the audience got to pick a submitted card they wanted to see get printed. Other than these cards, only one other Invitational submission has ever seen print. This card was in *Mirrodin* and was R&D's tweaked version of the card submitted by Pro Tour Hall of Famer Gary Wise. What is the card?
 
 Click here for the answer.
 

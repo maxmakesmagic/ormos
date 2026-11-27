@@ -581,7 +581,9 @@ And now for the most important Wizards in the set…
 
 When *Time Spiral* was handed off to development, the design team had a decent amount of the necessary stuff in place. There was a nostalgia theme, some new mechanics in split second and suspend, and the “timeshifted” subset all there. But what was missing was a splashy cycle of rares that would make people's jaws drop. So the development team set about looking for one.
 
-![](https://i.ormos.uk/3f/9f/3f9fffd87e0a8de803ccbd0f3e5a02946f981f7ea7c7976b39100c94d8406e5b.jpg)There we were, sitting in the International House of Pancakes, enjoying some breakfast: the *Time Spiral* development team – Brian Schneider, Matt Place, Mike Donais, Devin Low, and myself. Brian had promised us that if we all showed up for his absurdly-early meeting time that we could go out to breakfast and talk there. Somehow, we all managed to get out of bed. Today's topic: What should the hallmark rare cycle of *Time Spiral* be?
+![](https://i.ormos.uk/3f/9f/3f9fffd87e0a8de803ccbd0f3e5a02946f981f7ea7c7976b39100c94d8406e5b.jpg)
+
+There we were, sitting in the International House of Pancakes, enjoying some breakfast: the *Time Spiral* development team – Brian Schneider, Matt Place, Mike Donais, Devin Low, and myself. Brian had promised us that if we all showed up for his absurdly-early meeting time that we could go out to breakfast and talk there. Somehow, we all managed to get out of bed. Today's topic: What should the hallmark rare cycle of *Time Spiral* be?
 
 After some long discussions and several forkfuls of delicious breakfast meats, Matt and Mike came up with our answer. It was crazy. It had never been done before. It would make people think about deckbuilding in a whole new way. It was obviously *not* the Magus cycle.
 
@@ -595,7 +597,9 @@ And oh, were there dissenters. “This is a dumb idea,” they'd repeat, over an
 
 I really wish I could tell you what I was talking about. I like being the guy that will show you the dirty underbelly of the process of making this wonderful card game, but I need to keep this one in-house. I'm confident that we'll get it right one day, and I'd like it to feel amazing to all of you when you finally get to see it.
 
-![One_with_Nothing](https://i.ormos.uk/51/1e/511e1f74ef5110b62c2293f23e7d7a754f5e79261765e657625705628c56defc.jpg)So suddenly we were left with nothing great. Development was drawing to a close. Art descriptions had been written for all but a few stragglers in the set, and artists were being corralled to illustrate the final few pieces. Theme decks were built, templating was being done, and Limited was being tweaked in microscopic intervals. And we had no cycle.
+![One_with_Nothing](https://i.ormos.uk/51/1e/511e1f74ef5110b62c2293f23e7d7a754f5e79261765e657625705628c56defc.jpg)
+
+So suddenly we were left with nothing great. Development was drawing to a close. Art descriptions had been written for all but a few stragglers in the set, and artists were being corralled to illustrate the final few pieces. Theme decks were built, templating was being done, and Limited was being tweaked in microscopic intervals. And we had no cycle.
 
 I went to get some coffee with Brian one afternoon, and he was fretting over our lack of a cycle, and distraught that if we couldn't come up with something quickly, R&D management was going to do something potentially drastic. We started talking about what the set had and didn't have, what nostalgic wells we had been to and what still remained untapped. There were some decent rare cycles there already: the free suspend spells, the rare Slivers, rare morphs, gold legends, buyback spells, split second cards. What else could we do?
 

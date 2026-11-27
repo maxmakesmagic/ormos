@@ -80,7 +80,9 @@ render_recovery:
   - Birchlore Rangers
   occurrences: 30
 ---
-![](https://i.ormos.uk/9b/1c/9b1cce7dea85fa47ae95ee8097fc148825547a15b747e7b3ce57f577172a40a6.jpg)The two players sit at the table, each fully aware of the accomplishments of their adversary. Amiel finished 2nd in last year's Rookie of the Year. After some discussion of the poor quality of their decks, Jens borrowed a coin from a friend to see who would go first. Amiel won the flip, and with a wry smile chose to play first. Amiel kept an opening hand of mountain, forest, 3 goblins and solar blast.
+![](https://i.ormos.uk/9b/1c/9b1cce7dea85fa47ae95ee8097fc148825547a15b747e7b3ce57f577172a40a6.jpg)
+
+The two players sit at the table, each fully aware of the accomplishments of their adversary. Amiel finished 2nd in last year's Rookie of the Year. After some discussion of the poor quality of their decks, Jens borrowed a coin from a friend to see who would go first. Amiel won the flip, and with a wry smile chose to play first. Amiel kept an opening hand of mountain, forest, 3 goblins and solar blast.
 
 ### Game 1
 
@@ -92,7 +94,9 @@ Amiel 1 Jens 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a891.jpg)At the end of the game, as the two players looked hungily at their boards the crowd dispersed, and the setting once again was tranquil and unspectated. Not a word was said until Thorén decided to play as Amiel tried to convince him to let him start – "but you need to draw first - how else are you going to get your 2 blue, 2 green mana...?" Thorén mulliganed to 6, Amiel shaking his fist with a yes.
+![](http://www.wizards.com/sideboard/images/gpcop02/a891.jpg)
+
+At the end of the game, as the two players looked hungily at their boards the crowd dispersed, and the setting once again was tranquil and unspectated. Not a word was said until Thorén decided to play as Amiel tried to convince him to let him start – "but you need to draw first - how else are you going to get your 2 blue, 2 green mana...?" Thorén mulliganed to 6, Amiel shaking his fist with a yes.
 
 Wirewood Elf from Thorén was met by groans from Amiel, and Fogbeast was met with a laugh. Centaur Glade, however, was met with "I think you'll win this game..." Amiel's morph and Goblin Sky Raider were not up to the battle against the centaurs that were being made en masse, but symbiotic beast was looking strong. Mistform Stalker again shifted the balance, taking Amiel to 14. Amiel, undaunted by the third centaur that would inevitably come in to play, laughed and swung with his hoard. Beast and Sky Raider wwent through, with a nosy Goblin being made bigger by Fever Charm to trade. Things were looking darker by the minute for Amiel, left with only his two unblocked creatures to Thorén's flyer, lonely centaur, elf, and two newly summoned morphs. Amiel laid a further morph, which was Essence Fractured, ending the game, bringing the strong and silent Thorén back into the match. 
 
@@ -100,7 +104,9 @@ Amiel 1 Jens 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a892.jpg)During sideboarding before the final game, Amiel looked at me and nodded. I smiled, whereupon he nodded again. "My deck is good" Amiel offered Jens wishes of good luck before the last game Jens smiled and then grinned as Amiel then retracted the offer. "No. I'm not wishing you good luck." The atmosphere remained untense as Sledder again opened the action, this time with a crown of Fury in place. Thorén exploded his vegetation, Amiel failed to draw a land in round 4, thus failing to make his Reckless One (which would have made things look grimmer than they already were for Thorén. Amiel, upon seeing the Leery Fogbeast that had come out to play, checked again exactly how much his morph creature would cost.
+![](http://www.wizards.com/sideboard/images/gpcop02/a892.jpg)
+
+During sideboarding before the final game, Amiel looked at me and nodded. I smiled, whereupon he nodded again. "My deck is good" Amiel offered Jens wishes of good luck before the last game Jens smiled and then grinned as Amiel then retracted the offer. "No. I'm not wishing you good luck." The atmosphere remained untense as Sledder again opened the action, this time with a crown of Fury in place. Thorén exploded his vegetation, Amiel failed to draw a land in round 4, thus failing to make his Reckless One (which would have made things look grimmer than they already were for Thorén. Amiel, upon seeing the Leery Fogbeast that had come out to play, checked again exactly how much his morph creature would cost.
 
 Shock was Amiel's answer to Thorén's Primal Boost, and as another morph hit the table, a number of people watching wandered away, leaving Thorén for dead. Amiel yapped endlessly naming the cards that he was going to draw (none of which would necessarily change anything) but Thorén continued, laying Treespring Lorian and Wirewood Herald. In Amiel's next draw step, as he looked at his hand, he declared that he thought he might have made a mistake. This mistake would prove to cost him the game – the card he had played face-down as a morph creature was Reckless One instead of his Birchlore Rangers. Amiel tried to discuss it with the head judge, but to no avail. Thorén packed his cards, fully aware that he had escaped from what looked like a terminal situation. 
 

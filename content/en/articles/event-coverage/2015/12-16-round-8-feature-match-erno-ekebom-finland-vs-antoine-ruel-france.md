@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/144.jpg)In the first round of the second day, Erno Ekebom from Finland faced Grand Prix Porto Champion, Antoine Ruel from France. Erno was with a green, white and blue deck based on beatdown creatures and tappers, while Antoine had a black, blue and white deck with solid creatures and some removal along with a Nightscape Master. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/144.jpg)
+
+In the first round of the second day, Erno Ekebom from Finland faced Grand Prix Porto Champion, Antoine Ruel from France. Erno was with a green, white and blue deck based on beatdown creatures and tappers, while Antoine had a black, blue and white deck with solid creatures and some removal along with a Nightscape Master. 
 
 Erno won the die roll and chose to play. He started by casting a first turn Sunscape Apprentice and a second turn Benalish Trapper, and the attacks started. Antoine got a rather slow start, he got out a turn two Vodalian Hypnotist that he eventually traded for the Sunscape Apprentice. During turn five, when Erno had cast a Razorfoot Griffin as well, he finally did something - he played Reviving Vapors to get to a swamp. Then he dropped a Vodalian Zombie. 
 
@@ -62,7 +64,9 @@ But Erno had more tricks, he tapped the Master and Shackled it down. He also pla
 
 Ekebom 1 - Ruel 0 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/145.jpg)The second game was even shorter than the first one. Antoine chose to play, and he summoned a turn two Nomadic Elf that he traded for Erno's turn two Nomadic Elf. He then played a Sparring Golem and started attacking. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/145.jpg)
+
+The second game was even shorter than the first one. Antoine chose to play, and he summoned a turn two Nomadic Elf that he traded for Erno's turn two Nomadic Elf. He then played a Sparring Golem and started attacking. 
 
 Unfortunately, Erno also had creatures that wanted to attack. The Finn got out a turn three Quirion Sentinel and used the one extra mana to cast a Llanowar Knight as well. So while he took two points of damage from the Golem every turn, he could attack back for four. 
 

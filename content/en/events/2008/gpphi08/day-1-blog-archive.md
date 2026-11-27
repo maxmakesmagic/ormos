@@ -260,7 +260,9 @@ Craig was playing a Zoo list which included maindeck Gaddock Teeg. "It's just so
 
 ### Game 1
 
-![](https://www.wizards.com/sideboard/images/gpphi08/Rd4Krempels.jpg)Craig mulliganed to start things off keeping a hand with Isamaru. Ben Ghost Quartered Craig's Temple Garden on turn two and Craig picked up the card to read it and then looked forlornly at the basic land he had just played. "Good thing I drew my one Mountain, huh?" 
+![](https://www.wizards.com/sideboard/images/gpphi08/Rd4Krempels.jpg)
+
+Craig mulliganed to start things off keeping a hand with Isamaru. Ben Ghost Quartered Craig's Temple Garden on turn two and Craig picked up the card to read it and then looked forlornly at the basic land he had just played. "Good thing I drew my one Mountain, huh?" 
 
 He had played a Fanatic and went to work with his two one-drops while Ben put Russian Urza pieces into play. The Vancouver finalist quickly found himself down to nine with a Seal of Fire and two Fanatics looming. Thirst for Knowledge dug him three cards deeper and he pitched a pair of lands. He untapped to complete the Tron and play both Signet and Platinum Angel. Craig could easily kill the artifact creature but that would come at the cost of sending that damage to Ben's dome. 
 
@@ -272,7 +274,9 @@ Ben had another Mindslaver the following turn and drew a Vindicate that Craig co
 
 ### Game 2
 
-![](https://www.wizards.com/sideboard/images/gpphi08/Rd4Lundquist.jpg)Ben liked his opening cards but once again Craig sent his first seven back for something else. The next six suited him just fine and he led off with a full-sized Kird Ape. Ben was ready with Repeal to go a card deeper during Craig's attack step. Gaddock Teeg came down for Craig post attack. Ben's Ghost Quarter took out a Temple Garden but this game Craig still had his lone Mountain in his deck to fetch. Tarmogoyf promised to hold the fort for the Tron player while Craig followed up his Teeg with a pair of Kird Apes but he chose not to run them into the 'Goyf, which was joined by another a turn later. 
+![](https://www.wizards.com/sideboard/images/gpphi08/Rd4Lundquist.jpg)
+
+Ben liked his opening cards but once again Craig sent his first seven back for something else. The next six suited him just fine and he led off with a full-sized Kird Ape. Ben was ready with Repeal to go a card deeper during Craig's attack step. Gaddock Teeg came down for Craig post attack. Ben's Ghost Quarter took out a Temple Garden but this game Craig still had his lone Mountain in his deck to fetch. Tarmogoyf promised to hold the fort for the Tron player while Craig followed up his Teeg with a pair of Kird Apes but he chose not to run them into the 'Goyf, which was joined by another a turn later. 
 
 Craig played Seal of Fire and tried to calculate what that was going to do to the combat math if he used it. Finally he decided to send in one Kird Ape and Ben agreed to a trade for the Ape and Seal of Fire. Craig had fallen to fourteen from his mana and Ben decided it was time to turn the 'Goyf sideways. Triskelion came down post attack but Krempels was ready with Ancient Grudge. Artifact creature shot down the Teeg and did a point to Craig on its way to the bin. 
 
@@ -299,7 +303,9 @@ Both players sat down at 4-0 for this feature match. Jacob Van Lunen was pilotin
 
 Game 1:
 
-![](https://www.wizards.com/sideboard/images/gpphi08/Rd5Pelcak.jpg)Both players kept their opening hands. Pelcak did the popular turn one play of Lightning Bolting himself, turning a Wooded Foothills into a Sacred Foundry and playing Mogg Fanatic. Van Lunen played a Bloodstained Mire and passed the turn. Pelcak swung with his Fanatic, went to 15 for an untapped Breeding Pool, and dropped Gaddock Teeg. Van Lunen's Bloodstained Mire turned into a (tapped) Godless Shrine, which was then joined by a Forest and Dark Confidant. Another self-Bolt from Pelcak followed, as he went to 12 to play a second Mogg Fanatic to take out Van Lunen's Dark Confidant. Jacob fell to 13 after Pelcak attacked with Teeg and the first Fanatic. Pelcak then played a Tarmogoyf, which Van Lunen tried to answer with Doran. Pelcak pushed all of his men into the red zone, and even Doran could not hold back the Might of Gaea.
+![](https://www.wizards.com/sideboard/images/gpphi08/Rd5Pelcak.jpg)
+
+Both players kept their opening hands. Pelcak did the popular turn one play of Lightning Bolting himself, turning a Wooded Foothills into a Sacred Foundry and playing Mogg Fanatic. Van Lunen played a Bloodstained Mire and passed the turn. Pelcak swung with his Fanatic, went to 15 for an untapped Breeding Pool, and dropped Gaddock Teeg. Van Lunen's Bloodstained Mire turned into a (tapped) Godless Shrine, which was then joined by a Forest and Dark Confidant. Another self-Bolt from Pelcak followed, as he went to 12 to play a second Mogg Fanatic to take out Van Lunen's Dark Confidant. Jacob fell to 13 after Pelcak attacked with Teeg and the first Fanatic. Pelcak then played a Tarmogoyf, which Van Lunen tried to answer with Doran. Pelcak pushed all of his men into the red zone, and even Doran could not hold back the Might of Gaea.
 
 Pelcak 1, Van Lunen 0
 
@@ -309,7 +315,9 @@ Both players pondered their sideboarding decisions quietly before Van Lunen comm
 
 Game 2: 
 
-![](https://www.wizards.com/sideboard/images/gpphi08/Rd5VanLunen.jpg)Van Lunen mulliganed to 6, but Pelcak kept his initial 7. Jacob eschewed Bolting himself on the play, turning his Windswept Heath into a Forest and playing Birds of Paradise. Pelcak took 2 for an untapped Blood Crypt and quickly sent the Birds packing with a Mogg Fanatic. On his second turn, Van Lunen couldn't resist taking 3, trading in his second Windswept Heath for Godless Shrine and Dark Confidant. Pelcak, effectively up two cards after his opponent mulliganed, was content to kill another of Van Lunen's creatures, using Tribal Flames to take care of the Confidant. Undeterred, Van Lunen played a second Dark Confidant, which met a swift Demise to Pelcak's Vindicate.
+![](https://www.wizards.com/sideboard/images/gpphi08/Rd5VanLunen.jpg)
+
+Van Lunen mulliganed to 6, but Pelcak kept his initial 7. Jacob eschewed Bolting himself on the play, turning his Windswept Heath into a Forest and playing Birds of Paradise. Pelcak took 2 for an untapped Blood Crypt and quickly sent the Birds packing with a Mogg Fanatic. On his second turn, Van Lunen couldn't resist taking 3, trading in his second Windswept Heath for Godless Shrine and Dark Confidant. Pelcak, effectively up two cards after his opponent mulliganed, was content to kill another of Van Lunen's creatures, using Tribal Flames to take care of the Confidant. Undeterred, Van Lunen played a second Dark Confidant, which met a swift Demise to Pelcak's Vindicate.
 
 An Overgrown Tomb took Van Lunen to 14, but Loxodon Hierarch pulled him right back up to 18. Pelcak looked like he wanted another removal spell, but settled for Grim Lavamancer and a Dark Confidant of his own. Van Lunen accessorized his Hierarch with an Armadillo Cloak, and the ensuing attack left the life totals at 24-7 in his favor. After using a fetchland and revealing a Gaea's Might from Dark Confidant, Pelcak knocked Van Lunen to 22 with an attack from the Wizard. Unsatisfied with just a Cloak for his elephant, Van Lunen played and equipped Umezawa's Jitte. Before the Hierarch could puts its new weapon to good use, though, Pelcak killed it in a flurry of burn. Lightning Helix, Grim Lavamancer, and Mogg Fanatic combined for the 6 damage necessary to destroy the Hierarch. Left with a creatureless board, Van Lunen passed the turn.
 
@@ -332,7 +340,9 @@ Dan O'Mahoney-Schwartz is a name familiar to anyone who has followed the Pro Tou
 
 Dan took three to lead off with a maxed out Kird Ape. Ben imprinted Wall of Roots on Chrome Mox to power out a turn one Wall of Roots to stymie the gorilla. Dan attacked with his Ape and Ben blocked. Dan took another three from a fetch land and shock land to finish off the wall with Tribal Flames for three. Ben had another to replace it and even used a mana from the fresh wall to send Matuvault in for two damage. Dan added Tarmogoyf to his board.
 
-![](https://www.wizards.com/sideboard/images/gpphi08/rd6strickland.jpg)Ben untapped and played Ravenous Baloth and used Ghost Quarter on Dan's Stomping Ground. Dan found a Mountain but was now without a Forest to pump up his Kird Ape. Dan added Grim Lavamancer and Mogg Fanatic but could not find an attack in that he liked. Ben swung in with his Baloth and now Dan had to see if there were any blocks that he liked. He chose to take four and went to eight. Ben played Garruck after his attack step and made a 3/3 beast that could be conveniently sacrificed to the Baloth for four life. 
+![](https://www.wizards.com/sideboard/images/gpphi08/rd6strickland.jpg)
+
+Ben untapped and played Ravenous Baloth and used Ghost Quarter on Dan's Stomping Ground. Dan found a Mountain but was now without a Forest to pump up his Kird Ape. Dan added Grim Lavamancer and Mogg Fanatic but could not find an attack in that he liked. Ben swung in with his Baloth and now Dan had to see if there were any blocks that he liked. He chose to take four and went to eight. Ben played Garruck after his attack step and made a 3/3 beast that could be conveniently sacrificed to the Baloth for four life. 
 
 With the Garruck down to two loyalty counters Dan considered using his Lavamancer on the Planeswalker. Instead he attacked with his 'Goyf and when Ben heard that the attack was headed toward the Garruck he happily put it in his bin with no blocks. 
 
@@ -342,7 +352,9 @@ The momentum had swung in Dan's direction and he sent in his pair of Future Sigh
 
 ### Game 2
 
-![](https://i.ormos.uk/3e/fb/3efbdf9bd48dbb9be1db884243b87937298e964a39f8cc71d9a568aad4b725c3.jpg)Dan started Game 2 out with only five cards to work with. Ben imprinted Plow Under on a Mox and made a turn one Viridian Zealot and a turn two Troll Ascetic around Dan's Kird Ape. Dan made a minium sized Tarmogoyf that could do little but watch as Ben's creatures rushed by. Ben's next play was Ohran Viper and there were seven creatures on the board by turn three once Dan added a Fanatic and Lavamancer. That number was reduced significantly a turn later when Ben sent his Troll and Viper into combat, Dan added another 'Goyf and Ben played Ravenous Baloth. His Ghost Quarter was a Strip Mine with Dan's Mountain already in play. 
+![](https://i.ormos.uk/3e/fb/3efbdf9bd48dbb9be1db884243b87937298e964a39f8cc71d9a568aad4b725c3.jpg)
+
+Dan started Game 2 out with only five cards to work with. Ben imprinted Plow Under on a Mox and made a turn one Viridian Zealot and a turn two Troll Ascetic around Dan's Kird Ape. Dan made a minium sized Tarmogoyf that could do little but watch as Ben's creatures rushed by. Ben's next play was Ohran Viper and there were seven creatures on the board by turn three once Dan added a Fanatic and Lavamancer. That number was reduced significantly a turn later when Ben sent his Troll and Viper into combat, Dan added another 'Goyf and Ben played Ravenous Baloth. His Ghost Quarter was a Strip Mine with Dan's Mountain already in play. 
 
 There was another violent clash in the red zone with Dan losing a Lavamancer and 'Goyf to take down Ravenous Baloth but he scooped in the face of Phantom Centaur. 
 
@@ -391,7 +403,9 @@ We know at least one Trial winner went with a different deck than the one that e
 
     *By Brian David-Marshall*
 
-![](https://www.wizards.com/sideboard/images/gpphi08/WalkingtheToptables.jpg)With two-thirds of Day One behind us I decided to walk the top tables and see what decks were doing well. After just looking at the first four seats of undefeated players I can tell you that Luis Scott Vargas' assessment that there were as many as fifteen different decks capable of winning a tournament seems at least half right. There were eight different decks sitting at tables 1 – 4 with 6-0 records – granted many of the players sitting there only had to play half those rounds. 
+![](https://www.wizards.com/sideboard/images/gpphi08/WalkingtheToptables.jpg)
+
+With two-thirds of Day One behind us I decided to walk the top tables and see what decks were doing well. After just looking at the first four seats of undefeated players I can tell you that Luis Scott Vargas' assessment that there were as many as fifteen different decks capable of winning a tournament seems at least half right. There were eight different decks sitting at tables 1 – 4 with 6-0 records – granted many of the players sitting there only had to play half those rounds. 
 
 Table one saw Steve Sadin playing a Split Level Blue variant. (I have grown weary of keeping track of all the different iterations of blue decks with Tarmogoyf so I am just generalizing them all into the Split Level category.) He was facing down Dan O'Mahoney-Schwartz who was with Domain Zoo. Watching their match-up was Chris Pikula who was perplexed as to how he could have not won a game with the same deck that was sitting at Table 1 undefeated. 
 
@@ -417,7 +431,9 @@ These two undefeated players brought very different decks to the feature match t
 
 Game 1:
 
-![](https://www.wizards.com/sideboard/images/gpphi08/rd7Berkowitz.jpg)Both players keep their hands. Jordan played a Bloodstained Mire, fetched a Mountain with it, and had no other first-turn play. Alex played a Sacred Foundry untapped for a Sensei's Divining Top. Jordan dropped a Goblin Piledriver on his turn. He spent some time each turn pondering what his opponent was playing, which caused Alex to urge him along. On his next turn, Jordan summoned a Goblin Warchief and attacked for 5, dropping Alex to 13. Alex went to 12 off a Windswept Heath, played Chrome Mox (imprinting Destructive Flow, giving him three colors to choose from when using the Mox), played another fetchland, and passed. Jordan played Goblin Matron (getting a Goblin Ringleader) and animated his fresh Mutavault, but Alex had Orim's Chant with kicker to stop the Goblin offensive before it could begin.
+![](https://www.wizards.com/sideboard/images/gpphi08/rd7Berkowitz.jpg)
+
+Both players keep their hands. Jordan played a Bloodstained Mire, fetched a Mountain with it, and had no other first-turn play. Alex played a Sacred Foundry untapped for a Sensei's Divining Top. Jordan dropped a Goblin Piledriver on his turn. He spent some time each turn pondering what his opponent was playing, which caused Alex to urge him along. On his next turn, Jordan summoned a Goblin Warchief and attacked for 5, dropping Alex to 13. Alex went to 12 off a Windswept Heath, played Chrome Mox (imprinting Destructive Flow, giving him three colors to choose from when using the Mox), played another fetchland, and passed. Jordan played Goblin Matron (getting a Goblin Ringleader) and animated his fresh Mutavault, but Alex had Orim's Chant with kicker to stop the Goblin offensive before it could begin.
 
 The Goblins soon went scurrying into the graveyard, as Alex played Wrath of God. Jordan played the Ringleader he searched for the previous turn, revealing a Mogg Fanatic, Goblin Piledriver, and two lands. The Ringleader attacked Alex to 9, and Jordan added the Fanatic to his team. Alex played Isochron Scepter, imprinting Orim's Chant. He had only two untapped lands, however, meaning he couldn't pay the Chant's kicker to keep Jordan from attacking. That would prove to be his undoing, as Jordan played a Goblin Warchief, Goblin Piledriver, and Skirk Prospector, which earned the scoop from Alex.
 
@@ -427,7 +443,9 @@ During sideboarding, Alex again prodded Jordan to hurry. The time spent sideboar
 
 Game 2:
 
-![](https://www.wizards.com/sideboard/images/gpphi08/rd7Kim.jpg)After both players kept their lands, Alex led off with a tapped Sacred Foundry, while Jordan fetched a Mountain and played Skirk Prospector. Alex's second-turn play was another land; on his second turn, Jordan attacked for 1, dropped Mutavault, and played the fearsome Goblin Piledriver. Meanwhile, Alex's only play was to add another land to his uncluttered board. Jordan swung for 4, then played Mogg War Marshal, sacrificing it immediately for the mana necessary to play Mogg Fanatic. Alex cycled Decree of Justice at the end of Jordan's turn, just looking for the extra card. He then played an Isochron Scepter, imprinting Orim's Chant, leaving two mana open again. Jordan activated Mutavault and swung with his team. Unable to stop the attack with Orim's Chant, Alex still had a good play as he removed the Piledriver with Lightning Helix, ending up at 12 after combat. The Scepter-Chant lock then started in earnest, with Jordan playing lands and passing the turn, and Alex using his Top to dig for a threat. He found a Tarmogoyf, which eventually ran into Mutavault, Mogg Fanatic, and two Goblin tokens. That didn't matter, as Alex had a second Isochron Scepter, this time imprinting Lightning Helix. With the Chant lock in place, Jordan's death to the Scepter was academic.
+![](https://www.wizards.com/sideboard/images/gpphi08/rd7Kim.jpg)
+
+After both players kept their lands, Alex led off with a tapped Sacred Foundry, while Jordan fetched a Mountain and played Skirk Prospector. Alex's second-turn play was another land; on his second turn, Jordan attacked for 1, dropped Mutavault, and played the fearsome Goblin Piledriver. Meanwhile, Alex's only play was to add another land to his uncluttered board. Jordan swung for 4, then played Mogg War Marshal, sacrificing it immediately for the mana necessary to play Mogg Fanatic. Alex cycled Decree of Justice at the end of Jordan's turn, just looking for the extra card. He then played an Isochron Scepter, imprinting Orim's Chant, leaving two mana open again. Jordan activated Mutavault and swung with his team. Unable to stop the attack with Orim's Chant, Alex still had a good play as he removed the Piledriver with Lightning Helix, ending up at 12 after combat. The Scepter-Chant lock then started in earnest, with Jordan playing lands and passing the turn, and Alex using his Top to dig for a threat. He found a Tarmogoyf, which eventually ran into Mutavault, Mogg Fanatic, and two Goblin tokens. That didn't matter, as Alex had a second Isochron Scepter, this time imprinting Lightning Helix. With the Chant lock in place, Jordan's death to the Scepter was academic.
 
 Berkowitz 1, Kim 1
 
@@ -456,7 +474,9 @@ Both players opened on Treetop Village with a Kami of Acient Law for Rashad. The
 
 We had found one point of divergence in the two lists...
 
-![](https://www.wizards.com/sideboard/images/gpphi08/Rd8hansen.jpg)Rashad was able to get in for another five but Phantom Centaur from Cheeks meant no more attacking for the time being. Tarmogoyf and the underwhelming Gaddock Teeg – while an all-star in some other match-ups this guy was a legendary vanilla creature in this one. Rashad could only shake his head as Hansen played a second Phantom Centaur – he had multiple copies of the card waiting in vain for the Intrepid Hero to somehow die. 
+![](https://www.wizards.com/sideboard/images/gpphi08/Rd8hansen.jpg)
+
+Rashad was able to get in for another five but Phantom Centaur from Cheeks meant no more attacking for the time being. Tarmogoyf and the underwhelming Gaddock Teeg – while an all-star in some other match-ups this guy was a legendary vanilla creature in this one. Rashad could only shake his head as Hansen played a second Phantom Centaur – he had multiple copies of the card waiting in vain for the Intrepid Hero to somehow die. 
 
 Both players mounted their green-white armies but it was Matt's Phantom Centaurs that did the trick taking down waves of chump blockers along the way. With the win in sight, Matt finally committed other creatures to the red zone besides the Centaurs and Rashad flashed a little bit of fancy in Otherworldly Journey on a Treetop Village but it was not enough. 
 
@@ -468,7 +488,9 @@ Why the late audible to include the Intrepid Hero in his deck? Matt pointed to h
 
 ### Game 2
 
-![](https://www.wizards.com/sideboard/images/gpphi08/rd8miller.jpg)Rashad led off with Treetop while Matt thought about his first turn for a while before playing Sungrass Prarie and imprinting Tarmogoyf on a Chrome Mox. 
+![](https://www.wizards.com/sideboard/images/gpphi08/rd8miller.jpg)
+
+Rashad led off with Treetop while Matt thought about his first turn for a while before playing Sungrass Prarie and imprinting Tarmogoyf on a Chrome Mox. 
 
 "That's worth almost as much as a Mox Emerald right now," laughed one spectator. 
 
@@ -512,7 +534,9 @@ It was hard to tell what was giving Dan O'Mahoney-Schwartz more joy; him continu
 
 Two 8-0 records were on the line in this one. Patrick Chapin, known for his love of the levels of Blue, brought a different level of Blue into the match, adding some more aggressive elements to the Counterbalance/Tarmogoyf package. Matt Hansen rescued Tallowisp from the remains of Ghost Dad and was hoping to live the dream of an undefeated first day. 
 
-![](https://www.wizards.com/sideboard/images/gpphi08/rd9Hansen.jpg)Matt was on the play Game 1 and shipped his opening seven back for six cards he liked better. He led off with a Treetop Village, while Patrick played a Godless Shrine and Chrome Mox (imprinting Counterspell) to drop Dark Confidant on the first turn. Matt played Gaddock Teeg, which was quickly stolen by Patrick's Threads of Disloyalty. Another land from Matt meant Treetop Village would be a potent blocker, so Patrick passed his next turn without attacking. That gave Matt a window to play Chameleon Colossus, but that was soon pilfered by Sower of Temptation. Matt was allowed to keep his Phantom Centaur, however. On Matt's next draw, Patrick played a timely Vendilion Clique, sending Kami of Ancient Law to the bottom of the deck. Matt played Armadillo Cloak on his Phantom Centaur and passed the turn. While the Centaur itself is quite immune to Vindicate, its Cloak was not. Patrick sent his team into the red zone, and that got the scoop.
+![](https://www.wizards.com/sideboard/images/gpphi08/rd9Hansen.jpg)
+
+Matt was on the play Game 1 and shipped his opening seven back for six cards he liked better. He led off with a Treetop Village, while Patrick played a Godless Shrine and Chrome Mox (imprinting Counterspell) to drop Dark Confidant on the first turn. Matt played Gaddock Teeg, which was quickly stolen by Patrick's Threads of Disloyalty. Another land from Matt meant Treetop Village would be a potent blocker, so Patrick passed his next turn without attacking. That gave Matt a window to play Chameleon Colossus, but that was soon pilfered by Sower of Temptation. Matt was allowed to keep his Phantom Centaur, however. On Matt's next draw, Patrick played a timely Vendilion Clique, sending Kami of Ancient Law to the bottom of the deck. Matt played Armadillo Cloak on his Phantom Centaur and passed the turn. While the Centaur itself is quite immune to Vindicate, its Cloak was not. Patrick sent his team into the red zone, and that got the scoop.
 
 Chapin 1, Hansen 0.
 
@@ -530,7 +554,9 @@ Both players made a few sideboard adjustments. Patrick was surprised that Choke 
 
 Game 3:
 
-![](https://www.wizards.com/sideboard/images/gpphi08/LoomingChapin.jpg)There were no mulligans this time. Both players led off with fetchlands, and Patrick played a Dark Confidant on the second turn. Matt played a Tallowisp, but the pesky Spirit was quickly Vindicated. Dark Confidant kept getting into the red zone, even in the face of a fresh Troll Ascetic when Matt lacked the mana to regenerate. Patrick added a Tarmogoyf to his side. Matt's second Troll was met with a Counterspell from Patrick. Still lacking regeneration mana, Matt chose not to block when Patrick attacked with his Confidant and Tarmogoyf, falling to 8. Patrick had another Counterspell when Matt tried putting Armadillo Cloak on his Troll. The Troll blocked Dark Confidant when Patrick swung again, knocking Matt to 3. Patrick added a Loxodon Hierarch to his team, going up to 16, and played Counterbalance. Needing destroy Patrick's two creatures or play two of his own, Matt tested the Counterbalance waters by playing Gaddock Teeg. Patrick windmilled his top card onto the table, revealing Polluted Delta. Matt got his second creature he needed to block in the form of Kami of Ancient Law.
+![](https://www.wizards.com/sideboard/images/gpphi08/LoomingChapin.jpg)
+
+There were no mulligans this time. Both players led off with fetchlands, and Patrick played a Dark Confidant on the second turn. Matt played a Tallowisp, but the pesky Spirit was quickly Vindicated. Dark Confidant kept getting into the red zone, even in the face of a fresh Troll Ascetic when Matt lacked the mana to regenerate. Patrick added a Tarmogoyf to his side. Matt's second Troll was met with a Counterspell from Patrick. Still lacking regeneration mana, Matt chose not to block when Patrick attacked with his Confidant and Tarmogoyf, falling to 8. Patrick had another Counterspell when Matt tried putting Armadillo Cloak on his Troll. The Troll blocked Dark Confidant when Patrick swung again, knocking Matt to 3. Patrick added a Loxodon Hierarch to his team, going up to 16, and played Counterbalance. Needing destroy Patrick's two creatures or play two of his own, Matt tested the Counterbalance waters by playing Gaddock Teeg. Patrick windmilled his top card onto the table, revealing Polluted Delta. Matt got his second creature he needed to block in the form of Kami of Ancient Law.
 
 Patrick had the trump, though, playing Sower of Temptation. With only one blocker for the 4/4 and 5/6 ready to swing in on him, Matt extended the hand.
 

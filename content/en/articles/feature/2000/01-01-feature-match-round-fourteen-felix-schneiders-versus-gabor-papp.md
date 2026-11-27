@@ -184,7 +184,9 @@ The players spent a long time thinking about whether to draw or not, but Gabor w
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/901.jpg)Papp decided to keep a questionable hand in the first game, with only a Swamp and a Plains for mana, but fortunately for him, his first draw was a Forest, allowing him to cast Lay of the Land and fetch an Island.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/901.jpg)
+
+Papp decided to keep a questionable hand in the first game, with only a Swamp and a Plains for mana, but fortunately for him, his first draw was a Forest, allowing him to cast Lay of the Land and fetch an Island.
 
 Felix played a Nightscape Familiar on his second turn and attacked with it a couple of times while Papp continued to develop his mana base. A Collective Restraint cooled the Familiar's aggressive urges on Papp's fourth turn. Felix was still in good shape, though, he used Prophetic Bolt to find a Lobotomy, and removed Gabor's Allied Strategies from the game, leaving him with two Evasive Actions and a Legacy Weapon in hand.
 
@@ -200,7 +202,9 @@ Felix Schneiders 1 - Gabor Papp 0
 
 ### Game Two
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/900.jpg)Papp wasn't satisfied with his opening draw and mulliganned at the start of Game Two. His second draw was little better as it didn't have a Forest, and he missed his third land drop. Schneiders sensed victory and went on the attack playing a 2/3 Emblazoned Golem on his third turn.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/900.jpg)
+
+Papp wasn't satisfied with his opening draw and mulliganned at the start of Game Two. His second draw was little better as it didn't have a Forest, and he missed his third land drop. Schneiders sensed victory and went on the attack playing a 2/3 Emblazoned Golem on his third turn.
 
 Papp had only an Island and a Swamp while the German built up to five lands and kept attacking with the Golem and a recently summoned Nightscape Familiar. Felix even countered a Worldly Counsel, just to stop Gabor finding more land. Schneiders cast Lobotomy and took Evasive Action although Harrow was also a possibility. Gabor immediately drew a Forest, and, taking advantage of the fact that Felix only had two mana open, he cast Harrow.
 

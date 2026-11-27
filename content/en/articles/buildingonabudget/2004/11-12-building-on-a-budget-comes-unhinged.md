@@ -379,7 +379,9 @@ This deck has 14 cards that destroy lands, and that is not including the Rare-B-
 
 ### Adding Money to the Deck
 
-![](https://i.ormos.uk/6a/4d/6a4d9a68d289d07dbfbab852d48ed41b47c0789862a5134a80ac8aa5a529524f.jpg)One way you can have even more fun is by adding cards with ambiguous rarity. There are many cards in **Magic** that have been reprinted at different rarity levels. Sengir Vampire is a good example. Though the *Unhinged* FAQ doesn't come out until next week, I'm guessing you could probably play with the uncommon version from the old basic set and have it survive Rare-B-Gone, while the *Torment* version would die (since it's rare). Other great cards to do this with are Strip Mine from the basic set and Underworld Dreams from *Legends*. You could also go for adding cards that look like they should be rare, such as Sinkhole or Library of Alexandria. Yes Library of Alexandria. It is an uncommon. Go figure? Needless to say, if you play Rare-B-Gone in Vintage, you will have lots of fun conversations about what cards are actually rare, regardless of how much they cost.
+![](https://i.ormos.uk/6a/4d/6a4d9a68d289d07dbfbab852d48ed41b47c0789862a5134a80ac8aa5a529524f.jpg)
+
+One way you can have even more fun is by adding cards with ambiguous rarity. There are many cards in **Magic** that have been reprinted at different rarity levels. Sengir Vampire is a good example. Though the *Unhinged* FAQ doesn't come out until next week, I'm guessing you could probably play with the uncommon version from the old basic set and have it survive Rare-B-Gone, while the *Torment* version would die (since it's rare). Other great cards to do this with are Strip Mine from the basic set and Underworld Dreams from *Legends*. You could also go for adding cards that look like they should be rare, such as Sinkhole or Library of Alexandria. Yes Library of Alexandria. It is an uncommon. Go figure? Needless to say, if you play Rare-B-Gone in Vintage, you will have lots of fun conversations about what cards are actually rare, regardless of how much they cost.
 
 Other interesting Rare to Unrare cards:
 

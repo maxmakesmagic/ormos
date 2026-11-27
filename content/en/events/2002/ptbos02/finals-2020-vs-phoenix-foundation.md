@@ -139,7 +139,9 @@ render_recovery:
   - Vivify
   occurrences: 114
 ---
-![](https://i.ormos.uk/29/53/2953f65fb72f523371909b695941699af098f3a72fc138c2c6ddd2296ae0446a.jpg)"It's funny, yesterday people were asking about our team, our individual accomplishments. Elijah's been to like six PT's. Me? I'm Top 50 on Magic Online, that's it." - David Rood
+![](https://i.ormos.uk/29/53/2953f65fb72f523371909b695941699af098f3a72fc138c2c6ddd2296ae0446a.jpg)
+
+"It's funny, yesterday people were asking about our team, our individual accomplishments. Elijah's been to like six PT's. Me? I'm Top 50 on Magic Online, that's it." - David Rood
 
 That's some uncharacteristic humility from Quebec's David Rood. This sass-talking young man has been stepping up the success of late, putting up strong finishes at North American Grand Prix as well as a Top 4 finish at Canadian Nationals. Sitting across from the winningest man in Magic tends to diminish one's own accomplishments.
 
@@ -151,13 +153,17 @@ Both players found their opening hands acceptable. Budde led with Obsessive Sear
 
 Both Blume and Budde turned around in surprise. Blume hadn't even started his match yet! Budde quickly turned back to the beating at hand. Ghostly Wings let him go overhead for five. Hapless Researcher joined his team. Rood played his fifth land and handed it back, acting like he had all kinds of effects. Budde bashed again. Wild Mongrel sweetened the deal. Rood made a Zealot.
 
-![](https://i.ormos.uk/1d/65/1d655d5aab6a9c44ba37817fe1dca0c04b798fb1bfb9d7b3c5302152b899fa5d.jpg)An end-of-turn Rootwalla was the least of his worries. Budde had Narcissism waiting in the wings. Rood needed a plan that involved neither blocking nor not blocking. Such a plan was not forthcoming. Budde reported the good news to his teammates. Baberowski wanted the whole story. "He drew a lot of lands, but my draw...", he just trailed off, shaking his head.
+![](https://i.ormos.uk/1d/65/1d655d5aab6a9c44ba37817fe1dca0c04b798fb1bfb9d7b3c5302152b899fa5d.jpg)
+
+An end-of-turn Rootwalla was the least of his worries. Budde had Narcissism waiting in the wings. Rood needed a plan that involved neither blocking nor not blocking. Such a plan was not forthcoming. Budde reported the good news to his teammates. Baberowski wanted the whole story. "He drew a lot of lands, but my draw...", he just trailed off, shaking his head.
 
 One price of Budde's success is that his is always the last match to complete, as the camera crews will hold his match so it can be the deciding one. Today was no different. He watched off-camera while Baberowski fell to Wolfman and Blume dispatched Pollock. He and Rood were miked up and dove into Game 2.
 
 Budde led with Hapless Researcher, and then Basking Rootwalla. Rood's first play was Shieldmage Advocate. Budde had no problem playing the slow game. Druid Lyrist joined his side. Rood had Mystic Zealot and Vigilant Sentry. Budde calmly dropped Narcissism and Cephalid Scout, biding his time.
 
-![](https://i.ormos.uk/d5/70/d570811be3baa65f1954963879e84518b5a62854f9c0644922fd7f924dc00d80.jpg)The board cluttered. Rood found Balshan Collaborator. The Scout started digging. Rood had Syncopate for Arrogant Wurm, but between Obsessive Search and the Scout, Budde was free to get what he wanted. Aven Fogbringer meant he could start coming through for one point of damage a turn with the Scout, with Rood forcing a Narcissism pitch by blocking, then using his Advocate to save his Collaborator.
+![](https://i.ormos.uk/d5/70/d570811be3baa65f1954963879e84518b5a62854f9c0644922fd7f924dc00d80.jpg)
+
+The board cluttered. Rood found Balshan Collaborator. The Scout started digging. Rood had Syncopate for Arrogant Wurm, but between Obsessive Search and the Scout, Budde was free to get what he wanted. Aven Fogbringer meant he could start coming through for one point of damage a turn with the Scout, with Rood forcing a Narcissism pitch by blocking, then using his Advocate to save his Collaborator.
 
 Then the dam broke. Seton's Desire on the Scout upped the clock to two a turn. Rood fell to eleven, and Repel put the Shieldmage on Rood's library. Budde Narcissismed to threshold, dispatching the forced-to-block Collaborator and dealing massive damage. Grizzly Fate gave him four bears. There wasn't enough room in The Red Zone for his monsters. Rood made a pretense of blocking, then extended the hand.
 

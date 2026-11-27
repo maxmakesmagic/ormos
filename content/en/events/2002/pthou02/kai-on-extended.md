@@ -53,7 +53,9 @@ archive_source:
   sha256: 55b8e76767bf6bf383eebd85e488afcc1f25c62259fbbc3e9862798ff2bba69b
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a525.jpg)When the best player to ever touch the cards sounds off on a format, people listen. Kai Budde and his squad of testers decoded the metagame, and heading into the weekend, the best deck was blue-black Reanimator.
+![](http://www.wizards.com/sideboard/images/pthou02/a525.jpg)
+
+When the best player to ever touch the cards sounds off on a format, people listen. Kai Budde and his squad of testers decoded the metagame, and heading into the weekend, the best deck was blue-black Reanimator.
 
 Budde says it like that, too. "It's the best deck." As if there's nothing more to explain. He eventually went on "It has the best matchups of any deck we tested." Unfortunately, though Budde chose to run Reanimator, the story doesn't end there. Though Reanimator is the best deck, this is the first time in a long while that the field has anticipated the best deck. "There's just too much hate."
 

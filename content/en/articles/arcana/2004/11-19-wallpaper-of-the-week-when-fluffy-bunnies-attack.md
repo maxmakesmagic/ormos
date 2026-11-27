@@ -84,7 +84,9 @@ render_recovery:
 ---
 * * *
 
-[![Unhinged release events](https://i.ormos.uk/56/f1/56f174a2b54a9d35f86279adb2ebeec88a8b2540faebfee4f8bc4f7c132a8a89.jpg "Unhinged release events")](https://web.archive.org/web/20080615144715/http://www.wizards.com/default.asp?x=events/magic/prereleases)This week's desktop wallpaper is Ray Lago's **When Fluffy Bunnies Attack** from *Unhinged*, which releases TODAY! Enjoy.
+[![Unhinged release events](https://i.ormos.uk/56/f1/56f174a2b54a9d35f86279adb2ebeec88a8b2540faebfee4f8bc4f7c132a8a89.jpg "Unhinged release events")](https://web.archive.org/web/20080615144715/http://www.wizards.com/default.asp?x=events/magic/prereleases)
+
+This week's desktop wallpaper is Ray Lago's **When Fluffy Bunnies Attack** from *Unhinged*, which releases TODAY! Enjoy.
 
   
   

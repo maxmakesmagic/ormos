@@ -82,7 +82,9 @@ Christoph Hölzl has blazed a trail through the swiss portion of the Grand Prix 
 
 ### Game 1:
 
-![](https://www.wizards.com/sideboard/images/gplon02/889.jpg)Following a short delay whilst the rest of the top eight were seated Gerard won the die roll and elected to play first. This turned out to be a good plan as his turn two shade was met by no response from his opponent. Gerard further improved his start by playing a turn three Rancid Earth with a flourish and then attacked for 2. Christoph attempted to rebuild his position by making a land but was devastated when Gerard untapped his land and made a Braids, Cabal Minion on turn four and attacked again. Christoph drew and conceded.
+![](https://www.wizards.com/sideboard/images/gplon02/889.jpg)
+
+Following a short delay whilst the rest of the top eight were seated Gerard won the die roll and elected to play first. This turned out to be a good plan as his turn two shade was met by no response from his opponent. Gerard further improved his start by playing a turn three Rancid Earth with a flourish and then attacked for 2. Christoph attempted to rebuild his position by making a land but was devastated when Gerard untapped his land and made a Braids, Cabal Minion on turn four and attacked again. Christoph drew and conceded.
 
 Garcia 1 – Hölzl 0
 

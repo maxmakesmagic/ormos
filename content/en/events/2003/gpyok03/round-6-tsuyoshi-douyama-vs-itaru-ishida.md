@@ -77,7 +77,9 @@ Tsuyoshi Douyama hasn't had the easiest road today. Just coming back to the game
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a971.jpg)Ishida kept a two-land hand without hesitation. Douyama was more reticent, but set his jaw and kept. Ishida pulled his third land just in time for a morph. Douyama cycled away a Dragon for his third land, and dropped Wing Shards on the incoming facedown. Ishida brought the beats with a pair of Silver Knights while Douyama cycled to more mana.
+![](http://www.wizards.com/sideboard/images/gpyok03/a971.jpg)
+
+Ishida kept a two-land hand without hesitation. Douyama was more reticent, but set his jaw and kept. Ishida pulled his third land just in time for a morph. Douyama cycled away a Dragon for his third land, and dropped Wing Shards on the incoming facedown. Ishida brought the beats with a pair of Silver Knights while Douyama cycled to more mana.
 
 His morph watched him take four more damage, but then the Angel in waiting was enough to keep Ishida's troops home. It got in for damage, and was protected by an Astral Slide. However, after Douyama regrew his Dragon, Ishida was able to force him to tap out to save his Angel from Wing Shards, then Vengeanced away the board on his turn.
 
@@ -95,7 +97,9 @@ Douyama didn't like his way, and so Oblated one of his own Slides. He cycled Ish
 
 Now it was Ishida in the driver's seat, with his abundance of mana. He brought back his Eternal Dragon while threatening Wing Shards. Douyama's Akroma stayed home. Ishida Vengeanced it away. Then it was his Dragon against Douyama's Exalted Angel. Douyama Oblated the Dragon, then cycled Decree of Annihilation. Ishida made two soldiers with Decree of Justice before his lands disappeared.
 
-![](http://www.wizards.com/sideboard/images/gpyok03/a972.jpg)He had two land in play before Douyama had one, and cycled his Dragon to get the last plains out of his deck. Douyama looked at the three untapped mana and chanced it. Down came the Wing Shards. Ishida played a morphed Angel, and that was enough to get Douyama to concede.
+![](http://www.wizards.com/sideboard/images/gpyok03/a972.jpg)
+
+He had two land in play before Douyama had one, and cycled his Dragon to get the last plains out of his deck. Douyama looked at the three untapped mana and chanced it. Down came the Wing Shards. Ishida played a morphed Angel, and that was enough to get Douyama to concede.
 
 Douyama 1 – Ishida 1
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 1d9768bdad23b67506812123e1c4221e26caf3a194b659206458e8ad7753dd95
 render_recovery: []
 ---
-![](https://i.ormos.uk/8f/67/8f67231b5f2f004035b70ff31c29d5be85d34feaa34d0c33fdeada0bbdfea49f.jpg)These two might be called the Ghosts of Japanese Magic Past. Satoshi "Hatman" Nakamura, Invitationalist, Pro Tour regular and all-around great guy was the public face. His outgoing nature and outlandish style of dress made him easily recognizable on the Tour. Ken'ichi Fujita, a two-time Grand Prix winner, was the private face. His reticence helps him cut an imposing figure, never mind that he stands a full head taller than the competition. They've since exited the spotlight while the new breed of Japanese pros is on the rise. Clearly, though, they're still in full possession of the skills that helped them become symbolic of pro Magic in Japan. 
+![](https://i.ormos.uk/8f/67/8f67231b5f2f004035b70ff31c29d5be85d34feaa34d0c33fdeada0bbdfea49f.jpg)
+
+These two might be called the Ghosts of Japanese Magic Past. Satoshi "Hatman" Nakamura, Invitationalist, Pro Tour regular and all-around great guy was the public face. His outgoing nature and outlandish style of dress made him easily recognizable on the Tour. Ken'ichi Fujita, a two-time Grand Prix winner, was the private face. His reticence helps him cut an imposing figure, never mind that he stands a full head taller than the competition. They've since exited the spotlight while the new breed of Japanese pros is on the rise. Clearly, though, they're still in full possession of the skills that helped them become symbolic of pro Magic in Japan. 
 
 Nakamura started with a powerful opening of Aquamoeba and then Arrogant Wurm. Fujita ran interference with Nantuko Shade and a Rancid Earth to deprive Nakamura of his island. The Shade chumped the Aquamoeba on its next assault, signalling the Mutilate that was to follow.
 
@@ -66,7 +68,9 @@ Fujita fanned his remaining library out. It was choked with Tutors, Shades, Pact
 
 Nakamura 1 - Fujita 0
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a956.jpg)Fujita's opening draw for Game 2 was an utter Gong Show: six swamp and a Diabolic Tutor. He sent it back and drew up five spells and Cabal Coffers. He went to five.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a956.jpg)
+
+Fujita's opening draw for Game 2 was an utter Gong Show: six swamp and a Diabolic Tutor. He sent it back and drew up five spells and Cabal Coffers. He went to five.
 
 Nakamura opened with Careful Study for Rootwalla and Roar of the Wurm. Fujita came back with Mesmeric Fiend, stealing Arrogant Wurm and leaving Nakamura with nothing but lands in hand. He drew Envelop and swung for three. A second Fiend stole the Envelop. Nakamura hit again, and passed it back. Fujita continued to play out lands.
 

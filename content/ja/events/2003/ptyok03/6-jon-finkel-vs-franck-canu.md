@@ -150,7 +150,9 @@ render_recovery:
 
 **Game 2**
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a897.jpg)　先手 Finkel は 2 ターン目、《ワイアウッドのエルフ/Wirewood Elf》から 3 ターン目《梢を這うもの》で +2 と流れるように展開し、対する Canu も 2 ターン目に《火花鍛冶/Sparksmith》を呼べたのだが、そんな貧弱な火力でこのクリーチャーを除去する事はかなわない。
+![](http://www.wizards.com/sideboard/images/ptyok03/a897.jpg)
+
+　先手 Finkel は 2 ターン目、《ワイアウッドのエルフ/Wirewood Elf》から 3 ターン目《梢を這うもの》で +2 と流れるように展開し、対する Canu も 2 ターン目に《火花鍛冶/Sparksmith》を呼べたのだが、そんな貧弱な火力でこのクリーチャーを除去する事はかなわない。
 
 　続けて《のたうつ汚泥獣/Thrashing Mudspawn》と展開し、全く手も足も出ない Canu 。
 
@@ -162,7 +164,9 @@ render_recovery:
 
 　再び Canu の先手。
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a896.jpg)　《卑劣なアヌーリッド》、《刀刃スリヴァー/Blade Sliver》、とパワー 3 を持つクリーチャーで序盤を展開。
+![](http://www.wizards.com/sideboard/images/ptyok03/a896.jpg)
+
+　《卑劣なアヌーリッド》、《刀刃スリヴァー/Blade Sliver》、とパワー 3 を持つクリーチャーで序盤を展開。
 
 　負けずに Finkel も 2 ターン目に放った《ワイアウッドのエルフ》からマナをを伸ばしつつ、《アヌーリッドの濁り水潜り/Anurid Murkdiver》を 5 ターン目にキャスト。
 

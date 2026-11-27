@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Josh Bennett* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/947.jpg)There's nothing quite as good as good-natured rivalry between friends. Scott Johns and Alan Comer were longtime teammates on the now defunct Mogg Squad, and have remained on good terms. Johns is best known as the editor of Mindripper and member of Pro Tour New York champions Potato Nation. He drafted a G/R/w deck with powerful creatures all the way up the mana curve. Alan is the well-known creator of Godzilla (the deck, not the movie star) and is widely regarded as one of the most original minds in the game and an all around nice guy. The match began with a very sincere handshake and smiles all around. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/947.jpg)
+
+There's nothing quite as good as good-natured rivalry between friends. Scott Johns and Alan Comer were longtime teammates on the now defunct Mogg Squad, and have remained on good terms. Johns is best known as the editor of Mindripper and member of Pro Tour New York champions Potato Nation. He drafted a G/R/w deck with powerful creatures all the way up the mana curve. Alan is the well-known creator of Godzilla (the deck, not the movie star) and is widely regarded as one of the most original minds in the game and an all around nice guy. The match began with a very sincere handshake and smiles all around. 
 
 Johns' deck surprised him by yielding no one- and two-drops. He made a Kavu Aggressor on turn three, which traded with Comer's unkicked Vodalian Serpent. He had no other early pressure until he smashed Comer with a Halam Djinn for six, Alan's Samite Archer and Dream Thrush boosting the Djinn's stats. Comer untapped and kicked up a Faerie Squadron. 
 
@@ -54,7 +56,9 @@ Johns played Fires of Yavimaya and sent the Djinn. Comer blocked with the Thrush
 
 Unfortunately, he was light on mana, so when he used his Apprentice and one Archer to slow Johns' attack, Breath of Darigaaz left him with just a Guardian. He mustered a Plague Spitter, which managed to eliminate two of Johns' creatures with the help of Cursed Flesh, but it wasn't near enough when Johns Rampant Elephant meant that he needed removal right now. He drew, and found none. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/949.jpg)Both players mulliganed to start game two. Their forbidden peeks at their next cards revealed that everything would have worked out well. No guts, no glory? 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/949.jpg)
+
+Both players mulliganed to start game two. Their forbidden peeks at their next cards revealed that everything would have worked out well. No guts, no glory? 
 
 Comer led with an Apprentice and Recoiled Johns' Elfhame Palace on turn three. However, he didn't have any creatures to capitalize on the time-advantage. He had an Exotic Curse for Johns' Noble Panther, but soon his tapper played defense as Johns summoned an Angel of Mercy. Johns' assault continued with a Frenzied Tilling on Comer's only Island (which Scott admitted was "Dirty Pool") and then Serpentine Kavu. 
 

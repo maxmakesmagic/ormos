@@ -53,7 +53,9 @@ archive_source:
   sha256: 7b3374bcb2552ae0ccf58d7d32daa4a840ddfb8598867f845a70cae917f1ca47
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a991.jpg)So much for white gambit ... Zvi Mowshowitz stirred up some controversy and drew a lot of attention for declaring on the internet before the tournament that he would be drafting white no matter what. He even wore a shirt with a picture of Teroh's Faithful, a circle around the white mana symbol in the mana cost, and the words "Hint Hint." The gambit seemed to work out as he got passed lots of good white cards, but his record did not work out. Zvi wound up as a Staunch Defender: 3/4. Scott Johns tried out the same gambit and wore the same shirt and went 3-3 (in that order) before dropping from the tournament and falling off the gravy train.
+![](http://www.wizards.com/sideboard/images/ptnice02/a991.jpg)
+
+So much for white gambit ... Zvi Mowshowitz stirred up some controversy and drew a lot of attention for declaring on the internet before the tournament that he would be drafting white no matter what. He even wore a shirt with a picture of Teroh's Faithful, a circle around the white mana symbol in the mana cost, and the words "Hint Hint." The gambit seemed to work out as he got passed lots of good white cards, but his record did not work out. Zvi wound up as a Staunch Defender: 3/4. Scott Johns tried out the same gambit and wore the same shirt and went 3-3 (in that order) before dropping from the tournament and falling off the gravy train.
 
 Hats off to Eric Froelich for putting up his third consecutive 6-1 Friday at Pro Tour. He started this way in San Diego (where he made Top 8) and in Osaka. Froelich is definitely one of the top American players on Tour right now and a rising star.
 
@@ -61,6 +63,8 @@ Other players with noteworthy day 1 finishes include Peter Szigeti (who made day
 
 One the other end of the spectrum were Jon Finkel and Steve O'Mahoney-Schwartz. Each of these former superstars needed just 3 PT points – a top 128 finish – to earn an invitation to Worlds, but each fell short. Finkel has never missed a Pro Tour and OMS hasn't missed one since Worlds '96, but unless they can put up good performances at US Nationals (in four weeks), they're both going to miss Sydney.
 
-![](http://www.wizards.com/sideboard/images/ptnice02/a872.jpg)Not only is Kai Budde an amazing player, but he's also a nice guy. During game 1 of his round 7 feature match with Svend Geertsen, Geertsen forgot to put a counter on his Repentant Vampire (after it killed Budde's Aven Fisher). A turn later, Geertsen realized his mistake. The players called a judge and head judge Rune Horvik told them that since more than a turn had gone by, he couldn't repair the game state. Geertsen stared at him, slack-jawed and disbelieving. Budde's ended the crisis by picking up a die and putting it onto the Vampire. Giving Geertsen that take-back eventually cost Budde the game and he eventually lost the match 0-2 – Budde's first loss of the weekend.
+![](http://www.wizards.com/sideboard/images/ptnice02/a872.jpg)
+
+Not only is Kai Budde an amazing player, but he's also a nice guy. During game 1 of his round 7 feature match with Svend Geertsen, Geertsen forgot to put a counter on his Repentant Vampire (after it killed Budde's Aven Fisher). A turn later, Geertsen realized his mistake. The players called a judge and head judge Rune Horvik told them that since more than a turn had gone by, he couldn't repair the game state. Geertsen stared at him, slack-jawed and disbelieving. Budde's ended the crisis by picking up a die and putting it onto the Vampire. Giving Geertsen that take-back eventually cost Budde the game and he eventually lost the match 0-2 – Budde's first loss of the weekend.
 
 Budde may have figured he could give up a round since every time he's ever started out a Pro Tour at 6-1 or better, he's gone on to win the event. He was 6-0 when he sat down to play Geertsen so he was a lock to win the event whether he beat Sven or not.

@@ -66,7 +66,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/234.jpg)Ben was playing a very solid green beat down deck, with a splash of white for utility, while Jensen has drafted a great blue flying beats deck, with black for removal.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/234.jpg)
+
+Ben was playing a very solid green beat down deck, with a splash of white for utility, while Jensen has drafted a great blue flying beats deck, with black for removal.
 
 Game 1
 
@@ -76,7 +78,9 @@ Ben Ronaldson 0 - 1 William Jensen
 
 Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/236.jpg)Both players opened much slower than in game one, Ben with a turn 3 Herbalist, Jensen with the Maggot Therapy answer. Ben's next creature was a Rib Cage Spider, while all Jensen could cast was Despoil, which he used to kill Ben's only Plains. Ben then cast Herbalist number 2 and Megatherium while Jensen made Wandering Eye, Molting Harpy and Stormwatch Eagle. Ben beat down with the Herbalist and the Megatherium, using a Wild Might to keep his Herbalist from dying to the Harpy. Jensen made the huge Hornclaw, and sat back ready to block. Ben only beat with the Megatherium at this point, leaving Jensen on 10. Ben then cast Marsh Boa and said done. Jensen drew a Greel's Caress, but again sat back to block.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/236.jpg)
+
+Both players opened much slower than in game one, Ben with a turn 3 Herbalist, Jensen with the Maggot Therapy answer. Ben's next creature was a Rib Cage Spider, while all Jensen could cast was Despoil, which he used to kill Ben's only Plains. Ben then cast Herbalist number 2 and Megatherium while Jensen made Wandering Eye, Molting Harpy and Stormwatch Eagle. Ben beat down with the Herbalist and the Megatherium, using a Wild Might to keep his Herbalist from dying to the Harpy. Jensen made the huge Hornclaw, and sat back ready to block. Ben only beat with the Megatherium at this point, leaving Jensen on 10. Ben then cast Marsh Boa and said done. Jensen drew a Greel's Caress, but again sat back to block.
 
 Ben cast Treetop Bracers on the Marsh Boa, and attacked with the Megatherium and the Boa. The Boa dealt 2, while the Megatherium was double blocked and Caressed. Jensen still had no threats to cast, so waited Ben's next attack. Ben beat with the Boa, and in response, Jensen sacrificed all 3 swamps to the Eagle, and blocked with the Hornclaw. Ben regenerated the Boa, and said done. Jensen at this point had just drawn his 4th land in a row, and still had nothing to put on the table. As the game stalled Ben made a Silt Crawler, and William finally made a Ribbon Snake. The Silt Crawler beat down, leaving Jensen on 5 life, and Ben with a Wild Might in hand. Jensen made Hornclaw number 2, painfully aware that he now had to block in order to stay alive. The Silt Crawler over the next few turns killed a Ribbon Snake and a Wandering Eye, regenerating with the Herbalist each time. The Crawler then started eating up land, as the Eagle decided to get in the way, blocking and returning to Jensen's hand each turn. 2 turns later, Ben drew Lure, which he cast on the Rib Cage Spider; in response Jensen scooped.
 
@@ -84,7 +88,9 @@ Ben Ronaldson 1 - 1 William Jensen
 
 Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/235.jpg)Jensen went first but not before Mulliganing down to 6. He seemed unhappy with his six cards but didn't want to mulligan again going first. Meanwhile Ben had a truly explosive start, he made a first turn Groundskeeper, a third turn Crawler a 5th turn Silverglade Elemental, and all the while Jensen was stuck on 2 land. On his turn 6, he made his 3rd land and cast Deepwood Ghoul to slow the beats. Ben continued beating and made his answer to the Ghoul in the form of Megatherium. Jensen did nothing on his turn 7, and when Ben cast Treetop Bracers on the Elemental and attacked with it and the Megatherium, it left Jensen on 5 life. Ben then cast Jolrael, Empress of Beasts, and that was all she wrote.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/235.jpg)
+
+Jensen went first but not before Mulliganing down to 6. He seemed unhappy with his six cards but didn't want to mulligan again going first. Meanwhile Ben had a truly explosive start, he made a first turn Groundskeeper, a third turn Crawler a 5th turn Silverglade Elemental, and all the while Jensen was stuck on 2 land. On his turn 6, he made his 3rd land and cast Deepwood Ghoul to slow the beats. Ben continued beating and made his answer to the Ghoul in the form of Megatherium. Jensen did nothing on his turn 7, and when Ben cast Treetop Bracers on the Elemental and attacked with it and the Megatherium, it left Jensen on 5 life. Ben then cast Jolrael, Empress of Beasts, and that was all she wrote.
 
 Despite the fact that he was unable to make a land drop on turns 3, 4, 5, 7 and 8, Jensen took the mana screw very stoically, not once whining about his luck. To be able to get screwed at this level of competition, and not complain shows great restraint, and deserves respect.
 

@@ -631,7 +631,9 @@ Videographer Evan Erwin is a constant presence at North American **Magic** event
 
 Motoaki Itou found himself sitting down to a Round 13 Feature Match within striking distance of the Top 8. To get there he’d need to best a fellow city native in Ren Ishikawa; both players hailed from Kanagawa. Ishikawa had known previous Nationals success as a runner up to the title in 2007. He was trying to get that lightning to strike twice, provided he could maneuver around Motoaki.
 
-![](https://i.ormos.uk/36/ba/36ba1d6718f346b3f3af3cef42fdd82f787261c4da49a47897af4ee00a09dc7d.jpg)Ishikawa opened on Mutavault for his first land, aggressively attacking with it on his second turn while Itou was tapped out from playing a Vivid Crag. When Ren tried a Scion of Oona, Motoaki used a Jund Charm to kill it, taking an additional 2 from another attack by the Mutavault. Casting Kitchen Finks undid some of the Mutavault damage and provided a hefty blocker to prevent the 2/2 from attacking anymore.
+![](https://i.ormos.uk/36/ba/36ba1d6718f346b3f3af3cef42fdd82f787261c4da49a47897af4ee00a09dc7d.jpg)
+
+Ishikawa opened on Mutavault for his first land, aggressively attacking with it on his second turn while Itou was tapped out from playing a Vivid Crag. When Ren tried a Scion of Oona, Motoaki used a Jund Charm to kill it, taking an additional 2 from another attack by the Mutavault. Casting Kitchen Finks undid some of the Mutavault damage and provided a hefty blocker to prevent the 2/2 from attacking anymore.
 
 Because Ren Ishikawa was not playing any threats, outside of his Mutavault, Motoaki Itou stepped up to the plate to pursue the role of beating down. He cast Bloodbraid Elf which revealed a Stillmoon Cavalier off cascade. Ishikawa opted to Broken Ambitions the 2/1, and Itou sent his team to the red zone to attack Ishikawa for 6. Ren took the opportunity to cast Agony Warp, killing Bloodbraid Elf and shrinking the Kitchen Finks.
 
@@ -641,7 +643,9 @@ It didn’t matter, however, as the Liliana wore down Ren’s hand turn after tu
 
 Motoaki Itou 1, Ren Ishikawa 0
 
-![](https://i.ormos.uk/9a/45/9a45c4a0368be82f9bdcf7d5ce08da8c142e04896c338b05ab6db0641f0cbd68.jpg)The first game of the match had chewed off half the time allotted for the round, but the players gave no inclination as to whether they were worried about that while sideboarding for the second. Their pace remained steady and certain, though a draw wouldn’t do much to help either. They finally got under way, after a stern lecture on time by one of the judges, and Ishikawa broke parity first with a Vendilion Clique on his opponent’s draw step. The 3/1 stole a Stillmoon Cavalier, but Motoaki still had a third-turn play in the form of Kitchen Finks.
+![](https://i.ormos.uk/9a/45/9a45c4a0368be82f9bdcf7d5ce08da8c142e04896c338b05ab6db0641f0cbd68.jpg)
+
+The first game of the match had chewed off half the time allotted for the round, but the players gave no inclination as to whether they were worried about that while sideboarding for the second. Their pace remained steady and certain, though a draw wouldn’t do much to help either. They finally got under way, after a stern lecture on time by one of the judges, and Ishikawa broke parity first with a Vendilion Clique on his opponent’s draw step. The 3/1 stole a Stillmoon Cavalier, but Motoaki still had a third-turn play in the form of Kitchen Finks.
 
 A Thoughtseize from Ren revealed double Bitumious Blast, Bloodbraid Elf, Enlisted Wurm, and a land. The Faeries player nabbed one of the Blasts, then successfully cast a Mistbind Clique on his opponent’s upkeep. Itou could only play a land and pass. With 17 minutes on the clock, a 1-1 draw was starting to look like a real possibility. Ren cast Bitterblossom after attacking with his 4/4, and protected the Mistbind from a Bituminous Blast using Broken Ambitions. The Blast revealed a Jund Charm, which Itou opted to use to make his Kitchen Finks into a 5/4.
 

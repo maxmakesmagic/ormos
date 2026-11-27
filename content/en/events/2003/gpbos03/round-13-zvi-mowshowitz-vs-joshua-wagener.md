@@ -82,7 +82,9 @@ render_recovery:
   - Piety Charm
   occurrences: 63
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a921.jpg)Mowshowitz, ever the white lover (at least, when it comes to draft) has a hyper-aggressive blue-white Soldier deck that he was showing off to us at the Sideboard just prior to the start of the round. Armed with many, many, many creatures that say “Creature-Soldier” on them, along with some with words like “Amplify” meant that things could get ugly, very quickly.
+![](https://www.wizards.com/sideboard/images/gpbos03/a921.jpg)
+
+Mowshowitz, ever the white lover (at least, when it comes to draft) has a hyper-aggressive blue-white Soldier deck that he was showing off to us at the Sideboard just prior to the start of the round. Armed with many, many, many creatures that say “Creature-Soldier” on them, along with some with words like “Amplify” meant that things could get ugly, very quickly.
 
 His obstacle was Wagener and his Blue-Red deck whose features included Mistform Skyreaver, Slate of Ancestry (particularly good against White-Blue) and Sparksmith. If an early Sparksmith hit the table early, it would be tough for Mowshowitz to regain control in time.
 
@@ -94,7 +96,9 @@ Now, the board stood at four creatures to one. If it wasn’t Starstorm or Slice
 
 Mowshowitz 1 – Wagener 0
 
-![](https://www.wizards.com/sideboard/images/gpbos03/922.jpg)It was now Wagener’s turn to try and seize the tempo advantage with a Goblin Taskmaster that scored a point of damage. When Mowshowitz had nothing to do on his second turn, things were starting to look up, as the Taskmaster went in for another point of damage before being joined by a morph creature. Mowshowitz played out his own morph that then traded with the Taskmaster, effectively nullifying a turn. Aven Redeemer would soon put an end to any savage beatings Wagener had in store for him.
+![](https://www.wizards.com/sideboard/images/gpbos03/922.jpg)
+
+It was now Wagener’s turn to try and seize the tempo advantage with a Goblin Taskmaster that scored a point of damage. When Mowshowitz had nothing to do on his second turn, things were starting to look up, as the Taskmaster went in for another point of damage before being joined by a morph creature. Mowshowitz played out his own morph that then traded with the Taskmaster, effectively nullifying a turn. Aven Redeemer would soon put an end to any savage beatings Wagener had in store for him.
 
 Snapping Thragg was sure to make the game interesting once again, but the Aven Retainer alone was enough to handle the Thragg. Pearlspear Courier came down, and the ground ‘ground’ to a halt. The Thragg and secret agent went in for the kill. The Courier blocked the Thragg, and then received a boost of Piety. In response, Wagener flipped over Echo Tracer to send back the Courier, and its two points was prevented. A second Aven Retainer locked up the ground even more. Embermage Goblin provided an alternate route to victory, albeit a tedious one, but it was something to try and win the game by, even though both players would probably deck themselves before the Goblin did its job. Covert Operative provided a better option, but Daru Stinger, amplified twice put an end to any of its shenanigans.
 
@@ -114,7 +118,9 @@ Snapping Thragg, backed up by a Shock was enough to take down both the Pearlspea
 
 Mowshowitz 1 – Wagener 1
 
-![](https://www.wizards.com/sideboard/images/gpbos03/923.jpg)Playing first, Mowshowitz had nothing to contribute to the board in the early game, except for a third turn Mistform Dreamer. On the other side of the table, Goblin Taskmaster made a re-appearance, taking two points out of Mowshowitz’s life total before being joined in by a Dreamer of Wagener’s own. Creatures started to flood the board. Aven Retainers were matched with morphs, which brought out Gustcloak Harriers.
+![](https://www.wizards.com/sideboard/images/gpbos03/923.jpg)
+
+Playing first, Mowshowitz had nothing to contribute to the board in the early game, except for a third turn Mistform Dreamer. On the other side of the table, Goblin Taskmaster made a re-appearance, taking two points out of Mowshowitz’s life total before being joined in by a Dreamer of Wagener’s own. Creatures started to flood the board. Aven Retainers were matched with morphs, which brought out Gustcloak Harriers.
 
 Echo Tracer sent back the Retainer, which put a shield on the Dreamer so that both creatures would live in combat- when Wagener’s Dreamer blocked the Harrier, Mowshowitz simply used the Gustcloak ability to save it. Daru Stinger came down as a 3/3, which traded with the Echo Tracer and a Shock. Gustcloak Harrier took down a free Goblin Taskmaster, in a gamble gone wrong.
 

@@ -227,7 +227,9 @@ render_recovery:
 
 **Game 2** 
 
-![](https://i.ormos.uk/86/17/86179ee5a9497b24921a70df916159cc9ae7ba41ed17707971d60646522325f3.jpg)お互いの除去が飛びかい、藤田剛史の場には《うなるアンドラック/Snarling Undorak》と《平和な心/Pacifism》をつけられた《クローサの大牙獣/Krosan Tusker》が、Zvi Mowshowitzの側には《圧倒する防衛者/Daunting Defender》だけが生き残ることとなった。かくて、藤田有利ながらも、《アンドラック》と《防衛者》とが淡々と殴りあいを展開し始めたのだ。
+![](https://i.ormos.uk/86/17/86179ee5a9497b24921a70df916159cc9ae7ba41ed17707971d60646522325f3.jpg)
+
+お互いの除去が飛びかい、藤田剛史の場には《うなるアンドラック/Snarling Undorak》と《平和な心/Pacifism》をつけられた《クローサの大牙獣/Krosan Tusker》が、Zvi Mowshowitzの側には《圧倒する防衛者/Daunting Defender》だけが生き残ることとなった。かくて、藤田有利ながらも、《アンドラック》と《防衛者》とが淡々と殴りあいを展開し始めたのだ。
 
 これはZviのドローが芳しくなかったということも大きかったわけなのだが、それでも《神話的体形/Mythic Proportions》を即座に《啓蒙/Demystify》するなどして戦線は膠着を保っていたかのようだった。しかし、藤田が《帰化/Naturalize》を引き当てて《大牙獣》の野性を解放したことによって、Zvi Mowshowitzのライフは一瞬のうちに削り取られてしまうこととなった。
 

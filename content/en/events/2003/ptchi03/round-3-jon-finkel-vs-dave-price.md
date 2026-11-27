@@ -153,7 +153,9 @@ Jon untapped, and shipped his creature across the table. Dave declined to block,
 
 Dave nodded at this turn of events, untapped, and came across for another three to drop Finkel to eleven life. Solar Blast took care of the Thragg, though Finkel had seven mana and Venomspout Brackus lying in wait. This creature met with Pacifism, and the offensively oriented Sparksmith and Glory Seeker were joined by Battering Craghorn. Finally, Johnny Magic mounted a serious defense with Symbiotic Wurm and Wirewood Elf. On the next turn, the Craghorn plus the Sparksmith traded on a double block with the Wurm and Elf, allowing Dave to play a rather large Daunting Defender.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a933.jpg)On the next turn, Jon smashed the cleric with Pinpoint Avalanche and went on the O with all five of his one power weenies. Glory Seeker took one out, but Jon quickly played a morph guy after combat. 
+![](http://www.wizards.com/sideboard/images/ptchi03/a933.jpg)
+
+On the next turn, Jon smashed the cleric with Pinpoint Avalanche and went on the O with all five of his one power weenies. Glory Seeker took one out, but Jon quickly played a morph guy after combat. 
 
 Price coaxed a trade of Glory Seeker for face-down Treespring Lorian on the following turn, but then emptied his hand to play one last morph guy. Jon stood at three cards, and used one to cast a second Wirewood Elf. None of his guys blocked Dave's creature, so Price tapped the requisite four mana to turn the 2/2 into a ¾ first striking Daru Lancer.  
 Sparksmith took out an insect token, and Dave looked to be in a good position with the life totals at nine to five in his favor.
@@ -168,7 +170,9 @@ Dave went into full Sligh mode again with both a first and second turn Goblin Ta
 
 Dave started the game over with Dive Bomber, which died quickly to Chain of Plasma. "Ship it back?" asked Jon, Dave choosing not to dignify the question with an answer. Finally, Finkel started asking questions of his own, playing Wirewood Savage, Snapping Thragg and Pinpoint Avalanche (on a freshly summoned Gustcloak Savior) on consecutive turns. 
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a934.jpg)The King of Beatdown scrambled to steady his board against the Thragg with Daunting Defender, which seemed to work for a turn as Finkel simply cycled Krosan Tusker to grab a second Mountain to go with his first and his Grand Coliseum. This gave him enough mana to play a face down dude, and once again Dave emptied his hand, this time to cast Aven Soulgazer and to peek at Jon's face down creature.
+![](http://www.wizards.com/sideboard/images/ptchi03/a934.jpg)
+
+The King of Beatdown scrambled to steady his board against the Thragg with Daunting Defender, which seemed to work for a turn as Finkel simply cycled Krosan Tusker to grab a second Mountain to go with his first and his Grand Coliseum. This gave him enough mana to play a face down dude, and once again Dave emptied his hand, this time to cast Aven Soulgazer and to peek at Jon's face down creature.
 
 "Roar!" yelled Jon, revealing Krosan Colossus, with only six mana on the board. "That takes eight to morph, right?" "Yeah". Dave sent his Defender across the table, and Jon doubled it up with his Thragg (which died) and his not-quite-sneaky Colossus (which did not die). The Snapper was quickly replaced with Venomspout Brackus, netting Jon another card and a 5/5 body. 
 

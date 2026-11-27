@@ -82,7 +82,9 @@ render_recovery:
   - Syphon Soul
   occurrences: 37
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a790.jpg)Everyone knows "The" Ben Seck, Australia's goodwill emissary to the Pro Tour. He's a recognized public figure. However, despite the prestige Seck enjoys on the Tour, and his two Grand Prix wins, he's never won a single dollar at the Tour itself. That's about to change with this event, as his performance has put him solidly in the money. He's up against Raffaele Lo Moro, who's not optimistic about his chances. His draft went abominably, and now his mono-black deck is stuck playing some benchwarmers. Seck is much more secure in his red-blue.
+![](http://www.wizards.com/sideboard/images/ptyok03/a790.jpg)
+
+Everyone knows "The" Ben Seck, Australia's goodwill emissary to the Pro Tour. He's a recognized public figure. However, despite the prestige Seck enjoys on the Tour, and his two Grand Prix wins, he's never won a single dollar at the Tour itself. That's about to change with this event, as his performance has put him solidly in the money. He's up against Raffaele Lo Moro, who's not optimistic about his chances. His draft went abominably, and now his mono-black deck is stuck playing some benchwarmers. Seck is much more secure in his red-blue.
 
 ### Game 1
 
@@ -92,7 +94,9 @@ Seck led with a morph and Lo Moro answered in kind. Seck played his fourth land 
 
 Lo Moro tried yet another morph, and Seck took to the sky with Thoughtbound Primoc and a morph of his own. Lo Moro had no play. Seck played a morph and sent for three in the air. At the end of turn, Lo Moro tried to shut down the Primoc with Cruel Revival, but Seck revealed the Willbender he'd just played, turning the Revival on Lo Moro's own morph, yet another Spined Basher.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a793.jpg)From there things were not pretty. Seck's Echo Tracer and Skirk Marauder ruled the board, while Lo Moro played straight up to eight lands for his Smokespew Invoker. After Seck got rid of it, Embalmed Brawler was too late to salvage things, as Seck had his seventh land for the Searing Flesh in hi hand.
+![](http://www.wizards.com/sideboard/images/ptyok03/a793.jpg)
+
+From there things were not pretty. Seck's Echo Tracer and Skirk Marauder ruled the board, while Lo Moro played straight up to eight lands for his Smokespew Invoker. After Seck got rid of it, Embalmed Brawler was too late to salvage things, as Seck had his seventh land for the Searing Flesh in hi hand.
 
 Seck 1 – Lo Moro 0
 
@@ -110,7 +114,9 @@ Seck 1 – Lo Moro 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a792.jpg)Lo Moro led with Barren Moor, meaning his Festering Goblin got to the party late. Seck got busy with Thoughtbound Primoc and Lo Moro answered with Severed Legion. He took three damage and watched as Seck laid a morph. On his fourth turn, Lo Moro paused before sending for three damage. He played a face-up Haunted Cadaver.
+![](http://www.wizards.com/sideboard/images/ptyok03/a792.jpg)
+
+Lo Moro led with Barren Moor, meaning his Festering Goblin got to the party late. Seck got busy with Thoughtbound Primoc and Lo Moro answered with Severed Legion. He took three damage and watched as Seck laid a morph. On his fourth turn, Lo Moro paused before sending for three damage. He played a face-up Haunted Cadaver.
 
 Seck played his fifth land and Pinpoint Avalanche, clearing the way for four more damage. That gave Lo Moro pause, and he merely hit for two. Five mana turned out to mean Noxious Ghoul, not Cruel Revival, and he gave it back to Seck. Seck hit for two in the air and made a morph with three mana open. Lo Moro untapped and then tapped three.
 

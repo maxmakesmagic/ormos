@@ -122,11 +122,15 @@ The new year has been launched by a Grand Prix in Texas. There is a funny thing 
 
 Grand Prix-Houston was a relatively small tournament, with under 300 players competing. Strangely, none of the foreign players took advantage of an opportunity to travel to Houston and go on straight to PT-San Diego from there, though several American players were traveling straight through.
 
-![](https://i.ormos.uk/84/87/8487e881bf8fab9ff32d8b6f3ab73b9921d096ea0053a6f5bcfacd600f04127d.jpg)This time around, history would not repeat itself. There were no Canadians at the top of the standings. There were, however, plenty of top pros from around the country. Leading the standings after 14 rounds of Swiss was William "Baby Huey" Jensen - who played an original Oath of Druids variant with four Disrupts and four Accumulated Knowledges maindeck. He claimed his deck annihilates Miracle Grow - which was by far the most played deck in the tournament - and he was right. The only other player to enter Top 8 at 32 points was Ben Rubin, who modified the Miracle Grow deck by adding white for Swords to Plowshares and Mystic Enforcer. Brian Kibler, who entered Top 8, fifth, played the same deck.
+![](https://i.ormos.uk/84/87/8487e881bf8fab9ff32d8b6f3ab73b9921d096ea0053a6f5bcfacd600f04127d.jpg)
+
+This time around, history would not repeat itself. There were no Canadians at the top of the standings. There were, however, plenty of top pros from around the country. Leading the standings after 14 rounds of Swiss was William "Baby Huey" Jensen - who played an original Oath of Druids variant with four Disrupts and four Accumulated Knowledges maindeck. He claimed his deck annihilates Miracle Grow - which was by far the most played deck in the tournament - and he was right. The only other player to enter Top 8 at 32 points was Ben Rubin, who modified the Miracle Grow deck by adding white for Swords to Plowshares and Mystic Enforcer. Brian Kibler, who entered Top 8, fifth, played the same deck.
 
 Bob Maher surprised many by playing Sligh - a great choice against Miracle Grow, but still dangerous since it has so many bad matchups. Things worked out for Bob, and he managed to make Top 8, burning opponents out of the way. I played a more traditional version of Miracle Grow, with Withdraws main deck - a tech card Neutral Ground player Elden Lee came up with that is very powerful in the mirror. If I recall it right, this is my 14th GP Top 8 finish, more than anyone else in the world. Ryan Fuller is second with 9 GP Top 8 finishes.
 
-![](https://i.ormos.uk/25/28/2528f1b0b56b9cb8ea1b4c3956dc96225e5a4032bd815c4430465af418997e28.jpg)Jonathan Pechon (Junk) and Jonathan Job (Miracle Grow) rounded out the Top 8. The winner however, was not one of the high profile pro players. It was Boston's Josh Smith, who navigated an original b-u-g control deck, defeating me, Ben Rubin and Brian Kibler to battle his way through the single elimination rounds. Robert Dougherty called Smith "the best Your Move Games regular who had never qualified for the Pro Tour". No longer. Smith will now get his chance to compete in Osaka. Having played against him for an hour this Sunday, I'd say he has a good chance to do well.
+![](https://i.ormos.uk/25/28/2528f1b0b56b9cb8ea1b4c3956dc96225e5a4032bd815c4430465af418997e28.jpg)
+
+Jonathan Pechon (Junk) and Jonathan Job (Miracle Grow) rounded out the Top 8. The winner however, was not one of the high profile pro players. It was Boston's Josh Smith, who navigated an original b-u-g control deck, defeating me, Ben Rubin and Brian Kibler to battle his way through the single elimination rounds. Robert Dougherty called Smith "the best Your Move Games regular who had never qualified for the Pro Tour". No longer. Smith will now get his chance to compete in Osaka. Having played against him for an hour this Sunday, I'd say he has a good chance to do well.
 
 Other pro players to do well in Houston but not Top 8 include Alan Comer, the man responsible for the Miracle Grow insanity himself, who finished 10th, Zvi Mowshowitz who navigated his beloved TurboLand deck to a Top 16 finish, Phil Freneau and Dan OMS in Top 16. Borteh, Benafel, Macey, Ho and Hubble all finished in the money. 
 
@@ -146,7 +150,9 @@ San Diego will also feature for the first time since the **Magic** Invitational 
 
 ### Magicthegathering.com Launches
 
-[![](https://i.ormos.uk/82/36/82367cd8a5341baebd0bdfe6fb84afcf860de57e9d8081f37d56ef1787d5c320.jpg)](https://web.archive.org/web/20050206004737/http://www.wizards.com/default.asp?x=mtgcom/welcome)Wizards of the Coast have launched a new web site about all things **Magic**. It can be found at MagicTheGathering.com and is not targeted at the tournament players the way *Sideboard* is. Instead, editor Aaron Forsythe and his staff attempt to post something of interest to everyone - from casual fun gamer, to hardened pro. They have *Torment* card previews, storyline info, and a lot of revelations about how the game of **Magic** is made. The site features Mark Rosewater, Randy Buehler, Anthony Alongi and Ben Bleiweiss as regular columnists. It updates daily.
+[![](https://i.ormos.uk/82/36/82367cd8a5341baebd0bdfe6fb84afcf860de57e9d8081f37d56ef1787d5c320.jpg)](https://web.archive.org/web/20050206004737/http://www.wizards.com/default.asp?x=mtgcom/welcome)
+
+Wizards of the Coast have launched a new web site about all things **Magic**. It can be found at MagicTheGathering.com and is not targeted at the tournament players the way *Sideboard* is. Instead, editor Aaron Forsythe and his staff attempt to post something of interest to everyone - from casual fun gamer, to hardened pro. They have *Torment* card previews, storyline info, and a lot of revelations about how the game of **Magic** is made. The site features Mark Rosewater, Randy Buehler, Anthony Alongi and Ben Bleiweiss as regular columnists. It updates daily.
 
 ### Magic Trivia
 
@@ -174,6 +180,8 @@ Please do not email answers to me. The correct answer will be posted in the next
 
 At a side draft of Grand Prix-Houston, Jeff Taylor managed to draft a combo deck. 
 
-![](https://i.ormos.uk/41/31/4131a4ebae1e6a689b56464f33f89c8cfdee8418ce8bff8f70d6341ec1f4e73d.jpg)He played with Time Stretch, a pair of Anarchists and Malevolent Awakening. This is not a very fast combo, but an early Standstill bought him some time. He then cast Time Stretch and used an Anarchist to bring it back. Another Anarchist brought it back yet again, and then he proceeded to use Malevolent Awakening to trade a live Anarchist for a dead one, and take infinite turns. This may in fact have been the first Limited game where player managed to take infinite turns. Taylor placed 2nd in his draft with this deck.
+![](https://i.ormos.uk/41/31/4131a4ebae1e6a689b56464f33f89c8cfdee8418ce8bff8f70d6341ec1f4e73d.jpg)
+
+He played with Time Stretch, a pair of Anarchists and Malevolent Awakening. This is not a very fast combo, but an early Standstill bought him some time. He then cast Time Stretch and used an Anarchist to bring it back. Another Anarchist brought it back yet again, and then he proceeded to use Malevolent Awakening to trade a live Anarchist for a dead one, and take infinite turns. This may in fact have been the first Limited game where player managed to take infinite turns. Taylor placed 2nd in his draft with this deck.
 
 Got an interesting news story, comment, quote, play of the week, or **Magic** trivia to report? Please e-mail me at ashv80@hotmail.com.

@@ -286,7 +286,9 @@ When *Champions* was in the phase we call “devign” (halfway between design a
 
 Tenza, Godo's Maul (originally called “Mifune's Spiked Log”) was designed to fit into this category. It was an uncommon equipment that referred to a legend in its name, plus referred to legendary creatures in general in its rules text. If you opened a Maul in your booster pack, you'd at least get a hint that legends were a part of the set.
 
-![](https://i.ormos.uk/b4/00/b400bbfff369d79295db341b3ce16a5fbdd3e93fa093560ccc7860112391a28c.jpg)Now that Godo had a weapon of his very own, it made sense from a flavor standpoint that when you summoned him, he came with the Maul. So his was given the following ability: “When CARDNAME comes into play, you may search you library for a card named Mifune's Spiked Log and put it into play. If you do, shuffle your library.”
+![](https://i.ormos.uk/b4/00/b400bbfff369d79295db341b3ce16a5fbdd3e93fa093560ccc7860112391a28c.jpg)
+
+Now that Godo had a weapon of his very own, it made sense from a flavor standpoint that when you summoned him, he came with the Maul. So his was given the following ability: “When CARDNAME comes into play, you may search you library for a card named Mifune's Spiked Log and put it into play. If you do, shuffle your library.”
 
 Of course, where necessary, function trumps flavor. The development team realized that Godo searching for just his Maul—while neat the first couple of times—would get old pretty fast. Combos in **Magic** are fun when you get to come up with them yourself, not when you're told by the cards themselves what you are supposed to do. Granted, some of the latter is fine once in a while, such as the *Mirrodin* block's Kaldra cycle or the aforementioned Pious Kitsune, but it is generally better for us to make the cards more open-ended. So Godo's ability was changed to let him search for any equipment (and his mana cost went up by one as well). If you want to use him to get his Maul, feel free. But if you'd like, he can get Lightning Greaves or Tatsumasa instead.
 
@@ -296,7 +298,9 @@ The last change to the card had to do with who could attack when his second abil
 
 ### Masako the Humorless
 
-![](https://i.ormos.uk/66/50/6650dff19bc9c4d27b5c92feaf3c713b43538432eca923137e9f1406a888fd82.jpg)If you follow Mark Rosewater's “Making Magic” column, you've heard of Greg Marques from "[Dawn of a New Day](/en/articles/makingmagic/2004/05-03-dawn-of-a-new-day)". Greg was the fourth member of the *Fifth Dawn* design team (with Mark, Randy, and I), which is remarkable because he is not a Wizards employee. As with most designers, Greg contributed not only to the set he was working on, but future sets as well (even though he didn't know that at the time). For instance, the *Unhinged* card “\_\_\_\_\_\_\_\_\_\_” was one of Greg's ideas.
+![](https://i.ormos.uk/66/50/6650dff19bc9c4d27b5c92feaf3c713b43538432eca923137e9f1406a888fd82.jpg)
+
+If you follow Mark Rosewater's “Making Magic” column, you've heard of Greg Marques from "[Dawn of a New Day](/en/articles/makingmagic/2004/05-03-dawn-of-a-new-day)". Greg was the fourth member of the *Fifth Dawn* design team (with Mark, Randy, and I), which is remarkable because he is not a Wizards employee. As with most designers, Greg contributed not only to the set he was working on, but future sets as well (even though he didn't know that at the time). For instance, the *Unhinged* card “\_\_\_\_\_\_\_\_\_\_” was one of Greg's ideas.
 
 Masako the Humorless was another. Greg submitted a card for *Fifth Dawn* called something like “Eyes in the Back of My Head,” which was an enchantment that let tapped creatures block. Although we didn't end up using the card there, I filed the ability away since I thought it had some splash.
 

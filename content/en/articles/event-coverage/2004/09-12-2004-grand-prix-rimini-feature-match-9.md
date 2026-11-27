@@ -44,7 +44,9 @@ archive_source:
   sha256: d16b9cbd3ff7e3e112148404b698030b227a1c9e34ac871f667e8678ad5f609f
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm13_1.jpg)Both players have three losses and have to win out to have a shot at top 8 and both of them are running the KCI ([Krark-Clan Ironworks](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krark-Clan+Ironworks)) combo deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm13_1.jpg)
+
+Both players have three losses and have to win out to have a shot at top 8 and both of them are running the KCI ([Krark-Clan Ironworks](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krark-Clan+Ironworks)) combo deck.
 
 They both kept their opening hands, Summersberger taking a little longer to decide himself.  
  But it was Jose who missed two land drop after sacking a [Chromatic Sphere](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chromatic+Sphere) and casting a [Serum Visions](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serum+Visions), while the Austrian player got a leonine Elder and a prism out. He safely played an Ironworks next while Jose was still stuck on one land, helpless. The Argentinean finally drew a second land and tried to summon his own Elder of his [Talisman of Dominance](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Talisman+of+Dominance) but I just couldn't let that happen. It didn't matter anyway as Summersberger had the [Fabricate](https://web.archive.org/web/20040912000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate) to end the game on the next turn.

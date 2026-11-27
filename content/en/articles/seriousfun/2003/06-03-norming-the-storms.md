@@ -761,7 +761,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/83/22/832292968d305d883c4f62aeebcd49ce6bebb8a747a482d08a92df14d85d4ab7.jpg)To date, we haven't had much time in this column to look at the new set's main rules mechanic: storm. It's a natural fit in multiplayer formats, because it gives a single card the ability to keep up with a larger number of opponents. If you wish you had extra copies of a spell so that you could deal with all the dorks who try to ruin your fun, well, this mechanic's for you. 
+![](https://i.ormos.uk/83/22/832292968d305d883c4f62aeebcd49ce6bebb8a747a482d08a92df14d85d4ab7.jpg)
+
+To date, we haven't had much time in this column to look at the new set's main rules mechanic: storm. It's a natural fit in multiplayer formats, because it gives a single card the ability to keep up with a larger number of opponents. If you wish you had extra copies of a spell so that you could deal with all the dorks who try to ruin your fun, well, this mechanic's for you. 
 
 But which storm cards are the best, and which are mere tempests in teapots? I'd like to share my initial thoughts on the *Scourge* storm cards, and rank them in ascending order of usefulness in group play. 
 

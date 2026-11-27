@@ -108,7 +108,9 @@ render_recovery:
   - Ray of Revelation
   occurrences: 85
 ---
-![](http://www.wizards.com/sideboard/images/gpno03/a956.jpg)Osyp "Joe Black" Lebedowicz, frontman of the audacious Team TOGIT, is a man on the move. He concedes a small portion of his busy schedule to pursue his first love: Magic. The CMU-TOGIT connection is still going strong, and as a result, Lebedowicz is with Psychatog, also sported by Eugene Harvey. This round he squares off against Limited dynamo Eric Froehlich. Froehlich is with blue-green madness, probably because he's been putting the final polish on his draft game for Chicago.
+![](http://www.wizards.com/sideboard/images/gpno03/a956.jpg)
+
+Osyp "Joe Black" Lebedowicz, frontman of the audacious Team TOGIT, is a man on the move. He concedes a small portion of his busy schedule to pursue his first love: Magic. The CMU-TOGIT connection is still going strong, and as a result, Lebedowicz is with Psychatog, also sported by Eugene Harvey. This round he squares off against Limited dynamo Eric Froehlich. Froehlich is with blue-green madness, probably because he's been putting the final polish on his draft game for Chicago.
 
 ### Game 1
 
@@ -116,7 +118,9 @@ Lebedowicz won the die roll, and kicked off with island. Froehlich immediately o
 
 Now Froehlich started hitting hard. His pair of Rootwallas brought Lebedowicz to eleven. Lebedowicz made a Psychatog and ended his turn. Froehlich swung back. Lebedowicz let it through, and Froehlich pumped just once to bring him to seven. His three mana fronted Circular Logic. Nevertheless, Lebedowicz tried his AK. Froehlich had the Logic.
 
-![](https://i.ormos.uk/e8/2b/e82b82611cdfcdb1f15e8db2d73643a138f3037c71e01d03b6dbcd587b93232e.jpg)Lebedowicz drew Thwart, a turn too late, hit for one and passed it back. Froehlich tried a Bouncer. Lebedowicz countered. Froehlich dropped a sixth land and attacked Lebedowicz to one. Lebedowicz simply untapped, played Fact or Fiction, and attacked with a lethal Psychatog.
+![](https://i.ormos.uk/e8/2b/e82b82611cdfcdb1f15e8db2d73643a138f3037c71e01d03b6dbcd587b93232e.jpg)
+
+Lebedowicz drew Thwart, a turn too late, hit for one and passed it back. Froehlich tried a Bouncer. Lebedowicz countered. Froehlich dropped a sixth land and attacked Lebedowicz to one. Lebedowicz simply untapped, played Fact or Fiction, and attacked with a lethal Psychatog.
 
 Lebedowicz 1 - Froehlich 0
 
@@ -126,7 +130,9 @@ Lebedowicz 1 - Froehlich 0
 
 Froehlich's opener of turn one Rootwalla, turn two Rootwalla was trumped by Lebedowicz's Powder Keg on turn two. Froehlich had Ice to push through six more damage, but Lebedowicz was still at nine. He Kegged away Froehlich's team, but did not have a fourth land. He Mana Leaked Froehlich's Intuition, and when he still failed to draw a fourth land, he played a mainphase Accumulated Knowledge for two. It served up a swamp.
 
-![](http://www.wizards.com/sideboard/images/gpno03/a955.jpg)Froehlich had another Intuition. This one resolved. It got three Deep Analyses, for some serious long-term card advantage. He flashed one back, and in response Lebedowicz played the third Knowledge. That was the death knell. Froehlich played on, but Lebedowicz resolved a Psychatog, and after Froehlich tapped out Lebedowicz was free to Intuition up Wonder for the kill.
+![](http://www.wizards.com/sideboard/images/gpno03/a955.jpg)
+
+Froehlich had another Intuition. This one resolved. It got three Deep Analyses, for some serious long-term card advantage. He flashed one back, and in response Lebedowicz played the third Knowledge. That was the death knell. Froehlich played on, but Lebedowicz resolved a Psychatog, and after Froehlich tapped out Lebedowicz was free to Intuition up Wonder for the kill.
 
 As they did a post-mortem on the match, the two discovered that they had wildly different ideas about who was favored in the match. Lebedowicz claimed an even match, while Froehlich felt himself the heavy favorite. A big part of Lebedowicz's case was four maindeck Smothers.
 

@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Craig Jones* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/843.jpg)David Price had drafted another red/black/blue deck with Yawgmoth's Agenda again and was looking for his first big tournament win in a while. Xavier Curto Vives had drafted predominantly white/blue/green but also had Harrow to find the swamp to pay the kicker on his probe. Price won the coin flip and opted to play first. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPAMS01/843.jpg)
+
+David Price had drafted another red/black/blue deck with Yawgmoth's Agenda again and was looking for his first big tournament win in a while. Xavier Curto Vives had drafted predominantly white/blue/green but also had Harrow to find the swamp to pay the kicker on his probe. Price won the coin flip and opted to play first. 
 
 **Game 1** 
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 465134b5dee8188b8e0d281117718d9fe42aee401be3939b1822cdd1c09b7770
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a980.jpg)Marco Blume is a former German Champion and part of the Phoenix Foundation team that won [Boston](https://web.archive.org/web/20021012000000/http://archive.wizards.com/default.asp?x=sideboard/events/ptbos02) a couple of weeks ago. Unfortunately his sealed deck for this tournament is not very powerful. He had to play blue, easily the weakest colour in the set. His opponent Franck Canu is a French player with a number of high finishes.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a980.jpg)
+
+Marco Blume is a former German Champion and part of the Phoenix Foundation team that won [Boston](https://web.archive.org/web/20021012000000/http://archive.wizards.com/default.asp?x=sideboard/events/ptbos02) a couple of weeks ago. Unfortunately his sealed deck for this tournament is not very powerful. He had to play blue, easily the weakest colour in the set. His opponent Franck Canu is a French player with a number of high finishes.
 
 With the number of power cards in *Onslaught* it was a very humble start to the match. Marco Blume had not had the best of luck with his sealed deck and was one of the few people playing islands. His [Riptide Biologist](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Biologist) didn't look so good as Canu wasn't playing green spells.
 
@@ -64,7 +66,9 @@ Canu elected to go first. Yes, it should have been Marco's choice but as he was 
 
 A Sparksmith showed up for Canu but without more Goblins in support it wasn't going to bother Blume much as he had no 1 toughness monsters in play and a [Daru Healer](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Healer).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a969.jpg)An [Erratic Explosion](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion) took care of the [Dive Bomber](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber) but only after it had caused Canu three mana burn as he'd mistakenly tried to cast it as an instant. Blume replaced it with a Soulgazer then boosted it with [Improvised Armor](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor). [Choking Tethers](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Choking+Tethers) ended the game a turn early.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcop02/a969.jpg)
+
+An [Erratic Explosion](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion) took care of the [Dive Bomber](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber) but only after it had caused Canu three mana burn as he'd mistakenly tried to cast it as an instant. Blume replaced it with a Soulgazer then boosted it with [Improvised Armor](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Improvised+Armor). [Choking Tethers](https://web.archive.org/web/20021012000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Choking+Tethers) ended the game a turn early.
 
 Canu 1-1 Blume
 

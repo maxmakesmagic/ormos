@@ -133,7 +133,9 @@ render_recovery:
   - Words of Waste
   occurrences: 92
 ---
-![](http://www.wizards.com/sideboard/images/gpla02/991.jpg)Bob Maher, Jr. has been tearing up *Onslaught* limited Grand Prix this season. He flew to Copenhagen and won the whole thing, then followed up with a performance at GP Philly that left him outside the Top 8 on tiebreakers. He took time out of his busy schedule to Top 8 at Pro Tour - Houston. He's in rare form that has everyone expecting big things from him.
+![](http://www.wizards.com/sideboard/images/gpla02/991.jpg)
+
+Bob Maher, Jr. has been tearing up *Onslaught* limited Grand Prix this season. He flew to Copenhagen and won the whole thing, then followed up with a performance at GP Philly that left him outside the Top 8 on tiebreakers. He took time out of his busy schedule to Top 8 at Pro Tour - Houston. He's in rare form that has everyone expecting big things from him.
 
 Before the call to begin construction, Maher took a forbidden peek at the Registration Sheet. He did not like what he saw.
 

@@ -447,7 +447,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds02/a633.jpg)Playing in a Pro Tour Top 8 is a first for both of these players. Krouner has been playing for years and has recently put together a string of solid finishes, and represents one of only two Americans in the Top 8. Diego Ostrovich may be new to the Pro Tour Top 8 stage, but he is no stranger to high-pressure matches. He is the current Argentinean National Champion, and came in second in last year's Latin American Championships. 
+![](http://www.wizards.com/sideboard/images/worlds02/a633.jpg)
+
+Playing in a Pro Tour Top 8 is a first for both of these players. Krouner has been playing for years and has recently put together a string of solid finishes, and represents one of only two Americans in the Top 8. Diego Ostrovich may be new to the Pro Tour Top 8 stage, but he is no stranger to high-pressure matches. He is the current Argentinean National Champion, and came in second in last year's Latin American Championships. 
 
 ### Game 1
 
@@ -470,7 +472,9 @@ Ostrovich- "I drew a lot of lands that game."
 
 Both players got key creatures out right from the start, with Nightscape Familiar on Ostrovich's side, and Looter on Krouner's. Mongrel followed, and Ostrovich cast a second Familiar. Krouner brought out Phantom Centaur, and Ostrovich tapped one mana on end step to play Cunning Wish, getting Hibernation. He untapped, and played a third Familiar, followed by Deep Analysis. Hibernation for one mana was cast soon after. The resulting counterwar was won by Ostrovich, but left him tapped out. One Mongrel changed color since it was pumped for Circular Logic, while the other was bounced along with Phantom Centaur. The 5/3 monster came back out, and Ostrovich played an end step Fact or Fiction for one mana.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a718.jpg)Krouner- "What the? I thought Ancestral Recall was good! I guess it's not good enough in this format" 
+![](http://www.wizards.com/sideboard/images/worlds02/a718.jpg)
+
+Krouner- "What the? I thought Ancestral Recall was good! I guess it's not good enough in this format" 
 
 The resulting five cards were good ones, and Krouner let out a hearty laugh that had a tone of desperation. "I liked this matchup a lot more when all your spells didn't cost one." The piles presented were Fact or Fiction/Circular Logic/Underground River and Ghastly Demise/Repulse. Ostrovich took the two card pile, and used Demise to kill the Looter. Repulse targeted the Mongrel, but Krouner had Circular Logic. It still left the board thanks to Chainer's Edict, leaving Krouner with only the Centaur. It attacked for five damage, and Squirrel Nest improved things a little. Ostrovich attacked with all his Familiars, so Krouner made a squirrel and blocked one. This allowed Ostrovich to kill the Centaur with another Edict, and Krouner needed to find some answers fast. Ostrovich played Cunning Wish on end step, and Krouner responded with Fire on two Familiars. Repulse bounced one in response, and the other died. Cunning Wish now resolved, and got Opportunity. 
 
@@ -484,7 +488,9 @@ Ostrovich- 2 Krouner- 1
 
 Krouner had a first turn Elves, which died to Chainer's Edict. Merfolk Looter came out a few turns later, and Ostrovich's end step Fact or Fiction was countered with Circular Logic. Another Edict killed the Looter. Opposition resolved, and Ostrovich played a main phase Fact or Fiction that revealed four lands and Deep Analysis. Krouner made the split four lands and Deep Analysis, and Ostrovich took the lands. Merfolk Looter was followed by Llanowar Elves, making Opposition a little more threatening. Cunning Wish got Psychotic Haze, which was cast right away on main phase to wipe out Krouner's creatures. This did leave Ostrovich tapped out, but Krouner only had Birds. Chainer's Edict was flashed back to kill it, and it tapped a land before dying. This left Ostrovich tapped out once again, which let Phantom Centaur hit play. Ostrovich flashed back a second Edict.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a587.jpg)Krouner- "I didn't even see that."
+![](http://www.wizards.com/sideboard/images/worlds02/a587.jpg)
+
+Krouner- "I didn't even see that."
 
 Ostrovich now began to take total control of the game, flashing back Deep Analysis and playing Nightscape Familiar. Krouner summoned Flametongue Kavu, so Ostrovich Repulsed his Familiar in response. After a counterwar the Flametongue shot itself down, and Cunning Wish got Opportunity. Krouner was tapped out, so Ostrovich played Nightscape Familiar, Psychatog and Opportunity all on his turn. Birds of Paradise was keeping Krouner in the game by a thread, tapping down Psychatog. Ostrovich played yet another 'Tog, which was enough to win the game and the match.
 

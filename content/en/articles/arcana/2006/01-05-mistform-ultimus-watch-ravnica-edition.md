@@ -61,7 +61,9 @@ archive_source:
   sha256: cc32aa76e8e4910f40f3377c38e8a80f1f409f7b553538cee5912f53b5d78ebd
 render_recovery: []
 ---
-![Mistform Ultimus Watch](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg)Welcome again to Mistform Ultimus Watch! In this recurring sub-feature of Magic Arcana we keep track of *Legions'* legendary Graveborn Jellyfish, [Mistform Ultimus](https://web.archive.org/web/20060105000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus), and see what creature types it has gained and/or lost. 
+![Mistform Ultimus Watch](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg)
+
+Welcome again to Mistform Ultimus Watch! In this recurring sub-feature of Magic Arcana we keep track of *Legions'* legendary Graveborn Jellyfish, [Mistform Ultimus](https://web.archive.org/web/20060105000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus), and see what creature types it has gained and/or lost. 
 
 We last checked in with [Mistform Ultimus](https://web.archive.org/web/20060105000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus)[after the release of *Ninth Edition*](https://web.archive.org/web/20060105000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/876), and now we stand on the verge of *Guildpact* previews. So as *Ravnica: City of Guilds* has released in the interim, [Mistform Ultimus](https://web.archive.org/web/20060105000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus) has become an Archon (thanks to [Blazing Archon](https://web.archive.org/web/20060105000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blazing+Archon)) and a Lammasu (thanks to [Hunted Lamassu](https://web.archive.org/web/20060105000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hunted+Lamassu)).
 

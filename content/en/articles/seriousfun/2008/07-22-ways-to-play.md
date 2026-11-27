@@ -389,7 +389,9 @@ DEFENSE!!!
 
 ### League with Trading
 
-![time_machine](https://i.ormos.uk/52/96/52960331046cc0369d0837b99bec70c8f28d4948dc5aa105a675a492ba95600a.jpg)Playing those games with the *Tenth Edition* reminded me of when **Magic** was a much simpler game for me. When having a Nightmare meant that everyone else was in big trouble. When having a Pacifism meant that you could deal with a Nightmare, and having a Terror meant that you could deal with a Verdant Force. 
+![time_machine](https://i.ormos.uk/52/96/52960331046cc0369d0837b99bec70c8f28d4948dc5aa105a675a492ba95600a.jpg)
+
+Playing those games with the *Tenth Edition* reminded me of when **Magic** was a much simpler game for me. When having a Nightmare meant that everyone else was in big trouble. When having a Pacifism meant that you could deal with a Nightmare, and having a Terror meant that you could deal with a Verdant Force. 
 
 Now, you can always build decks that replicate the feel of not having the right commons to build your deck, but once you get your first playset of Terrors for your black deck, and Llanowar Elves for your green deck, it’s pretty tough to go back.
 
@@ -405,7 +407,9 @@ If you’re looking to be transported back to a simpler time, when you weren’t
 
 Ok, so you’re not looking for a way to play **Magic** like it’s 1993. That’s okay. I’ve got a different casual Limited variant for you: Anaconda Sealed Draft.
 
-![anaconda](https://i.ormos.uk/81/b4/81b4ce9de2c68fccf70080cba510545cbef4f9428c126526407504f2d0196650.jpg)To play an Anaconda Sealed Draft, you need at least five people and a Tournament Pack for each player. An Anaconda Sealed Draft starts exactly the same way that a booster draft would, with each player opening up their Tournament Pack, taking a card from it and passing the rest of the cards to their left. 
+![anaconda](https://i.ormos.uk/81/b4/81b4ce9de2c68fccf70080cba510545cbef4f9428c126526407504f2d0196650.jpg)
+
+To play an Anaconda Sealed Draft, you need at least five people and a Tournament Pack for each player. An Anaconda Sealed Draft starts exactly the same way that a booster draft would, with each player opening up their Tournament Pack, taking a card from it and passing the rest of the cards to their left. 
 
 Then things change a bit.
 
@@ -469,4 +473,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Kenneth Nagle](https://i.ormos.uk/41/94/41940d44ba2ad4dc04a9f3e586d46af25897d1120c62f65579c8d09af0bd1a1a.jpg "Kenneth Nagle")This article was written by Limited Information author Steve Sadin!
+![Kenneth Nagle](https://i.ormos.uk/41/94/41940d44ba2ad4dc04a9f3e586d46af25897d1120c62f65579c8d09af0bd1a1a.jpg "Kenneth Nagle")
+
+This article was written by Limited Information author Steve Sadin!

@@ -44,7 +44,9 @@ archive_source:
   sha256: 40b7ef70e031d7f46241f44a41e8ab0e897c0eba5f40767af8f6c14bcfd22336
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a783.jpg)They are both not having an easy day, despite being in the finals. To get here Haim had to kick out two countrymen, and friends. First he defeated Olivier Ruel in the last round yesterday for a spot in today's Elite Eight and today he defeated Amiel Tenenbaum in the quarterfinals. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a783.jpg)
+
+They are both not having an easy day, despite being in the finals. To get here Haim had to kick out two countrymen, and friends. First he defeated Olivier Ruel in the last round yesterday for a spot in today's Elite Eight and today he defeated Amiel Tenenbaum in the quarterfinals. 
 
 David didn't have to defeat any German but he was one of the many disappointed Germans watching the World Cup finals today. He also seemed to be the only person at the Top 8 tables who can wear black clothes and not even break a sweat under the TV lights. This is, at least, very strange.
 
@@ -100,7 +102,9 @@ When Haim tried a Aquamoeba Brucker had the Counterspell, and with a card alread
 
 He even allowed the flashback and a Looter to resolve on the following turn. He untapped and played Psychatog giving Haim something to think about for a change. The Frenchman tried to hurt it with Flametongue Kavu and they got into a counter war. After a Counterspell and a Gainsay the red creature entered play.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a782.jpg)The German stared at his three-card hand for a long time. He needed to figure out if he could discard anything and remove his graveyard to save his creature. Finally he settled on discarding Upheaval.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a782.jpg)
+
+The German stared at his three-card hand for a long time. He needed to figure out if he could discard anything and remove his graveyard to save his creature. Finally he settled on discarding Upheaval.
 
 The reason became apparent on the next turn when David Brucker played another Upheaval restarting the game. So they went back to playing lands with Haim dropping his Looter as soon as possible.
 
@@ -120,7 +124,9 @@ After much jiving with the cards Christophe Haim kept exactly the same sixty car
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a775.jpg)For the third consecutive game in these finals Brucker's touch forced Christophe to mulligan. His second hand wasn't great but after shaking his head he kept it. He had no second turn play and lost Gainsay to Brucker's third turn Duress (yes, the only one he sideboarded in). He did ask David to discard the Roar instead but the German only smiled.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a775.jpg)
+
+For the third consecutive game in these finals Brucker's touch forced Christophe to mulligan. His second hand wasn't great but after shaking his head he kept it. He had no second turn play and lost Gainsay to Brucker's third turn Duress (yes, the only one he sideboarded in). He did ask David to discard the Roar instead but the German only smiled.
 
 His first play was Merfolk Looter that promptly suffered a Ghastly Demise on the following turn. Out came another one and David allowed it.
 
@@ -150,7 +156,9 @@ Well, at least in entered play because on the following turn Brucker had the Cha
 
 Through it all Christophe Haim kept his cool. He finally got Aquamoeba to stick around and even resolved Merfolk Looter. On his six turn he entered the Red Zone for the first time.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a773.jpg)It didn't end well because Brucker had Ghastly Demise and on the following turn flashbacked Chainer's Edict to take out the remaining creature. Despite having his opponent tapped out Haim could do nothing to capitalize on it. He simply played a land and passed the turn.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a773.jpg)
+
+It didn't end well because Brucker had Ghastly Demise and on the following turn flashbacked Chainer's Edict to take out the remaining creature. Despite having his opponent tapped out Haim could do nothing to capitalize on it. He simply played a land and passed the turn.
 
 In came Psychatog and Haim played Flametongue Kavu and Merfolk Looter to slow it down. Another Demise took out the Looter and the second Edict got flashbacked. Despite having a single card in his graveyard Brucker had the game totally under control.
 

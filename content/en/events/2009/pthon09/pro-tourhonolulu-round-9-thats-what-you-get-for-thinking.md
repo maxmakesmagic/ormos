@@ -117,7 +117,9 @@ Welcome to Day Two of Pro Tour–Honolulu. Zac Hill and Brian Kibler were the on
 
 This draft, Kibler and Hill have very different decks. Hill’s is a five color control deck that uses Armillary Spheres and other mana fixers to set up for powerful spells like Bull Cerodon, Conflux, Worldheart Phoenix, and Prince of Thralls. Kibler’s deck is a low-slung Jund deck with lots of haste creatures. He’ll need to use those creatures to win games before Hill’s bombs take over.
 
-![](https://i.ormos.uk/8a/07/8a07a40549321c051467329c4c426d6198514d17d64fb3094e3c9335c989026d.jpg)Kibler is still listening to the song “Smashing the Opponents” this morning. I was disappointed to discover last night that other than the title, the song itself had nothing to do with actually smashing opponents. Still, it seemed to be working. Would the song continue working its magic today?
+![](https://i.ormos.uk/8a/07/8a07a40549321c051467329c4c426d6198514d17d64fb3094e3c9335c989026d.jpg)
+
+Kibler is still listening to the song “Smashing the Opponents” this morning. I was disappointed to discover last night that other than the title, the song itself had nothing to do with actually smashing opponents. Still, it seemed to be working. Would the song continue working its magic today?
 
 Both Kibler and Hill enjoy talking, and they started a steady stream of banter before they had even finished resolving the coin flip.
 
@@ -135,7 +137,9 @@ Kibler: “Sometimes my song lasts too long for the space between the pairings a
 
 The two players continued to shuffle.
 
-![](https://i.ormos.uk/e4/b3/e4b387c86821a0a5849a23d4f241d371065f6b63896260d3c6dbc9d5df322234.jpg)Kibler: “What’s that on your hand?”
+![](https://i.ormos.uk/e4/b3/e4b387c86821a0a5849a23d4f241d371065f6b63896260d3c6dbc9d5df322234.jpg)
+
+Kibler: “What’s that on your hand?”
 
 Hill: “FOWDRN.”
 

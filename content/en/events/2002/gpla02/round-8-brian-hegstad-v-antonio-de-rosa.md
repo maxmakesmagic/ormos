@@ -172,7 +172,9 @@ render_recovery:
 ---
 Both of these players were sitting pretty. Neither could believe that they'd managed to get to 6-0-1 and be in a position to play for better. They argued back and forth about whose deck was a bigger pile. Brian Hegstad, a vocal commentator on the randomness of Onslaught Sealed, is baffled that he should have done so well with what he was given. He's enjoyed success at all levels of play, but has no title to call his own. In the same boat is his opponent Antonio De Rosa. Known mostly as an easygoing chatterbox, De Rosa possesses no small amount of skill at the game of Magic.
 
-![](https://www.wizards.com/sideboard/images/gpla02/959.jpg)Next to them, Ed Fear was squaring off against Nick Eisel in a fight to be 8-0. Fear turned to De Rosa and gestured at their opponents.
+![](https://www.wizards.com/sideboard/images/gpla02/959.jpg)
+
+Next to them, Ed Fear was squaring off against Nick Eisel in a fight to be 8-0. Fear turned to De Rosa and gestured at their opponents.
 
 "That side of the table, no offense Antonio, is much more attractive than this side." - Ed Fear
 
@@ -210,7 +212,9 @@ He made a secret monster and passed it back. Hegstad had no pressure, only Slate
 
 "It's depressing, isn't it?" - Brian Hegstad
 
-![](https://www.wizards.com/sideboard/images/gpla02/958.jpg)But De Rosa just drew a forest to replace it, earning sounds of disgust from Hegstad. He also had a replacement Morph. Hegstad offed it (a Gourna) with Chain of Plasma, then made a Disciple of Grace. De Rosa answered with Wellwisher and a morph. Hegstad made a Nantuko Husk, and suprised De Rosa when he just let it trade with Nantuko Husk, rather than sacrificing the Disciple. De Rosa busted the Slate with Naturalize. Hegstad had a Harrier, but the Wellwisher meant he was fighting an uphill battle.
+![](https://www.wizards.com/sideboard/images/gpla02/958.jpg)
+
+But De Rosa just drew a forest to replace it, earning sounds of disgust from Hegstad. He also had a replacement Morph. Hegstad offed it (a Gourna) with Chain of Plasma, then made a Disciple of Grace. De Rosa answered with Wellwisher and a morph. Hegstad made a Nantuko Husk, and suprised De Rosa when he just let it trade with Nantuko Husk, rather than sacrificing the Disciple. De Rosa busted the Slate with Naturalize. Hegstad had a Harrier, but the Wellwisher meant he was fighting an uphill battle.
 
 De Rosa's sixth land came with a fanfare that announced Visara. Hegstad mocked him and showed Cruel Revival on his turn. Not only did he get the Husk back, but his Disciple was at the ready to hold off De Rosa's Prowling Pangolin. He just had too much gas, though, and when he played Wirewood Savage and Anurid Murkdweller, Hegstad decided it was time to play Akroma's Vengeance.
 
@@ -218,7 +222,9 @@ De Rosa had the first chance to rebuild, firing out Disciple of Malice and Thoug
 
 "We have to make a promise: Whoever wins, it'll probably be you, has to make Top 8." - Antonio De Rosa
 
-![](https://www.wizards.com/sideboard/images/gpla02/956.jpg)"We'll help each other's tiebreakers. I have confidence in your drafting ability." - Brian Hegstad
+![](https://www.wizards.com/sideboard/images/gpla02/956.jpg)
+
+"We'll help each other's tiebreakers. I have confidence in your drafting ability." - Brian Hegstad
 
 "I don't even have confidence in my drafting ability." - Antonio De Rosa.
 

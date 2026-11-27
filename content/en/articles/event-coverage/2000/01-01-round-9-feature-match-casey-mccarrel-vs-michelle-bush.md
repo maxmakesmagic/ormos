@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM9bushMcC.jpg)In the first draft of the day, the mighty mighty Michelle Bush had opened Blazing Specter and drafted a very potent Black/Red deck. Casey McCarrel, being passed to by Bush, opened an Annihilate, and was then immediately cut off by Michelle. He did end up playing some black in his deck though, but the four swamps he did play weren't enough for him to consider running the powerful black removal. Casey and Michelle have never played each other before, so both are careful and polite as the match begins, not quite knowing what to expect, but showing the very professionalism that defines them as Pro Tour veterans. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPNOR01/FM9bushMcC.jpg)
+
+In the first draft of the day, the mighty mighty Michelle Bush had opened Blazing Specter and drafted a very potent Black/Red deck. Casey McCarrel, being passed to by Bush, opened an Annihilate, and was then immediately cut off by Michelle. He did end up playing some black in his deck though, but the four swamps he did play weren't enough for him to consider running the powerful black removal. Casey and Michelle have never played each other before, so both are careful and polite as the match begins, not quite knowing what to expect, but showing the very professionalism that defines them as Pro Tour veterans. 
 
 **Game 1** 
 

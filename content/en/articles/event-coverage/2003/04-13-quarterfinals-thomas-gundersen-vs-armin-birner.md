@@ -48,7 +48,9 @@ Every single person who seen all Top 8 decks agree on one point, Thomas Gunderse
 
 ### Game 1
 
-![](https://i.ormos.uk/7f/65/7f6526c7e254acb131b171e1327333e02df350e24f357ec1ffa2afeca6898ba1.jpg)Birner's soldiers deck seems quite good too, but mulligan and mana screw don't seem to help him in first game, as if things were not already complicated enough. When he plays his first creature, Pangolin and the 2W 1/3 cleric were already on the table. 
+![](https://i.ormos.uk/7f/65/7f6526c7e254acb131b171e1327333e02df350e24f357ec1ffa2afeca6898ba1.jpg)
+
+Birner's soldiers deck seems quite good too, but mulligan and mana screw don't seem to help him in first game, as if things were not already complicated enough. When he plays his first creature, Pangolin and the 2W 1/3 cleric were already on the table. 
 
 The next turn was [Visara](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Visara), while Birner had only played a morph and [Glory Seeker](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker). [White Knight](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=White+Knight) was his third and last spell of the game as its protection from white convinced the Gorgon Legend that attacking was the quickest way to win the game.
 
@@ -63,7 +65,9 @@ Birner's start, more convincing that the first game's was typical of he *Legions
 
 Not much to do against such an army with ordinary cards, but Gundersen was doing more than defending himself. Wall of hope, [Whipgrass Entangler](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipgrass+Entangler), Pangolin and a couple of [Aven Redeemer](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Redeemer) were making this situation almost a lock. Almost.
 
-![](https://i.ormos.uk/5d/e1/5de1f1e437afba775f30d296d2d6ff627b05f451112653d33b81329a2e9fbed8.jpg)That's when Gundersen decided things had to change that he lost the game. He attacked with Pangolin, and planning to kill the three [Daru Cavalier](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Cavalier)s blocking it [Swat](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat) one of them. That's all Birner could hope. He cycled [Gempalm Avenger](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gempalm+Avenger) and killed his opponent's biggest creature. 
+![](https://i.ormos.uk/5d/e1/5de1f1e437afba775f30d296d2d6ff627b05f451112653d33b81329a2e9fbed8.jpg)
+
+That's when Gundersen decided things had to change that he lost the game. He attacked with Pangolin, and planning to kill the three [Daru Cavalier](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Cavalier)s blocking it [Swat](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swat) one of them. That's all Birner could hope. He cycled [Gempalm Avenger](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gempalm+Avenger) and killed his opponent's biggest creature. 
 
 That's when massive attacks started. Unable to draw his sixth land to cast [Visara](https://web.archive.org/web/20030413000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Visara), Gundersen couldn't contain the assaults for long.
 

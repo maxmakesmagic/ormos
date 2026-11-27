@@ -70,7 +70,9 @@ render_recovery:
 ---
 Greetings! I'm Kenneth Nagle and I've been working in R&D about two months ago after participating in [The Great Designer Search](https://web.archive.org/web/20070326000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/events/thefinishline). I want to address something that's been bugging me for quite a while now. Magic theorists, deckbuilders, and writers seem to know it, but they can't put it into words. They understand it without really understanding it. They think about it without really thinking about it. Do you know what I'm talking about?
 
-![Hunting_Wilds](https://i.ormos.uk/83/27/8327178ee3eed14a4e1fd4a9238cc18f92f8f995dea978b1ce1ac897ed4895c4.jpg)What I'm talking about extends from the aggro, control, and combo trifecta that Magic players have known, talked, and [written about](https://web.archive.org/web/20070326000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/academy/22) for years. We know that aggro swarms you with fast damage, control reacts and disables opposing threats with answers, and combo seeks to assemble a gigantic game-winning spell or sequence of spells.
+![Hunting_Wilds](https://i.ormos.uk/83/27/8327178ee3eed14a4e1fd4a9238cc18f92f8f995dea978b1ce1ac897ed4895c4.jpg)
+
+What I'm talking about extends from the aggro, control, and combo trifecta that Magic players have known, talked, and [written about](https://web.archive.org/web/20070326000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/academy/22) for years. We know that aggro swarms you with fast damage, control reacts and disables opposing threats with answers, and combo seeks to assemble a gigantic game-winning spell or sequence of spells.
 
 One extension is the hybrid archetype aggro-control, which borrows the creature element from aggro and the disruption element from control. This is another well-studied archetype that follows a 'deploy and protect' plan.
 

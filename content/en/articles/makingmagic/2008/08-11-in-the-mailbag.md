@@ -214,7 +214,9 @@ On a side note for those that enjoy historical context, this announcement was no
 
 I'm not trying in any way to demean this outcry. It was large and very vocal, and yes we do care what you all have to say. I just want to put it in context that big changes to the game always result in big responses from the public. I simply ask that you wait to see the changes so that any discussion comes from talking about what *has* been done rather than you having to speculate on what *might* have been done.
 
-> ![Burn Trail?](https://i.ormos.uk/f7/0f/f70f04e3b4670a68dd403ef3156d5387bab914128186fb4c455405bd10b57401.jpg "Burn Trail?")Dear Mark Rosewater,
+> ![Burn Trail?](https://i.ormos.uk/f7/0f/f70f04e3b4670a68dd403ef3156d5387bab914128186fb4c455405bd10b57401.jpg "Burn Trail?")
+>
+> Dear Mark Rosewater,
 > 
 > What happened to conspire in Eventide? I can see it overlapped with retrace in that they both copy things (sort of) but didn't it fit the colour matters theme SO much better? 
 > 
@@ -312,7 +314,9 @@ Brad,
 
 "Design space" is a term I've tossed around a lot. I searched through my archive, and I haven't specifically touched upon what exactly "design space" means. So, you are correct, it would be an excellent topic for a column. I will try to write it before the year is out. Thanks for the suggestion.
 
-> ![Festercreep](https://i.ormos.uk/83/81/8381faa9a710b95499b32f7fe2e63216dda399338848b5beec91ff5247af6cda.jpg)Dear Mark,
+> ![Festercreep](https://i.ormos.uk/83/81/8381faa9a710b95499b32f7fe2e63216dda399338848b5beec91ff5247af6cda.jpg)
+>
+> Dear Mark,
 > 
 > "Power Creep" is always a fear with trading card games, and Magic has always been accused of it, on and off. Less informed players cite R+D slip-ups such as Targmogoyf while more knowledgeable but still concerned players may cite "experimental" cards like Isamaru. I have an alternate hypothesis about Magic that I was wondering if you could verify. I call it "fun creep." The basis is fairly simple:
 > 
@@ -348,7 +352,9 @@ David,
 
 My goal in naming the merfolk wasn't to be original but to make the reader get that she was a merfolk. So yes, I chose the best-known mermaid in pop culture. A common design trap is to look for the most original answer when the most functional one will better serve the task.
 
-> ![Maro](https://i.ormos.uk/26/e4/26e45a55c4b7cdec1862fa718263d9ece9283ae2c2b4b4acec642d7e56669c9f.jpg)Dear Mark Rosewater,
+> ![Maro](https://i.ormos.uk/26/e4/26e45a55c4b7cdec1862fa718263d9ece9283ae2c2b4b4acec642d7e56669c9f.jpg)
+>
+> Dear Mark Rosewater,
 > 
 > Regarding your article "[IM Legend](/en/articles/makingmagic/2008/06-09-im-legend)":
 > 

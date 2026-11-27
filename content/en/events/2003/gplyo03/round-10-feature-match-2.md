@@ -53,7 +53,9 @@ archive_source:
   sha256: dc76f0e3e7270282cd9f05a1555494e02cc9ec0018272e6b8f145534d9de64d5
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gplyo03/a897.jpg)Wolfgang is a player with a very good resume. Why haven't we heard too much about him? He's from Germany, nuff said. Daniel is the undefeated amateur of Grand Prix Lyon, so when he keeps up the pace, he can net not only whatever he wins in the main event, but also leaves Lyon with the amateur prize money - $1500. Not bad a deal for playing Magic for one weekend. There are times I don't make that kind of money playing...
+![](http://www.wizards.com/sideboard/images/gplyo03/a897.jpg)
+
+Wolfgang is a player with a very good resume. Why haven't we heard too much about him? He's from Germany, nuff said. Daniel is the undefeated amateur of Grand Prix Lyon, so when he keeps up the pace, he can net not only whatever he wins in the main event, but also leaves Lyon with the amateur prize money - $1500. Not bad a deal for playing Magic for one weekend. There are times I don't make that kind of money playing...
 
 ### Game 1
 
@@ -71,7 +73,9 @@ It got replaced by another one, while Daniel could only make a Goblin Replica.
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a898.jpg)Daniel kept and Wolfgang could handle his opening hand too.
+![](http://www.wizards.com/sideboard/images/gplyo03/a898.jpg)
+
+Daniel kept and Wolfgang could handle his opening hand too.
 
 Wolfgang blazed his first two drops from his hand: Slagwurm Armor and Banshee's Blade, followed in turn 3 and 4 by another Blade and Sword of Kaldra. They were all nice equipment, but you would still need creatures to use the tools succesfully.
 
@@ -83,7 +87,9 @@ Wolfgang had a 4 land, 3 equipment opening hand while Daniel had to start, so he
 
 Wolfgang would not take any more risks and mulliganed after not too much thought. Both players talked a little about their decks while Wolfgang tried to shuffle his deck some more and both were agreed in playing 14 creatures this match; friendly atmosphere. Wolfgang mulliganned again, so he would have to try to beat Daniel with only 5 cards in his opening hand AND start the game.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a899.jpg)Daniel seemed to be the most relaxed guy in the world right now and Pyrite spellbomb for Daniel and Leonin Den-Guard for Wolfgang were the first plays of the last game. The Den Guard got Terrored, but he was followed by Yotian Soldier and Neurok Hoversail.
+![](http://www.wizards.com/sideboard/images/gplyo03/a899.jpg)
+
+Daniel seemed to be the most relaxed guy in the world right now and Pyrite spellbomb for Daniel and Leonin Den-Guard for Wolfgang were the first plays of the last game. The Den Guard got Terrored, but he was followed by Yotian Soldier and Neurok Hoversail.
 
 Daniel could make a Vulshok Berserker, but choose not to attack yet and waited to have mana enough to Spellbomb the Soldier. When he attacked the next turn, Wolfgang thought he was saving the Yotian with a Raor of the Kha, but Daniel backed up the Berserker attack plan with not only the Spellbomb but also Irradiate.
 

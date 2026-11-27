@@ -44,7 +44,9 @@ archive_source:
   sha256: a0a39822eb00c31cb9e27b3e95234d1cf6bddea6a7f11e22f37e7f649af0d4c5
 render_recovery: []
 ---
-![](https://i.ormos.uk/27/47/27472a1001659f537e7cb4c74a14110d53da73d90bf1e9ca9cdb7cf6450ca626.jpg)Jake (SA) and Adrian (Vic) had drafted their way to a 3-1 record at this point, and both players knew whoever won this match would be in a great position going in to the final round of day #1. Jake had amazingly drafted a mono-red deck with no less than 3 Chainflingers, 2 Barbarian Lunatics, 2 longhorn Firebeasts and 11 burn spells, while Adrian had done well drafting blue fliers with black backup.
+![](https://i.ormos.uk/27/47/27472a1001659f537e7cb4c74a14110d53da73d90bf1e9ca9cdb7cf6450ca626.jpg)
+
+Jake (SA) and Adrian (Vic) had drafted their way to a 3-1 record at this point, and both players knew whoever won this match would be in a great position going in to the final round of day #1. Jake had amazingly drafted a mono-red deck with no less than 3 Chainflingers, 2 Barbarian Lunatics, 2 longhorn Firebeasts and 11 burn spells, while Adrian had done well drafting blue fliers with black backup.
 
 ### Game 1
 
@@ -58,7 +60,9 @@ Adrian 1, Jake 0
 
 ### Game 2
 
-![](https://i.ormos.uk/57/c6/57c67556c01f66224dffcb3e29ba384cd66e640ca59fe4aacf2b1e85faf6e86c.jpg)Again Jake would fail to find the quick start he was after, this time drawing too much land as Adrian opened with an Aquamoeba. The Barbarian Lunatic that followed was unwilling to trade his blue counter part. A Longhorn Firebeast was met with much thought from Adrian and a response that indicated he was willing to pay 5 life to put it in the graveyard was colourful enough to earn him a warning from the table judge. From Jake - a Firebolt that removed hie Aven Fisher. While tapped out, the lunatic was picked off with a Patriarch's Desire – but Jake was able to reply with a Dwarven Strike Force that plucked (you guessed it) a mountain and swung for 4 damage as the long horn traded with a Dirty Wererat. Down to 9 life, Adrian mised the land he needed for the Morbid Hunger.
+![](https://i.ormos.uk/57/c6/57c67556c01f66224dffcb3e29ba384cd66e640ca59fe4aacf2b1e85faf6e86c.jpg)
+
+Again Jake would fail to find the quick start he was after, this time drawing too much land as Adrian opened with an Aquamoeba. The Barbarian Lunatic that followed was unwilling to trade his blue counter part. A Longhorn Firebeast was met with much thought from Adrian and a response that indicated he was willing to pay 5 life to put it in the graveyard was colourful enough to earn him a warning from the table judge. From Jake - a Firebolt that removed hie Aven Fisher. While tapped out, the lunatic was picked off with a Patriarch's Desire – but Jake was able to reply with a Dwarven Strike Force that plucked (you guessed it) a mountain and swung for 4 damage as the long horn traded with a Dirty Wererat. Down to 9 life, Adrian mised the land he needed for the Morbid Hunger.
 
 Jake now sat back in control mode as a Chainflinger was dropped putting Adrian on a clock. How short a clock was surprising as when Adrian was on 9, in just 1 turn Jake was able to flash a Firebolt, Sonic Seizure pitching a mountain and Barbarian Ring for the final 2 damage.
 
@@ -70,7 +74,9 @@ Here Jake again drew copious amount of land, going with a 5 land start (with Bal
 
 He started his flying arsenal with one of his Aven Fishers as twice the same Firebolt hit the Dreamwinder. Taking 1 point of pan from the Barbarian Ring, Jake's Balthor traded hits with the fisher bringing both players life totals down to 11. The land, it seemed, was unending.
 
-![](https://i.ormos.uk/89/fc/89fc6836e01595fd4d284b36c49013da2a686c1654e0c68e1b30231a7d1b8f48.jpg)Eventually Adrian dropped a Think Tank which wasn't that effective as he would end up always taking the first card he drew as most of his land was now in play. Jake responded with a Mad Dog but the dog & Balthor were Aether busted back to his hand as the Aven went in for another attack (9). The Mad Dog & Balthor were recast but the Pardic Lancer (using the Barbarian ring - 8) that followed was Syncopated out of the game. Adrian attacked again (6) and Played a Zombie Assassin which he hoped would go 2 for 1 next turn. Jake pushed the race with a Demoralize (from the sideboard) bringing him opponent to 7, with a Volley of Boulders in his deck and an almost active Barbarian Ring, he was not out of the match yet.
+![](https://i.ormos.uk/89/fc/89fc6836e01595fd4d284b36c49013da2a686c1654e0c68e1b30231a7d1b8f48.jpg)
+
+Eventually Adrian dropped a Think Tank which wasn't that effective as he would end up always taking the first card he drew as most of his land was now in play. Jake responded with a Mad Dog but the dog & Balthor were Aether busted back to his hand as the Aven went in for another attack (9). The Mad Dog & Balthor were recast but the Pardic Lancer (using the Barbarian ring - 8) that followed was Syncopated out of the game. Adrian attacked again (6) and Played a Zombie Assassin which he hoped would go 2 for 1 next turn. Jake pushed the race with a Demoralize (from the sideboard) bringing him opponent to 7, with a Volley of Boulders in his deck and an almost active Barbarian Ring, he was not out of the match yet.
 
 An Acceptable Losses picked off the Assassin but it still was able to take down Balthor. Knowing he would lose the Mad Dog/Aven Fisher race he pushed with a Barbarian Lunatic but a Fervent Denial not only foiled the lunatic but the hope of a Volley of Boulders top deck next turn win. Adrian sealed the match by Zombifying the Dreamwinder and attacking for another 2 (Jake - 4). With just enough mana to protect himself with the denial and the Mad Dog not being able to block the match was his. Jake's next card was a mountain, his 14th land out of 22 cards drawn in this game. There were only 2 other land left in his deck.
 

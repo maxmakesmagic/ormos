@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Sideboard Staff* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/867.jpg)With both of the Japanese players on the record 5-1 they have to feel a little unlucky. Flying all the way from Japan after GP Kyoto to play GP Sydney and being paired together in the final round of Day 1probably isn't what they had in mind. Before the match the two players inform me that the exact same situation occurred in GP Kyoto where they where paired together in the final round of Day 1. At least the two players knew that the loser would still make Day 2, having won the die roll Yamakawa chose to play first. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/867.jpg)
+
+With both of the Japanese players on the record 5-1 they have to feel a little unlucky. Flying all the way from Japan after GP Kyoto to play GP Sydney and being paired together in the final round of Day 1probably isn't what they had in mind. Before the match the two players inform me that the exact same situation occurred in GP Kyoto where they where paired together in the final round of Day 1. At least the two players knew that the loser would still make Day 2, having won the die roll Yamakawa chose to play first. 
 
 **Game 1** 
 
@@ -54,6 +56,8 @@ Electing to keep a one land, Mox Diamond hand and Vampiricing for a Swamp seemed
 
 **Game 2** 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/868.jpg)Siding out his combo for the Negators, Yamakawa chose to go first again in game two, and started out with a first turn Duress. Nakamura had a great hand with Gush, Impulse , Forest, Island, Island, Exploration and Feeder. Yamakawa seemed happy with this and chose the Exploration, but Yamakawa drew another off the top and cast it. On turn 3 the advantaged seemed to sway Yamakawa's way when he summoned a Negator. Satoshi Gushed for an answer floating UU in his main phase, and an answer he found. He cast a Hunted Wumpus, which is rarely seen in this Extended format and even when Yamakawa dumped another Negator from the Wumus effect, he was in major trouble. With 2 cards in hand Yamakawa Consulted for Perish and lost about 3/4 of his deck, and when the Perish was Force of Willed, Yamakawa gave it up. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/868.jpg)
+
+Siding out his combo for the Negators, Yamakawa chose to go first again in game two, and started out with a first turn Duress. Nakamura had a great hand with Gush, Impulse , Forest, Island, Island, Exploration and Feeder. Yamakawa seemed happy with this and chose the Exploration, but Yamakawa drew another off the top and cast it. On turn 3 the advantaged seemed to sway Yamakawa's way when he summoned a Negator. Satoshi Gushed for an answer floating UU in his main phase, and an answer he found. He cast a Hunted Wumpus, which is rarely seen in this Extended format and even when Yamakawa dumped another Negator from the Wumus effect, he was in major trouble. With 2 cards in hand Yamakawa Consulted for Perish and lost about 3/4 of his deck, and when the Perish was Force of Willed, Yamakawa gave it up. 
 
 Satoshi defeated Yamakawa 2-0

@@ -44,7 +44,9 @@ archive_source:
   sha256: 1dfdcfa75a8f8cc8315ab92dbd593c8a30e113e25fb9bb347d0b72b3b7368cfb
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a970.jpg)We had a different feature match for you - Olivier Ruel vs. Ferran Vila - but we were forced to change it. Ruel and Vila both made the Top 8 in Biarritz. Unfortunately for Ferran Vila, he decided to head back home today to truly enjoy his three byes and on the way back his car broke down.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a970.jpg)
+
+We had a different feature match for you - Olivier Ruel vs. Ferran Vila - but we were forced to change it. Ruel and Vila both made the Top 8 in Biarritz. Unfortunately for Ferran Vila, he decided to head back home today to truly enjoy his three byes and on the way back his car broke down.
 
 So we got another member of Black Ops (Florent Jeudon) against Raphaël Gennari. Not bad for a last minute replacement. The friendly Jeudon might not be as chaotic as Olivier but is also very funny. Like the Ruel brothers he has been working very hard to dismiss the idea that he isn't just another clog on the well-oiled machine we call Black Ops.
 
@@ -87,7 +89,9 @@ Raphaël 1-1 Florent
 
 ### Game 3
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a971.jpg)With a mere nine minutes left on the clock they started the third game silently while the crowd murmured around the table. Gennari opened with a [Wild Mongrel](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and Jeudon answered with an [Organ Grinder](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder). The Grinder left the game the following turn when a Chieftain steamrolled into the Red Zone. However, the Grinder was quickly replaced by a [Faceless Butcher](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) that put an end to Mongrel's plans to raise havoc.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a971.jpg)
+
+With a mere nine minutes left on the clock they started the third game silently while the crowd murmured around the table. Gennari opened with a [Wild Mongrel](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and Jeudon answered with an [Organ Grinder](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Organ+Grinder). The Grinder left the game the following turn when a Chieftain steamrolled into the Red Zone. However, the Grinder was quickly replaced by a [Faceless Butcher](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) that put an end to Mongrel's plans to raise havoc.
 
 A Fiend revealed a handful of lands and an [Engulfing Flames](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engulfing+Flames) in Florent's hand. When Raphaël again dropped his trusty Angel it looked like the game was about to slow down but Florent wouldn't back down from the race. He played a [Roar of the Wurm](https://web.archive.org/web/20020323000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm) (for the normal cost) making it clear that if the Angel decided to attack he would bring two monsters to the Red Zone.
 

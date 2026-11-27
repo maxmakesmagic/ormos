@@ -192,7 +192,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/bigcup02/967.jpg)吉岡が開始早々《ラノワールのエルフ/Llanowar Elves》《呪文散らしのケンタウルス/Spellbane Centaur》と攻め立て、大塚も《日を浴びるルートワラ》《野生の雑種犬》と負けじと展開する。
+![](http://www.wizards.com/sideboard/images/bigcup02/967.jpg)
+
+吉岡が開始早々《ラノワールのエルフ/Llanowar Elves》《呪文散らしのケンタウルス/Spellbane Centaur》と攻め立て、大塚も《日を浴びるルートワラ》《野生の雑種犬》と負けじと展開する。
 
 ここで防御をこじ開けるために吉岡が《野生の雑種犬》に《ウルザの激怒/Urza's Rage》を使うが、大塚は《ワームの咆哮/Roar of the Wurm》《嘘か真か》を捨てて防がれてしまい攻める機会を失ってしまう。  
  そうこうしているうちに大塚が《マーフォークの物あさり/Merfolk Looter》を経由してのワームトークンを出し攻防が入れ替わったに見えたが、これは吉岡の《シヴのワーム/Shivan Wurm》によって阻まれる。

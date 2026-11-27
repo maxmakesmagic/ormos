@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/103.jpg)Although most people who follow tournament coverage may not know these two competitors yet, to the Russian players attending Grand Prix Helsinki (and there are quite a few) this was likely the most exciting match of the tournament. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/103.jpg)
+
+Although most people who follow tournament coverage may not know these two competitors yet, to the Russian players attending Grand Prix Helsinki (and there are quite a few) this was likely the most exciting match of the tournament. 
 
 Firsov and Strakhov met in the finals of the Russian National Championships in both 1999 and 2000. Firsov won both times, and is one of the very few players to boast multiple Nationals titles. 
 

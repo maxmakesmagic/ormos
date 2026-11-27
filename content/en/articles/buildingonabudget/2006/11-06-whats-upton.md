@@ -958,7 +958,9 @@ And this deck wins like nobody's business.
 
 I found that out after watching John pilot the deck through the Top 8 of states that year. In the last game of the finals, he was targeted by a Persecute while holding double Shrapnel Blast, with his opponent at less than 10 life. He was fearful of a response, so he let the other guy name a color, and then tried to respond by casting double Shrapnel Blast for the win.
 
-![](https://i.ormos.uk/42/24/4224326f80c2d18cf2b831029c35db46e4e0418ddde05180a79875e335dc4c0d.jpg)I began taking the deck to various and sundry Friday Night Magics, and I always pulled a respectable finish with the deck. Unfortunately, this was pre-*Darksteel* Standard, and the deck immediately fell out of favor when Arcbound Ravager and Skullclamp ruined made Standard interesting for a while.
+![](https://i.ormos.uk/42/24/4224326f80c2d18cf2b831029c35db46e4e0418ddde05180a79875e335dc4c0d.jpg)
+
+I began taking the deck to various and sundry Friday Night Magics, and I always pulled a respectable finish with the deck. Unfortunately, this was pre-*Darksteel* Standard, and the deck immediately fell out of favor when Arcbound Ravager and Skullclamp ruined made Standard interesting for a while.
 
 The reason this week's article isn't *Time Spiral*-oriented is because *Time Spiral* was only legal for a couple of days before my deadlines were due into the powers that be. In addition, the prices on cards from a new set are completely wacky the first few days after a set release as people scramble to get ahold of the cards. I didn't want to have to price up a deck against artificially inflated prices on singles, so I decided to dredge up an old favorite. 
 
@@ -975,7 +977,9 @@ Starstorm: 2 Tickets
 Visara the Dreadful: 3 Tickets  
  Total cost of the deck: 56 Tickets
 
-![](https://i.ormos.uk/cf/4e/cf4e2f2e847c8082c293540f5533618833fd990c5d14e9a46dd8cb7ef3069298.jpg)In addition, Disciple of the Vault is banned in Extended. Yes, even when you're not playing Affinity. Grumble rassa frazzle dimples.
+![](https://i.ormos.uk/cf/4e/cf4e2f2e847c8082c293540f5533618833fd990c5d14e9a46dd8cb7ef3069298.jpg)
+
+In addition, Disciple of the Vault is banned in Extended. Yes, even when you're not playing Affinity. Grumble rassa frazzle dimples.
 
 It was up to me to start taking out cards from the deck. The Bloodstained Mires were the first to go – they accounted for twenty of the twenty-six ticket surplus cost, so without them, the deck hits the thirty-six ticket mark. I also didn't need Visara – she didn't make much sense in the deck, nor did Promise of Power (which was a holdover from a Standard environment long since gone). That trimmed another four tickets off of the deck cost.
 
@@ -1017,7 +1021,9 @@ We go into a long battle of move and countermove – he casts Remove Soul on my 
 
 **Game 2: Wwen (Urzatron)**
 
-![](https://i.ormos.uk/44/9d/449d44153ae7106c18e8b9b2b9beea156a32f39fbffdb5b486199ba4dd978f7c.jpg)His first two plays are Urza's Tower and Urza's Mine. I steel myself for a quick game, but Wwen proceeds to draw triple Urza's Tower and double Urza's Mine, with no Power Plant in sight! I cast a first-turn Pyrite Spellbomb, cycle it and a Barren Moor on turn two, and drop Solemn Simulacrums on turns four and five. Megatog joins up on turn six, and he answers with a Vault of Whispers and a Triskelion. I drop Oblivion Stone, Bottle Gnomes and Pyrite Spellbomb, feed all my artifacts to the Megatog, and hit him to death with a 21/22 trampler.
+![](https://i.ormos.uk/44/9d/449d44153ae7106c18e8b9b2b9beea156a32f39fbffdb5b486199ba4dd978f7c.jpg)
+
+His first two plays are Urza's Tower and Urza's Mine. I steel myself for a quick game, but Wwen proceeds to draw triple Urza's Tower and double Urza's Mine, with no Power Plant in sight! I cast a first-turn Pyrite Spellbomb, cycle it and a Barren Moor on turn two, and drop Solemn Simulacrums on turns four and five. Megatog joins up on turn six, and he answers with a Vault of Whispers and a Triskelion. I drop Oblivion Stone, Bottle Gnomes and Pyrite Spellbomb, feed all my artifacts to the Megatog, and hit him to death with a 21/22 trampler.
 
 *Record: 2-0*
 
@@ -1039,7 +1045,9 @@ Momentum shifts to me, as I drop back-to-back Triskelions. He plays Troll Asceti
 
 **Game 5: MikeMossbarger (U/B Grave Pact)**
 
-![](https://i.ormos.uk/24/89/2489158bda2da2d4734c59b9ec50542847f2907a7c4a516844629b5190677473.jpg)He drops Bottle Gnomes and puts Grafted Wargear on it. I drop turn-three Oblivion Stone and then cast a fourth-turn Persecute naming black. The only card I hit is Grave Pact, but he has four blue flyers in hand. He casts Aven Fisher the following turn, and I Persecute out his entire hand and then set off Oblivion Stone after taking another 7 damage. He draws Surveilling Sprite, but I draw Triskelion and that's that. Despite his set-up of double Grave Pact over the next few turns, I draw Skeleton Shard and am able to infinitely recur my Triskelion until he runs out of creatures. Finally, he draws into only lands, and I beat him to death.
+![](https://i.ormos.uk/24/89/2489158bda2da2d4734c59b9ec50542847f2907a7c4a516844629b5190677473.jpg)
+
+He drops Bottle Gnomes and puts Grafted Wargear on it. I drop turn-three Oblivion Stone and then cast a fourth-turn Persecute naming black. The only card I hit is Grave Pact, but he has four blue flyers in hand. He casts Aven Fisher the following turn, and I Persecute out his entire hand and then set off Oblivion Stone after taking another 7 damage. He draws Surveilling Sprite, but I draw Triskelion and that's that. Despite his set-up of double Grave Pact over the next few turns, I draw Skeleton Shard and am able to infinitely recur my Triskelion until he runs out of creatures. Finally, he draws into only lands, and I beat him to death.
 
 *Record: 4-1*
 
@@ -1105,7 +1113,9 @@ He gets a bunch of Slivers, but I Oblivion Stone them all off the board on turn 
 
 **Game 13: Xainthanatos (R/W/G Sliver Evolution!)**
 
-![](https://i.ormos.uk/ec/6e/ec6e97bb3f3647f7d8b73b626a8c932da4584d2c8594f5c37d4f13a7258b40f4.jpg)Deja-vu! He gets double Quilled Sliver, and I get Mindless Automaton. I swing, make it a 3/3 in response to his shoots, and then play Skeleton Shard. I discard my second Automaton to the first, bring it back with the Shard, and do it again, and then cast Oblivion Stone. He plays Harmonic Sliver to kill my Oblivion Stone, but I play three Shrapnel Blasts on my next turn for the win.
+![](https://i.ormos.uk/ec/6e/ec6e97bb3f3647f7d8b73b626a8c932da4584d2c8594f5c37d4f13a7258b40f4.jpg)
+
+Deja-vu! He gets double Quilled Sliver, and I get Mindless Automaton. I swing, make it a 3/3 in response to his shoots, and then play Skeleton Shard. I discard my second Automaton to the first, bring it back with the Shard, and do it again, and then cast Oblivion Stone. He plays Harmonic Sliver to kill my Oblivion Stone, but I play three Shrapnel Blasts on my next turn for the win.
 
 *Record: 11-2*
 

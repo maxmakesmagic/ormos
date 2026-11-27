@@ -174,7 +174,9 @@ render_recovery:
 ---
 ### Grand Prix-Cleveland
 
-![](http://www.wizards.com/sideboard/images/gpcle02/870.jpg)An American of Russian descent won Grand Prix-Cleveland with a monoblack control deck... and, no, it wasn't me. Amateur Valentin Moskovich played out the entire tournament (he had zero byes), taking down big name players and other amateurs alike and winning any number of seemingly unfavorable matchups to earn the trophy. I watched several of Moskovich's matches while helping *Sideboard* with the coverage and must say that his play impressed me. I would not be surprised to see him more and more often at pro events.
+![](http://www.wizards.com/sideboard/images/gpcle02/870.jpg)
+
+An American of Russian descent won Grand Prix-Cleveland with a monoblack control deck... and, no, it wasn't me. Amateur Valentin Moskovich played out the entire tournament (he had zero byes), taking down big name players and other amateurs alike and winning any number of seemingly unfavorable matchups to earn the trophy. I watched several of Moskovich's matches while helping *Sideboard* with the coverage and must say that his play impressed me. I would not be surprised to see him more and more often at pro events.
 
 Ever since Kibler won GP-Toronto, Canadian players seem to love retaliating by taking top prize at U.S. events - well, Matt Vienneau does anyway. It came very close to happening again this time. Canada's Gab "The Juggernaut" Tsang took a blue-green tempo deck all the way to the finals. Prior to Cleveland, Tsang hadn't even shuffled an OBC deck - but extensive practice drafting on **Magic** Online and natural skill overcame that obstacle. 
 
@@ -186,7 +188,9 @@ The most important thing about GP-Cleveland to me was that it proved OBC to be a
 
 ### Magic Invitational
 
-![](http://www.wizards.com/sideboard/images/MASTERSBAR01/944.jpg)The votes are in! Surprising no one, Jon Finkel was the most popular player with the voters. Shadowmage Inflitrator helped, and so did the "Finkel vs. Garfield" gift box that came out last Christmas. Finkel may have had the worst season of his career, but he more than deserves these votes and the opportunity to play at the Invitational.
+![](http://www.wizards.com/sideboard/images/MASTERSBAR01/944.jpg)
+
+The votes are in! Surprising no one, Jon Finkel was the most popular player with the voters. Shadowmage Inflitrator helped, and so did the "Finkel vs. Garfield" gift box that came out last Christmas. Finkel may have had the worst season of his career, but he more than deserves these votes and the opportunity to play at the Invitational.
 
 None of the other votes were particularly surprising. Zvi Mowshowitz came in a comfortable second, followed by Gary Wise and Dave Price. Chris Pikula came in fifth on the vote, missing the invitation for the first time in years - but it looks very likely that he will get to compete anyway. It seems Kai Budde will not be able to attend the event. If that is the case, Chris gets his spot. To the best of my knowledge, no one else has declined the invitation so far.
 
@@ -194,7 +198,9 @@ None of the other votes were particularly surprising. Zvi Mowshowitz came in a c
 
 Last week's question:
 
-![](http://www.wizards.com/bios/images/jakub_slemr_lg.jpg)Besides winning the 1997 Worlds, what are some of GP-London winner Jakub Slemr's top tournament accomplishments?
+![](http://www.wizards.com/bios/images/jakub_slemr_lg.jpg)
+
+Besides winning the 1997 Worlds, what are some of GP-London winner Jakub Slemr's top tournament accomplishments?
 
 Slemr has two other Pro Tour Top 8's - at 1998 PT-LA and 1999 World Championships. He also came in 3rd at Grand Prix-Prague, his team "Trash A" came in third at team GP-Frankfurt and he finished sixth in Grand Prix-Vienna. 
 

@@ -149,7 +149,9 @@ render_recovery:
   - Swamp
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/ptosa02/a949.jpg)舞台は大阪。いよいよ日本二度目の Pro Tour が開催である。その記念すべき緒戦のFeature Match の一角を占めたのは、*「最後のアジア王者」*こと岡本尋。対するは古い読者なら「赤単」だけでピンと来るであろう男、そうPTLAを制した*「King of Beatdown」* David Price。
+![](http://www.wizards.com/sideboard/images/ptosa02/a949.jpg)
+
+舞台は大阪。いよいよ日本二度目の Pro Tour が開催である。その記念すべき緒戦のFeature Match の一角を占めたのは、*「最後のアジア王者」*こと岡本尋。対するは古い読者なら「赤単」だけでピンと来るであろう男、そうPTLAを制した*「King of Beatdown」* David Price。
 
 　奇しくもお互いのデッキは今回の Pro Tour で基本デッキの一つに含まれる黒単コントロール。さぁその妙技を味わおうか。
 

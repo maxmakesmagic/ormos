@@ -82,7 +82,9 @@ render_recovery:
   - Ichorid
   occurrences: 58
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a912.jpg)Round 12 found two mono black control decks of very different builds. On one side was popular Sideboard writer Brian Kibler, playing his often-copied version from Worlds. Kibler only changed a single card in the deck. He switched one Mind Sludge for a second Skeletal Scrying. Reitzl's deck was far more unorthodox. The Boston up-and-comer played a hybrid of mono black and Braids with main deck Faceless Butcher and Mesmeric Fiends. Reitzl has been branded with the nickname "Little Darwin" due to his ever present YMG t-shirt at tournaments.
+![](http://www.wizards.com/sideboard/images/gpcle02/a912.jpg)
+
+Round 12 found two mono black control decks of very different builds. On one side was popular Sideboard writer Brian Kibler, playing his often-copied version from Worlds. Kibler only changed a single card in the deck. He switched one Mind Sludge for a second Skeletal Scrying. Reitzl's deck was far more unorthodox. The Boston up-and-comer played a hybrid of mono black and Braids with main deck Faceless Butcher and Mesmeric Fiends. Reitzl has been branded with the nickname "Little Darwin" due to his ever present YMG t-shirt at tournaments.
 
 Kibler won the die roll and decided to keep a one land hand. Reitzl mulliganed and kept. Kibler failed to draw land for the rest of the game and even lost his one turn three when Reitzl played Rancid Earth. On to Game 2.
 

@@ -70,7 +70,9 @@ render_recovery:
   - mike@professional-events.com
   occurrences: 1
 ---
-![](http://www.wizards.com/global/images/grandprix_columbus04_facts_picMain_en.jpg)The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro TourTM events.
+![](http://www.wizards.com/global/images/grandprix_columbus04_facts_picMain_en.jpg)
+
+The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro TourTM events.
 
 Grand Prix—Columbus is presented by Professional Event Services.
 

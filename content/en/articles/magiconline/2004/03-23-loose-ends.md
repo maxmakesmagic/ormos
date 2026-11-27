@@ -79,7 +79,9 @@ With redemption being turned back on and the text change bug being fixed, that m
 
 Premier events were taken down last fall due to a bug that crashed the system. And, as we've seen recently, release leagues seem to cause the same problem. So, why not turn regular leagues back on?
 
-![](https://i.ormos.uk/46/bb/46bb0c418161114d0d68a37edeb5957cd83590a5152602b917475ec13535d370.jpg)As it turns out, the premier events and leagues share a common bug—one that kills the server. We haven't tracked the bug down, but we've seen evidence that it is a single bug. There's a table that both leagues and premier events write to and we've found the same corrupted data coming from both types of events. It's evidently the frequency of the data being written that exacerbates the bug.
+![](https://i.ormos.uk/46/bb/46bb0c418161114d0d68a37edeb5957cd83590a5152602b917475ec13535d370.jpg)
+
+As it turns out, the premier events and leagues share a common bug—one that kills the server. We haven't tracked the bug down, but we've seen evidence that it is a single bug. There's a table that both leagues and premier events write to and we've found the same corrupted data coming from both types of events. It's evidently the frequency of the data being written that exacerbates the bug.
 
 Therefore, when regular leagues are running, we don't see crashes *as often* as when we launch release leagues. However, the bug is still affecting the system and causing some stability issues. While we want leagues up and running again, server stability is always the priority. So, leagues are down as the dev team hunts down this bug.
 

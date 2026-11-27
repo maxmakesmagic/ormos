@@ -90,7 +90,9 @@ Erwin played a very fast suicide black deck, with a Mercenary Engine, and solid 
 
 Kai won the dice roll and elected to begin, and opened well with a turn 2 Bouncer, which Cetl answered with a Plague Witch. Cetl then hit 3 mana and started casting his array of Mercenaries, including Agent of Shauku, Cateran Brute and, for flying offense, a Belbe's Percher. Kai was using a Ghoul and a Chilling Apparition to soak up cards with the Plague Witch before he got his Wandering Eye, Greel combo on the table. He managed to withdraw and get use the Mind Raker to take a Rathi Assassin, and the Plague Witch.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/398.jpg)At this point it was announced that Philip Cetl had received a match loss for an illegal deck list, putting Germany 1 - 0 up. Wolfgang Eder had claimed game one in his match against Klauser, and the Summersberger - Konstanczer match was stalled with no winner obvious in game one.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/398.jpg)
+
+At this point it was announced that Philip Cetl had received a match loss for an illegal deck list, putting Germany 1 - 0 up. Wolfgang Eder had claimed game one in his match against Klauser, and the Summersberger - Konstanczer match was stalled with no winner obvious in game one.
 
 At this point in the Budde - Cetl match-up, both players were drawing cards off the top of their decks, looking for some way to win. In the end the land that Cetl was drawing, in conjunction with the Agent of Shauku and Bog Smugglers Cetl manages to deal the final damage.
 
@@ -100,7 +102,9 @@ Meanwhile in game 2 of the Eder - Klauser match-up, Eder had Avatar of Fury, Jew
 
 Summersberger - Konstanczer is still stalled in game 1, and both players are thinking hard before making each move.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/399.jpg)Budde - Cetl game 3, was a quick affair, with both players playing at pace. Cetl got an early searcher, and dug for his Agent of Shauku. He had answers for all of Kai's threats and just as it, looked as if Kai might regain control, Cetl top decked the Seal of Doom for Kai's Aerial Caravan, and flew over for the win with Molting Harpy.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/399.jpg)
+
+Budde - Cetl game 3, was a quick affair, with both players playing at pace. Cetl got an early searcher, and dug for his Agent of Shauku. He had answers for all of Kai's threats and just as it, looked as if Kai might regain control, Cetl top decked the Seal of Doom for Kai's Aerial Caravan, and flew over for the win with Molting Harpy.
 
 Cetl 2 - 1 Budde
 

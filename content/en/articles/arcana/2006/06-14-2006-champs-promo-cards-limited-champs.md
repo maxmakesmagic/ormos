@@ -61,7 +61,9 @@ archive_source:
   sha256: 622eef994cfb6daa9d3f6ac2e8c5dbba51c203ea1dc1d95c7bdc155e8afe229a
 render_recovery: []
 ---
-![](https://i.ormos.uk/c3/0a/c30a22f69949d166a96cce84a73dab6a2b8c90abb3bf6a19ba852f7bc7090bf9.jpg)Maybe you got your promo [Electrolyze and Niv-Mizzet](https://web.archive.org/web/20060614000000/https://magic.wizards.com/en/articles/archive/2006-champs-promo-cards-2006-02-16) at the 2006 Limited Two-Headed Giant Champs, or maybe you didn't. Maybe you're admiring your promo cards right now and wondering how you can get more, or maybe you're staring at your empty hands right now and blinking back a tear.
+![](https://i.ormos.uk/c3/0a/c30a22f69949d166a96cce84a73dab6a2b8c90abb3bf6a19ba852f7bc7090bf9.jpg)
+
+Maybe you got your promo [Electrolyze and Niv-Mizzet](https://web.archive.org/web/20060614000000/https://magic.wizards.com/en/articles/archive/2006-champs-promo-cards-2006-02-16) at the 2006 Limited Two-Headed Giant Champs, or maybe you didn't. Maybe you're admiring your promo cards right now and wondering how you can get more, or maybe you're staring at your empty hands right now and blinking back a tear.
 
 Either way, Champs are coming back this month, and this time around it's all *Ravnica* limited, all the time. Throw down in *Ravnica/Guildpact/Dissension* sealed deck and then test your draft skills and guild theories in the Top 8.
 

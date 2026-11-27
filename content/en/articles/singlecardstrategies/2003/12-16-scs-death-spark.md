@@ -483,7 +483,9 @@ So, on the face of it, Death Spark complements any weenie strategy quite nicely 
 
 Zombie Infestation leaps to mind. Making 2/2 creatures at instant speed for no mana and the simple cost of discarding two cards is obviously abusable in a deck full of recursion. And as you draw more recursive cards Zombie Infestation gets even more broken.
 
-![](https://i.ormos.uk/da/f9/daf969139cd1628cdaa67273df238b46ca7944f713640efda3815c6906593e16.jpg)Another black enchantment that I almost never hear about is Volrath's Dungeon. This could fit right into a Zombie Infestation deck as a way to severely disrupt your opponent, setting him back several draws and possibly five life as well.
+![](https://i.ormos.uk/da/f9/daf969139cd1628cdaa67273df238b46ca7944f713640efda3815c6906593e16.jpg)
+
+Another black enchantment that I almost never hear about is Volrath's Dungeon. This could fit right into a Zombie Infestation deck as a way to severely disrupt your opponent, setting him back several draws and possibly five life as well.
 
 Black offers up some neo-recursive creatures old-school style that work particularly well with Death Spark. Nether Shadow and Ashen Ghoul are relatively fragile creatures that are bound to die quite frequently, giving you plenty of opportunity for "payback" pokes with Death Spark, all the while waiting for three more creatures to die so they can come back.
 

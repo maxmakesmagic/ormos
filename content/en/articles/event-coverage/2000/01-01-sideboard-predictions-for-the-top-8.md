@@ -44,7 +44,9 @@ archive_source:
   sha256: 89cb1de60734dd34842ba0be3fe6a010373bcf6310e53051864bb8a5504f5ede
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/975.jpg)Five out of six Sideboard writers agree, this Pro Tour belongs to Mikey P.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/975.jpg)
+
+Five out of six Sideboard writers agree, this Pro Tour belongs to Mikey P.
 
 After the final draft, the Sideboard reporters debated the results of the draft (Note: these picks were based on the draft, not the actual decklists). For the most part, there was a lot of agreement among everyone about matchups, but there were a few hot points of contention.
 

@@ -56,7 +56,9 @@ render_recovery: []
 
 Pro Tour-Honolulu offered the perfect voting venue for the 2006 Players' Pick. With 410 players in attendance -- the largest individual Pro Tour ever -- a wide range of opinions was sure to be present.
 
-![](https://i.ormos.uk/3f/90/3f90e4b683542e2a734338ef9d2a17258232f4b01f041e19c5dabd78c6269b47.jpg)And what were those opinions needed for? Why, to answer the burning question "*Who would you most want to work with to prepare for a Pro Tour?"*
+![](https://i.ormos.uk/3f/90/3f90e4b683542e2a734338ef9d2a17258232f4b01f041e19c5dabd78c6269b47.jpg)
+
+And what were those opinions needed for? Why, to answer the burning question "*Who would you most want to work with to prepare for a Pro Tour?"*
 
 Bested previously in the Resident Genius, Road Warrior and APAC ballots, Tsuyoshi Fujita's ticket back to the Invitational was finally punched by his fellow teammates. Subesuent pass-downs moved Fujita into the APAC spot, so the Players' Vote invitation passes down to Antonino De Rosa.
 

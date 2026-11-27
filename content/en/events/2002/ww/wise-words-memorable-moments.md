@@ -244,7 +244,9 @@ Justice was playing Necro just like everyone else, but evidently doing so better
 
 ### LA Riots
 
-![](http://www.wizards.com/sideboard/images/PTTOK01/833.jpg)Before the final of the second PT-LA, Mark Rosewater held one of the funnier interviews of all time, asking Tommi Hovi a number of lengthy and detailed questions to which he repeatedly received one word answers. This was being viewed by virtually the entire Pro Tour on a very large screen at the site and by the end, the crowd was in hysterics, with Rosewater begging to be pulled off the floor. Then the mood changed.
+![](http://www.wizards.com/sideboard/images/PTTOK01/833.jpg)
+
+Before the final of the second PT-LA, Mark Rosewater held one of the funnier interviews of all time, asking Tommi Hovi a number of lengthy and detailed questions to which he repeatedly received one word answers. This was being viewed by virtually the entire Pro Tour on a very large screen at the site and by the end, the crowd was in hysterics, with Rosewater begging to be pulled off the floor. Then the mood changed.
 
 Facing American David Mills, Hovi could only watch as his finals opponent got disqualified from the tournament for receiving his third warning of the tournament for casting spells then tapping lands, illegal at the time. Mills disqualification shocked the mostly American crowd which, led by Mark Justice and Mills’s teammate Mike Long, ran amok, with yells of protest and light physical abuse to the premises. Mills’s penalty was eventually downgraded to match loss, allowing him to keep his second place prize, but the final, the only one in PT history to go uncompleted, was awarded to Hovi, who would eventually go on to become the first player to win two Pro Tour finals. Mills would become the first to lose two.
 
@@ -266,7 +268,9 @@ In the Quarterfinals, facing off with Darwin Kastle, Budde, facing death in two 
 
 With the first four games split between the two Europeans, Kai cast a main-phase Intuition for three Accumulated Knowledges to take advantage of Tomi’s tapping out, meaning the Finn could cast Call of the Herd. The token started attacking for three a turn as Kai drew three cards, then four, but kept on drawing land after land. He was able to hold Tomi’s other spells in check, but the pesky elephant, joined by a flashed back partner, was able to get Kai down to four. At the end of Tomi’s turn, Kai cast Stroke of Genius for three more cards, again, no solutions and untapped. 
 
-![](https://i.ormos.uk/40/b3/40b3cca43c57dd01cef837a9cc894192b2f689c19cc87f29db4bcd19292d570c.jpg)Kai drew Morphling. With six lands and Sapphire Medallion, he was able to play it and block one of the two rushing elephants, leaving himself at one life. Morphling attacked, then attacked again, then after Tomi Fact or Fictioned, Kai, countered the Finn’s own Morphling. Two attacks later, Tomi was at a loss for life and had no alternative but to extend the hand.
+![](https://i.ormos.uk/40/b3/40b3cca43c57dd01cef837a9cc894192b2f689c19cc87f29db4bcd19292d570c.jpg)
+
+Kai drew Morphling. With six lands and Sapphire Medallion, he was able to play it and block one of the two rushing elephants, leaving himself at one life. Morphling attacked, then attacked again, then after Tomi Fact or Fictioned, Kai, countered the Finn’s own Morphling. Two attacks later, Tomi was at a loss for life and had no alternative but to extend the hand.
 
 Those are my favorites. If you think I missed one, post it in the forums, that should make for some interesting reading and if I think it bears mentioning, maybe I’ll post it in next week’s Wise Words, which I’ll be writing from Pittsburgh, though only as a one week, pre-PT visitor.
 

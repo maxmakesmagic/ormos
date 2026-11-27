@@ -38,7 +38,9 @@ archive_source:
 render_recovery:
 - code: broad_content_selector
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/protour/images/qt_lg.jpg)Based on the tremendous response from posting Top 8 decklists from the [2004 Magic State/Province/Territory/Island Champs](https://web.archive.org/web/20211202065700/https://magic.wizards.com/en/events/coverage/2004-champs-decklists) events, we'll be doing the same with the Top 8 decklists from the current Pro Tour Qualifier season. The format is Extended, so you'll be sure to see a wide range of decks breaking through to victory.
+![](https://media.magic.wizards.com/image_legacy_migration/protour/images/qt_lg.jpg)
+
+Based on the tremendous response from posting Top 8 decklists from the [2004 Magic State/Province/Territory/Island Champs](https://web.archive.org/web/20211202065700/https://magic.wizards.com/en/events/coverage/2004-champs-decklists) events, we'll be doing the same with the Top 8 decklists from the current Pro Tour Qualifier season. The format is Extended, so you'll be sure to see a wide range of decks breaking through to victory.
 
 Decklists will be updated every Wednesday during the PTQ season. To find a PTQ near you, [click here](https://web.archive.org/web/20220120181510/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=protour/philadelphia05/qualifiers).
 

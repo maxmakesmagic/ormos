@@ -87,7 +87,9 @@ render_recovery:
   - Commando Raid
   occurrences: 43
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a927.jpg)Rookie of the Year Leader Masashi Ooiso of Japan is in good shape to put even more distance between him and his rivals. His blue-red deck has given him a 3-0 start to the day. Now he faces none other than The Man himself, Kai Budde. Though he'd describe his green-black deck as "awful" the German Juggernaut has steered it to a 2-1 record. A win here would give him a big leg up to Day 2 and a potential Top 8.
+![](http://www.wizards.com/sideboard/images/ptyok03/a927.jpg)
+
+Rookie of the Year Leader Masashi Ooiso of Japan is in good shape to put even more distance between him and his rivals. His blue-red deck has given him a 3-0 start to the day. Now he faces none other than The Man himself, Kai Budde. Though he'd describe his green-black deck as "awful" the German Juggernaut has steered it to a 2-1 record. A win here would give him a big leg up to Day 2 and a potential Top 8.
 
 ### Game 1
 
@@ -105,7 +107,9 @@ Ooiso 1 – Budde 0
 
 Ooiso had a second-turn Sparksmith again in the second game, and Budde was not thrilled. He held back on three mana, and answered Ooiso's morph with one of his own. Ooiso showed him Flamestick Courier and tried to gun the morph down. Budde was ready with Vitality Charm. Ooiso swung in and Budde was happy to trade.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a926.jpg)He played another morph, quickly shot down by Ooiso who added a Magma Sliver to his board. Needleshot Gourna gave him pause. He swung in with just the Sliver and Budde declined the block. Synapse Sliver joined his party. Things were getting desperate for the German. He made no play and gave it back.
+![](http://www.wizards.com/sideboard/images/ptyok03/a926.jpg)
+
+He played another morph, quickly shot down by Ooiso who added a Magma Sliver to his board. Needleshot Gourna gave him pause. He swung in with just the Sliver and Budde declined the block. Synapse Sliver joined his party. Things were getting desperate for the German. He made no play and gave it back.
 
 Ooiso made a Mistform Wall and sent the Sliver again. He tried to punch through by turning his Wall into a Sliver and boosting the Magma's power with the Synapse, but Budde had Primal Boost for the save. Again Budde had nothing on his turn. Ooiso tried again, losing the Synapse and shooting for three with the 'Smith, but Budde had Tribal Unity. Glintwing Invoker gave him another 3/3 to smash into the Gourna.
 
@@ -123,7 +127,9 @@ Ooiso 1 – Budde 1
 
 Ooiso opened the deciding game with Goblin Taskmaster. Budde showed it the door with Vitality Charm on the next attack, and when no Sparksmith followed he breathed a sigh of relief. As did Buehler, who was ready to flee the Feature Match area if it showed. They paired off morphs, but the Ooiso spent his fourth turn flipping Mistform Seaswift and serving for three. Budde hit back for two and made a Wirewood Savage.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a928.jpg)Ooiso played his fifth land and considered his options. He chose to hit for three and drop Glintwing Invoker. Budde sent both his creatures. Oosio blocked the morph. Budde let it die, then tapped five to bring out Noxious Ghoul, wiping Ooiso's side of the board. Ooiso could only smile and nod.
+![](http://www.wizards.com/sideboard/images/ptyok03/a928.jpg)
+
+Ooiso played his fifth land and considered his options. He chose to hit for three and drop Glintwing Invoker. Budde sent both his creatures. Oosio blocked the morph. Budde let it die, then tapped five to bring out Noxious Ghoul, wiping Ooiso's side of the board. Ooiso could only smile and nod.
 
 He rallied with Goblin Grappler and Mistform Wall. Budde cycled Dirge of Dread and Barren Moor, then hit for three and added Gempalm Strider. The Grappler served and provoked the Ghoul, signaling the Lavamancer's Skill that would soon enchant the Wall. He followed up with a morph. Budde dropped his seventh land and swung in with both creatures. Ooiso declined the block, and Budde dropped a twelve-point elbow thanks to Tribal Unity. It left Ooiso at one.
 

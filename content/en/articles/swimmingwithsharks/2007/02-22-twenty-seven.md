@@ -87,7 +87,9 @@ render_recovery:
   - Decklist
   occurrences: 5
 ---
-[![](https://i.ormos.uk/b0/60/b060b41bae07f1e07e6f3aa3383d256fc61a281a2937365ff47085939b0735f7.jpg)](https://web.archive.org/web/20070222000000/https://magic.wizards.com/en/events/coverage/pro-tour%E2%80%93yokohama-qualifying-season-top-8-decklists)T*wenty-Seven? Really? Why?* Twenty-Seven is 10 + 17, and we're going over two weeks of PTQ Top 8s. Lame, I know. Blame Bluff Week.
+[![](https://i.ormos.uk/b0/60/b060b41bae07f1e07e6f3aa3383d256fc61a281a2937365ff47085939b0735f7.jpg)](https://web.archive.org/web/20070222000000/https://magic.wizards.com/en/events/coverage/pro-tour%E2%80%93yokohama-qualifying-season-top-8-decklists)
+
+T*wenty-Seven? Really? Why?* Twenty-Seven is 10 + 17, and we're going over two weeks of PTQ Top 8s. Lame, I know. Blame Bluff Week.
 
  
 

@@ -113,7 +113,9 @@ This column was my official first “Making **Magic**” column. In it, I introd
 
 ### Week #3 (Monday January 14, 2002) – “[Make It Black](/en/articles/makingmagic/2002/01-14-make-it-black)” (\*\*\*)
 
-![](https://i.ormos.uk/de/08/de080b36c572007cd29fcb7b5df44182c391be009021ffe278c7e15511b1b604.jpg)In this column, I explain how R&D ended up deciding to make *Torment* a heavy black set. Two little trivia notes: first, this is my first column with a dialogue, a common Rosewater signature writing quirk (although this one is written out in prose, I hadn’t gotten to the script like format yet) and two, in this column I introduce “You Make the Card” which officially premiered two days after this column.
+![](https://i.ormos.uk/de/08/de080b36c572007cd29fcb7b5df44182c391be009021ffe278c7e15511b1b604.jpg)
+
+In this column, I explain how R&D ended up deciding to make *Torment* a heavy black set. Two little trivia notes: first, this is my first column with a dialogue, a common Rosewater signature writing quirk (although this one is written out in prose, I hadn’t gotten to the script like format yet) and two, in this column I introduce “You Make the Card” which officially premiered two days after this column.
 
 ### Week #4 (January 21, 2002) – “[Finding a Good Mechanic](/en/articles/makingmagic/2002/01-21-finding-a-good-mechanic)” (\*\*\*)
 
@@ -162,7 +164,9 @@ This column was a response to the backlash of the previous week’s column. In i
 
 ### Week #14 (April 1, 2002) – “[Tweak In Review](/en/articles/makingmagic/2002/04-01-tweak-in-review)” (\*\*)
 
-![](https://i.ormos.uk/11/1e/111ef560c356e8e74863526fa4e58965efddf933291cc719b79406a91a6fb924.jpg)My column started with a fake [April Fools column](/en/articles/makingmagic/2002/04-01-all-in-one-basket). But it wasn’t Egg Week, it was Land Destruction Week, so I talked about how designers tweak basic effects (like land destruction). The article is a little on the dry side but it does demonstrate the many different tricks the designers use to keep bringing back the basic game effects that need to show up in most sets.
+![](https://i.ormos.uk/11/1e/111ef560c356e8e74863526fa4e58965efddf933291cc719b79406a91a6fb924.jpg)
+
+My column started with a fake [April Fools column](/en/articles/makingmagic/2002/04-01-all-in-one-basket). But it wasn’t Egg Week, it was Land Destruction Week, so I talked about how designers tweak basic effects (like land destruction). The article is a little on the dry side but it does demonstrate the many different tricks the designers use to keep bringing back the basic game effects that need to show up in most sets.
 
 ### Week #15 (April 8, 2002) – “[With Trends Like These](/en/articles/makingmagic/2002/04-08-with-trends-like-these)” (\*)
 
@@ -340,7 +344,9 @@ This was the second week of *Legions* previews so I talked about how I designed 
 
 ### Week #56 (January 20, 2003) – “[Lions and Tigers and Bears](/en/articles/makingmagic/2003/01-20-lions-and-tigers-and-bears)” (\*\*\*\*)
 
-![](https://i.ormos.uk/49/f8/49f8d43073d7ff7729b4ff66294e16d7aa868f3b6b1668ba0f6d941f34ffc770.jpg)In this column I answer the following: Why R&D uses themes in set design? Why does R&D use super-themes? (And what are super-themes?) and Why is *Legions* all creatures? If you’re interested in where **Magic** is heading long-term, this is a must-read.
+![](https://i.ormos.uk/49/f8/49f8d43073d7ff7729b4ff66294e16d7aa868f3b6b1668ba0f6d941f34ffc770.jpg)
+
+In this column I answer the following: Why R&D uses themes in set design? Why does R&D use super-themes? (And what are super-themes?) and Why is *Legions* all creatures? If you’re interested in where **Magic** is heading long-term, this is a must-read.
 
 ### Week #57 (January 27, 2003) – “[Frames of Reference](/en/articles/makingmagic/2003/01-27-frames-of-reference)” (\*\*\*\*\*)
 
@@ -366,7 +372,9 @@ I used this column to discuss a topic near and dear to my heart, flavor. I talk 
 
 ### Week #62 (March 3, 2003) – “[I cc: Dead People](/en/articles/makingmagic/2003/03-03-i-cc-dead-people)” (\*\*\*\*)
 
-![](https://i.ormos.uk/ee/23/ee2340483815d21fa600fb13adb230e4f4d9efd900fb37a5eacb4b7c966a93af.jpg)This is by far my favorite column title. I liked it so much in fact that it inspired me to write this column. You see, it was Zombie Week and I wanted to come up with an interesting way to talk about the evolution of zombies as a creature type. So I decided to create a fictional character, Ga’Aark, the union representitive of the zombies. This column is a collection of letters Ga’Aark sent me (and Richard before me) giving his opinions on how each expansion treated zombies. This column got a great response and showed me that there is a significant readership that likes offbeat writing techniques. Others hated this article with a passion so I don’t so this kind of thing every week.
+![](https://i.ormos.uk/ee/23/ee2340483815d21fa600fb13adb230e4f4d9efd900fb37a5eacb4b7c966a93af.jpg)
+
+This is by far my favorite column title. I liked it so much in fact that it inspired me to write this column. You see, it was Zombie Week and I wanted to come up with an interesting way to talk about the evolution of zombies as a creature type. So I decided to create a fictional character, Ga’Aark, the union representitive of the zombies. This column is a collection of letters Ga’Aark sent me (and Richard before me) giving his opinions on how each expansion treated zombies. This column got a great response and showed me that there is a significant readership that likes offbeat writing techniques. Others hated this article with a passion so I don’t so this kind of thing every week.
 
 ### Week #63 (March 10, 2003) – “[Inquiring Minds Want To Know, Part 1](/en/articles/makingmagic/2003/03-10-inquiring-minds-want-to-know-part-1)” (\*\*\*\*)
 
@@ -446,7 +454,9 @@ Continuing with our Eighth Edition previews, I talked about what kind of cards w
 
 ### Week #82 (July 21, 2003) – “[Small Change](/en/articles/makingmagic/2003/07-21-small-change)” (\*\*)
 
-![](https://i.ormos.uk/81/e4/81e47ef535a7bb72f955679706102854123b94d040a887a11b8a2a96f97a9400.jpg)During the third week of *Eighth Edition* previews, I talked about how *Eighth Edition’s* card mix reflected some of the recent changes R&D has made in the color pie. This article created a little controversy from some players who didn’t like R&D’s meddling with the color pie or disliked the entire idea of a color pie altogether.
+![](https://i.ormos.uk/81/e4/81e47ef535a7bb72f955679706102854123b94d040a887a11b8a2a96f97a9400.jpg)
+
+During the third week of *Eighth Edition* previews, I talked about how *Eighth Edition’s* card mix reflected some of the recent changes R&D has made in the color pie. This article created a little controversy from some players who didn’t like R&D’s meddling with the color pie or disliked the entire idea of a color pie altogether.
 
 ### Week #83 (July 28, 2003) – “[Magic Moments](/en/articles/makingmagic/2003/07-28-magic-moments)” (\*\*\*)
 

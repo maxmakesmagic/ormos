@@ -272,7 +272,9 @@ render_recovery:
   - Thought Nibbler
   occurrences: 325
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a871.jpg)Norway and France are two of the top Magic-playing countries in Europe, and many of the teams from those countries are having success here in Boston. Two of those teams – Plan 9 from Outland and Magic Mushrooms – are facing off here in Round 8.
+![](http://www.wizards.com/sideboard/images/ptbos02/a871.jpg)
+
+Norway and France are two of the top Magic-playing countries in Europe, and many of the teams from those countries are having success here in Boston. Two of those teams – Plan 9 from Outland and Magic Mushrooms – are facing off here in Round 8.
 
 Plan 9 is Sigurd Eskeland, Oyvind Odegaard, and Endre Skjetne. Eskeland and Odegaard have played together in this event for three years, but this is the first time they've made Day 2.
 
@@ -300,7 +302,9 @@ Levy continued to take red cards like Temporary Insanity, and he opened a Mutila
 
 *Judgment* began with Levy opening a pack containing Phantom Centaur and Anurid Brushhopper. Haim took the Centaur, and Outland wasn't sure what to do with the 'Hopper. Eventually Odegaard settled on it, and planned to play at least 3 colors.
 
-![](http://www.wizards.com/sideboard/images/ptbos02/a872.jpg)Eskeland's deck came together well in *Judgment* with two Wormfang Crabs, two Vigilant Sentries, a Chastise, and a Battlewise Aven. He must have forgotten about the Overrun in Haim's deck, however, as he never took an Envelop. He never opened a Prismatic Strands, either, which would have helped greatly. Also, he took the Battlewise Aven over a Shieldmage Advocate, which he later said was a mistake.
+![](http://www.wizards.com/sideboard/images/ptbos02/a872.jpg)
+
+Eskeland's deck came together well in *Judgment* with two Wormfang Crabs, two Vigilant Sentries, a Chastise, and a Battlewise Aven. He must have forgotten about the Overrun in Haim's deck, however, as he never took an Envelop. He never opened a Prismatic Strands, either, which would have helped greatly. Also, he took the Battlewise Aven over a Shieldmage Advocate, which he later said was a mistake.
 
 Skjetne didn't get much for his black/red deck, just an Arcane Teachings, and Ember Shot, and some 2/2's. Odegaard picked up a few more good creatures and two Sudden Strengths, plus a Krosan Verge and Riftstone Portal to help him cast the Brushhopper.
 

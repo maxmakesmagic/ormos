@@ -80,7 +80,9 @@ render_recovery:
   - Parallax Wave
   occurrences: 30
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a898.jpg)Hans-Joachim Höh is a German player with a previous best of a 32nd finish at GP Antwerp. He's also been on the tour a couple of times without much success. Rob McKeon is an experienced Irish player who's played on the tour a lot but without finding much success. With 31 pts each both are just two wins away from the top 8.
+![](http://www.wizards.com/sideboard/images/gprei02/a898.jpg)
+
+Hans-Joachim Höh is a German player with a previous best of a 32nd finish at GP Antwerp. He's also been on the tour a couple of times without much success. Rob McKeon is an experienced Irish player who's played on the tour a lot but without finding much success. With 31 pts each both are just two wins away from the top 8.
 
 Höh is running Rebels while McKeon is playing the Aluren combo deck.
 
@@ -92,7 +94,9 @@ McKeon cast Living Wish for a City of Brass then tried to cast Cabal Therapy, fo
 
 "Maybe I should have looked at the new set" – McKeon.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a900.jpg)A bit fazed McKeon cast Cloud of Fairies to try and soak up the extra mana but tapped too many and mana-burned anyway.
+![](http://www.wizards.com/sideboard/images/gprei02/a900.jpg)
+
+A bit fazed McKeon cast Cloud of Fairies to try and soak up the extra mana but tapped too many and mana-burned anyway.
 
 Höh forced him into a situation where he needed to go off or die. McKeon Intuitioned for Aluren but he needed to draw a forest because he was only down to 1 life.
 
@@ -104,7 +108,9 @@ McKeon went first and had to mulligan. He managed a quick turn 1 Birds of Paradi
 
 Höh opened with a Ramosian Sergeant and then a Seal of Cleansing to make things awkward for the Irishman. A Whipcorder was added to the assault.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a899.jpg)McKeon Intuitioned end of turn, fetching a Cavern Harpy. He then complicated things for the German by casting a Pernicious Deed.
+![](http://www.wizards.com/sideboard/images/gprei02/a899.jpg)
+
+McKeon Intuitioned end of turn, fetching a Cavern Harpy. He then complicated things for the German by casting a Pernicious Deed.
 
 Höh Brainstormed in his turn and shuffled the unwanted cards back into the deck with a Flooded Strand. He didn't find anything useful, tapping out to make Divine Sacrament.
 

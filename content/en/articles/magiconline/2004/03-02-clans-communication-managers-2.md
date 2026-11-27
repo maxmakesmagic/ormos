@@ -89,7 +89,9 @@ So, we need to remove the excess of clans—both one big initial sweep and on an
 
 What do we consider a dead clan? The definition we came up with last week is any clan with less than two members. Basically, if a clan has one member (or zero, in some cases) it's not an active clan.
 
-![](https://i.ormos.uk/b8/86/b88660128ccae0614de69b1b967a0033a0a7501a7327dbcc9fcb33fac16e9575.jpg)So, during the downtime on Thursday, March 4, we'll be cleaning house in the **Clans** room. Every clan with fewer than two members when we take the servers down will be deleted from the system. How many clans will this remove from ***Magic** Online*? As of last week, approximately 4200 clans had one or zero members.
+![](https://i.ormos.uk/b8/86/b88660128ccae0614de69b1b967a0033a0a7501a7327dbcc9fcb33fac16e9575.jpg)
+
+So, during the downtime on Thursday, March 4, we'll be cleaning house in the **Clans** room. Every clan with fewer than two members when we take the servers down will be deleted from the system. How many clans will this remove from ***Magic** Online*? As of last week, approximately 4200 clans had one or zero members.
 
 Like I said, we've been thinking about this issue off-and-on for some time.
 
@@ -125,7 +127,9 @@ However, when it comes to what's being worked on, we need to have official chann
 
 Which leads to probably the biggest change you're going to be seeing—and, to a certain extent, have already seen. You aren't going to find many posts on the Message Boards from the crew here at Wizards. I know some of you will see this as less communication instead of more. Less or not, it's better that we don't have team members addressing threads directly.
 
-![](https://i.ormos.uk/f6/34/f634676062c22e8d6c7760814223fc6be23525de57513cc1fe6aeb3bc5ad8c00.jpg)We've had to learn some hard lessons about what messages can get out to players if we just let team members talk. We've had occasions when a theoretical discussion about an interesting idea gets turned into a public declaration that a feature is coming soon. Then, if we don't come through with it, the community sees it as yet another broken promise.
+![](https://i.ormos.uk/f6/34/f634676062c22e8d6c7760814223fc6be23525de57513cc1fe6aeb3bc5ad8c00.jpg)
+
+We've had to learn some hard lessons about what messages can get out to players if we just let team members talk. We've had occasions when a theoretical discussion about an interesting idea gets turned into a public declaration that a feature is coming soon. Then, if we don't come through with it, the community sees it as yet another broken promise.
 
 Another reason we don't want team members responding directly to threads is that some players might not find answers they're looking for. Just last week we had a crash thread that a team member responded to. While some players who were reading the thread got information about the crash, other players were left in the dark. In general, it's better to keep that information to the Announcements folder so you all know exactly where you'll find the information you're looking for.
 

@@ -113,7 +113,9 @@ render_recovery:
 
 土地が 4 枚の状態で打たれたため《精神ヘドロ》と《占骨術/Skeletal Scrying》の 2 択でしばし悩むが後者を選択し、無事に土地を入手し未来へつなげることに成功した。
 
-![](https://i.ormos.uk/b8/f1/b8f1e12b1056ea25a8d9e916d2943ac4001a4dd500aacd796e7af3c8cccad3a4.jpg)その後は両者共《腐臭の地/Rancid Earth》や出てくるクリーチャーを除去し合う展開となり、先に動けたのは石田だった。《汚れた契約/Tainted Pact》から《精神ヘドロ》を持ってきて Dougherty の手札を空にしたのだ。これで決まるかと思われたが、ここで Dougherty の引きが冴える。
+![](https://i.ormos.uk/b8/f1/b8f1e12b1056ea25a8d9e916d2943ac4001a4dd500aacd796e7af3c8cccad3a4.jpg)
+
+その後は両者共《腐臭の地/Rancid Earth》や出てくるクリーチャーを除去し合う展開となり、先に動けたのは石田だった。《汚れた契約/Tainted Pact》から《精神ヘドロ》を持ってきて Dougherty の手札を空にしたのだ。これで決まるかと思われたが、ここで Dougherty の引きが冴える。
 
 Draw 《消えないこだま/Haunting Echoes》 ! 
 

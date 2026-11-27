@@ -44,7 +44,9 @@ archive_source:
   sha256: d51becc52c435f3143f5ac8d417cd02939669fa404230efc32bc86850fa5b24c
 render_recovery: []
 ---
-![](https://i.ormos.uk/25/66/256656003b83b8b41dec14a31ffee0a4322d0c35c533c6a60566a3480abe5580.jpg)En semi final le joueur québécois David Rood jouera contre un Torontois Jingpeng Zhang dans un concours de Affinity contre UWr [March of the Machines](https://web.archive.org/web/20040704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=March+of+the+Machines). Ces deux joueurs on réussi des fiches de 6-0 en limité et se sont qualifiés par leurs classements.
+![](https://i.ormos.uk/25/66/256656003b83b8b41dec14a31ffee0a4322d0c35c533c6a60566a3480abe5580.jpg)
+
+En semi final le joueur québécois David Rood jouera contre un Torontois Jingpeng Zhang dans un concours de Affinity contre UWr [March of the Machines](https://web.archive.org/web/20040704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=March+of+the+Machines). Ces deux joueurs on réussi des fiches de 6-0 en limité et se sont qualifiés par leurs classements.
 
 ### Première Partie
 

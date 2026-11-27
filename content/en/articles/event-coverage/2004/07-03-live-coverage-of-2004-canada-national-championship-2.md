@@ -44,7 +44,9 @@ archive_source:
   sha256: eb2ff7d842976dcfcbe01997804d609587b6375e23a55154c4f1a8508ef17426
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm8_1.jpg)This round saw Newfoundland's Rahul Chandra square off against Ontario PTQ regular Jingpeng Zhang. Chandra's weekend has been exceeding expectations: He ground in on Thursday and then managed a 5-1 Day 1. Zhang was no slouch either, with 4-1-1. Both won their first round today.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/fm8_1.jpg)
+
+This round saw Newfoundland's Rahul Chandra square off against Ontario PTQ regular Jingpeng Zhang. Chandra's weekend has been exceeding expectations: He ground in on Thursday and then managed a 5-1 Day 1. Zhang was no slouch either, with 4-1-1. Both won their first round today.
 
 Chandra led with [Viridian Longbow](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Longbow) after Zhang showed him [Wayfarer's Bauble](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wayfarer%27s+Bauble). That let him accelerate into a third-turn [Rustspore Ram](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rustspore+Ram) on the Longbow. Chandra, meanwhile, wasn't going anywhere, as his deck had decided that two mountains were all that he needed. He watched as Zhang spilled [Spikeshot Goblin](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin) and [Pteron Ghost](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pteron+Ghost) onto the board. Then came Ingot and [Auriok Glaivemaster](https://web.archive.org/web/20040703000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Auriok+Glaivemaster), increasing the anemic beats.
 

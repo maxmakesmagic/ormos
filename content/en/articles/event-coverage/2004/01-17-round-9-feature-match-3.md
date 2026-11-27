@@ -44,7 +44,9 @@ archive_source:
   sha256: 45d01c7a8b96a460d6f6673446f936753fe83900067e6eaee1c36b1d43ab0d9a
 render_recovery: []
 ---
-![](https://i.ormos.uk/02/5c/025c8e9c6177232c87f576a07ab6baa6a609563582e6a4fbeabd5a2cdda6c983.jpg)While shuffling up for their match, Anton Jonsson (currently 9-0) and former Clown Prince of Magic Osyp Lebedowicz shared a story about how Kamiel Cornelissen took a card from Nicolai Herzog during the draft.
+![](https://i.ormos.uk/02/5c/025c8e9c6177232c87f576a07ab6baa6a609563582e6a4fbeabd5a2cdda6c983.jpg)
+
+While shuffling up for their match, Anton Jonsson (currently 9-0) and former Clown Prince of Magic Osyp Lebedowicz shared a story about how Kamiel Cornelissen took a card from Nicolai Herzog during the draft.
 
 "Herzog got this look and just slammed down an [Awe Strike](https://web.archive.org/web/20040117000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Awe+Strike) and stared at Kamiel. Kamiel had this look on his face like he was five and had just stolen cookies from the cookie jar." - Osyp Lebedowicz
 

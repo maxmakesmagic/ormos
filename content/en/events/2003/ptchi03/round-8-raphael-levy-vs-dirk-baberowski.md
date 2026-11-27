@@ -121,7 +121,9 @@ render_recovery:
   - Screaming Seahawk
   occurrences: 104
 ---
-![](https://i.ormos.uk/62/0b/620bb6b975db599b544ea90d23901d928f04b80576618076ecbec8d579b0eb55.jpg)Neither player was particularly happy about the way their decks had turned out in the draft.
+![](https://i.ormos.uk/62/0b/620bb6b975db599b544ea90d23901d928f04b80576618076ecbec8d579b0eb55.jpg)
+
+Neither player was particularly happy about the way their decks had turned out in the draft.
 
 Dirk: "My deck is interesting and not too great – his is just bad." Saying this the German showed me his deck – a pile of Elves and a couple of black cards.
 
@@ -141,7 +143,9 @@ Raphael 1-0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a825.jpg)Once again Dirk began with some great cards in the match-up: 2 Wellwishers, a turn 4 Undorak and a Gluttonous Zombie. Raphael did his best to deal with this with a Wirewood Savage, Barkhide Mauler and an Essence Fracture, to stop the beats, but the Wellwishers were just too hard to race as the Gluttonous Zombie kept swinging over for three unopposed. The ground was being held easily by 2 Snarling Undoraks on the German's side, so by as soon as turn 8 Levy swept – knowing that winning a third game in time might have been an issue against a deck with 4 Wellwishers.
+![](http://www.wizards.com/sideboard/images/ptchi03/a825.jpg)
+
+Once again Dirk began with some great cards in the match-up: 2 Wellwishers, a turn 4 Undorak and a Gluttonous Zombie. Raphael did his best to deal with this with a Wirewood Savage, Barkhide Mauler and an Essence Fracture, to stop the beats, but the Wellwishers were just too hard to race as the Gluttonous Zombie kept swinging over for three unopposed. The ground was being held easily by 2 Snarling Undoraks on the German's side, so by as soon as turn 8 Levy swept – knowing that winning a third game in time might have been an issue against a deck with 4 Wellwishers.
 
 Dirk 1 Raphael 1
 
@@ -151,7 +155,9 @@ Dirk: "I am kinda happy I got that Zombie. It gave me a chance to win. You gonna
 
 For the third time running Baberowski had a pretty insane start: Turn 2 Wellwisher; Turn 3 Wirewood Savage; Turn 4 Snarling Undorak; Turn 5 Snarling Undorak. Meanwhile Raph managed a Mistform Dreamer, 2 Morph Creatures and an Information Dealer, but not the Lavamancer's Skill he was hoping for, despite having the mountain.
 
-![](https://i.ormos.uk/5f/bb/5fbb79bb25d95913c44fccf2b4a5636c51961d5464995145c9d52ea6337f707d.jpg)Once of the Morph creatures turned out to be a Spitting Gourna and managed to trade with a Snarling Undorak through double blocking. This still left the second Undorak on the table, so Levy knew he was on a tough clock and needed to find that Skill quickly. The Information Dealer starting searching away – and actually started to prove quite useful when Raph made a Bloodline Shaman (which is a combo). Flipping unwanted lands over by naming 'ape' the Frenchman finally managed to find the Skill and started to rip a whirlwind through the Elves on the board, but two Dredgings from the German was just too much for one creature-enchantment to handle.
+![](https://i.ormos.uk/5f/bb/5fbb79bb25d95913c44fccf2b4a5636c51961d5464995145c9d52ea6337f707d.jpg)
+
+Once of the Morph creatures turned out to be a Spitting Gourna and managed to trade with a Snarling Undorak through double blocking. This still left the second Undorak on the table, so Levy knew he was on a tough clock and needed to find that Skill quickly. The Information Dealer starting searching away – and actually started to prove quite useful when Raph made a Bloodline Shaman (which is a combo). Flipping unwanted lands over by naming 'ape' the Frenchman finally managed to find the Skill and started to rip a whirlwind through the Elves on the board, but two Dredgings from the German was just too much for one creature-enchantment to handle.
 
 Finally being forced to block with his 'illusioned' Mistform Dreamer as 2 Undoraks and 2 Wellwishers launched into the red-zone Levy knew he could not win.
 

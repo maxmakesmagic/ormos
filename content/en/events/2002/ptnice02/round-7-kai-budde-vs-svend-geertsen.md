@@ -141,7 +141,9 @@ render_recovery:
   - Tremble
   occurrences: 104
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a872.jpg)Kai Budde claims it's a lock now. Anytime he's ended day 1 at 6-1 or better, he's won the Pro Tour. He's guaranteed 6-1 at least, considering he's 6-0 coming in to this round.
+![](http://www.wizards.com/sideboard/images/ptnice02/a872.jpg)
+
+Kai Budde claims it's a lock now. Anytime he's ended day 1 at 6-1 or better, he's won the Pro Tour. He's guaranteed 6-1 at least, considering he's 6-0 coming in to this round.
 
 Svend Geertsen would at least like to play it out. A veteran of three Top 8's, the Dane thinks he has what it takes to dethrone the current king of Magic. Starting out 7-0 would be a good start.
 

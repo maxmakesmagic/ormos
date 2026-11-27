@@ -48,7 +48,9 @@ In the semifinals, David Brucker from Germany faced Victor van den Broek from th
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a790.jpg)Van den Broek won the coin flip and chose to play first. He drew his seven cards, looked at them, and decided to take a mulligan. After drawing six, he chose to keep, and then it was Brucker's turn to mulligan—he had drawn a rather weak hand with five lands. Brucker then drew a one-land hand, but he decided to keep it anyway.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a790.jpg)
+
+Van den Broek won the coin flip and chose to play first. He drew his seven cards, looked at them, and decided to take a mulligan. After drawing six, he chose to keep, and then it was Brucker's turn to mulligan—he had drawn a rather weak hand with five lands. Brucker then drew a one-land hand, but he decided to keep it anyway.
 
 Victor played a turn one Karplusan Forest, Basking Rootwalla, and started hitting. Brucker drew a second land, and played it. He chose to Counterspell a Grim Lavamancer, and then he drew a Chainer's Edict that killed the Basking Rootwalla, missing his third land drop.
 
@@ -70,7 +72,9 @@ A Ghastly Demise killed the Rootwalla, and Victor needed another threat. He play
 
 Brucker wanted cards, and he played a Fact or Fiction, flipping over an island, an Upheaval, a Force Spike, a Probe and a Memory Lapse. Victor put the Probe and an island in one pile, and Brucker went for it. The German then played Probe with kicker, stripping Victor down to one card in hand. He got a Violent Eruption to his head and went down to nine, but he was still well out of reach of any direct damage spells.
 
-![](https://i.ormos.uk/6a/8e/6a8ee090f39d35874e30c985a6f7b6bfb4a4d1e3e1805a8e4d224629dd5a0a61.jpg)The Lavamancer took Brucker down to eight, and then van den Broek played one of his sideboard cards: Nantuko Blightcutter. Blightcutter was bad news for Brucker, who held two Psychatogs in his hand and no way to get rid of the Blightcutter. He decided to play one of the Psychatogs.
+![](https://i.ormos.uk/6a/8e/6a8ee090f39d35874e30c985a6f7b6bfb4a4d1e3e1805a8e4d224629dd5a0a61.jpg)
+
+The Lavamancer took Brucker down to eight, and then van den Broek played one of his sideboard cards: Nantuko Blightcutter. Blightcutter was bad news for Brucker, who held two Psychatogs in his hand and no way to get rid of the Blightcutter. He decided to play one of the Psychatogs.
 
 During his following turn, van den Broek wondered whether to attack or not. He had threshold, and so the Blightcutter would get to deal three damage a turn, but at the same time, he wouldn't be able to survive an unblocked Psychatog attack. The Dutchman decided to cast a Yavimaya Barbarian, but it was Counterspelled. Then he ended his turn.
 
@@ -100,7 +104,9 @@ Van den Broek then attempted to cast Call of the Herd, but Brucker had a Counter
 
 With three Psychatogs in his hand, Brucker decided to play one. Van den Broek answered by playing another Basking Rootwalla. Brucker played Psychatog number two. A Fiery Temper knocked him down to twelve. Then, he Memory Lapsed a Meteor Storm, got hit by a second Fiery Temper, played the third Psychatog, Counterspelled the same Meteor Storm and Chainer's Edicted away a Rootwalla. Victor played a Wild Mongrel.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a789.jpg)Brucker started attacking with his Psychatogs, and van den Broek was down to 17 life. The Dutchman chose to attack with his three creatures. The Elephant token and the Wild Mongrel were blocked, and Brucker pumped his two Psychatogs. Van den Broek chose to pump the Rootwalla that got through the defence. In addition, he discarded two cards to the Wild Mongrel after damage was on the stack, one of them a Violent Eruption that he played the madness cost of, targeting Brucker for four damage. The Eruption was Counterspelled. Brucker went down to six life.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a789.jpg)
+
+Brucker started attacking with his Psychatogs, and van den Broek was down to 17 life. The Dutchman chose to attack with his three creatures. The Elephant token and the Wild Mongrel were blocked, and Brucker pumped his two Psychatogs. Van den Broek chose to pump the Rootwalla that got through the defence. In addition, he discarded two cards to the Wild Mongrel after damage was on the stack, one of them a Violent Eruption that he played the madness cost of, targeting Brucker for four damage. The Eruption was Counterspelled. Brucker went down to six life.
 
 Van den Broek went down to 15 after an attack from two Psychatogs. The Wild Mongrel was Ghastly Demised, but the Rootwalla attacked, forcing Brucker to remove three cards in his graveyard to save his blocker. Brucker was down to two cards in his hand and one in his graveyard, not close to enough to finish Victor off. And when a Nantuko Blightcutter hit the table, things looked bad for the German.
 

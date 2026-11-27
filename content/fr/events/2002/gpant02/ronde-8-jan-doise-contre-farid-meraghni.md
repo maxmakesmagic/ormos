@@ -53,7 +53,9 @@ archive_source:
   sha256: 9f6bdadeaf1ac18df3c42363b63c7f49c599c533c295ef2b11b10b9532746d15
 render_recovery: []
 ---
-![](https://www.wizards.com/sideboard/images/gpant02/a941.jpg)Quand les adversaires sont jeunes et ne payent pas de mine, la dernière chose à laquelle on s'attend est d'assister à une scéance de trash-talking. Et pourtant...
+![](https://www.wizards.com/sideboard/images/gpant02/a941.jpg)
+
+Quand les adversaires sont jeunes et ne payent pas de mine, la dernière chose à laquelle on s'attend est d'assister à une scéance de trash-talking. Et pourtant...
 
 A la provocation du Belge "He's so bad" ("bad étant l'un des dix mots figurant dans le lexique de Meraghni), le Français répond par des "chuis pas ton pote...".  
  Extrait de leur fascinante discussion :  

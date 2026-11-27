@@ -44,7 +44,9 @@ archive_source:
   sha256: c4f41486c482d487b6bd9227cfbc3ed58b34cb28aecc094f5d7dfa85df64c100
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a947.jpg)In this round, rising Thai star Veerapat Sirilertvorakul squared off against Singapore's Bernard Mok. The disparity in the size of their last names only added to the rivalry. Sirilertvorakul tore up Day 1 with the sickest sealed deck ever, and has since stayed at the top of the standings. Mok, on the other hand, has had to fight his way up from twenty-seventh.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a947.jpg)
+
+In this round, rising Thai star Veerapat Sirilertvorakul squared off against Singapore's Bernard Mok. The disparity in the size of their last names only added to the rivalry. Sirilertvorakul tore up Day 1 with the sickest sealed deck ever, and has since stayed at the top of the standings. Mok, on the other hand, has had to fight his way up from twenty-seventh.
 
 Mok parised to start. His grip of six was far from great. Sirilertvorakul got things going with [Dwarven Recruiter](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dwarven+Recruiter). Mok tried [Cabal Torturer](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Torturer). Sirilertvorakul trumped with [Chainflinger](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainflinger). Mok's frown reached the floor. [Barbarian Outcast](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbarian+Outcast) failed to impress.
 

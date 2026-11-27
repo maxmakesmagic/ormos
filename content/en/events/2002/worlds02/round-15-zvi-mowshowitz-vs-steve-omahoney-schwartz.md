@@ -86,7 +86,9 @@ render_recovery:
   - Ray of Revelation
   occurrences: 96
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a747.jpg)Both of these players are long time veterans from New York. They both worked their way up at the same time playing at Neutral Ground and learning through the Junior Pro Tour before moving up to the big leagues. All that work paid off, as Steve and Zvi both have a Pro Tour victory to their names, and countless other high finishes. Zvi currently has the advantage over Steve this week, going 0-1-1 against him. Both players are playing green/blue decks, but Steve's version is based around Quiet Speculation while Zvi's version is much more tempo oriented.
+![](http://www.wizards.com/sideboard/images/worlds02/a747.jpg)
+
+Both of these players are long time veterans from New York. They both worked their way up at the same time playing at Neutral Ground and learning through the Junior Pro Tour before moving up to the big leagues. All that work paid off, as Steve and Zvi both have a Pro Tour victory to their names, and countless other high finishes. Zvi currently has the advantage over Steve this week, going 0-1-1 against him. Both players are playing green/blue decks, but Steve's version is based around Quiet Speculation while Zvi's version is much more tempo oriented.
 
 ### Game 1
 
@@ -96,7 +98,9 @@ Mowshowitz- 1 O'Mahoney-Schwartz- 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/worlds02/a748.jpg)Steve mulliganed his opening hand. Zvi's Careful Study put Wonder right into the graveyard, and Steve's Werebear was matched by Zvi's Mongrel. Steve cast his own Careful Study to get Wonder into the graveyard, and then cast Quiet Speculation. Phantom Centaur gave Zvi a significant clock to work with, but Steve's Aether Burst bounced back the Centaur and Mongrel, while Steve added a second Werebear to the board. The Centaur came back out and Steve had another Burst, and attacked for eight. He followed up with Catalyst Stone, and Zvi played another Aether Burst to bounce Steve's team. Zvi's Centaur and Mongrel came back out, and Steve got to work building a Wurm army thanks to the Stone. Zvi had, you guessed it- another Aether Burst, and Steve's Wurm died while his two Werebears came back. Zvi attacked with the Centaur and Mongrel, and cast another Mongrel and a Basking Rootwalla to put a ton of pressure on the board. Steve flashed back two more Roars, which kept Zvi from attacking. 
+![](http://www.wizards.com/sideboard/images/worlds02/a748.jpg)
+
+Steve mulliganed his opening hand. Zvi's Careful Study put Wonder right into the graveyard, and Steve's Werebear was matched by Zvi's Mongrel. Steve cast his own Careful Study to get Wonder into the graveyard, and then cast Quiet Speculation. Phantom Centaur gave Zvi a significant clock to work with, but Steve's Aether Burst bounced back the Centaur and Mongrel, while Steve added a second Werebear to the board. The Centaur came back out and Steve had another Burst, and attacked for eight. He followed up with Catalyst Stone, and Zvi played another Aether Burst to bounce Steve's team. Zvi's Centaur and Mongrel came back out, and Steve got to work building a Wurm army thanks to the Stone. Zvi had, you guessed it- another Aether Burst, and Steve's Wurm died while his two Werebears came back. Zvi attacked with the Centaur and Mongrel, and cast another Mongrel and a Basking Rootwalla to put a ton of pressure on the board. Steve flashed back two more Roars, which kept Zvi from attacking. 
 
 Steve untapped, thought for a bit, and went all out, attacking with all his creatures. Zvi blocked and was left with only a Centaur to Steve's two Wurms. Zvi drew Mongrel off the top, and Steve cast another Quiet Speculation.
 
@@ -113,7 +117,9 @@ Steve- "My deck's pretty good. I learn some new things every round."
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/worlds02/a749.jpg)Zvi's first turn Study put Krosan Reclamation in the graveyard, and Basking Rootwalla into play. Steve's Study was less impressive, putting two lands in the graveyard. Zvi filled up his graveyard like crazy on turn two, playing Mental Note followed by Careful Study, discarding Wonder and a land. Steve cast Werebear, while Zvi attacked for three with his Rootwalla. Steve summoned Wonder, while Zvi built up his side a little more by playing Wild Mongrel. Grizzly Fate improved Steve's board a bit, and Wonder chump blocked on Zvi's attack. Centaur Garden helped Zvi squeeze through some more damage on the following turn, bringing Steve to five life points. Steve attacked with two bears and Zvi flashed back Reclamation to put the Wonders back into Steve's deck. Zvi untapped and attacked with his creatures, and Steve had a Reclamation of his own before blockers. It put Wonder back into Zvi's library, and Aether Burst bounced back the Rootwalla after it became huge thanks to Centaur Garden. This left Zvi defenseless, but he was still at a relatively healthy ten life points while Steve was at five. 
+![](http://www.wizards.com/sideboard/images/worlds02/a749.jpg)
+
+Zvi's first turn Study put Krosan Reclamation in the graveyard, and Basking Rootwalla into play. Steve's Study was less impressive, putting two lands in the graveyard. Zvi filled up his graveyard like crazy on turn two, playing Mental Note followed by Careful Study, discarding Wonder and a land. Steve cast Werebear, while Zvi attacked for three with his Rootwalla. Steve summoned Wonder, while Zvi built up his side a little more by playing Wild Mongrel. Grizzly Fate improved Steve's board a bit, and Wonder chump blocked on Zvi's attack. Centaur Garden helped Zvi squeeze through some more damage on the following turn, bringing Steve to five life points. Steve attacked with two bears and Zvi flashed back Reclamation to put the Wonders back into Steve's deck. Zvi untapped and attacked with his creatures, and Steve had a Reclamation of his own before blockers. It put Wonder back into Zvi's library, and Aether Burst bounced back the Rootwalla after it became huge thanks to Centaur Garden. This left Zvi defenseless, but he was still at a relatively healthy ten life points while Steve was at five. 
 
 Both bears attacked to bring Zvi to six, and Steve played Quiet Speculation, getting two Moment's Peace and Roar of the Wurm. Zvi untapped and played another Reclamation to shuffle back Steve's Reclamation and Roar. Steve flashed back Grizzly Fate, but Zvi had Wonder to take the match.
 

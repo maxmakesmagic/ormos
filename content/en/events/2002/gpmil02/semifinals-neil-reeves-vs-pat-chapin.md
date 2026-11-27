@@ -385,7 +385,9 @@ One of these two fine fellows wanted to be the big cheese in Wisconsin, and they
 
 ### Game One
 
-![](http://www.wizards.com/sideboard/images/gpmil02/875.jpg)Each player accelerated their mana situations early on, with Chapin's first turn Bird of Paradise being met by Nightscape Familiar (or as Neil put it, "my bird!"). Pat raised the stakes with a Wild Mongrel, which ran repeatedly into the blocking regenerator. Perhaps doggy wanted a bone, but Reeves wouldn't let him. Things picked up on the 6th turn, at which point Neil attempted to cast a Probe without kicker, to which Chapin responded to with a Fact or Fiction, which was Counterspelled quickly. 
+![](http://www.wizards.com/sideboard/images/gpmil02/875.jpg)
+
+Each player accelerated their mana situations early on, with Chapin's first turn Bird of Paradise being met by Nightscape Familiar (or as Neil put it, "my bird!"). Pat raised the stakes with a Wild Mongrel, which ran repeatedly into the blocking regenerator. Perhaps doggy wanted a bone, but Reeves wouldn't let him. Things picked up on the 6th turn, at which point Neil attempted to cast a Probe without kicker, to which Chapin responded to with a Fact or Fiction, which was Counterspelled quickly. 
 
 On lucky turn number nine, Neil decided to play the better Wild Mongrel, Psychatog. Who knew that Pat's answer would dominate the entire rest of the game? Content to let the atog resolve, Chapin played a Compulsion, which allowed him to rapidly cycle through his deck, all the while dropping Basking Rootwallas and Arrogant Wurms for free. 
 
@@ -397,7 +399,9 @@ Neil (to Pat): You're a chump.
  Pat: (Plays Squirrel Nest the next turn) I guess a chump would play cards like this.  
  Neil: This board position could get worse, but not much.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/876.jpg)As a last ditch effort to reign in Chapin's Compulsion and creature horde, Neil cast an Upheaval, floating 4 mana. Once again Circular Logic countered targeted a blue sorcery, but this time Neil used three of his mana (remember, he still had the Nightscape Familiar in play) to Fact or Fiction in response-which netted him a 2nd Psychatog and a Repulse. With Chapin having a sole land left untapped, Neil used a Force Spike, hoping Pat wouldn't notice that the aforementioned land since it was enchanted with Squirrel Nest. Chapin did, and proceeded to cast two more Squirrel Nests over the next two turns. 
+![](http://www.wizards.com/sideboard/images/gpmil02/876.jpg)
+
+As a last ditch effort to reign in Chapin's Compulsion and creature horde, Neil cast an Upheaval, floating 4 mana. Once again Circular Logic countered targeted a blue sorcery, but this time Neil used three of his mana (remember, he still had the Nightscape Familiar in play) to Fact or Fiction in response-which netted him a 2nd Psychatog and a Repulse. With Chapin having a sole land left untapped, Neil used a Force Spike, hoping Pat wouldn't notice that the aforementioned land since it was enchanted with Squirrel Nest. Chapin did, and proceeded to cast two more Squirrel Nests over the next two turns. 
 
 Reeves tried to keep up with the squirrel production by attacking with his Psychatogs. Meanwhile Chapin desperately searched for an Opposition to lock up the game, but couldn't find one even after two Fact or Fictions and dozens of activations of Compulsion. Finally, on the 17th turn of the game, Pat drew the enchantment he was looking for and Neil conceded on the spot.
 
@@ -414,7 +418,9 @@ Neil: God, I wish I had a Force Spike now!
  Neil: No you wouldn't.  
  Pat: Yes I would. I'm a jolly fellow.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/877.jpg)Although the Upheaval was met with a Circular Logic, Chapin slapped down a Bearscape the following turn, his graveyard filled with cards. The Psychatog doubled (a second one joined the board), and together they chipped away at the bear count, one of them losing its life for the cause. Slowly, very very very slowly, Neil chipped away at Pat's life total, one point at a time.
+![](http://www.wizards.com/sideboard/images/gpmil02/877.jpg)
+
+Although the Upheaval was met with a Circular Logic, Chapin slapped down a Bearscape the following turn, his graveyard filled with cards. The Psychatog doubled (a second one joined the board), and together they chipped away at the bear count, one of them losing its life for the cause. Slowly, very very very slowly, Neil chipped away at Pat's life total, one point at a time.
 
 Pat: I feel like I'm dying to poison counters!
 

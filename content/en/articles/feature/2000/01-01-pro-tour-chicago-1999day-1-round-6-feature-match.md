@@ -63,7 +63,9 @@ render_recovery: []
 ---
 **Terry Lau vs. Peter Radonjic**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTCHICAGO99/images/R6Feature3LauWastelands.JPG)The "eh"s were flying as these two Canadians at 3-1-1 asked Mark Rosewater to verify that the pairings were correct before being forced to attack each other to the death and a guaranteed day 2. Lau mulliganed on a no land draw (with 3 land on top of his deck causing a howl of anguish), then repeated the process, sparing himself the pain of looking ahead. Radonjic decided to mulligan as well "just to be fair," but only once.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTCHICAGO99/images/R6Feature3LauWastelands.JPG)
+
+The "eh"s were flying as these two Canadians at 3-1-1 asked Mark Rosewater to verify that the pairings were correct before being forced to attack each other to the death and a guaranteed day 2. Lau mulliganed on a no land draw (with 3 land on top of his deck causing a howl of anguish), then repeated the process, sparing himself the pain of looking ahead. Radonjic decided to mulligan as well "just to be fair," but only once.
 
 Both players were playing near-identical blue/green counter-oath decks they developed together, and while both played blue and green lands, the story of the early game was Radonjic having a wasteland for Lau's Thawing Glaciers, while Lau couldn't stop Radonjic's Thawing, prompting Pete to say "If you concede now there's plenty of time for game 2 and game 3." It being only turn 5, Terry decided to stick it out.
 

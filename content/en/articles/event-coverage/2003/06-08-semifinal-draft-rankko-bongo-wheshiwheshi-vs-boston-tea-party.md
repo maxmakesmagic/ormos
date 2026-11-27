@@ -44,7 +44,9 @@ archive_source:
   sha256: fed86cff9006376087b68f3ed586319cc23170cbbbe10f95fd6edec8412c5eae
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a882.jpg)Jose Barbero, Carlos Romao, and Wilfried Ranque should be familiar to you by now if you have been following the feature match coverage. Boston Tea Party are a trio of germans, Andre Delere, Rolf Ottovordemgentschenfelde (Rolf to his friends), and Rene Kraft. The international coalition certainly has more experience, but the Germans have shown that they know how to draft as well this weekend.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpams03/a882.jpg)
+
+Jose Barbero, Carlos Romao, and Wilfried Ranque should be familiar to you by now if you have been following the feature match coverage. Boston Tea Party are a trio of germans, Andre Delere, Rolf Ottovordemgentschenfelde (Rolf to his friends), and Rene Kraft. The international coalition certainly has more experience, but the Germans have shown that they know how to draft as well this weekend.
 
 Boston Tea Party kicked off. Rather than look at each card that was picked by each player, we can just look at the matchups and see what the key cards are going to be in the games.
 

@@ -97,7 +97,9 @@ The art of the original card doesn't reveal much about the mountains or about th
   
   
 
-![Colossus_of_Sardia](https://i.ormos.uk/f8/c7/f8c7f655b4cf8e6fc9f36047642abbfecd6319eb010d6fe4e169bd7ae4a3ebf3.jpg)In other words, an awfully fun monster to summon to fight for you during a game of **Magic**. 
+![Colossus_of_Sardia](https://i.ormos.uk/f8/c7/f8c7f655b4cf8e6fc9f36047642abbfecd6319eb010d6fe4e169bd7ae4a3ebf3.jpg)
+
+In other words, an awfully fun monster to summon to fight for you during a game of **Magic**. 
 
 Here you can see the *Fifth Edition* illustration of Colossus of Sardia, which emphasizes the scale of the Colossus by using elements of scale and a subordinated viewpoint (techniques you can read about in Matt Cavotta's article on [the art of enormous creatures](/en/articles/savortheflavor/2007/03-29-show-me-the-blubber)).
 

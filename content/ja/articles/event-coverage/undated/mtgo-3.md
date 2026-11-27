@@ -191,7 +191,9 @@ render_recovery:
   - Lightning Rift
   occurrences: 1
 ---
-![](http://www.wizards.com/global/images/sideboard_jpstrategy_20030108a_picMain_ja.jpg)「**Japanがなくてショップ使えね～**」などと書いた原稿が**掲載された瞬間にFIX**される今日この頃、みなさまいかがお過ごしでしょうか。…ええ、泣きませんとも。
+![](http://www.wizards.com/global/images/sideboard_jpstrategy_20030108a_picMain_ja.jpg)
+
+「**Japanがなくてショップ使えね～**」などと書いた原稿が**掲載された瞬間にFIX**される今日この頃、みなさまいかがお過ごしでしょうか。…ええ、泣きませんとも。
 
 まあ、おかげで新たにアカウントを取って開始している日本人の人も多いっぽい。まずは無事直ってメデタシメデタシということで。
 

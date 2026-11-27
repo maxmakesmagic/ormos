@@ -93,7 +93,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/97/d2/97d2c736f0b613f2c62907520b3b1de8fb4da412cc3791386a494c5dab1169d7.jpg)For those that hadn't read elsewhere, Content Manager Scott Johns has been giving the writers a chance to pick the theme weeks. When I picked "Rainbow Week", for my column I wanted to try a little draft experiment this week while also following up slightly on the topics from the last two weeks. For this one, I wanted to have a try at drafting some multi-colour green decks to tie in with the Rainbow Week theme. As I've been talking about the differences between beatdown, control and mid-range decks the last couple of weeks, and as the multi-colour green decks naturally tend to be mid-range decks I thought it would make a nice combination.
+![](https://i.ormos.uk/97/d2/97d2c736f0b613f2c62907520b3b1de8fb4da412cc3791386a494c5dab1169d7.jpg)
+
+For those that hadn't read elsewhere, Content Manager Scott Johns has been giving the writers a chance to pick the theme weeks. When I picked "Rainbow Week", for my column I wanted to try a little draft experiment this week while also following up slightly on the topics from the last two weeks. For this one, I wanted to have a try at drafting some multi-colour green decks to tie in with the Rainbow Week theme. As I've been talking about the differences between beatdown, control and mid-range decks the last couple of weeks, and as the multi-colour green decks naturally tend to be mid-range decks I thought it would make a nice combination.
 
 So this draft will be a little different. The plan is to force green, grab as many mana-fixers as possible and splash my way to victory! Hopefully the deck will end up green-x with four or maybe five colours and we'll see whether a rainbow deck is actually draftable in this format.
 

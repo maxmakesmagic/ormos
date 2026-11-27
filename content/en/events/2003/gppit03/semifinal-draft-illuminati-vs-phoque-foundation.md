@@ -163,7 +163,9 @@ The final two *Legions* packs saw two Enormous Baloths end up in Justin Gary's d
 
 Scourge opened with a shrug from the Phoque, as Pasquale put a Clutch of Undeath on top of his pile, Jairo picked a Warped Researched, and Justin Gary reaped the benefits of position as he snatched an Ancient Ooze from the table and placed it in the center of his stack of cards with his trademark feral, and yet stile quite charming, grin.
 
-![](https://i.ormos.uk/22/28/22287e69c64702cabc8e41ee3aea851a938835228a861c045361d0dcc06395b6.jpg)The hits continued to come for Illuminati, as Jairo opened a Torrent of Fire for himself, but left a Wirewood Symbiote for Justin, an Aven Liberator for Zvi, and a Twisted Abomination for a very pleased Alex Shvartsman, but the best was yet to come...
+![](https://i.ormos.uk/22/28/22287e69c64702cabc8e41ee3aea851a938835228a861c045361d0dcc06395b6.jpg)
+
+The hits continued to come for Illuminati, as Jairo opened a Torrent of Fire for himself, but left a Wirewood Symbiote for Justin, an Aven Liberator for Zvi, and a Twisted Abomination for a very pleased Alex Shvartsman, but the best was yet to come...
 
 Pack 15 saw Justin open a Forgotten Ancient, which he windmill slammed to the top of his pile, while Zvi got the final piece of his soldier puzzle in Daru Warchief, and Alex was left with a measly Clutch of Undeath for his B-G deck. The Phoque could only shake their heads at the unfairness of it all.
 

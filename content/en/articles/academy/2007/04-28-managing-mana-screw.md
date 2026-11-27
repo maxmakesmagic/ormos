@@ -131,7 +131,9 @@ Mana screw is more specific than it may seem. Your general goal is to stall and 
 
 **Mana Flood** *(too much mana)*
 
-[![Flood](https://i.ormos.uk/29/3d/293d439caaf65c730d00e789874655f8378d32f17523fc7b21827f78756e70fc.jpg)](https://web.archive.org/web/20070428000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Flood)You're mana flooded when you have drawn a problematically and considerably higher ratio of lands (or mana spells) to spells than your decklist would suggest.
+[![Flood](https://i.ormos.uk/29/3d/293d439caaf65c730d00e789874655f8378d32f17523fc7b21827f78756e70fc.jpg)](https://web.archive.org/web/20070428000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Flood)
+
+You're mana flooded when you have drawn a problematically and considerably higher ratio of lands (or mana spells) to spells than your decklist would suggest.
 
 Like mana screw, the ways to get mana flooded are either to mulligan/not mulligan into a poor situation or to draw into a glut of land over a long game. With more draw steps, you have more chances to draw spells. Here, again, you're looking to stabilize the game (perhaps at the cost of life points or of increased risk) in order to have more draw steps.
 
@@ -151,7 +153,9 @@ Many steps are taken in deck construction to help against both mana screw and ma
 
 **Color Screw** *(missing a main color)*
 
-[![Blood_Moon](https://i.ormos.uk/cc/45/cc457ffe5d731b403933dbf3343d0e1fa55b2b672d35fe4e4996cbc707c9a076.jpg)](https://web.archive.org/web/20070428000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Blood%2BMoon)You're color screwed when you have drawn a prohibitively and considerably lower ratio of colored lands to the same color of spells than your decklist would suggest (or if enough of these mana-sources are destroyed so as to put you in such a position).
+[![Blood_Moon](https://i.ormos.uk/cc/45/cc457ffe5d731b403933dbf3343d0e1fa55b2b672d35fe4e4996cbc707c9a076.jpg)](https://web.archive.org/web/20070428000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Blood%2BMoon)
+
+You're color screwed when you have drawn a prohibitively and considerably lower ratio of colored lands to the same color of spells than your decklist would suggest (or if enough of these mana-sources are destroyed so as to put you in such a position).
 
 Being color screwed is similar to being mana screwed, but with a few significant differences. 
 

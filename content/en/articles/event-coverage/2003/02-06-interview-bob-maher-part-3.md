@@ -84,7 +84,9 @@ Maher: One of them is in Madison, the other one has moved on with his life. He d
 
 **Sideboard: So it doesn’t matter to him then.**
 
-![](http://www.wizards.com/sideboard/images/Worlds2001/699.jpg)Maher: Not too much. He had a high enough rating that he could randomly qualify for a Pro Tour here and there and if he wanted to go he could have and now he no longer has that option. But no, it didn’t really affect him much. But Chad still owns and operates the store in Madison. It’s just one of those things where with the six month penalty; I was upset that it came so long after they got the information. I just thought it was unfair because I had made some of my life decisions based on the fact that I was going to be playing **Magic** and become a full-time professional **Magic** player. And then a year after I had gone to the DCI and told them what happened, so that I could make that decision, I felt like that part of it was behind me. Then they suspended me, so I was upset about that. I thought it took far too long, and if they were going to do that it should have happened a long time ago. My life may have gone in a completely different direction. 
+![](http://www.wizards.com/sideboard/images/Worlds2001/699.jpg)
+
+Maher: Not too much. He had a high enough rating that he could randomly qualify for a Pro Tour here and there and if he wanted to go he could have and now he no longer has that option. But no, it didn’t really affect him much. But Chad still owns and operates the store in Madison. It’s just one of those things where with the six month penalty; I was upset that it came so long after they got the information. I just thought it was unfair because I had made some of my life decisions based on the fact that I was going to be playing **Magic** and become a full-time professional **Magic** player. And then a year after I had gone to the DCI and told them what happened, so that I could make that decision, I felt like that part of it was behind me. Then they suspended me, so I was upset about that. I thought it took far too long, and if they were going to do that it should have happened a long time ago. My life may have gone in a completely different direction. 
 
 Also, I do agree that some sort of penalty was in line. I mean I did find out about a ratings scandal, I did nothing about it and it did help me. It’s debatable whether I qualified for anything off it or not. Quite technically, I qualified for Worlds in ’99 off it, but I played a funny deck in my Regionals that year and went 2-3. If I didn’t have extra rating points to play with, I just wouldn’t have played in Regionals and I still would have qualified anyway. So, it’s debatable because I got very few points from the tournament but it did boost me up. And, I only qualified for Worlds by one rating point. It’s one of those things where people can take whichever view of it they want. It’s all in the eye of the beholder on that one. Something certainly should have happened, because if I hadn’t won the Pro Tour, I wouldn’t have come forward and that would have been in violation of the DCI policy. But, I never did anything maliciously. I never went out of my way to do something. So, it was roughly accurate. It was very hard for me to accept at the beginning, but just looking back on it, they were as fair as they could be once they decided they were going to do something about it.
 
@@ -94,7 +96,9 @@ Maher: A lot of people have talked to me about the situation, and once they’ve
 
 **Sideboard: Do you have any thoughts on your friends Dave Williams and Ed Fear getting suspended around the same time?** 
 
-![](http://www.wizards.com/sideboard/images/GPMOS01/944.jpg)Maher: It was an unfortunate coincidence. The things Dave and I got suspended for were very different and both Dave and Ed have always said they were innocent. I don’t have an opinion on it. I know what happened to me and that’s all I can say.
+![](http://www.wizards.com/sideboard/images/GPMOS01/944.jpg)
+
+Maher: It was an unfortunate coincidence. The things Dave and I got suspended for were very different and both Dave and Ed have always said they were innocent. I don’t have an opinion on it. I know what happened to me and that’s all I can say.
 
 **Sideboard: Are you worried that being friends with two guys who were suspended, along with your suspension makes you look bad?** 
 
@@ -106,7 +110,9 @@ Maher: It did to a point, but I had also made a decision that, when I came back,
 
 **Sideboard: Kai’s been the unstoppable force on the Pro Tour for the past two years and you’re not ahead of him anymore in the Player of the Year race, but if you do get that title for the second time at the end of the season, what would it mean to you?**
 
-![](http://www.wizards.com/sideboard/images/pthou02/595.jpg)Maher: It means that there’s room for other people. He has been an unstoppable force, but he’s certainly not flawless. I’ve gone to a lot of tournaments with Kai and I’ve seen him make mistakes, just like anyone else. A lot of Kai’s dominance has come from the fact that less experienced players, when they play him, they realize it’s Kai Budde and they just outthink themselves. People do not play their top games against Kai most of the time because it’s Kai and they’re intimidated.
+![](http://www.wizards.com/sideboard/images/pthou02/595.jpg)
+
+Maher: It means that there’s room for other people. He has been an unstoppable force, but he’s certainly not flawless. I’ve gone to a lot of tournaments with Kai and I’ve seen him make mistakes, just like anyone else. A lot of Kai’s dominance has come from the fact that less experienced players, when they play him, they realize it’s Kai Budde and they just outthink themselves. People do not play their top games against Kai most of the time because it’s Kai and they’re intimidated.
 
 **Sideboard: What would it mean on a personal level to be Player of the Year again?**
 

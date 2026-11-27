@@ -94,7 +94,9 @@ render_recovery:
   - Shadowmage Infiltrator
   occurrences: 58
 ---
-![](http://www.wizards.com/sideboard/images/gpnap02/a902.jpg)Pierre Malherbaud has twice been French National Champion and recently made top 8 at Grand Prix-London. Van Leeuwen is yet another of the good players that seem to be coming out of the Netherlands at the moment and has been enjoying a good run of form in the current Grand Prix season with a Top 8 appearance at Grand Prix-Antwerp to his credit
+![](http://www.wizards.com/sideboard/images/gpnap02/a902.jpg)
+
+Pierre Malherbaud has twice been French National Champion and recently made top 8 at Grand Prix-London. Van Leeuwen is yet another of the good players that seem to be coming out of the Netherlands at the moment and has been enjoying a good run of form in the current Grand Prix season with a Top 8 appearance at Grand Prix-Antwerp to his credit
 
 Malherbaud has a red-green deck with Mongrel, Roar and Arrogant Wurm. Van Leeuwen has a fairly mediocre black-blue deck. The winner of this round should probably be able to ID into the Top 8.
 
@@ -118,7 +120,9 @@ Malherbaud chose to go first again and this time had a much better start with a 
 
 An Ember Beast came out to give the remaining Squirrel company but van Leeuwen threatened to break up that relationship pretty quickly when he brought a Cabal Torturer onto the table.
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a907.jpg)Malherbaud thought for a long time before throwing a Blazing Salvo out in its direction. Van Leeuwen chose to take five damage instead. A result that was very good for Malherbaud as he also had a Crackling Club to brain the annoying Minion and in came the Squirrel with Beast in tow for four damage.
+![](http://www.wizards.com/sideboard/images/gpnap02/a907.jpg)
+
+Malherbaud thought for a long time before throwing a Blazing Salvo out in its direction. Van Leeuwen chose to take five damage instead. A result that was very good for Malherbaud as he also had a Crackling Club to brain the annoying Minion and in came the Squirrel with Beast in tow for four damage.
 
 Van Leeuwen brought out a protection from red Aven Smokeweaver but a hasty Pardic Firecat from Malherbaud meant van Leeuwen had to block the Ember Beast. A Broker to back it up perished to Sonic Seizure and another three damage slipped through.
 
@@ -140,7 +144,9 @@ The hasty Firecat got double-teamed by Whelp and Gravedigger.
 
 Van Leeuwen dropped a Coral Net on the Elephant and brought in a Zombie Assassin. Malherbaud decided the Elephant wasn't good enough for the upkeep of a Masticore and sacrificed it in his upkeep. He thought for a while and played nothing in his turn.
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a901.jpg)Van Leeuwen brought in an Escape Artist to start nibbling at Malherbaud's life total. Malherbaud brought in an Ember Beast so van Leeuwen started on the Squirrels, Afflicting one.
+![](http://www.wizards.com/sideboard/images/gpnap02/a901.jpg)
+
+Van Leeuwen brought in an Escape Artist to start nibbling at Malherbaud's life total. Malherbaud brought in an Ember Beast so van Leeuwen started on the Squirrels, Afflicting one.
 
 Frenetic Ogre came into play as van Leeuwen Tutored for and then cast his pro-red Aven Smokeweaver. Last Rites ripped a Thermal Blast and Liquid Fire out of Malherbaud's hand. But more importantly it cost van Leeuwen the Broker and a Gloomdrifter.
 

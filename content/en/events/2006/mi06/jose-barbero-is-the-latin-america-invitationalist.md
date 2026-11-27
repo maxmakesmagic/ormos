@@ -82,30 +82,40 @@ The week’s ballot offers an interesting array of seasoned veterans, including 
 
 ### Mauro Kina (5.8%)
 
-![](https://i.ormos.uk/e6/a9/e6a9824259a2257251a682bd02ec3532d9dcf8e7bba93cbea7c783750b6084eb.jpg)Mauro Kina is a fixture at the Argentinean National Championships, which he won in 2004 and has twice been on his county’s National team. The blue-white deck that Mauro used to win his National Championships sent out ripples throughout Standard. That wave crashed against the shores of the San Francisco World Championships when Gabriel Nassif played a similar build. Kina also made the Top 4 of Grand Prix-Porto Allegre, showing his versatility with both 40- and 60-card decks. 
+![](https://i.ormos.uk/e6/a9/e6a9824259a2257251a682bd02ec3532d9dcf8e7bba93cbea7c783750b6084eb.jpg)
+
+Mauro Kina is a fixture at the Argentinean National Championships, which he won in 2004 and has twice been on his county’s National team. The blue-white deck that Mauro used to win his National Championships sent out ripples throughout Standard. That wave crashed against the shores of the San Francisco World Championships when Gabriel Nassif played a similar build. Kina also made the Top 4 of Grand Prix-Porto Allegre, showing his versatility with both 40- and 60-card decks. 
 
 **2005 Pro Points**: 10 (tied for 170th place)
 
 ### Edgar Leiva (25.1%)
 
-![](https://i.ormos.uk/aa/ae/aaae9ada8cc15bb1c5827f86b4f2738b2b6a07561515c145a0f81682ad8aaaa9.jpg)Edgar Leiva's second-place finish at Grand Prix-Mexico City was the first time many players had heard of the 24-year-old doctor from Mexico City. Since defending his nation's turf against all comers except Julien Nuijten at the Grand Prix, Leiva has become a regular Internet contributor to the Magic strategy scene. 
+![](https://i.ormos.uk/aa/ae/aaae9ada8cc15bb1c5827f86b4f2738b2b6a07561515c145a0f81682ad8aaaa9.jpg)
+
+Edgar Leiva's second-place finish at Grand Prix-Mexico City was the first time many players had heard of the 24-year-old doctor from Mexico City. Since defending his nation's turf against all comers except Julien Nuijten at the Grand Prix, Leiva has become a regular Internet contributor to the Magic strategy scene. 
 
 **2005 Pro Points**: 7 (tied for 259th place)
 
 ### Maximilian Liprandi (6.7%)
 
-![](https://i.ormos.uk/b0/cf/b0cf7a679994df1065b93d4a4f20c4b90fa8d2a7c46221baea53af2c3ed1e668.jpg)Venezuelan Maximilian Liprandi is another Grand Prix-Mexico City alum, finishing in the Top 4. Despite his fourth-place finish, Maximilian was the big winner that weekend as he was an amateur coming into the tournament … and walked away with $100 more than winner Julien Nuijten. 
+![](https://i.ormos.uk/b0/cf/b0cf7a679994df1065b93d4a4f20c4b90fa8d2a7c46221baea53af2c3ed1e668.jpg)
+
+Venezuelan Maximilian Liprandi is another Grand Prix-Mexico City alum, finishing in the Top 4. Despite his fourth-place finish, Maximilian was the big winner that weekend as he was an amateur coming into the tournament … and walked away with $100 more than winner Julien Nuijten. 
 
 **2005 Pro Points**: 7 (tied for 259th place)
 
 ### Fernando Dominguez Roldan (14.5%)
 
-![](https://i.ormos.uk/d4/63/d463bb97094f0ea0fda6492108c2157d11574f161e0b28516fbfe055617a408b.jpg)A 10th-place finish in Mexico City may not have been enough to get Fernando Dominguez Roldan into that elusive elimination bracket, but it was good enough to put him in a position for one of the fall-down invites from the Pro-heavy Top 8. He made the most of his opportunity playing his Living Wish-fueled Psico Gifts deck to a Top 32 finish – the highest Pro Tour finish by any of the players on this ballot. 
+![](https://i.ormos.uk/d4/63/d463bb97094f0ea0fda6492108c2157d11574f161e0b28516fbfe055617a408b.jpg)
+
+A 10th-place finish in Mexico City may not have been enough to get Fernando Dominguez Roldan into that elusive elimination bracket, but it was good enough to put him in a position for one of the fall-down invites from the Pro-heavy Top 8. He made the most of his opportunity playing his Living Wish-fueled Psico Gifts deck to a Top 32 finish – the highest Pro Tour finish by any of the players on this ballot. 
 
 **2005 Pro Points**: 9 (tied for 189th place)
 
 ### Carlos Romão (22.4%)
 
-![](https://i.ormos.uk/e6/c3/e6c3d4817bb2884f0a44de6a6faff4ab96f2c6e9d61cb1337e84cb5ad3412126.jpg)Carlos Romão is best known for becoming the first Latin player to win a World Championships when he took the field by storm in 2002. While he has not experienced similar Pro Tour success, it is clear that a competitive fire still drives him. After a 24th-place finish at Worlds, the two-time Grand Prix Champion recently traveled to the U.S. for Grand Prix-Richmond in the hopes of adding one more Top 8 to the four already on his resume. 
+![](https://i.ormos.uk/e6/c3/e6c3d4817bb2884f0a44de6a6faff4ab96f2c6e9d61cb1337e84cb5ad3412126.jpg)
+
+Carlos Romão is best known for becoming the first Latin player to win a World Championships when he took the field by storm in 2002. While he has not experienced similar Pro Tour success, it is clear that a competitive fire still drives him. After a 24th-place finish at Worlds, the two-time Grand Prix Champion recently traveled to the U.S. for Grand Prix-Richmond in the hopes of adding one more Top 8 to the four already on his resume. 
 
 **2005 Pro Points**: 10 (tied for 170th place)

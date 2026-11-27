@@ -44,7 +44,9 @@ archive_source:
   sha256: b971974abf3956a25f2a1c412bfefc5707553e93d6e56cb1f87fe74d996a3b22
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/dr2_1.jpg)These 2 teams were both at 22 points, in a good position to make it to the top 4. Team $MIR is formed of Andre Muller, Hans Joachim Hoh (aka HaJo), and current World Champion Daniel Zink. Team C 1000 is formed of Sven Martineau (aka MiniSven, since he is rather young and tiny), Bas Knapen, and Tim Claessen: three pretty much unknown players from the Netherlands, but they all are fine players with the occasional PT qualification under their belt. While Team $MIR already has enough pro points between them to be qualified for the team pro tour, Team C 1000 is still hungering for that invite.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpboc04/dr2_1.jpg)
+
+These 2 teams were both at 22 points, in a good position to make it to the top 4. Team $MIR is formed of Andre Muller, Hans Joachim Hoh (aka HaJo), and current World Champion Daniel Zink. Team C 1000 is formed of Sven Martineau (aka MiniSven, since he is rather young and tiny), Bas Knapen, and Tim Claessen: three pretty much unknown players from the Netherlands, but they all are fine players with the occasional PT qualification under their belt. While Team $MIR already has enough pro points between them to be qualified for the team pro tour, Team C 1000 is still hungering for that invite.
 
 Team C 1000 won the coin toss, and they decided to kick off.
 

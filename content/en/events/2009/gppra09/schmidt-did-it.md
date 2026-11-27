@@ -620,7 +620,9 @@ Grand Prix: Prague – Top 8
 
 The Top 8 has a total of 139 Pro Points, 500 less than the last two GPs, and less than ten percent of Grand Prix Brussels 2008, which featured Kamiel Cornelissen, Gabriel Nassif, Raphael Levy, and Antoine Ruel! Now here, Yuuya Watanabe carries approximately two-thirds of those points on his shoulders alone. He is the clear favorite among the eight, so naturally, we went to watch his draft.
 
-![](https://i.ormos.uk/f6/01/f60144f2e5c572fc16f62084a0d65a30a0044a6424b99f74ac168f09391b84d5.jpg)And it kicked off with a bang: Liliana Vess. Not only was Watanabe going for the commonly preferred color black, he also got one of the cards you cannot pass on! And Cemetery Reaper as his second pick just sweetened the deal.
+![](https://i.ormos.uk/f6/01/f60144f2e5c572fc16f62084a0d65a30a0044a6424b99f74ac168f09391b84d5.jpg)
+
+And it kicked off with a bang: Liliana Vess. Not only was Watanabe going for the commonly preferred color black, he also got one of the cards you cannot pass on! And Cemetery Reaper as his second pick just sweetened the deal.
 
 From there on, Watanabe was locked into black. He considered the occasional off-color card, like Essence Scatter as third pick and Howl of the Night Pack seventh (after already letting one go through in the sixth pick). Besides that, he got from the first booster (in order): Kelinore Bats, Weakness, Vampire Aristocrat, Zombie Goliath, Drudge Skeletons (over Celestial Purge), and assorted last picks.
 
@@ -628,7 +630,9 @@ Booster two had Looming Shade and Tendrils of Corruption staring at Watanabe. He
 
 Oh wait, he didn’t! Underworld Dreams had tabled around to him again as 13th pick, and he hesitated not a second to put it in his pile.
 
-![](https://i.ormos.uk/c1/dc/c1dc135927e4cfbef6fbacb4b8a5caa51ac4a0a65e1123552e5ed6d148d60130.jpg)Booster three saw Watanabe having a choice between Weakness, Pacifism, Blinding Mage, Elvish Archdruid, Warpath Ghoul and Child of Night. Giving away solid black was inevitable, so Watanabe decided he wanted Weakness most out of that pack. More removal came in pick two there, when he had to decide between Royal Assassin and Doom Blade! He took all the time he had, but when the judge called “Draft!”, Watanabe picked the obvious choice with Royal Assassin, although he was sad to see the Doom Blade go.
+![](https://i.ormos.uk/c1/dc/c1dc135927e4cfbef6fbacb4b8a5caa51ac4a0a65e1123552e5ed6d148d60130.jpg)
+
+Booster three saw Watanabe having a choice between Weakness, Pacifism, Blinding Mage, Elvish Archdruid, Warpath Ghoul and Child of Night. Giving away solid black was inevitable, so Watanabe decided he wanted Weakness most out of that pack. More removal came in pick two there, when he had to decide between Royal Assassin and Doom Blade! He took all the time he had, but when the judge called “Draft!”, Watanabe picked the obvious choice with Royal Assassin, although he was sad to see the Doom Blade go.
 
 Grave Digger over Dread Warlock was pick three, then Mind Rot (over Child of Night and Rhox Pikemaster). Warpath Ghoul, Kelinore Bats (over Zombie Goliath) and a random Llanowar Elves were his next picks. At pick 8, Watanabe once again had to make a decision: Sign in Blood, Vampire Aristocrat #2 or another Drudge Skeleton? He chose the card drawer, which would go well with his Underworld Dreams as a fancy little combo.
 

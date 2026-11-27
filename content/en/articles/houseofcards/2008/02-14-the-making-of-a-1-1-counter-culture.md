@@ -799,7 +799,9 @@ There were some other cards that I tried to work in, but cut due to lack of spac
 
 ### **A Fable Chap**
 
-![Cytoplast Manipulator and Immaculate Magistrate](https://i.ormos.uk/ef/93/ef93997152bca22b44231fcc3573485ce50e963986929ae0ab4bc5f704aed36d.jpg)The next deck is an updated version of a deck I built a while ago. I meant to write about it, but it got lost in the shuffle. It's a Wizard deck that combines the power of the Simic's graft (most notably, Vigean Graftmage and Cytoplast Manipulator) with the powerful tap abilities of Coldsnap's Rimewind Wizards (well, at least two of them: Rimewind Taskmage and Heidar, Rimewind Master). Toss in Experiment Kraj (another nicely open-ended card that cares about +1/+1 counters) and some other useful Wizards like Bloodline Shaman and Simic Guildmage, and you have the basis for a deck.
+![Cytoplast Manipulator and Immaculate Magistrate](https://i.ormos.uk/ef/93/ef93997152bca22b44231fcc3573485ce50e963986929ae0ab4bc5f704aed36d.jpg)
+
+The next deck is an updated version of a deck I built a while ago. I meant to write about it, but it got lost in the shuffle. It's a Wizard deck that combines the power of the Simic's graft (most notably, Vigean Graftmage and Cytoplast Manipulator) with the powerful tap abilities of Coldsnap's Rimewind Wizards (well, at least two of them: Rimewind Taskmage and Heidar, Rimewind Master). Toss in Experiment Kraj (another nicely open-ended card that cares about +1/+1 counters) and some other useful Wizards like Bloodline Shaman and Simic Guildmage, and you have the basis for a deck.
 
 The latest additions are Immaculate Magistrate, who combines with Cytoplast Manipulator to steal a creature each turn or with Fertilid to allow you to Rampant Growth every turn (or more often than that if you control some of the other Elves in the deck). The other key addition is *Morningtide* Wizard "lord," Sage of Fables, who both provides more counters and gives you something to do with them. Pemmin's Aura is great with all of your tapping guys and combines with Simic Guildmage to thwart opposing spot removal (as I've discussed in the past).
 

@@ -242,7 +242,9 @@ It’s been a month since Pro Tour-Chicago, a month until Venice and, as a resul
 
 Okay, when the set first came out, black, red, green and white each had their advocates as potential best color in the format and 75% of them were naturally wrong. Red is the best color in *Onslaught*. To debate it is to show ignorance and it starts with the best common, the best uncommon and two of the three best rares in the set.
 
-![](https://i.ormos.uk/50/02/5002f0b54d0fbee8a11abd9565e91501d5637907decf1b5468c32c3490a6b1b1.jpg)Sparksmith is insane. There are only two uncommons you should be picking over it first pick, first pack and those are Lightning Rift and Slice and Dice, both red. Slice and Dice and Lightning Rift are both insane and there are only a small handful of rares you should be taking over them first pick, first pack and if you poll pros as to which their most desired rare to open is, roughly two thirds will say Rorix or Starstorm, with Visara providing the exceptions. Visara is the best individual card, but the added bonus of drafting red is too much to ignore.
+![](https://i.ormos.uk/50/02/5002f0b54d0fbee8a11abd9565e91501d5637907decf1b5468c32c3490a6b1b1.jpg)
+
+Sparksmith is insane. There are only two uncommons you should be picking over it first pick, first pack and those are Lightning Rift and Slice and Dice, both red. Slice and Dice and Lightning Rift are both insane and there are only a small handful of rares you should be taking over them first pick, first pack and if you poll pros as to which their most desired rare to open is, roughly two thirds will say Rorix or Starstorm, with Visara providing the exceptions. Visara is the best individual card, but the added bonus of drafting red is too much to ignore.
 
 Red’s commons go deeper than the 1/1. Shock and Solar Blast are both better first picks than any common outside of red and with red-blue being the most powerful archetype in the format, Lavamancer’s Skill falls into that same category for many. In other words, we’re looking at *Urza’s Saga* Black all over again. Red is the stone cold nuts, people. Don’t force it, but if the packs offer, gladly accept.
 

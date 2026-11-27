@@ -37,7 +37,9 @@ archive_source:
   sha256: de3029358bc13ad0d082462d741acd48e7f29db7d4f033ca08c98bba0e1970b9
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/695.jpg)Kamiel Cornelissen burst onto the scene last year at New York with an eleventh place finish, only to step into back-to-back Top 8s at Chicago and now Los Angeles. His G/R/w deck features many fat creatures, but not much early defense. His opponent is Former American National and Pro Tour London Champion Kyle Rose. Rose stuck to his preference for ultra-fast beatdown, drafting R/B.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/695.jpg)
+
+Kamiel Cornelissen burst onto the scene last year at New York with an eleventh place finish, only to step into back-to-back Top 8s at Chicago and now Los Angeles. His G/R/w deck features many fat creatures, but not much early defense. His opponent is Former American National and Pro Tour London Champion Kyle Rose. Rose stuck to his preference for ultra-fast beatdown, drafting R/B.
 
 Kamiel won the die roll, giving him an advantage against Rose's fast deck. He had no two-drop to push in the way of Rose's Nightscape Apprentice, but drew and played Nomadic Elf.
 
@@ -49,7 +51,9 @@ Cornelissen thought hard before tapping out for Meteor Storm and its activation 
 
 Rose drew Hate Weaver, sending his creatures and evening the life totals at nine apiece. He played his Zombie, and Backlashed Cornelissen's Climber. Cornelissen attacked with an Elf alone, and used Aggressive Urge for damage, looking for answers. Rose drew his sixth land. This let him cast and activate his Hate Weaver, forcing Cornelissen to empty his hand in a bid to survive, then cast Scorching Lava for the win.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/698.jpg)In Game 2, Rose again drew the Apprentice that gave Cornelissen so much trouble. Cornelissen's Fertile Ground was equally important, speeding him towards his dense five-slot. His third turn was Sentinel and Nomadic Elf. Rose attacked with a Rogue Kavu and tried to kill Cornelissen's blocker with first strike, but he had the Explosive Growth.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/698.jpg)
+
+In Game 2, Rose again drew the Apprentice that gave Cornelissen so much trouble. Cornelissen's Fertile Ground was equally important, speeding him towards his dense five-slot. His third turn was Sentinel and Nomadic Elf. Rose attacked with a Rogue Kavu and tried to kill Cornelissen's blocker with first strike, but he had the Explosive Growth.
 
 Cornelissen turned on the pressure, first with Kavu Runner, then with Zap for Rose's blocker, knocking Rose to nine. He traded a kicked Pincer Spider for a kicked Pouncing Kavu in a gang block and cast another. Rose had no good blockers left, just a pair of Apprentices. He spent a turn Recovering his Kavu and played a Zombie. He lost his whole team clinging to life.
 
@@ -63,7 +67,9 @@ Rose drew a non-Mountain. He Recovered his Golem and snapped the drawn card into
 
 Cornelissen dropped his seventh land, filtering mana through his Nomadic Elf to cast Rith, the Awakener. Rose drew and passed the turn. Cornelissen had Explosive Growth to end the game right there, but instead knocked Rose to one, fearing chicanery. Rose drew a card, and conceded.
 
-![](https://i.ormos.uk/1a/4b/1a4b619b40794340def0c7d5de1a1ad85bd48130bd54d08bc6e507b05e5ef10c.jpg)Rose mulliganed into a one-land hand, and just shrugged his shoulders. The threat of a five-card hand was too much. With a bold "sure," he put on his game face and played his one Swamp.
+![](https://i.ormos.uk/1a/4b/1a4b619b40794340def0c7d5de1a1ad85bd48130bd54d08bc6e507b05e5ef10c.jpg)
+
+Rose mulliganed into a one-land hand, and just shrugged his shoulders. The threat of a five-card hand was too much. With a bold "sure," he put on his game face and played his one Swamp.
 
 Hit drew a second land on turn three, but with only Pouncing Kavu and Nightscape Apprentice and Mourning for castable cards, was hard pressed to deal with Cornelissen's steady flow of creatures. Thunderscape Master made it quick. A sympathetic Cornelissen apologized for his opponent's ill luck, but Rose was the model of grace, congratulating him on a win and wishing him luck.
 

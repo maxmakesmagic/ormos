@@ -70,7 +70,9 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_corylack.jpg)**Lack:** It was a great experience, and I think a lot of it came down to how well the event was set up. The hotel itself was surrounded by places to eat, shop, or relax, and having my hotel room about 100 feet away from the tournament center allowed me to go grab a snack or something if necessary. Having a break for lunch was really great, too! 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What was the non-playing highlight of the weekend?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What was the non-playing highlight of the weekend?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_corylack.jpg)**Lack:** Probably the dinner for all the players and crew the night before. It was at a really neat restaurant with pictures of celebrities everywhere. It gave me an idea to open my own restaurant and just put up pictures of random celebrities so people will assume it's prestigious. 
 
@@ -84,37 +86,49 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
 
 <table><tbody><tr><td>&#10;						<div><div><img alt="Rakdos's Return" src="http://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=Rakdos%27s+Return"></div></div>&#10;					</td>&#10;					<td>&#10;						<div><div><img alt="Stomping Ground" src="http://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=Stomping+Ground"></div></div>&#10;					</td>&#10;				</tr></tbody></table>
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How did you prepare for this weekend? In hindsight, what worked well for you and what could you have done differently?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How did you prepare for this weekend? In hindsight, what worked well for you and what could you have done differently?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_corylack.jpg)**Lack:** I practiced the various formats on **Magic Online** while chatting with friends on Google+ about various strategies. In hindsight, I'd have practiced BTT Draft a bit more. I went 3–0, but an insane deck basically fell into my lap, and I think it was my weakest format overall. Conversely, I think Modern was my best, even though I went 2–2. I think it's important to eschew how I did in one event vs. how I think I would do in many more iterations. 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_larsdam.jpg)**Dam:** I played exclusively on the Beta the last two weeks before the tournament to learn how everything worked. I drafted a lot of Cube since it's something I normally don't do and it's a pretty skill-intensive format while playing the matches. You need to know what is going on with all the different decks. I knew I was playing Pod in Modern since it's just the best deck and I like playing it, too, so I just played like one Daily with it. I have played enough *Theros* Limited that I felt like I didn't need to draft a lot up to the tournament, which I actually think was a mistake, since drafts can easily be decided by very marginal decisions and it's easy to not make the right decisions if you are just a tiny bit rusty. For Standard, I was just told that Mono-Black was the best deck and it's also relatively easy to play, so I just played a couple of Dailies with it and went with a red splash because I anticipated a lot of Esper and mirror matches. The deck I ended up with wasn't exactly what I had been planning on but everything worked out. Overall, I would say I could have spent some more time testing Constructed, but I knew ahead of time that I just wouldn't have the time to test it enough for me to come up with something really cool, so I just went the safe route and chose the top decks in each format. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Even though you are still playing **Magic Online**, playing in this event was still very different in that you could hear/see your opponent somewhere in the room. Were there any times your opponent tipped you off to something based on his reaction?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Even though you are still playing **Magic Online**, playing in this event was still very different in that you could hear/see your opponent somewhere in the room. Were there any times your opponent tipped you off to something based on his reaction?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_larsdam.jpg)**Dam:** Not anything that mattered. I think there were a couple of minor tells throughout the tournament, but they were all at times when the game was pretty much over anyway. 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_corylack.jpg)**Lack:** Simply seeing the looks of my opponents' faces gave me an idea as to their position in game. I didn't try to rely on that, though. In face-to-face **Magic** you're communicating verbally, so tells are far more useful. I didn't want to make decisions solely based on facial expression. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How about playing on the stream? Did knowing you were being watched while you played affect the way you played at all?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How about playing on the stream? Did knowing you were being watched while you played affect the way you played at all?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_corylack.jpg)**Lack:** I basically forgot I was playing on stream. I'd look at the camera a couple times, but I treated it like shooting a movie rather than there being a couple thousand people behind it. It didn't really affect the way I played, either, other than when I forgot [Bident of Thassa](https://web.archive.org/web/20140404000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bident+of+Thassa) wasn't very good in multiples, and it made me laugh because I knew people at home were either laughing or confused. 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_larsdam.jpg)**Dam:** No, there was enough pressure from the tournament itself that the added exposure did not affect me. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Have you used your Championship invitation yet? If not, how will you prepare for Pro Tour *Journey into Nyx*?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Have you used your Championship invitation yet? If not, how will you prepare for Pro Tour *Journey into Nyx*?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_larsdam.jpg)**Dam:** I'm looking to team up with Paul Nemeth and Trey van Cleave and possibly others and I will fly to Atlanta the week before the tournament and test with them. Right now I will just focus on drafting when I can. 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_corylack.jpg)**Lack:** I still have my invitation to the Pro Tour in Atlanta, and I'm planning to go. I'd like to test with friends, but the small amount of time between the release of *Journey into Nyx* and the Pro Tour itself means I'll probably end up conversing with other competitors. Not that that's a bad thing, of course! 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: You guys seemed to really embrace the tournament experience at the **Magic Online** Championship, hanging out drafting, chatting late into the night, and seemed to have a great time. Will we start seeing more of you at Grand Prix—and maybe even a PTQ or two?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: You guys seemed to really embrace the tournament experience at the **Magic Online** Championship, hanging out drafting, chatting late into the night, and seemed to have a great time. Will we start seeing more of you at Grand Prix—and maybe even a PTQ or two?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_corylack.jpg)**Lack:** I've gotten some sponsorship offers, which is cool and definitely not something I expected. I enjoyed traveling, too, so I'm definitely thinking about going to Grand Prix depending on convenience and timing. 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_larsdam.jpg)**Dam:** I'm afraid I can't devote too much time for GPs and PTQs. The problem is I have to take a 1.5-hour flight if I want to play in a PTQ. There aren't that many GPs in Asia and flying more than four hours for a GP is just too much I think. I wish it were different but that's the price I pay for living in paradise. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What advice do you have for other **Magic Online** players who find themselves in a tournament setting?** 
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What advice do you have for other **Magic Online** players who find themselves in a tournament setting?** 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/2014/twtw_wk13_293_roundtable_larsdam.jpg)**Dam:** Try and have fun. The game is supposed to be fun, so don't let winning or losing be the only important thing. There is enough randomness that you just have to accept that sometimes you just can't win no matter what you do. 
 

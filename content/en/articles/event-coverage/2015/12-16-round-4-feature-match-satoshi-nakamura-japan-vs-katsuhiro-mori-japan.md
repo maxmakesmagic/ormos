@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Yaro Starak*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm4pic1.jpg)Satoshi Nakamura, one of Japan's most famous players, is paired against Katsuhiro Mori, an invitee to the 2000 Magic Invitational to be held in Sydney, Australia in November.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPSAP00/Images/fm4pic1.jpg)
+
+Satoshi Nakamura, one of Japan's most famous players, is paired against Katsuhiro Mori, an invitee to the 2000 Magic Invitational to be held in Sydney, Australia in November.
 
 **Game One**
 

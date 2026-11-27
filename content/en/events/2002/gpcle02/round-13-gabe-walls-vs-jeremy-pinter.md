@@ -101,7 +101,9 @@ render_recovery:
   - Skeletal Scrying
   occurrences: 61
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a907.jpg)Jeremy Pinter has been enjoying this field. He made day two and has been playing a sea of mono black and zombie Upheaval decks with his white/green madness deck. Indiana's very own Gabe Walls unfortunately was playing one of the decks Pinter was gunning for, Zombie-Upheaval. Walls is hard at work cementing himself as Indiana's #1 Magic player. Walls mentioned he would like to thank The Sports Bench and Don Willis for his success.
+![](http://www.wizards.com/sideboard/images/gpcle02/a907.jpg)
+
+Jeremy Pinter has been enjoying this field. He made day two and has been playing a sea of mono black and zombie Upheaval decks with his white/green madness deck. Indiana's very own Gabe Walls unfortunately was playing one of the decks Pinter was gunning for, Zombie-Upheaval. Walls is hard at work cementing himself as Indiana's #1 Magic player. Walls mentioned he would like to thank The Sports Bench and Don Willis for his success.
 
 Game 1, Pinter won the roll and had to double mulligan. Nevertheless, He managed to get a turn two Wild Mongrel and Basking Rootwalla. He started the beatdown against Gabe who played a turn two Zombie Infestation. Stuck on only two lands, Pinter opted for five points a turn against Walls. Gabe made two Zombies and flashed back a Deep Analysis. This took care of the Rootwalla, but the beats kept coming from the Mongrel. Pinter found his third land and tried playing two Anurid Brushhoppers, but both of them met Circular Logics from Gabe. Gabe was powerless to stop all the creatures from Pinter's deck after this and a Glory sealed the deal for Pinter.
 

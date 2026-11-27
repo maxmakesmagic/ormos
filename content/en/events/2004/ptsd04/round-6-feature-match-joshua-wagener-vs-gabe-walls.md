@@ -463,7 +463,9 @@ render_recovery:
 ---
 * * *
 
-![Joshua Wagener](http://wizards.com/sideboard/images/ptsd04/fm12_1.jpg)There's a lot of history between these players. Walls and Wagener met in the finals at US Nationals, at this very venue last year. Wagener came out on top, and Walls joined him on the US National team, along with Justin Gary. The trio went on to victory at Worlds in Berlin, and Walls made Top 8 of the individual competition to boot. Both are 3-2 going into this round, and need a win to stay in the tournament.
+![Joshua Wagener](http://wizards.com/sideboard/images/ptsd04/fm12_1.jpg)
+
+There's a lot of history between these players. Walls and Wagener met in the finals at US Nationals, at this very venue last year. Wagener came out on top, and Walls joined him on the US National team, along with Justin Gary. The trio went on to victory at Worlds in Berlin, and Walls made Top 8 of the individual competition to boot. Both are 3-2 going into this round, and need a win to stay in the tournament.
 
 ### Game 1
 

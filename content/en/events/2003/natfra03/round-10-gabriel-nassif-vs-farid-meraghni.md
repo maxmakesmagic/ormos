@@ -85,7 +85,9 @@ With three rounds of swiss left these two Pro Tour fixtures have to go 2-1 to ma
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/natfra03/a939.jpg)Both players had to take a mulligan, but Farid's six card draw was rather good in any case. He summoned a first turn Bird of Paradise, then put Squirrel Nests on Forests on both turns two and three. Gabriel Smothered the Bird and played a Psychatog.
+![](http://www.wizards.com/sideboard/images/natfra03/a939.jpg)
+
+Both players had to take a mulligan, but Farid's six card draw was rather good in any case. He summoned a first turn Bird of Paradise, then put Squirrel Nests on Forests on both turns two and three. Gabriel Smothered the Bird and played a Psychatog.
 
 He then Cabal Therapied away a Counterspell and a Cunning Wish. With two Squirrel Nests he was able to build an offensive force and chump-block the Tog each turn. Gabriel drew a handful of countermagic, and nothing that could deal with Squirrel Nest. Farid had also Quiet Speculationed for more Cabal Therapies, and flashed them back with Squirrels.
 

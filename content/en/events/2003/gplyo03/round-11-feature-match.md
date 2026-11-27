@@ -75,13 +75,17 @@ render_recovery:
   - Betrayal of Flesh
   occurrences: 26
 ---
-![](http://www.wizards.com/sideboard/images/gplyo03/a891.jpg)Olivier commented before the match that things weren't as good today as they were yesterday – especially since he was facing Kai this round. Kai's removal heavy deck also had a lot of mana acceleration with two talismans and two myrs, making him the favorite this round. 
+![](http://www.wizards.com/sideboard/images/gplyo03/a891.jpg)
+
+Olivier commented before the match that things weren't as good today as they were yesterday – especially since he was facing Kai this round. Kai's removal heavy deck also had a lot of mana acceleration with two talismans and two myrs, making him the favorite this round. 
 
 ### Game 1
 
 Olivier won the toss and started with a first turn Bonesplitter. A Copper Myr came down for him on his second turn, but he only had a 3 drop to play on his third turn – a Wizard Replica. Kai Shattered Olivier's Bonesplitter and played a Goblin Replica. Silver Myr was on the top of Olivier's library and he smashed it on the table. Kai added a Clockwork Condor to his side of the table but Olivier would have none of it and played a Loomering Hoverguard, putting Kai's Condor back on top of his library. A Consume Spirit would deal with the blue flier though.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a892.jpg)A Wurmskin Forger made all of Olivier's creatures a little more scary – his Copper Myr received a counter and the other two stayed on the green creature. A Goblin War Wagon showed up on Olivier's side as well after he attacked his Myr into Kai's Condor. As the Wurmskin Forger went unblocked, Kai fell to 12. The German's next turn went by eventless, but when Olivier attacked next turn, Kai's Goblin Replica chumpblocked and then destroyed the War Wagon. A Lumengrid Augur showed up on Olivier's side, electing a "stop drawing spells every turn please" from Kai. It wasn't to be however as an Aether Spellbomb dealt with Kai's last blocker.
+![](http://www.wizards.com/sideboard/images/gplyo03/a892.jpg)
+
+A Wurmskin Forger made all of Olivier's creatures a little more scary – his Copper Myr received a counter and the other two stayed on the green creature. A Goblin War Wagon showed up on Olivier's side as well after he attacked his Myr into Kai's Condor. As the Wurmskin Forger went unblocked, Kai fell to 12. The German's next turn went by eventless, but when Olivier attacked next turn, Kai's Goblin Replica chumpblocked and then destroyed the War Wagon. A Lumengrid Augur showed up on Olivier's side, electing a "stop drawing spells every turn please" from Kai. It wasn't to be however as an Aether Spellbomb dealt with Kai's last blocker.
 
 "I'm sure I still had a good card left in my deck"- Olivier
 
@@ -91,7 +95,9 @@ Ruel 1 – Budde 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a893.jpg)Once again Olivier had a first turn Bonesplitter but not the Myr to follow it up. Kai shattered the equipment before the Frenchman had a chance to put it on one of his creatures. A Wizard replica came down next, together with a Tel-Jihad Exile. Kai, who was stuck on three lands, couldn't answer Olivier's threats and when the Frenchman played a Wanderguard Sentry, a removal heavy hand was shown, with Irradiate and two Consume Spirits in there. The German drew his fourth land, which enabled him to play out a Goblin War Wagon, but a Predator's Strike on Olivier's side made sure that it wouldn't survive combat.
+![](http://www.wizards.com/sideboard/images/gplyo03/a893.jpg)
+
+Once again Olivier had a first turn Bonesplitter but not the Myr to follow it up. Kai shattered the equipment before the Frenchman had a chance to put it on one of his creatures. A Wizard replica came down next, together with a Tel-Jihad Exile. Kai, who was stuck on three lands, couldn't answer Olivier's threats and when the Frenchman played a Wanderguard Sentry, a removal heavy hand was shown, with Irradiate and two Consume Spirits in there. The German drew his fourth land, which enabled him to play out a Goblin War Wagon, but a Predator's Strike on Olivier's side made sure that it wouldn't survive combat.
 
 Another Swamp for Kai allowed him to start playing Consume Spirits on Olivier's creatures but Wizard Replica countered the first attempt. However, Olivier's Wanderguard Sentry did fall to the next one. The Frenchman replenished his army with a Tel-Jihad Archers, and played out an Aether Spellbomb to deny Kai any of his creatures. A Betrayal of Flesh with entwine from Kai killed off the Archers and got back his War Wagon, but it wasn't enough as Olivier had an additional 2/2 to swarm him. 
 

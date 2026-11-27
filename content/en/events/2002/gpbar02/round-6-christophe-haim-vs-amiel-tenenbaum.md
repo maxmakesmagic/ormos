@@ -77,7 +77,9 @@ render_recovery:
   - Ghostly Wings
   occurrences: 29
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a956.jpg)We started this round with an example of good sportsmanship between both players, who were laughing and joking with each other. Christophe Haim made his first Pro Tour Top 8 last week in Osaka.
+![](http://www.wizards.com/sideboard/images/gpbar02/a956.jpg)
+
+We started this round with an example of good sportsmanship between both players, who were laughing and joking with each other. Christophe Haim made his first Pro Tour Top 8 last week in Osaka.
 
 ### Game 1
 
@@ -95,7 +97,9 @@ Good mood was still present at the table and both players kept talking about the
 Amiel decided to go first and kept his hand, while Haim took a mulligan.  
  After some land dropping, Christophe started the hostilities with Seton's Scout. A Hydromorphic Guardian joined his forces. On the other side of the table, a Possessed Centaur and a Carrion Wurm had been cast. Tenenbaum then cast Crippling Fatigue twice to clear the table and attacked with his beasts.
 
-![](http://www.wizards.com/sideboard/images/gpbar02/a957.jpg)A Petravrak removed a land on Tenenbaum's side and hoped for reinforcements. A Kamahl then hit the ground on Haim's side to kill the Centaur while a Waste away took care of the pit fighter. At eight life Haim decided to let the Carrion Wurm deal no damage by removing three cards from his graveyard.
+![](http://www.wizards.com/sideboard/images/gpbar02/a957.jpg)
+
+A Petravrak removed a land on Tenenbaum's side and hoped for reinforcements. A Kamahl then hit the ground on Haim's side to kill the Centaur while a Waste away took care of the pit fighter. At eight life Haim decided to let the Carrion Wurm deal no damage by removing three cards from his graveyard.
 
 He then cast a Thermal Blast and a Sonic Seizure to kill of the Wurm and attacked with his Windreader. Tenenbaum cast a Nantuko Disciple and Haim responded with Roar of the Wurm. Amiel then enchanted the Wurm with Patriarch's Desire kill it as he blocked it with his pumped up disciple. The Aven kept nibbling at Tenenbaum's life totals though leaving him at three life. A Krosan Archer was cast to block the Aven while an Upheaval was revealed. Christophe then cast a Cephalid Looter hoping for some answers in his deck. Meanwhile Amiel got a Seton's Scout out as another blocker for the Windreader. A concentrate on Haim's side together with a sacrificed Standstill gave him some more cards to find an answer. Amiel played Upheaval with four mana in his mana pool to pay a Syncopate on Haim's side. Upheaval resolved. 
 

@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/25/f3/25f3763bea09fce5f3ab009f96704c992cd1ee96b8cd75f4847fa482f36dd921.png)Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/25/f3/25f3763bea09fce5f3ab009f96704c992cd1ee96b8cd75f4847fa482f36dd921.png)
+
+Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name:** *Duel Decks: Ajani vs. Nicol Bolas*  
 **Number of Cards:** 120

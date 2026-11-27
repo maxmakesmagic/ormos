@@ -44,7 +44,9 @@ archive_source:
   sha256: 1f256907a3636134f6c5924af76bf11bc69754515a93a0e693c1f80bf96b7cce
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/qf1_1.jpg)Frank, the king of splits has done it again. Despite only having a 5% split during the swiss, his quarterfinal opponent agreed to a split before these games. This is what Frank does, and he is the best at what he does! Frank, the guy who is called the cutest amongst all magic players by his female fans, has had an impressive, yet not really awe inspiring career on the PT. He has been gravytraing for a couple of years now and is very much respected by his peers. His opponent, Kamman, who is originally also Dutch but now lives in the UK, is just at the started of his PT career. He had also made top 32 at GP Madrid though, so be wary of this up and comer.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/qf1_1.jpg)
+
+Frank, the king of splits has done it again. Despite only having a 5% split during the swiss, his quarterfinal opponent agreed to a split before these games. This is what Frank does, and he is the best at what he does! Frank, the guy who is called the cutest amongst all magic players by his female fans, has had an impressive, yet not really awe inspiring career on the PT. He has been gravytraing for a couple of years now and is very much respected by his peers. His opponent, Kamman, who is originally also Dutch but now lives in the UK, is just at the started of his PT career. He had also made top 32 at GP Madrid though, so be wary of this up and comer.
 
 ### Game 1
 

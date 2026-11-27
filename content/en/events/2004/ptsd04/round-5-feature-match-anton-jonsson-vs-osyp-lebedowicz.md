@@ -431,7 +431,9 @@ render_recovery:
 ---
 * * *
 
-![Anton Jonsson](http://wizards.com/sideboard/images/ptsd04/fm9_1.jpg)The conversation at the table shifted to the Invitational right away. Specifically, Osyp was telling stories about the press training the players had to go through, and how rigid Kai Budde was through most if it.
+![Anton Jonsson](http://wizards.com/sideboard/images/ptsd04/fm9_1.jpg)
+
+The conversation at the table shifted to the Invitational right away. Specifically, Osyp was telling stories about the press training the players had to go through, and how rigid Kai Budde was through most if it.
 
 Osyp- "You should have seen Kai during the press training. One of the questions was. 'Do you enjoy the fantasy aspect of the game?' (shifts into mock German accent) 'I don't care for it.'" 
 

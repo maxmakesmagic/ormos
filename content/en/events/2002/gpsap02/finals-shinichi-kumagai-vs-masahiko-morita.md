@@ -91,19 +91,25 @@ render_recovery:
   - Upheaval
   occurrences: 85
 ---
-![](http://www.wizards.com/sideboard/images/gpsap02/a931.jpg)Shinichi Kumagai is on a huge roll. After navigating Day 1 with a 6-1-1 record, without the benefit of byes, mind you, he turned around and posted 5-0 on Day 2, drawing his way into the Top 8. Pretty good for an amateur. Opposite him is the man people expect to walk with the tournament title: Masahiko Morita. Apprentice to Tsuyoshi Fujita, Morita is considered the hottest talent on the Japanese pro scene. He possesses a keen eye for the game as well as the drive to prepare diligently for every event. Once upon a time he was the guy who couldn't win a Grand Prix, always exiting in the finals. That all changed at Nagoya, and now players are just waiting for him to crack a Pro Tour Top 8.
+![](http://www.wizards.com/sideboard/images/gpsap02/a931.jpg)
+
+Shinichi Kumagai is on a huge roll. After navigating Day 1 with a 6-1-1 record, without the benefit of byes, mind you, he turned around and posted 5-0 on Day 2, drawing his way into the Top 8. Pretty good for an amateur. Opposite him is the man people expect to walk with the tournament title: Masahiko Morita. Apprentice to Tsuyoshi Fujita, Morita is considered the hottest talent on the Japanese pro scene. He possesses a keen eye for the game as well as the drive to prepare diligently for every event. Once upon a time he was the guy who couldn't win a Grand Prix, always exiting in the finals. That all changed at Nagoya, and now players are just waiting for him to crack a Pro Tour Top 8.
 
 Kumagai won the die roll, and tried a turn-two Quiet Speculation. It was Enveloped by Morita, who then played one of his own. It fetched two Roars and a Deep Analysis. Kumagai was stuck at just two islands and made an Aquamoeba. Morita gained momentum with a Catalyst Stone and flashed back the Analysis. Kumagai wrested some of that with a pair of Rootwallas at end of turn, pitching a third for damage on the next attack. He Speculated for two Roars and a Krosan Reclamation, hoping for the best. Morita made a pair of Wurms.
 
 Finally, Kumagai drew his forest. Living Wish got him Wonder, and he pitched it, swinging for six. Morita stood at just six life. Morita untapped and bashed for twelve. Another Speculation got him Moment's Peace, Roar of the Wurm and Grizzly Fate. He made a third Wurm.
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a930.jpg)Kumagai didn't like his way one bit. He swung with Aquamoeba and Rootwalla. Morita let it through. He pitched another Wonder and pumped the Rootwalla, forcing the Peace. Morita counterattacked, taking down two Rootwallas. Careful Study after combat put Wonder in his Graveyard. Kumagai drew his fourth land for the Reclamation, but it was too late. He could only hit for four, and Morita's counterattack would crush him.
+![](http://www.wizards.com/sideboard/images/gpsap02/a930.jpg)
+
+Kumagai didn't like his way one bit. He swung with Aquamoeba and Rootwalla. Morita let it through. He pitched another Wonder and pumped the Rootwalla, forcing the Peace. Morita counterattacked, taking down two Rootwallas. Careful Study after combat put Wonder in his Graveyard. Kumagai drew his fourth land for the Reclamation, but it was too late. He could only hit for four, and Morita's counterattack would crush him.
 
 Morita 1 - Kumagai 0
 
 Kumagai had no early pressure in his hand for Game 2, letting Morita have free reign with Sylvan Safekeeper, and then Quiet Speculation for two Roars and an Analysis. Aether Burst sent the Safekeeper home, and Kumagai drew into Aquamoeba, greatly improving his grip of Circular Logic and Roar of the Wurm.
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a929.jpg)Morita Analyzed and replayed his Safekeeper. Kumagai ripped again, this time Catalyst Stone, and just in time. He pitched the Roar for damage and then played out the Stone and Roar. Morita Studied away a third Roar and played a Stone of his own, but he was behind in the race. Kumagai bashed him for nine. Morita tried a Grizzly Fate. It fell to the Logic. Another attack reduced him to two.
+![](http://www.wizards.com/sideboard/images/gpsap02/a929.jpg)
+
+Morita Analyzed and replayed his Safekeeper. Kumagai ripped again, this time Catalyst Stone, and just in time. He pitched the Roar for damage and then played out the Stone and Roar. Morita Studied away a third Roar and played a Stone of his own, but he was behind in the race. Kumagai bashed him for nine. Morita tried a Grizzly Fate. It fell to the Logic. Another attack reduced him to two.
 
 Morita played a Roar with two mana open, signalling his Moment's Peace. Kumagai attacked to force it out, and passed it back. Morita made another Wurm. Kumagai added another Aquamoeba. Morita stared at his fat graveyard and seven lands and tried to find the best course of action. He chose to swing for twelve. Kumagai took it. Morita made a Wurm and gave it back, banking on his Moment's Peace for the win.
 
@@ -115,7 +121,9 @@ Morita mulliganed away a terrible hand of two islands, Wonder, and green cards. 
 
 Morita started things with Wild Mongrel. Kumagai ripped one of his own to keep it interesting. Morita swung for two and played Werebear. Kumagai ripped another Mongrel. He pitched Wonder, served for three, and played the second Mongrel. Morita hit again and Speculated, getting two Roars and a Moment's Peace.
 
-![](http://www.wizards.com/sideboard/images/gpsap02/a928.jpg)Kumagai hit for four and did a little Speculating of his own. He got Krosan Reclamation along with two Roars, sending Morita's Roars back into his library. Morita was way behind now. He attacked for two and made a Grizzly Fate. It was no concern for Kumagai and his Wonder. He drew Catalyst Stone, played it, and made a Roar token. Morita had no play. The token forced out his Moment's Peace.
+![](http://www.wizards.com/sideboard/images/gpsap02/a928.jpg)
+
+Kumagai hit for four and did a little Speculating of his own. He got Krosan Reclamation along with two Roars, sending Morita's Roars back into his library. Morita was way behind now. He attacked for two and made a Grizzly Fate. It was no concern for Kumagai and his Wonder. He drew Catalyst Stone, played it, and made a Roar token. Morita had no play. The token forced out his Moment's Peace.
 
 He had another in hand for the following assault, but time was about all it bought him. Kumagai had another Stone. Now the flashback cost Morita all his mana. Another turn, and the rookie had taken the finals.
 

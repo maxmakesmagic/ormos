@@ -71,7 +71,9 @@ render_recovery:
   - Skyhunter Cub
   occurrences: 13
 ---
-![](https://www.wizards.com/sideboard/images/gplyo03/941.jpg)Federico Dato is an experienced Italian player who drove here all the way from Rome. He was still recovering from the 10 hour car drive but still managed to post an undefeated record after five rounds. Mattias Jorstedt obviously needs no introduction with two PT quarterfinals last year leading up to his eventual PT win in Yokohama, Japan. He even has more PT points than Kai right now! 
+![](https://www.wizards.com/sideboard/images/gplyo03/941.jpg)
+
+Federico Dato is an experienced Italian player who drove here all the way from Rome. He was still recovering from the 10 hour car drive but still managed to post an undefeated record after five rounds. Mattias Jorstedt obviously needs no introduction with two PT quarterfinals last year leading up to his eventual PT win in Yokohama, Japan. He even has more PT points than Kai right now! 
 
 Both players are 5-0 today and looking to make day 2 in good shape for an eventual top 8 finish.
 
@@ -85,6 +87,8 @@ Mattias 1 - Federico 0
 
 ### Game 2
 
-![](https://i.ormos.uk/43/70/4370050c0cb309926782d7c7c4d64a81ec980dc873efec6da0297f952644cd91.jpg)Game 2 was over before it even started as Federico made a mistake during sideboarding that left him with only 39 cards and got himself a game loss.
+![](https://i.ormos.uk/43/70/4370050c0cb309926782d7c7c4d64a81ec980dc873efec6da0297f952644cd91.jpg)
+
+Game 2 was over before it even started as Federico made a mistake during sideboarding that left him with only 39 cards and got himself a game loss.
 
 Mattias 2 - Federico 0

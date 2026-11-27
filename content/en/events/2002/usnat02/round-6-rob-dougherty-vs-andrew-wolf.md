@@ -53,7 +53,9 @@ archive_source:
   sha256: fd5796599a94b985f39622e8f60aa623f38e613048bf2b57c58b6406509618c9
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/usnat02/a907.jpg)Sometimes creativity can give you the edge in an uncertain metagame, and sometimes it just gives you a bad deck. Rob Dougherty is playing a brand new deck he concocted before the tournament called "Umbrella Corp" (A tribute to Resident Evil) based on Zombie Infestation, Obliterate, and Bearscape. He's gotten one win for his efforts and sits at 1-3-1.
+![](http://www.wizards.com/sideboard/images/usnat02/a907.jpg)
+
+Sometimes creativity can give you the edge in an uncertain metagame, and sometimes it just gives you a bad deck. Rob Dougherty is playing a brand new deck he concocted before the tournament called "Umbrella Corp" (A tribute to Resident Evil) based on Zombie Infestation, Obliterate, and Bearscape. He's gotten one win for his efforts and sits at 1-3-1.
 
 His opponent is Andrew Wolf, who also has an "eh" 1-3-1 record, but he's playing a more traditional deck, Psychatog. The causes for his woes are a little tougher to explain.
 
@@ -62,7 +64,9 @@ Wolf: "This is the pity feature match."
 
 Dougherty, sporting the brand new gold wedding band, led off with an Underground River. "What's so weird about that?" asked Wolf. Dougherty played a Yavimaya Coast second and Wild Mongrel. "That's a little weirder, ok, not that weird," said Wolf, still wondering what all the hullabaloo around Dougherty's deck was.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a911.jpg)Wolf had a very aggressive start – a Nightscape Familiar and a turn-3 Possessed Aven. Dougherty then started building his combo – Zombie Infestation then Bearscape. Wolf hung tight with his familiar and kept attacking in the air.
+![](http://www.wizards.com/sideboard/images/usnat02/a911.jpg)
+
+Wolf had a very aggressive start – a Nightscape Familiar and a turn-3 Possessed Aven. Dougherty then started building his combo – Zombie Infestation then Bearscape. Wolf hung tight with his familiar and kept attacking in the air.
 
 Dougherty decided the best use for his cards was making 2/2's, so he pitched his hand to make 2 Zombies and 2 Bears.
 
@@ -76,7 +80,9 @@ Dougherty 0 – Wolf 1
 
 Rob led off with a Llanowar Wastes and passed the turn. Andrew played a Swamp and a Duress, revealing Zombie Infestation, 2 Chainer's Edicts, a Blurred Mongoose, a Bearscape, and a Deep Anlysis. "Look at all this interesting stuff—hey, there's no more land in here!" He chose the Infestation.
 
-![](http://www.wizards.com/sideboard/images/usnat02/a912.jpg)Dougherty drew a bunch of land in a row, and started casting spells – Mongoose, Edict the Nightscape Familiar, Bearscape, Deep Analysis, and Duress one of Wolf's THREE Fact or Fictions.
+![](http://www.wizards.com/sideboard/images/usnat02/a912.jpg)
+
+Dougherty drew a bunch of land in a row, and started casting spells – Mongoose, Edict the Nightscape Familiar, Bearscape, Deep Analysis, and Duress one of Wolf's THREE Fact or Fictions.
 
 But none of that was sufficient pressure on Wolf, who managed to find two Psychatogs with his Fact or Fiction array. Eventually he filled his graveyard and started attacking. Rob started making Bears, but that was to little avail – Wolf had Repulse and Recoil. The Psychatog eventually got through, and with Dougherty's life total depleted from his painlands again, it didn't take much to kill him.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/f5/76/f576775183ce292827e99956b7b25deb241f9fd23b408b54b54e2a8b52420f8a.jpg)This may only be the Semifinals, but from the size of the crowd watching it, you could swear it's the last match of the tournament. Asahara is on quite a hot streak lately, winning Japan's big end of the year tournament last month. He followed that performance up with making it to this point of Grand Prix Okayama, which shouldn't come as a surprise- he's made the Top 16 of the last two Extended Pro Tours. This weekend, he's playing Masami Ibamoto's "Loop Junktion" infinite life deck, which has quickly become the talk of the tournament. Between multiple ways to get the combo off and plenty of tutors for consistency and "silver bullets", it has a tremendous amount of power and versatility. This round won't be easy though, as he's against fellow Japanese superstar Itaru Ishida. Ishida cruised through the swiss rounds into the first seed of the Top 8, and is aiming to finish up a great tournament with two more match wins.
+![](https://i.ormos.uk/f5/76/f576775183ce292827e99956b7b25deb241f9fd23b408b54b54e2a8b52420f8a.jpg)
+
+This may only be the Semifinals, but from the size of the crowd watching it, you could swear it's the last match of the tournament. Asahara is on quite a hot streak lately, winning Japan's big end of the year tournament last month. He followed that performance up with making it to this point of Grand Prix Okayama, which shouldn't come as a surprise- he's made the Top 16 of the last two Extended Pro Tours. This weekend, he's playing Masami Ibamoto's "Loop Junktion" infinite life deck, which has quickly become the talk of the tournament. Between multiple ways to get the combo off and plenty of tutors for consistency and "silver bullets", it has a tremendous amount of power and versatility. This round won't be easy though, as he's against fellow Japanese superstar Itaru Ishida. Ishida cruised through the swiss rounds into the first seed of the Top 8, and is aiming to finish up a great tournament with two more match wins.
 
 ### Game 1
 

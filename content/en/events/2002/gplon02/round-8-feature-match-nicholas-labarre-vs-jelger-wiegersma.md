@@ -76,7 +76,9 @@ render_recovery:
   - Zombie Infestation
   occurrences: 35
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/942.jpg)Just one more round for these players before they can go and have a rest before Sunday's play. Both have had a rather nice day, and the winner will retain a 100% record for the day.
+![](https://www.wizards.com/sideboard/images/gplon02/942.jpg)
+
+Just one more round for these players before they can go and have a rest before Sunday's play. Both have had a rather nice day, and the winner will retain a 100% record for the day.
 
 ### Game 1
 
@@ -90,7 +92,9 @@ Both brought in the Braids and Mesmeric Fiends for game two, and interestingly b
 
 ### Game 2
 
-![](https://www.wizards.com/sideboard/images/gplon02/941.jpg)Nicholas chose to play first, and took a mulligan. His next hand had Mesmeric Fiend, Rancid Earth and Braids, but only one Swamp. After a little think, he got rid of that as well and kept his five cards. He was less than gruntled to discover that Jelger was happy with his seven cards, and his turn two Mesmeric Fiend revealed that Jelger had three Swamps, a Cabal Coffers and two Nantuko Shades in his hand. Jelger topdecked an Innocent Blood to kill the Fiend on the next turn, releasing his Nantuko Shade. On turn three Nicholas had to cast Tainted Pact in his main phase to find a Swamp, which Jelger got rid of with a Rancid Earth. Nicholas missed his next land drop and made another Fiend, taking one of Jelger's Shades. Jelger cast the other one and started to attack. Nicholas still couldn't draw another land, and Jelger's Tainted Pact revealed a Zombie Infestation, which would make the Shade near impossible to remove as all Nicholas' Mutilates were sitting in his sideboard. He compounded the Frenchman's misery with a second Nantuko Shade.
+![](https://www.wizards.com/sideboard/images/gplon02/941.jpg)
+
+Nicholas chose to play first, and took a mulligan. His next hand had Mesmeric Fiend, Rancid Earth and Braids, but only one Swamp. After a little think, he got rid of that as well and kept his five cards. He was less than gruntled to discover that Jelger was happy with his seven cards, and his turn two Mesmeric Fiend revealed that Jelger had three Swamps, a Cabal Coffers and two Nantuko Shades in his hand. Jelger topdecked an Innocent Blood to kill the Fiend on the next turn, releasing his Nantuko Shade. On turn three Nicholas had to cast Tainted Pact in his main phase to find a Swamp, which Jelger got rid of with a Rancid Earth. Nicholas missed his next land drop and made another Fiend, taking one of Jelger's Shades. Jelger cast the other one and started to attack. Nicholas still couldn't draw another land, and Jelger's Tainted Pact revealed a Zombie Infestation, which would make the Shade near impossible to remove as all Nicholas' Mutilates were sitting in his sideboard. He compounded the Frenchman's misery with a second Nantuko Shade.
 
 Down to ten life Nicholas finally got a fourth land and cast a Faceless Butcher taking one of the Shades. Jelger's next turn was devastating, as he swung with his Shade, forcing a chump block by the Butcher, and then summoned Braids. Facing 2 Shades and a Braids, Nicholas died in short order.
 

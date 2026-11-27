@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/395.JPG)In the semifinals, Noah Boeken faced Loic Dobrigna in a match where green creatures would try and break through a wall of defense before huge critters would bust into the field. Playing Stompy, Noah had already crushed Gert Coeckelbergh's Trinity deck, while Loic Dobrigna had defeated a lot of rebels and their leader, Wolfgang Eder.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/395.JPG)
+
+In the semifinals, Noah Boeken faced Loic Dobrigna in a match where green creatures would try and break through a wall of defense before huge critters would bust into the field. Playing Stompy, Noah had already crushed Gert Coeckelbergh's Trinity deck, while Loic Dobrigna had defeated a lot of rebels and their leader, Wolfgang Eder.
 
 Dobrigna won the coin flip and chose to go first. He played a Faerie Conclave, and Boeken played a Wild Dogs. When Loic then played an island and a Powder Keg, Noah tossed down a Vine Dryad, removing an Elvish Lyrist from the game. He followed up by Rancoring the Dryad, and the two creatures went in for five.
 
@@ -60,7 +62,9 @@ Things started looking bad for Noah when a Morphling hit the table, and Loic beg
 
 Boeken 0 - Dobrigna 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/398.JPG)"Now I will crush you. Good luck," Noah grinned before the second game started. And this game was totally different. Boeken played a Treetop Village and then a River Boa. Dobrigna didn't have any basic lands, though - or perhaps he just didn't cast them. Instead, he played a Faerie Conclave and a Dust Bowl and then another Faerie Conclave. "I won't play islands," he proclaimed. "You suck," Noah joked, but it didn't really matter. Noah tried to Rancor up the first Boa, an Annul stopped that. But the Boa attacked, and another Boa came into play.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/398.JPG)
+
+"Now I will crush you. Good luck," Noah grinned before the second game started. And this game was totally different. Boeken played a Treetop Village and then a River Boa. Dobrigna didn't have any basic lands, though - or perhaps he just didn't cast them. Instead, he played a Faerie Conclave and a Dust Bowl and then another Faerie Conclave. "I won't play islands," he proclaimed. "You suck," Noah joked, but it didn't really matter. Noah tried to Rancor up the first Boa, an Annul stopped that. But the Boa attacked, and another Boa came into play.
 
 Loic had a Powder Keg and cast it, but Noah attacked with the Boas and cheered as he slammed down an Uktabi Orangutan to kill the Keg. Dobrigna, getting low on life, tapped out to play a Masticore, just to see Noah slam down yet another Masticore. After getting down to five live, Loic simply drew a card and scooped.
 
@@ -78,7 +82,9 @@ Loic's problem was that he only had one card in his hand, but the crowd cheered 
 
 Boeken 2 - Dobrigna 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/400.JPG)The final game was nothing but a beating. Dobrigna mulliganed once, and played an island. That was Noah's cue. He slapped down a Pouncing Jaguar and a Rushwood Legate - and then another Rushwood Legate. The assault started, and Loic had plenty do to just trying to defend himself. He cast a Powder Keg and blew up the Jaguar, but a the Legates kept beating him down, one of them even Rancored up.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/400.JPG)
+
+The final game was nothing but a beating. Dobrigna mulliganed once, and played an island. That was Noah's cue. He slapped down a Pouncing Jaguar and a Rushwood Legate - and then another Rushwood Legate. The assault started, and Loic had plenty do to just trying to defend himself. He cast a Powder Keg and blew up the Jaguar, but a the Legates kept beating him down, one of them even Rancored up.
 
 Noah then summoned an Albino Troll, but when he attacked, Dobrigna cast Hibernation. The creatures jumped up on Noah's hand just to jump back down on the table. Loic then Treacheried the Troll, and the Legates took another trip back to their owner's hand after a Withdraw. But they were back the next turn, and Noah tried to cast Rancor on one of them. An Annul stopped the Rancor, but Noah had yet another one. A Tangle Wire later, Noah was in the finals.
 

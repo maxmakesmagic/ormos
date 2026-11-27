@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://i.ormos.uk/f1/ed/f1ed6ce30ed980af67e97f13b4eefd45fda25e4b25350237da9209f69a73309c.jpg)Back in 1997 Pro Tour New York, Mike Pustilnik made the Top 8 and lost in the quarterfinals. After that, he has had a long period of time where he has done well, although he hasn't had any further Pro Tour Top 8 finishes. "I was actually having a lot of doubts about my abilities as a professional Magic player. This gives me a lot of confidence. It means a great deal," the 35-year old Brooklyn resident grins after winning his last match of the swiss to make the Top 8 of 2000 Pro Tour Chicago. 
+![](https://i.ormos.uk/f1/ed/f1ed6ce30ed980af67e97f13b4eefd45fda25e4b25350237da9209f69a73309c.jpg)
+
+Back in 1997 Pro Tour New York, Mike Pustilnik made the Top 8 and lost in the quarterfinals. After that, he has had a long period of time where he has done well, although he hasn't had any further Pro Tour Top 8 finishes. "I was actually having a lot of doubts about my abilities as a professional Magic player. This gives me a lot of confidence. It means a great deal," the 35-year old Brooklyn resident grins after winning his last match of the swiss to make the Top 8 of 2000 Pro Tour Chicago. 
 
 Pustilnik tested his Fires of Yavimaya deck a lot, and he figured that it was the best choice for the format. Then, he lost confidence in the deck the day before the tournament after playtesting heavily - and losing - against blue/white control. However, he stuck with the deck because he felt that he had to play a deck that he knew, and the Fires deck didn't let him down. Pustilnik went 11-3 in the swiss, which sent him into the playoff as the third seed. 
 

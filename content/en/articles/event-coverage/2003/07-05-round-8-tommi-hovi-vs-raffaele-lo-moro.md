@@ -44,7 +44,9 @@ archive_source:
   sha256: 4e92ef96bb41fdf483312c9be4a074788cf178f3fd31b94643ae55b5545cffab
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a917.jpg)For the first Feature Match of the second day we have two Magic "old-timers". Tommi Hovi, the first player to win two Pro Tours ad Raffaele Lo Moro, one of Italy's most recognizable names, with a Worlds Top 8 to his credit.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a917.jpg)
+
+For the first Feature Match of the second day we have two Magic "old-timers". Tommi Hovi, the first player to win two Pro Tours ad Raffaele Lo Moro, one of Italy's most recognizable names, with a Worlds Top 8 to his credit.
 
 ### Game 1
 
@@ -66,7 +68,9 @@ Tommi 1-0 Raffaele.
 
 Again Hovi came out with second turn Seeker, but this time Lo Moro was ready with [Flamewave Invoker](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker) to trade on the next combat step. They both followed with morphs and Tommi thought long and hard about is next attack.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a918.jpg)Eventually he sent his morph in and Lo Moro let it through. He played another morph and decided not to block incoming one. As it turns out it was [Skirk Commando](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando). Out went the first morph: [Echo Tracer](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a918.jpg)
+
+Eventually he sent his morph in and Lo Moro let it through. He played another morph and decided not to block incoming one. As it turns out it was [Skirk Commando](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando). Out went the first morph: [Echo Tracer](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer).
 
 That seemed to slow Hovi a bit. Lo Moro seized the opportunity to played [Frenetic Raptor](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frenetic+Raptor) and Hovi answered with a somewhat smaller [Noble Templar](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Templar). The Italian was in a hurry and a [Torrent of Fire](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Torrent+of+Fire) took the Templar out of the way.
 
@@ -84,7 +88,9 @@ They retouched their sideboards in deep silence, going back and forth between ca
 
 Hovi's starting hand wasn't easy. He only had two [Island](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s as lands and a lot of White cards. Still, he decided to stick with it and by turn three he had a [Plains](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) to play out a morph and by turn four he had a second [Plains](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) to drop [Mistform Ultimus](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Ultimus).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a919.jpg)Lo Moro started with two [Flamewave Invoker](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker)s. With the ground clogging up Hovi went up with [Gustcloak Harrier](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Harrier). In a hurry to get things going Lo Moro brought down a [Torrent of Fire](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Torrent+of+Fire) on the Ultimus and sent the twins in.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a919.jpg)
+
+Lo Moro started with two [Flamewave Invoker](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker)s. With the ground clogging up Hovi went up with [Gustcloak Harrier](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Harrier). In a hurry to get things going Lo Moro brought down a [Torrent of Fire](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Torrent+of+Fire) on the Ultimus and sent the twins in.
 
 Hovi returned the favor and dropped a second Harrier and [Glory Seeker](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glory+Seeker). The race was on. Tommi ignored the incoming Invokers and sent his whole army in. Lo Moro stared at them and walked right into [Frontline Strategist](https://web.archive.org/web/20030705000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frontline+Strategist) losing two blockers. Which obviously drew some Italian words from Raffaele.
 

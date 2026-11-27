@@ -1177,7 +1177,9 @@ My goal today is to outline what cards you want to make sure to obtain if you're
 
 ### Selesnya Conclave Beatdown
 
-![](https://i.ormos.uk/2e/3d/2e3de90c02d649cab31cc59de6316a68427c1d9f6476940c2c16a6390558fecc.jpg)Let's start with where I've most recently traveled. If you make aggro decks like the one I built over the past three weeks, you want to have cheap, efficient threats. Your goal is to count to twenty damage as quickly as possible. You don't plan for the late-game because you don't anticipate a late-game existing. Pure beatdown decks are about WHAM! WHAM! WHAM! until all that's left of your opponent is a smoldering crater. In fact, an opponent defeated by a beatdown deck is usually stuttering and asking “It is over? Already?”
+![](https://i.ormos.uk/2e/3d/2e3de90c02d649cab31cc59de6316a68427c1d9f6476940c2c16a6390558fecc.jpg)
+
+Let's start with where I've most recently traveled. If you make aggro decks like the one I built over the past three weeks, you want to have cheap, efficient threats. Your goal is to count to twenty damage as quickly as possible. You don't plan for the late-game because you don't anticipate a late-game existing. Pure beatdown decks are about WHAM! WHAM! WHAM! until all that's left of your opponent is a smoldering crater. In fact, an opponent defeated by a beatdown deck is usually stuttering and asking “It is over? Already?”
 
 If you like slamming an opponent to the floor and want the Selesnya Conclave to help, consider these Standard staples:
 

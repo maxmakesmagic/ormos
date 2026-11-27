@@ -64,7 +64,9 @@ Dave won the roll and played first; both players kept their hands. The first two
 
 Before momentum could really swing to either side, Dave dropped a Swamp (now showing four colors) and smashed both Aggressor and one of three Mountains. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/834.jpg)Nate dropped a Swamp and laid out a Nightscape Apprentice, Dave responded with a 4/2 Kavu Scout. Nate tried a Firescreamer, but before these creatures even really had a chance to form a stand-off, Dave cast Armadillo Cloak on his Scout and came rushing over to create a 23 - 13 life advantage. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/834.jpg)
+
+Nate dropped a Swamp and laid out a Nightscape Apprentice, Dave responded with a 4/2 Kavu Scout. Nate tried a Firescreamer, but before these creatures even really had a chance to form a stand-off, Dave cast Armadillo Cloak on his Scout and came rushing over to create a 23 - 13 life advantage. 
 
 Looking at his lands the following turn, Nate probably regretted having only two mountains left, as he did not have enough red mana to both pump his Firescreamer to four power AND give it first strike with the Apprentice. He opted instead for an Ancient Kavu and hoped it would be enough to discourage Dave from attacking. 
 
@@ -78,7 +80,9 @@ Nate chose to play first; both players kept their opening hands. Once again, a g
 
 The two creatures punished each other out of existence; and soon Dave had another creature with an Armadillo Cloak -- this time a Llanowar Knight, which spelled bad times for Nate's red-black deck. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/835.jpg)Let's fast forward a bit to turn ten...wait, we're looking at blank tape, let's rewind back a bit to turn nine...nope, nothing there, how about turn eight? Turn seven? Ah, there's Nate, conceding after his draw step. If we keep the picture on and scan on rewind, we can watch the reverse resolution of the stack at the end of Dave's turn six: a Scorching Lava pegging the 6/6 Knight with two damage already on it, a Wax turning the 4/4 Knight into a 6/6, Dave casting that timely Wax, Nate hopefully casting the Lava on a combat-damaged creature...that's enough tape, right? 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/835.jpg)
+
+Let's fast forward a bit to turn ten...wait, we're looking at blank tape, let's rewind back a bit to turn nine...nope, nothing there, how about turn eight? Turn seven? Ah, there's Nate, conceding after his draw step. If we keep the picture on and scan on rewind, we can watch the reverse resolution of the stack at the end of Dave's turn six: a Scorching Lava pegging the 6/6 Knight with two damage already on it, a Wax turning the 4/4 Knight into a 6/6, Dave casting that timely Wax, Nate hopefully casting the Lava on a combat-damaged creature...that's enough tape, right? 
 
 **Final Result:** Humpherys wins, 2-0 
 

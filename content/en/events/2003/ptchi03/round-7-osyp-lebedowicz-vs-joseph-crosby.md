@@ -134,13 +134,17 @@ render_recovery:
   - Spy Network
   occurrences: 123
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a864.jpg)These two gentlemen were undefeated so far and had to battle it out to see who got to draft on table 1 tomorrow for sure. Both of them are of Togit/CMU affiliation – making that a total of 5 people from that team battling it out on the feature match tables this round. Talk about dominating the tournament!
+![](http://www.wizards.com/sideboard/images/ptchi03/a864.jpg)
+
+These two gentlemen were undefeated so far and had to battle it out to see who got to draft on table 1 tomorrow for sure. Both of them are of Togit/CMU affiliation – making that a total of 5 people from that team battling it out on the feature match tables this round. Talk about dominating the tournament!
 
 ### Game 1
 
 Osyp won the flip but it was Joseph with the first play, a Goblin Taskmaster. A Wirewood Savage and Snarling Undorak from Osyp gave him a good position though. Joseph had cast a morph the previous turn, and attacked with just his Taskmaster on his turn. The morph turned out to be a Disruptive Pitmage – it countered Osyp's Barkhide Mauler. Mistform Dreamer was added to Joseph's side of the board. Osyp cast an Embermage Goblin to deal with the threats and he fetched his second copy of the Goblin Wizard. Joseph brought in the Taskmaster and Dreamer, beating Osyp down to 10. A Pinpoint Avalanche destroyed the Embermage Goblin.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a866.jpg)Osyp served with his Undorak and Savage, bringing Joseph down to 9. The second Embermage Goblin hit the board, but that got stolen due to a Blatant Thievery. The Pitmage chumped the Undorak, while the Savage went unblocked. That brought both players down to 7 life. Treespring Lorian was added to the mix and Joseph's Dreamer got Shocked. Another Blatant Thievery from Joseph took Lorian. The Savage and Undorak came in once again and the two beasts trade. Goblin Taskmaster traded for a morphed Skirk Commando and the battlefield was down to only the Embermage Goblin and Wirewood Savage. Osyp's Symbiotic Elf got Discombobulated and Joseph dug in his deck to find a way to stall this game out long enough to finish Osyp off with the Embermage Goblin. The morph turned out to be a Charing Slateback. Joseph enchanted his Embermage Goblin with a Lavamancer's Skill and finished off the Savage so the beast could finish off Osyp.
+![](http://www.wizards.com/sideboard/images/ptchi03/a866.jpg)
+
+Osyp served with his Undorak and Savage, bringing Joseph down to 9. The second Embermage Goblin hit the board, but that got stolen due to a Blatant Thievery. The Pitmage chumped the Undorak, while the Savage went unblocked. That brought both players down to 7 life. Treespring Lorian was added to the mix and Joseph's Dreamer got Shocked. Another Blatant Thievery from Joseph took Lorian. The Savage and Undorak came in once again and the two beasts trade. Goblin Taskmaster traded for a morphed Skirk Commando and the battlefield was down to only the Embermage Goblin and Wirewood Savage. Osyp's Symbiotic Elf got Discombobulated and Joseph dug in his deck to find a way to stall this game out long enough to finish Osyp off with the Embermage Goblin. The morph turned out to be a Charing Slateback. Joseph enchanted his Embermage Goblin with a Lavamancer's Skill and finished off the Savage so the beast could finish off Osyp.
 
 Osyp 0 – Joseph 1
 

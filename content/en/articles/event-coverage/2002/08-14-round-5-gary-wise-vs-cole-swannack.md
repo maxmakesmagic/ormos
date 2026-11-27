@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a912.jpg)For years, Gary Wise has yearned to square off against an equal. Someone whose maturity, wisdom, and raw talent matched his own. Today, in thirteen year-old Cole Swannack, he has found that equal.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a912.jpg)
+
+For years, Gary Wise has yearned to square off against an equal. Someone whose maturity, wisdom, and raw talent matched his own. Today, in thirteen year-old Cole Swannack, he has found that equal.
 
 Though that hardly seems fair to Swannack, does it?
 
@@ -75,7 +77,9 @@ Swannack 1 - Wise 0
 
 Down a game, Wise's mood turned serious. Just because Swannack is thirteen doesn't give him a free ride to 4-1. Besides, sportsmanship demands you play your best, out of respect for your opponent's abilities. After the drubbing he got Game 1, Wise had respect in abundance.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a913.jpg)He kicked off, and again opened with [Careful Study](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), this time discarding [Basking Rootwalla](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla) and [Deep Analysis](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis). Swannack did the same, but his Rootwalla was joined by [Roar of the Wurm](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm). They compared [Merfolk Looter](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter)s.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a913.jpg)
+
+He kicked off, and again opened with [Careful Study](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), this time discarding [Basking Rootwalla](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla) and [Deep Analysis](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deep+Analysis). Swannack did the same, but his Rootwalla was joined by [Roar of the Wurm](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm). They compared [Merfolk Looter](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter)s.
 
 But then Wise Looted up [Arrogant Wurm](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrogant+Wurm), while Swannack only had [Aquamoeba](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aquamoeba). Wise Looted [Wonder](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder) into his 'yard and hit, busting up Swannack's Roar with [Circular Logic](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circular+Logic).
 
@@ -93,7 +97,9 @@ The worst part of it was that Swannack was holding the second Burst, meaning tha
 
 Swannack 1 - Wise 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a914.jpg)Wise was really worried about [Aether Burst](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst), putting in [Sylvan Safekeeper](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Safekeeper) to combat it. He had to mulligan his first hand. Swannack, going first, had already found his acceptable.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds02/a914.jpg)
+
+Wise was really worried about [Aether Burst](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst), putting in [Sylvan Safekeeper](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Safekeeper) to combat it. He had to mulligan his first hand. Swannack, going first, had already found his acceptable.
 
 Swannack started with island. Wise played a Safekeeper. Swannack showed him [Merfolk Looter](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter). Wise made a Mongrel. Swannack held back on his three mana, showing his intention to [Arrogant Wurm](https://web.archive.org/web/20020814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrogant+Wurm).
 

@@ -84,7 +84,9 @@ render_recovery:
   - Somber Hoverguard
   occurrences: 47
 ---
-![](http://www.wizards.com/sideboard/images/gplyo03/a869.jpg)The talk before the match was all about Clockwork Beetle. Olivier showed the card from his deck to Farid, who bursts out in near maniacal laughter. The crowd was also very enthusiastic about this great one drop.
+![](http://www.wizards.com/sideboard/images/gplyo03/a869.jpg)
+
+The talk before the match was all about Clockwork Beetle. Olivier showed the card from his deck to Farid, who bursts out in near maniacal laughter. The crowd was also very enthusiastic about this great one drop.
 
 ### Game 1
 

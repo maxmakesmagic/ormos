@@ -349,7 +349,9 @@ It was Osyp's turn to mulligan this time and he groaned as he learned this game 
 
 Huey rode the Angel to a 31 to 8 life advantage until Osyp was able to cast Akroma's Vengeance, killing it and a sideboarded Gigapede. Huey was unfazed and played another Angel face-up on his next turn. Osyp played his own morph and passed the turn.
 
-![](https://i.ormos.uk/c8/34/c834652b42a642a4dcf7f26159dc0bd86ac94ed1cb4631c781cb6f0085f2a3ab.jpg)Huey considered whether or not Osyp was bluffing Exalted Angel and decided to play around his hole card and cast Silvos, Rogue Elemental. Osyp unmorphed his Angel at the end of the turn. She was joined by Akroma, Angel of Wrath on the next turn and when Huey chump blocked he knew that a Vengeance was coming.
+![](https://i.ormos.uk/c8/34/c834652b42a642a4dcf7f26159dc0bd86ac94ed1cb4631c781cb6f0085f2a3ab.jpg)
+
+Huey considered whether or not Osyp was bluffing Exalted Angel and decided to play around his hole card and cast Silvos, Rogue Elemental. Osyp unmorphed his Angel at the end of the turn. She was joined by Akroma, Angel of Wrath on the next turn and when Huey chump blocked he knew that a Vengeance was coming.
 
 Huey did not disappoint and regenerated his Pit Fighter. Osyp's a scrapper though, and he played an Astral Slide and passed the turn back to Huey, who played two Wirewood Elves after Silvos was removed from the game temporarily. At the end of Osyp's second main phase Huey Demystified the Slide—no 'at end of turn' tricks for Osyp—and cast Akroma on his turn. Starstorm for five bought Osyp a turn but his draw step yielded nothing.
 
@@ -395,7 +397,9 @@ Osyp – 2 Huey – 2
 
 A loud round of applause from the European contingent announced to both players that Tomi had defeated Jordan and both players frowned for their friend Jordan. "So much for an American finals."
 
-![](http://www.wizards.com/sideboard/images/ptven03/a781.jpg)Huey mulliganed his opening hand for the third time this match. He came out of it in good shape though and was attacking the fourth turn with Exalted Angel. Osyp had the Astral Slide and was able to keep the damage to a minimum. Huey ramped up with Explosive Vegetation after his Angel was slid out of the game. Osyp did not have a fifth land and he played a Lightning Rift. When Osyp used the enchantments to remove the Angel and shoot Huey, an Akroma's Vengeance disked them away for his Angel's safe return. Osyp just played another copy of each on his next turn prompting an, "All right then," from a visibly annoyed Huey.
+![](http://www.wizards.com/sideboard/images/ptven03/a781.jpg)
+
+Huey mulliganed his opening hand for the third time this match. He came out of it in good shape though and was attacking the fourth turn with Exalted Angel. Osyp had the Astral Slide and was able to keep the damage to a minimum. Huey ramped up with Explosive Vegetation after his Angel was slid out of the game. Osyp did not have a fifth land and he played a Lightning Rift. When Osyp used the enchantments to remove the Angel and shoot Huey, an Akroma's Vengeance disked them away for his Angel's safe return. Osyp just played another copy of each on his next turn prompting an, "All right then," from a visibly annoyed Huey.
 
 He attacked with the Angel bringing the life totals to 25 – 14 in favor of Huey and he Demistified the Slide. A gigapede hit play as well. Osyp had no play this time and took 10 going to an impossible 4 with Huey at 29. A cycled Starstorm took him to 27 and Osyp untapped and cast Vengeance.
 

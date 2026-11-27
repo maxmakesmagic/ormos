@@ -981,7 +981,9 @@ render_recovery:
   - Bonesplitter
   occurrences: 1
 ---
-![](https://i.ormos.uk/d1/8e/d18efa93c7684689e0c7789ba0d09223007a26daacf5871f14f1bafd33695732.jpg)Two thirds of Team Antarctica sat down to face-off against what remained of Team Sped. Along with Jon Finkel the OMS brothers were part of a team that dominated the early days of Team Limited. They barely play anymore as they have graduated from school and taken on real jobs. They now live in the New England area and have teamed up with "Mouth" Kambourakis who was recently reinstated to the DCI. Don't dismiss the this as a weekend lark. The team actually had byes for this event by virtue of winning a Grand Prix Trial and both Steve and Dan have been spotted at individual PTQs in the recent past.
+![](https://i.ormos.uk/d1/8e/d18efa93c7684689e0c7789ba0d09223007a26daacf5871f14f1bafd33695732.jpg)
+
+Two thirds of Team Antarctica sat down to face-off against what remained of Team Sped. Along with Jon Finkel the OMS brothers were part of a team that dominated the early days of Team Limited. They barely play anymore as they have graduated from school and taken on real jobs. They now live in the New England area and have teamed up with "Mouth" Kambourakis who was recently reinstated to the DCI. Don't dismiss the this as a weekend lark. The team actually had byes for this event by virtue of winning a Grand Prix Trial and both Steve and Dan have been spotted at individual PTQs in the recent past.
 
 Team Sped were the bad boys of the East Coast Magic scene throughout the nineties and were instrumental in forming the regional Magic slang--not all of which is suitable for a family website. Eli Kassis was a little young for the Sped scene but continues to be one of the top players in the upstate New York region. Both teams found themselves at 4-1-1 and a loss would leave them out of contention for Day Two.  
  Game 1 (Steve OMS vs. Rory Walker)

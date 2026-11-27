@@ -42,7 +42,9 @@ render_recovery:
 
 ![](https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif)
 
-![](https://i.ormos.uk/94/e8/94e8bae5b4c7ca54d07c30c2144837bd0674460f20720296a7a22cafc9bac15b.jpg)In what he describes as "The most nerve-wracking money draft I've ever been in", Kohei Yamadaya managed to draft a bomb-heavy blue-white-green deck and pilot it to the finals. There he met Masahiko Morita, a regular at the top of the standings of Japanese tournaments, and a player thirsty for his first title. In a tense three-game match, Yamadaya showed that he had Hoop Dreams of his own. Congratulations to Kohei Yamadaya, Grand Prix - Shizuoka 2001 Champion!
+![](https://i.ormos.uk/94/e8/94e8bae5b4c7ca54d07c30c2144837bd0674460f20720296a7a22cafc9bac15b.jpg)
+
+In what he describes as "The most nerve-wracking money draft I've ever been in", Kohei Yamadaya managed to draft a bomb-heavy blue-white-green deck and pilot it to the finals. There he met Masahiko Morita, a regular at the top of the standings of Japanese tournaments, and a player thirsty for his first title. In a tense three-game match, Yamadaya showed that he had Hoop Dreams of his own. Congratulations to Kohei Yamadaya, Grand Prix - Shizuoka 2001 Champion!
 
  
 

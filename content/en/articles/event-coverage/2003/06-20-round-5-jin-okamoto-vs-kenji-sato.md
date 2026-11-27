@@ -44,7 +44,9 @@ archive_source:
   sha256: 02fd0caeb9fc5223a0685c61121565a3110ae865773b4ddd0a257946e0f0ce0e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/a974.jpg)Jin Okamoto is one of Japan’s most popular and successful players. He has been nicknamed “The Last Emperor” due to the fact that he won the last APAC Championship, but unfortunately didn’t have a great start today, and is only 2-2 so far. Kenji Sato is relatively unknown, but did make Top 20 of Kantou Regionals in order to get here, which was a tournament that had 700 players. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/a974.jpg)
+
+Jin Okamoto is one of Japan’s most popular and successful players. He has been nicknamed “The Last Emperor” due to the fact that he won the last APAC Championship, but unfortunately didn’t have a great start today, and is only 2-2 so far. Kenji Sato is relatively unknown, but did make Top 20 of Kantou Regionals in order to get here, which was a tournament that had 700 players. 
 
 ### Game 1
 

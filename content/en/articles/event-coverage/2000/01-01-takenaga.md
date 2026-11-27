@@ -44,7 +44,9 @@ archive_source:
   sha256: 99fd5ce7d48bd9ef96c5b1d762f60933b7b858a583c13865d9efe040d9d137e3
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/107Takenaga.jpg)Rick and Connie Takenaga are legends on the Grand Prix circuit. You've probably never heard of them, but tournament organizers around the country all agree that the Takenaga's are broken. Their specialty is decklists and when a tournament has 400+ decklists, that becomes a very important job. For GP Las Vegas all 462 decklists had to be checked to make sure they had enough cards and that all the cards are legal. Then they've got to be alphabetized so deck-checks in future rounds are possible. Finally they've got to make sure they actually have a decklist for each competitor.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPLV01/107Takenaga.jpg)
+
+Rick and Connie Takenaga are legends on the Grand Prix circuit. You've probably never heard of them, but tournament organizers around the country all agree that the Takenaga's are broken. Their specialty is decklists and when a tournament has 400+ decklists, that becomes a very important job. For GP Las Vegas all 462 decklists had to be checked to make sure they had enough cards and that all the cards are legal. Then they've got to be alphabetized so deck-checks in future rounds are possible. Finally they've got to make sure they actually have a decklist for each competitor.
 
 They were finished their job with 10 minutes left in the first round.
 

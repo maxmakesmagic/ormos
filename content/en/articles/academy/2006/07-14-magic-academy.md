@@ -87,7 +87,9 @@ render_recovery: []
 ---
 ### A New Kind of Column
 
-![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)Magic Academy is a unique column designed to help newer players get up to speed by teaching them about the game and introducing them to the vast resources available on the web. The key to Magic Academy is that the articles are written in linear order, like a book. The column starts at the beginning, with topics like "Anatomy of a **Magic** Card" and "Building Your First Deck". Since it's written in order, each article builds on the knowledge you've gained from the previous articles you've read in the series. The column debuted on July 15, 2006, and new articles are published each Saturday. You can use the table of contents below to start at the beginning, or read the topics and jump in where you think the column catches up with your own experience level. 
+![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)
+
+Magic Academy is a unique column designed to help newer players get up to speed by teaching them about the game and introducing them to the vast resources available on the web. The key to Magic Academy is that the articles are written in linear order, like a book. The column starts at the beginning, with topics like "Anatomy of a **Magic** Card" and "Building Your First Deck". Since it's written in order, each article builds on the knowledge you've gained from the previous articles you've read in the series. The column debuted on July 15, 2006, and new articles are published each Saturday. You can use the table of contents below to start at the beginning, or read the topics and jump in where you think the column catches up with your own experience level. 
 
 ### Who is Magic Academy for?
 

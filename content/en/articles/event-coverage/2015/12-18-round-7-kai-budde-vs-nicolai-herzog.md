@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/270.JPG)Kai Budde showed up for Saturday with a pretty cool black/blue Tinker deck. He's got all the usual artifact mana plus Duress, Vampiric Tutor and 4 copies of Perish in his sideboard. He felt really good about those Perishes when Nicolai Herzog sat down across from him for a round 7 feature match. Nicolai Herzog played Stompy when he won the Euro championship last summer and then played the same Stompy deck when he made Top 8 at Worlds.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/270.JPG)
+
+Kai Budde showed up for Saturday with a pretty cool black/blue Tinker deck. He's got all the usual artifact mana plus Duress, Vampiric Tutor and 4 copies of Perish in his sideboard. He felt really good about those Perishes when Nicolai Herzog sat down across from him for a round 7 feature match. Nicolai Herzog played Stompy when he won the Euro championship last summer and then played the same Stompy deck when he made Top 8 at Worlds.
 
 When Budde played turn 1 Underground River, Herzog looked surprised, and then puzzled, and then curious. Budde tapped it to cast Duress and laughed out loud when Herzog showed him a Stompy hand. Herzog's Stompy is fairly typical, but does include 2 main deck Lumbering Satyrs. The Satyrs are his secret weapon against Angry Hermit and Trinity Green decks. Everyone here seems to have a secret weapon against Hermit. When it first did well (at US Nationals) no one seemed to take it seriously and thus is was able to well at Canadian Nationals and it won both the Latin America and APAC championships. Now everyone believes and everyone is gunning for it. Wildfire is everywhere, people are splashing black for Perish, and of course I have yet to see a single Angry Hermit deck!
 

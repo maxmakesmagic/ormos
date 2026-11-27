@@ -792,7 +792,9 @@ Captain Indecisive can only make things easier.
 
 ### Apropos of Nothing
 
-![](https://i.ormos.uk/05/00/050094ea18da3dfef009c7a90d25539727e24b74d6b20808f07f67e066f29883.jpg)Crusader wrote to me to suggest two interactions for Volrath's Nameshifter. One was to combo it with Retraced Image. Think about it: On turn 2, you play Blank Slate Boy. On turn 3, you change its name to Akroma, Angel of Wrath, play Retraced Image, and put an Akroma, Angel of Wrath into play from your hand for free. (Note that the “legend rule” doesn't take effect because only the real Akroma is legendary.)
+![](https://i.ormos.uk/05/00/050094ea18da3dfef009c7a90d25539727e24b74d6b20808f07f67e066f29883.jpg)
+
+Crusader wrote to me to suggest two interactions for Volrath's Nameshifter. One was to combo it with Retraced Image. Think about it: On turn 2, you play Blank Slate Boy. On turn 3, you change its name to Akroma, Angel of Wrath, play Retraced Image, and put an Akroma, Angel of Wrath into play from your hand for free. (Note that the “legend rule” doesn't take effect because only the real Akroma is legendary.)
 
 <table><tbody><tr><td> “Rules” corner: You can choose any card name for <a>Blanky</a>'s ability, not just the name of a creature. </td>&#10;</tr>&#10;</tbody></table>
 

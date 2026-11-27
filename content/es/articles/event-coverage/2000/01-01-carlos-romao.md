@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *Por Alejo Zagalsky*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sun174.jpg)Carlos me parece que hizo una de las mejores elecciones, al jugar con Ponza, dado que si tiene una buena mano le puede gana al Replenish, y le tendría que ir MUY bien contra las variedades de verdes: Trinity, Angry Hermit y hasta Stompy.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sun174.jpg)
+
+Carlos me parece que hizo una de las mejores elecciones, al jugar con Ponza, dado que si tiene una buena mano le puede gana al Replenish, y le tendría que ir MUY bien contra las variedades de verdes: Trinity, Angry Hermit y hasta Stompy.
 
 El problema surge cuando le juegan Chill, por lo que juega con Karplusan Forest para tener Tranquilidad en el sideboard.
 

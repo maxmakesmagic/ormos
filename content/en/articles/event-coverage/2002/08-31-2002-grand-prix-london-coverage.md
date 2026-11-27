@@ -60,7 +60,9 @@ archive_source:
   sha256: 63ba14ee6a04a327b056a36b2850d510e7147e97d0b15767e5d30abd2c5837b0
 render_recovery: []
 ---
-![](https://i.ormos.uk/b4/45/b4455f8065be1a9ba96d16dfeea5ccfdcc958145cedd0195faa080be599a7d91.jpg)Going into the final of Grand Prix London, Christoph Hoelzl had won thirteen matches, equalling the record for most consecutive wins in a Grand Prix. However, facing him in the final was former World Champion Jakub Slemr. The match featured the clash of green-blue against mono-black, and after three hard fought games Christoph's amazing run came to an end.
+![](https://i.ormos.uk/b4/45/b4455f8065be1a9ba96d16dfeea5ccfdcc958145cedd0195faa080be599a7d91.jpg)
+
+Going into the final of Grand Prix London, Christoph Hoelzl had won thirteen matches, equalling the record for most consecutive wins in a Grand Prix. However, facing him in the final was former World Champion Jakub Slemr. The match featured the clash of green-blue against mono-black, and after three hard fought games Christoph's amazing run came to an end.
 
 Jakub Slemr wins Grand Prix London!
 

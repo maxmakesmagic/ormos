@@ -87,7 +87,9 @@ render_recovery:
   - Hindering Touch
   occurrences: 44
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a933.jpg)West Coast sensation Jeff Fung demanded this Feature Match. He claimed his public wouldn't let him have it any other way. Who are we to argue? His opponent is Paul Russell, who clawed his way in the hard way: Through the Open Qualifiers. Both are still within striking range of the Top 8.
+![](http://www.wizards.com/sideboard/images/natcan03/a933.jpg)
+
+West Coast sensation Jeff Fung demanded this Feature Match. He claimed his public wouldn't let him have it any other way. Who are we to argue? His opponent is Paul Russell, who clawed his way in the hard way: Through the Open Qualifiers. Both are still within striking range of the Top 8.
 
 ### Game 1
 
@@ -113,7 +115,9 @@ Fung 1 – Russell 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/natcan03/a938.jpg)Fung had to send his opening hand back: The full land flush. He had to go to five, since there were no lands in his six. Russell started with Goblin Sledder, but then forgot to swing with it on turn two. He corrected his error on the third turn, and dropped a morph. Fung answered with Embalmed Brawler, amplified once by Nantuko Husk. Russell was stuck on three lands and waited. Fung was likewise stuck, but played out the Husk.
+![](http://www.wizards.com/sideboard/images/natcan03/a938.jpg)
+
+Fung had to send his opening hand back: The full land flush. He had to go to five, since there were no lands in his six. Russell started with Goblin Sledder, but then forgot to swing with it on turn two. He corrected his error on the third turn, and dropped a morph. Fung answered with Embalmed Brawler, amplified once by Nantuko Husk. Russell was stuck on three lands and waited. Fung was likewise stuck, but played out the Husk.
 
 Russell finally got his fourth land, and promptly dropped Lay Waste on Fung's only swamp. Fung ripped another like it was nothing. He swung in with Husk and Brawler with three mana open. Russell traded Sledder for Husk, then after combat Fung played a morph. It seemed like a bad deal for Fung.
 
@@ -129,7 +133,9 @@ Fung 1 – Russell 1
 
 The deciding game took an age, but there were a few points of interest. First, Russell kept a land-heavy hand with few early plays, and drew a lot of land to follow. Fung had the anemic beatdown of Crypt Sliver and morph, but against Russell's empty board, it looked strong. He revealed his Willbender on Russell's Lay Waste, setting Russell even farther back. Still Fung had no beaters. He made a Mistform Wall, and when Russell still didn't do anything, he Clutched up the Wall to start beating for four.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a937.jpg)The following turn, Russell showed him a doubly-amplified Feral Throwback. Russell tried to provoke away the Wall, but it just turned into a Sliver and regenerated itself. Again, Fung had the Frozen Solid. And so the stalemate began.
+![](http://www.wizards.com/sideboard/images/natcan03/a937.jpg)
+
+The following turn, Russell showed him a doubly-amplified Feral Throwback. Russell tried to provoke away the Wall, but it just turned into a Sliver and regenerated itself. Again, Fung had the Frozen Solid. And so the stalemate began.
 
 Creatures came down on both sides. Gournas and the like from Russell, tricky blockers for Fung. Neither could get through. Fung's best shot, a Glintwing Invoker, was Solar Blasted out of the sky before it could be a problem. That's about when Fung started to draw every land in his deck. Russell couldn't beat through, but his army was growing. Then came the Wellwisher. Fung, holding Clutch of Undeath, knew he wouldn't be able to beat through Russell's forces, so the game would come down to decking. He needed to draw Dispersal Shield before Russell played his Words of War.
 

@@ -183,7 +183,9 @@ Those are some pretty powerful turns, baby! Nothin' wrong with those.... Well, a
 
 Because a lot of them aren't necessarily *improved* all that much by the Elixir.
 
-[![Overload](https://i.ormos.uk/7d/0b/7d0b252208afc1365f3763697fbb91228891ecff4a2c821026a84e8d6a7ea180.jpg)](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Overload)The first example is kind of lame. Frankly, if your opponents haven't killed a turn-five [Stonehewer Giant](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonehewer+Giant) before it goes active with a [Thousand-Year Elixir](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thousand-Year+Elixir) in play, you've already either lucked out (because none of them had anything in hand) or your opponents really don't care (since they have something that will shield them in combat) or they're really, really ignorant as to what a double Stonehewer activation will do. 
+[![Overload](https://i.ormos.uk/7d/0b/7d0b252208afc1365f3763697fbb91228891ecff4a2c821026a84e8d6a7ea180.jpg)](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Overload)
+
+The first example is kind of lame. Frankly, if your opponents haven't killed a turn-five [Stonehewer Giant](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonehewer+Giant) before it goes active with a [Thousand-Year Elixir](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thousand-Year+Elixir) in play, you've already either lucked out (because none of them had anything in hand) or your opponents really don't care (since they have something that will shield them in combat) or they're really, really ignorant as to what a double Stonehewer activation will do. 
 
 In that case, that doesn't have so much to do with the *Elixir* as it does to do with your luck. They didn't have the removal, or they were really silly to underestimate the power. All of that would have happened with or *without* the Elixir (I can't imagine someone so dim as to miss the implications of *twice*-a-turn Equipment fetching being sufficiently alerted by a *once*-a-turn Equipment fetching), so that's not particularly a sign of the Elixir's magnificent power. 
 
@@ -221,7 +223,9 @@ Whenever you think, "Wow, Card A will push Card B's power into the stratosphere!
 
 If your card only does something when it's combined with four to eight cards stranded somewhere in your deck, then maybe you wanna think again. 
 
-[![Survival_of_the_Fittest](https://i.ormos.uk/8d/d1/8dd1319aaad2ff949126d8d4842dbd95d18bd94065bf4eefeb3cead13be031dc.jpg)](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Survival%2Bof%2Bthe%2BFittest)Don't get me wrong. I'm not saying that [Thousand-Year Elixir](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thousand-Year+Elixir)'s a bad card in itself. And there may even be a good "Giants with activated abilities" deck out there that genuinely has a usage for it. Heck, maybe with the right set of tappy guys, there's a lurking Elixir-and-Hewer deck that would smash my table flat. 
+[![Survival_of_the_Fittest](https://i.ormos.uk/8d/d1/8dd1319aaad2ff949126d8d4842dbd95d18bd94065bf4eefeb3cead13be031dc.jpg)](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Survival%2Bof%2Bthe%2BFittest)
+
+Don't get me wrong. I'm not saying that [Thousand-Year Elixir](https://web.archive.org/web/20080122000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thousand-Year+Elixir)'s a bad card in itself. And there may even be a good "Giants with activated abilities" deck out there that genuinely has a usage for it. Heck, maybe with the right set of tappy guys, there's a lurking Elixir-and-Hewer deck that would smash my table flat. 
 
 What I *am* saying that it's not an *automatic* fit. You have the issues of space, and you have two cards that want to do separate things. 
 

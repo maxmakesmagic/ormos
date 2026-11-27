@@ -101,7 +101,9 @@ Letme start by stating that this is not another mechanic tell-all hack piece des
 
 ### Chapter 1 – Two Mechanics Come Together
 
-![](https://i.ormos.uk/2a/fd/2afdbbb43cc1765819ee5cd54fbb4f32856f0c8828b483ba64876b60858b18f5.jpg)My story begins when I was just a twinkle in my daddy's eye. Before I get any further, let me address a sensitive issue. Yes, my father is Mark Rosewater. I understand that he's fathered a lot of mechanics, but most of the stories you hear in many of those less savory tell-all books are quite removed from any semblance of the truth. Yes, he's fond of making mechanics and yes he often locks them away in the back of his mind. But always while trying to achieve what he felt was best for the game. And no one has a better record of searching through the back corners of the mind to find old mechanics and giving them a home. But enough of my dad, let's get back to me.
+![](https://i.ormos.uk/2a/fd/2afdbbb43cc1765819ee5cd54fbb4f32856f0c8828b483ba64876b60858b18f5.jpg)
+
+My story begins when I was just a twinkle in my daddy's eye. Before I get any further, let me address a sensitive issue. Yes, my father is Mark Rosewater. I understand that he's fathered a lot of mechanics, but most of the stories you hear in many of those less savory tell-all books are quite removed from any semblance of the truth. Yes, he's fond of making mechanics and yes he often locks them away in the back of his mind. But always while trying to achieve what he felt was best for the game. And no one has a better record of searching through the back corners of the mind to find old mechanics and giving them a home. But enough of my dad, let's get back to me.
 
 I was born in the feature match area at a Pro Tour. My father was judging at the time. While watching a match, he saw a player use a card with kicker followed by a card with flashback. This prompted him to think about what would happen if the two mechanics were combined. I'm not sure why he went off on this tangent, but then if he didn't, I wouldn't be here to tell you my story. Anyway, at that moment I became an inkling. Imagine, he thought, of a card with a flashback-like cost that let you graft a kicker effect onto another card. In essence, it would be a portable kicker that lived in the graveyard.
 
@@ -113,7 +115,9 @@ He was so excited that he scribbled down a sample card. It was at this point tha
 > CARDNAME deals 2 damage to target creature or player.  
 > Piggyback – 1R (If this card is in your graveyard, you may pay its piggyback cost to attach the effect to a spell you are playing.)
 
-![](https://i.ormos.uk/21/11/2111ffd3820d9a59e87d6b727845adcb7a4a1551883193d7ada8a5b024df2a1c.jpg)It's interesting to note several things about my first incarnation (as you will see, I went through quite a few changes as I grew). First, even the very first card ever created made the base effect and the grafted effect the same. Obviously it would be possible to separate the two, but my dad understood that it would junk up what was a very aesthetic connection. Second, the spell was designed to attach to an existing spell rather than adding a second spell to the stack. This is due mainly to the fact that the mechanic was inspired by kicker. In addition, no previous mechanic grafted onto another spell, so making me work this way explored some new territory.
+![](https://i.ormos.uk/21/11/2111ffd3820d9a59e87d6b727845adcb7a4a1551883193d7ada8a5b024df2a1c.jpg)
+
+It's interesting to note several things about my first incarnation (as you will see, I went through quite a few changes as I grew). First, even the very first card ever created made the base effect and the grafted effect the same. Obviously it would be possible to separate the two, but my dad understood that it would junk up what was a very aesthetic connection. Second, the spell was designed to attach to an existing spell rather than adding a second spell to the stack. This is due mainly to the fact that the mechanic was inspired by kicker. In addition, no previous mechanic grafted onto another spell, so making me work this way explored some new territory.
 
 On the plane home from the Pro Tour, my dad created a few more cards for me. And then? He locked me away in the recesses of his mind. I know that sounds bad, but its not as lonely as you might think. My father puts a lot of mechanics back there. I became good friends with a *Tempest* reject named Imbued and mechanic known simply as Poison. Poison loved to spend an entire evening talking about how our dad had big plans for him. “One day”, he'd always say, “One day.”
 
@@ -121,7 +125,9 @@ Before everyone gets on my dad's case for abandoning so many mechanics, I need t
 
 ### Chapter Two – *Dawn* of the Discontinued
 
-![](https://i.ormos.uk/9e/9f/9e9f97d017416bca2546a0dc61751ede14ddc86929bee51fc9de14b9fd85437f.jpg)So, I'm living the life of a rejected mechanic, when one day I get pulled out of storage. My dad was running the *Fifth Dawn* design team and they needed a spell mechanic. In particular, a mono-colored mechanic that could work on instants and/or sorceries. So my dad trotted me out. The team liked me but I wasn't quite what they needed. They just wanted to fill ten or so holes while I was clearly large enough to carry a block-long mechanic slot.
+![](https://i.ormos.uk/9e/9f/9e9f97d017416bca2546a0dc61751ede14ddc86929bee51fc9de14b9fd85437f.jpg)
+
+So, I'm living the life of a rejected mechanic, when one day I get pulled out of storage. My dad was running the *Fifth Dawn* design team and they needed a spell mechanic. In particular, a mono-colored mechanic that could work on instants and/or sorceries. So my dad trotted me out. The team liked me but I wasn't quite what they needed. They just wanted to fill ten or so holes while I was clearly large enough to carry a block-long mechanic slot.
 
 Let me quickly make an aside to talk about size. For mechanics, size really does matter. The designers have to have a good grasp of how many cards you can generate. If you only have five cards in you, you become a cycle mechanic. If you have the legs for eight to fifteen cards, then you are a prime candidate for a small set. But once you start making sixteen plus cards, the designers start looking at you with a large expansion in mind. This is what essentially forced me back into the deep recesses of my dad's mind. I was more than *Fifth Dawn* needed. In the end, a little mechanic named Scry took the honors.
 
@@ -129,7 +135,9 @@ It's also relevant to note how many mechanics don't get designed specifically fo
 
 ### Chapter Three – Falling to *Earth*
 
-![](https://i.ormos.uk/a9/d9/a9d997aaa66fceabad9b3d2f23393dd9ffcb88dcd41c771399a8122a3c9e6916.jpg)So I spent another few months locked inside my dad's head. It's interesting how much you can learn about a creative person by what they choose not to pursue. My father has some strange stuff rolling around in his head. But I had faith in myself. My dad is famous for going back to the same ideas for years at a time until he finds the right home.
+![](https://i.ormos.uk/a9/d9/a9d997aaa66fceabad9b3d2f23393dd9ffcb88dcd41c771399a8122a3c9e6916.jpg)
+
+So I spent another few months locked inside my dad's head. It's interesting how much you can learn about a creative person by what they choose not to pursue. My father has some strange stuff rolling around in his head. But I had faith in myself. My dad is famous for going back to the same ideas for years at a time until he finds the right home.
 
 Back to my story, R&D started working on the design of *Champions of Kamigawa* (then codenamed *Earth* – followed by *Wind* and *Fire*). For a departure, the design team was using the flavor of Japanese mythology as the inspiration and backbone of the set. The environment was about a war between the creatures of the natural world and their parallel spirits. This meant that the set needed several ways to differentiate between the “real world” creatures and the spirits.
 

@@ -108,7 +108,9 @@ Eventually, the preferred kill switched away from Disciple of the Vault to a mor
 Carrion Feeder (1)  
 Karmic Guide (6)
 
-![Carrion Feeder and Karmic Guide](https://i.ormos.uk/b0/95/b0959b4049410b303a562d5740c0603bd49f6a55802e8e310ce5cf686787f855.jpg)Karmic Guide comes into play and returns Protean Hulk. Carrion Feeder sacrifices the Hulk, and it's time to go fishing again. How about Kiki-Jiki, Mirror Breaker (5) (and maybe some one mana friend like Sylvan Safekeeper or Benevolent Bodyguard (6))? Kiki-Jiki copies Karmic Guide. In response, Carrion Feeder eats Kiki-Jiki. Karmic Guide brings back Kiki-Jiki, who commences to re-copy Karmic Guide. A million loops later, and infinite hasted Karmic Guides attack for the win. 
+![Carrion Feeder and Karmic Guide](https://i.ormos.uk/b0/95/b0959b4049410b303a562d5740c0603bd49f6a55802e8e310ce5cf686787f855.jpg)
+
+Karmic Guide comes into play and returns Protean Hulk. Carrion Feeder sacrifices the Hulk, and it's time to go fishing again. How about Kiki-Jiki, Mirror Breaker (5) (and maybe some one mana friend like Sylvan Safekeeper or Benevolent Bodyguard (6))? Kiki-Jiki copies Karmic Guide. In response, Carrion Feeder eats Kiki-Jiki. Karmic Guide brings back Kiki-Jiki, who commences to re-copy Karmic Guide. A million loops later, and infinite hasted Karmic Guides attack for the win. 
 
 Hulk Flash is exceedingly fast... The only card it has to play is the two-mana Flash. Versions with Chrome Mox can win on the first turn, and versions with Gemstone Caverns and Elvish or Simian Spirit Guides can win on the opponent's upkeep, before even taking a turn! My guess is that the card Flash will be banned in Legacy, not just because of its performance in Columbus, but because of the *Future Sight* additions that were not yet legal. Summoner's Pact makes the deck twice as consistent, making sure that Protean Hulk is in hand next to Flash on the big turn, and Pact of Negation supplements Force of Will, Daze, and Duress... and is probably even better than any of them in the fastest games.
 

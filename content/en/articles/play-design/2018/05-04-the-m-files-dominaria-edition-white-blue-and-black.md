@@ -72,7 +72,9 @@ For brevity, names have been initialed. Click below to meet the commenters.
 
 ## Click to Reveal
 
-![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_davehumphreys.jpg) **DGH** – Dave Humpherys, lead set designer.
+![](http://media.wizards.com/images/magic/daily/authorpics/authorpic_davehumphreys.jpg)
+
+ **DGH** – Dave Humpherys, lead set designer.
 
 ![](http://media.wizards.com/2015/images/daily/authorpic_ethanfleisher.jpg) **EEF** – Ethan Fleischer, lead exploratory designer
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoka04/r14fm1en1.jpg)For most players, a successful tournament will lead to one key match towards the end. For Hirabayashi and Lee, that match is now. The winner will most likely make Top 8, and the loser will probably have to be content with a money finish. Both players shuffled up and prepared to play, but were picked for a deck check. Hirabayashi got up and walked around, while Lee sat at the feature match table, obviously a bit nervous and taking a moment to focus. When Hirabayashi and the decks came back, the tone at the table was nothing short of completely serious.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpoka04/r14fm1en1.jpg)
+
+For most players, a successful tournament will lead to one key match towards the end. For Hirabayashi and Lee, that match is now. The winner will most likely make Top 8, and the loser will probably have to be content with a money finish. Both players shuffled up and prepared to play, but were picked for a deck check. Hirabayashi got up and walked around, while Lee sat at the feature match table, obviously a bit nervous and taking a moment to focus. When Hirabayashi and the decks came back, the tone at the table was nothing short of completely serious.
 
 ### Game 1
 

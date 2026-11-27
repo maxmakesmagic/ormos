@@ -3140,7 +3140,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/ac/65/ac65346c5a6529f95ff1394c9b3a7a455c3f5bc7c3f7e79fcfdcee2502b7ec37.jpg)Welcome to the continuation of my series of the Top 50 of all time! In the past, I've ranked the Top 50 [White](/en/articles/uncommonknowledge/2003/02-07-the-top-50-white-cards), [Blue](/en/articles/feature/2003/08-15-the-top-50-blue-cards), [Land](/en/articles/feature/2003/04-04-the-top-50-nonbasic-lands), [Artifact](https://web.archive.org/web/20060522000000/http://wizards.com/leaving.asp?url=http://www.starcitygames.com/php/news/article/9062.html&origin=mtgcom_feature_335), and [card drawing](/en/articles/uncommonknowledge/2003/03-21-the-top-50-card-drawing-cards) cards. Today, I'll be running down the crème-de-la-crop of gold cards in **Magic's** history.
+![](https://i.ormos.uk/ac/65/ac65346c5a6529f95ff1394c9b3a7a455c3f5bc7c3f7e79fcfdcee2502b7ec37.jpg)
+
+Welcome to the continuation of my series of the Top 50 of all time! In the past, I've ranked the Top 50 [White](/en/articles/uncommonknowledge/2003/02-07-the-top-50-white-cards), [Blue](/en/articles/feature/2003/08-15-the-top-50-blue-cards), [Land](/en/articles/feature/2003/04-04-the-top-50-nonbasic-lands), [Artifact](https://web.archive.org/web/20060522000000/http://wizards.com/leaving.asp?url=http://www.starcitygames.com/php/news/article/9062.html&origin=mtgcom_feature_335), and [card drawing](/en/articles/uncommonknowledge/2003/03-21-the-top-50-card-drawing-cards) cards. Today, I'll be running down the crème-de-la-crop of gold cards in **Magic's** history.
 
 Putting together this list was a lot tougher than the previous lists, because Gold cards have a lot less in common than any of the previous categories. When you're talking about the Top 50 Blue cards, for instance, you're going to have a lot of flyers, card drawing cards, and bounce spells on the list, since that's what Blue excels at. Gold cards span not just one color, but several. Gold card encompass a staggering *twenty-five* color combinations – ten dual-color combinations (W/U, W/B, W/R, W/G, U/B, U/R, B/R, B/G, R/G), ten tri-color sets (B/G/R, B/G/U, B/G/W, B/R/U, B/R/W, B/U/W, G/R/U, G/R/W, G/U/W, R/U/W), five quad-sets (a.k.a. the Nephilim: B/G/R/U, B/G/R/W, B/R/U/W, B/G/U/W, G/R/U/W), and everyone's favorite, the five-color card (there are eight: Atogatog, Coalition Victory, Cromat, Genju of the Realm, Karona, False God, Last Stand, Sliver Overlord, and Sliver Queen. One of them even made this list.)
 
@@ -3217,7 +3219,9 @@ There are three harpies in **Magic**: Molting Harpy, Screeching Harpy, and Caver
 
 ### #37: Mystic Snake  ![](http://wizards.com/sideboard/images/cardback.jpg)
 
-![](https://i.ormos.uk/6c/5b/6c5b13af55d8269f579a536cda357570a3980248de1c434cbc17d00e6dda152b.jpg)Many players love 187 creatures – creatures that have a comes-into-play ability that affects other cards – because those creatures have built-in card or tempo advantage. Witness Mystic Snake, which was printed in the time of Flametongue Kavu and, well, Flametongue Kavu. Mystic Snake found a home in Opposition decks, serving the dual purposes of Counterspell and Icy Manipulator. These days, four mana will get you a Counterspell plus untapping four lands. Back when Countermagic ruled Dominaria, four mana would get you a 2/2 creature at instant speed, plus a frustrated look from your opponent.
+![](https://i.ormos.uk/6c/5b/6c5b13af55d8269f579a536cda357570a3980248de1c434cbc17d00e6dda152b.jpg)
+
+Many players love 187 creatures – creatures that have a comes-into-play ability that affects other cards – because those creatures have built-in card or tempo advantage. Witness Mystic Snake, which was printed in the time of Flametongue Kavu and, well, Flametongue Kavu. Mystic Snake found a home in Opposition decks, serving the dual purposes of Counterspell and Icy Manipulator. These days, four mana will get you a Counterspell plus untapping four lands. Back when Countermagic ruled Dominaria, four mana would get you a 2/2 creature at instant speed, plus a frustrated look from your opponent.
 
 ### #36: Niv-Mizzet, the Firemind  ![](http://wizards.com/sideboard/images/cardback.jpg)
 
@@ -3338,7 +3342,9 @@ The Cadaverous Bloom-combo deck was [the first modern combo deck that worked](/e
 
 ### #13: Undermine  ![](http://wizards.com/sideboard/images/cardback.jpg)
 
-![](https://i.ormos.uk/2b/72/2b726462c83633b03727d3efde67526f54a69c543b5436f433b1f4bf0bfe7882.jpg)The flavor text says it all: “Which would you like first, the insult or the injury?” You can't really divorce Undermine from Absorb, since they are both two sides of the same coin. Both are of roughly equal power levels, though Undermine is more aggressive, while Absorb is more defensive. Why is Undermine ranked higher? It ended up seeing a lot more play than Absorb, thanks to a very special deck.
+![](https://i.ormos.uk/2b/72/2b726462c83633b03727d3efde67526f54a69c543b5436f433b1f4bf0bfe7882.jpg)
+
+The flavor text says it all: “Which would you like first, the insult or the injury?” You can't really divorce Undermine from Absorb, since they are both two sides of the same coin. Both are of roughly equal power levels, though Undermine is more aggressive, while Absorb is more defensive. Why is Undermine ranked higher? It ended up seeing a lot more play than Absorb, thanks to a very special deck.
 
 ### #12: Crystalline Sliver  ![](http://wizards.com/sideboard/images/cardback.jpg)
 
@@ -3362,7 +3368,9 @@ If Absorb and Undermine are destined to be put in a state of perpetual compariso
 
 ### #9: Spiritmonger  ![](http://wizards.com/sideboard/images/cardback.jpg)
 
-![](https://i.ormos.uk/4d/e8/4de8692aa03a071a7d8f6d08ae81772288b2393b9e745240479c70b9c7eed346.jpg)Spiritmonger lived in a world of Repulse, Recoil, Seal of Removal, Waterfront Bouncer, and other bounce/burn spells. Even through all the adversity, it became one of the most played fatties of all time, serving as a finisher in The Rock deck. Spiritmonger almost had it all – a body larger than its cost (6/6 for five), Regeneration, and the ability to dodge color-hosing spells (important against Story Circle and Perish). It also grew bigger each time it got into a fight. If only Spiritmonger had trample, it would be one of the top ten creatures of all time. As it stands, it'll have to settle for being one of the Top 10 Gold cards of all time.
+![](https://i.ormos.uk/4d/e8/4de8692aa03a071a7d8f6d08ae81772288b2393b9e745240479c70b9c7eed346.jpg)
+
+Spiritmonger lived in a world of Repulse, Recoil, Seal of Removal, Waterfront Bouncer, and other bounce/burn spells. Even through all the adversity, it became one of the most played fatties of all time, serving as a finisher in The Rock deck. Spiritmonger almost had it all – a body larger than its cost (6/6 for five), Regeneration, and the ability to dodge color-hosing spells (important against Story Circle and Perish). It also grew bigger each time it got into a fight. If only Spiritmonger had trample, it would be one of the top ten creatures of all time. As it stands, it'll have to settle for being one of the Top 10 Gold cards of all time.
 
 ### #8: Lightning Helix  ![](http://wizards.com/sideboard/images/cardback.jpg)
 
@@ -3418,7 +3426,9 @@ Pernicious Deed is simply one of the greatest mass-removal spells ever printed. 
 
 ### #1: Psychatog  ![](http://wizards.com/sideboard/images/cardback.jpg)
 
-[![](https://i.ormos.uk/99/04/99048d9ff49277c417b1a3fb34b2c0cb6cdfd60ec97ba9ba16d3f63bcf6597df.jpg)](https://web.archive.org/web/20060522000000/http://wizards.com/leaving.asp?url=http://www.yawgatog.com/cards/&origin=mtgcom_feature_335)When I was approached about writing this article, I said to Ted, “So, what are cards #2 through #50?”. Ted asked how I could have already decided #1, but when I told him my answer, he immediately agreed. The absolute best gold card of all time is Mr. Teeth himself, Psychatog. 
+[![](https://i.ormos.uk/99/04/99048d9ff49277c417b1a3fb34b2c0cb6cdfd60ec97ba9ba16d3f63bcf6597df.jpg)](https://web.archive.org/web/20060522000000/http://wizards.com/leaving.asp?url=http://www.yawgatog.com/cards/&origin=mtgcom_feature_335)
+
+When I was approached about writing this article, I said to Ted, “So, what are cards #2 through #50?”. Ted asked how I could have already decided #1, but when I told him my answer, he immediately agreed. The absolute best gold card of all time is Mr. Teeth himself, Psychatog. 
 
 What can I say about Psychatog that hasn't already been said? Psychatog has defined or influenced literally every format he's been legal in, including Vintage, Legacy, Extended, Standard, and Block. I can't think of another creatures which has had more pull for as many years as the ‘Tog. 
 

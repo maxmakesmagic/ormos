@@ -183,7 +183,9 @@ render_recovery:
   - Wirewood Savage
   occurrences: 169
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a931.jpg)Brian "Dreamboat" Kibler is one of the more prominent players in Magic today; not only is he a respected deckbuilder, internet writer, and the man who ushered Dragons into Standard, but he is also the only known Pro Tour regular who has a fan website that talks about how good-looking he is. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a931.jpg)
+
+Brian "Dreamboat" Kibler is one of the more prominent players in Magic today; not only is he a respected deckbuilder, internet writer, and the man who ushered Dragons into Standard, but he is also the only known Pro Tour regular who has a fan website that talks about how good-looking he is. 
 
 Christophe Haim is well respected for his skills thanks to Top 8s at Pro Tour Osaka and Grand Prix London, as well as his excellent finish at the Euros, and is one of a handful of European players to make Grand Prix: Philadelphia. Word on the street is that he's in America for a month to playtest and to learn to speak English better; he's staying with internet bad lad Peter Szigeti, which would make for a fascinating linguistics course by anyone's standards. 
 
@@ -217,7 +219,9 @@ Kibler conceded.
 
 "That's actually the second time I've died when I flipped a fourth-turn Demon," Kibler said. "Actually, it's about the second time I've died." Haim remained quiet, wearing a blue scarf and staring at his cards seriously.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a933.jpg)Kibler went first and kept... But once again, Haim was looking at a two-land hand, this time both plains. Kibler cycled his Barren Moore and laid a Mountain.
+![](http://www.wizards.com/sideboard/images/gpphi02/a933.jpg)
+
+Kibler went first and kept... But once again, Haim was looking at a two-land hand, this time both plains. Kibler cycled his Barren Moore and laid a Mountain.
 
 But Haim drew a swamp just in time to lay a Wretched Anurid of his own; Kibler responded with a Morph, his 2/2 looking mighty small in the face of the 3/3 Anurid. But was it The Demon, which seemed to have so much love for Kibler that it leapt eagerly to the top of his deck for every match?
 
@@ -227,7 +231,9 @@ Haim laid a Nantuko Husk, always a dangerous card in this format, and potentiall
 
 Haim hesitated briefly before attacking his Anurid, turning it back and forth but not letting his fingers slip off of it - before he finally twitched the Husk into place next to it and flicked them forward. The Craghorn nearly first-struck the Anurid out of existence, but it was sacrificed in the nick of time to save the Husk from the Buzzard.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a932.jpg)He laid Catapult Squad and J. Random Morph. Brian shrugged and sent in the Slateback, which Haim met with another shrug, throwing the Squad in front of it. Life totals were two to seven now... And Haim attacked, presenting damage that, no matter how he blocked, would still leave Kibler as demonfood the next turn. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a932.jpg)
+
+He laid Catapult Squad and J. Random Morph. Brian shrugged and sent in the Slateback, which Haim met with another shrug, throwing the Squad in front of it. Life totals were two to seven now... And Haim attacked, presenting damage that, no matter how he blocked, would still leave Kibler as demonfood the next turn. 
 
 Wisely, Kibler packed it in.
 

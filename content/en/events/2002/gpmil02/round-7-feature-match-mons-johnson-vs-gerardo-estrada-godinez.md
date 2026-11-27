@@ -111,13 +111,17 @@ render_recovery:
   - Simoon
   occurrences: 76
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/947.jpg)These two players are known for completely different reasons in the world of **Magic**. Godinez is the 2000 Mexican National Champion and Invitationalist the same year, while Mons Johnson brought the game along in its infant stages. Mons's Goblin Raiders, one of the most famous 1/1 creatures in history have their name because of Mons Johnson. 
+![](http://www.wizards.com/sideboard/images/gpmil02/947.jpg)
+
+These two players are known for completely different reasons in the world of **Magic**. Godinez is the 2000 Mexican National Champion and Invitationalist the same year, while Mons Johnson brought the game along in its infant stages. Mons's Goblin Raiders, one of the most famous 1/1 creatures in history have their name because of Mons Johnson. 
 
 "That's the guy who Mons Goblin Raider is named for?" asked PTR. "His card has done way more damage than Long's invitational card!" Aaron Forsythe, my boss for the weekend added, "And how many times do you think he's been sac'd to a Goblin Grenade?!" 
 
 It seems any variety of cards from green, red, and blue can be formed into a deck. Mons was playing some cards not often seen, in his deck such as Wild Research and Gurzigost. Godinez is playing u/w/r Goblin Trenches; a fairly popular choice for this weekend's main event. 
 
-![](http://www.wizards.com/sideboard/images/gpmil02/949.jpg)The first game was a hard-fought battle with mana being in scarce supply early and Godinez putting a Trenches into play as soo as Johnson was tapped out. Godinez's counters and Goblin Soldier tokens kept the board fairly clear, and the important line on Absorb, "Gain three life," kept Godinez at a somewhat healthy life total. Johnson began using Wild Research after his creatures seemed to have little luck getting through (and after he had emptied his hand) and began pulling Fiery Tempers out of his deck and pointing them straight at Godinez; all the while Godinez tried to get through all the points he could with goblins. 
+![](http://www.wizards.com/sideboard/images/gpmil02/949.jpg)
+
+The first game was a hard-fought battle with mana being in scarce supply early and Godinez putting a Trenches into play as soo as Johnson was tapped out. Godinez's counters and Goblin Soldier tokens kept the board fairly clear, and the important line on Absorb, "Gain three life," kept Godinez at a somewhat healthy life total. Johnson began using Wild Research after his creatures seemed to have little luck getting through (and after he had emptied his hand) and began pulling Fiery Tempers out of his deck and pointing them straight at Godinez; all the while Godinez tried to get through all the points he could with goblins. 
 
 Prophetic Bolt payed dividends in the way of Urza's Rage on Godinez's final turn, as that spell killed Johnson while lethal damage coming from the other direction was on the stack. 
 
@@ -125,7 +129,9 @@ Godinez 1 - Johnson 0
 
 Game two was over on turn 5. While the game lasted substantially longer, Godinez never dropped below 14; not a good sign for Johnson who wants to take Rootwallas and Mongrels into the red zone often. With both players on three lands Johnson went for a Wild Research with a Wild Mongrel already in play. Godinez Memory Lapsed. The following turn, Godinez failed to find a fourth land and waited with a Repulse in hand. Johnson swung in, taking Godinez to 15. 
 
-![](http://www.wizards.com/sideboard/images/gpmil02/948.jpg)Instead of recasting the Wild Research, Johnson decided to sit back on his Disrupt. However, at the end of the turn, instead of what I thought was the obvious play of Repuling the Mongrel, Godinez Iced the blue mana source of Johnson, cantripped into a land and began to turn the table early. Now he could Repulse without getting Disrupted, which was amazing considering Godinez never saw the Disrupt previous to that. 
+![](http://www.wizards.com/sideboard/images/gpmil02/948.jpg)
+
+Instead of recasting the Wild Research, Johnson decided to sit back on his Disrupt. However, at the end of the turn, instead of what I thought was the obvious play of Repuling the Mongrel, Godinez Iced the blue mana source of Johnson, cantripped into a land and began to turn the table early. Now he could Repulse without getting Disrupted, which was amazing considering Godinez never saw the Disrupt previous to that. 
 
 Godinez made the smart play, digging for a land instead of being greedy, and read his opponent's sideboard at the same time. From that turn on Godinez never missed a land drop he didn't want to and cruised with Trenches to a 5-1-1 record, needing just another win to put him into day two of the first-ever Standard-format Grand Prix. 
 

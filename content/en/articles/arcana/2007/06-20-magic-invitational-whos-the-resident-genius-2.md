@@ -69,7 +69,9 @@ You can have a hand in who gets invited to **Magic**'s all-star event, the 2007 
 
 [![](https://i.ormos.uk/7b/85/7b85e37d2f11f22edc8f193e70ddccc4133ae8070004601188bf4203f28e82b2.jpg)](/en/events/2007/mi07/2007-magic-invitational-voting)
 
-[![](https://i.ormos.uk/04/33/04337ddee18925996df26e6329e2eecf853a51029b14a1775d3a5264805e1dca.jpg)](/en/events/2007/mi07/guillaume-wafo-tapa-is-the-2007-resident-genius)This week, voting is heating up for the [Resident Genius](/en/events/2007/mi07/guillaume-wafo-tapa-is-the-2007-resident-genius). Despite the strenuous accusations of several torch-wielding mobs, five players have proved that their deckbuilding skills to be the stuff of genius rather than madness. Who deserves a trip to test their mad skills against **Magic**'s best this October? [It's up to you](/en/events/2007/mi07/2007-magic-invitational-voting).
+[![](https://i.ormos.uk/04/33/04337ddee18925996df26e6329e2eecf853a51029b14a1775d3a5264805e1dca.jpg)](/en/events/2007/mi07/guillaume-wafo-tapa-is-the-2007-resident-genius)
+
+This week, voting is heating up for the [Resident Genius](/en/events/2007/mi07/guillaume-wafo-tapa-is-the-2007-resident-genius). Despite the strenuous accusations of several torch-wielding mobs, five players have proved that their deckbuilding skills to be the stuff of genius rather than madness. Who deserves a trip to test their mad skills against **Magic**'s best this October? [It's up to you](/en/events/2007/mi07/2007-magic-invitational-voting).
 
   
   

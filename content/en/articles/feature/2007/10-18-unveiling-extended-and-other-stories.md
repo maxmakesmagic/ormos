@@ -70,7 +70,9 @@ render_recovery:
 ---
 The skies parted. The venue flooded. Graveyards got washed away. The Pro Tour went on. 
 
-![Flood](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptval07/flood_5.jpg)By now most of you know about the rainstorm that hit [Pro Tour–Valencia](/en/articles/event-coverage/undated/fortier-reigns-in-spain-2). As a fan of the game, I was actually heartbroken (okay, "heartbroken" is maybe overstating it but you get the picture) waking up on Friday morning only to learn that I would have to wait another 24 hours before finding out whether or not boogeyman Dredge got the Pro Tour... or at least Day One. 
+![Flood](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptval07/flood_5.jpg)
+
+By now most of you know about the rainstorm that hit [Pro Tour–Valencia](/en/articles/event-coverage/undated/fortier-reigns-in-spain-2). As a fan of the game, I was actually heartbroken (okay, "heartbroken" is maybe overstating it but you get the picture) waking up on Friday morning only to learn that I would have to wait another 24 hours before finding out whether or not boogeyman Dredge got the Pro Tour... or at least Day One. 
 
 It turns out that while Dredge was one of the most popular decks in the tournament, it did not make the break to Top 8. Reason prevailed, hatred bared its pointed fangs, and graveyards everywhere were emptied before they could perpetrate *too much* mischief. Bill Stark wrote a very informative breakdown of the Valencia metagame for the official tournament coverage; you can read it [here](/en/articles/event-coverage/2007/10-14-extended-metagame-breakdown-and-rogue-decks).
 

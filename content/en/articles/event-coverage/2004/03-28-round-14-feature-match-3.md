@@ -44,7 +44,9 @@ archive_source:
   sha256: 976f99eb692ebad832c6b68276d56b66349e5bed26ac3062f93aa5b95ddcd018
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm17_1.jpg)Stefan is no stranger to GP success, having won GP Prague last year. Kai of course needs no introduction, the "German [Juggernaut](https://web.archive.org/web/20040328000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Juggernaut)" looking to add another GP top eight to his long, long resume.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm17_1.jpg)
+
+Stefan is no stranger to GP success, having won GP Prague last year. Kai of course needs no introduction, the "German [Juggernaut](https://web.archive.org/web/20040328000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Juggernaut)" looking to add another GP top eight to his long, long resume.
 
 The players chatted in German as they shuffled up, and we're quickly underway at quite a pace!
 

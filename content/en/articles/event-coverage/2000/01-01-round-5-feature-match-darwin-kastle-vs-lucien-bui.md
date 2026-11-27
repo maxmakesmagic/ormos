@@ -44,7 +44,9 @@ archive_source:
   sha256: 4f53a3db3c3b33430a08f258d8a91fef8913d2889064b3a31dfa1639dab115ed
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/969.jpg)Again, two veteran Pro Tour players with great track records (especially Darwin Kastle) met in a friendly feature match. As you shall soon see, while Bui is much smaller than Kastle his deck was much stronger. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/969.jpg)
+
+Again, two veteran Pro Tour players with great track records (especially Darwin Kastle) met in a friendly feature match. As you shall soon see, while Bui is much smaller than Kastle his deck was much stronger. 
 
 **Game 1** 
 
@@ -62,7 +64,9 @@ Bui 1 - 0 Kastle
 
 Kastle thought long and hard about whether to draw or play first. He finally decided to take the extra card. Bui's first creature, a Nightscape Familiar, was promptly removed by Kastle before it could create, or speed up, any further trouble. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/968.jpg)The second creature stuck around: a Hooded Kavu. Kastle did have all his three land types this time and he found a Slingshot Goblin to attack as well. His opponent was almost literally on fire and since the ground was semi-blocked he decided to control the air with a Volcano Imp and speed up the clock with Smoldering Tar. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/968.jpg)
+
+The second creature stuck around: a Hooded Kavu. Kastle did have all his three land types this time and he found a Slingshot Goblin to attack as well. His opponent was almost literally on fire and since the ground was semi-blocked he decided to control the air with a Volcano Imp and speed up the clock with Smoldering Tar. 
 
 Kastle demised the Kavu and dropped his one Hooded Kavu only to see it get licked away by a Flametongue Kavu as the Tar got rid of the Goblin! The American did not relent and found a kicked Urborg Skeleton to keep the big Kavu from swinging. Now all he needed to do was find an answer for the Imp. He even had a Confound to stop Bui from adding a Sinister Strength to the Kavu (which would have made it an impressive 7/3). He ended up trading the Kavu for a Phyrexian Reaper a turn later. 
 

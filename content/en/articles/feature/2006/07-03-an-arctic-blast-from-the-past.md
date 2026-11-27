@@ -132,7 +132,9 @@ The more common version is known a “flight”. Flights have a fixed number of 
 
 If straight sealed deck is not your thing, there should be several other formats for you to explore with *Coldsnap*. Since PTQs will be featuring *Coldsnap* for the Top 8 drafts starting next weekend, this could be a perfect opportunity to get the jump on the competition. If you are looking to play with some friends, there should be 3-player team tournaments with 10 booster packs being given to each team. Teams will then build three 40-card minimum decks and try to win two out of three matches against competing teams. This is always a fun format, because even if you lose a round there is still a chance your two teammates can bail you out.
 
-![](http://media.wizards.com/legacy/sideboard/images/pthon06/blog_bdmosyp.jpg)Two-Headed Giant is an increasingly popular team format and should be on the schedule for most organizers. As always, this is the ideal format if you have a potential teammate who is just learning the Magical ropes. Since one player ultimately makes all the decisions for the two heads, you can guide a newer player through the finer points of the game.
+![](http://media.wizards.com/legacy/sideboard/images/pthon06/blog_bdmosyp.jpg)
+
+Two-Headed Giant is an increasingly popular team format and should be on the schedule for most organizers. As always, this is the ideal format if you have a potential teammate who is just learning the Magical ropes. Since one player ultimately makes all the decisions for the two heads, you can guide a newer player through the finer points of the game.
 
 The biggest challenge that many players have at these events is the one of deck construction. Hopefully the guild flavor of *Ravnica* block will not leave a lingering taste for four-color decks on the tongues of most *Magic* players. I do not really know how much mana fixing there will be in *Coldsnap*, but it cannot possibly approach the saturation level of RGD, which relied on mana-fixing to pull off 4- and 5-color decks.
 

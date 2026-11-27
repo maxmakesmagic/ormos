@@ -99,7 +99,9 @@ render_recovery:
   - Zombie Infestation
   occurrences: 71
 ---
-![](https://i.ormos.uk/1d/32/1d32fc71662ea6267484bd5ce8133f3ed860b317497269a02f5c74b21c6abf2d.jpg)The game started off with a deck check, giving both players twelve minutes to kill. Osyp, whose name is pronounced "OH-sip," is a member of Team TOGIT and a frequent partner of CMU members in New Jersey. Two-time Masters Champion Ben Rubin needs no introduction.
+![](https://i.ormos.uk/1d/32/1d32fc71662ea6267484bd5ce8133f3ed860b317497269a02f5c74b21c6abf2d.jpg)
+
+The game started off with a deck check, giving both players twelve minutes to kill. Osyp, whose name is pronounced "OH-sip," is a member of Team TOGIT and a frequent partner of CMU members in New Jersey. Two-time Masters Champion Ben Rubin needs no introduction.
 
 "How'd you do in Jersey?" Osyp ventured, asking about the Team Grand Prix a few weeks back.
 
@@ -125,7 +127,9 @@ The judge came back. Rubin had three sleeves on three different cards that were 
 
 Osyp mulliganed, going down to six. Rubin signaled his strength by starting with a first-turn swamp; as was the case with so many of the top players today, he was playing Mirari Black. It wasn't clear what Osyp was playing from his first-turn island - Mirari's Wake? Infestation? Blue/Green? - but his second-turn forest cemented his selection; Osyp was playing a blue/green madness deck, featuring the usual assortment of Rootwalla, Mongrel, and so forth. He dropped a Rootwalla and passed the turn; Rubin Pacted at the end of Osyp's second turn to snag a Shade, then used his main phase to Innocent Blood the Walla before laying the Nantuko. 
 
-![](https://i.ormos.uk/6e/08/6e08facbf4ec8e4f1592ecc93a926cd12e62a8dd9cb180e18c23ee74e4876306.jpg)Osyp laid another land and created a second Rootwalla as a replacement for his lizard, but Rubin had an answer for that one, too - this time an Edict to remove the potentially-blocking lizard, which allowed his Shade to survive and swing for four. 
+![](https://i.ormos.uk/6e/08/6e08facbf4ec8e4f1592ecc93a926cd12e62a8dd9cb180e18c23ee74e4876306.jpg)
+
+Osyp laid another land and created a second Rootwalla as a replacement for his lizard, but Rubin had an answer for that one, too - this time an Edict to remove the potentially-blocking lizard, which allowed his Shade to survive and swing for four. 
 
 Osyp was in trouble; as sometimes happens to madness players, he had a handful of Arrogant Wurms that were far too expensive without a handy cast-reducing Mongrel or Aquamoeba in play. He laid Tarnished Citadel, knowing that time was growing short. Rubin swung with everything and pumped it to eight, dropping Osyp to six. 
 
@@ -155,7 +159,9 @@ Then Rubin cast Tainted Pact during his first main phase, zipping merrily past a
 
 In desperation, Osyp laid his last card on the table: A Phantom Centaur. Rubin, the polar opposite of Osyp cardwise, Scryed a fresh four cards into his hand, dropping to ten.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a920.jpg)It looked grim. Osyp had one card in his hand - a Careful Study, which he exchanged for a second Phantom Centaur. Knowing that this is mono-black, chances are that an Edict or another Blood would take the Centaur that was currently on the board; he had only four lands, and he'd just used one of them to Careful Study. He passed the turn.
+![](http://www.wizards.com/sideboard/images/gpcle02/a920.jpg)
+
+It looked grim. Osyp had one card in his hand - a Careful Study, which he exchanged for a second Phantom Centaur. Knowing that this is mono-black, chances are that an Edict or another Blood would take the Centaur that was currently on the board; he had only four lands, and he'd just used one of them to Careful Study. He passed the turn.
 
 "How many cards in hand?" asked Rubin. "One?" 
 

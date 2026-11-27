@@ -90,7 +90,9 @@ The three YMG'ers proved that there isn't one broken deck in the format, but rat
 
 John Larkin, fresh off his Top 8 at Worlds, dodged—or played around—all the hate in the format and made the Top 8 with a copy of the German Blue/Black Reanimator deck, somewhat vindicating Kai Budde's 4-3 record with the deck.
 
-![](https://i.ormos.uk/f9/c0/f9c0026bbad3728445d0720fe464b6b5c223714bfd53a8d21276bde42857bf72.jpg)Bob Maher, winner of the Extended Pro Tour three years ago, makes his return to Sunday play as well. This time it is not with his "signature deck" that he had been working on for months, but rather with an eccentric combo deck featuring Sutured Ghoul that he bought from Victor van der Broek and other Dutch players the night before the event. The Ghoul deck contains some of the most narrow and trashy cards currently being played, but the deck's penchant for turn-two kills cannot be ignored.
+![](https://i.ormos.uk/f9/c0/f9c0026bbad3728445d0720fe464b6b5c223714bfd53a8d21276bde42857bf72.jpg)
+
+Bob Maher, winner of the Extended Pro Tour three years ago, makes his return to Sunday play as well. This time it is not with his "signature deck" that he had been working on for months, but rather with an eccentric combo deck featuring Sutured Ghoul that he bought from Victor van der Broek and other Dutch players the night before the event. The Ghoul deck contains some of the most narrow and trashy cards currently being played, but the deck's penchant for turn-two kills cannot be ignored.
 
 The rest of the top 8 indicated the diversity of the format: Denmark's Peter Myrvig with Psychatog, Sweden's Mattias Jorstedt with Aluren Combo, and the Netherlands' Jeroen Remie with The Rock, the only true duplicated deck in the Top 8.
 

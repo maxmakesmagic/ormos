@@ -44,7 +44,9 @@ archive_source:
   sha256: af7ceebd158405f83424cc92ffaf390bb7fcbf3fcd4682a0a3ed537940965aab
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a872.jpg)Way back in GP Florence Kai Budde dumped an unhappy Stephano Fiore out of the top 8 in the last round of the swiss. A different Italian and a different Fiori but the stakes are still high. Both players need to win out and Budde's task is going to be hard as his opponent has 3 [Spikeshot Goblin](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin). 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a872.jpg)
+
+Way back in GP Florence Kai Budde dumped an unhappy Stephano Fiore out of the top 8 in the last round of the swiss. A different Italian and a different Fiori but the stakes are still high. Both players need to win out and Budde's task is going to be hard as his opponent has 3 [Spikeshot Goblin](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin). 
 
 Budde won the coin flip and elected to go first. He did nothing exciting until turn 3 when he dropped a [Neurok Spy](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Neurok+Spy). Fiori trumped that by dropping a Shrieker with two artifact lands and a Talisman in play.
 
@@ -56,7 +58,9 @@ Fiori 1-0 Budde
 
 Fiori tried to get a quick start in Game 2 but his turn two Myr was [Annul](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annul)led and he skipped a land drop and had to go with the slower Talisman option. Meanwhile Budde looked ominous as [Loxodon Punisher](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Punisher) picked up some [Vulshok Gauntlets](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulshok+Gauntlets).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a873.jpg)It was a bit slow to switch the Gauntlets around though and Fiori could come back into the game with a [Spikeshot Goblin](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin) and then a [Pyrite Spellbomb](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyrite+Spellbomb) on the Punisher in response to Budde giving them the Gauntlets. Fiori also made a [Nuisance Engine](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nuisance+Engine) and started spitting out some pests.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a873.jpg)
+
+It was a bit slow to switch the Gauntlets around though and Fiori could come back into the game with a [Spikeshot Goblin](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin) and then a [Pyrite Spellbomb](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyrite+Spellbomb) on the Punisher in response to Budde giving them the Gauntlets. Fiori also made a [Nuisance Engine](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nuisance+Engine) and started spitting out some pests.
 
 Budde would have some trouble getting through, but also so would Fiori – he had to get past [Bottle Gnomes](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bottle+Gnomes) with Gauntlets and [Scythe of the Wretched](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scythe+of+the+Wretched).
 
@@ -67,7 +71,9 @@ The game still looked to be returning in Budde's favour as his deck started drop
 
 Fiori 1-1 Budde
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a874.jpg)With a sigh Budde was forced to throw back his first hand. Then there was a slight delay as Budde noticed one of his sleeves was marked and had to desleeve his deck. He drew his six cards, announced he was fine and the game could resume. As in the game before Fiori had his second turn mana acceleration [Annul](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annul)led. He found a third land for a [Spikeshot Goblin](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin) but then his deck got a little stubborn as no more land was forthcoming.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/a874.jpg)
+
+With a sigh Budde was forced to throw back his first hand. Then there was a slight delay as Budde noticed one of his sleeves was marked and had to desleeve his deck. He drew his six cards, announced he was fine and the game could resume. As in the game before Fiori had his second turn mana acceleration [Annul](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annul)led. He found a third land for a [Spikeshot Goblin](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin) but then his deck got a little stubborn as no more land was forthcoming.
 
 Budde started beating down with a [Soldier Replica](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soldier+Replica) and [Skyhunter Patrol](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skyhunter+Patrol). His Punisher met an [Electrostatic Bolt](https://web.archive.org/web/20031026000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Electrostatic+Bolt).
 

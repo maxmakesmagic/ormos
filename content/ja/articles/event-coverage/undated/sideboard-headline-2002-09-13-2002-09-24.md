@@ -56,9 +56,13 @@ render_recovery:
 
 SBJ に載った時には面子が変更されてました
 
-![](http://wizards.com/sideboard/images/PTNOR01/712.jpg)慣れないことをするもんじゃありませんねぇ。この記事が載る時にはまた更なる変更が入っているんじゃないかとドキドキもんです。参加を辞退したのは、Kai Budde と Zvi Mowshowitz の二人。Kai は学業のため、Zvi は仕事のためって書いてありますが、Zvi 先生だったんですねぇ。**マナカーブとか教えているんでしょうか**。
+![](http://wizards.com/sideboard/images/PTNOR01/712.jpg)
 
-![](http://wizards.com/sideboard/images/usnat02/852.jpg)この二人の代わりに参加権利を得たのが、Tomi Walamies と Chris Pikula 。Walamies は最近だと先日終了した PTQ Houston で有力デッキの一角を占めた白青デッキの布教者ってのが解りやすいでしょうか。写真でも被っている帽子がトレードマークで、筆者もこの**帽子だけを**覚えていたのですが、世界選手権では帽子を被っていないあげくに、髪も黒く染めちゃってたりして、三日目まで居たのに気付きませんでした。
+慣れないことをするもんじゃありませんねぇ。この記事が載る時にはまた更なる変更が入っているんじゃないかとドキドキもんです。参加を辞退したのは、Kai Budde と Zvi Mowshowitz の二人。Kai は学業のため、Zvi は仕事のためって書いてありますが、Zvi 先生だったんですねぇ。**マナカーブとか教えているんでしょうか**。
+
+![](http://wizards.com/sideboard/images/usnat02/852.jpg)
+
+この二人の代わりに参加権利を得たのが、Tomi Walamies と Chris Pikula 。Walamies は最近だと先日終了した PTQ Houston で有力デッキの一角を占めた白青デッキの布教者ってのが解りやすいでしょうか。写真でも被っている帽子がトレードマークで、筆者もこの**帽子だけを**覚えていたのですが、世界選手権では帽子を被っていないあげくに、髪も黒く染めちゃってたりして、三日目まで居たのに気付きませんでした。
 
 元に戻して下さい。まじで 　というわけで、今後も**旧 Walamies 復活運動**を続けていきたいと思います。　一方の Pikula は《翻弄する魔道士/Meddling Mage(PL)》の人。気がつけば Invitational 最多出場だそうです。
 

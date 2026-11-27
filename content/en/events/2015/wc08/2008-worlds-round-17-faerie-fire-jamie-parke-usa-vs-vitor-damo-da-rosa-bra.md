@@ -53,7 +53,9 @@ archive_source:
   sha256: a371ba2c6af90bb04fa33b293b84ad168c5a8525c08bfbe3b95a6f23676103d6
 render_recovery: []
 ---
-![](http://media.wizards.com/2015/events/wc08/r17_damodarosa_parke.jpg)”Can you scoop him in?” former Player of the Year Gabriel Nassif asked Paulo Vitor Damo da Rosa from the crowd as the Brazilian sat down to his match against American Jamie Parke.
+![](http://media.wizards.com/2015/events/wc08/r17_damodarosa_parke.jpg)
+
+”Can you scoop him in?” former Player of the Year Gabriel Nassif asked Paulo Vitor Damo da Rosa from the crowd as the Brazilian sat down to his match against American Jamie Parke.
 
 “No, I need a draw,” Damo da Rosa replied, before turning to Parke and asking, “Can you draw?”
 
@@ -81,7 +83,9 @@ Jamie nodded. “I know, but if I draw I can't really make Top 8, so it's just n
 
 **Game 2**
 
-![](http://media.wizards.com/2015/events/wc08/r17_damodarosa.jpg)The American kicked off the second game of the match with a [Breeding Pool](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Breeding+Pool) while his Brazilian counterpart opened on Blood Cryptand [Figure of Destiny](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Figure+of+Destiny). When the 1/1 became a 2/2 during the game's first combat step, the score fell to 18-15 in Jamie's favor. Paulo's postcombat [Mogg Fanatic](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Fanatic) was countered by [Spellstutter Sprite](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite).
+![](http://media.wizards.com/2015/events/wc08/r17_damodarosa.jpg)
+
+The American kicked off the second game of the match with a [Breeding Pool](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Breeding+Pool) while his Brazilian counterpart opened on Blood Cryptand [Figure of Destiny](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Figure+of+Destiny). When the 1/1 became a 2/2 during the game's first combat step, the score fell to 18-15 in Jamie's favor. Paulo's postcombat [Mogg Fanatic](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Fanatic) was countered by [Spellstutter Sprite](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite).
 
 A [Repeal](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Repeal) sent the [Figure of Destiny](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Figure+of+Destiny) back to its owner's hand, and it looked as though Jamie Parke had managed to stabilize. Paulo hadn't managed to play a second creature, and with three lands had only a [Seal of Fire](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire) to show for it. When Paulo replayed his Figure, Jamie let it resolve and let a follow-up [Wild Nacatl](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Nacatl) hit as well. He revealed why at end of turn as he used [Venser, Shaper Savant](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Venser%2C+Shaper+Savant) to bounce his opponent's [Seal of Fire](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire). Paulo sacced the Seal instead, killing [Spellstutter Sprite](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite), and Jamie was free to use [Threads of Disloyalty](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Threads+of+Disloyalty) to steal his opponent's 3/3 Wild Nacatl—though it left him without the requisite blue mana to try to counter any of Paulo's spells the following turn. Venser got in and by the time the turn was over, the score was 16-10 in Jamie's favor.
 
@@ -97,7 +101,9 @@ Damo da Rosa 1, Parke 1
 
 **Game 3**
 
-![](http://media.wizards.com/2015/events/wc08/r17_parke.jpg)Kicking the final game of the match off was a Mogg Fanaticfrom Damo da Rosa, followed by a [Seal of Fire](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire). As usual, Paulo's fetch lands and duals left him at an early life disadvantage. Trying to keep his opening army strong, used his third turn to play a Duergar Hedge-Mage, despite there being no legal targets in play to destroy.
+![](http://media.wizards.com/2015/events/wc08/r17_parke.jpg)
+
+Kicking the final game of the match off was a Mogg Fanaticfrom Damo da Rosa, followed by a [Seal of Fire](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire). As usual, Paulo's fetch lands and duals left him at an early life disadvantage. Trying to keep his opening army strong, used his third turn to play a Duergar Hedge-Mage, despite there being no legal targets in play to destroy.
 
 Not wanting to fall behind, Jamie played an [Engineered Explosives](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Explosives) for one, using it to kill Paulo's [Seal of Fire](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire) and Fanatic, but falling to 12 in the process. Parke used a [Spellstutter Sprite](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellstutter+Sprite) to counter a Damo da Rosa Kird Ape, then a [Spell Snare](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spell+Snare) to nail [Tidehollow Sculler](https://web.archive.org/web/20081214000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tidehollow+Sculler) the same turn. With three cards in his hand to Jamie's five, it didn't look good for Paulo Vitor Damo da Rosa.
 

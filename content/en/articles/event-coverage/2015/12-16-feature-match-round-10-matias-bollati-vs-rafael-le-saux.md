@@ -50,7 +50,9 @@ This match featured Matias Bollati, ranked fifteenth in Argentinean Constructed 
 
 They rolled the die to decide who would start and Bollati won. They both took a mulligan. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPba00/910.jpg)Bollati started slowly playing some lands, but Le Saux make it hard for him starting with a Duress (taking a Survival of the Fittest) and then casting an Acidic Sliver. They both started to accumulate some lands but meanwhile, Rafael was still hitting with his Acidic until he decided to start the action. He tried to cast a Crystalline Sliver but Matias played a Counterspell on it. Then he played a Muscle Sliver and started with the real beatdown. Bollati tried to recuperate from this by casting first a Quirion Ranger, and then a Tradewind Rider, which was countered by a Force of Will. Rafael played another Crystalline and continued attacking Matias. Bollati played some Birds of Paradise and a Tradewind Rider but he could do nothing with all those nasty slivers hitting him. He conceded. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPba00/910.jpg)
+
+Bollati started slowly playing some lands, but Le Saux make it hard for him starting with a Duress (taking a Survival of the Fittest) and then casting an Acidic Sliver. They both started to accumulate some lands but meanwhile, Rafael was still hitting with his Acidic until he decided to start the action. He tried to cast a Crystalline Sliver but Matias played a Counterspell on it. Then he played a Muscle Sliver and started with the real beatdown. Bollati tried to recuperate from this by casting first a Quirion Ranger, and then a Tradewind Rider, which was countered by a Force of Will. Rafael played another Crystalline and continued attacking Matias. Bollati played some Birds of Paradise and a Tradewind Rider but he could do nothing with all those nasty slivers hitting him. He conceded. 
 
 Matias Bollati 0 - Rafael Le Saux 1 
 

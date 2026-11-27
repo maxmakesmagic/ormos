@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a749.jpg)Bram Snepvangers is trying to make his first Pro Tour Top 8. The Dutchman had made four Top 8's at Grand Prix, but never here at the "Big Show."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a749.jpg)
+
+Bram Snepvangers is trying to make his first Pro Tour Top 8. The Dutchman had made four Top 8's at Grand Prix, but never here at the "Big Show."
 
 His opponent, the affable Canadian Jeff Fung, has one Top 8 to his name – achieved at his first Pro Tour – and would like very much to duplicate the feat.
 
@@ -71,7 +73,9 @@ Snepvangers 1 – Fung 0
 
 Bram made the first move with [Chatter of the Squirrel](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chatter+of+the+Squirrel), but Fung had the king of the red/green mirror, [Wild Mongrel](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel). Bram was unfazed and attacked with his squirrel. Fung rolled his eyes, but refused to block. Bram then flashed the Chatter back.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a750.jpg)This time, Fung's first four lands were all [Forest](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest)s, preventing him from adding anything else to the fray. Bram took the opportunity to bust out a [Skywing Aven](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven) and hand it a [Crackling Club](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crackling+Club). Fung took three hits from the 3/1 flier and drew... a fifth [Forest](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a750.jpg)
+
+This time, Fung's first four lands were all [Forest](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest)s, preventing him from adding anything else to the fray. Bram took the opportunity to bust out a [Skywing Aven](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skywing+Aven) and hand it a [Crackling Club](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crackling+Club). Fung took three hits from the 3/1 flier and drew... a fifth [Forest](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest).
 
 He did cast [Call of the Herd](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd), the first half of which died to a combination of blocking a squirrel and a [Firebolt](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt), the second half of which stayed in play and started attacking Bram back. Fung eventually drew a [Mountain](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain), but because the 3/1 and the [Firebolt](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) in Bram's graveyard were threatening to take away Fung's last five life points. So the [Mountain](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) fueled a [Petravark](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) that would force Bram to draw another land.
 
@@ -89,7 +93,9 @@ He chose to, making it 6/6. Bram sacrificed the Club, and Fung discarded his las
 
 Fung untapped. He could attack Bram for 7 – not enough – but if he drew [Fiery Temper](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fiery+Temper), he could madness it, making the Mongrel 4/4, just enough for 11 total damage. He drew...
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a751.jpg)[Sonic Seizure](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sonic+Seizure). The sad part about the situation was that if Fung had NOT saved the Mongrel, he would have won with that draw. He would have attacked with the elephant and the [Petravark](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) for 5, [Muscle Burst](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muscle+Burst) for 4 more, and Seizured for 3, discarding the random card.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a751.jpg)
+
+[Sonic Seizure](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sonic+Seizure). The sad part about the situation was that if Fung had NOT saved the Mongrel, he would have won with that draw. He would have attacked with the elephant and the [Petravark](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) for 5, [Muscle Burst](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muscle+Burst) for 4 more, and Seizured for 3, discarding the random card.
 
 There were two other relevant cards in Fung's deck that hew could've drawn – one was [Krosan Archer](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Archer) that would have kept the Aven from killing him for a turn. It is unclear whether or not saving the Mongrel would have had an impact in that scenario. The other possibility was [Pardic Firecat](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pardic+Firecat), which would have won him the game if he had NOT saved the Mongrel: 3 elephant + 2 [Petravark](https://web.archive.org/web/20020504000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) + 2 Firecat + 4 Burst = 11.
 

@@ -89,7 +89,9 @@ render_recovery:
   - Loafing Giant
   occurrences: 50
 ---
-![](https://i.ormos.uk/4e/da/4eda051a8c88cb0c80a8a10ef46a73d021a432625e69b6fe9864b19a47df1914.jpg)Both Zvi and Alex are among the Top 25 money winners in the game. Alex is on the low end of the list hovering around 25th place but Zvi is currently fourth and was hoping to close some ground this weekend. It's not happening for either of them. The two Illuminati teammates were wondering what they were doing in the feature match area with 4-5 records. 
+![](https://i.ormos.uk/4e/da/4eda051a8c88cb0c80a8a10ef46a73d021a432625e69b6fe9864b19a47df1914.jpg)
+
+Both Zvi and Alex are among the Top 25 money winners in the game. Alex is on the low end of the list hovering around 25th place but Zvi is currently fourth and was hoping to close some ground this weekend. It's not happening for either of them. The two Illuminati teammates were wondering what they were doing in the feature match area with 4-5 records. 
 
 "You are looking at a pair of Exalted Angels," laughed Alex, comparing their records to the power and toughness of the powerful card.
 
@@ -127,7 +129,9 @@ Alex – 0 Zvi – 1
 
 Zvi had a turn two Turncoat and followed with a Stonewood Invoker. Alex had a turn four play and Zvi asked how big. Alex swore it was huge but it was only a Dive Bomber. Alex attacked him down to 14 and played a Vengeful Dead. 
 
-![](https://i.ormos.uk/74/72/7472bb3c7eea55c0eec299ffde45f7275dc181183306c4c15b0bf6411b00ef3c.jpg)Alex played a face-down guy and tried to decide where to play a Pacifism. He opted for the Invoker because he did not want the Vengeful Dead to stick around for long. Zvi untapped and Swatted the soldier, "That's his fate—get used to it." and swung in and dropped Alex to eleven. A Carrion Feeder joined the team. 
+![](https://i.ormos.uk/74/72/7472bb3c7eea55c0eec299ffde45f7275dc181183306c4c15b0bf6411b00ef3c.jpg)
+
+Alex played a face-down guy and tried to decide where to play a Pacifism. He opted for the Invoker because he did not want the Vengeful Dead to stick around for long. Zvi untapped and Swatted the soldier, "That's his fate—get used to it." and swung in and dropped Alex to eleven. A Carrion Feeder joined the team. 
 
 Alex played a Swooping Talon and Zvi played a morph. When Alex provoked the Vengeful Dead, Zvi put all three of his block-eligible creatures in the ay but Alex had the Aven Liberator. The end result was a +1/+1 counter on the Feeder and a loss of one life for Alex.
 
@@ -145,7 +149,9 @@ Alex – 1 Zvi – 1
 
 ### Game 3
 
-![](https://i.ormos.uk/e0/cb/e0cb7922538e9d6f089f66d33c288f9ef3b5b032e23665101e90dca3d0826672.jpg)Zvi came out fast with another Turncoat but Alex was not prepared for all the damage he could get in and Pacified it on his next turn. Zvi played a morph and Alex had no turn three play. Stonewood Invoker was one-upped by Essence Sliver—still no Stingers for Alex. 
+![](https://i.ormos.uk/e0/cb/e0cb7922538e9d6f089f66d33c288f9ef3b5b032e23665101e90dca3d0826672.jpg)
+
+Zvi came out fast with another Turncoat but Alex was not prepared for all the damage he could get in and Pacified it on his next turn. Zvi played a morph and Alex had no turn three play. Stonewood Invoker was one-upped by Essence Sliver—still no Stingers for Alex. 
 
 Zvi sent in the morph and Alex took the bait and put his Sliver in the way. Patron of the Wild killed the Sliver and Alex gained three. He played an Aven Farseer and a morph, giving Zvi a choice of Swat targets. He decided that based on the number of morph tricks in his deck he would Swat the Farseer while he still could.
 

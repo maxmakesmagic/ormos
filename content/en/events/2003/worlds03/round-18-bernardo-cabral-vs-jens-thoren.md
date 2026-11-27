@@ -131,7 +131,9 @@ This match was for Top 16, and was a mirror match between two Goblin decks. Cabr
 
 ### Game 1
 
-![](https://i.ormos.uk/0d/37/0d37494807cc3b54683b14d57e9d200ebebb10a9d48f42ff6dd09b50e1acd38f.jpg)Cabral mulliganed down to six, and opened with Goblin Lackey, while Thoren had Mogg Fanatic. A Piledriver joined the Lackey on turn two, and Cabral opted not to attack and force a trade with the Fanatic. Thoren played a Piledriver of his own, and ended the turn. Cabral played his second Piledriver, and the game had become a rarity in a Goblin mirror match- neither player wanted to attack. This stalemate ended when Thoren cycled an Incinerator to kill a Piledriver, burned the other away with Seal of Fire, and attacked with his team.
+![](https://i.ormos.uk/0d/37/0d37494807cc3b54683b14d57e9d200ebebb10a9d48f42ff6dd09b50e1acd38f.jpg)
+
+Cabral mulliganed down to six, and opened with Goblin Lackey, while Thoren had Mogg Fanatic. A Piledriver joined the Lackey on turn two, and Cabral opted not to attack and force a trade with the Fanatic. Thoren played a Piledriver of his own, and ended the turn. Cabral played his second Piledriver, and the game had become a rarity in a Goblin mirror match- neither player wanted to attack. This stalemate ended when Thoren cycled an Incinerator to kill a Piledriver, burned the other away with Seal of Fire, and attacked with his team.
 
 Cabral was left with just a Goblin Lackey, which blocked and traded with the Fanatic, leaving only a Piledriver on Thoren's side. Cabral rebuilt with a Fanatic, then played Pyrostatic Pillar. Thoren attacked with just the Piledriver, played a Warchief, and said go. Cabral slowed things down with Tangle Wire, and was left with very few threats on the board and only one card in hand, while Thoren had plenty of resources to spare. The Tangle Wire didn't do much to prevent Thoren from developing his board, and the game ended a few turns later.
 

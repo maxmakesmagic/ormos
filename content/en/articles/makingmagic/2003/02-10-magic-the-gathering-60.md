@@ -61,7 +61,9 @@ archive_source:
   sha256: 7b9fcc46fc96b143ab2c637094be2d41106604edc741f9924b9dac11febfe7f0
 render_recovery: []
 ---
-![Richard Garfield](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/58_garfield.jpg)You check your schedule. You have two hours before your next meeting, another design meeting. After checking your schedule, Richard Garfield approaches your desk. Richard has an idea for a **Magic** card.
+![Richard Garfield](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/58_garfield.jpg)
+
+You check your schedule. You have two hours before your next meeting, another design meeting. After checking your schedule, Richard Garfield approaches your desk. Richard has an idea for a **Magic** card.
 
  **[Listen to Richard.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=72)  
 [Tell Richard you have other things to do.](https://web.archive.org/web/20030210000000/http://archive.wizards.com/magic/mr58process.asp?go=73)**

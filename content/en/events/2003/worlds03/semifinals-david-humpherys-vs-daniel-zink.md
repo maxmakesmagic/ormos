@@ -103,7 +103,9 @@ render_recovery:
   - Stupefying Touch
   occurrences: 134
 ---
-![](https://i.ormos.uk/17/d0/17d01370523d00870836a7bab562733871858950734bddbe874dd8c892c27695.jpg)When good things happen to YMG, it seems they come in groups. Dave Humpherys was joined in this Worlds Top 8 by the recently-annexed Gabe Walls, but the hope of an all-YMG finals was dashed when Tuomo Nieminen bested Walls in the quarters. Now it's up to The Hump to win it for the red and black (and by extension, the red, white and blue). His blue-green deck narrowly escaped a nightmare matchup against Wolfgang Eder in the quarters, and now he's up against a much easier foe: Wake.
+![](https://i.ormos.uk/17/d0/17d01370523d00870836a7bab562733871858950734bddbe874dd8c892c27695.jpg)
+
+When good things happen to YMG, it seems they come in groups. Dave Humpherys was joined in this Worlds Top 8 by the recently-annexed Gabe Walls, but the hope of an all-YMG finals was dashed when Tuomo Nieminen bested Walls in the quarters. Now it's up to The Hump to win it for the red and black (and by extension, the red, white and blue). His blue-green deck narrowly escaped a nightmare matchup against Wolfgang Eder in the quarters, and now he's up against a much easier foe: Wake.
 
 It's being piloted by former German National Champion Daniel Zink, who must be fired up to revenge his countryman Eder's defeat. Never mind that Peer Kröger dropped to Okamoto's Wake in the quarters, leaving Zink as the lone hometown hero in the running. You've got to figure the whole audience is behind Zink in this one.
 
@@ -148,7 +150,9 @@ Zink 1 – Humpherys 0
 
 Humpherys shook his head very slightly as he sent his first hand back to the library. It seemed like it wasn't his day. He rolled his eyes at his next six, but chose to keep. They looked pretty good when he opened with Mongrel and Arrogant Wurm, but Zink's Krosan Verge and Skycloud Expanse fueled a Mana Leak to keep the pain to a minimum. Zink played an island and ended his turn. Humpherys got in for two and started thinking. He tried a second Mongrel. Zink allowed it. He cracked the Verge and untapped.
 
-![](https://i.ormos.uk/5a/36/5a36698627debf98f16bdeab9fdbb46c4ac62ee4a96e7827acd67d2bc6a571b1.jpg)He made Compulsion and ended his turn. An attack from Humpherys was blunted by Moment's Peace. Zink stood his ground. Humpherys tried again. This time Zink played Cunning Wish. Humpherys let it resolve, and Zink fetched out the mighty Wing Shards to clear out Humpherys's team. He had to tap out to do it, though, so Humpherys was free to Speculate for a Ray and two Wurms. Compulsion fell to the wayside, and Humpherys made an Aquamoeba.
+![](https://i.ormos.uk/5a/36/5a36698627debf98f16bdeab9fdbb46c4ac62ee4a96e7827acd67d2bc6a571b1.jpg)
+
+He made Compulsion and ended his turn. An attack from Humpherys was blunted by Moment's Peace. Zink stood his ground. Humpherys tried again. This time Zink played Cunning Wish. Humpherys let it resolve, and Zink fetched out the mighty Wing Shards to clear out Humpherys's team. He had to tap out to do it, though, so Humpherys was free to Speculate for a Ray and two Wurms. Compulsion fell to the wayside, and Humpherys made an Aquamoeba.
 
 Zink gassed up with Deep Analysis. Humpherys hit for one, and tried a Wurm. Zink showed him Mana Leak. Another Analysis followed, and he flashed it back, fearing nothing that Humpherys could bring to the table. He stood at eleven life. He permitted himself a small smile at his position, and his posture became that of bored confidence. Humpherys tried to find a way to get in the game. Careful Study got rid of some useless lands, and he flashed back his other Wurm. Zink Wrathed his team away and made another Compulsion.
 
@@ -174,7 +178,9 @@ While Zink got out two Verges and an island, Humpherys had no pressure. He final
 
 "Yep. That's a lot." – Daniel Zink
 
-![](https://i.ormos.uk/68/17/681720f57d67d9b0244cf3ab5e1798152d5a44f47a5c490499d5863994d57151.jpg)Zink popped a Verge and played it cagey. He was holding Renewed Faith, three Wraths and a Mana Leak, so he had little to worry about. He shut down Humpherys's attempt to flash back the Analysis. Activating the other Verge gave him still more mana to work with. He pulled a second Leak right off the top. Humpherys tried a hard-cast Analysis. Zink cycled his Faith, finding Exalted Angel, and then let it happen.
+![](https://i.ormos.uk/68/17/681720f57d67d9b0244cf3ab5e1798152d5a44f47a5c490499d5863994d57151.jpg)
+
+Zink popped a Verge and played it cagey. He was holding Renewed Faith, three Wraths and a Mana Leak, so he had little to worry about. He shut down Humpherys's attempt to flash back the Analysis. Activating the other Verge gave him still more mana to work with. He pulled a second Leak right off the top. Humpherys tried a hard-cast Analysis. Zink cycled his Faith, finding Exalted Angel, and then let it happen.
 
 He still didn't commit anything to the board on his turn, though. Humpherys flashed back an Analysis and made a Wild Mongrel. Zink eagerly started shuffling his Wraths. He tried one on his turn, but had to spend a Mana Leak to get it past Humpherys's Envelop. Humpherys replaced his Mongrel and gave it back. Zink dropped another Wrath. This one went uncontested.
 

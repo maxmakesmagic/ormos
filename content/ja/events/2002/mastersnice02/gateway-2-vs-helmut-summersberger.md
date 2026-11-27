@@ -181,7 +181,9 @@ render_recovery:
 　今回、森が選択したデッキは 2001 年の The Finals で使用した「Donate-Oath」。  
  　日本人以外にはこのデッキの内容がばれていないのが 1 番のデッキ選択要因であると森は語るが、今回の Helmut のデッキに対しては少々分が悪い。
 
-![](https://i.ormos.uk/2e/0c/2e0c0969e3016f54d41e9115852a052845d0ab685c283d2cd5d45b1a16b6b629.jpg)　そう、今回の Helmut のデッキは《停滞/Stasis》デッキなのである。
+![](https://i.ormos.uk/2e/0c/2e0c0969e3016f54d41e9115852a052845d0ab685c283d2cd5d45b1a16b6b629.jpg)
+
+　そう、今回の Helmut のデッキは《停滞/Stasis》デッキなのである。
 
 　森のデッキは《Illusions of Grandeur(IA)》と《寄付/Donate》のコンボの間に、対戦相手の足止め手段として《ドルイドの誓い/Oath of Druids》と言う明確な答えを出しているのだが、なにぶんこのカードは対クリーチャー用なので Helmut のとどめの一つであろう《変異種/Morphling》を止めるのが関の山。  
  　その上、 Helmut のデッキは当然の事ながら青単なので、カウンターも《妨害/Thwart》などを含め、森の上を行く量である。

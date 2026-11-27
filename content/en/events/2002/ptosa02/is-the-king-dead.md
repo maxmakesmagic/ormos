@@ -95,7 +95,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/85/3d/853df4e87ac6e13b008c24731abd2e73d927720544b4a9f15f4398a5f7f167a3.jpg)It's always bothered me that Sol Malka gave himself the nickname "People's Champion" when it so obviously belongs to someone else. David Price has been so popular with the people who pay attention to Magic's Pro Tour that he's been voted into multiple Invitationals. Rarely has Price been mistaken for one of the best players in the game, but his self-effacing attitude, his writing skills, and his tremendous impact on the game have made him the hero of Magic players everywhere.
+![](https://i.ormos.uk/85/3d/853df4e87ac6e13b008c24731abd2e73d927720544b4a9f15f4398a5f7f167a3.jpg)
+
+It's always bothered me that Sol Malka gave himself the nickname "People's Champion" when it so obviously belongs to someone else. David Price has been so popular with the people who pay attention to Magic's Pro Tour that he's been voted into multiple Invitationals. Rarely has Price been mistaken for one of the best players in the game, but his self-effacing attitude, his writing skills, and his tremendous impact on the game have made him the hero of Magic players everywhere.
 
 The King of Qualifiers has never missed a Pro Tour ... ever. Only two other players can make that claim: Jon Finkel, who gets an asterisk in the record book because he started out on the Junior Pro Tour, and Darwin Kastle. Finkel and Kastle cruised into most of those Pro Tours on Pro Points, but Price's road has been much tougher. He's only finished in the Top 32 three times in his 33 Pro Tours so he's been forced back to the qualifiers many times. His back has been against the wall on more than one occasion, but when that last weekend of qualifiers rolled around, Price always put up a "W" and got back onto the Tour.
 

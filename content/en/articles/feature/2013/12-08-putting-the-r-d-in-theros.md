@@ -131,7 +131,9 @@ There are a few different places that we can surface information to the player d
 
 Information about individual cards that doesn't deserve to be top-level is often put on a context menu, the menu you get when you right-click on a card. It's true that Medomai cares about extra turns, but whether or not it's an extra turn is global data that doesn't belong on a specific card. Luckily, Medomai gains the blue text "can't attack" during extra turns, which is a pretty clear indicator of the game state if you just care about Medomai. So the context menu isn't quite the right place.
 
-![](http://archive.wizards.com/mtg/images/digital/magiconline/img_chatlog.png)Luckily, we've got a good place to put second-level global game information: the game log. Something you'll notice about the Wide Beta Client is that the chat is split into two sections: the game log on the top, and the chat log on the bottom.
+![](http://archive.wizards.com/mtg/images/digital/magiconline/img_chatlog.png)
+
+Luckily, we've got a good place to put second-level global game information: the game log. Something you'll notice about the Wide Beta Client is that the chat is split into two sections: the game log on the top, and the chat log on the bottom.
 
 Separating game chat from game information makes it a lot easier to digest each piece on its own. We stick relevant game actions into the chat log, including stuff that doesn't get surfaced in the duel scene. For example, if a player casts Burst Lightning with kicker, the game log will say "\[playername\] casts Burst Lightning (with kicker) targeting \[target\]."
 

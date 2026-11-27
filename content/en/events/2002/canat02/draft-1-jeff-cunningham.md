@@ -115,7 +115,9 @@ render_recovery:
   - Woodland Druid
   occurrences: 82
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a953.jpg)"Canada's Rising Star" is exactly the sort of moniker Jeff Cunningham resists. Since his Top 8 at Pro Tour - San Diego, everyone's been expecting big things from him. And he hasn't disappointed, making Top 48 at Pro Tour - Osaka and second place at Grand Prix - Tampa. But scrutiny has a habit of turning anything but the wildest successes into supposed failures. Cunningham prefers to ignore the bombast and high hopes, approaching every match with no preconceptions. At the table he wears a mask of concentration. It disappears once the match is over, replaced with his usual friendly, outgoing personality.
+![](http://www.wizards.com/sideboard/images/canat02/a953.jpg)
+
+"Canada's Rising Star" is exactly the sort of moniker Jeff Cunningham resists. Since his Top 8 at Pro Tour - San Diego, everyone's been expecting big things from him. And he hasn't disappointed, making Top 48 at Pro Tour - Osaka and second place at Grand Prix - Tampa. But scrutiny has a habit of turning anything but the wildest successes into supposed failures. Cunningham prefers to ignore the bombast and high hopes, approaching every match with no preconceptions. At the table he wears a mask of concentration. It disappears once the match is over, replaced with his usual friendly, outgoing personality.
 
 Cunningham's plan going into the draft was shoot for red-green, his favorite combination in this format. Cracking his first pack he saw Sylvan Might and went right for it, eschewing Springing Tiger and Treetop Sentinel. He got a second crack at a Tiger, and took it. Engulfing Flames third further cemented him in his strategy.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/800.jpg)Originally, Nicolas Labarre (23) and Manuel Bevand (23) of Team Yalta were qualified for the Team Pro Tour along with Nicolas' girlfriend Marie-Laure Saulnier after a great top 4 performance in Grand Prix Cannes. However, Marie-Laure had a busy schedule, and she felt that she would lower the team's chances by going. So she chose to stay at home, and Antoine Ménard (21) joined the two others to form Team Yalta. Two rounds into the Pro Tour and with a 0-2 record, Nicolas felt bad about her not going. "We're the worst team you ever interviewed," Manuel jokes. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/800.jpg)
+
+Originally, Nicolas Labarre (23) and Manuel Bevand (23) of Team Yalta were qualified for the Team Pro Tour along with Nicolas' girlfriend Marie-Laure Saulnier after a great top 4 performance in Grand Prix Cannes. However, Marie-Laure had a busy schedule, and she felt that she would lower the team's chances by going. So she chose to stay at home, and Antoine Ménard (21) joined the two others to form Team Yalta. Two rounds into the Pro Tour and with a 0-2 record, Nicolas felt bad about her not going. "We're the worst team you ever interviewed," Manuel jokes. 
 
 Qualifying on Pro Tour Points, Yalta doesn't look like a bad team on the paper. Nicolas has three Pro Tour top 8 performances and two Grand Prix top 8s on his list of accomplishments. Manuel is one of the true Pro Tour veterans of France, and although he hasn't yet made the final playoff of a PT event, he has three Grand Prix top 8s on his record. "Manuel is Dad. He is the father of this team, but he is a bit old-fashioned," Antoine smiles, causing Manuel to put up a shocked expression. "Antoine used to be a rules-lawyer and an asshole," Manuel replies. "But now he is a good guy. We changed him." 
 

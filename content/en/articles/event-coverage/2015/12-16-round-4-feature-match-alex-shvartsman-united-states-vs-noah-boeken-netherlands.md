@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Craig Jones* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/117.jpg)Round 4 of GP Manchester saw the big name players start to enter the fray, this match-up pitting current European champion Noah Boeken (NL) against the Grand Prix king Alex Shvartsman (US). Shvartsman has a staggering 10 top 8 Grand Prix finishes to his credit with wins in Tours and the team GP in Nagoya. How would both players adapt to the new Invasion format? 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/117.jpg)
+
+Round 4 of GP Manchester saw the big name players start to enter the fray, this match-up pitting current European champion Noah Boeken (NL) against the Grand Prix king Alex Shvartsman (US). Shvartsman has a staggering 10 top 8 Grand Prix finishes to his credit with wins in Tours and the team GP in Nagoya. How would both players adapt to the new Invasion format? 
 
 Both players chose to eschew the multicolour elements available in Invasion for stability of traditional 3 colour decks. Out of his cards Shvartsman had built a solid blue/white deck with a splash of 3 cards for green. Boeken had opted for Black/Red/Blue to take advantage of a number of power rares that Shvartsman was concerned about. 
 

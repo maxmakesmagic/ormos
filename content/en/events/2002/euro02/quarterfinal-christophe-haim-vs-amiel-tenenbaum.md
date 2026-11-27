@@ -47,7 +47,9 @@ render_recovery: []
 ---
 ### 
 
-![](http://www.wizards.com/sideboard/images/euro02/a808.jpg)Two Frenchmen met once again, this time at the quarterfinals. The atmosphere is friendly and relatively relaxed. Christophe had a boiled egg he placed in the middle of the table. The Head Judge allowed the egg to keep Haim company, as his lucky charm.
+![](http://www.wizards.com/sideboard/images/euro02/a808.jpg)
+
+Two Frenchmen met once again, this time at the quarterfinals. The atmosphere is friendly and relatively relaxed. Christophe had a boiled egg he placed in the middle of the table. The Head Judge allowed the egg to keep Haim company, as his lucky charm.
 
 ### Game 1
 
@@ -104,7 +106,9 @@ Haim made these two piles after thinking long and hard:
  Pile 1: Beast Attack, Fire/Ice  
  Pile 2: Roar of the Wurm/ Stupefying Touch and Shivan Reef
 
-![](http://www.wizards.com/sideboard/images/euro02/a806.jpg)Tenenbaum took the second pile but had to see his bear fall victim to a Kavu. Shortly after, his opponent attacked, left him at one life and finished the game with Fire/Ice.
+![](http://www.wizards.com/sideboard/images/euro02/a806.jpg)
+
+Tenenbaum took the second pile but had to see his bear fall victim to a Kavu. Shortly after, his opponent attacked, left him at one life and finished the game with Fire/Ice.
 
 Haim 2 – 0 Tenenbaum
 
@@ -137,7 +141,9 @@ Tenenbaum still couldn't understand how his opponent drew four Flametongue Kavu 
 Amiel had a very good opening hand even though it wasn't very aggressive.  
  He started out with Birds of Paradise and a Stupefying Touch on his opponent's Mongrel. Sadly, his bird was killed. When his opponent tried to get another Mongrel going it was shot from the table with Flametongue Kavu. And once again Kavu met Kavu while Haim kept hitting with his Mongrel.
 
-![](http://www.wizards.com/sideboard/images/euro02/a807.jpg)Looking for answers, Tenenbaum cast a Fact or Fiction, which revealed Fact or Fiction, Call of the Herd, Flametongue Kavu, Beast Attack and Persuasion.
+![](http://www.wizards.com/sideboard/images/euro02/a807.jpg)
+
+Looking for answers, Tenenbaum cast a Fact or Fiction, which revealed Fact or Fiction, Call of the Herd, Flametongue Kavu, Beast Attack and Persuasion.
 
 Here is how Haim divided it:  
  Pile 1: Beast Attack, Call of the Herd and Fact or Fiction  

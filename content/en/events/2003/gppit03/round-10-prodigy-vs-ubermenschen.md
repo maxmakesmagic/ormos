@@ -105,7 +105,9 @@ render_recovery:
   - Vitality Charm
   occurrences: 70
 ---
-![](http://www.wizards.com/sideboard/images/gppit03/a951.jpg)The Ubermenschen are long-time teammates and Pro Tour veterans Ken Ho, Ben Rubin, and Brian Kibler, come into this round needing a win in order to be able to draw into the Top 4. Prodigy, on the other hand, are comprised of Floridians James Duguid, Charles Gindy, and Manny Orellana. Though the individual members of the team are relative unknowns, they are currently 9-0, and are looking to continue their winning ways.
+![](http://www.wizards.com/sideboard/images/gppit03/a951.jpg)
+
+The Ubermenschen are long-time teammates and Pro Tour veterans Ken Ho, Ben Rubin, and Brian Kibler, come into this round needing a win in order to be able to draw into the Top 4. Prodigy, on the other hand, are comprised of Floridians James Duguid, Charles Gindy, and Manny Orellana. Though the individual members of the team are relative unknowns, they are currently 9-0, and are looking to continue their winning ways.
 
 The lineup for the match has Brian Kibler facing James Duguid in seat A, Ben Rubin facing Charlie Gindy in Seat B, and Ken Ho facing Manny Orellan in Seat C.
 
@@ -118,7 +120,9 @@ Down the table in Match C Ho brought a Ridgetop Raptor to bear against Orellana'
 
 Kibler stabilized the board by casting accelerated mutation on a blocking Taunting Elf, taking down one Invoker while his partner was killed by a blocking Soultiller. He then had another answer for Duguid, as Nantuko Vigilante disenchanted Duguid's Alpha Statused Krosan Drover, shrinking the Drover's ego and size at the same time and killing him when damage resolved, but Brian was still taking beatings from an Aphetto Vulture that was quickly whittling down his life total. Brian cast Scattershot on the Vulture the next turn, but ran out of answers as Duguid just had too many creatures and too much tempo to overcome.
 
-![](http://www.wizards.com/sideboard/images/gppit03/a955.jpg)Meanwhile in match B, Rubin was getting his beats on with a Dawn Elemental backed up with artillery support from Gravel Slinger and a Daru Stinger with three counters, but the board was wiped clear as Gindy cast Akroma's Vengeance, punishing Ben for an apparent overextension. Rubin quickly recovered though, and cast Dragon Stalker, Daru Sanctifier, and a Dive Bomber to Charles Zealous Inquisitor and morphed Sootfeather Flock.
+![](http://www.wizards.com/sideboard/images/gppit03/a955.jpg)
+
+Meanwhile in match B, Rubin was getting his beats on with a Dawn Elemental backed up with artillery support from Gravel Slinger and a Daru Stinger with three counters, but the board was wiped clear as Gindy cast Akroma's Vengeance, punishing Ben for an apparent overextension. Rubin quickly recovered though, and cast Dragon Stalker, Daru Sanctifier, and a Dive Bomber to Charles Zealous Inquisitor and morphed Sootfeather Flock.
 
 Meanwhile in Match C, Ken Ho maintained board control with a fistful of cards, and continued applying pressure with Ridgetop Raptor and Mistform Seaswift. Manny drew another card and decided there was nothing else he could do and it was on to Game 2 for them as well.
 
@@ -142,7 +146,9 @@ Brian was impressed by this win, since he was a little worried about his chances
 
 Match B paused for a moment as Rubin asked for Oracle wording for a card, but the board at this time showed 5 creatures on Ben's side including a Cloudreach Cavalry, a Stinger with two counters, a Wayfarer, an Aven Farseer, and a morph, to just a morph and a Sootfeather Flock for Charlie. 
 
-![](http://www.wizards.com/sideboard/images/gppit03/a956.jpg)Back in game 3 of Match A, Duguid's turn 2 Stonewood Invoker was matched by Kibler with a turn 2 Wellwisher (with exclamations of "How Lucky!"). Unfortunately Brian was having mana problems, sitting on three Forests for some time, while Duguid ramped up to 8 mana, and a Dragon's Shadow-enchanted Stonewood Invoker. Kibler's Wellwisher was doing overtime, gaining Brian 4 life a turn, but it would have a hard time slowing down an unblockable 8/7 Invoker.
+![](http://www.wizards.com/sideboard/images/gppit03/a956.jpg)
+
+Back in game 3 of Match A, Duguid's turn 2 Stonewood Invoker was matched by Kibler with a turn 2 Wellwisher (with exclamations of "How Lucky!"). Unfortunately Brian was having mana problems, sitting on three Forests for some time, while Duguid ramped up to 8 mana, and a Dragon's Shadow-enchanted Stonewood Invoker. Kibler's Wellwisher was doing overtime, gaining Brian 4 life a turn, but it would have a hard time slowing down an unblockable 8/7 Invoker.
 
 Match B again slowed to a B-W mirror match crawl, as Daru Stingers clogged up the attacking lanes while both players continued to match each other, creature for creature.
 

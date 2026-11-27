@@ -1835,7 +1835,9 @@ Another IPA Championships took place last Saturday. For those of you who don't k
 >  8. greyknight7  
 >  8. HiKiKomoRinGo
 
-![](https://i.ormos.uk/c3/1a/c31a2c60d2b76e12dd4c261b32283f701455c34b3362c2a4a232153b7dec4b80.jpg)Congratulations to the Top 8 players! I hope your prize packs were stocked with foil Pernicious Deeds and other goodies! I sought out GCar, the winner, and got to know the new champion.
+![](https://i.ormos.uk/c3/1a/c31a2c60d2b76e12dd4c261b32283f701455c34b3362c2a4a232153b7dec4b80.jpg)
+
+Congratulations to the Top 8 players! I hope your prize packs were stocked with foil Pernicious Deeds and other goodies! I sought out GCar, the winner, and got to know the new champion.
 
 *OnlineTech*: Hi, congratulations on winning the IPA Champs! Could you tell us a bit more about yourself? What is your real name, how old are you and where are you from?
 
@@ -1867,7 +1869,9 @@ The card pool of online Classic format is unlimited. It uses all of the availabl
 
 “Dangerlinto,” captain of the [Classic Quarter](https://web.archive.org/web/20061101000000/http://www.wizards.com/leaving.asp?url=http://www.classicquarter.com/&origin=mtgcom_daily_fk12) filled this void by organizing a biweekly Eternal Struggle Classic Player Run Event. For those of you unfamiliar with Player Run Events, you can find announcements in the [PRE forum](https://web.archive.org/web/20061101000000/http://boards1.wizards.com/forumdisplay.php?f=590). If you want to participate, join the appropriate online chat window – in this case, by typing “/join Classic” – and type “register” there. Pairings are made manually and are announced in that chat window. You set up a match in “Casual Play – Anything Goes,” which your assigned opponent joins, and report the match result afterwards. The tournament setup is almost identical to regular Premier Event tourneys, with Swiss rounds and a Top 8 playoff, but the difference is that the tournament organization of Player Run Events is done by hand, not by the program. It takes a bit longer, and you can't win huge prizes, but there is a relaxed casual fun atmosphere and a wide community that supports these events.
 
-![](http://www.wizards.com/global/images/mtgcom_daily_fk12_picMain_en.jpg)I expected the Classic format would be filled with extremely powerful combo decks, since the insanely combolicious *Mirage* Block cards are legal, including Dark Ritual, Lion's Eye Diamond, and Vampiric Tutor. Here's a snapshot of possible Classic-legal degenerate combos:
+![](http://www.wizards.com/global/images/mtgcom_daily_fk12_picMain_en.jpg)
+
+I expected the Classic format would be filled with extremely powerful combo decks, since the insanely combolicious *Mirage* Block cards are legal, including Dark Ritual, Lion's Eye Diamond, and Vampiric Tutor. Here's a snapshot of possible Classic-legal degenerate combos:
 
 *   Get a Worldgorger Dragon in play via Entomb or Careful Study, then reanimate it with Necromancy. The Dragon's come-in-play effect triggers, removing Necromancy. This triggers the leave-play effect of Necromancy, destroying the Dragon. This, in turn, triggers the Dragon's leave-play effect, getting back the Necromancy, which puts the Dragon back in play. And then you repeat the cycle from the start. By tapping your lands in between removing your permanents from the game, you can produce infinite mana and eventually kill with Ambassador Laquatus or Demonfire.
 *   Abusing the activated ability of Auriok Salvagers to repeatedly recur Lion's Eye Diamond from the graveyard to create infinite amounts of mana of any color. With infinite mana, you can use recur Chromatic Sphere to draw cards until you find Pyrite Spellbomb, which kills the opponent after 10 Auriok Salvager cycles.

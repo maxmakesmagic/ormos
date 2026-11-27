@@ -40,7 +40,9 @@ render_recovery:
 ---
 [日本語の取材へ](https://web.archive.org/web/20211130234600/http://magic.wizards.com/en/node/860791)
 
-![](https://i.ormos.uk/12/28/1228e08a3253848709d342515b60e971c4615153262ea3df545b0309d2f4bfae.jpg)Franck Canu has won the Chicago Masters! Using an innovative blue-green Opposition deck that splashed black for Smothers and discard, he sawed through a field of Psychatog. He even felled fellow countryman Antoine Ruel in the semifinals. In the finals he faced Ken Ho, playing an update of his Pro Tour – Osaka block deck, blue-green madness. Ho had had no trouble making short work of Neil Reeves's Psychatog the round before, thanks to his Upheavals.
+![](https://i.ormos.uk/12/28/1228e08a3253848709d342515b60e971c4615153262ea3df545b0309d2f4bfae.jpg)
+
+Franck Canu has won the Chicago Masters! Using an innovative blue-green Opposition deck that splashed black for Smothers and discard, he sawed through a field of Psychatog. He even felled fellow countryman Antoine Ruel in the semifinals. In the finals he faced Ken Ho, playing an update of his Pro Tour – Osaka block deck, blue-green madness. Ho had had no trouble making short work of Neil Reeves's Psychatog the round before, thanks to his Upheavals.
 
 [The finals](/en/articles/event-coverage/2003/01-19-finals-franck-canu-vs-ken-ho) were a lopsided affair. Canu got the beatdown draw in Game 1 while Ho struggled with inappropriate spells, and in the second Canu got the pieces of the lock in place by turn three, and Ho didn't have access to enchantment removal between maindeck and sideboard. He waited a few turns, but seeing the inevitability, he conceded the game. Congratulations to Franck Canu, Chicago Masters Champion!
 

@@ -85,7 +85,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](https://i.ormos.uk/44/80/44809da6f50727e527b4a7d7fc120cda01798df7b9648457575497a770c656a5.jpg)Nakamura escaped mana difficulties early with Wirewood Elf helping him cycle a Krosan Tusker. That all meant he had a Barkhide Mauler on the table by turn four. Ooiso had just a Glory Seeker, with nothing to add on his third turn. He came back with Dive Bomber and took four from the Mauler. Nakamura set up his draw step with Sage Aven.
+![](https://i.ormos.uk/44/80/44809da6f50727e527b4a7d7fc120cda01798df7b9648457575497a770c656a5.jpg)
+
+Nakamura escaped mana difficulties early with Wirewood Elf helping him cycle a Krosan Tusker. That all meant he had a Barkhide Mauler on the table by turn four. Ooiso had just a Glory Seeker, with nothing to add on his third turn. He came back with Dive Bomber and took four from the Mauler. Nakamura set up his draw step with Sage Aven.
 
 Ooiso dropped Aven Soulgazer, setting up a huge Aven Brigadier on the following turn. Nakamura threw a wrench in the works with Crookclaw Elder. Ooiso dispatched it with Solar Blast, and when Nakamura tapped it and the Sage to draw a card, Ooiso hit for five in the air. Nakamura untapped and served for four on the ground. Ooiso cycled Sunfire Balm to spare himself a point. Nakamura further delayed the Brigadier with a Keeneye Aven and a morph besides.
 

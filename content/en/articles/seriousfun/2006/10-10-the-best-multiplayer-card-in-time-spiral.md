@@ -103,7 +103,9 @@ Here are the rules:
 3.  Send that reason to theferrett@theferrett.com with a title of “Time Spiral Challenge,” just so I don’t confuse your fantabulous description on the delights of [Celestial Crusader](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Celestial+Crusader) with an unsolicited ad for “the n-ew V!@gr@.” Make sure you send it before midnight on Friday, October 13th.
 4.  The Ferrett will then pick a winner, who will not only get the satisfaction of having everyone who reads **magicthegathering.com** know that he or she has correctly identified the best card in all of *Time Spiral*, but will also be sent an autographed copy of *that very card*. (If it’s a common, I’ll send you a full playset.) If you think the card would be more valuable without my autograph on it, well, heck, I’ll leave it off.
 
-![](https://i.ormos.uk/eb/78/eb78843c70619e49416d651a41084d00d648ea00613dca58cf5937af0fd8c2a0.jpg)But wait – you want to know what *my* pick for the best card in multiplayer is? Well, I don’t know that it’s the best, but the most *interesting* multiplayer card that I saw was the [Urborg Syphon-Mage](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg+Syphon-Mage) – a card that’s just fun to say. I imagine the Swedish Chef swinging that card around his kitchen, sing-songing “Ur-borg-borg-borg!” 
+![](https://i.ormos.uk/eb/78/eb78843c70619e49416d651a41084d00d648ea00613dca58cf5937af0fd8c2a0.jpg)
+
+But wait – you want to know what *my* pick for the best card in multiplayer is? Well, I don’t know that it’s the best, but the most *interesting* multiplayer card that I saw was the [Urborg Syphon-Mage](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg+Syphon-Mage) – a card that’s just fun to say. I imagine the Swedish Chef swinging that card around his kitchen, sing-songing “Ur-borg-borg-borg!” 
 
 But I don’t play cards just because I think Muppets would enjoy them. No, I had a good reason for taking [Urborg Syphon-Mage](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg+Syphon-Mage) for a walk around the block; unlike many other cards in *Time Spiral*, the Mage *scales*. See, the best multiplayer cards tend to fall into four categories: 
 
@@ -262,7 +264,9 @@ Oh my Lordy, [Sudden Death](https://web.archive.org/web/20061010000000/https://g
 
 Now, I knew [Sudden Death](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sudden+Death) was good, but I did not know *how* good it was. You know how good it was? Witness this friendly exchange. 
 
-![](https://i.ormos.uk/a8/61/a861cbd46d1f7e4f4270a90252c84075f20fe2eeb1ea66773aa039791387eb49.jpg)“Ferrett, I have a [Morphling](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Morphling). I think I’ll attack… You.”
+![](https://i.ormos.uk/a8/61/a861cbd46d1f7e4f4270a90252c84075f20fe2eeb1ea66773aa039791387eb49.jpg)
+
+“Ferrett, I have a [Morphling](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Morphling). I think I’ll attack… You.”
 
 I glare at Dmitri with steely eyes. “Don’t do it.” 
 
@@ -306,7 +310,9 @@ See, [Sudden Death](https://web.archive.org/web/20061010000000/https://gatherer.
 
 This means that there are rare, but very critical, moments when you cannot cast [Sudden Death](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sudden+Death). 
 
-![](https://i.ormos.uk/22/ca/22caca735d7a3473b19e54988f20fa33b6cc17093b755cf27df5619b06af32d2.jpg)If your opponent hasn’t started, he’s helpless; if he has started and gives you priority at any point, he’s helpless. Which means that to avoid an untimely Death, your opponent has to put all of the effects on the stack at once – he can’t do two pings and wait to see if you [Sudden Death](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sudden+Death) before pinging for a third time. But by cleverly not giving up priority between Kumano activations, Vrax completely neutered what would have otherwise been a very clever [Sudden Death](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sudden+Death). 
+![](https://i.ormos.uk/22/ca/22caca735d7a3473b19e54988f20fa33b6cc17093b755cf27df5619b06af32d2.jpg)
+
+If your opponent hasn’t started, he’s helpless; if he has started and gives you priority at any point, he’s helpless. Which means that to avoid an untimely Death, your opponent has to put all of the effects on the stack at once – he can’t do two pings and wait to see if you [Sudden Death](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sudden+Death) before pinging for a third time. But by cleverly not giving up priority between Kumano activations, Vrax completely neutered what would have otherwise been a very clever [Sudden Death](https://web.archive.org/web/20061010000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sudden+Death). 
 
 Aaaand I lost. 
 

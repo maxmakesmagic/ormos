@@ -44,7 +44,9 @@ archive_source:
   sha256: a7de3099ff36b116e048ac7c5d1094973abcd4310e4f900f5ac7139ed4d2a11a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a845.jpg)These players were both pretty surprised when they heard they would be featured. The idea was brought up by Irish judge Oli Bird, who really liked to see some Irish guys covered. After explaining what they were doing in the feature match area while out of contention for Top 8, the conversation shifted to their chances. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a845.jpg)
+
+These players were both pretty surprised when they heard they would be featured. The idea was brought up by Irish judge Oli Bird, who really liked to see some Irish guys covered. After explaining what they were doing in the feature match area while out of contention for Top 8, the conversation shifted to their chances. 
 
 Cormac has played this match-up a couple of times before and based on those results thinks he will get crushed, as his deck, Squirrel-Opposition, has a hard chance keeping a creature on the board against the Wild Research deck full of burn spells Kearney is playing. Kearney wanted me to add later to Cormac has been in the finals of the Irish Nationals twice, while Smyth told me that Dave came in third this year.
 
@@ -58,7 +60,9 @@ Kearney boarded in two Frantic Putrifications, two Gainsays and two Firebolts, w
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a844.jpg)The second game saw enough lands on both sides of the table. Smyth came out blazing with second turn Mongrel, third turn Arrogant Wurm but was soon stopped by the presence of the allmighty Flametongue Kavu. Smyth had one of his own, which gunned down Kearney's Merfolk Looter. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a844.jpg)
+
+The second game saw enough lands on both sides of the table. Smyth came out blazing with second turn Mongrel, third turn Arrogant Wurm but was soon stopped by the presence of the allmighty Flametongue Kavu. Smyth had one of his own, which gunned down Kearney's Merfolk Looter. 
 
 This in turn made Kearney angry enough to play yet another Flametongue, this time targeting his opposing twin. All Smyth could manage was a Looter of his own. Kearney proceeded to wreck him with a Violent Eruption on the Looter and Mongrel. 
 

@@ -79,7 +79,9 @@ Just five little questions. Let's get to it.
 
 As I explained when I talked about Green/White and Black/Blue, the trick for allied colors is to examine the two color's shared enemy. For Red/Green, that's Blue. What's Blue up to? Blue seeks knowledge. Blue wants to learn and understand everything because it values analysis and insight. Blue wants to take its time thinking things through.
 
-![](http://archive.wizards.com/magic/images/mtgcom/fcpics/making/mr213_bloodfire.jpg)Red/Green? Not so much. Red and Green are the two colors that least value thinking. Red follows its impulses. It lets its emotions and its guts guide it. Green is driven by its animal instincts. Green doesn't reason things out. Green just does what comes naturally. Blue is passive. Red and Green are active. Blue reacts. Red and Green just act. Blue is focused on the future. Red and Green are focused on the here and now.
+![](http://archive.wizards.com/magic/images/mtgcom/fcpics/making/mr213_bloodfire.jpg)
+
+Red/Green? Not so much. Red and Green are the two colors that least value thinking. Red follows its impulses. It lets its emotions and its guts guide it. Green is driven by its animal instincts. Green doesn't reason things out. Green just does what comes naturally. Blue is passive. Red and Green are active. Blue reacts. Red and Green just act. Blue is focused on the future. Red and Green are focused on the here and now.
 
 In short, Red and Green are about acting in the moment. They figure out what they want (albeit in different ways) and they, quite simply, go for it. Red and Green aren't particular subtle, especially when they get together. But then, they don't have any need to be. They don't bother hiding things. They just do what they do.
 
@@ -89,7 +91,9 @@ This tendency makes Red/Green the least organized of the guilds. Most of the oth
 
 The trick with allied color pairs is to look at the conflict of the colors' other two allies. Red's other ally is Black while Green's other ally is White. The conflict between these two colors is the focus on the group versus the focus on the individual. White is motivated by what is good for the group. Black, in contrast, is motivated by what is in its own best interest. White is guided by morality. Black is amoral, not putting any value in concepts like "right" and "wrong".
 
-![](http://archive.wizards.com/magic/images/mtgcom/fcpics/making/mr213_scrapper.jpg)The way this plays out in Red/Green is that Red's impulses are driven by its own selfish needs while Green's instinct thinks of the larger community. Red is filled with individuals. Green is filled with clans and packs and herds. Emotions are very self-centered. Instincts pull towards a larger picture. What this means is that Red and Green, while "not thinking and doing," are doing so for completely different reasons.
+![](http://archive.wizards.com/magic/images/mtgcom/fcpics/making/mr213_scrapper.jpg)
+
+The way this plays out in Red/Green is that Red's impulses are driven by its own selfish needs while Green's instinct thinks of the larger community. Red is filled with individuals. Green is filled with clans and packs and herds. Emotions are very self-centered. Instincts pull towards a larger picture. What this means is that Red and Green, while "not thinking and doing," are doing so for completely different reasons.
 
 The way this conflict plays out is evident in how each color attacks the problem. Red uses up all its resources as fast as it can trying to overwhelm the opponent with sheer power. Green, on the other hand, builds up its resources to get bigger and bigger things into play. This makes Red much more dangerous on turns 1 through 4, but makes Green deadlier every turn after that.
 
@@ -135,7 +139,9 @@ What would one of these columns be without me giving pop culture examples for yo
 
 **The Hulk** – This one is obvious as I used it in my teaser for this week. The Red part should be pretty straight-forward. The Hulk is a by-product of Bruce Banner (or David Banner for those TV fans out there) letting his emotions get out of control. The Hulk then runs around smashing things. Quite Red. So where's the Green? The Green rests in the nature of the Hulk (and no, I don't mean his skin color). What does the Hulk want? To be left alone. Hulk doesn't smash things up because it's fun to do so. He does so because he's trying to make the puny soldiers go away. He just wants to be. Add in his animalistic/instinct-driven nature and I think there's more than enough green to go around.
 
-![](http://archive.wizards.com/magic/images/mtgcom/fcpics/making/mr213_animal.jpg)**Animal (from "The Muppets")** – Animal is a cross between an animal (hopefully the name gave this part away), a very Green thing, and a psychological id (the petulant child part of your emotions), a very Red thing. He's primal yet emotional.
+![](http://archive.wizards.com/magic/images/mtgcom/fcpics/making/mr213_animal.jpg)
+
+**Animal (from "The Muppets")** – Animal is a cross between an animal (hopefully the name gave this part away), a very Green thing, and a psychological id (the petulant child part of your emotions), a very Red thing. He's primal yet emotional.
 
 **Tinkerbell** – In **Magic**, we've made a conscious choice to shift faeries from Green to Blue. This isn't because faeries aren't Green philosophically. It's for two reasons. One, Green just doesn't have much in the way of small fliers. And two, **Magic** has taken the traditional faerie and reshaped it into a creature that likes to trick and deceive. That said, Tinkerbell, as a classic faerie archetype, easily fits into Green's mindspace. (The connection to nature, the affinity with animals, etc.) The Red comes from how Tinkerbell functions. She's almost completely motivated by her emotions. Her hatred (or possibly just jealousy) of Wendy causes her to do all kinds of things that only come back to bite her later. She doesn't ever think these things through. She feels and she acts.
 

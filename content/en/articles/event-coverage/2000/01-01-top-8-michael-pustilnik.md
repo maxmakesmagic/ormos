@@ -54,7 +54,9 @@ He hopes to change that this weekend. His success in the Swiss rounds was nothin
 
 "I attribute it all to drafting broken rares. I had Phyrexian Infiltrator, and Undermine. In two drafts I had Armored Guardian and two drafts I had Rout. Mostly, it seemed like they were passed to me. People would already have their colors, and they would open something perfect for my deck, and it would come right to me."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/693.jpg)This kind of humble self-evaluation is typical of Mikey P. Innocently charming, it's not just the New York players that are excited about his chances. Many of the pros were very happy to hear that he was doing well, and it seemed only his opponents weren't smiling when he won. He seemed surprised to hear that people were so excited for his success.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/693.jpg)
+
+This kind of humble self-evaluation is typical of Mikey P. Innocently charming, it's not just the New York players that are excited about his chances. Many of the pros were very happy to hear that he was doing well, and it seemed only his opponents weren't smiling when he won. He seemed surprised to hear that people were so excited for his success.
 
 "I'm glad to hear it if it's true - I didn't know people were noticing."
 
@@ -62,7 +64,9 @@ He went into the draft with a fairly specific plan. With powerful cards like Exc
 
 "I often fought for Blue, but it is so good that it is absolutely worth it. The rest of the draft table will let you decide whether to go more Black or White, but with everything else being equal, I tend to prefer Black/Blue, but it is close. I think there is nothing wrong with three colors in this format - you can make things like Exotic Curse more powerful, and that alone can be worth it."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/706.jpg)He stuck his guns in the Top 8 draft, making a solid Blue/White/Black control deck, complete with some of the cards that attract Mikey P. to those colors in the first place, like Exclude and Probe, it was not without it's share of bombs. Stormscape Master and Sleeper's Robe could both finish games on their own, and he was looking in good shape for the Top 8.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/706.jpg)
+
+He stuck his guns in the Top 8 draft, making a solid Blue/White/Black control deck, complete with some of the cards that attract Mikey P. to those colors in the first place, like Exclude and Probe, it was not without it's share of bombs. Stormscape Master and Sleeper's Robe could both finish games on their own, and he was looking in good shape for the Top 8.
 
 But is his deck good enough to win the whole thing?
 

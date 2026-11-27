@@ -46,7 +46,9 @@ render_recovery: []
 ---
 **Sideboard**: Does it frustrate you at all that despite being a veteran and a two-time Grand Prix Champion that American and European players aren't as familiar with you as they might be with say, Tsuyoshi Fujita or Katsuhiro Mori?
 
-![](http://www.wizards.com/sideboard/images/natjp03/a982.jpg)**Fujita**: It doesn't really bother me at all. For one thing, I have absolutely no interest in the whole fame thing. I could care less what people think about me, or if some random European **Magic** player knows who I am. So what if I won two Grand Prix? They were Limited, and they were in Asia, so of course Americans and Europeans aren't going to know about them. Even if they do, they're going to say, "Okay, so he can draft. He got lucky, he got some good cards. No big deal". It doesn't really bother me at all.
+![](http://www.wizards.com/sideboard/images/natjp03/a982.jpg)
+
+**Fujita**: It doesn't really bother me at all. For one thing, I have absolutely no interest in the whole fame thing. I could care less what people think about me, or if some random European **Magic** player knows who I am. So what if I won two Grand Prix? They were Limited, and they were in Asia, so of course Americans and Europeans aren't going to know about them. Even if they do, they're going to say, "Okay, so he can draft. He got lucky, he got some good cards. No big deal". It doesn't really bother me at all.
 
 **Sideboard**: Do you find that you're more respected in Japan?
 
@@ -96,7 +98,9 @@ render_recovery: []
 
 **Sideboard**: Why did it take so long to happen?
 
-![](http://www.wizards.com/sideboard/images/gpnagoya02/a948.jpg)**Fujita**: It's because we were too fragmented. It took us that long to get our own act together, and start exchanging information among *ourselves*. If we're not communicating with each other, we certainly weren't going to go talk to American and Swedish players. Once we started sharing information among ourselves and realized the benefits that would come from it, then we started to branch out.
+![](http://www.wizards.com/sideboard/images/gpnagoya02/a948.jpg)
+
+**Fujita**: It's because we were too fragmented. It took us that long to get our own act together, and start exchanging information among *ourselves*. If we're not communicating with each other, we certainly weren't going to go talk to American and Swedish players. Once we started sharing information among ourselves and realized the benefits that would come from it, then we started to branch out.
 
 **Sideboard**: Do you think the fragmentation was a cultural issue?
 
@@ -110,7 +114,9 @@ render_recovery: []
 
 **Fujita**: Right. Once Japan became unified, people started to say, "Well, okay. We've realized now that there's a bigger world out there." Ishida goes abroad and does well, then Nakamura goes and becomes famous, and plays in the Invitational. So this makes Japanese players more interested in other countries that are playing the game as well. And they realize, "Hey we can get there too. Our guy is in the Invitational; our guy is playing in the Pro Tour". That generates more interest, and that momentum keeps building. Then you get Tsuyoshi Fujita who breaks into the Top 8, it creates a critical momentum, and it just keeps building. Next year, we'll probably see more Japanese players doing consistently better on the Pro Tour.
 
-![](http://www.wizards.com/sideboard/images/JPNAT01/233F.jpg)**Sideboard**: As someone who has been around for a very long time, what are your thoughts on the state of Japanese **Magic**?
+![](http://www.wizards.com/sideboard/images/JPNAT01/233F.jpg)
+
+**Sideboard**: As someone who has been around for a very long time, what are your thoughts on the state of Japanese **Magic**?
 
 **Fujita**: That's kind of a hard question to answer. What do I think about **Magic** now in Japan? Well, it's a lot better than it was eight years ago, even two years ago. Lately, it seems that the number of players is getting smaller, and not as many people are playing as they used to. But, starting with Fujita, we're starting to get people into the Top 8. At Yokohama, we had two players there so it's a good feeling to know we've arrived. It's been a long, bumpy road, but we made it. It's not unusual for a Japanese player to make Top 8 of a Pro Tour anymore. That's a good thing.
 

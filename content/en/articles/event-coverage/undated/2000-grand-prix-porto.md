@@ -40,7 +40,9 @@ render_recovery:
 ---
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/fd/df/fddfee672c07d16fbb35b69d1c892b2453f3a711d8f9fb6f318517601453edca.gif"></td>&#10;			<td>&#10;			<h2>2000 Grand Prix Porto Coverage</h2>&#10;			</td>&#10;			<td> </td>&#10;		</tr></tbody></table>
 
-![](https://i.ormos.uk/cb/c4/cbc4a0759324554611d318490d559560abb3afa03d5bd3a6a1cecade080e8635.jpg)Antoine Ruel, of France's Team Black Ops, has won Grand Prix Porto by defeating his brother Olivier, also of Team Black Ops. Antoine won, 2-1 in the finals after entering the Top 8 as the top seed.
+![](https://i.ormos.uk/cb/c4/cbc4a0759324554611d318490d559560abb3afa03d5bd3a6a1cecade080e8635.jpg)
+
+Antoine Ruel, of France's Team Black Ops, has won Grand Prix Porto by defeating his brother Olivier, also of Team Black Ops. Antoine won, 2-1 in the finals after entering the Top 8 as the top seed.
 
 With 671 players, this Grand Prix was one of the largest in Europe, coming second to Grand Prix Lisbon last year. The top players from 16 countries were in attendance including Pro Players such as Kai Budde, David Price, Noah Boeken, Rickard Osterberg, Bob Maher Jr., David Williams and Raphael Levy. The format for Grand Prix Porto was Masques Block Sealed Deck on day one and Rochester Draft on day two. The total prize payout was $25,000, of which over $5,000 went to members of the Ruel family!
 

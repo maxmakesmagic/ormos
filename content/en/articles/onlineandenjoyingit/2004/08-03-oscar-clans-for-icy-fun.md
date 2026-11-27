@@ -96,7 +96,9 @@ The winner of the first MTGO Community Contribution Award is Twilight, founder o
 
 ### So what's the big deal about the Auction room?
 
-![](https://i.ormos.uk/0c/e2/0ce2494f5de38e68c1c8a2366db81e1bf23bf8beffcdea3349d75b0bec94cbb1.jpg)A few people on the boards have suggested that Twilight's contribution isn't such a big deal, because he “only” made the Auction room and isn't responsible for its growth – that it has grown out of its own momentum and from the use and contribution of other players. In my opinion, that just shows how valuable Twilight's original contribution was. Anyone who creates something, whether a company or a community, knows that the best measure of success is that it keeps growing without you constantly supporting it.
+![](https://i.ormos.uk/0c/e2/0ce2494f5de38e68c1c8a2366db81e1bf23bf8beffcdea3349d75b0bec94cbb1.jpg)
+
+A few people on the boards have suggested that Twilight's contribution isn't such a big deal, because he “only” made the Auction room and isn't responsible for its growth – that it has grown out of its own momentum and from the use and contribution of other players. In my opinion, that just shows how valuable Twilight's original contribution was. Anyone who creates something, whether a company or a community, knows that the best measure of success is that it keeps growing without you constantly supporting it.
 
 When MTGO was young, Twilight thought it needed a room like one of the trading rooms that had existed during beta testing. So for several days he spent his waking hours online, advertising “/join auction” in the various player rooms and in holding auctions with his own cards to keep it active.
 

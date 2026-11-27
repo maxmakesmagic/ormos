@@ -639,7 +639,9 @@ This sounds impossible, and it is in a vacuum. But here's how it could come to p
 
 ### Cantichant
 
-![](https://i.ormos.uk/a6/62/a6628f94e93558889caf71eff33ce9b48500633e56672d6a79ad6bc7733d21c4.jpg)Travis Martin decided it was high time someone broke Cantivore (or at least put it to good use), and that someone was him. The main deck interaction was between Cantivore, Femeref Enchantress, and enchantments that sacrifice themselves, such as Seal of Cleansing. Travis's deck was also full of Runes of Protection, which act like cantrip Cantivore-specific Battlegrowths.
+![](https://i.ormos.uk/a6/62/a6628f94e93558889caf71eff33ce9b48500633e56672d6a79ad6bc7733d21c4.jpg)
+
+Travis Martin decided it was high time someone broke Cantivore (or at least put it to good use), and that someone was him. The main deck interaction was between Cantivore, Femeref Enchantress, and enchantments that sacrifice themselves, such as Seal of Cleansing. Travis's deck was also full of Runes of Protection, which act like cantrip Cantivore-specific Battlegrowths.
 
 I took that idea and bent it around to the side, because the first thing I did was add Auratog to the deck. Auratog is clearly on good terms with both Cantivore and Femeref Enchantress. Next, I added Rancor and Cessation to serve as Auratog food. Those two enchantments are greatly beloved by the Enchantress—but Cantivore doesn't like them much at all. So that's a bit of dissynergy… um, asynergy? unsynergy? antisynergy?… but I can live with it as long as I'm drawing tons of cards off the Enchantress by repeatedly sacrificing and replaying Rancor with the Auratog. I also replaced the Phantom Nishoba that Travis hoped to fetch with his Defense of the Heart with Endless Wurms. Something kooky that I kept in was Cleansing Meditation. At threshold, and with an Enchantress in play, the card says “Destroy all enchantments your opponent controls and draw a card for each enchantment you control. Oh, and move your local enchantments around if you want.” Can't argue with that.
 

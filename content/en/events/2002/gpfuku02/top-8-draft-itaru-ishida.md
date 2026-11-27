@@ -101,7 +101,9 @@ render_recovery:
   - Zombie Trailblazer
   occurrences: 51
 ---
-![](http://www.wizards.com/sideboard/images/gpfuku02/904.jpg)Itaru Ishida is probably the Japanese player most likely to have a breakout performance in the near future. He's shown his skills across many formats, having steered Panzer Hunter to the finals of the Tokyo Masters last year, as well as taking a constructed title at the largest Grand Prix ever held. This weekend, he's shown his abilities at singles limited, and now sits at the final table, fed by Masahiko Morita and feeding Masashiro Kuroda.
+![](http://www.wizards.com/sideboard/images/gpfuku02/904.jpg)
+
+Itaru Ishida is probably the Japanese player most likely to have a breakout performance in the near future. He's shown his skills across many formats, having steered Panzer Hunter to the finals of the Tokyo Masters last year, as well as taking a constructed title at the largest Grand Prix ever held. This weekend, he's shown his abilities at singles limited, and now sits at the final table, fed by Masahiko Morita and feeding Masashiro Kuroda.
 
 It's no secret that Ishida loves blue-white in draft. He started out along that path with an Aether Burst over Aven Cloudchaser and Second Thoughts. Only Diligent Farmhand and Engulfing Flames strayed his eye. When his next pack showed Master Apothecary (Morita having taken Rabid Elephant over it), it seemed that Ishida was set.
 

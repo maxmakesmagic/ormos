@@ -53,7 +53,9 @@ archive_source:
   sha256: 7a2d43fde4a688053ad2db0ed8d9888374c2b46d1171d77479fcedce85bfc670
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/890.jpg)When the players at Dreamers card shop in Minneapolis all decided they wanted to attend Grand Prix - Milwaukee, they just needed to decide the best way to get there. One of them suggested a charter coach bus, but that looked to be too expensive. Eventually, Christopher Rocco, one of the store's regulars, came to the rescue.
+![](http://www.wizards.com/sideboard/images/gpmil02/890.jpg)
+
+When the players at Dreamers card shop in Minneapolis all decided they wanted to attend Grand Prix - Milwaukee, they just needed to decide the best way to get there. One of them suggested a charter coach bus, but that looked to be too expensive. Eventually, Christopher Rocco, one of the store's regulars, came to the rescue.
 
 Rocco, a bus driver by trade, suggested that they just take one of his school buses to the event. He'd get a discount on renting it, and it would hold everyone, no problem. So 24 gamers piled onto Rocco's Magic School Bus and made the trek from the Twin Cities to here.
 

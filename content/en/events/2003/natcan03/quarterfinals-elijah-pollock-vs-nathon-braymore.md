@@ -92,7 +92,9 @@ Being crowned National Champion would be a big feather in the cap of Elijah Poll
 
 ### Game 1
 
-![](https://i.ormos.uk/ed/fa/edfa18e9897899b843a1ed0f5e405b34c615874e74feeece6d5aa159dc16a483.jpg)Pollock started things with a Careful Study that sent Deep Analysis and Wonder to the graveyard. Braymore hit him with a Duress to see what was up, and it seemed like Pollock's gambit had gone horribly awry. Pollock held Merfolk Looter, Phantom Centaur, Arrogant Wurm, Circular Logic and Unsummon, but no second land. He lost the Logic. He proceeded to rip a forest and play his Looter.
+![](https://i.ormos.uk/ed/fa/edfa18e9897899b843a1ed0f5e405b34c615874e74feeece6d5aa159dc16a483.jpg)
+
+Pollock started things with a Careful Study that sent Deep Analysis and Wonder to the graveyard. Braymore hit him with a Duress to see what was up, and it seemed like Pollock's gambit had gone horribly awry. Pollock held Merfolk Looter, Phantom Centaur, Arrogant Wurm, Circular Logic and Unsummon, but no second land. He lost the Logic. He proceeded to rip a forest and play his Looter.
 
 "Of course I drew the forest, this is the Top 8." – Elijah Pollock
 
@@ -118,7 +120,9 @@ The hits kept coming for Braymore. He swung for two and brought out Withered Wre
 
 "You can't fool me." – Nathon Braymore
 
-![](https://i.ormos.uk/34/ed/34edd13c168253450cd344973f25dca91900fb35670ded6c7cd140b7cd9fb882.jpg)Elijah hit for three but had nothing further. Braymore hit back for six. Pollock stood on four land, taking more damage, and again on five. Braymore added another Shade to the table. That was enough to convince Pollock to scoop.
+![](https://i.ormos.uk/34/ed/34edd13c168253450cd344973f25dca91900fb35670ded6c7cd140b7cd9fb882.jpg)
+
+Elijah hit for three but had nothing further. Braymore hit back for six. Pollock stood on four land, taking more damage, and again on five. Braymore added another Shade to the table. That was enough to convince Pollock to scoop.
 
 "I had to try to mise with Deep. My draw was so bad." – Elijah Pollock
 
@@ -142,7 +146,9 @@ Pollock led with a Careful Study, and almost drew three cards off of it. Braymor
 
 "This is nice, he's manascrewed and my draw is god-awful." – Elijah Pollock
 
-![](https://i.ormos.uk/43/ec/43ecf067bd0f9a9d6d82fb7b6839289be4a529b7f67da3e7d6159565cd98b6c5.jpg)Pollock started to swing while Braymore found another Coffers. He hit again, but then Braymore found a Withered Wretch. A second Aquamoeba did little to help Pollock's position. Skeletal Scrying for one got Braymore the swamp he so desperately needed. Another swamp followed and he was able to clear out Pollock's yard after a forest finally decided to show up for him.
+![](https://i.ormos.uk/43/ec/43ecf067bd0f9a9d6d82fb7b6839289be4a529b7f67da3e7d6159565cd98b6c5.jpg)
+
+Pollock started to swing while Braymore found another Coffers. He hit again, but then Braymore found a Withered Wretch. A second Aquamoeba did little to help Pollock's position. Skeletal Scrying for one got Braymore the swamp he so desperately needed. Another swamp followed and he was able to clear out Pollock's yard after a forest finally decided to show up for him.
 
 That was all to clear the way for Visara the Dreadful. Unsummon bought Pollock a turn after Braymore played Mirari, but the big legend just came back down. Pollock had no play, just five lands. When Braymore Tutored and Forked it, Pollock was sure he was done. However, Braymore didn't go for a Duress, so Pollock would get one more chance to topdeck land six for his Upheaval.
 

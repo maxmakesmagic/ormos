@@ -44,7 +44,9 @@ archive_source:
   sha256: 5effab5127644f87960ffcccb4cdbb9443d6787479bfb2dc770d0417cad60a26
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpsin03/a945.jpg)Its round eleven and both players are really outside shots for the Top 8. Having left their run so late it's only the winner of the pod, and he alone, who will stand a chance to make it. Even though this is the case the two are still a live match, playing off for places, and of course he who finishes higher makes more money! A dice roll decided that Ng would play first and the two players dealt out their opening hands.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpsin03/a945.jpg)
+
+Its round eleven and both players are really outside shots for the Top 8. Having left their run so late it's only the winner of the pod, and he alone, who will stand a chance to make it. Even though this is the case the two are still a live match, playing off for places, and of course he who finishes higher makes more money! A dice roll decided that Ng would play first and the two players dealt out their opening hands.
 
 ### Game 1
 
@@ -57,11 +59,15 @@ Nadebaum leads 1-0
 
 ### Game 2
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpsin03/a944.jpg)Ng choose to play first again in game 2 and kicked things off with a turn two [Wirewood Elf](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf). He sent it into the red zone on the next turn, rather than use it to accelerate to 4 mana, and cast a morph. Nadebaum dropped a morph of his own and Ng played down a Channeler, missing his 4th land drop, but with mana elves like these who needs land!? Nadebaum dropped a bomb in [Krosan Vorine](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Vorine), threatening to put a stop to the mana games on his next attack step. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpsin03/a944.jpg)
+
+Ng choose to play first again in game 2 and kicked things off with a turn two [Wirewood Elf](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf). He sent it into the red zone on the next turn, rather than use it to accelerate to 4 mana, and cast a morph. Nadebaum dropped a morph of his own and Ng played down a Channeler, missing his 4th land drop, but with mana elves like these who needs land!? Nadebaum dropped a bomb in [Krosan Vorine](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Vorine), threatening to put a stop to the mana games on his next attack step. 
 
 Like a pro Ng ripped a swamp off the top, sending his morph into the red zone on its own, and making Nadebaum think twice about playing around with his mana base. When Nadebaum declined to block, Ng thought for a long while before allowing him to just take the damage. He then dropped a [Wirewood Herald](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Herald) and tapped out to drop down a [Glowering Rogon](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glowering+Rogon) flashing a [Krosan Tusker](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Tusker) to amplify it. 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpsin03/a943.jpg)Nadebaum provoked the morph and flipped over the morph of his own, a [Daru Healer](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Healer) to keep the Vorine alive. Ng once again tapped all his mana again, slamming down the Tusker that he had flashed the turn before and set the Rogon and the Herald into the zone dealing 6 damage. [Pacifism](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism) on the Tusker stopped it dead in its tracks, and during the attack phase Nadebaum provoked the Rogon, flipping over [Patron of the Wild](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patron+of+the+Wild) to give his Vorine giant growth and then kept it alive with his Healer. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpsin03/a943.jpg)
+
+Nadebaum provoked the morph and flipped over the morph of his own, a [Daru Healer](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Healer) to keep the Vorine alive. Ng once again tapped all his mana again, slamming down the Tusker that he had flashed the turn before and set the Rogon and the Herald into the zone dealing 6 damage. [Pacifism](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism) on the Tusker stopped it dead in its tracks, and during the attack phase Nadebaum provoked the Rogon, flipping over [Patron of the Wild](https://web.archive.org/web/20030330000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patron+of+the+Wild) to give his Vorine giant growth and then kept it alive with his Healer. 
 
 When the Channeler became tapped again Ng dropped another monster, a second Tusker, once again threatening to over run Nadebaum with beef. Provoke once again caused the fatty to block, and a Primal boost on the Vorine knocked the second Tusker out of the game. 
 

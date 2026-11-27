@@ -197,7 +197,9 @@ Why is **Magic** such a great game? Because it has a quality to it that speaks t
 
 ### #10 – Not So Ancient History
 
-![](https://i.ormos.uk/dc/6f/dc6fef200ae15758995f1ae45ac85d425bdad64eea378b62d461cbb3929ac432.jpg)Finally, is a quality that **Magic** didn't always have: history. The game is thirteen years old. And that's something for a game that reinvents itself three or four times a year. When a player starts playing, he walks into a world that has thirteen years of material. Thirteen years of data. Thirteen years of wisdom. New players not only have the ability to explore forwards, they can explore backwards as well.
+![](https://i.ormos.uk/dc/6f/dc6fef200ae15758995f1ae45ac85d425bdad64eea378b62d461cbb3929ac432.jpg)
+
+Finally, is a quality that **Magic** didn't always have: history. The game is thirteen years old. And that's something for a game that reinvents itself three or four times a year. When a player starts playing, he walks into a world that has thirteen years of material. Thirteen years of data. Thirteen years of wisdom. New players not only have the ability to explore forwards, they can explore backwards as well.
 
 And this gives the game perspective. While the game will keep bending in new directions, history gives the players (and the designers as well) a foothold into the future.
 

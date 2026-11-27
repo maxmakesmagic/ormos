@@ -215,7 +215,9 @@ One of the fabulous things about ***Magic** Online* is that it's far more practi
 
 ### ECCENTRICITY #5: The Chatty Player
 
-![](https://i.ormos.uk/d5/bd/d5bd69df01c26c88838d8c6d70dd6f02ee87f9d5e53fec31efe0cdb7e14501cd.jpg)This last one's less about play style or skill, and more about personality. **Magic** is undeniably a social game, but sometimes you get a player who's simply dominating the conversation. (Yes, I am occasionally that player.) Maybe it's one dude who doesn't realize it's a timed online game; maybe it's a new guy at the local store who's trying to make friends; maybe it's just a guy who doesn't know when to shut up and play.
+![](https://i.ormos.uk/d5/bd/d5bd69df01c26c88838d8c6d70dd6f02ee87f9d5e53fec31efe0cdb7e14501cd.jpg)
+
+This last one's less about play style or skill, and more about personality. **Magic** is undeniably a social game, but sometimes you get a player who's simply dominating the conversation. (Yes, I am occasionally that player.) Maybe it's one dude who doesn't realize it's a timed online game; maybe it's a new guy at the local store who's trying to make friends; maybe it's just a guy who doesn't know when to shut up and play.
 
 *What works*: It's nice to talk with someone during a good game of cards.
 

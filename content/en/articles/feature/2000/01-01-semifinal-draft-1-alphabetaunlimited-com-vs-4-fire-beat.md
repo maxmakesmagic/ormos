@@ -61,7 +61,9 @@ archive_source:
   sha256: eee64b4378dc2c79531e424b5d85308952fd45b29e1ad0b2e40526ec152aaeaf
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/961b.jpg)ABU is one of two teams of pro players that traveled to Japan in search of fame, fortune and pro points. They dominated the Swiss portion of the tournament and are now ready for the final matches. ABU won the Team Masters tournament in Tokyo. Substituting for Noah Boeken is David Williams.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPYOK01/961b.jpg)
+
+ABU is one of two teams of pro players that traveled to Japan in search of fame, fortune and pro points. They dominated the Swiss portion of the tournament and are now ready for the final matches. ABU won the Team Masters tournament in Tokyo. Substituting for Noah Boeken is David Williams.
 
 Their opponents are Team Fire Beat - a group of very experienced Japanese players. Tsukamoto is a two-time Nationals champion. Nobushita has a series of strong GP finishes, including a 2nd place finish in Nagoya, where his team defeated Williams', and Ikeda Tsuyoshi was on the 2000 Japanese National Team.
 

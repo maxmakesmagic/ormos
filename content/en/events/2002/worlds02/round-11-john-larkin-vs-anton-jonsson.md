@@ -669,7 +669,9 @@ Larkin deployed a swampwalking Whispering Shade and souped it up with Arcane Tea
 
 Larkin 1 – Jonsson 0
 
-![](http://www.wizards.com/sideboard/images/worlds02/a807.jpg)Jonsson had to mulligan to start game 2.
+![](http://www.wizards.com/sideboard/images/worlds02/a807.jpg)
+
+Jonsson had to mulligan to start game 2.
 
 Jonsson: "I'll tell you that the average casting cost of my cards was zero."  
  Larkin: "Seven lands, eh?"  
@@ -682,7 +684,9 @@ Larkin put out his Torturer and then an Organ Grinder with Arcane Teachings, but
 
 Larkin 1 – Jonsson 1
 
-![](http://www.wizards.com/sideboard/images/worlds02/a811.jpg)The third game started off much differently, with Larkin playing out Barbarian Outcast and Organ Grinder. Jonsson played his own Grinder, the used a Churning Eddy to steal tempo from Larkin. Larkin stole it right back on his turn with a Flame Burst and then played out another Barbarian. Jonsson's Mesmeric Fiend stole Larkin's Soul Scourge, but an Arcane Teachings on the Organ Grinder stole it right back.
+![](http://www.wizards.com/sideboard/images/worlds02/a811.jpg)
+
+The third game started off much differently, with Larkin playing out Barbarian Outcast and Organ Grinder. Jonsson played his own Grinder, the used a Churning Eddy to steal tempo from Larkin. Larkin stole it right back on his turn with a Flame Burst and then played out another Barbarian. Jonsson's Mesmeric Fiend stole Larkin's Soul Scourge, but an Arcane Teachings on the Organ Grinder stole it right back.
 
 Jonsson used a Lost in Thoughts to stop the Grinder, but he had nothing to stop all of Larkin's other creatures. Even a late Faceless Butcher wasn't good enough, and Larkin took the match.
 

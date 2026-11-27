@@ -412,7 +412,9 @@ Everybody kept playing things and attacking, but it became clear pretty quickly 
 
 ![The table, without Nick](https://i.ormos.uk/f4/e0/f4e0217fb67cfbbee5a8f9833f821639c3219bde9ed531a01d0334da87dfa602.jpg "The table, without Nick")
 
-![Political_Trickery](https://i.ormos.uk/a4/6c/a46cf136447bfd871744235956700730ad30f21f6ad271f8dba9a6a52741a247.jpg)Star changes dramatically when someone is eliminated. Chris was still my enemy, but suddenly I didn't want him to die, because that would hand Laura the game, and he didn't want me to die, because that would give victory to Seamus. Seamus had only one enemy left, me, and Laura also had only one, Chris. So Seamus and I were going to try to kill each other while Laura attempted to finish off Chris, a weird sort of crossfire.
+![Political_Trickery](https://i.ormos.uk/a4/6c/a46cf136447bfd871744235956700730ad30f21f6ad271f8dba9a6a52741a247.jpg)
+
+Star changes dramatically when someone is eliminated. Chris was still my enemy, but suddenly I didn't want him to die, because that would hand Laura the game, and he didn't want me to die, because that would give victory to Seamus. Seamus had only one enemy left, me, and Laura also had only one, Chris. So Seamus and I were going to try to kill each other while Laura attempted to finish off Chris, a weird sort of crossfire.
 
 This is all politics, but you'll notice that it's not the open-ended politics of free-for-all. (Whether that counts for or against is entirely up to you.) Rather than bartering alliances and promises of aid, we had pretty clear shifts in priority—we just had to figure them out. That done, we could get back to the happy business of smashing each other.
 
@@ -422,7 +424,9 @@ Chris was well and truly land-flooded, and neither Seamus nor I had any removal 
 
 Star is a really neat format that offers some surprising subtlety. For me, that's a huge plus, because I like strategy—I find it really interesting that I probably should have stopped attacking Chris a couple of turns before I did, and that Seamus accidentally aided Laura by taking Nick out when I was still healthy. Even if you're less excited by that sort of thing than I am, the politics are light, and the strategy should come easily after a few games.
 
-![Naked_Singularity](https://i.ormos.uk/70/b3/70b376e42482b4d1ffc7dd48e9bf53afa354259de4a91f66c990fb4cd65d8608.jpg)There's one change I would definitely make, and that's the turn order. It can be really brutal that your two opponents get their turns right in a row. Not a feel-good couple of turns for you. To solve this, Seamus mentioned a variant he'd heard in which the turn is passed not directly to the left, but across and to the left, to one of your enemies. You now get to take a turn in between your two opponents, which sounds way better to me. That funky turn order can be a little hard to figure out once someone is eliminated, but it's the same as usual—you just skip that person's spot in the turn order and keep passing.
+![Naked_Singularity](https://i.ormos.uk/70/b3/70b376e42482b4d1ffc7dd48e9bf53afa354259de4a91f66c990fb4cd65d8608.jpg)
+
+There's one change I would definitely make, and that's the turn order. It can be really brutal that your two opponents get their turns right in a row. Not a feel-good couple of turns for you. To solve this, Seamus mentioned a variant he'd heard in which the turn is passed not directly to the left, but across and to the left, to one of your enemies. You now get to take a turn in between your two opponents, which sounds way better to me. That funky turn order can be a little hard to figure out once someone is eliminated, but it's the same as usual—you just skip that person's spot in the turn order and keep passing.
 
 Star's greatest strength is that, like free-for-all, it doesn't require any unusual deck-building. You can grab any decks you have handy, from casual Standard decks like these to EDH decks to Draft Decks or even Sealed Decks from a Prerelease. All you need is five people... which brings us to the format's greatest weakness.
 

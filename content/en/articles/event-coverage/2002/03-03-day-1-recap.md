@@ -44,7 +44,9 @@ archive_source:
   sha256: 5d2ddca74e0bac83737ddc04958889c947cca1ea59cfac89c065ddc14088e32c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpant02/a985.jpg)The Grand Prix could be said to be coming home as the venue is only ten minutes away from WotC's Belgian offices. Hangar 26 gives a charming view of the river Schelde and 615 competitors from all over Europe descended for another chance to battle it out with the "Black" set. Curiously, none of the high profile players from the States chose to make the journey. Even the globetrotting Alex Shvartsman was absent.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpant02/a985.jpg)
+
+The Grand Prix could be said to be coming home as the venue is only ten minutes away from WotC's Belgian offices. Hangar 26 gives a charming view of the river Schelde and 615 competitors from all over Europe descended for another chance to battle it out with the "Black" set. Curiously, none of the high profile players from the States chose to make the journey. Even the globetrotting Alex Shvartsman was absent.
 
 The tournament ran smoothly after a slight delay to handle the crowds arriving on the Saturday morning. Once again black seemed to be the color every player wanted to have good cards in as cards like Faceless Butcher and Cabal Torturer ran amok throughout the room. 
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: ec4bb4c529bb52bbc07c9fef2738601a0936536b9435a4c880b1e2497bc1bd60
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/sf2_1.jpg)This is a classic match-up between speed and control. Hein's deck is all about fast, small "reusable" creatures (ie, Arcbound buddies) while Cabral's is all about [Crystal Shard](https://web.archive.org/web/20040222000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Shard), [Oblivion Stone](https://web.archive.org/web/20040222000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oblivion+Stone), [Barter in Blood](https://web.archive.org/web/20040222000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barter+in+Blood) and the like. Let's see who comes out on top of this eternal clash, this time with a Grand Prix finals slot on the line.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gpmad04/sf2_1.jpg)
+
+This is a classic match-up between speed and control. Hein's deck is all about fast, small "reusable" creatures (ie, Arcbound buddies) while Cabral's is all about [Crystal Shard](https://web.archive.org/web/20040222000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystal+Shard), [Oblivion Stone](https://web.archive.org/web/20040222000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oblivion+Stone), [Barter in Blood](https://web.archive.org/web/20040222000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barter+in+Blood) and the like. Let's see who comes out on top of this eternal clash, this time with a Grand Prix finals slot on the line.
 
 ### Game 1
 

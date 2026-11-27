@@ -44,7 +44,9 @@ archive_source:
   sha256: 94c6317f80d947bfec142806b4e9cb55b56eba80f8896fa84ec53fcf30294d9e
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm7_1.jpg)Round 7 brings in a clash of the old and new. Manuel Bevand has been around for a while and enjoyed a bit of a renaissance at Worlds, where he cut through the field all the way to the semi-finals. Reinhard Blech is German player with a Grand Prix title to his name, but only had two byes here today. Bevand has the Cog deck from Worlds while Blech is running Affinity.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprim04/fm7_1.jpg)
+
+Round 7 brings in a clash of the old and new. Manuel Bevand has been around for a while and enjoyed a bit of a renaissance at Worlds, where he cut through the field all the way to the semi-finals. Reinhard Blech is German player with a Grand Prix title to his name, but only had two byes here today. Bevand has the Cog deck from Worlds while Blech is running Affinity.
 
 Bevand crucially went first, allowing him to [Annul](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annul) Blech's turn one Aether Vial. He couldn't do much about the [Cranial Plating](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cranial+Plating) and [Ornithopter](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter) that followed. A second Plating and the [Ornithopter](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter) flew over Bevand's Salvagers for a whopping 12 damage. Bevand drew [March of the Machines](https://web.archive.org/web/20040911000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=March+of+the+Machines) to cause the equipment to drop off, but was on such low life Blech could just attack him with them for the kill anyway.
 

@@ -229,7 +229,9 @@ At the right of the top line is what we call the mana cost. This is a set of num
 
 In order to cast this beastie, you need to generate two red mana plus six generic mana. When it comes to "generic mana" that means you can use mana of any color for that part. 
 
-![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)With that in mind, this is a good place to introduce the idea of converted mana cost or CMC. Converted mana cost is simply the sum total of all the mana a card costs, regardless of what *kind* of mana we're talking about. In order to figure out the CMC of the Colossus, you would take 2 red and add it to the 6 generic for a total of 8. Just add all the mana needed and get a total. Simple, no?
+![](https://i.ormos.uk/38/b3/38b3360d09039a07d443df60dbc6a1217b63b727709b2eaf31660adc82a20839.jpg)
+
+With that in mind, this is a good place to introduce the idea of converted mana cost or CMC. Converted mana cost is simply the sum total of all the mana a card costs, regardless of what *kind* of mana we're talking about. In order to figure out the CMC of the Colossus, you would take 2 red and add it to the 6 generic for a total of 8. Just add all the mana needed and get a total. Simple, no?
 
 When discussing mana in print, the convention is to use letters in order to reflect which symbols we are talking about when we aren't able to just use the symbols. I have included a brief translation key below for those of you who are just getting involved in the community. 
 
@@ -245,7 +247,9 @@ Lastly, note that "mana cost" was originally called "casting cost" up until the 
 
 ### Type Line
 
-![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)This area shows you what kind of card you're dealing with. There are six basic types of cards: lands, creatures, enchantments, artifacts, instants, and sorceries. This line can also contain more specific information. If we're talking about a creature card, this is where you'll find out what kind of creature you're dealing with (Goblin, Dragon, etc), for example. 
+![](https://i.ormos.uk/60/cb/60cbcf47072ddffd9ab3f3b168fa1394a2cce9e28af774b7cbb44f2e5079df8c.jpg)
+
+This area shows you what kind of card you're dealing with. There are six basic types of cards: lands, creatures, enchantments, artifacts, instants, and sorceries. This line can also contain more specific information. If we're talking about a creature card, this is where you'll find out what kind of creature you're dealing with (Goblin, Dragon, etc), for example. 
 
 This line gets more advanced than we're going to deal with for now, but the good news is that for the level you're at right now, in most cases the information you need is right here on the card as you work your way through a game of **Magic**. If you have a card that says all your goblins get a bonus, and the card in question says it's a goblin *on the type line*, you know you're good to go. (As we get more involved with the rules we'll revisit this line and talk about things like subtypes and super types and other issues.)
 
@@ -283,11 +287,15 @@ Finally, some bonus info if you're feeling like picking up some extra credit on 
 
 ### Artist Info
 
-![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)Just below the text box on the left hand side is the name of the artist who did the art on the card. **Magic**'s art has always been one of its most striking features and has only gotten better since the game started back in 1993. Given the incredible level it's at now, Magic sports some of the coolest fantasy images available anywhere. 
+![](https://i.ormos.uk/fa/af/faafcb10ded01badd0afe741005e5807c4e1ebe952733ed5b3fb2c9ce9c13c68.jpg)
+
+Just below the text box on the left hand side is the name of the artist who did the art on the card. **Magic**'s art has always been one of its most striking features and has only gotten better since the game started back in 1993. Given the incredible level it's at now, Magic sports some of the coolest fantasy images available anywhere. 
 
 ### Collector's Number
 
-![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)In very tiny text just above the bottom border of the card, you will typically see a trademark symbol plus some dates, the words Wizards of the Coast, and then some more numbers and or letters. Most of that stuff is just copyright info, but the information to the right of that line is what is known as the collector number, and it tells you where the card falls in the set, should you wish to organize your collection in that fashion. Much to my wife's chagrin, I tend to organize my collection via the "tossing the cards in whatever box happens to be nearby" method, which is not recommended.
+![](https://i.ormos.uk/f6/2d/f62d872b2e4a6a01244a78e8b9c4c3493126ed3b853fc0035b54ed1b3c072b2f.jpg)
+
+In very tiny text just above the bottom border of the card, you will typically see a trademark symbol plus some dates, the words Wizards of the Coast, and then some more numbers and or letters. Most of that stuff is just copyright info, but the information to the right of that line is what is known as the collector number, and it tells you where the card falls in the set, should you wish to organize your collection in that fashion. Much to my wife's chagrin, I tend to organize my collection via the "tossing the cards in whatever box happens to be nearby" method, which is not recommended.
 
 ### Power/Toughness
 

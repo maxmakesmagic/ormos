@@ -71,7 +71,9 @@ render_recovery:
   - Lightning Rift
   occurrences: 14
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a925.jpg)The first draft at table one is always vey important for the rest of the tournament. While the 56 other players are playing to get closer to the top, one of these eight guys will be in Top 8 in three rounds while three other players will be 2-1 or 1-1-1 from being in the top 8.
+![](http://www.wizards.com/sideboard/images/gpcop02/a925.jpg)
+
+The first draft at table one is always vey important for the rest of the tournament. While the 56 other players are playing to get closer to the top, one of these eight guys will be in Top 8 in three rounds while three other players will be 2-1 or 1-1-1 from being in the top 8.
 
 Rochester draft looks a lot like team draft. Indeed, the very basis of the format is cooperation. When one player hesitates for too long between colors, it always hurts someone at the table. That's what happened with Daniel Eriksson, the only rookie at the table.
 

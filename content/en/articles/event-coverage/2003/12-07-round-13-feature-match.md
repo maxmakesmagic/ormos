@@ -44,7 +44,9 @@ archive_source:
   sha256: 7a194934418f1835e0587a5343068bb43c4f56ca5cad935f26780a6efb2c4a33
 render_recovery: []
 ---
-![](https://i.ormos.uk/7d/9b/7d9b818288a35a4c477904d0a7f5eba89828c55b1a267af3c027dcc35970a94f.jpg)Both players are known in Germany, even if none of them managed to put an international success on their record - both are still amateurs - and were in a good position to get some of the winnings. Kolja has been playing since 1993 and is from Saarbruecken. Hannes usually plays Magic Online - since there are not many Magic-players in his hometown, Hof an der Saale. At 31 points both players need two more wins to make it into top eight.
+![](https://i.ormos.uk/7d/9b/7d9b818288a35a4c477904d0a7f5eba89828c55b1a267af3c027dcc35970a94f.jpg)
+
+Both players are known in Germany, even if none of them managed to put an international success on their record - both are still amateurs - and were in a good position to get some of the winnings. Kolja has been playing since 1993 and is from Saarbruecken. Hannes usually plays Magic Online - since there are not many Magic-players in his hometown, Hof an der Saale. At 31 points both players need two more wins to make it into top eight.
 
 Kolja plays a red/black deck, that features 14 good creatures, a lot of removal and a [Bosh, Iron Golem](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bosh%2C+Iron+Golem)! Hannes drafted a very fast white deck, with splashes of green for [One Dozen Eyes](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=One+Dozen+Eyes) and red for [Spikeshot Goblin](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spikeshot+Goblin)s. He only lacks equipment for his Spikeshots, Den-Guards and Sky Cubs, with only one [Loxodon Warhammer](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Warhammer) and one [Golem-Skin Gauntlet](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Golem-Skin+Gauntlet).
 

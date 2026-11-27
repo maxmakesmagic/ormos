@@ -70,7 +70,9 @@ Battle like the best, right out of the box. Includes a tournament-ready 60-card 
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/be/07/be071171d1945b898a773218e0a2c55df3e48308569b212f3e9c558b7b9ebdfe.png)The *Avacyn Restored* set features 244 black-bordered cards, including randomly inserted premium versions of all cards in the set.
+![](https://i.ormos.uk/be/07/be071171d1945b898a773218e0a2c55df3e48308569b212f3e9c558b7b9ebdfe.png)
+
+The *Avacyn Restored* set features 244 black-bordered cards, including randomly inserted premium versions of all cards in the set.
 
 **Set Name:** *Avacyn Restored*  
 **Block:** Set 3 of 3 in the Innistrad Block  

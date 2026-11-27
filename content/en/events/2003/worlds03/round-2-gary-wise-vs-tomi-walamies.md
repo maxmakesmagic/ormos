@@ -207,7 +207,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/worlds03/a933.jpg)As I got to the table it seemed like I was going to have to pick another because the two players were discussing the possibility of an intentional draw. They were both playing Blue-Green Madness and felt that Goblins—a deck sported by a significant portion of the field--is a terrible match-up for them. A draw would land them into a bracket with slower control decks that would feature more advantageous match-ups and almost zero probability of running into goblins.
+![](http://www.wizards.com/sideboard/images/worlds03/a933.jpg)
+
+As I got to the table it seemed like I was going to have to pick another because the two players were discussing the possibility of an intentional draw. They were both playing Blue-Green Madness and felt that Goblins—a deck sported by a significant portion of the field--is a terrible match-up for them. A draw would land them into a bracket with slower control decks that would feature more advantageous match-ups and almost zero probability of running into goblins.
 
 Tomi was keener on the strategy than Gary and the Canadian wanted to wait and see how the games started to unfold before making his decision. It turns out that Gary is less than confident in his Extended decklist and wanted to squeeze as many points out of the Standard portion as possible.
 
@@ -223,7 +225,9 @@ Both players kept their opening hands and Tomi cast Quiet Speculation on turn tw
 
 That suited Gary just fine as he played out his sideboarded Callous Oppressor. When Tomi named 'wurm' Gary laughed, "Shocking!" After Gary went through the motions of writing out a scrap of paper with the word 'wurm' on it, Tomi Unsummoned it with a grin. When he flashed back the Roar he was able to use the scrap of paper as his wurm token.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a934.jpg)Gary was not willing to relinquish control of the scrap of paper though and used his own Unsummon on the Wurm and replayed the Oppressor. Tomi named Wurm again and Gary triumphantly reclaimed the scrap. Tomi could have named anything because he had another Stupefying Touch ready and enchanted the cephalid and played an Aquamoeba. "He's a beater," shrugged Gary.
+![](http://www.wizards.com/sideboard/images/worlds03/a934.jpg)
+
+Gary was not willing to relinquish control of the scrap of paper though and used his own Unsummon on the Wurm and replayed the Oppressor. Tomi named Wurm again and Gary triumphantly reclaimed the scrap. Tomi could have named anything because he had another Stupefying Touch ready and enchanted the cephalid and played an Aquamoeba. "He's a beater," shrugged Gary.
 
 Gary dug into his deck with a Careful Study and discarded a pair of lands. Krosan Reclamation shuffled the Deep Analysis's back and he sent his two creatures into the red zone—effectively a Woodland Druid and a Grizzly Bear—and the Mongrel bounced off of the 1/3.
 
@@ -241,7 +245,9 @@ Gary opened up with Careful Study and threw away another Careful Study and a Roa
 
 Gary refrained from a dogfight and kept his Mongrel back and cast Quiet Speculation for a pair of Roar's and Krosan Reclamation. Gary took more pain from his Centaur garden choosing to keep a blue untapped for an Unsummon. Tomi got in for two with his Wild Mongrel when Gary chose not to block.
 
-![](http://www.wizards.com/sideboard/images/worlds03/a932.jpg)Gary flashed back a roar token only to have it Unsummoned EOT. Tomi discarded his own Roar to pump his Mongrel and flashed it back during the second main phase. Gary had an Unsummon on his turn and flashed back another Wurm, he attacked the soon-to-be Texan down to eleven.
+![](http://www.wizards.com/sideboard/images/worlds03/a932.jpg)
+
+Gary flashed back a roar token only to have it Unsummoned EOT. Tomi discarded his own Roar to pump his Mongrel and flashed it back during the second main phase. Gary had an Unsummon on his turn and flashed back another Wurm, he attacked the soon-to-be Texan down to eleven.
 
 Tomi dug with Deep Analysis—passed through the gastrointestinal tract of his Mongrel first—to find another Unsummon and was successful in making Gary's wurm go away. He took Gary down to eight and played an Aquamoeba. Gary cracked back and took Tomi down to ten. He fell to seven from his Centaur Garden choosing to keep two blue open rather than a green for Krosan Reclamation. 
 

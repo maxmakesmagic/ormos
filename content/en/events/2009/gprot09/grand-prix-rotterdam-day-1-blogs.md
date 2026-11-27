@@ -869,7 +869,9 @@ Shuuhei Nakamura
 
     *by David Sutcliffe*
 
-![](https://i.ormos.uk/8c/10/8c10b6259367201d1b02dd05de0cf92184a4106b56bed59e3e334a6a47489f2a.jpg)Shuuhei Nakamura wins at Magic. As statements go that not only has the ring of truth it’s statistically likely to be correct at any given game or tournament you want to mention. The Japanese superstar secured Player of the Year in 2008 by an impressive margin – a win built on his impressive performances at Grand Prix around the world, and it seems like nothing is changing for 2009. With a round to play Shuuhei found himself on 8-0 and playing to complete the day undefeated. His opponent, however, was the tenacious young Portugese player Marcio Carvalho, and he was not going to be giving up his own undefeated record easily.
+![](https://i.ormos.uk/8c/10/8c10b6259367201d1b02dd05de0cf92184a4106b56bed59e3e334a6a47489f2a.jpg)
+
+Shuuhei Nakamura wins at Magic. As statements go that not only has the ring of truth it’s statistically likely to be correct at any given game or tournament you want to mention. The Japanese superstar secured Player of the Year in 2008 by an impressive margin – a win built on his impressive performances at Grand Prix around the world, and it seems like nothing is changing for 2009. With a round to play Shuuhei found himself on 8-0 and playing to complete the day undefeated. His opponent, however, was the tenacious young Portugese player Marcio Carvalho, and he was not going to be giving up his own undefeated record easily.
 
 Shuuhei’s deck was the Esper design, with just a hint of green spells, and that puts him firmly on the control side of the metagame and he began Game 1 in that fashion, with a Courier’s Capsule, Esper Battlemage, and the Skyward Eye Prophets threatening to give him tremendous card advantage. That threat was too much for Carvalho to tolerate and he used Ignite Disorder to kill the Prophets before building a Naya army for an assault. The Portugese player rapidly played a Naya Battlemage, Topan Ascetic, and Rhox Bodyguard.
 
@@ -881,7 +883,9 @@ That was the tipping point. From here there was no route forward for Carvalho ag
 
 **Shuuhei Nakamura (JPN) 1 – 0 Marcio Carvalho (PRT)**
 
-![](https://i.ormos.uk/3b/0a/3b0a8a460ed36646a81496f36eb1603b70228823fd5a36a834e96df061b4af28.jpg)Five cards isn’t many, but it’s the number with which Shuuhei began the second game. It didn’t seem to have hindered him much though has he raced out with a Frontline Sage and Master of Etherium, and when he added an Armillary Sphere he had even managed to replace the cards that he had lost through his Mulligans. Meanwhile, Carvalho had been able to do nothing but lay land for 6 turns, before finally summoning... a Sacellum Godspeaker? That didn’t seem too threatening.
+![](https://i.ormos.uk/3b/0a/3b0a8a460ed36646a81496f36eb1603b70228823fd5a36a834e96df061b4af28.jpg)
+
+Five cards isn’t many, but it’s the number with which Shuuhei began the second game. It didn’t seem to have hindered him much though has he raced out with a Frontline Sage and Master of Etherium, and when he added an Armillary Sphere he had even managed to replace the cards that he had lost through his Mulligans. Meanwhile, Carvalho had been able to do nothing but lay land for 6 turns, before finally summoning... a Sacellum Godspeaker? That didn’t seem too threatening.
 
 Shuuhei played a Grixis Battlemage and continued to nibble away at Carvalho’s lifetotal, bringing him to 13, before the Naya deck finally came to life and Carvalho played a Topan Ascetic and Cliffrunner Behemoth – albeit a Behemoth with neither haste nor lifelink. The arms race continued, with Shuuhei stacking up a Tower Gargoyle and the dreaded protection from green Zombie Outlander. But this time Carvalho had an answer and the Outlander disappeared under an Oblivion Ring. Now Lifelinked by the white Oblivion Ring, the Cliffrunner Behemoth roared into the red zone along with the Topan Ascetic. Shuuhei hurled his Grixis Battlemage and Master Of Etherium (still a 2/2) under it’s hooves only for Carvalho to bloat it with Might of Alara! Shuuhei lost two creatures, and Carvalho was back to 21 life in one attack.
 

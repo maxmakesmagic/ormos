@@ -331,7 +331,9 @@ So our third lesson:
 
 **Haste is underrated in multiplayer.**
 
-![](http://www.wizards.com/global/images/mtgcom_daily_tf14_pic1_en.jpg)Of course, haste with vigilance is even more nuts – because the math gets even worse for an opponent. They weren't expecting you to blast them for six the turn before Akroma showed up – and yet you did. And even the careful players who considered a hasty creature, probably didn't account for one that made counterattacking very difficult. "Red haste" taps out. "White haste" – that is, Akroma – stays back and blocks after it deals its damage.
+![](http://www.wizards.com/global/images/mtgcom_daily_tf14_pic1_en.jpg)
+
+Of course, haste with vigilance is even more nuts – because the math gets even worse for an opponent. They weren't expecting you to blast them for six the turn before Akroma showed up – and yet you did. And even the careful players who considered a hasty creature, probably didn't account for one that made counterattacking very difficult. "Red haste" taps out. "White haste" – that is, Akroma – stays back and blocks after it deals its damage.
 
 For this reason, cards that grant your entire army vigilance (like Oathsworn Giant) work well with cards that grant your entire army haste (like Anger). They're natural companions, but not enough players put the two together well.
 

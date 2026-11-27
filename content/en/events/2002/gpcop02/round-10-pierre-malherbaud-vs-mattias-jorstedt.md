@@ -81,7 +81,9 @@ render_recovery:
   - Sparksmith
   occurrences: 31
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a911.jpg)Both Pierre Malherbaud and Mattias Jorstedt are experienced Pro Tour players but day two hasn't been too kind to both of them as both started with a loss, putting them both on 7-2.
+![](http://www.wizards.com/sideboard/images/gpcop02/a911.jpg)
+
+Both Pierre Malherbaud and Mattias Jorstedt are experienced Pro Tour players but day two hasn't been too kind to both of them as both started with a loss, putting them both on 7-2.
 
 Pierre Malherbaud – "We were both on the wrong side of the table."
 
@@ -97,7 +99,9 @@ Malherbaud 1-0 Jorstedt
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a912.jpg)Mattias started off with his own Taunting Elf, and a turn three Morph. Pierre answered with a Severed Legion and decided not to block. Mattias increased his ground force with a Barkhide Mauler and a Snarling Undorak, whereas Malherbaud could only add a Screeching Buzzard.
+![](http://www.wizards.com/sideboard/images/gpcop02/a912.jpg)
+
+Mattias started off with his own Taunting Elf, and a turn three Morph. Pierre answered with a Severed Legion and decided not to block. Mattias increased his ground force with a Barkhide Mauler and a Snarling Undorak, whereas Malherbaud could only add a Screeching Buzzard.
 
 Jorstedt's beasts traded hits with Pierre's Severed Legion, and when his Morph was blocked by Pierre's Buzzard it was revealed to be a Treespring Lorian. Pierre's life total was then low enough for Mattias to send over his Taunting Elf-powered army for the game.
 
@@ -105,7 +109,9 @@ Malherbaud 1 – Jorstedt 1
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a913.jpg)Jorstedt had to start the third game off with a mulligan. He started off reasonably quickly regardless, with a Birchlore Rangers enchanted by Crown of Vigor swinging in on the second turn.
+![](http://www.wizards.com/sideboard/images/gpcop02/a913.jpg)
+
+Jorstedt had to start the third game off with a mulligan. He started off reasonably quickly regardless, with a Birchlore Rangers enchanted by Crown of Vigor swinging in on the second turn.
 
 Pierre made a Morph and Mattias used Vitality Charm to get his Rangers through that obstacle. He then played an Elvish Warrior, leaving himself with only two cards in hand. Despite having no creatures in play Pierre decided to use Explosive Vegetation on his fourth turn. Jorstedt's attack knocked Pierre to thirteen, and he played an Undorak. The Frenchman used his seven mana to play Festering Goblin, Taunting Elf, and Thrashing Mudspawn. Only Jorstedt's Undorak attacked, trading with the Mudspawn and knocking Pierre to nine. Mattias then played a pair of Wellwishers. Even though Pierre managed to topdeck a Symbiotic Wurm, it was nowhere near enough to lower Mattias's life total as there were five elves in play.
 

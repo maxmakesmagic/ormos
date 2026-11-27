@@ -79,7 +79,9 @@ archive_source:
   sha256: 0013e3493ecd0a70037c49e096aede9035c6ca548b6b200393f8e9a4f1e77154
 render_recovery: []
 ---
-![Guildpact style guide image](https://i.ormos.uk/8b/3c/8b3c9df5f75335ddd7a2dd856245fdf8364dda1dabff8ce6b3ddd8272c37960f.jpg)Thrulls are born -- or rather, manufactured through magic -- to serve. These sallow-skinned, thick-brained creatures do their jobs with unquestioning loyalty, can't be bought or influenced, and don't complain when treated like scum -- in other words, they're ideal choice for an Orzhov slave race.
+![Guildpact style guide image](https://i.ormos.uk/8b/3c/8b3c9df5f75335ddd7a2dd856245fdf8364dda1dabff8ce6b3ddd8272c37960f.jpg)
+
+Thrulls are born -- or rather, manufactured through magic -- to serve. These sallow-skinned, thick-brained creatures do their jobs with unquestioning loyalty, can't be bought or influenced, and don't complain when treated like scum -- in other words, they're ideal choice for an Orzhov slave race.
 
 Thrulls were originally invented by breeder extraordinaire, Endrek Sahr (who turns up in some [flavor text](https://web.archive.org/web/20060209000000/http://gatherer.wizards.com/?first=1&last=100&term=endrek+sahr&Field_Flavor=on&setfilter=Allsets&colorfilter=All&typefilter=All&output=summary&sort=name&printingfilter=on&x=31&y=28)) in the time of *Fallen Empires*. But except for *Seventh Edition's* [Blood Pet](https://web.archive.org/web/20060209000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Pet), the [thrull creature type](https://web.archive.org/web/20060209000000/http://gatherer.wizards.com/?first=1&last=100&term=thrull&Field_Type=on&setfilter=Allsets&colorfilter=All&typefilter=All&output=summary&sort=name&x=25&y=18) hasn't seen print since the days of the *Tempest* Block. So what's new with our abused little friends? 
 

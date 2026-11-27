@@ -108,7 +108,9 @@ render_recovery:
 ---
 This semifinals match was a study in contrasts. Tsuyoshi was the old hand on the Grand Prix with the hot new deck—Goblin Bidding—while his opponent was the young, nervous rookie with one of the oldest decks in the ever changing Standard format—Psychatog.
 
-![](https://i.ormos.uk/96/db/96db275d0b5805f228b1d6e6fb8a371fb3b62bdb3d555916e9273bb2400fac58.jpg)Vincent Gan was the last line of defense against an all Japanese finals (and a potential all Goblin Bidding finals). Fujita Osamu was squaring off against Itaru Ishida one table over with an identical deck to the one that was being played by Tsuyoshi.
+![](https://i.ormos.uk/96/db/96db275d0b5805f228b1d6e6fb8a371fb3b62bdb3d555916e9273bb2400fac58.jpg)
+
+Vincent Gan was the last line of defense against an all Japanese finals (and a potential all Goblin Bidding finals). Fujita Osamu was squaring off against Itaru Ishida one table over with an identical deck to the one that was being played by Tsuyoshi.
 
 ### Game 1
 
@@ -128,7 +130,9 @@ Fujita – 1 Gan – 0
 
 Fujita's second turn Sparksmith was returned to his hand with Chain of Vapor. Duress revealed two copies of Sulfuric Vortex and a bunch of Goblins but no third land to cast the enchantment. 
 
-![](https://i.ormos.uk/cf/e8/cfe8b02062ceb2b639ad311c9308403916636e5c34879a43daf26673487458c5.jpg)Fujita attempted a Piledriver and it was Force Spiked. Sparksmith came down on the next turn but it was dispatched with an Engineered Plague. Goblin Warchief came down and Gan answered with a Psychatog. Another Warchief hit play and Goblin Matron searched for Piledriver but it was met with Circular Logic.
+![](https://i.ormos.uk/cf/e8/cfe8b02062ceb2b639ad311c9308403916636e5c34879a43daf26673487458c5.jpg)
+
+Fujita attempted a Piledriver and it was Force Spiked. Sparksmith came down on the next turn but it was dispatched with an Engineered Plague. Goblin Warchief came down and Gan answered with a Psychatog. Another Warchief hit play and Goblin Matron searched for Piledriver but it was met with Circular Logic.
 
 Another Tog cane down as did another Piledriver. When Tsuyoshi attempted a Siege Gang it was met with a Cunning Wish for Circular Logic that the younger player removed form the game with his Tog. Sulfuric Vortex finally came down—Tsuyoshi figured the Piledriver could occupy one of the Togs for a while. 
 

@@ -82,7 +82,9 @@ Both these players are accomplished pro’s looking to add another GP top 8 in t
 
 ### Game 1
 
-![](https://www.wizards.com/sideboard/images/gplon02/905.jpg)Bram won the die roll and played first and kept. Wilfried mulliganed twice but got a Careful Study, an Aquamoeba and an Arrogant Wurm with a Forest and an Island which he played in the first three turns. Bram had a Patrol Hound and a Chaplain to go with his Sacrament while Wilfried’s double mulligan started to show as he couldn’t get his creatures through.
+![](https://www.wizards.com/sideboard/images/gplon02/905.jpg)
+
+Bram won the die roll and played first and kept. Wilfried mulliganed twice but got a Careful Study, an Aquamoeba and an Arrogant Wurm with a Forest and an Island which he played in the first three turns. Bram had a Patrol Hound and a Chaplain to go with his Sacrament while Wilfried’s double mulligan started to show as he couldn’t get his creatures through.
 
 A Quiet Speculation for Prismatic Strands, Deep Analysis and Battle Screech put Wilfried even further behind. The only thing keeping him in the game was the fact that Bram couldn’t find a fourth land to cast the Screech in his hand.  
  Ranque, in the meanwhile, drew all lands after his explosive start and when Bram found a fourth mana source six bird tokens quickly did him in.

@@ -679,7 +679,9 @@ render_recovery:
 ---
 * * *
 
-![Antoine Ruel](http://www.wizards.com/sideboard/images/ptsd04/qf3_1.jpg)Antoine Ruel is an old hand at Pro Tour events with an impressive resume that includes Top 4 at Worlds in 2001, two Masters series Top 4's, and a pair of Grand Prix trophies for his mantle. He had never won a Pro Tour and this was his first Top 8 other than the 2001 World Championships. He was considered by the experts to have drafted the best deck at the table. His deck is a nearly ideal red-white equipment deck with Spikeshot Goblin, Auriok Steelshaper, and Leonin Shikari. His arsenal of equipment included two Scimitars, Bonesplitter, and Sword of Fire and Ice.
+![Antoine Ruel](http://www.wizards.com/sideboard/images/ptsd04/qf3_1.jpg)
+
+Antoine Ruel is an old hand at Pro Tour events with an impressive resume that includes Top 4 at Worlds in 2001, two Masters series Top 4's, and a pair of Grand Prix trophies for his mantle. He had never won a Pro Tour and this was his first Top 8 other than the 2001 World Championships. He was considered by the experts to have drafted the best deck at the table. His deck is a nearly ideal red-white equipment deck with Spikeshot Goblin, Auriok Steelshaper, and Leonin Shikari. His arsenal of equipment included two Scimitars, Bonesplitter, and Sword of Fire and Ice.
 
 If the veteran was finally going to win the Pro Tour he would have to get past this tournament's five-named Cinderella story, Angel Luis Perez Del Pozo. Prior to this tournament the biggest thing he had ever won was the PTQ in Madrid that earned him the invitation. He had acquitted himself well all weekend long facing tough draft table after tough draft table. He has gotten by with a couple of unlikely creatures--one deck sported a pair of Malachite Golems--and this draft was no different as he was running two Dross Prowlers. He did have two Spikeshots and his Prowlers could actually be good against Ruel who had few creatures that could block them. 
 

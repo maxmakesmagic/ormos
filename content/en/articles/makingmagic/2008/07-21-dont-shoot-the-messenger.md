@@ -112,4 +112,6 @@ Mimic Week is over! Did you guess who wrote this article?
 
 Click here to find out if you're right.
 
-![Chris Millar](https://i.ormos.uk/35/5f/355f77adee82ce3c475fec9f623b66c7cf36641ac6c5ca9ba77838f5ab24c415.jpg)This article was written by House of Cards columnist Chris Millar!
+![Chris Millar](https://i.ormos.uk/35/5f/355f77adee82ce3c475fec9f623b66c7cf36641ac6c5ca9ba77838f5ab24c415.jpg)
+
+This article was written by House of Cards columnist Chris Millar!

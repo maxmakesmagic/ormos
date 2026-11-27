@@ -235,7 +235,9 @@ Unfortunately, if you take your business elsewhere and start picking on someone 
 
 But of course the Deeder has built up an unstoppable lead at this point, and there’s no hope in heck that the novice can vanquish him. The lesson to be learned here is that if someone has a spell that you can’t stop, *get him to cast it as soon as possible*. If someone’s hiding behind a wall, make a few sacrifices to knock it down. Make him burn up his resources to deal with you! Force him to acknowledge your might! 
 
-![Browbeat](https://i.ormos.uk/ca/c6/cac6a5925ce8088548884d786c54699ea8ac90d48e0f9069ccf693f49c457aaf.jpg)Of course, there’s a balance to be struck; you want to force your opponent to pop his big threat, but you don’t want to be caught with your pants down. If you attack into a Deed every time, you can burn up all of your creatures and artifacts to deal with a player who really isn’t that big a threat to you. 
+![Browbeat](https://i.ormos.uk/ca/c6/cac6a5925ce8088548884d786c54699ea8ac90d48e0f9069ccf693f49c457aaf.jpg)
+
+Of course, there’s a balance to be struck; you want to force your opponent to pop his big threat, but you don’t want to be caught with your pants down. If you attack into a Deed every time, you can burn up all of your creatures and artifacts to deal with a player who really isn’t that big a threat to you. 
 
 Which brings us back to our main lesson: *How do you determine who your biggest threat is in multiplayer?* Who do you know how to attack, and when to hang back? When should you stage an all-out rush to de-Deed someone? 
 
@@ -280,7 +282,9 @@ Note: This is a reasonably deep topic, and I’ll most likely get into more on a
 
 Now that you know what you’re trying to do this turn, you need to look at each opponent and see what *his* deck does. How is he trying to win? 
 
-![Master_Warcraft](https://i.ormos.uk/99/27/9927ff62c2725591032fa3df6a9c609b4e9a7fb076a8955cc2278241f4d26712.jpg)You don’t need to know *specifically* how they win (except if it’s a crazy combo deck, which comes out of nowhere). Most decks’ strategies fall into distinct patterns: attack with a horde of weenies, attack with a huge hard-to-block creature, steal your best creatures and kill you with them. (Cataloguing these archetypical strategies is actually the topic of my *next* article on this subject.) It doesn’t usually matter whether your opponent is going to be coming at you with a Stronghold Overseer or a Spirit of the Night; it’s going to be a gigantic black critter in your face. 
+![Master_Warcraft](https://i.ormos.uk/99/27/9927ff62c2725591032fa3df6a9c609b4e9a7fb076a8955cc2278241f4d26712.jpg)
+
+You don’t need to know *specifically* how they win (except if it’s a crazy combo deck, which comes out of nowhere). Most decks’ strategies fall into distinct patterns: attack with a horde of weenies, attack with a huge hard-to-block creature, steal your best creatures and kill you with them. (Cataloguing these archetypical strategies is actually the topic of my *next* article on this subject.) It doesn’t usually matter whether your opponent is going to be coming at you with a Stronghold Overseer or a Spirit of the Night; it’s going to be a gigantic black critter in your face. 
 
 But in any case, you need to know (or at least guess) how your opponent is going to try to win, because some methods of winning hurt you a lot more than others. If you’re playing a Goblin deck, you don’t have to worry about the guy who steals your best creatures all that much; she’s going to get a 1/1 or a 2/2, and chances are good that you’ll just swarm around that single stolen creature anyway. Likewise, a player whose whole strategy is to cast an early Armageddon-style effect isn’t going to bother you, because clearing all the lands when you have the Gobbos on the table works in your favor. 
 

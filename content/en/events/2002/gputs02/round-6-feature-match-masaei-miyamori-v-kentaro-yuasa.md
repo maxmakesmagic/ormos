@@ -81,7 +81,9 @@ render_recovery:
   - Misery Charm
   occurrences: 30
 ---
-![](http://www.wizards.com/sideboard/images/gputs02/976.jpg)Masaei Miyamori may look like he just picked up the cards, but don't let that fool you. The thirteen year-old wunderkind has been tearing up Japanese tournaments for over a year. He's second on Hobby Japan's Junior (15-and-under) rankings list, just behind Shinsuke Hayashi. Today he's already at 4-1, and making a run at Day 2. His opponent this round is the always-stoic Kentaro Yuasa, whose pace of play verges on impercebtible. 
+![](http://www.wizards.com/sideboard/images/gputs02/976.jpg)
+
+Masaei Miyamori may look like he just picked up the cards, but don't let that fool you. The thirteen year-old wunderkind has been tearing up Japanese tournaments for over a year. He's second on Hobby Japan's Junior (15-and-under) rankings list, just behind Shinsuke Hayashi. Today he's already at 4-1, and making a run at Day 2. His opponent this round is the always-stoic Kentaro Yuasa, whose pace of play verges on impercebtible. 
 
 Miyamori started with an inauspicious mulligan. His Disciple of Grace was met by a Battlefield Medic, and then he had no third-turn play. Always a bad sign. His fourth turn he spent playing Explosive Vegetation, while Yuasa's mystery monster was free to smash. Yuasa added a Severed Legion to his team and passed it back to Miyamori. He made a Daunting Defender, but things were not looking good for him.
 
@@ -91,7 +93,9 @@ Things were downhill from there. The floodgates were opened to swarm attacks fro
 
 Yuasa 1 - Miyamori 0
 
-![](http://www.wizards.com/sideboard/images/gputs02/977.jpg)Miyamori's draw for game two was more suited to racing. He started with Thoughtbound Primoc and Dive Bomber opposite Yuasa's Battlefield Medic and Severed Legion. Yuasa made Nantuko Husk, still behind, and Miyamori came back with Wirewood Elf and a secret man. Yuasa hit for four and made a secret of his own.
+![](http://www.wizards.com/sideboard/images/gputs02/977.jpg)
+
+Miyamori's draw for game two was more suited to racing. He started with Thoughtbound Primoc and Dive Bomber opposite Yuasa's Battlefield Medic and Severed Legion. Yuasa made Nantuko Husk, still behind, and Miyamori came back with Wirewood Elf and a secret man. Yuasa hit for four and made a secret of his own.
 
 Now Miyamori was thinking. Four more damage brought Yuasa to ten. He decided to hand it over. Yuasa unmorphed his Daru Healer, and Miyamori chose to Solar Blast the Battlefield Medic, despite holding Chain of Plasma and racing in the air. It still looked like he was ahead, until Yuasa dropped Starlit Sanctum. The race was a lot tighter.
 

@@ -84,7 +84,9 @@ render_recovery:
   - Vitality Charm
   occurrences: 30
 ---
-![](https://i.ormos.uk/31/b1/31b109e015a297899d50c685e0a325d40c5fbc88e6e289ca07efd795575e18f4.jpg)Jens Thoren is the silent and reserved yin to teammate Tomi Walamies cheerful and shiny-shirted yang. He's also one of the World's best, and it's no surprise to see him crest to the top of the standings after nine rounds of play. He's looking to keep his good fortune running as he heads in to the Rochester Draft.
+![](https://i.ormos.uk/31/b1/31b109e015a297899d50c685e0a325d40c5fbc88e6e289ca07efd795575e18f4.jpg)
+
+Jens Thoren is the silent and reserved yin to teammate Tomi Walamies cheerful and shiny-shirted yang. He's also one of the World's best, and it's no surprise to see him crest to the top of the standings after nine rounds of play. He's looking to keep his good fortune running as he heads in to the Rochester Draft.
 
 The whole of the draft can be replayed on Magic Online, so be sure to check it out.
 

@@ -56,7 +56,9 @@ A few years ago, while I was still the owner of Neutral Ground: NY, Rob Doughert
 
 Each week, players would compete in a Standard tournament for an invitation to a 32-person $2,000 tournament at each store. The winner of each of the 32-person Invitationals would face off in a unique format for an additional $1,000 prize.
 
-![](http://www.wizards.com/sideboard/images/ngonline.jpg)Neutral Ground has won the past four iterations of this event with James Bradley defeating Tom Guevin, Zvi Mowshowitz defeating ‘Mouth’ Kambourakis and Eric Ziegler defeating Billy DiJohnson and Paul Reitzl. For the fifth season, Neutral Ground had already advanced David Chung, but as of two weekends ago, there was still no challenger from Your Move Games.
+![](http://www.wizards.com/sideboard/images/ngonline.jpg)
+
+Neutral Ground has won the past four iterations of this event with James Bradley defeating Tom Guevin, Zvi Mowshowitz defeating ‘Mouth’ Kambourakis and Eric Ziegler defeating Billy DiJohnson and Paul Reitzl. For the fifth season, Neutral Ground had already advanced David Chung, but as of two weekends ago, there was still no challenger from Your Move Games.
 
 It seems that players in New England prefer Sealed Deck and Booster Draft to Standard tournaments (perhaps explaining Neutral Ground’s edge in the event) and attendance was lagging to the point that Rob had not been able to run enough tournaments to generate the 32 person field for the $2,000 tournament that would determine the champion.
 
@@ -66,7 +68,9 @@ After five rounds, the event cut to the Top 20 and the real competition got unde
 
 Actually, players were literally competing for the right to win Rob’s money. One of the features of the weekly tournaments in the Grudge Match were Grudge Match points that could advance top players to the 32-person event. With the announcement of the new 20-slot tournament, Rob needed to find a new way to reward the top point finishers and he came up with a menu of prizes that included a head-to-head competition with Rob Dougherty in three different formats. A win in each format would be worth $100 with a potential payout of $300 if you could best a man considered to be among the very best Constructed players in the world in three different formats.
 
-![](https://i.ormos.uk/2c/41/2c4153462c0c1df20291d12d90c45aa7dce81d8eca8efb3aa575ad902e2425df.jpg)YMG’s chances of unseating Neutral Ground had never looked better when they had both Justin Gary and Darwin Kastle gunning for the title, but in the end, it was a relative unknown who won the event. Lucas Galvin went 5-0 in the grinder piloting a Psychatog deck. With the same deck, he followed that up with a 5-0 in the 32-person tournament. An avid player at the YMG store, Lucas has no major achievements under his belt besides qualifying for Chicago and a Top 32 finish at Grand Prix-Philadelphia. If he can defeat David Chung this coming weekend at Grand Prix-Boston, he will earn a spot in YMG history that not even its most famous players can claim.
+![](https://i.ormos.uk/2c/41/2c4153462c0c1df20291d12d90c45aa7dce81d8eca8efb3aa575ad902e2425df.jpg)
+
+YMG’s chances of unseating Neutral Ground had never looked better when they had both Justin Gary and Darwin Kastle gunning for the title, but in the end, it was a relative unknown who won the event. Lucas Galvin went 5-0 in the grinder piloting a Psychatog deck. With the same deck, he followed that up with a 5-0 in the 32-person tournament. An avid player at the YMG store, Lucas has no major achievements under his belt besides qualifying for Chicago and a Top 32 finish at Grand Prix-Philadelphia. If he can defeat David Chung this coming weekend at Grand Prix-Boston, he will earn a spot in YMG history that not even its most famous players can claim.
 
 All 32 decklists from the event can be found [here](https://web.archive.org/web/20030218000000/http://www.wizards.com/leaving.asp?url=http://www.yourmovegames.com/results/3000alldecklists.html&origin=sideboard_news_20030218a). My Feature Match coverage of three of the matches including the finals is [here](https://web.archive.org/web/20030218000000/http://www.wizards.com/leaving.asp?url=http://www.yourmovegames.com/results/3000final.html&origin=sideboard_news_20030218a).
 

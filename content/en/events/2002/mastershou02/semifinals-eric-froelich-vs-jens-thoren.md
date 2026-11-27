@@ -271,7 +271,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/pthou02/a929.jpg)Eric: "There has never been a quote attributed to me in coverage that was actually something I said."
+![](http://www.wizards.com/sideboard/images/pthou02/a929.jpg)
+
+Eric: "There has never been a quote attributed to me in coverage that was actually something I said."
 
 Eric won the roll and decided to keep his openers after a little consideration and played a Mountain. Jens also kept his first seven and followed suit with a Mountain but he had a first turn play and dropped a Goblin Sledder. 
 
@@ -313,7 +315,9 @@ The warrior drew first blood and Eric played his third Forest.
 
 Eric: "If you ask me if I kept a no-Mountain hand I'm gonna get mad!"
 
-![](http://www.wizards.com/sideboard/images/pthou02/a933.jpg)Jens swung in with Taskmaster but did not pump it and played a face down guy. Eric Tuskered for his Mountain EOT. All it did was make a 2/2 Heedless one that went to 1/1 on Jens's next turn when he Swatted the elf warrior and swung in for three.
+![](http://www.wizards.com/sideboard/images/pthou02/a933.jpg)
+
+Jens swung in with Taskmaster but did not pump it and played a face down guy. Eric Tuskered for his Mountain EOT. All it did was make a 2/2 Heedless one that went to 1/1 on Jens's next turn when he Swatted the elf warrior and swung in for three.
 
 Eric played a fifth land and tapped it all to play a morph and a Wellwisher—bringing the Heedless one back to the gray ogre power level. What followed is not for the squeamish and those with heart conditions may want to step outside for a few moments. Jens enchanted the Heedless One with Crown of Suspicions and sacrificed it giving all elves +2/-1 and killing the Wellwisher. The Heedless One promptly became a 1/1 and expired as well. 
 

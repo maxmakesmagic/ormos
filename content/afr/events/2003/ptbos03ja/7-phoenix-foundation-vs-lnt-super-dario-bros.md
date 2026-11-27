@@ -348,7 +348,9 @@ render_recovery:
 **Marco Blume vs. Dario Minieri**  
 **Game 1**
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a883.jpg)　対戦相手のデッキを一枚一枚見ながら構築していくチームロチェスターでは、どれだけ相手のデッキをメタったカードを仕込めるかがゲームの鍵を握る事が多い。その点で、Marco のデッキは相当のものだった。初めに登場した三種の生物を見て欲しい。
+![](http://www.wizards.com/sideboard/images/ptbos03/a883.jpg)
+
+　対戦相手のデッキを一枚一枚見ながら構築していくチームロチェスターでは、どれだけ相手のデッキをメタったカードを仕込めるかがゲームの鍵を握る事が多い。その点で、Marco のデッキは相当のものだった。初めに登場した三種の生物を見て欲しい。
 
 　《ワイアウッドの共生虫/Wirewood Symbiote》  
  　《ワイアウッドの養虫人/Wirewood Hivemaster》  
@@ -372,7 +374,9 @@ render_recovery:
 
 **Game 2** 
 
-![](http://www.wizards.com/sideboard/images/ptbos03/a891.jpg)　今度は Mirieni の場に《ワイアウッドの養虫人/Wirewood Hivemaster》が、そして Marco の場には《エルフの先兵/Elvish Vanguard》。ゲームは A 席の対決によくみられるエルフ大戦争モードへと。
+![](http://www.wizards.com/sideboard/images/ptbos03/a891.jpg)
+
+　今度は Mirieni の場に《ワイアウッドの養虫人/Wirewood Hivemaster》が、そして Marco の場には《エルフの先兵/Elvish Vanguard》。ゲームは A 席の対決によくみられるエルフ大戦争モードへと。
 
 　しかし、ここから先で異変が。Marco は 3 ターン目に出したばかり変異で Mirieni の変異を迎え撃つ。マナの無い状態で。何かよほど本体に通したくない要因でもあったのだろうか。  
  　Mirieni のそれは《うなるアンドラック/Snarling Undorak》に変化し、Marco のそれは墓地に落ちて《残響の追跡者/Echo Tracer》であることを明かす。《残響の追跡者/Echo Tracer》は相当に大事なカードだ。単なるモーフチェックに使っていいカードでは無い。未だゲームは始まったばかりだというのに、何が Marco を追いつめているのか？

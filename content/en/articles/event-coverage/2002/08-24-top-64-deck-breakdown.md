@@ -46,7 +46,9 @@ render_recovery: []
 ---
 **No. 1 Deck: UG**
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/graph1.jpg)Given that it is taking place only one week after Worlds, it was to be expected that the field at Sapporo would be influenced by the results of the World Championships. As it turned out, UG was the most popular deck type, with exactly half of the Day 2 competitors running some version of that color combination.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/graph1.jpg)
+
+Given that it is taking place only one week after Worlds, it was to be expected that the field at Sapporo would be influenced by the results of the World Championships. As it turned out, UG was the most popular deck type, with exactly half of the Day 2 competitors running some version of that color combination.
 
 There are three basic variants on the UG deck: the madness version, the threshold version, and Quiet Roar.
 

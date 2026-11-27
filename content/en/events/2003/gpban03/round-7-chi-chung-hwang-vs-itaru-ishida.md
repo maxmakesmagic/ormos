@@ -430,7 +430,9 @@ Chi-Chung – 0 Itaru – 1
 
 Both players kept their openers. Chi had the careful Study double Mongrel opening and Ishida Firebolted one of them. Aquamoeba came down on turn two and Ishida Hammered it. He took three from the Rootwalla and Chi-Chung passed back the turn holding Unsummon for the Call of the Herd that Ishida played.
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a904.jpg)He took three more from the Walla and Wild Mongrel came down. Ishida flashed back the Call and chose not to block the Rootwalla on the next turn. The Walla was Firebolted on the following turn and when Chi-Chung ripped a Ravenous Baloth a turn later it was 'killed' with a Threaten.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a904.jpg)
+
+He took three more from the Walla and Wild Mongrel came down. Ishida flashed back the Call and chose not to block the Rootwalla on the next turn. The Walla was Firebolted on the following turn and when Chi-Chung ripped a Ravenous Baloth a turn later it was 'killed' with a Threaten.
 
 The Mongrel ate a Call token in combat but a flashed back Firebolt finished it off. Ishida's Mongrel continued to attack and was eventually joined by a Centaur. Chi ripped a Ravenous Baloth but Ishida had the Violent Eruption. He followed up with a Grim Lavamancer.
 

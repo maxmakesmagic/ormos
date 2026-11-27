@@ -44,7 +44,9 @@ archive_source:
   sha256: 7728350fc387bcab4859090f2c83340822beca8ef0ba45e86a9a9f7a3351b321
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a918.jpg)German player Kai Budde has opened up a three-point lead at the top of the rankings and seems on course for yet another Grand Prix title to tuck into a well-stocked trophy cabinet. His opponent, the Czech player Petr Nahodil, is no stranger to this situation as he's played on the Pro Tour and at the World Championships.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a918.jpg)
+
+German player Kai Budde has opened up a three-point lead at the top of the rankings and seems on course for yet another Grand Prix title to tuck into a well-stocked trophy cabinet. His opponent, the Czech player Petr Nahodil, is no stranger to this situation as he's played on the Pro Tour and at the World Championships.
 
 Budde has a solid blue-white deck with Irridescent Angel as a finisher. Nahodil has a red-green deck and is splashing for everyone's favourite non-dragon dragon – [Mystic Enforcer](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Enforcer).
 
@@ -74,7 +76,9 @@ That single [Plains](https://web.archive.org/web/20020407000000/https://gatherer
 
 Nahodil summoned a [Petravark](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) and had a tricky choice. He could take his own [Plains](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) out but at this point Budde had only drawn one island and this proved too inviting a target for it. He had an Enforcer and a Mongrel and was doing a lot of damage.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a917.jpg)But when Budde summoned a [Hallowed Healer](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Healer) the Czech player had to take drastic action. He cast [Rites of Spring](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Spring) then pitched three land to the Mongrel in order to gain threshold. Budde chumped the Mongrel with the Pilgrim and sacrificed it to prevent the damage from the [Petravark](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark). This left Budde on five life.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a917.jpg)
+
+But when Budde summoned a [Hallowed Healer](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Healer) the Czech player had to take drastic action. He cast [Rites of Spring](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Spring) then pitched three land to the Mongrel in order to gain threshold. Budde chumped the Mongrel with the Pilgrim and sacrificed it to prevent the damage from the [Petravark](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark). This left Budde on five life.
 
 The Antelope had be left back on defensive duties and this was where Nahodil made a bad read on the situation. Budde had five plains open and Nahodil held back on attacking with the Enforcer for fear of [Second Thoughts](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Second+Thoughts). [Second Thoughts](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Second+Thoughts) on the Enforcer would of course be catastrophic but by holding back the Czech player could be giving Budde time to draw an answer and would ultimately lose a game he had won. Of course, if Budde had the [Second Thoughts](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Second+Thoughts) – which he didn't – then why wasn't he attacking with the Antelope?
 

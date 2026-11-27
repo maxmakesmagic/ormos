@@ -723,7 +723,9 @@ render_recovery:
 
 Welcome back to another edition of Building on a Budget! In this week's column, I'm going to finish evolving the Gruul Wilding theme deck, and take you on a roller coaster ride filled with pathos and excitement. Part one of this article can be found [here](/en/articles/buildingonabudget/2006/04-10-gruul-the-wilding-part-1), and part two of the article can be found [here](/en/articles/buildingonabudget/2006/04-17-gruul-the-wilding-part-2). Before I get started, let me tell you a little story.
 
-![](https://i.ormos.uk/b6/eb/b6eb70c0aa0a0acbc5d11d20b8fe0842ef305a6526acc0ca3feb15aec29e930f.jpg)I want to just have a small moment of silence for Goldy, my golden dojo loach. I had just added Goldy to my aquarium this past Sunday, and Goldy seemed to be getting along with all my other tropical fishes. Unfortunately, looks were deceiving – when my girlfriend Kate came home from college this past Wednesday, she found Goldy dead in the tank, covered in bite marks. Alas poor Goldy, we hardly knew ye. You were irreplaceable for the four days I got to know you, although by irreplaceable I mean that you cost me seven dollars and I'm going to use that money to buy a school of danios this weekend.
+![](https://i.ormos.uk/b6/eb/b6eb70c0aa0a0acbc5d11d20b8fe0842ef305a6526acc0ca3feb15aec29e930f.jpg)
+
+I want to just have a small moment of silence for Goldy, my golden dojo loach. I had just added Goldy to my aquarium this past Sunday, and Goldy seemed to be getting along with all my other tropical fishes. Unfortunately, looks were deceiving – when my girlfriend Kate came home from college this past Wednesday, she found Goldy dead in the tank, covered in bite marks. Alas poor Goldy, we hardly knew ye. You were irreplaceable for the four days I got to know you, although by irreplaceable I mean that you cost me seven dollars and I'm going to use that money to buy a school of danios this weekend.
 
 Enough of the maudlin stuff – on to the beatings!
 
@@ -804,7 +806,9 @@ Gord casts a third turn Lifegift, and then proceeds to use every land-thawing tr
 
 *Record: 3-4*
 
-![](https://i.ormos.uk/03/ca/03ca69970920bf3dca03373267d201c4b590077c035f242b91dbf23f9185e983.jpg)I seriously want something that deals at least one damage to everything. The top candidate is Savage Twister – since I have large creatures, or can make creatures large through Moldervine Cloak, Savage Twister affords me some nice versatility. I can use it as a Wrath of God, or use it as a one-sided Wrath of God, depending on what the situation calls for.
+![](https://i.ormos.uk/03/ca/03ca69970920bf3dca03373267d201c4b590077c035f242b91dbf23f9185e983.jpg)
+
+I seriously want something that deals at least one damage to everything. The top candidate is Savage Twister – since I have large creatures, or can make creatures large through Moldervine Cloak, Savage Twister affords me some nice versatility. I can use it as a Wrath of God, or use it as a one-sided Wrath of God, depending on what the situation calls for.
 
 **Game 8: Quint24 (B/W Control)**
 
@@ -867,7 +871,9 @@ There are now two other problems with my deck, different from before. I've taken
 
 **Game 13: thedrkstheart (U/B Millstone)**
 
-![](https://i.ormos.uk/93/54/935423a413e5f2eacad414179c1160b7c9861fb37ebbedf6df75b5508da200b4.jpg)I mulligan a hand with no lands, draw into a hand with no Forests, and end up drawing no Forests with multiple Green cards in my hand (including Llanowar Elves). I do get several Mountains and Skarrg, the Rage Pits, but they are about as useful as Boab inside an attic during an eclipse, and I die quickly to Belltower Sphinx and Dimir House Guard.
+![](https://i.ormos.uk/93/54/935423a413e5f2eacad414179c1160b7c9861fb37ebbedf6df75b5508da200b4.jpg)
+
+I mulligan a hand with no lands, draw into a hand with no Forests, and end up drawing no Forests with multiple Green cards in my hand (including Llanowar Elves). I do get several Mountains and Skarrg, the Rage Pits, but they are about as useful as Boab inside an attic during an eclipse, and I die quickly to Belltower Sphinx and Dimir House Guard.
 
 *Record: 6-7*
 

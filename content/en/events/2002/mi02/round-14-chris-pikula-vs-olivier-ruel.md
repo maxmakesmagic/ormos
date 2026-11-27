@@ -72,7 +72,9 @@ render_recovery:
   - Wonder
   occurrences: 19
 ---
-![](https://i.ormos.uk/a1/2c/a12c32029f0e8da26ca1096d2737fc13e10531c3cdf72f888905c700fa33b92a.jpg)Last year, Olivier Ruel had the dubious honor of being the last-place finisher at the Invitational. History would have had it that he would have won a Pro Tour that season, but he had to settle for second at Osaka. This year he's improving on his record, standing 5-8 after thirteen rounds. His opponent, the affable Chris Pikula, has taken his place at 3-10. He desperately needs to win out for a hope at avoiding last place.
+![](https://i.ormos.uk/a1/2c/a12c32029f0e8da26ca1096d2737fc13e10531c3cdf72f888905c700fa33b92a.jpg)
+
+Last year, Olivier Ruel had the dubious honor of being the last-place finisher at the Invitational. History would have had it that he would have won a Pro Tour that season, but he had to settle for second at Osaka. This year he's improving on his record, standing 5-8 after thirteen rounds. His opponent, the affable Chris Pikula, has taken his place at 3-10. He desperately needs to win out for a hope at avoiding last place.
 
 Pikula mulled a one-lander, then found himself with six and no forests. He kept. He pulled Careful Study, but had to spend Aether Burst on a Call token. Ruel didn't mind at all. He was free to play out his Opposition. When all Pikula could fire back was a Madnessed Arrogant Wurm, things were looking dire.
 
@@ -86,7 +88,9 @@ Pikula started off the second game with Careful Study for Basking Rootwalla, the
 
 Pikula sunk in his chair. A second Looter meant he'd have lots of chances to get at the cards he needed to break through, but it was demoralizing all the same. Eventually the board sat with Pikula's Looters, Rootwalla, Aquamoeba and Wild Mongrel opposite Ruel's pair of Birds and two Elephant tokens.
 
-![](https://i.ormos.uk/2e/3a/2e3aa9c448809ebe4dac4e7950c800bc47eb3e38e6b19fb918043fbd49052cad.jpg)Ruel threatened to attack with his Elephants, and Pikula leaned forward, hoping he would err. He sent just one, playing it much more safely.
+![](https://i.ormos.uk/2e/3a/2e3aa9c448809ebe4dac4e7950c800bc47eb3e38e6b19fb918043fbd49052cad.jpg)
+
+Ruel threatened to attack with his Elephants, and Pikula leaned forward, hoping he would err. He sent just one, playing it much more safely.
 
 "You'd think I could draw Aether Burst or Naturalize at some point." - Chris Pikula
 

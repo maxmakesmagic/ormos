@@ -89,7 +89,9 @@ render_recovery:
   - Faceless Butcher
   occurrences: 52
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a958.jpg)This round featured the unstoppable party machine, known to mere mortals as current European Champion Eivind Nitter, fighting against Stan van der Velden. An up-and-coming Dutch player looking for a serious ranking boost to qualify for the European Championship, Stan went as far as giving up his one bye in Antwerp to squeeze out a few extra ranking points.
+![](http://www.wizards.com/sideboard/images/gpbar02/a958.jpg)
+
+This round featured the unstoppable party machine, known to mere mortals as current European Champion Eivind Nitter, fighting against Stan van der Velden. An up-and-coming Dutch player looking for a serious ranking boost to qualify for the European Championship, Stan went as far as giving up his one bye in Antwerp to squeeze out a few extra ranking points.
 
 ### Game 1
 
@@ -142,7 +144,9 @@ Eivind: "He drew Words again..."
 
 The Gnomes came in to fuel the Giant's attacks while Stan played a Looter. Together they attacked several times while the Dutch tried to come with a business spell. When Eivind tried to Muscle Burst one of the attackers Stan was ready with a Divert.
 
-![](http://www.wizards.com/sideboard/images/gpbar02/a959.jpg)Finally van der Velden found a good blocker: Soul Scourger. The problem was Nitter had the Circular Logic and happily lost two cards to counter it with the help of the overworked Gnomes.
+![](http://www.wizards.com/sideboard/images/gpbar02/a959.jpg)
+
+Finally van der Velden found a good blocker: Soul Scourger. The problem was Nitter had the Circular Logic and happily lost two cards to counter it with the help of the overworked Gnomes.
 
 On the next swing van der Velden was forced to take desperate measures, chumping with his Fiend and thus releasing the Whispering Shade while dropping down to one. Then on the next turn things changed a lot. The kind of change that only an Iridescent Angel can provoke.
 

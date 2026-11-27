@@ -236,7 +236,9 @@ Next up is a batch of art notable not just for the cards included, but also for 
   
   
 
-![Ninth Edition card image](https://i.ormos.uk/6a/e4/6ae49e0f6a5ebb871ab6abc973dd78b573abe0835e23a94624c7ef9293acaa24.jpg)But core sets aren't just about changes, they're also about cool cards coming back for another go. Everybody has their own sentimental favorites, and for me that list starts with this guy, back in the core set for the first time since *Fifth Edition* came out back in 1997. And speaking of creature types, the list of crazy things you can do with Blinking Spirit in combination with the cards of Kamigawa goes on and on. 
+![Ninth Edition card image](https://i.ormos.uk/6a/e4/6ae49e0f6a5ebb871ab6abc973dd78b573abe0835e23a94624c7ef9293acaa24.jpg)
+
+But core sets aren't just about changes, they're also about cool cards coming back for another go. Everybody has their own sentimental favorites, and for me that list starts with this guy, back in the core set for the first time since *Fifth Edition* came out back in 1997. And speaking of creature types, the list of crazy things you can do with Blinking Spirit in combination with the cards of Kamigawa goes on and on. 
 
   
   

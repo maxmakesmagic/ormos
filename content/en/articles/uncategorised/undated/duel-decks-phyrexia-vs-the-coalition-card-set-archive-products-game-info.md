@@ -48,7 +48,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/9f/a2/9fa23e7f767695aa8bf4e18c304ebb15134a4d52083c01cf2008871b14ebaa38.png)These two 60-card decks showcase some of the best cards in Magic history. It has ten rare cards, two mythic rare cards, and six cards with new artwork, including foil art versions of Phyrexian Negator and Urza's Rage. Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
+![](https://i.ormos.uk/9f/a2/9fa23e7f767695aa8bf4e18c304ebb15134a4d52083c01cf2008871b14ebaa38.png)
+
+These two 60-card decks showcase some of the best cards in Magic history. It has ten rare cards, two mythic rare cards, and six cards with new artwork, including foil art versions of Phyrexian Negator and Urza's Rage. Each card in these two decks is black-bordered and tournament-legal. They were designed to be played right out of the box, with no deckbuilding required.
 
 **Set Name:** *Duel Decks: Phyrexia vs. the Coalition*  
 **Number of Cards:** 120

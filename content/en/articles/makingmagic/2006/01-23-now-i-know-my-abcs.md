@@ -111,7 +111,9 @@ Playtesting proved the mechanic encouraged exactly the type of behavior the Gruu
 
 ### D – [Djinn Illuminatus](https://web.archive.org/web/20060123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Djinn+Illuminatus)
 
-![](https://i.ormos.uk/73/f7/73f70e18d851ab46f08cccccb8330c40a84cb997e0c3293f8c3bf2b1f68bd667.jpg)Whenever we make a mechanic that goes on spells, there is always this pull in design to create a card that grants all instants and sorceries that spell mechanic. In *Ravnica* design, we had the following cards at some point during the design:
+![](https://i.ormos.uk/73/f7/73f70e18d851ab46f08cccccb8330c40a84cb997e0c3293f8c3bf2b1f68bd667.jpg)
+
+Whenever we make a mechanic that goes on spells, there is always this pull in design to create a card that grants all instants and sorceries that spell mechanic. In *Ravnica* design, we had the following cards at some point during the design:
 
 *   A card that granted all creatures dredge (killed for power reasons)
 *   A card that granted all creatures in your hand convoke (also killed for power reasons)

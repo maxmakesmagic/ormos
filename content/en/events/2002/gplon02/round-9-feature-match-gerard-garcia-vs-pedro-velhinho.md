@@ -73,7 +73,9 @@ render_recovery:
   - Mutilate
   occurrences: 29
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/936.jpg)After the dust from Day 1 had settled four players remained unbeaten at the top of the rankings. Gérard Garcia of France and Pedro Velhinho of Portugal. Garcia has a previous Pro Tour appearance at New Orleans. The Frenchman is running a black-blue Braids beatdown deck and his disruption should give him an advantage against Velhinho's slower black control deck.
+![](https://www.wizards.com/sideboard/images/gplon02/936.jpg)
+
+After the dust from Day 1 had settled four players remained unbeaten at the top of the rankings. Gérard Garcia of France and Pedro Velhinho of Portugal. Garcia has a previous Pro Tour appearance at New Orleans. The Frenchman is running a black-blue Braids beatdown deck and his disruption should give him an advantage against Velhinho's slower black control deck.
 
 Garcia went first and a turn two Mesmeric Fiend revealed Velhinho had kept a two land hand with expensive spells like Mirari and Haunting Echoes. There was also a Nantuko Shade and Innocent Blood. Garcia took the Blood. From there he quickly took control of the game by casting Shadowmage Infiltrator and turn four Braids.
 
@@ -81,7 +83,9 @@ Velhinho tried to race with two Nantuko Shades but one died to Edict and he was 
 
 Garcia 1-0 Velhinho
 
-![](https://www.wizards.com/sideboard/images/gplon02/935.jpg)Velhinho started with a turn 1 Cabal Therapy and hit, taking Chainer's Edict. He followed it up with a Mesmeric Fiend, taking Garcia's fiend and leaving him with Infiltrator, Braids and Aether Burst.
+![](https://www.wizards.com/sideboard/images/gplon02/935.jpg)
+
+Velhinho started with a turn 1 Cabal Therapy and hit, taking Chainer's Edict. He followed it up with a Mesmeric Fiend, taking Garcia's fiend and leaving him with Infiltrator, Braids and Aether Burst.
 
 Garcia passed his third turn and Velhinho destroyed his only blue source with Rancid Earth. This allowed Garcia to return the Fiend with Aether Burst and then steal it with his own.
 

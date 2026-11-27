@@ -112,7 +112,9 @@ Enough digression. Knowing that I am competing with [Nate Heiss](https://web.arc
 
 I’m going to take this opportunity to tie up some loose ends from articles that appeared on this site a few months ago. Must be my repressed editor personality struggling to break free. The required reading before we begin is Paul Barclay’s “[Talking About the Weather](https://web.archive.org/web/20040213000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/rb74)” (especially the part about [Grip of Chaos](https://web.archive.org/web/20040213000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grip+of+Chaos)) and Mark Rosewater’s “[Someday my Imprints Will Come](https://web.archive.org/web/20040213000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr87).”
 
-![](https://i.ormos.uk/2f/fe/2ffe74724be18ddb2b57c3dbc7c58741b852c9719be0112abbe6164083e86dc9.jpg)This story starts during the development of the *Scourge* set in the summer of 2002. Brian Tinsman had designed a card called “Blindness” that was driving the rules team insane. The card was a red enchantment that was meant to force all players to choose all their targets for spells and abilities at random. But no one could come up with acceptable wording for that effect, so the development team made the decision to pull the card from the set.
+![](https://i.ormos.uk/2f/fe/2ffe74724be18ddb2b57c3dbc7c58741b852c9719be0112abbe6164083e86dc9.jpg)
+
+This story starts during the development of the *Scourge* set in the summer of 2002. Brian Tinsman had designed a card called “Blindness” that was driving the rules team insane. The card was a red enchantment that was meant to force all players to choose all their targets for spells and abilities at random. But no one could come up with acceptable wording for that effect, so the development team made the decision to pull the card from the set.
 
 That change was made fairly late in the development cycle—so late, in fact, that art for the Blindness card was already finished. Any card designed to replace it in the set had to be able to use that art.
 

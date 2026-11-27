@@ -601,7 +601,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/21/24/21245249ecd94ea47ed541e8d5c9456ce18a19671edf12e52a7f03c61331ebfb.jpg)A couple weekends ago, Star City Games--a store in Roanoke, Virginia and home to a popular **Magic** website--held a Vintage “Five Proxy” tournament in nearby Richmond. The store owner, Pete Hoefling, thought it would be cool to have a member of Wizards R&D in attendance, so he contacted Randy Buehler to see if anyone was interested. Randy had just become a father, so he asked me if I was interested. I in fact was, being a closet Vintage fan, and Pete and Randy made arrangements for me to appear at the event.
+![](https://i.ormos.uk/21/24/21245249ecd94ea47ed541e8d5c9456ce18a19671edf12e52a7f03c61331ebfb.jpg)
+
+A couple weekends ago, Star City Games--a store in Roanoke, Virginia and home to a popular **Magic** website--held a Vintage “Five Proxy” tournament in nearby Richmond. The store owner, Pete Hoefling, thought it would be cool to have a member of Wizards R&D in attendance, so he contacted Randy Buehler to see if anyone was interested. Randy had just become a father, so he asked me if I was interested. I in fact was, being a closet Vintage fan, and Pete and Randy made arrangements for me to appear at the event.
 
 The fact that I got to go was rather remarkable, considering our strong company stance against proxy cards here at Wizards of the Coast. My presence was not meant to endorse the use of proxies, but rather to research the phenomenon of the proxy Vintage scene, check on the concurrent States Standard tournament while I was there, and talk to as many players, dealers, and collectors as were willing to chat about whatever was on their minds.
 
@@ -667,7 +669,9 @@ A few card-by-card notes:
 *   **Defense Grid**. Xantid Swarm seems like the counterspell hoser of choice, but I can't see how that fits into Oath. Maybe it can. But I settled for Defense Grid. I got it out against 4cControl in one game and it was wonderful.
 *   **Cursed Totem**. Anti-Welder, anti-Fish. Not that great for me actually.
 
-![](https://i.ormos.uk/62/d6/62d684dd987b4666e2978420e945aeec9cdf52e789eb0eed877a80b236a217a9.jpg)John Carter and Worth Wollpert were nice enough to loan me all the cards I needed (no proxies for me!). The deck looked lovely--everything was black bordered except for the Lotus, and that was signed. I was nervous carrying the darn thing around, thinking about how in the world I'd be able to afford replacements if something happened. This format takes nerves of steel!
+![](https://i.ormos.uk/62/d6/62d684dd987b4666e2978420e945aeec9cdf52e789eb0eed877a80b236a217a9.jpg)
+
+John Carter and Worth Wollpert were nice enough to loan me all the cards I needed (no proxies for me!). The deck looked lovely--everything was black bordered except for the Lotus, and that was signed. I was nervous carrying the darn thing around, thinking about how in the world I'd be able to afford replacements if something happened. This format takes nerves of steel!
 
 ### Off to Play…
 

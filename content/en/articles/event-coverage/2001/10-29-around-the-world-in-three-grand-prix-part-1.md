@@ -304,7 +304,9 @@ This is very generic of course, but I will be coming back to that general outlin
 
 Play around with this card pool and see what kind of a deck you would build before reading further.
 
-![](https://i.ormos.uk/c9/dc/c9dcb993ee66b0c8b4218cbc455da20b9074edd96ad0639f8b7fe1c44ef7ebcb.jpg)I did not know it at the time, but the card pool in this case is above average. Both artifacts are very playable - especially Millikin, which helps obtain threshold as well as accelerate the deck. It is pretty easy to discount both black and red. Each of these two colors offer about five playable cards, and neither boasts multiple cards that are worth splashing. Firebolt is probably the best card in these two colors. If there were three of them, it would make red a great splash color. As is, it would get to sit in the sideboard.
+![](https://i.ormos.uk/c9/dc/c9dcb993ee66b0c8b4218cbc455da20b9074edd96ad0639f8b7fe1c44ef7ebcb.jpg)
+
+I did not know it at the time, but the card pool in this case is above average. Both artifacts are very playable - especially Millikin, which helps obtain threshold as well as accelerate the deck. It is pretty easy to discount both black and red. Each of these two colors offer about five playable cards, and neither boasts multiple cards that are worth splashing. Firebolt is probably the best card in these two colors. If there were three of them, it would make red a great splash color. As is, it would get to sit in the sideboard.
 
 Blue, green and white are all solid colors and are all quite deep. On closer examination, green is the deepest of the three colors, making it a shoe-in for the deck. It has mana acceleration (2 Werebears) which is quite important in sealed deck, large monsters (Ivy Elemental, Roar of the Wurm), combat tricks (Elephant Ambush, Nantuko Disciple), a number of all-around solid creatures, and even at least one broken combo (Wild Mongrel and Roar of the Wurm). The really tricky part is to figure out which of the remaining two colors would be dominant, with the other color remaining a minor splash. I am going to list what I ended up playing, and then explain why I screwed it up pretty badly:
 

@@ -620,7 +620,9 @@ You don't really have to do so to benefit from this article; the main points of 
 
 ### The Bill Macey Rule
 
-![](https://i.ormos.uk/95/3a/953aaa26f6d1188de23ebcef4844b80fe703f98308387bc929f179d337890751.jpg)In a new or open format, the most vulnerable point of the metagame is in the newest set. To succeed in a new format, you should play the most powerful cards in the new set, for which opponents, playing established decks, may not be prepared.
+![](https://i.ormos.uk/95/3a/953aaa26f6d1188de23ebcef4844b80fe703f98308387bc929f179d337890751.jpg)
+
+In a new or open format, the most vulnerable point of the metagame is in the newest set. To succeed in a new format, you should play the most powerful cards in the new set, for which opponents, playing established decks, may not be prepared.
 
 ### <table><tbody><tr><td><img src="https://i.ormos.uk/0b/53/0b53bd077673dc60c268bddc8514049bf4f8d3b483da29f24896e172690a9fa8.jpg"><br><i>Try to stay one step ahead of the competition.</i>&#10;</td></tr>&#10;</tbody></table>
 

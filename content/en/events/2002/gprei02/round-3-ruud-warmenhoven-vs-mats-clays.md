@@ -88,7 +88,9 @@ render_recovery:
   - Tangle Wire
   occurrences: 41
 ---
-![](http://www.wizards.com/sideboard/images/gprei02/a978.jpg)Ruud Warmenhoven is perhaps known more for the occasional stint he puts in to help the Sideboard coverage. Pro Tour Houston was pretty good for the Dutchman as he finished in the money in 60th place. Today he's playing a similar Oath deck to the one he ran at the Pro Tour. Instead of Oathing up Cognivores his deck has Battlefield Scroungers and Phantom Nishobas. His opponent, Mats Clays from Belgium, is running the suicide black deck that has seen a bit of a resurgence of late.
+![](http://www.wizards.com/sideboard/images/gprei02/a978.jpg)
+
+Ruud Warmenhoven is perhaps known more for the occasional stint he puts in to help the Sideboard coverage. Pro Tour Houston was pretty good for the Dutchman as he finished in the money in 60th place. Today he's playing a similar Oath deck to the one he ran at the Pro Tour. Instead of Oathing up Cognivores his deck has Battlefield Scroungers and Phantom Nishobas. His opponent, Mats Clays from Belgium, is running the suicide black deck that has seen a bit of a resurgence of late.
 
 The draws for both players were less than optimal. Clays had to mulligan and couldn't really follow his turn one Carnophage with any pressure. Meanwhile Warmenhoven couldn't find a green source to cast the Oath in his hand. Clays therapied it out of his hand the turn before a Treetop Village untapped although he had to sac his only creature – the Carnophage – to do it.
 
@@ -96,7 +98,9 @@ With an absence of early pressure it looked like Clays wasn't going to get into 
 
 A Treetop Village took care of that and then Living Wish fetched Palinchron to hold off a Festering Goblin and Carnophage. Cunning Wish fetched Stroke of Genius and the Dutchman suddenly went 5 cards up.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a980.jpg)An Oath of Druids provided the final nail. Clays couldn't afford to keep a creature on the table while Warmenhoven battered him with Treetop Villages.
+![](http://www.wizards.com/sideboard/images/gprei02/a980.jpg)
+
+An Oath of Druids provided the final nail. Clays couldn't afford to keep a creature on the table while Warmenhoven battered him with Treetop Villages.
 
 Warmenhoven 1-0 Clays
 
@@ -106,7 +110,9 @@ Warmenhoven 1-1 Clays
 
 Warmenhoven opened with a Yavimaya Coast that Clays immediately ripped off the board with a Wasteland. The Belgian then proceeded to take Warm's hand apart with Unmask and Duress. This enabled him to drop a Slayer then follow it with a Skittering Skirge. A Repulse on the Slayer slowed down the damage but Clays was still picking holes in Warm's hand with Cabal Therapy. Flashing it back got rid of the Skirge so Clays could start casting creatures again. The Slayer returned and at 5 life Warmenhoven was in trouble. He thought hard and Intuitioned for Oath of Druids, taking damage off a painland.
 
-![](http://www.wizards.com/sideboard/images/gprei02/a979.jpg)The Oath suddenly looked less than effective as Clays found a third land and summoned three Carnophage. Oath hit Phantom Nishoba and while that didn't look like it would be enough Warmenhoven used Cunning Wish to fetch Constant Mists from the board and suddenly the game looked completely different.
+![](http://www.wizards.com/sideboard/images/gprei02/a979.jpg)
+
+The Oath suddenly looked less than effective as Clays found a third land and summoned three Carnophage. Oath hit Phantom Nishoba and while that didn't look like it would be enough Warmenhoven used Cunning Wish to fetch Constant Mists from the board and suddenly the game looked completely different.
 
 Clays wasn't about to let Warmenhoven off the hook that easily. Tangle Wire hit the table. This tied up all of the Dutchman's permanents and left him tapped out and defenseless against Clays lethal assault the next turn.
 

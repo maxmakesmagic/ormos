@@ -135,7 +135,9 @@ render_recovery:
   - Zombie Cannibal
   occurrences: 100
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a871.jpg)"It's do or die time," Mark Rosewater commented, walking past.
+![](http://www.wizards.com/sideboard/images/ptnice02/a871.jpg)
+
+"It's do or die time," Mark Rosewater commented, walking past.
 
 "No, I'm already dead," Brian Kibler replied.
 

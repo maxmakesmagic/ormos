@@ -99,7 +99,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a895.jpg)Valentin started off killing Adam's creatures as they were played one by one.
+![](http://www.wizards.com/sideboard/images/gpcle02/a895.jpg)
+
+Valentin started off killing Adam's creatures as they were played one by one.
 
 By the middle game Adam had Catalyst stone in play while Valentin had five swamps.
 
@@ -127,7 +129,9 @@ Valentin made a Nantuko Shade. "Lucky," said Adam. The next turn, Adam cast Quie
 
 The next turn after the shade attacked life totals stood at 4 to 20.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a885.jpg)Adam made four bears, and when Valentin untapped he had a long think to decide what to do about them. He decided to start taking them out one by one with edict and butcher and an attack by the shade. Despite being able to make four bears a turn for quite a while, Adam was falling behind, as Valentin used up his elim spells on Adam's tokens. Adam cast yet another four bears when it was his turn.
+![](http://www.wizards.com/sideboard/images/gpcle02/a885.jpg)
+
+Adam made four bears, and when Valentin untapped he had a long think to decide what to do about them. He decided to start taking them out one by one with edict and butcher and an attack by the shade. Despite being able to make four bears a turn for quite a while, Adam was falling behind, as Valentin used up his elim spells on Adam's tokens. Adam cast yet another four bears when it was his turn.
 
 On Valentin's next turn however, he top decked a Cabal Coffers, and that let him cast a Mutilate he had in hand, saving his shade by pumping it up enough to save it from Mutilate (he didn't have quite enough swamps in play to save it with just one Cabal Coffers last turn), while killing all of the other creatures in play, letting him win at once with the shade remaining the only creature left on board attacking for a bundle.
 

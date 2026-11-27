@@ -74,13 +74,17 @@ render_recovery:
   - Braids
   occurrences: 32
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/963.jpg)Jelger has had a breakout year on the Pro Tour, with third place in New Orleans and three Grand Prix top eights enough to place him in the top ten in the player of the year race. Sam is one of England's top players and he represented them in the World Championships earlier this year. He is also playing a very interesting deck type, with Mirari's Wake powering a control deck with Fervent Denial and Krosan Reclamations and the like, which is capable of recursing and countering every single one of an opponent's spells in the long game.
+![](https://www.wizards.com/sideboard/images/gplon02/963.jpg)
+
+Jelger has had a breakout year on the Pro Tour, with third place in New Orleans and three Grand Prix top eights enough to place him in the top ten in the player of the year race. Sam is one of England's top players and he represented them in the World Championships earlier this year. He is also playing a very interesting deck type, with Mirari's Wake powering a control deck with Fervent Denial and Krosan Reclamations and the like, which is capable of recursing and countering every single one of an opponent's spells in the long game.
 
 ### Game One
 
 The game started out slowly with only lands for the first three turns. Sam's land drops of Forest, Island, and Plains probably served to confuse Jelger a little. The Dutchman finally dropped a Nantuko Shade on his fourth turn, which was Aether Bursted and since Sam didn't have a counter in hand he decided to tap out for Concentrate, hoping that he wasn't about to get Mind Sludged. Instead he was Haunting Echoed, which removed all his Aether Bursts, Concentrates, and Moment's Peaces, although Sam did have another Peace in his hand.
 
-![](https://www.wizards.com/sideboard/images/gplon02/962.jpg)Sam dropped a Mirari's Wake, while Jelger replayed his Nantuko Shade and added a second one for good measure. Gomersall played Compulsion, and fogged Jelger's attack with the Peace. When Sam played a Mirari it looked as though he was getting ready to do something fairly impressive. Once again Wiegersma's large Shades failed to do damage as Sam flashed back his Moment's Peace. On his next turn Sam cast Kirtar's Wrath which put two 1/1s into play. They were promptly Edicted but it was pretty obvious that Sam was in a great position as he Miraried Cunning Wish to get Fervent Denial and Flash of Insight, then forked his Insight to look twice for ten cards. Another double Cunning Wish fetched Elephant Ambush and Moment's Peace. Jelger had had enough and conceded when Sam cast the Ambush.
+![](https://www.wizards.com/sideboard/images/gplon02/962.jpg)
+
+Sam dropped a Mirari's Wake, while Jelger replayed his Nantuko Shade and added a second one for good measure. Gomersall played Compulsion, and fogged Jelger's attack with the Peace. When Sam played a Mirari it looked as though he was getting ready to do something fairly impressive. Once again Wiegersma's large Shades failed to do damage as Sam flashed back his Moment's Peace. On his next turn Sam cast Kirtar's Wrath which put two 1/1s into play. They were promptly Edicted but it was pretty obvious that Sam was in a great position as he Miraried Cunning Wish to get Fervent Denial and Flash of Insight, then forked his Insight to look twice for ten cards. Another double Cunning Wish fetched Elephant Ambush and Moment's Peace. Jelger had had enough and conceded when Sam cast the Ambush.
 
 ### Game Two
 
@@ -88,6 +92,8 @@ Sam had to take a mulligan at the start of game two which at least gave Jelger h
 
 ### Game Three
 
-![](https://www.wizards.com/sideboard/images/gplon02/961.jpg)Once again Sam had to mulligan, this time after a long think. His six card draw also had no blue mana sources, so it was down to five cards. He kept this and played a second turn Compulsion. Jelger had two Nantuko Shades which threatened to end the game fairly quickly. Gomersall forgot to activate Compulsion and this might have cost him as he was one mana short of playing Kirtar's Wrath when he died. The last two games were very unfortunate for Sam, as this match-up is usually heavily in favour of the Mirari deck.
+![](https://www.wizards.com/sideboard/images/gplon02/961.jpg)
+
+Once again Sam had to mulligan, this time after a long think. His six card draw also had no blue mana sources, so it was down to five cards. He kept this and played a second turn Compulsion. Jelger had two Nantuko Shades which threatened to end the game fairly quickly. Gomersall forgot to activate Compulsion and this might have cost him as he was one mana short of playing Kirtar's Wrath when he died. The last two games were very unfortunate for Sam, as this match-up is usually heavily in favour of the Mirari deck.
 
 Jelger Wiegersma 2 - Sam Gomersall 1

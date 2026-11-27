@@ -44,7 +44,9 @@ archive_source:
   sha256: 251db976f93f1c63deb6c217d1c00939e6d319cd3715d7e84707182779af4660
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/931.jpg)On 8-1 coming into the round, both players are looking good so far in the tourament. Gary Wise was playing mono-black control, and Olivier had the Infestation-[Upheaval](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) deck. It’s not a good match-up for Gary. “My best plan is to watch my opponent carefully and then call a judge”, he said. Olivier asks when the last time Gary made a top eight was, and Wise responds with, “Well at least I won a PT”, a reference to the team event in Washington 1999. Both players are well known pros with many good finishes to their name.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/931.jpg)
+
+On 8-1 coming into the round, both players are looking good so far in the tourament. Gary Wise was playing mono-black control, and Olivier had the Infestation-[Upheaval](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Upheaval) deck. It’s not a good match-up for Gary. “My best plan is to watch my opponent carefully and then call a judge”, he said. Olivier asks when the last time Gary made a top eight was, and Wise responds with, “Well at least I won a PT”, a reference to the team event in Washington 1999. Both players are well known pros with many good finishes to their name.
 
 ### Game One
 

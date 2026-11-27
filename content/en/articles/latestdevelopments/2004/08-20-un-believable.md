@@ -139,7 +139,9 @@ render_recovery:
 
 So there we were, eating at Plataforma. Late spring, 1997. It was me, Mike Turian, and Mike Flores at one end of the table, several members of Team Deadguy at the other--Dave Price, shrouded behind a cloud of smoke and stacks of empty beer glasses, was still stewing over his loss to the infamous Mike Long in the finals of the first-ever North American Grand Prix--and a whole random assortment of gamers in between. We were eating meat and talking about how fun Magic was. We all generally agreed that it was good times, but then a low, quiet voice chimed in and disagreed.
 
-![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/gplon02/895.jpg)As-yet-unknown Dutch phenom Bram Snepvangers had tagged along--he was in town visiting family or some such--and the first words he said were, “Magic is not silly enough for me.”
+![](http://www.wizards.comhttp//www.wizards.com/sideboard/images/gplon02/895.jpg)
+
+As-yet-unknown Dutch phenom Bram Snepvangers had tagged along--he was in town visiting family or some such--and the first words he said were, “Magic is not silly enough for me.”
 
 We all took pause and considered his grim words. Was the game too serious? It just might be. We ate the rest of the meal in silence.
 

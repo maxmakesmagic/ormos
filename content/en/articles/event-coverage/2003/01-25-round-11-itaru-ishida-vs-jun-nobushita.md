@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a954.jpg)7-3 is not the place you want to start running into buddies. Nothing short of winning out is acceptable, and that means crushing some dreams. Such is the fate of Panzer Hunters Brain Trust Itaru Ishida and Clown Prince Jun Nobushita. The matchup does not favor the smaller Ishida, whose Goblins are exactly the sort of thing Nobushita's black-green [Contamination](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Contamination) Control is fit to destroy.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a954.jpg)
+
+7-3 is not the place you want to start running into buddies. Nothing short of winning out is acceptable, and that means crushing some dreams. Such is the fate of Panzer Hunters Brain Trust Itaru Ishida and Clown Prince Jun Nobushita. The matchup does not favor the smaller Ishida, whose Goblins are exactly the sort of thing Nobushita's black-green [Contamination](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Contamination) Control is fit to destroy.
 
 ### Game 1
 
@@ -65,7 +67,9 @@ Nobushita 1 – Ishida 1
 
 Ishida mulliganed for the second game, and had no play on his first turn. He made a [Sparksmith](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) on his second turn. Nobushita meanwhile [Vampiric Tutor](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor)ed to set himself up, then spared himself some damage with [Diabolic Edict](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diabolic+Edict). Ishida had just a [Raging Goblin](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Goblin) and [Mogg Flunkies](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Flunkies).
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a955.jpg)Nobushita went for the throat. On his third turn he [Entomb](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb)ed [Phantom Nishoba](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Nishoba) and then [Reanimate](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reanimate)d it. Ishida just laughed. He untapped and dropped [Threaten](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Threaten) on the table. Nobshita blinked and looked at his life total. Double-checking the amount of incoming damage, he picked up his cards.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a955.jpg)
+
+Nobushita went for the throat. On his third turn he [Entomb](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb)ed [Phantom Nishoba](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Nishoba) and then [Reanimate](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reanimate)d it. Ishida just laughed. He untapped and dropped [Threaten](https://web.archive.org/web/20030125000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Threaten) on the table. Nobshita blinked and looked at his life total. Double-checking the amount of incoming damage, he picked up his cards.
 
 ### Game 3
 

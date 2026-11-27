@@ -60,7 +60,9 @@ archive_source:
   sha256: 460bf94f980dbea19b6c7ff0f57b5490bfea4a9d7ae2d89370ae534a15c0835f
 render_recovery: []
 ---
-![](https://i.ormos.uk/48/ec/48ec05140acddd7d897f51139aa7a5ef0a9400f5365ddd7f8ee92dc1b182c1a4.jpg)If this tournament teaches us anything, it is that tiebreakers do mean something after all.
+![](https://i.ormos.uk/48/ec/48ec05140acddd7d897f51139aa7a5ef0a9400f5365ddd7f8ee92dc1b182c1a4.jpg)
+
+If this tournament teaches us anything, it is that tiebreakers do mean something after all.
 
 As Round 8 came to a close yesterday, Illuminati was seen hovering around their standings trying to figure out what crazy series of events needed to occur in order for them to make Day 2. They were 6-2, and were sitting in 29th after round 7. As only the top 20 teams advance, their chances looked bad.
 

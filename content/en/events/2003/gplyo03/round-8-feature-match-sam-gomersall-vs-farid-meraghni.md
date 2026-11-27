@@ -76,13 +76,17 @@ render_recovery:
   - Stalking Stones
   occurrences: 23
 ---
-![Sam Gomersall vs Farid Meraghni](https://www.wizards.com/sideboard/images/gplyo03/926.jpg "Sam Gomersall vs Farid Meraghni")Sam won his local 8 player booster draft last week and netted a very nice set of boosters by it: 2 *Mirrodin* and 1 *Scourge* booster. Farid has also won some booster drafts in his life... 
+![Sam Gomersall vs Farid Meraghni](https://www.wizards.com/sideboard/images/gplyo03/926.jpg "Sam Gomersall vs Farid Meraghni")
+
+Sam won his local 8 player booster draft last week and netted a very nice set of boosters by it: 2 *Mirrodin* and 1 *Scourge* booster. Farid has also won some booster drafts in his life... 
 
 ### Game 1:
 
 Sam won the toss and choose to play.
 
-![Farid Meraghni](https://www.wizards.com/sideboard/images/gplyo03/927.jpg "Farid Meraghni")Sam played a Gold Myr on turn two to which Farid responded with a Silver Myr. Sam's Myr gets Electrostatic Bolted and Farid leads a Skyhunter Cub equipped with Mask of Memory into the zone. Bottle Gnomes on Sam's side of the table tried to hold Farid off a little.
+![Farid Meraghni](https://www.wizards.com/sideboard/images/gplyo03/927.jpg "Farid Meraghni")
+
+Sam played a Gold Myr on turn two to which Farid responded with a Silver Myr. Sam's Myr gets Electrostatic Bolted and Farid leads a Skyhunter Cub equipped with Mask of Memory into the zone. Bottle Gnomes on Sam's side of the table tried to hold Farid off a little.
 
 Neurok Spy and Auriok Transfixer join a little bit later, while Farid adds Pyrite Spellbomb and Pewter Golem. Altar's Light kills the Bottle Gnomes and clears a path for Farid's horde and we're off to the second game already. 
 

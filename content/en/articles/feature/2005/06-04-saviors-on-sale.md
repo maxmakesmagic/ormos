@@ -194,7 +194,9 @@ In limited (draft, sealed deck), everything you opened or drafted that isn't in 
 
 In constructed (standard, vintage, etc.), your sideboard is either 0 (no sideboard) or 15 cards exactly. In between games you may swap cards one-for-one with the deck and sideboard. Your sideboard should always be 15 cards in constructed regardless of how big your deck is (though the minimum of 60 is strongly recommended).
 
-![](https://i.ormos.uk/be/17/be176f09affde0cd1ddc22fb9dbefe0e046e6d70ea32ccad834477c9ce57a387.jpg)**Q**: Is it legal to play World Championship cards in casual play? --Trevor H.
+![](https://i.ormos.uk/be/17/be176f09affde0cd1ddc22fb9dbefe0e046e6d70ea32ccad834477c9ce57a387.jpg)
+
+**Q**: Is it legal to play World Championship cards in casual play? --Trevor H.
 
 **A**: In casual play, you can play whatever your group allows. In sanctioned play you won't be allowed to use cards that don't have the regular **Magic** back or ones that have silver borders. What you and your friends play with casually is totally up to you-- all we want is for you to have fun.
 

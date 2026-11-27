@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/a2/92/a292455ee868c7ce4ee8db46b93b68cf94c44c22df08cfd638b6dcde909d4e2e.png)This set of 229 reprint cards in the Modern Format includes many with new art as well as new, never-before-printed tokens. The cards are reprints from *Eighth Edition* through *Alara Reborn*, sold in 15-card booster packs, with one premium card per booster pack.
+![](https://i.ormos.uk/a2/92/a292455ee868c7ce4ee8db46b93b68cf94c44c22df08cfd638b6dcde909d4e2e.png)
+
+This set of 229 reprint cards in the Modern Format includes many with new art as well as new, never-before-printed tokens. The cards are reprints from *Eighth Edition* through *Alara Reborn*, sold in 15-card booster packs, with one premium card per booster pack.
 
 **Set Name:** *Modern Masters*  
 **Number of Cards:** 229

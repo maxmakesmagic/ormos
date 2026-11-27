@@ -327,7 +327,9 @@ render_recovery:
 ---
 * * *
 
-![Rubin at the 2000 World's](http://wizards.com/sideboard/images/ptsd04/dr9_1.jpg)Ben Rubin is a true veteran in Magic, despite his young age. He made his first Pro Tour Top 8 back during the 1997-1998 season, losing in the finals to Dave Price. Since then, he's been to the Top 8 stage three other times. Aside from that, he also won two individual Masters events, which added quite a bit to his lifetime winnings. He came to this pod in contention for Top 8, but would likely need a 3-0 record to pull it off.
+![Rubin at the 2000 World's](http://wizards.com/sideboard/images/ptsd04/dr9_1.jpg)
+
+Ben Rubin is a true veteran in Magic, despite his young age. He made his first Pro Tour Top 8 back during the 1997-1998 season, losing in the finals to Dave Price. Since then, he's been to the Top 8 stage three other times. Aside from that, he also won two individual Masters events, which added quite a bit to his lifetime winnings. He came to this pod in contention for Top 8, but would likely need a 3-0 record to pull it off.
 
 Rubin's first pack had Broodstar and noting to rival it, making the decision very easy. Enforcer came second, making affinity the focus right from the start. Neurok Spy was drafted third, and Rubin went into a second color by taking Pewter Golem fourth. Ancient Den came fifth, and Rubin took AEther Spellbomb sixth over Nim Shrieker. As the pack wound down, Rubin passed Nim Lashers in favor of Steel Wall and an off-color Spellbomb. The only playable cards in the second pack were Arrest, Barter in Blood, Lumengrid Augur and Wizard Replica, which was Rubin's first pick. A second Enforcer followed, and another Pewter Golem came third. Rubin was happy to take Terror fourth, although the pack also contained a Talisman, and you could tell that he wanted to get some sort of acceleration. Once again, he took AEther Spellbomb over Nim Shrieker, and picked up two Necrogen Spellbombs to help with his affinity strategy.
 

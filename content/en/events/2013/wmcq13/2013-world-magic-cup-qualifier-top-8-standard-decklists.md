@@ -45,7 +45,9 @@ archive_source:
   sha256: f9af2b8700a4deb08fc623485cd0bd5b9ffecc26fb9250cc1ce083fed88c27e6
 render_recovery: []
 ---
-![](https://i.ormos.uk/71/5d/715d6aeaf2100f25708e57122234f2cb76b132f901283f65ba2902725904e050.jpg)Get your Standard Constructed skills warmed up, because invitations to the World **Magic** Cup are up for grabs! 
+![](https://i.ormos.uk/71/5d/715d6aeaf2100f25708e57122234f2cb76b132f901283f65ba2902725904e050.jpg)
+
+Get your Standard Constructed skills warmed up, because invitations to the World **Magic** Cup are up for grabs! 
 
 You can test each decklist thanks to our [Sample Hand Generator](https://web.archive.org/web/20130520064513/http://wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/294). Just click on the card fan in the upper right of each decklist and you can see what your opening hand could be, along with mulligans and the first three cards you'd draw. 
 

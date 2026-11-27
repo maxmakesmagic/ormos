@@ -478,7 +478,9 @@ The problem was, this was the only deck Dmitri had. He was a casual guy, and thi
 
 Dmitri had never *needed* more than one deck. 
 
-![](https://i.ormos.uk/2b/38/2b3838cb3756fce2c9630125339ef2dfcca346c1cbb5129bc79b59b12477582e.jpg)It was changing the way we played – and worse, Dmitri was getting bored with it. There were no surprises left to wring from a deck you'd played so often. There were never any cheers when Dmitri won, because he didn't use the crazy new strategies that everyone else was experimenting with, and we began to ignore Dmitri's early plays because we all knew his deck didn't get running until around turn four anyway. 
+![](https://i.ormos.uk/2b/38/2b3838cb3756fce2c9630125339ef2dfcca346c1cbb5129bc79b59b12477582e.jpg)
+
+It was changing the way we played – and worse, Dmitri was getting bored with it. There were no surprises left to wring from a deck you'd played so often. There were never any cheers when Dmitri won, because he didn't use the crazy new strategies that everyone else was experimenting with, and we began to ignore Dmitri's early plays because we all knew his deck didn't get running until around turn four anyway. 
 
 “I don't have the *time* to build a new deck,” he protested. “I want to, but…”
 
@@ -500,7 +502,9 @@ Fortunately, we're a giving bunch. “I'll give you a box full of commons,” Ia
 
 “All right,” he said warily, but I could tell this was new to him. 
 
-![](https://i.ormos.uk/16/1a/161a457a54bee6f525e79ee5f1eeb5299e0470b579049b67cd820fc56c8ebf28.jpg)“The second thing,” I continued, “Is that building a new multiplayer deck involves a *theme*. It doesn't have to be a huge theme – for example, I've just bought three copies of Kaervek the Merciless that I want to build a deck around. There are guys who can look at a card and think of seventy other cards that work in conjunction with it, building a deck in their head before they even touch their collection… But I'm not one of them. Instead, I have a theme – in this case, ‘I want to kill people with Kaervek the Merciless' – and so I root through my ‘playables' box here, where I've stored all the cards that I think are good enough to go into *some* deck, somewhere. As I go through it, I pull out the cards that seem like they'd work with Kaervek.”
+![](https://i.ormos.uk/16/1a/161a457a54bee6f525e79ee5f1eeb5299e0470b579049b67cd820fc56c8ebf28.jpg)
+
+“The second thing,” I continued, “Is that building a new multiplayer deck involves a *theme*. It doesn't have to be a huge theme – for example, I've just bought three copies of Kaervek the Merciless that I want to build a deck around. There are guys who can look at a card and think of seventy other cards that work in conjunction with it, building a deck in their head before they even touch their collection… But I'm not one of them. Instead, I have a theme – in this case, ‘I want to kill people with Kaervek the Merciless' – and so I root through my ‘playables' box here, where I've stored all the cards that I think are good enough to go into *some* deck, somewhere. As I go through it, I pull out the cards that seem like they'd work with Kaervek.”
 
 “But how do you know what works?”
 
@@ -630,7 +634,9 @@ It was Dmitri's turn. Ian and me were both below 10 life, and D had enough men t
 
 He stroked his beard. 
 
-![Betrayal](https://i.ormos.uk/c4/8f/c48f4e5ca6914ccbf59717c72900304c7c47166f947f4af326c0447d2e2f10c8.jpg)“So,” he said thoughtfully to Ian. “If I don't kill you this turn, will you promise to let me live until my next turn?” 
+![Betrayal](https://i.ormos.uk/c4/8f/c48f4e5ca6914ccbf59717c72900304c7c47166f947f4af326c0447d2e2f10c8.jpg)
+
+“So,” he said thoughtfully to Ian. “If I don't kill you this turn, will you promise to let me live until my next turn?” 
 
 Ian thought about it. “I think that could be arranged.”
 

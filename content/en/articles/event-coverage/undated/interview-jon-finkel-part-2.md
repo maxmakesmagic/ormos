@@ -64,7 +64,9 @@ render_recovery: []
 **Sideboard:** Really? (laughs)  
 **Jon:** Well I don't think that's the reason he stopped, I mean there's a lot of reasons to stop smoking. I try my best to be nice to people, and to be friendly and to try and help out. I'll talk to kids or play against them and stuff like that. I don't think my personal life is in the spotlight enough that I have to act a certain way to set an example, because most of the time I'm just a normal person and no one really cares what I'm doing.
 
-![](http://www.wizards.com/sideboard/images/MI00/761.jpg)**Sideboard:** When you go to a Pro Tour, do you feel that you have to act differently than you normally would because you're around **Magic** players and a celebrity?
+![](http://www.wizards.com/sideboard/images/MI00/761.jpg)
+
+**Sideboard:** When you go to a Pro Tour, do you feel that you have to act differently than you normally would because you're around **Magic** players and a celebrity?
 
 **Jon:** I find myself acting a little different, and I feel like there's attention on me more often, which can be annoying at times. I don't make a conscious effort to change how I act. It's a difficult question to answer, because it's hard to know exactly how you act the way you act. But I don't do that many things that I guess could be considered objectionable in a **Magic** tournament context anyway. I tend to be relatively polite, and no one has ever accused me of cheating or anything like that. If you do those two things, then that's all you really need to do to have a good reputation as a professional **Magic** player.
 

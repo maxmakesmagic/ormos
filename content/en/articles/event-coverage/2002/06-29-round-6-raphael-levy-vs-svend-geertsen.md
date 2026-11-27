@@ -44,7 +44,9 @@ archive_source:
   sha256: ffe9cd723b9fd9fb0dc24f392d99c97d1f406e38ca46233cf0bce9d23ebae311
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a922.jpg)It's a bit strange calling someone in their twenties an "old timer" but Lévy and Geertsen have been around, with a great deal of success, for a very long time. Some might remember Svend best as the young kid who took Stompy to the 1997 Worlds Top 8, bringing the Green Machine to the biggest spotlight. He came back to Top 8 very recently with his excellent performance at Pro Tour-Nice this year.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a922.jpg)
+
+It's a bit strange calling someone in their twenties an "old timer" but Lévy and Geertsen have been around, with a great deal of success, for a very long time. Some might remember Svend best as the young kid who took Stompy to the 1997 Worlds Top 8, bringing the Green Machine to the biggest spotlight. He came back to Top 8 very recently with his excellent performance at Pro Tour-Nice this year.
 
 Raphaël Lévy won a Grand Prix before many of the players here today even started playing the game, way back in 1998 in Lyon. Since then he has kept a very regular Pro Tour career and his one of the first names people always mentioned when you talk about French **Magic**. 
 
@@ -80,7 +82,9 @@ The Aven, also known as Pyschatog-Killer, took another swing before Svend Geerts
 
 At seven he needed some help very fast, as the Aven could finish him in three turns. On the next swing Afflict made the Aven a little less tough and the Club ate up the Trainee.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a921.jpg)Still locked at three Swamps, and discarding Lévy looked ready to concede a few turns later after the arrival of Chainer, Dementia Mater. But he found a Mountain at the top of his deck and forced Geertsen to ponder his final swing very carefully, expecting some sort of trick.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a921.jpg)
+
+Still locked at three Swamps, and discarding Lévy looked ready to concede a few turns later after the arrival of Chainer, Dementia Mater. But he found a Mountain at the top of his deck and forced Geertsen to ponder his final swing very carefully, expecting some sort of trick.
 
 To make sure things happen like he expected Geertsen used Repel to bounce the Werewolf and the Mountain. The disgruntled Lévy scooped.
 

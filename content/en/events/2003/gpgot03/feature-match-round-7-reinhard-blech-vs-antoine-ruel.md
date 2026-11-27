@@ -76,7 +76,9 @@ render_recovery:
   - Blinding Beam
   occurrences: 29
 ---
-![](https://i.ormos.uk/d6/7e/d67e9a926b6d93edb186d7b655efa165c3bf0a5f9c3b1b80b4e14a796d45bdfd.jpg)Reinhard Blech from Germany is the winner of Grand Prix Genoa earlier this year. Antoine Ruel is one of the top players in France. Both tried to outdo each other with tales of how bad their decks were.
+![](https://i.ormos.uk/d6/7e/d67e9a926b6d93edb186d7b655efa165c3bf0a5f9c3b1b80b4e14a796d45bdfd.jpg)
+
+Reinhard Blech from Germany is the winner of Grand Prix Genoa earlier this year. Antoine Ruel is one of the top players in France. Both tried to outdo each other with tales of how bad their decks were.
 
 Blech started and it all went wrong when he passed turn 3 without laying a land.
 
@@ -90,7 +92,9 @@ Ruel 1-0 Blech
 
 In game 2 even the little things were going wrong for the German. His Talisman appeared a turn late on three, but at least turn 4 was better as he summoned Myr Enforcer. Meanwhile Ruel had a couple of grounded Skyhunter Cubs. A Viridian Longbow sent one to the skies and it took out the Enforcer when that tried to march through the red zone.
 
-![](https://i.ormos.uk/c2/be/c2bef694ca5c9693f9ff8ffeb99b2c9c94b31e55c282020f96034b503d040763.jpg)Blech continued with the monsters, Skyhunter Patrol and then a threatening Rustmouth Ogre. A Scimitar came out for Ruel and now his other Cub was big enough to handle the Ogre.
+![](https://i.ormos.uk/c2/be/c2bef694ca5c9693f9ff8ffeb99b2c9c94b31e55c282020f96034b503d040763.jpg)
+
+Blech continued with the monsters, Skyhunter Patrol and then a threatening Rustmouth Ogre. A Scimitar came out for Ruel and now his other Cub was big enough to handle the Ogre.
 
 “Now it becomes a mind game again,” Blech said, looking at his Atog and many artifacts and Ruel’s one untapped plains.
 
@@ -102,7 +106,9 @@ Game three had a hairy start for Ruel as he had to sac a Spellbomb to find land 
 
 Meanwhile Blech had a Skyhunter Patrol, Tel-Jilad Archers and Cathodion. The game then started to get a little interesting as a monstrous Megatog appeared on the Ruel’s side. Blech had to make do with its little brother and a Granite Shard. He was looking the worse off.
 
-![](https://i.ormos.uk/a0/bb/a0bb12d3c4b06ed103778b5a23be2044872055b7a22dd58106448ad183995dd4.jpg)On 9 life the situation was desperate for the German as he looked at a Megatog that was about to swell to ludicrous proportions in the next attack. Blech thought for a long time before deciding that he wouldn’t survive the next attack. His only hope lay in finding the one Blinding Beam in his deck to tap Ruel’s Spikeshot Goblin and alpha strike for the win. He made a Serum Tank and then sac’ed the Cathodion to get the mana to activate it.
+![](https://i.ormos.uk/a0/bb/a0bb12d3c4b06ed103778b5a23be2044872055b7a22dd58106448ad183995dd4.jpg)
+
+On 9 life the situation was desperate for the German as he looked at a Megatog that was about to swell to ludicrous proportions in the next attack. Blech thought for a long time before deciding that he wouldn’t survive the next attack. His only hope lay in finding the one Blinding Beam in his deck to tap Ruel’s Spikeshot Goblin and alpha strike for the win. He made a Serum Tank and then sac’ed the Cathodion to get the mana to activate it.
 
 It was a long shot…
 

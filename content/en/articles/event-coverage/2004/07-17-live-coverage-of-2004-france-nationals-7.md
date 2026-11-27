@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/frnat04/fm2_1.jpg)Thomas made top eight in the final European Championships in London last year. Bastien came very close to top eight in the Nationals of 2003, only losing in the last round to fall short. Thomas is playing Green-White with [Astral Slide](https://web.archive.org/web/20040717000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide)s and [Eternal Witness](https://web.archive.org/web/20040717000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Witness), and Bastien has a very strange red-green deck with a nice collection of morphs.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/frnat04/fm2_1.jpg)
+
+Thomas made top eight in the final European Championships in London last year. Bastien came very close to top eight in the Nationals of 2003, only losing in the last round to fall short. Thomas is playing Green-White with [Astral Slide](https://web.archive.org/web/20040717000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide)s and [Eternal Witness](https://web.archive.org/web/20040717000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eternal+Witness), and Bastien has a very strange red-green deck with a nice collection of morphs.
 
 ### Game 1
 

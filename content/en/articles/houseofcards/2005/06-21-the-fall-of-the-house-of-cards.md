@@ -714,7 +714,9 @@ The deck strives to win either via decking or by attacking with man-lands across
 
 ### The Ultimate Combo
 
-![](https://i.ormos.uk/16/f8/16f842abcd8a7fd10a36cf351236dee69f26a05baa0e890b2b8d4c70ae5b37e8.jpg)I've been saving up something special for my last column.
+![](https://i.ormos.uk/16/f8/16f842abcd8a7fd10a36cf351236dee69f26a05baa0e890b2b8d4c70ae5b37e8.jpg)
+
+I've been saving up something special for my last column.
 
 Have you ever imagined that somewhere out there is the perfect combo? You know it's waiting to be found, but you can't quite ever grasp it? It exists. And I know what it is. Showing it to Aaron Forsythe over two years ago is what got me this column in the first place. I've been waiting for the right moment to show it to the world, and there's no better time for me to reveal this unbelievable supersecret foolproof unstoppable 100% game-winning combo than now. This is the last opportunity I'm going to get, so it's very tempting to finally spill the beans. Believe me, it's been agony not telling you all this time, but I didn't want to break **Magic** as we know it. I don't even use it myself; it's so good that it spoils all the fun of playing. I can't believe it slipped through development, and I can't believe errata hasn't been issued to fix it! The only reason the pieces haven't been banned is because I'm the only one who's figured it out. But there's something not quite right about spelling it out. It's like explaining an illusion or giving away the ending to a detective story. And where's the fun in that? Wow. I've surprised even myself here, because I've been looking forward to showing this to you for so long (I even typed it out… just before deleting it), but I'm not going to tell you the ultimate combo.
 

@@ -102,7 +102,9 @@ render_recovery:
   - Wasteland
   occurrences: 103
 ---
-![](https://i.ormos.uk/6b/e2/6be253546a8c61322753d077ec6e150e1b0a77013c9b0f7ac75cd7444b57b2ed.jpg)Ghost of Deadguy Tony "The Shark" Tsai and recent Good Man of the Week Brian Kibler will both be casting black and green spells today, but as they sat down to their feature match, Tsai was not confident. He is with The Rock, but Kibler's deck is a strange black-green Oath/Rock hybrid. Both know that Kibler has a huge advantage in this match.
+![](https://i.ormos.uk/6b/e2/6be253546a8c61322753d077ec6e150e1b0a77013c9b0f7ac75cd7444b57b2ed.jpg)
+
+Ghost of Deadguy Tony "The Shark" Tsai and recent Good Man of the Week Brian Kibler will both be casting black and green spells today, but as they sat down to their feature match, Tsai was not confident. He is with The Rock, but Kibler's deck is a strange black-green Oath/Rock hybrid. Both know that Kibler has a huge advantage in this match.
 
 ### Game 1
 
@@ -130,7 +132,9 @@ Kibler 1 - Tsai 0
 
 ### Game 2
 
-![](https://i.ormos.uk/b4/79/b479cc4dc50a8380b3a6127f24c89284b903a9168c1e4953541a3ae290e0a42d.jpg)Kibler got things going quickly in the second game. Tsai started with Wall of Blossoms, to which Kibler responded with Vampiric Tutor for Oath. Tsai Duressed, catching Pernicious Deed and leaving Kibler with just a hand of land. Unfortunately, two of those were Dust Bowls, and Tsai was on three land, two of them non-basic. It didn't help that Kibler Oathed up Visara and then topdecked Scroll Rack. The road from there to defeat was short. Tsai Therapied away his Wall of Blossoms, only to Oath into another one. Visara came overtop for the kill.
+![](https://i.ormos.uk/b4/79/b479cc4dc50a8380b3a6127f24c89284b903a9168c1e4953541a3ae290e0a42d.jpg)
+
+Kibler got things going quickly in the second game. Tsai started with Wall of Blossoms, to which Kibler responded with Vampiric Tutor for Oath. Tsai Duressed, catching Pernicious Deed and leaving Kibler with just a hand of land. Unfortunately, two of those were Dust Bowls, and Tsai was on three land, two of them non-basic. It didn't help that Kibler Oathed up Visara and then topdecked Scroll Rack. The road from there to defeat was short. Tsai Therapied away his Wall of Blossoms, only to Oath into another one. Visara came overtop for the kill.
 
 **Final Result:** Brian Kibler defeats Tony Tsai 2-0
 

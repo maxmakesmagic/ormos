@@ -81,7 +81,9 @@ render_recovery:
   - Slice and Dice
   occurrences: 43
 ---
-![](http://www.wizards.com/sideboard/images/natcan03/a926.jpg)Steve Wolfman and Ben Page were in pretty good shape to make Top 8. Wolfman was in slightly better shape, as his record was 7-1-1 while Ben was at 7-2 but both players were still in contention after this round regardless of the outcome of this match. Wolfman wanted to win his one so he could draw his way to the day 3 alongside his 2020 teammate Elijah Pollack. Elijah was already able to draw and was along the rail cheering on the Wolf. Their third teammate, David Rood was also on the rail but he had already been eliminated from contention. When asked to explain his performance Rood offered, "They wanted me to play Constructed."
+![](http://www.wizards.com/sideboard/images/natcan03/a926.jpg)
+
+Steve Wolfman and Ben Page were in pretty good shape to make Top 8. Wolfman was in slightly better shape, as his record was 7-1-1 while Ben was at 7-2 but both players were still in contention after this round regardless of the outcome of this match. Wolfman wanted to win his one so he could draw his way to the day 3 alongside his 2020 teammate Elijah Pollack. Elijah was already able to draw and was along the rail cheering on the Wolf. Their third teammate, David Rood was also on the rail but he had already been eliminated from contention. When asked to explain his performance Rood offered, "They wanted me to play Constructed."
 
 Wolfman was playing a Wake deck with a different kill mechanism than your run of the mill Wake deck—no elephant tokens here folks. Ben is playing three-color slide, which is Wolfman's best possible match-up.
 
@@ -99,7 +101,9 @@ Wolfman obliged.
 
 He used the Cunning Wish to find a Funeral Pyre and another Cunning Wish. He then used the Funeral Pyre to remove the Early Harvest from the game and retrieved it and a Cunning Wish. He then got another Cunning Wish and a SECOND Funeral Pyre. He used the second one to remove the first Funeral Pyre and the Early Harvest. Each time he went through this cycle he gained mana. He could make infinite 1/1 spirit tokens and generate infinite mana. Eventually he would be able to recur an Opportunity similarly and deck his opponent.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a931.jpg)Ben nodded admiringly and they prepared for the next game. "I drew too many lands that game—sure a bunch cycled but..."
+![](http://www.wizards.com/sideboard/images/natcan03/a931.jpg)
+
+Ben nodded admiringly and they prepared for the next game. "I drew too many lands that game—sure a bunch cycled but..."
 
 Wolfman finished the thought, "You don't want to be hard casting Tuskers."
 
@@ -113,7 +117,9 @@ Ben opened up with a turn two Lightning Rift before Wolfman could get counter ma
 
 Land number four was still eluding Ben but Wolfman was developing nicely and played a Compulsion. Ben fourth land came in the form of Wooded Foothills and he used his own Ray of Revelation at the end of Wolfman's next turn to kill the Ray, "Here's a free card for you!" Wolfman sacrificed the enchantment and took his card.
 
-![](http://www.wizards.com/sideboard/images/natcan03/a932.jpg)When Ben attempted a morph the Wolf flashed back his Ray in response to deal with the Slide. He untapped and once again "edicted" the face down Angel with a Wrath. Ben's Lightning Rift was countered although he did get a Boil to resolve when the Wolf activated a Krosan Verge, "I was expecting that..." Wolfman was still in fine shape and he played a Mirari. A few turns later he was able to start going off.
+![](http://www.wizards.com/sideboard/images/natcan03/a932.jpg)
+
+When Ben attempted a morph the Wolf flashed back his Ray in response to deal with the Slide. He untapped and once again "edicted" the face down Angel with a Wrath. Ben's Lightning Rift was countered although he did get a Boil to resolve when the Wolf activated a Krosan Verge, "I was expecting that..." Wolfman was still in fine shape and he played a Mirari. A few turns later he was able to start going off.
 
 Ben – "Do you have a way to deal with Slice and Dice?"
 

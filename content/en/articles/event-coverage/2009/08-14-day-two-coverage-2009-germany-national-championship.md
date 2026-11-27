@@ -1092,7 +1092,9 @@ Bernd Brendemühl 0 – 2 Lino Burgold
 
 *by Tobias Henke*
 
-![](https://i.ormos.uk/9e/ea/9eea694217496b37b895b256be3619e5d7632fd04962014e0645e846881155ed.jpg)This late in the season the standard metagame is well developed, decks have been built, tried, tuned, and tested, but still there are some people who simply refuse to tread along the beaten path. One of them is Michael Diezel who, in 2006, received some attention when he designed and succesfully debuted the “Nantuko Husk/Promise of Bunrei” deck at Pro Tour Honolulu (the first one).
+![](https://i.ormos.uk/9e/ea/9eea694217496b37b895b256be3619e5d7632fd04962014e0645e846881155ed.jpg)
+
+This late in the season the standard metagame is well developed, decks have been built, tried, tuned, and tested, but still there are some people who simply refuse to tread along the beaten path. One of them is Michael Diezel who, in 2006, received some attention when he designed and succesfully debuted the “Nantuko Husk/Promise of Bunrei” deck at Pro Tour Honolulu (the first one).
 
 This time, he’s again playing [Swamp](https://web.archive.org/web/20090814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s and [Plains](https://web.archive.org/web/20090814000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains), but is eschewing the token synergies that had been running rampant earlier this year. Instead he built a wacky black-white discard-based control monstrosity:
 
@@ -1234,7 +1236,9 @@ For a third installment of “Beyond Belief: Fact”, let’s return to the infa
 
 *by Hanno Terbuyken*
 
-![](https://i.ormos.uk/47/f9/47f93afc284f6ae94eb5b8ee914e288b51fac3de852cfacfc726a263030be24f.jpg)For the first time in history, or at least as far as all concerned can remember, a round at German Nationals finished before time ran out. It took the judges by total surprise when head judge Michael Wiese announced: “Round 13 is over” with five minutes left on the clock. The black shirts scrambled to heed the announcement and gazed amazed at the clock still running.
+![](https://i.ormos.uk/47/f9/47f93afc284f6ae94eb5b8ee914e288b51fac3de852cfacfc726a263030be24f.jpg)
+
+For the first time in history, or at least as far as all concerned can remember, a round at German Nationals finished before time ran out. It took the judges by total surprise when head judge Michael Wiese announced: “Round 13 is over” with five minutes left on the clock. The black shirts scrambled to heed the announcement and gazed amazed at the clock still running.
 
 After round 13, players down to 12th place in the standing had a chance to grab a slot in Sunday’s Top 8 competition. Four of them secured their spot with an intentional draw: Tobias Gräfensteiner, Andreas Schraut, Thomas Steeger and Andre Luff, who had qualified for his first Nationals just the night before it started via one of the grinders. Besides those four, the top seed – Florian Pils – chose to play and win the last round to cement his place at the top of Swiss standings and to ensure a Top 8 appearance for Sebastian Thaler. Had Pils lost his match against Jan-Philipp Budde (no relation), Thaler’s 31 points would not have been enough.
 

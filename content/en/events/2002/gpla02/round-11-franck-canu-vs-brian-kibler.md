@@ -133,7 +133,9 @@ Brian Kibler showed up to play with his trademark headphones blaring loud music.
 
 ### Game One
 
-![](https://www.wizards.com/sideboard/images/gpla02/933.jpg)Kibler won the die roll and began the game with double Shepherd of Rot, against Franck’s Wellwisher and morph. “These guys are really good against Wellwisher dot deck”, mused Kibler sarcastically, as he killed the morph creature with Profane Prayers. Treespring Lorian died a death by clerics, allowing Brian to swing in safely for two.
+![](https://www.wizards.com/sideboard/images/gpla02/933.jpg)
+
+Kibler won the die roll and began the game with double Shepherd of Rot, against Franck’s Wellwisher and morph. “These guys are really good against Wellwisher dot deck”, mused Kibler sarcastically, as he killed the morph creature with Profane Prayers. Treespring Lorian died a death by clerics, allowing Brian to swing in safely for two.
 
 The game suddenly turned into a battle between good and evil. Kibler’s evil empire of Shepherd and Shepherd faced down double Wellwisher, gaining Canu multiple life a turn. It looked to be a long game, with Canu dropping Wretched Anurid to go on the offense.
 
@@ -159,7 +161,9 @@ Franck Canu 1 - Brian Kibler 0
 
 ### Game Two
 
-![](https://www.wizards.com/sideboard/images/gpla02/932.jpg)Canu stalled at three Swamps, only able to play a pair of morph creatures. Meanwhile, Kibler came out strong, with a third turn morpher, fourth turn Doubtless One, and fifth turn Daunting Defender.
+![](https://www.wizards.com/sideboard/images/gpla02/932.jpg)
+
+Canu stalled at three Swamps, only able to play a pair of morph creatures. Meanwhile, Kibler came out strong, with a third turn morpher, fourth turn Doubtless One, and fifth turn Daunting Defender.
 
 Before the game turned into a total one sided massacre, Franck drew a Forest and played his first Wellwisher of the game. Kibler, keeping with the offense, played Aven Soulgazer to pump his avatar to a 3/3. Next turn, Brian swung with his team, which drew a concession.
 
@@ -169,7 +173,9 @@ Each player revealed their morph creatures. Kibler showed Haunted Cadaver. Canu 
 
 Game three began with only thirteen minutes left in the round, thanks to the extraordinarily long game one. Canu came out quickly with first turn cycle-a-land, second turn Wellwisher, third turn morph creature. Kibler, not to be outdone, stalled the entire game immediately with second turn Battlefield Medic, third turn Daru Healer, fourth turn Doubtless One.
 
-![](https://www.wizards.com/sideboard/images/gpla02/931.jpg)Franck drew his fifth land…and played a Screeching Buzzard. Meanwhile, Kibler stalled a turn before drawing his fifth land. This prompted him to cast a morph creature of his own, which was revealed to be Daru Healer at the end of Canu’s turn. Adding an Aven Soulgazer to the flock, Kibler started smashing face with his now 5/5 avatar, with seven points of damage prevention backing the guy (double Healer, single Medic). Canu could only stare in dejection at his freshly drawn Anurid Murkdiver, which had no chance of racing against a nigh invulnerable, Spirit Linked cleric. Even his second Wellwisher didn’t do much to staunch the flow of blood as Brian added to his threats by playing Daunting Defender. Swat took out one of the two 1/2 guys, but Canu began talking to himself in French, a telltale sign of his worry at the game state.
+![](https://www.wizards.com/sideboard/images/gpla02/931.jpg)
+
+Franck drew his fifth land…and played a Screeching Buzzard. Meanwhile, Kibler stalled a turn before drawing his fifth land. This prompted him to cast a morph creature of his own, which was revealed to be Daru Healer at the end of Canu’s turn. Adding an Aven Soulgazer to the flock, Kibler started smashing face with his now 5/5 avatar, with seven points of damage prevention backing the guy (double Healer, single Medic). Canu could only stare in dejection at his freshly drawn Anurid Murkdiver, which had no chance of racing against a nigh invulnerable, Spirit Linked cleric. Even his second Wellwisher didn’t do much to staunch the flow of blood as Brian added to his threats by playing Daunting Defender. Swat took out one of the two 1/2 guys, but Canu began talking to himself in French, a telltale sign of his worry at the game state.
 
 Canu morphed his Treespring Lorian, as Brian played clerics numbers six and seven to the board in the form of a second Battlefield Medic and his first Shepherd of Rot. Canu played Symbiotic Beast (which provided many chump blockers for the Doubtless One). Kibler reduced Canu down to four life-when Canu played a third elf, allowing him to go up six life a turn via his Wellwishers. 
 

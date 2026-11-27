@@ -299,7 +299,9 @@ Here's a verbatim definition on “Mountain Man” from my research:
 
 > A Japanese demon who lives in the forests. Woodcutters describe him as very strong and resembling a hairy ape. To pacify him they offer him rice.
 
-![](https://i.ormos.uk/af/7b/af7beea9366eefa4b3d86074b9798281b08a9904c19c84ffe264a29f348766e1.jpg)Did you ever notice that pacifying the nearby village monster generally requires whatever the villagers have handy? And a good thing, too. Heaven help the village in Japan that ends up with a Mountain Man just in from Antarctica who'll only accept, say, penguin meat. Frankly, if I was a Mountain Man and I knew the village was interested in pacifying me, I'd up the ante from rice. Why not some fine, sushi-grade hamachi? Or lobster? Think bolder, is all I'm saying. Let the village work out how to get it.
+![](https://i.ormos.uk/af/7b/af7beea9366eefa4b3d86074b9798281b08a9904c19c84ffe264a29f348766e1.jpg)
+
+Did you ever notice that pacifying the nearby village monster generally requires whatever the villagers have handy? And a good thing, too. Heaven help the village in Japan that ends up with a Mountain Man just in from Antarctica who'll only accept, say, penguin meat. Frankly, if I was a Mountain Man and I knew the village was interested in pacifying me, I'd up the ante from rice. Why not some fine, sushi-grade hamachi? Or lobster? Think bolder, is all I'm saying. Let the village work out how to get it.
 
 The “Mountain Woman” also lives in the forest:
 
@@ -341,7 +343,9 @@ Getting you to play out your entire hand is an old veteran's trick. I've done it
 
 ### Multiplayer Lesson #3: The Dangerous Centipede
 
-![](https://i.ormos.uk/bb/e0/bbe088ce15acce8a6ab4480b3152586a5d1d559391e830b1342477ffb8c2da54.jpg)Japanese legend describes the Centipede as a terrifying, man-eating monster the size of a mountain near Lake Biwa. It even had fireballs for eyes! The dragon king near Lake Biwa asked the famous hero Hidesato to kill this Centipede for him. The hero slew it by shooting an arrow, dipped in saliva, into the brain of the monster. The dragon king rewarded Hidesato by giving him a bag of rice that could not be emptied; it fed Hidesato's family for centuries.
+![](https://i.ormos.uk/bb/e0/bbe088ce15acce8a6ab4480b3152586a5d1d559391e830b1342477ffb8c2da54.jpg)
+
+Japanese legend describes the Centipede as a terrifying, man-eating monster the size of a mountain near Lake Biwa. It even had fireballs for eyes! The dragon king near Lake Biwa asked the famous hero Hidesato to kill this Centipede for him. The hero slew it by shooting an arrow, dipped in saliva, into the brain of the monster. The dragon king rewarded Hidesato by giving him a bag of rice that could not be emptied; it fed Hidesato's family for centuries.
 
 Here's a situation that's arisen in our group many times (with much poetic license taken involving names and such, since that often changes from game to game). How many times has something like this played out in your group?
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/nec02/004.jpg)Detora summoned a Merfolk Looter on the second turn, only to have it immediately Edicted away. She countered Pernicious Deed, but had no answer to a turn 5 Spiritmonger, other then to cast Fact or Fiction. Dupuis offered her the choice of Counterspell and three lands, or Opposition. Although the other pile was certainly attractive, Detora needed the answer to a giant monster already in play, and settled for getting only one card out of her FoF. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/nec02/004.jpg)
+
+Detora summoned a Merfolk Looter on the second turn, only to have it immediately Edicted away. She countered Pernicious Deed, but had no answer to a turn 5 Spiritmonger, other then to cast Fact or Fiction. Dupuis offered her the choice of Counterspell and three lands, or Opposition. Although the other pile was certainly attractive, Detora needed the answer to a giant monster already in play, and settled for getting only one card out of her FoF. 
 
 Spiritmonger got tapped down via Ice once and got to hit once, until Detora finally got a creature – a Call of the Herd token – into play. Dupuis summoned Braids, which she could not counter. Although not usually a good card against a deck with Squirrel's Nest, Braids was certainly very powerful at the moment, as Detora needed all her mana to find answers to Spiritmonger and the subsequent threats Dupuis would be casting. She used the Elephant token to tap down the Spiritmonger and countered another Pernicious Deed. 
 

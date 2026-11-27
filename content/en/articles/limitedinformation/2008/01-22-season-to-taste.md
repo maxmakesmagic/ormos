@@ -442,7 +442,9 @@ The benefit of using video, theoretically, is more information that gets passed 
 
 And yet those technical issues, and the responses that generated, were also not would you would call isolated. I was okay moving forward with the presentation, low-quality audio and visual components though they were, because one has to start somewhere. Having breached the medium, I'd be dismayed if we did it exactly the same the second time. There's room to grow and I don't think another video would be released here until we took care of that. I'm not worried about getting some of those issues resolved, but it's not going to happen overnight.
 
-![Thorntooth_Witch](https://i.ormos.uk/4f/5d/4f5dfd0f03be2a9ea8d5c1a4bc5cba144e960ec03544a783ece2649951c44f82.jpg)There were little things too. Not every visitor to the web site is a native English speaker; audio content is simply more difficult to pace than text. In addition, some folk don't have the technical capabilities to download and view the material. If these groups deserve to be punished for their situations, and I really don't see why they should be, it certainly should not happen often.
+![Thorntooth_Witch](https://i.ormos.uk/4f/5d/4f5dfd0f03be2a9ea8d5c1a4bc5cba144e960ec03544a783ece2649951c44f82.jpg)
+
+There were little things too. Not every visitor to the web site is a native English speaker; audio content is simply more difficult to pace than text. In addition, some folk don't have the technical capabilities to download and view the material. If these groups deserve to be punished for their situations, and I really don't see why they should be, it certainly should not happen often.
 
 So will video ever return to these hallowed internet walls? Almost certainly, but not right away and not too often. There are technical kinks to work out, and exclusionary content is no fun for the excluded. But the sheer support the format does have, as well as its potential for new ways communicate, are too impressive to ignore. I'm looking forward to trying again in the future, but that's then. This week's topic is a little more down to Earth. Today the topic is cooking.
 

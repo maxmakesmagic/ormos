@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Gary Wise* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/994.jpg)Games transcend language. That's the lesson this weekend's Grand Prix Buenos Aires teaches us. Being held in the majestic *Centro Cultural Borges* in downtown Buenos Aires; speakers of Spanish, Portuguese and English have gathered to compete for the title of Grand Prix Champion, 8 qualifying spots for PT Tokyo and a cash prize of US$25,000. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/994.jpg)
+
+Games transcend language. That's the lesson this weekend's Grand Prix Buenos Aires teaches us. Being held in the majestic *Centro Cultural Borges* in downtown Buenos Aires; speakers of Spanish, Portuguese and English have gathered to compete for the title of Grand Prix Champion, 8 qualifying spots for PT Tokyo and a cash prize of US$25,000. 
 
 With the field preparing for one of the most diverse Extended environments in years, it's anybody's guess as to which the best deck is. While Trix, Tradewind Survival and Replenish have all had recent big tourney success, decks like Hatred, Stasis, Sligh, Turbo Land (with Obliterate!) and Counter Sliver all seem to be viable choices for the biggest tournament in Argentina's history. 
 

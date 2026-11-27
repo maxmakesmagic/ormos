@@ -1221,7 +1221,9 @@ Sanhedrin was running a pretty nifty deck revolving around drawing extra cards t
 
 This game starts slowly, and once again I draw too many lands and signets and not enough spells. He starts going after my signets with Putrefy, but I just keep on drawing lands. Once he reaches seven mana, he casts Natural Affinity and attempts to Eradicate my Swamp.
 
-![](https://i.ormos.uk/9a/27/9a27357f4dfc5078512d48924189368ccd4ec9db5ac88d48f30648841677fbc9.jpg)Now, I have a choice to make. I really don't need any of the rest of the Swamps in my deck, so allowing him to kill that Swamp will potentially give me a free half-a-Mana Severance. I still get to keep the other Swamps I have in play already (and there are a lot of them!) On the other hand, if he hits my Swamps and then my Islands, he'll eventually be able to drop more lands than me, and kill me with Natural Affinity – plus I'll lose the ability to win with Battle of Wits. I decide I don't want to go below 200 cards, and I Last Gasp my own Swamp in response to his Eradicate, countering it.
+![](https://i.ormos.uk/9a/27/9a27357f4dfc5078512d48924189368ccd4ec9db5ac88d48f30648841677fbc9.jpg)
+
+Now, I have a choice to make. I really don't need any of the rest of the Swamps in my deck, so allowing him to kill that Swamp will potentially give me a free half-a-Mana Severance. I still get to keep the other Swamps I have in play already (and there are a lot of them!) On the other hand, if he hits my Swamps and then my Islands, he'll eventually be able to drop more lands than me, and kill me with Natural Affinity – plus I'll lose the ability to win with Battle of Wits. I decide I don't want to go below 200 cards, and I Last Gasp my own Swamp in response to his Eradicate, countering it.
 
 A couple of turns down the road, I draw into Clutch of the Undercity, and I transmute it into Diabolic Tutor. I hold onto the Tutor for a turn, since I don't want to tap out and die to an alpha strike from Natural Affinitied lands. When I cast Diabolic Tutor, I go for Quash. My reasoning is that he hasn't shown me a win condition outside of Natural Affinity, and so if I get Natural Affinity out of his deck, I should be able to take as long as I wanted to win.
 
@@ -1262,7 +1264,9 @@ Luckzack tells me that this deck is just a highlander deck cobbled together from
 
 **Game 8: Miltstar (W/G Aggro)**
 
-![](https://i.ormos.uk/8f/12/8f125943f157e07938152319eed8c3bd132a2d043c7b4458d0fc1e2b11a61b95.jpg)He gets the über-curve with turn 1 Savannah Lions, turn 2 Watchwolf, turn 3 Scion of the Wild, and turn 4 Emperor Crocodile. Grim, right? On the play, I get turn 2 Signet, turn 3 Thieving Magpie (he attacks his Lions into it), turn 4 Rend Flesh (on Watchwolf), and turn 5 transmute Dimir Infiltrator into Boomerang, Boomerang Scion (killing his Crocodile and drawing a concession).
+![](https://i.ormos.uk/8f/12/8f125943f157e07938152319eed8c3bd132a2d043c7b4458d0fc1e2b11a61b95.jpg)
+
+He gets the über-curve with turn 1 Savannah Lions, turn 2 Watchwolf, turn 3 Scion of the Wild, and turn 4 Emperor Crocodile. Grim, right? On the play, I get turn 2 Signet, turn 3 Thieving Magpie (he attacks his Lions into it), turn 4 Rend Flesh (on Watchwolf), and turn 5 transmute Dimir Infiltrator into Boomerang, Boomerang Scion (killing his Crocodile and drawing a concession).
 
 *Record: 5-3*
 

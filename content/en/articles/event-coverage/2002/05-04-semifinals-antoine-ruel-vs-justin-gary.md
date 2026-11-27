@@ -52,7 +52,9 @@ archive_source:
   sha256: 72aeed66605242b0eedcb16249c490cbf1d268da5fa951698e192a1a1c43b1c0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a291.jpg)Justin Gary, and the Your Move Games team, have been working on this match-up the whole day. I tried to watch a couple of the games, with a few other big American names chipping in some ideas, but got a very cold stare that seemed to indicate the presence of near strangers, with Sideboard badges, was not welcomed.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a291.jpg)
+
+Justin Gary, and the Your Move Games team, have been working on this match-up the whole day. I tried to watch a couple of the games, with a few other big American names chipping in some ideas, but got a very cold stare that seemed to indicate the presence of near strangers, with Sideboard badges, was not welcomed.
 
 Antoine Ruel, on the other hand, has been fighting all day in the Pro Tour. He is probably a lot more tired than the American but $15,000 matches have a way to get your adrenaline going.
 
@@ -111,7 +113,9 @@ The American Impulsed for extra fuel and had to decide between Spike Weaver and 
 
 In came the Weaver and Ruel drew Call of the Herd. Still he played out the Flashback on the one in his graveyard keeping the card an extra card in his hand.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a294.jpg)Since Gary was down to the one card he had in hand during all the key turns Antoine was happy to play Gaea's Blessing with no protection. He got Impulse out of that one.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/mastersnice02/a294.jpg)
+
+Since Gary was down to the one card he had in hand during all the key turns Antoine was happy to play Gaea's Blessing with no protection. He got Impulse out of that one.
 
 Gary Wastelanded one of the three remaining lands and played Powder Keg. Now Antoine Ruel didn't have enough mana to play Forbid. He tried to Impulse in desperation but came out empty.
 

@@ -1463,7 +1463,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/6f/d8/6fd8e0d0e4f79bda74a5112973df58535df9848c4e982f569bb3cdf4a06301da.jpg)There was no shortage of Team Limited success sitting down for the feature match. The newly remade Your Move Games squad was an amalgam of two of the most successful teams in the format's history. Two-thirds of the original team had a Pro Tour and Grand Prix under their belt--Rob and Darwin. Alex had experienced success in every area of the team format as one of the shadowy forces behind the Illuminati but with Justin Gary, Zvi Mowshowitz, and Dave Humphereys all unavailable for this event the remaining parts formed a new whole.
+![](https://i.ormos.uk/6f/d8/6fd8e0d0e4f79bda74a5112973df58535df9848c4e982f569bb3cdf4a06301da.jpg)
+
+There was no shortage of Team Limited success sitting down for the feature match. The newly remade Your Move Games squad was an amalgam of two of the most successful teams in the format's history. Two-thirds of the original team had a Pro Tour and Grand Prix under their belt--Rob and Darwin. Alex had experienced success in every area of the team format as one of the shadowy forces behind the Illuminati but with Justin Gary, Zvi Mowshowitz, and Dave Humphereys all unavailable for this event the remaining parts formed a new whole.
 
 The Brockafellars were given the spotlight during the deck building portion and were the reigning Pro Tour champions of the Team Limited format. They chose to put all of their red cards into a mono-red monstrosity that was being wielded by Linde leaving the other two decks with little in the way of artifact destruction.
 

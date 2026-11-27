@@ -53,7 +53,9 @@ archive_source:
   sha256: d5bfe1e045193ee3bbf23521dbd0c6fd481a3205dddf80fdb3281eb3bab316c6
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a861.jpg)Both players had a Top 8 finish in one of the last two Pro Tours held. While Christophe was eight at Pro Tour-Osaka, Bram fell in the second slot at Pro Tour-Nice. 
+![](http://www.wizards.com/sideboard/images/euro02/a861.jpg)
+
+Both players had a Top 8 finish in one of the last two Pro Tours held. While Christophe was eight at Pro Tour-Osaka, Bram fell in the second slot at Pro Tour-Nice. 
 
 Bram played a Millstone deck with black for Vindicate and Dromar on the sideboard, while Christophe played a red-blue-green deck taking advantage of the madness-mechanic.
 
@@ -79,7 +81,9 @@ With two lands in a five card hand he started by casting a Salt Marsh, later on 
 
 This time Bram did not miss out on a land drop and chose to play a Fact or Fiction on his own turn risking Force Spike, but gambling well. It appeared to be a 'broken' Fact, revealing three Vindicates, a Ghastly Demise and a Counterspell. This caused Bram to release a lucky shout. 
 
-![](http://www.wizards.com/sideboard/images/euro02/a859.jpg)Christophe had an impossible job and was forced to hand him two Vindicates and the Counterspell. He dropped a Shivan Oasis and passed the turn, tapping a plains in Bram's upkeep with Fire/Ice. 
+![](http://www.wizards.com/sideboard/images/euro02/a859.jpg)
+
+Christophe had an impossible job and was forced to hand him two Vindicates and the Counterspell. He dropped a Shivan Oasis and passed the turn, tapping a plains in Bram's upkeep with Fire/Ice. 
 
 The next few spells Bram played always got an answer from Christophe. Fact or Fiction was responded to with Gainsay and a Vindicate, aiming for the Looter got countered by a Circular Logic. Bram found an answer to the Logic but a second Gainsay took care of that. The only result was the Looter stayed alive, which cost Christophe three damage caused by his own painlands. 
 

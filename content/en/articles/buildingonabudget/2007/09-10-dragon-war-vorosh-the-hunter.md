@@ -743,7 +743,9 @@ Number 2: Vorosh eats like a pig. And by eats like a pig, I mean a hungry, barn-
 
 So keeping all this in mind, our dinner date was set and the moment arrived to sit down and talk. Well, I sat—Vorosh sort of lay there, encompassing half the restaurant. Luckily, it was a Tuesday night so Azru's wasn't that busy. 
 
-![Vorosh_the_Hunter_420](https://i.ormos.uk/25/27/25275331116c7acc9fae2f323a76ccbeb52df609afdef5774abe7b486c463a50.jpg)"HEY BEN!", he yelled, because when you're the size of a small skyscraper, you don't tend to whisper, "I HEAR THAT YOU'RE DOING A DECK ABOUT ME IN YOUR ARTICLE NEXT WEEK!"
+![Vorosh_the_Hunter_420](https://i.ormos.uk/25/27/25275331116c7acc9fae2f323a76ccbeb52df609afdef5774abe7b486c463a50.jpg)
+
+"HEY BEN!", he yelled, because when you're the size of a small skyscraper, you don't tend to whisper, "I HEAR THAT YOU'RE DOING A DECK ABOUT ME IN YOUR ARTICLE NEXT WEEK!"
 
 "Well Vorosh, that's the truth. I've done everyone else so far, based on order of reader popularity."
 

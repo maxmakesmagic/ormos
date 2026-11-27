@@ -80,7 +80,9 @@ render_recovery:
   - Form of the Dragon
   occurrences: 34
 ---
-![](http://www.wizards.com/sideboard/images/gpams03/a900.jpg)With only one more round to go Object of Affection (Walamies, Thoren, Jonsson) need one more win to make the semi-finals. Standing in their way is the relatively unknown Danish team of Cleeman's Fan Club (Lasse Nørgaard, Martin Dang, Jens Balsby.) A win probably wouldn't help them make top 4 but it would mean money, Pro Points and a slot in PT Boston.
+![](http://www.wizards.com/sideboard/images/gpams03/a900.jpg)
+
+With only one more round to go Object of Affection (Walamies, Thoren, Jonsson) need one more win to make the semi-finals. Standing in their way is the relatively unknown Danish team of Cleeman's Fan Club (Lasse Nørgaard, Martin Dang, Jens Balsby.) A win probably wouldn't help them make top 4 but it would mean money, Pro Points and a slot in PT Boston.
 
 <table>&#10;  <tbody><tr>&#10;    <td>A Tomi Walamies</td>&#10;    <td>vs</td>&#10;    <td>Lasse Nørgaard</td>&#10;  </tr>&#10;  <tr>&#10;    <td>B Jens Thoren</td>&#10;    <td>vs</td>&#10;    <td>Martin Dang</td>&#10;  </tr>&#10;  <tr>&#10;    <td>C Anton Jonsson</td>&#10;    <td>vs</td>&#10;    <td>Jens Balsby</td>&#10;  </tr>&#10;</tbody></table>
 
@@ -110,7 +112,9 @@ Nørgaard 1-1 Walamies
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpams03/a901.jpg)Nørgaard surprised in Game 3 by Plainscycling a Noble Templar to get a plains from his deck. He didn't have a beast to amplify his Canopy Crawler though and just concentrated on the beats as a Screeching Buzzard hit the table.
+![](http://www.wizards.com/sideboard/images/gpams03/a901.jpg)
+
+Nørgaard surprised in Game 3 by Plainscycling a Noble Templar to get a plains from his deck. He didn't have a beast to amplify his Canopy Crawler though and just concentrated on the beats as a Screeching Buzzard hit the table.
 
 Walamies next turn was cute. He sacrificed Symbiotic Elf and the resulting insects to boost a Carrion Feeder to 4/4 then negated the card disadvantage with a Caller of the Claw.
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 3
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/dr8_1.jpg)As a Top 8 draft table this collection of talent would have been stunning. The fact that they were sitting down to a draft that would determine which of them could make a Top 8 lent this final draft of the day a sense of drama and urgency. Scott Larabee literally had to push spectators back beyond the roped off boundaries as they were clamoring to get a better view.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/dr8_1.jpg)
+
+As a Top 8 draft table this collection of talent would have been stunning. The fact that they were sitting down to a draft that would determine which of them could make a Top 8 lent this final draft of the day a sense of drama and urgency. Scott Larabee literally had to push spectators back beyond the roped off boundaries as they were clamoring to get a better view.
 
 Mike Turian and Nicolai Herzog were anticipating playing each other (for the second round in a row after a grueling unintentional draw) and there was a lot of buzz about them having a very competitive draft. Osyp, who needed one less win than either of them to clinch a Top 8 berth was also talking about drafting in such a was as to improve Mike's chances while hurting Nicolai's. 
 

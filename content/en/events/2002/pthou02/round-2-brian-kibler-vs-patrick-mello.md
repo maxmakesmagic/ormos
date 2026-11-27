@@ -88,7 +88,9 @@ render_recovery:
   - Wonder
   occurrences: 58
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a962.jpg)Thursday night at the Pro Tour tourney site is always an interesting time. The Masters Series is going on, and the last-chance qualifier, but the real action is often at the dealer tables. You can learn a lot about the field for a constructed Pro Tour by finding out what cards the dealers are running out of. Last night it was Polluted Delta. The blue-black sac land from *Onslaught* was going for twenty-five bucks and everyone was still running out.
+![](http://www.wizards.com/sideboard/images/pthou02/a962.jpg)
+
+Thursday night at the Pro Tour tourney site is always an interesting time. The Masters Series is going on, and the last-chance qualifier, but the real action is often at the dealer tables. You can learn a lot about the field for a constructed Pro Tour by finding out what cards the dealers are running out of. Last night it was Polluted Delta. The blue-black sac land from *Onslaught* was going for twenty-five bucks and everyone was still running out.
 
 The deck that most of those Polluted Deltas were going into was Reanimator. With as many as twelve ways to get an enormous fatty into the graveyard on the first turn (Careful Study, Entomb, and the much-ridiculed Hapless Researcher) and as many as twelve ways to put that fatty into play on the second turn (Reanimate, Life/Death, and Entomb) the reanimator decks are blisteringly fast. Patrick Mello brought the German version of Reanimator into his round 2 feature match against Brian Kibler.
 
@@ -98,7 +100,9 @@ Mello had access to his full combo in game 1 thanks to a pair of Vampiric Tutors
 
 That's the problem with Reanimator – it may be blisteringly fast against an unsuspecting opponent, but if your opponent is prepared, then it's not that hard to deal with. Last year in New Orleans team Your Move Games ran their "Benzo" deck, but then they abandoned it for the Grand Prix season that followed because they said it was a "one-trick pony." This weekend in Houston there is a sea of Reanimator despite the fact that everyone else knew the deck was popular. The average sideboard seems to have 6 to 10 cards specifically against Reanimator and even many main decks have cards that were chosen because of their ability to deal with a single huge monster. Coffin Purge, Diabolic Edict, Chainer's Edict, Reprisal, Gilded Drake, Parallax Wave, Rushing River ... there's a lot you can run if you want to beat Reanimator. 
 
-![](http://www.wizards.com/sideboard/images/pthou02/a970.jpg)Kibler played a Psychatog after dealing with Verdant Force for the second time. He returned two Islands to his hand for Gush, effectively giving the 'Tog +6.5/+6.5. Engineered Plague set to "Saprolings" cleared a path and then Mello was dead.
+![](http://www.wizards.com/sideboard/images/pthou02/a970.jpg)
+
+Kibler played a Psychatog after dealing with Verdant Force for the second time. He returned two Islands to his hand for Gush, effectively giving the 'Tog +6.5/+6.5. Engineered Plague set to "Saprolings" cleared a path and then Mello was dead.
 
 After sideboarding Mello came out with his disruption guns blazing. He Duressed away a Force Spike and then used Mesmeric Fiend to deprive Kibler of a Counterspell. Mello's turn 3 play was Shadowmage Infiltrator – a nice surprise that meant, unlike in game 1, Mello had a chance to win the card advantage war against the control deck. With Kibler's hand stripped off all defenses, Mello Entombed for Verdant Force and then drew and played an Exhume. Kibler was just plain helpless against that draw and soon they were on to game 3.
 

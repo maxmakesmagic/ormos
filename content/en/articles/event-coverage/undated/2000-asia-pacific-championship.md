@@ -40,7 +40,9 @@ render_recovery:
 ---
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/5d/1a/5d1a1c91b9276e8c962803e64549fd824fcabb4171d5f039bcbcf069d4d97009.jpg"></td>&#10;			<td>&#10;			<h2>2000 Asia Pacific Championship Coverage</h2>&#10;			</td>&#10;		</tr></tbody></table>
 
-![](https://i.ormos.uk/ca/7b/ca7b59980870b75da795ffb23997d46c472cf218767ad70a0efd53ceb7be3cfc.jpg)Masaya Mori has become the first person to win two Continental Championships by winning his second consecutive Asia Pacific Championship! Mori used his Angry Hermit deck to defeat Hiroto Watanabe, 3-2, in the finals. The 2000 Asia Pacific Championship was held in Kowloon, Hong Kong. While the APAC Championship was going on, Tobey Tamber, an American working in Taiwan, won the Hong Kong Open.
+![](https://i.ormos.uk/ca/7b/ca7b59980870b75da795ffb23997d46c472cf218767ad70a0efd53ceb7be3cfc.jpg)
+
+Masaya Mori has become the first person to win two Continental Championships by winning his second consecutive Asia Pacific Championship! Mori used his Angry Hermit deck to defeat Hiroto Watanabe, 3-2, in the finals. The 2000 Asia Pacific Championship was held in Kowloon, Hong Kong. While the APAC Championship was going on, Tobey Tamber, an American working in Taiwan, won the Hong Kong Open.
 
 ### Final Standings of the 2000 Asia Pacific Championship
 

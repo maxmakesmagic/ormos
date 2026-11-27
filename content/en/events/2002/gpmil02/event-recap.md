@@ -53,7 +53,9 @@ archive_source:
   sha256: 34d632b40a8beefd0c35d6d6d71bf8f4a17370b3a9e097198948da6b0271bcb2
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/916.jpg)It was a wild one here in the Dairy and Beer Belt. The masses were clamoring for more Standard events, so when Magic Organized Play offered a Grand Prix in the format, people turned out in droves. Over 650 competitors filed in to the Four Points Sheraton in Milwaukee, Wisconsin to do battle with atogs, elephants, and goblin soldiers.
+![](http://www.wizards.com/sideboard/images/gpmil02/916.jpg)
+
+It was a wild one here in the Dairy and Beer Belt. The masses were clamoring for more Standard events, so when Magic Organized Play offered a Grand Prix in the format, people turned out in droves. Over 650 competitors filed in to the Four Points Sheraton in Milwaukee, Wisconsin to do battle with atogs, elephants, and goblin soldiers.
 
 The top three decks were Psychatog, Trenches, and some sort of Blue/Green (often with red). But a few new rogue decks appeared, headlined by David Petersen's 4-color Braids.
 

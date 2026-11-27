@@ -116,7 +116,9 @@ We will also be replacing one common card in each booster pack with a basic land
 
 **New Product: Intro Pack** 
 
-![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)Along with the above changes, a new product will be introduced into the **Magic** lineup. The *intro pack* will be the best way for existing players to find out about the new set's mechanics and setting. It will also be the best tool for introducing new players into the game by allowing them to learn with the most current cards. Intro pack contents include:
+![](https://i.ormos.uk/43/8e/438ec375bd489382c7d84c784e370b996897e343401bb6a59c6a32c59c141272.jpg)
+
+Along with the above changes, a new product will be introduced into the **Magic** lineup. The *intro pack* will be the best way for existing players to find out about the new set's mechanics and setting. It will also be the best tool for introducing new players into the game by allowing them to learn with the most current cards. Intro pack contents include:
 
 *   41-card preconstructed deck, which includes 1 premium foil rare and one non-premium rare
 *   A booster pack of the current set

@@ -100,6 +100,8 @@ The Simic combine Blue's insatiable curiosity with Green's hunger for growth, fo
 
 ![](https://i.ormos.uk/b4/0c/b40c7d88ac2e231e5c4dba79b9acf1ae307f1b9606fc894b7f26da4081aa4266.jpg) 
 
-![](https://i.ormos.uk/41/f6/41f682711fa46107de37f6a8e837e523c32230d9bdfa6bbd6a719d1fd086d66f.jpg)The other stylistic cues in Simic technology vary between the shaggy-with-moss and ropy-with-vines look of Leafdrake Roost or Vigean Intuition, to the bulbous and translucent look of Protean Hulk or Plaxmanta, to the severe and prosthetic-intensive look of Simic Guildmage or Simic Initiate. The recurring thread here is the well-intentioned augmentation of life for the sake of improvement – evolving inevitably into a runaway evolution for evolution's sake. Is that nature turned into something strictly unnatural? Momir Vig would call it progress!
+![](https://i.ormos.uk/41/f6/41f682711fa46107de37f6a8e837e523c32230d9bdfa6bbd6a719d1fd086d66f.jpg)
+
+The other stylistic cues in Simic technology vary between the shaggy-with-moss and ropy-with-vines look of Leafdrake Roost or Vigean Intuition, to the bulbous and translucent look of Protean Hulk or Plaxmanta, to the severe and prosthetic-intensive look of Simic Guildmage or Simic Initiate. The recurring thread here is the well-intentioned augmentation of life for the sake of improvement – evolving inevitably into a runaway evolution for evolution's sake. Is that nature turned into something strictly unnatural? Momir Vig would call it progress!
 
 ![](https://i.ormos.uk/e4/68/e468cbfb2f768825066006c45a8fc5c9b743e795db08625dd9efd151972f98af.jpg)

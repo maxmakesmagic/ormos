@@ -927,7 +927,9 @@ Today is a bit different. The Standard environment isn't changing much with the 
 
 ### Deck 1: Dead World Redux
 
-![](https://i.ormos.uk/76/5d/765d85ead7a0cc1dc957fa1ff7973f9c04b0f530dc1a50446dc4b1f98cdda63c.jpg)For some reason, I was unusually disappointed that my 9th Edition precon concoction Dead World performed so poorly in the [second BOAB Smackdown!](/en/articles/buildingonabudget/2006/01-16-interlude-boab-smackdown-ii) Preceding the games, I secretly considered Dead World a dark horse coming into the Smackdown! because of its massive creature removal and the general staying power of reanimator decks. Instead, it went 3-5 in games against the other four decks. As I said in my final analysis, Dead World actually turned out to have surprisingly *little* staying power and proved to be about a turn too slow to compete.
+![](https://i.ormos.uk/76/5d/765d85ead7a0cc1dc957fa1ff7973f9c04b0f530dc1a50446dc4b1f98cdda63c.jpg)
+
+For some reason, I was unusually disappointed that my 9th Edition precon concoction Dead World performed so poorly in the [second BOAB Smackdown!](/en/articles/buildingonabudget/2006/01-16-interlude-boab-smackdown-ii) Preceding the games, I secretly considered Dead World a dark horse coming into the Smackdown! because of its massive creature removal and the general staying power of reanimator decks. Instead, it went 3-5 in games against the other four decks. As I said in my final analysis, Dead World actually turned out to have surprisingly *little* staying power and proved to be about a turn too slow to compete.
 
 At the time of the Smackdown!, *Ravnica* had settled into everyone's collective deckbuilding consciousness and I found myself using Stinkweed Imp in a variety of first-draft deck ideas. I love how the Imp is such potent defense against such a wide variety of threats, coupled with a massive dredge cost rivaled only by Golgari Grave-Troll. Any deck idea that was slow enough to benefit from reusable defense or that could benefit from a full graveyard ended up using Black because of Stinkweed Imp's merits. 
 
@@ -1007,7 +1009,9 @@ Amazingly, the decklist I created when writing that paragraph changed very littl
 
 Let me warn you: This deck can be as boring to play against as it is stressful to play. The first several turns are all about Sleight of Hand, Sensei's Divining Top, Remand, and Telling Time to ensure that I hit two Islands and two Swamps as close to turn 4 as possible. Perplex is usually a hard counter early in the game, but I save it for really scary stuff that I won't be able to handle with my four-mana spells. 
 
-![](https://i.ormos.uk/29/6a/296ac8cb264814e3a5d1e027f492a5113fee46c02ca56fc77b2a969238d746b5.jpg)Once the early game is behind me and I find myself with mana, it's time to start messing with my opponent. Night of Souls' Betrayal will hopefully kill a few of her creatures, and Hideous Laughter can often be a board-sweeper. I hate to use Exhaustion or Clutch of the Undercity this early to buy me time, but it's sometimes necessary. If I have a bit more breathing room, I'll either wait until I have counterspell backup for Night of Souls' Betrayal or start transmuting for my two key cards.
+![](https://i.ormos.uk/29/6a/296ac8cb264814e3a5d1e027f492a5113fee46c02ca56fc77b2a969238d746b5.jpg)
+
+Once the early game is behind me and I find myself with mana, it's time to start messing with my opponent. Night of Souls' Betrayal will hopefully kill a few of her creatures, and Hideous Laughter can often be a board-sweeper. I hate to use Exhaustion or Clutch of the Undercity this early to buy me time, but it's sometimes necessary. If I have a bit more breathing room, I'll either wait until I have counterspell backup for Night of Souls' Betrayal or start transmuting for my two key cards.
 
 Those two key cards, of course, are Night of Souls' Betrayal followed by Hunted Phantasm (or, less often, Hunted Phantasm followed by Hideous Laughter). Once these two are in place, I now have an unblockable 3/5 that is meant to win me the game. Now my counterspells keep the Phantasm alive, while Laughter, Perplex, Remand, Exhaustion, and Clutch frustrate my opponent during the never-ending attack phases. Exhaustion turns out to be the most important of these cards because of its ability to essentially give me a Time Walk in most circumstances, though Clutch obviously helps speed up my victory.
 
@@ -1051,7 +1055,9 @@ Finally, a card that has me tapping my lip is Hissing Miasma. On the surface, th
 
 ### Deck 3: Blind Faith
 
-![](https://i.ormos.uk/66/9b/669b9350927d87cfa977ccc83c7a3ecafe67090e0f34da3e87d260fadb1555c6.jpg)I have a pretty big mental cache of Interlude ideas, some of which turn into articles and some of which don't. One idea I had when Ravnica hit the shelves was to discuss mono-colored budget decks in the new multicolored world of Standard. This is still an idea that may become an article once *Dissension* is here, but in the meantime I've been tinkering with trying to make an interesting deck in each of the five colors.
+![](https://i.ormos.uk/66/9b/669b9350927d87cfa977ccc83c7a3ecafe67090e0f34da3e87d260fadb1555c6.jpg)
+
+I have a pretty big mental cache of Interlude ideas, some of which turn into articles and some of which don't. One idea I had when Ravnica hit the shelves was to discuss mono-colored budget decks in the new multicolored world of Standard. This is still an idea that may become an article once *Dissension* is here, but in the meantime I've been tinkering with trying to make an interesting deck in each of the five colors.
 
 So far my favorite of the bunch is the Mono-White deck. I scanned through the White cards in Standard to see if anything caught my eye as a deck centerpiece, and I happened upon Hunted Lammasu. The deck started out with four Lammasu, then added anti-Horror cards like Hand of Honor, Genju of the Fields, Chastise, Faith's Fetters, etc. The entire deck was built with two types of cards: Hunted Lammasu, and cards that could deal with a 4/4 Black creature.
 

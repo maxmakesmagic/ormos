@@ -96,7 +96,9 @@ In yet another control on control matchup, Chang was U/W and Yujian U/W/B.
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpkl02/a926.jpg)Yujian played out Mystic Visionary, Frightcrawler and Aven Flock. Chua Chang made a Mystic Familiar, Skywing Aven, Mystic Zealot and Hydromorph Gull. It was pretty obvious at this point who had the better deck. In no time at all Yujian was at 13 and Chang at 16. Eventually Zhou got rid of the Gull with Waste Away. Chang then made Pilgrim of Justice, and Aven Archer! Blocking was very difficult for Zhou and what damage he managed to inflict on Chang was negated when Chua plaeyd Teroh's Faithful to ensure he was always ahead of the race.
+![](http://www.wizards.com/sideboard/images/gpkl02/a926.jpg)
+
+Yujian played out Mystic Visionary, Frightcrawler and Aven Flock. Chua Chang made a Mystic Familiar, Skywing Aven, Mystic Zealot and Hydromorph Gull. It was pretty obvious at this point who had the better deck. In no time at all Yujian was at 13 and Chang at 16. Eventually Zhou got rid of the Gull with Waste Away. Chang then made Pilgrim of Justice, and Aven Archer! Blocking was very difficult for Zhou and what damage he managed to inflict on Chang was negated when Chua plaeyd Teroh's Faithful to ensure he was always ahead of the race.
 
 Desperate to stop the offense, Yujian attempted to rid himself of Chua's Zealot by double-blocking with Mystic Visionary and Aven Flock. Chang surprised Yujian by willingly sacrificing his Pilgrim, and pitching a card to return Skywing Aven to his hand - putting him behind in tempo and attack options but importantly getting to Threshold, saving the Zealot and mangling the Aven Flock. This was a brilliantly calculated move and as it turned out, the rest of the game was dominated by the Zealot. Once Yujian's life total was low enough, Chua holding Auramancer, enchanted his Teroh's Faithful with Psionic Gift to deal the final points of damage to Zhou.
 

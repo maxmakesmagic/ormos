@@ -540,7 +540,9 @@ Final result: Jun’ya Iyanaga – 2 Osamu Fujita - 1
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/1f/23/1f23c349b92351632e3a5084609bc9db97b791168be13ede890a46c6e0787458.jpg)The last time there was an Extended Grand Prix in Japan it was in 2005. The event was Kitakyushu and the winner was Tomoharu Kaji – a season before he would be a member of the Pro Tour Charleston winning team. There were only 272 players at that event – one of the smallest Grand Prix in this part of the world. The Top 8 from that event was billed as possibly “The Best Top 8 Ever?” by the coverage team. It has only gotten better with hindsight with Kaji winning Charleston and Mihara becoming a juggernaut at events he able to attend. 
+![](https://i.ormos.uk/1f/23/1f23c349b92351632e3a5084609bc9db97b791168be13ede890a46c6e0787458.jpg)
+
+The last time there was an Extended Grand Prix in Japan it was in 2005. The event was Kitakyushu and the winner was Tomoharu Kaji – a season before he would be a member of the Pro Tour Charleston winning team. There were only 272 players at that event – one of the smallest Grand Prix in this part of the world. The Top 8 from that event was billed as possibly “The Best Top 8 Ever?” by the coverage team. It has only gotten better with hindsight with Kaji winning Charleston and Mihara becoming a juggernaut at events he able to attend. 
 
 While he is in attendance this weekend I can assure you he will definitely not become a back-to-back Extended champion this weekend. That is impossible since Kaji is here as a coverage reporter for the Japanese side of the coverage. I asked him a couple of questions about what it was like being perpendicular to the red zone, covering the action as opposed to participating. 
 
@@ -574,7 +576,9 @@ As for what deck, Kaji would have sleeved up for this event if he was playing?
 
     *by Brian David-Marshall*
 
-![](https://i.ormos.uk/23/a1/23a177712af624e5d8c444bf007c0e9897e13f2f2d7ffe9fb9c8e0b02b721731.jpg)I have been regularly covering events since 2003 and in all that time I cannot recall seeing Hall of Famer Tsuyoshi Fujita – the first Japanese player to make the Top 8 of a Pro Tour – play a deck with Islands in it. I have seen plenty of Mountains, some Plains, and occasional Swamps and Forests but, seriously, never an Island. I would say no one was more surprised than I was when Fujita came to this event planning on playing Next Level Blue but that would be incorrect. The most shocked person was Pro Tour Kobe winner Masashiro Kuroda.
+![](https://i.ormos.uk/23/a1/23a177712af624e5d8c444bf007c0e9897e13f2f2d7ffe9fb9c8e0b02b721731.jpg)
+
+I have been regularly covering events since 2003 and in all that time I cannot recall seeing Hall of Famer Tsuyoshi Fujita – the first Japanese player to make the Top 8 of a Pro Tour – play a deck with Islands in it. I have seen plenty of Mountains, some Plains, and occasional Swamps and Forests but, seriously, never an Island. I would say no one was more surprised than I was when Fujita came to this event planning on playing Next Level Blue but that would be incorrect. The most shocked person was Pro Tour Kobe winner Masashiro Kuroda.
 
 Kuroda always plays whatever deck Fujita tells him to play. That plan has worked out well for him in the past – Fujita built his PT Kobe winning Red deck – and he saw no reason to veer from that successful formula. Even if it meant playing Islands – something Kuroda has never done either, with the exception of a Psychatog deck –which I alluded to in the Twitter feed. The deck had not done well for Kuroda though and he was out of the tournament before the end of Day One. 
 
@@ -593,7 +597,9 @@ Neither of these players requires much in the way of introduction to regular cov
 
 ### Game 1
 
-![](https://i.ormos.uk/6e/ee/6eeefdcbd5c6dbd7a099acca3b43c6c0c1604d7884878dd67e5e2daa8a973e00.jpg)“I lose the die roll always,” sighed Takahashi who had apparently started every round on the draw to this point. 
+![](https://i.ormos.uk/6e/ee/6eeefdcbd5c6dbd7a099acca3b43c6c0c1604d7884878dd67e5e2daa8a973e00.jpg)
+
+“I lose the die roll always,” sighed Takahashi who had apparently started every round on the draw to this point. 
 
 He would get no sympathy from his surprised opponent who added happily while taking his turn, “It was my first time winning!”
 
@@ -613,7 +619,9 @@ Takahashi attacked for three and made another token. Fujita had no play. Takahas
 
 ### Game 3
 
-![](https://i.ormos.uk/dd/50/dd507358c9283cac7ebb390fcc9ca121964ea6c95921373b2ee379072f2e8e13.jpg)Tsuyoshi was kicking himself over the decision to not mulligan his hand and continued to mutter about it when he had to pitch back his starting seven in Game 3. His six card hand opened on a suspended Ancestral Visions so he would be getting that card back soon. Takahashi – who started this game at full strength – attempted Bitterblossom on turn two but Fujita Mana Leaked it. Fujita played Canonist on his own turn and then suspended another Visions which prompted what I am pretty sure is the Japanese equivalent of “How lucky” from Takahashi, who landed Tarmogoyf on his next turn and Garruck a turn later. Takahashi untapped two lands and Fujita played Vendillion Clique at the end of his opponent’s turn. Takahashi wanted to Darkblast it but Tsuyoshi reminded him of the Garruck that had been played and the Canonist still in play. Fujita put the Darkblast at the bottom and took three loyalty counters off of Garruck on his attack step. He also suspended a third Visions. 
+![](https://i.ormos.uk/dd/50/dd507358c9283cac7ebb390fcc9ca121964ea6c95921373b2ee379072f2e8e13.jpg)
+
+Tsuyoshi was kicking himself over the decision to not mulligan his hand and continued to mutter about it when he had to pitch back his starting seven in Game 3. His six card hand opened on a suspended Ancestral Visions so he would be getting that card back soon. Takahashi – who started this game at full strength – attempted Bitterblossom on turn two but Fujita Mana Leaked it. Fujita played Canonist on his own turn and then suspended another Visions which prompted what I am pretty sure is the Japanese equivalent of “How lucky” from Takahashi, who landed Tarmogoyf on his next turn and Garruck a turn later. Takahashi untapped two lands and Fujita played Vendillion Clique at the end of his opponent’s turn. Takahashi wanted to Darkblast it but Tsuyoshi reminded him of the Garruck that had been played and the Canonist still in play. Fujita put the Darkblast at the bottom and took three loyalty counters off of Garruck on his attack step. He also suspended a third Visions. 
 
 Takahashi made a token -- letting his Garruck go – and crashed in with Mutavault and ‘Goyf. Fujita traded his Canonist for the land. He left his Clique back to block on the next turn but Takahashi had Putrefy. Fujita played another copy of the legendary Faerie and used the ability on himself to push Detritovore to the bottom for a fresh card and traded with the token. 
 

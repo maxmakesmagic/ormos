@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By David Price*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b08.JPG)Bradley Sherman is an Ohio native, hailing from Greenville, OH. He normally plays in local tournaments and PTQs, and Columbus, OH wasn't too far of a trip for him. Lauren Passmore has played in a number of Grand Prix and Pro Tour Qualifiers; most recently, she placed in the top 8 of the Pro Tour - Chicago Qualifier the day before. Both players had well-tuned decks, with Bradley Sherman playing Angry Hermit, which piloted Aaron Forsythe onto the US Nationals team, and Lauren was playing Ponza/Wildfire. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b08.JPG)
+
+Bradley Sherman is an Ohio native, hailing from Greenville, OH. He normally plays in local tournaments and PTQs, and Columbus, OH wasn't too far of a trip for him. Lauren Passmore has played in a number of Grand Prix and Pro Tour Qualifiers; most recently, she placed in the top 8 of the Pro Tour - Chicago Qualifier the day before. Both players had well-tuned decks, with Bradley Sherman playing Angry Hermit, which piloted Aaron Forsythe onto the US Nationals team, and Lauren was playing Ponza/Wildfire. 
 
 Game 1
 
@@ -54,6 +56,8 @@ Bradley won the die roll and chose to play first. He started off the first game 
 
 Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b10.JPG)Bradley Sherman chose to play first again and his opening hand was adequate, but not exceptional against a land destruction deck, having only two lands and one mana producing creature. He decided to mulligan and was then forced to mulligan again down to five cards, leaving him with a Karplusan Forest as his only land and a Bird of Paradise as the only spell he could cast. Lauren Passmore mulliganed also, but her six card hand was a bit better. He began by playing a Karplusan and a Bird of Paradise, but Lauren had a Shock for the Bird. Bradley failed to draw land over the next few turns and he lost his only land to a Pillage on the Lauren's third turn. Following that, Lauren began casting Chimeric Idols and beating Bradley down. Near the end, Bradley was able to draw a Forest and cast another Bird of Paradise, but Lauren had a Seal of Fire on the board waiting for it and she finished him off by doing a point of damage to him with a Shivan Gorge and attacking with two Chimeric Idols.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b10.JPG)
+
+Bradley Sherman chose to play first again and his opening hand was adequate, but not exceptional against a land destruction deck, having only two lands and one mana producing creature. He decided to mulligan and was then forced to mulligan again down to five cards, leaving him with a Karplusan Forest as his only land and a Bird of Paradise as the only spell he could cast. Lauren Passmore mulliganed also, but her six card hand was a bit better. He began by playing a Karplusan and a Bird of Paradise, but Lauren had a Shock for the Bird. Bradley failed to draw land over the next few turns and he lost his only land to a Pillage on the Lauren's third turn. Following that, Lauren began casting Chimeric Idols and beating Bradley down. Near the end, Bradley was able to draw a Forest and cast another Bird of Paradise, but Lauren had a Seal of Fire on the board waiting for it and she finished him off by doing a point of damage to him with a Shivan Gorge and attacking with two Chimeric Idols.
 
 Lauren Passmore defeated Bradley Sherman 2-0

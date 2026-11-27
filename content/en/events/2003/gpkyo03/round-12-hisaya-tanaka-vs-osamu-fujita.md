@@ -85,7 +85,9 @@ render_recovery:
   - Boneknitter
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a926.jpg)Osamu Fujita always looks like he's had a really bad day. A mop of slack, jet-black hair always hides his sunken eyes, and even when he smiles it's more like a jack-o-lantern than pure friendliness. Nevertheless, under his gruff exterior is a heart of gold. Somewhere. His opponent is Hisaya Tanaka, one of Japan's top-ranked limited players. Unsurprisingly, both of these heavyweights were in pod one.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a926.jpg)
+
+Osamu Fujita always looks like he's had a really bad day. A mop of slack, jet-black hair always hides his sunken eyes, and even when he smiles it's more like a jack-o-lantern than pure friendliness. Nevertheless, under his gruff exterior is a heart of gold. Somewhere. His opponent is Hisaya Tanaka, one of Japan's top-ranked limited players. Unsurprisingly, both of these heavyweights were in pod one.
 
 ### Game 1
 
@@ -105,7 +107,9 @@ Fujita was content to serve in the air for two while he built his forces. Barkhi
 
 Exalted Angel. The crowd gasped. Fujita rolled his eyes. He needed outs, and fast. He hit with his Murlodont, knocking Tanaka to nine, and readied a Patron of the Wild. His five mana meant it would have to wait until next turn to help the Buzzard finish off the Angel. Fortunately, Tanaka didn't have a trick, and the Angel dropped. The scores were fourteen to three. Tanaka finished off the Buzzard with Crown of Suspicion. If Fujita couldn't answer the Zombie, he was done.
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a925.jpg)Fujita drew, played a land, and passed it back. Tanaka sent the Zombie. Fujita flipped up his Sandskinned morph: Fallen Cleric. That seemed to turn the tide. All Tanaka had was a Wall of Hope, and Fujita started dropping beasts. First Needleshot Gourna, then Symbiotic Beast. Tanaka drew blanks. When Stag Beetle hit play as a 10/10, Tanaka knew to pack it up.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a925.jpg)
+
+Fujita drew, played a land, and passed it back. Tanaka sent the Zombie. Fujita flipped up his Sandskinned morph: Fallen Cleric. That seemed to turn the tide. All Tanaka had was a Wall of Hope, and Fujita started dropping beasts. First Needleshot Gourna, then Symbiotic Beast. Tanaka drew blanks. When Stag Beetle hit play as a 10/10, Tanaka knew to pack it up.
 
 Tanaka 1 – Fujita 1
 

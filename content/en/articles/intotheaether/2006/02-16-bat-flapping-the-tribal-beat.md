@@ -233,7 +233,9 @@ And now a word from **Magic** Assistant Brand Manager... Jake Theis!
 
 ### MTGO Goes Mtgmobile
 
-![](https://i.ormos.uk/1b/73/1b73ab4337a7ab5de3029273c74f80280cf8c0a0837bb2f9ab6573d736c625ad.jpg)Our loyal **magicthegathering.com** viewers may have noticed that we have been offering **Magic** mobile phone wallpapers over the past several months. We have gone to great lengths to select and offer great, current **Magic** iconic art pieces, while also providing *Ravnica* and *Guildpact* images with their releases. Now, for the months of February and March, we will be broadening our focus to include the universe of ***Magic** Online* into our offerings.
+![](https://i.ormos.uk/1b/73/1b73ab4337a7ab5de3029273c74f80280cf8c0a0837bb2f9ab6573d736c625ad.jpg)
+
+Our loyal **magicthegathering.com** viewers may have noticed that we have been offering **Magic** mobile phone wallpapers over the past several months. We have gone to great lengths to select and offer great, current **Magic** iconic art pieces, while also providing *Ravnica* and *Guildpact* images with their releases. Now, for the months of February and March, we will be broadening our focus to include the universe of ***Magic** Online* into our offerings.
 
 What does this mean to you, the ***Magic** Online* fan?
 

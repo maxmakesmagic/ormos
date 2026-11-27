@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Collin Jackson*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat110.jpg)In the feature match for the tenth round, Douglas Maioli (6-2-1) of Buenos Aires played Rafael Alvarenga (6-2-1) of Rio de Janeiro. Tensions were high in this rematch of the finals of Grand Prix Saõ Paulo. Douglas was playing a Flores Control Black deck, while Rafael's deck was Replenish.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sat110.jpg)
+
+In the feature match for the tenth round, Douglas Maioli (6-2-1) of Buenos Aires played Rafael Alvarenga (6-2-1) of Rio de Janeiro. Tensions were high in this rematch of the finals of Grand Prix Saõ Paulo. Douglas was playing a Flores Control Black deck, while Rafael's deck was Replenish.
 
 The first game started out great for Douglas, who began with swamp, Ritual, Phyrexian Negator. He then followed up with a Duress to remove Rafael's Wrath of God, and on the next turn he cast Skittering Horror. But Rafael was cool, calm, and in control, feeling the pressure but handling it like a pro. He cast Attunement with a knowing smile on his face. On his next turn, he was at one life, but he Attuned into a Replenish, bringing Parallax Tide, Wave, Attunement, and Lilting Refrain into play.
 

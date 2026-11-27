@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Lauren Passmore* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/johnsswarowski.jpg)Scott Johns, playing Tradewind Survival, entered the top 8 as the final seed. Robert Swarowski, playing Sligh, entered as the top seed. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/johnsswarowski.jpg)
+
+Scott Johns, playing Tradewind Survival, entered the top 8 as the final seed. Robert Swarowski, playing Sligh, entered as the top seed. 
 
 Scott won the die roll and elected to play first. He laid a forest then cast a Quirion Ranger. Robert had an amazing opening hand, consisting of 2 Jackal Pups, a Fireslinger, a Cursed Scroll and some land. Robert led with a mountain and a Jackal Pup. Scott laid another forest and cast a turn two Survival of the Fittest. On his turn, Robert laid a land, cast Fire Slinger then attacked with the Pup. Scott laid an Island then cast a Brainstorm. Robert used the Fireslinger's ability to kill the Quirion Ranger, and attacked with the Pup. He laid another Mountain, and cast another Pup and a Goblin Patrol. At the end of Robert's turn, Scott discarded Tradewind Rider to get Squee, then survivaled away Squee to get another Tradewind. In his main phase, Scott cast the Tradewind. 
 

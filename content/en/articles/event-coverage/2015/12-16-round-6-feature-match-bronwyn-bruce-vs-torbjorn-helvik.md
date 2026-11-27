@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Jamie Lynn* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/872.jpg)Bronwyn Bruce is one of the few ladies who made it out to Grand Prix Sydney. She has no byes and is doing extremely well with Sligh. Bronwyn started this round with a record of 4-2 and is hoping to go home with some of the under 1700 ranking prize money, as well as the regular pay out. Don't let all of this fool you, she's not another clueless girl. In round four she beat Rob Dougherty of Your Move Games and even has her own store called Card Heaven in Melbourne. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSYD00/872.jpg)
+
+Bronwyn Bruce is one of the few ladies who made it out to Grand Prix Sydney. She has no byes and is doing extremely well with Sligh. Bronwyn started this round with a record of 4-2 and is hoping to go home with some of the under 1700 ranking prize money, as well as the regular pay out. Don't let all of this fool you, she's not another clueless girl. In round four she beat Rob Dougherty of Your Move Games and even has her own store called Card Heaven in Melbourne. 
 
 Bronwyn was playing Norway's only representative, Torbjorn Helvik. Torbjorn came 12th in Grand Prix Stockholm and sixth at the 1999 Norwegian Nationals and was playing Tradewind Survival. Torbjorn was extremely tired since the Grand Prix Trial last night started at 7pm and didn't finish until 6:30 this morning. Fortunately for Torbjorn it wasn't in vain, he won the Trial and received three byes for today. 
 
@@ -56,7 +58,9 @@ Bronwyn started the first game with Cursed Scroll that laid on the table unused 
 
 **Game 2** 
 
-![](https://i.ormos.uk/d1/47/d147c0adcaf285d7ed16223e152cad325206d39b36501acbc5b649ddc2a14555.jpg)Game two was also over quite fast due to mana problems, this time on Torbjorn's side. Bronwyn started the onslaught with a first turn Jackal Pup followed by two Mogg Fanatics and a Seal of Fire. That was all it took for Torbjorn to concede, as he never drew a Forest or a third Island. 
+![](https://i.ormos.uk/d1/47/d147c0adcaf285d7ed16223e152cad325206d39b36501acbc5b649ddc2a14555.jpg)
+
+Game two was also over quite fast due to mana problems, this time on Torbjorn's side. Bronwyn started the onslaught with a first turn Jackal Pup followed by two Mogg Fanatics and a Seal of Fire. That was all it took for Torbjorn to concede, as he never drew a Forest or a third Island. 
 
 **Game 3** 
 

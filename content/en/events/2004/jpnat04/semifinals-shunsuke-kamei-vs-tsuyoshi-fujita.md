@@ -381,7 +381,9 @@ render_recovery:
   - Decree of Silence
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/jpnat04/sf1_1.jpg)With a win here, either Kamei or Fujita will be guaranteed a spot on the Japanese National Team, and will go on to the finals, where the National Championship will be up for grabs. The loser will still be able to make the team via a third/fourth place match. This match should be particularly interesting, since Kamei is playing blue-white control, and Fujita is running red-green Goblins. Kamei has three copies of Circle of Protection: Red in his sideboard, which are far less powerful due to the fact that Fujita is packing enchantment removal. Beyond that, Kamei has the tried and true recipe of board clearing spells and efficient lifegain that can nullify aggressive decks like Fujita's. Fujita will need to get fast starts, and after sideboarding will need to have all the right answers to Damping Matrix and Circle of Protection: Red.
+![](http://www.wizards.com/sideboard/images/jpnat04/sf1_1.jpg)
+
+With a win here, either Kamei or Fujita will be guaranteed a spot on the Japanese National Team, and will go on to the finals, where the National Championship will be up for grabs. The loser will still be able to make the team via a third/fourth place match. This match should be particularly interesting, since Kamei is playing blue-white control, and Fujita is running red-green Goblins. Kamei has three copies of Circle of Protection: Red in his sideboard, which are far less powerful due to the fact that Fujita is packing enchantment removal. Beyond that, Kamei has the tried and true recipe of board clearing spells and efficient lifegain that can nullify aggressive decks like Fujita's. Fujita will need to get fast starts, and after sideboarding will need to have all the right answers to Damping Matrix and Circle of Protection: Red.
 
 ### Game 1
 

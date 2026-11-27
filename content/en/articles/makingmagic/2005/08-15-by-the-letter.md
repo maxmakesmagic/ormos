@@ -101,7 +101,9 @@ Never be afraid to ask directly for what you want. As you're the first person to
 
 Since my last mailbag column (“[Adventures of Letter Man](/en/articles/makingmagic/2004/06-28-adventures-of-letter-man)” – June 28, 2004 – It's been awhile since my last mailbag column), I've written a number of columns. But three stand out as kings of letter provoking. One created a very negative response; the second quite positive; the third strongly positive and negative. Care to take a guess?
 
-![](https://i.ormos.uk/8b/51/8b51d8c59a9d306ad4b7fb80efd0768b960b80646ba1653ce41bd5e45b1f43d4.jpg)I'll start with my most negatively received column (at least as measured by my e-mail). It was entitled “[Decking the Hall](/en/articles/makingmagic/2005/06-20-decking-the-hall)” (and its follow-up “[It's A Long Story](/en/articles/makingmagic/2005/06-27-its-a-long-story)”) and it explained my votes for the **Magic: the Gathering** [Pro Tour Hall of Fame](https://web.archive.org/web/20050815000000/https://magic.wizards.com/en/node/574031). I think I was doing fine until my fifth and final vote. That's when all you know what broke loose.
+![](https://i.ormos.uk/8b/51/8b51d8c59a9d306ad4b7fb80efd0768b960b80646ba1653ce41bd5e45b1f43d4.jpg)
+
+I'll start with my most negatively received column (at least as measured by my e-mail). It was entitled “[Decking the Hall](/en/articles/makingmagic/2005/06-20-decking-the-hall)” (and its follow-up “[It's A Long Story](/en/articles/makingmagic/2005/06-27-its-a-long-story)”) and it explained my votes for the **Magic: the Gathering** [Pro Tour Hall of Fame](https://web.archive.org/web/20050815000000/https://magic.wizards.com/en/node/574031). I think I was doing fine until my fifth and final vote. That's when all you know what broke loose.
 
 It appears that a majority of my readers (I'd estimate about three fourths if my letters are an accurate representation) weren't very keen on my choosing to vote for Mike “The Embodiment of Cheating and All That Is Wrong With Competitive Tournament Magic” Long:
 
@@ -451,7 +453,9 @@ Until then, may you know the joy of a full mailbox.
 
 Mark Rosewater
 
-> ![](https://i.ormos.uk/32/9b/329b5fff618457e73afad5a166ead1bf9fc84d8b245c29cb805ada09a1609b15.jpg)Dear Mark Rosewater,
+> ![](https://i.ormos.uk/32/9b/329b5fff618457e73afad5a166ead1bf9fc84d8b245c29cb805ada09a1609b15.jpg)
+>
+> Dear Mark Rosewater,
 > 
 > Regarding your article "[Hanging with Roy G. Biv](/en/articles/makingmagic/2005/07-11-hanging-with-roy-g-biv)":
 > 

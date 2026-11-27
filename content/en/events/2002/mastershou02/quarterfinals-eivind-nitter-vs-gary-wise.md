@@ -255,7 +255,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/pthou02/a919.jpg)Eivind Nitter and Gary Wise, good friends, are two of the sillier members of the Pro community. Both of them are always good for a few laughs and a lot of controversial behavior, including oddball antics during matches. The two of them roomed together at the Invitational and came up with the Mystic Enforcer threshold deck they played in both constructed formats. Of course, they're both Pro Tour winners and are playing for a few thousand dollars, but that doesn't mean there won't be talk flying.
+![](http://www.wizards.com/sideboard/images/pthou02/a919.jpg)
+
+Eivind Nitter and Gary Wise, good friends, are two of the sillier members of the Pro community. Both of them are always good for a few laughs and a lot of controversial behavior, including oddball antics during matches. The two of them roomed together at the Invitational and came up with the Mystic Enforcer threshold deck they played in both constructed formats. Of course, they're both Pro Tour winners and are playing for a few thousand dollars, but that doesn't mean there won't be talk flying.
 
 "We finally meet after four years," said Nitter as he shuffled. Wise played Nitter at the Norwegian's first PT, and wasn't impressed. Suffice to say he's changed his tune and now considers Eivind one of the best in the world.
 
@@ -269,7 +271,9 @@ Eivind thought long and hard after dropping his fifth land. After several minute
 
 Gary opted against tapping out on his next turn, and it paid off. Eivind tapped five and cast Cruel Revival on the Cleric, but Meddle turned the tides, burying Eivind's morph, which was a Thrashing Mudspawn. Eivind glared at Gary for a moment.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a920.jpg)Gary Cloned the Defender on his next turn and swung in with the original. Eivind attempted what looked to be a desperation Erratic Explosion on the Clone, which needed to be for five in order to kill it. "Let's see how good you are," said Gary, and could only shrug when Nitter turned up some random one-mana Goblin.
+![](http://www.wizards.com/sideboard/images/pthou02/a920.jpg)
+
+Gary Cloned the Defender on his next turn and swung in with the original. Eivind attempted what looked to be a desperation Erratic Explosion on the Clone, which needed to be for five in order to kill it. "Let's see how good you are," said Gary, and could only shrug when Nitter turned up some random one-mana Goblin.
 
 In general, when the Explosion misses, the game is practically over.
 
@@ -283,7 +287,9 @@ In one of those weird twists of fate, neither player had a third land—or a cre
 
 Both players found the elusive third land on turn four; Eivind put out his Primoc, and Wise answered with Gustcloak Harrier. He was holding a Mistform Dreamer, and asked the head judge about its interaction with the Primoc before moving on.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a921.jpg)Eivind killed the Harrier with Erratic Explosion (revealing four land before hitting a spell, each one eliciting a groan) and attacked. Wise played his third Plains and an Ascending Aven. Eivind drew and attacked, then it was pointed out that Gary couldn't have played the Aven with WWWU. Head Judge Mike Donais consulted with his team before ruling that Gary had the option of taking a game loss or untapping his land and playing nothing on his turn. Gary argued briefly, but then picked up the Aven and moved on.
+![](http://www.wizards.com/sideboard/images/pthou02/a921.jpg)
+
+Eivind killed the Harrier with Erratic Explosion (revealing four land before hitting a spell, each one eliciting a groan) and attacked. Wise played his third Plains and an Ascending Aven. Eivind drew and attacked, then it was pointed out that Gary couldn't have played the Aven with WWWU. Head Judge Mike Donais consulted with his team before ruling that Gary had the option of taking a game loss or untapping his land and playing nothing on his turn. Gary argued briefly, but then picked up the Aven and moved on.
 
 Eivind played a morph and attacked, then Gary played land number 5 and summoned a Mistform Shrieker. Eiving attacked into it, and Gary blocked the morph. Eiving was a swamp short of flipping over the Grinning Demon, so it just died. Gary admitted that he thought it was Haunted Cadaver, and felt good that he managed to kill something much worse.
 

@@ -137,7 +137,9 @@ render_recovery:
   - 'Circle of Protection: Black'
   occurrences: 135
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/936.jpg)For the first round of day two, two stellar competitors sat down, and one of them had 244 cards in his deck. It is true, Baby Huey is playing Battle of Wits, and he is doing well, as he and Your Move Games owner Rob Dougherty both have six wins, a loss, and a draw. Huey apparently knew what Rob was playing, which turned out to be Squirrel/Opposition, proclaiming "my worst match up" as he readied for the fight.
+![](http://www.wizards.com/sideboard/images/gpmil02/936.jpg)
+
+For the first round of day two, two stellar competitors sat down, and one of them had 244 cards in his deck. It is true, Baby Huey is playing Battle of Wits, and he is doing well, as he and Your Move Games owner Rob Dougherty both have six wins, a loss, and a draw. Huey apparently knew what Rob was playing, which turned out to be Squirrel/Opposition, proclaiming "my worst match up" as he readied for the fight.
 
 Mr. Jensen chose to play first, a privilege granted when Rob pulled a black card out of Huey's playing card deck, which Huey took out to amuse himself while Rob actually pile shuffled Jensen's gigantic deck. With a first turn Llanowar Elves from Rob and a responding Addle from Huey, the game had begun. 
 
@@ -145,7 +147,9 @@ The Addle took a Call of the Herd, leaving Rob with a hand of Beast Attack and F
 
 This gave Jensen the time he needed to cast a Wild Research, probably the most powerful card in the Battle of Wits deck. Rob responded with a Fact or Fiction, but is tapped out and the red enchantment resolved. While splitting the Fact or Fiction, Huey consulted the list he made form the Addle several turns earlier, to make sure he knew exactly what was in Dougherty's hand. The FOF netted Dougherty two much-needed land, and sent a Squirrel Nest and two Call of the Herds to the graveyard for latter use. 
 
-![](http://www.wizards.com/sideboard/images/gpmil02/938.jpg)Dougherty's turn was very strong, playing an Opposition to help control Huey's ability to play his many colored spells, and creating the potential of a hard lock with the Squirrel Nest in play. On Huey's next upkeep, Rob tapped a Cave of Coilos, Huey's only white source at the time, to prevent the Research from getting Battle of Wits. Jensen floated colorless and went for his draw step, and after drawing, activated Wild Research and sent for Recoil. After a quick search for the blue/black instant, which was fortunately in the first pile Jensen chose to look through, the random discard ability of Wild Research was resolved. The card sent to the graveyard? RECOIL.
+![](http://www.wizards.com/sideboard/images/gpmil02/938.jpg)
+
+Dougherty's turn was very strong, playing an Opposition to help control Huey's ability to play his many colored spells, and creating the potential of a hard lock with the Squirrel Nest in play. On Huey's next upkeep, Rob tapped a Cave of Coilos, Huey's only white source at the time, to prevent the Research from getting Battle of Wits. Jensen floated colorless and went for his draw step, and after drawing, activated Wild Research and sent for Recoil. After a quick search for the blue/black instant, which was fortunately in the first pile Jensen chose to look through, the random discard ability of Wild Research was resolved. The card sent to the graveyard? RECOIL.
 
 If Jensen was flustered at his poor luck, he showed none of it, calmly searching again for another instant, Fire/Ice, which stayed in the hand this time, sending Diabolic Tutor to the graveyard in its place, and killing off Dougherty's squirrels. Huey, taking the offense, swings with one of the four creatures in his deck, the FTK that took out an elf a couple of turns earlier. 
 
@@ -153,7 +157,9 @@ Dougherty continued trying to overrun his opponent with tokens, playing a Desert
 
 Dougherty continued, casting main phase Beast Attack, but Jensen's Research netted him a Repulse to bounce the beast, which tapped the Kavu, letting Dougherty get a swing in with his elephant. Rob made another Beast token, and passed the turn. Huey searched again for Repulse, but hits that very same Repulse with the random discard. Undeterred, Jensen researched again, and gets Fire/Ice, pitching Absorb, and killed off Rob's last Squirrel, then trades the FTK with the beast token in combat, leaving Dougherty with a lone Call token. 
 
-![](http://www.wizards.com/sideboard/images/gpmil02/937.jpg)Rob roared back with double flash back Call of the Herds, and swung to bring Huey down to 11. Huey continued trying to cantrip away Dougherty's tokens, searching for yet another Repulse! For a guy with 244 cards in his deck he only seems to use two! But the card is not called Wild Research for nothing and the Repulse ends up in the bin. Jensen had some mana from a land tapped by Opposition, so he searched again, leaving two mana up to get a Repulse, which managed to stay in the hand. The third land however, the one Jensen needed to actually cast the Repulse, went to the graveyard and Jensen had nothing to do but say "GO."
+![](http://www.wizards.com/sideboard/images/gpmil02/937.jpg)
+
+Rob roared back with double flash back Call of the Herds, and swung to bring Huey down to 11. Huey continued trying to cantrip away Dougherty's tokens, searching for yet another Repulse! For a guy with 244 cards in his deck he only seems to use two! But the card is not called Wild Research for nothing and the Repulse ends up in the bin. Jensen had some mana from a land tapped by Opposition, so he searched again, leaving two mana up to get a Repulse, which managed to stay in the hand. The third land however, the one Jensen needed to actually cast the Repulse, went to the graveyard and Jensen had nothing to do but say "GO."
 
 Rob untapped his elephant army and went to the mattresses, swinging for nine and putting Jensen at two. Jensen had an end-of-turn effect, searching for Tainted Pact. The Pact sticks and on his main phase, Jensen cast the Tainted Pact, but cards #5 and #7 were both Battle of Wits, and game one went to Rob Dougherty.
 

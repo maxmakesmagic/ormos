@@ -101,7 +101,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 ![What's being said about us...](http://www.wizards.com/mtg/images/widgets/twitter/header.png)
 
-[![](http://a1.twimg.com/profile_images/409719842/dan100_normal.jpg)](http://twitter.com/dantack)[**dantack**](http://twitter.com/dantack) Ranking the titans: Magic: The Gathering's 2011 titan cycle [http://shar.es/mDYEG](http://shar.es/mDYEG) [#MTG](http://search.twitter.com/search?q=%23MTG) [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) [#M11](http://search.twitter.com/search?q=%23M11) [#Graveisprollybetterbut](http://search.twitter.com/search?q=%23Graveisprollybetterbut)...
+[![](http://a1.twimg.com/profile_images/409719842/dan100_normal.jpg)](http://twitter.com/dantack)
+
+[**dantack**](http://twitter.com/dantack) Ranking the titans: Magic: The Gathering's 2011 titan cycle [http://shar.es/mDYEG](http://shar.es/mDYEG) [#MTG](http://search.twitter.com/search?q=%23MTG) [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) [#M11](http://search.twitter.com/search?q=%23M11) [#Graveisprollybetterbut](http://search.twitter.com/search?q=%23Graveisprollybetterbut)...
 
 2010/06/29 14:46:46
 

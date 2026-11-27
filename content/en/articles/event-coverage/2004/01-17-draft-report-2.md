@@ -52,7 +52,9 @@ archive_source:
   sha256: 1386b2ff302939fb1a2a5ac8871d401271d730a61694a4e2ce52224479f24345
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/dr10.jpg)Richard Hoaen is one of Canada's finest, and is looking to show that his Pro Tour Yokohama Top 8 at the end of last season was not a fluke. After four drafts, he found himself at Pod 2, with a shot at playing tomorrow. Helping matters was the fact that fellow Canadian Aeo Paquette was to his right, which ensured more cooperation than usual. His table sat like this:
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/dr10.jpg)
+
+Richard Hoaen is one of Canada's finest, and is looking to show that his Pro Tour Yokohama Top 8 at the end of last season was not a fluke. After four drafts, he found himself at Pod 2, with a shot at playing tomorrow. Helping matters was the fact that fellow Canadian Aeo Paquette was to his right, which ensured more cooperation than usual. His table sat like this:
 
 Takuya Oosawa  
  David Brucker  

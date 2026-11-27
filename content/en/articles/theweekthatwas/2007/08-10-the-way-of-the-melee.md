@@ -163,7 +163,9 @@ RC: In no particular order: [Force of Will](https://web.archive.org/web/20070810
 
 ### The 2007 Magic Invitational: The Storyteller Ballot
 
-[![](https://i.ormos.uk/b3/04/b304b8e03318747a51e0590c0f44959f23cfb4659b0f8e382ff06ab51a18d1c5.jpg)](/en/events/2007/mi07/evan-erwin-is-the-magic-storyteller)We're coming down to the last few spots at the 2007 Magic Invitational. Mark Herberholz won the [North American ballot](/en/events/2007/mi07/mark-herberholz-is-the-top-player-in-north-america) by a wide enough margin to justify the use of the word "landslide."
+[![](https://i.ormos.uk/b3/04/b304b8e03318747a51e0590c0f44959f23cfb4659b0f8e382ff06ab51a18d1c5.jpg)](/en/events/2007/mi07/evan-erwin-is-the-magic-storyteller)
+
+We're coming down to the last few spots at the 2007 Magic Invitational. Mark Herberholz won the [North American ballot](/en/events/2007/mi07/mark-herberholz-is-the-top-player-in-north-america) by a wide enough margin to justify the use of the word "landslide."
 
 All of the geographic ballots had been moved up a week to allow for a more creative option on the [Storyteller ballot](/en/events/2007/mi07/evan-erwin-is-the-magic-storyteller). Let me explain what happ—actually I don't need to do any talking here as everyone on this week's ballot has no trouble talking for themselves. 
 

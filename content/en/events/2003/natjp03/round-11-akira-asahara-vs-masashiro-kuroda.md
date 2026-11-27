@@ -100,7 +100,9 @@ render_recovery:
   - Turbulent Dreams
   occurrences: 51
 ---
-![](http://www.wizards.com/sideboard/images/natjp03/a956.jpg)Masashiro Kuroda was the only undefeated player after yesterday’s rounds, but today hasn’t been so kind. Going into Round 11, Kuroda is 1-3 on the day, and needs this win to stay in the hunt for Top 8. Standing in his way is Akira Asahara, who is considered by many to be Japan’s top deckbuilder. He came in 12th place at Pro Tour Houston with a unique Aluren build, and proved that he’s not just a one format player by winning Grand Prix Kyoto.
+![](http://www.wizards.com/sideboard/images/natjp03/a956.jpg)
+
+Masashiro Kuroda was the only undefeated player after yesterday’s rounds, but today hasn’t been so kind. Going into Round 11, Kuroda is 1-3 on the day, and needs this win to stay in the hunt for Top 8. Standing in his way is Akira Asahara, who is considered by many to be Japan’s top deckbuilder. He came in 12th place at Pro Tour Houston with a unique Aluren build, and proved that he’s not just a one format player by winning Grand Prix Kyoto.
 
 ### Game 1
 

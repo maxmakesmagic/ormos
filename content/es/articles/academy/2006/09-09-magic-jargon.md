@@ -307,7 +307,9 @@ render_recovery:
 > "¡Di las palabras mágicas!"  
 >  "¿Pero qué *significan*?"
 
-![Thran_Tome](https://i.ormos.uk/bb/44/bb4405e9dbd32be5ed005254a5045818c7a65641f6ae39b42612b78f1ec9091f.jpg)**Magic**, como muchos otros juegos y mundillos, está lleno de jerga propia, o lo que es lo mismo, palabras imposible de entender si no están rodeadas de contexto. Este artículo está pensado para hacer que conozcas algunas de las muchas piezas de la jerga y el argot de **Magic**. Ten en cuenta, sin embargo, que este idioma se adapta y cambia a una velocidad de vértigo, así que es probable que algunas de estas palabras hayan cambiado desde que se escribió el artículo. Esta guía no es en absoluto una guía completa pero si que será un primer paso sobre todo lo básico. Con esta guía en mano con suerte podrás desenvolverte con todos los artículos de ahí fuera. 
+![Thran_Tome](https://i.ormos.uk/bb/44/bb4405e9dbd32be5ed005254a5045818c7a65641f6ae39b42612b78f1ec9091f.jpg)
+
+**Magic**, como muchos otros juegos y mundillos, está lleno de jerga propia, o lo que es lo mismo, palabras imposible de entender si no están rodeadas de contexto. Este artículo está pensado para hacer que conozcas algunas de las muchas piezas de la jerga y el argot de **Magic**. Ten en cuenta, sin embargo, que este idioma se adapta y cambia a una velocidad de vértigo, así que es probable que algunas de estas palabras hayan cambiado desde que se escribió el artículo. Esta guía no es en absoluto una guía completa pero si que será un primer paso sobre todo lo básico. Con esta guía en mano con suerte podrás desenvolverte con todos los artículos de ahí fuera. 
 
 ### Abreviaciones de maná
 

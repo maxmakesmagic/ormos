@@ -40,7 +40,9 @@ render_recovery:
 ---
 <table><tbody><tr><td><img alt="" src="https://i.ormos.uk/57/f7/57f763a16259b57631825ca97d98a132e57a70447962e8c18c6de75c0f39ab07.jpg"></td>&#10;			<td>&#10;			<h2>Canadian Nationals 2000 Coverage</h2>&#10;			</td>&#10;			<td> </td>&#10;		</tr></tbody></table>
 
-![](https://i.ormos.uk/8d/5f/8d5fa7c79f74d86e1c85da121587f228adcd299563a53038f515a20c625320a9.jpg)Ryan Fuller is the 2000 Canadian National Champion after defeating Murray Evans, 3-2, in the [finals](https://web.archive.org/web/20170721042255/http://archive.wizards.com/eventarticle.asp?event=CANNAT00&name=891matchfinals). Fuller takes home $2,500 for his weekend of Magic. The Canadian National Team consists of Ryan Fuller, Murray Evans, Gab Tsang, and Sam Lau.
+![](https://i.ormos.uk/8d/5f/8d5fa7c79f74d86e1c85da121587f228adcd299563a53038f515a20c625320a9.jpg)
+
+Ryan Fuller is the 2000 Canadian National Champion after defeating Murray Evans, 3-2, in the [finals](https://web.archive.org/web/20170721042255/http://archive.wizards.com/eventarticle.asp?event=CANNAT00&name=891matchfinals). Fuller takes home $2,500 for his weekend of Magic. The Canadian National Team consists of Ryan Fuller, Murray Evans, Gab Tsang, and Sam Lau.
 
  
 

@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/a959.jpg)Osamu Fujita is a veteran of the Grand Prix circuit with many strong finishes under his belt. In Gary Wise’s article on Japan’s top players, Fujita was defined by his “insatiable Magic appetite”. He loves to play, no matter the time, place or format. Apparently he really likes winning too, as he came into this round in second place. Above him in first is Yohei Yamamoto, who grinded into Nationals with Psychatog, and fought his way to the top of the standings. Yamamoto has no top finishes to his name, but last year’s Japanese National Champion Kazuhiko Mitsuya also came into the tournament as a relatively unknown player, and ended up winning the whole thing. So, there is precedent for Yamamoto to win the whole thing, and with his success this weekend so far, no one should be surprised if history repeats itself.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natjp03/a959.jpg)
+
+Osamu Fujita is a veteran of the Grand Prix circuit with many strong finishes under his belt. In Gary Wise’s article on Japan’s top players, Fujita was defined by his “insatiable Magic appetite”. He loves to play, no matter the time, place or format. Apparently he really likes winning too, as he came into this round in second place. Above him in first is Yohei Yamamoto, who grinded into Nationals with Psychatog, and fought his way to the top of the standings. Yamamoto has no top finishes to his name, but last year’s Japanese National Champion Kazuhiko Mitsuya also came into the tournament as a relatively unknown player, and ended up winning the whole thing. So, there is precedent for Yamamoto to win the whole thing, and with his success this weekend so far, no one should be surprised if history repeats itself.
 
 ### Game 1
 

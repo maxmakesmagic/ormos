@@ -44,7 +44,9 @@ archive_source:
   sha256: 1fdd3ea5ae8bf25bff47f181b7cc4f303efa8125d981a063c85f6e6fe6025336
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm10_1.jpg)Gary started off immediately with, "I'd be happy if you'd begin this feature match by saying that my opponent was once suspended for six months, because the rest of it's going to be him tearing me a new (bleep)." This was followed by the usual reminiscing about Bob's wife providing cookies, to which Bob replied, "Cookies didn't make it out of the hotel this time. Just me, Dave, and Neil sitting around the hotel room, eating brownies."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm10_1.jpg)
+
+Gary started off immediately with, "I'd be happy if you'd begin this feature match by saying that my opponent was once suspended for six months, because the rest of it's going to be him tearing me a new (bleep)." This was followed by the usual reminiscing about Bob's wife providing cookies, to which Bob replied, "Cookies didn't make it out of the hotel this time. Just me, Dave, and Neil sitting around the hotel room, eating brownies."
 
 The mention of eating brownies, of course, led to speculation about the percentage of people in the building that were currently stoned. Leading theories placed the number between five and ten percent. Eventually, the competitors and former teammates were done shuffling.
 

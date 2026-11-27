@@ -102,7 +102,9 @@ render_recovery:
 
 ### Game 1
 
-![JC is 40% style, 60% substance](http://www.wizards.com/sideboard/images/ptno03/871.jpg "JC is 40% style, 60% substance")Jeff won the right to go first when Jens selected the hand that wasn't holding the glass bead. He led off with Island and passed the turn. Jens had City of Brass and a Goblin Welder, which was fine with Jeff as he played Engineered Plague on turn two off of a Psychatog-imprinted Chrome Mox. Jens came back with Ancient Tomb into Monolith, which fueled his Thirst for Knowledge plus Voltaic Key.
+![JC is 40% style, 60% substance](http://www.wizards.com/sideboard/images/ptno03/871.jpg "JC is 40% style, 60% substance")
+
+Jeff won the right to go first when Jens selected the hand that wasn't holding the glass bead. He led off with Island and passed the turn. Jens had City of Brass and a Goblin Welder, which was fine with Jeff as he played Engineered Plague on turn two off of a Psychatog-imprinted Chrome Mox. Jens came back with Ancient Tomb into Monolith, which fueled his Thirst for Knowledge plus Voltaic Key.
 
 Jeff's third turn was just Bloodstained Mire, but after Jens passed the turn back he Brainstormed, then shuffled the chaff away by searching for a Mountain, and finally Vampiric Tutored. He untapped and put down an Isochron Scepter that was imprinted with Counterspell after Jens resolved a Thirst for Knowledge in response. Jeff finished his turn with two mana up and one card in hand.
 
@@ -118,7 +120,9 @@ Jens Thoren 1 - Jeff Cunningham 0
 
 ### Game 2
 
-![Jens Thoren, immobile.](http://www.wizards.com/sideboard/images/ptno03/872.jpg "Jens Thoren, immobile.")The next game began with a "Good luck" from Jens and a "Thanks" from Jeff, who then led with an Island. Thoren had Ancient Tomb followed by Greaves on his first turn, and Cunningham Brainstormed on end step. This was followed by Bloodstained Mire, which fetched a mountain that was used to pay for an Ice on Thoren's land during upkeep. Another uneventful turn passed for Jeff, though on Thoren's turn he killed a Metalworker, this time with the red half of Fire/Ice. He then played his fourth land and cast Fact or Fiction in response to Jens's turn four Metalworker.
+![Jens Thoren, immobile.](http://www.wizards.com/sideboard/images/ptno03/872.jpg "Jens Thoren, immobile.")
+
+The next game began with a "Good luck" from Jens and a "Thanks" from Jeff, who then led with an Island. Thoren had Ancient Tomb followed by Greaves on his first turn, and Cunningham Brainstormed on end step. This was followed by Bloodstained Mire, which fetched a mountain that was used to pay for an Ice on Thoren's land during upkeep. Another uneventful turn passed for Jeff, though on Thoren's turn he killed a Metalworker, this time with the red half of Fire/Ice. He then played his fourth land and cast Fact or Fiction in response to Jens's turn four Metalworker.
 
 The choices were a lone Vampiric Tutor against Polluted Delta, Bloodstained Mire, Swamp and Island, and Jeff chose to take the spell. Metalworker was equipped with the Greaves and immediately tapped to make four mana, some of which paid for a Thirst for Knowledge pitching Seat of the Synod. Another Seat entered play and was immediately Tinkered away. Jeff picked up an island for Daze and the spell was countered.
 

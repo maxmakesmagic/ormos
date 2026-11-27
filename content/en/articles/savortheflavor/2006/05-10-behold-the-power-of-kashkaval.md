@@ -85,7 +85,9 @@ archive_source:
   sha256: 6a4d86ee35f0678d0ff9df6693ff20449917c19003e1921922b9e6db20975401
 render_recovery: []
 ---
-![](https://i.ormos.uk/78/95/7895ae1a5a6bfee2168d46343e6277a5c98bd6174f6a3153792916a9d405db63.jpg)Kashkaval! What is that? There are two clues that predate this particular hint to the existence of the clues. 1. The flavor text for *Dissension's* [Ratcatcher](https://web.archive.org/web/20060510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ratcatcher).
+![](https://i.ormos.uk/78/95/7895ae1a5a6bfee2168d46343e6277a5c98bd6174f6a3153792916a9d405db63.jpg)
+
+Kashkaval! What is that? There are two clues that predate this particular hint to the existence of the clues. 1. The flavor text for *Dissension's* [Ratcatcher](https://web.archive.org/web/20060510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ratcatcher).
 
 > *An ogre's poisonous stench is like fine Kashkaval cheese to the noses lowest to the ground.*
 
@@ -93,7 +95,9 @@ render_recovery: []
 
 \* \* \*
 
-![](https://i.ormos.uk/f8/a0/f8a0b6321d3f12421406e41f6d408806c600118523e0874f73d2ae03047f9360.jpg)Sometimes I think words in **Magic** are not explored beyond their primary purpose of identifying cards and keeping them from stumbling over each other. This is important, but it's only the surface. Words can and do mean a lot more than that. I am not saying that everybody takes the words they see on cards for just their surface value, but I am willing to bet an evening's work that there are some words in *Dissension* whose depth and meaning are not already known to Alex P. Cardplayer- like Kashkaval; -A Bulgarian cheese similar in character and color to Caciocavallo or Provolone, firming as it ages into a fine grating cheese. This Bulgarian cheese is a fine fit into the Eastern European flavor of Ravnica. That's the sort of flavor that I, as a **Magic** fan, really appreciate, and I don't mean the warm and subtle flavor of cheese.
+![](https://i.ormos.uk/f8/a0/f8a0b6321d3f12421406e41f6d408806c600118523e0874f73d2ae03047f9360.jpg)
+
+Sometimes I think words in **Magic** are not explored beyond their primary purpose of identifying cards and keeping them from stumbling over each other. This is important, but it's only the surface. Words can and do mean a lot more than that. I am not saying that everybody takes the words they see on cards for just their surface value, but I am willing to bet an evening's work that there are some words in *Dissension* whose depth and meaning are not already known to Alex P. Cardplayer- like Kashkaval; -A Bulgarian cheese similar in character and color to Caciocavallo or Provolone, firming as it ages into a fine grating cheese. This Bulgarian cheese is a fine fit into the Eastern European flavor of Ravnica. That's the sort of flavor that I, as a **Magic** fan, really appreciate, and I don't mean the warm and subtle flavor of cheese.
 
 Skeins. What are they, and do they have anything to do with food? Well, this depends on who you are asking. If you ask me, “Skeins” are mysterious, arcane spells that only the most dedicated tome-delvers truly understand. But, ask a Prahvian scrollwarden and she'll tell you they're magical strands that connect various brain lobes of one wizard to those of another. Ask an old maid from Boise and she'll tell you they're balls of yarn. Ask a pastaphile with a huge vocabulary and he'll tell you it's spaghetti. In some way, we're all correct.
 
@@ -115,7 +119,9 @@ Okay, I just got an earful from TTM's resident pronunciation specialist, Sekki. 
 
 ### Sekki, Pronunciation's Guide
 
-![](https://i.ormos.uk/46/01/4601008c36460ed4214044398efce0cc18c8b61b9499286bc05347956dbe0e46.jpg)**Skeins** – Matt failed to give the proper pronunciation of this word. We can know all there is to know about words, but if we butcher them while speaking, we are no better than a [Tin Street Hooligan](https://web.archive.org/web/20060510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tin+Street+Hooligan). Anyway, Skeins is pronounced SKAYNZ, as if the “e” were an “a.”
+![](https://i.ormos.uk/46/01/4601008c36460ed4214044398efce0cc18c8b61b9499286bc05347956dbe0e46.jpg)
+
+**Skeins** – Matt failed to give the proper pronunciation of this word. We can know all there is to know about words, but if we butcher them while speaking, we are no better than a [Tin Street Hooligan](https://web.archive.org/web/20060510000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tin+Street+Hooligan). Anyway, Skeins is pronounced SKAYNZ, as if the “e” were an “a.”
 
 **Vigean** – Similar to the “Protean” issue addressed earlier, Vigean has 3 syllables, VIG-ee-an. The soft “g” sound is also acceptable, VIJ-ee-an, though the Blue/Green with Brown noses make sure to nail the hard “g” when in the company of the [Momir Vig, Simic Visionary](https://web.archive.org/web/20060510000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Momir%2BVig%252C%2BSimic%2BVisionary).
 
@@ -135,6 +141,8 @@ Having Sekki do his thing reminds me of something we have not seen since his deb
 
 \* \* \*
 
-![](https://i.ormos.uk/52/cd/52cd58b4cbcf2a3e3df7f099da51bd5f6e76e480a3424af6c51d323fd41c8e04.jpg)“Moloch must die.” This was the context of my first encounter with the word, moloch. It was an episode of CHiPs in which a rock and roll devil worship poseur received death threats backward masked on his records. Of course, this sounds like a job for the Highway Patrol. This has little to do with anything other than the fact that I find that extremely funny (the devil worshipping rocker was none other than Ralph Malph), and that Moloch was a biblical god to which children were sacrificed. But there is another meaning to “moloch” that is more closely related to **Magic's** two molochs, one lazy and other crazy. A moloch in Ravnica is a huge lizard of extreme temperament (one way or the other.) According to Earth's lizard-lovers, molochs are Australian lizards with spiny scales. Okay, that one is not so arcane, and not terribly interesting, but I am tickled by the opportunity to share my CHiPs story.
+![](https://i.ormos.uk/52/cd/52cd58b4cbcf2a3e3df7f099da51bd5f6e76e480a3424af6c51d323fd41c8e04.jpg)
+
+“Moloch must die.” This was the context of my first encounter with the word, moloch. It was an episode of CHiPs in which a rock and roll devil worship poseur received death threats backward masked on his records. Of course, this sounds like a job for the Highway Patrol. This has little to do with anything other than the fact that I find that extremely funny (the devil worshipping rocker was none other than Ralph Malph), and that Moloch was a biblical god to which children were sacrificed. But there is another meaning to “moloch” that is more closely related to **Magic's** two molochs, one lazy and other crazy. A moloch in Ravnica is a huge lizard of extreme temperament (one way or the other.) According to Earth's lizard-lovers, molochs are Australian lizards with spiny scales. Okay, that one is not so arcane, and not terribly interesting, but I am tickled by the opportunity to share my CHiPs story.
 
 There are a lot more wordstuffs in *Dissension* to dig into. For that matter, there are a lot more in the rest of *Ravnica* block as well. With cards being as small as they are, and with the small amount of words we can fit on them, we have to use words that give us a lot of bang for the buck. If you take a spin through your binder, you are almost sure to come across a word or two that strike you as odd, arcane, or just “out there.” Don't leave it at that. Crack a dictionary, hunt down word roots, or just Google it. Odds are, you'll find that it's packing a lot of punch. And by “punch,” I mean the sweet fruity mélange ladled into little paper cups. You see, we have a lot of flavor to deliver on cards, so we have to mix it in everywhere we can. Enjoy the tasty beverage.

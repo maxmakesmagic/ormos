@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### Luis Scott-Vargas(アメリカ) vs. Brian Robinson(アメリカ)
 
-![](https://i.ormos.uk/53/0b/530b8b0a64ec8bfb153e9519e698f58d47df3b3fcc1c4e293d643132674ce67c.jpg)本日掲載された、スタンダードウォッチング：トップ8編で、八十岡 翔太(東京)に、決勝ラウンドのマッチアップの予想をしてもらった。
+![](https://i.ormos.uk/53/0b/530b8b0a64ec8bfb153e9519e698f58d47df3b3fcc1c4e293d643132674ce67c.jpg)
+
+本日掲載された、スタンダードウォッチング：トップ8編で、八十岡 翔太(東京)に、決勝ラウンドのマッチアップの予想をしてもらった。
 
 そこでは、デックリストから予想されうる、平均的なマジックが行われた場合の結果の予想であった。
 
@@ -86,7 +88,9 @@ LSVが《潮の虚ろの漕ぎ手/[Tidehollow Sculler](https://web.archive.org/w
 
 **八十岡**　「でも、LSVは特別だから。あのプレイングスキルで、あれだけ引きが強いってひどいもんだよ」
 
-![](https://i.ormos.uk/5e/8c/5e8cf745dd7c5231bde3242e470bf2b5ab7f09d9b39b5e27afb586ebb71e406c.jpg)2ターン目に《苦花》からスタートしたLSV。手札に控える《幽体の行列》が次のターンの出番を待ち構えている。
+![](https://i.ormos.uk/5e/8c/5e8cf745dd7c5231bde3242e470bf2b5ab7f09d9b39b5e27afb586ebb71e406c.jpg)
+
+2ターン目に《苦花》からスタートしたLSV。手札に控える《幽体の行列》が次のターンの出番を待ち構えている。
 
 しかし、1ターン目に《極楽鳥/[Birds of Paradise](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds+of+Paradise)》からスタートしたRobinsonは、2ターン目に土地はとまってしまうものの、《ガドック・ティーグ/[Gaddock Teeg](https://web.archive.org/web/20090301000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaddock+Teeg)》をキャストし、《幽体の行列》を紙切れにする。
 

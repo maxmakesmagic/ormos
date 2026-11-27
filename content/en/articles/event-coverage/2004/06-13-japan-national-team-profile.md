@@ -44,7 +44,9 @@ archive_source:
   sha256: 43d42fdf492152dc480417c0b09c2cdf2f4e8fcef7b7729a5784b03227f89957
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/nt1.jpg)Japan has never failed to send high caliber players to the World Championship. This year, the team's chances look quite good, though it lacks some of the powerhouse veterans expected to be on the team. But with a mix of famous names and dark horses, the Land of the Rising Sun has a strong shot at capturing the World Championship.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/jpnat04/nt1.jpg)
+
+Japan has never failed to send high caliber players to the World Championship. This year, the team's chances look quite good, though it lacks some of the powerhouse veterans expected to be on the team. But with a mix of famous names and dark horses, the Land of the Rising Sun has a strong shot at capturing the World Championship.
 
 2004 Japanese National Champion Tsuyoshi Fujita was the first Japanese pro to make to a Sunday, and went all the way to the finals at Pro Tour Osaka 2002. Until Masahiro Kuroda took the trophy at Pro Tour Osaka, he was the most successful Sunday player in Japanese history. He's won Grand Prix: Bangkok and Kyoto 2000. He's made one trips to the Invitational, where his Dance Dance Revolution skills have been widely touted in print. He resides in Osaka.
 

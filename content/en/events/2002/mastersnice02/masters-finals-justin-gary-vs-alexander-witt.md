@@ -55,7 +55,9 @@ render_recovery: []
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a252.jpg)The Netherlands's Alexander Witt is trying to live the impossible dream: grind into the Masters via the Gateway, and then with the whole thing. He is currently 9-0 in both tournaments combined, a feat that prompted Head Judge Rune Horvik to comment: "His rating is like 3000." In his way is Justin Gary, the last hope of a surprisingly ineffective American contingent. Witt is playing Super-Gro with 14 lands, Werebear, Meddling Mage, Quirion Dryad, and Mystic Enforcer. Gary is playing Counter-Oath with an atypical creature set of two Morphlings and a Spike Weaver.
+![](http://www.wizards.com/sideboard/images/mastersnice02/a252.jpg)
+
+The Netherlands's Alexander Witt is trying to live the impossible dream: grind into the Masters via the Gateway, and then with the whole thing. He is currently 9-0 in both tournaments combined, a feat that prompted Head Judge Rune Horvik to comment: "His rating is like 3000." In his way is Justin Gary, the last hope of a surprisingly ineffective American contingent. Witt is playing Super-Gro with 14 lands, Werebear, Meddling Mage, Quirion Dryad, and Mystic Enforcer. Gary is playing Counter-Oath with an atypical creature set of two Morphlings and a Spike Weaver.
 
 The players had access to each other's decklists, and both put in many hours of playtesting yesterday – Witt with Tom van de Logt, Jeroen Remie, and other Dutch players; Gary with Rob Dougherty and the rest of the Your Move Games gang. So there should be no surprises.
 
@@ -75,7 +77,9 @@ The Dryad beat Justin to 13, but the Oath coughed up a Morphling. Witt was stran
 
 The two-Morphling plan paid off, and Gary just Oathed up his other one. He then Plowed the Quirion Dryad during Witt's upkeep so that Oath wouldn't trigger. Morphling swung in. A turn later, Witt, still creatureless, Oathed up a Meddling Mage and named 'Counterspell.'
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a259.jpg)Justin's Sylvan Library was treating him well – he found a Powder Keg and cast it. Witt Forced, but Gary Forced back, emptying his hand. But the Keg was out, and in two turns he could get rid of the Orb and the Mage.
+![](http://www.wizards.com/sideboard/images/mastersnice02/a259.jpg)
+
+Justin's Sylvan Library was treating him well – he found a Powder Keg and cast it. Witt Forced, but Gary Forced back, emptying his hand. But the Keg was out, and in two turns he could get rid of the Orb and the Mage.
 
 Witt managed to get four land untapped and cast Mystic Enforcer. Gary tried to Counterspell it, and Rune Horvik had to remind him of the Meddling Mage.
 
@@ -101,7 +105,9 @@ Witt made the first move in the "new game" with a Werebear. Justin tried to coun
 
 The Weaver kept the Werebear at bay for three turns, long enough for Justin to find a Treetop Village to block it for another turn wile the Oath could reshuffle and find the Weaver. He also put out a second Oath to insure that he could get a Weaver every time.
 
-![](https://i.ormos.uk/77/17/7717d06a106ddfa3c25da2a7fe692552bf3b3f3a819d574ac12311da2c8e392c.jpg)Justin then posed the question: "Can you win this game?" He then went onto explain that he had two Oaths and a Weaver and planned to 'fog' every turn for the rest of the game until Witt was decked. Witt had no more Swords, he had no way to remove the Oaths, and he had no way to deal damage other than creatures. Witt thought it through for a minute, then scooped 'em up.
+![](https://i.ormos.uk/77/17/7717d06a106ddfa3c25da2a7fe692552bf3b3f3a819d574ac12311da2c8e392c.jpg)
+
+Justin then posed the question: "Can you win this game?" He then went onto explain that he had two Oaths and a Weaver and planned to 'fog' every turn for the rest of the game until Witt was decked. Witt had no more Swords, he had no way to remove the Oaths, and he had no way to deal damage other than creatures. Witt thought it through for a minute, then scooped 'em up.
 
 Gary 1 – Witt 0
 
@@ -123,7 +129,9 @@ Witt got back up to 4 mana and played the Enforcer correctly. Gary was holding S
 
 Justin had to double-block the Werebear with his Weaver and a Village, which set him back on mana. Witt resolved a Dryad and attacked for two with the Mage. Gary had Powder Keg in his hand but didn't cast it because of Daze. It was all up to Treetop Village #2 to hold down the fort.
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a249.jpg)Witt had no fear, sending the 1/1 Dryad and the Meddling Mage into the Red Zone. As predicted, Gary activated his Village and blocked the Dryad. Witt had Wax/Wane, and Waxed the 1/1 to 3/3 for a trade. Gary fell to 3.
+![](http://www.wizards.com/sideboard/images/mastersnice02/a249.jpg)
+
+Witt had no fear, sending the 1/1 Dryad and the Meddling Mage into the Red Zone. As predicted, Gary activated his Village and blocked the Dryad. Witt had Wax/Wane, and Waxed the 1/1 to 3/3 for a trade. Gary fell to 3.
 
 The Winter Orbs prevented Justin from ever being able to get the Village active again before the Meddling Mage killed him. Witt's Mystic Enforcer error did not cost him the game, amazingly enough.
 
@@ -141,7 +149,9 @@ Witt played out a quick Werebear, and Gary Forced its Will, pitching a Morphling
 
 Witt untapped and cast another Winter Orb, which Gary tapped out to Counterspell. Unfortunately for Gary, Witt had Force of Will, and Gary was now tied up with the Orb once again. Gary managed to get an Oath out, but Wit had another Wax/Wane.
 
-![](http://www.wizards.com/sideboard/images/mastersnice02/a260.jpg)Gary: "I thought I baited that with the Seal! Oh, well."
+![](http://www.wizards.com/sideboard/images/mastersnice02/a260.jpg)
+
+Gary: "I thought I baited that with the Seal! Oh, well."
 
 Witt put out a Meddling Mage, and Gary decided to wait and see what he named before Pyroblasting it. Witt named 'Powder Keg,' and Gary let it stay.
 

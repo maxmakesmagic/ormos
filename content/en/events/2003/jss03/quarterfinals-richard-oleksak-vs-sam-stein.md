@@ -106,7 +106,9 @@ render_recovery:
   - Persecute
   occurrences: 116
 ---
-![](https://i.ormos.uk/6a/95/6a958def5dfb91c662b0a08a4bf502aab000c1e8503f06620963b986be88b73a.jpg)The Top 8 is underway. Richard Oleksak finished second in the Swiss portion of this event with Psychatog, while Sam Stein used his Red-Green beatdown deck to power his way to a seventh place finish. This quarterfinal match will be played the same way as the rest of the event, two out of three games to determine who will advance to the semi-finals.
+![](https://i.ormos.uk/6a/95/6a958def5dfb91c662b0a08a4bf502aab000c1e8503f06620963b986be88b73a.jpg)
+
+The Top 8 is underway. Richard Oleksak finished second in the Swiss portion of this event with Psychatog, while Sam Stein used his Red-Green beatdown deck to power his way to a seventh place finish. This quarterfinal match will be played the same way as the rest of the event, two out of three games to determine who will advance to the semi-finals.
 
 "Just relax," head judge Elaine Chase mentioned to the competitors. "Ignore the lights and the people and the television cameras." This got a nervous chuckle out of the competitors. Tension was running a little high at this point.
 
@@ -144,7 +146,9 @@ Sam led with three Llanowar Elves in two turns, and while he was playing with hi
 
 The Engineered Plague was joined a turn later by Psychatog, which isn't an elf. The 'tog was used as a blocker to stop an Elephant Token beatdown show, and Richard appeared to be in good shape. Even when the Elephant token returned a turn later, thanks to the flashback on Call of the Herd, Richard appeared unconcerned.
 
-![](http://www.wizards.com/sideboard/images/natus03/a720.jpg)"Concentrate," Richard announced. Without counter magic in his red-green beatdown deck Sam could do nothing but nod. It was the second Concentrate that Richard had played, refilling his hand and leaving Sam with only one card in hand. Despite the presence of three creatures on his side of the table Sam couldn't make enough damage come through that an attack phase would be worth his time.
+![](http://www.wizards.com/sideboard/images/natus03/a720.jpg)
+
+"Concentrate," Richard announced. Without counter magic in his red-green beatdown deck Sam could do nothing but nod. It was the second Concentrate that Richard had played, refilling his hand and leaving Sam with only one card in hand. Despite the presence of three creatures on his side of the table Sam couldn't make enough damage come through that an attack phase would be worth his time.
 
 Richard put Future Sight on the table and turned over the top card of his library. A slight groan escaped from Sam as Richard revealed Engineered Plague sitting on the top of his library. Sam finally decided to attack. He was able to force three damage through when Richard blocked his elephant token and decided to take the damage from Basking Rootwalla. Richard's life total dropped to thirteen, but a Delusions of Mediocrity off the top of the deck brought him back up to 23.
 
@@ -164,7 +168,9 @@ During the shuffling Sam asked the most crucial question of the game so far. "Ho
 
 The early going was a little slow, as Sam played creatures and Richard destroyed them. For three consecutive turns this pattern continued. A Llanowar Elves got Smothered. A Grim Lavamancer got Edicted. A Basking Rootwalla also felt Chainer's wrath. Finally though Sam was able to a get creature to stick to the table, a Phantom Centaur hit the table and stayed. Then a Grim Lavamancer joined it. Richard cast Hibernation and asked Sam to pick up his Phantom Centaur though moments later.
 
-![](http://www.wizards.com/sideboard/images/natus03/a722.jpg)Richard appeared to be a little nervous around this time. He had missed three consecutive land drops, leaving him with only two Islands and a single Swamp on the table. Finally a fourth land came off the top of his deck. The problem was that that land was a Polluted Delta, and with his life total at only eight he had to be concerned about running headlong into burn.
+![](http://www.wizards.com/sideboard/images/natus03/a722.jpg)
+
+Richard appeared to be a little nervous around this time. He had missed three consecutive land drops, leaving him with only two Islands and a single Swamp on the table. Finally a fourth land came off the top of his deck. The problem was that that land was a Polluted Delta, and with his life total at only eight he had to be concerned about running headlong into burn.
 
 "You have two cards," Richard asked Sam. He knew one of them was the Phantom Centaur that did some hibernating earlier, but he was unsure of what the other card. He decided to sacrifice the Delta and go to five life, using the four mana to cast Delusions of Mediocrity to raise his life total to fifteen. He was holding a second Delusions of Mediocrity though and could prolong this game even more.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Matthew Vienneau* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/843.jpg)Jon Finkel, who may be best known for coming in third at PT Columbus (Juniors), was faced up against Bob Maher who was one match short from being the Magic World Champion earlier this year. Jon had selected Tempest, Visions and Destiny to build his deck while Bob had gone with Tempest, Visions and Alliances. Despite only being one set different, their decks were wide apart in theme and structure. Jon was playing mono-blue with Whispers of the Muse, Masticore and Rainbow Efreet along with Grindstones and Thran Foundry in the sideboard for other control decks. Bob used Humility and Kjeldoran Outpost to attain board control with counterspells to back it up and Browse and Soldevi Digger in the sideboard. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MI00/843.jpg)
+
+Jon Finkel, who may be best known for coming in third at PT Columbus (Juniors), was faced up against Bob Maher who was one match short from being the Magic World Champion earlier this year. Jon had selected Tempest, Visions and Destiny to build his deck while Bob had gone with Tempest, Visions and Alliances. Despite only being one set different, their decks were wide apart in theme and structure. Jon was playing mono-blue with Whispers of the Muse, Masticore and Rainbow Efreet along with Grindstones and Thran Foundry in the sideboard for other control decks. Bob used Humility and Kjeldoran Outpost to attain board control with counterspells to back it up and Browse and Soldevi Digger in the sideboard. 
 
 Bob was not confident going into this game and both he and Finkel agreed that his chances were extremely poor. They did differ on how long it would take - Finkel thought it would take a while, but Bob was pretty sure he'd get defeated quickly. 
 

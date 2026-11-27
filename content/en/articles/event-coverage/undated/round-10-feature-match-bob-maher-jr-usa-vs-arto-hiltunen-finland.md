@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Josh Bennett* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/758.jpg)"You seem to have done pretty well for yourself," says Arto Hiltunen as he sits across from Bob Maher Jr. That certainly doesn't put too fine a point on it. After winning last year's Pro Tour-Chicago, Maher finished second at Worlds. Hiltunen's career is also going well, having been crowned Finnish National Champion multiple times, as well as putting in strong finishes at the European Championships and Grand Prix: Sydney. The two have played each other on a number of occasions, but joke that it was before they really "got good." 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/758.jpg)
+
+"You seem to have done pretty well for yourself," says Arto Hiltunen as he sits across from Bob Maher Jr. That certainly doesn't put too fine a point on it. After winning last year's Pro Tour-Chicago, Maher finished second at Worlds. Hiltunen's career is also going well, having been crowned Finnish National Champion multiple times, as well as putting in strong finishes at the European Championships and Grand Prix: Sydney. The two have played each other on a number of occasions, but joke that it was before they really "got good." 
 
 In game one, Maher's turn-three Airship was countered, and Hiltunen Opted into an Absorb for Maher's second a turn later. Hiltunen tapped out for Blinding Angel, and Maher matched it with Troublesome Spirit. Hiltunen played a second Angel, while Maher cast Parallax Tide, denying Hiltunen his three Islands. The Angels swung, stealing an attack phase from Maher. Maher cast Wash Out, and the Tide made the Angels stay at home, at least for a while. 
 

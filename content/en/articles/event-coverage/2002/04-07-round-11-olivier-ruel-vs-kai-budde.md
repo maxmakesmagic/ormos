@@ -44,7 +44,9 @@ archive_source:
   sha256: d8fbbd3df1065439daf441ce0bf82e4a9f284a27ec2a9ff5bf10f4f831e5c0bd
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a910.jpg)Kai Budde is unbeaten and three points clear of the rest of the field. Unfortunately this means he can't get the one point he needs for Top 8 by simply drawing in, as no one else can afford to yet. He was hoping to be drawn against Patrick Mello so he could concede against his team-mate and then ID in the next round, probably with Olivier Ruel. Unfortunately this round paired him against Ruel. The Frenchman will be a tough prospect as his blue-green deck contains three [Wild Mongrel](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and three [Basking Rootwalla](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla). Budde's black-blue deck is pretty solid also and has Jon Finkel himself to help out.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a910.jpg)
+
+Kai Budde is unbeaten and three points clear of the rest of the field. Unfortunately this means he can't get the one point he needs for Top 8 by simply drawing in, as no one else can afford to yet. He was hoping to be drawn against Patrick Mello so he could concede against his team-mate and then ID in the next round, probably with Olivier Ruel. Unfortunately this round paired him against Ruel. The Frenchman will be a tough prospect as his blue-green deck contains three [Wild Mongrel](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and three [Basking Rootwalla](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla). Budde's black-blue deck is pretty solid also and has Jon Finkel himself to help out.
 
 ### Game 1
 

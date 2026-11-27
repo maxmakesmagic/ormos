@@ -357,7 +357,9 @@ render_recovery:
   - Static Orb
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/916.jpg)Patrick Chapin, who has two PT Top 8s and an invite to the Invitational under his belt, came to the table with a blue-green deck boasting Squirrel Nest, Opposition, Wild Mongrel, countermagic, and other good cards that could slam the opponent down or gain control of the board. On the other side of the table was man on a roll Eric Taylor with the red-white-blue Goblin Trenches deck. Chapin and Taylor are long-time friends and playtest partners from the Detroit region, and I'm sure they would have like to avoid this pairing.
+![](http://www.wizards.com/sideboard/images/gpmil02/916.jpg)
+
+Patrick Chapin, who has two PT Top 8s and an invite to the Invitational under his belt, came to the table with a blue-green deck boasting Squirrel Nest, Opposition, Wild Mongrel, countermagic, and other good cards that could slam the opponent down or gain control of the board. On the other side of the table was man on a roll Eric Taylor with the red-white-blue Goblin Trenches deck. Chapin and Taylor are long-time friends and playtest partners from the Detroit region, and I'm sure they would have like to avoid this pairing.
 
 Chapin won the die roll and chose to play, kicking the game off by mulliganing to six cards. He managed a second turn Merfolk Looter and used it the next turn to get out a bargain-basement Basking Rootwalla. Taylor Absorbed Chapin's next play, a Fact or Fiction, but couldn't stop a Squirrel Nest from being built on the beachside of Chapin's Yavimaya Coast. 
 
@@ -365,7 +367,9 @@ Taylor's painlands (Shivan Reef and Adarkar Wastes) started to haunt him as he a
 
 Patrick Chapin - Eric Taylor 1-0
 
-![](http://www.wizards.com/sideboard/images/gpmil02/917.jpg)Taylor sideboarded in his Gainsays, Lightning Angels, and Meddling Mages. But Chapin had his own token generator up his sleeve, Bearscape.
+![](http://www.wizards.com/sideboard/images/gpmil02/917.jpg)
+
+Taylor sideboarded in his Gainsays, Lightning Angels, and Meddling Mages. But Chapin had his own token generator up his sleeve, Bearscape.
 
 The tempo slowed in Game 2. Again Chapin played a Merfolk Looter on his second turn. But Taylor had a potent answer, Flametongue Kavu. The Looter sank into the graveyard. Chapin blocked the Kavu with a freshly cast Wild Mongrel and let the hound go to the great kennel in the sky. A Compulsion let Chapin improve his hand quality over the next turns while Taylor got a Meddling Mage in play, naming Opposition. Chris Pikula's grin turned sideways to lower Chapin's life. A second Mage joined his brother, this time naming Squirrel Nest.
 
@@ -375,7 +379,9 @@ A Goblin Trenches sealed the game. Despite having oodles and oodles of cards in 
 
 Patrick Chapin - Eric Taylor 1-1
 
-![](http://www.wizards.com/sideboard/images/gpmil02/918.jpg)Chapin enjoyed the playing-first advantage in game 3. Yet again, he played a Merfolk Looter on the second turn. Taylor was not amused. "Just more of the same." He Counterspelled a Wild Mongrel, and waited until Chapin used the Looter at the end of his fourth turn. Chapin asked "are you the type of guy who has a Flametongue Kavu?" But it was Fire that fried the fish and tied the game at 19-19. 
+![](http://www.wizards.com/sideboard/images/gpmil02/918.jpg)
+
+Chapin enjoyed the playing-first advantage in game 3. Yet again, he played a Merfolk Looter on the second turn. Taylor was not amused. "Just more of the same." He Counterspelled a Wild Mongrel, and waited until Chapin used the Looter at the end of his fourth turn. Chapin asked "are you the type of guy who has a Flametongue Kavu?" But it was Fire that fried the fish and tied the game at 19-19. 
 
 Ironically, Taylor drew a Flametongue Kavu on the very next turn, but didn't have the fourth land to play it. Instead, he played an early Goblin Trenches. Taylor dismissed the card as unworthy of Chapin's attention. "Hey, I only have three lands, and I want to sac a land the next turn, it's not good right now!" Chapin allowed the Trenches to resolve. Chapin also missed his third land drop, but attempted to make the best of the situation with Compulsion. 
 

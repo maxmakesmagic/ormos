@@ -103,7 +103,9 @@ render_recovery:
 ---
 * * *
 
-![Mistform Ultimus Watch](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg "Mistform Ultimus Watch")Welcome again to Mistform Ultimus Watch! In this recurring sub-feature of Magic Arcana we keep track of *Legions'* legendary Graveborn Jellyfish, Mistform Ultimus, and see what creature types it has gained and/or lost. 
+![Mistform Ultimus Watch](https://i.ormos.uk/07/9e/079e25d137141a70f7f5b7282d7c1d233899caf3ea36a3d73f6a00725e8690f0.jpg "Mistform Ultimus Watch")
+
+Welcome again to Mistform Ultimus Watch! In this recurring sub-feature of Magic Arcana we keep track of *Legions'* legendary Graveborn Jellyfish, Mistform Ultimus, and see what creature types it has gained and/or lost. 
 
 We last checked in with Mistform Ultimus [after the release of *Ninth Edition*](/en/articles/arcana/2005/08-03-mistform-ultimus-watch-ninth-edition-edition), and now we stand on the verge of *Guildpact* previews. So as *Ravnica: City of Guilds* has released in the interim, Mistform Ultimus has become an Archon (thanks to Blazing Archon) and a Lammasu (thanks to Hunted Lamassu).
 

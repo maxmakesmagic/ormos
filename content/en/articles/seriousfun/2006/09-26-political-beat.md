@@ -185,7 +185,9 @@ Under the Anthony Alongi School of **Magic**, you win games by the strength of p
 
 In the Alongi school, you only succeed because you had a deck that was strong enough to beat the other guys at your kitchen table. And for a year or so after Anthony began to write about multiplayer, that was the only theory floating around. 
 
-![](https://i.ormos.uk/70/c6/70c6b3c52f3e963ca4da40fce0ec67849135e8ccf559520e5dedde691171d865.jpg)But I read Anthony way back when he was writing for seminal **Magic** theory site The Dojo (the progenitor of all **Magic** websites, including this one), and what he was talking about never matched my reality of it. 
+![](https://i.ormos.uk/70/c6/70c6b3c52f3e963ca4da40fce0ec67849135e8ccf559520e5dedde691171d865.jpg)
+
+But I read Anthony way back when he was writing for seminal **Magic** theory site The Dojo (the progenitor of all **Magic** websites, including this one), and what he was talking about never matched my reality of it. 
 
 What happened in my groups was that all other things being equal, the strongest player usually *lost*. 
 

@@ -708,7 +708,9 @@ Let's see what happens when we take out all of the higher-dollar cards from the 
 
 See, now we're talking—the entire core of the Intruder Alarm / Imperious Perfect / Sprout Swarm deck costs only 17.8 tickets, which leaves us a smooth 12.2 tickets to replace nine lands and seven spells.
 
-![Simic Growth Chamber: No!](https://i.ormos.uk/d9/65/d96503bf73867172477e11ee214dcda3afb46ab5ac89457a27aaee97900af092.jpg "Simic Growth Chamber: No!")I went through all of the Extended-legal cards available in blue, green, artifact, or land varieties, and wrote down budget cards which might be good additions for the deck. As it stands, the deck has one major problem—the need to have access to an untapped green mana turn one (for Llanowar Elves or elf-alike of some type), and an untapped blue mana on turn two (for Remand or for Intruder Alarm). This means that some common budgetary lands were not ideal for this deck (Terramorphic Expanse, Simic Growth Chamber) since I needed access to every mana possible during the opening turns, and needed access to both colors of mana.
+![Simic Growth Chamber: No!](https://i.ormos.uk/d9/65/d96503bf73867172477e11ee214dcda3afb46ab5ac89457a27aaee97900af092.jpg "Simic Growth Chamber: No!")
+
+I went through all of the Extended-legal cards available in blue, green, artifact, or land varieties, and wrote down budget cards which might be good additions for the deck. As it stands, the deck has one major problem—the need to have access to an untapped green mana turn one (for Llanowar Elves or elf-alike of some type), and an untapped blue mana on turn two (for Remand or for Intruder Alarm). This means that some common budgetary lands were not ideal for this deck (Terramorphic Expanse, Simic Growth Chamber) since I needed access to every mana possible during the opening turns, and needed access to both colors of mana.
 
 One-drop mana creatures: Elves of Deep Shadow, Wild Cantor, Boreal Druid  
  Countermagic: Mana Leak, Spell Snare

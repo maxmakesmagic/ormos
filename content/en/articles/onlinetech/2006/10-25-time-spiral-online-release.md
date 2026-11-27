@@ -565,7 +565,9 @@ Konnichiwa from Japan! No deck technology for today, because (a) I was in Kobe l
 
 ### *Magic Online Time Spiral* Release Events
 
-![](https://i.ormos.uk/96/05/960593e0fc120fa1bcb869f4f9ac40d0781b8ea1adc8eebd079a45e3a1bccaf2.jpg)On Monday, October 30 at 9:00 am PST, *Time Spiral* goes on sale in the ***Magic** Online* store. *Time Spiral* becomes legal in ALL Constructed formats the day it goes on sale (October 30). All casual rooms and constructed queues will use *Time Spiral* starting on October 30. Constructed Premier events will not run until November 9 and will use *Time Spiral* starting on that date. *Time Spiral* draft queues begin on Monday, November 6, 10:00 am. 
+![](https://i.ormos.uk/96/05/960593e0fc120fa1bcb869f4f9ac40d0781b8ea1adc8eebd079a45e3a1bccaf2.jpg)
+
+On Monday, October 30 at 9:00 am PST, *Time Spiral* goes on sale in the ***Magic** Online* store. *Time Spiral* becomes legal in ALL Constructed formats the day it goes on sale (October 30). All casual rooms and constructed queues will use *Time Spiral* starting on October 30. Constructed Premier events will not run until November 9 and will use *Time Spiral* starting on that date. *Time Spiral* draft queues begin on Monday, November 6, 10:00 am. 
 
 *Time Spiral* Release events begin Thursday, November 2, and the last ones start November 13, 9:00 pm. You can find in-depth information [here](https://web.archive.org/web/20070905101502/http://www.wizards.com/default.asp?x=magic/magiconline), although it is not yet available at the time of writing. I'll highlight the important aspects of the release events.
 
@@ -623,7 +625,9 @@ I got to interview Michael Feuell, better known as ‘elf'. Online he uses the a
 
 **Frank**: How you did you get involved with Wizards/**Magic**?
 
-![Llanowar_Elves](https://i.ormos.uk/fa/e2/fae2b3e7b909316e012782db67fc06790b4ed2ac98bf8b5ab5a1c3a6a2a74eee.jpg)**Elf**: A friend of mine and I were trying to develop a fun fantasy based card game in the early 90's. Nothing collectible, just trying to convert bridge decks into fantasy style board elements. We lost touch for about 3 months and when we met up again he says, “You have to try this **Magic** card game.” *Legends* had just been released, so off I went, and I've been playing ever since. I became involved closer with Wizards through the judge program where I've been a Level 3 judge for the past 10 years with more than 20 Pro Tours under my belt. For a year I served as the DCI Judge Netrep.
+![Llanowar_Elves](https://i.ormos.uk/fa/e2/fae2b3e7b909316e012782db67fc06790b4ed2ac98bf8b5ab5a1c3a6a2a74eee.jpg)
+
+**Elf**: A friend of mine and I were trying to develop a fun fantasy based card game in the early 90's. Nothing collectible, just trying to convert bridge decks into fantasy style board elements. We lost touch for about 3 months and when we met up again he says, “You have to try this **Magic** card game.” *Legends* had just been released, so off I went, and I've been playing ever since. I became involved closer with Wizards through the judge program where I've been a Level 3 judge for the past 10 years with more than 20 Pro Tours under my belt. For a year I served as the DCI Judge Netrep.
 
 **Frank**: What is it like to develop a huge set for ***Magic** Online*? What's the best and worst part of the job?
 

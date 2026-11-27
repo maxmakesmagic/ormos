@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Michelle Bush* 
 
-![](https://i.ormos.uk/4e/c5/4ec5f68a8a4ec357ccbb725c754bf165e49756c25aecab503af24917efc38303.jpg)There are Feature Matches and then there are Feature Matches. Round 9 was a clash of titans as Kai Budde met Steve OMS in the 6-2 bracket. Budde is fresh off his PT win in Chicago, and is mathematically in contention to become the first person ever to win back to back professional events. OMS brought the PT Championship title home from the boat two years ago, and is considered to be one of the best Rochester drafters in the world. Budde, OMS, and Jon Finkel - who was playing in the Feature Match next door- are the only three people in the history of Magic to have won three Grand Prix apiece. 
+![](https://i.ormos.uk/4e/c5/4ec5f68a8a4ec357ccbb725c754bf165e49756c25aecab503af24917efc38303.jpg)
+
+There are Feature Matches and then there are Feature Matches. Round 9 was a clash of titans as Kai Budde met Steve OMS in the 6-2 bracket. Budde is fresh off his PT win in Chicago, and is mathematically in contention to become the first person ever to win back to back professional events. OMS brought the PT Championship title home from the boat two years ago, and is considered to be one of the best Rochester drafters in the world. Budde, OMS, and Jon Finkel - who was playing in the Feature Match next door- are the only three people in the history of Magic to have won three Grand Prix apiece. 
 
 Budde has been having a very consistent weekend drafting blue. He went blue/white at his first pod (splashing black for Probe), blue/black and his second table, and blue/black again this time. OMS has been all over the board, first with white/green/red, and then with a base blue deck that included every color but white. "What do you want me to do?" he asked, when I raised an eyebrow at his 4-Color-Blue draft. "I was drafting blue and opened a Darigaaz!" This time he had a more focused red/green/black deck and is hoping to be able to outrace his German competitor. 
 

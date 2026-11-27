@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/366.JPG)Denmark and Belgium have a long-standing, good natured feud in sports (soccer, especially). This time around the Magic players from the two countries are facing each other to determine which one will get a chance to advance and play for the European Champion title.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/366.JPG)
+
+Denmark and Belgium have a long-standing, good natured feud in sports (soccer, especially). This time around the Magic players from the two countries are facing each other to determine which one will get a chance to advance and play for the European Champion title.
 
 Noah Boeken is a Pro Tour veteran, boasting a top 16 at PT Chicago and several GP top 8 finishes. His opponent Gert Coeckelbergh is not quite as experienced, but he has played on the Pro Tour twice in the past and seems to be taking the pressure of high-level competition in stride.
 
@@ -54,7 +56,9 @@ Coeckelbergh is playing a Trinity variant that is somewhat different from the es
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/367.JPG)Boeken was able to apply a lot of early pressure by casting a first turn Pouncing Jaguar, dropping a Vine Dryad into play during his opponent's turn and casting two more Jaguars in a row.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/367.JPG)
+
+Boeken was able to apply a lot of early pressure by casting a first turn Pouncing Jaguar, dropping a Vine Dryad into play during his opponent's turn and casting two more Jaguars in a row.
 
 Coeckelbergh developed fast mana by playing an Elf and a Vine Trellis. Now he needed to drop a threat of his own quickly in order to stop Boeken's offense. Coeckelbergh opted for a turn 3 Masticore, but could only leave one mana untapped. This play may have dominated the game, but Boeken drew an Uktabi Orangutan off the top of his deck and was able to destroy Masticore, and proceed with his attack.
 
@@ -62,7 +66,9 @@ The remaining cards in Coeckelbergh's hand were a pair of Plow Unders and more l
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/368.JPG)Boeken decided to sideboard out his Tangle Wires and Elvish Lyrists in favor of Uktabi Orangutans and Cursed Totems. Meanwhile Coeckelbergh took out the slow Plow Unders and Skyshroud Poachers in favor of Worldly Tutors and Uktabi Orangutans of his own. Poacher is an incredibly powerful card in this matchup, but Gert wanted less cards in his deck that would be devastated by a Cursed Totem hitting the table.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/368.JPG)
+
+Boeken decided to sideboard out his Tangle Wires and Elvish Lyrists in favor of Uktabi Orangutans and Cursed Totems. Meanwhile Coeckelbergh took out the slow Plow Unders and Skyshroud Poachers in favor of Worldly Tutors and Uktabi Orangutans of his own. Poacher is an incredibly powerful card in this matchup, but Gert wanted less cards in his deck that would be devastated by a Cursed Totem hitting the table.
 
 Coeckelbergh began the second game by playing a first turn Treetop Village, and Boeken dropped a Vine Dryad at the end of his turn. Dryad attack and a Jaguar was cast. Coeckelbergh played out another Village, a Port and a Bird - having enough mana where he would never actually need to lay a Forest. As he had no use for more mana that turn, he chose to attack with an Elf. 
 
@@ -84,7 +90,9 @@ Coeckelbergh played a first turn Gaea's Cradle. He was willing to slow down his 
 
 Boeken did not have a Cradle in his opening hand. He did have both Vine Dryad and a Rancor though, so he was able to attack for 3 points of damage on his first turn. Boeken then played a Cursed Totem to shut down his opponent's Bird of Paradise and Llanowar Elves. Coeckelbergh cast an Uktabi Orangutan to deal with it, then dropped a Deranged Hermit and began outracing Boeken on damage with the Squirrels.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/374.JPG)On his final turn Boeken could still win the game if he managed to draw a Wild Might, but Boeken was not that lucky and Coeckelbergh managed to win this game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/374.JPG)
+
+On his final turn Boeken could still win the game if he managed to draw a Wild Might, but Boeken was not that lucky and Coeckelbergh managed to win this game.
 
 ### Game 4
 
@@ -94,6 +102,8 @@ Boeken could do nothing more than lay a Treetop Village. His opponent played a B
 
 Unfazed, Boeken enchanted his Jaguar with both Rancors and sent it in, trading it for the Blastoderm and managing to sneak in a point of trample damage in the process. Coeckelbergh played another Port, hoping to prevent Boeken from playing any creatures on the following turn. However, Boeken cast Vine Dryad at the end of Coeckelbergh's turn.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/373.JPG)On his own turn Boeken enchanted the Dryad with a total of three Rancors! An attack for seven followed. Coeckelbergh drew his next card and dropped his hand of four cards on the table, revealing four lands. He conceded the game, allowing Boeken to advance into the top 4.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/373.JPG)
+
+On his own turn Boeken enchanted the Dryad with a total of three Rancors! An attack for seven followed. Coeckelbergh drew his next card and dropped his hand of four cards on the table, revealing four lands. He conceded the game, allowing Boeken to advance into the top 4.
 
 Boeken 3 - Coeckelbergh 1

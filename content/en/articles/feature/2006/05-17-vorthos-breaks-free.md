@@ -77,7 +77,9 @@ archive_source:
   sha256: 6332fa9a2b4245e6cdb70e90baf4ccd6d3f90ed3383bdc68ced999309efc83f9
 render_recovery: []
 ---
-![](https://i.ormos.uk/b2/87/b287a541199435ad5a910938ab519afe64b429520582ffa1134c7f99bf5e1848.jpg)Vorthos Mandelbrot is a passionate young apprentice wizard. He approaches his studies and his magework with focus and zeal, but most of all, with panache. For it is not promise of power that motivates him, it is the artistry and inherent beauty of magic; the hidden symmetries, the wondrous coincidences, the sound, the smell, the very *taste* of it. The old saying, “The journey is the destination” holds very true with young Vorthos. It is the fluidity of the incantation, its relationship to the sound and texture of the forthcoming spell, the perfect union of body, mind, and mana that defines magic for Vorthos – not just the end effect of the spell.
+![](https://i.ormos.uk/b2/87/b287a541199435ad5a910938ab519afe64b429520582ffa1134c7f99bf5e1848.jpg)
+
+Vorthos Mandelbrot is a passionate young apprentice wizard. He approaches his studies and his magework with focus and zeal, but most of all, with panache. For it is not promise of power that motivates him, it is the artistry and inherent beauty of magic; the hidden symmetries, the wondrous coincidences, the sound, the smell, the very *taste* of it. The old saying, “The journey is the destination” holds very true with young Vorthos. It is the fluidity of the incantation, its relationship to the sound and texture of the forthcoming spell, the perfect union of body, mind, and mana that defines magic for Vorthos – not just the end effect of the spell.
 
 Sometimes this is hard for his master to understand. For so long, dispensing his wizardly knowledge to a long list of hungry pupils has gone one way: give the ravenous student the cold, hard keys to sorcerous might. Vorthos's master became accustomed to providing these keys and watching his students unlock their own vaults of power. But these keys do not fit the locks that Vorthos is trying to open, and his master does not quite understand it.
 

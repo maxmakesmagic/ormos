@@ -125,7 +125,9 @@ render_recovery:
   - Voice of the Woods
   occurrences: 115
 ---
-![](http://www.wizards.com/sideboard/images/ptchi03/a747.jpg)Bram Snepvangers and Chris Benafel are both trying desperately to make the Top 8. Brian Kibler has been helping Benafel along, first by passing him the ultimate red-green deck, then by getting a match loss in their meeting last round by misregistering his deck.
+![](http://www.wizards.com/sideboard/images/ptchi03/a747.jpg)
+
+Bram Snepvangers and Chris Benafel are both trying desperately to make the Top 8. Brian Kibler has been helping Benafel along, first by passing him the ultimate red-green deck, then by getting a match loss in their meeting last round by misregistering his deck.
 
 Bram has had no such help, and has had to earn every win. His red-green deck will have it's work cut out for it against Benafel's deck full of Sparksmiths and Wirewood Savages.
 
@@ -169,7 +171,9 @@ Snepvangers had to mulligan to start the final game, and Benafel did, in fact, p
 
 Again, Bram's mulligan hand gave him the Sharpshooter, but this time Benafel had the tempo advantage due to going first. The American's Elvish Warrior and Wirewood Savage had dropped Bram to 14, and then Benafel dropped a Tephraderm—a bad target for the Sharpshooter—to complicate matters.
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a748.jpg)Time became an issue at this point, as it often does in Benafel's matches, and he called over the table judge to make sure Bram was playing at a reasonable pace. Granted, Snepvangers is a "deliberate" player, but Benafel's actions probably were more to rattle the Dutchman than to accuse him of stalling.
+![](http://www.wizards.com/sideboard/images/ptchi03/a748.jpg)
+
+Time became an issue at this point, as it often does in Benafel's matches, and he called over the table judge to make sure Bram was playing at a reasonable pace. Granted, Snepvangers is a "deliberate" player, but Benafel's actions probably were more to rattle the Dutchman than to accuse him of stalling.
 
 Bram played a couple of face down guys, and then Benafel sent the Tephraderm in. A triple-block took down the derm, but good damage assignment allowed Benafel to kill all of Bram's blockers thanks to the 'Derm's ability. But all the carnage set off a chain of Sharpshooter triggers, and the next thing Benafel knew, his Barkhide Mauler and Elvish Warrior joined the 'Derm in the bin.
 

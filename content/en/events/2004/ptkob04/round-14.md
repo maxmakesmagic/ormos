@@ -423,7 +423,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptkob04/r14fm1_1.jpg)As Ben and Raphael shuffled up for Round Fourteen of this grueling Pro Tour, another tournament was just beginning: the Kobe Beef Standard tournament, where the top four players would receive coupons for a free Kobe Beef dinner. A number of pros who had missed day two were spotted trying their luck. Antoine Ruel was playing a bastardized White control deck that had main deck Circle of Protection: Red and Viridian Shaman. Osyp Lebedowicz built the "Affinity deck he wished he'd played in the Pro Tour", a Black/Red version with Arcbound Stingers instead of Somber Hoverguards.
+![](http://www.wizards.com/sideboard/images/ptkob04/r14fm1_1.jpg)
+
+As Ben and Raphael shuffled up for Round Fourteen of this grueling Pro Tour, another tournament was just beginning: the Kobe Beef Standard tournament, where the top four players would receive coupons for a free Kobe Beef dinner. A number of pros who had missed day two were spotted trying their luck. Antoine Ruel was playing a bastardized White control deck that had main deck Circle of Protection: Red and Viridian Shaman. Osyp Lebedowicz built the "Affinity deck he wished he'd played in the Pro Tour", a Black/Red version with Arcbound Stingers instead of Somber Hoverguards.
 
 Anyway, Ben and Raphael happened to be discussing Kobe beef as well, after Ben commented that he was hungry and Raphael offered to buy him any food he wanted if he went to eat it right then. He suggested Kobe beef, and Ben replied that he had just tried it last night, and that it was good but not quite worth the eighty-dollar price tag.
 

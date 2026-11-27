@@ -44,7 +44,9 @@ archive_source:
   sha256: 09597861f4ca8e065ee8e73c0579dd544f790cec4d25ddf9b5b0a99eab4458fa
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/934.jpg)Noah and Ruel flipped a coin and they agreed that the winner could either choose which chair to sit in or to play first. Olivier won the coin flip and chose to remain in his seat giving Noah the opportunity to play first. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVAL01/934.jpg)
+
+Noah and Ruel flipped a coin and they agreed that the winner could either choose which chair to sit in or to play first. Olivier won the coin flip and chose to remain in his seat giving Noah the opportunity to play first. 
 
 **Game 1** 
 

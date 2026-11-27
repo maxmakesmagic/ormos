@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Scott Wills* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/159.jpg)This was the "win and in" round with the winner advancing to the Top 8 finals. Both players here have a lot of experience of this sort of pressure, with Dominik the one with the most recent success coming off a recent top eight at the 2000 World Championships. They are both playing blue-white decks and their decks are very much alike making this an interest mirror match for the last round of the day. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/159.jpg)
+
+This was the "win and in" round with the winner advancing to the Top 8 finals. Both players here have a lot of experience of this sort of pressure, with Dominik the one with the most recent success coming off a recent top eight at the 2000 World Championships. They are both playing blue-white decks and their decks are very much alike making this an interest mirror match for the last round of the day. 
 
 Justin won the dice roll but elected to draw first feeling that both decks were pretty slow and the card advantage would outweigh any potential temporal advantage that might be gained by playing first. This decision actually turned out to be better than he first thought as Justin was forced to mulligan his initial hand as it didn't contain a single land. 
 

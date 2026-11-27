@@ -145,7 +145,9 @@ render_recovery:
 ---
 ### 
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a791.jpg)　ラウンド 9 の組み合わせは、 我らがアイドル Olivier Ruel と、サンディエゴでベスト 8 に残った Eric Froehlich の対戦。
+![](http://www.wizards.com/sideboard/images/ptosa02/a791.jpg)
+
+　ラウンド 9 の組み合わせは、 我らがアイドル Olivier Ruel と、サンディエゴでベスト 8 に残った Eric Froehlich の対戦。
 
 ### Game 1
 
@@ -170,7 +172,9 @@ Eric 0 - 1 Ruel
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a789.jpg)　1 本目が終了したのが残り試合時間 23 分頃で、もう他のフィーチャーマッチは終わっていると言うのに、ここはこれから 2 本目が開始されようとしている。
+![](http://www.wizards.com/sideboard/images/ptosa02/a789.jpg)
+
+　1 本目が終了したのが残り試合時間 23 分頃で、もう他のフィーチャーマッチは終わっていると言うのに、ここはこれから 2 本目が開始されようとしている。
 
 　先手 Eric 。  
  　3 ターン目に《野生の雑種犬》を出し、しっかりと《チェイナーの布告》されるところからスタート。

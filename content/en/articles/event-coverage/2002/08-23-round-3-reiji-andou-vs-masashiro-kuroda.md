@@ -44,7 +44,9 @@ archive_source:
   sha256: 0b51605e65a9af9b07926bc788b04d51f7bb92208f35dc5b6c4d9ca7ff1efa05
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a985.jpg)Two giants of Japanese Magic squared off in this, just the third round of competition. Reiji Andou, famous goofball member of Masters perenniels Panzer Hunters, with his Mono-Black Control deck in tow, against Masashiro Kuroda, lynchpin of both Poor Shark and Poor Shark 2. P.S.2 recently took the title at the 2002 Grand Prix - Nagoya, and will be looking to show their stuff at Pro Tour - Boston.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a985.jpg)
+
+Two giants of Japanese Magic squared off in this, just the third round of competition. Reiji Andou, famous goofball member of Masters perenniels Panzer Hunters, with his Mono-Black Control deck in tow, against Masashiro Kuroda, lynchpin of both Poor Shark and Poor Shark 2. P.S.2 recently took the title at the 2002 Grand Prix - Nagoya, and will be looking to show their stuff at Pro Tour - Boston.
 
 Kuroda dropped twin forests and Catalyst Stone before finding and island. Andou led with three swamps, and had no response to Kuroda's Wild Mongrel. Kuroda played a fourth land, a Centaur Garden, and Speculated for Wurms. He played one and passed it back.
 
@@ -70,7 +72,9 @@ Andou 1 - Kuroda 1
 
 Andou pulled up another clunker for Game 3. This time it was swamp and Coffers as the only lands. A gambling man to the end, he kept. Kuroda kept his hand.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a984.jpg)Innocent Blood took care of the first Werebear, and after missing one land drop, he pulled a swamp to enable Mesmeric Fiend. He saw Grizzly Fate, Quiet Speculation, Wild Mongrel and two Roars. He had a tough decision. He was holding Mutilate, Rancid Earth, Chainer's Edict, Screams of the Damned and Haunting Echoes. He chose the Mongrel.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpsap02/a984.jpg)
+
+Innocent Blood took care of the first Werebear, and after missing one land drop, he pulled a swamp to enable Mesmeric Fiend. He saw Grizzly Fate, Quiet Speculation, Wild Mongrel and two Roars. He had a tough decision. He was holding Mutilate, Rancid Earth, Chainer's Edict, Screams of the Damned and Haunting Echoes. He chose the Mongrel.
 
 Kuroda drew, played the forest, and thought hard before casting the Fate. Andou pulled Haunting Echoes, and was unable to punish him. Kuroda hit for four and Speculated for two Wurms and an Analysis. Then he cast Wild Mongrel. Andou needed a swamp. 
 

@@ -82,7 +82,9 @@ render_recovery:
   - Skittish Valesk
   occurrences: 39
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a929.jpg)These two have been around the block before. They're well-versed in high-pressure competition, and fully aware of the stakes their playing for. They kept a friendly attitude, but very little was said as they shuffled up for their first game.
+![](http://www.wizards.com/sideboard/images/pthou02/a929.jpg)
+
+These two have been around the block before. They're well-versed in high-pressure competition, and fully aware of the stakes their playing for. They kept a friendly attitude, but very little was said as they shuffled up for their first game.
 
 Shvartsman had the sort of start he needed, with Shock for a face-down Skirk Commando, some offense from Elvish Warrior, and Leery Fogbeast holding the fort. Thoren came back with Goblin Sledder and Nosy Goblin, but a double-block just saw Shvartsman cycle Primal Boon. Rather than rescue the one receiving two damage, Thoren put them both in the bin.
 
@@ -102,7 +104,9 @@ Shvartsman was not in a bidding mood. He responded to its comes-into-play effect
 
 He finally got something going with Elvish Warrior, despite having ten or so lands. His next draw was a little better. He announced "And now, for MY rares." before dropping Gigapede. Thoren bought time with a Starstorm for three.
 
-![](http://www.wizards.com/sideboard/images/pthou02/a934.jpg)But all those lands in Shvartsman's hand were finally doing something. Shvartsman would return the Gigapede, and then run it into some dork Thoren would summon. That game stopped when Thoren tapped out for Butcher Orgg. Right on its tail was Cover of Darkness, naturally naming Orgg. Thoren managed to pull that one out.
+![](http://www.wizards.com/sideboard/images/pthou02/a934.jpg)
+
+But all those lands in Shvartsman's hand were finally doing something. Shvartsman would return the Gigapede, and then run it into some dork Thoren would summon. That game stopped when Thoren tapped out for Butcher Orgg. Right on its tail was Cover of Darkness, naturally naming Orgg. Thoren managed to pull that one out.
 
 Shvartsman 1 - Thoren 1
 

@@ -182,7 +182,9 @@ Brian 0 - 1 Gary
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a813.jpg)　2 本目開始前のサイドボードで Brian のサイドインするカードを見せてもらったら、《ゾンビの横行/Zombie Infestation》 \* 4 、《激動》 \* 1 、《占骨術》 \* 3 と投入しており、黒単相手には「ゾンビヒーバル」のパーツを追加しているようであった。
+![](http://www.wizards.com/sideboard/images/ptosa02/a813.jpg)
+
+　2 本目開始前のサイドボードで Brian のサイドインするカードを見せてもらったら、《ゾンビの横行/Zombie Infestation》 \* 4 、《激動》 \* 1 、《占骨術》 \* 3 と投入しており、黒単相手には「ゾンビヒーバル」のパーツを追加しているようであった。
 
 　予定通り、 《ゾンビの横行》を先手 3 ターン目に張った Brian は、Gary から飛んでくる《腐臭の地/Rancid Earth》を《ゾンビの横行》経由で《堂々巡り/Circular Logic》し、序盤の優位は完全に Brian が保った。
 

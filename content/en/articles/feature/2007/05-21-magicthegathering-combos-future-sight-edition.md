@@ -471,7 +471,9 @@ FLOOP!
 
 FLOOP!
 
-![Mago del Futuro!](https://i.ormos.uk/6d/a5/6da5291d4f86e8ad1718a4a3a18a646156823d214ef2460c70a995f3d7268cd6.jpg "Mago del Futuro!")**Rules Manager Mago:** Holy wombats! What the—
+![Mago del Futuro!](https://i.ormos.uk/6d/a5/6da5291d4f86e8ad1718a4a3a18a646156823d214ef2460c70a995f3d7268cd6.jpg "Mago del Futuro!")
+
+**Rules Manager Mago:** Holy wombats! What the—
 
 **Professor Mago:** Mago! You'll have done it! It takes you a decade, but you successfully invent time travel!
 

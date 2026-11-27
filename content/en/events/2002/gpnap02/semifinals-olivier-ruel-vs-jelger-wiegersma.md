@@ -90,7 +90,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpnap02/a872.jpg)Wiegersma kept a hand with Islands only on strength of Obsessive Search, but it was not until turn four that he drew a Forest. Ruel got a turn two Minotaur Explorer into play and got to attack with it once, before Wiegersma cast a Dreamwinder. Ruel, who was stuck on two lands while holding some very impressive cards, cast Hypochondria, which allowed his Minotaur Explorer to sneak damage past the Dreamwinder.
+![](http://www.wizards.com/sideboard/images/gpnap02/a872.jpg)
+
+Wiegersma kept a hand with Islands only on strength of Obsessive Search, but it was not until turn four that he drew a Forest. Ruel got a turn two Minotaur Explorer into play and got to attack with it once, before Wiegersma cast a Dreamwinder. Ruel, who was stuck on two lands while holding some very impressive cards, cast Hypochondria, which allowed his Minotaur Explorer to sneak damage past the Dreamwinder.
 
 Wiegersma cast a Dilligent Farmhand by the time Ruel found a fourth land, but both of his creatures fell victim to Violent Eruption, an attack bringing Wiegersma down to nine life points. At this point the Dutch player began to stabilize – he cast Waste Away on the Explorer, putting a Basking Rootwalla into play, and cast Afflict on the newly summoned Halberdier. 
 

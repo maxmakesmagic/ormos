@@ -336,7 +336,9 @@ render_recovery:
 ---
 ### Kenshiro Ito vs. Motokiyo Azuma
 
-![](https://i.ormos.uk/93/49/93495ee68eec5dcc66dd0b4e25eee1a24854fb160953d755c7b2b2279d777829.jpg)Motokiyo Azuma won Grand Prix Hiroshima last year, which was also in Extended format. In this tournament he's running the same deck that carried him to a championship the last time around - Enchantress. His opponent, Kenshiro Ito, is playing a very aggressive green-red deck. Azuma will need to get his combo off and running fast, because Ito's deck isn't going to give him much time to work with.
+![](https://i.ormos.uk/93/49/93495ee68eec5dcc66dd0b4e25eee1a24854fb160953d755c7b2b2279d777829.jpg)
+
+Motokiyo Azuma won Grand Prix Hiroshima last year, which was also in Extended format. In this tournament he's running the same deck that carried him to a championship the last time around - Enchantress. His opponent, Kenshiro Ito, is playing a very aggressive green-red deck. Azuma will need to get his combo off and running fast, because Ito's deck isn't going to give him much time to work with.
 
 ### Game 1
 

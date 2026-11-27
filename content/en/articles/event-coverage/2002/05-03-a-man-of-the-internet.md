@@ -44,7 +44,9 @@ archive_source:
   sha256: d4cb4e42cf3190b2d1a4500f43266bfaaef0d1efbdc762f05422bbfccd9f19f8
 render_recovery: []
 ---
-![](https://i.ormos.uk/8d/1a/8d1ad4cd17c097c7e77c5495048ba72f4a5e36f79d474fec92549fe86f6002c3.jpg)Sol Malka got his breakthrough as a Magic player when he won 2002 Grand Prix Tampa. But long before that, he Atlanta resident made a name for himself on the internet by writing tournament reports. Maybe that is why he became the target of internet insults and was challenged to a controversial, three-format one-on-one competition where the loser would have to pay up 100 dollars, kiss the winner's posterior or tattoo the winner's initials on his body.
+![](https://i.ormos.uk/8d/1a/8d1ad4cd17c097c7e77c5495048ba72f4a5e36f79d474fec92549fe86f6002c3.jpg)
+
+Sol Malka got his breakthrough as a Magic player when he won 2002 Grand Prix Tampa. But long before that, he Atlanta resident made a name for himself on the internet by writing tournament reports. Maybe that is why he became the target of internet insults and was challenged to a controversial, three-format one-on-one competition where the loser would have to pay up 100 dollars, kiss the winner's posterior or tattoo the winner's initials on his body.
 
 "I am not going to respond to that challenge," Malka says. The 27-year-old actuarial analyst has just finished two rounds of the 2002 Pro Tour Nice, and he is up 2-0 in matches. Far away from his home and his personal computer, he tries to explain how the "Ed Fear Challenge" came to exist in the first place. The whole thing was initiated by [Peter Szigeti](https://web.archive.org/web/20020503000000/http://archive.wizards.com/default.asp?x=sideboard/ptnice02/szigeti), another internet regular, who insulting Sol on a message board. "It was basically "your mother" type of comments. He insulted me, and I did throw a few one-liners back, which I regret. I regret responding at all," Malka admits.
 

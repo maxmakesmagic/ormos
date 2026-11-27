@@ -44,7 +44,9 @@ archive_source:
   sha256: 203d28ba046e219f8884a68d6a73a5ed82665ca87f3d925f7feba84f945c6820
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a472.jpg)You do not have to look very far back to find history between these two players. Just a few hours ago they played an intense match in the individual portion of the tournament, where Nieminen eliminated Walls from the tournament by defeating his [Astral Slide](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) deck with Wake 3-2. Although this may give the Finnish player psychological advantage, he also just came off an exhausting two hour mirror match in the top 4, which he ended up losing to Japan's Jin Okamoto. Meantime, Walls used the time to eat, relax, and prepare for the match.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a472.jpg)
+
+You do not have to look very far back to find history between these two players. Just a few hours ago they played an intense match in the individual portion of the tournament, where Nieminen eliminated Walls from the tournament by defeating his [Astral Slide](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) deck with Wake 3-2. Although this may give the Finnish player psychological advantage, he also just came off an exhausting two hour mirror match in the top 4, which he ended up losing to Japan's Jin Okamoto. Meantime, Walls used the time to eat, relax, and prepare for the match.
 
 In terms of decks, both are sporting some very powerful cards. There are such gems are [Decree of Justice](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decree+of+Justice), [Dawn Elemental](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dawn+Elemental), [Future Sight](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Future+Sight), and more. Walls is playing a white-blue deck while Nieminen is playing white splashing for four black cards.
 
@@ -60,7 +62,9 @@ Nieminen was visibly exhausted during the match. He was not up to his usual bant
 
 Walls opened with a turn three morph, while Nieminen played nothing on his turn three, representing either a poor draw or a [Daru Stinger](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Stinger). Walls added a [Zealous Inquisitor](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zealous+Inquisitor) to the mix while Nieminen did indeed summon a [Daru Stinger](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Stinger) – but was only able to amplify it for one with a Harrier. Walls attacked into him and Nieminen deliberated for a while whether to block.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a468.jpg)"You have no idea what my morph is, do you?" Walls asked. Nieminen just shook his head. He finally decided to block and ended up trading for a [Frontline Strategist](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frontline+Strategist). Walls amplified a Warhawk twice and followed it up with [Dragonstalker](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstalker). Nieminen summoned a [Grassland Crusader](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grassland+Crusader), but could not really deal with the next attack and was forced to go to the deciding game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a468.jpg)
+
+"You have no idea what my morph is, do you?" Walls asked. Nieminen just shook his head. He finally decided to block and ended up trading for a [Frontline Strategist](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frontline+Strategist). Walls amplified a Warhawk twice and followed it up with [Dragonstalker](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstalker). Nieminen summoned a [Grassland Crusader](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grassland+Crusader), but could not really deal with the next attack and was forced to go to the deciding game.
 
 "I think I am going to sideboard," he said. 
 
@@ -79,7 +83,9 @@ As the two players were getting ready to play Game 3, Walls asked for the oracle
 
 The Finn seemed to contemplate it and finally declined. "Come on," Walls kept at it, "I will give you 40 to 1 that the card you are fiddling with isn't a Legionnaire." Nieminen did not take that bet either.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a466.jpg)He did however tap his mana on turn two.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a466.jpg)
+
+He did however tap his mana on turn two.
 
 And played a [Silver Knight](https://web.archive.org/web/20030810000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silver+Knight).
 

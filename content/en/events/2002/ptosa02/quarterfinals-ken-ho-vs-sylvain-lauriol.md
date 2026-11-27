@@ -47,7 +47,9 @@ render_recovery: []
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a698.jpg)Both Ken and Sylvain both piloted Blue Green to a finals berth, but despite having the same color combination, their decks are vastly different. The Frenchman's deck is heavily based around the Torment card Breakthrough, which allows for not only a Madness outlet, but often provides a quick mechanism for Threshold. He does have a more unusual creature base, running Thought Eaters and a lone Nimble Mongoose amongst his army. Ho's deck is also atypical of the typical Blue/Green OBC deck, much more centered around Upheaval and Squirrel's Nest – two of the most powerful cards in the format, and garners its card advantage through setting a favorable Standstill.
+![](http://www.wizards.com/sideboard/images/ptosa02/a698.jpg)
+
+Both Ken and Sylvain both piloted Blue Green to a finals berth, but despite having the same color combination, their decks are vastly different. The Frenchman's deck is heavily based around the Torment card Breakthrough, which allows for not only a Madness outlet, but often provides a quick mechanism for Threshold. He does have a more unusual creature base, running Thought Eaters and a lone Nimble Mongoose amongst his army. Ho's deck is also atypical of the typical Blue/Green OBC deck, much more centered around Upheaval and Squirrel's Nest – two of the most powerful cards in the format, and garners its card advantage through setting a favorable Standstill.
 
 ### Game 1
 
@@ -116,7 +118,9 @@ Ho
 
 ### Game 4
 
-![](http://www.wizards.com/sideboard/images/ptosa02/a697.jpg)Sylvian chooses to play, but unfortunately for Ho, he is forced to mulligan. Ho casts a 1st turn Rootwalla to which the Frenchman responds with a Seton's Scout. Ho attacks with Rootwalla and then casts Aquamoeba. Lauriol casts Thought Eater. Ho attacks wil Aquamoeba and Rootwalla Laruiol blocks Aquamoeba with both creatures, pumps discarding Roar and casts a Werebear. Lauriol casts Careful Study drawing mostly land and then casts Wild Mongrel. Ho continues to attack with Rootwalla and later that turn casts Roar of the Wurm – but is stopped by a Circular Logic frin Lauriol. Lauriol casts Breakthrough for 2 discarding Island and Roar. Then he casts Thought Eater after attacking with Wild Mongrel. Ken casts Aquamoeba, and Lauriol casts Touch on Aquamoeba, then summons a Seton's Scout.
+![](http://www.wizards.com/sideboard/images/ptosa02/a697.jpg)
+
+Sylvian chooses to play, but unfortunately for Ho, he is forced to mulligan. Ho casts a 1st turn Rootwalla to which the Frenchman responds with a Seton's Scout. Ho attacks with Rootwalla and then casts Aquamoeba. Lauriol casts Thought Eater. Ho attacks wil Aquamoeba and Rootwalla Laruiol blocks Aquamoeba with both creatures, pumps discarding Roar and casts a Werebear. Lauriol casts Careful Study drawing mostly land and then casts Wild Mongrel. Ho continues to attack with Rootwalla and later that turn casts Roar of the Wurm – but is stopped by a Circular Logic frin Lauriol. Lauriol casts Breakthrough for 2 discarding Island and Roar. Then he casts Thought Eater after attacking with Wild Mongrel. Ken casts Aquamoeba, and Lauriol casts Touch on Aquamoeba, then summons a Seton's Scout.
 
 Ho defensively casts Werebear, by a Standstill from Lauriol makes things a littrle hairy with the game in a precarious position. Lauriol attacks with his Thought Eater. In his next turn, Lauriol attacks with Mongrel, Seton's Scout and Eater – Ho is forced to block the Scout with the Aquamoeba and then Lauriol a pumps his Mongrel, bringing Ho to 9 life. To avoid problems with the Standstill, Ken attacks with Rootwalla and then Upheavals and discards a Rootwalla and Forest. In his first turn after the Upheaval, Lauriol Careful Studies discarding Roar and Rootwalla. Hosummons a Werebear. Lauriol matches with his own Werebear. Lauriol casts Scout, then Standstill but the enchantment is countered by Logic. Ken then Persuasions Lauriol's Werebear.
 

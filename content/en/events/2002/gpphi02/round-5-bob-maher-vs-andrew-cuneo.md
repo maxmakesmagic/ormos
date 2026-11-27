@@ -174,7 +174,9 @@ render_recovery:
   - Wirewood Herald
   occurrences: 193
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a954.jpg)Both players are 4-0 at this point, looking for the win that will put them in great position to make day 2. Bob Maher has been playing seemingly since the dawn of time and has an impressive list of accomplishments. In addition to recently wining Grand Prix Copenhagen in this format, he has also won PT Chicago 99, placed 2nd in Worlds 2000, and was player of the year in the 1999-2000 season. He also has several other PT day 3s and GP Top 8s and wins. Andrew Cuneo has been playing for just as long. Famous for his inclusion in Car Acrobatic Team and their 2 day 3 appearances, Andrew has also had great success constructing decks, including the archetypical mono-blue deck Cuneo Blue. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a954.jpg)
+
+Both players are 4-0 at this point, looking for the win that will put them in great position to make day 2. Bob Maher has been playing seemingly since the dawn of time and has an impressive list of accomplishments. In addition to recently wining Grand Prix Copenhagen in this format, he has also won PT Chicago 99, placed 2nd in Worlds 2000, and was player of the year in the 1999-2000 season. He also has several other PT day 3s and GP Top 8s and wins. Andrew Cuneo has been playing for just as long. Famous for his inclusion in Car Acrobatic Team and their 2 day 3 appearances, Andrew has also had great success constructing decks, including the archetypical mono-blue deck Cuneo Blue. 
 
 ### Game 1
 
@@ -188,7 +190,9 @@ Maher - 1, Andrew - 0
 
 ### Game 2
 
-![](https://i.ormos.uk/12/f4/12f4593b29be9a50769923db78b97cd692dd9b725cdfc7d166e96be011ad1395.jpg)After the marathon game 1, Andrew again chose to draw. Again in the aggressive seat, all Bob could muster was a turn 3 Crafty Pathmage. This was met by Andrew's Morphed creature. Bob cycled Choking Tethers to tap the Morph and attack that Craftiest of Pathmages. Andrew came back with his Morph and summoned up a bomb: Callous Oppressor, but the only Cephalid in *Onslaught* immediately met his end thanks to a Chain of Plasma. Bob settled into a long game featuring him attacking with his Morphed creature with the aid of Crafty Pathmage. A Sage Aven joined Bob's team, only to be matched by Andrew's Aven Soulgazer. With the life totals 16-15 in Bob's favor, Andrew was able to press the attack because of the strength of his hand and board. Bob summoned his trusty Airdrop Condor, and kept attacking while Andrew summoned 2 Grasslands Crusaders. At 7 life and facing death next turn at the hands of Airdrop Condor, Crafty Pathmage, and a newly summoned Goblin Machinist, Andrew pulled what may be the best card in *Onslaught*, in terms of pure power: Insurrection. There was more than enough power on the board for Andrew to take the game.
+![](https://i.ormos.uk/12/f4/12f4593b29be9a50769923db78b97cd692dd9b725cdfc7d166e96be011ad1395.jpg)
+
+After the marathon game 1, Andrew again chose to draw. Again in the aggressive seat, all Bob could muster was a turn 3 Crafty Pathmage. This was met by Andrew's Morphed creature. Bob cycled Choking Tethers to tap the Morph and attack that Craftiest of Pathmages. Andrew came back with his Morph and summoned up a bomb: Callous Oppressor, but the only Cephalid in *Onslaught* immediately met his end thanks to a Chain of Plasma. Bob settled into a long game featuring him attacking with his Morphed creature with the aid of Crafty Pathmage. A Sage Aven joined Bob's team, only to be matched by Andrew's Aven Soulgazer. With the life totals 16-15 in Bob's favor, Andrew was able to press the attack because of the strength of his hand and board. Bob summoned his trusty Airdrop Condor, and kept attacking while Andrew summoned 2 Grasslands Crusaders. At 7 life and facing death next turn at the hands of Airdrop Condor, Crafty Pathmage, and a newly summoned Goblin Machinist, Andrew pulled what may be the best card in *Onslaught*, in terms of pure power: Insurrection. There was more than enough power on the board for Andrew to take the game.
 
 Maher - 1, Andrew - 1
 
@@ -196,7 +200,9 @@ Maher - 1, Andrew - 1
 
 With 17 minutes left in the round, both players are looking to play quickly to get the win. A draw is worth pretty much the same this as a loss as far as making day 2 is concerned, so both are playing quickly. Bob chose to draw this game, hoping to make Andrew's 3 color deck pay. Neither player mulliganed, though, and Andrew led with a turn 3 Morphed creature. This was promptly smoked by a Chain of Plasma, which Andrew sent back to Bob's head.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a955.jpg)Bob untapped and cast a turn 3 Skirk Commando, which Andrew countered with a Mistform Dreamer. Bob had Choking Tethers, though, and cycled it to tap the flier and kill it by attacking with Skirk Commander. The Skirk eventually trades with a Morphed creature and Bob follows with Charging Slateback. The 4/3 creature comes through once and Andrew summons his Callous Oppressor. Bob, for some reason, names Cephalid.
+![](http://www.wizards.com/sideboard/images/gpphi02/a955.jpg)
+
+Bob untapped and cast a turn 3 Skirk Commando, which Andrew countered with a Mistform Dreamer. Bob had Choking Tethers, though, and cycled it to tap the flier and kill it by attacking with Skirk Commander. The Skirk eventually trades with a Morphed creature and Bob follows with Charging Slateback. The 4/3 creature comes through once and Andrew summons his Callous Oppressor. Bob, for some reason, names Cephalid.
 
 The reason for this is made clear as he summons a Callous Oppressor of his own. Andrew also names Cephalid, setting up an interesting board. Neither player can do much of consequence, as the Oppressors pretty much nullify combat. Eventually, Bob busts out an insane combo: Callous Oppressor, Airdrop Condor, and Imagecrafter. He can take a creature with Callous Oppressor, make it a goblin with Imagecrafter, and then sacrifice it with Airdrop Condor.
 

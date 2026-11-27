@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Pete Norris* 
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/173.jpg)These 2 Pro Tour winners of old met in the 13th round of GP Florence, each questing for a place in the top 8. For the winner, a chance to make top 8, for the loser, top 16 is the best he can manage. These 2 past masters have not met to their recollection although Olle said he had past memories of Jackal Pups beating him down, Dave ironically denied any knowledge of ever playing with Jackal Pup and they prepared to play game 1. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/GPFLO00/173.jpg)
+
+These 2 Pro Tour winners of old met in the 13th round of GP Florence, each questing for a place in the top 8. For the winner, a chance to make top 8, for the loser, top 16 is the best he can manage. These 2 past masters have not met to their recollection although Olle said he had past memories of Jackal Pups beating him down, Dave ironically denied any knowledge of ever playing with Jackal Pup and they prepared to play game 1. 
 
 **Game 1** 
 

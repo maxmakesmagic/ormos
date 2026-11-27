@@ -865,7 +865,9 @@ If you don't feel like waiting till your next draft, then take a look at the [To
 
 ### Drafting Red
 
-![Intimidator Initiate, Mudbrawler Cohort, Giantbaiting, and a bottle of Elmer's glue](https://i.ormos.uk/42/1f/421f4b289514200acc550762275b12bdd3bc7e8d9e8d26617d0daef9a8ad1ac7.jpg "Intimidator Initiate, Mudbrawler Cohort, Giantbaiting, and a bottle of Elmer's glue")There are a lot of cards that go well in the aggressive red deck that also go well in any sort of deck. Cards like Burn Trail, Power of Fire, Murderous Redcap, Puncture Blast, and Hatchet Bully will be good anywhere you find a Mountain.
+![Intimidator Initiate, Mudbrawler Cohort, Giantbaiting, and a bottle of Elmer's glue](https://i.ormos.uk/42/1f/421f4b289514200acc550762275b12bdd3bc7e8d9e8d26617d0daef9a8ad1ac7.jpg "Intimidator Initiate, Mudbrawler Cohort, Giantbaiting, and a bottle of Elmer's glue")
+
+There are a lot of cards that go well in the aggressive red deck that also go well in any sort of deck. Cards like Burn Trail, Power of Fire, Murderous Redcap, Puncture Blast, and Hatchet Bully will be good anywhere you find a Mountain.
 
 But then there's the glue of the deck. Cards like Intimidator Initiate, Mudbrawler Cohort, Giantbating, Cinder Pyromancer, Sootstoke Kindler, Heartlash Cinder and Horde of Boggarts. None of these cards are particularly good in most decks, but put them together along with a bunch of other fast red cards and suddenly you have a deck that would almost be playable in Block Constructed.
 

@@ -1515,7 +1515,9 @@ I can't *stand* that guy. He always has some pithy request or comment to make. L
 
 It's weird that his tone and syntax keep changing, but I get his point. The man (?) likes his walkthroughs.
 
-![](https://i.ormos.uk/1d/da/1ddafc1b21c5e1bb149fa02c70726c8dd26f1f814fddfdca7ba963f4fe99a147.jpg)I like them too, but **Magic** Online wasn't running Draft queues until November 6th. I know that's a yesterday to people reading this, but for stuck-in-the-past guy, it was just too far away. I was about to pull up one of my *Fallen Empires* / *Fallen Empires* / *Arabian Nights* drafting guide reserves when I got the IM rescue:
+![](https://i.ormos.uk/1d/da/1ddafc1b21c5e1bb149fa02c70726c8dd26f1f814fddfdca7ba963f4fe99a147.jpg)
+
+I like them too, but **Magic** Online wasn't running Draft queues until November 6th. I know that's a yesterday to people reading this, but for stuck-in-the-past guy, it was just too far away. I was about to pull up one of my *Fallen Empires* / *Fallen Empires* / *Arabian Nights* drafting guide reserves when I got the IM rescue:
 
 Eric: "Want to draft tonight?"  
  Me: "Ummm yeah. But I'll need to record every card and every pick."  

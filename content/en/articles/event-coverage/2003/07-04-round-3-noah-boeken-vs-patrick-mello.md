@@ -44,7 +44,9 @@ archive_source:
   sha256: b7f08baebbbf5509e46485ea5feac42078e406a4a51336afc5e635f42c49838c
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a981.jpg)Noah Boeken wants his European Champion title so bad he forced me to trade Feature Match with Craig Jones because I supposedly give him good luck. Mello wasn't very happy about it, not wanting to give Boeken any sort of advantage. Superstition at the highest level of European Magic... who would have thought?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a981.jpg)
+
+Noah Boeken wants his European Champion title so bad he forced me to trade Feature Match with Craig Jones because I supposedly give him good luck. Mello wasn't very happy about it, not wanting to give Boeken any sort of advantage. Superstition at the highest level of European Magic... who would have thought?
 
 They spent their shuffling period trading Team Grand Prix Amsterdam "war" stories. They actually played against each other in that Grand Prix, and had a very agitated game (actually a game that was irrelevant for the round since Boeken's team had already taken the round), involving several judges, the Head Judge and a warning for Noah Boeken. All because Boeken wasn't paying attention to the game... still, now they laugh about it.
 
@@ -54,7 +56,9 @@ Noah: "It's the first time I play a Green deck since I won Euros. Feels good."
 
 Boeken had to mulligan and Mello gave him no respite coming out with [Basking Rootwalla](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basking+Rootwalla), [Grim Lavamancer](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Lavamancer) and [Llanowar Elves](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves). Noah answered with Rootwalla and [Mongrel](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mongrel).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a982.jpg)They traded blows for few turns and the German played [Call of the Herd](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd). [Volcanic Hammer](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer) and [Firebolt](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) took the token and Lavamancer out of the game. Patrick returned the favor by [Firebolt](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt)ing the Rootwalla and flashing back the [Call](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a982.jpg)
+
+They traded blows for few turns and the German played [Call of the Herd](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd). [Volcanic Hammer](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer) and [Firebolt](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) took the token and Lavamancer out of the game. Patrick returned the favor by [Firebolt](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt)ing the Rootwalla and flashing back the [Call](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call).
 
 Still, Noah Boeken can be a very stubborn player: he had another [Hammer](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hammer) for the second [Call](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call) token. His dog went in and he played [Grim Lavamancer](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Lavamancer) to scare Mello's little guys. The German smiled and played a perfect [Violent Eruption](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Violent+Eruption) cleaning Boeken's side of the table.
 
@@ -66,7 +70,9 @@ Still, Mello's turns played out like some perfect Swiss watch mechanism. He sent
 
 [Grim Lavamancer](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Lavamancer) and [Call of the Herd](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+of+the+Herd) was the best the Dutch could muster. With three cards in hand Patrick Mello look firmly in control. He flashed back the [Firebolt](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firebolt) to take out the Lavamancer and the [Call](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call) jumped in front of [Mongrel](https://web.archive.org/web/20030704000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mongrel). Mello emptied his hand.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a983.jpg)Noah Boeken drew his last head, shook his head one last time and scooped. All he could do was reach for sideboard and retell his woes in the first game.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro03/a983.jpg)
+
+Noah Boeken drew his last head, shook his head one last time and scooped. All he could do was reach for sideboard and retell his woes in the first game.
 
 ### Game 2
 

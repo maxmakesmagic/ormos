@@ -81,7 +81,9 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
 
  
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What was the non-playing highlight of the weekend?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What was the non-playing highlight of the weekend?**
 
   
   
@@ -113,7 +115,9 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
 
  
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How did you prepare for this weekend? In hindsight, what worked well for you and what could you have done differently?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How did you prepare for this weekend? In hindsight, what worked well for you and what could you have done differently?**
 
   
   
@@ -126,7 +130,9 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
 
  
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Even though you are still playing **Magic Online**, playing in this event was still very different in that you could hear/see your opponent somewhere in the room. Were there any times your opponent tipped you off to something based on his reaction?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Even though you are still playing **Magic Online**, playing in this event was still very different in that you could hear/see your opponent somewhere in the room. Were there any times your opponent tipped you off to something based on his reaction?**
 
   
   
@@ -140,7 +146,9 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
 
  
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: How about playing on the stream? Did knowing you were being watched while you played affect the way you played at all?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: How about playing on the stream? Did knowing you were being watched while you played affect the way you played at all?**
 
   
   
@@ -154,7 +162,9 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
   
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Have you used your MOCS invitation yet? If not, how will you prepare for Pro Tour *Journey into Nyx*?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Have you used your MOCS invitation yet? If not, how will you prepare for Pro Tour *Journey into Nyx*?**
 
   
   
@@ -169,7 +179,9 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
   
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: You guys seemed to really embrace the tournament experience at the **Magic Online** Championship, hanging out drafting, chatting late into the night, and seemed to have a great time. Will we start seeing more of you at Grand Prix—and maybe even a PTQ or two?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: You guys seemed to really embrace the tournament experience at the **Magic Online** Championship, hanging out drafting, chatting late into the night, and seemed to have a great time. Will we start seeing more of you at Grand Prix—and maybe even a PTQ or two?**
 
   
   
@@ -184,7 +196,9 @@ This past weekend, sixteen **Magic Online** players descended upon Fisherman's W
   
   
 
-![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What advice do you have for other **Magic Online** players who find themselves in a tournament setting?**
+![](http://media.wizards.com/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What advice do you have for other **Magic Online** players who find themselves in a tournament setting?**
 
   
   

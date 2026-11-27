@@ -423,7 +423,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/32/07/3207f6e38036e17ed56aa9fe57cd9a31fe8c1e6c31da6037e41a7bf1b2bd023b.jpg)Gabriel Nassif was glum after a long night of play testing this matchup, "He wins." Gabriel was playing the TwelvePost deck that he designed with the imput of six other French players. The deck relies on the explosive mana provided by multiple Cloudposts to fire off an entwined Tooth and Nail for such fatties as Platnum Angel and Darksteel Colossus. To ensure the deck's consistency he was playing with four Sylvan Scrying and four Reap and Sow which could be used to search for the Coloudposts.
+![](https://i.ormos.uk/32/07/3207f6e38036e17ed56aa9fe57cd9a31fe8c1e6c31da6037e41a7bf1b2bd023b.jpg)
+
+Gabriel Nassif was glum after a long night of play testing this matchup, "He wins." Gabriel was playing the TwelvePost deck that he designed with the imput of six other French players. The deck relies on the explosive mana provided by multiple Cloudposts to fire off an entwined Tooth and Nail for such fatties as Platnum Angel and Darksteel Colossus. To ensure the deck's consistency he was playing with four Sylvan Scrying and four Reap and Sow which could be used to search for the Coloudposts.
 
 Ben Stark--also up late testing for this match--was more skeptical, "I don't think it is as bad as he makes it out to be." Ben Was playing Ravager Affinity wit only sixteen lands. The deck relied on explosive affinity draws backed up by the insane card drawing of Skullclamp. His deck was also packing the Fireball-esque combination of Acrbound Ravager and Disciple of the Vault.
 

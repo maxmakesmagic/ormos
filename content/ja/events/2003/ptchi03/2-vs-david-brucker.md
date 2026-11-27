@@ -143,7 +143,9 @@ render_recovery:
 ---
 　欧州王者Brucker（ドイツ）と石田。フューチャーマッチエリアではお馴染みの二人が早くも第二回戦で激突することとなった。
 
-![](https://i.ormos.uk/ac/65/ac65aae409084d00dce21372251f8668faabd667ff12ca4a42fefaa0206e39c9.jpg)　ちなみに、石田が構築したのはこのフォーマットを代表する緑黒ビートダウン。一方のBruckerが赤青のウィザード-《溶岩使いの技/Lavamancer's Skill》デッキである。Bruckerが凶悪な砲台を完成させる前に石田が殴りきることが出来るかどうか。まさしく1ターンを争う戦いになることが予想されるマッチアップといえる。
+![](https://i.ormos.uk/ac/65/ac65aae409084d00dce21372251f8668faabd667ff12ca4a42fefaa0206e39c9.jpg)
+
+　ちなみに、石田が構築したのはこのフォーマットを代表する緑黒ビートダウン。一方のBruckerが赤青のウィザード-《溶岩使いの技/Lavamancer's Skill》デッキである。Bruckerが凶悪な砲台を完成させる前に石田が殴りきることが出来るかどうか。まさしく1ターンを争う戦いになることが予想されるマッチアップといえる。
 
 **Game 1** 
 
@@ -161,7 +163,9 @@ render_recovery:
 
 　そして、ここで追い討ち。
 
-![](https://i.ormos.uk/7c/27/7c276295c504de762a2b812e6d5f44837afa5e96c91e22939ddd8dcedac7bf0b.jpg)《エイヴンの賢人/Sage Aven》を展開したBruckerは、当然のごとくライブラリーの最上段に《溶岩使いの技/Lavamancer's Skill》を積み込み、2point/turnという脅威のウィザード砲があっという間に完成してしまったのだ。石田はハンドを抱えたまま苦悶の表情を浮かべるしかないわけで、そこに駄目押しとばかりに...《火花鍛冶/Sparksmith》!
+![](https://i.ormos.uk/7c/27/7c276295c504de762a2b812e6d5f44837afa5e96c91e22939ddd8dcedac7bf0b.jpg)
+
+《エイヴンの賢人/Sage Aven》を展開したBruckerは、当然のごとくライブラリーの最上段に《溶岩使いの技/Lavamancer's Skill》を積み込み、2point/turnという脅威のウィザード砲があっという間に完成してしまったのだ。石田はハンドを抱えたまま苦悶の表情を浮かべるしかないわけで、そこに駄目押しとばかりに...《火花鍛冶/Sparksmith》!
 
 　石田、苦笑。
 

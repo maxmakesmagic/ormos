@@ -44,7 +44,9 @@ archive_source:
   sha256: f28aff35c62b9d2d78e18f2372c476b28e18b73cda40e47ac30074131fe988db
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm7_1.jpg)This match was a tale of classic European rivalry - Germany against France. Kuhn has been around for a quite a while and he is one of those German names you notice at the top of the tables every once in a while. His two Worlds Top 8's might have something to do with that.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm7_1.jpg)
+
+This match was a tale of classic European rivalry - Germany against France. Kuhn has been around for a quite a while and he is one of those German names you notice at the top of the tables every once in a while. His two Worlds Top 8's might have something to do with that.
 
 Antoine is mostly known for his Team. Together with his brother Olivier and Floreunt Jeudon they are one of the oldest Teams on the Pro Tour. That doesn't mean he can't survive on his own. A long-time Pro Tour regular, he has a number of strong individual finishes to his credit.
 

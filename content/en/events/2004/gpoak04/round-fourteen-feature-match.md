@@ -711,7 +711,9 @@ render_recovery:
 ---
 ### Phuong Tran vs. Paul Rietzl
 
-![Industrial Strength. Trust us.](http://www.wizards.com/sideboard/images/gpoak04/r14fm1_1.jpg)Paul had drawn last round with his friend Gabe Walls. He still needed to win this round in order to have a shot at Top 8. It would be his second Grand Prix Top 8 in as many tries. Rietzl's adversary this round was popular San Diego player Phuong Tran. "Everyone calls me ISP though. I don't know why though."
+![Industrial Strength. Trust us.](http://www.wizards.com/sideboard/images/gpoak04/r14fm1_1.jpg)
+
+Paul had drawn last round with his friend Gabe Walls. He still needed to win this round in order to have a shot at Top 8. It would be his second Grand Prix Top 8 in as many tries. Rietzl's adversary this round was popular San Diego player Phuong Tran. "Everyone calls me ISP though. I don't know why though."
 
 Neil Parker was among the spectators and he explained (without really explaining anything), "It stands for Industrial Strength Phuong."
 

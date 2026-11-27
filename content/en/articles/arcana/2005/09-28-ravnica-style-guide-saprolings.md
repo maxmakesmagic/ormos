@@ -95,7 +95,9 @@ render_recovery:
 ---
 * * *
 
-![Selesnya Conclave](https://i.ormos.uk/ef/8a/ef8aa5ea0ce3af22c273ca1923e5e2e5192295ccd154e2412a5ff2707b27fb4b.jpg "Selesnya Conclave")The Selesnya Conclave is a guild founded on the twin philosophies of green (growth, nature, adaptation) and white (order, light, law). 
+![Selesnya Conclave](https://i.ormos.uk/ef/8a/ef8aa5ea0ce3af22c273ca1923e5e2e5192295ccd154e2412a5ff2707b27fb4b.jpg "Selesnya Conclave")
+
+The Selesnya Conclave is a guild founded on the twin philosophies of green (growth, nature, adaptation) and white (order, light, law). 
 
 As we'll see today, the look of saprolings and nature elementals, mostly employed by the Conclave in Ravnica, reflects these twin philosophies as well.
 

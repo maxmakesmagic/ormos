@@ -79,7 +79,9 @@ render_recovery:
   - Wall of Mulch
   occurrences: 38
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a895.jpg)Jon Finkel makes these Limited PTs look easy. Despite rarely playing the game at all and a poor record in constructed PTs of late Jon is poised to make his second straight Limited Day 2 and is hoping for another Top 8 like Chicago. Kai is already out of contention for Day 2 today so if Jon makes Day 3 who can stop him?
+![](http://www.wizards.com/sideboard/images/ptyok03/a895.jpg)
+
+Jon Finkel makes these Limited PTs look easy. Despite rarely playing the game at all and a poor record in constructed PTs of late Jon is poised to make his second straight Limited Day 2 and is hoping for another Top 8 like Chicago. Kai is already out of contention for Day 2 today so if Jon makes Day 3 who can stop him?
 
 Franck has done pretty well in constructed this year, winning $25,000 at the Chicago Masters as well as two Grand Prix Top 8s. 
 
@@ -89,7 +91,9 @@ Both players kept their opening hands and Franck played a Wretched Anurid on the
 
 Franck was stuck on three lands and extremely frustrated as he played a morph. He needed a mountain for the grip full of red cards he was glowering at. Jon played a Glowering Rogon revealing a Vorine and a Cloudscraper.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a896.jpg)Franck cycled and Undead Gladiator in hopes of finding land but failed and fell to 12 when the Rogon lumbered into the red zone. Jon played two morphs and passed the turn back to Franck who finally found a Mountain but elected to not play a guy so he could unmorph his Grinning Demon and kill the 6/6 beast but he dropped to 8 form the two morphs. Jon overextended and played a Krosan Vorine and a Crypt Sliver and Franck punished him with Infest. 'Wow!" Jon was stunned and new he had overcommitted. Franck then took control of the new game with a Sparksmith. Jon managed to play a Silklash Spider and a Needleshot Gourna while trying to regroup but all of the cards Franck had been stuck with earlier came cascading onto the table and Wave of Indifference finished Jon off.
+![](http://www.wizards.com/sideboard/images/ptyok03/a896.jpg)
+
+Franck cycled and Undead Gladiator in hopes of finding land but failed and fell to 12 when the Rogon lumbered into the red zone. Jon played two morphs and passed the turn back to Franck who finally found a Mountain but elected to not play a guy so he could unmorph his Grinning Demon and kill the 6/6 beast but he dropped to 8 form the two morphs. Jon overextended and played a Krosan Vorine and a Crypt Sliver and Franck punished him with Infest. 'Wow!" Jon was stunned and new he had overcommitted. Franck then took control of the new game with a Sparksmith. Jon managed to play a Silklash Spider and a Needleshot Gourna while trying to regroup but all of the cards Franck had been stuck with earlier came cascading onto the table and Wave of Indifference finished Jon off.
 
 Jon – 0 Franck – 1
 
@@ -99,7 +103,9 @@ Franck sided in a Lay Waste but Jon had some real sideboard action with three An
 
 Franck played a Grappler and a Sparksmith going second but it wasn't fast enough to stop Jon from ramping up to a turn three 4/4 Canopy Crawler off of Wirewood Elf. Franck played a Blade Sliver and Jon answered back with a thrashing Mudspawn straight up. Franck cycled his Gladiator looking for cards and chumped the Mudspawn with has Sliver drawing first blood off of Jon who played a Screeching Buzzard, which was promptly tried to finish off the Mudspawn but Jon saved it with his Crawler. Promptly is the opposite of true, Franck was playing at a very deliberate pace and Jon called over a judge, "Shouldn't you be watching for speed of play?"
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a897.jpg)Franck returned the Gladiator during his upkeep and shot the Crawler with his Sparksmith and cleared the board –except for the Mudspawn with Infest. Jon played a Krosan Vorine and a Wirewood Elf while Franck played a Wretched Anurid and the Gladiator. Jon used a Crown of Suspicion on the Wretched Anurid to kill the Gladiator and pump his Mudspawn to a 6/3. Vorine ate the Anurid and the Mudspawn ran by unmolested. Franck looked for answers but his deck offered none and they were on to the rubber game.
+![](http://www.wizards.com/sideboard/images/ptyok03/a897.jpg)
+
+Franck returned the Gladiator during his upkeep and shot the Crawler with his Sparksmith and cleared the board –except for the Mudspawn with Infest. Jon played a Krosan Vorine and a Wirewood Elf while Franck played a Wretched Anurid and the Gladiator. Jon used a Crown of Suspicion on the Wretched Anurid to kill the Gladiator and pump his Mudspawn to a 6/3. Vorine ate the Anurid and the Mudspawn ran by unmolested. Franck looked for answers but his deck offered none and they were on to the rubber game.
 
 Jon – 1 Franck – 1
 

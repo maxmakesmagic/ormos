@@ -44,7 +44,9 @@ archive_source:
   sha256: 6b02d265a174e377b5c7e68ee589c153900decaaf0b167a3b2e67d2515e16c6b
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/qf3_1.jpg)Rene Kraft from Germany refused to drop a single point in the swiss portion of the Grand Prix. Even when he was secured in the Top 8, he didn't Intentionally Drew for a chance to rest for a while. He played and won, until there was no more rounds to win.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/qf3_1.jpg)
+
+Rene Kraft from Germany refused to drop a single point in the swiss portion of the Grand Prix. Even when he was secured in the Top 8, he didn't Intentionally Drew for a chance to rest for a while. He played and won, until there was no more rounds to win.
 
 For the final draft of the weekend, the random pairing got him Argentinean Jose Barbero, currently living in France and taking that opportunity to enjoy quite a respectable success on the European Grand Prix circuit.
 

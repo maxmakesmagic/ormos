@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Randy Buehler* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/916.jpg)Potato Nation surprised everyone by giving Mike Turian a deck without any forests in it. Gary Wise got to play with the magical green cards, along with a reasonable dose of black removal. He took on Brian Kibler, who ran a fairly standard blue/white in Jumble's "B" seat. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/916.jpg)
+
+Potato Nation surprised everyone by giving Mike Turian a deck without any forests in it. Gary Wise got to play with the magical green cards, along with a reasonable dose of black removal. He took on Brian Kibler, who ran a fairly standard blue/white in Jumble's "B" seat. 
 
 Kibler got off to a good start in game 1, playing out Rishadan Airship and then when Wise tried to block and kill it with Misshapen Fiend, Kibler enchanted it with Mageta's Boon, creating a 4/2 flier. Wise promptly drew Snuff Out off the top of his deck, used it to destroy the Airship, and commented out loud "I got lucky there." Wise then played Scandalmonger, but Kibler just had a bunch of land in his hand. Meanwhile Kibler used Wise's Monger to knock Vicious Hunger and Sever Soul out of Gary's hand. Wise did have Belbe's Armor in play, though, and it prevented Kibler from ever building up a useful air attack. Meanwhile, Scandalmonger is also a 3/3 and Wise kept attacking with it until Kibler was dead. 
 

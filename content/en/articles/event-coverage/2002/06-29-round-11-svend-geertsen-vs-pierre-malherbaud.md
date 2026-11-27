@@ -46,7 +46,9 @@ render_recovery: []
 ---
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a858.jpg)Both players kept their hands and just dropped lands for a couple of turns until Svend broke the ice on turn two with a Wild Mongrel.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/euro02/a858.jpg)
+
+Both players kept their hands and just dropped lands for a couple of turns until Svend broke the ice on turn two with a Wild Mongrel.
 
 Pierre had an answer for the creature that terrorised the whole field here at this tournement: Chainer's Edict. It didn't get him the Mongrel as he had hoped for but a Rootwalla discarded in response. 
 
@@ -64,7 +66,9 @@ After sideboarding Pierre chose to play first, trying to get out a Braids as soo
 
 Pierre found a Nantuko Shade right on the top of his deck and put it into play immediately. His opponent just played a Merfolk Looter and took five damage from the Shade. Another Merfolk Looter is all Geertsen can manage but it didn't serve as blocker. Instead, Svend went down to nine life. He wanted to stop the Frenchman's attack with a Roar of the Wurm but Slay cut right through his plans and Svend was left at five.
 
-![](https://i.ormos.uk/38/1f/381fb541d9102484be137a37ac4f89f920d8cac81143eaa408868b97e02da681.jpg)Somehow, Geertsen found another Roar, which was Vindicated and forced him to block with his Merfolk Looter. His second Merfolk suffered the same fate but was a help in putting an Arrogant Wurm into play. 
+![](https://i.ormos.uk/38/1f/381fb541d9102484be137a37ac4f89f920d8cac81143eaa408868b97e02da681.jpg)
+
+Somehow, Geertsen found another Roar, which was Vindicated and forced him to block with his Merfolk Looter. His second Merfolk suffered the same fate but was a help in putting an Arrogant Wurm into play. 
 
 Malherbaud wanted to end the game and summoned Spiritmonger. Geertsen hadn't given up yet and used a Rushing River on both of his opponent's creatures to see another day after his mongrel fell victim to the second Vindicate of this game.
 

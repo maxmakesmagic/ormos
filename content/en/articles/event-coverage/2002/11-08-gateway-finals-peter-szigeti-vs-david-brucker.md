@@ -44,7 +44,9 @@ archive_source:
   sha256: e6ac23ee086db5831547414c7ff9c0921d09cef38c77a0ccbfaffc4f8b3ad535
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a999.jpg)At least two thousand dollars hangs on the outcome of this match. To the winner, a spot on the Masters Series. To the loser, the bitter disappointment of having come so close. David Brucker is no stranger to high-level competition. This year he brawled the European Championships and took the title. Across from him, perhaps subdued by the import of his situation, is nefarious cueball Peter Szigeti.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a999.jpg)
+
+At least two thousand dollars hangs on the outcome of this match. To the winner, a spot on the Masters Series. To the loser, the bitter disappointment of having come so close. David Brucker is no stranger to high-level competition. This year he brawled the European Championships and took the title. Across from him, perhaps subdued by the import of his situation, is nefarious cueball Peter Szigeti.
 
 It was a slow start from Szigeti, including the always-terrible "No play on turn three". He did have double [Cruel Revival](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival), so his hand was not without features. Brucker curved out with a morph and [Snarling Undorak](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snarling+Undorak). [Harsh Mercy](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harsh+Mercy) removed the face-down creature, but it was replaced with [Leery Fogbeast](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leery+Fogbeast). [Cruel Revival](https://web.archive.org/web/20021108000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cruel+Revival) took out the Undorak, but Szigeti had to eat some damage first.
 

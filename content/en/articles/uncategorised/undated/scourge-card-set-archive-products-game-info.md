@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/1f/35/1f352a74093dc9abcf7aab5cd44ad947b665f45319436ca2e2dd96729fb23e37.png)This 143-card set includes randomly inserted foil-finished premium cards and new mechanics like Storm, Landcycling, Warchiefs, and even a few creatures that morph for free.
+![](https://i.ormos.uk/1f/35/1f352a74093dc9abcf7aab5cd44ad947b665f45319436ca2e2dd96729fb23e37.png)
+
+This 143-card set includes randomly inserted foil-finished premium cards and new mechanics like Storm, Landcycling, Warchiefs, and even a few creatures that morph for free.
 
 **Set Name:** *Scourge*  
 **Block:** Set 3 of 3 of the *Onslaught* Block  

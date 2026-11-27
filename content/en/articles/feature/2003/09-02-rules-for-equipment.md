@@ -85,7 +85,9 @@ The *Mirrodin* expansion introduces **Magic** cards unlike any you’ve seen bef
 
 Artifacts that have the subtype "Equipment" are a special kind of artifact. Generally, an Equipment doesn't do anything unless it's attached to a creature. Equipment works in much the same way as local enchantments, but there are some important differences. The biggest differences are (1) an Equipment doesn't equip anything when it comes into play, and (2) an Equipment stays in play when the creature it's equipping leaves play.
 
-![Loxodon Warhammer](https://i.ormos.uk/4f/c4/4fc4e71929b6db851b3d88f66972abfa50131f828031d705b9f613a191d3b4de.jpg)Here's an example of an Equipment, Loxodon Warhammer. Note that its subtype is "Equipment." That's how you know what it does. Also, it has the "equip" keyword ability. You use the equip ability to attach Equipment to creatures.
+![Loxodon Warhammer](https://i.ormos.uk/4f/c4/4fc4e71929b6db851b3d88f66972abfa50131f828031d705b9f613a191d3b4de.jpg)
+
+Here's an example of an Equipment, Loxodon Warhammer. Note that its subtype is "Equipment." That's how you know what it does. Also, it has the "equip" keyword ability. You use the equip ability to attach Equipment to creatures.
 
 The equip keyword ability is pretty straightforward. The equip ability can target only a creature you control. It's okay if Equipment gets onto a creature your opponent controls (such as via your opponent playing [Confiscate](https://web.archive.org/web/20030902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Confiscate) on your equipped creature), but you can't do this using the equip ability. Also, you can play the ability only any time you could play a sorcery. The cleverest combat trick you can do with Loxodon Warhammer is attaching it to one of your creatures and smashing your opponent's face with it.
 

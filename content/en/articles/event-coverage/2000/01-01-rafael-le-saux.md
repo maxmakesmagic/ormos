@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Luis Neiman*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sun173.jpg)Rafaël Le Saux was probably the revelation of the tournament, being the only Chilean making it into the Top 8 at this year's Magic: The Gathering Latin America Championship.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/LAC00/images/sun173.jpg)
+
+Rafaël Le Saux was probably the revelation of the tournament, being the only Chilean making it into the Top 8 at this year's Magic: The Gathering Latin America Championship.
 
 Rafaël chose to lay his Accelerated Blue deck, a deck featuring a whopping 17 counterspells of various kinds (Daze, Miscalculations, Counterspells, Rewinds and Thwarts) and a distinct variation from other Accelerated Blue decks: no Powder Kegs. This variation makes his deck weaker against creature-based strategies like Angry Hermit (which claimed two spots within the Top 8), yet it improves his performance against other decks like Replenish and Wildfire, which are present in the Top 8. Not using Powder Kegs, Le Saux is practically forced to play with 4 Treachery, a card that has fallen out of grace somewhat with modern Accelerated Blue players. Rafaël's deck uses 6 very efficient creatures: Masticore, for creature removal and beatdown, and Jesus (otherwise known as Morphling) to seal the deal. He chose to play this deck because he feels that it does extremely well against decks as Replenish and Draw-Go (another mono-blue deck, featuring Thieving Magpie for card-drawing and a high number of counterspells). Le Saux's deck choice paid off in the end because the Latin-American championships featured 19 Replenish decks, of a total of 60 players. He rounds off his mana-base with 26 lands: 20 Islands, 2 Dust Bowls and 4 Rishadan Port. Above all, Rafaël feels that his deck is consistent and can do well in the Top 8.
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/154.jpg)In the sixth round, Phil Pettifer from the United Kingdom faced former World Champion and Pro Tour Player of the Year, Kai Budde from Germany. The two players were both at 12 points and needed to win to stay in contention for top 64. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPPORTO00/Images/154.jpg)
+
+In the sixth round, Phil Pettifer from the United Kingdom faced former World Champion and Pro Tour Player of the Year, Kai Budde from Germany. The two players were both at 12 points and needed to win to stay in contention for top 64. 
 
 Pettifer won the die roll and chose to play. He played some lands and a turn three Alabaster Wall while Budde got a turn one Trickster Mage started attacking. The German failed to play anything during his third turn, while Pettifer got out a Nightwind Glider. Fortunately, Kai drew another land and played his own flyer, a Rishadan Airship. So they both attacked for two for a while, Pettifer preventing one damage from the Airship with his Wall. 
 

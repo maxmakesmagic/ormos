@@ -1326,7 +1326,9 @@ render_recovery:
 ---
 * * *
 
-![Dralnu, Lich Lord, with a big red X in front of him.](https://i.ormos.uk/3c/de/3cde732d7d157b7269e55d7b707c5386c349474e10a7a583b31e6f209813153a.jpg)Before proceeding with the content of this article proper, I just want to stress how jealous I am of the Japanese for [Grand Prix – Kyoto](/en/events/2007/gpkyo07/amateur-wins-in-kyoto). I know that the last Two-Headed Giant Grand Prix broke the floorboards with its attendance, and we East Coasters have got that format for Boston... But I love me a Standard.
+![Dralnu, Lich Lord, with a big red X in front of him.](https://i.ormos.uk/3c/de/3cde732d7d157b7269e55d7b707c5386c349474e10a7a583b31e6f209813153a.jpg)
+
+Before proceeding with the content of this article proper, I just want to stress how jealous I am of the Japanese for [Grand Prix – Kyoto](/en/events/2007/gpkyo07/amateur-wins-in-kyoto). I know that the last Two-Headed Giant Grand Prix broke the floorboards with its attendance, and we East Coasters have got that format for Boston... But I love me a Standard.
 
 So... Kyoto... Standard Grand Prix. This event was an eye-opener with great lists and surprising consequences for the *standard* Magic: The Gathering format, Standard. While there were two decks similar to what Frank himself posted in [last week's Online Tech](/en/articles/onlinetech/2007/03-14-musings-on-the-new-standard), the well known Standard archetypes, Dralnu du Louvre (called "the best deck in Standard"), Dragonstorm (World Championships winner winner), Boros (four undefeated Day One decks at Worlds), Mono-Green Aggro (recent MTGO darling)... Not a one showed up in the Top 8 of Grand Prix Kyoto. 
 
@@ -1353,7 +1355,9 @@ If you didn't understand what was going on in the preceding paragraph, I refer y
 
 Iwasaki's deck is a take on Project X, a rogue design that was played by Hall of Famer and recent phenom Raphael Levy and others at the 2006 World Championships. This archetype can operate as a regular, if poor and inefficient, creature deck (see the bit about the Scissors being blunt and rusty and still quite capable of cutting Paper, above), but really shines in that it can gain infinite life or create infinite tokens under certain conditions as well.
 
-![Saffi Eriksdotter and Crypt Champion](https://i.ormos.uk/f2/73/f27372a1dd0abfdb91a9b3bf3c883edff2a91b022483003ccb3a7fb463bad87d.jpg)The simplest version of the combination is Essence Warden, Saffi Eriksdotter, and Crypt Champion. With the first two lovely ladies in play (or one in play and one in the graveyard, actually), summon Crypt Champion. Crypt Champion will look up from his Skullmead Cauldron and query if any red mana has been paid for him. Birds of Paradise turns away and chirps in another direction; none has. Well then, says the Champion, I'll be going, then. Not so fast, cautions Saffi. I'd like you to come back; she herself exits. Crypt Champion leaves. Crypt Champion is back! Look, he's brought Saffi along with him! Pass the Skullmead Cauldron! No, no time for that. No red mana *again*? Forget this noise. Wait... Come back, Crypt Champion! Saffi is that you? Where is that Human Scout? Oh there she is! Crypt Champion brought her along. 
+![Saffi Eriksdotter and Crypt Champion](https://i.ormos.uk/f2/73/f27372a1dd0abfdb91a9b3bf3c883edff2a91b022483003ccb3a7fb463bad87d.jpg)
+
+The simplest version of the combination is Essence Warden, Saffi Eriksdotter, and Crypt Champion. With the first two lovely ladies in play (or one in play and one in the graveyard, actually), summon Crypt Champion. Crypt Champion will look up from his Skullmead Cauldron and query if any red mana has been paid for him. Birds of Paradise turns away and chirps in another direction; none has. Well then, says the Champion, I'll be going, then. Not so fast, cautions Saffi. I'd like you to come back; she herself exits. Crypt Champion leaves. Crypt Champion is back! Look, he's brought Saffi along with him! Pass the Skullmead Cauldron! No, no time for that. No red mana *again*? Forget this noise. Wait... Come back, Crypt Champion! Saffi is that you? Where is that Human Scout? Oh there she is! Crypt Champion brought her along. 
 
 Confused?
 

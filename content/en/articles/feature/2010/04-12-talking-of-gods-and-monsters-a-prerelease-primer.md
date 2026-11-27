@@ -77,7 +77,9 @@ Some sets, there will be a gradual accumulation of goodness that will stoke the 
 
 With *Rise of the Eldrazi* all it took was one monster coming over the hill, and I knew that I wanted to be casting big spells and doing powerful powerful things at the prerelease that is now mere days away.
 
-![](https://i.ormos.uk/4f/1c/4f1ccf48a1ab0f481a8a7f7407e77546e5c8b8877bb4a36ce648d875e1cfa420.jpg)With Kozilek, though, came as many questions as answers. Could there really be a Limited format where casting spells as big as the Eldrazi would ever be a realistic plan? I certainly hoped it was true, and as we have gradually seen more and more cards from the set, it seems to be the case.
+![](https://i.ormos.uk/4f/1c/4f1ccf48a1ab0f481a8a7f7407e77546e5c8b8877bb4a36ce648d875e1cfa420.jpg)
+
+With Kozilek, though, came as many questions as answers. Could there really be a Limited format where casting spells as big as the Eldrazi would ever be a realistic plan? I certainly hoped it was true, and as we have gradually seen more and more cards from the set, it seems to be the case.
 
 What this means for us the players is that *Rise of the Eldrazi* is going to be quite unlike prior Sealed Deck formats to play. The true gravity of this hit me fairly hard when I realised that it was time to write the Prerelease Primer article for a set that plays out with a different rhythm to that which precedes it.
 
@@ -99,7 +101,9 @@ With my normal deck building, the plan is more or less "play good creatures, kil
 
 In *Rise of the Eldrazi* Sealed, having a plan is a big deal. There are some very large and very scary monsters in this format. If you work at it, you will be able to cast them, and once you have cast them, there is every chance that you will be able to end games fast with them. The same is true of what is happening on your opponent's side of the board.
 
-![](https://i.ormos.uk/79/db/79db4f476768d031ab20aa625d76229c0c1d9b87d4d58836f26bc931341e279e.jpg)When going into a format like this, fortune favours the well prepared.
+![](https://i.ormos.uk/79/db/79db4f476768d031ab20aa625d76229c0c1d9b87d4d58836f26bc931341e279e.jpg)
+
+When going into a format like this, fortune favours the well prepared.
 
  
 

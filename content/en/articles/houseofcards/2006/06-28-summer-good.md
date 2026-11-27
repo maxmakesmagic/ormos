@@ -733,7 +733,9 @@ Since all of the important pieces are Common or Uncommon, I decided to avoid add
 
 ### Assasssan ... assisss... *killers*.
 
-![kiku_nights_flower](http://www.wizards.com/magic/images/cardart/CHK/kiku_nights_flower.jpg)In part two of my 102 part series, Better Know Standard Tribal Wars, I'm going to take a look at Assassins. The fightin' Assassins! There are only five of them in Standard, four Humans (Kiku, Night's Flower, Royal Assassin, Orzhov Euthanist, and Nekrataal) and one Zombie (Unliving Psychopath). I'm not sure how the Psychopath became a Zombie, but according to the rumours, he accidentally assassinated himself during an Assassin's Guild hazing ritual gone awry. I'll have to check the latest Darwin Awards to be sure, though. 
+![kiku_nights_flower](http://www.wizards.com/magic/images/cardart/CHK/kiku_nights_flower.jpg)
+
+In part two of my 102 part series, Better Know Standard Tribal Wars, I'm going to take a look at Assassins. The fightin' Assassins! There are only five of them in Standard, four Humans (Kiku, Night's Flower, Royal Assassin, Orzhov Euthanist, and Nekrataal) and one Zombie (Unliving Psychopath). I'm not sure how the Psychopath became a Zombie, but according to the rumours, he accidentally assassinated himself during an Assassin's Guild hazing ritual gone awry. I'll have to check the latest Darwin Awards to be sure, though. 
 
 There are a number of ways to build an Assassin deck. You could max out the flavour by including some of the Black ninjas. (I'm pretty sure “assassinating” is part of Throat Slitter's job description.) I decided to include just one ninja, Ink-Eyes, Servant of Oni. Her ability is especially relevant here because your opponents will have a lot of creatures and you have so many ways to kill those creatures. Along these same lines, I'm using Debtors' Knell, Nezumi Graverobber, and Crime to raid opposing graveyards.
 

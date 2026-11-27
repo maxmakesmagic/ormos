@@ -57,7 +57,9 @@ render_recovery: []
 
 *Dan Paskins* 
 
-![](https://www.wizards.com/sideboard/images/gplon02/900.jpg)Jakub has been one of the top Magic players in the world for an awfully long time. Way back in 1997, before Tempest was released, Jakub won the World Championships with a four color black deck. Since that time he has posted a number of impressive finishes, with many top eight finishes in Grand Prixs and Pro Tours, though it has been a little while since his last big success.
+![](https://www.wizards.com/sideboard/images/gplon02/900.jpg)
+
+Jakub has been one of the top Magic players in the world for an awfully long time. Way back in 1997, before Tempest was released, Jakub won the World Championships with a four color black deck. Since that time he has posted a number of impressive finishes, with many top eight finishes in Grand Prixs and Pro Tours, though it has been a little while since his last big success.
 
 Jakub, a 25 year-old computer analyst, is playing a blue-green deck after seeing Dave Humphreys play it at Worlds and liking it. He isn’t a huge fan of this format, but seems to be quite good at it, though he claims that many of his opponents suffered mana problems. He’s currently playing the semi-final against England’s Craig Stevenson, and will be looking to secure a first Grand Prix victory.
 
@@ -69,7 +71,9 @@ Jakub doesn’t know which Extended deck is best in the new format, and confesse
 
 *Dan Paskins* 
 
-![](https://www.wizards.com/sideboard/images/gplon02/893.jpg)One of the joys of any European Grand Prix is that a previously unknown German player is guaranteed to turn up and crush everyone. This weekend, it has been Christoph Hoelzl, who at the time of writing this won his quarter-final after posting a reasonably impressive 14-0 record in the main section of the tournament.
+![](https://www.wizards.com/sideboard/images/gplon02/893.jpg)
+
+One of the joys of any European Grand Prix is that a previously unknown German player is guaranteed to turn up and crush everyone. This weekend, it has been Christoph Hoelzl, who at the time of writing this won his quarter-final after posting a reasonably impressive 14-0 record in the main section of the tournament.
 
 Christoph is an eighteen year old student from Bavaria in Southern Germany, and is playing mono-black control. He says that he chose it because he did not expect to face decks like mono-red and red-green because he had three byes, it is good against all the other popular decks and he dislikes the blue-green deck because of its mana base, though sadly his favorite Magic color is usually blue.
 
@@ -114,7 +118,9 @@ Christoph may not yet be ready to take the title of ‘the next Kai Budde’, bu
 
 *Dan Paskins* 
 
-![](https://www.wizards.com/sideboard/images/gplon02/894.jpg)Craig came to the tournament with no byes and after three rounds rang his brother, who lives in London, to explain that when he suffered a second match loss (he was on 2-1), he would drop out and go for a drink. His brother is still waiting, as Craig won the next five matches to finish the day on 7-1, and continued to storm through the second day, ending up in 6th place after the fourteenth round.
+![](https://www.wizards.com/sideboard/images/gplon02/894.jpg)
+
+Craig came to the tournament with no byes and after three rounds rang his brother, who lives in London, to explain that when he suffered a second match loss (he was on 2-1), he would drop out and go for a drink. His brother is still waiting, as Craig won the next five matches to finish the day on 7-1, and continued to storm through the second day, ending up in 6th place after the fourteenth round.
 
 This is his first big tournament achievement, and his top eight finish surprised and delighted him, and was the best finish by an English player. It is especially impressive because Craig has only been playing seriously since the time when Planeshift was released, and is a member of the fast-improving Team Leeds, whose members have won a number of Pro Tour Qualifiers in England over the last few months.
 
@@ -128,7 +134,9 @@ Going into this tournament Craig’s favorite color was green, but after the eve
 
 *Dan Paskins* 
 
-![](https://www.wizards.com/sideboard/images/gplon02/896.jpg)Gerard, a 27 year-old French player, took his Blue-Black Braids deck to the top eight, squeezing past England’s Gary Wise to take eighth place after the fourteenth round. This is Gerard’s first Grand Prix top eight, with his previous best accomplishments being a top 32 at Grand Prix Tours and an appearance at Pro Tour New Orleans.
+![](https://www.wizards.com/sideboard/images/gplon02/896.jpg)
+
+Gerard, a 27 year-old French player, took his Blue-Black Braids deck to the top eight, squeezing past England’s Gary Wise to take eighth place after the fourteenth round. This is Gerard’s first Grand Prix top eight, with his previous best accomplishments being a top 32 at Grand Prix Tours and an appearance at Pro Tour New Orleans.
 
 He claims that it was ‘intuition’ which led him to choose to play the blue-black deck, and black is his favorite Magic color. He was quite confident about his quarter-final match, but he had played Hoelzl in the main part of the tournament and suffered his first match loss.
 
@@ -192,7 +200,9 @@ In Extended his favorite deck is the version of Trinity Green with Armageddons t
 
 *Quentin Martin* 
 
-![](https://www.wizards.com/sideboard/images/gplon02/897.jpg)I managed to corner Christophe after he had unluckily lost his quarter-final match. Though unhappy he was willing to spare some time to answer a few questions:
+![](https://www.wizards.com/sideboard/images/gplon02/897.jpg)
+
+I managed to corner Christophe after he had unluckily lost his quarter-final match. Though unhappy he was willing to spare some time to answer a few questions:
 
 **Where are you from?**  
  France

@@ -145,7 +145,9 @@ L’espansione *Mirrodin*TM introduce nuove carte **Magic**® dotate di caratter
 
 Gli "Equipaggiamenti" sono arterfatti speciali. In generale agiscono solo se sono assegnati a una creatura. L’Equipaggiamento funziona in modo molto simile agli incantesimi locali, ma presenta delle particolarità molto importanti. Le principali differenze sono che la carta Equipaggiamento (1) non esercita l’abilità semplicemente entrando in gioco e (2) rimane in gioco anche quando la creatura a cui è assegnata esce dal gioco.
 
-![Loxodon Warhammer](https://i.ormos.uk/4f/c4/4fc4e71929b6db851b3d88f66972abfa50131f828031d705b9f613a191d3b4de.jpg "Loxodon Warhammer")Ecco un esempio di carta Equipaggiamento: Loxodon Warhammer. Come puoi vedere, sulla carta è indicato "Equipaggiamento" come sottotipo. Questa scritta ti permette di sapere in quale modo si comporta la carta. La sua abilità, invece, è "equip", e serve per assegnare l’Equipaggiamento alle creature.
+![Loxodon Warhammer](https://i.ormos.uk/4f/c4/4fc4e71929b6db851b3d88f66972abfa50131f828031d705b9f613a191d3b4de.jpg "Loxodon Warhammer")
+
+Ecco un esempio di carta Equipaggiamento: Loxodon Warhammer. Come puoi vedere, sulla carta è indicato "Equipaggiamento" come sottotipo. Questa scritta ti permette di sapere in quale modo si comporta la carta. La sua abilità, invece, è "equip", e serve per assegnare l’Equipaggiamento alle creature.
 
 L’abilità equip è molto semplice: può essere diretta solo verso una creatura che è sotto il tuo controllo. Può anche accadere che venga a trovarsi su una creatura controllata dall’avversario (ad esempio, se lui gioca Confiscate sulla tua creatura equipaggiata), ma non perché gliela assegni tu direttamente. Inoltre, l’abilità equip va giocata come le stregonerie. Il gioco migliore che puoi fare con Loxodon Warhammer è di assegnarlo a una tua creatura e usare questa per sferrare un colpo dritto in faccia all’avversario.
 

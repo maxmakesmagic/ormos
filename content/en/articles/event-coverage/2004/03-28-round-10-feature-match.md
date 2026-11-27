@@ -44,7 +44,9 @@ archive_source:
   sha256: ff29ca44ff57b1bd9e8265cfbd15a59135c34e52ef29265b6574275adf79b2da
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm12_1.jpg)The players got to the feature match area nice and early and exchanged some friendly banter. Herzog was expecting to get slaughtered at the hands of Olivier. "If I do anything before turn six it's a miracle!" declared the Norwegian.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm12_1.jpg)
+
+The players got to the feature match area nice and early and exchanged some friendly banter. Herzog was expecting to get slaughtered at the hands of Olivier. "If I do anything before turn six it's a miracle!" declared the Norwegian.
 
 ### Game 1
 

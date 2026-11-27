@@ -90,7 +90,9 @@ render_recovery:
   - Snarling Undorak
   occurrences: 46
 ---
-![](http://www.wizards.com/sideboard/images/gpsin03/a946.jpg)After a disappointing showing at GP Venice, Nadebaum has pulled into Singapore to try and get a little bit of money to take home with him. He's not too concerned with it though, stating that the whole time was basically meant to be a holiday anyways, hanging out with his buddies from Team Punisher and that he'd had a hell of a time touring Italy, especially Rome.
+![](http://www.wizards.com/sideboard/images/gpsin03/a946.jpg)
+
+After a disappointing showing at GP Venice, Nadebaum has pulled into Singapore to try and get a little bit of money to take home with him. He's not too concerned with it though, stating that the whole time was basically meant to be a holiday anyways, hanging out with his buddies from Team Punisher and that he'd had a hell of a time touring Italy, especially Rome.
 
 Opening his first pack revealed choices between Aven Fateshaper, Barkhide Mauler and a Swat. "I probably should have taken the Swat, in hindsight it was probably the right pick at the moment but there ended up being no black anyway", replied Nadebaum when asked about his first pick. He took the Fateshaper, and picked up a Gustcloak Savior in his next pack. When his third pick was a Aven Soulgazer it looked as though he was going to be a white drafter at this table, which is not normally a terrible thing in a format where people tend to shy away from it. Pinpoint Avalanche stared Nadebaum in the face when he scooped up his cards for his third pick, with a Krosan Tusker and a Daru Healer in the pack he thought for about a second and hoped that this was a sign red was coming his way, placing it face down with the rest. Unfortunately for Nadebaum it wasn't a signal as the player to his right had been drafting heavy red right from the start, and it would sit unused in his sideboard. 
 

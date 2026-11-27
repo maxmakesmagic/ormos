@@ -78,7 +78,9 @@ render_recovery:
   - Zombie Cutthroat
   occurrences: 28
 ---
-![](http://www.wizards.com/sideboard/images/gpams03/a880.jpg)The members of these two teams are all very well known. Object of Affection are Jens Thoren, Anton Jonsson and Tomi Walamies. Ace Ten Off are Jon Finkel with Eric Froehlich and Kamiel Cornelissen. 
+![](http://www.wizards.com/sideboard/images/gpams03/a880.jpg)
+
+The members of these two teams are all very well known. Object of Affection are Jens Thoren, Anton Jonsson and Tomi Walamies. Ace Ten Off are Jon Finkel with Eric Froehlich and Kamiel Cornelissen. 
 
 ### The Draft:
 

@@ -173,7 +173,9 @@ render_recovery:
   - Accelerate
   occurrences: 183
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a982.jpg)In the opening draft of Pro Tour Nice, I decided to cover Dirk Baberowki. He finished well at Pro Tour San Diego earlier this year, as one of the only players in the field actively drafting Blue/Red. He won the Pro Tour Osaka Masters series with his teammates Kai Budde and Marco Blume as part of team Phoenix Foundation by drafting Blue/Green with multiple Nantuko Disciples. Dirk is known for placing different valuations on many cards when compared to most other players. 
+![](http://www.wizards.com/sideboard/images/ptnice02/a982.jpg)
+
+In the opening draft of Pro Tour Nice, I decided to cover Dirk Baberowki. He finished well at Pro Tour San Diego earlier this year, as one of the only players in the field actively drafting Blue/Red. He won the Pro Tour Osaka Masters series with his teammates Kai Budde and Marco Blume as part of team Phoenix Foundation by drafting Blue/Green with multiple Nantuko Disciples. Dirk is known for placing different valuations on many cards when compared to most other players. 
 
 His draft began very strongly, with a first pick Aboshan followed up by a second pick Persuasion. By the end of the first pack, Dirk had a solid stack of Blue and White cards, but had only drafted two playable creatures. The second pack petered off in quality quickly, and *Torment* didn't aid his deck much. We sat down after his draft to discuss his picks.
 

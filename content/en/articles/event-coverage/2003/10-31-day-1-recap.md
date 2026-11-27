@@ -46,7 +46,9 @@ render_recovery: []
 ---
 318 players came to New Orleans today to compete in an Extended format that was entirely unexplored. Since Worlds, [Goblin Lackey](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Lackey), [Frantic Search](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frantic+Search) and [Entomb](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb) were banned in an effort to slow the game down. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/996.jpg)On the other hand, *Mirrodin* was printed.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptno03/996.jpg)
+
+On the other hand, *Mirrodin* was printed.
 
 Thanks to the mana acceleration of [Grim Monolith](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Monolith), [Voltaic Key](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voltaic+Key) and [Thran Dynamo](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thran+Dynamo), the set's most powerful cards can come out much faster than in other formats, which tends to break them in half. On top of that, [Goblin Welder](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Welder) and [Tinker](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) allow players to abuse cards such as [Mindslaver](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindslaver), [Goblin Charbelcher](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Charbelcher) and [Myr Incubator](https://web.archive.org/web/20031031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Incubator) to insane lengths. 
 

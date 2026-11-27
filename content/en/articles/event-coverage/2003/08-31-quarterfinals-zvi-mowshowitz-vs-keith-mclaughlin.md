@@ -57,7 +57,9 @@ Keith, we can't tell you anything about, because we don't know anything about hi
 
 The goblins hit the table fast and furious. Sledder from Zvi, Prospector from Keith. [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) from Zvi. Keith killed the [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) with a [Volcanic Hammer](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Hammer) and the action continued at a furious pace.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl03/a894.jpg)The players were down to fourteen life each when Keith dropped a land and used it to cast [Blistering Firecat](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blistering+Firecat), sending the Firecat into the Red Zone and cutting Zvi's life total in half.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpatl03/a894.jpg)
+
+The players were down to fourteen life each when Keith dropped a land and used it to cast [Blistering Firecat](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blistering+Firecat), sending the Firecat into the Red Zone and cutting Zvi's life total in half.
 
 A twitter from Zvi as he played Siege-Gang commander and sent it into the Red Zone. He held back one of the Goblin Tokens in case Keith had another Firecat.
 
@@ -79,7 +81,9 @@ Keith attacked with his little red man and told Zvi he was up.
 
 Zvi quipped right back at him, "I'm up a game."
 
-![](https://i.ormos.uk/71/c2/71c2d9e73e2704555c8c6e890fab730dd44fc9c25ff21d426297856f2432bbdb.jpg)The pace of the game slowed a little as Zvi played out a turn three [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith). With this many Goblins on the table people were doing a lot of math to see what you can use the Sparky for without killing yourself.
+![](https://i.ormos.uk/71/c2/71c2d9e73e2704555c8c6e890fab730dd44fc9c25ff21d426297856f2432bbdb.jpg)
+
+The pace of the game slowed a little as Zvi played out a turn three [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith). With this many Goblins on the table people were doing a lot of math to see what you can use the Sparky for without killing yourself.
 
 Keith cared nothing for the [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith). He burned it off the table with a [Gempalm Incinerator](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gempalm+Incinerator), added a Piledriver on his side of the table and sent his men into the red zone.
 
@@ -103,7 +107,9 @@ Keith had a better turn two idea, which he showed to Zvi after tapping two mount
 
 Keith could only respond simply as he played the [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith), "I hear he's pretty good."
 
-![](https://i.ormos.uk/3a/17/3a1765ecdb03269d3f582a2556a48d39fdc8b6a8ca802abff3339c8d0577a3a5.jpg)Keith had the [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) in play, and he was dominating the table in a way that no other creature can do so. The [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) meant that Keith could kill the [Goblin Warchief](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Warchief) that Zvi had in play, and then kill the second one that Zvi played. It did both of these things before finally dying.
+![](https://i.ormos.uk/3a/17/3a1765ecdb03269d3f582a2556a48d39fdc8b6a8ca802abff3339c8d0577a3a5.jpg)
+
+Keith had the [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) in play, and he was dominating the table in a way that no other creature can do so. The [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) meant that Keith could kill the [Goblin Warchief](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Warchief) that Zvi had in play, and then kill the second one that Zvi played. It did both of these things before finally dying.
 
 Zvi sent his Grappler and Sledder back into the Red Zone, hoping to remove the [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) from play. The Grappler was able to provoke the [Sparksmith](https://web.archive.org/web/20030831000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) into blocking and they both headed into the graveyard. Zvi passed the turn back, two Siege Gang Commanders in hand and not enough land to play them.
 

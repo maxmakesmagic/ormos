@@ -90,7 +90,9 @@ render_recovery:
   - Essence Sliver
   occurrences: 58
 ---
-![](https://i.ormos.uk/13/be/13be2ed6235bf9af03d6017ee46e260ce2f02b8e5d2c86ee349def73dd5c5565.jpg)There is no doubt that Patrick Mello and Kamiel Cornelissen are two great players. However, it's been a while since either has had a top finish on the Pro Tour. Cornelissen made the finals back-to-back two seasons ago, and everyone had him pegged as the next big thing. He did follow up with a string of solid finishes, but has yet to return to the Sunday stage. Mello's first and only Top 8 was at Barcelona, where he lost in the Semifinals to his friend Kai Budde, who of course went on to win the whole tournament.
+![](https://i.ormos.uk/13/be/13be2ed6235bf9af03d6017ee46e260ce2f02b8e5d2c86ee349def73dd5c5565.jpg)
+
+There is no doubt that Patrick Mello and Kamiel Cornelissen are two great players. However, it's been a while since either has had a top finish on the Pro Tour. Cornelissen made the finals back-to-back two seasons ago, and everyone had him pegged as the next big thing. He did follow up with a string of solid finishes, but has yet to return to the Sunday stage. Mello's first and only Top 8 was at Barcelona, where he lost in the Semifinals to his friend Kai Budde, who of course went on to win the whole tournament.
 
 ### Game 1
 
@@ -100,7 +102,9 @@ Dirge of Dread gave one of the morphs fear to get through for a little more dama
 
 One of Cornelissen's morphs attacked, and was blocked by Embalmed Brawler. It flipped over to reveal a 6/6 Primal Whisperer, and the Brawler headed to the graveyard. Nantuko Husk slowed down the attack a bit, but with Cornelissen gaining life every turn from Wellwisher, board parity was not what Mello needed. Cornelissen put himself further ahead, summoning a Wirewood Channeler, which allowed him to bring out Goblin Sharpshooter and an 11/11 Stag Beetle. Cruel Revival handled the Beetle, bringing back a Polluter that was cycled to make Cornelissen lose three life. Dive Bomber gave Mello some damage in the air, but Cornelissen was already gaining four life a turn.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a838.jpg)The Sharpshooter killed the Shepard, and Cornelissen played his own Husk, followed by Symbiotic Elf. Sacrificing the Elf let him shoot down Dive Bomber, but he decided not to sacrifice Insects to do more shooting, and sent the turn over. Mello played Festering Goblin, which could kill the Sharpshooter at will thanks to the Husk. This occurred when Cornelissen shot the Husk, but thanks to stack tricks, the Sharpshooter killed Mello's Husk before dying. He untapped, turned a Skinthinner face up to kill Mello's Sentinel, and attacked for the win.
+![](http://www.wizards.com/sideboard/images/ptyok03/a838.jpg)
+
+The Sharpshooter killed the Shepard, and Cornelissen played his own Husk, followed by Symbiotic Elf. Sacrificing the Elf let him shoot down Dive Bomber, but he decided not to sacrifice Insects to do more shooting, and sent the turn over. Mello played Festering Goblin, which could kill the Sharpshooter at will thanks to the Husk. This occurred when Cornelissen shot the Husk, but thanks to stack tricks, the Sharpshooter killed Mello's Husk before dying. He untapped, turned a Skinthinner face up to kill Mello's Sentinel, and attacked for the win.
 
 Mello- 0 Cornelissen- 1
 

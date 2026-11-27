@@ -233,7 +233,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/a5/da/a5dabe8abdb9cb6c92e7f25b350481f120370f1a49d90042d6f86a0fadf29356.jpg)T[wo weeks ago](/en/articles/makingmagic/2007/01-22-the-great-mix-up-part-i), I talked about the various keywords (and keyword-like abilities) that were color-shifted in *Planar Chaos*. Today in Part II, I am going to move my attention to “and the rest” (also known as the “Professor and Mary Ann” subsection). (By the way, thanks to all my readers who took time last week to write in to inform me that they knew when Part II was scheduled.) Just as with Part I, I will examine where the ability/mechanic fits in the traditional color pie and then I’ll look at how it fits in the *Planar Chaos* color-shifted color pie. Sound like fun? 
+![](https://i.ormos.uk/a5/da/a5dabe8abdb9cb6c92e7f25b350481f120370f1a49d90042d6f86a0fadf29356.jpg)
+
+T[wo weeks ago](/en/articles/makingmagic/2007/01-22-the-great-mix-up-part-i), I talked about the various keywords (and keyword-like abilities) that were color-shifted in *Planar Chaos*. Today in Part II, I am going to move my attention to “and the rest” (also known as the “Professor and Mary Ann” subsection). (By the way, thanks to all my readers who took time last week to write in to inform me that they knew when Part II was scheduled.) Just as with Part I, I will examine where the ability/mechanic fits in the traditional color pie and then I’ll look at how it fits in the *Planar Chaos* color-shifted color pie. Sound like fun? 
 
 ### Bounce (“Return target creature/permanent to its owner’s hand.”)
 

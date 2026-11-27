@@ -63,7 +63,9 @@ render_recovery: []
 ---
 * * *
 
-![](https://i.ormos.uk/68/7b/687bdfbc334bed31a01a2fcd3585a6c7413e753fa74308988e9c6b4a1fb84aa0.jpg)As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Coldsnap*. Enjoy! 
+![](https://i.ormos.uk/68/7b/687bdfbc334bed31a01a2fcd3585a6c7413e753fa74308988e9c6b4a1fb84aa0.jpg)
+
+As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of **magicthegathering.com**. Here is the sortable spoiler list for *Coldsnap*. Enjoy! 
 
   
 

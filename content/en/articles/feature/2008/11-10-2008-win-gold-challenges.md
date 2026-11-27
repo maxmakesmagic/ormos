@@ -61,7 +61,9 @@ archive_source:
   sha256: 8de6f099d4dac9c25d184a4ed16787e11f7b46552fb033b79673cd8d53738dfc
 render_recovery: []
 ---
-[![](https://i.ormos.uk/5e/26/5e26c943e120533bc98964e4afd77ea0c1c7cc76be9c8ea9f059d97266d710e5.jpg)](https://web.archive.org/web/20081110000000/http://archive.wizards.com/Magic/TCG/Events.aspx?x=events/magic/worlds)The **WIN GOLD** Challenges tournaments are a series of qualifiers run throughout North America. The top two finishers at each qualifier earn invitations to the **WIN GOLD** Championship tournament, to be held at the 2008 **Magic: the Gathering** World Championship in Memphis, Tennessee on December 14, 2008. Additional qualifiers will be held at the World Championship for the **WIN GOLD** Championship tournament, where $10,000 in 14K GOLD will be awarded to the winner.
+[![](https://i.ormos.uk/5e/26/5e26c943e120533bc98964e4afd77ea0c1c7cc76be9c8ea9f059d97266d710e5.jpg)](https://web.archive.org/web/20081110000000/http://archive.wizards.com/Magic/TCG/Events.aspx?x=events/magic/worlds)
+
+The **WIN GOLD** Challenges tournaments are a series of qualifiers run throughout North America. The top two finishers at each qualifier earn invitations to the **WIN GOLD** Championship tournament, to be held at the 2008 **Magic: the Gathering** World Championship in Memphis, Tennessee on December 14, 2008. Additional qualifiers will be held at the World Championship for the **WIN GOLD** Championship tournament, where $10,000 in 14K GOLD will be awarded to the winner.
 
 *   [Locations of **WIN GOLD** Challenge tournaments](#locations)
 *   [Win GOLD Championship Tournament Information](https://web.archive.org/web/20081110000000/http://archive.wizards.com/Magic/TCG/Events.aspx?x=events/magic/worlds08-wingold)

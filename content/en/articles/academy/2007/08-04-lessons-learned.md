@@ -85,7 +85,9 @@ archive_source:
   sha256: 4bad1a2344980f53dfc38ddedecf4cc864cc7f9d15932ebc09b8e52b99846830
 render_recovery: []
 ---
-[![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)](https://web.archive.org/web/20070804000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wizard%2BMentor)**Helloand welcome to Magic Academy!** As this is the 48th and final installment of **Magic** Academy, this week we'll be taking a look back at the series.
+[![Wizard_Mentor](https://i.ormos.uk/4d/a1/4da16b4fd6490768d321bbf03735056834b50d221e82f17a562fa089e6f097e2.jpg)](https://web.archive.org/web/20070804000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wizard%2BMentor)
+
+**Helloand welcome to Magic Academy!** As this is the 48th and final installment of **Magic** Academy, this week we'll be taking a look back at the series.
 
 When Scott Johns first contacted me about writing this column, he billed it as one of the most important in the game's history. Where previous broad and educational **Magic** columns were either antiquated or incomplete (note though the valiant efforts of Joe Crosby, and Andrew Johnson), **Magic** Academy was to be both modern and comprehensive. It would also be fundamentally practical, aiming to provide clear and relevant lessons, and an organized reference, for newer players. More specifically, Scott wanted a bridge so that newer players that could muddle their way through a game but weren't up to the speed of the rest of the **Magic** Internet had a place to go where they could read what they needed in one friendly place.
 

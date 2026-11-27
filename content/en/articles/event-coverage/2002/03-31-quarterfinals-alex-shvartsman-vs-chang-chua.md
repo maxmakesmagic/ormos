@@ -44,7 +44,9 @@ archive_source:
   sha256: d641f6968a8bbdee7250096047e35b098cb2d91cc68c87c798fc914400021170
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a935.jpg)Everyone knows smilin' Alex Shvartsman, Grand Prix party-crasher. It's no surprise to find he managed to run his final table to get a seat in the Top 8. His deck is particularly nasty, a black-green bit of brutality headed by none other than [Laquatus's Champion](https://web.archive.org/web/20020331000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Laquatus%27s+Champion). Shvartsman's used to having that bad boy win Grand Prix for him.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a935.jpg)
+
+Everyone knows smilin' Alex Shvartsman, Grand Prix party-crasher. It's no surprise to find he managed to run his final table to get a seat in the Top 8. His deck is particularly nasty, a black-green bit of brutality headed by none other than [Laquatus's Champion](https://web.archive.org/web/20020331000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Laquatus%27s+Champion). Shvartsman's used to having that bad boy win Grand Prix for him.
 
 In his way is the more reserved Chang Chua of Singapore. Also no stranger to Grand Prix Top 8's, Chua does it on a more local scale. Today he has a textbook blue-white control deck. Despite Chua's skills, demonstrated again this weekend, Shvartsman remains a heavy favorite, and is brimming with confidence.
 

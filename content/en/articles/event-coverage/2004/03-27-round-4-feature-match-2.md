@@ -44,7 +44,9 @@ archive_source:
   sha256: f8be4119a3ec60257426b1efc9ffe1a668f884e4fb0f0d4d23be0064267b5aeb
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm2_1.jpg)Round 4 and in come the big guns. Tuomo Nieminen is a Finnish pro and part of the national team that made the final of the team event at World's last year. He also made the Semi's of the individual event. Budde is possibly the biggest gun of them all, but this year faces a strong challenge to the throne from players like Gabriel Nassif despite winning the largest ever Grand Prix in Madrid last month.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbir04/fm2_1.jpg)
+
+Round 4 and in come the big guns. Tuomo Nieminen is a Finnish pro and part of the national team that made the final of the team event at World's last year. He also made the Semi's of the individual event. Budde is possibly the biggest gun of them all, but this year faces a strong challenge to the throne from players like Gabriel Nassif despite winning the largest ever Grand Prix in Madrid last month.
 
 ### Game 1
 

@@ -281,7 +281,9 @@ Wizards of the Coast reserves the right to make any changes to the schedule with
 
 **John Avon** 
 
-![](https://www.wizards.com/mtg/images/daily/events/gpgot10/artist_avon.jpg)John Avon is an Illustrator living in the United Kingdom and has been working professionally since 1983. He has illustrated many hundreds of book covers for well-known authors in many areas from Science Fiction, Fantasy, Horror to History and Psychology. He has also worked on National Advertising Campaigns, CD covers, Game, Toy and TV Development.
+![](https://www.wizards.com/mtg/images/daily/events/gpgot10/artist_avon.jpg)
+
+John Avon is an Illustrator living in the United Kingdom and has been working professionally since 1983. He has illustrated many hundreds of book covers for well-known authors in many areas from Science Fiction, Fantasy, Horror to History and Psychology. He has also worked on National Advertising Campaigns, CD covers, Game, Toy and TV Development.
 
 **Magic: The Gathering** has been a key element in his career and since *Mirage*, his artwork has been featured in almost every expansion of the game. Primarily, John works on environments, some very strange settings and the odd bizarre creature! He loves working for **Magic** as it gives him the freedom to constantly re-invent exciting worlds and stretch imagination to the limit.
 

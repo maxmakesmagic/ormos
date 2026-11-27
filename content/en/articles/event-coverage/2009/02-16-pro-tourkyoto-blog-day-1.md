@@ -142,7 +142,9 @@ Finally, some new deck types emerge. Esper artifacts, already solid with impress
 
 Masashiro Kuroda of Japan has seen a lot in his time. As a winner of a Grand Prix (Nagoya 2002), a Masters Series (Venice 2003) and a Pro Tour (Kobe 2004), it’s fair to say that he’s played a wide spectrum of opponents. One might suppose that there would be no situation he hadn’t faced, but Germany’s Timo Eifler added a unique twist.
 
-![](https://i.ormos.uk/82/6f/826f0fd6bb691715a7533ebfbc8eb0b2853f158343099ee96175635717f330ed.jpg)There are several ways to qualify for the Pro Tour, and one of the toughest—but most rewarding—involves playing, and succeeding, in Grand Prix play. Top 16 is enough to get you a coveted invite down the line, and that’s where a little gap in the Eifler resume came to light. Swiss pairings guarantee you a match against an opponent on the same record as you—draws permitting—so Kuroda already knew Eifler had a 1-0 Constructed record this morning. What Kuroda didn’t know, until a laughing Timo confessed, was that the German was 1-0 in Constructed *lifetime*. It turns out Eifler qualified via the gigantic Grand Prix–Paris last year, where he finished 11th to book his place. After their match, which the Japanese master took 2-1, Eifler took up the story:
+![](https://i.ormos.uk/82/6f/826f0fd6bb691715a7533ebfbc8eb0b2853f158343099ee96175635717f330ed.jpg)
+
+There are several ways to qualify for the Pro Tour, and one of the toughest—but most rewarding—involves playing, and succeeding, in Grand Prix play. Top 16 is enough to get you a coveted invite down the line, and that’s where a little gap in the Eifler resume came to light. Swiss pairings guarantee you a match against an opponent on the same record as you—draws permitting—so Kuroda already knew Eifler had a 1-0 Constructed record this morning. What Kuroda didn’t know, until a laughing Timo confessed, was that the German was 1-0 in Constructed *lifetime*. It turns out Eifler qualified via the gigantic Grand Prix–Paris last year, where he finished 11th to book his place. After their match, which the Japanese master took 2-1, Eifler took up the story:
 
 “I come from a tiny village, and for the first five or six years since I started playing I had no idea there was such a thing as a Grand Prix or a Pro Tour. Then I came to the big city to study, and suddenly a whole new world opened up. Grand Prix–Stuttgart was my first big tournament, and since then I play in Limited whenever I can.”
 
@@ -200,7 +202,9 @@ So what’s her motivation this weekend?
 
 *by Bill Stark*
 
-![](https://i.ormos.uk/f8/a4/f8a4968791d9574dcaa90f0a4a1003bae44af5611c31410434da8e33fdefe1dd.jpg)The Pro Tour is a spectacle in every sense of the word, with hundreds of the world’s most elite **Magic** players battling for thousands in prize money, public events running almost non-stop throughout the weekend, and plenty of **Magic** to be found wherever you look. But it’s more than just a large tournament; it’s an experience unlike all other events. One of the things that makes the Pro Tour so great? The fact that there’s something to do for everyone who attends, whether you’re qualified for the main event or just excited to see your favorite big-name players duke it out.
+![](https://i.ormos.uk/f8/a4/f8a4968791d9574dcaa90f0a4a1003bae44af5611c31410434da8e33fdefe1dd.jpg)
+
+The Pro Tour is a spectacle in every sense of the word, with hundreds of the world’s most elite **Magic** players battling for thousands in prize money, public events running almost non-stop throughout the weekend, and plenty of **Magic** to be found wherever you look. But it’s more than just a large tournament; it’s an experience unlike all other events. One of the things that makes the Pro Tour so great? The fact that there’s something to do for everyone who attends, whether you’re qualified for the main event or just excited to see your favorite big-name players duke it out.
 
 Of course, getting free booster packs certainly doesn’t hurt. How do you do that, you ask? All weekend long at Pro Tour–Kyoto, visitors to the Pulse Plaza Convention Center can challenge famous Wizards R&D members in the “Champion Challenge.” By playing their favorite deck against Masami Ibamoto, Matt Place, and Steve Warner, participants get a free booster pack. Plus, the lucky few who manage to win a game earn a ticket that nets an additional free prize, ranging from more boosters to planeswalker mousepads and other exciting promotional items.
 
@@ -262,7 +266,9 @@ I just thought you should know.
 
 *by Bill Stark*
 
-![](https://i.ormos.uk/22/9b/229bf14ffa5bd09fa3df160b0c46f58ae92e805525156606e682091bc29da3b5.jpg)We’ve blogged extensively about the fact the **Magic** Pro Tour is a unique experience open for all and with considerably more to do than the actual Pro Tour tournament itself. One of the biggest draws for Pro Tour visitors, be they competitors or fans alike, are the artists. Pro Tour–Kyoto hasn’t disappointed, with Jeremy Jarvis, Todd Lockwood, D. Alexander Gregory, and 3-D card artist [Seishiro Ookubo](/en/events/2004/worlds04/2004-world-championships-feature) all making appearances. But there is something unique even for a Pro Tour happening just behind where the artists are set up.
+![](https://i.ormos.uk/22/9b/229bf14ffa5bd09fa3df160b0c46f58ae92e805525156606e682091bc29da3b5.jpg)
+
+We’ve blogged extensively about the fact the **Magic** Pro Tour is a unique experience open for all and with considerably more to do than the actual Pro Tour tournament itself. One of the biggest draws for Pro Tour visitors, be they competitors or fans alike, are the artists. Pro Tour–Kyoto hasn’t disappointed, with Jeremy Jarvis, Todd Lockwood, D. Alexander Gregory, and 3-D card artist [Seishiro Ookubo](/en/events/2004/worlds04/2004-world-championships-feature) all making appearances. But there is something unique even for a Pro Tour happening just behind where the artists are set up.
 
 Sprawled across the floor of the convention center is a gigantic banner, at least a building story tall in length. A Japanese artist struts across it, slowly bringing an image to life with a paintbrush attached to the end of a dowel. The image? None other than famed planeswalker [Ajani Vengeant](https://web.archive.org/web/20090216000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani+Vengeant) . But inquiring minds want to know ... What’s the deal?
 

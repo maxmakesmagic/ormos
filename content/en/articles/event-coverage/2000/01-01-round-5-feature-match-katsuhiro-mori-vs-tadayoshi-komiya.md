@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by James White* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270113.jpg)This feature match saw two big guns facing off against each other. We have Katsuhiro Mori, the top 18 year old player in Japan and the 2000 Magic Invitational invitee who could not attend the Invitational in Sydney due to school commitments, and the 'Blue Master' Tadayoshi Komiya, named as such for his many wins with blue decks of the day. Komiya is famous for playing such decks as Academy, Draw-Go, Accelerated Blue and Mind Over Matter. Both of these players had three rounds of byes so this was only their second round of play today. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270113.jpg)
+
+This feature match saw two big guns facing off against each other. We have Katsuhiro Mori, the top 18 year old player in Japan and the 2000 Magic Invitational invitee who could not attend the Invitational in Sydney due to school commitments, and the 'Blue Master' Tadayoshi Komiya, named as such for his many wins with blue decks of the day. Komiya is famous for playing such decks as Academy, Draw-Go, Accelerated Blue and Mind Over Matter. Both of these players had three rounds of byes so this was only their second round of play today. 
 
 Mori is playing white/blue/green and Komiya is playing black/red/green. Mori plays a very fast-paced game, so much so that it was hard to keep up with notes for this game. 
 
@@ -56,7 +58,9 @@ Komiya had been given time to recruit an impressive army during this period of m
 
 Komiya was not done with big fat black creatures though, summoning Goham Djinn and halting Mori's air offense with a mourning in an interesting play. Mori had one island untapped which Komiya turned into a swamp with his Slimy Kavu. Mori chose not to add blue mana to his pool which allowed Komiya to play Mourning on the Glimmering Angel. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270112.jpg)The game stalemated for several turns until Mori drew the game breaker; Wash Out, returning Tsabo, Goham, Duskwalker, Urborg Skeleton and Mourning. This opened Komiya up for Mori's army to come marching over, forcing Komiya to chump block to avoid death and the game was all Mori from here. Mori finished him off with a Canopy Surge he had held from his opening hand. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHIR01/P1270112.jpg)
+
+The game stalemated for several turns until Mori drew the game breaker; Wash Out, returning Tsabo, Goham, Duskwalker, Urborg Skeleton and Mourning. This opened Komiya up for Mori's army to come marching over, forcing Komiya to chump block to avoid death and the game was all Mori from here. Mori finished him off with a Canopy Surge he had held from his opening hand. 
 
 Game two Komiya mulliganed and did not cast anything until turn 5 which saw his Urborg Skeleton Excluded. Mori had a blistering start with 1st turn Thunderscape Apprentice, 2nd turn Fertile Ground, 3rd turn Crimson Acolyte, 4th turn Llanowar Knight, 5th turn Obsidian Acolyte, 6th turn Kavu Chameleon, 7th turn Alloy Golem and Galina's Knight. This game lasted less than five minutes before Komiya scooped. 
 

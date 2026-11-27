@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/917.jpg)9 名もの遠征者があった日本勢の中で、唯一のトップ 8 フィニッシュを果たしている小野田倫久。 使用しているのは独自色の強い Void デッキであり、ネットのどこかしらの Copy デッキばかりであった今回の Top 8 の中では異色の存在であるかもしれない。完全自作デッキとのことである。 今や Mana Source 専属契約を果たしている現役高校生にして Professional Magic Player として大きく成長を遂げたといっていいだろう。弱冠 16 歳とは思えぬプレイヤーになりおおせたものである。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/917.jpg)
+
+9 名もの遠征者があった日本勢の中で、唯一のトップ 8 フィニッシュを果たしている小野田倫久。 使用しているのは独自色の強い Void デッキであり、ネットのどこかしらの Copy デッキばかりであった今回の Top 8 の中では異色の存在であるかもしれない。完全自作デッキとのことである。 今や Mana Source 専属契約を果たしている現役高校生にして Professional Magic Player として大きく成長を遂げたといっていいだろう。弱冠 16 歳とは思えぬプレイヤーになりおおせたものである。
 
 対する Yeong に関しては Round 13 の拙稿にてご紹介させていただいたとおり、ようは GP Kobe での小倉陵デッキである。Meddler、Legionair、Galina's Knight といった優秀な"Bear"を機軸にしつつ Lightning Angel でビートダウン戦略を推し進めつつ優秀な Burn-Spell と Bounce 、Counter といったカードでそれをサポートするというデッキである。
 
@@ -68,7 +70,9 @@ Yeong の次なるアクションはサモン Meddling Mage。禁止カードに
 そして、次なるアクションも小野田倫久サイドからのものであった。  
  まさしく Recuuring Nightmare とでもいうべき Pyre Zombie を召喚したのだ。 Yeong はやや考え込んでからこれを Absorb。ちなみに、小野田には 7 枚の土地が並んでいた。
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/916.jpg)Yeong は次なる布陣として Goblin Legionair を召喚し、小野田は Battlemage。小野田はさらに Pyre Zombie を回収しつつ Regenerater である Nightscape Familiar までを戦線に加えた。Zombie で Skizzik を禁止していた"Meddler"を葬りさってから突撃を繰り返した。
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPSING01/916.jpg)
+
+Yeong は次なる布陣として Goblin Legionair を召喚し、小野田は Battlemage。小野田はさらに Pyre Zombie を回収しつつ Regenerater である Nightscape Familiar までを戦線に加えた。Zombie で Skizzik を禁止していた"Meddler"を葬りさってから突撃を繰り返した。
 
 Meddling Mage の呪縛を打ち破った小野田は、Yeong がおそらく想像していたであろうとおり、5/3 Trampler を戦線に加えた。
 

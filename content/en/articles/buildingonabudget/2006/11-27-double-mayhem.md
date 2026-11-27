@@ -303,7 +303,9 @@ This deck has a lot of counters... and not the type that stops your buddies from
 
 The general game plan of this deck is to take one of two plans based on what you draw. If you draw a Doubling Season, then try to conserve your counter creating guys until after you play it. Of course, if it looks like your opponent is going to roll you over before that happens, don't wait. You will draw more counter guys later anyhow.
 
-![](https://i.ormos.uk/23/9e/239e0455471ae894284fc5a0b8ca6a119fc2f3d4e35f3ab6bb55796b1903cb53.jpg)Doubling Season can make some truly crazy things happen. It will double the counters you move with Spike Feeder and Spike Tiller. It will double the counters Granted by Cytoplast Root-Kin (not to mention making him an 8/8). It will double the counter a Thallid receives each turn, then double the number of 1/1s he puts into play when you take 3 off. The list goes on and on. Don't get me started on what happens when you get two Doubling Seasons in play! 
+![](https://i.ormos.uk/23/9e/239e0455471ae894284fc5a0b8ca6a119fc2f3d4e35f3ab6bb55796b1903cb53.jpg)
+
+Doubling Season can make some truly crazy things happen. It will double the counters you move with Spike Feeder and Spike Tiller. It will double the counters Granted by Cytoplast Root-Kin (not to mention making him an 8/8). It will double the counter a Thallid receives each turn, then double the number of 1/1s he puts into play when you take 3 off. The list goes on and on. Don't get me started on what happens when you get two Doubling Seasons in play! 
 
 If you don't draw Doubling Season, you will need to rely on the sheer awesomeness that happened when you get these creatures teamed up on the table. 
 

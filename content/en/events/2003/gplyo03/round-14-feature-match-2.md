@@ -97,7 +97,9 @@ A Steel wall was made by Wolfgang, followed by Leaden Myr.
 
 When the fun continued, Wolfgang made a Nim Replica, while Jelger built a Fangren Hunter that got to attack Wolfgang to 16 on his next turn. Yothian Soldier and Auriok Transfixer joined the Hunter, but a Bolt made the Transfixer a dead one and Wolfgang made a Nim Shrieker in his own turn.
 
-![](http://www.wizards.com/sideboard/images/gplyo03/a866.jpg)Skyhunter patrol was made by Jelger and it got to attack along with the Hunter to bring Wolfgang to 7. The Hunter was saved with a Predator's Strike when blocked by the Replica and the Replica was sacked for nothing.
+![](http://www.wizards.com/sideboard/images/gplyo03/a866.jpg)
+
+Skyhunter patrol was made by Jelger and it got to attack along with the Hunter to bring Wolfgang to 7. The Hunter was saved with a Predator's Strike when blocked by the Replica and the Replica was sacked for nothing.
 
 Wolfgang took a moment to think of his next move and a Rustspore Ram entered play. Ramspore and Shrieker chump-blocked the Hunter and Skyhunter Patrol served for 2 through the air. Jelger added a Cathodian to the serving staff.
 

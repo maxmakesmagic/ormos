@@ -89,7 +89,9 @@ render_recovery:
 
 * * *
 
-![](https://i.ormos.uk/d4/6f/d46f978122c4b70343ab15f1aaf1e5463a67b249451809be178689d9b2eb6512.jpg)I was playing a league match last week against someone who told me he was new to ***Magic** Online.* He was a lapsed **Magic** player and was coming back because he could find people to play online. A familiar story to a lot of us.
+![](https://i.ormos.uk/d4/6f/d46f978122c4b70343ab15f1aaf1e5463a67b249451809be178689d9b2eb6512.jpg)
+
+I was playing a league match last week against someone who told me he was new to ***Magic** Online.* He was a lapsed **Magic** player and was coming back because he could find people to play online. A familiar story to a lot of us.
 
 During one of our games, he enchanted one of my creatures with Mistform Mask, and I patiently waited for whatever creature-type trickiness was to follow. Then, after I declared my attackers, he activated the Mask and changed my creature into a wall.
 

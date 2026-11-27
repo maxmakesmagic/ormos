@@ -276,7 +276,9 @@ He created the artwork for famous **Magic** cards such as Baneslayer Angel, Serr
 
 **Raymond Swanland** 
 
-![](https://i.ormos.uk/db/cb/dbcbdf01efd0d41c176d808a67621544a273e548581d95fd7c5195346cc148ba.jpg)Ever since his formative years in the sprawling cities of Southern California, Raymond Swanland has been exploring worlds of the imagination through his art. Inspired by artists ranging from Caravaggio to H. R. Giger, he has been drawn to create work both dark in subject and visceral in style.
+![](https://i.ormos.uk/db/cb/dbcbdf01efd0d41c176d808a67621544a273e548581d95fd7c5195346cc148ba.jpg)
+
+Ever since his formative years in the sprawling cities of Southern California, Raymond Swanland has been exploring worlds of the imagination through his art. Inspired by artists ranging from Caravaggio to H. R. Giger, he has been drawn to create work both dark in subject and visceral in style.
 
 Shortly out of high school, Raymond had the great fortune to start his professional art career with the video game company *Oddworld Inhabitants*. That job, which ranged from conceptual and character design to cinematic art direction, turned into a career that spanned all four Oddworld video games over eight years, from 1997 to 2005. 
 
@@ -288,7 +290,9 @@ Raymond currently lives in the Hawaiian Islands, where he occasionally allows th
 
 **Volkan Baga** 
 
-![](https://i.ormos.uk/3d/8f/3d8f5ae0cf205b3ca118c6eae3d9d1b28e4bc4a51957883dd86e50f649893e60.jpg)Volkan Baga is a contemporary painter with a preference for the traditional techniques of oil painting. His style leans towards academic realism, which in turn is orientated on the art of the antique. This influence is reflected in the historical character of Volkan's paintings. Although the content of his works borders on the fantastic, Volkan wants to be seen as a classical painter. 
+![](https://i.ormos.uk/3d/8f/3d8f5ae0cf205b3ca118c6eae3d9d1b28e4bc4a51957883dd86e50f649893e60.jpg)
+
+Volkan Baga is a contemporary painter with a preference for the traditional techniques of oil painting. His style leans towards academic realism, which in turn is orientated on the art of the antique. This influence is reflected in the historical character of Volkan's paintings. Although the content of his works borders on the fantastic, Volkan wants to be seen as a classical painter. 
 
 In works like in **Magic: The Gathering**, Volkan succeeds in visualizing actual topics of fantasy with masterly charm. His motifs carry off into foreign worlds and allow the viewers to immerse themselves in the mystical atmosphere. 
 

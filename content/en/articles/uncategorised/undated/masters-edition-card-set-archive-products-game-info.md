@@ -40,7 +40,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/0d/c1/0dc1eaf00b8e4134cf8ddbe83866bde1bafcfa7d9feb6cc8ec1888e0f9710c85.png)Available only on **Magic Online**, Masters Edition features 195 cards with randomly-inserted premium versions. The cards are legal in the Classic format and any format that uses Classic to define card legality. It’s available only online in booster packs, and the cards are non-redeemable for physical product. The set includes 60 rares, 60 uncommons, 60 commons, and 15 basic lands.
+![](https://i.ormos.uk/0d/c1/0dc1eaf00b8e4134cf8ddbe83866bde1bafcfa7d9feb6cc8ec1888e0f9710c85.png)
+
+Available only on **Magic Online**, Masters Edition features 195 cards with randomly-inserted premium versions. The cards are legal in the Classic format and any format that uses Classic to define card legality. It’s available only online in booster packs, and the cards are non-redeemable for physical product. The set includes 60 rares, 60 uncommons, 60 commons, and 15 basic lands.
 
 **Set Name:** *Masters Edition*  
 **Number of Cards:** 195

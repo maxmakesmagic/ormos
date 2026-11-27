@@ -83,7 +83,9 @@ render_recovery:
   - Aven Liberator
   occurrences: 31
 ---
-![](http://www.wizards.com/sideboard/images/gpams03/a880.jpg)The dust has settled. 198 teams are now 4 and those 4 teams are packed with experience. Ace Ten Off count Eric Froehlich, the legend Jon Finkel and twice PT runner-up Kamiel Cornelissen as their members. Ranged against them is the cream of Scandinavia. The members of Object of Affection – Anton Jonsson, Jens Thoren and Tomi Walamies – have many Pro Tour Top 8s between them.
+![](http://www.wizards.com/sideboard/images/gpams03/a880.jpg)
+
+The dust has settled. 198 teams are now 4 and those 4 teams are packed with experience. Ace Ten Off count Eric Froehlich, the legend Jon Finkel and twice PT runner-up Kamiel Cornelissen as their members. Ranged against them is the cream of Scandinavia. The members of Object of Affection – Anton Jonsson, Jens Thoren and Tomi Walamies – have many Pro Tour Top 8s between them.
 
 <table>&#10;  <tbody><tr>&#10;    <td>A Kamiel Cornelissen </td>&#10;    <td>vs </td>&#10;    <td>Tomi Walamies</td>&#10;  </tr>&#10;  <tr>&#10;    <td>B Jon Finkel</td>&#10;    <td>vs</td>&#10;    <td>Jens Thoren</td>&#10;  </tr>&#10;  <tr>&#10;    <td>C Eric Froehlich</td>&#10;    <td>vs</td>&#10;    <td>Anton Jonsson</td>&#10;  </tr>&#10;</tbody></table>
 
@@ -119,7 +121,9 @@ Ouch.
 
 Ace Ten Off 1-0 Object of Affection
 
-![](http://www.wizards.com/sideboard/images/gpams03/a881.jpg)In Seat B Finkel was facing down a Nantuko Husk, Noxious Ghoul and double Redeemer. A Windborn Muse was slowing Thoren down but eventually it had to chump the husk and it was time to a decider.
+![](http://www.wizards.com/sideboard/images/gpams03/a881.jpg)
+
+In Seat B Finkel was facing down a Nantuko Husk, Noxious Ghoul and double Redeemer. A Windborn Muse was slowing Thoren down but eventually it had to chump the husk and it was time to a decider.
 
 Finkel 1-1 Thoren
 

@@ -80,7 +80,9 @@ Kin Leong Chong (MYS) defeats Sung-Wook Nam (KOR) 2-0.
 
 **Match Two – Legacy – Cynic Kim (KOR) vs. Terry Soh (MYS)**
 
-![](https://i.ormos.uk/44/df/44dfd7bba6e2acbe2bf17d5ec544ec454ae5afa30d0d5dd7de137050b10d61e3.jpg)If I left that first feature match for more than a second, I invariably had to spend about five minutes sorting out how the bazillion tokens that were now on the table got there. This time, I didn’t have to worry about creatures in play, but every time I walked by, there seemed to be a fresh stack of cards in the graveyard. Keeping track of three matches is tough!
+![](https://i.ormos.uk/44/df/44dfd7bba6e2acbe2bf17d5ec544ec454ae5afa30d0d5dd7de137050b10d61e3.jpg)
+
+If I left that first feature match for more than a second, I invariably had to spend about five minutes sorting out how the bazillion tokens that were now on the table got there. This time, I didn’t have to worry about creatures in play, but every time I walked by, there seemed to be a fresh stack of cards in the graveyard. Keeping track of three matches is tough!
 
 Kim tried to get out of the gates blazing, which is pretty much always the game plan for Lackey Goblins. Unfortunately for him, Soh, playing [Tarmogoyf](https://web.archive.org/web/20081213000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) control, had a Force of Will to stop it before he had a land in play. Kim went for the more traditional route of a Goblin Lackey on the following turn and added a Rishadan Port to try and hamper Soh’s ability to interfere. Former Invitational champ Soh Brainstormed at the end of Kim’s turn and found himself a [Swords to Plowshares](https://web.archive.org/web/20081213000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swords+to+Plowshares) for the Lackey. Kim just moved up the chain with a Goblin Piledriver.
 

@@ -79,7 +79,9 @@ render_recovery:
   - Chartooth Cougar
   occurrences: 45
 ---
-![](http://www.wizards.com/sideboard/images/gpyok03/a960.jpg)Osamu Fujita is a player on the move. Since his early days in the limelight as the glowering third member of Anchans, to his consistently strong singles finishes on the Grand Prix circuit, Osamu Fujita is proving that Tsuyoshi isn't the only Fujita in town. In face, he and Tsuyoshi are piloting the same deck this weekend, red-white Slide, along with Masahiko Morita, and all of them are doing well. Fujita is just one win from a perfect Day 1. His opponent, Yosiyuki Kawasima, isn't someone you'd recognize. He showed up for this weekend with just one bye and a homebrewed red-blue land destruction deck. He and his teammates refined the design that packs Misguided Rage, Lay Waste, Ark of Blight, and the mighty Annex into one cruel mana denial package. Arcanis keeps the deck in fuel and Rorix bats cleanup.
+![](http://www.wizards.com/sideboard/images/gpyok03/a960.jpg)
+
+Osamu Fujita is a player on the move. Since his early days in the limelight as the glowering third member of Anchans, to his consistently strong singles finishes on the Grand Prix circuit, Osamu Fujita is proving that Tsuyoshi isn't the only Fujita in town. In face, he and Tsuyoshi are piloting the same deck this weekend, red-white Slide, along with Masahiko Morita, and all of them are doing well. Fujita is just one win from a perfect Day 1. His opponent, Yosiyuki Kawasima, isn't someone you'd recognize. He showed up for this weekend with just one bye and a homebrewed red-blue land destruction deck. He and his teammates refined the design that packs Misguided Rage, Lay Waste, Ark of Blight, and the mighty Annex into one cruel mana denial package. Arcanis keeps the deck in fuel and Rorix bats cleanup.
 
 ### Game 1
 

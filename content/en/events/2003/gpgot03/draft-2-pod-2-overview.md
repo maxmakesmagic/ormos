@@ -111,7 +111,9 @@ These players are looking for two wins to make top 8, some of them have the deck
 
 Draft Highlights:
 
-![](https://i.ormos.uk/98/61/98610b839b4873290017c4be6967dc0b4cb7e9f1b8c0e765a5057e3bfa4e4f62.jpg)Ruel’s first booster offered him the choice between Electrostatic Bolt and Mindslaver, he chose Bolt, probably correct but a close call nonetheless. Tenenbaum was put in a similar situation several boosters later; he was short on men in a burgeoning RG deck and chose Soul Foundry over Bolt. I’m reasonably certain the Bolt is the better of the two cards, but some people disagree.
+![](https://i.ormos.uk/98/61/98610b839b4873290017c4be6967dc0b4cb7e9f1b8c0e765a5057e3bfa4e4f62.jpg)
+
+Ruel’s first booster offered him the choice between Electrostatic Bolt and Mindslaver, he chose Bolt, probably correct but a close call nonetheless. Tenenbaum was put in a similar situation several boosters later; he was short on men in a burgeoning RG deck and chose Soul Foundry over Bolt. I’m reasonably certain the Bolt is the better of the two cards, but some people disagree.
 
 In the second set of boosters, Hothow’s WU deck was coming along nicely when he opened a Glissa Sunseeker. His only other options were an Annul or a Red splash of a Bolt, he hated. Two boosters later and all hell broke loose. Antoine opened the following: Bonesplitter, Shatter, Betrayal of the Flesh, Somber Hoverguard and other good but not ‘that’ good cards. He was BRU already, with Levy, settled into WR, taking the next card. Ruel took the Shatter, Raphael was so confused he mispicked an Iron Myr, passing the Betrayal to Kai’s RB monstrosity, leaving a jubilant Zink to scrape up the Bonesplitter fifth!
 
@@ -131,7 +133,9 @@ Ruel has a solid BRU deck with evasion in the form of three Nim Shriekers and a 
 
 Polgary has a good UGr deck. Three Annuls, an Aether and a Pyrite Spellbomb, a Shrapnel Blast, a Regress, two Battlegrowth and two Domineer fulfill the trickery requirements whilst a solid creature base including two Hoverguards, a Fangren Hunter, some Trolls of Tel-Jilad and a Pentavus. Can the unknown Swede continue to beat the established pros?
 
-![](https://i.ormos.uk/7f/2c/7f2c1eb0ec04f05a172db1d004546ba3b12f055a222180661da4f8cb055a3426.jpg)Hothow has a Wg deck with a shaky creature base. His Green splash is for a single Glissa. He has some good tricks: the only Blinding Beam, an Arrest, an Altar's Light, a Soul Foundry and a Serum Tank. However, he has very few men and that is going to be his demise. I do not think he can beat Kai’s deck.
+![](https://i.ormos.uk/7f/2c/7f2c1eb0ec04f05a172db1d004546ba3b12f055a222180661da4f8cb055a3426.jpg)
+
+Hothow has a Wg deck with a shaky creature base. His Green splash is for a single Glissa. He has some good tricks: the only Blinding Beam, an Arrest, an Altar's Light, a Soul Foundry and a Serum Tank. However, he has very few men and that is going to be his demise. I do not think he can beat Kai’s deck.
 
 Levy has a reasonable WR deck, consistent but without anything that makes you want to take a second look. His removal is a little light – the ‘oh-so-unpredictable’ Soul Nova, an Arrest, two Pyrite Spellbombs and a Sculpting Steel (kind of removal…). He told me earlier that the only thing he wants to do is Steel his Sun Droplet!
 

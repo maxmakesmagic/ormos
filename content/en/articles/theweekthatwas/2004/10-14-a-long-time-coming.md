@@ -301,7 +301,9 @@ In the semifinal round of Grand Prix–Austin, Eugene Levin was facing off again
 
 Most players wish they could sit down at a Rochester Draft table with friendly players on either side of them. Osyp Lebedowicz got his wish this past weekend when he sat down between Kate Stavola and Neil Reeves. Both are friends of his and familiar with the complex unspoken politics of Rochester Draft. 
 
-![](http://www.wizards.com/global/images/mtgcom_daily_bd145_picMain_en.jpg)As the early packs played out it became obvious that he was going to be green-white with some mix of the other three colors on either side of him. Things were looking up for Osyp as he snagged a Nagao, Bound by Honor and Myojin of Cleansing Fire early in the first round of packs -- a good thing, since Osyp was locked into green-white at this point by the picks on either side of him.
+![](http://www.wizards.com/global/images/mtgcom_daily_bd145_picMain_en.jpg)
+
+As the early packs played out it became obvious that he was going to be green-white with some mix of the other three colors on either side of him. Things were looking up for Osyp as he snagged a Nagao, Bound by Honor and Myojin of Cleansing Fire early in the first round of packs -- a good thing, since Osyp was locked into green-white at this point by the picks on either side of him.
 
 Osyp looked on in horror -- and eventually had to burst out laughing -- as his Myojin pick was followed by four of the next five players taking white cards from that pack and then having three of those players take green on the way back. Osyp was committed to green-white and had no easy way out of the color. Three of the other four players remained equally committed to white and Osyp found himself short of high-quality cards. 
 

@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Thomas Pannell* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/smithfrank.jpg)This match featured Sean Smith playing Enlightened Tutor based Oath of Druids Deck verses Joel Frank playing Counter Sliver. Oath is usually considered favored in this matchup but any thing could happen in this high pressured matchup. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPPHX00/smithfrank.jpg)
+
+This match featured Sean Smith playing Enlightened Tutor based Oath of Druids Deck verses Joel Frank playing Counter Sliver. Oath is usually considered favored in this matchup but any thing could happen in this high pressured matchup. 
 
 The game started with Joel playing a Hibernation Sliver and at the end of Joel's turn Sean cast Enlightened tutor for Oath of Druids. The next turn Sean made what turned out to be a costly mistake. Instead of playing the Tropical Island to get the green he need to cast the Oath, Sean played Tundra, tapped it and another land and put Oath of Druids in play. Not having a green for the Oath he had to return it to his hand and take two mana burn. The next turn Joel played an Acidic Sliver and attacked with his Hibernation Sliver. On Sean's next turn he played the Tropical Island he meant to play the turn before and was able to cast his Oath. Unfortunately for Sean Joel now had a Seal of Cleansing to destroy it. At the end of the next turn Sean again used Enlightened Tutor to put Oath of Druids on top of his library. Sean was able to force Oath in to play with force of Will removing Morphling from the game. Joel then attacked back with his slivers bringing Sean to 8. During Sean's next turn he oathed up a Spike Weaver. This would keep Joel's creatures from dealing any combat damage for the next few turns. On Sean's next turn he oathed up a Spike Feeder. This turned out not to be enough though because Joel had a Swords to Plowshares to remove the Weaver and deal enough damage by attacking with his slivers and firing them at Sean (Acidic). 
 

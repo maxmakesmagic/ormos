@@ -92,7 +92,9 @@ render_recovery:
 
 "So who am I sending greetings to? The boring people?" – Anton Jonsson
 
-![](https://i.ormos.uk/dd/61/dd6188f28a77ed66498f644a2ec26dd2b9e36e0a50f162ea332886d3cf0ae6ac.jpg)To be fair, almost anyone (with the exception of Eivind "Fashion Mogul" Nitter) would play the dullard opposite Tomi Walamies. The Finn is loved the Tour over for his sharp dressing and killer tournament reports. He's also fresh of a finals appearance at Venice, the finish that kept him on the Tour. Jonsson is no slouch either, with a recent Grand Prix title and many top finishes to his name. This all-Punisher matchup was just one of many teammate-on-teammate battles taking place in the first round of the masters. True to his word, Walamies was with Rector-Pattern. Jonsson was with the dull-but-efficient Psychatog.
+![](https://i.ormos.uk/dd/61/dd6188f28a77ed66498f644a2ec26dd2b9e36e0a50f162ea332886d3cf0ae6ac.jpg)
+
+To be fair, almost anyone (with the exception of Eivind "Fashion Mogul" Nitter) would play the dullard opposite Tomi Walamies. The Finn is loved the Tour over for his sharp dressing and killer tournament reports. He's also fresh of a finals appearance at Venice, the finish that kept him on the Tour. Jonsson is no slouch either, with a recent Grand Prix title and many top finishes to his name. This all-Punisher matchup was just one of many teammate-on-teammate battles taking place in the first round of the masters. True to his word, Walamies was with Rector-Pattern. Jonsson was with the dull-but-efficient Psychatog.
 
 ### Game 1
 

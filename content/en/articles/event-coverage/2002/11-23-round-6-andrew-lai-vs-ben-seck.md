@@ -44,7 +44,9 @@ archive_source:
   sha256: 02bb842d45dfdcf69752d1c8a9c5e75ffcdd1eefb6492989439f75a4349e1419
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a921.jpg)Ben Seck, currently sitting at 5-0, hopes to emulate his performance at Grand Prix Cape Town ast year and the next obstacle in his path is Adealaide's Andrew Lai. Andrew has consistantly been one of Australia's highest ranked player in the last 18 months, but although undefeated today is not confidant in his deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a921.jpg)
+
+Ben Seck, currently sitting at 5-0, hopes to emulate his performance at Grand Prix Cape Town ast year and the next obstacle in his path is Adealaide's Andrew Lai. Andrew has consistantly been one of Australia's highest ranked player in the last 18 months, but although undefeated today is not confidant in his deck.
 
 ### Game 1
 
@@ -64,7 +66,9 @@ Seck – [Island](https://web.archive.org/web/20021123000000/https://gatherer.wi
 
 ### Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a910.jpg)Lai is happy to play this time, opening with a swamp, cycling [Barren Moor](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Moor)s in the next two turns – this time after 3 turns he has one land out of each of his three main colours. To ease his mana issues further he had a [Wirewood Elf](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf) and a Birchlore Ranger out as well giving him a fifth turn Treefolk Lorian. On the other side of the board Seck had stabilised with a morph and a [Gustcloak Sentinel](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Sentinel) – although not big enough to take the Lorian down it gave Andrew something to think upon. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmel02/a910.jpg)
+
+Lai is happy to play this time, opening with a swamp, cycling [Barren Moor](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Moor)s in the next two turns – this time after 3 turns he has one land out of each of his three main colours. To ease his mana issues further he had a [Wirewood Elf](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Elf) and a Birchlore Ranger out as well giving him a fifth turn Treefolk Lorian. On the other side of the board Seck had stabilised with a morph and a [Gustcloak Sentinel](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gustcloak+Sentinel) – although not big enough to take the Lorian down it gave Andrew something to think upon. 
 
 Lai found his sideboard trick in the Ascendant Aven, getting it into play with the help of the elves. While Ben built up an impressive army of face down creatures Andrew took a look at victory (a mere 14 life points away thanks to the Aven), and saw the Lorian, Aven, Glutonous Zombie, [Snarling Undorak](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snarling+Undorak) (face down) and his pair of elves would give him lethal damage. Tapping out for a [Wave of Indifference](https://web.archive.org/web/20021123000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wave+of+Indifference), he attacked with everything except the Birchlore for a calculated 14.
 

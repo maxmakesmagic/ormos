@@ -79,7 +79,9 @@ render_recovery: []
 ---
 Pro Tour *Theros* is on the horizon and I caught up with some members of the coverage team to see which players they were expecting big things from, which cards from the new set will be shuffled to the front of the draft packs, and which cards will fill the void in Standard left by the departure of *Innistrad* and ***Magic** 2013*. Sitting down for the discussion were my Sunday boothmate Richard Hagon, newsdesk anchor Marshall Sutcliffe, Walking the Planes auteur Nathan Holt, returning video commentator Tim Willoughby, and text reporter Marc Calderaro.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: The weekend is going to kick off with the induction of William "Huey" Jensen, Ben Stark, and Luis Scott-Vargas into the Pro Tour Hall of Fame. It is the first time a Hall of Fame class has been made up entirely of Pro Tour Champions—and all still playing at the top of their game. Which one of these three do you expect to perform the best this weekend?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: The weekend is going to kick off with the induction of William "Huey" Jensen, Ben Stark, and Luis Scott-Vargas into the Pro Tour Hall of Fame. It is the first time a Hall of Fame class has been made up entirely of Pro Tour Champions—and all still playing at the top of their game. Which one of these three do you expect to perform the best this weekend?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_3players.jpg)
 
@@ -107,7 +109,9 @@ Pro Tour *Theros* is on the horizon and I caught up with some members of the cov
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_holt.jpg)**Nathan:** Brad Nelson. In the last year, Brad has chosen to focus his game on Standard, and the force of nature that we saw win Player of the Year in 2010 is awakening. He constantly analyzes the format and has backed up his research with incredible results at Standard Grand Prix. Can't wait to see what he's playing.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: One of the exciting things about covering events throughout the year is seeing players on the rise as they come up through PTQs and Grand Prix on their way to the Pro Tour. Which players have you been keeping your eye on who you feel are poised for a big breakthrough this year?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: One of the exciting things about covering events throughout the year is seeing players on the rise as they come up through PTQs and Grand Prix on their way to the Pro Tour. Which players have you been keeping your eye on who you feel are poised for a big breakthrough this year?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_holt.jpg)**Nathan:** Jacob Wilson. He's been brilliant at the Grand Prix level, and I believe a Pro Tour Top 8 is nigh.
 
@@ -129,7 +133,9 @@ Pro Tour *Theros* is on the horizon and I caught up with some members of the cov
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_tim.jpg)**Tim:** I feel like this format is the boy that would be king. There are quite a few commons and uncommons that feel like rares to me. In a format with more than its fair share of monstrous creatures, [Sea God's Revenge](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sea+God%27s+Revenge) is a monster of a whole different breed.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: Wow! That's a lot of Pauper votes. What are the three top commons in your mind right now?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: Wow! That's a lot of Pauper votes. What are the three top commons in your mind right now?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_tim.jpg)**Tim:** [Voyage's End](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voyage%27s+End), [Lightning Strike](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Strike) and [Griptide](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Griptide).
 
@@ -167,7 +173,9 @@ Pro Tour *Theros* is on the horizon and I caught up with some members of the cov
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_holt.jpg)**Nathan:** [Thoughtseize](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize). It's good against nonlands. I've heard **Magic** decks often include nonlands.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: What about cards that were already in Standard? Are there any cards in there that you think will suddenly have a chance to shine in this new version of the format?**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: What about cards that were already in Standard? Are there any cards in there that you think will suddenly have a chance to shine in this new version of the format?**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_tim.jpg)**Tim:** [Frostburn Weird](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frostburn+Weird) and [Boros Reckoner](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boros+Reckoner) are two creatures that I expect to see more of now that devotion is a factor. Both are good friends with [Fanatic of Mogis](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fanatic+of+Mogis), and I'm hoping to see [Master of Waves](https://web.archive.org/web/20131004000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Master+of+Waves) doing good work with the Weird too...
 
@@ -179,7 +187,9 @@ Pro Tour *Theros* is on the horizon and I caught up with some members of the cov
 
 <table><tbody><tr><td>&#10;			<div>&#10;			<div><img alt="Advent of the Wurm" src="http://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=Advent+of+the+Wurm"></div>&#10;			</div>&#10;			</td>&#10;			<td>&#10;			<div>&#10;			<div><img alt="Ember Swallower" src="http://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=Ember+Swallower"></div>&#10;			</div>&#10;			</td>&#10;		</tr></tbody></table>
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)**BDM: You saw the recently unveiled Top 25 players heading into the Pro Tour. They are all amazing players capable of winning any given tournament they play in but I am going to ask you to throw a dart and pick your winner—feel free to go off the board for bonus points. I am picking Raphael Levy—mostly because I want to see him explain to his girlfriend about why he has to get a tattoo.**
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_bdm.jpg)
+
+**BDM: You saw the recently unveiled Top 25 players heading into the Pro Tour. They are all amazing players capable of winning any given tournament they play in but I am going to ask you to throw a dart and pick your winner—feel free to go off the board for bonus points. I am picking Raphael Levy—mostly because I want to see him explain to his girlfriend about why he has to get a tattoo.**
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/twtw/twtw267_hagon.jpg)**Rich:** All right, this is the year that a Hall of Famer wearing a brand-new ring claims the title, and since I've already said he's my pick of those three, the winner of Pro Tour *Theros* will be Ben Stark.
 

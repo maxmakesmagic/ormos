@@ -52,7 +52,9 @@ archive_source:
   sha256: 3c99fce13ee459073d578b6bd4c62ce26e16fe492b5c9d72924619792078233a
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/133herzog.JPG)Two years in a row, a Norwegian has taken home the European Championship title. But this year, the defending champion Nicolai Herzog thinks that will change. "I think Kai Budde will win. He has playtested extremely much, and he is a good player on a good team," Nicolai thinks.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/133herzog.JPG)
+
+Two years in a row, a Norwegian has taken home the European Championship title. But this year, the defending champion Nicolai Herzog thinks that will change. "I think Kai Budde will win. He has playtested extremely much, and he is a good player on a good team," Nicolai thinks.
 
 Last year, Nicolai of Oslo, Norway was a relatively unknown name in the Pro Tour circuit. He had some decent performances, but that was about it - until the European Championship in Berlin. Repeating fellow Norwegian Sturla Bingen's performance from 1998, Nicolai went all the way to the top, beating Germany's Dirk Baberowski in the finals. Then at Worlds, Nicolai proved that the victory at Euros hadn't been a stroke of luck by making his first Pro Tour top 8 performance. And in 2000 Pro Tour New York, he finished 13th, another strong finish in just one year.
 

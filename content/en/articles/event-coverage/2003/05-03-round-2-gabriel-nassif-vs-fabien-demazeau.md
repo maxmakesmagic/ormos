@@ -44,7 +44,9 @@ archive_source:
   sha256: 49ff9d58a656dd94224c62ddb6b826b670e01a174d06573b72fea8c1f15c2126
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natfra03/a982.jpg)Gabriel is somewhat of a fixture on the Pro Tour, but his opponent is no slouch either. In fact, he was the French National champion way back in 1998, although nowadays his tournament play is generally restricted to prereleases. He has drafted a respectable red-green deck, but Gabriel has a very good red-blue deck with multiple [Echo Tracer](https://web.archive.org/web/20030503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer)s and [Lavamancer's Skill](https://web.archive.org/web/20030503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill)s.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/natfra03/a982.jpg)
+
+Gabriel is somewhat of a fixture on the Pro Tour, but his opponent is no slouch either. In fact, he was the French National champion way back in 1998, although nowadays his tournament play is generally restricted to prereleases. He has drafted a respectable red-green deck, but Gabriel has a very good red-blue deck with multiple [Echo Tracer](https://web.archive.org/web/20030503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Tracer)s and [Lavamancer's Skill](https://web.archive.org/web/20030503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill)s.
 
 ### Game 1
 

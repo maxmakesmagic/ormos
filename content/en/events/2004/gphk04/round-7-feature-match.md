@@ -439,7 +439,9 @@ render_recovery:
 ---
 ### Itaru Ishida vs. Chang Chua
 
-![](http://www.wizards.com/sideboard/images/gphk04/r7fm1_1.jpg)For the last few years Itaru Ishida was the favorite to break the Japanese drought at the Pro Tour. Whenever talk turned to who would be able to break through and finally win Japan a Pro Tour, Ishida's name would always end up on a very short list. Now that Kuroda had taken the pressure off with his historic win in Kobe perhaps Ishida can start to experience the same type of success that he has had on The GP circuit--he has made the Top 8 of almost every Grand Prix he has taken part in.
+![](http://www.wizards.com/sideboard/images/gphk04/r7fm1_1.jpg)
+
+For the last few years Itaru Ishida was the favorite to break the Japanese drought at the Pro Tour. Whenever talk turned to who would be able to break through and finally win Japan a Pro Tour, Ishida's name would always end up on a very short list. Now that Kuroda had taken the pressure off with his historic win in Kobe perhaps Ishida can start to experience the same type of success that he has had on The GP circuit--he has made the Top 8 of almost every Grand Prix he has taken part in.
 
 Ishida was 6-0 to this point with a ridiculous deck that sported Skullclamp, Fireball, Mask of Memory and other good removal spells like Terror, Echoing Ruin, and Murderous Spoils. He was lock at this point to make Day Two. He was paired down against a player also on the second leg of a journey that included a stop in Kobe.
 

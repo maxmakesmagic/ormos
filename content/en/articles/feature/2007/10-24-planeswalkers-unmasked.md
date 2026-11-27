@@ -137,7 +137,9 @@ Oh, Jace. I'm looking forward to seeing how you handle things, buddy.
 
 So why the heck did the planeswalker cards first appear in *Lorwyn*, a tribal set with a setting inspired by the folklore of the British Isles?
 
- ![Island](https://i.ormos.uk/e2/8d/e28dded06c236b5dd14f24a3c2d46ed05a3d5e3f50e7d235bbbaa94ec710c47f.jpg)To be honest, the creative team's intent was for the first planeswalker card to appear in *Future Sight*, as the culmination of the plot events in the *Time Spiral* Block novels. We believed *Future Sight* was where they belonged, as a glimpse at a new fixture in the future of *Magic*, and the logical conclusion of the rift-healing storyline. Teferi and other planeswalkers made great sacrifices to heal the damage that their own power had created, and the nature of the spark had been altered, so the stage was set for the planeswalker cards to make their big premiere.
+ ![Island](https://i.ormos.uk/e2/8d/e28dded06c236b5dd14f24a3c2d46ed05a3d5e3f50e7d235bbbaa94ec710c47f.jpg)
+
+ To be honest, the creative team's intent was for the first planeswalker card to appear in *Future Sight*, as the culmination of the plot events in the *Time Spiral* Block novels. We believed *Future Sight* was where they belonged, as a glimpse at a new fixture in the future of *Magic*, and the logical conclusion of the rift-healing storyline. Teferi and other planeswalkers made great sacrifices to heal the damage that their own power had created, and the nature of the spark had been altered, so the stage was set for the planeswalker cards to make their big premiere.
 
 But the word from design and development was clear—this new card type was so fundamentally new and hard to evaluate, that they would not be ready in the short time remaining before the *Future Sight* deadline. Tweaks to both the cards and the rules governing planeswalkers were still happening every day, and the cards were varying wildly between too good and not good enough—neither of which were acceptable. It was going to take more time to get them right. It was decided that the planeswalkers, therefore, would go into the next set, *Lorwyn*.
 
@@ -208,7 +210,9 @@ Garruk is the quintessential hunter. He planeswalks for the same reason a predat
 
 *"People think a claw devil is easy to track. Watch for the big tracks, feel the ground vibrate. But the jungle is alive. Things slither; plants shift. The claw devil is camouflaged among all that life. It hides in aliveness."*
 
-[![Garruk_Wildspeaker](https://i.ormos.uk/8e/41/8e41bc873df5f0d989cd94895ba28070534eaa1ede29ce540cd4faae0effe62b.jpg)](https://web.archive.org/web/20071024000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=++)Garruk's a bit of a closed book, but those who've seen him know him by his abilities. We know that he has some sort of druidic past—maybe he's some kind of Druid School dropout. Or maybe he excelled so much that his masters had nothing to teach him anymore. Suffice it to say that he's as in touch with the land as any elf in Llanowar. Garruk pretty much always has heaping gobs of green mana at his fingertips, which he uses to power his other skills.
+[![Garruk_Wildspeaker](https://i.ormos.uk/8e/41/8e41bc873df5f0d989cd94895ba28070534eaa1ede29ce540cd4faae0effe62b.jpg)](https://web.archive.org/web/20071024000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=++)
+
+Garruk's a bit of a closed book, but those who've seen him know him by his abilities. We know that he has some sort of druidic past—maybe he's some kind of Druid School dropout. Or maybe he excelled so much that his masters had nothing to teach him anymore. Suffice it to say that he's as in touch with the land as any elf in Llanowar. Garruk pretty much always has heaping gobs of green mana at his fingertips, which he uses to power his other skills.
 
 *"Tracking isn't about what's left behind. Tracking isn't following. Tracking is anticipation."*
 

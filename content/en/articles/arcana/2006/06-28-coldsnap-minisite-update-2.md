@@ -61,7 +61,9 @@ archive_source:
   sha256: 8dc8ab25ace714d919aec3131ec35458c692fd74b00d2ef81e6e87ba7285afeb
 render_recovery: []
 ---
-![](https://i.ormos.uk/68/7b/687bdfbc334bed31a01a2fcd3585a6c7413e753fa74308988e9c6b4a1fb84aa0.jpg)Today? Three words. More. *Coldsnap*. Goodies.
+![](https://i.ormos.uk/68/7b/687bdfbc334bed31a01a2fcd3585a6c7413e753fa74308988e9c6b4a1fb84aa0.jpg)
+
+Today? Three words. More. *Coldsnap*. Goodies.
 
 We've chipped a bit more chilly content for you out of the glaciers of northwestern Terisiare, and hung them out to dry on the [*Coldsnap* minisite](https://web.archive.org/web/20060628000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/coldsnap/home). Here's what we found:
 

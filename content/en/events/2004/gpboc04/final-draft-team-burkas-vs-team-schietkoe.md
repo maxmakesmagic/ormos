@@ -1623,7 +1623,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gpboc04/fin2_1.jpg)This is it, the final draft of the tournament. Dutch team Schietkoe kept their early lead from yesterday and after overcoming French team NPC All Stars in the Semi's find themselves with a tough final against the highly experienced Scandinavian team of Nicolai Herzog, Anton Jonsson and Tuomo Nieminen.
+![](http://www.wizards.com/sideboard/images/gpboc04/fin2_1.jpg)
+
+This is it, the final draft of the tournament. Dutch team Schietkoe kept their early lead from yesterday and after overcoming French team NPC All Stars in the Semi's find themselves with a tough final against the highly experienced Scandinavian team of Nicolai Herzog, Anton Jonsson and Tuomo Nieminen.
 
 Tom van de Vogt won the die roll and elected for his team to kick off. The first booster was pretty unexciting as van de Logt took a Viridian Longbow and shipped a Bonesplitter to his team-mate Jesse. Herzog got a Shatter, Jonsson an Iron Myr and Nieminen a Somber Hoverguard as Stijn Cornelissen wheeled a Trolls of Tel-Jihad.
 

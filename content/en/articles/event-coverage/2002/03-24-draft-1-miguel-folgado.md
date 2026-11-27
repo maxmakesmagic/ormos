@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a939.jpg)Miguel Folgado is part of a Spanish family of Magic players: his wife, his son and his daughter play Magic and they are one true play testing team.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpbar02/a939.jpg)
+
+Miguel Folgado is part of a Spanish family of Magic players: his wife, his son and his daughter play Magic and they are one true play testing team.
 
 This is the first day two for Miguel and he was a bit nervous during the draft, a format not too known to him he said, picks were too fast.
 

@@ -37,7 +37,9 @@ archive_source:
   sha256: 9a58cb02a33e28963a9ac1279c05035722b3b061a8db9b46c959a534ae3c0af1
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/771.jpg)Olivier Ruel is a member of the very successful Black Ops team that placed sixth in New York. He's no stranger to singles competition, though, with two Grand Prix top eights to his name. He has drafted a R/G/w deck centered around powerful, expensive creatures. His opponent is two-time Grand Prix winner Kenichi Fujita, piloting a very solid Blue/White deck with many fliers and tappers. Two maindeck Crimson Acolytes are sure to give Ruel trouble.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/771.jpg)
+
+Olivier Ruel is a member of the very successful Black Ops team that placed sixth in New York. He's no stranger to singles competition, though, with two Grand Prix top eights to his name. He has drafted a R/G/w deck centered around powerful, expensive creatures. His opponent is two-time Grand Prix winner Kenichi Fujita, piloting a very solid Blue/White deck with many fliers and tappers. Two maindeck Crimson Acolytes are sure to give Ruel trouble.
 
 Game one got rolling when Ruel used Tribal Flames to remove Fujita's Stormscape Apprentice, before he had free mana to power his Crimson Acolyte. Fujita played a Tower Drake and a second Apprentice, and Ruel answered with Voracious Cobra.
 

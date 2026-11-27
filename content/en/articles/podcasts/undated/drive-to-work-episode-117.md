@@ -41,4 +41,6 @@ render_recovery: []
 
 While I already did a podcast on *Zendikar* early on, I've decided I had a bit more to say. This four-part series discusses many of the stories of the designs of cards and cycles in *Zendikar*. 
 
-![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!
+![](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_markrosewater.jpg)
+
+Magic: The Gathering Head Designer Mark Rosewater shares stories, insights, and more while driving to work. Listen in and learn more about Magic!

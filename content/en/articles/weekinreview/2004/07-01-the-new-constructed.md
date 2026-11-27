@@ -1067,7 +1067,9 @@ This is a very exciting week for constructed **Magic** fans. The evil Skullclamp
 
 ### U.K Nationals
 
-![](https://i.ormos.uk/98/3e/983e712f6ced888ec52ebb95b890a39978a2bb636158745b8794afbf3697ec2a.jpg)The [England National Championship](/en/events/2004/ennat04/live-coverage-of-2004-england-national-championship) was the first major showcase for the new Standard and the results are definitely exciting. First, to no one's surprise, Affinity reared its head yet again. Successful Affinity deck lists look pretty much as though players did nothing but replace Skullclamp with Cranial Plating. This new artifact is not as versatile as Skullclamp, but it still looks quite powerful. 
+![](https://i.ormos.uk/98/3e/983e712f6ced888ec52ebb95b890a39978a2bb636158745b8794afbf3697ec2a.jpg)
+
+The [England National Championship](/en/events/2004/ennat04/live-coverage-of-2004-england-national-championship) was the first major showcase for the new Standard and the results are definitely exciting. First, to no one's surprise, Affinity reared its head yet again. Successful Affinity deck lists look pretty much as though players did nothing but replace Skullclamp with Cranial Plating. This new artifact is not as versatile as Skullclamp, but it still looks quite powerful. 
 
 Affinity may be here to stay, but so are its rivals. John Ormerod won the tournament with a Tooth and Nail build very similar to the versions that showed up in Japan and elsewhere prior to players discovering the Elf and Nail variant. Ormerod did not use a single *Fifth Dawn* card but his deck did consider the metagame changes. For example, four Mindslavers are there to help combat the new popular archetypes – blue-white control and Ironworks.
 

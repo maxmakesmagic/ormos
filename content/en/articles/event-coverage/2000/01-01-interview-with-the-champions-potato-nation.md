@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/543.jpg)"It is such a relief to win a Top 8. This is one of the most amazing days of my life," Scott Johns almost whispers. After an agonizing match against Andrew Johnson and the Car Acrobatic Team, Scott and Potato Nation could lift the trophies as 2000 Team Pro Tour New York Champions. "I've been close to many times, this is my fifth top 8. To finally get the monkeys off my back..." 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/PTNY0001/Images/543.jpg)
+
+"It is such a relief to win a Top 8. This is one of the most amazing days of my life," Scott Johns almost whispers. After an agonizing match against Andrew Johnson and the Car Acrobatic Team, Scott and Potato Nation could lift the trophies as 2000 Team Pro Tour New York Champions. "I've been close to many times, this is my fifth top 8. To finally get the monkeys off my back..." 
 
 When Potato Nation faced Car Acrobatic Team (CAT) in the finals of the Team Pro Tour, four playtest partners sat down to play each other. CAT all hails from Pittsburgh, and Turian, Johnson's roomie, tested a lot with them before the tournament. "Mike is the best player in the format. He is so good at keeping track of everything," Aaron Forsythe says. In the test drafts, Mike picked for his whole team, which gave him a lot of practice that came in handy in the Pro Tour. Over the course of the tournament, Potato Nation didn't lose a single match. And CAT didn't lose to anyone but Potato Nation. 
 

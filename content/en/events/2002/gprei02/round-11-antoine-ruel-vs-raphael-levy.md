@@ -80,7 +80,9 @@ This round saw an all French match-up with both players on 8-2. Like a lot of ot
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gprei02/a929.jpg)The first play was Raphael's second turn Wall of Blossoms. In response Antoine Brainstormed and used a Polluted Delta to shuffle away two Diabolic Edicts – they're almost entirely useless in the match. Antoine summoned a Psychatog on his third turn. Raphael played an Eladamri's Vineyard which allowed Antoine to cast Fact or Fiction and still have Counterspell mana open. Raphael split the Fact, Intuition and Memory Lapse, or Psychatog and two lands. Antoine took the two card pile. He attacked with the Psychatog but didn't try to bust it past the Wall of Blossoms.
+![](http://www.wizards.com/sideboard/images/gprei02/a929.jpg)
+
+The first play was Raphael's second turn Wall of Blossoms. In response Antoine Brainstormed and used a Polluted Delta to shuffle away two Diabolic Edicts – they're almost entirely useless in the match. Antoine summoned a Psychatog on his third turn. Raphael played an Eladamri's Vineyard which allowed Antoine to cast Fact or Fiction and still have Counterspell mana open. Raphael split the Fact, Intuition and Memory Lapse, or Psychatog and two lands. Antoine took the two card pile. He attacked with the Psychatog but didn't try to bust it past the Wall of Blossoms.
 
 On Raphael's next turn he attempted a Raven Familiar but it was countered. After Antoine cast another Fact or Fiction he sat for a while doing the Psychatog math before Intuitioning for Wonder and two irrelevant cards and attacking for exactly the right amount of damage.
 
@@ -90,7 +92,9 @@ Antoine sides in Engineered Plague and Duress, whereas Levy could only improve h
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gprei02/a928.jpg)Raphael had a first turn Vineyard this game. Antoine had to burn for two as his only play was a Duress, but at least the Duress got rid of Aluren and left Levy with just Bird; Cavern Harpy and land. Raphael drew and cast Intuition for three Cabal Therapies. The Therapy didn't take any Psychatogs as Raphael had hoped. Since Antoine knew Raphael was missing both Aluren and Raven Familiar he could afford to tap out for a Fact or Fiction.
+![](http://www.wizards.com/sideboard/images/gprei02/a928.jpg)
+
+Raphael had a first turn Vineyard this game. Antoine had to burn for two as his only play was a Duress, but at least the Duress got rid of Aluren and left Levy with just Bird; Cavern Harpy and land. Raphael drew and cast Intuition for three Cabal Therapies. The Therapy didn't take any Psychatogs as Raphael had hoped. Since Antoine knew Raphael was missing both Aluren and Raven Familiar he could afford to tap out for a Fact or Fiction.
 
 On his next turn Raphael dropped a Wall of Blossoms, and used it to Therapy again for Psychatog since Antoine had drawn one from the Fact. Levy had the fourth Therapy in his hand and took Brainstorm as well, leaving Antoine with just Edict.
 

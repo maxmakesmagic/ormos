@@ -83,7 +83,9 @@ render_recovery:
   - Dirty Wererat
   occurrences: 41
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a961.jpg)It's what the Dutch seem to do for a living these days: making a killing at tournaments. Jelger is no exception, and he's hoping to add another Grand Prix Top 8, at least, to his already bulged curriculum. Juan is another example of people who go to Grand Prix and have to work their way through with little, or none at all, byes.
+![](http://www.wizards.com/sideboard/images/gpbar02/a961.jpg)
+
+It's what the Dutch seem to do for a living these days: making a killing at tournaments. Jelger is no exception, and he's hoping to add another Grand Prix Top 8, at least, to his already bulged curriculum. Juan is another example of people who go to Grand Prix and have to work their way through with little, or none at all, byes.
 
 A fight between proven experience and rookie hard work.
 
@@ -113,7 +115,9 @@ Jelger 1-0 Juan
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpbar02/a962.jpg)Again the Farmhand showed up on the first turn but Jelger has a first turn play of his won as well: Basking Rootwalla. He even followed that with Chatter of Squirrels to show everyone he could play a fast game as well.
+![](http://www.wizards.com/sideboard/images/gpbar02/a962.jpg)
+
+Again the Farmhand showed up on the first turn but Jelger has a first turn play of his won as well: Basking Rootwalla. He even followed that with Chatter of Squirrels to show everyone he could play a fast game as well.
 
 The Farmhand departed to help balance Vidal's mana and a Crippiling Fatigue took out the Rootwalla. A Wild Mongrel tried to stop the squirrel's attacks but a Chainer's Edict sent it away. Vidal used the Mongrel, before its demise, to discard a Roar of the Wurm.
 

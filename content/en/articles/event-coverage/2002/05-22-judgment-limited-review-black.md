@@ -144,7 +144,9 @@ This is the third installment in my series reviewing the cards in *Judgment* for
 
 ### Black
 
-![](https://i.ormos.uk/9f/ff/9fff46ae318e33a346999d1b6d518d22a0cce3836be09ecd88468b68e81c4ad7.jpg)Ladies and gentlemen, may I present to you the single worst color any one set has seen in the history of the game: *Judgment* black. The problems the black mage faces going into *Judgment* are many, here's a look at just a few:
+![](https://i.ormos.uk/9f/ff/9fff46ae318e33a346999d1b6d518d22a0cce3836be09ecd88468b68e81c4ad7.jpg)
+
+Ladies and gentlemen, may I present to you the single worst color any one set has seen in the history of the game: *Judgment* black. The problems the black mage faces going into *Judgment* are many, here's a look at just a few:
 
 *   There's one black kill spell, and it's best described as 'mediocre'.
 *   There are a total of sixteen black cards.

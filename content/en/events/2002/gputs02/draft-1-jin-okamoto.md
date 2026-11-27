@@ -96,7 +96,9 @@ render_recovery:
   - Spitting Gourna
   occurrences: 54
 ---
-![](http://www.wizards.com/sideboard/images/gputs02/967.jpg)This was easily the most high-powered table of the first draft. Ikeda, Fujita and Okamoto would be a safe bet to run an average table, and now they had to contend with each other. Rochester Draft is easily derailed, and there were bound to be some shenanigans what with Onslaught being so new. At least Okamoto could rely on Tsuyoshi Fujita on his right to co-operate. Jin Okamoto, the last APAC Champion, is one of Japan's hot commodities and an odds-on favorite to be the next Japanese player to crack a Pro Tour Top 8. It's his draft that I'll focus on.
+![](http://www.wizards.com/sideboard/images/gputs02/967.jpg)
+
+This was easily the most high-powered table of the first draft. Ikeda, Fujita and Okamoto would be a safe bet to run an average table, and now they had to contend with each other. Rochester Draft is easily derailed, and there were bound to be some shenanigans what with Onslaught being so new. At least Okamoto could rely on Tsuyoshi Fujita on his right to co-operate. Jin Okamoto, the last APAC Champion, is one of Japan's hot commodities and an odds-on favorite to be the next Japanese player to crack a Pro Tour Top 8. It's his draft that I'll focus on.
 
 The draft started two to his left, so he got to see how things were shaping up. He started in on black early when he saw just two players on the opposite side drafting it. On his right, Fujita was signalling for white, and Kubota on his left wanted the same. A very late Barkhide Mauler in the second pack convinced him that green would be his second color.
 

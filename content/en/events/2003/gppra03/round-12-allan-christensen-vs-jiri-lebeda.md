@@ -82,7 +82,9 @@ render_recovery:
 ---
 ### Game 1
 
-![](https://i.ormos.uk/8a/2c/8a2c4a6b765ea129371877df7f750e645a4cee269993a408c51f6f6eceb25299.jpg)Jiri chose to play first with his green/white deck splashing black, but Allan's white/black had the first play of the duel: a Boneknitter. Morph got matched by morph turn 3 and first blood was drawn when Jiri unmorphed Hystrodon on his 4th turn, drawing a card in the process. Allan kept 2 morphs to block the beast on the following turn, but it wasn't sent into the red zone, Jiri only played a swamp and Aven Redeemer.
+![](https://i.ormos.uk/8a/2c/8a2c4a6b765ea129371877df7f750e645a4cee269993a408c51f6f6eceb25299.jpg)
+
+Jiri chose to play first with his green/white deck splashing black, but Allan's white/black had the first play of the duel: a Boneknitter. Morph got matched by morph turn 3 and first blood was drawn when Jiri unmorphed Hystrodon on his 4th turn, drawing a card in the process. Allan kept 2 morphs to block the beast on the following turn, but it wasn't sent into the red zone, Jiri only played a swamp and Aven Redeemer.
 
 The green Ophidian attacked on the next turn into 2 morphs and a Boneknitter, with Redeemer back up. Unfortunately, one of the morphs was an Aphetto Exterminator. Gluttonous Zombie was the needed evasion for Allan to break through Jiri's Aven Redeemer-Timberwatch elf defense. An unblocked Haunted Cadaver damaged Allan, forcing him to discard 2 Whipgrass Entangler and Sunfire Balm.
 
@@ -92,7 +94,9 @@ Jiri Lebeda - Allan Christensen 1-0
 
 ### Game 2
 
-![](https://i.ormos.uk/fc/ad/fcadd96049029a62c86f7b663ceedde61e42d3d1747f4fc9884d888e3d9e0c62.jpg)Allan chose to play first game 2 and kept his hand, so did Jiri. Allan played as fast as he could, turn 2 Battlefield Medic, turn 3 Whipgrass Entangler, turn 4 Akroma's Devoted, matched by morph turn 3 and 4 by Jiri. Some beats went through with the help of Whipgrass Entangler. Even Jiri's freshly cast Primal Whisperer couldn't block the army of clerics. But then Jiri found his first black card in two games: Misery Charm.
+![](https://i.ormos.uk/fc/ad/fcadd96049029a62c86f7b663ceedde61e42d3d1747f4fc9884d888e3d9e0c62.jpg)
+
+Allan chose to play first game 2 and kept his hand, so did Jiri. Allan played as fast as he could, turn 2 Battlefield Medic, turn 3 Whipgrass Entangler, turn 4 Akroma's Devoted, matched by morph turn 3 and 4 by Jiri. Some beats went through with the help of Whipgrass Entangler. Even Jiri's freshly cast Primal Whisperer couldn't block the army of clerics. But then Jiri found his first black card in two games: Misery Charm.
 
 Losing the Whipgrass Entangler proved game deciding, as Allan wasn't able to break through. The fifth additional turn was over and Allan showed his Profane Prayers, which could have won the game in time, without the black charm.
 

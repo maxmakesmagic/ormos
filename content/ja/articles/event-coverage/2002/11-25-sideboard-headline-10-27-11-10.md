@@ -232,7 +232,9 @@ render_recovery:
 
 ### ■ [*Onslaught* Limited Review: Soldiers](/en/articles/event-coverage/undated/onslaught-limited-review-soldiers)
 
-![](http://www.wizards.com/global/images/magic/general/soldier_token.jpg)　右の画像は、マジック・プレイヤー報奨プログラムに新しく追加されたソルジャートークン。オンスロートの導入により、これとドラゴントークンが追加されています。ソルジャーは《動員令/Mobilization》とドラゴンは《ドラゴンの休息地/Dragon Roost》。あれ。
+![](http://www.wizards.com/global/images/magic/general/soldier_token.jpg)
+
+　右の画像は、マジック・プレイヤー報奨プログラムに新しく追加されたソルジャートークン。オンスロートの導入により、これとドラゴントークンが追加されています。ソルジャーは《動員令/Mobilization》とドラゴンは《ドラゴンの休息地/Dragon Roost》。あれ。
 
 パパ、ケンタウルスは？
 
@@ -277,7 +279,9 @@ render_recovery:
 
 　**「集中砲火」**
 
-![](http://www.wizards.com/global/images/sideboard_jpfeature_20021125a_pic1_ja.jpg)　YMG の大成功を除けば、最も世間の話題を集めたのが **Kai 初日落ち事件**です。Boston で Phoenix Foundation を率い早くも今年度 Pro Tour 一勝目をものにした皇帝 Kai Budde。誰もが、また今年も彼のシーズンなのかと思っていたのではないでしょうか。その Kai が、まさか二日目にマネードラフトを興じる結果になるとは誰が予想できたでしょう。
+![](http://www.wizards.com/global/images/sideboard_jpfeature_20021125a_pic1_ja.jpg)
+
+　YMG の大成功を除けば、最も世間の話題を集めたのが **Kai 初日落ち事件**です。Boston で Phoenix Foundation を率い早くも今年度 Pro Tour 一勝目をものにした皇帝 Kai Budde。誰もが、また今年も彼のシーズンなのかと思っていたのではないでしょうか。その Kai が、まさか二日目にマネードラフトを興じる結果になるとは誰が予想できたでしょう。
 
 　***「･･･たしかに、かなりメタられていたからね」***
 

@@ -61,7 +61,9 @@ archive_source:
   sha256: 942abc3bcfbcc350f5a89f07215fd7cc5566dbaa38c1f639a2b4d43b29fe9f54
 render_recovery: []
 ---
-![Card design](https://i.ormos.uk/7a/ea/7aeaf18b02181a146e728dd255b953ecb5be7b3e75e4b648b598813a6dd3b573.jpg)One of the most important parts of being a designer is (surprise, surprise) making **Magic** cards. There are numerous ways to accomplish the task:
+![Card design](https://i.ormos.uk/7a/ea/7aeaf18b02181a146e728dd255b953ecb5be7b3e75e4b648b598813a6dd3b573.jpg)
+
+One of the most important parts of being a designer is (surprise, surprise) making **Magic** cards. There are numerous ways to accomplish the task:
 
 1.   You can create cards to fill specific design holes.
 2.   You can create cards that fulfill a need in the current tournament metagame.

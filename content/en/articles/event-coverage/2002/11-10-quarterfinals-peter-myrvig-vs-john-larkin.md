@@ -44,7 +44,9 @@ archive_source:
   sha256: 895383daf9e8e639041f283dbaf8e60d6a0286453ab536767c312562a4cea495
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a383.jpg)It's the vet versus the newcomer in this battle between two Europeans. Ireland's John Larkin is making his third Top 8 appearance, whereas Denmark's Peter Myrvig is having his best Pro tournament ever.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/pthou02/a383.jpg)
+
+It's the vet versus the newcomer in this battle between two Europeans. Ireland's John Larkin is making his third Top 8 appearance, whereas Denmark's Peter Myrvig is having his best Pro tournament ever.
 
 Larkin and Myrvig played this matchup in Round 13—blue/black Reanimator vs. [Psychatog](https://web.archive.org/web/20021110000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog)—and Larkin won 2-0. Myrvig rebounded in Round 14, beating Markus Joebstl who had the same deck as Larkin, to make the Top 8, so anything will be possible.
 

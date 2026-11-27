@@ -72,7 +72,9 @@ render_recovery:
   - Krosan Tusker
   occurrences: 20
 ---
-![](http://www.wizards.com/sideboard/images/gpmel02/a905.jpg)Both players had 1-1 records in this pod coming into this match, the loser on theis match having a considerably more daunting task ahead of them. The winner would still have much to do but a 1-2 draft can be momentum destroying.
+![](http://www.wizards.com/sideboard/images/gpmel02/a905.jpg)
+
+Both players had 1-1 records in this pod coming into this match, the loser on theis match having a considerably more daunting task ahead of them. The winner would still have much to do but a 1-2 draft can be momentum destroying.
 
 ### Game 1
 

@@ -343,7 +343,9 @@ MR (4/28/03): I'm not a fan of 3/3 beasts. While I don't mind mixing up what we 
 
 ### Final Touches
 
-![](https://i.ormos.uk/64/74/6474eedebd69e30b5ae43cc29fd2f2ff605a8db0acae0fd4d4c3c9ffa04986f1.jpg)The cards were given a cycle of names that tied into the many suns of Mirrodin: White Sun's Warmth, Blue Sun’s Light, Black Sun's Chill, Red Sun's Fire, Green Sun's Absence. The art for four of the five incorporates rays from the various suns affecting the inhabitants of Mirrodin in various ways; the green art is meant to show a beast looking skyward, with no sun to be found.
+![](https://i.ormos.uk/64/74/6474eedebd69e30b5ae43cc29fd2f2ff605a8db0acae0fd4d4c3c9ffa04986f1.jpg)
+
+The cards were given a cycle of names that tied into the many suns of Mirrodin: White Sun's Warmth, Blue Sun’s Light, Black Sun's Chill, Red Sun's Fire, Green Sun's Absence. The art for four of the five incorporates rays from the various suns affecting the inhabitants of Mirrodin in various ways; the green art is meant to show a beast looking skyward, with no sun to be found.
 
 The lack of a green sun in the storyline made that first set of names slightly awkward, so they were eventually changed to incorporate various locations on Mirrodin itself—the Razor Fields, Lumengrid, the Mephidross Swamp, the Great Furnace, and the Tangle. (*Fifth Dawn* is where the word "sun" will be showing up in card names again.)
 

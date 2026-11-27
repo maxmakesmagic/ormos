@@ -61,7 +61,9 @@ The table shakes down like this:
 
 Svend opened a rather "blah" first pack; none of the cards were great other than Wayward Angel, which he took. He later admitted to not liking white, so he was quite uncomfortable picking the Angel first.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a850.jpg)Davis took a Repel and passed a Psychatog and a Second Thoughts. Davis claimed he took the Repel to keep his options open, but the Psychatog is good enough that by passing it, he almost guaranteed a fight for blue. If Svend could have peered into the future, he would have take Second Thoughts. But instead he took the more powerful 'Tog, showing a willingness to abandon white immediately.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a850.jpg)
+
+Davis took a Repel and passed a Psychatog and a Second Thoughts. Davis claimed he took the Repel to keep his options open, but the Psychatog is good enough that by passing it, he almost guaranteed a fight for blue. If Svend could have peered into the future, he would have take Second Thoughts. But instead he took the more powerful 'Tog, showing a willingness to abandon white immediately.
 
 Now, not only had Davis taken a blue card first, but Mikko passed him a Shadowmage Infiltrator, opting for a mediocre green card instead for signaling purposes. So just as Svend was picking Psychatog, Davis was taking a ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/black.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif) creature of his own.
 
@@ -81,7 +83,9 @@ I suppose he was willing to give up blue after the Afflict; he took Devoted Care
 
 In *Torment*, Davis got a few high-quality goodies: Soul Scourge, Skywing Aven, Possessed Aven, and a sixth-pick Balshan Collaborator (Kai counterdrafted a second Collaborator with his 8th pick). Davis also nabbed 4 Obsessive Searches (he ended up playing only 2) to help him find the goods.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a846.jpg)Svend was all over the place again, taking Cabal Torturer, Hydromorph Gull, and Militant Monk – double mana in all three. He got plenty of cards, but his deck is not smooth at all, and I expect him to have trouble casting everything, especially if he only plays 17 lands. Svend feels he has the tools to win, and if the draws come up right he'll be in good shape.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a846.jpg)
+
+Svend was all over the place again, taking Cabal Torturer, Hydromorph Gull, and Militant Monk – double mana in all three. He got plenty of cards, but his deck is not smooth at all, and I expect him to have trouble casting everything, especially if he only plays 17 lands. Svend feels he has the tools to win, and if the draws come up right he'll be in good shape.
 
 Davis's initial decision to pass Psychatog might have been wrong, but it didn't hurt him. His deck is full of flyers and, although it lacks removal, should be good enough for a 3-1 record. (Davis agreed, but says he'll go 2-2 because he'll screw up somehow).
 

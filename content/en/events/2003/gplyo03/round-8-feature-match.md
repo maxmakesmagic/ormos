@@ -87,7 +87,9 @@ render_recovery:
   - Pewter Golem
   occurrences: 59
 ---
-![Omar Sagol vs Dirk Baberowski](https://www.wizards.com/sideboard/images/gplyo03/923.jpg "Omar Sagol vs Dirk Baberowski")These two players both have a 6-1 record when facing each other in the eighth round. That means this was the match that decided who of these two will be able to draw into day 2, and who would have to play and win the last round to have an outside shot of making it in at 7-2. 
+![Omar Sagol vs Dirk Baberowski](https://www.wizards.com/sideboard/images/gplyo03/923.jpg "Omar Sagol vs Dirk Baberowski")
+
+These two players both have a 6-1 record when facing each other in the eighth round. That means this was the match that decided who of these two will be able to draw into day 2, and who would have to play and win the last round to have an outside shot of making it in at 7-2. 
 
   
 
@@ -99,7 +101,9 @@ Sagol 1 - Baberowski 0
 
 ### Game 2
 
-![Dirk Baberowski](https://www.wizards.com/sideboard/images/gplyo03/924.jpg "Dirk Baberowski")Unsure about his decision to play first last game, Baberowski elected to draw first this time around. Both players started off by playing Myrs, with Sagol again coming out strong with an Empyrial Plate. Another Myr came down for Baberowski, which made sure his decision to draw first wasn't going to hurt him. Sagol's Myr came in for 6 damage and the Spanishman didn't play a land, or a spell for the rest of the turn. Baberowski played Sculpting Steel in order to get an Empyrial Plate of his own, and equipped one of his Myrs with it. Still Sagol's Myr wasn't about to be blocked and it took Baberowski down to 7 life. Stalking Stones was Sagol's next play. Baberowski pondered his options for a while, and passed the turn without playing anything. Sagol's Myr once again hit the Red Zone, with both Myrs being equal size. Irradiate made sure Baberowski's Myr would survive combat. Cobalt Golem was Sagol's next threat, this time one with evasion - although he didn't have blue mana yet. 
+![Dirk Baberowski](https://www.wizards.com/sideboard/images/gplyo03/924.jpg "Dirk Baberowski")
+
+Unsure about his decision to play first last game, Baberowski elected to draw first this time around. Both players started off by playing Myrs, with Sagol again coming out strong with an Empyrial Plate. Another Myr came down for Baberowski, which made sure his decision to draw first wasn't going to hurt him. Sagol's Myr came in for 6 damage and the Spanishman didn't play a land, or a spell for the rest of the turn. Baberowski played Sculpting Steel in order to get an Empyrial Plate of his own, and equipped one of his Myrs with it. Still Sagol's Myr wasn't about to be blocked and it took Baberowski down to 7 life. Stalking Stones was Sagol's next play. Baberowski pondered his options for a while, and passed the turn without playing anything. Sagol's Myr once again hit the Red Zone, with both Myrs being equal size. Irradiate made sure Baberowski's Myr would survive combat. Cobalt Golem was Sagol's next threat, this time one with evasion - although he didn't have blue mana yet. 
 
  ![Empyrial Plate](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Empyrial%20Plate&options=) 
 
@@ -113,7 +117,9 @@ Sagol was rather confident in his decision to play first. He also played out a M
 
 Baberowski tried to answer that with a Sun Droplet and he copied it with a Sculpting Steel. Empyrial Plate armored up Sagol's Berserker again, dropping Baberowski to 14. Deconstruct dealt with the Empyrial Plate and Baberowski played a Clockwork Condor with the mana he still had available. Sagol played out a Cobalt Golem, in order to be able to still deal damage with those Droplets on the table. Baberwoski had other plans for this game however and played out a Loxodon Warhammer.
 
-![Omar Sagol](https://www.wizards.com/sideboard/images/gplyo03/925.jpg "Omar Sagol")Sagol attacked with his Golem and Berseker and played out a Nim Replica. That meant Baberowski got to equip his Condor with the Warhammer and go back up to 18 life with a lot of counters still on the Sun Droplets.
+![Omar Sagol](https://www.wizards.com/sideboard/images/gplyo03/925.jpg "Omar Sagol")
+
+Sagol attacked with his Golem and Berseker and played out a Nim Replica. That meant Baberowski got to equip his Condor with the Warhammer and go back up to 18 life with a lot of counters still on the Sun Droplets.
 
 Sagol's next attack dropped Baberowski down to 11 life, and they both agreed that the Sun Droplets would gain him 2 life a turn. Irradiate dealt with the Clockwork Condor when Baberowski played out a Wormskin Forger. 
 

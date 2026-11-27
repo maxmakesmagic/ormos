@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://i.ormos.uk/19/5b/195b409e57d22e333ce85e07a24d9b59d0f9282af27a38eec2d8e50c238c25da.jpg)"Thank God for only one [Silver Knight](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silver+Knight) at our table," laughed Hegstad.
+![](https://i.ormos.uk/19/5b/195b409e57d22e333ce85e07a24d9b59d0f9282af27a38eec2d8e50c238c25da.jpg)
+
+"Thank God for only one [Silver Knight](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silver+Knight) at our table," laughed Hegstad.
 
 Zvi explained his laugh with a chuckle of his own as he turned to teammate Justin Gary at the next table, " How shocking that two red drafters at the 'only-two-red-drafters' table are 2-0!" Apparently despite ample evidence and opportunity that at least one other player could and should have joined Zvi and Brian in drafting red, nobody did. "I have NEVER had five seats of coverage in a removal color before!"
 
@@ -63,7 +65,9 @@ Brian opened with a [Goblin Grappler](https://web.archive.org/web/20030628000000
 
 Zvi called his next play of [Skirk Outrider](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Outrider) a "traitor to the goblin cause" with more laughter than the joke warranted but when it powered up a [Torrent of Fire](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Torrent+of+Fire) on the next turn that took out a [Goblin Clearcutter](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Clearcutter), he was cut a little slack. Hegstad had nothing to do but deal three with the Taskmaster. 
 
-![](https://i.ormos.uk/22/92/2292d61794cb6f8f4815ce294e26590b246ae910cdb66c3b924b5f0a2de2387d.jpg)Zvi had some [Extra Arms](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Extra+Arms) to smack around the 1/1 with and he got in for two with the still small Outrider. Brian played a [Chartooth Cougar](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chartooth+Cougar) and attempted to regroup. An amplified [Glowering Rogon](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glowering+Rogon)—showing off another Warchief—let Zvi get in for a total of six with the four-armed goblin.
+![](https://i.ormos.uk/22/92/2292d61794cb6f8f4815ce294e26590b246ae910cdb66c3b924b5f0a2de2387d.jpg)
+
+Zvi had some [Extra Arms](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Extra+Arms) to smack around the 1/1 with and he got in for two with the still small Outrider. Brian played a [Chartooth Cougar](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chartooth+Cougar) and attempted to regroup. An amplified [Glowering Rogon](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glowering+Rogon)—showing off another Warchief—let Zvi get in for a total of six with the four-armed goblin.
 
 Brian [Torrent of Fire](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Torrent+of+Fire)d the Rogon and got in for six of his own with the Cougar—Zvi fell to nine. The game was turning into a slugfest as Zvi dropped the ABUer down to a meager four life after playing the Warchief. During his next draw step, Brian could be heard murmuring the words, "[Vitality Charm](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm)" but 'all' he had was another Cougar to stand back on "D" with his twin.
 
@@ -77,7 +81,9 @@ Zvi did some deliberate math and decided to just pass the turn. Brian struggled 
 
 Zvi played a [Dragon Fangs](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Fangs) and sent the 3/3 trampler into the two 1/1's. He took them both out and dropped Brian to 1 in the process. [Timberwatch Elf](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timberwatch+Elf) was handed the inglorious job of chump blocker. 
 
-![](https://i.ormos.uk/ba/f1/baf105c731d6c6c8a94811182f3452c192f9dc2c7ed6c5e827d243074dc53f4a.jpg)A turn later Zvi peeled a [Goblin Sledder](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder) and he was able to kill the Cougar in combat. Another turn later they were on to Game 2.
+![](https://i.ormos.uk/ba/f1/baf105c731d6c6c8a94811182f3452c192f9dc2c7ed6c5e827d243074dc53f4a.jpg)
+
+A turn later Zvi peeled a [Goblin Sledder](https://web.archive.org/web/20030628000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder) and he was able to kill the Cougar in combat. Another turn later they were on to Game 2.
 
 Zvi – 1 Brian – 0
 

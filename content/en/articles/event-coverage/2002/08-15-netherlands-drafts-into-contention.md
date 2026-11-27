@@ -44,7 +44,9 @@ archive_source:
   sha256: 046719d980cef0c5cf4e65fac226ae8764b91d178add752ff4deb00bd0c957d8
 render_recovery: []
 ---
-![](https://i.ormos.uk/df/93/df9338799f7a9cc2b3f5b08fc7bbc2e1d5dece43c3b55a30d7d55f16a60884a1.jpg)Mired in eleventh place after day one, the Netherlands—considered by many to be the most talented National team in the tournament—looked to the booster draft format as their ticket to the top. Both Kamiel Cornellisen and Noah Boeken have had success on the Pro Tour in draft formats, and national champion Tom van de Logt is no slouch, either, having made the top 8 in World Championships twice before.
+![](https://i.ormos.uk/df/93/df9338799f7a9cc2b3f5b08fc7bbc2e1d5dece43c3b55a30d7d55f16a60884a1.jpg)
+
+Mired in eleventh place after day one, the Netherlands—considered by many to be the most talented National team in the tournament—looked to the booster draft format as their ticket to the top. Both Kamiel Cornellisen and Noah Boeken have had success on the Pro Tour in draft formats, and national champion Tom van de Logt is no slouch, either, having made the top 8 in World Championships twice before.
 
 Cornelissen was the star of the team on Thursday, winning five of his six matches and getting a draw in the other. Boeken and van de Logt both put up respectable 4-2 marks, and combined the three did better in the format that any other national team.
 

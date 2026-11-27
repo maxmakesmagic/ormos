@@ -44,7 +44,9 @@ archive_source:
   sha256: 8ecaa664e297a0e8dd6d2422e2708137acc8a6400b1f69a536da841576c70475
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a926.jpg)Frederico Bastos is probably the most recognised Portuguese player with Pro Tour Top 8's in Tokyo and San Diego. Jan Doise is one of the top Belgian players with consistent performances at Grand Prix level.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a926.jpg)
+
+Frederico Bastos is probably the most recognised Portuguese player with Pro Tour Top 8's in Tokyo and San Diego. Jan Doise is one of the top Belgian players with consistent performances at Grand Prix level.
 
 Both weren't entirely happy with their drafts as they got dragged into the same three colour combination – green-red-blue.
 
@@ -76,7 +78,9 @@ Doise 1-1 Bastos
 
 ### Game 3
 
-![](https://i.ormos.uk/ae/d4/aed4354dfc78af49ac1b060a9bf79b3c3cff6e428d6265b62e53709804cc67ae.jpg)Bastos made Doise go first for the decider. Bastos got the first creature in as the dreaded [Wild Mongrel](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) hit the table on turn 2. Doise made a [Krosan Avenger](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Avenger) on turn 3 for the third time in the match.
+![](https://i.ormos.uk/ae/d4/aed4354dfc78af49ac1b060a9bf79b3c3cff6e428d6265b62e53709804cc67ae.jpg)
+
+Bastos made Doise go first for the decider. Bastos got the first creature in as the dreaded [Wild Mongrel](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) hit the table on turn 2. Doise made a [Krosan Avenger](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Avenger) on turn 3 for the third time in the match.
 
 To clean up his mana, Frederico replaced two [Forest](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest)s and a [Krosan Restorer](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Restorer) with an [Island](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island), [Forest](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) and [Mountain](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain) through [Rites of Spring](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rites+of+Spring) and then added [Nimble Mongoose](https://web.archive.org/web/20020407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nimble+Mongoose) to the table.
 

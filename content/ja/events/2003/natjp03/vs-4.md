@@ -224,7 +224,9 @@ render_recovery:
 
 先行は志岐
 
-![](https://www.wizards.com/sideboard/images/natjp03/a951.jpg)志岐は、《ラノワールのエルフ/Llanowar Elves》 からプレイを開始し、順調な展開を見せたと思われたが、2 ターン目にプレイしたクリーチャーは 《渋面の溶岩使い/Grim Lavamancer》。 《野生の雑種犬/Wild Mongrel》 ではないことから万全の手札でないことが想像される。
+![](https://www.wizards.com/sideboard/images/natjp03/a951.jpg)
+
+志岐は、《ラノワールのエルフ/Llanowar Elves》 からプレイを開始し、順調な展開を見せたと思われたが、2 ターン目にプレイしたクリーチャーは 《渋面の溶岩使い/Grim Lavamancer》。 《野生の雑種犬/Wild Mongrel》 ではないことから万全の手札でないことが想像される。
 
 対する大塚は 2 ターン目 《野生の雑種犬》 のプレイからスタートする。  
  逆にこちらは順調な手札を予感させる。

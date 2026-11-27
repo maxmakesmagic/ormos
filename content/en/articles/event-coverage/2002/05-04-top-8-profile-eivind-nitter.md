@@ -44,7 +44,9 @@ archive_source:
   sha256: 30a3bd87c3b208d8fb37ba318d1ef154722c7cf5e4521a172bac6d6e55550a4b
 render_recovery: []
 ---
-![](https://i.ormos.uk/b2/73/b273ec50ddfc99df20409c10121ba3c48a29f07f8531f7e5c6ebff5fd526d267.jpg)When Eivind Nitter beat Ed Fear in the last round of the swiss to make his first ever Pro Tour top 8 finish, his face showed this expression of relief and happiness. The top 8 finish was quite unexpected for the 23-year-old European Champion. "I am used to ending up somewhere down there, and when you do, you lose some of the spark. So it was great to regain some self-confidence, because I was wondering if I was doing something wrong," Nitter says.
+![](https://i.ormos.uk/b2/73/b273ec50ddfc99df20409c10121ba3c48a29f07f8531f7e5c6ebff5fd526d267.jpg)
+
+When Eivind Nitter beat Ed Fear in the last round of the swiss to make his first ever Pro Tour top 8 finish, his face showed this expression of relief and happiness. The top 8 finish was quite unexpected for the 23-year-old European Champion. "I am used to ending up somewhere down there, and when you do, you lose some of the spark. So it was great to regain some self-confidence, because I was wondering if I was doing something wrong," Nitter says.
 
 The Norwegian punk, who always sports fancy clothes and even fancier accessories (like handcuffs at Worlds in Brussels), got his international breakthrough when he won the 2001 European Championship. The results at Pro Tours, however, has lacked for Nitter, and while he previously was able to make day twos pretty easily, he suddenly found himself going to several Pro Tours in a row without making it to the second day.
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 9088b30741bd67b440c864188e2f416eb3d8beb73c6ee677c21fd44673361730
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ky03/973.jpg)Adam Prosak, Tennessee native and college student at Xavier University is not a stranger to success. He has qualified for three Pro Tours, United States Nationals (twice!) and finished in the top eight of Grand Prix Cleveland. Will Lutes, on the other hand, maybe considered a bit of a stranger. The married man from Radcliff, Kentucky is one of the defending Co Champions of this years State Championship, and is involved with one of the major Kentucky play testing teams. Adam is playing a Black White homebrew that several of his Ohio friends are also playing that reminds one of the Nassif deck from Euros. Will decided to play R/w slide after the moderate success the deck had at Grand Prix Bangkok. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ky03/973.jpg)
+
+Adam Prosak, Tennessee native and college student at Xavier University is not a stranger to success. He has qualified for three Pro Tours, United States Nationals (twice!) and finished in the top eight of Grand Prix Cleveland. Will Lutes, on the other hand, maybe considered a bit of a stranger. The married man from Radcliff, Kentucky is one of the defending Co Champions of this years State Championship, and is involved with one of the major Kentucky play testing teams. Adam is playing a Black White homebrew that several of his Ohio friends are also playing that reminds one of the Nassif deck from Euros. Will decided to play R/w slide after the moderate success the deck had at Grand Prix Bangkok. 
 
 Will won the roll, and decided to go first. Both players kept their hands, and tap lands were the first plays from both guys. Will decided that he hated to play land and missed his second turn land drop. Adam cycled a Gladiator away during Will‘s end step. Upkeep saw him discard a Smother to return the gladiator, and Will finally drew a second land to power out the Eternal Dragon, which lead to a second white source as well. Of course all this land went to good use, as Will cast the Astral Slide that was hanging out in his hand. 
 
@@ -60,7 +62,9 @@ Adam made four angels with Decree of Justice
 
 Pretty good right?
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ky03/974.jpg)Wrath of God dealt with the Angelic problems. Soon enough Will had two Exalted Angel, double Slide, Dragon and Rift. Noting that Adam had indeed not died, I noticed his board, Dragon, Faithful and Slide. Things did not look like they would be finished up anytime soon. A bunch of cycling happened, the board was cleared by the slides, and when it was over, Will controlled two Rifts, two slides, and the life totals stood at 28 to 30 with Prosak down by two. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ky03/974.jpg)
+
+Wrath of God dealt with the Angelic problems. Soon enough Will had two Exalted Angel, double Slide, Dragon and Rift. Noting that Adam had indeed not died, I noticed his board, Dragon, Faithful and Slide. Things did not look like they would be finished up anytime soon. A bunch of cycling happened, the board was cleared by the slides, and when it was over, Will controlled two Rifts, two slides, and the life totals stood at 28 to 30 with Prosak down by two. 
 
 The feature area started to get fill as the “Better players” won, and somehow the game looked like it would never end. Burning Wish for Will netted him a spicy Decree of Justice, and things still looked about as awful as they could for Adam. 
 
@@ -78,7 +82,9 @@ The Burning Wish picked the wrong card. Ancestral Tribute made it’s way into W
 
 Ancestral Tribute made Will gain twenty life, and raised his life to fifty nine. Wretch ate the Tribute before it gained Lutes another twenty, and Adam knocked will to 55. Wrath of god from Will made Prosak cycle some cards to save his important guys. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ky03/975.jpg)Cabal therapy from Adam missed on Wrath of God, and showed two lands and a rift. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ky03/975.jpg)
+
+Cabal therapy from Adam missed on Wrath of God, and showed two lands and a rift. 
 
 Will, ripped like a really good player, and cast slide. He followed that up with Rift, and a second one. Decree of justice was cycled by Adam and the eighteen soldiers it made came rushing in to the field of battle. Will took fifteen from the soldiers after the abilities of Slide and Rift Resolved. A flashbacked Cabal Therapy resolved and made sure that Will did not have any mass removal spells in his hand. 
 

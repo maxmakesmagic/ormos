@@ -44,7 +44,9 @@ archive_source:
   sha256: 94d5a0a668651b73985dccb5d5ce74dba04da56c26f52a67be7add97a6df739d
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a939.jpg)Last round of the day and again Kai Budde is in a situation where a loss would dump him out of the tournament. At 7-2 the German superstar needs to win to advance into day two. Budde is running The Rock, splashing red for [Terminate](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terminate). His opponent Mark Antoine Hernandez is running a more old-school version of the same deck.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a939.jpg)
+
+Last round of the day and again Kai Budde is in a situation where a loss would dump him out of the tournament. At 7-2 the German superstar needs to win to advance into day two. Budde is running The Rock, splashing red for [Terminate](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terminate). His opponent Mark Antoine Hernandez is running a more old-school version of the same deck.
 
 Budde won the die roll and elected to go first.
 
@@ -64,7 +66,9 @@ Hernandez 1-0 Budde
 
 Budde thought about it and chose to play. He looked at his hand and was forced to throw it straight back. Hernandez also decided to do the same.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a941.jpg)Hernandez missed with his first [Cabal Therapy](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy), but then took out a Baloth with his second. Budde hit with a [Treetop Village](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village), but that plan was scuppered as Hernandez dropped his own Baloth.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a941.jpg)
+
+Hernandez missed with his first [Cabal Therapy](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy), but then took out a Baloth with his second. Budde hit with a [Treetop Village](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village), but that plan was scuppered as Hernandez dropped his own Baloth.
 
 A [Duress](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) took out the [Terminate](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terminate) from Budde's hand and after he lost both [Treetop Village](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village) and Elder gang-blocking the Baloth the German was left with only land.
 
@@ -84,7 +88,9 @@ With only 6 minutes remaining a draw would do neither player any good. As both w
 
 Meanwhile Hernandez got a recurring nightmare going to dig some land out of his deck with an Elder.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a942.jpg)Budde dropped a [Spiritmonger](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger), hoping for some kind of quick kill. [Cabal Therapy](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) left him with no hand but [Genesis](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Genesis) was lurking in his graveyard to keep a steady stream of monsters.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gprei02/a942.jpg)
+
+Budde dropped a [Spiritmonger](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger), hoping for some kind of quick kill. [Cabal Therapy](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) left him with no hand but [Genesis](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Genesis) was lurking in his graveyard to keep a steady stream of monsters.
 
 Time was called with Budde needing to do thirteen damage. He had an unblockable [Spiritmonger](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger) but Hernandez kept recursing Baloth with [Recurring Nightmare](https://web.archive.org/web/20021201000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recurring+Nightmare) to stay out of danger.
 

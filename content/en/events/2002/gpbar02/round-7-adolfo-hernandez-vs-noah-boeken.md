@@ -83,7 +83,9 @@ render_recovery:
   - Gloomdrifter
   occurrences: 40
 ---
-![](http://www.wizards.com/sideboard/images/gpbar02/a953.jpg)These two are probably a point away from the second day. With 701 players and eight rounds, 6-1-1 should be enough, while 6-2 might not make it. Coming all the way to 6-0 and then losing the last two rounds would be terrible but it might happen.
+![](http://www.wizards.com/sideboard/images/gpbar02/a953.jpg)
+
+These two are probably a point away from the second day. With 701 players and eight rounds, 6-1-1 should be enough, while 6-2 might not make it. Coming all the way to 6-0 and then losing the last two rounds would be terrible but it might happen.
 
 So far their day has been nothing but joy and a win here could mark the start of a run for the Top 8 tomorrow. One of them will walk away knowing he is in the second day.
 
@@ -113,7 +115,9 @@ Noah 1-1 Adolfo
 
 ### Game 3
 
-![](http://www.wizards.com/sideboard/images/gpbar02/a952.jpg)Hernandez kept a very risky and for the third game with only Islands and his deck decided not to help him out. By the time he found his fourth land, a Swamp Noah already had a Millikin, Looter and Windreader.
+![](http://www.wizards.com/sideboard/images/gpbar02/a952.jpg)
+
+Hernandez kept a very risky and for the third game with only Islands and his deck decided not to help him out. By the time he found his fourth land, a Swamp Noah already had a Millikin, Looter and Windreader.
 
 The Dirty Wererat and Crypt Creeper were not quite enough to catch up right away and when Noah Discarded a Diabolic Tutor to the Looter it was obvious he had a handful of menaces. The first one to come out was a Nantuko Cultivator (discarding two lands).
 

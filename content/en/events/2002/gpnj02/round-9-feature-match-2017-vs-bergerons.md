@@ -363,7 +363,9 @@ render_recovery:
 ---
 ### Game One: Ken Ho (black/red) vs. David Rood (black/red)
 
-![](http://www.wizards.com/sideboard/images/gpnj02/906.jpg)Ken struck first with a Crypt Creeper, and used Fiery Temper to clear out a third turn Cabal Torturer. The Creeper traded with a Gravegouger shortly thereafter, and Ken kept on the pressure by removing Rood's sole Mountain from the game with a Petravark. Creature removal traded back and forth, Ken casting Morbid Hunger (flashing it back) and Ember Shot to a Morbid Hunger of David's own, which was aided by a Fiery Temper. Ken ended up drawing more creatures, and eventually came on through with a bunch of two power guys for the win.
+![](http://www.wizards.com/sideboard/images/gpnj02/906.jpg)
+
+Ken struck first with a Crypt Creeper, and used Fiery Temper to clear out a third turn Cabal Torturer. The Creeper traded with a Gravegouger shortly thereafter, and Ken kept on the pressure by removing Rood's sole Mountain from the game with a Petravark. Creature removal traded back and forth, Ken casting Morbid Hunger (flashing it back) and Ember Shot to a Morbid Hunger of David's own, which was aided by a Fiery Temper. Ken ended up drawing more creatures, and eventually came on through with a bunch of two power guys for the win.
 
 Ken 1-David 0
 
@@ -381,7 +383,9 @@ Ken 1-David 1.
 
 ### Game Two: Brian Kibler vs. Elijah Pollock
 
-![](https://i.ormos.uk/af/0c/af0c35912e47d0aa03c489e071fd6ca4e22c32199cbaf382b019b3e029f05c73.jpg)Elijah started with a sizable ground force, held at bay by a third turn Wormfang Drake. Brian cast a very powerful Mental Note, which sent both Alter Reality and Defy Gravity to the graveyard. This in effect netted him two playable cards (both have flashback) for the cost of a one mana cantrip. Although Elijah kept on pressure with a Brawn and Giant Warthog, Brian summoned forth a Wild Mongrel with a hand full of cards. A Concentrate from the Canadian evened things up a bit from the Mental Note play, and he swung with his big pig, hoping to get Kibler to lose cards from his hand to the Mongrel in order to swing some sort of advantage in the game. A Sudden Strength from Kibler ended that plan, but a second Warthog backed by a Nantuko Disciple made life horribly difficult for the Dragonmaster. Desperate for answers, Brian cast a Deep Analysis but it was too little too late as 2017 took first blood.
+![](https://i.ormos.uk/af/0c/af0c35912e47d0aa03c489e071fd6ca4e22c32199cbaf382b019b3e029f05c73.jpg)
+
+Elijah started with a sizable ground force, held at bay by a third turn Wormfang Drake. Brian cast a very powerful Mental Note, which sent both Alter Reality and Defy Gravity to the graveyard. This in effect netted him two playable cards (both have flashback) for the cost of a one mana cantrip. Although Elijah kept on pressure with a Brawn and Giant Warthog, Brian summoned forth a Wild Mongrel with a hand full of cards. A Concentrate from the Canadian evened things up a bit from the Mental Note play, and he swung with his big pig, hoping to get Kibler to lose cards from his hand to the Mongrel in order to swing some sort of advantage in the game. A Sudden Strength from Kibler ended that plan, but a second Warthog backed by a Nantuko Disciple made life horribly difficult for the Dragonmaster. Desperate for answers, Brian cast a Deep Analysis but it was too little too late as 2017 took first blood.
 
 Elijah 2-Brian 0 (2017 1-Bergerons 0)
 
@@ -393,7 +397,9 @@ Ken 2-David 1 (2017 1-Bergerons 1)
 
 ### Game One: Ben Rubin (white/green/blue) vs. Guillaume Daoust (white/blue)
 
-![](http://www.wizards.com/sideboard/images/gpnj02/904.jpg)Guillaume started the game with a very devastating defense, playing out a second turn Mystic Familiar and enchanting it with a third turn Unquestioned Authority. Ben's draw of Anurid Brushhopper and Dreamwinder was half-stifled by this creature. It was joined by a Basking Rootwalla and Battlewise Aven, and his hefty hitters were matched by an all-star defense of the previously mentioned Familiar, Militant Monk, and a Hallowed Healer. The game stalled out as both players added to their forces: Daoust adding a Phantom Nomad and Hydromorph Gull, and Ben a Shieldmage Advocate. The Advocate controlled the entire game, making killing any of Ben's large creatures impossible for Guillaume's small defenders. Guillaume sought to stave off the inevitable but Ben finally reached threshold and cast a thresholded Aven Warcraft naming white, allowing him to swing his entire horde past Guillaume's defenses.
+![](http://www.wizards.com/sideboard/images/gpnj02/904.jpg)
+
+Guillaume started the game with a very devastating defense, playing out a second turn Mystic Familiar and enchanting it with a third turn Unquestioned Authority. Ben's draw of Anurid Brushhopper and Dreamwinder was half-stifled by this creature. It was joined by a Basking Rootwalla and Battlewise Aven, and his hefty hitters were matched by an all-star defense of the previously mentioned Familiar, Militant Monk, and a Hallowed Healer. The game stalled out as both players added to their forces: Daoust adding a Phantom Nomad and Hydromorph Gull, and Ben a Shieldmage Advocate. The Advocate controlled the entire game, making killing any of Ben's large creatures impossible for Guillaume's small defenders. Guillaume sought to stave off the inevitable but Ben finally reached threshold and cast a thresholded Aven Warcraft naming white, allowing him to swing his entire horde past Guillaume's defenses.
 
 Ben 1-Guillaume 0
 

@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/161.jpg)In the quarterfinals, Darwin Kastle from the United States faced Marc Hernandez from France. Darwin had drafted a strong black, red and blue deck with bounce, burn and good creatures while Marc had a white and green deck with a little black and red. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/161.jpg)
+
+In the quarterfinals, Darwin Kastle from the United States faced Marc Hernandez from France. Darwin had drafted a strong black, red and blue deck with bounce, burn and good creatures while Marc had a white and green deck with a little black and red. 
 
 Marc went first in the first duel, but he had to mulligan once. Still, he played a turn two Obsidian Acolyte, a pretty good card against Darwin's black spells and creatures. Darwin played a turn two Shivan Zombie, but still, Marc chose to attack instead of holding the Acolyte back, obviously going for the quick beats. Darwin sent his Zombie once, and played a Kavu Aggressor, while Marc dropped a Nomadic Elf and sent the Acolyte over again. 
 

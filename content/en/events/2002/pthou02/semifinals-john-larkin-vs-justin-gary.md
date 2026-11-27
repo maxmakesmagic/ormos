@@ -100,7 +100,9 @@ render_recovery:
   - Massacre
   occurrences: 168
 ---
-![](http://www.wizards.com/sideboard/images/pthou02/a904.jpg)John is the only person left in this Top 8 who can stop team Your Move Games from totally sweeping the Pro Tour. Your Move Games is 9-0 in games so far, and Justin Gary is looking to make sure that's going to be 12-0. For Justin, things look pretty bright, as John commented before the match that this might just be ugly for him.
+![](http://www.wizards.com/sideboard/images/pthou02/a904.jpg)
+
+John is the only person left in this Top 8 who can stop team Your Move Games from totally sweeping the Pro Tour. Your Move Games is 9-0 in games so far, and Justin Gary is looking to make sure that's going to be 12-0. For Justin, things look pretty bright, as John commented before the match that this might just be ugly for him.
 
 ### Game 1
 
@@ -135,7 +137,9 @@ Justin Gary 1 – John Larkin 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/pthou02/a905.jpg)Justin sides in one of his Powder Kegs and a Gilded Drake, taking out two Fact or Fictions. John goes takes out his Wonder, Thrashing Wumpus, and two of his Careful Studies and a Vampiric Tutor for a Gilded Drake, Llawan, 2 Cabal Therapies and a Gainsay.
+![](http://www.wizards.com/sideboard/images/pthou02/a905.jpg)
+
+Justin sides in one of his Powder Kegs and a Gilded Drake, taking out two Fact or Fictions. John goes takes out his Wonder, Thrashing Wumpus, and two of his Careful Studies and a Vampiric Tutor for a Gilded Drake, Llawan, 2 Cabal Therapies and a Gainsay.
 
 This time around John gets a decent opening hand of Entomb, Reanimate, Duress, Brainstorm, Verdant Force and Exhume – Justin trades in his opening hand though – getting a reasonable hand of Underground River, Treetop Village, Forest, Powder Keg, Brainstorm and Force Spike.
 

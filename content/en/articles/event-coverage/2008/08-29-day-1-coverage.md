@@ -759,7 +759,9 @@ In this case a player, who we can’t name if there is the chance of an investig
 
 *By Noel Neo*
 
-![](https://i.ormos.uk/ec/7f/ec7f7e9d84e474e319fa126a8851228b49b5bb78ca4e435fc55e2dd76bf1ae27.jpg)First active Pro Hall of Famer, Raphael Levy, needs little introduction, and Joselito is a stalwart in the local *Magic* scene, having represented the Philippines as a member of the national team at Worlds last year.
+![](https://i.ormos.uk/ec/7f/ec7f7e9d84e474e319fa126a8851228b49b5bb78ca4e435fc55e2dd76bf1ae27.jpg)
+
+First active Pro Hall of Famer, Raphael Levy, needs little introduction, and Joselito is a stalwart in the local *Magic* scene, having represented the Philippines as a member of the national team at Worlds last year.
 
 Raphael was all brisk and business-like as he shuffled up for the game, but a moment of light-heartedness shone through as he won the die roll and wished his opponent luck.
 
@@ -781,7 +783,9 @@ A [Wilt-Leaf Liege](https://web.archive.org/web/20080829000000/http://gatherer.w
 
 With his options dwindling rapidly, Raphael balanced the need to defend himself against the need to win the game before his own enchantments took him out, and chose to send two tokens into the red zone. At Joselito’s next attack step, Raphael then played [Cryptic Command](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command), opting to tap all creatures and send the Liege back to Joselito’s hand. Nonetheless, [Mutavault](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault) could still attack to force a chump block.
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/gpman08/Raphael%27s%20Bane%20and%20Boon.JPG)Raphael continued to send half of his four tokens into attack, barely enough to maintain the life total balance, and nowhere near what would be required to catch up. When Joselito next swung with his creatures, Raphael allowed them in before blocking with [Mutavault](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault) and two tokens a piece. With damage on the stack, [Scion of Oona](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scion+of+Oona) came in for Raphael to ensure his creatures remained in play (*a moment of confusion ensued at this point as Joselito had not explicitly said that he would assign one damage to each token, nonetheless the final judge ruling was that the implicit implication was sufficient*).
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/gpman08/Raphael%27s%20Bane%20and%20Boon.JPG)
+
+Raphael continued to send half of his four tokens into attack, barely enough to maintain the life total balance, and nowhere near what would be required to catch up. When Joselito next swung with his creatures, Raphael allowed them in before blocking with [Mutavault](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault) and two tokens a piece. With damage on the stack, [Scion of Oona](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scion+of+Oona) came in for Raphael to ensure his creatures remained in play (*a moment of confusion ensued at this point as Joselito had not explicitly said that he would assign one damage to each token, nonetheless the final judge ruling was that the implicit implication was sufficient*).
 
 Despite the minor victory, Raphael was at 2 life and could not find the [Cryptic Command](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command) he needed to return one of the [Bitterblossom](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom)s to his own hand. Sighing, he conceded the game and moved on to discussing the finer points of the game with his opponent.
 
@@ -809,7 +813,9 @@ Shouta Yasooka defeats James Porter 2-0
 
 *By Noel Neo*
 
-![](https://i.ormos.uk/5b/f5/5bf57c56ee03b958b549bf3b7706009086d3cea7b66b154d62a6adf46032f3ab.jpg)With 2 losses, Tomoharu, reigning Player of the Year, was playing for the slim chance that the winner of this round makes it to day 2. In fact, as the players shuffled, Tomoharu remarked to a friend that even winning does not guarantee a spot in the top 64.
+![](https://i.ormos.uk/5b/f5/5bf57c56ee03b958b549bf3b7706009086d3cea7b66b154d62a6adf46032f3ab.jpg)
+
+With 2 losses, Tomoharu, reigning Player of the Year, was playing for the slim chance that the winner of this round makes it to day 2. In fact, as the players shuffled, Tomoharu remarked to a friend that even winning does not guarantee a spot in the top 64.
 
 Ray was clearly a little superstitious as he shuffled Tomoharu’s deck by splitting it into 10 different piles. The players wished each other luck, with Ray repeating himself in Japanese, and it was on.
 
@@ -817,7 +823,9 @@ Ray was clearly a little superstitious as he shuffled Tomoharu’s deck by split
 
 It was a game that saw a good hand matched against a better hand. Ray won the die roll and opened with [Bitterblossom](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) and [Scion of Oona](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scion+of+Oona), but he was sorely outclassed by Tomoharu’s turn 2: [Smokebraider](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smokebraider), turn 3: Horde of Nations. Without [Sower of Temptation](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sower+of+Temptation)s to deal with the opposing monster, 5 damage a turn soon proved too much for Ray to handle.
 
-![](https://i.ormos.uk/41/ff/41ff79f1b08d1ed219e99d3d8eeab4eab5d2d5cec6d14b236ce272cc3f643331.jpg)Though Ray kept mana open to bluff combat tricks on a number of occasions, Tomoharu never failed to have the [Thoughtseize](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize) on hand to call the bluff.
+![](https://i.ormos.uk/41/ff/41ff79f1b08d1ed219e99d3d8eeab4eab5d2d5cec6d14b236ce272cc3f643331.jpg)
+
+Though Ray kept mana open to bluff combat tricks on a number of occasions, Tomoharu never failed to have the [Thoughtseize](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize) on hand to call the bluff.
 
 The game was sealed on turn 5, when Tomoharu [Thoughtseize](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize)’d [Nameless Inversion](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nameless+Inversion), leaving Ray with [Puppeteer Clique](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Puppeteer+Clique) and [Secluded Glen](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Secluded+Glen), cleared Ray’s board with [Firespout](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Firespout) (*leaving [Bitterblossom](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) in play*), and brought him down to 2 life by swinging with Horde of Nations.
 
@@ -827,7 +835,9 @@ Ray’s streak of misfortune continued when he was forced to mulligan down to 4 
 
 When Tomoharu stopped him as he was about to play his first land, Ray quipped, “you want to mulligan down to 4 also?”
 
-![](https://i.ormos.uk/61/7e/617e099cc4c7a041ec22d5dbe7066c37610872887ba5f1d3e826ac95c11e2138.jpg)Even hand light, Ray managed to deal first blood with [Mutavault](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault) swinging in on turn 2. When he tried to repeat that on turn 3, Tomoharu reached to his two lands and... accepted the damage.
+![](https://i.ormos.uk/61/7e/617e099cc4c7a041ec22d5dbe7066c37610872887ba5f1d3e826ac95c11e2138.jpg)
+
+Even hand light, Ray managed to deal first blood with [Mutavault](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault) swinging in on turn 2. When he tried to repeat that on turn 3, Tomoharu reached to his two lands and... accepted the damage.
 
 Still, Tomoharu had the first real play of the game with [Ashenmoor Gouger](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ashenmoor+Gouger). Stuck on 3 lands, Ray could only watch as Tomoharu continued to build his board with [Chameleon Colossus](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chameleon+Colossus), then [Mulldrifter](https://web.archive.org/web/20080829000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter).
 

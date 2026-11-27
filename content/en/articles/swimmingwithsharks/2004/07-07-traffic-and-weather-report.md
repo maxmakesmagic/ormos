@@ -1133,7 +1133,9 @@ Saturday's affair was a fifty-two person tournament, the spike in numbers coming
 
 *Big Red - Nine decks/two Top 8*
 
-![](https://i.ormos.uk/ec/3f/ec3f03478ab8103b1c87a51b263c8a20a7cab886b87fa21b6f24f927d270d344.jpg)Just fewer than twenty percent of the field decided to run Big Red. It won in Kobe, it won the day before, and it won again in this trial. Both versions that made it to the Top 8 rose to the very top and met in the finals. Paul Russell added Megatog to his build, giving him something to do with his artifacts when his Furnace Dragon wasn't blowing them all up. Greg Darkoff chose to run Furnace Whelp in that slot. Who wins in a fight?
+![](https://i.ormos.uk/ec/3f/ec3f03478ab8103b1c87a51b263c8a20a7cab886b87fa21b6f24f927d270d344.jpg)
+
+Just fewer than twenty percent of the field decided to run Big Red. It won in Kobe, it won the day before, and it won again in this trial. Both versions that made it to the Top 8 rose to the very top and met in the finals. Paul Russell added Megatog to his build, giving him something to do with his artifacts when his Furnace Dragon wasn't blowing them all up. Greg Darkoff chose to run Furnace Whelp in that slot. Who wins in a fight?
 
 *Affinity - Seven decks/one Top 8*
 

@@ -457,7 +457,9 @@ render_recovery:
 ---
 * * *
 
-![Treasure_Hunter](https://i.ormos.uk/ca/34/ca34302a169056eba9511866600ae1b0f749208fdd874ad43209755ac32ca702.jpg)Welcome to X Week! In honor of the release of *Tenth Edition*, Scott Johns has come up with an ambiguous yet apropos theme week. (By the way, I was touched how many of you worried after [my sign-off last week](/en/articles/makingmagic/2007/07-16-two-plus-two) that I was bold enough to have a column about pornography on the company website.) X Week is about whatever each columnist wants it to be about. As I starting thinking about what I wanted to say about X I realized I had a number of different things to talk about. Staying in theme, and being as Roman as possible, I've chosen to talk about X tidbits. I hope my X stories hit the spot (or at least mark it).
+![Treasure_Hunter](https://i.ormos.uk/ca/34/ca34302a169056eba9511866600ae1b0f749208fdd874ad43209755ac32ca702.jpg)
+
+Welcome to X Week! In honor of the release of *Tenth Edition*, Scott Johns has come up with an ambiguous yet apropos theme week. (By the way, I was touched how many of you worried after [my sign-off last week](/en/articles/makingmagic/2007/07-16-two-plus-two) that I was bold enough to have a column about pornography on the company website.) X Week is about whatever each columnist wants it to be about. As I starting thinking about what I wanted to say about X I realized I had a number of different things to talk about. Staying in theme, and being as Roman as possible, I've chosen to talk about X tidbits. I hope my X stories hit the spot (or at least mark it).
 
 ### Tidbit I – A Numbers Game
 

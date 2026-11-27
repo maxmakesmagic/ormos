@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *by Kai Budde* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/155.jpg)Bram is one of the top dutch players who has 2 GP top 8s to his credit - Amsterdam 99 and Cannes 00. Rob is a member of the famous Your Move Games-Team and won the team Pro Tour in Washington with his teammates Darwin Kastle and Dave Humpheries. He also made top 8 at PT-NY 99. Bram went into this round with a 6-3 record while Rob was at 7-1-1. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/155.jpg)
+
+Bram is one of the top dutch players who has 2 GP top 8s to his credit - Amsterdam 99 and Cannes 00. Rob is a member of the famous Your Move Games-Team and won the team Pro Tour in Washington with his teammates Darwin Kastle and Dave Humpheries. He also made top 8 at PT-NY 99. Bram went into this round with a 6-3 record while Rob was at 7-1-1. 
 
 Both players were using 3-colored-decks and so they preferred to draw first - at least in this match-up of 2 multi-colored decks. Bram won the toss and so Rob had to play. After Rob zapped Brams Quirion Elf, the dutchman was a little mana-short and had problems to deal with 2 Phyrexian Reavers. He dropped down to 2 before all creatures on the board were gone. Rob proceeded to draw into a Pouncing Kavu and won the first game. 
 

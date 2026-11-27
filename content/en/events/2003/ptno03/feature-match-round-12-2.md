@@ -351,7 +351,9 @@ render_recovery:
 ---
 * * *
 
-![Feature Match: Berkowitz vs. Humpherys](http://www.wizards.com/sideboard/images/ptno03/884.jpg "Feature Match: Berkowitz vs. Humpherys")After his parting of the ways with CMU-TOGIT earlier this year, there were some rumors that put Jordan Berkowitz on wearing the red and black dragon for YMG. Love him or hate him, there is no denying that Jordan is one of the hottest young players on the tour. After his Top 8 performance at Pro Tour Venice he made the Top 8 a US Nationals and just missed the final cut at this past World Championships with a heartbreaking 10th place finish.
+![Feature Match: Berkowitz vs. Humpherys](http://www.wizards.com/sideboard/images/ptno03/884.jpg "Feature Match: Berkowitz vs. Humpherys")
+
+After his parting of the ways with CMU-TOGIT earlier this year, there were some rumors that put Jordan Berkowitz on wearing the red and black dragon for YMG. Love him or hate him, there is no denying that Jordan is one of the hottest young players on the tour. After his Top 8 performance at Pro Tour Venice he made the Top 8 a US Nationals and just missed the final cut at this past World Championships with a heartbreaking 10th place finish.
 
 Jordan was expecting to hook up with YMG and was disappointed to find himself without a major team for this Pro Tour. He hooked up with a handful of other young players and retreated to Canada for playtesting. When Jordan made the Top 8 of Venice he did it with a deck designed by relatively unknown Pennsylvania based player Gregg Weiss. When Jordan was greeted in Canada by Rich Hoaen, Mark Zajdner, and Joshua Wagener he came bearing another Gregg Weiss creation-Mono-Brown. 
 
@@ -359,7 +361,9 @@ Only half of the team was playing the deck and the other player-Mark Zajdner-fai
 
 ### Game 1
 
-![Da Hump, now with 15% more beard](http://www.wizards.com/sideboard/images/ptno03/885.jpg "Da Hump, now with 15% more beard")Theoretically, both players are aware of the others decklists but Jordan has not paid enough attention to the YMG list and when Dave played a Chrome Mox and imprinted a Moment's Peace he had to laugh, "This deck is crazy. You YMG guys have the craziest stuff!"
+![Da Hump, now with 15% more beard](http://www.wizards.com/sideboard/images/ptno03/885.jpg "Da Hump, now with 15% more beard")
+
+Theoretically, both players are aware of the others decklists but Jordan has not paid enough attention to the YMG list and when Dave played a Chrome Mox and imprinted a Moment's Peace he had to laugh, "This deck is crazy. You YMG guys have the craziest stuff!"
 
 Jordan had led off the game with a Rishadan Port and a Voltaic Key had another Port for his next turn and tapped Dave's Island on his upkeep. Dave played a Wooded Foothills and imprinted a Counterspell on a Scepter.
 
@@ -379,7 +383,9 @@ Dave 0 - Raw Talent 1
 
 ### Game 2
 
-![Somebody call the Toon Town Police!](http://www.wizards.com/sideboard/images/ptno03/883.jpg "Somebody call the Toon Town Police!")Dave sided outmost of his creature control for Dust Bowls and Naturalizes. He left in some Oaths and all but one of his Moment's Peace. Meanwhile, Jordan brought in four Smokestacks and Mindslavers.
+![Somebody call the Toon Town Police!](http://www.wizards.com/sideboard/images/ptno03/883.jpg "Somebody call the Toon Town Police!")
+
+Dave sided outmost of his creature control for Dust Bowls and Naturalizes. He left in some Oaths and all but one of his Moment's Peace. Meanwhile, Jordan brought in four Smokestacks and Mindslavers.
 
 While they shuffled Jordan talked about wanting to join YMG. "Justin told me they wanted me and I got pretty excited. I know a couple of guys didn't vote for me and it didn't happen. But then like you guys took ten other guys!"
 

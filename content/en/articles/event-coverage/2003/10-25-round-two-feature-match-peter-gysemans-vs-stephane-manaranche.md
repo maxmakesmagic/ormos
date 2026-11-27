@@ -50,7 +50,9 @@ Peter: played Worlds 4 times already (best finish 22nd), made top-8 at GP Copenh
 
 ### Game 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/976.jpg)Stephane wins the toss and chooses to play. He starts with mountain and [Leonin Scimitar](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leonin+Scimitar).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/976.jpg)
+
+Stephane wins the toss and chooses to play. He starts with mountain and [Leonin Scimitar](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leonin+Scimitar).
 
 Peter just has Tree of Tales and passes turn.
 
@@ -110,7 +112,9 @@ Stephane wished he could play the [Triskelion](https://web.archive.org/web/20031
 
 And except for attacking for 2 with the Skyhunter, nothing happens indeed.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/975.jpg)Peter serves with [Cathodion](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cathodion) and plays the Archers again after topdecking a forest. Stephane plays another land and sits behind his 6 lands and Skyhunter. He is not doing nothing, because the land played is [Stalking Stones](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Stones), so he might be able to activate it when he survives the next attack Peter has in store for him.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gplyo03/975.jpg)
+
+Peter serves with [Cathodion](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cathodion) and plays the Archers again after topdecking a forest. Stephane plays another land and sits behind his 6 lands and Skyhunter. He is not doing nothing, because the land played is [Stalking Stones](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Stones), so he might be able to activate it when he survives the next attack Peter has in store for him.
 
 Peters Army serves for 5 and Stephane activates [Stalking Stones](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Stones) end of turn, but not after Peter played the [Vulshok Battlegear](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulshok+Battlegear). [Triskelion](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Triskelion) is Stephane's next plan. Although he mulliganed [Stalking Stones](https://web.archive.org/web/20031025000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Stones) are left untapped.
 

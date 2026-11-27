@@ -447,7 +447,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/ed/4e/ed4eaebba1b490b23f95c80c46ef6455d9fb66aee8db4bdf94e205f06c63d518.jpg)A Zink made it to the final day of 2004 Worlds, but it wasn't reigning World Champion Daniel Zink. Instead, his twin brother Sebastian saw action Sunday as a member of the German national team. Sitting across from him was Dilson Ramos Da Fonseca of the Belgium team, which had been in the top half of the leaderboard for the entire weekend.
+![](https://i.ormos.uk/ed/4e/ed4eaebba1b490b23f95c80c46ef6455d9fb66aee8db4bdf94e205f06c63d518.jpg)
+
+A Zink made it to the final day of 2004 Worlds, but it wasn't reigning World Champion Daniel Zink. Instead, his twin brother Sebastian saw action Sunday as a member of the German national team. Sitting across from him was Dilson Ramos Da Fonseca of the Belgium team, which had been in the top half of the leaderboard for the entire weekend.
 
 ### Game 1
 

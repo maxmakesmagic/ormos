@@ -77,13 +77,17 @@ render_recovery:
   - Slice and Dice
   occurrences: 29
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a827.jpg)Bob kept three Mountains, a Shock, a Kroasn Tusker, and two morph cards. Boberg's hand wasn't much better either, as he held four land, double Mistform Dreamer and a Lavamancer's Skill. Boberg played a turn three Mistform Dreamer that got shocked. However Bob didn't draw his fourth land, so he played a morph creature and passed the turn. Boberg played out a replacement Mistform. Bob then attacked with his morph creature, that later morphed into a Batterting Craghorn. On Boberg's turn, he played Lavamancer's Skill on the Mistform, then changed its creature's type into wizard and shot the Craghorn. 
+![](http://www.wizards.com/sideboard/images/gpcop02/a827.jpg)
+
+Bob kept three Mountains, a Shock, a Kroasn Tusker, and two morph cards. Boberg's hand wasn't much better either, as he held four land, double Mistform Dreamer and a Lavamancer's Skill. Boberg played a turn three Mistform Dreamer that got shocked. However Bob didn't draw his fourth land, so he played a morph creature and passed the turn. Boberg played out a replacement Mistform. Bob then attacked with his morph creature, that later morphed into a Batterting Craghorn. On Boberg's turn, he played Lavamancer's Skill on the Mistform, then changed its creature's type into wizard and shot the Craghorn. 
 
 That Mistform didn't live long as a shock ended its life. Bob played a morph creature and that morph succeeded in doing a lot of damage and Bob, despite his lack of forests, kept the table on Boberg's side clear with his two Pinpoint Avalanche. 
 
 Maher finally drew his green mana source in the form of Tranquil Thicket. The board was now ten lands to Boberg, 6 lands and a morph creature. Fredrik then drew a creature, played it as a morph and then blocked Bob's morph creature. After the damage on the stack they both morphed up their guys. They turned out to be Charging Slateback and Treespring Lorian, so both died. 
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a825.jpg)Bob Maher then played out Words of War, and skipped all of his draw phase from then on to deal two damage to Boberg every turn. Fredrik had only nine life left at the time so that game was over.
+![](http://www.wizards.com/sideboard/images/gpcop02/a825.jpg)
+
+Bob Maher then played out Words of War, and skipped all of his draw phase from then on to deal two damage to Boberg every turn. Fredrik had only nine life left at the time so that game was over.
 
 Bob 1 – Fredrik 0
 
@@ -91,7 +95,9 @@ Bob kept a three mountains hand. This time however he drew a forest on turn two,
 
 Bob put down the sideboarded Symbiotic Elf. A Mistform Dreamer on Boberg's side wasn't as impressive. Snarling Undorak from Bob gave both players a card. Bob then send his Elf and Savage into the red zone, the Savage was blocked by the Dreamer and they both died. Boberg was holding the Butcher Orgg, waiting for two lands to turn this game around. He drew a land on his turn, but no play, his Imagecrafter and the cloned Savage, and they definitely weren't good blockers against Bob's growing army of beasts. 
 
-![](http://www.wizards.com/sideboard/images/gpcop02/a826.jpg)A Wirewood Elf and a morph creature joined Bob's army. Boberg played a morph card of his own and was still looking for that seventh land to play out his Orgg. The red zone was then filled with blood as Boberg decided to block with his puny creatures. The battle was as followed: Snarling vs. a morph, Symbiotic Elf vs. Goblin Taskmaster, and Morph vs. Cloned Savage. The battle ended, the aftermath was two insect tokens, and the Snarling Undorak on Bob's side, and nothing on Fredrik's. Bob played out one more morph creature, and seemed satisfied with this so far. He knew that Fredrik had the Slice and Dice in the deck, so not overextending was an absolutely good decision. To no one's surprise, Boberg played out the Slice and Dice directly on his turn, taking away all creatures on Bob's side except the pumpable Snarling Undorak. Unfortunately for Boberg, he couldn't follow it up with any creature of his own. On Bob's turn, a Treespring Lorian made an entrance. That destroyed all hope of Boberg to get back into the game, even after he drew his "so-needed-couple-of-turns-ago" land for his Butcher Orgg.
+![](http://www.wizards.com/sideboard/images/gpcop02/a826.jpg)
+
+A Wirewood Elf and a morph creature joined Bob's army. Boberg played a morph card of his own and was still looking for that seventh land to play out his Orgg. The red zone was then filled with blood as Boberg decided to block with his puny creatures. The battle was as followed: Snarling vs. a morph, Symbiotic Elf vs. Goblin Taskmaster, and Morph vs. Cloned Savage. The battle ended, the aftermath was two insect tokens, and the Snarling Undorak on Bob's side, and nothing on Fredrik's. Bob played out one more morph creature, and seemed satisfied with this so far. He knew that Fredrik had the Slice and Dice in the deck, so not overextending was an absolutely good decision. To no one's surprise, Boberg played out the Slice and Dice directly on his turn, taking away all creatures on Bob's side except the pumpable Snarling Undorak. Unfortunately for Boberg, he couldn't follow it up with any creature of his own. On Bob's turn, a Treespring Lorian made an entrance. That destroyed all hope of Boberg to get back into the game, even after he drew his "so-needed-couple-of-turns-ago" land for his Butcher Orgg.
 
 Bob then attacked with his two beasts, Boberg threw his now-not-so-impressive Orgg in front of the Lorian, with a giving up gesture. Bob wanted to make sure so he asked again, "is this how you are going to block?". The answer was a "Yes". Bob then pumped up the Lorian +2/+2, enough to keep himself alive and killed off the Orgg. The match was all over by then, as Boberg looked up and gave Maher the congratulatory handshake. 
 

@@ -461,7 +461,9 @@ I gotta be honest with you: I played today's preview card in my usual Tuesday mu
 
 But that's mostly because they didn't sign the NDA.
 
-![](https://i.ormos.uk/cc/51/cc51c77fade283dd702325ab5a88d8db04bee36005f649349e527e5d6abaf510.jpg)“NDA,” for those of you not in the know, stands for “Non-Disclosure Agreement,” which is Wizards' nice way of saying, “If we show you this card in advance, you promise not to tell anyone else about it.” And if you don't sign the agreement, Wizards does not show you the card. 
+![](https://i.ormos.uk/cc/51/cc51c77fade283dd702325ab5a88d8db04bee36005f649349e527e5d6abaf510.jpg)
+
+“NDA,” for those of you not in the know, stands for “Non-Disclosure Agreement,” which is Wizards' nice way of saying, “If we show you this card in advance, you promise not to tell anyone else about it.” And if you don't sign the agreement, Wizards does not show you the card. 
 
 And neither do I. 
 
@@ -515,7 +517,9 @@ But with every player who joins up, at least one of them is likely not to like t
 
 But *their loss is your gain!* Because once that Akroma, Angel of Wrath or Pristine Angel or other annoyingly-hard-to-kill creature hits the bin, she's fair game for your Body Double!
 
-![](https://i.ormos.uk/19/3f/193feebb96df5cbaa16cbaa3a9686bbfc44edf9229d3b434cf437ff18cabc7b2.jpg)Others worked *hard* to kill that danged creature. And now it's back, working for you. Isn't that nice? 
+![](https://i.ormos.uk/19/3f/193feebb96df5cbaa16cbaa3a9686bbfc44edf9229d3b434cf437ff18cabc7b2.jpg)
+
+Others worked *hard* to kill that danged creature. And now it's back, working for you. Isn't that nice? 
 
 So with this deck, we need a little bit of kill – and since we're already packing red, we should use some red spells to clear the way for our Phage and to pick up potentially good targets for our Body Double. (If we had actual black as opposed to simply a black card, we could use Terminate, but that's not an option here.) So we put in four Seal of Fires and a pair of the X-damage-dealing red spell of your choice – I like the old-school touch of Kaervek's Torch, but you can use Fireball or Blaze or Earthquake or Ghitu Fire or Starstorm or even Rolling Thunder (but not Demonfire or Disintegrate, which could remove the creature from the game, far beyond the reach of Body Double). You might even try Invoke the Firemind, but the mana cost on that frightens me a little in a deck like this (especially when you want an X spell to deal with the creature you can't handle). 
 

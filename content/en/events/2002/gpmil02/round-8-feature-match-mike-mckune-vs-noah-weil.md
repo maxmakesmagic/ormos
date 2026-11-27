@@ -381,7 +381,9 @@ render_recovery:
   - Wax/Wane
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/939.jpg)Noah Weil, hailing from Minnesota, claims to have played the most sanctioned matches of any player in the DCI. He's attended a slew of Pro Tours over the years. He came to the table with a very aggressive green/blue deck, with a touch of white for Mystic Enforcer. Across the table was his friend Mike McKune, who also hails from Minnesota. McKune was packing Psychatog.
+![](http://www.wizards.com/sideboard/images/gpmil02/939.jpg)
+
+Noah Weil, hailing from Minnesota, claims to have played the most sanctioned matches of any player in the DCI. He's attended a slew of Pro Tours over the years. He came to the table with a very aggressive green/blue deck, with a touch of white for Mystic Enforcer. Across the table was his friend Mike McKune, who also hails from Minnesota. McKune was packing Psychatog.
 
 The winner of the match would make Day Two. 
 
@@ -389,7 +391,9 @@ Weil won the roll and took a mulligan, keeping a hand of Yavimaya Coast, 2 Wild 
 
 Weil started off by biting the bullet and using the Yavimaya Coast to drop the Basking Rootwalla. Though unable to draw a land on his second turn, he didn't miss a beat and played a second Basking Rootwalla. McKune was unfazed and played his second land. Weil continued to take the pain and went to 17, casting Careful Study. But he couldn't find a land, and discarded Roar of the Wurm and Circular Logic. 
 
-![](https://i.ormos.uk/8c/f2/8cf2d03f69677e6e41f192bc3d02fe84f6a1f35b6b639ca2cf7f001c877420f3.jpg)The green swarm met its match at the hand of a freshly cast Nightscape Familiar. McKune's hardy little regenerator posed to gum up Weil's works by blocking the Basking Rootwallas and living to tell the tale. But Weil kept his luck up by getting his second land. However, keeping with the trend of paying for every mana he tapped, his land was Cephalid Coliseum. Weil released his first Wild Mongrel and went down to 15, tying the match. 
+![](https://i.ormos.uk/8c/f2/8cf2d03f69677e6e41f192bc3d02fe84f6a1f35b6b639ca2cf7f001c877420f3.jpg)
+
+The green swarm met its match at the hand of a freshly cast Nightscape Familiar. McKune's hardy little regenerator posed to gum up Weil's works by blocking the Basking Rootwallas and living to tell the tale. But Weil kept his luck up by getting his second land. However, keeping with the trend of paying for every mana he tapped, his land was Cephalid Coliseum. Weil released his first Wild Mongrel and went down to 15, tying the match. 
 
 McKune needed to take control of the board now, or he was done for. McKune Fact or Fictioned into a Chainer's Edict, Standstill, and Island, throwing away an Upheaval and Circular Logic. He then used the Edict to axe off a Rootwalla. But Weil kept the pace furious with a Merfolk Looter. He kept swinging away with his army, and discarded his Circular Logic to counter another Fact or Fiction.
 
@@ -397,7 +401,9 @@ After a short but sporadic flurry of Circular Logics and Aether Bursts, Weil was
 
 Noah Weil - Mike McKune 1-0
 
-![](http://www.wizards.com/sideboard/images/gpmil02/942.jpg)Game 2 started off with more mulligans. McKune went down to five cards, Weil down to six. Weil made the first play with a Merfolk Looter, but it was Counterspelled. But Weil wouldn't stop. He made a Merfolk Looter, and tried for a Wild Mongrel, and McKune responded with a Fact or Fiction, leaving one mana open. Weil Dismissed the Fact or Fiction, but McKune paid for it. The dog hit the table.
+![](http://www.wizards.com/sideboard/images/gpmil02/942.jpg)
+
+Game 2 started off with more mulligans. McKune went down to five cards, Weil down to six. Weil made the first play with a Merfolk Looter, but it was Counterspelled. But Weil wouldn't stop. He made a Merfolk Looter, and tried for a Wild Mongrel, and McKune responded with a Fact or Fiction, leaving one mana open. Weil Dismissed the Fact or Fiction, but McKune paid for it. The dog hit the table.
 
 McKune then set his army up by playing a Nightscape Familiar and Psychatog. But Weil trumped him by dropping a Mystic Enforcer, as well as another Wild Mongrel. The Psychatog would not be able to easily break through. McKune tried to Fact or Fiction, but couldn't get an answer to the Enforcer. He did topdeck an Upheaval when he was at 7 life, but a Weil Circular Logic spelled the end.
 

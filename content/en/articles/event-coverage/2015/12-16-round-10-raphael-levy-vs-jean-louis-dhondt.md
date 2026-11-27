@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *By Randy Buehler*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/307.JPG)Raphael Levy and Jean-Louis D'Hondt sat down for round ten with 8-1 records. Each had lost to Noah Boeken, and only to Noah Boeken (who had yet to lose to anyone). The winner of this match should be able to draw in to the Top 8. The match was surprisingly friendly, with both players teasing each other constantly in French. Levy is running Replenish while D'Hondt is playing a Control Black variant with Mishra's Helix, Phyrexian Processor, and significant artifact mana.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/307.JPG)
+
+Raphael Levy and Jean-Louis D'Hondt sat down for round ten with 8-1 records. Each had lost to Noah Boeken, and only to Noah Boeken (who had yet to lose to anyone). The winner of this match should be able to draw in to the Top 8. The match was surprisingly friendly, with both players teasing each other constantly in French. Levy is running Replenish while D'Hondt is playing a Control Black variant with Mishra's Helix, Phyrexian Processor, and significant artifact mana.
 
 D'Hondt used Dark Ritual to play Mishra's Helix on turn four with Peat Bog untapped. Levy was able to play Attunement on his next turn anyway thanks to a Sky Diamond. Levy had practice using his Frantic Searches to get around Mishra's Helix (and Tangle Wire) last round versus Ben Ronaldson's Wildfire deck. Levy used Frantic Search on his fifth turn, dumped 4 things that say "Parallax" on them into the graveyard along with an Opalescence, and then cast Replenish. D'Hondt concedes.
 

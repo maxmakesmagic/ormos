@@ -82,7 +82,9 @@ render_recovery:
   - Soul Scourge
   occurrences: 30
 ---
-![](http://www.wizards.com/sideboard/images/gpkl02/a927.jpg)Street Fighter savvy readers may wish to partake of a comparison spectators made during this match. Akuma is, of course, Akuma, but Thailand's Veerapat Sirilertvorakul was quickly christened "Sagat". Unfortunately for him, it looked like he'd earn that giant scar in his match against Leong. Leong's red-black beatdown seemed tailor-made to beat Sirilertvorakul's black-blue-white control.
+![](http://www.wizards.com/sideboard/images/gpkl02/a927.jpg)
+
+Street Fighter savvy readers may wish to partake of a comparison spectators made during this match. Akuma is, of course, Akuma, but Thailand's Veerapat Sirilertvorakul was quickly christened "Sagat". Unfortunately for him, it looked like he'd earn that giant scar in his match against Leong. Leong's red-black beatdown seemed tailor-made to beat Sirilertvorakul's black-blue-white control.
 
 Leong had a blitzkrieg start: Spark Mage, Barbarian Outcast, and when Sirilertvorakul's Mesmeric Fiend stole Frightcrawler, Leong topdecked Firebolt to free it and cast it. Sirilertvorakul's only rejoinder to this brutality was a Last Rites that stripped Leong of Zombify and Thermal Blast. No biggie.
 

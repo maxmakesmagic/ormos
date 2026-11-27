@@ -56,7 +56,9 @@ Now that you’ve taken the test and had it scored, it’s time to take a look a
 
 Before I begin, though, I’d like to take a moment to talk about the how the test was created. One of the necessary skills for a **Magic** intern is a decent understanding of current **Magic** design. This includes all sorts of things from the color pie to color philosophies to rarity breakdowns to basic design rules. While much of this can be taught, we didn’t want to spend the majority of the six-month internship just getting the intern up to speed.
 
-![Test_of_Endurance](http://archive.wizards.com/magic/images/cardart/JUD/Test_of_Endurance.jpg)We also knew going in that we wanted the test to be hard. Having half the audience get all the question correct wouldn’t be particularly helpful. Because we knew the test was hard, we decided to allow the test takers to miss a not-insignificant number of questions and still advance. That number, of course, turned out to be 5. A score of 30 or better allowed the applicant to advance.
+![Test_of_Endurance](http://archive.wizards.com/magic/images/cardart/JUD/Test_of_Endurance.jpg)
+
+We also knew going in that we wanted the test to be hard. Having half the audience get all the question correct wouldn’t be particularly helpful. Because we knew the test was hard, we decided to allow the test takers to miss a not-insignificant number of questions and still advance. That number, of course, turned out to be 5. A score of 30 or better allowed the applicant to advance.
 
 The test questions were written by fellow designer Devin Low and myself. They were designed to be challenging yet have a definitive correct answer. As we were trying to make it hard, many questions looked for the “more correct” answer. This means that choosing a “correct” answer wasn’t always good enough.
 

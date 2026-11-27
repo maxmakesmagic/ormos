@@ -74,7 +74,9 @@ render_recovery:
   - Threaten
   occurrences: 35
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a771.jpg)William is from Ontario, and qualified through a JSS tournament there. He qualified for Canadian Nationals, but he couldn't attend due to school commitments. "I want to say hello to Wensoi Wong, my girlfriend in Ontario," he commented.
+![](http://www.wizards.com/sideboard/images/natus03/a771.jpg)
+
+William is from Ontario, and qualified through a JSS tournament there. He qualified for Canadian Nationals, but he couldn't attend due to school commitments. "I want to say hello to Wensoi Wong, my girlfriend in Ontario," he commented.
 
 Sam is from Los Angeles, and he qualified for this tournament off of rating, rather than by winning a JSS qualifier. He's had 2 PTQ Top 8s before as well. "Hi to my mom and dad," he said before the match.
 
@@ -86,7 +88,9 @@ It didn't stay long, as William hit the Elephant with a Volcanic Hammer. But Sam
 
 William played another land and attacked with his Rootwalla, walking right into Sam's Rootwalla. Both players opted to pump the Rootwalla to trade. William's next play was a Phantom Centaur, complete with the requisite "I've forgotten my counters" pieces of paper.
 
-![](http://www.wizards.com/sideboard/images/natus03/a772.jpg)When William attacked again, Sam blocked the Llanowar Elf with his Elephant and let the Centaur through. William then flashed back the Firebolt to kill the Elephant. Sam threw a Volcanic Hammer at the Centaur, but William played a Call of the Herd of his own on his next turn. With enough land in play, he flashed it back immediately.
+![](http://www.wizards.com/sideboard/images/natus03/a772.jpg)
+
+When William attacked again, Sam blocked the Llanowar Elf with his Elephant and let the Centaur through. William then flashed back the Firebolt to kill the Elephant. Sam threw a Volcanic Hammer at the Centaur, but William played a Call of the Herd of his own on his next turn. With enough land in play, he flashed it back immediately.
 
 William attacked with both Elephants and the Centaur (which only had one counter on it). Sam blocked with a Llanowar Elf, but he couldn't draw any more creatures, and the game ended shortly after.
 
@@ -98,7 +102,9 @@ Sam began this game with a Wooded Foothills, the sacrificed it to search out a F
 
 Sam played a Phantom Centaur on his third turn, and William's only response was a Call of the Herd. Sam then discarded a forest to make his Wild Mongrel black, and then used his Lavamancer to get rid of William's Lavamancer. 
 
-![](https://i.ormos.uk/28/58/28585c9e1c3b9d065a5d5d10d872f4e9a9b60eb566813467d7c672c97cd9345c.jpg)William played another land and tapped everything. "One, two, one," he said, tapping Violent Eruption on Llanowar Elf, Wild Mongrel, and Lavamancer, all in that order. He repeated it next turn, but couldn't find a way to kill Sam's previously played Phantom Centaur. Sam swung back for more than William could handle, and the game was over quickly.
+![](https://i.ormos.uk/28/58/28585c9e1c3b9d065a5d5d10d872f4e9a9b60eb566813467d7c672c97cd9345c.jpg)
+
+William played another land and tapped everything. "One, two, one," he said, tapping Violent Eruption on Llanowar Elf, Wild Mongrel, and Lavamancer, all in that order. He repeated it next turn, but couldn't find a way to kill Sam's previously played Phantom Centaur. Sam swung back for more than William could handle, and the game was over quickly.
 
 William Chong 1 – Sam Stein 1
 

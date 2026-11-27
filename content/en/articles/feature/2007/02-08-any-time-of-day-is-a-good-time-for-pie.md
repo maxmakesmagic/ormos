@@ -130,7 +130,9 @@ This card concept was a tough one. Redirecting damage is, on some level, prevent
 
 **Hedge Troll**
 
-![hedge_troll](https://i.ormos.uk/f5/70/f570d671f83a3723908e190472d331e3d631039f076e3bb9684c05cb211d7d68.jpg)[Hedge Troll](https://web.archive.org/web/20070208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hedge+Troll) is a real crowd pleaser. The phonetic nod to [Sedge Troll](https://web.archive.org/web/20070208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sedge+Troll) is enough to float the entire boat, but the coolness goes deeper than that. The flavor text is a deft rework of the original, with the added bonus of making sense of the color change both mechanically and creatively. Here’s the [Sedge Troll](https://web.archive.org/web/20070208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sedge+Troll) flavor text, followed by [Hedge Troll](https://web.archive.org/web/20070208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hedge+Troll)’s. 
+![hedge_troll](https://i.ormos.uk/f5/70/f570d671f83a3723908e190472d331e3d631039f076e3bb9684c05cb211d7d68.jpg)
+
+[Hedge Troll](https://web.archive.org/web/20070208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hedge+Troll) is a real crowd pleaser. The phonetic nod to [Sedge Troll](https://web.archive.org/web/20070208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sedge+Troll) is enough to float the entire boat, but the coolness goes deeper than that. The flavor text is a deft rework of the original, with the added bonus of making sense of the color change both mechanically and creatively. Here’s the [Sedge Troll](https://web.archive.org/web/20070208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sedge+Troll) flavor text, followed by [Hedge Troll](https://web.archive.org/web/20070208000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hedge+Troll)’s. 
 
 *The stench in the hovel was overpowering; something loathsome was cooking. Occasionally something surfaced in the thick paste, but my host would casually push it down before I could make out what it was.* 
 

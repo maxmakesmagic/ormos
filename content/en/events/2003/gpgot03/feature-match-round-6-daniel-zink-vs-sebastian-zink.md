@@ -77,7 +77,9 @@ render_recovery:
   - Bonesplitter
   occurrences: 23
 ---
-![](https://i.ormos.uk/b3/9f/b39f192fa94e285a9de1eae908f1cfb412d8e86a1cd7ef71b4f702b58854f718.jpg)I dunno, sometimes you travel all the way to Sweden only to end up being paired against your brother.
+![](https://i.ormos.uk/b3/9f/b39f192fa94e285a9de1eae908f1cfb412d8e86a1cd7ef71b4f702b58854f718.jpg)
+
+I dunno, sometimes you travel all the way to Sweden only to end up being paired against your brother.
 
 In a twist of fate round 6 saw the two Zink brothers from Germany paired up against each other. Sebastian didn’t feel too confident about this matchup. When your brother is the current World Champion this is understandable, but they’d also played each other for practice during the byes and Daniel was 5-1 up.
 
@@ -89,7 +91,9 @@ Sebastian Zink 1-0 Daniel Zink
 
 “I’m confident I can get lucky one more time.” – Sebastian.
 
-![](https://i.ormos.uk/99/ba/99ba3ec5c13cc9a41bfc1451a1f03ed628e519eed86d87e6f303accee962e44d.jpg)“I think you should mulligan that hand,” Sebastian said as they started game 2. He could have been right as Daniel didn’t cast a creature until a Tel-Jilad Exile appeared on turn 4. But as he’d brought out Vulshok Battlegear the turn before the Troll was still a substantial threat.
+![](https://i.ormos.uk/99/ba/99ba3ec5c13cc9a41bfc1451a1f03ed628e519eed86d87e6f303accee962e44d.jpg)
+
+“I think you should mulligan that hand,” Sebastian said as they started game 2. He could have been right as Daniel didn’t cast a creature until a Tel-Jilad Exile appeared on turn 4. But as he’d brought out Vulshok Battlegear the turn before the Troll was still a substantial threat.
 
 Sebastian was happily smashing back through the skies with a Scimitar-equipped Skyhunter Cub. A Scythe of the Wretched appeared and made a Soldier Replica bigger.  
  From here it started to go wrong as a Terror took down the Cub and then a Rustspore Ram smashed the Scythe.
@@ -100,7 +104,9 @@ The game wasn’t looking good for Sebastian. He was on 5 life and Daniel had bo
 
 An attack back with the big Troll took Daniel down to 6 and suddenly it was developing into a nail-biter with the life totals standing at 6-4. Despite the lower life total it was Sebastian who looked to have the advantage as he summoned a Fangren Hunter.
 
-![](https://i.ormos.uk/3c/17/3c17b96b9f3be755329b2513a8342f281596430f82a53b90f2b627ba0427b5ec.jpg)Next turn the big green monsters steamed in. Daniel tried to put the equipped Ram in the way of the Hunter only for an Electrostatic Bolt to finish it off. Now Daniel was facing down the regenerating big green monsters with nothing. He used a Moriok Scavenger to mount some kind of defence. A top-decked Bonesplitter inflicted the final indignity as an equipped Myr squeaked round the edges to inflict the final damage.
+![](https://i.ormos.uk/3c/17/3c17b96b9f3be755329b2513a8342f281596430f82a53b90f2b627ba0427b5ec.jpg)
+
+Next turn the big green monsters steamed in. Daniel tried to put the equipped Ram in the way of the Hunter only for an Electrostatic Bolt to finish it off. Now Daniel was facing down the regenerating big green monsters with nothing. He used a Moriok Scavenger to mount some kind of defence. A top-decked Bonesplitter inflicted the final indignity as an equipped Myr squeaked round the edges to inflict the final damage.
 
 And that’s how the battle of the Zink brothers was won. With a Myr carrying an axe.
 

@@ -109,7 +109,9 @@ render_recovery:
   - Nomad Mythmaker
   occurrences: 65
 ---
-![](http://www.wizards.com/sideboard/images/ptbos02/a870.jpg)The success of Canada's 2020 comes as a surprise to everyone, including its members. Not that they're stumbling into their first success. David Rood is one of Canada's rising stars, with a Top 8 at this year's Nationals and strong showings across the North American Grand Prix circuit. He's brought out the best in Steve Wolfman and Elijah Pollock, two on again, off again Pro Tour players.
+![](http://www.wizards.com/sideboard/images/ptbos02/a870.jpg)
+
+The success of Canada's 2020 comes as a surprise to everyone, including its members. Not that they're stumbling into their first success. David Rood is one of Canada's rising stars, with a Top 8 at this year's Nationals and strong showings across the North American Grand Prix circuit. He's brought out the best in Steve Wolfman and Elijah Pollock, two on again, off again Pro Tour players.
 
 They're sitting across from some of The Netherlands's finest. Jelger Wiegersma you might remember from his Top 4 at New Orleans last year. Victor van der Broek showed his mettle with a 6-0 Day 1 at Worlds, and recently finished third at Euros. As for Karsten, his teammates say without hyperbole that he is a talent powder keg just waiting to explode.
 
@@ -131,7 +133,9 @@ While Karsten pulled more one-toughness guys, Wolfman turned over Treacherous We
 
 Van der Broek's second game didn't go quite according to plan. While Rood curved up to Mirror Wall, van der Broek stopped playing lands after three. Rood's draw let him minimize van der Broek's chances at number four. It was over in under four minutes.
 
-![](https://i.ormos.uk/b5/34/b534f2cd55f18b4cefc3027c049df8c9866a2c6848d7a2469b48c256e1ae5115.jpg)Karsten had no option but to drop his hand, mediocre though it was: Two Torturers, Nantuko Tracer and Boneshard Slasher, tapping him out exactly. Wolfman dropped a Torturer at end of turn, untapped, and swung with just the Werewolf. The Tracer chumped. Wolfman permitted himself a small smile as he tapped six for Giant Warthog. Karsten's Torturer took out Wolfman's, and he killed the Slasher to stay alive. Karsten's Crypt Creeper and Anurid Swarmsnapper looked impressive, but since non-trample damage gets assigned before trample damage, Wolfman rode the pig to victory.
+![](https://i.ormos.uk/b5/34/b534f2cd55f18b4cefc3027c049df8c9866a2c6848d7a2469b48c256e1ae5115.jpg)
+
+Karsten had no option but to drop his hand, mediocre though it was: Two Torturers, Nantuko Tracer and Boneshard Slasher, tapping him out exactly. Wolfman dropped a Torturer at end of turn, untapped, and swung with just the Werewolf. The Tracer chumped. Wolfman permitted himself a small smile as he tapped six for Giant Warthog. Karsten's Torturer took out Wolfman's, and he killed the Slasher to stay alive. Karsten's Crypt Creeper and Anurid Swarmsnapper looked impressive, but since non-trample damage gets assigned before trample damage, Wolfman rode the pig to victory.
 
 2020 2 - www.star-maker.nl/lap 0
 

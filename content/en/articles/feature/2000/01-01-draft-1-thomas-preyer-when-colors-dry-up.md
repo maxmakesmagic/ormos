@@ -75,7 +75,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/212.jpg)Pod One of the draft was not the most impressive pod at this year's worlds, but it was none the less, respectable including names like Chris Benafel, Thomas Preyer and Frank Karsten.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/212.jpg)
+
+Pod One of the draft was not the most impressive pod at this year's worlds, but it was none the less, respectable including names like Chris Benafel, Thomas Preyer and Frank Karsten.
 
 The draft began pretty well for Thomas, opening a Sever Soul, then being passed a second. He made a third pick Blockade Runner, then in booster four took a Bog Smugglers. Boosters 5 and 6 brought him a Legate and a Balloon Peddler, but all the while he was passing solid white cards to Frank Karsten on his left. He took an 8th and 9th pick Cateran Persuader, and at the end of Booster 1, looked fairly happy with the Black/Blue he had drafted. Frank was looking to go Black White after his first pick Enforcer and Edward Fear on his right looked to have some very solid Red and Green cards.
 

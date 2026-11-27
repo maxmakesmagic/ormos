@@ -78,7 +78,9 @@ render_recovery:
   - Patron of the Wild
   occurrences: 23
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a910.jpg)At 6-2 at this point these two can't real afford extra slip-ups. Although this is not a do-or-die round the loser will almost certainly need to ace the remaining rounds.
+![](http://www.wizards.com/sideboard/images/euro03/a910.jpg)
+
+At 6-2 at this point these two can't real afford extra slip-ups. Although this is not a do-or-die round the loser will almost certainly need to ace the remaining rounds.
 
 ### Game 1
 
@@ -92,7 +94,9 @@ Tomcani knew he had to move before Anton's creatures started pouring in. He play
 
 Carbonize took the Squad totally out of the picture and Extra Arms gave the Brawler some extra skills. The Elite-Stinger team went to work as Anton Jonsson worked to control of the Red Zone.
 
-![](http://www.wizards.com/sideboard/images/euro03/a912.jpg)It seemed Tomcani was out of it. His opponent had just laid out Crowd's Favorite and the Elite-Stinger combo was killing a creature per turn. Noticed how I wrote "It seemed"?
+![](http://www.wizards.com/sideboard/images/euro03/a912.jpg)
+
+It seemed Tomcani was out of it. His opponent had just laid out Crowd's Favorite and the Elite-Stinger combo was killing a creature per turn. Noticed how I wrote "It seemed"?
 
 Well, before the Favorite could finish the job Tomcani had one final opening. And he had the Enrage to power his remaining creature for just enough to snatch victory from the White jaws of almost certain defeat.
 
@@ -108,7 +112,9 @@ Tomcani unmorphed Sootfeather Flock to fly above the blockers and brought Jonsso
 
 The Slovakian had six creatures, Jonsson had four blockers and eight mana (six untapped when the fourth blocker came into play). Tomcani seemed a bit surprised when Jonsson decided not to tap anyone on the following attack.
 
-![](http://www.wizards.com/sideboard/images/euro03/a911.jpg)He redid the math a couple of times, stared at the two cards in Jonsson's hand and attacked with only two creatures. Cloudreach Cavalry took out the flock and Jonsson fell to seven (from Gluttonous Zombie).
+![](http://www.wizards.com/sideboard/images/euro03/a911.jpg)
+
+He redid the math a couple of times, stared at the two cards in Jonsson's hand and attacked with only two creatures. Cloudreach Cavalry took out the flock and Jonsson fell to seven (from Gluttonous Zombie).
 
 On the next turn the super-tapper started working on the Fear-powered Zombie, keeping it out of the Red Zone. The turns dragged on as Tomcani tried to find a way to finish the game and Jonsson tried to build a army large enough to hold the Slovakian and go in for the seventeen points of damage.
 

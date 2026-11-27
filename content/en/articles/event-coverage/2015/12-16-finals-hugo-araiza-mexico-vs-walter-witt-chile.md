@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/858.jpg)As the first Grand Prix in Argentina is finally winding down, it is a diverse group of players from all over South American, rather than a handful of North American pros that are competing for the title. The final match came down to the matchup between combo and land destruction. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPBA00/858.jpg)
+
+As the first Grand Prix in Argentina is finally winding down, it is a diverse group of players from all over South American, rather than a handful of North American pros that are competing for the title. The final match came down to the matchup between combo and land destruction. 
 
 Hugo "Ocho" Araiza from Mexico is playing a Pandemonium-Saproling Burst deck commonly known as "Blackjack" or "21". When two of those cards are in play, it is possible to immediately deal 21 points of damage via Pandemonium, by removing counters off the Burst one at a time, hence the name. A similar deck won Grand Prix: Sydney a week ago. 
 

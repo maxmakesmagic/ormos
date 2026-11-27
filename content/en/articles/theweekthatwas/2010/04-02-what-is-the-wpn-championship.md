@@ -135,7 +135,9 @@ I asked Scott to explain what each of the levels in the WPN entail and how an Or
 
 "To be a Gateway location you need to contact us and say you want to join the WPN and then you can schedule an event that can be displayed in the Event Locator. It can be anything. It can just be an 8-person Booster Draft. Then you are a Gateway. It is really easy. At that point you can run Launch Parties," said Scott as he ticked off the different levels. "To become Core you need to do some stuff in a 12-month period. You need to upload at least four events and in those events you need to get at least 30 unique players playing in them. And then one of those events has to have at least 12 players in it. You also have to sign up six new players to the DCI. If you can do all that you can be Core. You are not just having the same eight people every week and are actively trying to get new players playing."
 
-![](http://wizards.com//mtg/images/daily/twtw/twtw84_roeLogo.jpg)"To get to Advanced you need to have run 20 events, have 100 unique players, and one of the events has to have at least 32 players. You also need to have 20 new people signed up. These guys are really good. They are running lots of events, big events, they are turning in all their paperwork, and they are drawing in new people into the DCI."
+![](http://wizards.com//mtg/images/daily/twtw/twtw84_roeLogo.jpg)
+
+"To get to Advanced you need to have run 20 events, have 100 unique players, and one of the events has to have at least 32 players. You also need to have 20 new people signed up. These guys are really good. They are running lots of events, big events, they are turning in all their paperwork, and they are drawing in new people into the DCI."
 
 Scott concluded the interview by pointing out that there were two blacked-out weekends for the Qualifiers and included a little teaser about an upcoming announcement about a **Magic** program.
 
@@ -145,7 +147,9 @@ You can find out more about WPN Championship Qualifiers [here](https://web.archi
 
 [![](http://wizards.com//mtg/images/daily/twtw/twtw84_wpnHeader.jpg)](http://www.gryfaliasaerie.com/)  
 
-![](http://wizards.com//mtg/images/daily/twtw/twtw84_ken.jpg)Ken Roth is the owner/operator/Advanced organizer of Gryfalia's Aerie in Bloomington, Illinois. He is also someone who knows a thing or two about the Pro Tour having played in the second Pro Tour ever run and judging at many more after that as a Level 3 Judge. He had thought he was retired from the game but when he found that all the stores in town had closed their doors he jumped back in with two feet just over three years ago. He will be running a WPN Championship Qualifier at his shop on May 1st.
+![](http://wizards.com//mtg/images/daily/twtw/twtw84_ken.jpg)
+
+Ken Roth is the owner/operator/Advanced organizer of Gryfalia's Aerie in Bloomington, Illinois. He is also someone who knows a thing or two about the Pro Tour having played in the second Pro Tour ever run and judging at many more after that as a Level 3 Judge. He had thought he was retired from the game but when he found that all the stores in town had closed their doors he jumped back in with two feet just over three years ago. He will be running a WPN Championship Qualifier at his shop on May 1st.
 
 **BDM:** How did you get involved in running **Magic** tournaments?
 

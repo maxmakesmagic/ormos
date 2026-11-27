@@ -173,7 +173,9 @@ render_recovery:
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpnag04/r6osamu_fujita.JPG)続いて鍛冶先攻。サイドボーディングに少し迷いを見せるのは仕方のないところなのか。必要なカードはあるが土地に不安を抱える初手に、鍛冶はまた悩む。結局、マリガンを選択。
+![](http://www.wizards.com/sideboard/images/gpnag04/r6osamu_fujita.JPG)
+
+続いて鍛冶先攻。サイドボーディングに少し迷いを見せるのは仕方のないところなのか。必要なカードはあるが土地に不安を抱える初手に、鍛冶はまた悩む。結局、マリガンを選択。
 
 6枚の鍛冶と7枚の藤田の第2ゲームは、《スカークの探鉱者/Skirk Prospector》《ゴブリンのそり乗り/Goblin Sledder》と軽快な展開。鍛冶は第3ターンに《霊体の地滑り/Astral Slide》によってコントロールの土台を築こうとするが、これを見て藤田は《ゴブリンのそり乗り/Goblin Sledder》をマナに変換しての《焦熱の火猫/Blistering Firecat》強襲。さらに《真面目な身代わり/Solemn Simulacrum》を出すのみの鍛冶に対し、《硫黄の渦/Sulfuric Vortex》を設置して《火山の鎚/Volcanic Hammer》の連打で迫る。
 

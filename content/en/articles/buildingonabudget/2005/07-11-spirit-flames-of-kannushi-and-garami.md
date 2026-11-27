@@ -735,7 +735,9 @@ Based on the Message Boards commentary from [my last article](/en/articles/build
 
 <table><tbody><tr><td colspan="3"><b> Which deck is JMS going to play and change next?</b></td>&#10;</tr>&#10;<tr><td>Spirit Flames</td>&#10;<td>2347</td>&#10;<td>29.9%</td>&#10;</tr>&#10;<tr><td>Truth Seekers</td>&#10;<td>1966</td>&#10;<td>25.0%</td>&#10;</tr>&#10;<tr><td>Soratami's Wisdom</td>&#10;<td>1864</td>&#10;<td>23.7%</td>&#10;</tr>&#10;<tr><td>Critical Mass</td>&#10;<td>1672</td>&#10;<td>21.3%</td>&#10;</tr>&#10;<tr><td><b>Total</b></td>&#10;<td><b>7849</b></td>&#10;<td><b>100.0%</b></td>&#10;</tr>&#10;</tbody></table>
 
-![](https://i.ormos.uk/eb/f4/ebf4f6ffc983875c9edbda4471e5e5ad2e933305c07aa27d5e66ca747016980f.jpg)That's right, the focus of the next three weeks will be on the otherworldly aggression of Spirit Flames (apparently the Spirit Flames fans aren't Boards posters). It's nice to know that Green finally received some love from all of you voter-types. This will be the first time I've seriously dealt with Spirit and Arcane interactions, too, which should be fun.
+![](https://i.ormos.uk/eb/f4/ebf4f6ffc983875c9edbda4471e5e5ad2e933305c07aa27d5e66ca747016980f.jpg)
+
+That's right, the focus of the next three weeks will be on the otherworldly aggression of Spirit Flames (apparently the Spirit Flames fans aren't Boards posters). It's nice to know that Green finally received some love from all of you voter-types. This will be the first time I've seriously dealt with Spirit and Arcane interactions, too, which should be fun.
 
 It's been over a month since my last foray, so for those of you unfamiliar with my preconstructed deck approach, here are the Guidelines:
 

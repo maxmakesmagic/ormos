@@ -44,7 +44,9 @@ archive_source:
   sha256: e736eb091062c865ea62e4eb159079755b67c9b3f2685c2f063ac22e846dfbbd
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm10_1.jpg)When people talk about the best French players in the Pro Tour right now, they invariably mention younger players like Gabriel Nassif. But there is a whole legion of older players who, despite not getting as large a spotlight as the young bloods, have been a constant force in the European circuit and the Pro Tour as well.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpmun03/fm10_1.jpg)
+
+When people talk about the best French players in the Pro Tour right now, they invariably mention younger players like Gabriel Nassif. But there is a whole legion of older players who, despite not getting as large a spotlight as the young bloods, have been a constant force in the European circuit and the Pro Tour as well.
 
 Hamon's name is probably on everyone's mind right now. He is not only one of the players responsible for turning [Mana Severance](https://web.archive.org/web/20031207000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Severance) into a case rare, but also can take credit for turning the last Extended Pro Tour into a massive goldfish race. Courtois' name might not have the same recognition but he is widely respected as a deckbuilder. Anyone who kept an eye on the decklists that pop up at Grand Prix or Pro Tour events has probably seen a deck built by Frederic Courtois.
 

@@ -69,7 +69,9 @@ render_recovery:
 
 The 2007 Switzerland National team features a bevy of names which those who pay attention to the tournament circuit will recognize. All four players have seen Top 8 action on the Grand Prix level with Manuel Bucher leading the way with two and Christoph Huber, Nico Bohny, and Rafael Gennari each making the final elimination rounds once in their careers. Prior to the 2007 World Championships, only Raphael Gennari had seen Pro Tour Top 8 action after reaching the final rounds in 2001's Pro Tour¬–New Orleans. This weekend Christoph Huber joined him with that distinction after piloting his way through 16 rounds of Worlds individual competition to earn a slot at the final table.
 
-![](https://www.wizards.com/sideboard/images/worlds07/Switzerland.jpg)The team also seemed to congeal well playing Two-Headed Giant as they smashed through the field to the tune of a 4-1-1 record. Their only non-wins? They came by the hand of the Austrian team who will naturally square off against them at the table on Sunday. So how much preparation did the Swiss do for the event?
+![](https://www.wizards.com/sideboard/images/worlds07/Switzerland.jpg)
+
+The team also seemed to congeal well playing Two-Headed Giant as they smashed through the field to the tune of a 4-1-1 record. Their only non-wins? They came by the hand of the Austrian team who will naturally square off against them at the table on Sunday. So how much preparation did the Swiss do for the event?
 
 "We did two drafts the day before Worlds," explained Christoph. When asked who they drafted with, Huber hesitated but when his friends just laughed he sheepishly confessed "Well, we each represented a single Giant while drafting."
 
@@ -93,7 +95,9 @@ Will the Swiss team be able to overcome their early troubles with the Austrian t
 
 While the Swiss rode high at the top of the standings all day at the Worlds Teams competition, it has been a slightly rockier road for the Austrians, who had to fight in what was a very close race for the other place in the finals.
 
-![](https://www.wizards.com/sideboard/images/worlds07/Austria.jpg)It is a team well equipped to do it. The Austrian National Champion, Thomas Preyer, got his taste of a Pro Tour Top 8 when he finished 2nd at Pro Tour–London in 1999. Throw in three Grand Prix Top 8s and you have a worthy champion. 
+![](https://www.wizards.com/sideboard/images/worlds07/Austria.jpg)
+
+It is a team well equipped to do it. The Austrian National Champion, Thomas Preyer, got his taste of a Pro Tour Top 8 when he finished 2nd at Pro Tour–London in 1999. Throw in three Grand Prix Top 8s and you have a worthy champion. 
 
 As teammates go, Helmut Summersberger, who finished second at Austrian Nationals, is about as good as anyone could wish for. Currently Level 5, and having secured Level 4 for 2007 with his team's performance Saturday, Helmut made Top 8 of the World Championships in 2000, and has a pair of Grand Prix wins (Lille and Barcelona). He is particularly adept at team competitions, having finished eighth at Grand Prix–San Francisco, and fifth at Charleston. Truly this is the definition of the guy you want on your team. 
 

@@ -447,7 +447,9 @@ render_recovery:
 ---
 ### Michael Pustilnik vs. Eugene Harvey
 
-![](http://www.wizards.com/sideboard/images/gpana03/fm4_1.jpg)Michael Pustilnik has been traveling a lot of late. He was just at Grand Prix: Munich where he just missed making Day Two in a grueling round nine feature match. Mike is qualified for Pro Tour Amsterdam but will fall off the train before it pulls into the Kobe station unless he picks up an invitation here or five Pro Tour points between now and then. Mike was playing with a variant of the deck he last used to win a Grand Prix-The Rock.
+![](http://www.wizards.com/sideboard/images/gpana03/fm4_1.jpg)
+
+Michael Pustilnik has been traveling a lot of late. He was just at Grand Prix: Munich where he just missed making Day Two in a grueling round nine feature match. Mike is qualified for Pro Tour Amsterdam but will fall off the train before it pulls into the Kobe station unless he picks up an invitation here or five Pro Tour points between now and then. Mike was playing with a variant of the deck he last used to win a Grand Prix-The Rock.
 
 Eugene is debatably the most highly regarded member of CMU/TOGIT-easily a two way debate this weekend between him an Osyp with Mike Turian and Gary Wise absent. He has done well at his last few Pro Tours and the man known as Eubroken was playing with a deck that defeated him the last time he made the Top 8 of a Pro Tour-George W. Bosh.
 

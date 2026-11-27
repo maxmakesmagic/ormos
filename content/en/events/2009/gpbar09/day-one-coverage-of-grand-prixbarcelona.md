@@ -188,7 +188,9 @@ render_recovery:
   - Plains
   occurrences: 512
 ---
-![](https://i.ormos.uk/a9/f0/a9f083668affa788a3c5b43e5bb4c41f15634df6b510bb85095927bad71b4699.jpg)Day one of the Grand Prix Barcelona is at an end! 
+![](https://i.ormos.uk/a9/f0/a9f083668affa788a3c5b43e5bb4c41f15634df6b510bb85095927bad71b4699.jpg)
+
+Day one of the Grand Prix Barcelona is at an end! 
 
 With 1,495 players, Barcelona has hosted the largest constructed Magic tournament of all time, and we’ve had a wild ride. Standard is the hot format of the moment, with PTQs and Nationals qualifiers making it important to players of every level. Coming into the weekend, Black White tokens was the most hotly tipped deck of the moment. While it was certainly well represented, one of the interesting stories of day one was how few pros seemed to have taken to the deck. A whole variety of decks started the day, and it look like this is something that has carried through to Sunday. 
 

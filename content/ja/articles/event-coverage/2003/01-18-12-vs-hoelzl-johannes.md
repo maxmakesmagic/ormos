@@ -44,7 +44,9 @@ archive_source:
   sha256: 07b1e24677a484b7d18b862c684bed65b0d3642d90a383461b893ad3bd6d8177
 render_recovery: []
 ---
-![](https://i.ormos.uk/a3/0b/a30b3737e6ea01b55162ace625ec6ecc2741875d1a58a6386d3aa072273c6416.jpg)ここにきて得意の粘り腰で本領発揮をし始めた真木。ドラフトしたデッキもなかなか良く本人曰く「ゴッドデッキから逃げ切ることができれば」とのこと。2体の《魂無き者[/Soulless One](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=%2FSoulless+One)》を中核としたゾンビ・ビーストの黒緑デッキ。ちなみにゾンビは全部で10体。対戦相手との協力プレイが期待される感じである。
+![](https://i.ormos.uk/a3/0b/a30b3737e6ea01b55162ace625ec6ecc2741875d1a58a6386d3aa072273c6416.jpg)
+
+ここにきて得意の粘り腰で本領発揮をし始めた真木。ドラフトしたデッキもなかなか良く本人曰く「ゴッドデッキから逃げ切ることができれば」とのこと。2体の《魂無き者[/Soulless One](https://web.archive.org/web/20030118000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=%2FSoulless+One)》を中核としたゾンビ・ビーストの黒緑デッキ。ちなみにゾンビは全部で10体。対戦相手との協力プレイが期待される感じである。
 
 果たして過酷な三連戦の初戦を白星で飾ることができるのだろうか？
 

@@ -71,7 +71,9 @@ Après avoir étudié leurs deux decks respectifs, (Alexandre joue un deck noir 
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/natfra03/a924.jpg)Alexandre fait son second mulligan du week-end (auquel Olivier répond par son premier), et fais Ombre Nantuko tour 2 , avec laquelle il mettra Olivier à 11, le temps que celui-ci pioche sur Analyse, s'installe et fasse une colère . Une Muse finit par arriver en jeu du côté d'Alexandre après un memory lapse. Elle s'en va sur une deuxième colère d'Olivier, qui après une longue hésitation fais contresort sur un Misérable Loqueteux, enchaîne sur Mirari, et au tour suivant une troisième Colère sur Muse ,revenue grâce à Grotte Impie. Il prend ensuite clairement l'avantage en copiant un Souhait Rusé , allant chercher une Opportunité et une Logique pour la muse. A la fin du tour suivant d'Alexandre, Olivier pioche 8 cartes, et pose 2 Mirari's Wake lors du sien . Alexandre concède lorsque Olivier copie un Souhait pour aller chercher un Flash of Insight et un Souhait .
+![](http://www.wizards.com/sideboard/images/natfra03/a924.jpg)
+
+Alexandre fait son second mulligan du week-end (auquel Olivier répond par son premier), et fais Ombre Nantuko tour 2 , avec laquelle il mettra Olivier à 11, le temps que celui-ci pioche sur Analyse, s'installe et fasse une colère . Une Muse finit par arriver en jeu du côté d'Alexandre après un memory lapse. Elle s'en va sur une deuxième colère d'Olivier, qui après une longue hésitation fais contresort sur un Misérable Loqueteux, enchaîne sur Mirari, et au tour suivant une troisième Colère sur Muse ,revenue grâce à Grotte Impie. Il prend ensuite clairement l'avantage en copiant un Souhait Rusé , allant chercher une Opportunité et une Logique pour la muse. A la fin du tour suivant d'Alexandre, Olivier pioche 8 cartes, et pose 2 Mirari's Wake lors du sien . Alexandre concède lorsque Olivier copie un Souhait pour aller chercher un Flash of Insight et un Souhait .
 
 ### Game 2
 

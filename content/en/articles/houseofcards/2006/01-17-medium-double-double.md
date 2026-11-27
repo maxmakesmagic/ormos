@@ -761,7 +761,9 @@ To me, though, that's boring. Yawn. Double yawn. The problem is that Saproling B
 
 ### Drover Crazy
 
-![](https://i.ormos.uk/2b/0d/2b0d4e831e332dcbccbcd90c96085ac370271f9c5a980150f0c7bf6054b76522.jpg)Twilight Drover, Sekki, Seasons' Guide, and Baku Altar are three of the, by my count, twelve cards that have counters and also make creature tokens. (The others are the aforementioned Saproling Burst, Tetravus, Pentavus, Thopter Squadron, Lightning Coils, Spawning Pit, Spike Breeder, Orochi Hatchery, and the *Guildpact* card Mark Rosewater previewed last week, Ulasht, the Hate Seed). 
+![](https://i.ormos.uk/2b/0d/2b0d4e831e332dcbccbcd90c96085ac370271f9c5a980150f0c7bf6054b76522.jpg)
+
+Twilight Drover, Sekki, Seasons' Guide, and Baku Altar are three of the, by my count, twelve cards that have counters and also make creature tokens. (The others are the aforementioned Saproling Burst, Tetravus, Pentavus, Thopter Squadron, Lightning Coils, Spawning Pit, Spike Breeder, Orochi Hatchery, and the *Guildpact* card Mark Rosewater previewed last week, Ulasht, the Hate Seed). 
 
 Pentavus doesn't need Doubling Season to be completely ridiculous. Baku Altar, on the other hand, can use all the help it can get. While the deck is almost strictly better with four Spawning Pits in place of the Baku Altars (with a Doubling Season and a creature in play to sacrifice, Spawning Pit basically reads: ![1 Mana](https://i.ormos.uk/6b/4c/6b4cf558eab279fb9414f146ebdd0e0705ec92984fec530597dd2a3bce43ce24.gif): Put a 2/2 Spawn artifact creature token into play), the Baku Altars fit the Spirit theme better and allow me to keep the deck Standard legal.
 
@@ -801,7 +803,9 @@ When I took this position, as faithful steward of House of Cards, I felt a great
 
 To prove that I was a sufficiently nutty whackjob, or wacky nutjob, I would need something possessed by *all* crazy weirdoes: a legion of diminutive minions. Seriously, just look at history: Santa Claus has his Elves. Willy Wonka has the Oompa Loompas. C-3PO was worshipped as a god by the Ewoks.
 
-![](https://i.ormos.uk/45/0a/450a2eb5f9043801b3b893b57666124c7e76393c22c442ea1c9b611651c365d6.jpg)What about me, you ask? What have I got? Other than a propensity for using unnecessarily ostentatious vocabulary? I don't know. How about beavers? (Hey, I'm Canadian, what other kind of minions could I possibly have? Curlers?)
+![](https://i.ormos.uk/45/0a/450a2eb5f9043801b3b893b57666124c7e76393c22c442ea1c9b611651c365d6.jpg)
+
+What about me, you ask? What have I got? Other than a propensity for using unnecessarily ostentatious vocabulary? I don't know. How about beavers? (Hey, I'm Canadian, what other kind of minions could I possibly have? Curlers?)
 
 Okay, I'm kidding. I don't really have any minions - though I'm taking applications - and I'm certainly not some kind of evil overlord. We'll leave that to others. But if I *was* evilly lording it over something, it'd definitely be beavers. Just 'cause they're all over the place up here. Swarms of them. Like locusts, except furrier and more aquatic. 
 

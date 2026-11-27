@@ -460,7 +460,9 @@ It's a clever idea, and I definitely take my hats off to whoever came up with th
 
 ### The Basics (and then a little more)
 
-![](https://i.ormos.uk/2b/2c/2b2ced89b7b2cf47fbd1d39a6af04e35f17a303703c66a4791c90b2e1d832db8.jpg)When we look at Echoing Truth's ability, it starts out as quite straightforward: return a non-land to the owner's hand, and then return all permanents with that name as well. For the most part, since it can't return a land, it starts out as a weaker Boomerang. To make the most of the card, you really have to be making the most of the “return them all” feature.
+![](https://i.ormos.uk/2b/2c/2b2ced89b7b2cf47fbd1d39a6af04e35f17a303703c66a4791c90b2e1d832db8.jpg)
+
+When we look at Echoing Truth's ability, it starts out as quite straightforward: return a non-land to the owner's hand, and then return all permanents with that name as well. For the most part, since it can't return a land, it starts out as a weaker Boomerang. To make the most of the card, you really have to be making the most of the “return them all” feature.
 
 Still, just starting at the basics, it's obvious you can use the card to save something that is going to be destroyed. If your opponent is going to take something of yours out, you can make it not happen (ho hum). At least a little bit more exciting is when you get to use a creature in combat to kill another creature, but save your own by bouncing it out of harm's way. Of course, that leads me to quickly imagine a dream block: my 3 Frogmites block a pair of Goblin Piledrivers and a Goblin Warchief, and with damage on the stack I save all of my little froggies.
 
@@ -474,7 +476,9 @@ The nice thing about all of these tokens (at least as far as Echoing Truth is co
 
 ### 187
 
-![](https://i.ormos.uk/58/e4/58e449dd180b2ee4d8b90ec529620c9d5559dd80da474db49dce4d6684b72994.jpg)For years now, **Magic** slang has come up with some doozies, but one of my personal favorites has always been 187. The first time I heard the term was back in *Mirage*-Block (“MirvLite”, as it was called at the time) after the printing of Nekrataal. As any avid fan of gangster rap might know, the police code “187” was the code for murder. At some point, this slipped into the **Magic** lexicon, with cries of “my Nekrataal 187s your River Boa” and other such fun stuff. Soon the **Magic** 187 came to mean any creature that came into play to blow stuff up, from Uktabi Orangutan to Cloudchaser Eagle. 
+![](https://i.ormos.uk/58/e4/58e449dd180b2ee4d8b90ec529620c9d5559dd80da474db49dce4d6684b72994.jpg)
+
+For years now, **Magic** slang has come up with some doozies, but one of my personal favorites has always been 187. The first time I heard the term was back in *Mirage*-Block (“MirvLite”, as it was called at the time) after the printing of Nekrataal. As any avid fan of gangster rap might know, the police code “187” was the code for murder. At some point, this slipped into the **Magic** lexicon, with cries of “my Nekrataal 187s your River Boa” and other such fun stuff. Soon the **Magic** 187 came to mean any creature that came into play to blow stuff up, from Uktabi Orangutan to Cloudchaser Eagle. 
 
 These effects are incredibly powerful. Flametongue Kavu, for example, was so powerful that he wiped out an entire class of creatures from competitive play. (For those not in the know, that class of creatures was anything that cost 5 or more mana that he could kill. He was such a widespread creature that old-time favorites like Serra Angel and new-fangled cards like Tahngarth just didn't get to see play.) By bouncing these cards for reuse, you're already doing something pretty exciting, but if you manage to be able to return two or three of them, it's incredibly exciting (especially if they managed to get damage on another creature to kill it).
 
@@ -501,7 +505,9 @@ There is just a lot of fun stuff going on here. Echoing Truth really shines here
 
 ### Shaking a Stick
 
-![](https://i.ormos.uk/0c/b7/0cb7d4e402f42c4e7faf2ff692d69b8ec75982e7dcdda60539a7c4965ebab557.jpg)Imprinting Echoing Truth is also a really great use for the card. Imprint is probably *Mirrodin* Block's most interesting addition to the game, and an obvious fit for Echoing Truth. Probably the most powerful Imprint card to use is Isochron Scepter. Panoptic Mirror and Spellbinder are other options, but these are so much less powerful than the Scepter.
+![](https://i.ormos.uk/0c/b7/0cb7d4e402f42c4e7faf2ff692d69b8ec75982e7dcdda60539a7c4965ebab557.jpg)
+
+Imprinting Echoing Truth is also a really great use for the card. Imprint is probably *Mirrodin* Block's most interesting addition to the game, and an obvious fit for Echoing Truth. Probably the most powerful Imprint card to use is Isochron Scepter. Panoptic Mirror and Spellbinder are other options, but these are so much less powerful than the Scepter.
 
 With the help of a Chrome Mox, Isochron can come out on Turn 2. With an Echoing Truth, it suddenly has the annoying ability to protect itself. If your opponent wants to smack your Isochron Scepter around with a Deconstruct or a Viridian Shaman, the stick can pop itself back to your hand in response. That's a neat trick.
 

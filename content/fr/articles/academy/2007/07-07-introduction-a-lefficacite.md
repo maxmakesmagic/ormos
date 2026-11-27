@@ -269,7 +269,9 @@ Grove of the Burnwillows (Bosquet des brûlesaules) rend une base de mana R/V pl
 
 Le mieux vos cartes fonctionnent ensemble, plus vous obtiendrez d'effet de chaque carte.
 
-![Unifying_Theory](https://i.ormos.uk/4e/a3/4ea3c85f32d27e9a0897f081eacc1620eb831e92cc73f0a19b1a3aa93f0584ce.jpg)**Affinez les effectifs :** Peaufinez votre deck. 
+![Unifying_Theory](https://i.ormos.uk/4e/a3/4ea3c85f32d27e9a0897f081eacc1620eb831e92cc73f0a19b1a3aa93f0584ce.jpg)
+
+**Affinez les effectifs :** Peaufinez votre deck. 
 
 Faisons le tour des chiffres de base. 60 cartes, bien sûr, c'est le standard des decks de tournoi. Cette quantité vous assure de piocher les meilleures cartes quand vous en aurez besoin et de pouvoir prévoir au mieux l'évolution de votre jeu. Vous pouvez dépasser les 60 cartes pour des raisons stratégiques spécifiques, mais elles sont *vraiment* rares. 4 exemplaires d'une carte est le maximum autorisé (à l'exception des terrains de base). Généralement, vous voudrez avoir 4 exemplaires des meilleures cartes de votre deck pour optimiser vos chances de les piocher. 
 

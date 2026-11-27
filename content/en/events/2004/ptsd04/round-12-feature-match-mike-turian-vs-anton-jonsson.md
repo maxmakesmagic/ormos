@@ -367,7 +367,9 @@ render_recovery:
 ---
 * * *
 
-![Michael Turian](http://wizards.com/sideboard/images/ptsd04/fm24_1.jpg)This is Mike Turian's last Pro Tour. Don't even try to tell him to stick around for Worlds. He's having none of it. He's even going to be *in* Seattle for the Pro Tour, but won't be competing. He's currently working on going out with a bang, sitting at a very strong 10-2 record. Sitting opposite him is the mighty Anton Jonsson, who would be due for another Top 8 if he hadn't just gotten one at Pro Tour - Amsterdam.
+![Michael Turian](http://wizards.com/sideboard/images/ptsd04/fm24_1.jpg)
+
+This is Mike Turian's last Pro Tour. Don't even try to tell him to stick around for Worlds. He's having none of it. He's even going to be *in* Seattle for the Pro Tour, but won't be competing. He's currently working on going out with a bang, sitting at a very strong 10-2 record. Sitting opposite him is the mighty Anton Jonsson, who would be due for another Top 8 if he hadn't just gotten one at Pro Tour - Amsterdam.
 
 ### Game 1
 

@@ -44,7 +44,9 @@ archive_source:
   sha256: 232b8ab773b24db141d28f0694ec193bfe31de2c53b2007b16fdc590ca79e9a3
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/3po_1.jpg)This match would determine the player who would join Jingpeng Zhang and Murray Evans to represent Canada at Worlds this year. Before Rood finished his semifinal against Zhang, Thicke acknowledged that his matchup against Rood was better, but that he still hoped for Rood to win, since Rood deserves a spot on the National Team. That goes a long way to showing the kind of man that Thicke is.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat04/3po_1.jpg)
+
+This match would determine the player who would join Jingpeng Zhang and Murray Evans to represent Canada at Worlds this year. Before Rood finished his semifinal against Zhang, Thicke acknowledged that his matchup against Rood was better, but that he still hoped for Rood to win, since Rood deserves a spot on the National Team. That goes a long way to showing the kind of man that Thicke is.
 
 ### Game 1
 

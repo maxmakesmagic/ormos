@@ -47,7 +47,9 @@ render_recovery:
 ---
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/61/74/6174c4167cf3c4fad94ee953c6c06ef6ef5845c3894a224abf543f96f43a7dc4.png)This set features sixty premium cards, including five rares and one mythic rare. You also get a special-edition life counter, foil deck box, strategy insert, and Magic learn-to-play guide. Each card is foil, black-bordered, and tournament-legal for any format in which it's legal.
+![](https://i.ormos.uk/61/74/6174c4167cf3c4fad94ee953c6c06ef6ef5845c3894a224abf543f96f43a7dc4.png)
+
+This set features sixty premium cards, including five rares and one mythic rare. You also get a special-edition life counter, foil deck box, strategy insert, and Magic learn-to-play guide. Each card is foil, black-bordered, and tournament-legal for any format in which it's legal.
 
 **Set Name:** *Premium Deck Series: Slivers*  
 **Number of Cards:** 60

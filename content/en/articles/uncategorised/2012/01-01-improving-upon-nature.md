@@ -76,7 +76,9 @@ As always I'll end the column with a quick discussion of a Simic-related topic a
 
 ### What do the two colors have in common?
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr229_pic1_en.jpg)As faithful readers of this series are aware, we always start with enemy pairs by examining the core conflict between them. For Green and Blue it's another classic: Nature vs. Nurture. Let's start with the Green half. Green believes that things are born with all their potential already built in. People (and all other living things) are essentially slaves to their genes. Whatever nature intended for you to be is what you will be. Green doesn't see this as a bad thing. Rather Green embraces it. To Green, this is the center of great calmness. Everyone else struggles to find where they fit in the world. Green's attitude is that you don't have to find your role in the world - your role will find you.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr229_pic1_en.jpg)
+
+As faithful readers of this series are aware, we always start with enemy pairs by examining the core conflict between them. For Green and Blue it's another classic: Nature vs. Nurture. Let's start with the Green half. Green believes that things are born with all their potential already built in. People (and all other living things) are essentially slaves to their genes. Whatever nature intended for you to be is what you will be. Green doesn't see this as a bad thing. Rather Green embraces it. To Green, this is the center of great calmness. Everyone else struggles to find where they fit in the world. Green's attitude is that you don't have to find your role in the world - your role will find you.
 
 Blue, on the other hand, sees everyone starting as a blank slate. Blue believes that anyone can become anything. The key to doing this is knowledge. With knowledge comes the answers about how to change. Anything can be adapted as long as the transformation is understood. Blue takes great comfort in the fact that anyone has the potential to become whatever they desire. If you truly desire something, blue believes nothing is unattainable.
 
@@ -136,7 +138,9 @@ Last, but not least, a few pop culture references to add a little spice.
 
 **John Hammond (from *Jurassic Park*)** – This is the man (played by Richard Attenborough in the film) who brought the dinosaurs back to life. The character as portrayed in the film (I believe the character in the novel to be more driven by self-interest) was drawn to his actions by a desire to play with the very fabric of nature. He was advancing nature in a different way, bringing back that which nature had left behind, yet he has all the telltale signs of a man caught up in his obsession to improve upon the world set before him.
 
-![](http://archive.wizards.com/global/images/mtgcom_daily_mr229_pic2_en.jpg)**Dr. Otto Octavius (from *Spider-man II*)** – For those of you out there that might not recognize the name, this is the man who become Doctor Octopus. (I refuse to call him Doc Ock. While I don't mind the nickname, it annoyed me that the film refused to use the term Dr. Octopus as if they were embarrassed by the name. The hero is called Spider-man. How embarrassing can being named after another animal be? But I digress...) The reason I've included Octavius here is that the pre-Dr. Octopus is a perfect example of Green/Blue. He is obsessed with finding a new way to play with the very laws of nature. His focus is so strong that he dismisses all the dangers with what he is doing.
+![](http://archive.wizards.com/global/images/mtgcom_daily_mr229_pic2_en.jpg)
+
+**Dr. Otto Octavius (from *Spider-man II*)** – For those of you out there that might not recognize the name, this is the man who become Doctor Octopus. (I refuse to call him Doc Ock. While I don't mind the nickname, it annoyed me that the film refused to use the term Dr. Octopus as if they were embarrassed by the name. The hero is called Spider-man. How embarrassing can being named after another animal be? But I digress...) The reason I've included Octavius here is that the pre-Dr. Octopus is a perfect example of Green/Blue. He is obsessed with finding a new way to play with the very laws of nature. His focus is so strong that he dismisses all the dangers with what he is doing.
 
 ### Change For The Better
 

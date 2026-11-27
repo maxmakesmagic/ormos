@@ -85,7 +85,9 @@ Finally, I hope through my tournament experiences as both a player and event cov
 
 ### San Diego Qualifier Season Begins
 
-![](https://media.magic.wizards.com/image_legacy_migration/magic/images/ads/SanDiegoConvCenter.jpg)This past weekend marked the kickoff for the [Pro Tour San Diego qualifier season](https://web.archive.org/web/20040211000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=protour/sd04/qualifiers). It was also the first weekend that *Darksteel* was on sale and legal for use in Limited tournaments other than the Prerelease. Anyone playing in PTQs this past weekend had to grapple with building their Sealed Decks with two fewer packs of *Mirrodin* and two packs of the mysterious *Darksteel*.
+![](https://media.magic.wizards.com/image_legacy_migration/magic/images/ads/SanDiegoConvCenter.jpg)
+
+This past weekend marked the kickoff for the [Pro Tour San Diego qualifier season](https://web.archive.org/web/20040211000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=protour/sd04/qualifiers). It was also the first weekend that *Darksteel* was on sale and legal for use in Limited tournaments other than the Prerelease. Anyone playing in PTQs this past weekend had to grapple with building their Sealed Decks with two fewer packs of *Mirrodin* and two packs of the mysterious *Darksteel*.
 
 I had to miss this weekend’s PTQ at Neutral Ground, which was a big disappointment. The only times I seem to make Top 8 of limited PTQs are when a new set is introduced. Instead I was at [Grand Prix Oakland](https://web.archive.org/web/20040211000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpoak04) watching the best players in the country puzzle out the new set. It was quite assuring to see that the game’s best players have the same struggles with card evaluations as the rest of us. 
 

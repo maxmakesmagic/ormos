@@ -99,13 +99,21 @@ I knew Control was going to be a challenge. It would be the first time we repeat
 
 Next I had to compile my team. I knew that this was the wrong set to try out new designers on. I needed veterans that had worked on previous design teams I had run.
 
-![](https://i.ormos.uk/39/f5/39f527a46007458cea99a766a3e8bf9c9c8428992055b2abee07b9f0c37b389e.jpg)**Mike Elliott** – Mike and I first worked together on *Tempest*. We were two thirds of the team behind *Invasion*. And Mike was by my side during *Mirrodin* design. I knew what he was capable of – producing an insane number of cards. Give Mike an idea and he'll break down every extrapolation of that idea. Every set needs a few powerhouse designers and Mike would be that for Control.
+![](https://i.ormos.uk/39/f5/39f527a46007458cea99a766a3e8bf9c9c8428992055b2abee07b9f0c37b389e.jpg)
 
-![](https://i.ormos.uk/cc/88/cc886ad1801d000e9f8ccad3e73a31d571306e9ce45cdc656ac198f23d06f9f0.jpg)**Aaron Forsythe** – Aaron's first design team was *Fifth Dawn* (which I lead). I was very impressed not just with the volume of his work but by the subtlety of his design. I saw from that first set that Aaron was going to become a major player in **Magic** design. When I put my team together for Control, Aaron was at the top of my list.
+**Mike Elliott** – Mike and I first worked together on *Tempest*. We were two thirds of the team behind *Invasion*. And Mike was by my side during *Mirrodin* design. I knew what he was capable of – producing an insane number of cards. Give Mike an idea and he'll break down every extrapolation of that idea. Every set needs a few powerhouse designers and Mike would be that for Control.
 
-![](https://i.ormos.uk/d2/b5/d2b5b0a5208ddab41666e81eff8dc13c2765b40a586c961d0001ef23c185931a.jpg)**Tyler Bielman** – Tyler had been on the *Mirrodin* design team and I was always impressed how much flavor he worked into his designs. I knew flavor was going to be vital for Control and liked the idea of having a designer that would approach the cards from that vantage point.
+![](https://i.ormos.uk/cc/88/cc886ad1801d000e9f8ccad3e73a31d571306e9ce45cdc656ac198f23d06f9f0.jpg)
 
-![](https://i.ormos.uk/b9/f6/b9f64c0eae51b3e91b3bb3c2fec5fdcbb47d350c6f15b50ad7c32f69f00031c0.jpg)**Richard Garfield** – Every couple years Richard comes to me and says that he's interested in working with me on a **Magic** design team. I always, of course, put him on the very next team I run. (Richard and I had previously worked together on *Tempest*, *Odyssey*, and *Judgment*.)
+**Aaron Forsythe** – Aaron's first design team was *Fifth Dawn* (which I lead). I was very impressed not just with the volume of his work but by the subtlety of his design. I saw from that first set that Aaron was going to become a major player in **Magic** design. When I put my team together for Control, Aaron was at the top of my list.
+
+![](https://i.ormos.uk/d2/b5/d2b5b0a5208ddab41666e81eff8dc13c2765b40a586c961d0001ef23c185931a.jpg)
+
+**Tyler Bielman** – Tyler had been on the *Mirrodin* design team and I was always impressed how much flavor he worked into his designs. I knew flavor was going to be vital for Control and liked the idea of having a designer that would approach the cards from that vantage point.
+
+![](https://i.ormos.uk/b9/f6/b9f64c0eae51b3e91b3bb3c2fec5fdcbb47d350c6f15b50ad7c32f69f00031c0.jpg)
+
+**Richard Garfield** – Every couple years Richard comes to me and says that he's interested in working with me on a **Magic** design team. I always, of course, put him on the very next team I run. (Richard and I had previously worked together on *Tempest*, *Odyssey*, and *Judgment*.)
 
 The raw design skills of the team I just listed is as potent as it gets. If this team couldn't solve the problem then there just wasn't an answer.
 
@@ -159,7 +167,9 @@ That's when I remembered my Half and Half (aka Hybrid) idea. Hybrid cards, while
 
 ### Creative To The Rescue
 
-![](https://i.ormos.uk/e0/1a/e01a0e6bbd4b2f95892e242f15428c9cc9a50387aa7ab5dbb2e848b542f3736c.jpg)As all of the above was happening, Brady Dommermuth (one of the guys from the Creative Team) came back with an intriguing idea. What if we represented each of the color combinations with its own identity? We knew from past market research that players liked the color wheel. What if Control had ten colors instead of five? Brady referred to this idea as the guild model.
+![](https://i.ormos.uk/e0/1a/e01a0e6bbd4b2f95892e242f15428c9cc9a50387aa7ab5dbb2e848b542f3736c.jpg)
+
+As all of the above was happening, Brady Dommermuth (one of the guys from the Creative Team) came back with an intriguing idea. What if we represented each of the color combinations with its own identity? We knew from past market research that players liked the color wheel. What if Control had ten colors instead of five? Brady referred to this idea as the guild model.
 
 As soon as I heard the idea from Brady I knew that this was the direction the set was going to take. I felt that the color interactions were interesting enough to wrap the block's creative around. The key though was going to be finding ways to imbue each guild into its cards.
 

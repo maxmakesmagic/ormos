@@ -64,7 +64,9 @@ render_recovery: []
 
 * * *
 
-[![](https://i.ormos.uk/33/b5/33b53ff2126311f6ae8d4fbf87ec929e8d1324dc3d3d556728bb7eaf788fef2f.jpg)](http://www.magicworldchampionship.com/)Congratulations to Andrew Cuneo (Gainsay) for winning the ***Magic** Online* Worlds Qualifier Tournament. 'Tog stays on top over Blue-Green Madness, Green-Black Cemetery, and...Elves?
+[![](https://i.ormos.uk/33/b5/33b53ff2126311f6ae8d4fbf87ec929e8d1324dc3d3d556728bb7eaf788fef2f.jpg)](http://www.magicworldchampionship.com/)
+
+Congratulations to Andrew Cuneo (Gainsay) for winning the ***Magic** Online* Worlds Qualifier Tournament. 'Tog stays on top over Blue-Green Madness, Green-Black Cemetery, and...Elves?
 
 After a rough start on Sunday morning, when a bridge of the non-Ensnaring type delayed the start for two hours, Cuneo walks away with an invite to [2003 Worlds](http://www.magicworldchampionship.com/), along with airfare and accomodations for two in Berlin.
 

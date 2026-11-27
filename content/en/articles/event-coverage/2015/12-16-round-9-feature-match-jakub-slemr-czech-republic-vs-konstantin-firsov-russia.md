@@ -47,7 +47,9 @@ render_recovery: []
 ---
 *By Alex Shvartsman* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/150.jpg)This round feature match is an East European special. World champion Jakub Slemr from the Czech Republic faced the Russian national champion Konstantin Firsov. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPHEL00/150.jpg)
+
+This round feature match is an East European special. World champion Jakub Slemr from the Czech Republic faced the Russian national champion Konstantin Firsov. 
 
 The atmosphere of this match was relaxed and very friendly, While waiting for the judges to perform a deck check, Jakub boasted his knowledge of Russian language by saying a few phrases and almost scoring a date with a Russian female player in the audience. Almost, but not quite. 
 

@@ -333,13 +333,17 @@ render_recovery:
   - Upheaval
   occurrences: 1
 ---
-![](https://i.ormos.uk/9d/45/9d459b742f163c84572582627f2a148b7182551f3f4f76d104db757f91b32845.jpg)Mike Turian, the pride of CMU is a Pro Tour and Grand Prix champion. He is 4-0 coming into this round. His opponent for this match is Melissa DeTora, a Boston-area resident who won three byes at Your Move Games.
+![](https://i.ormos.uk/9d/45/9d459b742f163c84572582627f2a148b7182551f3f4f76d104db757f91b32845.jpg)
+
+Mike Turian, the pride of CMU is a Pro Tour and Grand Prix champion. He is 4-0 coming into this round. His opponent for this match is Melissa DeTora, a Boston-area resident who won three byes at Your Move Games.
 
 They are both playing blue/green/red decks. Turian's has Squirrel Nest and Opposition, used very aggressively with classic hits like Call of the Herd, Merfolk Looter, and Flametongue Kavu.
 
 DeTora's deck is similar to her boyfriend's Regionals deck; Andy Stokinger of Team Academy took his u/g/r to a T8 finish to qualify for Nationals and features Jilt and Fact or Fiction.
 
-![](https://i.ormos.uk/af/0e/af0e0f70c20a8fde711dcd7a6187f4bb3285de58f6ab278b9aacf8bf6183be72.jpg)Turian played first and both players opened up with turn-two Mongrels. For the first four turns, both players played pain lands, forcing the competitors to take damage any time they wanted to cast a spell. 
+![](https://i.ormos.uk/af/0e/af0e0f70c20a8fde711dcd7a6187f4bb3285de58f6ab278b9aacf8bf6183be72.jpg)
+
+Turian played first and both players opened up with turn-two Mongrels. For the first four turns, both players played pain lands, forcing the competitors to take damage any time they wanted to cast a spell. 
 
 This game saw Flametongues killing creatures right and left, Circular Logics going nuts, but was ultimately ended when Turian cast an Opposition.
 
@@ -354,7 +358,9 @@ The first spell cast without taking a point of damage was DeTora's 8th turn Fact
 *"Having basic lands while you opponent is taking damage is like a little Life Burst."*  
  - Mike Turian
 
-![](https://i.ormos.uk/0f/b2/0fb25c42d98be391106d3ca8ee656882ecdbf202c68ca2ba1aae4ef8734579a0.jpg)The second game had DeTora going first, but with a hand of a lone forest, she didn't feel confident, and threw it back. Her six-card hand was a keeper and she came out quickly with two Merfolk Looters. 
+![](https://i.ormos.uk/0f/b2/0fb25c42d98be391106d3ca8ee656882ecdbf202c68ca2ba1aae4ef8734579a0.jpg)
+
+The second game had DeTora going first, but with a hand of a lone forest, she didn't feel confident, and threw it back. Her six-card hand was a keeper and she came out quickly with two Merfolk Looters. 
 
 Turian cast a Wild Mongrel on turn two with BASIC LAND as DeTora began her looting madness. DeTora won a Circular Logic war for an Arrogant Wurm as Turian missed his third land drop on turns three, four, AND five. 
 

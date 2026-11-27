@@ -57,7 +57,9 @@ Key:
  CMU: Carnegie Mellon University, an educational facility in Pittsburgh, Pennsylvania.  
  TOGIT: The Only Game In Town, a gaming facility in northern New Jersey
 
-![](http://www.wizards.com/sideboard/images/ptchi03/a871.jpg)At the top of the standings, a perfect 6-0 going into today's last round, is Eugene Harvey, a member of two of the current best teams in Magic, CMU and TOGIT. Harvey, the reigning US National Champion and GP New Orleans finalist, grew up in Jersey but went to school in Pittsburgh, and has brought these two groups together. The results have been spectacular.
+![](http://www.wizards.com/sideboard/images/ptchi03/a871.jpg)
+
+At the top of the standings, a perfect 6-0 going into today's last round, is Eugene Harvey, a member of two of the current best teams in Magic, CMU and TOGIT. Harvey, the reigning US National Champion and GP New Orleans finalist, grew up in Jersey but went to school in Pittsburgh, and has brought these two groups together. The results have been spectacular.
 
 From the TOGIT side, Osyp Lebedowicz, Craig Krempals, Jon Sonne, Gerard Fabiano, and Pat Sullivan were qualified for this event. They didn't get too many 8-man Rochester drafts in at the TOGIT store, but did a lot of 3-on-3's, which Sullivan says is just as good for learning relative card strengths and interactions. They got their real practice in at Neutral Ground, as several other pro-caliber players, including Jon Finkel, Dave Price, Mike Pustilnik, Jon Becker, and Jordan Berkowitz often were available for gaming at the NYC landmark.
 

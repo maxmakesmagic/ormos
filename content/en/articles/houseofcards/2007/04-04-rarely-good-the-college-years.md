@@ -673,7 +673,9 @@ render_recovery:
 
 Welcome to my underground lair! 
 
-![swamp1a](https://i.ormos.uk/35/19/35190fc8b78cdef0632e07ab9f5c71a0ad47fa2a3fc6eb56b48a6611abf52485.jpg)Okay, admittedly, I don't even have an underground lair, but that just sounds so much cooler than, "Welcome to my basement apartment!" Now, you might think that living in a dank, pee-pee-soaked heck-hole smack dab in the middle of one of Canada's most self-absorbed metropolises would be great for an aspiring writer-type person. I mean, didn't some famous guy once write something really important in a situation somewhat similar to this? I'm pretty sure that's true.
+![swamp1a](https://i.ormos.uk/35/19/35190fc8b78cdef0632e07ab9f5c71a0ad47fa2a3fc6eb56b48a6611abf52485.jpg)
+
+Okay, admittedly, I don't even have an underground lair, but that just sounds so much cooler than, "Welcome to my basement apartment!" Now, you might think that living in a dank, pee-pee-soaked heck-hole smack dab in the middle of one of Canada's most self-absorbed metropolises would be great for an aspiring writer-type person. I mean, didn't some famous guy once write something really important in a situation somewhat similar to this? I'm pretty sure that's true.
 
 "What's that stench?" I wondered when I got home from work. My first thought was that it might be the Toronto Maple Leafs. It turns out that they're many blocks away, and it seems unlikely that the smell would travel that far. No, it was skunks. Skunks. Why did it have to be skunks? I joke about a lot of things, but I never joke about skunks. Sure, they're probably the most adorable, garbage-eating mammal that you'll find in my backyard (sorry, raccoons), and according to Warner Bros. they're very loving creatures, but they're also the only animal that makes me soil myself on sight from an acute fear of being made to smell bad.
 

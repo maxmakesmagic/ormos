@@ -447,7 +447,9 @@ render_recovery:
 ---
 * * *
 
-![](http://www.wizards.com/sideboard/images/gphk04/r8fm1_1.jpg)Both of these players are known for their Invitational cards. Jens Thoren is the secret identity of the Solemn Simulacrum and last year's Invitational winner. Jens' passion for the game has been on the decline over the past year and has hinted at retirement. He did seem reinvigorated after a week of drafting at local Hong Kong shops and claimed that if they had similar stores in Sweden his perspective on the game would likely be different.
+![](http://www.wizards.com/sideboard/images/gphk04/r8fm1_1.jpg)
+
+Both of these players are known for their Invitational cards. Jens Thoren is the secret identity of the Solemn Simulacrum and last year's Invitational winner. Jens' passion for the game has been on the decline over the past year and has hinted at retirement. He did seem reinvigorated after a week of drafting at local Hong Kong shops and claimed that if they had similar stores in Sweden his perspective on the game would likely be different.
 
 Olivier is known for his peculiar card entries in the Invitational which revolve around penguins. Olivier is chasing after the points he lost in his miserable finish in Kobe. From here he is heading back to Japan for Grand Prix Sendai in two weeks. The year end payout for the Player of the Year race is on many players minds and Olivier is counting on few Western players attending the Japanese Grand Prix. Olivier had a Pro Tour Top 8 earlier this year in Amsterdam, which makes up the bulk of his points.
 

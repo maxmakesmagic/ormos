@@ -71,7 +71,9 @@ render_recovery:
   - Tribal Unity
   occurrences: 14
 ---
-![](http://www.wizards.com/sideboard/images/gpcop02/a836.jpg)Krause chooses to play first and gets a fast start with Wirewood Elf on turn two followed by his symbiotic cousin on turn three. Florent answered the aggression playing a mystery facedown creature. While Krause increased the beatdown with Barkhide Mauler on turn 4, Florent played another facedown creature. Unable to draw a fourth land the Frenchman quickly had to face a second Mauler.
+![](http://www.wizards.com/sideboard/images/gpcop02/a836.jpg)
+
+Krause chooses to play first and gets a fast start with Wirewood Elf on turn two followed by his symbiotic cousin on turn three. Florent answered the aggression playing a mystery facedown creature. While Krause increased the beatdown with Barkhide Mauler on turn 4, Florent played another facedown creature. Unable to draw a fourth land the Frenchman quickly had to face a second Mauler.
 
 When the fourth land hit the table Taunting Elf was already in play and Jeudon was only at four life. Despite this bad handicap, he managed to resist using the morph of Gravel Slinger and playing Crude Rampart. As the wall stops the beatdown Jeudon surpisingly starts to control the game. He plays his first flyer and announces his end of turn. Krause draws, smile, sends all of his monsters into the red zone and plays Wirewood Pride on Taunting Elf in response to Jeudon's attempt to kill it.
 

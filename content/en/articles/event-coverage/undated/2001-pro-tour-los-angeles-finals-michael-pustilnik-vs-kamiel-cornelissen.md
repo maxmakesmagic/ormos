@@ -37,7 +37,9 @@ archive_source:
   sha256: 76990de36d4df55b80ba0944fa7f9057e6a11050f058b7c2cf6e7ac8b51415f7
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/670.jpg)The Buffalo Bills. The Minnesota Vikings. Hubert Humphrey. Ben Rubin. Add to that list of talented bridesmaids waiting to be brides Kamiel Cornelissen, who fell in the Finals for the second consecutive Pro Tour stop.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/670.jpg)
+
+The Buffalo Bills. The Minnesota Vikings. Hubert Humphrey. Ben Rubin. Add to that list of talented bridesmaids waiting to be brides Kamiel Cornelissen, who fell in the Finals for the second consecutive Pro Tour stop.
 
 Brooklyn New York's Mike Pustilnik defeated the young Dutchman 3 games to 2 in the final Final on the most storied stop on Magic's Pro Tour, the Queen Mary. "Mikey P," as he's known in Magic circles, used his control-oriented deck to squeeze out a narrow victory over Cornelissen's Rith-featured beatdown deck.
 
@@ -47,7 +49,9 @@ Mikey P. evened the score in a long Game 2. After agonizing over his choices, he
 
 Game 3 saw a rare "what does that do again?" moment in a Pro Tour final. After getting Pustilnik to tap his 1-power Benalish Trapper, Cornelissen played Juntu Stakes ("Creatures with power 1 or less don't untap during their controller's untap step"), causing Mikey P. to grab the card and scratch his head. When, on the following turn, Cornelissen brought out an Ancient Kavu, it looked as though he was in complete control. The turn afterward, his Power Armor looked as if it was going to completely shut the door. During Cornelissen's End of Turn Step, however, Pustilnik played Dismantling Blow, complete with Kicker, on the Juntu stakes, untapping his tapper and gaining two cards as well.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/663.jpg)The momentum shifted 180 degrees. Cornelissen had stalled on four lands, and now it was an obvious liability - accentuated when he played Meteor Storm. He had knocked Pustilnik down to 9; with more mana, he might have had a chance. Any hopes of trying for the victory via Meteor Storm were dashed when the Stormscape Master showed up again. Facing the possibility of the multiplicity of life loss for him/life gain for his opponent, he had to use his last two cards to kill the Master. Pustilnik pressed the advantage. A Faerie Squadron closed out the game, giving him a 2-1 lead.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/663.jpg)
+
+The momentum shifted 180 degrees. Cornelissen had stalled on four lands, and now it was an obvious liability - accentuated when he played Meteor Storm. He had knocked Pustilnik down to 9; with more mana, he might have had a chance. Any hopes of trying for the victory via Meteor Storm were dashed when the Stormscape Master showed up again. Facing the possibility of the multiplicity of life loss for him/life gain for his opponent, he had to use his last two cards to kill the Master. Pustilnik pressed the advantage. A Faerie Squadron closed out the game, giving him a 2-1 lead.
 
 Game 4 was reminiscent of Cornelissen's crushing Semi-Final victory over Jon Finkel. He followed up a Nomadic Elf and a non-Kicked Pincer Spider with Thornscape Master, eliciting a roar from the crowd. Even a Benalish Trapper couldn't keep him from a massive attack. "I guess I'll take 12" is all he could muster. It was ostensibly concession, and on the following turn, scooping was all he had left.
 
@@ -55,6 +59,8 @@ Game 5 saw huge momentum swings. Once again, Cornelissen seized the early advant
 
 Cornelissen made an effort to break out with a Serpentine Kavu on the next turn. Mikey P. had a Exclude ready. The Dutchman took advantage of the fact that there was no counterspell mana left by killing the Apprentice with Tribal Flames. It was his last moment of glory.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/667.jpg)On his turn, Pustilnik played Ravenous Rats, Cornelissen having only one card in his hand. The play became larger when that card was revealed: the Finkel-smashing Rith, the Awakener. Without hyperbole, Mikey P. uttered "Best Rats ever." The crowd exploded. Adding insult to injury, Pustilnik then brought out his Stormscape Master, eliciting another roar from the faithful, and a frown to his opponent's face. The Kicked Faerie Squadron on the following turn was mere icing on the cake, and last Pro Tour on The Boat came to a close.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/667.jpg)
+
+On his turn, Pustilnik played Ravenous Rats, Cornelissen having only one card in his hand. The play became larger when that card was revealed: the Finkel-smashing Rith, the Awakener. Without hyperbole, Mikey P. uttered "Best Rats ever." The crowd exploded. Adding insult to injury, Pustilnik then brought out his Stormscape Master, eliciting another roar from the faithful, and a frown to his opponent's face. The Kicked Faerie Squadron on the following turn was mere icing on the cake, and last Pro Tour on The Boat came to a close.
 
 Kamiel Cornelissen's unprecedented back-to-back Finals appearances and four consecutive finishes in the Top 24 signal more for him than being relegated into Buffalo Bills territory. More likely, he'll end up like the team that lost that early Super Bowl, the Dallas Cowboys--a dynasty in the making. Today, however, it was Mike Pustilnik's turn to rise to the top and bring the Pro Tour trophy back to Brooklyn Heights.

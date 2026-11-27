@@ -282,7 +282,9 @@ In the final two rounds of Grand Prix New Jersey, Illuminati (with Justin Gary i
 
 ### Game One: Justin (black/red) vs. Jason (black/red/green)
 
-![](http://www.wizards.com/sideboard/images/gpnj02/876.jpg)The creatures traded back and forth fast and furiously this game. Eventually, one of Justin's two (!) Violent Eruptions cleared the board for his rather large Limestone Golem to swing. A Browbeat made life very hard for Jason, as he needed to decide whether to drop to five life, or allow Justin to draw three cards. Choosing to drop to five, Jason began mounting an offense with Fledgling Imp and Dusk Imp, while Thermal Blasting the Golem straight to the graveyard. Justin drew more creatures, but Jason started topdecking his game, bringing out Faceless Butcher followed by Chainer's Edict. The game ended with Jason at two life to Justin's zero.
+![](http://www.wizards.com/sideboard/images/gpnj02/876.jpg)
+
+The creatures traded back and forth fast and furiously this game. Eventually, one of Justin's two (!) Violent Eruptions cleared the board for his rather large Limestone Golem to swing. A Browbeat made life very hard for Jason, as he needed to decide whether to drop to five life, or allow Justin to draw three cards. Choosing to drop to five, Jason began mounting an offense with Fledgling Imp and Dusk Imp, while Thermal Blasting the Golem straight to the graveyard. Justin drew more creatures, but Jason started topdecking his game, bringing out Faceless Butcher followed by Chainer's Edict. The game ended with Jason at two life to Justin's zero.
 
 Jason 1-Justin 0
 
@@ -320,7 +322,9 @@ Alex 1-Adam 0.
 
 ### Game Two: Alex vs. Adam
 
-![](http://www.wizards.com/sideboard/images/gpnj02/875.jpg)Game one took as long as the other five games played by their teammates put together, so they sat down knowing that Alex only needed one win to put it away for his team, while Adam needed to not only win, but win a second time afterwards. They shuffled up their decks to play, with Adam choosing to play. He led with a speedy Cabal Trainee, followed by a juicier Nantuko Shade. This game got a little more under control with Lieutenant Kirtar halting the Shade for a minute, followed by a Battle Screech (with flashback). How quickly the momentum of this game had swung! Alex used two of the fliers to block the Trainee and Shade, and then attacked with his remaining fliers for four. The bird tokens allowed him to bring a Wormfang Drake into play, though Adam made a bold play with Cabal Coffers and Krosan Archer. Resilient Wanderer further locked the board down, with Alex's fliers staring the Archer, while his Wanderer and legend kept the potentially 9/8 Shade at bay.
+![](http://www.wizards.com/sideboard/images/gpnj02/875.jpg)
+
+Game one took as long as the other five games played by their teammates put together, so they sat down knowing that Alex only needed one win to put it away for his team, while Adam needed to not only win, but win a second time afterwards. They shuffled up their decks to play, with Adam choosing to play. He led with a speedy Cabal Trainee, followed by a juicier Nantuko Shade. This game got a little more under control with Lieutenant Kirtar halting the Shade for a minute, followed by a Battle Screech (with flashback). How quickly the momentum of this game had swung! Alex used two of the fliers to block the Trainee and Shade, and then attacked with his remaining fliers for four. The bird tokens allowed him to bring a Wormfang Drake into play, though Adam made a bold play with Cabal Coffers and Krosan Archer. Resilient Wanderer further locked the board down, with Alex's fliers staring the Archer, while his Wanderer and legend kept the potentially 9/8 Shade at bay.
 
 Looking to get something going, Adam laid down a Zombie Assassin, though he only had one card in his graveyard. Blocking the Drake with his Archer, Adam discarded an Afflict. "That other card must be insane!" Alex exclaimed, eyeing his opponent's remaining card in hand nervously. It was a Nantuko Disciple, played the following turn, which gave the Archer enough punch on defense to safely hold off Alex's flier without any further need for discard. Alex met this challenge with a Militant Monk and Teroh's Vanguard, leaving the board once again locked at complete parity with the Russian at fourteen life, and the dot-commer at ten. 
 

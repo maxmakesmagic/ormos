@@ -383,7 +383,9 @@ PT ニューヨーク準優勝、PT 大阪 Top 8 ...と今シーズン大ブレ�
 
 　何とか星を戻したい Oliveri が素晴らしいドローに恵まれた一戦だった。
 
-![](https://i.ormos.uk/dc/63/dc632fa4ec8d439a41f7006d607331fdd8d182c9bea5eabf12621d2c6d98b54a.jpg)　まず、《ラノワールのエルフ/Llanowar Elves》から 2 ターン目に《冬の抱擁/Winter's Grasp》をプレイし、ここで岡本の《Force of Will (AL)》をあぶりだすことになる。この土地破壊呪文を凌いだ岡本は、返す刀のターンで即座に《サファイアの大メダル/Sapphire Medallion》を場に出したわけだったが、この岡本のタップアウトを狙い済まして Olivieri は《窒息/Choke》をエンチャント!!
+![](https://i.ormos.uk/dc/63/dc632fa4ec8d439a41f7006d607331fdd8d182c9bea5eabf12621d2c6d98b54a.jpg)
+
+　まず、《ラノワールのエルフ/Llanowar Elves》から 2 ターン目に《冬の抱擁/Winter's Grasp》をプレイし、ここで岡本の《Force of Will (AL)》をあぶりだすことになる。この土地破壊呪文を凌いだ岡本は、返す刀のターンで即座に《サファイアの大メダル/Sapphire Medallion》を場に出したわけだったが、この岡本のタップアウトを狙い済まして Olivieri は《窒息/Choke》をエンチャント!!
 
 　劣勢の岡本もなんとかランドを展開しての《転覆/Capsize》につなぎたいところだったが、《冬の抱擁/Winter's Grasp》や《忍び寄るカビ/Creeping Mold》の連打でことごとくアンタップ状態の土地が破壊されてしまい、《エルフ》と《樹上の村/Treetop Village》のビートダウンによって勝負あり。
 

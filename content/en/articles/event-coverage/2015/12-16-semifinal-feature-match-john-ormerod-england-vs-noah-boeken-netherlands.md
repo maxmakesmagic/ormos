@@ -46,7 +46,9 @@ render_recovery: []
 ---
 *by Ben Ronaldson* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/163.jpg)This match involved arguably the 2 best limited players in Europe. Noah is the reigning European champion and also finished top 8 in GP Copenhagen. John O has a PT top 8 and 2 PT ninths. Noah is playing an aggressive 5cG Deck with solid attacking creatures, while John is playing a Black / Blue Control deck with solid flyers and some tricks. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/GPMAN00/Images/163.jpg)
+
+This match involved arguably the 2 best limited players in Europe. Noah is the reigning European champion and also finished top 8 in GP Copenhagen. John O has a PT top 8 and 2 PT ninths. Noah is playing an aggressive 5cG Deck with solid attacking creatures, while John is playing a Black / Blue Control deck with solid flyers and some tricks. 
 
 **Game 1** 
 

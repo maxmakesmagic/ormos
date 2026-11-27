@@ -76,7 +76,9 @@ render_recovery:
 ---
 Swedish player Landgraf is running blue-black Infestation Upheaval while his opponent, Torben Twiefel is running a fast blue-green deck based around threshold.
 
-![](http://www.wizards.com/sideboard/images/gpham02/919.jpg)Landgraf was forced to mulligan his opening hand and had to take mana burn off a Darkwater Catacombs to Blood a Mongoose. Twiefel had problems of his own as his deck refused to cough up a third land or island. His deck still seemed to run, smoothly. Werebear followed the blooded Mongoose and was followed with another Mongoose and a Basking Rootwalla that Landgraf was forced to Logic. Mongrel picked up the pace and while Landgraf was able to slow things down with a couple of Aether Burst his deck gave him no more help and Twiefel just ran him over.
+![](http://www.wizards.com/sideboard/images/gpham02/919.jpg)
+
+Landgraf was forced to mulligan his opening hand and had to take mana burn off a Darkwater Catacombs to Blood a Mongoose. Twiefel had problems of his own as his deck refused to cough up a third land or island. His deck still seemed to run, smoothly. Werebear followed the blooded Mongoose and was followed with another Mongoose and a Basking Rootwalla that Landgraf was forced to Logic. Mongrel picked up the pace and while Landgraf was able to slow things down with a couple of Aether Burst his deck gave him no more help and Twiefel just ran him over.
 
 Twiefel 1-0 Landgraf
 
@@ -90,7 +92,9 @@ He was only on 5 life though and couldn’t seem to find a permanent answer to T
 
 Twiefel 1-1 Landgraf
 
-![](http://www.wizards.com/sideboard/images/gpham02/920.jpg)Twiefel came racing out of the blocks in game three with a nightmare draw for Landgraf. Turn two Mongrel madnessed out a Rootwalla at the end of a second turn in which Landgraf could only put Compulsion on the table. Twiefel compounded Landgraf’s problems with a Standstill of his own.
+![](http://www.wizards.com/sideboard/images/gpham02/920.jpg)
+
+Twiefel came racing out of the blocks in game three with a nightmare draw for Landgraf. Turn two Mongrel madnessed out a Rootwalla at the end of a second turn in which Landgraf could only put Compulsion on the table. Twiefel compounded Landgraf’s problems with a Standstill of his own.
 
 Landgraf broke the Standstill in order to Butcher a Mongrel only for Twiefel to drop another with a Werebear for company. Mutilate with two swamps in play succeeded in killing only the Rootwalla as Twiefel pitched two cards to the Mongrel to gain threshold. An attack dropped Landgraf to 4.
 

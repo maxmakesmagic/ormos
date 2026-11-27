@@ -67,7 +67,9 @@ render_recovery:
 
 For a number of reasons – not the least of them being Eugene Harvey's win – this was CMU's tournament. A few years ago, CMU was a major powerhouse among Magic teams but then Erik Lauer quit and Wizards of the Coast hired Buehler, Forsythe and Schneider, almost gutting the team. Mike Turian hung on, helping build up other CMU players, including Eugene Harvey who broke through at the very same Nationals tournament last year, where he made the National Team as his first major success. As of Pro Tour-Osaka, CMU has been working closely together with TOGIT – the up and coming group of NJ players that includes PT-Osaka quarterfinalist Osyp Lebedowicz. The collaboration has been working out, with Harvey (who is a CMU member but lives near and plays at TOGIT) winning the tournament, and Mike Turian and Ken Krouner coming in 10th and 9th respectively.
 
-![](https://i.ormos.uk/25/1b/251b3f41facf7ca21073f22a51871c4f5aba54f9ded4ba7b0dfdc5d73a8d7980.jpg)Virtual unknowns Eric Franz and Andrew Ranks join Harvey on the U.S. National Team. Can this team live up to U.S. history of dominance at the Worlds Team Competition? This will be difficult, especially against powerhouse teams such as Germany and the Netherlands. Fighting their way past some of the best players in the world means these guys can definitely at least put up a fight – but my prediction is that U.S. might actually finish just outside of the Top 4 this year. 
+![](https://i.ormos.uk/25/1b/251b3f41facf7ca21073f22a51871c4f5aba54f9ded4ba7b0dfdc5d73a8d7980.jpg)
+
+Virtual unknowns Eric Franz and Andrew Ranks join Harvey on the U.S. National Team. Can this team live up to U.S. history of dominance at the Worlds Team Competition? This will be difficult, especially against powerhouse teams such as Germany and the Netherlands. Fighting their way past some of the best players in the world means these guys can definitely at least put up a fight – but my prediction is that U.S. might actually finish just outside of the Top 4 this year. 
 
 Other notable performances at this year's Nationals include:
 
@@ -81,24 +83,32 @@ Other notable performances at this year's Nationals include:
 
 ### Junior Super Series
 
-![](http://www.wizards.com/sideboard/images/usnat02/a755.jpg)The JSS metagame was heavily influenced by Day 1 of the U.S. Nationals, as their tournament started a day later than ours did. Psychatog, Opposition and red-green dominated the metagame. It was one of the red-green decks that fought its way to the top. Edward Solis (Texas) won the tournament with it, defeating Ross Anderson's (New York) blue-green deck. In the third place was Kush Patel, who used the Psychatog deck he won the New England Challenge with to place highly in this tournament.
+![](http://www.wizards.com/sideboard/images/usnat02/a755.jpg)
+
+The JSS metagame was heavily influenced by Day 1 of the U.S. Nationals, as their tournament started a day later than ours did. Psychatog, Opposition and red-green dominated the metagame. It was one of the red-green decks that fought its way to the top. Edward Solis (Texas) won the tournament with it, defeating Ross Anderson's (New York) blue-green deck. In the third place was Kush Patel, who used the Psychatog deck he won the New England Challenge with to place highly in this tournament.
 
 **National Championships**
 
 *Brazil*
 
-![](http://www.wizards.com/worlds/images/flag_brazil.jpg)Brazilian National Champion is Victor U.Z. "Boi" Galimbertti, from Sao Paulo, who won using a Liquid Tempo variant he named "No Dryad 2.0". Two Rio players both of whom piloted Psychatog to the top – Pedro Motta and Romario Tavora Britto, join him on the national team. Rodrigo Passamai finished fourth with r-g-u Opposition.
+![](http://www.wizards.com/worlds/images/flag_brazil.jpg)
+
+Brazilian National Champion is Victor U.Z. "Boi" Galimbertti, from Sao Paulo, who won using a Liquid Tempo variant he named "No Dryad 2.0". Two Rio players both of whom piloted Psychatog to the top – Pedro Motta and Romario Tavora Britto, join him on the national team. Rodrigo Passamai finished fourth with r-g-u Opposition.
 
 *Japan*
 
-![](http://www.wizards.com/worlds/images/flag_japan.jpg)Kazuhiko Mitsuya won $20,000 and the Champion title in Japanese Nationals, thanks to his unorthodox Psychatog variant, featuring cards like Sulfur Vent, Engineered Plague and Mana Short main deck. He defeated Michihisa Onoda's Noir deck in the finals. Yuusuke Sasaki placed third, with another Psychatog deck. 
+![](http://www.wizards.com/worlds/images/flag_japan.jpg)
+
+Kazuhiko Mitsuya won $20,000 and the Champion title in Japanese Nationals, thanks to his unorthodox Psychatog variant, featuring cards like Sulfur Vent, Engineered Plague and Mana Short main deck. He defeated Michihisa Onoda's Noir deck in the finals. Yuusuke Sasaki placed third, with another Psychatog deck. 
 
 [Coverage](https://web.archive.org/web/20020610000000/http://www.wizards.com/leaving.asp?url=http://www.wizards.com/default.asp?x=sideboard/events/jpnat02&origin=sideboard_wir_20020610)  
 [Top 8 decks](https://web.archive.org/web/20020610000000/http://www.wizards.com/leaving.asp?url=http://www.wizards.com/default.asp?x=sideboard/jpnat02/top8decks&origin=sideboard_wir_20020610)
 
 *Venezuela*
 
-![](http://www.wizards.com/worlds/images/flag_venezuela.jpg)Marlon Garcia won the Psychatog on Trenches match to become Venezuela National Champion. He defeated Rogerio Moya in the finals. Leonardo Uzcategui completes the National Team.
+![](http://www.wizards.com/worlds/images/flag_venezuela.jpg)
+
+Marlon Garcia won the Psychatog on Trenches match to become Venezuela National Champion. He defeated Rogerio Moya in the finals. Leonardo Uzcategui completes the National Team.
 
 [Coverage](https://web.archive.org/web/20020610000000/http://www.wizards.com/leaving.asp?url=http://www.magicvenezuela.com/resnacional2002.htm&origin=sideboard_wir_20020610)
 

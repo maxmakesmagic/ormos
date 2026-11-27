@@ -461,7 +461,9 @@ render_recovery:
   - Zur's Weirding
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/mi04/dt1_1.jpg)Mr. Zvi Mowshowitz (now half the man he used to be… literally) sat down this morning for an Eighth Edition Rochester draft tied for second place at 4-2. The table:
+![](http://www.wizards.com/sideboard/images/mi04/dt1_1.jpg)
+
+Mr. Zvi Mowshowitz (now half the man he used to be… literally) sat down this morning for an Eighth Edition Rochester draft tied for second place at 4-2. The table:
 
 1\. Jens Thoren  
  2. Jon Finkel  

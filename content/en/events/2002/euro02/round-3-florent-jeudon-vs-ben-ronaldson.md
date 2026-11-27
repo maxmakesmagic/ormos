@@ -53,7 +53,9 @@ archive_source:
   sha256: f54c97ce8172edc8965c61b80fd88f2d0aacdba6abd1ddcc72928293e683ae37
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a951.jpg)They are not only two "household" names in European **Magic**, above all they are known for being two of nicest and politest players in Europe. Florent is mostly known for being a member of Black Ops (along with the Ruel brothers) but is also a very strong Limited player on his own.
+![](http://www.wizards.com/sideboard/images/euro02/a951.jpg)
+
+They are not only two "household" names in European **Magic**, above all they are known for being two of nicest and politest players in Europe. Florent is mostly known for being a member of Black Ops (along with the Ruel brothers) but is also a very strong Limited player on his own.
 
 Ronaldson isn't primarily known for his Limited skills, but that is mostly due to the fact that he is one of the most known members of perhaps the best Constructed team in **Magic**: Godzilla. That can easily overshadow a few other things, **Magic**-wise.
 
@@ -83,7 +85,9 @@ Florent took a mulligan. Ben came out strong with Benevolent Bodyguard, Mesmeric
 
 That happened to be Cephalid Aristocrat, which was bigger than Ronaldon's creatures. So the Englishman was forced to sit back and play extra creatures. Florent played Battlefield Scrounger and a second Aristocrat to totally seal the table.
 
-![](http://www.wizards.com/sideboard/images/euro02/a952.jpg)Having seized control of the table Jeudon tried to get his Execute back by using Patriarch's Desire on the Fiend but Ronaldson saved it with his Bodyguard. When the Florent felt brave enough to swing with everyone Ronaldson looked at his Advocate. 
+![](http://www.wizards.com/sideboard/images/euro02/a952.jpg)
+
+Having seized control of the table Jeudon tried to get his Execute back by using Patriarch's Desire on the Fiend but Ronaldson saved it with his Bodyguard. When the Florent felt brave enough to swing with everyone Ronaldson looked at his Advocate. 
 
 Ben: "Do you think I should try to deck you?"  
  Florent: "You could try."

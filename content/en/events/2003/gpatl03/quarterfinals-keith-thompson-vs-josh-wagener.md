@@ -91,7 +91,9 @@ Amateur Keith Thompson looked a little shell-shocked as he shuffled up for his m
 
 ### Game 1
 
-![](https://i.ormos.uk/78/e9/78e925c5e0d744e415ae117474bc11516fdf5d028576f8f7f605e24e7d76ec46.jpg)Thompson won the die roll and led off with a mountain and Grim Lavamancer. It got in on his second turn but he had nothing to follow it up with. Wagener was more fortunate, and had the Mongrel. On Thompson's third turn he could muster nothing better than a Volcanic Hammer to the face. Wagener beat in for two and passed it back.
+![](https://i.ormos.uk/78/e9/78e925c5e0d744e415ae117474bc11516fdf5d028576f8f7f605e24e7d76ec46.jpg)
+
+Thompson won the die roll and led off with a mountain and Grim Lavamancer. It got in on his second turn but he had nothing to follow it up with. Wagener was more fortunate, and had the Mongrel. On Thompson's third turn he could muster nothing better than a Volcanic Hammer to the face. Wagener beat in for two and passed it back.
 
 Thompson pulled up a Call of the Herd and made a token. Wagener was ready at end of turn with a madnessed Violent Eruption, clearing his board. His turn brought out a Phantom Centaur, and things were looking dire. Thompson sent a Firebolt to the dome and played a second Call. Wagener dropped it with Volcanic Hammer and hit for seven. He played a Call of his own and seemed to be running away with things.
 
@@ -103,7 +105,9 @@ Wagener 1 – Thompson 0
 
 Thompson had to send back his first hand, and then his second. He kept his five cards with a shrug. Wagener's fans were already celebrating his supposed victory.
 
-![](https://i.ormos.uk/b2/4d/b24d6349b003135f291aab33c1f1ad3230e56f3af95a05287442918d0eb5b321.jpg)"Hey, I came back from a double mulligan just to BE here." – Josh Wagener
+![](https://i.ormos.uk/b2/4d/b24d6349b003135f291aab33c1f1ad3230e56f3af95a05287442918d0eb5b321.jpg)
+
+"Hey, I came back from a double mulligan just to BE here." – Josh Wagener
 
 Thompson opened with Shivan Oasis, and then Firebolted Wagener's Grim Lavamancer. He replaced it with a Mongrel. Thompson stalled on two lands for a turn, allowing Wagener to bring an extra Mongrel to bear. Finally Thompson got on the board with a morph.
 

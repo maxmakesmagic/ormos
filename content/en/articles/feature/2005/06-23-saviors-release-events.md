@@ -95,7 +95,9 @@ If you have not run in a Prerelease event or one of MTGO's Release events, check
 
 ### In it for the Competition? You Got It!
 
-![](https://i.ormos.uk/9c/68/9c68141814b83b440ce01c787cb19e9b0160e0e401db2aad7d5247c1f6f2c190.jpg)Those looking to whet their competitive appetites have plenty of opportunity in the Premier event flights offering 2x and even 4x in prizes! 
+![](https://i.ormos.uk/9c/68/9c68141814b83b440ce01c787cb19e9b0160e0e401db2aad7d5247c1f6f2c190.jpg)
+
+Those looking to whet their competitive appetites have plenty of opportunity in the Premier event flights offering 2x and even 4x in prizes! 
 
 *Premier Event Flights 2x prizes*  
  Starting on June 30th at 3pm, 2x flights of 24-32 players will start up every hour on the hour. The winner gets 24 boosters of Saviors, with payout down to 4 packs for eighth place. These smaller flights are a good place to get your feet wet for tournament play if you're new to the game, or if you don't have all day to spend on it.

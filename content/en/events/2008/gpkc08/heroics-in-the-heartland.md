@@ -205,7 +205,9 @@ render_recovery:
   - Thunder-Thrash Elder
   occurrences: 495
 ---
-![](https://i.ormos.uk/01/91/0191c30e2ed6cde7c95d80d3e329d14a287cd933a4df91ac8fc0b6a7e7b4ee46.jpg)The weekend has drawn to a close, and what a weekend it's been! Just under 800 players showed up to battle for the title of Grand Prix-Kansas City champion. Sealed decks have been unsealed, boosters have been drafted, and only one name remains. But before we tell his story, we turn to the stories of the players who almost made it.
+![](https://i.ormos.uk/01/91/0191c30e2ed6cde7c95d80d3e329d14a287cd933a4df91ac8fc0b6a7e7b4ee46.jpg)
+
+The weekend has drawn to a close, and what a weekend it's been! Just under 800 players showed up to battle for the title of Grand Prix-Kansas City champion. Sealed decks have been unsealed, boosters have been drafted, and only one name remains. But before we tell his story, we turn to the stories of the players who almost made it.
 
 Big names from all around the world battled through the first day with Gabriel Nassif and a contingent of Brazilians representing the rest of the globe, while the usual American suspects showed up for a shot at the prizes and glory. Mark Herberholz, Paul Cheon, Gerry Thompson, and Brandon Scheel are just some of the many who made the trip. They battled their hardest, but by the end of Sunday the Top 8 was filled with just a few of them.
 

@@ -91,7 +91,9 @@ And today I'm going to show you how to do some really sinister things while a bo
 
 ### Hate Drafting
 
-[![Gorilla_Titan](https://i.ormos.uk/dc/e7/dce72e4f692dbc22708135752bf5c05550d009a190ecbc96f2b9cd6259e7400f.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Gorilla%2BTitan)Any two-bit hack can open up an off-color bomb rare in the second or third pack and take it away from their monkey neighbor who would go absolutely bananas if they got passed said bomb rare. But there's not much evil or fun in that (whoops, I just repeated myself there).
+[![Gorilla_Titan](https://i.ormos.uk/dc/e7/dce72e4f692dbc22708135752bf5c05550d009a190ecbc96f2b9cd6259e7400f.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Gorilla%2BTitan)
+
+Any two-bit hack can open up an off-color bomb rare in the second or third pack and take it away from their monkey neighbor who would go absolutely bananas if they got passed said bomb rare. But there's not much evil or fun in that (whoops, I just repeated myself there).
 
 Most of the time it is actually best to pass the off color bomb rare in favor of a card that you will actually be able to play. For example, if I am drafting a blue-white deck and in the third pack I open an [Æthertow](https://web.archive.org/web/20080527000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=%C3%86thertow) and an [Ashenmoor Liege](https://web.archive.org/web/20080527000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ashenmoor+Liege), then I am probably going to take the [Æthertow](https://web.archive.org/web/20080527000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=%C3%86thertow).
 
@@ -134,7 +136,9 @@ Now, be careful not to go too far overboard when you are hate drafting. Sure it'
 
 ### The Hook
 
-[![Blight_Sickle](https://i.ormos.uk/28/38/2838ede41cd8da096dbb7a72d97ae62f1b40dcaf1e9cee30432e8be7b8a62099.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Blight%2BSickle)I know that my twin wasted a lot of your time talking about [how to cooperate in booster draft](/en/articles/limitedinformation/2008/03-18-a-guide-to-cooperating). I mean sure, cooperation can be used for evil purposes, you can cooperate with your neighbors to make sure that each of you will be able to inflict a lot of evil. This type of cooperation is kind of boring, but it's still important.
+[![Blight_Sickle](https://i.ormos.uk/28/38/2838ede41cd8da096dbb7a72d97ae62f1b40dcaf1e9cee30432e8be7b8a62099.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Blight%2BSickle)
+
+I know that my twin wasted a lot of your time talking about [how to cooperate in booster draft](/en/articles/limitedinformation/2008/03-18-a-guide-to-cooperating). I mean sure, cooperation can be used for evil purposes, you can cooperate with your neighbors to make sure that each of you will be able to inflict a lot of evil. This type of cooperation is kind of boring, but it's still important.
 
 But there was one part that really scratched my unfunny bone, and that was the part about switching colors on your neighbors when they are least expecting it. Please note that this maneuver is often referred to as "the hook" or "hooking" or pretty much anything with the word hook in it
 
@@ -150,7 +154,9 @@ If you step into another person's color, you might wind up derailing your own dr
 
 One thing to keep in mind is that even if you have started moving into a color that the person to your left clearly is in, there's no reason why you have to stay there. Let's say that you are getting a steady stream of blue from the person to your right, and then all of a sudden the well dries up. 
 
-[![Scar](https://i.ormos.uk/0b/6e/0b6e2750c5349f43647fd1874626f83d6001e690cb47b7b60b6f00a63497a97f.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Scar)Sure, it might seem pretty evil to stay in blue in order to spite the person to your left, at your own expense, but that won't accomplish anything. Our goal is to be evil and win, not to be evil and lose, but "I made someone else lose, hahahahah, isn't that cool, I'm so evil, hahaha...." No, that would just be self-destructive. What you should instead do is seriously consider getting out of the color. Unless you have an extremely good reason to be in a color that you are sharing with both of your next-door neighbors, then it just isn't something that you should deal with.
+[![Scar](https://i.ormos.uk/0b/6e/0b6e2750c5349f43647fd1874626f83d6001e690cb47b7b60b6f00a63497a97f.jpg)](https://web.archive.org/web/20080527000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Scar)
+
+Sure, it might seem pretty evil to stay in blue in order to spite the person to your left, at your own expense, but that won't accomplish anything. Our goal is to be evil and win, not to be evil and lose, but "I made someone else lose, hahahahah, isn't that cool, I'm so evil, hahaha...." No, that would just be self-destructive. What you should instead do is seriously consider getting out of the color. Unless you have an extremely good reason to be in a color that you are sharing with both of your next-door neighbors, then it just isn't something that you should deal with.
 
 If you are still insistent on inflicting pain on your neighbor's draft, then you can sleep well at night knowing that even though you switched out of blue, you took a number of cards that would have been very good out of your neighbor's deck. So even if you don't play them, those picks haven't been wasted for the malicious drafter.
 

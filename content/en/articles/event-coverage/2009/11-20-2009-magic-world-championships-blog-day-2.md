@@ -1217,7 +1217,9 @@ Two more interesting stories heard from the dealers: if you were looking for [Da
 
 *by Tim Willoughby*
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/worlds09/events.jpg)The World Championships here in Rome are pretty exciting. For anyone competing for the title of World Champion, with a hefty cheque and a sweet trophy to go with it, there is little doubt that this is pretty much the pinnacle. If you’re not qualified for the World Championships, though, there is still a whole heap of **Magic** to be played, and I swung by the Public Events station to get a better idea of just how much has been going on already this weekend.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/events/worlds09/events.jpg)
+
+The World Championships here in Rome are pretty exciting. For anyone competing for the title of World Champion, with a hefty cheque and a sweet trophy to go with it, there is little doubt that this is pretty much the pinnacle. If you’re not qualified for the World Championships, though, there is still a whole heap of **Magic** to be played, and I swung by the Public Events station to get a better idea of just how much has been going on already this weekend.
 
 Wednesday has been recorded in public events history as “Crazy Day.” This should not be confused with “Crazy Hat Day,” which might very well be used to describe every day of public events at this show. Wednesday was the day where Draft and Constructed events were run at rock bottom prices, to welcome the world to Worlds. Plenty of players in the championships made the most of this, along with many lucky individuals who got to draft with Pros and try out Standard with the best in the world. Over the six hours they were accepting sign-ups, nearly 200 events fired. That is a little more than one every two minutes.
 

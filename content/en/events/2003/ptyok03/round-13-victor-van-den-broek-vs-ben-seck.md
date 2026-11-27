@@ -87,7 +87,9 @@ render_recovery:
   - Willbender
   occurrences: 53
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a792.jpg)The winner of this match will play tomorrow. If Seck wins, it will be the first time an Australian has made Top 8 of a Pro Tour since Tom Champheng's Worlds Championship. Seck was quick to point out that he has never won money on the Pro Tour before this event, much less played for Top 8.
+![](http://www.wizards.com/sideboard/images/ptyok03/a792.jpg)
+
+The winner of this match will play tomorrow. If Seck wins, it will be the first time an Australian has made Top 8 of a Pro Tour since Tom Champheng's Worlds Championship. Seck was quick to point out that he has never won money on the Pro Tour before this event, much less played for Top 8.
 
 ### Game 1
 

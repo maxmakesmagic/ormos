@@ -107,7 +107,9 @@ This semifinal saw two big names in U.S. Magic met this round to determine who w
 
 ### Game 1
 
-![](https://i.ormos.uk/a6/a7/a6a756c05797e6e6ebfe16252cb91627bcdb1c2f3ed3e7e28153d3d62f3d8d57.jpg)Linde opened with a Cabal Therapy and thought back to his pre-match discussions with Gabriel Nassif and Brian Kibler. He chose Wild Mongrel, and scored, leaving behind Volcanic Hammer, Violent Eruption, Phantom Centaur and Elephant Guide. Wagener's second turn came and went with a shrug and a Hammer directed at Linde's dome. Linde played a facedown Angel and hoped, but Wagener had drawn a second Hammer.
+![](https://i.ormos.uk/a6/a7/a6a756c05797e6e6ebfe16252cb91627bcdb1c2f3ed3e7e28153d3d62f3d8d57.jpg)
+
+Linde opened with a Cabal Therapy and thought back to his pre-match discussions with Gabriel Nassif and Brian Kibler. He chose Wild Mongrel, and scored, leaving behind Volcanic Hammer, Violent Eruption, Phantom Centaur and Elephant Guide. Wagener's second turn came and went with a shrug and a Hammer directed at Linde's dome. Linde played a facedown Angel and hoped, but Wagener had drawn a second Hammer.
 
 He untapped and cycled a Decree of Justice for a single soldier, fuelling the flashback on Cabal Therapy and snagging the Phantom Centaur, leaving Wagener with no men in hand. Skeletal Scrying got him some cards, and then he had an Eternal Dragon on the board. Wagener pulled up Birds of Paradise and put them into play, then dropped the Guide on them, giving it back.
 
@@ -119,7 +121,9 @@ Linde 1 – Wagener 0
 
 Wagener had to ship his opening hand back because of its single forest. His next six had two, and he kept. Linde fired first with Cabal Therapy for Wild Mongrel. It missed. Wagener held Call of the Herd, Elephant Guide, Firebolt, Naturalize and a forest. His draws were good, though, and while Linde cycled his Eternal Dragon, Wagener was getting in with Call of the Herd and Sulfuric Vortex.
 
-![](https://i.ormos.uk/4a/79/4a79af671d19360d91858b625ff998d1e5144da3d3e3e82ec0167bfe1f05a749.jpg)Linde blunted the token's attack for a turn with a cycled Decree of Justice, but Wagener had more pressure in the form of a Basking Rootwalla that got the Elephant Guide. Linde played his fifth land and put an Undead Gladiator in the way. Firebolt got rid of it, but Linde had Smother to spare himself a lot of hurt. The Vortex put him to eight. He hit six land, and Vengeanced the board away.
+![](https://i.ormos.uk/4a/79/4a79af671d19360d91858b625ff998d1e5144da3d3e3e82ec0167bfe1f05a749.jpg)
+
+Linde blunted the token's attack for a turn with a cycled Decree of Justice, but Wagener had more pressure in the form of a Basking Rootwalla that got the Elephant Guide. Linde played his fifth land and put an Undead Gladiator in the way. Firebolt got rid of it, but Linde had Smother to spare himself a lot of hurt. The Vortex put him to eight. He hit six land, and Vengeanced the board away.
 
 Wagener flashed back his Call. Linde picked up his Gladiator and dropped Sphere of Law, dropping to five from Wagener's attack. Wagener showed a second Call of the Herd. Linde untapped and then tapped five, catching Wagener with a Haunting Echoes that stripped his most of his Rootwallas, Calls, Firebolts, Vortices, and Elephant Guides. He had Ghastly Demise to survive the attack, but now he was at two.
 
@@ -131,7 +135,9 @@ Linde 1 – Wagener 1
 
 While dealing out his opening hand for Game 3, Wagener accidentally pulled two cards with his last draw, seeing what would be the top card of his deck. He noted his error and brought it to the attention of the table judge, who gave him a warning and forced him to mulligan. He checked the top ten cards of his deck: lands and Birds. That was something. His next six were far from enticing. Two mountains, Firebolt, Stabilizer and two Rootwallas. He kept.
 
-![](https://i.ormos.uk/af/c3/afc326bd55342cae5ee1a1c1c15089351d59f6b73df3c96a8908efdefea6fccd.jpg)Linde led off and watched as Wagener played Grim Lavamancer and Basking Rootwalla. He cycled an Eternal Dragon and passed it back. Wagener hit and dropped a Stabilizer, forcing Linde to cycle his Wipe Clean while he could. He played his fourth land and passed it back. Wagener hit, and deliberated pumping his Rootwalla. He did, and Linde showed him Ghastly Demise. Firebolt went to the dome, and he was done.
+![](https://i.ormos.uk/af/c3/afc326bd55342cae5ee1a1c1c15089351d59f6b73df3c96a8908efdefea6fccd.jpg)
+
+Linde led off and watched as Wagener played Grim Lavamancer and Basking Rootwalla. He cycled an Eternal Dragon and passed it back. Wagener hit and dropped a Stabilizer, forcing Linde to cycle his Wipe Clean while he could. He played his fourth land and passed it back. Wagener hit, and deliberated pumping his Rootwalla. He did, and Linde showed him Ghastly Demise. Firebolt went to the dome, and he was done.
 
 Linde hard cast Renewed Faith before untapping, played his fifth land, and was done. With one Demise out of the way, Wagener went for the Guide on his Lavamancer. Linde showed him a second Demise. Wagener played a Rootwalla and was done. Linde calmly picked up his Dragon. Wagener played Vortex, and the crowd gasped when Linde wrecked his position with Akroma's Vengeance. The Dragon followed and he started beating.
 

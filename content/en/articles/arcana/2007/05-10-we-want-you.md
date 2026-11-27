@@ -67,7 +67,9 @@ render_recovery: []
 
 Does this sound like your normal work day? It could.
 
-![](https://i.ormos.uk/67/93/679321782974b14314123e33a23cbca838f238a69b5047d3043ac666eed71d1b.jpg)My name is Don Frazier, and I'm the web development manager for Wizards of the Coast. As part of the Digital Gaming Initiative that [Randy Buehler announced](/en/articles/feature/2007/01-26-wizards-of-the-coasts-digital-initiative), we are looking for someone to join us as a web developer to work on **magicthegathering.com** and the Gatherer search application. This is a full time position located in Renton, Washington. The qualifications for the position are:
+![](https://i.ormos.uk/67/93/679321782974b14314123e33a23cbca838f238a69b5047d3043ac666eed71d1b.jpg)
+
+My name is Don Frazier, and I'm the web development manager for Wizards of the Coast. As part of the Digital Gaming Initiative that [Randy Buehler announced](/en/articles/feature/2007/01-26-wizards-of-the-coasts-digital-initiative), we are looking for someone to join us as a web developer to work on **magicthegathering.com** and the Gatherer search application. This is a full time position located in Renton, Washington. The qualifications for the position are:
 
 *   You must be passionate about **Magic: The Gathering**. No posers here! While you don't have to have won, or even played in, a Pro Tour, knowledge of the game and its history is essential.
 *   You must show innovation. We want to provide the players who come to our site with lots of really cool tools, and at least half of this job will be coming up with and implementing those tools.

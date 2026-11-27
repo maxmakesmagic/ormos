@@ -781,7 +781,9 @@ Eh? What's that? You were expecting someone else? Biggish, and likely to be foun
 
 ### Guest-er's Cap
 
-![Stalking_Yeti](https://i.ormos.uk/ce/1f/ce1f8730e6210b26660cc36f1d7c3f9601931a2ed577d83b9919deeff783d10b.jpg)I kid, I kid. Of course I know whom you're referring to. (Isn't hearing voices just the greatest?) The question is: Do you know who I am? To bring everyone up to speed, my name is Noel deCordova, and I'll be filling in for Chris today. The powers that be at **magicthegathering.com** have decreed it so.
+![Stalking_Yeti](https://i.ormos.uk/ce/1f/ce1f8730e6210b26660cc36f1d7c3f9601931a2ed577d83b9919deeff783d10b.jpg)
+
+I kid, I kid. Of course I know whom you're referring to. (Isn't hearing voices just the greatest?) The question is: Do you know who I am? To bring everyone up to speed, my name is Noel deCordova, and I'll be filling in for Chris today. The powers that be at **magicthegathering.com** have decreed it so.
 
 If my name seems familiar for any reason, it should be because I have a fond passion for flooding Chris's inbox full of potential combos most times a set is released, and some of these ideas survive a tedious judging process before being voted 'Magical Idol.' If my name is familiar for any other reason, then I either know you (Hi Mom! Hi Wes! Hi Asia!) or you're a Stalking Yeti. And if you're the latter, might I recommend the lovely armory of Velis Vel? Blades and Shields at half price!
 

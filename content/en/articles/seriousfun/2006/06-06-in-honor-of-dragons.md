@@ -295,7 +295,9 @@ As he made an exclamation of disgust, I lifted my hands in victory. "I turned th
 
 *(I may – MAY, mind you – have taken some poetic license with the story above. It's possible, upon further reflection, that Todd was even more of a tool.)*
 
-![](https://i.ormos.uk/cd/76/cd7695224b0a88e43d50ee391969c0fe1d5041b4bd9b57635268c51853361737.jpg)Wizards flew me down to the Windy City, kept me up in the event hotel, and gave me plenty of time to have dinner and drinks with one Michelle, who at the time was a minor celebrity in the **Magic** world because of her strong play skills and engaging writing for sites like starcitygames.com. Michelle and I got along great, and I called my beautiful but devious wife each and every night I was in Chicago to let her know what an amazing person Michelle was.
+![](https://i.ormos.uk/cd/76/cd7695224b0a88e43d50ee391969c0fe1d5041b4bd9b57635268c51853361737.jpg)
+
+Wizards flew me down to the Windy City, kept me up in the event hotel, and gave me plenty of time to have dinner and drinks with one Michelle, who at the time was a minor celebrity in the **Magic** world because of her strong play skills and engaging writing for sites like starcitygames.com. Michelle and I got along great, and I called my beautiful but devious wife each and every night I was in Chicago to let her know what an amazing person Michelle was.
 
 "Michelle's funny as hell," I would tell her.
 
@@ -321,7 +323,9 @@ Of course, Mark was absolutely right to be a stickler: "Red Zone" **Magic** play
 
 We've strayed a bit from the dragons, but don't worry; they'll wait for us.
 
-![](https://i.ormos.uk/3b/40/3b40780ff490f947893dc5e2d415a95a9eaeeed42c025d6a26ec73dec98bee99.jpg)For **magicthegathering.com** trivia freaks: Pro Tour--Chicago 2000 was also my first run-in with Scott Johns, who is now the current content manager for this site. I was incredibly stupid in my interview with him (which came after a heartbreaking loss, though I don't recall to whom or how), and I asked him questions like, "how does it feel to lose such a close game?" You know, just like those ridiculous sideline reporters at football games who ask struggling coaches coming back from halftime, "what does your team need to do to win?" Scott avoided punching me in the nose, but he did let me know he thought the interview could be better managed. Then he walked away. Even after that incredible show of restraint, he actually approached me later and apologized. *He* apologized. To *me*. Naturally, I accepted and told him I didn't expect to see that sort of behavior again… ever.
+![](https://i.ormos.uk/3b/40/3b40780ff490f947893dc5e2d415a95a9eaeeed42c025d6a26ec73dec98bee99.jpg)
+
+For **magicthegathering.com** trivia freaks: Pro Tour--Chicago 2000 was also my first run-in with Scott Johns, who is now the current content manager for this site. I was incredibly stupid in my interview with him (which came after a heartbreaking loss, though I don't recall to whom or how), and I asked him questions like, "how does it feel to lose such a close game?" You know, just like those ridiculous sideline reporters at football games who ask struggling coaches coming back from halftime, "what does your team need to do to win?" Scott avoided punching me in the nose, but he did let me know he thought the interview could be better managed. Then he walked away. Even after that incredible show of restraint, he actually approached me later and apologized. *He* apologized. To *me*. Naturally, I accepted and told him I didn't expect to see that sort of behavior again… ever.
 
 So then they go and make him my boss. Karma again, I suppose.
 

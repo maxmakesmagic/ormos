@@ -1038,7 +1038,9 @@ Phantom Wings is another card that has pleasantly surprised me in practice. The 
 
 *IN*: 4 Echoing Truth
 
-![](https://i.ormos.uk/65/bc/65bc0c6bdcdde20fd3446e93b2960310d4b65a8c7cf80499c3bbf1b2ac5ad6b7.jpg)Here is my current replacement for the function of Phantom Wings. Its primary role is to remove blockers, but it can also save my creatures in a pinch. I like that it can potentially remove multiple blockers at one time (if I could use AEther Burst or Rushing River here, I probably would), which is why I give it the nod over the also-good-idea AEther Spellbomb. In particular, Echoing Truth can really mess with decks that rely on Insect, Myr, Spirit, or Snake tokens, all of which I'm seeing in increasing number in the Casual Constructed room. Finally, it can also bounce artifacts and enchantments, which is bound to be useful. As with every other choice I've made, I'll try it and see.
+![](https://i.ormos.uk/65/bc/65bc0c6bdcdde20fd3446e93b2960310d4b65a8c7cf80499c3bbf1b2ac5ad6b7.jpg)
+
+Here is my current replacement for the function of Phantom Wings. Its primary role is to remove blockers, but it can also save my creatures in a pinch. I like that it can potentially remove multiple blockers at one time (if I could use AEther Burst or Rushing River here, I probably would), which is why I give it the nod over the also-good-idea AEther Spellbomb. In particular, Echoing Truth can really mess with decks that rely on Insect, Myr, Spirit, or Snake tokens, all of which I'm seeing in increasing number in the Casual Constructed room. Finally, it can also bounce artifacts and enchantments, which is bound to be useful. As with every other choice I've made, I'll try it and see.
 
 *IN*: 2 Shuriken
 

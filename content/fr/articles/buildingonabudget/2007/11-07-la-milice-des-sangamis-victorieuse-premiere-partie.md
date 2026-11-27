@@ -610,7 +610,9 @@ Avant que nous ne commencions, laissez moi partager avec vous le courriel suivan
 
 Et bien Zachary, vous avez raison — normalement les excellents gars de Wizards of the Coast fournissent à mon compte BuildingonaBudget quatre exemplaires de chaque carte disponible en ligne. Quand j’entre et sors des cartes d’un deck, je vérifie le prix des cartes changées auprès de multiples sources en ligne, afin d’être sûr que les cartes que j’utilise restent dans le budget. Cependant, vous avez raison quand vous dites je n’ai pas besoin de tenir compte du *temps* nécessaire pour rechercher ces cartes —elles sont déjà sur mon compte.
 
-![Angry_Mob](https://i.ormos.uk/a5/79/a579230e95b42c17b870103d4137e1213bc1df58802828452a59d94e72411816.jpg)Donc imaginez ma surprise lorsque j’ai connecté mon compte pour commencer à faire des parties de test pour cette semaine, et découvert que oups ! Quelqu’un a oublié de charger la moindre carte *Lorwyn* sur mon compte ! Cela m’a laissé trois possibilités : 
+![Angry_Mob](https://i.ormos.uk/a5/79/a579230e95b42c17b870103d4137e1213bc1df58802828452a59d94e72411816.jpg)
+
+Donc imaginez ma surprise lorsque j’ai connecté mon compte pour commencer à faire des parties de test pour cette semaine, et découvert que oups ! Quelqu’un a oublié de charger la moindre carte *Lorwyn* sur mon compte ! Cela m’a laissé trois possibilités : 
 
 1.  Ne pas écrire mon article cette semaine, et laisser Scott Johns et Kelly Digges jouer à tour de rôle au « Piñata humain » avec mon corps ligoté.
 

@@ -81,7 +81,9 @@ render_recovery:
   - Menacing Ogre
   occurrences: 27
 ---
-![](http://www.wizards.com/sideboard/images/gpkyo03/a987.jpg)Though not well-known two weeks ago, Akihiro Kashima is enjoying a whirlwind of fame. At Venice he became just the second Japanese player to crack the Top 8 of a Pro Tour, playing a home-brewed green-white-black Vegetation deck. It earned him immediate recognition. He's not as confident about his Limited game, but hopes that success will breed success this weekend. Standing in his way this round is newcomer Yuusuke Nakamura, who came to this event with only one bye. He defeated his second-round opponent handily, and is excited about his chances.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a987.jpg)
+
+Though not well-known two weeks ago, Akihiro Kashima is enjoying a whirlwind of fame. At Venice he became just the second Japanese player to crack the Top 8 of a Pro Tour, playing a home-brewed green-white-black Vegetation deck. It earned him immediate recognition. He's not as confident about his Limited game, but hopes that success will breed success this weekend. Standing in his way this round is newcomer Yuusuke Nakamura, who came to this event with only one bye. He defeated his second-round opponent handily, and is excited about his chances.
 
 ### Game 1
 
@@ -95,7 +97,9 @@ Nakamura 1 – Kashima 0
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpkyo03/a986.jpg)Kashima's draw for Game 2 was a welcome change. While Nakamura laid lands he was getting busy with Sparksmith and Leery Fogbeast. A cycled Solar Blast took down the 'Smith, but that was no worry to Kashima who held no other goblins. He bashed for four and added a morph. Nakamura showed him one of his own, and rather than Shocking it and coming through for six, Nakamura sent his morph in for the trade, and then added Ridgetop Raptor.
+![](http://www.wizards.com/sideboard/images/gpkyo03/a986.jpg)
+
+Kashima's draw for Game 2 was a welcome change. While Nakamura laid lands he was getting busy with Sparksmith and Leery Fogbeast. A cycled Solar Blast took down the 'Smith, but that was no worry to Kashima who held no other goblins. He bashed for four and added a morph. Nakamura showed him one of his own, and rather than Shocking it and coming through for six, Nakamura sent his morph in for the trade, and then added Ridgetop Raptor.
 
 Nakamura punished him with Noxious Ghoul. A topdecked Solar Blast got it out of the way for four more damage. Nakamura was ready with a pair of morphs. Kashima had only Goblin Grappler. Still he held back on his Shock, trading his Fogbeast for one of the morphs and taking two more damage. Nakamura played the first really big gun: Rockshard Elemental. Kashima had no rejoinder. Just to make sure, Nakamura followed up with Menacing Ogre, winning the bid. Holding back on that Shock cost Kashima, big time.
 

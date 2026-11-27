@@ -78,7 +78,9 @@ render_recovery:
   - Vile Deacon
   occurrences: 38
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a692.jpg)Mattias has had his breakout season this year, making his third top eight in just four events. In the previous editions of Pro Tour Sundays he hadn't made it past the quarterfinals though. He did accomplish the quarterfinals win this time around but had to face Jonny Magic on his way to the Pro Tour Finals; Jonny Magic – arguably the best player the game has ever known. That title still goes to Kai Budde but the American wouldn't settle for second place and has started playing in Pro Tour Sundays again as well. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a692.jpg)
+
+Mattias has had his breakout season this year, making his third top eight in just four events. In the previous editions of Pro Tour Sundays he hadn't made it past the quarterfinals though. He did accomplish the quarterfinals win this time around but had to face Jonny Magic on his way to the Pro Tour Finals; Jonny Magic – arguably the best player the game has ever known. That title still goes to Kai Budde but the American wouldn't settle for second place and has started playing in Pro Tour Sundays again as well. 
 
 ### Game 1
 
@@ -86,7 +88,9 @@ Jorstedt won the flip and started off with a Goblin Taskmaster and a Goblin Sled
 
 Jorstedt unmorphed his unblocked Haunted Cadaver and tore apart Finkel's hand. Finkel kept his Elvish Warrior and Wirewood Elf after discarding a pair of Bronthotheriums. Those two came out next turn and the second Elvish Warrior traded with Jorstedt's Goblin Taskmaster. Jorstedt however hadn't drawn a single spell besides those three so far and Finkel's elves beat the Swede down to 8 before he drew his next spell – a Wretched Anurid.
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a698.jpg)Finkel hadn't drawn any extra spells either until the Wretched Anurid went into the Red Zone. Finkel answered it with a morphed Skirk Commando. An Anurid Murkdiver came down for Jorstedt next turn, taking Jorstedt down to 6 life. The Wretched Anurid kept on beating and took Finkel down to 10 life. With a Crested Craghorn and Wave of Indifference in hand and a bunch of land on the table Jorstedt dodged Finkel's amazing deck in Game 1.
+![](http://www.wizards.com/sideboard/images/ptyok03/a698.jpg)
+
+Finkel hadn't drawn any extra spells either until the Wretched Anurid went into the Red Zone. Finkel answered it with a morphed Skirk Commando. An Anurid Murkdiver came down for Jorstedt next turn, taking Jorstedt down to 6 life. The Wretched Anurid kept on beating and took Finkel down to 10 life. With a Crested Craghorn and Wave of Indifference in hand and a bunch of land on the table Jorstedt dodged Finkel's amazing deck in Game 1.
 
 Jorstedt 1 – Finkel 0
 

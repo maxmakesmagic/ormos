@@ -44,7 +44,9 @@ archive_source:
   sha256: 9faaf6d52c4754b337c785433d397a3de6f15590c005591aee601c9d893fdfdd
 render_recovery: []
 ---
-![](https://i.ormos.uk/1a/b0/1ab0b4e56a4b23373ff35f07b0713592582a58dd7b4125ba0f360b066b0e4b9c.jpg)Dirk Baberowski is one of the top German players. He took a brief pause from the game then returned with a bang as part of Phoenix Foundation and has been a regular competitor at the major events since. Jeroen Remie is one of many Dutch players that perform consistently well on the Pro Tour. His breakout performance came out at Pro Tour Houston.
+![](https://i.ormos.uk/1a/b0/1ab0b4e56a4b23373ff35f07b0713592582a58dd7b4125ba0f360b066b0e4b9c.jpg)
+
+Dirk Baberowski is one of the top German players. He took a brief pause from the game then returned with a bang as part of Phoenix Foundation and has been a regular competitor at the major events since. Jeroen Remie is one of many Dutch players that perform consistently well on the Pro Tour. His breakout performance came out at Pro Tour Houston.
 
 Remie has a solid black-red deck. Baberowski has a white-red deck with a couple of rare bombs in Akroma and [Riptide Replicator](https://web.archive.org/web/20030412000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riptide+Replicator). 
 

@@ -86,19 +86,27 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 ![What's being said about us...](http://www.wizards.com/mtg/images/widgets/twitter/header.png)
 
-[![](http://a3.twimg.com/profile_images/76102507/n24409040_33717658_1207_normal.jpg)](http://twitter.com/skyout)[**skyout**](http://twitter.com/skyout) Modifying my Mythic deck to Mythic Conscription. [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) Loving the Cloudpost too -- heres hoping they make more locus in Scars of Mirrodin.
+[![](http://a3.twimg.com/profile_images/76102507/n24409040_33717658_1207_normal.jpg)](http://twitter.com/skyout)
+
+[**skyout**](http://twitter.com/skyout) Modifying my Mythic deck to Mythic Conscription. [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) Loving the Cloudpost too -- heres hoping they make more locus in Scars of Mirrodin.
 
 5/6/2010 9:13:32 AM
 
-[![](http://a3.twimg.com/profile_images/341120099/newAva_normal.PNG)](http://twitter.com/wortwelt)[**wortwelt**](http://twitter.com/wortwelt) [@mulldrifting](http://twitter.com/mulldrifting) problem is, it can be the strongest decks when open. Our [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) draft showed that it's pretty awesome.
+[![](http://a3.twimg.com/profile_images/341120099/newAva_normal.PNG)](http://twitter.com/wortwelt)
+
+[**wortwelt**](http://twitter.com/wortwelt) [@mulldrifting](http://twitter.com/mulldrifting) problem is, it can be the strongest decks when open. Our [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) draft showed that it's pretty awesome.
 
 5/6/2010 5:27:35 AM
 
-[![](http://a1.twimg.com/profile_images/802066940/Copy_of_0406100818-01_normal.jpg)](http://twitter.com/OAFaye)[**OAFaye**](http://twitter.com/OAFaye) Working on my Naya deck for [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) this week. Feeling really good about it
+[![](http://a1.twimg.com/profile_images/802066940/Copy_of_0406100818-01_normal.jpg)](http://twitter.com/OAFaye)
+
+[**OAFaye**](http://twitter.com/OAFaye) Working on my Naya deck for [**#MTGFNM**](http://search.twitter.com/search?q=%23MTGFNM) this week. Feeling really good about it
 
 5/5/2010 6:54:12 PM
 
-[![](http://a3.twimg.com/profile_images/95585343/Worf__Soul_by_stubberella_normal.jpg)](http://twitter.com/jabberman)[**jabberman**](http://twitter.com/jabberman) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) : I won a Bloodbraid elf from a draw at last weeks FNM & that saturday, I won a Booster Box of Rise of Eldrazi. Luck up ass Much? Ya
+[![](http://a3.twimg.com/profile_images/95585343/Worf__Soul_by_stubberella_normal.jpg)](http://twitter.com/jabberman)
+
+[**jabberman**](http://twitter.com/jabberman) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) : I won a Bloodbraid elf from a draw at last weeks FNM & that saturday, I won a Booster Box of Rise of Eldrazi. Luck up ass Much? Ya
 
 5/5/2010 2:27:01 PM
 
@@ -106,11 +114,15 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/3/2010 2:32:48 PM
 
-[![](http://a3.twimg.com/profile_images/387109149/Zardoz_normal.JPG)](http://twitter.com/CopySix)[**CopySix**](http://twitter.com/CopySix) I pulled a lovely Gideon out of a pack at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) on Friday - used up all my luck and lost every game after.
+[![](http://a3.twimg.com/profile_images/387109149/Zardoz_normal.JPG)](http://twitter.com/CopySix)
+
+[**CopySix**](http://twitter.com/CopySix) I pulled a lovely Gideon out of a pack at [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) on Friday - used up all my luck and lost every game after.
 
 5/3/2010 9:58:33 AM
 
-[![](http://a1.twimg.com/profile_images/802066940/Copy_of_0406100818-01_normal.jpg)](http://twitter.com/OAFaye)[**OAFaye**](http://twitter.com/OAFaye) My first ever paper tourney last night: 2-3. beat: UG Polymorph, Eldrazi Green. Lost: Jund, UW Control, Naya Mirror [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
+[![](http://a1.twimg.com/profile_images/802066940/Copy_of_0406100818-01_normal.jpg)](http://twitter.com/OAFaye)
+
+[**OAFaye**](http://twitter.com/OAFaye) My first ever paper tourney last night: 2-3. beat: UG Polymorph, Eldrazi Green. Lost: Jund, UW Control, Naya Mirror [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm)
 
 5/1/2010 11:00:55 AM
 
@@ -118,7 +130,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 5/1/2010 2:30:35 AM
 
-[![](http://a1.twimg.com/profile_images/66114308/TopiAvi_normal.jpg)](http://twitter.com/TopiOtter)[**TopiOtter**](http://twitter.com/TopiOtter) Running [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) again. Rise of the eldrazi sealed deck. Judge Dave is playing tonight.
+[![](http://a1.twimg.com/profile_images/66114308/TopiAvi_normal.jpg)](http://twitter.com/TopiOtter)
+
+[**TopiOtter**](http://twitter.com/TopiOtter) Running [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) again. Rise of the eldrazi sealed deck. Judge Dave is playing tonight.
 
 4/30/2010 6:57:13 PM
 
@@ -130,7 +144,9 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 4/30/2010 5:55:47 PM
 
-[![](http://a3.twimg.com/profile_images/387109149/Zardoz_normal.JPG)](http://twitter.com/CopySix)[**CopySix**](http://twitter.com/CopySix) I'm off to [**#mtgFNM**](http://search.twitter.com/search?q=%23mtgFNM) tonight - missed a few. Still haven't collected all my [#roe](http://search.twitter.com/search?q=%23roe) cards I need to seriously tweak the deck.
+[![](http://a3.twimg.com/profile_images/387109149/Zardoz_normal.JPG)](http://twitter.com/CopySix)
+
+[**CopySix**](http://twitter.com/CopySix) I'm off to [**#mtgFNM**](http://search.twitter.com/search?q=%23mtgFNM) tonight - missed a few. Still haven't collected all my [#roe](http://search.twitter.com/search?q=%23roe) cards I need to seriously tweak the deck.
 
 4/30/2010 3:35:55 PM
 
@@ -138,11 +154,15 @@ Stores around the world are running Friday Night **Magic** nearly every week. Us
 
 4/30/2010 12:08:04 PM
 
-[![](http://a1.twimg.com/profile_images/813550420/201004111404000_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) 三回戦目なう。ち●こなう。 [http://p.ybt.jp/g\_remix/4bdaeab6a433f.jpg](http://p.ybt.jp/g_remix/4bdaeab6a433f.jpg)
+[![](http://a1.twimg.com/profile_images/813550420/201004111404000_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) 三回戦目なう。ち●こなう。 [http://p.ybt.jp/g\_remix/4bdaeab6a433f.jpg](http://p.ybt.jp/g_remix/4bdaeab6a433f.jpg)
 
 4/30/2010 10:35:39 AM
 
-[![](http://a1.twimg.com/profile_images/813550420/201004111404000_normal.jpg)](http://twitter.com/g_remix)[**g\_remix**](http://twitter.com/g_remix) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) 二回戦目なう。 [http://p.ybt.jp/g\_remix/4bdae0bc0b580.jpg](http://p.ybt.jp/g_remix/4bdae0bc0b580.jpg)
+[![](http://a1.twimg.com/profile_images/813550420/201004111404000_normal.jpg)](http://twitter.com/g_remix)
+
+[**g\_remix**](http://twitter.com/g_remix) [**#mtgfnm**](http://search.twitter.com/search?q=%23mtgfnm) 二回戦目なう。 [http://p.ybt.jp/g\_remix/4bdae0bc0b580.jpg](http://p.ybt.jp/g_remix/4bdae0bc0b580.jpg)
 
 4/30/2010 9:53:01 AM
 

@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Michelle Bush* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/922.jpg)The first round of the Master's draft pitted American Darwin Kastle against Japan's Satoshi Nakamura. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/922.jpg)
+
+The first round of the Master's draft pitted American Darwin Kastle against Japan's Satoshi Nakamura. 
 
 Darwin Kastle, a 29 year old from Medford, Massachusetts, is a perfect example how the master's series has enabled some top level players to truly go "pro." The extra money provided by the Master's series gave Kastle the incentive he recently needed to leave his job as manager of Your Move Games and pursue Magic as a full time career. He is best known as the man behind Avalanche Riders, the card he designed for winning the 1997 Magic Invitational. He is co-champion of Team Pro Tour - Washington DC, winner of Grand Prix - Manchester, and has several other Pro Tour Top 8s to his credit. 
 

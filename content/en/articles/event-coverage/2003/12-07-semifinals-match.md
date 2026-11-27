@@ -44,7 +44,9 @@ archive_source:
   sha256: b82bc88feecf33e774457711330c0ff257d5f2299654413c7eb251afef28fa01
 render_recovery: []
 ---
-![](https://i.ormos.uk/fe/64/fe643a0a2af0fb98187424fe0944747f0cb722689d41421b459cc42299397a18.jpg)Georgios Kapalas from Greece is probably having a good time in Munich, after all he is winning. He ended the swiss in 1st place. Yann Hamon is slowly approaching another Grand Prix victory. But now one of them will have to stop the streak and console himself with only a Top 4 finish.
+![](https://i.ormos.uk/fe/64/fe643a0a2af0fb98187424fe0944747f0cb722689d41421b459cc42299397a18.jpg)
+
+Georgios Kapalas from Greece is probably having a good time in Munich, after all he is winning. He ended the swiss in 1st place. Yann Hamon is slowly approaching another Grand Prix victory. But now one of them will have to stop the streak and console himself with only a Top 4 finish.
 
 Both players had access to each other decklists at the table. Yann asks what Georgios think of the matchup. Georgios respond him, saying that it will be a long game, to which Yann nodded his head and seemed to disagree. After all he is playing an aggressive Blue Green tempo deck.
 

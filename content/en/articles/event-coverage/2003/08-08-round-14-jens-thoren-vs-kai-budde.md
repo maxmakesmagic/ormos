@@ -44,7 +44,9 @@ archive_source:
   sha256: 9ffb6c1367cdd968a0d5f733cd599a6181a51b0373a55386d3ecf30922d8f304
 render_recovery: []
 ---
-![](https://i.ormos.uk/4c/cd/4ccd461ae0ea62090853a088ed1e205e2bdbb78cb9e456e105873887a0f9aefb.jpg)What can you say about Kai Budde that hasn't been said before? Smut peddler! The best player in Magic history is using barely clothed model cards as [Verdant Force](https://web.archive.org/web/20030808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Force) tokens today, for either his own amusement, to distract his opponents, or to entertain spectators. Budde and his opponent Jens Thoren are two of Europe's best, and at 10-3 have a good shot at making Top 8, especially with a win here. Thoren is playing Sligh while Budde has Reanimator, so the games should be quick one way or another.
+![](https://i.ormos.uk/4c/cd/4ccd461ae0ea62090853a088ed1e205e2bdbb78cb9e456e105873887a0f9aefb.jpg)
+
+What can you say about Kai Budde that hasn't been said before? Smut peddler! The best player in Magic history is using barely clothed model cards as [Verdant Force](https://web.archive.org/web/20030808000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Force) tokens today, for either his own amusement, to distract his opponents, or to entertain spectators. Budde and his opponent Jens Thoren are two of Europe's best, and at 10-3 have a good shot at making Top 8, especially with a win here. Thoren is playing Sligh while Budde has Reanimator, so the games should be quick one way or another.
 
 ### Game 1
 

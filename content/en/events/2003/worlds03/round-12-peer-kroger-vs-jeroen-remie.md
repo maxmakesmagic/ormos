@@ -76,7 +76,9 @@ render_recovery:
   - Vengeance
   occurrences: 23
 ---
-![](https://i.ormos.uk/55/4f/554fbfac6a1f94b945a29399ada2a92e2d669802fac5851766f543d644f011b0.jpg)For those of you who were following Magic "back in tha day" might recognize the name of two-time Pro Tour Top 8'er "Peerless" Peer Kröger. Well, the original German has dusted off the wand and is taking Worlds by storm. He's sitting comfortably with a 9-2 record. Not as comfortable as Dutch dynamo Jeroen Remie. Starting with his Top 8 at Houston at the beginning of the season, Remie has been in top form. After going undefeated on the first day, he's only dropped a single match in draft, and he'd like to keep that streak alive. 
+![](https://i.ormos.uk/55/4f/554fbfac6a1f94b945a29399ada2a92e2d669802fac5851766f543d644f011b0.jpg)
+
+For those of you who were following Magic "back in tha day" might recognize the name of two-time Pro Tour Top 8'er "Peerless" Peer Kröger. Well, the original German has dusted off the wand and is taking Worlds by storm. He's sitting comfortably with a 9-2 record. Not as comfortable as Dutch dynamo Jeroen Remie. Starting with his Top 8 at Houston at the beginning of the season, Remie has been in top form. After going undefeated on the first day, he's only dropped a single match in draft, and he'd like to keep that streak alive. 
 
 ### Game 1
 
@@ -94,7 +96,9 @@ Again Kröger had the Festering Goblin in the second game, but now he was leadin
 
 "Yep. Pure skill, that." – Jeroen Remie
 
-![](https://i.ormos.uk/23/69/23692f883c4362538641857a26ea274488d42823e908c879b756f1923a67216f.jpg)He shot down the first morph, a Sootfeather Flock, and was so excited about stopping the remaining Skinthinner with Mage's Guile that he forgot to draw a card for his Runecaster. It didn't matter. Sage Aven got him a Seaswift and Erratic Explosion in hand meant he wouldn't have to draw all those lands. Bladewing's Thrall showed up just in time to take the Explosion in the face.
+![](https://i.ormos.uk/23/69/23692f883c4362538641857a26ea274488d42823e908c879b756f1923a67216f.jpg)
+
+He shot down the first morph, a Sootfeather Flock, and was so excited about stopping the remaining Skinthinner with Mage's Guile that he forgot to draw a card for his Runecaster. It didn't matter. Sage Aven got him a Seaswift and Erratic Explosion in hand meant he wouldn't have to draw all those lands. Bladewing's Thrall showed up just in time to take the Explosion in the face.
 
 Aurification from Kröger would have been gangbusters if not for Remie's Seaswift. Aphetto Exterminator took down the Runecaster (though this time Remie made sure to get his card), but soon after Remie showed him a second Skill. If only he could finish the Seaswift, he could stabilize. Infernal Caretaker got him back the Skinthinner, but he failed to draw an eighth land.
 

@@ -53,7 +53,9 @@ archive_source:
   sha256: a5daca6a52ccb3b29ad7cca14315bbd1955cba96d0492f1fed3b813db6d15852
 render_recovery: []
 ---
-![](http://www.wizards.com/sideboard/images/euro02/a824.jpg)In the quarterfinals, Anton Jonsson from Sweden was paired up against David Brucker from Germany. Unfortunately for Jonsson, who played Mr. Finland, he had encountered the only really bad match-up of the whole playoff—Brucker's Psychatog deck.
+![](http://www.wizards.com/sideboard/images/euro02/a824.jpg)
+
+In the quarterfinals, Anton Jonsson from Sweden was paired up against David Brucker from Germany. Unfortunately for Jonsson, who played Mr. Finland, he had encountered the only really bad match-up of the whole playoff—Brucker's Psychatog deck.
 
 ### Game 1
 
@@ -103,7 +105,9 @@ Jonsson 1 – 2 Brucker
 
 ### Game 4
 
-![](https://i.ormos.uk/6b/a9/6ba9126d635880806a9867da623956a13f9fa13fbf9063b11e1fec0bb38738f5.jpg)Jonsson got to go first again during the fourth game, and he kept his hand. Brucker kept as well, playing a turn one Duress that sent a Repulse to Jonsson's graveyard. He also got to see four lands and a Flametongue Kavu in Jonsson's hand, not exactly the strongest hand ever. The two players then went into draw-go mode for a few turns, playing nothing but land.
+![](https://i.ormos.uk/6b/a9/6ba9126d635880806a9867da623956a13f9fa13fbf9063b11e1fec0bb38738f5.jpg)
+
+Jonsson got to go first again during the fourth game, and he kept his hand. Brucker kept as well, playing a turn one Duress that sent a Repulse to Jonsson's graveyard. He also got to see four lands and a Flametongue Kavu in Jonsson's hand, not exactly the strongest hand ever. The two players then went into draw-go mode for a few turns, playing nothing but land.
 
 Eventually, Brucker tried another Duress. Jonsson Counterspelled it, but Brucker Counterspelled back, and another Repulse hit the graveyard. Other than that, Jonsson had two lands and the Kavu in his hand, as he had had rather weak draws. So Brucker decided it was time for a Fact or Fiction. He flipped over two islands, a Circular Logic, an Engineered Plague and a Duress. Jonsson put the two black spells in one pile, and Brucker chose the other one.
 

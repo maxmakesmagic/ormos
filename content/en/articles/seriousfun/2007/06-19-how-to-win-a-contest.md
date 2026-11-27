@@ -102,7 +102,9 @@ render_recovery:
   - Decklist
   occurrences: 8
 ---
-[![Harsh_Mercy](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/ONS/Harsh_Mercy.jpg)](https://web.archive.org/web/20070619000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Harsh%2BMercy)Before we enter the Top Five Most Powerful *Future Sight* cards—as chosen by you, the readers—we must discuss, for a moment, the nature of a contest based on submissions. 
+[![Harsh_Mercy](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/ONS/Harsh_Mercy.jpg)](https://web.archive.org/web/20070619000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Harsh%2BMercy)
+
+Before we enter the Top Five Most Powerful *Future Sight* cards—as chosen by you, the readers—we must discuss, for a moment, the nature of a contest based on submissions. 
 
 When I posted last week's article, many people wrote in to tell me, "Hey. I could build a *way* better [Barren Glory](https://web.archive.org/web/20070619000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barren+Glory) deck than the ones you got!" But the problem was that, well, you *didn't*. 
 

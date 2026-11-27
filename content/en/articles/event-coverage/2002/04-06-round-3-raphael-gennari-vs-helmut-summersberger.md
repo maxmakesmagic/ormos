@@ -44,7 +44,9 @@ archive_source:
   sha256: 2d1a1f768a99f42cde1eff20f483b9845936fe1e3143a5e8c009e3a84a4d6db0
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a974.jpg)Raphael Gennari is the Swiss player who finished in the top 8 at Pro Tour New Orleans and also was the runner-up from Grand Prix Milan. Helmut Summersberger was one of two Austrian players who made the top 8 at the World Championships in 2000. He also made top 8 at Grand Prix London last year. Both are playing red-black decks splashing blue.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpnap02/a974.jpg)
+
+Raphael Gennari is the Swiss player who finished in the top 8 at Pro Tour New Orleans and also was the runner-up from Grand Prix Milan. Helmut Summersberger was one of two Austrian players who made the top 8 at the World Championships in 2000. He also made top 8 at Grand Prix London last year. Both are playing red-black decks splashing blue.
 
 Gennari won the roll and opted to play first. He made the first play on turn 3 by summoning an Organ Grinder. Summersberger replied with a Cephalid Looter that surprisingly actually managed to live long enough to use its ability. Summersberger then summoned some Patchwork Gnomes to hold off the Grinder. So Gennari upped the offense by summoning a Dwarven Strike Force and sending it straight in at the cost of a swamp from his hand.
 

@@ -160,7 +160,9 @@ render_recovery:
 
 ### Pro Tour-Nice
 
-![](http://www.wizards.com/sideboard/images/PTNice02/654.jpg)Reigning European Champion Eivind Nitter had a tough time on the Pro Tour recently. He had not made Day 2 since PT-LA last year, despite taking a year off school to concentrate on the game, and was about to fall off the Pro Tour. This weekend changed everything for the Norwegian pro, who became the latest Pro Tour champion. Just as the case with Nitter, it was also the very first Pro Tour Top 8 finish for finalist Bram Snepvangers of The Netherlands. Like Nitter, Snepvangers is a Pro Tour regular with a number of money finishes to his name and several Grand Prix Top 8's, but this is his first Day 3 appearance at the Pro Tour.
+![](http://www.wizards.com/sideboard/images/PTNice02/654.jpg)
+
+Reigning European Champion Eivind Nitter had a tough time on the Pro Tour recently. He had not made Day 2 since PT-LA last year, despite taking a year off school to concentrate on the game, and was about to fall off the Pro Tour. This weekend changed everything for the Norwegian pro, who became the latest Pro Tour champion. Just as the case with Nitter, it was also the very first Pro Tour Top 8 finish for finalist Bram Snepvangers of The Netherlands. Like Nitter, Snepvangers is a Pro Tour regular with a number of money finishes to his name and several Grand Prix Top 8's, but this is his first Day 3 appearance at the Pro Tour.
 
 One of Snepvangers's top accomplishments was to be among just three players to ever beat Kai Budde in a Grand Prix Top 8. Now, he will go down in **Magic** history as the player to end Budde's Sunday streak. A five-time Pro Tour champion, Budde never lost a match in a Pro Tour Top 8 before Nice. He did lose once to Andrew Johnson in the Top 4 match of Team Pro Tour-New York, but his teammates Blume and Baberowski carried the team, negating that loss. Budde is far from disappointed by this weekend's performance. His Top 8 finish puts him that much further away from the others in the Player of the Year race and, regardless of whether he even shows up at the World Championships, guarantees him the Player of the Year title for the third time. Having won $20,000 this weekend between the two tournaments, he is also getting close to dethroning Jon Finkel as the top money-earner in the game. 
 
@@ -182,13 +184,17 @@ One of the most interesting stories of the weekend developed as Zvi Mowshowitz a
 
 ### Nice Masters Series
 
-![](http://www.wizards.com/sideboard/images/Mastersnice02/251.jpg)Alexander Witt battled his way through the Gateway and all the way to the top, defeating Justin Gary for the title - only to walk away with a measly few thousand dollars. What gives? Well, Witt was not very wise when it comes to splitting the prize money with his opponents.
+![](http://www.wizards.com/sideboard/images/Mastersnice02/251.jpg)
+
+Alexander Witt battled his way through the Gateway and all the way to the top, defeating Justin Gary for the title - only to walk away with a measly few thousand dollars. What gives? Well, Witt was not very wise when it comes to splitting the prize money with his opponents.
 
 Among Pro Tour regulars, prize splitting is a time-honored tradition. When friends get paired up in one of the last rounds of a Pro Tour, the difference between winning and losing that round can be several thousand dollars. So an agreement is often made, where winner gives the loser a percentage, or a set amount, to guarantee that each player walks away from the table happy. For example, in the second round of this Masters, I split with Patrick Mello. Although I lost the match, I have earned $4500 instead of $4000, while Mello was guaranteed $6000 rather than $6500, but also had a chance to increase that number by winning the next round. 
 
 Witt took the whole splitting thing to the extreme. He offered his first round opponent Alan Comer a 50/50 split right off the bat. After winning that match, he went on to split with a number of opponents. So instead of walking away with $25,000, Witt may have to be content with something like $3500 after he settles all of his splits! Of course, the invitation to the next year's Masters is also valuable, but perhaps Witt will think twice before splitting so aggressively in that tournament.
 
-![](https://i.ormos.uk/7f/cb/7fcb0c40bd4b336282986707bccc1eef812925d0cee1e37797e4f13c37ca3dc5.jpg)Taking his Miracle Grow deck all the way is Witt's top tournament accomplishment to date. Beside it, Witt has a string of solid PT finishes and two Grand Prix Top 8s. In the finals, he defeated Justin Gary, who was playing an Oath of Druids deck. Gary's resume boasts a pair of Pro Tour Top 8s, including a 3rd place in Team PT-New York this season. 
+![](https://i.ormos.uk/7f/cb/7fcb0c40bd4b336282986707bccc1eef812925d0cee1e37797e4f13c37ca3dc5.jpg)
+
+Taking his Miracle Grow deck all the way is Witt's top tournament accomplishment to date. Beside it, Witt has a string of solid PT finishes and two Grand Prix Top 8s. In the finals, he defeated Justin Gary, who was playing an Oath of Druids deck. Gary's resume boasts a pair of Pro Tour Top 8s, including a 3rd place in Team PT-New York this season. 
 
 Surprisingly, Trix made a comeback this weekend. A number of pros took advantage of the metagame geared to beating Miracle Grow by reverting back to the archetype Grow was designed to beat. Budde managed to navigate a Trix deck to the Top 4, where he fell to the eventual winner. Americans fared very poorly in this tournament, with Justin Gary being the sole representative of United States in the Top 8. His 2nd place finish redeems U.S. **Magic** somewhat, but with only two U.S. players in Top 8 of the Pro Tour and very few at the top of the Player of the Year race, it is clear that the days of North American dominance of the game are over. 
 
@@ -196,7 +202,9 @@ Surprisingly, Trix made a comeback this weekend. A number of pros took advantage
 
 ### Tournament Policy Changes
 
-![](https://i.ormos.uk/f0/b6/f0b67b1758806c53963d146641165772f1405b32de62eefc50ade1a4e99535c9.jpg)The new tournament policy for the 2002-2003 season has been published. The most notable change was that players and teams will no longer qualify for the Masters based on their DCI rankings. The space freed up will be used to allow more players to advance through the Gateway (4 players in individual Masters and 2 teams in Team Masters) and somewhat lowers the pro point threshold necessary to qualify. While it may have gotten more difficult to make it to the Masters, Gateway has been opened up to more players. Now anyone with a rating of 1900+ can participate, whereas only players with 7+ Pro points could do so previously. 
+![](https://i.ormos.uk/f0/b6/f0b67b1758806c53963d146641165772f1405b32de62eefc50ade1a4e99535c9.jpg)
+
+The new tournament policy for the 2002-2003 season has been published. The most notable change was that players and teams will no longer qualify for the Masters based on their DCI rankings. The space freed up will be used to allow more players to advance through the Gateway (4 players in individual Masters and 2 teams in Team Masters) and somewhat lowers the pro point threshold necessary to qualify. While it may have gotten more difficult to make it to the Masters, Gateway has been opened up to more players. Now anyone with a rating of 1900+ can participate, whereas only players with 7+ Pro points could do so previously. 
 
 More details on the Masters invites and the other tournament policy changes are available on the DCI Judges' web site in an article written by Jeff Donais. You can read it [here](https://web.archive.org/web/20040203161058/http://www.wizards.com/dci/judge/main.asp?x=articles/jc20020501a). 
 
@@ -210,7 +218,9 @@ Grand Prix-Milwaukee and the German Nationals held on the same weekend will infl
 
 ### Coming Up: Team Grand Prix-Nagoya
 
-![](https://i.ormos.uk/41/ec/41eca202de4e516b06754ce34fd4d4dcf551260fd3dedaf603f6585fafc3bbf2.jpg)While American players are going to play Standard, Asian pros will be competing at one of the only two team Grand Prix to be held this season. This weekend it was announced that the winning team from this event and from Grand Prix-New Jersey will qualify for next year's Team Masters, making the tournament that much more important. Many players grumbled about not knowing of this in advance - they would have traveled to Japan on the strength of this new information. As is, it is likely that the Ruel brothers and I will be the only team participating in the tournament from outside of Asia. The previous Grand Prix-Nagoya was won by a team of Trevor Blackwell, Nick Wong and I - the first major Japanese tournament to be won by foreigners. I will be looking for a repeat performance.
+![](https://i.ormos.uk/41/ec/41eca202de4e516b06754ce34fd4d4dcf551260fd3dedaf603f6585fafc3bbf2.jpg)
+
+While American players are going to play Standard, Asian pros will be competing at one of the only two team Grand Prix to be held this season. This weekend it was announced that the winning team from this event and from Grand Prix-New Jersey will qualify for next year's Team Masters, making the tournament that much more important. Many players grumbled about not knowing of this in advance - they would have traveled to Japan on the strength of this new information. As is, it is likely that the Ruel brothers and I will be the only team participating in the tournament from outside of Asia. The previous Grand Prix-Nagoya was won by a team of Trevor Blackwell, Nick Wong and I - the first major Japanese tournament to be won by foreigners. I will be looking for a repeat performance.
 
 There are very few chances left to pick up pro points before the World Championships and the culmination of this season. Players in North America and Asia will be sure to make the most of this chance, with record attendance numbers expected at both tournaments.
 
@@ -281,7 +291,9 @@ To make amends for skipping this very popular part of the column last week, I am
 
 **'Togs Away**
 
-![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)Brian Davis was facing off against Bram Snepvangers in the quarterfinal match of Pro Tour-Nice. It was game 1, with Davis at nine life points with no cards in hand and five white creatures in play. Snepvangers, at a reasonably low life total, has spent quite a bit of time contemplating his move. He tapped four of his six lands to cast Deep Analysis, going up to six cards in hand. He thought some more, and attacked with Psychatog. 
+![](https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg)
+
+Brian Davis was facing off against Bram Snepvangers in the quarterfinal match of Pro Tour-Nice. It was game 1, with Davis at nine life points with no cards in hand and five white creatures in play. Snepvangers, at a reasonably low life total, has spent quite a bit of time contemplating his move. He tapped four of his six lands to cast Deep Analysis, going up to six cards in hand. He thought some more, and attacked with Psychatog. 
 
 "No block," Davis announced immediately.
 
@@ -289,10 +301,14 @@ Snepvangers and most of the spectators gasped and re-counted the cards. Yep, Bra
 
 **Meddle Me This**
 
-![](https://i.ormos.uk/ff/f4/fff414a078a085728a8bff07905edd034a8d9fb64ac2475ec74442c3aa72c25a.jpg)Alexander Witt was battling against Kai Budde in Top 4 of the Masters. Each player was given his opponent's deck list to study and practice against for two days, with the round of 4 resuming on Saturday. Witt summoned an early Meddling Mage, and triumphantly named 'Powder Keg' - one of the greatest problem cards that Kai had against him. One little problem however - Budde's deck did not feature any copies of Powder Keg in the main deck! Might as well cast a 2/2 for 2 mana with no special ability, right?
+![](https://i.ormos.uk/ff/f4/fff414a078a085728a8bff07905edd034a8d9fb64ac2475ec74442c3aa72c25a.jpg)
+
+Alexander Witt was battling against Kai Budde in Top 4 of the Masters. Each player was given his opponent's deck list to study and practice against for two days, with the round of 4 resuming on Saturday. Witt summoned an early Meddling Mage, and triumphantly named 'Powder Keg' - one of the greatest problem cards that Kai had against him. One little problem however - Budde's deck did not feature any copies of Powder Keg in the main deck! Might as well cast a 2/2 for 2 mana with no special ability, right?
 
 **Broken Butcher**
 
-![](https://i.ormos.uk/75/a2/75a2ff903a651c4c710c88d49ccf69b2395529e0ba2568ef8be590cc21933f9e.jpg)Faceless Butcher is a great card, but it has rarely been better than when cast against Ken Ho. Ho had a Resilient Wanderer enchanted with Shade's Form and another creature in play. Before Butcher even came into play and its target was chosen, Ho activated the Wanderer's ability. He discarded Strength of Lunacy with madness, enchanting the Wanderer with it and giving it protection from black. Once that resolved, both Shade's Form and Strength of Lunacy fell off the Wanderer, and once Butcher came into play, Ho's opponent chose his other creature as a target, now that the Wanderer had protection from black.
+![](https://i.ormos.uk/75/a2/75a2ff903a651c4c710c88d49ccf69b2395529e0ba2568ef8be590cc21933f9e.jpg)
+
+Faceless Butcher is a great card, but it has rarely been better than when cast against Ken Ho. Ho had a Resilient Wanderer enchanted with Shade's Form and another creature in play. Before Butcher even came into play and its target was chosen, Ho activated the Wanderer's ability. He discarded Strength of Lunacy with madness, enchanting the Wanderer with it and giving it protection from black. Once that resolved, both Shade's Form and Strength of Lunacy fell off the Wanderer, and once Butcher came into play, Ho's opponent chose his other creature as a target, now that the Wanderer had protection from black.
 
 Got an interesting news story, comment, quote, play of the week, or **Magic** trivia to report? Please email me at ashv80@hotmail.com.

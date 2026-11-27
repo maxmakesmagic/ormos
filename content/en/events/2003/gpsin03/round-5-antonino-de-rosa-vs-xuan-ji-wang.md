@@ -77,7 +77,9 @@ render_recovery:
   - Skirk Marauder
   occurrences: 27
 ---
-![](http://www.wizards.com/sideboard/images/gpsin03/a976.jpg)The two players began by rolling Wang's die and when De Rosa rolled up a 20, Wang declined to roll saying "I can't beat that!". After much convincing from De Rosa he rolled, and of course turned up the 20 himself. The two joked about it but karma was on De Rosa's side when he won the next face off, with a score of 11 to 4. 
+![](http://www.wizards.com/sideboard/images/gpsin03/a976.jpg)
+
+The two players began by rolling Wang's die and when De Rosa rolled up a 20, Wang declined to roll saying "I can't beat that!". After much convincing from De Rosa he rolled, and of course turned up the 20 himself. The two joked about it but karma was on De Rosa's side when he won the next face off, with a score of 11 to 4. 
 
 ### Game 1
 
@@ -93,7 +95,9 @@ De Rosa leads 1-0
 
 Despite Wang being from China and speaking little English the two communicated freely and joked pointing at cards as they were shuffling up for the second game. Wang's comment that the "6/6 was just too big" brought De Rosa to remark that he was indeed "large and in charge."
 
-![](http://www.wizards.com/sideboard/images/gpsin03/a975.jpg)Wang elected to go first and led with a third turn Timberwatch Elf. De Rosa cycled Gempalm Incinerator at the end of the turn and played down a morph. After laying down his Wirewood Lodge, Wang thought for a second and then played down a Crown of Vigor on the Elf, pushing it forward into the red zone to deal first blood. Not to be outdone De Rosa attacked back and played out a Ridgetop Raptor, forcing Wang to rethink his strategy as he left his oversized elf at home and played a Slateback. Seizing his opportunity De Rosa hit the elf with a Pinpoint Avalanche and sent his two creatures past the helpless Slateback.
+![](http://www.wizards.com/sideboard/images/gpsin03/a975.jpg)
+
+Wang elected to go first and led with a third turn Timberwatch Elf. De Rosa cycled Gempalm Incinerator at the end of the turn and played down a morph. After laying down his Wirewood Lodge, Wang thought for a second and then played down a Crown of Vigor on the Elf, pushing it forward into the red zone to deal first blood. Not to be outdone De Rosa attacked back and played out a Ridgetop Raptor, forcing Wang to rethink his strategy as he left his oversized elf at home and played a Slateback. Seizing his opportunity De Rosa hit the elf with a Pinpoint Avalanche and sent his two creatures past the helpless Slateback.
 
 Wang tried to keep the pedal to the metal, playing an Erratic Explosion on the Raptor and crunching back with the Slateback. When De Rosa tapped all his mana on the next turn Wang looked a little worried but when it was only a Fallen Cleric entering play he breathed a sigh of relief. The Cleric tried to trade with the Slateback during the next combat phase but once again Wang had the Vitality Charm, allowing the beast to regenerate and live to tell the tale, playing out a Flamewave Invoker after the combat phase.
 

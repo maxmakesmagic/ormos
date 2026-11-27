@@ -101,7 +101,9 @@ render_recovery:
   - Thwart
   occurrences: 84
 ---
-![](https://i.ormos.uk/73/1d/731df94ac44d47ebcd0af96f6d634f2ed3af71258aea7e77ad312314c5725b5d.jpg)There are few people as recognizable on the Pro Tour as Zvi Mowshowitz. And of course, it being Extended, Mowshowitz is with his patented Turbo Land. While he always insists that his is the deck to beat, this time around he might be right, sitting pretty at 7-0. Joining him there is Canada's Jeff Cunningham. They may have laughed at his OBC tech in Houston, but it carried him to twenty-sixth. Now it's tearing up PTQs across the world, and he's 7-0 with it here.
+![](https://i.ormos.uk/73/1d/731df94ac44d47ebcd0af96f6d634f2ed3af71258aea7e77ad312314c5725b5d.jpg)
+
+There are few people as recognizable on the Pro Tour as Zvi Mowshowitz. And of course, it being Extended, Mowshowitz is with his patented Turbo Land. While he always insists that his is the deck to beat, this time around he might be right, sitting pretty at 7-0. Joining him there is Canada's Jeff Cunningham. They may have laughed at his OBC tech in Houston, but it carried him to twenty-sixth. Now it's tearing up PTQs across the world, and he's 7-0 with it here.
 
 ### Game 1
 
@@ -117,7 +119,9 @@ Mowshowitz 1 - Cunningham 0
 
 Cunningham opened with Basking Rootwalla and Wild Mongrel. Mowshowitz answered with Exploration and Oath of Druids. Cunningham was stalled on two forests, but he had Ray of Revelation in hand to shut down the Oath. Mowshowitz had another, and a Scroll Rack besides. Cunningham's troops brought him to ten, madnessing an Arrogant Wurm, courtesy his third forest.
 
-![](https://i.ormos.uk/5a/70/5a7043ebb46ef5dfbec0a325cad4e2191d3c6f17505a6f8bc68695fbe30dba49.jpg)Now Mowshowitz could Oath. Five cards down he found his Scrounger. Not the result he was looking for. He AK'd for two, then Racked for four, but didn't find what he needed. He played two islands and passed it back. He proclaimed that island, Wonder would kill him. Cunningham did not have it. The Scrounger traded for two cards in hand from the Mongrel, leaving Mowshowitz at three.
+![](https://i.ormos.uk/5a/70/5a7043ebb46ef5dfbec0a325cad4e2191d3c6f17505a6f8bc68695fbe30dba49.jpg)
+
+Now Mowshowitz could Oath. Five cards down he found his Scrounger. Not the result he was looking for. He AK'd for two, then Racked for four, but didn't find what he needed. He played two islands and passed it back. He proclaimed that island, Wonder would kill him. Cunningham did not have it. The Scrounger traded for two cards in hand from the Mongrel, leaving Mowshowitz at three.
 
 Mowshowitz set up his deck with Scroll Rack, then decided not to Oath it away, instead getting one card deeper in hand and Time Warping. The second time around he put his deck into the graveyard. Krosan Reclamation put Scrounger and Moment's Peace back in a random order. He drew, and passed it back to Cunningham, playing Moment's Peace during his upkeep. Cunningham drew Ray of Revelation and destroyed the Oath. That prompted Mowshowitz to concede.
 

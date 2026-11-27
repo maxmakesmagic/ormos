@@ -93,7 +93,9 @@ render_recovery:
   - Form of the Dragon
   occurrences: 38
 ---
-![](http://www.wizards.com/sideboard/images/euro03/a972.jpg)It's the European Championships. You've played 3 rounds of standard and it's gone okay. Not perfect but you're still in there with a 2-1 record. That should be fine, you get to draft a little below the top tables and hopefully avoid the big names. Then you go up to see which pod you're in and see this:
+![](http://www.wizards.com/sideboard/images/euro03/a972.jpg)
+
+It's the European Championships. You've played 3 rounds of standard and it's gone okay. Not perfect but you're still in there with a 2-1 record. That should be fine, you get to draft a little below the top tables and hopefully avoid the big names. Then you go up to see which pod you're in and see this:
 
 1.  Frank Karsten (NLD)
 2.  Dario Cuomo (ITA)
@@ -112,13 +114,17 @@ The first booster was skewed in a manner that remained consistent throughout the
 
 Second booster saw both Dutch players show an intention to pair red with blue. Maaten took an Ascending Aven and Karsten got a chuckle when he took Kai's invitational card, Voidmage Prodigy. Petersen strengthened his claim to black in seat 5 with a Prowling Pangolin while in seat 8 Kai was still stuck with scraps.
 
-![](http://www.wizards.com/sideboard/images/euro03/a970.jpg)Third booster threw a Rorix into Thille's lap. He resisted temptation and stuck to the game plan, taking Pacifism and shipping the dragon legend to an extremely grateful Maaten. Ixidor appeared to lend support for the Dutchman in the next pack. On the other side of the table Karsten wasn't faring so well, although he did appear to be building a nice collection of Screaming Seahawks.
+![](http://www.wizards.com/sideboard/images/euro03/a970.jpg)
+
+Third booster threw a Rorix into Thille's lap. He resisted temptation and stuck to the game plan, taking Pacifism and shipping the dragon legend to an extremely grateful Maaten. Ixidor appeared to lend support for the Dutchman in the next pack. On the other side of the table Karsten wasn't faring so well, although he did appear to be building a nice collection of Screaming Seahawks.
 
 Things picked up later for Kai Budde as he got a couple of Smothers in the latter packs. His own pack was less than impressive and he had the choice of staying in his own colors with a Screeching Buzzard or diversifying into green with a Barkhide Mauler. He chose to stay in his colors.
 
 After the first pack Frank Karsten was in red-blue with no Lavamancer's Skills, but he had a Slice and Dice. Roger Maaten was the second blue-red drafter, also without Lavamancer's skill, but also with a bomb in the form of Rorix. Dario Cuomo was red-green, as was current European Champion David Brucker. Antoine Ruel had a useful blue-white soldier deck while Stefan Petersen was black-white, but without any discernible tribal theme. Kai was struggling a little but his black deck had options to diversify depending on what he opened. The real winner was Carl Thille. He'd stuck with black-white Clerics and been rewarded with cards like Profane Prayer and Starlight Sanctum going past the wheel and coming back to him very late. He also managed to pick up 3 Battlefield Medics.
 
-![](http://www.wizards.com/sideboard/images/euro03/a971.jpg)Kai was again presented with the same dilemma at the start of *Legions* as he opened Aphetto Exterminator and Timberwatch Elf. He took the removal spell and the Elf made it all the way to Brucker. Brucker also managed to open a strong pack that had both Seedborn Muse and Canopy Crawler. He took the Crawler and Maaten was happy to take an Echo Tracer. From *Legions* Antoine Ruel picked up some Seaswifts (over Keeneye Aven) and some amplify soldiers, although he chose to take a second Aven Battlehawk over a second Daru Stinger. Dario Cuomo netted a Soultiller that should go quite well with his 3 Heralds and Budde finally got a break with a Graveborn Muse from Karsten's pack. His own was again awful, with the only black cards being Dark Supplicant and Blood Celebrant. He still had the flexibility to go into another color if the cards fell right. The lack of any Vile Deacon's and only the Whipgrass Entangler he opened kept Thille's cleric deck from moving into something totally ridiculous.
+![](http://www.wizards.com/sideboard/images/euro03/a971.jpg)
+
+Kai was again presented with the same dilemma at the start of *Legions* as he opened Aphetto Exterminator and Timberwatch Elf. He took the removal spell and the Elf made it all the way to Brucker. Brucker also managed to open a strong pack that had both Seedborn Muse and Canopy Crawler. He took the Crawler and Maaten was happy to take an Echo Tracer. From *Legions* Antoine Ruel picked up some Seaswifts (over Keeneye Aven) and some amplify soldiers, although he chose to take a second Aven Battlehawk over a second Daru Stinger. Dario Cuomo netted a Soultiller that should go quite well with his 3 Heralds and Budde finally got a break with a Graveborn Muse from Karsten's pack. His own was again awful, with the only black cards being Dark Supplicant and Blood Celebrant. He still had the flexibility to go into another color if the cards fell right. The lack of any Vile Deacon's and only the Whipgrass Entangler he opened kept Thille's cleric deck from moving into something totally ridiculous.
 
 Karsten was struggling to keep the curve low on his blue-red deck, although he should have no trouble feeding the two Torrent of Flames he picked up in *Scourge*. Thille opened another bomb in Eternal Dragon and Petersen was lucky to find a Decree of Pain waiting in his *Scourge* booster. Budde managed a few Clutches of Undeath but kicked himself over passing a Carbonize in the penultimate booster. He opened Form of the Dragon and took it in his booster. If he'd taken the Carbonize he would have had a much stronger option for a second color.
 

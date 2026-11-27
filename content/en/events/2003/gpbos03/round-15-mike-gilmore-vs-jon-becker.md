@@ -80,7 +80,9 @@ render_recovery:
   - Crown of Suspicion
   occurrences: 27
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a912.jpg)Mike Gilmore is a Boston local player who came to the event unqualified for Pro Tour Yokohama. He has two previous top 32 grand prix finishes, but he is looking for a top eight here.
+![](https://www.wizards.com/sideboard/images/gpbos03/a912.jpg)
+
+Mike Gilmore is a Boston local player who came to the event unqualified for Pro Tour Yokohama. He has two previous top 32 grand prix finishes, but he is looking for a top eight here.
 
 Jon Becker is a lawyer from Philadelphia. As a member of defunct Tongo Nation, Jon has been playing Magic since before the world had ever heard of Zak Dolan. He has played in ten pro tours, but has yet to earn that breakthrough finish.
 
@@ -92,7 +94,9 @@ While both players are normally very chatty and relaxed, they were completely si
 
 ### Game One
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a908.jpg)Gilmore won the die roll and chose to play. He led with a turn three morph, which was met by Becker’s Nantuko Husk. The morph came through for two damage and was joined by Symbiotic Elf. 
+![](https://www.wizards.com/sideboard/images/gpbos03/a908.jpg)
+
+Gilmore won the die roll and chose to play. He led with a turn three morph, which was met by Becker’s Nantuko Husk. The morph came through for two damage and was joined by Symbiotic Elf. 
 
 On Gilmore’s next attack, Becker’s recently summoned Battlefield Medic managed to trade for Gilmore’s morph creature, but a fresh one promptly replaced it. 
 
@@ -104,7 +108,9 @@ Becker – 0, Gilmore – 1
 
 ### Game 2
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a909.jpg)Jon chose to play first, but was beaten out of the gate by Gilmore’s turn two Shepherd of Rot. Both players played turn three morphs. Gilmore decided to try to end the game quicker by activating his Shepherd at Jon’s end of turn, continuing to do so throughout the entire game. 
+![](https://www.wizards.com/sideboard/images/gpbos03/a909.jpg)
+
+Jon chose to play first, but was beaten out of the gate by Gilmore’s turn two Shepherd of Rot. Both players played turn three morphs. Gilmore decided to try to end the game quicker by activating his Shepherd at Jon’s end of turn, continuing to do so throughout the entire game. 
 
 Jon tried to play the evasion game, employing a Dive Bomber, but that simply met Gilmore’s Swat. Jon tried some more evasion, summoning Aven Warhawk and amplifying it for two, revealing a Daru Lancer and a Grasslands Crusader. An unmorphed Sootfeather Flock joined the four-damage evasion creature. Suddenly Gilmore’s fourteen life wasn’t looking too impressive. He tried to get some offense going, but there just wasn’t enough time as the fliers came through for the win.
 

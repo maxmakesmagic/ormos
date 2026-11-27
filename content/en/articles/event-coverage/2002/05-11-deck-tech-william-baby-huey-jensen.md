@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 1
 ---
-![](https://i.ormos.uk/31/95/319562f3ae1795532d6871a3455992cbf6ef534ea024e8d536eac9222427266c.jpg)Who plays the largest deck in competitive Magic? Only Baby Huey dared, showing up at this Grand Prix with a 244-card Battle of Wits deck! He had run the deck once before at the Pro Tour San Diego Masters Gateway, and it was back for a vengeance. By the end of round 7, William held a 6-1 record, ready to make it to the second day of competition. I sat down with him before round 8 to discuss his deck choice and build.
+![](https://i.ormos.uk/31/95/319562f3ae1795532d6871a3455992cbf6ef534ea024e8d536eac9222427266c.jpg)
+
+Who plays the largest deck in competitive Magic? Only Baby Huey dared, showing up at this Grand Prix with a 244-card Battle of Wits deck! He had run the deck once before at the Pro Tour San Diego Masters Gateway, and it was back for a vengeance. By the end of round 7, William held a 6-1 record, ready to make it to the second day of competition. I sat down with him before round 8 to discuss his deck choice and build.
 
 **Ben:** So Huey, why'd you decide to run Battle of Wits?
 

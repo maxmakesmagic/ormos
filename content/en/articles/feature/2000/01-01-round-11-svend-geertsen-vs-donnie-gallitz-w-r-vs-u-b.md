@@ -68,7 +68,9 @@ render_recovery: []
 
 [Team Finals Play-by-Play: Gab Tsang (Canada) vs. Frank Hernandez (USA)](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa) Play-by-play, turn-by-turn recap of the match. [more...](/en/articles/feature/2000/01-01-team-finals-gab-tsang-canada-vs-frank-hernandez-usa)
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/261.jpg)These two veteran Magic players have met many times before, but rarely have they met while playing such bad draft decks. Both players, before the start of the match, openly criticised their decks, mocking and trash talking the entire time.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/261.jpg)
+
+These two veteran Magic players have met many times before, but rarely have they met while playing such bad draft decks. Both players, before the start of the match, openly criticised their decks, mocking and trash talking the entire time.
 
 Game 1
 
@@ -78,6 +80,8 @@ Svend Geertsen 0 - 1 Donnie Gallitz
 
 Game 2
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/259.jpg)The same tragic opening brought laughs from the crowd, although this time Donnie actually held the 2 mana open to trade the trickster mage for the Lynx. The match developed slowly due to the bad cards that they had drafted as each side of the board filled up with Ridgeling Rager, Alabaster wall, Mogg Toady for Svend, and Commando, Cloudskate, Bog Glider for Donnie. Svend burnt the skate with a Seal of Fire, attacked with the Rager top leave Gallitz at nine and then cast Citadel of Pain! Gallitz can't believe the card, but at this point it looks pretty good, as Donnie only has a Coastal Hornclaw on the table. Gallitz drew his card, gasped and cast Massacre, leaving Svend no way to sink his mana. Over the next few Turns Svend's land combined with the Citadel of Pain finished him off.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/259.jpg)
+
+The same tragic opening brought laughs from the crowd, although this time Donnie actually held the 2 mana open to trade the trickster mage for the Lynx. The match developed slowly due to the bad cards that they had drafted as each side of the board filled up with Ridgeling Rager, Alabaster wall, Mogg Toady for Svend, and Commando, Cloudskate, Bog Glider for Donnie. Svend burnt the skate with a Seal of Fire, attacked with the Rager top leave Gallitz at nine and then cast Citadel of Pain! Gallitz can't believe the card, but at this point it looks pretty good, as Donnie only has a Coastal Hornclaw on the table. Gallitz drew his card, gasped and cast Massacre, leaving Svend no way to sink his mana. Over the next few Turns Svend's land combined with the Citadel of Pain finished him off.
 
 Svend Geertsen 0 - 2 Donnie Gallitz

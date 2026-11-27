@@ -101,13 +101,17 @@ render_recovery:
   - Pyroclasm
   occurrences: 67
 ---
-![](http://www.wizards.com/sideboard/images/canat02/a970.jpg)Both these players qualified through yesterday's grinders, and at 2-1 are in shape to make the most out of their chance. Geordie "Little Man" Tait is the author of the internet's only daily Magic column, "The Daily Shot", an irreverent look at goings-on and your source for line after line of cold, hard text. His opponent is up-and-coming Quebec mage Jean-Denis Lacourse, whose appearance at Nationals is the cornerstone of what he hopes will be a prodigious Magic Career. He made the trip to Ontario with the powerhouse Quebec contingent, featuring such stars as David Rood and Louis Boileau. Tait is playing Brian Davis's Overmaster Black deck, jam-packed with sorceries and Recoups to re-use them. Unfortunately for him, Lacourse is with red-green beats, a terrible matchup.
+![](http://www.wizards.com/sideboard/images/canat02/a970.jpg)
+
+Both these players qualified through yesterday's grinders, and at 2-1 are in shape to make the most out of their chance. Geordie "Little Man" Tait is the author of the internet's only daily Magic column, "The Daily Shot", an irreverent look at goings-on and your source for line after line of cold, hard text. His opponent is up-and-coming Quebec mage Jean-Denis Lacourse, whose appearance at Nationals is the cornerstone of what he hopes will be a prodigious Magic Career. He made the trip to Ontario with the powerhouse Quebec contingent, featuring such stars as David Rood and Louis Boileau. Tait is playing Brian Davis's Overmaster Black deck, jam-packed with sorceries and Recoups to re-use them. Unfortunately for him, Lacourse is with red-green beats, a terrible matchup.
 
 Not much happened during the opening turns. Tait stopped a Yavimaya Barbarian with Chainer's Edict and then waited around while Lacourse failed to get anything going. Duress forced out Urza's Rage and stole Fiery Temper. Then came Persecute for red, leaving Lacourse with just lands in hand. He just shrugged at his decks inability to bring the beats.
 
 Lacourse topdecked Grim Lavamancer and then Call of the Herd to press. Tait had three Innocent Bloods to put those creatures on ice. Haunting Echoes ripped most of the burn out of Lacourse's deck. Tait then kicked it retro-style with Jayemdae Tome. Disrupting Scepter added to the old-school feel.
 
-![](http://www.wizards.com/sideboard/images/canat02/a971.jpg)The only glimmer of hope was a Meteor Shower, but by the time it showed, Tait had a second Scepter ravaging Lacourse's hand. Lacourse held on, hoping for a ridiculous draw of Violent Eruptions, but it was not to be. Tait fetched Millstone, milled an Eruption, and Haunting Echoes sealed the deal.
+![](http://www.wizards.com/sideboard/images/canat02/a971.jpg)
+
+The only glimmer of hope was a Meteor Shower, but by the time it showed, Tait had a second Scepter ravaging Lacourse's hand. Lacourse held on, hoping for a ridiculous draw of Violent Eruptions, but it was not to be. Tait fetched Millstone, milled an Eruption, and Haunting Echoes sealed the deal.
 
 Tait 1 - Lacourse 0
 
@@ -119,7 +123,9 @@ Tait 1 - Lacourse 1
 
 Now it was Lacourse's turn to mulligan. After his Grim Lavamancer met Innocent Blood, he busted out Meteor Storm. He Raged Tait, while Tait got his Tutor on. Persecute only earned him another Rage in the face. Tait was on a clock.
 
-![](http://www.wizards.com/sideboard/images/canat02/a972.jpg)Yavimaya Barbarian only forced out Pyroclasm, and Lacourse figured it was better to go straight for the face. Tait was struggling to find the tools he needed. A Persecute showed only land in Lacourse's hand. Magnivore hit the ground running for five. At ten life it seemed a pretty good race.
+![](http://www.wizards.com/sideboard/images/canat02/a972.jpg)
+
+Yavimaya Barbarian only forced out Pyroclasm, and Lacourse figured it was better to go straight for the face. Tait was struggling to find the tools he needed. A Persecute showed only land in Lacourse's hand. Magnivore hit the ground running for five. At ten life it seemed a pretty good race.
 
 Lacourse's Storm brought out Basking Rootwalla, and suddenly Tait was at three. Soul Burn for two bought him an extra turn, but he knew the end was coming. The Storm brought him to one. He grit his teeth and waited for Lacourse to draw his card. Lacourse looked, then displayed Fiery Temper.
 

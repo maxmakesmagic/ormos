@@ -73,7 +73,9 @@ Before the event gets kicked off and the players dive into the action, there wil
 
 ### Player of the Year Race
 
-![](https://i.ormos.uk/6f/22/6f22e97e9721188b191914283f0d3bec8815d13a884a07ea0b4055aa92faa884.jpg)Jon Finkel and Olle Råde have both won the award. Darwin came close twice. Coming into Worlds 2005, this year's Player of the Year race is too close to call. Olivier Ruel, Kenji Tsumura, and Masashi "Yeah I missed a Pro Tour" Oiso were all within nine points coming out of Grand Prix Beijing – an event at which they all placed in the Top 8!
+![](https://i.ormos.uk/6f/22/6f22e97e9721188b191914283f0d3bec8815d13a884a07ea0b4055aa92faa884.jpg)
+
+Jon Finkel and Olle Råde have both won the award. Darwin came close twice. Coming into Worlds 2005, this year's Player of the Year race is too close to call. Olivier Ruel, Kenji Tsumura, and Masashi "Yeah I missed a Pro Tour" Oiso were all within nine points coming out of Grand Prix Beijing – an event at which they all placed in the Top 8!
 
 At the start of last year's World Championship, there was a similar dogfight between Gabriel Nassif, Nicolai Herzog, and Rickard Osterberg. Going into a day of Limited, it looked like two-time Pro Tour winner Herzog was going to be able to maintain his lead but somehow the 40-card master collapsed on draft day and Nassif capped a remarkable season with the Player of the Year title. 
 

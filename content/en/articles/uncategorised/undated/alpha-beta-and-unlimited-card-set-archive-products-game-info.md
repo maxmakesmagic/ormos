@@ -54,7 +54,9 @@ Battle like the best. Includes 60 tournament-ready cards and a rulebook.
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/45/48/45487025a21d99054258455079584b1daae67f16880093a783ac6865a7337287.png)The original *Limited Edition Alpha* set featured 295 cards. On its heels that same year were the 302 black-bordered *Limited Edition Beta* set, quickly followed by the 302 *Unlimited Edition* set—white-bordered versions of *Limited Edition Beta* cards.
+![](https://i.ormos.uk/45/48/45487025a21d99054258455079584b1daae67f16880093a783ac6865a7337287.png)
+
+The original *Limited Edition Alpha* set featured 295 cards. On its heels that same year were the 302 black-bordered *Limited Edition Beta* set, quickly followed by the 302 *Unlimited Edition* set—white-bordered versions of *Limited Edition Beta* cards.
 
 **Set Name:** *Alpha*  
 **Number of Cards:** 295

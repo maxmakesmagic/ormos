@@ -44,7 +44,9 @@ archive_source:
   sha256: 8e5f68cf15f998f42e194174fa057a5a1cc7adc963f9d86c68d4f06f7b3da322
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm25_1.jpg)There's been a lot of speculation among players about what record will be needed to make the Top 8. The best guesses have thirty-four points as the mark of safety. That's good news to Sweden's Anton Jonsson, who's sitting pretty on thirty-three with three rounds left to play. Likewise for Cornelissen, who hasn't seen Sunday in a while, and for whom a win would mean a return to greatness.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptams04/fm25_1.jpg)
+
+There's been a lot of speculation among players about what record will be needed to make the Top 8. The best guesses have thirty-four points as the mark of safety. That's good news to Sweden's Anton Jonsson, who's sitting pretty on thirty-three with three rounds left to play. Likewise for Cornelissen, who hasn't seen Sunday in a while, and for whom a win would mean a return to greatness.
 
 ### Game 1
 

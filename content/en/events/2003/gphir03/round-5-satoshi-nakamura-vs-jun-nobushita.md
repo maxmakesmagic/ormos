@@ -82,7 +82,9 @@ render_recovery:
   - Treetop Village
   occurrences: 51
 ---
-![](http://www.wizards.com/sideboard/images/gphir03/a982.jpg)Everyone's favorite man about town, Satoshi Nakamura, surprised no one by showing up today with TurboLand in tow. Not only is it one of his hallmarks, how could he play anything else after Zvi Mowshowitz used it to walk away with the title at New Orleans? His opponent, the consummate clown Jun Nobushita, is with a crazy black-green control deck, whose only creatures are Nether Spirits, aiming to establish a Contamination lock.
+![](http://www.wizards.com/sideboard/images/gphir03/a982.jpg)
+
+Everyone's favorite man about town, Satoshi Nakamura, surprised no one by showing up today with TurboLand in tow. Not only is it one of his hallmarks, how could he play anything else after Zvi Mowshowitz used it to walk away with the title at New Orleans? His opponent, the consummate clown Jun Nobushita, is with a crazy black-green control deck, whose only creatures are Nether Spirits, aiming to establish a Contamination lock.
 
 ### Game 1
 
@@ -100,7 +102,9 @@ Nakamura 1 – Nobushita 0
 
 Nakamura had to mulligan a no-lander, but his next six were great. Nobushita tried to bust it up as best he could with a pair of Cabal Therapies, but Nobushita was left with Scroll Rack, and was able to manipulate his draws. Nobushita got Nether Spirit into play, gearing up to re-use his Therapies. The first fell to Counterspell, leaving Nakamura with just Counterspell and Gush. The next turn Nobushita tried again. This time, Nakamura hid the Counterspell with his Rack, showing just Gush and forest. Nobushita went for the Contamination anyway, and fell right into Nakamura's trap. 
 
-![](http://www.wizards.com/sideboard/images/gphir03/a983.jpg)From there, things stagnated. Nakamura found himself an Exploration and Horn of Greed, and then another. Nobushita had to wait for a green source to rid himself of Nakamura's Exploration with his Entombed Ray of Revelation. Nakamura meanwhile had to restock his deck with Counterpsells via Krosan Reclamation. He had taken too long, so Nobushita doubtless had Diabolic Edicts at the ready. Nobushita finally had some pressure thanks to Treetop Village, but neither was getting anywhere fast.
+![](http://www.wizards.com/sideboard/images/gphir03/a983.jpg)
+
+From there, things stagnated. Nakamura found himself an Exploration and Horn of Greed, and then another. Nobushita had to wait for a green source to rid himself of Nakamura's Exploration with his Entombed Ray of Revelation. Nakamura meanwhile had to restock his deck with Counterpsells via Krosan Reclamation. He had taken too long, so Nobushita doubtless had Diabolic Edicts at the ready. Nobushita finally had some pressure thanks to Treetop Village, but neither was getting anywhere fast.
 
 Eventually Nakamura went for it. Having found the remaining Explorations he drew up half his deck, preparing a hand of Scrounger, three Counterspells, Time Warp and two land, thanks to his Scroll Rack. He Warped, then dropped the Scrounger. He countered a pair of Diabolic Edicts. Time was called at that point, sparing Nakamura the trouble of showing off the kill.
 

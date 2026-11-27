@@ -52,7 +52,9 @@ archive_source:
   sha256: 65f8bbdf9521e0f6eb8b01dd42de439c6b3f55f8dfddd53fb7b7782cd4b636ad
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a940.jpg)"Is it nine o'clock?" said Gab, smiling. "It feels like four! I'm having fun."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a940.jpg)
+
+"Is it nine o'clock?" said Gab, smiling. "It feels like four! I'm having fun."
 
 It was the eighth round for the night, and the game was just for glory. Both Gab and Kenny had their seven-plus records and were locked for Day Two, but apparently neither of them felt like quitting; while the room around them was so filled with byes that it felt like the last day of school, these two guys decided to slug it out.
 
@@ -76,7 +78,9 @@ Gab Careful Studied into a double-[Wonder](https://web.archive.org/web/200209070
 
 Tsang 0 - Hsiung 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a941.jpg)Neither of them mulliganed, and they looked like a mirror match for a second with two islands staring at each other... But Gab didn't [Careful Study](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), instead choosing to drop a [Catalyst Stone](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Catalyst+Stone). "Sure," said Kenny, fingering his cards.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a941.jpg)
+
+Neither of them mulliganed, and they looked like a mirror match for a second with two islands staring at each other... But Gab didn't [Careful Study](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study), instead choosing to drop a [Catalyst Stone](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Catalyst+Stone). "Sure," said Kenny, fingering his cards.
 
 Gab winced the next turn as he laid a land and cast [Quiet Speculation](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quiet+Speculation)... And sure enough, Kenny had the [Envelop](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop) for it. It fizzled harmlessly as Gab used his remaining mana to cast a [Sylvan Safekeeper](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Safekeeper), which then got Edicted. Poor Olle.
 
@@ -88,7 +92,9 @@ Gab went for Spec #2, which met Kenny's [Envelop](https://web.archive.org/web/20
 
 Anyway, the Judge concurred with Gab's deep analysis of the situation; Kenny should just pay the mana and received a Procedural Warning. Since he had no previous warnings, this meant bupkiss. The game continued.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a944.jpg)The Mongrel continued its assault, snapping and biting Kenny down to six. Gab cast [Wonder](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder) to add pressure, but it met a [Ghastly Demise](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghastly+Demise) the moment it hit the board. Unfortunately, Kenny's hand was the control player's nightmare: He had a hand full of Logics and [Envelop](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop)s, but nothing to deal with the threat that was actually on the board. Gab attacked, and though he could drop his whole hand and end the game right here, he didn't know that; rightfully afraid of a well-timed Burst, he gave Kenny another turn to draw an answer. His answer, however, was, "A quick and merciful death"... And the next turn, Gab dropped the two cards to the Mongrel for the win.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpcle02/a944.jpg)
+
+The Mongrel continued its assault, snapping and biting Kenny down to six. Gab cast [Wonder](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder) to add pressure, but it met a [Ghastly Demise](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghastly+Demise) the moment it hit the board. Unfortunately, Kenny's hand was the control player's nightmare: He had a hand full of Logics and [Envelop](https://web.archive.org/web/20020907000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Envelop)s, but nothing to deal with the threat that was actually on the board. Gab attacked, and though he could drop his whole hand and end the game right here, he didn't know that; rightfully afraid of a well-timed Burst, he gave Kenny another turn to draw an answer. His answer, however, was, "A quick and merciful death"... And the next turn, Gab dropped the two cards to the Mongrel for the win.
 
 Tsang 1 - Hsiung 1
 

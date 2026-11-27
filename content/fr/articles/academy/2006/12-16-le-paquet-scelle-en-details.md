@@ -825,7 +825,9 @@ Plutôt qu'un Brasier, un Shaâmane anabaane et des Glob-gnomes et des montagnes
 
 c'est pour moi la décision la plus difficile à prendre dans ce deck en Paquet scellé : jouer U/W/b ou U/W/r. Ceci dit, les deux decks 'U/W/x' (blanc-bleu avec une autre couleur en soupçon) auraient une puissance similaire, alors on ne peut pas vraiment se tromper.
 
-![](https://i.ormos.uk/2a/fb/2afb65ec19b4c4869346a4fec4f0fc7a0e951f3e8551e275239e12b7301bebd2.jpg)Une petite note à prendre en considération, c'est qu'après la première partie, le deck avec noir aurait accès à la puissante carte de réserve qu'est Assassinat. Même en décidant de jouer U/W/r, on peut passer en U/W/b pour la deuxième partie. De même, en décidant de jouer U/W/b, on peut passer à U/W/r en deuxième partie si notre adversaire a des créatures noires qui bloquent les Rats aux dents tranchantes et qui rendent l'Obscur bannissement moins efficace !
+![](https://i.ormos.uk/2a/fb/2afb65ec19b4c4869346a4fec4f0fc7a0e951f3e8551e275239e12b7301bebd2.jpg)
+
+Une petite note à prendre en considération, c'est qu'après la première partie, le deck avec noir aurait accès à la puissante carte de réserve qu'est Assassinat. Même en décidant de jouer U/W/r, on peut passer en U/W/b pour la deuxième partie. De même, en décidant de jouer U/W/b, on peut passer à U/W/r en deuxième partie si notre adversaire a des créatures noires qui bloquent les Rats aux dents tranchantes et qui rendent l'Obscur bannissement moins efficace !
 
 Pour finir, après beaucoup de réflexion, je décide d'en rester sur ma première idée de U/W/r. Non seulement le soupçon de rouge me paraît meilleur que le noir, mais le rouge me semble mieux fonctionner pour une première partie. Ainsi, vous pouvez toujours récupérer le noir si vous avez besoin de l'Assassinat en deuxième partie, mais vous n'avez pas la possibilité de vous retrouver avec des cartes moins puissantes contre un adversaire noire en partie 1.
 

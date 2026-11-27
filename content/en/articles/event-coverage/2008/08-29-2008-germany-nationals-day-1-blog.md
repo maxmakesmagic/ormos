@@ -131,7 +131,9 @@ render_recovery:
 
 To get an inside view of German Nationals 2008, we’ll be following the progress of three players picked from the throng. Thomas “Teardrop” Jungmann, blogger, community voice and self-admitted casual player. Raul Porojan, GP Strasbourg finalist and riding on the crest of the next wave of German Magic pros. And Jan Ruess, fresh off his second place at Pro Tour: Hollywood on the wings of the Fae, and currently Germany’s best player according to pro points.
 
-![](https://i.ormos.uk/b4/c3/b4c37af2352c43386b3ceaba62183a1f6d473ade1f8ec5d86d68991f525b2699.jpg)Jan Ruess had no trouble qualifying for Nationals, as he was invited on two counts: Rating, and pro points. With his finals appearance in Hollywood, he had propelled himself to the top of the pick order of German pro players. “I’ve set myself new goals for every year”, explains the 28-year old. First he set his sights on getting to the Pro Tour, then he aimed for a spot on the PT train (that is, today’s pro level 4). When he finally got there, he says, “it was a very, very good feeling”. And he set his sights higher once again, shooting for Top 8.
+![](https://i.ormos.uk/b4/c3/b4c37af2352c43386b3ceaba62183a1f6d473ade1f8ec5d86d68991f525b2699.jpg)
+
+Jan Ruess had no trouble qualifying for Nationals, as he was invited on two counts: Rating, and pro points. With his finals appearance in Hollywood, he had propelled himself to the top of the pick order of German pro players. “I’ve set myself new goals for every year”, explains the 28-year old. First he set his sights on getting to the Pro Tour, then he aimed for a spot on the PT train (that is, today’s pro level 4). When he finally got there, he says, “it was a very, very good feeling”. And he set his sights higher once again, shooting for Top 8.
 
 It taken Jan years to get to that point. He touched his first magic card in 1995, and quit the game twice over the years. But he kept returning to the cards. When he moved to Hamburg, Jan finally found a magical environment to thrive in. in 2003, he played in his first tournament, and was hooked.
 

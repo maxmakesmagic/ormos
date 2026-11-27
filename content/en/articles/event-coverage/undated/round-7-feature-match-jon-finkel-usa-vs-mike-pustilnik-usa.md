@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Kim Eikefet* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/905.jpg)In the last round of the first day of 2000 Pro Tour Chicago, Magic great Jon Finkel was paired up against Mike Pustilnik. Both players were undefeated, both players were sporting Fires of Yavimaya decks, and both players were looking to get that perfect 7-0 record going into day two. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/905.jpg)
+
+In the last round of the first day of 2000 Pro Tour Chicago, Magic great Jon Finkel was paired up against Mike Pustilnik. Both players were undefeated, both players were sporting Fires of Yavimaya decks, and both players were looking to get that perfect 7-0 record going into day two. 
 
 **Game 1** 
 
@@ -49,13 +51,17 @@ Mike got off to a pretty fast start. He cast a turn one Llanowar Elves, turn two
 
 However, Pustilnik ran into mana problems. He had missed his fourth land drop, and he failed to draw that all-important fourth land he needed to be able to play his rather important five casting cost spells. Instead, he had to put regeneration shields on his Boas and attack with his creatures, and he got Finkel down to eight life before a Finkel dropped a Saproling Burst. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/907.jpg)Finally, Pustilnik drew something that he could actually play, and he summoned a Blastoderm. But during his end of turn step, Finkel made a token that became 5/5 during his own turn. He then attacked, Pustilnik triple blocked with two Chimeric Idols and the Blastoderm, and the Blastoderm went to the graveyard. Finkel then cast Ancient Hydra and shot Pustilnik's Llanowar Elves, putting him even further away from the crucial five mana. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/907.jpg)
+
+Finally, Pustilnik drew something that he could actually play, and he summoned a Blastoderm. But during his end of turn step, Finkel made a token that became 5/5 during his own turn. He then attacked, Pustilnik triple blocked with two Chimeric Idols and the Blastoderm, and the Blastoderm went to the graveyard. Finkel then cast Ancient Hydra and shot Pustilnik's Llanowar Elves, putting him even further away from the crucial five mana. 
 
 In order to shoot the Elves, Finkel had to tap out, so Pustilnik took the opportunity to get rid of both the Hydra and the River Boa. He put a regeneration shield on his own Boa, and then he cast Earthquake for one. Finkel made another token though, and attacked with it to reduce Pustilnik's life total to 14. He then cast a Kavu Chameleon, and passed priority before using his Rishadan Port to tap down Pustilnik's Mountain. 
 
 Pustilnik, now on the defensive, drew a Llanowar Elves and played it. He then passed priority to Finkel, who untapped and played Fires of Yavimaya and then a Saproling Burst. Removing three counters, he made three 4/4 tokens before attacking with the tokens, the other 2/2 token and the Kavu Chameleon. Pustilnik put a regeneration shield on his Boa, and then he activated his two Chimeric Idols and blocked the Chameleon and two tokens. Before damage, Finkel sacrificed his Fires of Yavimaya to save the 2/2 token and to kill the Idol blocking it. Still, Pustilnik was down to six life, and things looked bad for him. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/906.jpg)But during his ninth turn, Pustilnik drew a fourth land. He immediately played it and dropped a Saproling Burst, which effectively saved him from Finkel's attack. Finkel just cast a River Boa and passed priority. Pustilnik then drew a fifth land, a Brushland, and he cast a River Boa before giving Finkel another turn. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTCHI00/906.jpg)
+
+But during his ninth turn, Pustilnik drew a fourth land. He immediately played it and dropped a Saproling Burst, which effectively saved him from Finkel's attack. Finkel just cast a River Boa and passed priority. Pustilnik then drew a fifth land, a Brushland, and he cast a River Boa before giving Finkel another turn. 
 
 Finkel didn't do anything though, and during his end of turn step, Pustilnik cast an Aura Mutation on the Saproling Burst that still had counters on it, killing Finkel's three creatures and giving himself five Saproling tokens. He then removed three counters from his own Saproling Burst to make three more tokens, and Finkel scooped. 
 

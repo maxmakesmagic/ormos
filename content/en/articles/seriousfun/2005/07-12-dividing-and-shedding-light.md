@@ -321,7 +321,9 @@ This is as complicated as we'll get today. The last part will be nice and easy.
 
 ### The Third Color: Seeing Red At Auctions
 
-![](https://i.ormos.uk/f3/b0/f3b0037c9b7ed756e18eddcf389b2633e4ebcb52fc96cf535d37620aa59496d3.jpg)A lot of **Magic** games have elements of auctions in them, but very few are exact replicas. Perhaps the most common type of auction to see in a **Magic** game is a *Dutch auction*.
+![](https://i.ormos.uk/f3/b0/f3b0037c9b7ed756e18eddcf389b2633e4ebcb52fc96cf535d37620aa59496d3.jpg)
+
+A lot of **Magic** games have elements of auctions in them, but very few are exact replicas. Perhaps the most common type of auction to see in a **Magic** game is a *Dutch auction*.
 
 A Dutch auction starts with a really high price for an item – a price so high, it's unlikely anyone will bid for it. Then, using a clock or similar device, the price ratchets down bit by bit, until someone "buzzes in". That first bid wins the item.
 

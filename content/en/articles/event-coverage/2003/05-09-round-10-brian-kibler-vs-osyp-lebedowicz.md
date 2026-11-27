@@ -44,7 +44,9 @@ archive_source:
   sha256: 3ba42623f04e26eac335b80fcd1528cfabb6259e33958ec55b005aaf97f84748
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a834.jpg)Lebedowicz started asking Kibler to take off his headphones while shuffling, and Kibler refused, noting that he couldn't hear what Osyp was saying. Lebedowicz kept joking around, telling Darwin next to him that he beat Kibler in New Orleans even when he mulliganed to five. Even reporter Brian David-Marshall got in on the act, as everyone started telling stories about Kibler when he (apparently) couldn't hear what they were saying.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a834.jpg)
+
+Lebedowicz started asking Kibler to take off his headphones while shuffling, and Kibler refused, noting that he couldn't hear what Osyp was saying. Lebedowicz kept joking around, telling Darwin next to him that he beat Kibler in New Orleans even when he mulliganed to five. Even reporter Brian David-Marshall got in on the act, as everyone started telling stories about Kibler when he (apparently) couldn't hear what they were saying.
 
 ### Game 1
 
@@ -56,7 +58,9 @@ Kibler- "I needed you to play [Tempting Wurm](https://web.archive.org/web/200305
 
 Lebedowicz- "I have no idea what you're talking about right now."
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a835.jpg)Lebedowicz- "We were at a bar in New Orleans, and a girl signaled to Kibler. He says, 'Yes I am Brian Kibler', and she just wanted to walk by."
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptyok03/a835.jpg)
+
+Lebedowicz- "We were at a bar in New Orleans, and a girl signaled to Kibler. He says, 'Yes I am Brian Kibler', and she just wanted to walk by."
 
 Kibler- "Osyp likes to project."
 

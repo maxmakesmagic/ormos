@@ -44,7 +44,9 @@ archive_source:
   sha256: d003765053aa3765ded6b8720f91aada502f3778ef8ae86bc4909fe138eaf903
 render_recovery: []
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a712.jpg)Ohio's Alex Borteh missed out on being on the National team last year, and he doesn't want it to happen again. His opponent, Oregon's Eric Franz, is a newcomer to the big tourney scene, and wouldn't mind making a name for himself at US Nationals, a la Justin Gary, Matt Linde, and Eugene Harvey.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a712.jpg)
+
+Ohio's Alex Borteh missed out on being on the National team last year, and he doesn't want it to happen again. His opponent, Oregon's Eric Franz, is a newcomer to the big tourney scene, and wouldn't mind making a name for himself at US Nationals, a la Justin Gary, Matt Linde, and Eugene Harvey.
 
 Both are playing Psychatog, but Franz has a better mirror sideboard, featuring Possessed Aven and Duress.
 
@@ -99,7 +101,9 @@ Franz 2 – Borteh 1
 
 ### Game 4
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a714.jpg)Borteh ripped the Nightscape Familiar with his first draw and played it right away to start game 4. Franz was again strapped for black mana, stuck with two Islands.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/usnat02/a714.jpg)
+
+Borteh ripped the Nightscape Familiar with his first draw and played it right away to start game 4. Franz was again strapped for black mana, stuck with two Islands.
 
 Borteh's turn-3 'Tog was Lapsed, but it resolved on turn 4. Franz had since played a Catacombs and an Underground River, so he access to both colors. At the end of turn 4, Franz tried a Fact or Fiction.
 
@@ -149,7 +153,9 @@ Franz exhaled, attacked with his Psychatog (but not the Familiar), and after Bor
 
 Both players managed to get Familiars into play, then Franz put his Psychatog back out. They both had lethal damage on the table once again.
 
-![](https://i.ormos.uk/9d/cf/9dcf87ec61e7600ea8d49bbb93f9655b185fc6af1e45e5266ad85a929bea259a.jpg)Franz then put out 'Tog #2, and things were looking really bad for Borteh. He couldn't cast another Familiar and regenerate them both, so he just had to put one out just to chump.
+![](https://i.ormos.uk/9d/cf/9dcf87ec61e7600ea8d49bbb93f9655b185fc6af1e45e5266ad85a929bea259a.jpg)
+
+Franz then put out 'Tog #2, and things were looking really bad for Borteh. He couldn't cast another Familiar and regenerate them both, so he just had to put one out just to chump.
 
 The 'Togs came in, and a Familiar fell. Borteh cast another Familiar on his next turn, but then laid a fifth land and cast a one-mana unkicked Probe which found him a Psychatog. He chose not to cast it, fearing a Counterspell that would then leave his Familiars unable to regenerate and having to block.
 

@@ -97,7 +97,9 @@ This solution also allowed me to be more adventurous in creating mechanics and t
 
 ### The *Arabian Nights* Theme
 
-![The Arabian Nights Theme](http://media.wizards.com/legacy/global/images/mtgcom_feature_78_pic1_en.jpg)Because we'd be using different card backs, I felt no obligation to stick to the **Magic: The Gathering** mythos as it was first presented. I considered many different mythoi to explore, as well as creating a new mythos. With the time available, I felt that I would get more from using an existing mythos than I could from creating one. Besides, the *Ice Age* group was having a lot of fun with Norse mythology. Many felt the natural place to go was to an Asian mythos. I wanted something a bit different, however, since it felt almost cliché to start with Western generic fantasy and then go Asian for the "exotic" touch.
+![The Arabian Nights Theme](http://media.wizards.com/legacy/global/images/mtgcom_feature_78_pic1_en.jpg)
+
+Because we'd be using different card backs, I felt no obligation to stick to the **Magic: The Gathering** mythos as it was first presented. I considered many different mythoi to explore, as well as creating a new mythos. With the time available, I felt that I would get more from using an existing mythos than I could from creating one. Besides, the *Ice Age* group was having a lot of fun with Norse mythology. Many felt the natural place to go was to an Asian mythos. I wanted something a bit different, however, since it felt almost cliché to start with Western generic fantasy and then go Asian for the "exotic" touch.
 
 I had always thought that the Arabian Nights mythos was fascinating--the djinni, sea serpents, thieves, heroes, deserts, oceans, magical treasures, and so on seemed perfect for **Magic**. And, in addition, I felt that mythos was unrepresented in the game market. I had oodles of Asian-themed games, but only a few based on the Arabian Nights. In addition, I had just read *Ramadan* (Sandman #50), which is set in the Arabian Nights mythos, so I took that as a sign.
 

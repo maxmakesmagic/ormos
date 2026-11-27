@@ -93,7 +93,9 @@ Actually, I would liken the format more to bare knuckles boxing than limited for
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/ptven03/a844.jpg)Huey got his ideal draw and had six mana in play at the end of turn three thanks to Wirewood Elf and Vegetation. Although Svend had played first the acceleration of the elf left him turns behind. He had turn four Vegetation but it was too slow as Huey made a turn four Silvos with the green mana to regenerate from Akroma's Vengeance if need be. On top of that, Svend essentially mulliganed at that point holding a Silvos of his own that would never see play.
+![](http://www.wizards.com/sideboard/images/ptven03/a844.jpg)
+
+Huey got his ideal draw and had six mana in play at the end of turn three thanks to Wirewood Elf and Vegetation. Although Svend had played first the acceleration of the elf left him turns behind. He had turn four Vegetation but it was too slow as Huey made a turn four Silvos with the green mana to regenerate from Akroma's Vengeance if need be. On top of that, Svend essentially mulliganed at that point holding a Silvos of his own that would never see play.
 
 Eventually Svend was able to Pacify the pit fighter but Huey had the Akroma to finish things off. All total the game took less than 5 minutes.
 
@@ -139,7 +141,9 @@ The players were surprised to learn that they had almost thirty minutes left in 
 
 Huey had no elf this game either but he did play a morph on turn three and Vegetation on turn four. "AAAaarrggh! So lucky!" When Svend's fourth land came into play tapped Huey let out a snort. He played a face-up Exalted Angel on the next turn and attacked Svend to 15 with his morph. The Swede let out with, "Finally!" when he could cast Vegetation and braced himself for double Angel on Huey's next turn. He did not dissapoint and unmorphed his second angel and swooped in for 8 life in each direction—Sven fell to 7 and Huey climbed to 28.
 
-![](http://www.wizards.com/sideboard/images/ptven03/a854.jpg)Of course, Svend had the 'wrath' next turn sent the turn back to Huey who exploded for more mana and played another morph. The mystery man was Pacified and Svend played the poor misunderstood middle child of *Onslaught* Block—Ravenous Baloth. Huey cycled on his turn but had nothing and dipped to 24 on Svend's next turn, which saw the Swede cycle Tusker and cast Explosive Vegetation. Huey cycled Vengeance and a land EOT and found a Demistify for the Pacifism and untapped and took Svend to 2 with Baloth in play. He followed it up with Silvos and sent the turn back. 
+![](http://www.wizards.com/sideboard/images/ptven03/a854.jpg)
+
+Of course, Svend had the 'wrath' next turn sent the turn back to Huey who exploded for more mana and played another morph. The mystery man was Pacified and Svend played the poor misunderstood middle child of *Onslaught* Block—Ravenous Baloth. Huey cycled on his turn but had nothing and dipped to 24 on Svend's next turn, which saw the Swede cycle Tusker and cast Explosive Vegetation. Huey cycled Vengeance and a land EOT and found a Demistify for the Pacifism and untapped and took Svend to 2 with Baloth in play. He followed it up with Silvos and sent the turn back. 
 
 Svend Pacified the Silvos—he had three in his opening draw—and attacked Huey down to his original 20. He played another Baloth and thought for a little while about whether or not he wanted to Pacify the morph again with the last of the three. Since Huey had wasted a Demistify on it he assumed it must be worth negating and played it on the morph. Huey showed his hole card to be a Daru Sanctifier and sent the enchantment on his Silvos to the bin.
 

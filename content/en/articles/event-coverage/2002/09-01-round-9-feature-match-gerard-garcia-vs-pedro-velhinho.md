@@ -44,7 +44,9 @@ archive_source:
   sha256: 37fde367526e16096d85a55807ec05c2c83030afba9b2205cd8bd3271a692b74
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/936.jpg)After the dust from Day 1 had settled four players remained unbeaten at the top of the rankings. Gérard Garcia of France and Pedro Velhinho of Portugal. Garcia has a previous Pro Tour appearance at New Orleans. The Frenchman is running a black-blue Braids beatdown deck and his disruption should give him an advantage against Velhinho's slower black control deck.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/936.jpg)
+
+After the dust from Day 1 had settled four players remained unbeaten at the top of the rankings. Gérard Garcia of France and Pedro Velhinho of Portugal. Garcia has a previous Pro Tour appearance at New Orleans. The Frenchman is running a black-blue Braids beatdown deck and his disruption should give him an advantage against Velhinho's slower black control deck.
 
 Garcia went first and a turn two [Mesmeric Fiend](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend) revealed Velhinho had kept a two land hand with expensive spells like [Mirari](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari) and [Haunting Echoes](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunting+Echoes). There was also a [Nantuko Shade](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Shade) and [Innocent Blood](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood). Garcia took the Blood. From there he quickly took control of the game by casting [Shadowmage Infiltrator](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrator) and turn four [Braids](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Braids).
 
@@ -52,7 +54,9 @@ Velhinho tried to race with two [Nantuko Shade](https://web.archive.org/web/2002
 
 Garcia 1-0 Velhinho
 
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/935.jpg)Velhinho started with a turn 1 [Cabal Therapy](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) and hit, taking [Chainer's Edict](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainer%27s+Edict). He followed it up with a [Mesmeric Fiend](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend), taking Garcia's fiend and leaving him with Infiltrator, Braids and [Aether Burst](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst).
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon02/935.jpg)
+
+Velhinho started with a turn 1 [Cabal Therapy](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) and hit, taking [Chainer's Edict](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainer%27s+Edict). He followed it up with a [Mesmeric Fiend](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend), taking Garcia's fiend and leaving him with Infiltrator, Braids and [Aether Burst](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst).
 
 Garcia passed his third turn and Velhinho destroyed his only blue source with [Rancid Earth](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rancid+Earth). This allowed Garcia to return the Fiend with [Aether Burst](https://web.archive.org/web/20020901000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Burst) and then steal it with his own.
 

@@ -164,7 +164,9 @@ With about 450 players in attendance, it was a relatively small Grand Prix for J
 
 Top 8 featured some of Japan's best. Itaru Ishida, who had an amazing year having won the largest Grand Prix ever held, navigated his team Panzer Hunters to a second place in the Masters, and won the prestigious Japanese "Finals" tournament held every year on December 31. Tsuyoshi Fujita, finalist of Pro Tour-Tokyo who also participated in the Magic Invitational this year. GP-Yokohama finalist Masahiro Kuroda and GP Kobe finalist Shuhei Nakamura round up what the Japanese Sideboard called "the best GP in Japan". 
 
-![](http://www.wizards.com/sideboard/images/gpfuku02/917.jpg)Masahika Morita has three previous GP Top 8s, including a 2nd place finish in Shizuoka - the most recent Japanese GP. He now has two back to back 2nd place finishes, having lost in the finals. To me. 
+![](http://www.wizards.com/sideboard/images/gpfuku02/917.jpg)
+
+Masahika Morita has three previous GP Top 8s, including a 2nd place finish in Shizuoka - the most recent Japanese GP. He now has two back to back 2nd place finishes, having lost in the finals. To me. 
 
 Grand Prix-Fukuoka is the first individual Grand Prix held in Japan to be won by a foreign player. The first GP won by foreigners overall, was also one of my other 2 GP wins (Trevor Blackwell, Nick Wong and I won in Nagoya, and I have another individual win in GP-Tours). ABU won Grand Prix-Yokohama, but this is the first individual event where a foreign player finally won, and I am proud to have been the one to do it. 
 

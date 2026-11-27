@@ -80,6 +80,8 @@ Okay, smart guy, you win. It's a promo foil **Shard Phoenix**:
 ![JSS Participation promo Shard Phoenix](https://i.ormos.uk/17/c5/17c56fb8d462d239aba16b2502e72c37836d07a91011c6726bef2c9e2ae009d0.jpg "JSS Participation promo Shard Phoenix")  
 *JSS Participation promo Shard Phoenix*
 
-[![Find a JSS Challenge near you](https://i.ormos.uk/87/19/87190ec0e057a27c338583e4591273296b8540d033be9bb4066feb123acbaa76.jpg "Find a JSS Challenge near you")](https://web.archive.org/web/20060406000000/http://www.wizards.com/default.asp?x=events/jssmap/06challsched-spring)How can you get one? Check out the [Spring schedule](https://web.archive.org/web/20060406000000/http://www.wizards.com/default.asp?x=) for a JSS Challenge near you. For more information on the Junior Super Series 2006, check [here](https://web.archive.org/web/20080423013341/http://www.wizards.com/default.asp?x=events/magic/jss). 
+[![Find a JSS Challenge near you](https://i.ormos.uk/87/19/87190ec0e057a27c338583e4591273296b8540d033be9bb4066feb123acbaa76.jpg "Find a JSS Challenge near you")](https://web.archive.org/web/20060406000000/http://www.wizards.com/default.asp?x=events/jssmap/06challsched-spring)
+
+How can you get one? Check out the [Spring schedule](https://web.archive.org/web/20060406000000/http://www.wizards.com/default.asp?x=) for a JSS Challenge near you. For more information on the Junior Super Series 2006, check [here](https://web.archive.org/web/20080423013341/http://www.wizards.com/default.asp?x=events/magic/jss). 
 
 Also, be sure to tune in to [Brian David-Marshall's column](https://web.archive.org/web/20080505102747/http://www.wizards.com/default.asp?x=mtgcom/columnarchive&column=TheWeekThatWas) tomorrow to find out how JSS competitors could win $1000 by flexing their creative muscles.

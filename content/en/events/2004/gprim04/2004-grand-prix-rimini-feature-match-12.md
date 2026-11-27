@@ -191,7 +191,9 @@ render_recovery:
 ---
 ### Round 3: Luca Chiera vs. David Brucker
 
-![](http://www.wizards.com/sideboard/images/gprim04/fm3_1.jpg)They might be the two best-known two byes players and they already have to face each other in round 3. David Brucker was European Champion in 2002 and is the leader of the German delegation since Kai Budde has stayed at home. Luca was a member of the national team in San Francisco and was in very good position at Worlds before he lost the last 9 rounds.
+![](http://www.wizards.com/sideboard/images/gprim04/fm3_1.jpg)
+
+They might be the two best-known two byes players and they already have to face each other in round 3. David Brucker was European Champion in 2002 and is the leader of the German delegation since Kai Budde has stayed at home. Luca was a member of the national team in San Francisco and was in very good position at Worlds before he lost the last 9 rounds.
 
 The match-up seems to be quite in Luca's favor as his mono red deck featuring Molten Rain, Slith Firewalker and Furnace Whelp seems done to beat Tooth and Nail. Moreover, David plays the mono-green version, more consistent than the red green but without many ways to deal with red's fast starts.
 

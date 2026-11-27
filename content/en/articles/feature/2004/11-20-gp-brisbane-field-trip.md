@@ -207,7 +207,9 @@ So seven tokens come into play, and seven triggers are created. Seven triggers g
 
 ### Visit to the Land Down Under
 
-![](https://i.ormos.uk/63/ae/63ae4ece43023837e3a7f0a681dc7f1642fe32bc6bcaad8cb0ed6af4ff90bd81.jpg)Here in Seattle, it rains. A lot. Well, it really just drizzles. But it drizzles a lot. So when I had the chance to head judge GP Brisbane in November, I started swimming early. After all, Australia in November is in their spring / summer. 
+![](https://i.ormos.uk/63/ae/63ae4ece43023837e3a7f0a681dc7f1642fe32bc6bcaad8cb0ed6af4ff90bd81.jpg)
+
+Here in Seattle, it rains. A lot. Well, it really just drizzles. But it drizzles a lot. So when I had the chance to head judge GP Brisbane in November, I started swimming early. After all, Australia in November is in their spring / summer. 
 
 Congrats to Brisbane's own Will Copeman on his GP victory. And now for a few bits and pieces that came up during the event.
 

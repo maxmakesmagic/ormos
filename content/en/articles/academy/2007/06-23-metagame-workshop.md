@@ -153,7 +153,9 @@ So, it is important to have a sense of the field, to be able to both choose a su
 
 ### How to Get a Sense of the Metagame?
 
-![Sphere_of_Reason](https://i.ormos.uk/9c/87/9c872a0a74b9a45fbcde2eb839a6a7a0c4097fb8ee7ddf2f0cd503fa7d489211.jpg)Especially in bigger tournaments, it is possible to make reasoned predictions about the field.
+![Sphere_of_Reason](https://i.ormos.uk/9c/87/9c872a0a74b9a45fbcde2eb839a6a7a0c4097fb8ee7ddf2f0cd503fa7d489211.jpg)
+
+Especially in bigger tournaments, it is possible to make reasoned predictions about the field.
 
 One way players get a sense of the field is by studying the results (and decklists) of previous tournaments in the format, and by staying current with online articles and forum posts. These can provide a gauntlet of test decks, and can give an idea of proportion.
 

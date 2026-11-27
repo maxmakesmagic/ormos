@@ -87,7 +87,9 @@ render_recovery:
   - Profane Prayers
   occurrences: 42
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a958.jpg)These two seasoned veterans will be playing each other at least one more time today. They are scheduled to fight it out in the semi-finals of the Masters series to see who will get to face Gabriel Nassif in what amounts to a $15,000 ante match. The loser of the semi-final match will have to console himself with a meager $6,500.
+![](http://www.wizards.com/sideboard/images/ptyok03/a958.jpg)
+
+These two seasoned veterans will be playing each other at least one more time today. They are scheduled to fight it out in the semi-finals of the Masters series to see who will get to face Gabriel Nassif in what amounts to a $15,000 ante match. The loser of the semi-final match will have to console himself with a meager $6,500.
 
 But that would be a battle for another time. The matter at hand was getting the Pro Tour off to a good start. As they were shuffling Bob became concerned with little manufacturer's defects in a portion of Darwin's deck and pulled those cards aside and asked a judge to look them over. Darwin was frustrated because he had just opened a new pack of sleeves for his deck. While the judges looked over the marked cards to discern whether or not there was a pattern, Darwin pored over Bob's sleeves, "You must use a better brand than mine because yours are fine."
 
@@ -101,7 +103,9 @@ With the games before the game out of the way Darwin and Bob were finally ready 
 
 Both players kept their openers and Bob came out of the gate with a Goblin Sledder. He had not follow up until turn four because his next two land drops were Forgotten Caves. The Sledder got in its beats until Darwin played a third turn mystery man. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a959.jpg)Bob played a face up Battering Craghorn and Darwin answered with an Akroma's Devoted. Bob missed his fifth land drop but played a Festering Goblin and sent his Craghorn into the red zone and Darwin fell to 15. Blade Sliver joined Bob's side and he passed the turn back to Darwin who was reading and rereading his morph appreciatively, signaling that something was coming.
+![](http://www.wizards.com/sideboard/images/ptyok03/a959.jpg)
+
+Bob played a face up Battering Craghorn and Darwin answered with an Akroma's Devoted. Bob missed his fifth land drop but played a Festering Goblin and sent his Craghorn into the red zone and Darwin fell to 15. Blade Sliver joined Bob's side and he passed the turn back to Darwin who was reading and rereading his morph appreciatively, signaling that something was coming.
 
 Darwin picked up his morph again and read it one more time. He checked the number of cards in Bob's hand and assured himself, "Okay, that's got to be a good play." Bane of the Living was unmorphed for 1 and Bob saved his Craghorn and Blade Sliver with his two Goblins and Darwin was left with no attack. He played a Shepherd of Rot and sent it back to Bob.
 
@@ -123,7 +127,9 @@ Despite a number of misplays and overly cautious non-attacks with his Daunting D
 
 "What a turn two play," complained a visibly aggravated Bob when he played a Goblin Sledder. Darwin's turn two play was a Shepherd of Rot that was killed by Bob's cycled Gempalm Incinerator. Bob's third land was a Forgotten Cave and that would be it for the next few turns. He played a Blade Sliver, which traded in combat with a Whipgrass Entangler when Darwin double blocked with it and an Akroma's Devoted. 
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a960.jpg)While Bob stalled on three land for two turns , Darwin just kept playing lands and creatures. 'God you peel lands so much better than I do!" Bob cycled into lands when Darwin played a Shepherd of Rot and a morph—Solar Blast took down the Zombie. Soulless One and Nantuko Husk joined the party but Bob had no attacks thanks to Shieldmage Elder.
+![](http://www.wizards.com/sideboard/images/ptyok03/a960.jpg)
+
+While Bob stalled on three land for two turns , Darwin just kept playing lands and creatures. 'God you peel lands so much better than I do!" Bob cycled into lands when Darwin played a Shepherd of Rot and a morph—Solar Blast took down the Zombie. Soulless One and Nantuko Husk joined the party but Bob had no attacks thanks to Shieldmage Elder.
 
 "MMmmmmmm.... That is exactly what I wanted to draw here!" proclaimed Darwin as he enchanted his morph with Crown of Awe and revealed it to be Cabal Executioner. Despite having zero cards in hand to Bob's five, the game was all Darwin from here on out. Bob could not find a morph to hold back the pro-red and black cleric, which did not tap to attack and he was losing a guy each turn.
 

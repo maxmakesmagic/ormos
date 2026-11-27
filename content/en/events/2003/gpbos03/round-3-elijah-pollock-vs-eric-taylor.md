@@ -83,13 +83,17 @@ render_recovery:
   - Searing Flesh
   occurrences: 31
 ---
-![](https://www.wizards.com/sideboard/images/gpbos03/a985.jpg)Avid followers of the Pro Tour circuit really shouldn’t need any introduction to these two players. But for everyone else’s benefit, Eric Taylor has been around the competitive circuit since long before anyone can remember. He is also an avid theorist, and many of the game’s classic strategy articles have been penned by “EDT” himself. Elijah Pollock, is also no stranger to the game’s top play, with a Pro Tour finals appearance under his belt with Team 2020, and has also been a member of the Canadian National Team.
+![](https://www.wizards.com/sideboard/images/gpbos03/a985.jpg)
+
+Avid followers of the Pro Tour circuit really shouldn’t need any introduction to these two players. But for everyone else’s benefit, Eric Taylor has been around the competitive circuit since long before anyone can remember. He is also an avid theorist, and many of the game’s classic strategy articles have been penned by “EDT” himself. Elijah Pollock, is also no stranger to the game’s top play, with a Pro Tour finals appearance under his belt with Team 2020, and has also been a member of the Canadian National Team.
 
 Amiable chatter was exchanged to begin the match- neither player seemed particularly nervous coming into the third round. Of course, the fact that there were six rounds left to go betrayed the fact that a check in the “Win” column was clearly on both players minds. With a handshake and “good luck”, they were off.
 
 Playing first, EDT started out slowly with his W-R deck, with a Deftblade Elite on his second turn. Pollock’s R-G deck, on the other hand, was similarly lacking in action, with nothing coming out on his side of the board. A second Deftblade Elite joined EDT’s forces, as he played an island, showing off his deck’s patriotic nature. A cycled Barkhide Mauler gave Pollock the opportunity to drop a morph, putting an end to the Deftblade beatings, and EDT had nothing to answer. Snarling Undorak was played, but EDT held the answer with an Aven Warhawk, amplified twice to a 4/4. Seeking answers, Pollock swung with his Undorak and morph creature. Taylor bit, and the Warhawk blocked the morph, dying when it was morphed to reveal Branchsnap Lorian. Sparksmith entered play on Pollock’s side in an attempt to trade with one of the Deftblade Elites, but EDT would have none of that, giving one of the Elite some Improvised Armor, before ramming the Sparksmith into it.
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a983.jpg)Now with Pollock’s board reduced to just the Undorak and seven lands, Taylor went for the air, summoning a Keeneye Aven for pressure. When Pollock simply drew a card and said “Go”, the gears began to turn in EDT’s head. With three cards in Pollock’s hand, one could only wonder why nothing had happened on his turn. Playing safe, only the Keeneye Aven went in. Taylor expanded his army by a count of two, bringing the creature count to five compared to just one. Cycling Hundroog did Pollock no good, and now it was time for EDT to swing in with the masses. Forcing the Undorak to block the little Elite, everything else smashed through. Blockers would do no good to the Elite duo, and when EDT’s morph revealed Skirk Marauder, Pollock packed it up.
+![](https://www.wizards.com/sideboard/images/gpbos03/a983.jpg)
+
+Now with Pollock’s board reduced to just the Undorak and seven lands, Taylor went for the air, summoning a Keeneye Aven for pressure. When Pollock simply drew a card and said “Go”, the gears began to turn in EDT’s head. With three cards in Pollock’s hand, one could only wonder why nothing had happened on his turn. Playing safe, only the Keeneye Aven went in. Taylor expanded his army by a count of two, bringing the creature count to five compared to just one. Cycling Hundroog did Pollock no good, and now it was time for EDT to swing in with the masses. Forcing the Undorak to block the little Elite, everything else smashed through. Blockers would do no good to the Elite duo, and when EDT’s morph revealed Skirk Marauder, Pollock packed it up.
 
 Taylor 1 – Pollock 0
 
@@ -105,7 +109,9 @@ Seeking to end this charade, EDT swung with both his morphs. The Murlodont block
 
 Another card drawn.
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a984.jpg)Fortunately, EDT managed to find safe haven within a sideboarded Sandskin on his own Ironfist Crusher, locking up the ground and putting the stops on Pollock’s army of beasts. Still, Pollock was not to be outdone. Flamewave Invoker joined in, and with seven lands on the board, the second front was now under attack. Morphing up an Ascending Aven, EDT tried to race. Then the eighth land hit the table. Taylor double-checked to confirm. When the Invoker shot Taylor for five, EDT put an end to its existence with a Solar Blast. In an attempt to try and draw *something* to win the game, Pollock played a Bloodstoke Howler.
+![](https://www.wizards.com/sideboard/images/gpbos03/a984.jpg)
+
+Fortunately, EDT managed to find safe haven within a sideboarded Sandskin on his own Ironfist Crusher, locking up the ground and putting the stops on Pollock’s army of beasts. Still, Pollock was not to be outdone. Flamewave Invoker joined in, and with seven lands on the board, the second front was now under attack. Morphing up an Ascending Aven, EDT tried to race. Then the eighth land hit the table. Taylor double-checked to confirm. When the Invoker shot Taylor for five, EDT put an end to its existence with a Solar Blast. In an attempt to try and draw *something* to win the game, Pollock played a Bloodstoke Howler.
 
 Another card drawn.
 

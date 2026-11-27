@@ -140,7 +140,9 @@ render_recovery:
   - Thunder of Hooves
   occurrences: 124
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a908.jpg)Two of the remaining three undefeated players squared off for the possibility of being the last undefeated player left at Grand Prix Philadelphia. Nick Eisel should be used to being undefeated: He's the number one limited player in the world on Magic Online. Obviously his play testing and skill there have reaped great rewards, as he faces off against Boston area player Joel Frank.
+![](http://www.wizards.com/sideboard/images/gpphi02/a908.jpg)
+
+Two of the remaining three undefeated players squared off for the possibility of being the last undefeated player left at Grand Prix Philadelphia. Nick Eisel should be used to being undefeated: He's the number one limited player in the world on Magic Online. Obviously his play testing and skill there have reaped great rewards, as he faces off against Boston area player Joel Frank.
 
 ### Game 1
 
@@ -154,7 +156,9 @@ Nick went straight back on the d with Daru Lancer, so Joel one upped him with Kr
 
 Joel went on the offense, one of his two Groundshakers trading with the bird wizard during a gang block. This brought Nick to eight, as Joel cast Symbiotic Elf and Taunting Elf, giving him ten points of unblockable damage the following turn. The Armor, of course, went straight on the Angel to bring Nick back up to a more comfortable fourteen life, to Joel's ten. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a909.jpg)The momentum of the game shifted completely as the Boston player's next attack met with a cycled Slice and Dice, killing the Elf with the built in Lure. Free to block the Warrior, Nick took only eight damage, and his Angel put him right back ahead. Renewed Faith, hard cast, gave him an extra six life. With the life totals 18-4 in favor of the younger Eisel, Frank swung again, his Symbiotic Elves both dying a horrible death. Although Joel held on one turn longer with a chump blocking Spitting Gourna, it could only delay the Armored Angel, not contain it.
+![](http://www.wizards.com/sideboard/images/gpphi02/a909.jpg)
+
+The momentum of the game shifted completely as the Boston player's next attack met with a cycled Slice and Dice, killing the Elf with the built in Lure. Free to block the Warrior, Nick took only eight damage, and his Angel put him right back ahead. Renewed Faith, hard cast, gave him an extra six life. With the life totals 18-4 in favor of the younger Eisel, Frank swung again, his Symbiotic Elves both dying a horrible death. Although Joel held on one turn longer with a chump blocking Spitting Gourna, it could only delay the Armored Angel, not contain it.
 
 Nick Eisel 1 – Joel Frank 0
 
@@ -168,7 +172,9 @@ Joel finally got an offensive critter (Elvish Riders), which also brought his el
 
 In desperation, Joel attacked with his Riders. Nick opted not to block, preventing a point to himself with the Healer. Joel cycled a Krosan Tusker to go get a second Mountain, which allowed him to drop an entire mountain on the Ascending Aven with Pinpoint Avalanche. 
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a911.jpg)Nick's deck was pure momentum the whole way, with Essence Fracture undoing both of Joel's remaining blockers (the Symbiotic Elves), allowing him to swing for ten. Both of them came back down the next turn, so Wellwisher could bring Joel back from two life to six. Nick's next attack really seemed hopeless for Joel. Here's why:
+![](http://www.wizards.com/sideboard/images/gpphi02/a911.jpg)
+
+Nick's deck was pure momentum the whole way, with Essence Fracture undoing both of Joel's remaining blockers (the Symbiotic Elves), allowing him to swing for ten. Both of them came back down the next turn, so Wellwisher could bring Joel back from two life to six. Nick's next attack really seemed hopeless for Joel. Here's why:
 
 Attackers: Aven Brigadier (3/5 Flyer), Daunting Defender (3/3 Cleric), Daru Cavalier (3/3 First Striker).  
  Defenders: Symbiotic Elf (2/2), Symbiotic Elf (2/2), Elven Riders (3/3).

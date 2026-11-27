@@ -51,7 +51,9 @@ render_recovery:
   - Decklist
   occurrences: 2
 ---
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a881.jpg)Christophe Haim is a Frenchman on a good run. He finished in the Top 8 at Pro Tour Osaka and has made the French National team with a third place finish at their nationals last week. Benafel is one of the best American players with numerous high Pro Tour and Grand Prix Finishes as well as good runs on the Masters both as an individual and part of the ABU team. Although mainly famous for coming second he has an individual win at Grand Prix Amsterdam to his credit.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a881.jpg)
+
+Christophe Haim is a Frenchman on a good run. He finished in the Top 8 at Pro Tour Osaka and has made the French National team with a third place finish at their nationals last week. Benafel is one of the best American players with numerous high Pro Tour and Grand Prix Finishes as well as good runs on the Masters both as an individual and part of the ABU team. Although mainly famous for coming second he has an individual win at Grand Prix Amsterdam to his credit.
 
 Benafel is playing red-black while Haim has a blue-white deck splashing red for removal.
 
@@ -61,7 +63,9 @@ Haim went first and immediately got the defences down with an [Angelic Wall](htt
 
 Benafel summoned a [Cabal Torturer](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Torturer) and then a [Petravark](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) to steal Haim's only island. It didn't look like he would be the beatdown player this game as Haim added a [Patrol Hound](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patrol+Hound) to his side. Benafel added a [Halberdier](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Halberdier) to his side to match.
 
-![](https://i.ormos.uk/f7/d2/f7d2a37d9461c6ca2153bdfc34051fc030d34015c0b49fb71ecc70304d597cc1.jpg)Haim still hadn't found a replacement island and it looked like Benafel might turn it around when he killed the [Patrol Hound](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patrol+Hound) with a [Flame Burst](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst). A [Whispering Shade](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispering+Shade) with a lot of swamps put the Crusader on defensive duties and Benafel then took the initiative as he started to fly over with a [Soul Scourge](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge).
+![](https://i.ormos.uk/f7/d2/f7d2a37d9461c6ca2153bdfc34051fc030d34015c0b49fb71ecc70304d597cc1.jpg)
+
+Haim still hadn't found a replacement island and it looked like Benafel might turn it around when he killed the [Patrol Hound](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patrol+Hound) with a [Flame Burst](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst). A [Whispering Shade](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispering+Shade) with a lot of swamps put the Crusader on defensive duties and Benafel then took the initiative as he started to fly over with a [Soul Scourge](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge).
 
 [Auramancer](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Auramancer) and [Mystic Familiar](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Familiar) did not quite match the quality of Haim's earlier monsters. With threshold a mile off Haim felt it better to chump the Scourge for a turn with a [Mystic Familiar](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Familiar). This made Benafel a little suspicious but he summoned a second [Soul Scourge](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge) anyway.
 
@@ -81,7 +85,9 @@ Haim's draw was equally unexciting as an [Auramancer](https://web.archive.org/we
 
 With a pro-red guy on the other side of the table the Firecat wasn't anything useful but Benafel found a use for it on an important 5th turn when he summoned a [Sadistic Hypnotist](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sadistic+Hypnotist). Benafel sacrificed both to gut Haim's hand.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a882.jpg)With his opponent's resources badly depleted Benafel cruised into a strong position with two consecutive [Soul Scourge](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge).
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/ptnice02/a882.jpg)
+
+With his opponent's resources badly depleted Benafel cruised into a strong position with two consecutive [Soul Scourge](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge).
 
 Haim pulled a [Mystic Crusader](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Crusader) to hope for a fight back but he was now down to 3 and Benafel made a [Screams of the Damned](https://web.archive.org/web/20020503000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Screams+of+the+Damned).
 

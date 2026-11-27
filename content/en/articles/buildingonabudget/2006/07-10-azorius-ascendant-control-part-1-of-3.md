@@ -825,7 +825,9 @@ After several turns of this, I've gotten half-a-dozen cards ahead of Woozy, and 
 
 This game illustrated the concept of board control perfectly. OmarXCS gets down a first-turn Llanowar Elves, attacks with them to make a second-turn 3/3 Scab-Clan Mauler, and follows them with a third-turn Burning-Tree Shaman.
 
-![Azorius_Herald](https://i.ormos.uk/4b/ce/4bce63fbe177cb2f2db48c6510941a36030bbf74e9b607eedb934972a44d7a81.jpg)I drop Azorius Herald (negating his first couple of attacks), cast Faith's Fetters on his Shaman the next turn (negating most of his third attack, plus neutralizing his Shaman), drop Wakestone Gargoyle (preventing his team from attacking), and then drop Tidewater Minion to shut off his offense entirely. A second Herald brings my life above twenty, and the defenders keep the board tied down while my Heralds come in for the win.
+![Azorius_Herald](https://i.ormos.uk/4b/ce/4bce63fbe177cb2f2db48c6510941a36030bbf74e9b607eedb934972a44d7a81.jpg)
+
+I drop Azorius Herald (negating his first couple of attacks), cast Faith's Fetters on his Shaman the next turn (negating most of his third attack, plus neutralizing his Shaman), drop Wakestone Gargoyle (preventing his team from attacking), and then drop Tidewater Minion to shut off his offense entirely. A second Herald brings my life above twenty, and the defenders keep the board tied down while my Heralds come in for the win.
 
 *2-0*
 

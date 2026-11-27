@@ -431,7 +431,9 @@ render_recovery:
 ---
 * * *
 
-![](https://i.ormos.uk/40/67/406763e0d6fbb0c6ea8873c07331a6c7ba0ca9ddeec5e5ff437c3e5979d1cdfe.jpg)In the World Team Championship-deciding match, two relative unknowns carrying their counties on their back were pitted against one another, with the deciding game in the deciding match truly one of the more amazing comebacks in Worlds history.
+![](https://i.ormos.uk/40/67/406763e0d6fbb0c6ea8873c07331a6c7ba0ca9ddeec5e5ff437c3e5979d1cdfe.jpg)
+
+In the World Team Championship-deciding match, two relative unknowns carrying their counties on their back were pitted against one another, with the deciding game in the deciding match truly one of the more amazing comebacks in Worlds history.
 
 Following in Kai Budde's footsteps as a National Champion leading his country to the finals, Twiefel -- a tree trunk-legged giant of a man -- was paired against the equally larger-than-life Vincent Lemoine. With both players sporting white-green decks splashing red, creatures bogged down the ground, leading to tremendously complicated build-ups. 
 

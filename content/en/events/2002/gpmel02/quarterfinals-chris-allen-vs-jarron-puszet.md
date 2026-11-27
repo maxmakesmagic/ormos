@@ -85,7 +85,9 @@ Chris had drafted a strong RW (splash B) deck that was hoping to see Astral Slid
 
 ### Game 1
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a860.jpg)Jarron won the coin toss and decided to play, while Chris took a double mulligan based on two hands of a lone Mountain.
+![](http://www.wizards.com/sideboard/images/gpmel02/a860.jpg)
+
+Jarron won the coin toss and decided to play, while Chris took a double mulligan based on two hands of a lone Mountain.
 
 A quick Spitfire Handler and Nosy Goblin followed by Lay Waste for Chris' only Plains were all over a lone Thoughtbound Primoc. The Handler ended up trading with the Primoc and a Gluttonous Zombie was no match for the swamp-walking Anurid Murkdiver. When a second swamp-walker turned up and Chris only had one Pinpoint Avalanche in hand, he scooped it up.
 
@@ -95,7 +97,9 @@ The sideboard was a story of opposites, with Chris taking out all of his non-cyc
 
 ### Game 2
 
-![](http://www.wizards.com/sideboard/images/gpmel02/a861.jpg)Chris chose to play and cycled Disciple of Malice into a Plains to make his hand of white cards and Mountains look much safer, meanwhile Jarron made a Sparksmith. The Plains was good for an Astral Slide and Foothill Guide before Lay Waste was used again to strip the white mana.
+![](http://www.wizards.com/sideboard/images/gpmel02/a861.jpg)
+
+Chris chose to play and cycled Disciple of Malice into a Plains to make his hand of white cards and Mountains look much safer, meanwhile Jarron made a Sparksmith. The Plains was good for an Astral Slide and Foothill Guide before Lay Waste was used again to strip the white mana.
 
 Sparksmith fell under a Pinpoint Avalanche, leaving Foothill Guide to hold the fort, and he was the goods for several turns until Jarron played his Lightning Rift. An mind numbing play with Jarron cycling a card at the end of Chris' turn resulted in the Foothill Guide being shocked by the Lightning Rift before the Slide could save it.
 

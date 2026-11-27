@@ -63,7 +63,9 @@ Everything you need in one ready-made deck. Includes 60 total cards, a customize
 
 ## PRODUCT INFORMATION
 
-![](https://i.ormos.uk/eb/74/eb74b9cb59d10ef859a7a0c6257536d899398505d070d85915e402e7025dd569.png)This 143-card set features a host of new mechanics and multicolored madness: Envoys, Siphon Creatures, Enemy Pain Lands, Enemy Split Cards, Disciples, Volvers, and Sanctuaries.
+![](https://i.ormos.uk/eb/74/eb74b9cb59d10ef859a7a0c6257536d899398505d070d85915e402e7025dd569.png)
+
+This 143-card set features a host of new mechanics and multicolored madness: Envoys, Siphon Creatures, Enemy Pain Lands, Enemy Split Cards, Disciples, Volvers, and Sanctuaries.
 
 **Set Name:** *Apocalypse*  
 **Block:** Set 3 of 3 of the *Invasion* Block  

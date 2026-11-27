@@ -71,7 +71,9 @@ render_recovery:
   - Guiltfeeder
   occurrences: 23
 ---
-![](https://www.wizards.com/sideboard/images/gplon02/954.jpg)Stewart is a talented Irish Pro Tour regular who managed to stay on the Gravy Train forever despite not really putting that much time and work in preparation. Jeff is another one of the Canadian players who've made their mark recently making top 8 at PT San Diego last year. He is here on a family holiday.
+![](https://www.wizards.com/sideboard/images/gplon02/954.jpg)
+
+Stewart is a talented Irish Pro Tour regular who managed to stay on the Gravy Train forever despite not really putting that much time and work in preparation. Jeff is another one of the Canadian players who've made their mark recently making top 8 at PT San Diego last year. He is here on a family holiday.
 
 Currently at 5-1 they need one more win to get into day 2 with their byes guaranteeing good tiebreakers. Stewart is playing an unorthodox White Weenie version, forgoing the usual blue splash for a red splash for Reckless Charge and Burning Wish that are there basically "to get more Reckless Charges". Jeff is playing a fairly standard mono-black control deck.
 
@@ -79,7 +81,9 @@ Currently at 5-1 they need one more win to get into day 2 with their byes guaran
 
 Stewart won the die roll and played first. His first hand wasn't up to the task and he mulliganed into a one land hand which he kept. Luckily, he managed to draw his second land right away and he started churning out little white beaters including, but not limited to, Suntail Hawk and Soulcatcher. Jeff answered with a turn 2 Shade and decided he'd want to try and race, attacking for 5 on turn 3. He then added another Shade and Edicted.
 
-![](https://www.wizards.com/sideboard/images/gplon02/955.jpg)At this point Stewart finally drew a red source to go with his Reckless Charge and Charged up a Chaplain before sending his team. Jeff decided to trade his Shade for a Bodyguard and held back the second Shade to block a Spurnmage Advocate. 
+![](https://www.wizards.com/sideboard/images/gplon02/955.jpg)
+
+At this point Stewart finally drew a red source to go with his Reckless Charge and Charged up a Chaplain before sending his team. Jeff decided to trade his Shade for a Bodyguard and held back the second Shade to block a Spurnmage Advocate. 
 
 Stewart pondered his next move for quite some time before deciding not to flash back the Charge to have a backup plan in case of Mutilate. Jeff cast Skeletal Scrying for 3 on the end of Stewart's turn putting himself at 1 and removing his Chainer's Edict. He did get the Mutilate he was looking for though and he used it to clear the table. He also played a Rancid Earth on Stewart's lone mountain to make sure he wouldn't lose to a topdecked 1/1. A Beloved Chaplain gets Mutilated but when a Pianna lives to attack, game 1 goes to Stewart.
 
@@ -91,7 +95,9 @@ All he could muster afterwards was a Pianna while Jeff Tutored for and played Gu
 
 ### Game 3
 
-![](https://www.wizards.com/sideboard/images/gplon02/956.jpg)Stewart got a multiple Reckless Charge hand promising a very explosive start and a lot of trouble for Jeff as almost all his removal is sorcery based.
+![](https://www.wizards.com/sideboard/images/gplon02/956.jpg)
+
+Stewart got a multiple Reckless Charge hand promising a very explosive start and a lot of trouble for Jeff as almost all his removal is sorcery based.
 
 By charging up his Bodyguard turn two and his Chaplain turn three Stewart managed to deal 8 to Jeff despite him killing both of his men with Edicts. When he then wished for yet another Reckless Charge Jeff knew he had to do something fast or lose to Stewart's hasted army. He once again Tutored for and played his Guiltfeeder but two Charge fuelled Pianna attacks easily outraced it and Stewart took the match and can now safely draw into day 2 while Jeff has to win and get lucky.
 

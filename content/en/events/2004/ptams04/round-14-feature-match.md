@@ -623,7 +623,9 @@ render_recovery:
 ---
 ### Osyp Lebedowicz vs. Mike Turian
 
-![](http://www.wizards.com/sideboard/images/ptams04/fm26_1.jpg)Osyp led with AEther and Necrogen Spellbombs, followed by Nuisance Engine. Mike, on the other hand, led with a curve of Leonin Skyhunter and Vulshok Battlegear. Osyp's turn four play, Neurok Spy, traded with a Vulshok Berserker. Osyp sacrificed his Necrogen Spellbomb and passes the turn, then fell to fourteen from the attack. Mike played Steel Wall and equips it with Longbow. Osyp made a Pest token at end of turn.
+![](http://www.wizards.com/sideboard/images/ptams04/fm26_1.jpg)
+
+Osyp led with AEther and Necrogen Spellbombs, followed by Nuisance Engine. Mike, on the other hand, led with a curve of Leonin Skyhunter and Vulshok Battlegear. Osyp's turn four play, Neurok Spy, traded with a Vulshok Berserker. Osyp sacrificed his Necrogen Spellbomb and passes the turn, then fell to fourteen from the attack. Mike played Steel Wall and equips it with Longbow. Osyp made a Pest token at end of turn.
 
 He then untapped and Domineered the Steel Wall. How embarrassing.
 

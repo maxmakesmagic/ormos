@@ -56,7 +56,9 @@ Sonnenberg put out the 2/3 Advocate on three and a freshly-drawn [Hydromorph Gua
 
 Sonnenberg put the "little Embrace" – [Ghostly Wings](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghostly+Wings) – on his Advocate, making it a flying 3/4 and attacked past the Archer. Fung played an [Earsplitting Rats](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earsplitting+Rats) and discarded one of his two [Refresh](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Refresh)es, and Sonnenberg discarded an Island, leaving him with no cards. His Cephalid Scout upgraded a land at the end of the turn, however, and he put out the 3/2 [Balshan Griffin](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Balshan+Griffin) on his next turn.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a947.jpg)Fung put out a Nullmage Advocate of his own and was sneaking in points where he could, but he was on the wrong end of the race. Sonnenberg made life difficult for Fung by putting a [Stupefying Touch](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stupefying+Touch) on the Krosan Archer, preventing it from pumping on defense. Fung chose no to activate it in response with his last card, and with Fung's Advocate still sick, Sonnenberg figured it was safe to attack with his Griffin. Fung wouldn't block, would he?
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a947.jpg)
+
+Fung put out a Nullmage Advocate of his own and was sneaking in points where he could, but he was on the wrong end of the race. Sonnenberg made life difficult for Fung by putting a [Stupefying Touch](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stupefying+Touch) on the Krosan Archer, preventing it from pumping on defense. Fung chose no to activate it in response with his last card, and with Fung's Advocate still sick, Sonnenberg figured it was safe to attack with his Griffin. Fung wouldn't block, would he?
 
 Fung did indeed block, as his last card in had was a Refresh. Sonnenberg was quite deflated, as the card he had to pitch to save his Griffin was [Breakthrough](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Breakthrough), which is about the best card ever with five lands in play and an empty hand.
 
@@ -84,7 +86,9 @@ Sonnenberg didn't put his Aven back out, and instead took the Centaur beats and 
 
 Fung 1 – Sonnenberg 1
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a946.jpg)Fung got to play first in Game 3, and started the beats with a turn-2 Tracer and a turn-3 Gravegouger. Sonnenberg put out a Hydromorph Guardian, but Fung had Refresh at the ready when Sonnenberg blocked, then added a [Treacherous Werewolf](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treacherous+Werewolf) to his side.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/canat02/a946.jpg)
+
+Fung got to play first in Game 3, and started the beats with a turn-2 Tracer and a turn-3 Gravegouger. Sonnenberg put out a Hydromorph Guardian, but Fung had Refresh at the ready when Sonnenberg blocked, then added a [Treacherous Werewolf](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treacherous+Werewolf) to his side.
 
 Sonnenberg put out a Krosan Constrictor and an [Anurid Scavenger](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anurid+Scavenger), both problems for Fung's black team. With only the Hydromorph in his graveyard, however, Sonnenberg was going to have to work hard to keep the Anurid around. Fung played his [Faceless Butcher](https://web.archive.org/web/20020615000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) on the Constrictor and sat tight, hoping to wait the Anurid out.
 

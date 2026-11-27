@@ -87,7 +87,9 @@ Nathon Braymore and Josh Rider are more used to sitting across from each other a
 
 ### Game 1
 
-![](https://i.ormos.uk/7a/1b/7a1bb98f98136f332ac509a21fd21b66984a0ddbff4d732343fecf2c477c59d9.jpg)Braymore had to mulligan a landless first hand, but kept his six. Rider led with Llanowar Elves that bought it to Smother. Braymore's third land was a Cabal Coffers, showing the quality of his draw was poor, and he got on the board with Nantuko Shade. Rider had an Oversold Cemetery, and then picked apart Braymore's hand with Wirewood Herald and Cabal Therapy after Braymore failed to draw a land. Rider hit with his blind guess of Diabolic Tutor, then stole Skeletal Scrying, leaving Braymore with just Corrupt in hand.
+![](https://i.ormos.uk/7a/1b/7a1bb98f98136f332ac509a21fd21b66984a0ddbff4d732343fecf2c477c59d9.jpg)
+
+Braymore had to mulligan a landless first hand, but kept his six. Rider led with Llanowar Elves that bought it to Smother. Braymore's third land was a Cabal Coffers, showing the quality of his draw was poor, and he got on the board with Nantuko Shade. Rider had an Oversold Cemetery, and then picked apart Braymore's hand with Wirewood Herald and Cabal Therapy after Braymore failed to draw a land. Rider hit with his blind guess of Diabolic Tutor, then stole Skeletal Scrying, leaving Braymore with just Corrupt in hand.
 
 Rider made a Wirewood Herald, and then Living Wished for Braids. He played a second Herald and announced a Cabal Therapy. Braymore Smothered one of the Heralds in response, and Rider called for Chainer's Edict. It was a hit. Braids hit play without incident.
 
@@ -101,7 +103,9 @@ The two spent their time sideboarding reminiscing about the times they've played
 
 Braymore led with Duress in the second game.
 
-![](https://i.ormos.uk/d9/cb/d9cb9034a4e8418c56778f319dd7829d59bd5110e724df489ec0028025562a5b.jpg)"You weren't supposed to do that." – Josh Rider
+![](https://i.ormos.uk/d9/cb/d9cb9034a4e8418c56778f319dd7829d59bd5110e724df489ec0028025562a5b.jpg)
+
+"You weren't supposed to do that." – Josh Rider
 
 Rider showed a hand of five land, Llanowar Elves, and Living Wish.
 
@@ -141,7 +145,9 @@ He swung in and saw his Wretch Smothered. He Duressed away Living Wish seeing Ov
 
 "I hate that card." – Nathon Braymore
 
-![](https://i.ormos.uk/0a/7f/0a7f970f2b8106500366b8ac30fd60c3564956af5a115f2d4117466a0de1dcb2.jpg)He smothered the Herald in response. Rider fetched a replacement. He then named Visara the Dreadful, and scored. Braymore was left with two Mutilates and an Echoes. He naturally flashed it back to catch the Echoes, since his Cemetery would give him a long game advantage. He played the other Herald.
+![](https://i.ormos.uk/0a/7f/0a7f970f2b8106500366b8ac30fd60c3564956af5a115f2d4117466a0de1dcb2.jpg)
+
+He smothered the Herald in response. Rider fetched a replacement. He then named Visara the Dreadful, and scored. Braymore was left with two Mutilates and an Echoes. He naturally flashed it back to catch the Echoes, since his Cemetery would give him a long game advantage. He played the other Herald.
 
 Braymore, unsurprisingly, had nothing to do. Rider made another Cemetery. Braymore passed again. Rider found a fourth land and put down the Braids. Braymore Mutilated, but it was clearly a losing battle. Rider fetched a Caller with his Herald, then got back Braids with the Cemetery, putting her into play. Braymore Mutilated again, but was still losing ground. Rider added to the beats with Baloth, and soon Braymore was conceding, unable to escape Braids.
 

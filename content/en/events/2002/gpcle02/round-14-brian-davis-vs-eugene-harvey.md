@@ -108,7 +108,9 @@ render_recovery:
   - Teroh's Faithful
   occurrences: 102
 ---
-![](http://www.wizards.com/sideboard/images/gpcle02/a903.jpg)Two of the top players in the game, Invitational Competitor Brian Davis and National Champion Eugene Harvey faced off, with Eugene wanting a win to advance to the top 8 while Brian Davis would be happy with merely a draw.
+![](http://www.wizards.com/sideboard/images/gpcle02/a903.jpg)
+
+Two of the top players in the game, Invitational Competitor Brian Davis and National Champion Eugene Harvey faced off, with Eugene wanting a win to advance to the top 8 while Brian Davis would be happy with merely a draw.
 
 This matchup favors Eugene Harvey's Timestretch deck over Brian Davis' black/blue Upheaval deck, combo against control. In most formats control beats combo, but in this block format, combo will usually be able to win because the combo deck in this case is able to generate an amazing amount of mana and lands and this mana advantage makes it difficult for the control deck to counter all the spells that it needs to.
 
@@ -138,7 +140,9 @@ On turn 2 Brian made a Zombie Infestation which died to Ray of Revelation. On tu
 
 Despite Brian having a creature on the board, with a Standstill, Eugene was in a good position here. Brian could only top deck cards, while Eugene could Compulsion up cards to get the best possible hand until he decided to break the Standstill. Harvey Compulsioned a few times, letting the Psychatog hit him, until he decided it was the right time to break Standstill. Harvey made sure to break it at a time that Brian would have more than seven cards in hand, negating some of the card advantage Standstill would have given him.
 
-![](http://www.wizards.com/sideboard/images/gpcle02/a905.jpg)However, time was running out and in a desperate move Eugene tapped all of his mana to hard cast Crush of Wurms tapping nine lands. If had only more time, Eugene would have been in a wonderful position.
+![](http://www.wizards.com/sideboard/images/gpcle02/a905.jpg)
+
+However, time was running out and in a desperate move Eugene tapped all of his mana to hard cast Crush of Wurms tapping nine lands. If had only more time, Eugene would have been in a wonderful position.
 
 Brian cast Upheaval, happy to reset the game with Eugene tapped. Just then time was called, and Eugene extended the hand, offering a handshake for what would have to be a drawn game as you only get five extra turns.
 

@@ -173,13 +173,17 @@ The first chance that we have to see the whole set is the [Prerelease](/en/artic
 
 **Rule #1 – Bring A Friend** 
 
-![](https://i.ormos.uk/61/d0/61d0974c167694deb37c511c70fe24d668f52b6bc4ae03cef56b725af467573d.jpg)Now, in a real horror movie, having plenty of friends around can sometimes mean having a few warm bodies to throw in the way of the monster / killer / evil bunny rabbit. Just as often though, are the times that sticking together in a group is the best way to stay safe. The daring loner is often a daring goner... especially if they say they are "just going outside to check something."
+![](https://i.ormos.uk/61/d0/61d0974c167694deb37c511c70fe24d668f52b6bc4ae03cef56b725af467573d.jpg)
+
+Now, in a real horror movie, having plenty of friends around can sometimes mean having a few warm bodies to throw in the way of the monster / killer / evil bunny rabbit. Just as often though, are the times that sticking together in a group is the best way to stay safe. The daring loner is often a daring goner... especially if they say they are "just going outside to check something."
 
 In a **Magic** tournament, it's cool if you rock up going lone wolf. As soon as you get there, there will be a whole bunch of like-minded players, along with judges and tournament organisers who should be able to help out all day if you have any problems. However, in my experience, tournaments are never more fun than if you show up with some friends. Bring along whoever you normally play with, and you can all get the scoop on *Shadowmoor*, and then you can play with your new swag after the tournament too. Having someone with you also makes the travel to and from the tournament that much easier and more entertaining.
 
 **Rule #2 – Get Tooled Up** 
 
-![](https://i.ormos.uk/28/38/2838ede41cd8da096dbb7a72d97ae62f1b40dcaf1e9cee30432e8be7b8a62099.jpg)Now, depending on the horror movie, the tools you will need can vary quite a lot. Carrying a cross and holy water about will only work so much of the time. Likewise there are only so many baddies that can be battled with a shotgun. 
+![](https://i.ormos.uk/28/38/2838ede41cd8da096dbb7a72d97ae62f1b40dcaf1e9cee30432e8be7b8a62099.jpg)
+
+Now, depending on the horror movie, the tools you will need can vary quite a lot. Carrying a cross and holy water about will only work so much of the time. Likewise there are only so many baddies that can be battled with a shotgun. 
 
 A torch, or even better, night vision goggles, might well be a good call, along with a good working mobile phone. In fact, I recall having an entertaining discussion with horror movie director Eli Roth, where he bemoaned the fact that in modern horror one of the first things you need to do is come up with a plot point that will stop mobile phones from working. Murdering the youth of today in new and interesting ways has never been harder.
 
@@ -197,7 +201,9 @@ For a [Prerelease](/en/articles/event-coverage/undated/magic-the-gathering-prere
 
 **Rule #3 – Find Out How to Kill the Monster** 
 
-![](https://i.ormos.uk/59/fc/59fced68d5975cd4a26aacb5cfa9d67bac3bfc17bb30bd6e6e35bf81be244afc.jpg)If you're fighting a zombie, you're going to have a really hard time of it if you don't go for the head. If you do go for the head and it keeps on coming, you're in a lot of trouble regardless. Vampires have a whole catalogue of weaknesses, so make the most and use them where you can. A little preparation goes a long way in a horror movie. You're going to lose enough time falling over while being chased that you have to make it up somewhere.
+![](https://i.ormos.uk/59/fc/59fced68d5975cd4a26aacb5cfa9d67bac3bfc17bb30bd6e6e35bf81be244afc.jpg)
+
+If you're fighting a zombie, you're going to have a really hard time of it if you don't go for the head. If you do go for the head and it keeps on coming, you're in a lot of trouble regardless. Vampires have a whole catalogue of weaknesses, so make the most and use them where you can. A little preparation goes a long way in a horror movie. You're going to lose enough time falling over while being chased that you have to make it up somewhere.
 
 The *Shadowmoor* [Prerelease](/en/articles/event-coverage/undated/magic-the-gathering-prereleases-3) will be Sealed Deck, with one tournament pack, and either two or three *Shadowmoor* boosters, depending on your tournament organizer. This much will be the same for everyone. Most of the cards (excepting those previewed) will be new to everyone in the room. Again, here everyone is on the same level. You could get lucky, and open an amazing collection of cards, with some really powerful numbers that will knock spots of everyone in the room. Luck will only get you so far though. Here are my top tips for building a Sealed Deck pool in more or less any format, which should give you a good start for tackling the tough task of creating a deck from brand new cards within a limited time frame.
 

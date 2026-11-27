@@ -284,7 +284,9 @@ Toni empieza la primera partida muy rápido, desplegando en un par de turnos Nob
 
 0-1 para Jaime
 
-![](http://www.wizards.com/mtg/images/daily/events/spnat09/r2_fm_antoniomartosVSjaimemarrero.jpg)En la segunda partida sólo Jaime hace mulligan. Aprovecho para recordaros que el mulligan, con las nuevas reglas, ha de hacerse de forma casi simultánea. Primero, el jugador que comienza la partida anuncia si va a hacerlo, a continuación su oponente toma su decisión y los dos barajean y roban sus manos a la vez. Así se gana tiempo. 
+![](http://www.wizards.com/mtg/images/daily/events/spnat09/r2_fm_antoniomartosVSjaimemarrero.jpg)
+
+En la segunda partida sólo Jaime hace mulligan. Aprovecho para recordaros que el mulligan, con las nuevas reglas, ha de hacerse de forma casi simultánea. Primero, el jugador que comienza la partida anuncia si va a hacerlo, a continuación su oponente toma su decisión y los dos barajean y roban sus manos a la vez. Así se gana tiempo. 
 
 Martos abre con Llanowar Elves, según sus propias palabras, “superguapos de Beta”. Continúa con Nettle Sentinel mientras que Jaime, como buen jugador de control, sólo baja tierras y encaja los primeros golpes. Lo que no acepta es el intento por parte de Toni de colar un Primal Command, así que lo contrarresta con Broken Ambitions, carta que él mismo había asegurado que veía floja cuando sale su oponente y además juega Elves, pero que seguro que ahora mismo le parece muy, muy buena. Aunque quizá no tanto como la Volcanic Fallout que usa a continuación para quitarse de encima un par de criaturas, aunque Nettle Sentinel sobrevive gracias a que tenía +1/+1 hasta el final del turno gracias a la habilidad de exaltado de Noble Hierarch. Un pequeño desliz que no tiene mucha influencia al ser sus dos próximas jugadas nuevos 2x1: primero, Esper Charm, ¡obligando a descartar a Toni dos Regal Force! A continuación, Firespout, llevándose por delante dos elfos.  
  Pero Toni no se da por vencido, ni mucho menos. Un Ranger of Eos le permite buscar Nettle Sentinel y Burrenton Forge-Tender, faltándole todavía algo de fuerza global para activar Mosswort Bridge. Jaime abandona el plan de matar bichos y juega Baneslayer Angel, buscando ir a la carrera. Martos, por su lado, repite exactamente la misma jugada de búsqueda y despliegue de criaturas vía el soldado que diseñó Antoine Ruel, disponiendo ahora de un total de fuerza 12, aunque sin maná todavía. Marrero, que quiere evitar que Martos active la tierra, juega Maelstrom Pulse a los dos Ruel. Ahora, la carrera es obvia: Baneslayer Angel contra dos 1/1 y tres 2/2. Un solo bicho más permitiría a Toni activar su tierra, ¡que esconde un Ranger of Eos! Pero un segundo Baneslayer Angel, como en la primera partida, aparece para frenar en seco a las hordas de Martos, sellando la partida en el que es, según Toni, probablemente su peor enfrentamiento.
@@ -435,7 +437,9 @@ Ayer se jugó un clasificatorio para el Pro Tour de Austin, siendo además el pr
 
     *Por Omar Sagol*
 
-![](https://i.ormos.uk/a3/48/a3487dd38110f5f4cd275f1dbbace51f23c50435e0d1c36b5d9a0f3db9e38bbf.jpg)Otro duelo de grandes jugadores que, además, se conocen desde hace tiempo. Martín y Saúl han acudido a varios Pro Tour juntos, se llevan muy bien y bromean antes de comenzar. Aunque en cuanto Martín juega su primer Llanowar Elves, ambos se dan cuenta de que están compitiendo y se concentran en el juego. El madrileño se da cuenta de que el emparejamiento es favorable en cuanto Saúl juega su primera tierra, Windbrisk Heights. Kithkins es una baraja que lo tiene muy difícil frente a la de elfos, y Saúl se ríe diciendo “ya puedes ir apuntando que gana Martín”. 
+![](https://i.ormos.uk/a3/48/a3487dd38110f5f4cd275f1dbbace51f23c50435e0d1c36b5d9a0f3db9e38bbf.jpg)
+
+Otro duelo de grandes jugadores que, además, se conocen desde hace tiempo. Martín y Saúl han acudido a varios Pro Tour juntos, se llevan muy bien y bromean antes de comenzar. Aunque en cuanto Martín juega su primer Llanowar Elves, ambos se dan cuenta de que están compitiendo y se concentran en el juego. El madrileño se da cuenta de que el emparejamiento es favorable en cuanto Saúl juega su primera tierra, Windbrisk Heights. Kithkins es una baraja que lo tiene muy difícil frente a la de elfos, y Saúl se ríe diciendo “ya puedes ir apuntando que gana Martín”. 
 
 Y es que la primera partida dura apenas cuatro minutos. Después de llenar la mesa de criaturas, Martín juega un Primal Command a la tierra con esconder y Saúl, con una sonrisa, recoge sus cartas diciendo “no quiero que te recrees”.  
  0-1 para Martín  
@@ -443,7 +447,9 @@ Y es que la primera partida dura apenas cuatro minutos. Después de llenar la me
  Saúl empieza rápido, con dos Goldmeadow Stalwart y el nuevo Honor of the Pure, mientras que Martín no juega nada en sus primeros turnos. Ambos esconden cartas bajo sendas Windbrisk Heights. El primer hechizo de Martín es Devoted Druid, y el segundo un Path to Exile a Figure of Destiny antes de que Saúl pueda atacar, de tal manera que le impide activar su tierra con esconder. No obstante, un turno más tarde Martín se enfrenta nada menos que a cuatro 2/2 con el bono adicional que les aporta el encantamiento blanco de Magic 2010.  
  1-1
 
-![](http://www.wizards.com/mtg/images/daily/events/spnat09/fm_r3_saulaguado.jpg)Es curioso que, incluso en un torneo tan importante como éste, haya un ambiente tan distendido entre jugadores como Scheinin y Aguado, que han viajado por todo el mundo para participar en diversos Grand Prix y Pro Tours, compartiendo experiencias en sitios tan distantes como Kuala Lumpur y Nueva York.
+![](http://www.wizards.com/mtg/images/daily/events/spnat09/fm_r3_saulaguado.jpg)
+
+Es curioso que, incluso en un torneo tan importante como éste, haya un ambiente tan distendido entre jugadores como Scheinin y Aguado, que han viajado por todo el mundo para participar en diversos Grand Prix y Pro Tours, compartiendo experiencias en sitios tan distantes como Kuala Lumpur y Nueva York.
 
 Saúl comienza con mulligan, pero quien juega la primera tierra es Martín, una Windbrisk Heights. Su rival lanza un Figure of Destiny y un turno más tarde Wizened Cenn, aunque Martín se encarga convenientemente de exiliar al primero. El siguiente exilio, provocado por un Unmake, es el de un Elvish Archdruid, que Martín reemplaza por otra copia de la misma carta. Claro que lo que no le gusta al madrileño es la Ethersworn Canonist que llega al siguiente turno, de la mano de un Knight of Meadowgrain. Ésta sólo le deja jugar un Nettle Sentinel, aunque deja el juego al poco tiempo vía Path to Exile. Ahora, la lucha es entre elfos y kithkins, sólo que los primeros son algo más grandes gracias al Honor of the Pure que juega el barcelonés a continuación.
 
@@ -651,7 +657,9 @@ Javier ataca con todo y tras los bloqueos y trucos la mesa se queda casi vacía,
 
     *Por Enrique Naranjo*
 
-![](https://i.ormos.uk/6e/8f/6e8ff248c5bdb1efc93bd4fd50d85c42fb860800981f5bc12790527769b9851b.jpg)Hoy tenemos la oportunidad idónea de descubrir cómo ha afectado la entrada de M10 al formato. Sorprendentemente, no ha habido incidentes de gente que juegue cartas de Décima Edición. Pero eso no quita que las cartas nuevas hayan tenido cierto impacto a la hora de ver qué jugar. Es más, David, de Magic Evolution, una de las tiendas presentes en el nacional, nos ha dejado muy claro cuáles han sido las cartas más demandadas: “Sin duda, la número uno es el Great Sable Stag, seguida de Elvish Archdruid y Honor of the Pure casi por igual. También se han solicitado mucho el Baneslayer Angel, que todo el mundo considera el sustituto del Exalted Angel, así como la tierra Sunpetal Grove”. 
+![](https://i.ormos.uk/6e/8f/6e8ff248c5bdb1efc93bd4fd50d85c42fb860800981f5bc12790527769b9851b.jpg)
+
+Hoy tenemos la oportunidad idónea de descubrir cómo ha afectado la entrada de M10 al formato. Sorprendentemente, no ha habido incidentes de gente que juegue cartas de Décima Edición. Pero eso no quita que las cartas nuevas hayan tenido cierto impacto a la hora de ver qué jugar. Es más, David, de Magic Evolution, una de las tiendas presentes en el nacional, nos ha dejado muy claro cuáles han sido las cartas más demandadas: “Sin duda, la número uno es el Great Sable Stag, seguida de Elvish Archdruid y Honor of the Pure casi por igual. También se han solicitado mucho el Baneslayer Angel, que todo el mundo considera el sustituto del Exalted Angel, así como la tierra Sunpetal Grove”. 
 
 Éstos son los arquetipos jugados, el número de jugadores que los ha llevado y el porcentaje sobre el total: 
 

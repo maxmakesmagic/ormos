@@ -1240,7 +1240,9 @@ render_recovery:
 
 **ストライプシャツを脱いで** 
 
-![](https://www.wizards.com/sideboard/images/gpnag04/nakajima.jpg)神奈川でPlains Walker Cupという老舗トーナメントを主催するコーディネーターであり、レベル2ジャッジとしてプレミアイベントでもおなじみの中嶋智也。実は、彼はここまで一敗という好位置で最終戦を迎えている。
+![](https://www.wizards.com/sideboard/images/gpnag04/nakajima.jpg)
+
+神奈川でPlains Walker Cupという老舗トーナメントを主催するコーディネーターであり、レベル2ジャッジとしてプレミアイベントでもおなじみの中嶋智也。実は、彼はここまで一敗という好位置で最終戦を迎えている。
 
 中嶋はこのグランプリ名古屋のトライアルの主催としても活躍していた人物で、普段はPTQも取り仕切っているという…言うなれば関東圏のマジック・シーンの屋台骨と数えられる一人である。そんな、いつもは縦縞の白黒シャツをきている中嶋が今日は真っ赤なTシャツを着て《大いなる収穫者/Greater Harvester》を従えているわけだから、彼が勝ち星をあげるごとに冷やかしやギャラリーの数が増えてくるのも当然といえば当然かもしれない。
 
@@ -1262,7 +1264,9 @@ render_recovery:
 
 **Block Deck Wins** 
 
-![](https://www.wizards.com/sideboard/images/gpnag04/r7_okamoto.jpg)これは[吉川祐輔の記録した観戦記事](https://web.archive.org/web/20090604034256/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnag04ja/fm7)を参照していただければわかることなのだが、なんと現段階で全勝をひた走るうちの一人が「ブロック構築デッキ」なのである。
+![](https://www.wizards.com/sideboard/images/gpnag04/r7_okamoto.jpg)
+
+これは[吉川祐輔の記録した観戦記事](https://web.archive.org/web/20090604034256/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnag04ja/fm7)を参照していただければわかることなのだが、なんと現段階で全勝をひた走るうちの一人が「ブロック構築デッキ」なのである。
 
 いわく「強そうだと思ってデッキレシピをコピーしてみたら、実はブロック構築のものだったということを指摘されました」とのことで、さすがは横暴なる「親和デッキ」といったあたりだろうか。ともあれ、ブロック構築のバージョンでさえスタンダード・フォーマットで通用することが証明されたわけだから、やはり世界選手権もあたり一面アーティファクトたちに埋め尽くされることになるのかもしれない。
 
@@ -1358,14 +1362,18 @@ render_recovery:
 
 ### 8/28 (Sat) 14:50 pm :アーティスト一家
 
-![](http://www.wizards.com/sideboard/images/gpnag04/gelon.jpg)マジックのプレミア・イベントの大きな楽しみの一つがアーティストサイン会だ。マジックのカードの原画を描いたアーティストに実際に会うことが出来て、しかもサインをしてもらえるのだ。ちょっと値段は張るが、直接彼らから原画を買うことも出来るのだ。ところで、今回のグランプリにやってき二人のアーティストは、実に変り種といえるコンビである。
+![](http://www.wizards.com/sideboard/images/gpnag04/gelon.jpg)
+
+マジックのプレミア・イベントの大きな楽しみの一つがアーティストサイン会だ。マジックのカードの原画を描いたアーティストに実際に会うことが出来て、しかもサインをしてもらえるのだ。ちょっと値段は張るが、直接彼らから原画を買うことも出来るのだ。ところで、今回のグランプリにやってき二人のアーティストは、実に変り種といえるコンビである。
 
 今回はるばる日本まで足を運んでくれたアーティストは、Daniel Gelon と Heather Hudson。なんと彼らは結婚しており、夫婦でともにマジックのイラストを手がけてきたというカップルなのである。…さすがに、こういったケースは全世界を探してもほかにはみあたらないのではないだろうか。
 
   
   
 
-![](http://www.wizards.com/sideboard/images/gpnag04/hudson.jpg)夫のDanielはマジックの最初のバージョンであるアルファ版からそのイラストを提供しているという古参で、《Wheel of Fortune》、《Savannah Lions》や《Orgg》といった代表作で知られている。ただ、Wizards of the Coast社におけるシニア・ニューメディアデザイナーというポジションについてからは、残念ながらDanielの力作を実際のカードとして見かけることは少なくってしまった。しかし、Magic OnlineのVersion 3.0では彼の作品をみつける。
+![](http://www.wizards.com/sideboard/images/gpnag04/hudson.jpg)
+
+夫のDanielはマジックの最初のバージョンであるアルファ版からそのイラストを提供しているという古参で、《Wheel of Fortune》、《Savannah Lions》や《Orgg》といった代表作で知られている。ただ、Wizards of the Coast社におけるシニア・ニューメディアデザイナーというポジションについてからは、残念ながらDanielの力作を実際のカードとして見かけることは少なくってしまった。しかし、Magic OnlineのVersion 3.0では彼の作品をみつける。
 
 妻のHeatherはLegendsから参入したアーティストで、《霊体の先達/Karmic Guide》や《腐食ナメクジ/Molder Slug》といったカードを手がけてきた。彼女は今秋発売となる *Champions of Kamigawa* でも多くのイラストを担当しており、はやく新しいカードたちがファンを楽しませてくれる日がくることを心待ちにしているとか。加えていうならば、*Kamigawa*は日本を強くイメージした世界観のファンタジーであり、それだけに実際に日本へとやってくる機会をもてたことを本当にうれしく思っているそうだ。
 
@@ -1902,7 +1910,9 @@ Out
 
 ### 8/28 (Sat) 8:00 am :日本語版Blogの船出
 
-![](http://www.wizards.com/sideboard/images/gpnag04/sitepicture.jpg)本家英語版MagicTheGathering.Comに倣って、このグランプリ名古屋からは日本語版取材班もBlogスタイルでのライヴ取材をお届けすることになった。もっとも、今大会での日本語版Blogは通常のMatch Coverage（試合の取材）と並行してのものとなり、ここでは主にゲーム外の様々なトピックを扱わせていただくつもりだ。デッキビルダたちのぼれ話だとか、有名プレイヤーたちの動向といった興味深いストーリーをお楽しみに。
+![](http://www.wizards.com/sideboard/images/gpnag04/sitepicture.jpg)
+
+本家英語版MagicTheGathering.Comに倣って、このグランプリ名古屋からは日本語版取材班もBlogスタイルでのライヴ取材をお届けすることになった。もっとも、今大会での日本語版Blogは通常のMatch Coverage（試合の取材）と並行してのものとなり、ここでは主にゲーム外の様々なトピックを扱わせていただくつもりだ。デッキビルダたちのぼれ話だとか、有名プレイヤーたちの動向といった興味深いストーリーをお楽しみに。
 
 ちなみに、このグランプリ名古屋にはBlogスタイル観戦記事の創始者であるBDM(Brian David-Marshall)御大が英語版取材のためにやってきており、彼の助言を仰ぎながら皆さんへとニュースを配信していきたいと思う。
 

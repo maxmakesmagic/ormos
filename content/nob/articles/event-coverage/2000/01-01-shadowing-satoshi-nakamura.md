@@ -53,7 +53,9 @@ render_recovery:
 ---
 *by Adrian Sullivan*
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/887.jpg)Satoshi Nakamura is perhaps the most recognized player from Asia. Satsoshi first gained widespread notice at the 1998 Magic Invitational where his unconventional deckbuilding and a flair for unusual hats made him hard to miss. With a handful of Grand Prix Top Eight finishes, the Grand Prix Sapporo Champion is hoping to make a big splash.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/887.jpg)
+
+Satoshi Nakamura is perhaps the most recognized player from Asia. Satsoshi first gained widespread notice at the 1998 Magic Invitational where his unconventional deckbuilding and a flair for unusual hats made him hard to miss. With a handful of Grand Prix Top Eight finishes, the Grand Prix Sapporo Champion is hoping to make a big splash.
 
 Satoshi sat down to draft at a table full of big names. He was hoping to draft Green/Red and have a lot of creatures, but right from the beginning, he started in with White/Blue instead. To his right, Frenchmen Nicolas Labarre was drafting an unusual Green/Red splashing Blue for Repulses, while old school Tongo Nation Pro Pete Leiher's deck was anchored with the very strong Darigaaz the Igniter.
 
@@ -175,7 +177,9 @@ Many of the players, Satoshi included, felt that Scott had the best deck at thei
 
 Satoshi stabilized the ground with Lancer and other cards, but was taking a few points of damage in the air from Scott's Razorfoot Griffin. After fully locking up the ground, Satoshi used Exotic Curse to clear the air, and killed Scott with a few fliers. In the next game, Scott had a slow start, and was stopped completely by Satoshi's Teferi's Moat. A timely Wax/Wane combined with a large draw of creatures brought Satoshi low enough that Meteor Swarm finished the job.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/889.jpg)Game three was perhaps the most interesting. Satoshi started the offensive first, with a Galina's Knight and Tower Drake. Scott brought out a Sunscape Apprentice and Verduran Emissary to return fire, and followed it up with a Razorfoot Griffin.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/PTLA01/889.jpg)
+
+Game three was perhaps the most interesting. Satoshi started the offensive first, with a Galina's Knight and Tower Drake. Scott brought out a Sunscape Apprentice and Verduran Emissary to return fire, and followed it up with a Razorfoot Griffin.
 
 Nearly tapped out, Scott feel back a pace to Satoshi's Repulse, and was forced to discard it on Satoshi's turn when Satoshi played a Probe with kicker. After Satoshi's attack, Scott was at 14, and he traded his Apprentice for the Galina's Knight. Simoon killed the Tower Drake on Scott's turn and the only creature left on the table was Verduran Emissary.
 

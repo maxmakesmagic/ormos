@@ -87,7 +87,9 @@ render_recovery:
   - Daunting Defender
   occurrences: 41
 ---
-![](https://i.ormos.uk/1f/48/1f48f1d40f06a0fabfb7e90d5e05a1f193def6b100eeaeb61fe6aaa9e281a594.jpg)Okada had Momose under pressure quickly thanks to Wirewood Herald and a mystery creature. Momose made a Secret Ogre of his own, and attempted to trade on Okada's next attack. Okada revealed Serpentine Basilisk. Momose bounced back with Crude Rampart, but wasn't ready for Okada's next move: Centaur Glade! The powerhouse enchantment Threatened to smash him before he got started. He resignedly let Okada use some of his tokens. The Mobilisation he played next turn wasn't nearly as exciting, and certainly couldn't outrace.
+![](https://i.ormos.uk/1f/48/1f48f1d40f06a0fabfb7e90d5e05a1f193def6b100eeaeb61fe6aaa9e281a594.jpg)
+
+Okada had Momose under pressure quickly thanks to Wirewood Herald and a mystery creature. Momose made a Secret Ogre of his own, and attempted to trade on Okada's next attack. Okada revealed Serpentine Basilisk. Momose bounced back with Crude Rampart, but wasn't ready for Okada's next move: Centaur Glade! The powerhouse enchantment Threatened to smash him before he got started. He resignedly let Okada use some of his tokens. The Mobilisation he played next turn wasn't nearly as exciting, and certainly couldn't outrace.
 
 The Wall allowed some buildup. While Okada made Centaurs, Momose tried Nosy Goblin and Sparksmith. Death Pulse took care of the latter. Then Momose dropped the bomb: Doom Cannon. As cool as it was, it still wasn't going to be fast enough to stop the swarm of Centaurs. An attack while Momose was tapped out left him with just a revealed Daru Healer and his wall. Okada hammered further with Elvish Warrior and Prowling Pangolin. Momose desperately searced for a card that could stem the tide. He found it: Catapult Squad.
 
@@ -101,7 +103,9 @@ Momose 1 - Okada 0
 
 Okada had a slow start for the second game, still shaking his head at his blunder. He had Death Pulse for Momose's Nosy Goblin, and when Momose made a morphed creature he answered back with a massive Prowling Pangolin. Swat left Momose with just a Charging Skateback. They traded hits. Momose made a Goblin Machinist to chump. Commando Raid took out Okada's mystery ogre. But still he was far behind. Anurid Murkdweller further Complicated things. Okada tried to play cagey about the Wave of Indifference in his hand.
 
-![](https://www.wizards.com/sideboard/images/gputs02/990.jpg)Momose attacked, bringing Okada to eight. Erratic Explosion on the Murkdweller hit Doom Cannon and succeeded. Sandskin took care of the Pangolin. It was a solution that would make winning tricky for Momose. Okada played Spitting Gourna. Momose answered with a Morph. Okada could have gone for the throat, with Wave of Indifference, Primal Boost and Misery Charm for the kill, but chose to slow-play it. His hand was forced when Momose blocked and revealed Skittish Valesk. The Boost made the rescue. Okada made Undead Gladiator. Slice and Dice got rid of both.
+![](https://www.wizards.com/sideboard/images/gputs02/990.jpg)
+
+Momose attacked, bringing Okada to eight. Erratic Explosion on the Murkdweller hit Doom Cannon and succeeded. Sandskin took care of the Pangolin. It was a solution that would make winning tricky for Momose. Okada played Spitting Gourna. Momose answered with a Morph. Okada could have gone for the throat, with Wave of Indifference, Primal Boost and Misery Charm for the kill, but chose to slow-play it. His hand was forced when Momose blocked and revealed Skittish Valesk. The Boost made the rescue. Okada made Undead Gladiator. Slice and Dice got rid of both.
 
 Momose fought to stay his grouhd. Daunting Defender was shown up by Centaur Glade. Okada started to make Centaurs, and after time was called, had enough that Wave of Indifference provided the kill and the draw.
 

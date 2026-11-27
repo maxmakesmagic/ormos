@@ -380,7 +380,9 @@ Masters 2 年連続準優勝チーム Punzer Hunter のメンバー百瀬和之�
 
 勝負は淡々と進んで行った、 2 ターン目に出た木元の《夜景学院の使い魔/Nightscape Familiar》がなんと 14 回殴って後は《影魔道士の浸透者/Shadowmage Infiltrator》で 2 まで削って《激動/Upheaval》後の《サイカトグ/Psychatog》でゲームセット。
 
-![](http://www.wizards.com/sideboard/images/jpnat02/966.jpg)14 回殴られている間に百瀬は《極楽鳥/Birds of Paradise》と土地しか引かなかったのだ。
+![](http://www.wizards.com/sideboard/images/jpnat02/966.jpg)
+
+14 回殴られている間に百瀬は《極楽鳥/Birds of Paradise》と土地しか引かなかったのだ。
 
 **Final Results : 木元健児 Win**
 

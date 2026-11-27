@@ -90,7 +90,9 @@ render_recovery:
   - Glarecaster
   occurrences: 81
 ---
-![](http://www.wizards.com/sideboard/images/ptyok03/a715.jpg)After years of coming to the Pro Tour, Ben Seck is finally playing on a Sunday. In fact, despite being a two-time Grand Prix champion and a true veteran, up until this tournament Seck had never won a cent on the Pro Tour. Ikeda is in a similar situation in the sense that he is also a veteran of the Pro Tour who is finally getting his moment in the spotlight. 
+![](http://www.wizards.com/sideboard/images/ptyok03/a715.jpg)
+
+After years of coming to the Pro Tour, Ben Seck is finally playing on a Sunday. In fact, despite being a two-time Grand Prix champion and a true veteran, up until this tournament Seck had never won a cent on the Pro Tour. Ikeda is in a similar situation in the sense that he is also a veteran of the Pro Tour who is finally getting his moment in the spotlight. 
 
 ### Game 1
 
@@ -116,7 +118,9 @@ Seck- "It's not quite the same thing, it's like if I called you Finnish or somet
 
 Seck- "See!"
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a719.jpg)Seck played Cabal Archon, Ikeda summoned Hollow Specter, and Seck came back with a great answer in Windborn Muse.
+![](http://www.wizards.com/sideboard/images/ptyok03/a719.jpg)
+
+Seck played Cabal Archon, Ikeda summoned Hollow Specter, and Seck came back with a great answer in Windborn Muse.
 
 Seck- "This guy spreads the propaganda! 'TBS is great!'"
 
@@ -140,7 +144,9 @@ Ikeda opened with Battlefield Medic, and Seck played Starlight Invoker. Ikeda ha
 
 Ikeda's Gustcloak Harrier provided a way to stop the Soulgazer beats thanks to Battlefield Medic, but Profane Prayers after a block and activation eliminated the Medic form the equation. Ikeda played his own Akroma's Devoted, and Seck flipped over his morph on end step to reveal Daru Healer. He attacked, and played an eighth land, making Starlight Invoker ready to start gaining life. Just when things seemed to be at their worst, Ikeda used Endemic Plague to wipe all the Clerics off the board, leaving Seck with zero creatures on the board and Ikeda with White Knight and the Harrier. They attacked for four, and Seck played Cabal Archon, which died right away to Misery Charm (it was sacrificed in response).
 
-![](http://www.wizards.com/sideboard/images/ptyok03/a718.jpg)Ikeda played a key Whipcorder, stopping any chance of a comeback. Endemic Plague had been far too devastating, and Ikeda set it up perfectly. Seck found an answer to Whipcorder when it was likely too late, targeting it with Profane Prayers (with two Clerics out). Ikeda had the answer and removed one of them with Cruel Revival in response to force a fifth and final game.
+![](http://www.wizards.com/sideboard/images/ptyok03/a718.jpg)
+
+Ikeda played a key Whipcorder, stopping any chance of a comeback. Endemic Plague had been far too devastating, and Ikeda set it up perfectly. Seck found an answer to Whipcorder when it was likely too late, targeting it with Profane Prayers (with two Clerics out). Ikeda had the answer and removed one of them with Cruel Revival in response to force a fifth and final game.
 
 Seck- 2 Ikeda- 2
 

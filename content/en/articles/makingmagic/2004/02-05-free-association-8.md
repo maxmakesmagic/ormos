@@ -61,4 +61,6 @@ archive_source:
   sha256: 53df338d3165cc2142f79bf1980e2e357f2b896f52aafacaa10cf6e89ea2a7eb
 render_recovery: []
 ---
-![](https://i.ormos.uk/87/24/87249a6790c559d74fdae98b3530e2db85aa6222e22b44649a1525391645ae7f.jpg)Little piece o' trivia: The potato is the only vegetable to ever appear in the name of a winning [Pro Tour](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-pt) team. The team in question was Potato Nation (Gary Wise, Mike Turian, and **MagictheGathering.com's** own Scott Johns) at [Pro Tour](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-pt) New York 2000. “Potato” is a nickname for Mike Turian.
+![](https://i.ormos.uk/87/24/87249a6790c559d74fdae98b3530e2db85aa6222e22b44649a1525391645ae7f.jpg)
+
+Little piece o' trivia: The potato is the only vegetable to ever appear in the name of a winning [Pro Tour](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-pt) team. The team in question was Potato Nation (Gary Wise, Mike Turian, and **MagictheGathering.com's** own Scott Johns) at [Pro Tour](https://web.archive.org/web/20040205000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mr110-pt) New York 2000. “Potato” is a nickname for Mike Turian.

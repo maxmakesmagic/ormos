@@ -143,7 +143,9 @@ render_recovery:
   - Zombie Cannibal
   occurrences: 144
 ---
-![](http://www.wizards.com/sideboard/images/worlds02/a814.jpg)Read about William Jensen's draft [here](/en/events/2002/worlds02/draft-2-william-jensen-and-sim-han-how).
+![](http://www.wizards.com/sideboard/images/worlds02/a814.jpg)
+
+Read about William Jensen's draft [here](/en/events/2002/worlds02/draft-2-william-jensen-and-sim-han-how).
 
 Some would say it shouldn't happen, that the collision of worlds could tear everything apart. There are those who say that it is their destiny to meet in single combat. Today it is inescapable. The Huey's must face one another.
 
@@ -169,7 +171,9 @@ Romao 1 - Jensen 0
 
 In Game 2 it was Jensen's turn to get the quick start. Mystic Familiar and Skywing Aven tattooed Romao while he got out a Tracer. Things looked even better when Romao had no play.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a815.jpg)Jensen smashed in with just the Aven, signaling what was to come. Psionic Gift for the Mystic Familiar. Romao was ready with Rites of Refusal. Still, Jensen had a Phantom Nomad to increase the beats.
+![](http://www.wizards.com/sideboard/images/worlds02/a815.jpg)
+
+Jensen smashed in with just the Aven, signaling what was to come. Psionic Gift for the Mystic Familiar. Romao was ready with Rites of Refusal. Still, Jensen had a Phantom Nomad to increase the beats.
 
 Romao made a Nantuko Mentor and passed it back. Jensen hit for five and played Stern Judge. At twelve, Romao decided to gas up with Deep Analysis. When Huey crashed again, Romao tried to trade by blocking with Tracer and Mentor, but Prismatic Strands for green left him without creatures.
 
@@ -183,7 +187,9 @@ Jensen didn't bat an eye at Romao's mulligan for Game 3, but when he dropped tur
 
 The Aven attacked. Romao blocked and went for Refresh. Jensen shut that down with Repel. Then he pitched Ghostly Wings to save the Aven. The Collaborator came back. Jensen added a Stern Judge.
 
-![](http://www.wizards.com/sideboard/images/worlds02/a816.jpg)Romao wanted to make it quick, dropping Teachings on his Collaborator and hitting for four. Jensen fired back for two and remade the Aven. On Romao's next attack, Jensen blocked with the Skywing and pitched Frantic Purification to save it, killing the Teachings in the process. Mystic Familiar hit the board to earn the Teachings.
+![](http://www.wizards.com/sideboard/images/worlds02/a816.jpg)
+
+Romao wanted to make it quick, dropping Teachings on his Collaborator and hitting for four. Jensen fired back for two and remade the Aven. On Romao's next attack, Jensen blocked with the Skywing and pitched Frantic Purification to save it, killing the Teachings in the process. Mystic Familiar hit the board to earn the Teachings.
 
 Now was not a good time for Romao to add nothing to the board. Jensen attacked for six, having Wings'd up the Judge. Keep Watch drew Romao some cards. He dropped Aven Windreader and Ironshell Beetle, armoring up his Collaborator. The Windreader fell to the assault, and Romao dropped to six.
 

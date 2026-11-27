@@ -65,7 +65,9 @@ Yuri is playing the old-school red-green speed deck, and Pierre has a more origi
 
 ### Game One
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/954.jpg)Yuri obviously doesn't like this match-up, as he shook his head and sighed as early as turn two, when Pierre played a [Fertile Ground](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fertile+Ground) on his Swamp. Kolomeyko's hand wasn't too good either, as it had only burn spells and no creatures.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/954.jpg)
+
+Yuri obviously doesn't like this match-up, as he shook his head and sighed as early as turn two, when Pierre played a [Fertile Ground](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fertile+Ground) on his Swamp. Kolomeyko's hand wasn't too good either, as it had only burn spells and no creatures.
 
 Pierre's third turn [Harrow](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harrow) allowed him to play a [Sabertooth Nishoba](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sabertooth+Nishoba) on his fourth turn. With no creatures large enough to block it, Yuri had to concede fairly soon after, as he couldn't find anything [Kavu Titan](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kavu+Titan) sized to be able to trade.
 
@@ -75,7 +77,9 @@ Pierre brought in more sizeable creatures, taking out the pointless [Destructive
 
 ### Game Two
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/955.jpg)Pierre had to mulligan a one-forest hand, and at least Yuri's draw was a little better this time. He summoned a turn two [Thornscape Familiar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thornscape+Familiar), and followed it up with [Raging Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Kavu) allowing him to attack for three on the third turn, and then a turn four [Skizzik](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skizzik) putting Pierre on five life. Even a [Collective Restraint](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Restraint) wasn't enough to help, as even though Yuri didn't have a fifth land and Pierre had the Domain, the Ukrainian did have a [Thunderscape Battlemage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thunderscape+Battlemage) to destroy the enchantment.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPWARSAW01/955.jpg)
+
+Pierre had to mulligan a one-forest hand, and at least Yuri's draw was a little better this time. He summoned a turn two [Thornscape Familiar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thornscape+Familiar), and followed it up with [Raging Kavu](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+Kavu) allowing him to attack for three on the third turn, and then a turn four [Skizzik](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skizzik) putting Pierre on five life. Even a [Collective Restraint](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Restraint) wasn't enough to help, as even though Yuri didn't have a fifth land and Pierre had the Domain, the Ukrainian did have a [Thunderscape Battlemage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thunderscape+Battlemage) to destroy the enchantment.
 
 Yuri Kolomeyko 1 - Pierre Malherbaud 1
 

@@ -62,7 +62,9 @@ render_recovery:
   - Gravedigger
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/ptnice02/a732.jpg)Benjamin Niedrig にとって、ニースで過ごしたこの週末の出来事は驚きと歓びに満ち満ちたものとなった。そう、人口わずか 4000 人ほどという規模のスイスの静かな街で暮らす 21 歳の若者にとって、今大会がプロツアー初体験だったのだ。普段、彼はどのようにしてマジックとつきあっているのだろうか？
+![](http://www.wizards.com/sideboard/images/ptnice02/a732.jpg)
+
+Benjamin Niedrig にとって、ニースで過ごしたこの週末の出来事は驚きと歓びに満ち満ちたものとなった。そう、人口わずか 4000 人ほどという規模のスイスの静かな街で暮らす 21 歳の若者にとって、今大会がプロツアー初体験だったのだ。普段、彼はどのようにしてマジックとつきあっているのだろうか？
 
 *「僕の対戦相手はもっぱら二人の兄弟か、親友の Mario Steger ですね。ちなみに、Mario もこの PT ニースに参加してますよ」*
 

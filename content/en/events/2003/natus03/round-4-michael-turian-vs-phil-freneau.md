@@ -86,7 +86,9 @@ render_recovery:
   - Sparksmith
   occurrences: 41
 ---
-![](http://www.wizards.com/sideboard/images/natus03/a903.jpg)Mike Turian was not quite ready to present his deck. His count kept coming up at forty-two cards and he couldn't figure out what was wrong. Finally, as he went through card by card he realized that there were two too many lands in his deck. "I have decided to play forty cards today and not forty-two!" laughed Turian as he put the extra lands in his sideboard. "I actually got a game loss for that in Chicago against Herzog—I usually get someone to help me sleeve and it all goes horribly awry... But enough with the happy storytelling..."
+![](http://www.wizards.com/sideboard/images/natus03/a903.jpg)
+
+Mike Turian was not quite ready to present his deck. His count kept coming up at forty-two cards and he couldn't figure out what was wrong. Finally, as he went through card by card he realized that there were two too many lands in his deck. "I have decided to play forty cards today and not forty-two!" laughed Turian as he put the extra lands in his sideboard. "I actually got a game loss for that in Chicago against Herzog—I usually get someone to help me sleeve and it all goes horribly awry... But enough with the happy storytelling..."
 
 ### Game 1
 
@@ -106,7 +108,9 @@ Fierce Empath found a Needleshot Gourna and Freneau's morph got in and dropped T
 
 Mike was still able to get the Inquisitor in for two but it was looking grim. Freneau sent in the troops—two morphs and the Kilnmouth and Turian blocked only a morph with his Deftblade. He adjusted his life total and then turned back to pay the mana for the Deftblade but Freneau only stared at him coldly, "He's dead."
 
-![](http://www.wizards.com/sideboard/images/natus03/a902.jpg)Mike nodded, "Then we are still in combat..." He used his Daru Stinger to finish off the morph—a Patron of the Wild. Rather than save his elf, Freneau kept the pressure on with an Enormous Baloth.
+![](http://www.wizards.com/sideboard/images/natus03/a902.jpg)
+
+Mike nodded, "Then we are still in combat..." He used his Daru Stinger to finish off the morph—a Patron of the Wild. Rather than save his elf, Freneau kept the pressure on with an Enormous Baloth.
 
 Turian was holding a fistful of lands. He sent all of his men into the red zone to see if there was any crack he could slip though but Freneau blocked appropriately and Turian shook his head and began to prepare for Game 2, "Even coming down from forty-two cards I still get mana flooded."
 
@@ -124,7 +128,9 @@ Turian – 1 Freneau – 1
 
 While they shuffled, Turian marveled at the green cards that passed through Mike McGee and the ones that didn't. Apparently planning on playing in the JSS tomorrow, McGee's goal in the draft was to help out Gerard Fabiano. He seemed so caught up in his disruption that he took cards from him as well. McGee was Blue-Red all the way but took time to pick a Snarling Undorak, Needleshot Gourna and a handful of other cards away form Freneau. Most players at the table assumed he was going to play the green and were visibly stunned when he let Mythic Proportions and Forgotten Ancients saunter over into Freneau's stack.
 
-![](http://www.wizards.com/sideboard/images/natus03/a901.jpg)Freneau earned a yelp from the crowd when he played a Forest and cycled a Tranquil Thicket, "Modo!" shouted one onlooker. Turian had the first play—a Glory Seeker and it traded with Freneau's morph a turn later. The CMU'er was stuck on two lands and cycled an Akroma's Blessing futilely. 
+![](http://www.wizards.com/sideboard/images/natus03/a901.jpg)
+
+Freneau earned a yelp from the crowd when he played a Forest and cycled a Tranquil Thicket, "Modo!" shouted one onlooker. Turian had the first play—a Glory Seeker and it traded with Freneau's morph a turn later. The CMU'er was stuck on two lands and cycled an Akroma's Blessing futilely. 
 
 Freneau played another morph and passed the turn back to Turian who was trying to coax a land from his deck. A Daru Encampment off the top earned a heartfelt, "Yaus!" from Turian and he made a Whipgrass Entangler. An unmorphed Vigilante smoked it in combat on the next turn. After Empathing for a Bulvox, the Oregonian sent it back to Turian who wanted his deck to perform once more. "Yaussssss!!!!" A fourth land powered up a 5/5 Daru Stinger. Mike pointed at the Pearlspear Courier in the pile and grinned, "Look a combo!" One of his other revealed soldiers was another Stinger.
 

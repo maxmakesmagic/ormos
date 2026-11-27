@@ -46,7 +46,9 @@ render_recovery: []
 ---
 This is probably the most popular match in the entire tournament, with a huge spectator turnout. And why not? This epic matchup of good guy vs. bad guy has been brewing all day.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a945.jpg)Nothing more needs to be said about the Ubermenschen, but the Northern Lights are enjoying their first tournament with the recently-reinstated Justin Schneider. He and Mike Long were once members of the infamous team Tongo Nation. It will be fascinating to see if the Ubermenschen can stand up to Long, Schneider, and Krzywicki. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a945.jpg)
+
+Nothing more needs to be said about the Ubermenschen, but the Northern Lights are enjoying their first tournament with the recently-reinstated Justin Schneider. He and Mike Long were once members of the infamous team Tongo Nation. It will be fascinating to see if the Ubermenschen can stand up to Long, Schneider, and Krzywicki. 
 
 ### Game 1
 
@@ -77,7 +79,9 @@ Mike topdecked [Decree of Pain](https://web.archive.org/web/20030601000000/https
 
 Justin got an incredible early start this game, with [Wirewood Savage](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wirewood+Savage), [Carrion Feeder](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Feeder), and [Stonewood Invoker](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonewood+Invoker). But Brian did his best to recover, by playing [Alpha Status](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Alpha+Status) on his [Elvish Warrior](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior). Brian tried his best to keep up, but he falls further and further behind. He cast [Twisted Abomination](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twisted+Abomination) to keep his other guys company, but Justin played [Lingering Death](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lingering+Death) to kill the enormous [Elvish Warrior](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Warrior). A few turns later, Justin is the only one left with creatures in play as Brian's slow start won't allow him to catch up.
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a946.jpg)Game 2 in the B seat went incredibly quickly. After a few trades back and forth, Ben is left with a creature in play, but Mike [Solar Blast](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)s it out of existence. Mike then cycled a card with islandcycling, got an island, and threw it up and out of play – but said, "Hey, I didn't get an island!" He asked the judge to check his hand to verify that there wasn't one already in there, and gets another island.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a946.jpg)
+
+Game 2 in the B seat went incredibly quickly. After a few trades back and forth, Ben is left with a creature in play, but Mike [Solar Blast](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)s it out of existence. Mike then cycled a card with islandcycling, got an island, and threw it up and out of play – but said, "Hey, I didn't get an island!" He asked the judge to check his hand to verify that there wasn't one already in there, and gets another island.
 
 However, a few turns later, an alert spectator noticed that extra island, and Mike concedes the game.
 
@@ -97,7 +101,9 @@ After Brian played an [Alpha Status](https://web.archive.org/web/20030601000000/
 
 Ken and Long have fifteen extra minutes in which to finish their match. Ken took about thirty extra seconds to play his first land; he's eager to win, but not as obviously as Long, who's fidgety and extremely restless. Ken enchants his [Information Dealer](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Information+Dealer) with [Pemmin's Aura](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pemmin%27s+Aura).
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a947.jpg)When Mike attacked, he pitched a [Shepherd of Rot](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shepherd+of+Rot) to unmorph his [Putrid Raptor](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Putrid+Raptor), surprising both Ken and all the spectators watching. Ken stayed thoroughly cool, and when Mike attacked again, he used [Pemmin's Aura](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pemmin%27s+Aura) to pump the Dealer's toughness and take less damage from Long's attack.
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gppit03/a947.jpg)
+
+When Mike attacked, he pitched a [Shepherd of Rot](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shepherd+of+Rot) to unmorph his [Putrid Raptor](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Putrid+Raptor), surprising both Ken and all the spectators watching. Ken stayed thoroughly cool, and when Mike attacked again, he used [Pemmin's Aura](https://web.archive.org/web/20030601000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pemmin%27s+Aura) to pump the Dealer's toughness and take less damage from Long's attack.
 
 Ken thought...and thought...and thought again. His calm collectedness is a direct contrast to Long's fidgeting, checking the clock, asking Ken to play back and not take so much time making decisions. Pardon me, but if I were in Ken's situation, I think I might take a while to make a decision, too! Long finally appealed to the judge to nudge Ken along, but this match has been a perfect demonstration of two vastly different and completely opposite play styles. 
 

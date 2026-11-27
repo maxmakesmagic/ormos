@@ -415,7 +415,9 @@ render_recovery:
 ---
 * * *
 
-![Ben Rubin](http://wizards.com/sideboard/images/ptsd04/fm28_1.jpg)Ben Stark was 11-3 at this point in the tournament. That is a record that allows most players to sigh and take a draw into the Sunday competition. He was paired down this round with the other 2-0 player in his pod, Ben Rubin. Ben was 9-3-1 and a loss or a draw would knock him out of the running for one last seating around the draft table on Sunday.
+![Ben Rubin](http://wizards.com/sideboard/images/ptsd04/fm28_1.jpg)
+
+Ben Stark was 11-3 at this point in the tournament. That is a record that allows most players to sigh and take a draw into the Sunday competition. He was paired down this round with the other 2-0 player in his pod, Ben Rubin. Ben was 9-3-1 and a loss or a draw would knock him out of the running for one last seating around the draft table on Sunday.
 
 In the past, Pro Tours were fourteen rounds. An extra round was added beginning in Amsterdam and that further frustrated Stark who was one win away from back to back Top 8 performances--one in each discipline. "Eleven wins should put you in the Top 8. Stupid extra round."
 

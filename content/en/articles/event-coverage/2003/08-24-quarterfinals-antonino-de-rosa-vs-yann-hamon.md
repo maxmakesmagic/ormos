@@ -44,7 +44,9 @@ archive_source:
   sha256: 2a6ba8e07341a2f2172498f397add363e04d2a6adf7305eedf4d4abe0acff7c0
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a857.jpg)As top eight matches go this one, more than most, is a real clash of cultures. Antonino De Rosa from the USA is a verbal presence wherever he goes whilst Yann Hamon of France is just the opposite, quiet and unassuming he lets his playing do his talking.
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gplon03/a857.jpg)
+
+As top eight matches go this one, more than most, is a real clash of cultures. Antonino De Rosa from the USA is a verbal presence wherever he goes whilst Yann Hamon of France is just the opposite, quiet and unassuming he lets his playing do his talking.
 
 Antonino is playing Red and White Slide and no more needs to be said than that. Yann’s deck is something different though. The only deck to play Forests in day two he plays a Green and Red base of Beasts, mana acceleration and creature removal and a small splash of Black for Cabal Conditioning. He’s played and beaten Red and White decks all weekend but he’ll still need more than a little luck.
 

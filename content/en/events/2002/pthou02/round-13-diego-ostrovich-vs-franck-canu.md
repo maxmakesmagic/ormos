@@ -84,7 +84,9 @@ render_recovery:
   - Monk Realist
   occurrences: 62
 ---
-![](https://i.ormos.uk/f1/fb/f1fb362986460f8569963d7875a93558b44f1aea7c04fd82c3b902e6c2de08ad.jpg)Franck Canu has enjoyed the comfort of the United States of America since Grand Prix - Philadelphia. He's working towards the next Masters Series, and with Houston bisecting the two events, it just made sense to stick around. You may have seen him hanging about with Christophe Haim, wearing matching caps. Canu is with the tournament's most-hyped deck: Aluren.
+![](https://i.ormos.uk/f1/fb/f1fb362986460f8569963d7875a93558b44f1aea7c04fd82c3b902e6c2de08ad.jpg)
+
+Franck Canu has enjoyed the comfort of the United States of America since Grand Prix - Philadelphia. He's working towards the next Masters Series, and with Houston bisecting the two events, it just made sense to stick around. You may have seen him hanging about with Christophe Haim, wearing matching caps. Canu is with the tournament's most-hyped deck: Aluren.
 
 Opposite him is Latin sensation Diego Ostrovich. His success at World Championships earned him a place at the Magic Invitational, and along with World Champion Carlos Romao has come to represent the strength of the Latin pro community. This weekend he is playing an unorthodox choice: Mid-range green with mana acceleration.
 
@@ -102,7 +104,9 @@ Still, it gave Ostrovich the card-advantage hookup. Canu hung on by his nails, s
 
 Ostrovich 1 - Canu 0
 
-![](https://i.ormos.uk/62/0f/620f42610998a7643ce6e73bfd8adb1f040e6a6683faabf8134936484b532cc2.jpg)Canu led with City of Brass and Bird of Paradise. Ostrovich played forest, Bird. Canu dropped Wall of Blossoms, but then no second land. Ostrovich took full advantage, busting out two Calls while he was stuck and holding up Naturalize mana.
+![](https://i.ormos.uk/62/0f/620f42610998a7643ce6e73bfd8adb1f040e6a6683faabf8134936484b532cc2.jpg)
+
+Canu led with City of Brass and Bird of Paradise. Ostrovich played forest, Bird. Canu dropped Wall of Blossoms, but then no second land. Ostrovich took full advantage, busting out two Calls while he was stuck and holding up Naturalize mana.
 
 Canu had meantime found Brainstorm, which turned up Polluted Delta and then another Wall of Blossoms. Otrovich's offense was stymied. Canu took his time to set up. Intuition fetched Pernicious Deeds after Ostrovich made his third token. He hit for three, then forced out the Deed with Fecundity. Canu Intuitioned for Cavern Harpies.
 

@@ -129,7 +129,9 @@ render_recovery:
   - Thunder of Hooves
   occurrences: 125
 ---
-![](http://www.wizards.com/sideboard/images/gpphi02/a854.jpg)The Top 8 match between Jeff Cunningham and Jacob Rabinowitz didn't exactly contain the closest of games. DCI Judge John Carter commented on the games after Game 2 as "excellent games of solitaire."
+![](http://www.wizards.com/sideboard/images/gpphi02/a854.jpg)
+
+The Top 8 match between Jeff Cunningham and Jacob Rabinowitz didn't exactly contain the closest of games. DCI Judge John Carter commented on the games after Game 2 as "excellent games of solitaire."
 
 Jeff Cunningham is one of the best players from the land up north known as Canada, and this was just another Grand Prix Top 8 for him. Jacob is also a very skilled player, and on his arduous journey to Day 2 , I suffered the wrath of his impressive skill and good luck in the 3-0 bracket.
 
@@ -156,7 +158,9 @@ Jeff played the Vulture again, and said go. On Jacob's turn, he attacked again w
 
 Game 3 was the closest of them all. Jeff opted to play first, and came out with turn 2 Elvish Warrior. Jacob played his Wirewood Herald on his turn 2. Jeff attacked with his Warrior and Jacob went down to 18. Jeff then played a creature face-down and passed the turn. Jacob also played a creature face-down, and then passed his turn. Jeff attacked with his morph creature and Jacob blocked with his Herald. Damage resolved, and Jacob searched his deck for his Elvish Riders, the same creature that won him Game 2. Jeff played his Screeching Buzzard and passed the turn. Jacob's turn saw another morphed creature, and then Jacob said go. Jeff swung in with the Buzzard and his morph creature, and Jacob blocked the morph guy with his own.
 
-![](http://www.wizards.com/sideboard/images/gpphi02/a853.jpg)Jacob thought for a second, most likely pondering what Jeff's morph creature could be, and then before damage was on the stack, Jacob pumped his morph guy to 3/3 by casting Wirewood Pride. Jeff then flipped over his morph creature, revealing his Broodhatch Nantuko, to Jacob's dismay. That was most likely the creature that Jacob didn't want the morph guy to be. The Nantuko died, 3 tokens were made, and Jacob was reduced to 16. At this point, Jacob put his morph creature in the graveyard, showing it to be Skirk Commando. For some reason, he thought it died. Immediately, a nearby spectator of Team Academy fame pointed out that it wasn't supposed to be dead, and Judge John Carter agreed. 
+![](http://www.wizards.com/sideboard/images/gpphi02/a853.jpg)
+
+Jacob thought for a second, most likely pondering what Jeff's morph creature could be, and then before damage was on the stack, Jacob pumped his morph guy to 3/3 by casting Wirewood Pride. Jeff then flipped over his morph creature, revealing his Broodhatch Nantuko, to Jacob's dismay. That was most likely the creature that Jacob didn't want the morph guy to be. The Nantuko died, 3 tokens were made, and Jacob was reduced to 16. At this point, Jacob put his morph creature in the graveyard, showing it to be Skirk Commando. For some reason, he thought it died. Immediately, a nearby spectator of Team Academy fame pointed out that it wasn't supposed to be dead, and Judge John Carter agreed. 
 
 Jacob played the Riders he searched for earlier, and he passed the turn. Jeff swung in with the Buzzard on his turn, and brought Jacob down to 14. Jeff then played Gluttonous Zombie, and then said go. Jacob attacked with his Riders, bringing Jeff to 17, Solar Blasted Jeff's Zombie, and then said go. Jeff attacked with the Buzzard and the Warrior, and Jeff pumped his Warrior with the Wirewood Pride, saving the Warrior, and killing the morph guy. Jeff then played his *second* Buzzard and also played his Shepherd of Rot. It was then Jacob's turn, and he decided to attack with his Riders and his once-dead Commando. Jeff blocked the "unknown" morphed Commando with one of his morph guys, and they trade.
 

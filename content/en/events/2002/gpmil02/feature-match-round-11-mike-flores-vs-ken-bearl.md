@@ -349,7 +349,9 @@ render_recovery:
   - Roar of the Wurm
   occurrences: 1
 ---
-![](http://www.wizards.com/sideboard/images/gpmil02/913.jpg)Friendly banter abounded as Ken and Mike sat down across from one another to begin the home stretch towards the top 8. Bearl, who received his first lost last round was playing Psychatog, while Flores had a Madness Opposition deck teaming with monsters. They rolled a die, Ken won, and they started the game at a sign from head judge James Lee.
+![](http://www.wizards.com/sideboard/images/gpmil02/913.jpg)
+
+Friendly banter abounded as Ken and Mike sat down across from one another to begin the home stretch towards the top 8. Bearl, who received his first lost last round was playing Psychatog, while Flores had a Madness Opposition deck teaming with monsters. They rolled a die, Ken won, and they started the game at a sign from head judge James Lee.
 
 Going first can be very important in the Red Blue Green on Psychatog match up, and this was amazingly obvious as Ken started off with a turn two Standstill while Flores's board was clear. Flores wasted no time breaking the blue enchantment, summoning a savage bastard, the Wild Mongrel. Ken had no turn three play, and was forced to discard a land, passing the turn back to Flores. 
 
@@ -359,7 +361,9 @@ Flores opened up his turn by casting Deep Analysis from the graveyard, Ken had a
 
 Ken once again did a spellbinding nothing on his turn, giving the turn back to Mike. Flores once again led with Deep Analysis, only to have it countered once again by Circular Logic. The Mongrel got in one more smack before being Aether Bursted back to Flores's hand at the end of his turn.
 
-![](http://www.wizards.com/sideboard/images/gpmil02/914.jpg)Ken actually cast a spell on his turn this time, summoning the Nightscape Familiar. Flores recast the Mongrel, Ken countered with, well, Counterspell, which left Flores open to drop a Merfolk Looter. The looter was Repulsed before it became active, and Ken tapped out to cast an end of turn Fact or Fiction. Flores took that opportunity to Fire the Familiar, but couldn't stop FOF from resolving, and gave Counterspell and Fact or Fiction to Bearl while a Psychatog and two land went to the discard pile. 
+![](http://www.wizards.com/sideboard/images/gpmil02/914.jpg)
+
+Ken actually cast a spell on his turn this time, summoning the Nightscape Familiar. Flores recast the Mongrel, Ken countered with, well, Counterspell, which left Flores open to drop a Merfolk Looter. The looter was Repulsed before it became active, and Ken tapped out to cast an end of turn Fact or Fiction. Flores took that opportunity to Fire the Familiar, but couldn't stop FOF from resolving, and gave Counterspell and Fact or Fiction to Bearl while a Psychatog and two land went to the discard pile. 
 
 Ken took advantage of Flores being tapped out by casting a main phase Fact or Fiction, and picked up a Psychatog and a Fact or Fiction, the played a land, passing the turn. On Flores's turn, an Opposition tried to come into play, but a Counterspell sent the enchantment to the bin. For some reason, the Counterspell, Ken's, ended up underneath the Opposition, in Flores's yard. This managed to work itself out without anyone ending up on the DCI watch list, and the game continued with Ken resolving a Psychatog on his next turn.
 
@@ -367,7 +371,9 @@ Flores tried once again to play an Opposition, this time the spell resolved, des
 
 On Ken's turn, the Tog was tapped by the Looter, and another Upheaval came down from Ken's hand, sending everything back, as Flores scooped. 
 
-![](http://www.wizards.com/sideboard/images/gpmil02/915.jpg)Ken showed me his hand at the beginning of game two. Three Upheavals and a Ghastly Demise, admittedly not what he wanted to draw. Flores started off the game with a turn two Mongrel, turn three Mongrel, counter Ken's Counterspell with Circular Logic after having discarded a land. Flores followed up with a turn four Opposition, while all Ken could play was a Nightscape Familiar. 
+![](http://www.wizards.com/sideboard/images/gpmil02/915.jpg)
+
+Ken showed me his hand at the beginning of game two. Three Upheavals and a Ghastly Demise, admittedly not what he wanted to draw. Flores started off the game with a turn two Mongrel, turn three Mongrel, counter Ken's Counterspell with Circular Logic after having discarded a land. Flores followed up with a turn four Opposition, while all Ken could play was a Nightscape Familiar. 
 
 Flores came in with the Mongrels despite Opposition, and cast Gainsay when his opponent tried to play Psychatog, Ken cast a Gainsay for one mana thanks too the Familiar, but Flores had another Circular Logic waiting. This left Mike with no cards in hand, and one of his Wild Mongrels to a Ghastly Demise. 
 

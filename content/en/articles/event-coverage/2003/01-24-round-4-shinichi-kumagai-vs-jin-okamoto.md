@@ -44,7 +44,9 @@ archive_source:
   sha256: 969352e30fbb7e0c11bc951d3ac8759ff5f9824947891bc81ee8d90c799f29d8
 render_recovery: []
 ---
-![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a987.jpg)Everyone knows Jin Okamoto, the Last Emperor of Asia. After coming so close to a Pro Tour Top 8 at both Worlds 2001 and Pro Tour – San Diego 2002, he's become the safe money to be the next Japanese player to crack into the Promised Land. Of course, at Grand Prix he's always in danger of just running away with the whole thing. This time around Okamoto is banking his hopes on Angry Hermit Part II, the Dutch reanimation monstrosity. He's in for a tough match against Grand Prix – Sapporo Champion Shinichi Kumagai, running blue-green madness, the same deck that served him so well at that Block Constructed Grand Prix. 
+![](http://magic.wizards.com/sites/mtg/files/image_legacy_migration/sideboard/images/gphir03/a987.jpg)
+
+Everyone knows Jin Okamoto, the Last Emperor of Asia. After coming so close to a Pro Tour Top 8 at both Worlds 2001 and Pro Tour – San Diego 2002, he's become the safe money to be the next Japanese player to crack into the Promised Land. Of course, at Grand Prix he's always in danger of just running away with the whole thing. This time around Okamoto is banking his hopes on Angry Hermit Part II, the Dutch reanimation monstrosity. He's in for a tough match against Grand Prix – Sapporo Champion Shinichi Kumagai, running blue-green madness, the same deck that served him so well at that Block Constructed Grand Prix. 
 
 ### Game 1
 

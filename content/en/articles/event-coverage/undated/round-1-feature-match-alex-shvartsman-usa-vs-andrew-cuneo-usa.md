@@ -39,7 +39,9 @@ render_recovery: []
 ---
 *by Anthony Alongi* 
 
-![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/923.jpg)Andrew Cuneo, from Pittsburgh, was most recently on the Car Acrobatic Team that took second at PTNY faced off against the Sideboard's Alex Shvartsman, from New York City, who is best known as a Grand Prix miser. Shvartsman, coming off of a recent trip to the Magic Invitational, is hungry for a big money win. Cuneo, who fought his way through the Gateway tournament, is all about picking up a win. 
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/MASTERSCHI00/923.jpg)
+
+Andrew Cuneo, from Pittsburgh, was most recently on the Car Acrobatic Team that took second at PTNY faced off against the Sideboard's Alex Shvartsman, from New York City, who is best known as a Grand Prix miser. Shvartsman, coming off of a recent trip to the Magic Invitational, is hungry for a big money win. Cuneo, who fought his way through the Gateway tournament, is all about picking up a win. 
 
 ### THE DRAFT
 

@@ -84,7 +84,9 @@ render_recovery:
 ---
 This quarterfinal saw Eric James square off against Aaron Breider. Neither was particularly thrilled with their decks after the draft. James went so far as to say that he’d be thrilled to drop in the semis. Breider was somewhat more tight-lipped, but it was clear he’d have a tough road of things assuming he dispatched James. Breider is a former Michigan State Champion, and a well-respected commodity. That goes double for Eric James, whose appearance in this Top 8 was predicted by none other than William Jensen.
 
-![](https://www.wizards.com/sideboard/images/gpbos03/a886.jpg)James led with Stonewood Invoker and was matched by Breider. However, James’s third turn had just a cycled Dirge of Dread and an attack for two, whereas Breider beat back and made Timberwatch Elf. He barely reacted when James cycled Gempalm Polluter during his main phase. He played Screeching Buzzard and gave it back.
+![](https://www.wizards.com/sideboard/images/gpbos03/a886.jpg)
+
+James led with Stonewood Invoker and was matched by Breider. However, James’s third turn had just a cycled Dirge of Dread and an attack for two, whereas Breider beat back and made Timberwatch Elf. He barely reacted when James cycled Gempalm Polluter during his main phase. He played Screeching Buzzard and gave it back.
 
 Before the game could run away from him, James dropped Cruel Revival on the Timberwatch Elf and got back his Polluter. Still, Breider had a clock in the air, and Shepherd of Rot increased it. The Polluter came down, further shortening James’s life span. The scores were nine to twelve in Breider’s favor. He had no play, though, and just swung to bring James to seven. James had a Crown of Suspicion handy to off the Shepherd, and the totals stood five to ten.
 
