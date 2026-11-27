@@ -11,11 +11,29 @@
 {%- endif %}
 <h1>Search the archive</h1>
 <form id="search" role="search" action="{{ path }}">
-<label for="query">Search article and event text</label>
-<div class="search-input"><input type="search" id="query" name="q" required>
+<label for="search-scope">Search in</label>
+<select id="search-scope" name="scope">
+  <option value="titles" selected>Article titles</option>
+  <option value="text">Full text</option>
+</select>
+<label for="query">Search terms</label>
+<div class="search-input"><input type="search" id="query" name="q">
 <button type="submit">Search</button></div>
+<fieldset id="search-filters" hidden>
+  <legend>Filter articles</legend>
+  {% for name, label, options in filter_options -%}
+  <label for="search-{{ name }}">{{ label }}
+    <select id="search-{{ name }}" name="{{ name }}">
+      <option value="">All</option>
+      {% for value, text in options -%}
+      <option value="{{ value }}">{{ text }}</option>
+      {% endfor -%}
+    </select>
+  </label>
+  {% endfor -%}
+</fieldset>
 </form>
 <p id="search-status" role="status"></p>
 <ol id="search-results" class="records" aria-label="Search results"></ol>
-<noscript><p>Enable JavaScript to use full-text search.</p></noscript>
+<noscript><p>Enable JavaScript to search the archive.</p></noscript>
 {% endblock %}

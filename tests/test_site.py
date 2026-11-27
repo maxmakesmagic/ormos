@@ -1,10 +1,11 @@
 """Check the generated archive navigation."""
 
+from dataclasses import replace
 from pathlib import Path
 
 import pytest
 
-from ormos.content import ArticleSource, Document
+from ormos.content import ArticleSource, Document, Person
 from ormos.paths import site_file, write_new
 from ormos.site import Site
 from ormos.videos import VideoLibrary
@@ -48,13 +49,55 @@ def test_articles_landing_page(tmp_path: Path) -> None:
     assert "Browse 9 archived articles." in landing
     start = landing.index('aria-label="Browse articles"')
     browse = landing[start : landing.index("</nav>", start)]
-    for path in ("/columns", "/authors", "/years", "/articles/all"):
+    for path in ("/search", "/columns", "/authors", "/years", "/articles/all"):
         assert f'href="{path}"' in browse
         assert site_file(tmp_path, path).exists()
 
     for entry in articles + other_records:
         assert f'href="{entry.path}"' not in landing
     assert "<script" not in landing
+
+
+def test_search_filters_use_local_article_metadata(tmp_path: Path) -> None:
+    """Offer distinct article filters for each language and retain undated articles."""
+    dated = replace(
+        _document("article", "2024-05-15"),
+        authors=(Person("markrosewater", "Mark Rosewater"),),
+        column_slug="makingmagic",
+        column="Making Magic",
+    )
+    undated = replace(
+        _document("undated", "1970-01-01"),
+        authors=dated.authors,
+    )
+    french = replace(
+        _document("french", "2023-05-15"),
+        lang="fr",
+        path="/fr/articles/french",
+        authors=(Person("author-fr", "Auteur français"),),
+    )
+    event = replace(
+        _document("event", "2025-05-15", kind="event"),
+        authors=(Person("event-author", "Event Reporter"),),
+    )
+    _write_navigation(tmp_path, [dated, undated, french, event])
+
+    english = site_file(tmp_path, "/search").read_text(encoding="utf-8")
+    translated = site_file(tmp_path, "/search/fr").read_text(encoding="utf-8")
+    assert '<option value="titles" selected>Article titles</option>' in english
+    assert '<input type="search" id="query" name="q">' in english
+    assert '<fieldset id="search-filters" hidden>' in english
+    assert english.count('<option value="markrosewater">Mark Rosewater</option>') == 1
+    assert '<option value="makingmagic">Making Magic</option>' in english
+    assert '<option value="2024">2024</option>' in english
+    assert '<option value="undated">Undated</option>' in english
+    assert 'value="1970"' not in english
+    assert 'value="2025"' not in english
+    assert 'value="event-author"' not in english
+    assert 'value="author-fr"' not in english
+    assert '<option value="author-fr">Auteur français</option>' in translated
+    assert 'value="markrosewater"' not in translated
+    assert 'value="2023"' in translated
 
 
 def test_all_articles_preserves_pagination(
