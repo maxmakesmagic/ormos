@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-gds2-episode-1-lets-start-at-the-very-beginning
 title: 'GDS2, Episode 1: "Let''s Start at the Very Beginning"'
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors: []
 detected_lang: en
 metadata_evidence:

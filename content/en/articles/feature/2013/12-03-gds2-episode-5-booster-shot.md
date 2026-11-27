@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-gds2-episode-5-booster-shot
 title: 'GDS2 Episode 5: "Booster Shot"'
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors: []
 detected_lang: en
 metadata_evidence:

@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-essay-questions-for-great-designer-search-2
 title: Essay Questions for Great Designer Search 2
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors: []
 detected_lang: en
 metadata_evidence:

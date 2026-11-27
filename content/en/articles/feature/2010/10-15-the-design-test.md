@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/10-15-the-design-test
 title: The Design Test
 published: '2010-10-15'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

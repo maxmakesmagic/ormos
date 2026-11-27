@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2010/11-08-essay-what
 title: Essay What
 published: '2010-11-08'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

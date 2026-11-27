@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2006/10-26-episode-1-in-the-beginning
 title: Episode 1 – "In the Beginning"
 published: '2006-10-26'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

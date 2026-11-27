@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2006/11-20-on-the-stack
 title: On The Stack
 published: '2006-11-20'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

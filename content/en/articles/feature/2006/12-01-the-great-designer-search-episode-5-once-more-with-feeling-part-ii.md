@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2006/12-01-the-great-designer-search-episode-5-once-more-with-feeling-part-ii
 title: 'The Great Designer Search Episode #5 “Once More With Feeling”, Part II'
 published: '2006-12-01'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

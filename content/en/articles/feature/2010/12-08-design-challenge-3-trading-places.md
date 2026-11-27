@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/12-08-design-challenge-3-trading-places
 title: 'Design Challenge #3: "Trading Places"'
 published: '2010-12-08'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

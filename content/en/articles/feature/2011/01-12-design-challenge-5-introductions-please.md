@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2011/01-12-design-challenge-5-introductions-please
 title: 'Design Challenge #5: "Introductions Please"'
 published: '2011-01-12'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

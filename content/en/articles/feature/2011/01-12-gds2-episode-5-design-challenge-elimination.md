@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2011/01-12-gds2-episode-5-design-challenge-elimination
 title: 'GDS2, Episode 5: Design Challenge Elimination'
 published: '2011-01-12'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

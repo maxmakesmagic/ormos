@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-a-few-multiple-choice-words
 title: A Few Multiple-Choice Words
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors: []
 detected_lang: en
 metadata_evidence:

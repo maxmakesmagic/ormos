@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/12-22-design-challenge-4-booster-shot
 title: 'Design Challenge #4: "Booster Shot"'
 published: '2010-12-22'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

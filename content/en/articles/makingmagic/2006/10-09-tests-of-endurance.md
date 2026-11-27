@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2006/10-09-tests-of-endurance
 title: Tests of Endurance
 published: '2006-10-09'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

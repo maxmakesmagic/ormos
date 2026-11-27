@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2018/02-06-essay-what-you-will
 title: Essay What You Will
 published: '2018-02-06'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: markrosewater
   name: Mark Rosewater

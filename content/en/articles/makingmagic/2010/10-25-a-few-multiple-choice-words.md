@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2010/10-25-a-few-multiple-choice-words
 title: A Few Multiple-Choice Words
 published: '2010-10-25'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

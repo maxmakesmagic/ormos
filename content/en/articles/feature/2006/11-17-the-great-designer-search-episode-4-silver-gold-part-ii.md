@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2006/11-17-the-great-designer-search-episode-4-silver-gold-part-ii
 title: 'The Great Designer Search Episode #4 "Silver & Gold", Part II'
 published: '2006-11-17'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

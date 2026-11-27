@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2011/02-02-gds2-design-challenge-5-contestants-submissions
 title: 'GDS2 Design Challenge #5: Contestants'' Submissions'
 published: '2011-02-02'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

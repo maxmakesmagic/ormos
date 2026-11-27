@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/11-17-gds2-episode-1-contestants-submissions-2
 title: 'GDS2, Episode 1: Contestants'' Submissions'
 published: '2010-11-17'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: magicthegathering-com-staff-e1e04d6d
   name: magicthegathering.com Staff

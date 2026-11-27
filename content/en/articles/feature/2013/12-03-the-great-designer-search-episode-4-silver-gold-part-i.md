@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-the-great-designer-search-episode-4-silver-gold-part-i
 title: 'The Great Designer Search Episode #4 "Silver & Gold", Part I'
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors: []
 detected_lang: en
 metadata_evidence:

@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2011/03-07-gds2-finals-coverage
 title: GDS2 Finals Coverage
 published: '2011-03-07'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: kellydigges
   name: Kelly Digges

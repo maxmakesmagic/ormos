@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/12-08-the-great-designer-search-2-second-times-the-charm
 title: 'The Great Designer Search 2: "Second Time''s The Charm"'
 published: '2010-12-08'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

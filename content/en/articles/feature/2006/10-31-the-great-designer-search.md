@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2006/10-31-the-great-designer-search
 title: The Great Designer Search
 published: '2006-10-31'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: wizardsofthecoast
   name: Wizards of the Coast

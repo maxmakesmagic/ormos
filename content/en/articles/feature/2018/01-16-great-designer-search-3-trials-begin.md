@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2018/01-16-great-designer-search-3-trials-begin
 title: Great Designer Search 3 Trials Begin
 published: '2018-01-16'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: markrosewater
   name: Mark Rosewater

@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2010/10-04-proliferate-crazy-nights
 title: Proliferate Crazy Nights
 published: '2010-10-04'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

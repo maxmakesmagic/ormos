@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/12-22-gds2-episode-4-trading-places
 title: 'GDS2. Episode #4: "Trading Places"'
 published: '2010-12-22'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: magicthegathering-com-staff-e1e04d6d
   name: magicthegathering.com Staff

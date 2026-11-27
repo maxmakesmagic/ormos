@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2006/08-21-state-of-design-2006
 title: State of Design - 2006
 published: '2006-08-21'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

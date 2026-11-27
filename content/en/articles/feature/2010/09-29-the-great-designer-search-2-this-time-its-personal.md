@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/09-29-the-great-designer-search-2-this-time-its-personal
 title: 'The Great Designer Search 2: "This Time It''s Personal"'
 published: '2010-09-29'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

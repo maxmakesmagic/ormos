@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-gds2-episode-2-design-challenge-second-times-the-charm
 title: 'GDS2, Episode 2 Design Challenge: "Second Time''s the Charm"'
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors: []
 detected_lang: en
 metadata_evidence:

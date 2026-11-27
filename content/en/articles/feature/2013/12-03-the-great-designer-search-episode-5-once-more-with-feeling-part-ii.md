@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-the-great-designer-search-episode-5-once-more-with-feeling-part-ii
 title: 'The Great Designer Search Episode #5 “Once More With Feeling”, Part II'
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors: []
 detected_lang: en
 metadata_evidence:

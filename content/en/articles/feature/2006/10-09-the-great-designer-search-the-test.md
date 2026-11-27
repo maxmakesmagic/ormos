@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2006/10-09-the-great-designer-search-the-test
 title: 'The Great Designer Search: The Test'
 published: '2006-10-09'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

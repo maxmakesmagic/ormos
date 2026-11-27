@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/11-03-the-great-designer-search-2-meet-the-finalists
 title: The Great Designer Search 2 – Meet the Finalists
 published: '2010-11-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

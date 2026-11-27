@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2018/03-09-great-designer-search-3-finalist-chris-mooney
 title: Great Designer Search 3 Finalist – Chris Mooney
 published: '2018-03-09'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: wizardsofthecoast
   name: Wizards of the Coast

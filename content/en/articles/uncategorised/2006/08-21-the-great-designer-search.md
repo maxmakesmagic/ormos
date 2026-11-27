@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/uncategorised/2006/08-21-the-great-designer-search
 title: The Great Designer Search
 published: '2006-08-21'
-column_slug: uncategorised
-column: uncategorised
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: wizardsofthecoast
   name: Wizards of the Coast

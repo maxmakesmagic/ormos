@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-the-great-designer-search-2-second-times-the-charm
 title: 'The Great Designer Search 2: "Second Time''s The Charm"'
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors: []
 detected_lang: en
 metadata_evidence:

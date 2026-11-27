@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/11-24-gds2-episode-2-common-ground
 title: 'GDS2, Episode 2: Common Ground'
 published: '2010-11-24'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

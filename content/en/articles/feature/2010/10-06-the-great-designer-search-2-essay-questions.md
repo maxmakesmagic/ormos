@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/10-06-the-great-designer-search-2-essay-questions
 title: 'The Great Designer Search 2: Essay Questions'
 published: '2010-10-06'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

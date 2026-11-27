@@ -248,16 +248,16 @@ def test_column_tables_show_all_articles_in_date_order(
         slug: replace(
             _document(slug, day),
             lang=language,
-            path=f"/{language}/articles/feature/{day[:4] or 'undated'}/{slug}",
+            path=f"/{language}/articles/{path_column}/{day[:4] or 'undated'}/{slug}",
             column_slug="feature",
             column="Feature",
             authors=(Person("alice", "Alice"),),
         )
-        for slug, day, language in (
-            ("late", "2024-07-17", "fr"),
-            ("undated", "", "fr"),
-            ("english", "2023-03-01", "en"),
-            ("early", "2004-12-17", "fr"),
+        for slug, day, language, path_column in (
+            ("late", "2024-07-17", "fr", "feature"),
+            ("undated", "", "fr", "feature"),
+            ("english", "2023-03-01", "en", "previous-column"),
+            ("early", "2004-12-17", "fr", "previous-column"),
         )
     }
     _write_navigation(tmp_path, list(articles.values()))
@@ -266,6 +266,17 @@ def test_column_tables_show_all_articles_in_date_order(
     assert not site_file(tmp_path, "/fr/articles/feature/2024").exists()
     assert not site_file(tmp_path, "/fr/articles/feature/undated").exists()
     assert site_file(tmp_path, "/years/2024").exists()
+
+    english_directory = site_file(tmp_path, "/en/articles").read_text(encoding="utf-8")
+    assert 'href="/en/articles/feature"' in english_directory
+    english_column = site_file(tmp_path, "/en/articles/feature").read_text(
+        encoding="utf-8"
+    )
+    english_article = site_file(tmp_path, articles["english"].path).read_text(
+        encoding="utf-8"
+    )
+    assert f'href="{articles["english"].path}"' in english_column
+    assert 'href="/en/articles/feature" data-pagefind-meta="column"' in english_article
 
     for column, rows in (
         ("/columns/feature", ("early", "english", "late", "undated")),
