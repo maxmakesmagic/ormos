@@ -1,0 +1,416 @@
+WEBVTT
+
+00:00:01.060 --> 00:00:15.740
+<v Speaker 1>I'm pulling the driveway. We all know what that means. It's time for another drive to work. OK, so today I'm going to talk about one tiny piece of a Magic card and a piece that is an interesting piece, the creature type.</v>
+
+00:00:16.440 --> 00:00:46.350
+<v Speaker 1>So obviously on a card. So one of the things is Magic has seven different types of cards. Originally it had 7 and it still has seven, but it's changed a little bit. So obviously it has instance and sorceries, it has enchantments and artifacts, it is land, it is planeswalkers. But the one of which there's more than anything else is creatures. And one of the things that Richard started from the very beginning of the game was the idea of creature types, which meant that</v>
+
+00:00:46.460 --> 00:01:16.060
+<v Speaker 1>creatures had a grouping, had a a sub typing to them. And so if you cared you it is Dave some extra flavour. And even in alpha he actually used it mechanically. So for example, alpha had three, what we call Lords, which are creatures that usually grant plus 1 + 1 and some ability lawyers don't always have to grant plus 1 + 1, but traditionally people think of them doing that. So the three ones in Alpha were Goblin King, Lord of Atlantis,</v>
+
+00:01:16.480 --> 00:01:20.490
+<v Speaker 1>and what was the zombie called? Ah, there's a zombie one.</v>
+
+00:01:22.160 --> 00:01:28.630
+<v Speaker 1>What was the zombie one called? Zombie something. I'm blanking on it. Anyway, there were three that cared about a creature type. So</v>
+
+00:01:29.970 --> 00:01:52.340
+<v Speaker 1>Goblin King cared about goblins. Interestingly enough. By the way, the original 3 Lords themselves weren't the creature type that they cared about. The Lord of Atlantis himself wasn't a merfolk. The Goblin King wasn't a goblin. The zombie whatever wasn't a zombie. We later would change that and have them be the thing but not affect themselves. We sort of pseudo rather them but anyway</v>
+
+00:01:53.910 --> 00:02:24.780
+<v Speaker 1>and the idea was in alpha there was 1 merfolk. It was a for single blue manna was a 11 creature that was it merfolk of the Pearl Trident. Same with goblins goblins. There was one guy, I think there were two goblins. There was red for a 111 red mana for one one month. The Goblin Raiders name after months Johnson who still to this day works in R&amp;D a friend Richards and there was Goblin Balloon Brigade which was that our red one one that could also activate for one red to give flying not something red does a lot these days</v>
+
+00:02:24.850 --> 00:02:36.310
+<v Speaker 1>that did back in the day. And then and then the Goblin King and the Overlanders were cared zombies. I think there was 1 zombie, which was 2 and a zombie I was</v>
+
+00:02:37.810 --> 00:03:07.590
+<v Speaker 1>called Scathe Zombies, which are two and a black for A22SO3 man, one of which is black for a 22 vanilla creature. So if you look at the original alpha, the creature types that mattered, meaning there's a card that cared about them, were mostly vanilla. I mean it was a vanilla 11A vanilla 111 with an activated flying and a 2 two. And one of the things that Richard did was he said, OK, well, if you want to, you could fill up your deck with these things. And then here's something that make them matter.</v>
+
+00:03:07.820 --> 00:03:37.340
+<v Speaker 1>Why would I wanna play with the 11 Merfolk with the peel Trident? Well, because this card makes them all bigger, makes him a 22 and gives them island Walk, I believe. So early on the the I think. So for those who don't remember early magic or were around long ago when magic began, the creature type line was actually a little different. Instead of saying creature- the creature type, it said summon and name to the creature type. So if you were a goblin, they would say summon goblin.</v>
+
+00:03:37.830 --> 00:03:42.490
+<v Speaker 1>We later decided that we liked having all the card types on the car type line because</v>
+
+00:03:43.210 --> 00:04:01.880
+<v Speaker 1>you would just have to know that a summon goblin was a creature and if you destroy target creature, you could destroy it even though nowhere in the car did it say creature. So we decided that it was easier when we have cards that referred to car types that we should label what the car types were. So we got rid of the summon and just made a creature dash, whatever.</v>
+
+00:04:03.760 --> 00:04:26.750
+<v Speaker 1>But if you look really, really early on, it was used as more of a flavor than anything else. But Richard used the marker for mechanical reasons even in the very beginning. The other thing you'll notice in very early magic was things had a singular creature type that you know, if you were something you were, if you were soldier, you would be summoned soldier.</v>
+
+00:04:28.290 --> 00:04:34.210
+<v Speaker 1>He eventually got to race class. I'll get to that in a second. But back in the day, you were one thing. Whenever you were, you were one thing.</v>
+
+00:04:35.500 --> 00:05:06.570
+<v Speaker 1>So let me talk a little bit about why the creature types in a very interesting position from a from a R&amp;D standpoint. So the creative team, which is the creative team is broken into two teams, which is the story team and the art team. The art team is in charge of the visuals and the story teams in charge of all the text in the story and the creation stuff. So the story team is responsible for the names and flavor text and they're responsible for the creature type. But, and here's where the type is the unique part of the card,</v>
+
+00:05:06.700 --> 00:05:37.130
+<v Speaker 1>sometimes our indeed cares about it. We're in charge of the mechanics. So on most cards, the creature type is flavor. It's not mechanical, but it can be mechanical. So what happens is whenever R&amp;D or whoever design development care about a certain creature type, because, you know, we're doing a mechanical thing in which the creature type matters, we put an exclamation point after it in our database. And so when someone sees that from the creative,</v>
+
+00:05:37.200 --> 00:06:07.100
+<v Speaker 1>I mean like if we have zombie! What we're saying is this needs to be a zombie. It matters that it's a zombie. Where mechanically gonna care that it's a zombie? Now, sometimes when we do tribal sets, what we'll do is it's not that on a carpet card basis necessarily. We always dictate, will dictate, OK, this matters a certain portion, a certain ads fan of the cards need to be this race. And so we'll say to the creative team is you need to meet this as fan, but you have some give and take on what to do.</v>
+
+00:06:07.240 --> 00:06:32.330
+<v Speaker 1>Also, sometimes we'll do what we call the negative, where let's say we've made some tribal sets and one of them is really strong. Goblins is a good example from the past. There have been points where the goblin decks been really, really strong and we'll make a card that's good in red and if it's a goblin, it would be too good. So what we'll do there is we make a note to say not goblin. This can be anything you want it to be. It just can't be a goblin.</v>
+
+00:06:33.980 --> 00:07:04.220
+<v Speaker 1>Um, and so, but anyway, the question is interesting. It's in the space in which it's the only thing really that the creative team and design development like both care about. And there's an interesting tension because sometimes one of the things that will happen is the creative team will come up with definitions for what someone supposed to be. A classic example will be in Pharos, for example, we had a miniature tribal. The problem was that the creative team won and miniatures to be of a certain size to make sense</v>
+
+00:07:04.320 --> 00:07:17.350
+<v Speaker 1>senators. They didn't like the idea of tiny minotaurs, but we were trying to make a tribal deck out of them. And so we ran this problem where the creative team didn't want to make small things minotaurs, but we wanted to make sure you could curb out your minotaurs. And so,</v>
+
+00:07:18.760 --> 00:07:28.280
+<v Speaker 1>umm, we definitely had to sort of negotiate to figure out how to do that so that if both stayed true to what the flavor of a miniature was, but allowed us to make the cards we needed to make.</v>
+
+00:07:31.850 --> 00:07:51.520
+<v Speaker 1>Now, another thing that will happen with the creature type is OK, so let me talk about the big innovation of our creature type, which happened during Mirrodin, which is funny because right before Mirrodin was Onslaught and Onslaught was a tribal set. And interestingly, we made this change to add what we call race class right after the set that had tribal. So let me talk about what race class is. So</v>
+
+00:07:52.750 --> 00:08:23.270
+<v Speaker 1>one of the things that dungeon Dragons does and other games, I assume I, I know from dungeon Dragons is what they call race class, which says, OK, you're on a certain race. Are you human? Are you goblin? Are you elf? Are you an orc? Are you, you know, what are you what, what race are you? But then you also have a class, which means you have a job. Are you a fighter? Are you a thief? Are you a wizard? Are you a cleric? What are you? And so in in dungeon Dragons you often say, Oh, I have in orc fighter,</v>
+
+00:08:23.530 --> 00:08:28.620
+<v Speaker 1>I have a halfling thief. I have an elf wizard.</v>
+
+00:08:29.950 --> 00:08:41.720
+<v Speaker 1>Our players are not. Nobody else are more anyway. You can have enough wizard, Jason. Sure. Anyway, yeah, they're Wizards. Why? Why? Why am I being anti elf Wizards there? Elf Wizards. So</v>
+
+00:08:43.430 --> 00:08:49.970
+<v Speaker 1>one of the things we realized was that creature types were pretty valuable. And one of the things that happened was, um,</v>
+
+00:08:50.990 --> 00:09:01.640
+<v Speaker 1>like I said, normally in Magic, creature types always were one per card. And not only that, artifacts didn't even have creature types. Artifact creatures were just</v>
+
+00:09:03.830 --> 00:09:14.150
+<v Speaker 1>artifact creature and they they didn't have a type. But as we as we started playing around, well, actually I'm getting myself goes back to Odyssey. So I was in charge of Odyssey</v>
+
+00:09:14.850 --> 00:09:45.600
+<v Speaker 1>and I've always been very fascinated by the creature types. So in Odyssey I made an interesting decision. I said, you know what? Let's mess around the structure. We always do the same creature types, Reds always goblin and greens always elves. Let's shake it up a little bit. So what I did was I changed it so none of the creature types were stuff we normally did. Then red instead of being on goblins were dwarves and green were centaurs. And also these, these insects called in Tokyo and you know, instead of having</v>
+
+00:09:45.680 --> 00:10:16.130
+<v Speaker 1>ah, sapling tokens had squirrel tokens and blue had cephalopods instead of merfolk. And so I was trying to shake things up and do things a little differently. While I was doing that, I started experimenting with the idea of having things that have more than one creature type. So there were the aven, which were these bird, humanoid bird things. So I made the aven, they were all or mostly bird soldiers. There were few bird Wizards. And then, then then Tuco</v>
+
+00:10:16.210 --> 00:10:18.630
+<v Speaker 1>instead of justice being insect, I think I made insect.</v>
+
+00:10:19.590 --> 00:10:21.860
+<v Speaker 1>They're either insect clerics or insect druids.</v>
+
+00:10:23.040 --> 00:10:44.360
+<v Speaker 1>I think they were insect druids. I think either druid or cleric. So I started sort of having multiple types on one thing. And once I did that, I found that I could just interesting things that could happen because I can make a card that cares about birds and I can make a card that cares about soldiers. And all of a sudden the aven, both cars applied to it.</v>
+
+00:10:45.780 --> 00:11:09.930
+<v Speaker 1>So I went to the creative team and I said, look, it seems like we are restricting ourselves a little bit flavor wise here and it would allow us some more room, you know, more room to play around with with mechanics. So I pitched to Brady Dynamic, who's the creative director at the time, the idea of right, I guess I pitched the whole creative team the idea of what have we adopted a race class system</v>
+
+00:11:11.320 --> 00:11:41.310
+<v Speaker 1>now? It was it was a little controversial. Interestingly, you think that's a pretty pretty straightforward request. One thing was up until that time, we had never done human as a creature type. Human had always been whatever, wherever you were, if you were a soldier, will you just be soldier? That humans were always their class. The problem we ran into with with with only one per it was humans always were a class or humans did things, but goblins. Oh well, goblins were a race. So</v>
+
+00:11:41.460 --> 00:12:11.790
+<v Speaker 1>even though they did things, they didn't reference it. So one of the things I did to try to convince people is we clearly would, for example, would have a goblin that was doing wizard like things. In fact, it might even be called goblin wizard and it wasn't a wizard. And that was weird. What if we wanted cards that cared about Wizards? You know, we had wizard, so did cars. They care about Wizards only care about human Wizards, and so the cards in wizard on them. And so eventually I convinced them that there's some viability. Like, it's weird that we were sometimes raised and sometimes class when races existed in class</v>
+
+00:12:11.860 --> 00:12:31.910
+<v Speaker 1>existed. But the problem was a lot of people were nervous to put human on a card. And I said, look, that's the race. They're humans what they are. Why do goblins get to be goblins and elves get bells? Why can't humans be humans? And so interestingly, at the time, the compromise was, well, make humans, but let's not care about them tribally.</v>
+
+00:12:33.440 --> 00:12:48.330
+<v Speaker 1>And I said, sure, knowing that one day we would want, you know, one day we'll get comfortable with humans there. And then one day we're going to say, you know what, hey, why don't we make humans matter? And we did. I, I saw that coming. But at the time I said, OK, right now we will not make humans matter.</v>
+
+00:12:49.840 --> 00:13:07.150
+<v Speaker 1>But anyway, so raise class got. So The thing is I figured out during Odyssey and so those Odyssey, Onslaught, Mirrodin. So I figured bring Odyssey or I was experimenting during Odyssey and it took me the range of Onslaught to convince them. And I think the thing that convinced everybody was</v>
+
+00:13:07.840 --> 00:13:13.080
+<v Speaker 1>so Onslaught was the first time we really did a tribal set in which the major theme was creature types.</v>
+
+00:13:16.690 --> 00:13:25.270
+<v Speaker 1>And so by doing that, I think I started to get people like gotta remember when I first pitched the idea of Onslaught being having a strong tribal theme.</v>
+
+00:13:26.210 --> 00:13:35.270
+<v Speaker 1>For those that have listened to my Onslaught podcast, Mike Elliott was a lead designer of the SAT and he had put in a little teeny tiny. He had made</v>
+
+00:13:36.320 --> 00:13:37.350
+<v Speaker 1>what are they called? They're</v>
+
+00:13:39.500 --> 00:13:44.030
+<v Speaker 1>he made a series of blue creatures that could change their own creature type.</v>
+
+00:13:45.470 --> 00:13:47.720
+<v Speaker 1>What was that called? They were</v>
+
+00:13:48.700 --> 00:13:50.330
+<v Speaker 1>my, my memory when I'm driving.</v>
+
+00:13:51.700 --> 00:13:56.500
+<v Speaker 1>Yeah, it was from from Onslaught and</v>
+
+00:13:58.730 --> 00:14:28.740
+<v Speaker 1>I'm blinking on it. But but there were creatures that were all blue. They had the ability to change their creature type. And then Mike at Rare put a few cards that had cared about creature type, like he had a few Lords, you know, things. And when I said this, they said needed something the Tennessee pick weren't quite working out. And Bill had me look at the set. And this is sort of my precursor to becoming head designer. And so one of my suggestions was I said, you know, you have a little nugget of a theme of tribal. I think we can blow tribal out. I think tribal could be a really a theme you could build</v>
+
+00:14:28.860 --> 00:14:32.830
+<v Speaker 1>that around, block around. And people were a little skeptical, but</v>
+
+00:14:34.010 --> 00:14:51.100
+<v Speaker 1>you know, they said, OK, let's try. And when the set came out, like it's very funny that I think Rd. thought like we were making a morph set with a, with a tribe within a tribal element. And I was like, no, no, no, we're making a tribal set with a morph element. And it came out and like, I remember actually ran Randy Bueller came back from the pre-release. He's</v>
+
+00:14:51.780 --> 00:15:21.790
+<v Speaker 1>he's wow. All people talk about is the tribal stuff, you know, because I he goes, I few people talk about more, but everyone tried this, tried that. And I'm like, I've been saying this for months, Randy. But anyway, once people saw that Onslaught, how much we could play with tribes and really make them mechanically relevant, I think they were very receptive to the idea of doing something that would allow us to hook more on them. There's a little bit of arguments over human and stuff there, but it wasn't a slam dunk. But I think Onslaught help people understand the value of creature types and what they can do for us.</v>
+
+00:15:21.890 --> 00:15:44.680
+<v Speaker 1>And so it was quirky to change them right after the block that cared about them. And Mirren was an odd place. Ohh. So let's talk about artifact pictures. Talk about mirror didn't So another thing that I I managed to accomplish. I you can tell these stories. I've always been a huge creature type fan. I in fact, if I imagine start over again, I think I've done this podcast. I don't think magic has magic could have more</v>
+
+00:15:45.960 --> 00:15:53.660
+<v Speaker 1>hooks to hang things on. I I might consider doing some flavorful super types, maybe in ice or fire. But anyway,</v>
+
+00:15:55.180 --> 00:15:58.800
+<v Speaker 1>so artifact creatures you should just be artifact creature. They didn't have a subtype, and</v>
+
+00:15:59.940 --> 00:16:04.830
+<v Speaker 1>once we started doing tribal stuff, we started doing things in which you could pick a tribe, like</v>
+
+00:16:06.040 --> 00:16:07.960
+<v Speaker 1>Tempest, for example. I did this where</v>
+
+00:16:09.220 --> 00:16:39.250
+<v Speaker 1>he made a card where you could you could pick a tribe. And then we started doing other choose me kind of tribal stuff where it's like, ohh, well, choose it and then you could affect the thing you choose. And what it allowed us to do was to make cards that people could pick their own tribe, that it didn't have to be a tribe that we've even made support for that the choose me allowed you to say, OK, well, I'm going to put all these tribes together and use this card and I'm going to choose this tribe that you guys have never, you know, made a card out of for tribal reasons. But the problem was when you had to choose means. It got very confusing what was going on with artifact creatures</v>
+
+00:16:39.340 --> 00:16:39.660
+<v Speaker 1>because</v>
+
+00:16:40.310 --> 00:16:42.390
+<v Speaker 1>they didn't have a creature type. And sometimes</v>
+
+00:16:43.910 --> 00:17:14.750
+<v Speaker 1>we've started adding one when it was like loud like it it's a mechanical drive in. Well, I guess it's a dragon, but what we do is we sometimes we so originally none of them had it, then some of them had it. And I convinced the powers to be that it's just be a rule that all artifacts of creature artifact creatures have creature types. And so I think we made a few stuff up like construct things that are like good defaults. The constructs are if you don't know what it is, well, if somebody built it, it's an artifact. So we made a few fallbacks. So we always</v>
+
+00:17:14.830 --> 00:17:16.120
+<v Speaker 1>caught something we needed to.</v>
+
+00:17:18.710 --> 00:17:20.230
+<v Speaker 1>So, um,</v>
+
+00:17:21.980 --> 00:17:31.660
+<v Speaker 1>so one of the things that's become very interesting now is now that once tribal was on the map, the once we made creature types, I mean, once again, I should dress</v>
+
+00:17:32.460 --> 00:18:03.470
+<v Speaker 1>from alpha Richard made creature types matter And what we always we always would put Lords and stuff instead. We always would like once we realize that people like them. In fact, the argument, by the way, the argument I made to get tribal a thing, an onslaught was how much people played the decks like an alpha. People played merfolk decks, merfolk decks, which required Lord of Atlantis and merfolk of the Pearl Trident. That's all you had and people would play that. And I remember when like</v>
+
+00:18:03.560 --> 00:18:11.660
+<v Speaker 1>the dark came out, there finally were a couple merfolk and people like finally I, my merfolk deck could be nothing but merfolk, you know, and, and Lord Landis, because that wasn't a merfolk,</v>
+
+00:18:13.070 --> 00:18:43.280
+<v Speaker 1>you know, And as as we started making more people were playing these decks. They were not good decks, but they were having fun with them. Like, Ohh, it's my goblin deck. Ohh, you know, and people were even playing tribal decks in which there was nothing tribally didn't matter. There's no cards that care, but they still were doing it. And I'm like, look, if people are going to do this and it's not particularly good, imagine us making it good. Imagine us making it something you want to do, you know, that if players already want to do it, it's horrible. Imagine them enjoying it if it's good. And then I can manage to convince Bill the time that</v>
+
+00:18:43.420 --> 00:18:44.920
+<v Speaker 1>to to try tribal out. So</v>
+
+00:18:47.000 --> 00:19:06.580
+<v Speaker 1>but now the interesting thing is now tribal has gone from kind of a, you know, we make a card once in awhile too. You know what tribal is an important thing. So in fact, one of the things you'll notice is most blacks nowadays have some tribal component. Some blocks have a lot. So if you look at something like Innistrad, OK,</v>
+
+00:19:08.100 --> 00:19:21.550
+<v Speaker 1>then if I had a tribal theme, right, there were monsters, there was vampires and werewolves and zombies and spirits. There were humans, you know, there was actually like the set had built into it 5, you know, sort of tribal factions.</v>
+
+00:19:22.660 --> 00:19:53.480
+<v Speaker 1>It was done in a lower level, especially in an industry that Dark Ascension ramped it up a little bit. But the idea was that was set in which we wanted to be able to build the zombie deck, but we didn't want to force you in drafting. One of the things that issue on tribal is, so we originally did tribal in Onslaught and then we brought it back in Lorwyn and we ramped it up. We're like, oh, that's nothing, we can take this to 11. And we really, and it got so ramped up that it's what we call on rails where you draft and like you make a choice.</v>
+
+00:19:53.550 --> 00:19:55.710
+<v Speaker 1>Like once you made the choice early on,</v>
+
+00:19:56.910 --> 00:20:26.920
+<v Speaker 1>once you take a powerful merfolk card, then it's kind of like, ohh, I'm playing merfolk, show me the merfolk cards. And we had put a few things in the changelings and a few cards that care about multiple things that maybe allow people to sort of cross and do more than one creature type, but it really sort of limits you. So when we were doing like Innistrad, I wanted to make sure that the guy who was really wanted to draft a zombie deck had the ability to do it. But it didn't put people, it didn't force people to do that. And that was something that was important.</v>
+
+00:20:27.030 --> 00:20:28.970
+<v Speaker 1>But anyway, um,</v>
+
+00:20:30.280 --> 00:20:54.110
+<v Speaker 1>we definitely make blocks like industries that have a tribal component, which it matters. And you can clearly, clearly, clearly build a bunch of different tribal acts. But one of the things that we also try to do is we try to make sure that usually there's at least one tribal thing going on. So for example, in Pharaohs Minotaurs, we wanted to be able to build the Minotaur deck in conjecture. Here we want to be able to draft a warriors deck</v>
+
+00:20:56.150 --> 00:21:12.940
+<v Speaker 1>in battle for Zendikar allies. You know, the major theme of allies that we want to make sure that people enjoy. Like one of the things historically is we know that a lot of players enjoy what I call linear themes here isn't I haven't I haven't done my</v>
+
+00:21:13.650 --> 00:21:22.320
+<v Speaker 1>as the podcast. I should at some point. It's talking different linear, modular. Linear means that there are cards that we get you to play certain cards and tribal cards do exactly that.</v>
+
+00:21:23.700 --> 00:21:46.470
+<v Speaker 1>They open the car that says all the zombies get plus 1 + 1. I go, I know what I'm doing, I'm getting some zombies. And that there's a lot of attractiveness to strong linear strategies. Tribal, I think owes a lot of its its popularity to that. It just has a nice loud, clean message. It's also flavorful. You know that having a deck of goblins, it's my goblin deck. That's that's fun.</v>
+
+00:21:47.800 --> 00:21:53.810
+<v Speaker 1>But one of the things that we definitely try to do is we try to think about what tribes might people have fun with it.</v>
+
+00:21:55.490 --> 00:22:25.380
+<v Speaker 1>I guess tribes fall into two camps. There are what I would call the the major tribes, which are the tribes that So for example, I was talking with the iconics of magic, right? The iconics are Angel, sphinx, demon, dragon, hydra, white, white, white, blue, black, red, green, perfectly. So I also have a how there's a characteristic race. So what that means is iconic serves one or one or two of them at rare. They're flashy. Characteristic is the, the default race for the color at common.</v>
+
+00:22:25.470 --> 00:22:33.620
+<v Speaker 1>They they're small, You see a lot of in common. It's the kind of thing that you might build a deck around, um, tribally. And so</v>
+
+00:22:34.610 --> 00:22:51.360
+<v Speaker 1>white is human, blue is merfolk, black is either zombies or vampires. We go back and forth that one Red is goblins and green his elves doesn't mean every world has those. In fact, recently we've been, we've been a little stingy on our our goblin tunneler, something that hopefully long term will fix. But</v>
+
+00:22:52.220 --> 00:23:09.020
+<v Speaker 1>there definitely is the characteristic races that people strongly identify with. And so we want to make sure that we have enough support for the major races that we know people really enjoy playing. And then we also want to do is take some of the races that are a little less supported</v>
+
+00:23:10.100 --> 00:23:30.960
+<v Speaker 1>and make sure from time to time that it gets a chance to shine that, umm, you know, we haven't done well. We've made a lot of warriors. We haven't done a lot of warrior matters cards. So we make them warrior matters cards. And all of a sudden here's a deck that you're able to make. The warriors is a quirky one because Warriors traditionally had been more red green and we made it a white black Dick for limited, but that's its own story.</v>
+
+00:23:34.760 --> 00:24:01.690
+<v Speaker 1>So one of the things we definitely do is every set, not only will it have tribal support for something that matters within that block, we also try to make sure that we make a few individual cards that help you build the deck for casual constructed that says, OK, hey people, you really like this creature type. You know what? We've never made a Lord for this creature type. Let's make one. And we're always kind of looking out to go, Oh, is there? Is there some fun kind of Lord? You know, when people like to play this creature type,</v>
+
+00:24:01.770 --> 00:24:06.480
+<v Speaker 1>we can make an individual card that, you know, because it really only takes one card</v>
+
+00:24:08.220 --> 00:24:11.910
+<v Speaker 1>to say, OK, here's a big bonus for doing this thing to get people to do that thing.</v>
+
+00:24:15.400 --> 00:24:17.120
+<v Speaker 1>The other thing about creature types is</v>
+
+00:24:18.430 --> 00:24:23.320
+<v Speaker 1>one of the interesting things about it is that the creative team. So what happens is</v>
+
+00:24:24.660 --> 00:24:35.320
+<v Speaker 1>redesign the card if we don't care about the creature type, if it's not something that's dictated by the set. And like I said, there's a tribal comment every set. So every set is something like, oh, we want this to be</v>
+
+00:24:36.010 --> 00:24:41.490
+<v Speaker 1>whatever. A merfolk, an elf, a goblin, zombie, a human. Whatever we care about, we want this to be that.</v>
+
+00:24:42.210 --> 00:24:42.720
+<v Speaker 1>Umm.</v>
+
+00:24:44.020 --> 00:25:00.030
+<v Speaker 1>But if we don't, if we don't specify, the way it works is the card goes to the story team, they do the card concepting, and what that means is they figure out what the card represents. What is it? If it's a spell, OK, well what this spell does damage, but how</v>
+
+00:25:01.220 --> 00:25:12.320
+<v Speaker 1>you know? Let's say you have a red spell that does 3 damage to a creature. Ohh OK is it fire? Is it, are they throwing rocks at them? Is it some Sonic attack? What kind of what kind of magic is it?</v>
+
+00:25:13.870 --> 00:25:44.620
+<v Speaker 1>And when it's a creature, one of the things they have to figure out is what kind of creature is it? So one of the things that the creative team does every every set is they make what's called a creature grid. So what a creature grid is, is they have small, medium and large and they have flying and not flying. And they have to make sure that for every grid they fill it in meaning, OK, if a creature is a small non flying blue creature, what could it be? What are the choices available? And part of building out a world</v>
+
+00:25:44.710 --> 00:26:09.160
+<v Speaker 1>is they have to make sure that that all those get filled in because they have to be answered. Meaning we're going to make small blue creatures that don't fly. If you don't tell us what those are, you going to have a problem down the road. So what they do is they fill out the grid. There's a few exceptions, like for example, large green flyer. And we don't make large green Flyers. And whenever there's a rare exception like it's a dragon set, OK, it's clearly a dragon, so it's not a big deal.</v>
+
+00:26:11.640 --> 00:26:12.340
+<v Speaker 1>So</v>
+
+00:26:14.600 --> 00:26:30.930
+<v Speaker 1>that what they do is this happens usually during design is they start to make the grid and what will happen is the design will come talk to them and figure out whether or not there's a problem. Usually the more tribal the set is, the more we have to work with them.</v>
+
+00:26:31.950 --> 00:27:01.980
+<v Speaker 1>For example, like at Laura Lynn, that was a tribal set that was all about tribes. So we we literally had a meeting where we sat down the creative team and we we kind of sort of negotiated like we said, OK, you know, they wanted to do this kind of Celtic world little we were going to do the sort of the bright, happy world into The Dark World. So Laura went into Shamar and so we were trying to have a little more of a light Celtic feel. And so we talked with them and we made the decision not to humans and</v>
+
+00:27:02.050 --> 00:27:14.540
+<v Speaker 1>and what happens once you start saying, OK, well this well, what college is there gonna go to that starts filling in spaces? And so we sort of negotiate with them. You know what creatures and where. So let me talk about bleeding of creature types.</v>
+
+00:27:15.920 --> 00:27:28.730
+<v Speaker 1>So one of the things that we are very conscious of is that I talk usually when I talk about bleeding, I talk about bleeding of mechanics like this is in red color pie and red does something. No, not quite in this color pie,</v>
+
+00:27:32.500 --> 00:28:03.910
+<v Speaker 1>but there also is bleeding of flavor, but that's a little different animal. So the idea is creature types. One of the things we tend to do is one of the things I realize back when we did on flat was on flat did the thing where the creature types mostly were in a singular color. Goblins were red, all the goblins were red, elves were green, all the goblins were all the elves were green. And so one of the problems we ran into was you got very like if I wanted to make a goblin deck while I was making a mono red deck,</v>
+
+00:28:04.020 --> 00:28:15.870
+<v Speaker 1>and because I was in red, the cards that were the best cards tended to often be the same. And what I realized was it just didn't make a lot of depth. And what happened was Clerics</v>
+
+00:28:16.730 --> 00:28:42.420
+<v Speaker 1>ended up being in, I think it was clerics in black and white, just as flavorful. It made sense. Like I think what happened was on foot mostly cared about races, but we had a few classes. And what I found was the classes were so much easier because there was more than one color that had the class. And So what I realized is the next time we did a tribal set, which was Laura and I said, you know what new role,</v>
+
+00:28:43.180 --> 00:29:00.830
+<v Speaker 1>if you're going to care about the tribe, if tribe matters, we have to have at least two colors on it. That's that's what we do now is if you're gonna care about a creature type, if it's gonna mechanically matter, there needs to be at least two colors. But one of the things we realized was a lot of creatures are set in one color. So for example, take vampires</v>
+
+00:29:01.790 --> 00:29:13.840
+<v Speaker 1>or zombies from industrywide. They're black, OK, but I wanted have two colors. So that said to the design team, OK, and and we need to work with the creative team. OK, well we got to figure out how to do vampires in a way that they're not just black.</v>
+
+00:29:14.750 --> 00:29:16.890
+<v Speaker 1>And So what we did is we,</v>
+
+00:29:17.550 --> 00:29:47.530
+<v Speaker 1>we sort of figured out mechanically where it made sense for them and they went to the creative team and said, OK, what do you think of black and red vampires? What if we have bloodthirsty, sort of, you know, a little more feral vampires that are like, and we worked with him and they came up with an idea of, OK, well, here's how the black vampires from the red vampires, same as zombies. He said, OK, well, we need a second color. Zombies. What color could zombies be? And then we stumbled across the idea of Frankenstein's monster. We're doing we're doing gothic horror and like zombie</v>
+
+00:29:47.600 --> 00:30:11.580
+<v Speaker 1>recommend, necromantic zombies are just a really different animal from sort of laboratory created zombies. But both of them were flavorful. So he said, OK, well, we'll make the blue the the lab, the Frankensteins will be the Blues zombies and the black will be the necromantic zombies. And we made a Geisinger office just contrast, you know, the necromancers and the stitchers are different.</v>
+
+00:30:13.060 --> 00:30:43.070
+<v Speaker 1>But anyway, the same thing is sort of we had to work. So one of the things that we do tribal now is we want to make sure that there's some flexibility. And often that means allowing ourselves to push in some direction in which one of the neat things about adding a tribe in which the tribe is less support there is you're just pushing the deck in a slightly new direction. For example, Vampire action for industry came out, we're usually minor black. They were black, you know, black vampire decks. But all of a sudden we said, you know what, here's some red vampires and here's some red cards that care about vampires and here's some</v>
+
+00:30:43.140 --> 00:31:08.440
+<v Speaker 1>black red cards that are pretty good. They care about vampires. And all of a sudden you could make a black red vampire deck. You can make a black red vampire deck before. Same with zombies. I mean, I guess the ground was a zombie, but, but pretty much if you're making a zombie deck, he was black and all of a sudden you can make it blue to one of the neat things is when we go to New World and we have some tribal component, we, we have the ability to push a little bit and stretch. And that is something that we definitely are</v>
+
+00:31:09.760 --> 00:31:19.380
+<v Speaker 1>right. You'll see as we do things with tribal component, we definitely are trying to push that a little more. And one of the neat things about that is it allows us like</v>
+
+00:31:21.070 --> 00:31:31.220
+<v Speaker 1>tribal did the thing where I'm not sure whether it was the right call in retrospect, but I wanted there to be a shift between Lorwyn and morning Tai and not morning tight between Lorwyn and</v>
+
+00:31:33.940 --> 00:31:51.490
+<v Speaker 1>shadow more. And so I I said, it's OK. Well, what if when, when the shift happens? What if the colors of the creatures changed a little bit? And So what I did is I kept the every color was in their base color. Elves are green. They're always green. So it wasn't going to lose green, but elves, I think were</v>
+
+00:31:52.790 --> 00:32:02.790
+<v Speaker 1>actually go from green and white to green and blue. They go from green and blue to green and white. Uh, they're black and green. I'm sorry. Ellis were black and green and lower wind and they went to</v>
+
+00:32:04.260 --> 00:32:04.900
+<v Speaker 1>Is that right?</v>
+
+00:32:06.200 --> 00:32:12.750
+<v Speaker 1>No Elves were black and green and shadow more. Ohh I think they were white and green and they went to black and green. I think it's what happened.</v>
+
+00:32:14.790 --> 00:32:41.740
+<v Speaker 1>But anyway, one of the things is we definitely have even played around with we shift colors of them and it's so like you can, you're more like for example, Mofo decks almost always have blue in it just because most of the merfolk cards, there's more Morpho cards in blue than any color. Although when we do A2 color tribe, you know, we stretch it. We do allow you to play the second color. Meaning look, if you want to play a mono blue zombie deck, you can. There's the ability to do that. You wanna play a mono red vampire deck you can</v>
+
+00:32:43.120 --> 00:33:05.420
+<v Speaker 1>but we also we realize now is that we go to world to world. It's kind of neat that we can define one world like this world vampires are black and red, you know, but maybe if we go to a different world, maybe vampires are a different color other than red. Maybe they're black and blue. You know maybe they're black and white. Maybe they're black and green. You know, maybe we'll find the right world in which one of those makes sense. And then</v>
+
+00:33:06.900 --> 00:33:37.630
+<v Speaker 1>one of the things that's fun for me creature types is because we have the ability to bleed them on a worldwide world basis. We we can make some things we haven't made before. Like one thing that's neat is doing vampires in red meant I had access to red abilities that black did not have. You know, I it was very, very hard to make a trampling vampire. You know, it was hard to do some things that red does all the time, like like fire breathing. I guess black has shade pumping. But but anyway, there's things that red could do the black hood or the things that blue could do that</v>
+
+00:33:37.700 --> 00:33:43.200
+<v Speaker 1>that couldn't for zombies, and then it allowed to have a little more flavor mixed into them.</v>
+
+00:33:45.980 --> 00:33:50.910
+<v Speaker 1>Anyway, I mostly what I'm trying to say, I guess my, my talk about creature types is</v>
+
+00:33:52.580 --> 00:33:58.540
+<v Speaker 1>it is definitely an area of the game that we've had the ability to really experiment a lot with and that I,</v>
+
+00:33:59.940 --> 00:34:26.580
+<v Speaker 1>I'm a big fan of markers in general. I think that, um, markers do two really strong things that I'm a big fan of 1 is they're, they're really flavorful. You know, I think of all of magic had creatures and yeah, we showed you different creatures in art, but it just wasn't mechanically ever referenced. It's just like, oh, this is just a creature and that being a vampire never mattered. I think that'd be a loss to the game from just from a pure flavor standpoint.</v>
+
+00:34:27.720 --> 00:34:49.730
+<v Speaker 1>From mechanical standpoint, having markers just means you have more things you can make cards out, you know, The more markers you have, the more mechanical references you can make. And those mechanical references tend to be really flavorful mechanical references. Because if I say all vampires do something, well, that's just, there's a lot of inherent flavor. When I boost goblins or boost merfolk or boost vampires, I get to make somebody. You know,</v>
+
+00:34:51.040 --> 00:35:04.710
+<v Speaker 1>the Goblin King was a fun, flavorful card. And Richard could do that because he had made goblins. And then goblins get a leader. And what's the goblin leader like? You know, And you got a picture of the Goblin King on his throne and you know that it is definitely</v>
+
+00:35:06.580 --> 00:35:14.130
+<v Speaker 1>markers do a great job of adding flavor to the game. And the second thing is that</v>
+
+00:35:15.250 --> 00:35:17.270
+<v Speaker 1>howling the mechanical Hulk,</v>
+
+00:35:19.400 --> 00:35:26.250
+<v Speaker 1>yeah, it just allows you to diversify a lot more easily. Like, one of the things about creature types is</v>
+
+00:35:27.280 --> 00:35:31.540
+<v Speaker 1>vanilla creatures. There's not a lot going on with the vanilla creature, right? That</v>
+
+00:35:32.390 --> 00:35:35.910
+<v Speaker 1>it, it's, it's, it's got no rules tax. But</v>
+
+00:35:36.670 --> 00:35:57.750
+<v Speaker 1>you know, something as simple, like when we're making this, that we need a certain number of vanilla creatures just to keep the set, you know, simple enough that people can play without having a problem. And we, we, we don't want every car to be a mental download for for the, the the players playing. And so, hey, it's nice to have a breather. This is just a four four. You know, one of the neat things about markers, creature types in specific is that card isn't just vanilla.</v>
+
+00:35:59.000 --> 00:36:29.140
+<v Speaker 1>I mean, it's vanilla in this rules tax, but you can do something which you make it matter. So one of the neat things is when we have set some which tribal stuff matter that allows us to make vanilla creatures matter. There's a reason why when you're drafting, you will some decks will draft that vanilla feature and some decks won't because there's this marker on it that certain decks care. You know that if you have a deck that cares about warriors, that vanilla warriors just more attractive to you than somebody who doesn't. And so is a neat way to take something like,</v>
+
+00:36:30.580 --> 00:37:00.670
+<v Speaker 1>I think that having, you know, just say I'm making my merfolk of the Pearl Trident and it's a 11 merfolk. That's flavorful. The word, the word merfolk is doing good work. It it is doing flavor work. It is definitely adding something to the game. And the fact that the game can then go and reference it just means, ohh, not only not only can it stand by on its own and fine, even if you didn't reference it, it just becomes this extra thing that you can now mechanically care about. And so one of the things that's very attractive in general is when you're trying not to clutter up the cards, one of the things you want to do is find ways</v>
+
+00:37:00.780 --> 00:37:25.280
+<v Speaker 1>to take pre-existing things and care about them. For fans, the unset, you'll notice that I go to town with that and like, let's care about the artist. Let's care about the collector number, you know, let's care about how many words in the name or what letters are in the name or all sorts of crazy things that that's fun, you know, and that and blackboard. There's reasons that I can't care about certain factors like that, but it is needed. And</v>
+
+00:37:26.220 --> 00:37:56.220
+<v Speaker 1>I think creature types are a lot of fun in that they it is the only thing that does so much work for both creative and and design development. So like I said, it's the one part we fight over from time to time because we both care, but it's great that we both care. I think that's really neat that there's a component of the card that we we get of both care about that the people that care about flavor and people care about mechanics get to both both make reference to anyway</v>
+
+00:37:56.300 --> 00:38:00.020
+<v Speaker 1>time now here at work. So I hope you enjoyed my little</v>
+
+00:38:00.960 --> 00:38:24.270
+<v Speaker 1>chat all about the not chat to talk all about the creature types and learned a few new things and maybe got a little more respect for creature types. I I think they are one of the unsung parts of a card. So anyway, I will talk to you guys next time, but I'm sorry I now purging my fucking face. So although that means that it's time for me to what is it time for me to do?</v>
+
+00:38:25.570 --> 00:38:37.960
+<v Speaker 1>I always mess up my ending because like in the beginning I messed up. I just start over. But OK, let's try this one more time. I end up in space because what that means means the end of my drive to work. So instead of talking magic, it's time for me to be making magic. OK. I'll see you guys next time.</v>
+

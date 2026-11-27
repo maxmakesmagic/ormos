@@ -1,0 +1,284 @@
+WEBVTT
+
+00:00:00.970 --> 00:00:30.440
+<v Speaker 1>I'm pulling in the parking lot. We all know what that means. It's time for the drive to work draws means I dropped my daughter off at camp today anyway, but we're going to have a full podcast. So today is it not the start of another design podcast. I'm going to talk all about the design of cons of Tarkir. So the way I've been doing it now is I've been doing my design things in order, not in order, but as a block. So it'll happen is today and the next bunch of ones I'll be doing cons of talk here,</v>
+
+00:00:30.620 --> 00:01:00.710
+<v Speaker 1>then I'll be doing some other stuff, and then next time I do a design podcast, it'll be on Fiber Forge and then the one after that will be on Dragon Stark here. So it's time to talk Tarkir block. So the reason I waited was I wanted to get the whole block out there before I started telling you the story. Because one of the things that happens in my column is I have to start talking about design before everything is known and becomes problematic because a lot of what we're doing is setting things up. And so when I'm writing about the design of Constant Archier, I can't talk</v>
+
+00:01:00.780 --> 00:01:30.800
+<v Speaker 1>about things that were going to affect Dragons are here, but there are a lot of decisions that were integral. And so in my design articles, I kind of was a bit restrained. So for the podcast, I, I, I want to know, I want to talk about it all. And to do that, I had to let it finish. So I let the turn your block come out. And now it's time and all its glory to talk about the turn clear block and talk about all the interconnectivity design because it was a very complicated and interconnected design. And I want to talk about all that. So this is me without any restraints. And I'm going to explain kinds of</v>
+
+00:01:30.990 --> 00:01:34.020
+<v Speaker 1>here and later on paper forward and driving to Turkey.</v>
+
+00:01:34.770 --> 00:01:37.970
+<v Speaker 1>OK, in the beginning, how did this all begin?</v>
+
+00:01:38.950 --> 00:02:09.250
+<v Speaker 1>OK, so First off, remember when I was working on this set, we had not yet moved to the 2 black paradigm. We were still making sense for three blocks long. We had no idea it was coming. We didn't figure out until in the middle of battle for them, the car block, which one day I'll talk about that, but at the time we didn't know that. So the entire block, it was a three set block. So one of the problems that that we eventually solved with the two block paradigm, which is getting rid of the third set I was trying to solve here. So walking in, I knew the following to be true.</v>
+
+00:02:09.340 --> 00:02:40.880
+<v Speaker 1>I knew we had a large set, then a small set, then a large set because the way we've been doing it is every other year we've been having a large set as the spring set. The way that the card mix worked was we had a, we, we have a restriction on how many cards we can print in a standard environment. And so it turned out that we could have a large spring set every other year. So one of the things I was interested in walking into this design was, OK, I know we have a large set of small set and a large set. How are we going to make this different? How are we going to make this third set something cool?</v>
+
+00:02:43.710 --> 00:03:12.160
+<v Speaker 1>And there's an idea that I had for a long time that I really like, which the idea was, what if you're middle set was drafted not just with your first large set, but also with your second? What it pivoted in the middle of the draft? I thought it was a very cool concept, the idea of having a draft format where you take the large set, large set plays with the middle small set, and then when the next large set comes out, you start brushing the first large set and exchange it for the second large set. But the middle set.</v>
+
+00:03:12.740 --> 00:03:14.000
+<v Speaker 1>It's interesting both sets.</v>
+
+00:03:15.170 --> 00:03:42.990
+<v Speaker 1>One of the things that came about is we've talked before when we had large, small, large and large is a complete change that that small set in the middle, like the world wakes of the world get very short shifted. They, you know, like he plays in the car. You're not drafting world lakes not out yet. Well, it comes out OK, drafting world lake, but you know, 1 back of world lake. And then when rising rising comes out, you're not even doing world like anymore. So they had very little time in the sun. So part of this idea was also to give the middle set a little more time in the sun and just to change things up. So</v>
+
+00:03:44.220 --> 00:04:13.650
+<v Speaker 1>one of the things I firmly believe in design is I like to start every design from a place that is different than I've started other designs that if I just have a different starting point. I've talked about this a lot in my podcast of the way the brain works is it will find pathways that knows first if you're trying to solve a problem, where your brain has learned is first look at all the things you've already done. And so when you're trying to solve a problem, if you approach it the same way, you keep coming up with the same solutions. So in a design, I like</v>
+
+00:04:13.770 --> 00:04:18.870
+<v Speaker 1>saying, OK, here's the challenge I never had before and letting that sort of dictate</v>
+
+00:04:19.530 --> 00:04:49.020
+<v Speaker 1>decisions. Like one of the things you want early in design is you want to create a bullseye for your team and aim at something. And part of doing that is just saying, OK, I'm going to start with a different parameter than I've ever started before. And I know that in answering that parameter, I just will get to places I haven't been before. So the idea of large, small, large, rotating around the small set, but just different, we've never done that. I didn't know what the ramifications of we're going to be, but I knew that if I started with that, I'd never done that before. I'd never been in that place before,</v>
+
+00:04:49.640 --> 00:05:19.780
+<v Speaker 1>so I knew that we'd get something cool. OK, So what happened was the great Designer Search 2 had happened. Ethan Fleischer had won, Sean Main had come in second. It's got Vanessa to come in 3rd. So we ended up Ethan as part of winning, got a design internship and Sean ended up getting a digital R&amp;D internship. So the two of them were both given a six month internship and I was sort of said, OK, watch all these people, do they have what it takes? So one of the things that happened</v>
+
+00:05:19.850 --> 00:05:50.050
+<v Speaker 1>and I was putting together the 2nd grade designer search was I had a chat with Bill, who's the Bill Rose, the VP of R&amp;D and we were talking about what design needs. And one of the things we were looking for is more people that were sort of visionary, more people that were able to sort of craft world, if you will, craft sort of designed from the top end. They have something we were a little light in. So I, I made the great designer search too have this bent. And what we did is I made each person designed their own world. And then with one, with one exception, all the challenges we're building in their own</v>
+
+00:05:50.120 --> 00:06:16.250
+<v Speaker 1>world. So what happened was they would do stuff, would give notes, and they kept on evolving their own world. Now the new challenges will make them do different things, but still there's a consistency of the world they were building in. And so I specifically both Sean and Ethan had demonstrated this skill. So I wanted to sort of test that skill. I wanted to make sure during the six months that we had to sort of observe them, observe them that I can figure out how how much potential they had.</v>
+
+00:06:17.240 --> 00:06:47.790
+<v Speaker 1>So I had this idea what if I stuck them on a sat that wasn't even in design yet and sort of, you know, so the idea was at the time we were working on Theros, I believe. So cons was the one after this was called Huey. Huey, Dewey and Louie were the name of three sets. So the idea was what if I had Sean and Ethan work on the on Huey way by year before it was due. We had stuck with the same time we started Pharaohs. We started this little project. Now interestingly, this went so well</v>
+
+00:06:47.870 --> 00:07:18.020
+<v Speaker 1>that it would evolve into what we now call exploratory design, which is something we do all the time now. But anyway, in the beginning it was just I wanted to sort of test Ethan and Sean in a place that could test their world building. And they're sort of blocked design, but in a way that there was no danger. And the idea was we, since we were a year ahead, look, design hadn't started yet. All they could do is give me ideas. In worst case scenario, if the ideas were horrible, well, we'd start to sound like we all started design. I wouldn't be any worse off. But hey, maybe they come up with something. So the first assignment</v>
+
+00:07:18.090 --> 00:07:36.560
+<v Speaker 1>he gave them, as they said to them, OK guys, here's all we know. I wanna do the following block structure, which is large, small, large with the middle set pivoting and drafting with both the large sets. But the large sets never get drafted together. So my challenge to them was, OK, let's figure out why. Why would we do that?</v>
+
+00:07:37.460 --> 00:07:55.920
+<v Speaker 1>So, and the way the way this project worked was I would give them assignments, they would go off and work with them. And then once a week we check back in and they showed me where they were at and I would give notes. And then based on my notes, that would sort of set with the next thing they needed to do. And so they would work on stuff. I would see it give feedback and we would do this iterative.</v>
+
+00:07:57.640 --> 00:08:27.770
+<v Speaker 1>So essentially what happened was they went off and they came up with all sorts of ideas of why large, small, large. I think I've tried a little bit before, right? I but we're real recap for the people that had all my podcasts. So one of the ideas they came up with is that the middle set represented some vehicle that you were traveling from the first set to the second set. So let's say the middle set, like you're on some arc or something and the first set is you're on one continent and you get in the ark and you go across the seas. And the second set, you're in the second one.</v>
+
+00:08:28.010 --> 00:08:57.940
+<v Speaker 1>And the idea was the reason you'd raft the middles that with both is, well, the ship or the arc or whatever is with is at the 1st place. So you can draft them together and then it moves and I was in the second place and you can draft them together. We had the idea of a war where two sides were fighting each other and the middle set represented the battleground. So in each case you've got to see them fighting each other and you got, you know, the battleground overlap with both of them. And one idea was we had his,</v>
+
+00:08:58.030 --> 00:09:19.500
+<v Speaker 1>they have a battleground where the things fighting each other, we're on different planes. But there were some way where they they interconnected on the battlefield. And then that center set would be that interconnectivity. But the cool idea was that you couldn't really make out the other people that when you were fighting, your enemies were sort of shadowy and you couldn't quite make them out. And so you would see both sides of that conflict to talk about that</v>
+
+00:09:20.910 --> 00:09:52.120
+<v Speaker 1>we we went through a whole bunch of different ideas. Ethan and Sean would kept coming back and pitching things. So finally one day Ethan came and Ethan pitched the idea of a time travel set. So Ethan said, OK, we go to a world and then we go back in time change something. And when we return the new, the second set is the same is the same as the first set, but change because of the change in time. Now for those that don't know, I love time travel, love, love, love time. I'm a huge time travel buff. So when Ethan said that</v>
+
+00:09:52.260 --> 00:10:19.400
+<v Speaker 1>magic is dipped its toe into her travel. For those that know a little bit about the Erza story, during the Weatherlight saga, Erza messed around with time travel. In fact, the recent Karn is a silver Gollum is in the means by which Earth have figured out how to travel through time. The only device that could get through time was silver. So that's why he made a silver Gollum so that he could do his experiments. Those experiments didn't go all that well, but</v>
+
+00:10:20.320 --> 00:10:50.290
+<v Speaker 1>and then during time spiral, when the when the entire the collapse of the multiverse, there was time displacement and there were things from different time where popping up in Dominaria, which is why there are a lot of legendary creatures of things from the past that, you know, look at Saffi Eriksdotter. Look, it's Norin the wary look, you know, the people that were coming from the past. That was the rationale for that. So we did mess a little bit with time, but this was a very distinctive story, which is go to a world.</v>
+
+00:10:50.410 --> 00:11:21.110
+<v Speaker 1>The world is not a great place. I mean, this is an archetypal time travel story. You go to a world, the world's not a nice place. The main character decides that they're going to go back in the past to try to improve something. They go back in the past, they make a change because the world is flawed to them, and they come back. And then, Oh no, they made things worse that that. That's the archetypal time travel story. OK, so the idea was in order for us to do this. Ohh. So once we knew the time problem story, the next thing that I was interested in,</v>
+
+00:11:21.410 --> 00:11:51.360
+<v Speaker 1>um, was trying to figure out I wanted to have a mechanic that stretched across the block. I wanted to, to show you what was going on through one constant. And the idea was we'd have a mechanic and the mechanic that was very interested in was messing around was morph more for those that don't know, first got created during Onslaught block. The rules team at the time was trying to figure out how to solve a particle illusionary mask and other particle camouflage that had come out in alpha where you turn card states.</v>
+
+00:11:51.580 --> 00:12:20.890
+<v Speaker 1>He didn't know what they were. And so in order to solve the problem, they came up with the idea of defining what a face down card was. At the time they defined it as a 11 creature, 11 colored creature. And then they realized that this cool idea for mechanic where you have cars that could purposely put themselves down and then you can make some turn face up, which we called the morph mechanic. They were really excited. They pitched the bill. Bill wasn't excited. Pitch to Mike Elliott, he wasn't excited. They pitched to me. I was excited. My one recommendation instead of A11 to make it 22</v>
+
+00:12:21.470 --> 00:12:28.190
+<v Speaker 1>and then what I did is I mocked up jacks and played it around and slowly built sort of consensus in R&amp;D and then eventually got it into Onslaught.</v>
+
+00:12:28.890 --> 00:12:59.780
+<v Speaker 1>Anyway, mechanism on flat went over very well. People liked it. We kind of knew we wanted to bring more back at some point. It's just a very cool mechanic. It's a little complex, but it's very cool. So anyway, I was interested in seeing if we could use Morph as the through line. And so Ethan and Sean, once we have the time travel thing worked out, the next thing they worked out was trying to figure out, OK, well we have a mechanic. If you go to the past, well you need a proto version of that mechanic. You need a mechanic that's like that mechanic but in the past and then in the future, oh, things are different. So that be altered in some way.</v>
+
+00:12:59.850 --> 00:13:00.450
+<v Speaker 1>That's the idea.</v>
+
+00:13:01.950 --> 00:13:05.860
+<v Speaker 1>So they did a bunch of work. So the idea was the first set would just be more normal morph as you know it.</v>
+
+00:13:08.700 --> 00:13:39.130
+<v Speaker 1>The second set would be some sort of proto morph and the third set would be an alternate version of morph. So they played around quite a bit, but what we ended up coming U with was what we called recruit. But you guys know as manifest, which ended up being in favor forward. And then the third is that we call Oramorph, which were morphed that instead of being creatures were auras and when you've turned face up, they would go to the creature. They were very interesting. We first played with them because just the dynamic was very different. Normally, for example, if I have</v>
+
+00:13:39.220 --> 00:14:08.730
+<v Speaker 1>they face up creature and a face down more creature and I attack and you choose what to block. Well, let's say you block the morph creature. Well OK, now you're find the morphe my other creature gets through with Oramorph. The morph creature would hop on to the other creature. So there was this weird like in morph world you tended about the morph cause if you were scared of the more you didn't know what it was. But in Oramorph world you tended to block the not morph because if you block the morphine, it was an aura, it could hop on to the other creature. They would get through. Anyway, it was different. We kind of liked it,</v>
+
+00:14:09.620 --> 00:14:20.430
+<v Speaker 1>so we signed off for another tentative idea. The for the three sets, there be more what we called recruit, there would be manifest and or more. Meanwhile, we went to the creative team and what we said the creative team is</v>
+
+00:14:22.040 --> 00:14:51.750
+<v Speaker 1>at the time this was braided down with the still running the creative team. So I went and talked to Brady and said, OK, Brady, here's our constraints. We go to a world, The world is a rough world. Things aren't great about it. Then we go back in the past, we alter something and we come back and now the new, the third set is this alter world in some way. So it was braided. That came to me with the idea of doing Tarkir, which was Sark involves home world. We didn't know much about Sarkhan Vol's home world. All we know</v>
+
+00:14:51.980 --> 00:15:21.880
+<v Speaker 1>was that there were warlords and that the warlords had killed off the Dragons because the big part of Sarkin's background was he revered Dragons, but he came from a world where the Dragons didn't killed off. So when he ended up going to, once he joined somewhere in Lara and saw Dragons for the first time, he was amazed because he revered Dragons. So we knew that he had a home world, obviously had an Asian sort of theme to it and being in ancient character. And we knew that there was warlords. We knew that there once had been dragging there,</v>
+
+00:15:22.000 --> 00:15:34.960
+<v Speaker 1>so Brady said OK, what if we make this circus home world? We go there, it's a warlord strum world. The reasoning goes back in the past is to save the Dragons and the third set is a dragon set</v>
+
+00:15:35.610 --> 00:15:36.260
+<v Speaker 1>and I'm like,</v>
+
+00:15:37.100 --> 00:15:47.790
+<v Speaker 1>okay, Warlord world sounds cool, Dragons, that sounds cool, I'm in. And so we started working off that idea. So meanwhile</v>
+
+00:15:48.910 --> 00:16:00.800
+<v Speaker 1>I had a conversation with Aaron and I pitched Aaron one of the things that aren't my boss, obviously the director of Magic R&amp;D. So one of the things I do from time to time, I have a one-on-one every week where Aaron, I sit down and we talk about things</v>
+
+00:16:02.210 --> 00:16:33.140
+<v Speaker 1>that are, you know, relevant going on. And so Aaron's always sort of checking out stuff. So we were talking about this at and once again, remember, this was hadn't begun design yet. We were still in exploratory design. And I explained to him my idea, the time travel thing, and it was a warlord world and it went to become a dragon world. And Aaron said, OK, I, I get dragon world that's exciting players like Dragons. But what exactly makes Warlord world exciting? He's like, it feels like the exciting thing. You're not getting to the third set, but you know, we, we know that the way blocks work</v>
+
+00:16:33.210 --> 00:16:49.040
+<v Speaker 1>is a lot of how well blocks do are contingent on how well the first set does you really, the more excited people are on the fall, the more the block, you know, just has legs for the the rest of it. And he's like, I feel like you're taking the most exciting thing, a dragon set and you're putting it in the last slot.</v>
+
+00:16:49.660 --> 00:17:10.790
+<v Speaker 1>And I said, but we know his world doesn't have guidance. We can't start with the dragon world. Like we can't start with dragon world in the Dragons go away because that's not the that's not Sharky's world. Parkinson's has no Dragons got start with no Dragons. But I said you know what, I will find a way to make the warlords exciting and goes OK, you gotta make gotta make Warlord world. Excitement said don't worry, I will make Warlord world really exciting.</v>
+
+00:17:11.830 --> 00:17:13.550
+<v Speaker 1>So meanwhile, UM,</v>
+
+00:17:15.330 --> 00:17:45.210
+<v Speaker 1>the creative team was working on some ideas for warlords for world, the clans of the warlords. And the original idea when I first talked to them was that there would be 4 clans. And I think the way the clans worked out was two of them were two color and two of them were three color so that they were balanced. Every color is represented the same number of times. So one of the things for the development thing, but in drafting it doesn't work if your factions don't add up to if the colors</v>
+
+00:17:45.310 --> 00:18:16.000
+<v Speaker 1>kind of divide evenly among the factions, you tend to get yourself in trouble. Not only the case, obviously in Ravnica, red and blue, we ended up making extra red and blue cars because they were, there was one last there was only one faction with red and one faction with blue or the other. Green, white and black all have two factions in Rebecca. So we can sometimes make it work out, but it's tricky. And so I worked it out in a way that it would have tutus and two threes and the creative team would come up with four different worlds that were based. Mostly what they did</v>
+
+00:18:16.070 --> 00:18:27.570
+<v Speaker 1>is they took the idea of an Asian inspired plane with Warlords and looked at different sort of from Asia, different kind of influences. And so I know they were looking at like</v>
+
+00:18:28.690 --> 00:18:40.370
+<v Speaker 1>the Turks and they're looking at the Shaolin monks, and they were looking at the Cossacks and they're looking at the Mongols. So they're definitely looking at different kinds of things. And so,</v>
+
+00:18:41.610 --> 00:19:11.240
+<v Speaker 1>so we had settled on 4. And So what I, one of the things that I decided early on was that I needed to tie, I needed Dragons to matter in the first ad, even though there were no Dragons because I'm like, one of the things that's important is when you go to the first set, you have to have the sense of it's a world without Dragons. Now obviously don't put Dragons in that sells a world without Dragons, but it doesn't convey the feel of the Dragons. I wanted you. I wanted the audience to understand the Dragons were missing and in a very</v>
+
+00:19:11.570 --> 00:19:15.580
+<v Speaker 1>tangible way so that you would get this feel if he wants to save the dragon.</v>
+
+00:19:18.300 --> 00:19:47.330
+<v Speaker 1>OK, so I had some plans and I wanted a dragon field. So finally I said, OK, what if the what are the clans were influenced by the Dragons and the Dragons have this big impact on the world and that there are attributes of the Dragons that each of the clans could care about. And so the idea was, OK, so I'm thinking like, let's say you were Once Upon a time revered Dragons, What qualities of Dragons might you be inspired by? And so the team, we said, OK, well speed, speed of Dragons made sense,</v>
+
+00:19:47.480 --> 00:20:04.170
+<v Speaker 1>strength, strength of the Dragons made sense, intelligence, intelligence, Dragons made sense and constitution. So for those D&amp;D fans at the Dungeon Dragon fans in Dungeon Dragons, there are 6 attributes. So there is intelligence, dexterity, wisdom, strength.</v>
+
+00:20:06.440 --> 00:20:36.440
+<v Speaker 1>Constitution and Charisma. And so we realize this, OK, what if what if we looked at the time of year for you? OK, you have Dexterity, you have strength, you have Constitution and you have intelligence. What if those were four dragon attributes? And the idea we liked a lot was, OK, well, let's say you're all about for dexterity. We were calling it speed, but we're thinking Dexterity is OK, I'm just faster than anybody else. If my attribute is I'm faster, well, how do I win? Well, I just strike so fast they can't do anything about it. Doesn't matter if they're better fighters or they're bigger</v>
+
+00:20:36.510 --> 00:21:05.830
+<v Speaker 1>for stronger. If I just hit you before you have anything, before you can prepare, if I just beat you so fast when I'm going to win and then you get like the strength and the strength says, OK, I'm bigger, I'm the better fighter. How am I going to win? I'm just bigger and better than you, you know, I'm just the stronger fighter, you know? And we said, OK, how about intelligence? Well, OK, I'm not the fastest, I'm not the strongest, but I'm smarter and I could outthink you and I can make you waste your resources and I can attack in such a way that's to my benefit.</v>
+
+00:21:06.660 --> 00:21:27.950
+<v Speaker 1>And then the so constitution sort of stamina. Stamina is the idea of, well, what if no matter what you did, I just stood there, I let you hit me and hit me and hit me and hit me and hit me and simple, you just, you just grow tired of hitting me and then I beat you. So we like those a lot. We like those a lot. So we ended up changing condition to endurance. We changed the exterior to speed, but it was speed, strength, intelligence and endurance.</v>
+
+00:21:29.450 --> 00:21:30.930
+<v Speaker 1>Then Brady came to talk to me</v>
+
+00:21:31.840 --> 00:21:32.810
+<v Speaker 1>and Brady said,</v>
+
+00:21:33.770 --> 00:21:34.570
+<v Speaker 1>hey, Mark,</v>
+
+00:21:36.000 --> 00:21:46.630
+<v Speaker 1>I know I said 4, but we've actually found a fifth space. We think it's pretty cool. How about 5? Could you do 55 clans? And I was like, ohh, Brady</v>
+
+00:21:50.220 --> 00:21:50.590
+<v Speaker 1>the</v>
+
+00:21:51.890 --> 00:21:53.030
+<v Speaker 1>one second Mike, off</v>
+
+00:21:54.560 --> 00:21:55.740
+<v Speaker 1>I go. Here's the problem with five</v>
+
+00:21:56.790 --> 00:21:59.450
+<v Speaker 1>is 5 means something in Magic</v>
+
+00:22:00.820 --> 00:22:01.950
+<v Speaker 1>5,</v>
+
+00:22:03.480 --> 00:22:10.950
+<v Speaker 1>the Manor system tied to five. So if I do 5 factions, I'm going to somehow end up getting connected to the color by</v>
+
+00:22:11.770 --> 00:22:15.800
+<v Speaker 1>I cannot. 5 is too organic to to the game,</v>
+
+00:22:17.440 --> 00:22:24.940
+<v Speaker 1>but I said it. It's not necessarily a bad thing. Just be aware that if I, if I do that, it's just going to,</v>
+
+00:22:25.650 --> 00:22:42.060
+<v Speaker 1>I, I don't think I can avoid the color wheel. The second you tell me there's five factions, I'm just, it's going to interconnect with the color wheel in some way because I have to balance the colors and brands like, OK, well, why don't you go explore and come back to me if it's really a problem. We don't have to do the fifth one, but it would be a big,</v>
+
+00:22:42.830 --> 00:22:47.410
+<v Speaker 1>any big favor to me if you could figure the fifth one. And we really like the 5th, the 5th clan.</v>
+
+00:22:48.700 --> 00:22:50.220
+<v Speaker 1>So I started examining it.</v>
+
+00:22:51.270 --> 00:23:10.590
+<v Speaker 1>Now one of the things I do on my blog blog, my blog on Tumblr is I ask questions all the time. So one of the things that I ask is I always ask people about sort of what do they, what do they want? What are the things that we haven't done yet they really want. So one of the things that came up a lot was the idea of a wedge set. So</v>
+
+00:23:11.690 --> 00:23:42.290
+<v Speaker 1>Shards of Alara had been set with a three color theme, and the three cars are what we call Arc. So now we call Shards, which are three colors. It's a color and it's 2 out. Sorry, it's two allies. So if it's a white base, that's a band, for example, was white and it's 2 allies green and blue. Esper was blue with his two allies, white and black. And so we had made In Charge of Alara 5 shards. That's a three color set that represented those colors. Now we had toyed with In Charge of a Lot. Maybe we would do all 10 combinations,</v>
+
+00:23:42.440 --> 00:24:12.550
+<v Speaker 1>but the credit team said no, no, no, there's five shards. There's nothing representing the enemies. Let's just stay with these 5. And so we did. So one of the things we've never done is done what we call the wedges, which were a color and it's 2 enemies. And so we've never done that. And so one of the things on people's list, because people love the players. They love the box checking. It's not necessarily a bad thing. It's just like, it's very obvious you haven't done this yet. And so like, look, you've done three color with allies, with shards, but you haven't done wedges. So one of the common requests is, hey, you guys need to do a wedge.</v>
+
+00:24:14.240 --> 00:24:26.470
+<v Speaker 1>So I was sitting here and I'm like, okay, Brady wants to have a fifth clan. I need to somehow make it work. And Aaron, he said, OK, make this exciting. We really want to make sure that people, you know, we got to find a way to make</v>
+
+00:24:28.040 --> 00:24:57.630
+<v Speaker 1>war. Warlord World is exciting is Dragon World, which sounded pretty daunting. So I knew people wanted wedges and I knew we wanted to do 5 and I knew there had to be a connection. So I'm like, OK, OK, could we make this wedge world? So I went back and I looked at all the things and I said, OK, well, could this be this and this be this? And we took the five wedges and started figuring out what could go where. And then we worked with the creative team and in the end we figured out a way to sort of make them all fit. A few of them are quite a little tweaking by creative,</v>
+
+00:24:57.700 --> 00:25:03.460
+<v Speaker 1>sort of add elements that made sense in the third color. But we finally got to the place we said OK,</v>
+
+00:25:04.780 --> 00:25:28.870
+<v Speaker 1>and then we had to add in the what was the third one about South at the time? The the fifth one, the 5th 1:00 we we decided was then we called it Magistry. And the idea was they don't fight. They win the war by not fighting that they win the war by bribing the other side or blackmailing or whatever they need to do. They're the opulent one with the idea that Brady come up with was sort of the</v>
+
+00:25:30.330 --> 00:25:34.860
+<v Speaker 1>opulent kind of death inspired golden palaces in the jungle sort of thing. Um,</v>
+
+00:25:35.900 --> 00:25:50.260
+<v Speaker 1>OK, so we now had five factions and we found a way to match the wedges. So I said, OK, that's I mean, so I went back to Aaron and said, OK, what do you think of the warlord set? Was a wedge set and Aaron goes awesome.</v>
+
+00:25:51.010 --> 00:26:21.480
+<v Speaker 1>So so the plan was that we wanted to because we were changing in the middle, we wanted the third set to be radically different from the first set. So if the first set was going to be wedges, that meant the third set should not be wedges. Because if they were wedges, if the first set was wedges and the third set were wedges, they just wouldn't draft very differently. The whole idea was the middle set meant one thing to the first set, but meant a different thing to the second set. You know, if we're going to change things up, you know, one of the things about changing up the third set was people get bored. Well, if they don't do wedges</v>
+
+00:26:21.570 --> 00:26:24.620
+<v Speaker 1>full time, they'll get bored. So like we wanted to change it up.</v>
+
+00:26:25.400 --> 00:26:55.930
+<v Speaker 1>Meanwhile, we were also experimenting with what we could do with wedges and we also figured out pretty quickly. So Shards of Alara. People think of Shards of Alara as being a Shard block, but really, really, really if you look at it, the first set is a shared set. The second set is a lot more of a five color set. And the third set, which is all gold, was more of a two color set. Now there's a little bit of three color in the second set and a little bit of three color third set. Although if you notice, we did last three columns the first set. So if you look at how much we did, there wasn't really enough to make</v>
+
+00:26:56.000 --> 00:27:27.280
+<v Speaker 1>the full block in which that was the focus. So we couldn't really do wedge for the whole block anyway. One of the reasons I was kind of excited to do it here was we had enough wedge to blow out a large set and maybe, maybe, maybe do a little bit in the second set. We had to figure that out, but we didn't have enough to do 2 large sets. So the idea was OK, we'll do 1 three color set of web set and they'll make the third set of two color set. And the idea that I was really excited with was doing an enemy color second set. The idea of the Dragons that were enemy colors. Because another thing people been asking for is Apocalypse was the only time we've ever done an enemy caller set.</v>
+
+00:27:27.380 --> 00:27:36.620
+<v Speaker 1>We've done a bunch of ally color Sats, but only one enemy color set and so on. OK, awesome. We'll do a web seminar. People been asking for a wide set. We'll end with an enemy color set and we'll do that.</v>
+
+00:27:37.490 --> 00:27:45.500
+<v Speaker 1>And so everything was Conan according to plan. I had worked with the creative team and we'd figured out the clans. We also had tweaked a little bit, so</v>
+
+00:27:46.640 --> 00:27:51.630
+<v Speaker 1>speed it says, well what did they change? Speed at one point to something else and we ended up changing it back to speed.</v>
+
+00:27:53.840 --> 00:28:23.240
+<v Speaker 1>They changed strength to savagery, They changed intelligence to cunning. They changed majesty to ruthlessness, endurance, date and speed. I forget at some point speed was changed, but the word they change it to was like a synonym for speed. So like, what's wrong with speed? Speed is a fine word. So we pretty much stays with speed and endurance and then tweak the other ones. The idea was they were trying to make me feel a little more dragony, you know, the cunning thoughts, a little different than intelligence. And they both were about smarts and ruthlessness,</v>
+
+00:28:23.320 --> 00:28:53.680
+<v Speaker 1>a little less looking, just majesty. It was like we're willing to do whatever it takes. We'll beat you by doing whatever we need to do. And then savagery and then played in the sense of strength, but the idea of we're bigger and faster and tougher and have that sense. So we figured that out. And so now we knew that we had our wedges to do. We're going to build into the enemy colors in the third set and we had all the pieces. We also remember we had morphed as the spine to run through it and that we had talked with the creative</v>
+
+00:28:53.760 --> 00:29:21.070
+<v Speaker 1>came about morph and the idea they liked was that it was some kind of draconic magic. And that the draconic magic, the humans that somehow adopted the draconic magic and maybe even it was this magic that they had adopted was that was the means by which they killed off the dinosaurs. That they had used this magic to their own ends and that that was what they had another dinosaurs, the Dragons that they killed off the Dragons with.</v>
+
+00:29:22.350 --> 00:29:44.560
+<v Speaker 1>So anyway, we had all the pieces. We had our five things that now it's just a matter of putting all the things together. So be aware that the I'm about maybe 3 months into design now. Like we knew we had our clans. We knew they had attributes to the Dragons, to them we knew as Wedge. And it was time to dig in and start to find identities for each of the sets.</v>
+
+00:29:45.270 --> 00:30:15.900
+<v Speaker 1>OK, but I've finished my first podcast. So I mean, I'm, I'm at the 30 minute mark. I've actually been at work for a little bit, but I, I, whenever I leave not from my house, I make sure to get my 30 minutes in. So you guys get a full podcast. But we leave today. Part 1 ends with we have the clans and we, the next step is to figure out how to get each clan identity. And so next time I will talk about that. So anyway, I'm in my parking space. We don't know that means, means the end of my drive to work. So instead of talking magic, it's time for me to be making magic.</v>
+
+00:30:15.990 --> 00:30:16.800
+<v Speaker 1>I'll see you next time.</v>
+

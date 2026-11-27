@@ -1,0 +1,320 @@
+WEBVTT
+
+00:00:00.910 --> 00:00:31.010
+<v Speaker 1>I'm pulling in the parking lot, we all know that means it's time for the drive to work and I had to take my daughter to camp again. OK, so last time we talked I started talking about the design of cons of Tarkir. Well today I'm going to continue that story and going to be continued for a bunch of podcasts. A lot of story to tell. OK so last we left we had come up with the clans. We had figured out they were tied to dragon attributes and we knew they were wedges, but we had left</v>
+
+00:00:31.080 --> 00:01:01.340
+<v Speaker 1>of there. That's what we knew. OK, a few things to recap that I forgot to mention last time. First off, my design team, some resign. I I was the lead of the team. I had Mark Gottlieb, Zach Hill, Adam Lee, Shawn Main, Billy Morano, and Ken Nagel. So Adam Lee was a representative from the creative team, Zach Hill was representative from the development team and at some point Zach became Billy. Zach left and Billy took over. So Zach and Billy were the respective development team members. Zach ended up leaving Wizards and so when he did</v>
+
+00:01:01.430 --> 00:01:31.710
+<v Speaker 1>really took over. And then Gottlieb and Sean and Nigel are all on my design team. I mean our designers, OK, the development team was Eric Lauer, lead Doug Buyer, Dave Humphries, Tom Lapilli, Sean Maine, who was the overlap, Adam Prozac and Adam Prozac. So usually we have one person who's on both the design team and the development team. And this particular case that was Sean. And then there is also a designer on the development team,</v>
+
+00:01:31.800 --> 00:01:34.320
+<v Speaker 1>in this case also Sean. Sean served both roles</v>
+
+00:01:35.840 --> 00:01:37.040
+<v Speaker 1>anyway and</v>
+
+00:01:37.850 --> 00:02:07.500
+<v Speaker 1>Doug Buyer would have been the creative Rep on the development team. So the famous coded Huey Huey Dewey and Louie. Which by the way turned out to be horrible, horrible code names for two reasons. One is they rhyme which makes them hard to remember for people. And 2nd is although there is an actual order, like if you actually watch Donald Duck and his nephew in cartoons, they always refer to them in the same order. But a lot of people didn't know that order. So people were constantly confusing what? Or was it Huey Louie, Dewey, Louie, Huey Dewey, Like Huey Dewey,</v>
+
+00:02:07.650 --> 00:02:10.080
+<v Speaker 1>Louie. So a lot of people eventually</v>
+
+00:02:12.620 --> 00:02:13.800
+<v Speaker 1>Huey Louie and Dewey</v>
+
+00:02:15.460 --> 00:02:31.010
+<v Speaker 1>I just messed it up here Lily in Dewey that way people remember him is the middle one was all and the last one was D for lunch and dinners. How people tend to remember it. So Huey Louie and Dewey. The other interesting thing about Huey, Louie, Dewey is they're all spelled differently that Hughes,</v>
+
+00:02:32.900 --> 00:03:02.850
+<v Speaker 1>they do Louis Lou, i.e. and Dewey is DW Y. They're all spelled differently than they rhyme anyway. A disaster. The funny thing is we've OK, we're not going to have rhyming names again. And then Lock and Stock and Tears and Fears both have rhyming names. So once we're done with those, no more rhyming names. But we still have a few rhyming names left in the system. So the set had 269 cards, 101 Commons, Adm Commons, 53 uncommons and 15 mythic rares. I'm sorry, 53 rares, 101 Commons,</v>
+
+00:03:02.920 --> 00:03:32.900
+<v Speaker 1>80 uncommons, 53 words, 15 mythic rares, 20 basic lands and the set came out in September 26, 2014. OK, so let's get back to the story. OK, so we knew we knew we had five clans that were wedge base. We knew we had morph. So one of the things that we wanted to do was I was really interested. I always talk about trying to get the right feel for the set. Well, I knew we were doing warlords, right. We were doing constant fighting. I really want to get the mindset of I'm, I'm in constant battle that</v>
+
+00:03:32.970 --> 00:04:02.730
+<v Speaker 1>I'm, I'm in this sort of war-torn environment. So I wanted a lot of sort of stress of the system and I wanted it to be very combat centric that, you know, if you were a warlord, you're constantly fighting just like no end to the fighting. It's just ongoing. And I was trying to recreate that. I wanted to get that warlord sort of sense of the sense of just constantly fighting. OK, so the first mechanic we came up with actually didn't happen during design. It happened during exploratory design. So once we knew we were doing morph,</v>
+
+00:04:02.980 --> 00:04:24.660
+<v Speaker 1>they asked the team, or I mean, I asked Ethan Shaw with the team, I asked the exploratory design team. Actually, that's a little unfair. I started with Ethan and Sean. I gave them assignments, and then Ethan and Sean quickly figured out that it was beneficial to get other people involved. So what happened was they would ask other designers or other people in our need to aid them, and those people would sort of rotate through,</v>
+
+00:04:25.990 --> 00:04:31.960
+<v Speaker 1>but they'd get other people to help them. And so even though Ethan, the ones that would meet with me, they had other help doing stuff</v>
+
+00:04:33.440 --> 00:04:40.040
+<v Speaker 1>and that idea of having a rotating cast actually influence how we now do exploratory design. So, but anyway,</v>
+
+00:04:41.350 --> 00:04:49.800
+<v Speaker 1>um, Ethan and John, I gave them the assignment. I said, OK, we know we want to do morph, give me some mechanics that play well with Morph.</v>
+
+00:04:50.690 --> 00:05:20.610
+<v Speaker 1>So one of the things that one of the things we realized is one of the fun things about morph is is there's a certain bluffing aspect where I attacked my Tutu creature. I have mana, so maybe my Tutu creature could be something, but you don't know. And what one of the things is, we wanted to give you reasons why you would attack with your creatures even though it wasn't necessarily beneficial for you to do so. And what I mean by that is that one of the fun things about</v>
+
+00:05:20.680 --> 00:05:51.080
+<v Speaker 1>4th is you can bluff with them. Like I could have a creature that I, even though I have mana, I can't turn it into anything that's going to cause problems for you. But you don't know that. Like one of the things that's very funny is a lot of people argue about how morph creatures. If you take a more creature and take it out of a color that can on morph it, that is just a Gray over, it's just a three man a Tutu. And my argument is no, it's more than that because your opponent doesn't know what the potential is. So it's a 22 creature with a threat,</v>
+
+00:05:51.210 --> 00:06:11.040
+<v Speaker 1>and even though even if that threat is something you know isn't real, your opponent doesn't know it's not real. So when I splash an off color and more, for example, when I put it on the battlefield, even though to me it's only a 22, I get benefit out of it beyond it just being a Tutu because my opponent treats it as a mysterious thing that could be something more.</v>
+
+00:06:11.870 --> 00:06:35.210
+<v Speaker 1>Anyway, what that means is one of the fun things is we wanted to give you motivation to attack for it to give a rationale why you might attack where it might not be what it would be. And so they came up the idea of raid. So raid was a mechanic, if it was called raid in exploratory design was mechanically just said I reward you for attacking. So raid is kind of like in the morbid school of mechanics, which says</v>
+
+00:06:35.900 --> 00:07:05.810
+<v Speaker 1>I something happened, provided this turn you've already done something, did something, died, something attacked, something must have happened. I have a bonus if something's already happened this turn. And so the nice thing about that is it encourages you to attack. And what it means is sometimes you're attacking not because it's beneficial to attack, because you're trying to get, because you're trying to trigger raid. And so it created this neat dynamic with morph where I would attack the more creature and you're like, oh, is that something for me to be afraid of?</v>
+
+00:07:05.910 --> 00:07:35.850
+<v Speaker 1>Are you just throwing it away to trigger raid? I didn't know. And it created an interesting things. So we knew we had raid, we had played with raid, we liked raid. So once we had ironed out all the remember we had five clans tied to the dragon aspects. So we had I didn't talk about which one was which. Let me talk about that for a SEC. OK, so I had the wedges and the question is which wedges should go with which attribute to remember? The attributes we were going for were speed, strength. I'm sorry,</v>
+
+00:07:35.960 --> 00:07:58.760
+<v Speaker 1>speed. Well, we would later change these words. At the time it was speed, strength, intelligence, endurance and majesty. And then later on, as I explained last time, strength become savagery, intelligence become cunning, and majesty would become ruthlessness. But OK, so we had these five new things. Who wanted to go where? So we knew,</v>
+
+00:08:00.250 --> 00:08:27.220
+<v Speaker 1>we knew that the red, black, white wanted to be pretty aggressive because red and white are the two most aggressive colors. And black is #3 you know, as far as attacking quickly. So I'm like, OK, well, these are the three colors that are the most aggressive and how quickly they attack, especially red and white. So like, OK, this wants me the aggressive course. OK, that makes sense to make it the speed color. Red, white, black will be the speed color. Oh, and another thing that went on is</v>
+
+00:08:29.490 --> 00:08:59.970
+<v Speaker 1>we had to figure out where to center the color. And this story had layers of on layers. So one of the things that happen is I had planned for the third set to be enemy colors. I love the idea of enemy Dragons. Like, you know, it's a world in chaos. Why not enemy colors working together? But then Eric Lauer came to me and explained the problem. So it turns out the way you draft a wedge set is you first draft enemy colors. The reason you do that is that you leave yourself</v>
+
+00:09:00.040 --> 00:09:30.000
+<v Speaker 1>when two possible plans. For example, if I draft red and blue, OK, I could still drop white and go to Jess guy. Or I could drive green and go to teamer. But if I draft blue white, well the only clan that is blue and white in is just guy. I mean, if I drop blue white I have only one option to me. So the correct way to draft a wedge set is to draft enemy colors. And so that meant is what? Because the development team wants to make sure there's always 10</v>
+
+00:09:30.290 --> 00:10:00.210
+<v Speaker 1>archetypes that you can draft in a wedge set. The backup would be the enemy color things. So the idea is that we would have 5 wedges and then five enemy colors. And that if you can't, you know, we would give you some enemy color support. Because I can go in two different wedges. And if you get in trouble, well, maybe you just stay with the enemy color, you don't pick a third color. But the problem was that meant that the set wanted an enemy color stuff in it and wanted to have a focus with enemy color. If the third set was all about drafting enemy color, Eric's complaint was it was</v>
+
+00:10:00.280 --> 00:10:21.690
+<v Speaker 1>too similar. You would start from the same place you would draft enemy colors. So Eric convinced me that I needed to go ally color. I was sad. I really wanted to end me color, but he his logic was very solid. Eric logic usually is very solid, of which we weren't really changing things. We were keeping things too much the same. So once we shifted Alli, I had a little problem. So</v>
+
+00:10:22.480 --> 00:10:52.370
+<v Speaker 1>if you one of the things I've the obvious place to center a wedge is in the enemy color. If you go back and look at the shards from shards of Alara, we centered it in, you know, the color that had two allies so banned from centered in white expert was centered in blue. The problem here was one of the things we wanted to do was we wanted to keep the aspect of the dragon all the way through. In fact, early on the idea was the clans were just going to be the clans. So for example, we'd have Mardu. That Mardu</v>
+
+00:10:52.470 --> 00:11:03.820
+<v Speaker 1>would exist all the way through. Just what Mark Murdough meant would change. So Mardu when it first comes out is white, black, red. And then when Mardu came out in the last set it would just be</v>
+
+00:11:05.320 --> 00:11:06.080
+<v Speaker 1>red, black.</v>
+
+00:11:07.200 --> 00:11:27.510
+<v Speaker 1>The problem was we didn't have official name for the wedges and one of the reasons we wanna do wedges was to give them names. So people had names for them. But we were then concerned that if we went to two color and we had something that was the names people would use for three color, being two color is going to cause confusion. And we really did want the names associated with the three color concept. So</v>
+
+00:11:28.690 --> 00:11:40.320
+<v Speaker 1>we ended up not doing that. So originally the original idea, by the way, was murder was going to go all the way through is gonna be the dragging of the aspects of speed and it's going to be the symbol of of</v>
+
+00:11:41.600 --> 00:11:50.410
+<v Speaker 1>the the wings. So the idea was we wanted consistency all the way through. The problem was if we went to ally colors,</v>
+
+00:11:52.860 --> 00:12:23.250
+<v Speaker 1>we had to take out the enemy. So for example, if Murdough was going to be in the first set and murder is going in the third set, the thing Mardu was going to lose was going to be white. And white is the enemy color. White is enemy of red and enemy of black. So we couldn't center the clans in their enemy color because then when we went to the end of it, like the idea was there's a consistency. This clan might change, might not be taken over by Dragons, But also it was still about speed, if still had a central identity to it.</v>
+
+00:12:23.400 --> 00:12:50.780
+<v Speaker 1>And we knew we had to remove the enemy color to do that, which meant we can't, we couldn't center the clan any enemy color. Now, when the first came out, people ask me about that because it's the obvious thing to do and people are like, why aren't you doing it? But I didn't want you to know where we were going with fragments of Tarkir. So I, I just could sort of say, well, OK, there's a reason. You gotta trust me, there's a reason. And the problem in general is people like knowing the reasons. People don't want to hear that there's a reason to come, but we can't tell you yet. So anyway,</v>
+
+00:12:51.850 --> 00:12:59.870
+<v Speaker 1>that was the major reason. There's a mother support, smaller supporting reasons, but the major reason was we knew we were pulling that piece out and we couldn't center on and then pull it out.</v>
+
+00:13:00.910 --> 00:13:08.210
+<v Speaker 1>OK, so we knew red, black, white was speed. That made the most sense. Next we were trying to figure out where to stick cunning.</v>
+
+00:13:08.850 --> 00:13:28.060
+<v Speaker 1>Well, cunning. The two colors that made the most sense for cunning were blue and white. And if you wanted to put in blue and white, then Jess guy was the only place. And we're like, oh, well, it does have a trickery aspect to it. Red is the color of trickery, Red and blue or trickery. So like, OK, you have the plotting and planning colors and the tricky colors. OK, that makes sense. So red, blue, white that could be conning.</v>
+
+00:13:28.760 --> 00:13:37.750
+<v Speaker 1>Um, we then looked at endurance and like, well, endurance has to be in white, white, white is the most enduring color and</v>
+
+00:13:38.690 --> 00:13:58.100
+<v Speaker 1>green is probably #2 as far as toughness, I mean, blue has some defensive qualities to it, but we've already done Jessica, which was blue, white, red, and there was no other blue white. That was the only blue white combination. It's like, OK, we can't have blue and white. Well, white is more defensive than blue. And probably next is green. And then we're looking at the last. We're like, well,</v>
+
+00:13:59.460 --> 00:14:03.940
+<v Speaker 1>if we if you went white green, the only choice then is to go with black. Like, well,</v>
+
+00:14:04.860 --> 00:14:09.100
+<v Speaker 1>black has some defensive qualities. OK, so we decided endurance, White, black, white, green, black.</v>
+
+00:14:10.340 --> 00:14:12.770
+<v Speaker 1>OK, that left ruthlessness and it left</v>
+
+00:14:14.680 --> 00:14:44.190
+<v Speaker 1>savagery. So ruthlessness. Well, clearly that wanted to be centered in black. And it turned out that the place they wanted to center it was in the jungle, kind of the themes they were playing off. It was these opulent golden palaces in the jungle. So kind of wanted this green quality to it. And like, OK, they also were pretty sneaky. So like black blue made some sense. They definitely were. Of all the clans, they had the most, you know, sneakiest quality to them. And they were manipulators. Like, OK, we'll make it black, blue-green. So that left the last</v>
+
+00:14:44.330 --> 00:14:51.990
+<v Speaker 1>strength for red. Green, blue-green being center of it made a lot of sense because green really is about sort of</v>
+
+00:14:52.650 --> 00:15:23.180
+<v Speaker 1>might makes right to a certain extent. And red made a decent amount of sense. Blue was a little bit tricky, but we said, you know what? Blue is about perfection. Normally we talk about mental perfection, but it's also about physical perfection. It's about making yourself the best you could be. These creatures are trying to survive in the harsh wilderness. OK. They have this certain physical perfection quality, not mental perfection, but a physical perfection. We don't play that aspect of the blue enough, but OK, it makes sense. So we had our connections and what we did is we send them or make sense. Speed got centered in red, so Marty was centered in red.</v>
+
+00:15:23.310 --> 00:15:53.270
+<v Speaker 1>Coming that centered in blue. That made a lot of sense. So Jessica was in blue. Ruthlessness got centered in black, that was salticids centered in black. Endurance got centered and white. So I'll Abzan was in white, made sense. And then strength was centered in green, so Teamer was in green. That all made sense. OK, now that we have those, we needed to figure out the mechanics. Sorry, go back to front. There's a lot. One of these are telling stories like this is there's so many layers to it that I start telling one part and one another part. And I got to explain this first and let's stick with me. OK?</v>
+
+00:15:53.340 --> 00:15:57.280
+<v Speaker 1>You know, we light raid raid made perfect, perfect sense in Mardu.</v>
+
+00:15:59.230 --> 00:16:14.220
+<v Speaker 1>So we stuck it there. It's like it's it's we knew that Mardu was gonna be tied sort of the Mongol flavor of just creatures on horseback with Archers constantly attacking. And anyway, we like that. It's the speed plan. OK, They will give them raids.</v>
+
+00:16:16.360 --> 00:16:18.870
+<v Speaker 1>OK, the next mechanic we came up with</v>
+
+00:16:20.770 --> 00:16:34.340
+<v Speaker 1>I think was I remember the order of this well early on we maybe Delve was next, so we knew we were doing ruthlessness. I so Delve had been made during future sight. I made it as a mechanic that was just,</v>
+
+00:16:35.010 --> 00:17:02.540
+<v Speaker 1>I was trying to explore different things we would do. I knew we would do other graveyard sets. I'm like, oh, I'll give you, I'll tease it. Graveyard mechanic. We made three delve cards. They were pretty powerful. So people really like delve there just enough of it that people could sort of connect to it. And so Delve is probably the mechanical getting the most requests for. I try to put an industry, but what I learned is Delve doesn't work in a graveyard set because it eats up all the graveyard and the graveyard set. You want the graveyard run to do cool things with.</v>
+
+00:17:07.900 --> 00:17:16.710
+<v Speaker 1>But it turned out that the Sultai messed around the graveyard and had zombies, and there's definitely a death aspect to them. Maybe they'll sense in black. So like, OK,</v>
+
+00:17:17.820 --> 00:17:29.390
+<v Speaker 1>Dell the first time around was in black and blue. OK, so why don't we, what have we made? Depth. So we went and talked to the creative team. They thought that Delta is a good fit and like, OK, we'll do Delve. So Dell's got added in.</v>
+
+00:17:31.690 --> 00:17:36.380
+<v Speaker 1>That was an interesting place where in general we tend to do,</v>
+
+00:17:37.600 --> 00:18:07.980
+<v Speaker 1>when we do clans like this, we tend to do newer mechanics we already bring back more. So I didn't need to bring back mechanic, but I feel the features like mechanics aren't really bringing them back. I mean, obviously the public seeing them, but we've given you 3 delve cards in the existence of Delve. It's not a lot of cards. I'm like, well, in some level we're really giving to you for the first time. I'm understanding we gave you a sampling of it before, but never in great volume. You know, it was hard to make a delve deck with three cards and now, and now we're giving you more. Plus we're also extending into green because we're, you know, insulting.</v>
+
+00:18:08.280 --> 00:18:09.580
+<v Speaker 1>So anyway, we bring Belt back</v>
+
+00:18:10.710 --> 00:18:12.680
+<v Speaker 1>next I think.</v>
+
+00:18:14.460 --> 00:18:17.270
+<v Speaker 1>I think next was Prowess.</v>
+
+00:18:17.970 --> 00:18:26.580
+<v Speaker 1>So prowess originally I we were trying to find a mechanic that was sneaky. We liked the idea. Remember</v>
+
+00:18:28.170 --> 00:18:40.820
+<v Speaker 1>one of the things in general that we were trying to do was get as much combat oriented stuff as we could. Raid obviously comment oriented delving that necessarily combat oriented, although we we made a bunch of cards that could be used in combat.</v>
+
+00:18:42.200 --> 00:18:57.060
+<v Speaker 1>So we were trying to figure out I wanted just so just guy was based on the, the, the, the saltie monks, the, the, you know, monks, you know, the Kung Fu monks up in the temples and, you know, learning the ancient ways and this and that.</v>
+
+00:18:58.370 --> 00:19:03.730
+<v Speaker 1>And so we were trying to figure a way to make them sneaky but have a combat element to them.</v>
+
+00:19:04.410 --> 00:19:05.100
+<v Speaker 1>And then</v>
+
+00:19:06.570 --> 00:19:37.160
+<v Speaker 1>I came up with the idea of or well we'll get to this in a second. I thought it came to me, what if we did a mechanic that just one new to play spells that every time you played a spell, the creature got a little boost. And so the idea originally was OK, the scripture is still on this one whenever you play a spell. And we tried that and it was a little too strong. So then we came up the idea of, because originally the idea was we're going to do 5 mirrored mechanics in Dragon shark. Here we do 5 mechanics and then</v>
+
+00:19:37.260 --> 00:19:59.540
+<v Speaker 1>those mechanics would be mirrored in some way so there would be a tie between them. So the the speed mechanic of the first set and the speed mechanic of the third set would have a mechanic that was sort of connected between them. The original idea, we would later realize that it was too close, that what we wanted to do was 2 mechanics that were synergistic with each other but not that were directly tied because we wanted to feel dragon, feel different.</v>
+
+00:20:00.860 --> 00:20:30.430
+<v Speaker 1>But anyway, we broke it up into two parts. 1 was plus 1 + 1 whenever you cast a creature and plus 1 + 1 whatever was a non creature. And I decided I wanted to start with the non creature and we've saved the creature one for Dragons then getting dropped ever done. And we played with it and it was really, it played really fun. It's one of those mechanics on the surface seemed like it wouldn't matter that much. And when you started playing it like it matters quite a bit. It's actually a pretty good mechanic.</v>
+
+00:20:31.510 --> 00:20:52.060
+<v Speaker 1>And So what happened was we're playing this game. So one day we're having a play test. And John Logs was, was working at Wizards of the time in our digital department at in R&amp;D. And he had played tested. He looked at the fire or something and he said, oh, I'm so excited. He used and he named some names, the mechanic and I go, oh, it turns out that in the great designer search 2,</v>
+
+00:20:53.840 --> 00:21:24.110
+<v Speaker 1>John had turned into mechanic that was similar to process, very similar to progress. And I'd given him a note saying, because he had he had much bigger reward. And I know it was, you know, it could just be plus one plus one. That would be fine. And so obviously it was implanted in my brain when I saw an opportunity, I made use of it and then forgot this where I got it from. And so he's like, Hey, you use my mechanic. I'm like, yes, we did. So the John love special promise. And by the way, we had such promise. Promise proved to be such a cool mechanic through design. Through development</v>
+
+00:21:24.220 --> 00:21:42.210
+<v Speaker 1>it became clear that it was solving a bigger meta problem. One of the things that imagines that we always trying to solve is blue has lacked having a creature combat mechanic. Blue in general has always been shy creature mechanic. It doesn't have an overlap with the red and it needs something that's creature oriented and prowess is like</v>
+
+00:21:43.020 --> 00:22:02.100
+<v Speaker 1>works in blue. In fact makes a lot of sense in blue Blues. The spell carbon water for spells is good. It's a combat mechanic. We've been looking for a combat mechanic for blue and it's one that's really flavorful and makes sense in blue and blue and red Donovan overlap and makes a lot of sense to stick to some red. So like process was the perfect answer. Now we figured this out</v>
+
+00:22:03.980 --> 00:22:05.000
+<v Speaker 1>before</v>
+
+00:22:06.430 --> 00:22:36.710
+<v Speaker 1>I mean long for you guys saw it a lot. I said, well, what happens if it would come out and we didn't like it. You know, the audience didn't like it like well, we have a lot of faith. We play something we really like it. We have a good sense that, you know, we're we're magic players too. So we thought it was going to be a big hit. And in fact, process is interesting. So we do 2 marker, we do market research on our status. We do two different ones each sat one. That kind of want comes out one little bit later. And when we did the test for the first seven first came out, prowess was fit 5 out of five of keyboard</v>
+
+00:22:36.790 --> 00:23:03.800
+<v Speaker 1>mechanics of the clan mechanics. I'm like, ohh, you know, could we knew we had already advanced this. And then the next one it was I don't #2 maybe. And then once we got to fiber Forge, it was like the number one clan mechanic. So it was a it like definitely with time really grew with people. Once people the 1st and pray as mechanics, the first impression is like there doesn't seem anything special and you play with it and you're just you're really wild by all the cool things it does is really a neat mechanic.</v>
+
+00:23:04.490 --> 00:23:34.440
+<v Speaker 1>OK, so we had prowess. Next we messed around. We wanted something that dealt with things being big in timer. It was a strength. It was a strength plan. So we wanted to mess around with something that had to do with OK, things are bigger. And So what we did was we said, OK, what have we just cared about you having something of a certain size? Naya in the Shard we had did with back in charge of Lara. Naya had a mechanic that kind of cared about having 5</v>
+
+00:23:34.510 --> 00:23:50.930
+<v Speaker 1>creatures. It wasn't a named thing. So we decided that we would do something, make it a little bit smaller and name it. So originally it was 3 power greater and then in development it turned out through with a little too easy. So they change it to four power and even called ferocious.</v>
+
+00:23:52.860 --> 00:23:53.630
+<v Speaker 1>What do we call it?</v>
+
+00:23:55.900 --> 00:24:23.470
+<v Speaker 1>We called it power up the outlet, which I'll get to in a second. Plays called Hunker down and this we called power Power up, I believe probably by the way, was called Kung Fu Indesign Raiders raid and delves down because it was returning mechanic. OK, and by the way, because we had problems called Kung Fu, we had a lot of silly Kung Fu name like everyone's Kung Fu fighting and stuff like that. OK anyway</v>
+
+00:24:25.030 --> 00:24:56.160
+<v Speaker 1>so ferocious that right Ferocity froze hold on it was called ferocious. Ferocious was fine. It just cause it's sort of said hey you need to just get a big creature in play and will reward you. One of my favorite interactions, by the way, was there's the interaction where you could have Ferocious and Prowess as the Prowl creature was 3 power and you casts A Ferocious spell. It would make it go to four in such</v>
+
+00:24:56.230 --> 00:25:14.170
+<v Speaker 1>and that when we resolved, it would trigger the Ferocious. That's a great combo. Anyway, I love that. One thing that's fun is when you make different factions is making sure that you create cards so the different factions work together. We'll get there eventually. OK, so we got Ferocious. We played with that. The last mechanic was we were trying to get for</v>
+
+00:25:15.550 --> 00:25:43.930
+<v Speaker 1>Robs on was the endurance mechanics. We wanted something that sort of said, OK, I'm playing from a long game. You know, I'm, I'm the slowest of the five decks of the, of the, of the wedge decks on the endurance deck. I'm going to laugh at you. I'm going to be the slowest deck. And so we like the idea of something that got strength over time. So the original version of Outlast was called Hunker Down was you could choose to not attack and if you chose to not attack</v>
+
+00:25:45.430 --> 00:25:55.890
+<v Speaker 1>cracker block, you could choose to not attack or block and then you would get a + 1 + 1 counter. Eventually we made you tap it because it was confusing.</v>
+
+00:25:56.650 --> 00:25:58.220
+<v Speaker 1>It was confusing that</v>
+
+00:25:59.640 --> 00:26:02.820
+<v Speaker 1>you couldn't block. You had said it can't block, but then it still has untapped</v>
+
+00:26:05.320 --> 00:26:14.910
+<v Speaker 1>and eventually tapping at the same time as attacking caused confusion because you thought it was attacking. So then development I think ended up doing it at the end of turn</v>
+
+00:26:17.020 --> 00:26:40.940
+<v Speaker 1>and and then it just turned into a tap. Like anytime you want, you can tap this, you obviously can't attack with it and do it. So functionally this replace tapping. And then the other thing that Eric really did was outlast. Originally there wasn't a lot of reason to play them together. In fact, there's a reason not to play them together because most of them required mana to use the Outlast and you only had so much mana. So</v>
+
+00:26:41.940 --> 00:27:09.340
+<v Speaker 1>Eric was trying to figure out how to get people to play in Amazon to get more of a mechanic in it. And so he's selling across the idea of making plus 1 + 1 counters matter. So the outlast gets plus one counters on your creatures and then they make they make it matter. So the reason your mom played a lot of outlast creatures is, well, this one says I get out last and I get a bonus, I get lifelink or something if I have outlast. Oh well, I have a bunch of creatures and upgrade all of them, then my bonuses little applied to each one of them.</v>
+
+00:27:10.350 --> 00:27:10.850
+<v Speaker 1>Um,</v>
+
+00:27:12.030 --> 00:27:13.840
+<v Speaker 1>OK, so</v>
+
+00:27:15.360 --> 00:27:45.090
+<v Speaker 1>we messed around the the team or mechanically messed around a lot with, and we messed around a bit with the OBS on mechanic. Now that I think of it, I'm not sure whether Outlast or Ferocious was 51 was fourth, one was fifth. I know we talked a lot with development. One of the things that we do now is we will meet with development part way through and show the mechanics and just get general feedbacks. Like Eric was concerned about the Outlast ones not linking with each other. Like I said, they got fixed in development.</v>
+
+00:27:46.300 --> 00:28:00.680
+<v Speaker 1>There are a bunch of other things. Eric also, I know with prowess he thought this one might not be enough. So they changed it to +2, +2 for a while in development, and then they discovered how plus 1 + 1 was much more potent than it seemed at first blush. Plus it was 2 was kind of crazy.</v>
+
+00:28:02.740 --> 00:28:32.510
+<v Speaker 1>OK, so I'm almost to work. So so we had in mechanics, we ohh. The next thing we needed to do was we needed to figure out the flavor. So one of the things we were doing was we were telling a time travel story. So we wanted to make sure that our set played into the tropes of time travel. What that meant was, well, it was present, then it was the past and there was an alternate present. And so we wanted to make sure that as we were doing that, that we</v>
+
+00:28:34.040 --> 00:29:03.770
+<v Speaker 1>we could make there was a correlative thing that would be fun. Like we knew, for example, that if you're going to present to the past, what you could do something and you could see it in the past. Now, originally we were doing this. I think our scope of what the time difference between the present and the past was a little closer. And then development team from the creative team figured out ended up being over 1000 years. Like, oh, OK, but there's still things we could do. You could have a fresh building that's in ruins. You could</v>
+
+00:29:03.900 --> 00:29:04.660
+<v Speaker 1>have</v>
+
+00:29:05.720 --> 00:29:20.290
+<v Speaker 1>a creature that lived a long time like a tree folk or something or a giant turtle. So we came up with a whole bunch of different things that we thought would be connective tissue and the connective tissue, some of it was here's present day things that go to the past with</v>
+
+00:29:21.530 --> 00:29:31.070
+<v Speaker 1>paper forged. Some of the things we're here to present day to go to alter reality. So you can see the officer with Dragonstar Care some that were going all three. So you can see the contrast between the three.</v>
+
+00:29:33.130 --> 00:29:33.820
+<v Speaker 1>But anyway,</v>
+
+00:29:35.880 --> 00:30:06.810
+<v Speaker 1>we, we implanted that stuff and we talked with the creative team and we brainstorm a whole bunch. They brainstorm a whole bunch. And so we, we included a bunch of that stuff. The other thing that's really important was trying to figure out how to weave Morphin carefully. Some of it was choosing mechanics that that made sense. Oh, let me talk another important discovery of morph. So one of the things that I I talked about this was there's big discussion when we first, Eric and I first sat down of whether or not we wanted to change more.</v>
+
+00:30:06.890 --> 00:30:13.140
+<v Speaker 1>Should more be two mana, it would have a new name. When we called morph it be we were calling it Borf, which wouldn't be the real name</v>
+
+00:30:15.090 --> 00:30:41.720
+<v Speaker 1>or whether it wanted to stay the same three man. And so, um, Eric originally said three mana and then late in the process had second thoughts and we were doing so well in design that we said, you know what, let's do an experiment. So we spent going to be a month into being about six weeks. We made a parallel file We called Fooey. He that's the fourth in the comics with he doing Louie, Huey, Louie and Dewey. I see how hard it is even I mess it up and I know him.</v>
+
+00:30:43.630 --> 00:31:13.740
+<v Speaker 1>Every once in a while the artist would draw a fourth duck by mistake. And it happened enough that they had an in joke name for the 4th doc, which was Fooey. So anyway, what we did was we made a parallel version of the file, changed all of the morph cards into Borf cards, then adapted them to make sense for them being that, then change all the file around it to match that. And then tried playing with that. And we learned a lot of things, and a lot of things we learned got applied to the design. But in the end it became clear that the problem with Borf was</v>
+
+00:31:13.860 --> 00:31:44.950
+<v Speaker 1>it was so much more efficient that you just played every Borf creature you had. And most of the time you were just smashing Borf creatures and breaches and nobody was turning them face up. Like the fun of morph is you get to turn face up. What is it odd to this? And some of the time it doesn't get turn face up, but the majority of time you get a the a lot of the more features are in Borf world. You always never saw it. They were just image, just colors through tutus that people were smashing into each other and it really was losing some of the specialness and that it did make the cars a little more playable and constructed,</v>
+
+00:31:45.050 --> 00:32:00.800
+<v Speaker 1>but it was losing what made it special. And so part of any mechanic is trying to hold on to what makes the mechanic special. And so we wanted to make sure that that that more for doing what Morph wanted to do. So we ended up not changing the BORF. We didn't do the play testing to look to figure it out</v>
+
+00:32:02.310 --> 00:32:32.360
+<v Speaker 1>anyway, so we had her five mechanics. We knew we were playing with morph we knew. So we the next step and we'll talk about this next time is we had a lot of flavor to layer in. We had a lot of stuff to work in. We have sort of our skeleton, our mechanical skeleton and a lot of the pieces, however, is going to come together. But this set had a lot of flavor in it and we had a lot of work to do to sort of get there. So next time I will talk about what we needed to do start getting the flavor in the set. And probably by next time I will get into</v>
+
+00:32:32.470 --> 00:32:42.420
+<v Speaker 1>start getting into the cards, the cards. But anyway, I'm in my parking space. We all know that means means is that in my drive to work? So instead of talking Magic, it's time for me to be making Magic. See you guys next time.</v>
+

@@ -1,0 +1,380 @@
+WEBVTT
+
+00:00:00.840 --> 00:00:09.230
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time for him to drive to work. And I still have that cold, but I'm, I'm, I'm persevering.</v>
+
+00:00:10.250 --> 00:00:25.990
+<v Speaker 1>OK, so today is another in my series, 20 years, 20 podcasts. We are up to lesson #19 almost done until the lesson #19 is your audience is good at recognizing problems and bad at solving them.</v>
+
+00:00:27.170 --> 00:00:57.100
+<v Speaker 1>So the interesting thing about this lesson was every other lesson that I gave during my speech, I had hit upon sometime in my writing or my podcast was, you know, I had hit upon them. If you actually were a regular listener of me, a reader of me, when you saw my 2020 years, 2020 lessons, most lessons you've heard me talk about somewhere else before. This was the one lesson that I had not mentioned before. It's a very specific one, very technical one. I was doing a technical talk. So this is not something that come up</v>
+
+00:00:57.170 --> 00:01:07.050
+<v Speaker 1>or and some people I know we're a little taken aback. What do you what do you mean the audience doesn't know what they're saying? And so let me explain a little bit what I mean by that.</v>
+
+00:01:09.940 --> 00:01:19.050
+<v Speaker 1>One of my jobs is I am a spokesperson for Magic. I've done a whole bunch of different podcasts about it. But the short version here is</v>
+
+00:01:20.700 --> 00:01:38.630
+<v Speaker 1>I am on multiple social media. I have a Twitter account that has like, I don't know, 75,000 plus followers. I have a Tumblr account where my blog is that I answer questions every day and that has like 25,000 followers on it. I have a Google account. I have an Instagram account</v>
+
+00:01:39.860 --> 00:02:10.140
+<v Speaker 1>and on so basically I do a comic, a daily comic called Tales from the Pit that every weekday that I put on all those channels. I have a poll that I do on my Twitter thing, obviously answer questions in my blog on Tumblr. And I write an article every Monday on the website called Making Magic. And I linked to that through my various online media stuff. And then on Fridays I have a podcast,</v>
+
+00:02:10.270 --> 00:02:40.220
+<v Speaker 1>assuming you guys know that to listen to it. And then on Fridays that gets posted 2 episodes, 2 episodes per week. And then on the following Monday with my column, the gets linked again. Now beyond just that, beyond the social media stuff, I do a lot of video work. I record a lot of stuff. I also travel some. I do a live thing called Blog Live. I do it every year, Senior Comic Con, usually one other event I've done a packs, I've done it Hascon. This summer I'll be doing it at Grand Prix</v>
+
+00:02:40.370 --> 00:02:55.540
+<v Speaker 1>ah Las Vegas, because we're doing a big 25 year celebration that I'll be at and that's where I asked the questions live. Where I'm not, it's not filtered at all because when I answer them online, I could pick and choose what I want. Dancer Live. I have to answer what gets after me</v>
+
+00:02:56.920 --> 00:03:27.950
+<v Speaker 1>and I do a lot of interviews. I'm being interviewed all the time, some of which are audio, some are video. But anyway, I interact with the fans a lot. I do a lot of outreach. And it's not just a matter of me talking to the public, it's me getting to places where the public can talk to me. The public can ask me questions or tell me things. Like one of the things that happened on my blog all the time is people don't even post questions. They're just like, I have something I want you to know and I will tell you. And so I get a lot of feedback.</v>
+
+00:03:28.060 --> 00:03:46.750
+<v Speaker 1>And for the regulars, there's no that I consider that feedback to be like a really, really important part of my Java tool of my job, because fundamentally my job is to make sure that we're making things that you all want. Well, how do I do that? How do I know that a big part of that is just listening to you and having you tell me what you want.</v>
+
+00:03:48.060 --> 00:03:59.520
+<v Speaker 1>A lot of this lesson talks about the that the audience themselves is a tool, a valuable tool. So the metaphor I use for this, for this lesson, was going to the doctor.</v>
+
+00:04:00.670 --> 00:04:09.500
+<v Speaker 1>So you go visit the doctor. What is the first thing the doctor does? The doctor says to you. How you feeling? Tell me about you</v>
+
+00:04:10.510 --> 00:04:38.060
+<v Speaker 1>now obviously the doctor will check you out, but doctor will listen to your heart and look look at your ears and you know he'll check you out. But he doesn't stop at just checking you out. The first thing he does is inquire from you how you're feeling. And the reason is that doctor understands the following thing. You are the expert on you. You know how you are feeling better than anybody else. If you have a problem or are in pain or if there's any issues that you have,</v>
+
+00:04:39.240 --> 00:04:59.260
+<v Speaker 1>you're the one that's gonna know it best. So the doctor comes to you as you are, the expert of you. But once the problems are described, he doesn't ask you how to solve the problems. He solved the problems. Why does he solve the problems? Well, he's the one that's trained in in medicine and you're not.</v>
+
+00:05:01.190 --> 00:05:24.400
+<v Speaker 1>So part of what I'm trying to say with this lesson is a couple things. One is there are some training that goes into it that one of the things I've learned like before I was a game designer, I was a television writer. And what I discovered is when you work in some sort of creative thing that's entertainment based and your audience, you are</v>
+
+00:05:25.350 --> 00:05:55.840
+<v Speaker 1>entertainment to your audience, meaning that they absorb a lot of it and that you're something they enjoy. When they spend a lot of time with that, there becomes this belief that, well, they could do it, that ohh, I could write a television show. Oh, I could make a game. And usually my response to that is, well, if you think you can try making one because what you will find is there's a lot of craft that goes into it. A TV show you might watch, you're like, for example, might, might. My example here is I've been driving a car</v>
+
+00:05:55.910 --> 00:06:25.970
+<v Speaker 1>how for about 34 years. Um, I'm familiar with the car. I have a general sense of cars. I have some idea how cars work. Could I fix the car? No, you know, I mean, other than really minor issues, I can't solve the problems with my car. It's not that I'm not used to cars. It's not that I don't interact with the cars. I literally am in a car about an hour a day every day. I mean, I, I drive a lot. I, I know my car. That doesn't mean I can fix my car because the act of making a car</v>
+
+00:06:26.070 --> 00:06:56.750
+<v Speaker 1>is very different than using a car. And that is true for games and other creative endeavors that somebody can play your game and enjoy your game, but that doesn't necessarily they understand the underpinnings of the game. And there's a bunch of reasons for that. One is there's a craft that goes into it that they might not know. Now, I personally, one of my goals has been to share the craft of magic design with the audience. You know, if you want to design your own magic stuff and you want to understand the craft of magic design. I'm not exaggerating.</v>
+
+00:06:56.820 --> 00:07:00.660
+<v Speaker 1>I've written millions of words on this topic</v>
+
+00:07:01.940 --> 00:07:31.180
+<v Speaker 1>between, you know, between my podcast and my column and my blog, and I've generated millions of words, millions of words on the topic. So if you want to know how magic is made, there is a lot of education you could do. And one of the things is really interesting, like doing something like the great designer search is seeing people who really have studied it, who really have said, I want to understand the craft of magic. And the key, by the way, to understanding the craft is not just reading about it, but actively doing it.</v>
+
+00:07:31.950 --> 00:07:37.370
+<v Speaker 1>So there are a lot of educated, in fact, there, there are probably more educated Magic players than there are</v>
+
+00:07:38.650 --> 00:07:43.790
+<v Speaker 1>a lot of other things because I've spent a lot of time energy educating the Magic public, but</v>
+
+00:07:45.190 --> 00:08:14.780
+<v Speaker 1>I don't educate them on everything. And there's a couple reasons for that. One is there's a lot that goes into making Magic. I, I did a whole podcast once about all the different people that you have to deal with when you're making a design that there's developmental issues, there's art issues, there's story issues, there's templating issues and editing issues, there's rules issues, there's digital implementation issues, there's tournament implementation issues, there's brand issues, marketing issues, there's sales issues. There are</v>
+
+00:08:14.850 --> 00:08:33.090
+<v Speaker 1>printing issues, there's endless number of issues. You know that when you make a magic set, there's so many different people you have to interact with. And I've shared with you as much as I can sort of the stuff I do, but that's not all the stuff that gets done on magic. So here's a good example of something where</v>
+
+00:08:34.310 --> 00:09:04.570
+<v Speaker 1>this didn't come up until it came up. Like it's something that I knew, but until there was a moment to explain that, I never had a reason to explain it. So they were middle of Pharaohs, I believe. And there are gods. There's a whole bunch of gods. In the first set, there were five monocolored gods, kind of the major. They're like major gods of minor gods. So the five major guides each had an artifact. Yeah. A hammer, a bow, a a whip, you know, And these were powerful, you know, God created artifacts.</v>
+
+00:09:04.680 --> 00:09:24.810
+<v Speaker 1>So because in Pharaohs, the gods were all enchantments in addition to other things that these were enchantment artifacts. And a lot of players complain that we didn't make them equipment because they owe us a hammer. Why can't I give the hammer to my my goblin? And what the answer was is it didn't fit on the cart type line.</v>
+
+00:09:25.750 --> 00:09:56.000
+<v Speaker 1>And they came back and they said, ohh, well, that would be so many letters. But wait, here's a card. You printed this card and this had that many letters. So why can't you do it? And then I had to explain typography. When you print stuff, letters have a width. All letters are not equally distant. They're not the same width. For example, an L is skinny and M is wide. You in fact can have 3L, so you could have one M. And so the point I made is the other thing that we were able to print</v>
+
+00:09:56.100 --> 00:10:05.290
+<v Speaker 1>just had skin your letters. Yes, they have the same number of letters, but the issue in topography isn't the number of letters, it's the total width because you're fitting it into a space.</v>
+
+00:10:05.950 --> 00:10:36.080
+<v Speaker 1>Now, my point there is that's something that we as a business have to care about. I don't really think about that until it matters, like until the editing team comes to me and says, hey, it just won't fit. We need to adjust this, you know, then we adjust it. It's the kind of thing that until somebody asks me about, like when I'm explaining how I do my job, that's and that is a relevant thing that will have an impact every once in a while on what I do. But yeah, I never mentioned before because it's</v>
+
+00:10:36.150 --> 00:11:06.130
+<v Speaker 1>never came up in the context. So a, there's things that I'm willing to explain but just haven't. Some of it has to do with areas outside of expertise. Some of it has to do with just, hey, I never got there. It's a narrow situation that doesn't come up much and I never happen to get there in any of my writing. And another thing is there's proprietary information. Like there's things we do, like I talk a lot about collation. I mentioned the concept of collation, but I don't mention the details of collation. That's proprietary. You know, we don't want people to know how we collate things.</v>
+
+00:11:06.210 --> 00:11:36.570
+<v Speaker 1>So I'll give you the gist of what we do, but not the details of what we do, but that that matters. So for example, when I'm making a set, collation will directly impact what I can do. How I can get the cards in the pack or how it can lay them out matters on how the set is built. Like, like even how many cards are in the set has to do with how we collate it. So like there's information that's super, super important, but it's not something the audience knows. Then another big category would be the future. We're designing cards not in a vacuum,</v>
+
+00:11:36.650 --> 00:11:57.490
+<v Speaker 1>that's not in a vacuum, but in an environment and you guys might know what precedes it, but you don't know comes after it. The classic example of this would be we had made a sequel, Shadows of Industrywide that had a strong graveyard component that set the follow that was Kaladesh. Traditionally what we do is we give answers in the following set, following block to the block before.</v>
+
+00:11:58.680 --> 00:12:21.620
+<v Speaker 1>But we didn't we didn't really give a lot of graveyard answers to Kaladesh. And the reason we didn't was the set after Kaladesh, Amonkhet again had some graveyard elements that we were trying. We were trying this experiment where blocked 22 apart from each other, repeated themes. It didn't work out great. But anyway, because of that, we didn't want to sort of undermine an upcoming set. So</v>
+
+00:12:23.070 --> 00:12:28.480
+<v Speaker 1>would you like he was yelling us? How could you not do thing X is because well, because of reason why that you don't know.</v>
+
+00:12:29.650 --> 00:12:44.270
+<v Speaker 1>So that's another big thing is that you know the audience does not have all the information. One of the reasons the audience can't always give answers that are crisp and clean, clean and clear is they don't know all the factors that are going into it.</v>
+
+00:12:45.700 --> 00:12:48.990
+<v Speaker 1>Now here's another one, which is what I call</v>
+
+00:12:50.340 --> 00:13:03.120
+<v Speaker 1>I, I, I, I I call player bias or it's really audience bias. It's true of any probably art, but I'll talk in terms of game design. And what I mean by that is Magic has many components</v>
+
+00:13:03.850 --> 00:13:22.490
+<v Speaker 1>that if you just take a Magic card for example, and chop it up into all its components, I don't there's like 20 components on a Magic card or something. There's a lot of elements to a Magic heart. Not every person cares about every facet of the card. For example, there are some people who the art,</v>
+
+00:13:23.140 --> 00:13:43.860
+<v Speaker 1>it's not they dislike the art. It's not that they don't, you know, if you took the pictures away, they might be unhappy. There's no pictures, you know? But the art is just like, it's the thing that helps me recognize the card. The artist. I don't know the artist is. I don't learn who the artist is. It doesn't matter to me. I just want the picture so I visually remember what the card is. But the artist isn't a thing to me.</v>
+
+00:13:44.520 --> 00:14:03.340
+<v Speaker 1>Meanwhile, there's other people who are the artists, the thing that really, really matters to them. And knowing who the artist is is super important. And whether let's say we have a car that's like a reference to an old card. The fact that we reuse the old artist is a big deal to them. And if we don't be something they would complain about and would lessen the card for them.</v>
+
+00:14:04.200 --> 00:14:11.060
+<v Speaker 1>So like here's an example of something in which for one person it's a giant deal, for other it's almost invisible because it's not something they care about.</v>
+
+00:14:11.710 --> 00:14:41.960
+<v Speaker 1>So in general, one of the problems that the not problem, but one of the issues the audience has is you have your own bias for what you how you see the game. And as far as you're concerned, that is what the game is. If you like playing a certain format or a certain way or care about a certain kind of card, that's where the game means to you. So when there's a problem A, you are more likely to identify problems in your area of expertise and when you go to solve them, you prioritize</v>
+
+00:14:42.060 --> 00:14:55.990
+<v Speaker 1>what you care about. So a lot of times way people will solve it is I care about thing AB or C. Well, there's an easy solution, but that easy solution assumes that that is the number one priority,</v>
+
+00:14:56.710 --> 00:15:26.720
+<v Speaker 1>you know, and I mean, it makes sense that people will prioritize their priorities. Why their priorities? But it also, when we are making a Magic sad, we have a lot of priorities that we have to deal with. There's a lot of players we have to deal with. And I can't just make one kind of player happy. I need to make all the players happy. And what that means is on any one card, I have figured out who that card is for and maximize it for that person. But on another card, I'm maximizing it for a different person.</v>
+
+00:15:27.070 --> 00:15:44.310
+<v Speaker 1>So when someone looks at a sad, what they're normally thinking, I mean, I've done a lot of education in some players get this now, but I'm not making every card for the same player. So if you look at every card and go, this card could be better for me. Yes, it could. There are things we could do that make that card better for you.</v>
+
+00:15:45.670 --> 00:16:01.350
+<v Speaker 1>So here's the classic problem we run into all the time. So there's a format called Commander. Commander has A1 character, a commander that's sort of the deck is focused through. And to pick a commander, you have to pick a legendary creature.</v>
+
+00:16:02.070 --> 00:16:31.920
+<v Speaker 1>So whether or not I make a creature legendary determines whether or not that creature can be a commander. OK, so let's say I make what we call a Lord, which is a card that makes a race better, makes a tribal race better racer class. So, you know, I'm have goblins better, I make birds better, I make merfolk better, you know that they they enhance in some way. So whenever we make a tribal Lord of some kind, there's pressure</v>
+
+00:16:32.020 --> 00:17:02.560
+<v Speaker 1>because if you want to make a deck about that tribe and you have something that can enhance them and that's thing stacks. Let's say it's plus one plus one. Well, I want to be able to get multiples in play. Let's say, Oh my God, get plus 1 + 1. Why I want to get four of those in play. Now all my gums get plus 4 + 4. But if I'm a commander player and I love goblins and I want to commander for my goblins, Hey, I wanna legendary goblin that has goblin that helps goblins. So right off the bat, here's the car to that. If I make it legendary,</v>
+
+00:17:02.630 --> 00:17:14.940
+<v Speaker 1>they make one group happy and make another group unhappy. But if I make it not legendary, I make the the other group happy but the first group not happy. I can't make everybody happy that there's decisions you make in the game that will go one way or the other.</v>
+
+00:17:16.020 --> 00:17:40.740
+<v Speaker 1>So one of the things as the game designer that you have to realize is it is your job to prioritize everything. That you have to look at all the players and all the things you're doing and make those larger priorities. Your player base does not do that. Partly they don't do that because they don't know everything. Probably they don't do that because that's not their priorities. And so one of the things when the audience is giving you feedback,</v>
+
+00:17:41.670 --> 00:17:51.450
+<v Speaker 1>they are not taking into account your priority. So here's another big one. For example, one of the things that most game designers have to worry about is the business. The business side of it.</v>
+
+00:17:52.120 --> 00:17:53.790
+<v Speaker 1>For example, in Magic,</v>
+
+00:17:54.820 --> 00:18:02.500
+<v Speaker 1>one of my jobs, in fact, a pretty important job of mine is selling booster packs. If we don't sell enough booster packs and don't make enough money,</v>
+
+00:18:03.210 --> 00:18:23.740
+<v Speaker 1>you know, we have to layoff staff. We have, you know, if we, if part of what we do is we're a business. And now one of my goals as someone who makes Magic is the reason I want Magic to sell so well is it's so much fun that people want to buy it. You know, a big part of my goal is to sell Magic is just make it so awesome that you, you, you want it.</v>
+
+00:18:25.130 --> 00:18:37.320
+<v Speaker 1>But there are other concerns that come up. There are other business decisions that get made. There are other things we do while we are prioritizing things like for example, I'll give a good example of this is</v>
+
+00:18:39.540 --> 00:18:51.660
+<v Speaker 1>maximizing resources. So for example, let's say I'm making a set and I feel I've gotten to the set to the point where it makes everybody happy. I have to be careful not to over stuff that set.</v>
+
+00:18:52.470 --> 00:19:18.660
+<v Speaker 1>Why? Because I have to make everybody happy on all sets. And if I have a lot of really cool things, if I put too much cool things in one set, that just makes the next set harder to make cool. So like one of the things that I'm constantly doing is I'm making sure that I'm managing our resources. Now, given I want to cross the threshold of making everyone static for the set I'm doing, I just don't need to go like once I'm above the line, I don't need to keep adding on top of that.</v>
+
+00:19:20.180 --> 00:19:51.630
+<v Speaker 1>Another good example is like with planes walkers. There's a lot of design space in planes Walkers that is yet untapped, but that's on purpose because it is one of our most popular and important card types. Like it is, it is by far the most popular car type from just a player excitement level. We don't make a lot of them and the design space is tight. So I've been really holding back and there's a lot of things we could do, but I'm trying to mine the space like here we have something that's a really important resource</v>
+
+00:19:51.730 --> 00:20:05.870
+<v Speaker 1>and I, I want to make sure that we're not burning through equity too fast. So I've been holding us back saying let's carefully advance. Let's like small advancements because I I want to preserve the design space now.</v>
+
+00:20:07.120 --> 00:20:33.910
+<v Speaker 1>When other people designing their own sets, do they worry about that? No, no, they don't. You know, I'm saying that that is something that is very business oriented and that the long term health of the game is something that really, really is important. Now, given if people understand some of these, I'm not saying that designers wouldn't follow that, but it's a complex thing and it's something that I briefly touch upon. But I it's much more important to me than it is to the average person because it's my job to make sure that,</v>
+
+00:20:34.570 --> 00:20:45.080
+<v Speaker 1>you know, I have years and years and years and years of magic that's to make that need to be awesome. And I can't do that if I just put all the awesome in one set and the other sets are like, not that good. I have to spread it around.</v>
+
+00:20:47.840 --> 00:21:17.800
+<v Speaker 1>So when I, when I say that the audience is not great at solving problems, I'm not dissing the audience. I know when I first said that some people like why you dissing? I'm not, I'm not, I'm not saying the audience isn't capable of understanding the game. I'm saying, I mean basically comes down to three things. One is there's some training they don't have. Second is there's information they don't know. And 3rd is there's biases that they have that there's no reason for them to lose them.</v>
+
+00:21:17.870 --> 00:21:31.390
+<v Speaker 1>I mean, once you're gonna make magic. I mean, if you're trying to make magic for fun and you wanna really, really make magic like we make magic, yes, at some point you have to understand your biases and move beyond them. But if you're just playing magic for fun, you don't need to play the part you like.</v>
+
+00:21:32.650 --> 00:22:02.600
+<v Speaker 1>There's no requirement that you play all the cards anyone sat find the cards you like, build the decks you like, play those things. You know, we, we, we create so much content so that people can hand pick what they do. The average person can do the things they enjoy. They don't have to do the things they don't enjoy. So a lot of these things of why the audience sort of gives answers that aren't the perfect answer is not a bad thing about the audience. It's just, hey, this is their their entertainment. This is something they do for fun.</v>
+
+00:22:02.920 --> 00:22:25.190
+<v Speaker 1>When is the job, you know, you have different like I spent a lot and my colleagues and we spend a lot of time worrying about the minutiae of minutia. Tiny, tiny things like the width of letters, you know, things that you guys really don't need to worry about, but that we do. And because of that, when decisions need to be made, when we're trying to solve problems,</v>
+
+00:22:26.560 --> 00:22:30.060
+<v Speaker 1>a lot of times the audience is just not going to understand that or not know that.</v>
+
+00:22:31.590 --> 00:22:46.350
+<v Speaker 1>OK, so let's get to the other piece. So there's another big piece. I'm talking a lot about the audience response. Let me talk a little bit about what this lesson is saying for you, the game designer. The real big lesson to me is one of the most important things when you're</v>
+
+00:22:47.160 --> 00:22:58.830
+<v Speaker 1>a creative of any kind or actually making, making things in kind, is you need to understand your tools, because a Craftsman is only as good as the tools they have access to.</v>
+
+00:22:59.640 --> 00:23:07.430
+<v Speaker 1>And one of the things that I'm trying to sort of illuminate with this lesson is your audience is a valuable, valuable tool,</v>
+
+00:23:08.380 --> 00:23:10.660
+<v Speaker 1>much like my doctor metaphor.</v>
+
+00:23:11.620 --> 00:23:18.710
+<v Speaker 1>If you want to know if they enjoy your game, no one's going to know whether the game is enjoyable more than the audience playing the game.</v>
+
+00:23:19.590 --> 00:23:45.470
+<v Speaker 1>Now you might say, but wait, I play the game. But you have saw in some level there's so many things you have to care about because you're so removed and you're you're caring about all the the minutiae. It is hard for you to sort of drop that information. You know, it's hard for you to have the first impressions. It's hard for you that you on some level because you've gained information to understand some technical stuff. It becomes harder for you to</v>
+
+00:23:46.350 --> 00:23:47.490
+<v Speaker 1>not see,</v>
+
+00:23:48.430 --> 00:24:07.670
+<v Speaker 1>you know, it's harder to to not see the forest for the trees. You know, that you're so holistic in what you're doing that sometimes it's, you know, one of the things I love about play tests is someone just go, hey, this makes no sense. You're like, yeah, that doesn't how did I not see that? Because I was just looking at things from a different vantage point.</v>
+
+00:24:08.990 --> 00:24:40.670
+<v Speaker 1>The example I give is I used to direct. I used to be a plate, right? And I have a direct. And one of the things that was really illuminating is having actors. Because you're actor is all about 1 character. And they're so focused on that one character and how that one character interacts with everybody else that they ask questions of you that are awesome that you never thought of. Because you, even as a playwright, don't, don't have the luxury to sort of isolate yourself in each character for as much as the actor dies, because the actor has only one character they have to care about.</v>
+
+00:24:40.830 --> 00:25:05.920
+<v Speaker 1>And they get to a depth that you don't normally get to. And they ask questions that you might not think about. And it's really interesting. And, and one of the collaborative elements of theater is that the actors really, you know, I love when the actors say I want to understand. And sometimes it's not even that you didn't think of it, but it reminds you that, like during the creation, you did think of it, but you sort of forgot that you thought about it, and it pulls things back out.</v>
+
+00:25:07.340 --> 00:25:12.690
+<v Speaker 1>So I want you to think of the audience as a valuable tool in your toolbox.</v>
+
+00:25:13.320 --> 00:25:16.430
+<v Speaker 1>They know things that you need to know,</v>
+
+00:25:17.250 --> 00:25:23.600
+<v Speaker 1>like your job in making a game is making something enjoyable for them. How do you know if it's enjoyable? You gotta ask them</v>
+
+00:25:24.220 --> 00:25:28.490
+<v Speaker 1>now. I talk a lot about play testing. Play testing is super valuable.</v>
+
+00:25:29.830 --> 00:25:35.360
+<v Speaker 1>If you are making something, you need to see the audience experience it as they're supposed to experience it.</v>
+
+00:25:36.590 --> 00:25:46.640
+<v Speaker 1>If you're making a movie, you have to show it to them as a movie. If you're writing a book, they have to read it as a book. If you're making a game, they got to play it as a game. That is super important and that</v>
+
+00:25:48.070 --> 00:25:51.270
+<v Speaker 1>part of of this lesson is that</v>
+
+00:25:52.760 --> 00:26:23.010
+<v Speaker 1>if you have an audience that plays your game, I understand if you're making a brand new game, you might not have this luxury just yet. But if you at all are making a game in which there's an active audience, you know that you can still make decisions while the audience can see things. Now in video games, there's a lot of they gonna change things on the fly, right? We don't get to do that in in a in a tabletop. But the idea is if this sword is too powerful, they can nerf the sword, They can make the sword worse, or they can make something better.</v>
+
+00:26:23.120 --> 00:26:31.410
+<v Speaker 1>They can change things as a game evolves to sort of help balance. They can balance things after the fact. So one of the things that's super important is,</v>
+
+00:26:32.590 --> 00:26:33.010
+<v Speaker 1>you know,</v>
+
+00:26:33.740 --> 00:27:03.910
+<v Speaker 1>understanding that your audience is available and then understanding what it is they're good and bad at. Your audience is going to have opinions. Now be clear. I'm not saying not to listen to your audience opinions. Like your audience will suggest things. I'm not saying you were supposed to ignore their suggestions. Mostly what I'm saying is their hit rate tends to be very low for the reasons I explained. You know, there's, they, they do not have all the information and they do not necessarily understand the craft and</v>
+
+00:27:04.010 --> 00:27:24.460
+<v Speaker 1>they don't know, they don't know lots of things and there's, there's minutia that they, you know, there's an inherent biases and all sorts of reasons why their answers usually aren't the perfect answer. That doesn't mean you should listen to their answers. Sometimes they do have a good answer. But what I'm trying to say is in general, having done this a long time and listen to a lot of players,</v>
+
+00:27:25.870 --> 00:27:36.840
+<v Speaker 1>usually the players don't provide the. I won't say they don't provide a solution, but they don't tend to provide the best solution, give them a larger issues at hand.</v>
+
+00:27:38.420 --> 00:27:44.060
+<v Speaker 1>And so one of the things that I'm trying to say to you, the game designer, is</v>
+
+00:27:45.220 --> 00:27:46.490
+<v Speaker 1>there is a reason,</v>
+
+00:27:47.870 --> 00:27:49.570
+<v Speaker 1>especially in the age of social media now</v>
+
+00:27:50.500 --> 00:28:20.830
+<v Speaker 1>you need to be familiar with your audience. You need to have a relationship with your audience. Make no mistake, the reason I'm so active in social media, I mean, hey, I'm inherently A communicator with my background, but more so than that, I understand the great value. Like one of the things, for example, at work is I'm known for being really in touch with the players. Now that's not, that's not like some inherent quality of me. It's not like I just intuitively know what the players want.</v>
+
+00:28:21.050 --> 00:28:36.920
+<v Speaker 1>I know the players want because I spend hours upon hours upon hours talking with them and listening to them and answering the questions. You know, The reason I know players are upset about something is a couple things. One is I've made myself available for them to talk to.</v>
+
+00:28:37.520 --> 00:28:44.370
+<v Speaker 1>So it's not just a matter of listening, it's also a matter of creating a relationship with them where they feel comfortable to talk to you.</v>
+
+00:28:45.950 --> 00:28:48.390
+<v Speaker 1>You know, I've spent years and years</v>
+
+00:28:49.730 --> 00:28:55.490
+<v Speaker 1>becoming this person that they know they can talk to so that they do talk to. And you know,</v>
+
+00:28:56.220 --> 00:29:21.440
+<v Speaker 1>I mean, be aware by the way, there's, I mean, the, the, the one side effect of being the face, if you will, is you will get all the feedback, the good feedback and the bad feedback. If they love something even has nothing to do with you, you will get credit for. If they hate something, even though it's nothing to do with you, you will get blamed for it because you are who they know. So you, you get the credit and you get the blame. By the way, my, my, my,</v>
+
+00:29:22.150 --> 00:29:31.920
+<v Speaker 1>my tip to you as someone who does this is share the credit. Meaning when they give you when, when they say wonderful things, try to share with them who</v>
+
+00:29:32.680 --> 00:29:38.910
+<v Speaker 1>who deserves the credit. Meaning share the credit and suck up the blame. Just takes the blame. Do not.</v>
+
+00:29:40.550 --> 00:30:00.610
+<v Speaker 1>If something is wrong, I'm sorry it was wrong. You know, in general, what I found is explaining that you didn't make the decision doesn't really it. It just comes across as you not wanting to own up to something went wrong. Except the blame. Share the credit, take the blame that that is. That is the harsh reality of being the face of the game.</v>
+
+00:30:02.490 --> 00:30:11.470
+<v Speaker 1>Get out there, interact with your player base and in what we call a communication called two way addressability, talk with them,</v>
+
+00:30:12.850 --> 00:30:35.960
+<v Speaker 1>meaning share information with them, get information from them and have a back and forth. Like one of the things I like to do my blog is I often, well, someone will ask me something, I'll talk about it and then that spurs other people to ask. And then I will purposely like, I like creating themes for the day where there's some topic that we get on that people get interested in. And I purposely sort of</v>
+
+00:30:37.020 --> 00:31:07.280
+<v Speaker 1>help promote that. Like that's the theme of the day. You know, I like sort of, ohh, we're talking about this thing. Well, that's really digging deep on this thing because I sometimes I'm like, oh, this is a cool topic. I wanna go deeper on it. Like one of the reasons I started my poll, head-to-head poll is I want people to get an opinions on what do you think on this thing? And I follow the polls definitely generate conversation. You know, some days I'm like, what do you like better A or B? And like people like, oh, and they really get into it and talk about it and, you know, we've made decisions.</v>
+
+00:31:07.480 --> 00:31:37.670
+<v Speaker 1>For example, does that come out called Dominaria? There's in it, there's wizard tribal. We care about Wizards. And that directly came about from I have done head to head on creature types and Wizards did way better than we thought it would. We're like, wow, people really like Wizards. And you know what? We haven't done that much wizard tribal. We've done some, but you know what? It makes sense in this world. People are showing they really are interested in it. Let's do it. And so, you know, while I'm trying to create entertainment, I'm also always looking for opportunity to gather information,</v>
+
+00:31:37.780 --> 00:31:44.240
+<v Speaker 1>to find ways to learn more things about my players. And then I apply it. So go out there,</v>
+
+00:31:45.530 --> 00:31:57.670
+<v Speaker 1>how much information you share about about your game is up to you. I obviously am in the far end camp. I share a lot about my game. Like I said, I've shared millions and millions of words about my game.</v>
+
+00:31:59.340 --> 00:32:29.330
+<v Speaker 1>I think there's a lot of benefit that comes with your audience understanding your processes and why you did things. The big game to me is that they have a much better appreciation of what you do that when you explain all the nuances, they get to see and recognize things that sometimes they don't. One of the things that happens all the time when I explain stuff is them going, oh, I never noticed that, but now that you pointed out, that's really cool. So one of the things about talking about what you do is there's some and increases the appreciation your items.</v>
+
+00:32:29.400 --> 00:32:31.660
+<v Speaker 1>As for the the game you're making</v>
+
+00:32:33.260 --> 00:33:05.390
+<v Speaker 1>Now, that said, you don't want to give away all your secrets. There's I, I talk a lot about the importance of discovery. I I'm not saying you wanna share everything. You know, we make a big deal to not tell you what the good cards are or letting you find Dax to find combos. We try not to sort of spoil the fun of you discovering things, but I do like to talk about sort of how things get put together, things that you would never you would never necessarily learn on your own. Those are good things to share where you know you're going to learn what the good cards are, what the best decks are. You're going to learn that. But how we put this mechanic together, you're never going to let me telling you.</v>
+
+00:33:05.490 --> 00:33:20.800
+<v Speaker 1>So that's good things to share. And in general, the other thing I find is the more you share with the audience, the more they share with you. For example, what I found in my blog is the more questions I answer, the more questions I get.</v>
+
+00:33:22.240 --> 00:33:53.750
+<v Speaker 1>Timing on a day-to-day basis. Like let's say I have a really busy day and I only get an answer like 10 questions. OK, I don't, I mean, I get because I always answer questions. I get questions, but I just get less questions that day. Meanwhile, let's say I'm out and about or I'm somewhere where I have a lot of waiting time because my kids are doing something. I'm sitting around and so I have opportunities to answer a lot of questions. I'll get, I'll just generate a lot more questions that day because they'll see I'm answering it. When you see them answering, you're most likely or, or even I prompt you, I answer a question that prompted you to ask me.</v>
+
+00:33:54.370 --> 00:34:12.380
+<v Speaker 1>Just the more I answer, the more people ask. So what I would say is you want to get out there, You want to share some stuff, internal processes that make sense for you. You want to sort of answer questions where you can, and you want to create a means by which your audience, you have a conduit, but which your audience can explain what they want.</v>
+
+00:34:13.630 --> 00:34:20.310
+<v Speaker 1>And the point of this rule today is the most valuable part of that is them defining the problems.</v>
+
+00:34:22.570 --> 00:34:44.860
+<v Speaker 1>The audience is really, really good at saying where they're happy and saying where they're upset. And when they're saying they're upset, they're really good at pinpointing why they're upset. I now sometimes, by the way, I actually dial back a little bit. Sometimes they're really good at saying what upsets him. And with a little bit of digging, you can find out why it upsets him. They don't always tell you up front why it upsets them.</v>
+
+00:34:46.250 --> 00:35:16.430
+<v Speaker 1>I get that a lot actually cause I just I've created a strong rapport with them, meaning I get more wise than I think the average person because of relationship I've I've created with my audience. Usually they'll tell you what they're unhappy with first. I don't like this thing, this thing in the game I don't like. You then need to work with them a little bit to understand why they don't always tell you why they don't like something. But with report you can get there. I have a pretty good report with my audience, and I've actually gotten point now where I've educated them to that I want</v>
+
+00:35:16.500 --> 00:35:39.610
+<v Speaker 1>the why. They're not doing something. You dislike something, tell me why you dislike it. Because the why and some level is even more important than the what because yeah, yeah, you can change the what. But if you don't understand the why, you might just recreate the problem. Understanding the why is understanding the source of the problem, not the result of the problem. And yeah, yeah, you can fix the result, but treating symptoms is not, you know, you want to,</v>
+
+00:35:40.800 --> 00:35:43.290
+<v Speaker 1>you want to figure out what is causing this. I think I said that wrong.</v>
+
+00:35:44.510 --> 00:36:15.040
+<v Speaker 1>You don't need a doctor. Isn't just like ohh you have splotches. What's causing those splotches? They want to get to the root of the problem and the same what you want to do. So when you get out there, get a voice, get a rapport with your audience, find out what they dislike, then find out why they just like it. They will offer. They will also offer off solutions. I'm just saying take of the grain of salt. For all the reasons explained today, that is not the most valuable piece of information you get from them. The most valuable information you'll get is</v>
+
+00:36:15.160 --> 00:36:37.210
+<v Speaker 1>what and why and how. Sometimes you know how how it is working wrong for them. Understanding all the components of where the dissatisfaction comes from will allow you, the person with the craft and with the full information, to understand how to fix it, because you have all the information where they don't.</v>
+
+00:36:42.400 --> 00:37:08.420
+<v Speaker 1>So anyway, I'm almost at work. Anyway, a lot of what I'm trying to say today is that you as a game designer have a responsibility to go outside the bubble of your game that the audience is there. I'm assuming the audience if your name is not true, but if the audience is there, ignoring your audience is not doing the full work of a game designer that you know, if you are trying to make your audience</v>
+
+00:37:08.490 --> 00:37:36.380
+<v Speaker 1>could be you gotta go to your audience, understand if they're happy and why they're happy and what makes them happy and what makes the mind happy. You know, you need to go out that this is a not just a valuable resource. I would say a fundamental resource that if you have an audience and you are not tapping into them, if you're not using them to understand what is and isn't working about your game, you are not maximizing. You are not doing the best job you can as a game designer. And that really is the point of today's thing is</v>
+
+00:37:37.700 --> 00:38:08.200
+<v Speaker 1>a lot of people want to focus on the aspect of world. The audience is good at this one thing they're awesome at this other thing. There are amazing at this other thing They are they are better than anybody else that this one component. And yes, this other component they're not as strong at for many reasons I've explained, but the first thing they're amazing at. So if you are a game designer, you need to be tapping into that. And part of what I want to say is that is not something that instantaneously is just there. You don't just boof have a rapport with your audience. You don't even have a content to your audience necessarily.</v>
+
+00:38:08.310 --> 00:38:38.560
+<v Speaker 1>You need to foster those to find them, to foster them, to build them. I mean, if you don't have the community to help build communities is really important. I mean, magic has a lot of built-in communities, but you need to make sure your game has a community and you wanna like part of building your game is building the conduits into it so that the audience has a means to get to you. Because that information, connecting their information with you is what is going to take your game from good to great. OK, so anyway, I'm now parked so we all know that means</v>
+
+00:38:38.690 --> 00:38:44.040
+<v Speaker 1>and at the end of my drive to work. So instead of talking magic, it's time for me to be making magic. I'll see you guys next time.</v>
+

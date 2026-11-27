@@ -1,0 +1,404 @@
+WEBVTT
+
+00:00:01.920 --> 00:00:31.350
+<v Speaker 1>I'm pulling in my driveway. We all know that means it's time for another drive to work. OK, so today is another in my series. 20 lessons, 20 podcasts. So at GDC this year or last this year still, I gave a speech talking about the 20 lessons I learned in my 20 years working on magic. And I've been going through each lesson as a separate podcast. So today is lesson #10 leave room for players</v>
+
+00:00:31.420 --> 00:00:32.400
+<v Speaker 1>to explore.</v>
+
+00:00:33.140 --> 00:01:03.230
+<v Speaker 1>OK so for each one of these I started by giving in a magic explanation. So the story I will tell is about two cards in magic. So one card was called Summoner's Pact. So summoners Packed was a green spell that allowed you to go get a green creature out of your deck and put it onto the battlefield. It was called Summoners Pact and it let you go summon a creature. The thing about it that made it special though</v>
+
+00:01:03.300 --> 00:01:12.530
+<v Speaker 1>was that when you cast it, you it didn't cost anything to cast and on the next turn, so</v>
+
+00:01:13.550 --> 00:01:22.270
+<v Speaker 1>flashback a little bit in unhinged. I made a card called. What was it called Turbocharged?</v>
+
+00:01:23.790 --> 00:01:30.250
+<v Speaker 1>What was the name of the turn if the if the idea was I made a little creature that had super haste. It was called</v>
+
+00:01:31.670 --> 00:02:01.420
+<v Speaker 1>what has got 2 turbocharged slug. I'm blanking on the name. If the idea was I was the onsets. I do fun things and I play around with existing keywords. So I made super haste and we're super haste was it was a creature that you played. It came into play the turn before you paid for it. And so the idea was I got to play it for free at haystack right away, but on the next turn I had to pay for it. And then in I think it was fifth Dawn. Actually not even 5th Dawn.</v>
+
+00:02:01.610 --> 00:02:12.370
+<v Speaker 1>In Planar Chaos, there was a designer named Paul and Paul submit based on</v>
+
+00:02:14.100 --> 00:02:43.690
+<v Speaker 1>called turbocharged slug supercharged. I'm blanking the name based on that card. He had made a series of cards that we called packs and we ended up moving it off to future site from planar chaos is in future site. Sorry. And the idea was there are spells that you get for free, but you got to pay for in the future. So a turn from now you had to pay for them. So they have some respect is oh, I gotta go get a green creature and put it into play. But the downside was or to put in my hand,</v>
+
+00:02:44.980 --> 00:03:14.530
+<v Speaker 1>I don't remember exactly, I went and got a green creature. I don't remember actually what your hand or not. The important part is that you've got to do it for free. But on your next turn you had to pay the cost of the spell or or you lost the game. So you paid for the cost. Now go get your in creature and next turn I would pay for it and pay for it this turn. The turn you cast that you don't pay for it. And there was there was a series of packs. There's a cycle of packs, one in each color</v>
+
+00:03:14.870 --> 00:03:45.120
+<v Speaker 1>packing negation, which was the counters bowl that you paid for next turn. That was the one that I think ended up being the most powerful, just being able to counterspell without having them. The man up to counter it can be very powerful even if you paid for it next turn. OK, another card is called Hive Mind. So Hive Mind was a spell, it was enchantment. That said whenever anybody casts a spell into sorcery, everybody casts an instant or sorcery. So the idea is that copied it for everybody. So let's say for example I have Hive Mind out</v>
+
+00:03:45.250 --> 00:04:15.540
+<v Speaker 1>and I casts or another player casts draw 2 cards. Then all players get to draw 2 cards. The idea is whatever I do, everybody does or whatever somebody else does. Whenever anybody casts a spell, everybody casts that spell. Now Summoners Pact was made to be sort of a green deck that allowed you. The cool thing about it must have gone to your hand because the cool thing about it is I then have my man of free to cast it because I haven't paid for it yet. I'm not paying for it</v>
+
+00:04:15.610 --> 00:04:29.010
+<v Speaker 1>next turn, so it allows me to go get a creature and have the man open to cast the creature. And so the fact that you didn't have to pay until next turn was a bonus. In this particular case, it synergized with what the card was doing.</v>
+
+00:04:29.930 --> 00:04:50.760
+<v Speaker 1>A Hive Mind, meanwhile, was the spell that was all about just doing wacky things in multiplayer play. You know, it's like, OK, now you could abuse it. You could build decks where you know you're going to do things that might be beneficial for you but not beneficial for other players. Or you could do different kinds of things. Or it just allowed you to. Whenever other people got beneficial things, you got beneficial things.</v>
+
+00:04:52.240 --> 00:05:22.710
+<v Speaker 1>So the idea was each one of these had a very different goal in what it did, but players find that they put them together. So if you have Hive Mind in play, so whenever I cast an instant or sorcery, everybody casts into sorcery and icast Summoners packed, well, what happens? Well, everybody casts Summoner's Pact. So that means that everybody gets to go on their deck and get a green creature, which a lot of people don't have because they're not playing green. And then on their next turn, if they don't pay the cost for Summoner's Pact, they're going to lose the game.</v>
+
+00:05:24.330 --> 00:05:37.520
+<v Speaker 1>So the idea is when you combine Hive Mind with Summoner's Pact, you allow yourself in a multiplayer game to kill a lot of the players because a lot of players won't be able to pay for the Summer Pack next turn. And so</v>
+
+00:05:38.970 --> 00:06:09.420
+<v Speaker 1>we take a card that helps you go get things and the card that does wacky multiplayer things, and all of a sudden it's winning the game. That's not what either Kikar did. And one of the points is one of the things about Magic is that one of the joys is that we give you a lot of open-ended cards and you, the players can do things that we never intended. Neither card when it was created, the end result was in you win the game. That wasn't the intent when either Carter got made. But it doesn't matter. The matters is</v>
+
+00:06:09.530 --> 00:06:40.660
+<v Speaker 1>redesign things. We open-ended and you know what? You can mix and match those cards. You can put them together and you can win the game with it. And the idea is that one of the things that makes Magic kind of a fun game for people is there is so much opportunity for you to find cool things to do, cool things to do that the designers didn't necessarily intend. We didn't plan that combo now. We created the individual cards that went into the combo, so we clearly enabled the combo to happen,</v>
+
+00:06:40.770 --> 00:06:58.760
+<v Speaker 1>but we didn't specifically design it, which guests into today's lesson, which is allow your players room to explore. So part of what that means is that I talked previously about how you gave your players choices and how you gave them details</v>
+
+00:07:00.380 --> 00:07:29.710
+<v Speaker 1>and how you gave them customization that there's all these things you want to do to empower your player to give things your player things that they want to do. Well, today's lesson talks about how not only do you have to do that, not only do you want to give them those things, but talking about how you give them those things. And so this day was into my explanation. So my, in each case, I would give a magic example of how it mattered in Magic, and then I would give a,</v>
+
+00:07:30.320 --> 00:07:59.980
+<v Speaker 1>I would talk about the reasons behind it. So for this one, I have to finally talk about my days in Hollywood. So I get teased all the time. So for those that don't know this, before I became a magic designer, I actually worked in Hollywood and I was writing for television. And anyway, my claim to fame of, I mean, I basically spent about six years working in Hollywood. A lot of the time I was a runner, a production assistant,</v>
+
+00:08:00.330 --> 00:08:30.490
+<v Speaker 1>doing all sorts of odd tasks. I think I did a podcast on this. But anyway, eventually I actually had my big break and I was on the staff of Roseanne, the TV show Roseanne. I actually do not talk about it as much as people like to think I talk about it, but I have a reputation for dropping that information whenever possible. Actually relevant here to this story, but I get teased a lot for it. But anyway, part of my time and when I lived in Los Angeles, I was a writer and I was actively pitching stories. So in Hollywood, there's something they call</v>
+
+00:08:30.560 --> 00:08:47.860
+<v Speaker 1>the pitch, and the idea of the pitch is that you will have a meeting where you, the writer, go in with usually other writers, but people running for I was in television, so a pitch for television is. So I get called in and I need to pitch to the people's ideas for the show that they run.</v>
+
+00:08:48.630 --> 00:08:49.180
+<v Speaker 1>Um,</v>
+
+00:08:49.990 --> 00:09:20.080
+<v Speaker 1>so in question for this one was, for example, the job I got at Roseanne was I got. So the way it works is there's staff, people work on staff on TV shows. And so ideally the job you want, I mean, one day you make your own TV show, but the job you want is to get on a staff of a TV show. It's a gig, it's a good paying gig and you work on that show. But one of the things about it is, well, how do you get your foot in the door?</v>
+
+00:09:20.210 --> 00:09:50.280
+<v Speaker 1>So the Writers Guild, people that oversee writing, one of the things I said is 3 every season for TV show, 3 of the episodes must be written by an outsider. And what that means is that they are required to go outside their normal writing staff for three shows. By the way, all the stuff I'm talking about is from 20 years ago. Maybe the WGA slightly altered the thing. So taking account that. But I do know that one of the things they do is in order to allow new writers to have an opportunity,</v>
+
+00:09:50.630 --> 00:10:21.570
+<v Speaker 1>they require all shows to go outside for three episodes. So what happens is they have you in what's called the pitch. And the idea of a pitch is you're going to come in and you're going to explain why the ideas for shows. So they're OK, I got a great idea, what if blah, blah. And the pigeons vary from place to place. Basically, the idea is you come in and you give them examples of shows you, you've come up with shows that they could do, and then you pitch them ideas for shows. And your goal in one of these meetings</v>
+
+00:10:21.660 --> 00:10:51.680
+<v Speaker 1>is you want them to buy one of your ideas. So for those that don't know, a little, little insight into the TV biz, the way you make it as a writer. If you're let's say you're starting out and you're like, I've never written before, how do I get my foot in the door? And the answer is you write what's called a spec script or a speculative script, which means you take existing TV shows that already exist and you write a sample script for that show. Normally you write not just one, but multiple. So for example, when</v>
+
+00:10:51.750 --> 00:10:58.630
+<v Speaker 1>I was getting in, this was 20 years ago my sample scripts like I wrote on Murphy Brown script and I wrote what else did I write</v>
+
+00:11:00.160 --> 00:11:00.870
+<v Speaker 1>wrote</v>
+
+00:11:01.570 --> 00:11:11.700
+<v Speaker 1>I think I'm gonna doogie Howser script. I know these are shows from long ago. I wrote a whole bunch of I wrote like wrote Fraser Fraser script. I wrote probably four or five different scripts</v>
+
+00:11:13.230 --> 00:11:43.640
+<v Speaker 1>and my Murphy Brown script was the one. Probably my best script I wrote got me my pitch at Roseanne. They liked my Murphy Brown script and said, oh, we like this script. Hey, come pitch us ideas to them. So the idea is you walk in and you pitch them ideas for their show. And what you want to do is sell an idea. They want to go, we like that, OK, we'll pay you for that idea. And sometimes they buy the idea. And some of the times not only they the idea, but they pay for you to write it. You get paid. If it's your idea, they'll pay you for it. If you write the script, they also pay you for it,</v>
+
+00:11:44.260 --> 00:12:14.180
+<v Speaker 1>but the ultimate goal when you walk in is to get them to buy a script. So this is the lifeblood of if you, I mean, eventually if you establish yourself enough and you've written enough things, your resume of writing will help get you jobs. But you're first starting out, you haven't done anything yet. So the spec scripts are very important. And early on there's a lot of pitching. I did a lot of pitching in Hollywood. Not only did I picture Rosanne, I actually pitched a bunch of times to Star Trek. I pitched a Star Trek Next Generation. I picture *</v>
+
+00:12:14.250 --> 00:12:35.740
+<v Speaker 1>like Deep Space 9. Once again, this is 20 years ago. I I pitched a whole bunch of stuff. I pitched a married with children. I these are all old shoes because it's 20 years ago. I was actually going to picture The Simpsons. By the way, the week after my Roseanne pitch, I was supposed to picture The Simpsons, but my Roseanne pitch went so well I got a job that I didn't. I never ended up pitching The Simpsons, which I was wondering if because Simpsons</v>
+
+00:12:37.320 --> 00:12:37.920
+<v Speaker 1>anyway.</v>
+
+00:12:39.750 --> 00:12:56.200
+<v Speaker 1>So pitching is really important because it makes or breaks whether or not you can have a career. So one of the things in Hollywood that you have to do is you need to learn about pitching. You have to go to classes on pitching because pitching is really, really important.</v>
+
+00:12:57.580 --> 00:13:26.700
+<v Speaker 1>So one of the things that I learned something they drummed into you. I mean, there's a lot of different things about pitching. Maybe one day I'll do a whole podcast in pitching is pretty cool, but I need to .1 point for today's lesson, which is one of the things they teach you is normally what happens is you're going to describe your show, you're going to talk about what's going on. And the same, by the way, even if you're doing movies, you come in and you pitch your movie. Here's what movies about a lot of pitching is I have a story. I want you to hear my story,</v>
+
+00:13:27.620 --> 00:13:41.040
+<v Speaker 1>but one of the techniques they teach you in pitching class is what you want to do is not tell everything you have. You want tell just enough that you then get the people you're pitching to to ask you a question.</v>
+
+00:13:41.730 --> 00:14:11.740
+<v Speaker 1>You want to sort of give just enough of your story that you that you draw in your audience and they ask a question and then you continue saying what you wanna say, but you do it by answering the question. So why is this important? Well, it comes down to a basic element of the way humans function, which is that people are more invested in things that they feel they initiated. So let's say I'm going to, let's say I have 10 minutes of story to tell you and I,</v>
+
+00:14:11.810 --> 00:14:41.890
+<v Speaker 1>I could for 10 minutes to tell you the story, but maybe I bore you or maybe at some point like, wow, he's been talking for a long time. So instead of doing that, I, I tell you 2 minutes worth, but the most exciting 2 minutes worth enough to get you to go, oh, I want to know more. And then you ask me a question. So then I answer some of that and then I get another question. So there's a very different dynamic between I talk to you for 10 minutes and I talk 2 minutes. You asked a question, I answer, you ask a question, I answer, you ask a question. So in both cases</v>
+
+00:14:41.960 --> 00:14:48.260
+<v Speaker 1>they give away the same information. I have 10 minutes information to give away. In both cases I spend 10 minutes giving the information.</v>
+
+00:14:49.600 --> 00:14:53.280
+<v Speaker 1>The big difference here is that, UM,</v>
+
+00:14:54.440 --> 00:14:58.860
+<v Speaker 1>I in the first case, I talked to you for 10 minutes</v>
+
+00:14:59.460 --> 00:15:02.140
+<v Speaker 1>and the second case I talked with you</v>
+
+00:15:02.790 --> 00:15:06.620
+<v Speaker 1>that I was, you were, you were an active part of what I was saying.</v>
+
+00:15:07.940 --> 00:15:13.500
+<v Speaker 1>And the reason that is so crucial, the reason that's so important, is that people,</v>
+
+00:15:15.270 --> 00:15:16.980
+<v Speaker 1>people care. People,</v>
+
+00:15:18.740 --> 00:15:21.940
+<v Speaker 1>people just have more investment in something. They start</v>
+
+00:15:22.630 --> 00:15:30.950
+<v Speaker 1>that if I ask the question and now you're answering my question. Well, I'm going to listen more because you're answering my question. I asked it.</v>
+
+00:15:32.480 --> 00:16:03.850
+<v Speaker 1>And so the way this applies to game design is people are just more invested in things. They initiate, OK, so you have your details, you have your choices, you have your customization. OK, now let your player discover it. Let your player find it. Rather than spoon feeding it to your player, put it someplace where you think your player will get to it. Because if your player finds it on their own, if your player comes across something and they're the ones that discover the detail</v>
+
+00:16:03.950 --> 00:16:16.940
+<v Speaker 1>or find the choice or create the customization, if they're the ones that make decisions to do things and they feel like they made the decision, they chose to do it, that is a very different animal from you</v>
+
+00:16:17.890 --> 00:16:35.950
+<v Speaker 1>telling them to do it. Um, and like I said, once again, a lot, a lot of my lessons, in fact, almost all my lessons are essentially are saying, hey, understand human nature, understand how humans work and make sure that what you're doing with your game plays into how humans function.</v>
+
+00:16:36.580 --> 00:16:52.210
+<v Speaker 1>You're not fundamentally going to change human behavior. You know, going back to my very first lesson, you're not going to change human behavior, have human behavior, work with human behavior. The way I like to say is there's a river. I can</v>
+
+00:16:53.630 --> 00:17:23.560
+<v Speaker 1>acknowledge that the river, it has a current and is going in a certain direction and work with the current, or I can work against the current. I'm not going to change the current. The roof is going to run the way the river is going to run. I can make it easier or harder for myself. And a lot of today's lesson is a specific way to make it easier for yourself, which is if you can take the elements that you think your player will like and design the game such that they get to discover them. So let's go back to Magic for a second. My example earlier on, one of the things Magic does really well,</v>
+
+00:17:23.630 --> 00:17:45.550
+<v Speaker 1>as we make a lot of open-ended cards, we make a lot of things. You know, I'm not saying we never ever make cards that can go together, but even if we do make cards that can go together, we don't tell people. They don't tell the players that go together. We just make things that are synergistic and let the players discover them, let the players find them. We just show you cards. We don't tell you how the cards get used together.</v>
+
+00:17:46.740 --> 00:18:16.460
+<v Speaker 1>In fact, it's funny, Once Upon a time we used to actually write articles about card combos and we've dialed back in that a little bit because what we realized is we wanted the players to find their own combos. We didn't want to tell you, hey, Carly and Corbin go great together. It's like let you find carrying carb and let you discover the Cardi and Cardi B go great together. That a lot of what make Magic tickets a game now. I mean, once again, Magic has a lot of this Magic. The nature of the game is you take whatever cards you want and build the deck. You know, we are making you</v>
+
+00:18:16.530 --> 00:18:36.710
+<v Speaker 1>floor, we are making you find your own things because we don't tell you what to do. We give you some restrictions for the deck building. Like, OK, well your deck has to have so many cars and this and that and so many copies. And I mean, we give you restrictions, but we don't tell you what to do. We're in fact very open-ended. I mean, we create formats, we create restrictions for you, but hey, you got to figure out what you want to do.</v>
+
+00:18:38.180 --> 00:18:43.970
+<v Speaker 1>And so imagine this is really, really, well, Magic is great with this lesson. If anything, if anything, Magic</v>
+
+00:18:45.800 --> 00:19:16.060
+<v Speaker 1>air on the side of making it too hard. There's too much exploration. One of the things we found was beginning players is we start having to do a little more deck building for people because wow, it's daunting to go. You can do anything, you can have everything, and that's a little daunting. But one of the neat things about the game is when you discover a card or a combo or you find a way to use something, it's not that we told you to do that. And in general, one of the things about your game that you want to do is figure out what the cool thing about your game.</v>
+
+00:19:16.140 --> 00:19:27.590
+<v Speaker 1>Let's figure out. Like I said, you want to work all the stuff we've talked in. You want to figure out what the details are and what the neat choices are, where the customization is all that figured out ahead of time, build it in. But then</v>
+
+00:19:30.030 --> 00:19:34.550
+<v Speaker 1>you want to make sure that you are not spoon feeding your players. You want to make sure that</v>
+
+00:19:35.700 --> 00:19:41.710
+<v Speaker 1>you give the tools there and let the players find the things on their own. So let me, I'm going to</v>
+
+00:19:42.920 --> 00:19:44.110
+<v Speaker 1>sorry to get maps.</v>
+
+00:19:45.420 --> 00:19:50.680
+<v Speaker 1>I'm going to talk about this concept and talk about some other ways how other fields approach something very similar.</v>
+
+00:19:52.110 --> 00:19:58.040
+<v Speaker 1>And so one of my one of the I've gotten feedback on these and one of the things I discover is</v>
+
+00:19:59.410 --> 00:20:29.480
+<v Speaker 1>I've I've been a little repetitious in the way that I've been presenting these. So what I want to do now is I want to talk about the same lesson, but I'm going to talk about how some other people tackle this lesson in other fields just to sort of give you a vantage point that's a different kind of vantage point. Hopefully you'll like this. OK, so first let's about puzzle making. So one of the things that I've had in my hand a little bit is I games and puzzles are very different animals. Games are all about you have, sort of.</v>
+
+00:20:29.660 --> 00:20:57.460
+<v Speaker 1>Choices that each person is going to find their own solution where puzzles in the end, each player is going to find mostly the same solution. There's an answer to the puzzle. So puzzles are a little bit different, but there's the same quality that I want to talk about. So one of the things that you need to do in a puzzle is you want your players to crack the puzzle. And this is an interesting thing about puzzle making is if nobody ever solves your puzzle, you've made a bad puzzle.</v>
+
+00:20:58.060 --> 00:21:28.100
+<v Speaker 1>But at the same time, if everybody figures your passes out right away, you've also made a bad puzzle. O The key to a good puzzle is what you want to do is you want to figure out what is known as a Eureka moment, which is you want to find something that's clever, that's logical, that's consistent, and you want to make sure that you then bury those things within the context of the puzzle. For example, let me talk about magic puzzle used to make magic puzzles. The way I would build</v>
+
+00:21:28.180 --> 00:21:47.960
+<v Speaker 1>magic puzzles is I would find some really neat cool interaction with cards. Usually what I would do is find a way to use a card that is not the normal way. The card got used to find a card combo. That's not normal. And the idea is part of solving the puzzle was saying, oh, wait a minute, I have to use this card in the way I don't traditionally use it.</v>
+
+00:21:49.650 --> 00:22:19.160
+<v Speaker 1>Like a very common thing is I take a card that said target player and 99% of the time you're the target player. You use it on yourself. Haha. But the way to solve this puzzle is realizing that you have to use it on your opponent. And I've settled the situation where you actually need to use it on your opponent. That's a common one I would do or vice versa. Sometimes you takes you almost always use on your opponent, but there's a reason why in this case you'd want to use it on yourself. And what are you Eureka moment is, is you want to find something</v>
+
+00:22:19.280 --> 00:22:22.440
+<v Speaker 1>where the players have to figure something out that</v>
+
+00:22:23.310 --> 00:22:54.670
+<v Speaker 1>either isn't how they normally do it or has to combine things in a way you're taking some moment that the player doesn't normally do. There's something about your puzzle where there's some element of it that's a little different. Because what makes a Eureka moment a Eureka moment is the players have to realize usually what keeps the puzzle, that the key to a good puzzle usually is that the players own preconceptions are the thing stopping them. You know that the players, when you first look at the puzzle, it seems like you can't crack it. And what you have to come to realize is, oh, wait a minute,</v>
+
+00:22:54.760 --> 00:23:25.420
+<v Speaker 1>I'm making some assumption that isn't true. I'm the key to solving the puzzle is making some leap of logic that I don't normally make, but something that makes sense, not something that's illogical, but just like, Oh well, I normally do thing X, but wait a minute, in this puzzle I don't. And the key to Eureka moment in the puzzle is you want the player to figure out that they're that something about how they're approaching it is wrong. But what you want to do is they figured out a lot of times they talk about finding a</v>
+
+00:23:25.590 --> 00:23:31.020
+<v Speaker 1>nooks and crannies and puzzles, which means imagine, for example, you're trying to find</v>
+
+00:23:32.140 --> 00:24:01.650
+<v Speaker 1>a hidden door or something. Uh, if everything super smooth, it's just frustrating. You want a little nooks. You want something in your puzzle that gives the players a little tiny clues without necessarily giving away the answer. Because what makes the puzzle fun and compelling is you want the audience to solve your puzzle. You know, if I did a puzzle, I mean, everyone, you come across the puzzle, but like, I'm just basically telling you the answer. It's just do it. One leads to two leads to three leads to four leads to five to six leads to 7 to 8. Losing 9. That's 10.</v>
+
+00:24:01.920 --> 00:24:21.320
+<v Speaker 1>He thought it not really compelling. Yeah, you went through the motions, but it's not really a compelling puzzle. What makes for a compelling puzzle is you, the player doing the puzzle, feeling good about yourself, that you solve something, that you you solved it, that you, the puzzle maker figured out a way to do it.</v>
+
+00:24:22.610 --> 00:24:39.530
+<v Speaker 1>So when you make puzzles, you want to work in that you, and sometimes there's more than one you Rica moment, but you want to sort of figure out a way for the player to earn the puzzle. You can't just give them the puzzle. The player has to earn the puzzle. And that's what I'm trying to say here with the game is you want your player to earn,</v>
+
+00:24:40.720 --> 00:24:58.710
+<v Speaker 1>earn the advantage in the game. You know, one of the things about games that are kind of like puzzles is you need to figure out the game when you're playing a game and what you want to do is have cool things to figure out, but let the player have the opportunity to figure those things out. That's the player of the opportunity that in general, people</v>
+
+00:24:59.590 --> 00:25:05.310
+<v Speaker 1>when people, people and I'm awesome moment for people is when they get to feel good about themselves.</v>
+
+00:25:05.940 --> 00:25:36.460
+<v Speaker 1>That one of the reasons that people do things is there's a positive reinforcement internally. And one of the neat things that games and puzzles both do is make you feel smart, make you feel clever, make you, you know that you want those aha moments that the player goes aha, I figure something out. I did it. It wasn't it wasn't done for me. It wasn't handed to me. I had to do it. What that means is as a designer, a game designer, a puzzle designer, you need to give your player the moment, the ability</v>
+
+00:25:36.580 --> 00:25:41.720
+<v Speaker 1>they have, the aha moments, that Eureka moments, the moments where they get to feel like the smart one.</v>
+
+00:25:43.440 --> 00:25:58.660
+<v Speaker 1>And you know, one of the things that Magic does really well is we definitely think about combinations. We definitely think about synergies. We build a lot of synergies in our in our game, but then we don't announce the synergies. We let the players figure out what the synergies are.</v>
+
+00:25:59.690 --> 00:26:17.240
+<v Speaker 1>OK, so let's talk about a different example. Let's talk about being a story writer. Another background of mine. OK, so when you write a story, what you want to do is you want the players to have agency in the story. When that means is you want the players to sort of</v>
+
+00:26:18.200 --> 00:26:48.930
+<v Speaker 1>essential. What's going on is the players once again want to feel smart. So what you want to do is you want to give them as much information as possible to let the player try to figure out where and what's going to happen in the story. Now you get to throw some twists and turns in, but even you throw twists and turns in, you always support it. What that means is that you always give the players clues of where the story is going, often called foreshadowing and stuff. And the idea is you give them bits and pieces and now a good Craftsman,</v>
+
+00:26:49.020 --> 00:26:51.310
+<v Speaker 1>we'll hide the bits and pieces. Meaning</v>
+
+00:26:52.100 --> 00:27:23.320
+<v Speaker 1>when I foreshadow things, I want to not make you always aware I'm foreshadowing. A classic thing that happens a lot of times is in the first act, they will do something in which they give you a piece of what's going to happen in the third act. Like Lethal Weapon is a good example where I've got their names, but the cap is about to retire. He is redoing his house. And we swing by his house in the first act and we see that he's redoing his house. And you see the nail gun and, you know, you get the sense of, oh, he's reading his house.</v>
+
+00:27:23.390 --> 00:27:53.410
+<v Speaker 1>And it plays into the theme of he's about to retire it. Look, it's his glory days. He's about to retire. He's you know, he'll have more time to work on redoing his house. And, you know, it sort of played into a piece of showing something about the character. Now in the third act, there's a major fight scene that happens there. And then nail gun is the thing I don't wanna ruin with the weapon, but it is 20 plus years old. The nail gun becomes important, but the idea is early on is introduced in a way that hopefully seems like</v>
+
+00:27:53.480 --> 00:27:54.920
+<v Speaker 1>no, it's not a key thing.</v>
+
+00:27:56.410 --> 00:28:26.390
+<v Speaker 1>Dangers has a similar thing where they have seen Avengers, the second Avengers Ultron where there's a scene after the party where they're playing around with Thor's hammer and nobody can lift Thors hammer because only the worthy can lift Thors hammer. And it's a fun scene and it looks like it's a camaraderie scene it looked like. But that pays off later in the movie that good movies figure out ways to take things are relevant, put them in early on.</v>
+
+00:28:26.540 --> 00:28:39.620
+<v Speaker 1>They try to hide them somewhat, but the idea is that we give you information. So when something happens, you, the audience, you feel it. Oh, they gave me information. And sometimes you figure things out, like</v>
+
+00:28:40.660 --> 00:29:10.490
+<v Speaker 1>for example, Watchmen, there's a classic comic book series. I actually, I mean Watchmen, most people read Watchmen now, read it as a graphic novel collected, but it originally came out in comic book form. And I actually read it every month. In fact, the way it came out is it came out every month and then he got behind so them as like every six weeks. And so and I think on on issue 6, it was 12 issues. I figured out who the bad guy was and he did not reveal the Alan Moore didn't really the bad guy to issue 8 or 9.</v>
+
+00:29:11.160 --> 00:29:41.150
+<v Speaker 1>But anyway, for a couple of months, like I thought I knew the bad guy was and I told my friends and they're like, no. And I'm like, no, no, no. And I had all this reasons to prove it. I went in the story and I took all the pieces and I figured out what I believe the correct answer was using proof from the stories. And I was right. You know, I felt awesome when the issue came out and like I am correct. I was like dancing for joy. I felt smart. I felt like the, the, the novelist, or in this case the writer</v>
+
+00:29:41.540 --> 00:30:10.730
+<v Speaker 1>had done a good job of enabling me to be able to figure things out. And even when you don't figure things out, when the twist comes or something happens, the reader goes, oh, I should have figured that out. I saw all the pieces. And that when you write something, you want to make sure that you give the audience the ability to figure things out, to see things, that you give them the clues so that when you pay it off later that even whether they figure or don't figure out, they they feel that there's the ability to figure it out.</v>
+
+00:30:11.790 --> 00:30:42.660
+<v Speaker 1>OK, here's a different example. In teaching. One of the things they talk about when you teach kids is what you want to do is you need for the kids to figure it out on their own terms. That if I just say to you, oh, here's why math is important. Kids go what yawn math. But if I find the situation or reason where using this actually solves a real life problem, you might actually encompass this in life. This might be something people sit up because they're like, oh, this might actually affect me.</v>
+
+00:30:42.780 --> 00:30:46.160
+<v Speaker 1>This thing I'm learning might be something I might actually use,</v>
+
+00:30:46.850 --> 00:31:04.300
+<v Speaker 1>and it is a very effective teaching tool. What good teachers do is they find a way to make what they're teaching valuable to the person who's receiving it. Because if I just say, hey, look at this principle, you might go here, but I go, no. Imagine you're older and you're doing this extra thing. Why?</v>
+
+00:31:06.010 --> 00:31:10.900
+<v Speaker 1>Or another thing that's very common for teachers is that they will take things and put it in</v>
+
+00:31:12.210 --> 00:31:13.780
+<v Speaker 1>one of the things that I had</v>
+
+00:31:15.100 --> 00:31:44.670
+<v Speaker 1>a teacher, a math teacher, who his word problems was, he always tried to take them and put them in the context. I'm sorry, not, not well, it was a physics. It wasn't math, it was physics, although physics math. And one of the things he did was fun is like one I'll never forget is he did a problem where Wiley Coyote was trying to catch the Road Runner. And basically the question was like, at what speed does Wild Coyote hit the Cliff or whatever? Because he was doing whatever shenanigans</v>
+
+00:31:45.030 --> 00:32:14.820
+<v Speaker 1>what he does, but he took something in which it gave him some contextual thing. And all of a sudden, like I loved Wiley Coyote, I'm a big fan of Wiley Coyote. And like it just all of a sudden it has some context so that it didn't mean before. And that when you're teaching, that's important, you want to give contextual things. And that once again, when it's personal, whether or not it's something the players can see how it affects their lives or it's attaching to some creative thing, some IP or something that means something to them. That when it's something that's just not dry,</v>
+
+00:32:15.030 --> 00:32:25.250
+<v Speaker 1>that connects personally to the player, sorry, to the, to the student teaching, it's more, it's, it means more to the student and the student is more invested in learning.</v>
+
+00:32:27.460 --> 00:32:38.160
+<v Speaker 1>Another example of this would be in newspapers. Um, so let's say there is an event around the world that happens, let's say some horrible thing happens in London.</v>
+
+00:32:38.950 --> 00:32:43.290
+<v Speaker 1>OK, you're, you know, I'm here in Seattle, WA Well, what does Seattle, WA do?</v>
+
+00:32:43.970 --> 00:32:49.320
+<v Speaker 1>They try to find a way that that story affected somebody who lives in Seattle.</v>
+
+00:32:50.200 --> 00:33:18.850
+<v Speaker 1>Why? Why do they do that? Because the answer is that it's more personal. Like, for example, let's say someone from Seattle was vacationing there and then they were caught up in the middle of whatever happened. The reason that's important is then you go, oh, I could have been indication there. Wow. I could have been the person from Seattle who's visiting London. It makes the story personal. And that when you make the story personal, if people get more invested in it, you know,</v>
+
+00:33:20.610 --> 00:33:35.380
+<v Speaker 1>And that one of the things they teach you and when you study journalism is that you want to find a way to make the story have relevance for the reader and find the angle where it becomes a universal thing.</v>
+
+00:33:36.620 --> 00:33:47.550
+<v Speaker 1>Even if you're writing a story, by the way, and you're not using the local, you're also trying to find, OK, what is the story about? And why would the average person care about the story? What about this story speaks to people?</v>
+
+00:33:49.050 --> 00:33:56.020
+<v Speaker 1>So the reason I'm giving you a lot of different things is I'm just trying to hit the same point, but showing you in different means by different things. That</v>
+
+00:33:57.760 --> 00:34:14.370
+<v Speaker 1>when somebody approaches a problem, whether it's a puzzle or a classroom lesson or reading the newspaper or reading a story or playing your game, whenever somebody is doing something, that if you can find a way to involve them in it.</v>
+
+00:34:16.120 --> 00:34:22.570
+<v Speaker 1>Now, a big part of today's story is the idea from a game standpoint is the way you do that is you</v>
+
+00:34:23.400 --> 00:34:53.500
+<v Speaker 1>find cool things, build cool things, build the tools for them to use. You know, I'm saying fine. Once again, you're going to make neat choices for them to make. You're going to find cool details from them to discover. You're gonna build cool customization for them to play into. But you're going to do in such a way that it's something that they get invested in, that they that the more you make it something that they, they discover, the more that something that they take ownership in, the more personal it is to them,</v>
+
+00:34:53.650 --> 00:35:07.930
+<v Speaker 1>the more. And like I said, you know, I in some ways my 20 lessons are going to keep repeating some basic, basic things again and again. And the lesson, the core lesson is</v>
+
+00:35:09.280 --> 00:35:39.280
+<v Speaker 1>humans are going to act like humans. How do you take your game and maximize what humans want? And I cannot stress enough, and this is not in a bad way. Look, you see the world through your eyes. You listen to the world through your your ears that your experience is how how the world is shaped. And yes, there's other people with other experiences and yes, you should learn those. But but in the end, it is your own experiences as your own personal touch in the world</v>
+
+00:35:39.390 --> 00:35:42.120
+<v Speaker 1>that is the most important to you because it's what you know.</v>
+
+00:35:42.840 --> 00:36:12.790
+<v Speaker 1>And that when you take something, people are always going to prioritize things in which they feel there's a personal investment, things that you know, when you initiate something that just means more to you because of that. Well, we know that as game designers, we know that that if people initiate things, it means more to them that the answer then is let them initiate it. Let them find things. You know, I mean, you want to put things where they're going to find them and you have to be careful. I mean, I have another lesson all about make sure people,</v>
+
+00:36:12.870 --> 00:36:27.760
+<v Speaker 1>you know, don't hide your fun. But the point is make sure that you give them the opportunity to, I mean, put it where they'll find it, but make sure that people have the opportunity to find the things they need to find and that,</v>
+
+00:36:29.160 --> 00:36:29.700
+<v Speaker 1>umm,</v>
+
+00:36:30.450 --> 00:36:45.340
+<v Speaker 1>you know, for example, just I'll just say one, have the details. I talk about details. Let's say I do something really cool. I want to make sure people have the opportunity to find it. But if I tell you I did something, if I say, hey, look at this cool detail versus you finding the detail,</v>
+
+00:36:46.840 --> 00:36:58.420
+<v Speaker 1>there's a world of difference because when you tell them there's a detail, they're like, OK, But when they find it, like, did anybody else see this? I found this thing and then there's this strong</v>
+
+00:37:00.880 --> 00:37:10.850
+<v Speaker 1>you in in the end. Like the thing I keep talking about is players are going to sit down and play your game and then end of every game they're gonna ask themselves, do I wanna play this again?</v>
+
+00:37:11.490 --> 00:37:20.830
+<v Speaker 1>And obviously each time it gets easier for them to say yes, but there's always that decision at the end of the game whether or not they want to play the game again. And believe it or not,</v>
+
+00:37:21.930 --> 00:37:28.200
+<v Speaker 1>one of the biggest factors of them choosing to play the game again is whether or not it spoke to them.</v>
+
+00:37:29.830 --> 00:37:30.480
+<v Speaker 1>I mean, yes.</v>
+
+00:37:31.120 --> 00:37:35.660
+<v Speaker 1>Was it fun? Was it exciting? Did they have a good time? All that matters,</v>
+
+00:37:37.200 --> 00:37:44.710
+<v Speaker 1>but one of the big pieces is that in general, people judge things based on how it makes them feel.</v>
+
+00:37:46.460 --> 00:37:58.980
+<v Speaker 1>I, I talked about this a lot that that we are intellectual creatures, but in the end, our decision makings boil down to emotions most of the time, that most of the time we sort of say, hey, I</v>
+
+00:37:59.820 --> 00:38:06.240
+<v Speaker 1>had an activity, I did something. Do I like how this activity made me feel? And</v>
+
+00:38:06.870 --> 00:38:17.350
+<v Speaker 1>did this activity make me feel smart? Did it make me feel clever? Did it make me feel happy? Did it make me, you know, did I get to feel good about myself when I did it</v>
+
+00:38:19.300 --> 00:38:26.200
+<v Speaker 1>and or just did I feel good when I did it? You know, doesn't I don't even have to feel good about myself. That always helps, but also just</v>
+
+00:38:27.200 --> 00:38:57.650
+<v Speaker 1>how did I feel? Did it? Did it do something for me? And when it when I can say, hey, this helped me or spoke to me or connected with me or in any way where I just found some personal connection, I am so much more likely to say yes, help me up me again. Yes, I'll play again. And that a lot of it today is saying is that you're going to do cool things. You're going to make cool things like keep talking about all these different kind of cool things you can do. The lesson of today is do those cool</v>
+
+00:38:57.720 --> 00:39:21.450
+<v Speaker 1>things, but then think about this, that if your audience discovers the cool thing, if they're the agent, they have agency. The cool thing wasn't something you showed them. The cool was something that they found that so much more potent, that so much more powerful. And that just increases the chance of them saying, oh, I definitely want to play this game again.</v>
+
+00:39:22.630 --> 00:39:27.840
+<v Speaker 1>And so lesson #10 leave room for the players to explore.</v>
+
+00:39:29.490 --> 00:39:59.710
+<v Speaker 1>Anyway, like I said, I I try some a little different this time. I'm hoping. I like feedback as always. I like the idea and see if you guys like this. I'm approaching this problem through a couple different fields to show you the same basic problem but how different fields approach it. Hope you guys like that. I'm just trying to, I don't know, do some a little different with this. So as always, I appreciate feedback because it is through your feedback that I get better and I do more of what you guys want me to. So anyway, I am now pulling up to racial.</v>
+
+00:40:00.750 --> 00:40:09.620
+<v Speaker 1>So we all know that means you know this is the end of my drive to work. So instead of talking magic, it's time for me to be making magic. So I'll see you guys next time. Bye bye.</v>
+

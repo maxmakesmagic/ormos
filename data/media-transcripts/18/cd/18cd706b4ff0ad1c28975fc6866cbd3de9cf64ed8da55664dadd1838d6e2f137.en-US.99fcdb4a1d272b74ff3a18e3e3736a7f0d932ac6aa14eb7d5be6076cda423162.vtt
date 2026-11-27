@@ -1,0 +1,386 @@
+WEBVTT
+
+00:00:01.040 --> 00:00:30.830
+<v Speaker 1>I'm pulling out the parking lot. We all know what that means. It's time. Another drive to work and I dropped my son off at camp. OK, so today is another in my series. 20 Years, 20 podcasts, or sorry, 20 Lessons, 20 podcasts where I talk about 20 different lessons I learned over 20 years of making the same game. This is based on the speech I gave at GDC back in 2016. And we're up to number #15 So design</v>
+
+00:00:30.900 --> 00:01:01.510
+<v Speaker 1>the component for the audience it's intended for. So for each one of these, I start by explaining an example from magic, and then I'll dive in. OK, so to understand my story for the magic, I first have to explain something. So in Magic, way back when, I created something called the psychographics. There's a whole podcast on this. If you want more detail, you can go listen to it. But I'll give you the brief version. I borrowed something that I learned from in advertising, which is when you are trying to advertise</v>
+
+00:01:01.580 --> 00:01:14.200
+<v Speaker 1>somebody, you want to understand not just who wants to buy your project, your product, but why? Why do they want to buy it? Because when you're trying to advertise, you're trying to understand what you're appealing to. So one of the things I was interested in</v>
+
+00:01:15.040 --> 00:01:25.450
+<v Speaker 1>when I got to Wizards was trying to think about the psychology of design. Who was the audience? And so I came U with three psychographics that we use,</v>
+
+00:01:26.970 --> 00:01:37.150
+<v Speaker 1>Timmy and Tammy. I have a male and female versions for these because I didn't think at the time to make them unisex. So there's Timmy and Tammy, Johnny and Jenny and Spike.</v>
+
+00:01:38.570 --> 00:02:01.200
+<v Speaker 1>So Timmy and Tammy are in it for the experience that the game playing for them, it's about experiencing something could be the visceral thrill of winning with big giant creatures. It could be interacting with my friends of just bonding socially. You know, the idea is there's something about the game that makes them feel a way they like to feel. You know, there's something about it that, that</v>
+
+00:02:01.900 --> 00:02:18.550
+<v Speaker 1>the, the, the experience itself is something that's enjoyable in some way. And so really what Timmy and Timmy's of the world want to do is play the game in a way that creates creates the experience They're trying to get like the stereotypical</v>
+
+00:02:19.920 --> 00:02:49.750
+<v Speaker 1>Tammy. Tammy likes big creatures and likes, you know, winning big with big splash effects. Now, that's just a subsite of the group, but that the idea is, you know, they really are in it for the experience. Johnny and Jenny are in it for expression. They want to express something about themselves that the game and its its ability for you to customize is it means by which you can show other people something about you. You know, they're very into sort of showing what they are capable of and showing a bit about themselves.</v>
+
+00:02:50.320 --> 00:03:20.900
+<v Speaker 1>Spike wants to prove something, that the game is a mean for them to demonstrate something. Usually for Spikes, it's about show that they can dominate the game or dominate some aspect of the game. But that's not always the case. Sometimes it's about self improvement, about making a benchmark against yourself. There's a bunch of different ways Spikes can exhibit things, but the idea essentially is Timmy and Tammy want to experience something, Johnny and Jenny want to express something. Spike wants to prove something. OK, the reason that's important is we're going to go into Ravnica with a card</v>
+
+00:03:20.970 --> 00:03:51.140
+<v Speaker 1>while Molten Century. So original Ravnica, there was a card that you would play, it's a red card and that you flipped a coin when you played, it was a creature, and either it was a 52 creature with haste or it was a 25 creature with defender. So either you could attack with it the turn you played it, which normally you can't do, or you couldn't attack at all with it. You can only block with it. But it was very tough. It was a really good blocker. So let's look at the psychographics. So this kind of really isn't made for Johnny and Jenny, so we'll take them out of it.</v>
+
+00:03:51.250 --> 00:04:22.040
+<v Speaker 1>So with spike appreciates is coin flips is something is a very spike that spike, sorry, Timmy and Tammy enjoy coin flips. Not all Timmy Tammies, but the people who the coin flip enthusiasts tend to fall in this category because it's exciting, it's fun. What's going to happen, I don't know. Flipping a coin is there's a moment of excitement. I'm not sure what's going to happen then outcome is unknown. That creates drama and excitement. Tammy and Tammy love drama and excitement. Meanwhile, this card also gives you 2 choices that are very balanced</v>
+
+00:04:22.140 --> 00:04:52.870
+<v Speaker 1>that, you know, sometimes you want one choice, sometimes you want the other choice. Well, Spike likes balanced choices. Spike really likes the idea that sometimes I could choose this and sometimes I could choose that, and that skill testing. And it allows me to sort of, you know, be able to use my ability to gauge things to understand what the correct choice is at any one time. And Spike loves interesting choices. OK, but the problem is, let's reverse them. Coin flipping, Spygate coin flipping. That's randomness. That's something out of your</v>
+
+00:04:52.940 --> 00:05:05.490
+<v Speaker 1>troll. Spikes all about proving dominance through knowledge, through what what it what he or she knows. Well, coin flipping is the antithesis of that. It's something in which I don't know what's going to happen. So in general, spikes don't like coin flipper.</v>
+
+00:05:06.700 --> 00:05:36.710
+<v Speaker 1>Now we get to balance outcomes. Too many Tammy aren't as find about balance outcomes. What they want is dramatic coin flip. And in some ways, if there's two different choices and one choice is really exciting and one choice is not as exciting, you know that is something that just makes for more dramatic coin flip. Either this awesome thing happens or this terrible thing happens. You know, not that they always need a terrible option, but at least need an option which one you clearly want one over the other. And this card was a little more balanced than Timmy. Timmy like.</v>
+
+00:05:36.860 --> 00:05:52.720
+<v Speaker 1>So the problem was we made a card in which part of it was for Timmy and Tammy, and part of it was for Spike. But the part that was for Timmy and Tammy, Spike doesn't like. And the part of this for Spike, Timmy and Tammy don't like. So we end up with a card that nobody likes that there's people like parts of it.</v>
+
+00:05:53.960 --> 00:06:05.100
+<v Speaker 1>So one of the lessons is what we needed to do was we needed to lean in One Direction or the other. We could make it to me Tammy card if we just made a higher variance card. You know, you get a</v>
+
+00:06:05.900 --> 00:06:24.680
+<v Speaker 1>you got a 5 five or one one or something in which, Oh my goodness, the variance is really exciting. What's going to happen or take the coin flipping out of it. Just make it a choice. When you play the card, you have a decision. Spike would love that card that gives an options. Am I playing offensively, playing defensively? I have choices of what I want to do.</v>
+
+00:06:26.080 --> 00:06:39.990
+<v Speaker 1>So the reality is by trying to sort of be more broad, we in the end actually made nobody happy. So that's one of the big lessons to start with here is that when you try to please everyone, you often please no one.</v>
+
+00:06:41.990 --> 00:07:10.820
+<v Speaker 1>All of your players don't want the same thing out of your game. So it's important to understand who you're different players are. And so this lesson really is about it's about two things. First, it's about the idea that you need to be knowledgeable about your game. That one of the things I talk a lot about and I've done podcasts on this topic is when you have a game, you need to go out and get research. You need to play test it and that just play test it, but you then need to interview</v>
+
+00:07:10.890 --> 00:07:30.770
+<v Speaker 1>the people you're play testing with that. The idea is you want to understand when you make a game, what is it that people like about your game? Where is well, actually two things. One, you want to figure out what people like about it and you want to figure out who the different players are because what you will find is. So let's take Magic as an example.</v>
+
+00:07:32.260 --> 00:08:02.100
+<v Speaker 1>When I'm trying to understand what Magic players like, there's a lot of facets to the game. And so one of the things is always looking for is where might somebody be entranced? You know, like I said, we have the second graphics we use, so we're very cautious about making sure that we there's different kinds of psychological things people need. Also, we have an aesthetic scale for those and Mel that are very about what do they like out of the game from an aesthetic level? Is it about the flavor? Is it about the art</v>
+
+00:08:02.180 --> 00:08:19.380
+<v Speaker 1>said about how the card captures what it is, or the opposite side is Mel's about sort of do they enjoy the structural aspects of it, the game design of it? Is there a card that the components of it blend together to make really interesting game play?</v>
+
+00:08:20.530 --> 00:08:50.600
+<v Speaker 1>So there's a lot of different facets to understand and that we want to make sure that no matter what facet you like that we're thinking about that. And that the key thing about Magic is there's because the Magic has a lot of flexibility, but most games have some flexibility. And so when you're making your game, figure out what exactly it is that makes your game. What are the components that people can fall in love with? Now, earlier on in this podcast series,</v>
+
+00:08:50.830 --> 00:09:01.630
+<v Speaker 1>I talked a lot about choices. I talked about customization. I talked about details. I talked about how there's a lot of things you do in your game to imbue,</v>
+
+00:09:02.440 --> 00:09:09.240
+<v Speaker 1>to allow your player to bond with your game. And as I said many times, but it comes up here, which is important, is</v>
+
+00:09:09.930 --> 00:09:40.240
+<v Speaker 1>the key to any success. And I would say the key to any art, I considered game design and art form. So I believe the key to any art is that you want to bond and connect with your audience. You want your audience to be able to see something that they understand that means something to them and connect to. But the tricky thing is not everybody's the same. Not everybody's going to come and bond with the same elements of your game. So the key to a strong game is to make a lot of different choices, a lot of different details, a lot of customization</v>
+
+00:09:40.370 --> 00:10:10.280
+<v Speaker 1>that allows the player the ability to find the thing that matters for them. You know, sometimes it's finding it, sometimes it's making it, depending on what tools your game gives your players. But the idea is you want your players to come to the game and say, Oh, wow, there's something about this game that speaks to me, not to people in general me that oh, I, I love blah and this game has blah. And wow, it really I, I really now connect to and it makes it,</v>
+
+00:10:10.380 --> 00:10:15.250
+<v Speaker 1>it makes the game personal for me. And that's the big thing that people have to understand is</v>
+
+00:10:16.710 --> 00:10:18.140
+<v Speaker 1>there is a line,</v>
+
+00:10:19.570 --> 00:10:25.030
+<v Speaker 1>there are games you play and there are games that you are part of.</v>
+
+00:10:26.630 --> 00:10:46.990
+<v Speaker 1>When I say games you play, it's like, OK, I'm going to sit down and play a game with my friends or something and like, OK, it's fun and I, I passed the time. But but the reason you play is that it's just like, oh, it's a thing to do. Maybe something to do with my friends or whatever, but a game that really connects into something in which you identify through the game</v>
+
+00:10:47.800 --> 00:11:16.440
+<v Speaker 1>that the way I used to say is, um, you know, I play Scrabble, but I'm a Magic player. That Magic defines part of who I am. You know, that that game speaks to me in a way that becomes, that's part of my psyche, if you will. And so one of the things you're always looking for in the game is to try to find a way to make that connection with your player base, to make the game something in which there's something about it that speaks to the player.</v>
+
+00:11:17.090 --> 00:11:43.040
+<v Speaker 1>OK. The reason that is so important and then sort of ties in today's lesson is if you want to do this, if you want to allow your players to bond with your game, you need to do a lot of research up front. You need to understand, A, who are the players of your game? B, what are the components that they like? And those are connected. Because for example, I'll take Magic as my ongoing example.</v>
+
+00:11:44.580 --> 00:12:14.630
+<v Speaker 1>For example, some players who play Magic really, really fall in love with the flavor side of things. We call them the orthoses that the art, the story, the the how cards come alive as game wise, representing a concept that they are attracted to. And one of the things there, if you notice, like in the game, we'll do a lot of worlds in which we do top down things we do. It's the horror genre, it's Greek mythology, it's Egyptian mythology. You know that we bounce.</v>
+
+00:12:14.700 --> 00:12:45.510
+<v Speaker 1>Can we take some real source material? Because there's people that say, oh, I love zombie movies. Ohh, yay, you made me zombies that feel like the zombies from the movies I love. And that there's a lot of trying to sort of deliver to people aspects of what they like, but in order to do that in order to sort of hit towards your audience. So we'll get to the second part in a moment, but the first part is before you can deliver, you have to understand. And that is why I mean, like one of the things, for example,</v>
+
+00:12:45.590 --> 00:13:08.380
+<v Speaker 1>I'd spend a lot of time interacting with the audience. Why? Why do I do that? Now on some level, I'm a spokesperson. I mean, there's a there's a little bit of cheerleading and just getting people focused on things we want them to get excited by. But there's another way, It's a two way thing. I want to know what excites their players. I want to know,</v>
+
+00:13:09.670 --> 00:13:39.810
+<v Speaker 1>I'm always interested when players write into me and say, hey, have you ever considered X or Y? You know, could you here's a character that you referenced, but it's not a card. Could it be a card? Or here's a mechanic that you did, but you didn't do this one aspect with it. You know, could we get an Angel that has that mechanic or whatever? I'm not allowed to hear new stuff because I can't hear unsolicited material, but I can hear people asking for tweaks on existing things. And that is so important because it allows me to get a better understanding of what the audience might want.</v>
+
+00:13:41.160 --> 00:13:50.250
+<v Speaker 1>And so it is very valuable. So what I would say is play test your game. And once again, play tests with people that don't have an emotional stake in your well-being.</v>
+
+00:13:51.510 --> 00:14:07.310
+<v Speaker 1>And then not just play tests with them, not just observe what they're playing afterwards, talk to them. A lot of people that do plays, they don't realize that really good play testing then involves A questionnaire. Usually you want to keep it short. Don't make it too long, but when you want to say the players is</v>
+
+00:14:09.050 --> 00:14:30.310
+<v Speaker 1>not just how did you feel about the game, but what did you like about the game and not like what were the components that drew you in and what are the components that pushed you away? So it's and once again, it is important to understand the former is a little more important than the latter. What is it about the game that you loved? I had another podcast in the series You can do where I talked about</v>
+
+00:14:30.970 --> 00:14:49.440
+<v Speaker 1>if, uh, if everybody love everybody, everybody likes your game, but nobody loves it, it will fail. And I was talking about how you need to sort of push the envelope and find things that people are passionate about, even if it means that other people dislike it, which ties into part number two. OK, so you've done some research, You've figured out</v>
+
+00:14:50.210 --> 00:15:02.580
+<v Speaker 1>what are the different components of your game and what are the things that people seem to be attracted to. OK. So the next stage is now making the connection of understanding what component is for what player.</v>
+
+00:15:03.970 --> 00:15:07.790
+<v Speaker 1>And I can't stress how important this is because as we'll talk through today,</v>
+
+00:15:08.970 --> 00:15:22.270
+<v Speaker 1>every game like it's important that you understand that there's no uniformity in your game player. It's very easy to want to think of your game player as a singular entity. Like all players of my game act like this.</v>
+
+00:15:23.600 --> 00:15:53.470
+<v Speaker 1>And what we've found is, I mean, I just talked from Magic. You know, we've done a lot of research on Magic is that there are people that play for radically different reasons that audience members that like if the two of them try to play Magic together, they would have trouble playing Magic together because how they play and what they play and what formats they play and what they enjoy is so different from each other that it would be hard. It would actually be a little difficult to get them to play together. And that's not the way people think. It's like, well, if you</v>
+
+00:15:53.550 --> 00:16:04.960
+<v Speaker 1>who play the same game, how clearly you would have a good time playing with each other. Yeah, not necessarily. And that one of the things that Magic does in particular is Magic is very modular in the sense that</v>
+
+00:16:06.350 --> 00:16:31.440
+<v Speaker 1>the cards are kind of a tool for you to play a game and there's a rule structure and there's things to help you. But the ability for you to play different formats, to just invent your own format, there's a lot of ways to play with the cars, and people keep inventing and finding new ways. OK, so here, now we get to the crux of today's lesson, which is you need to understand when you're crafting any one component, what is that component for? Who is it for?</v>
+
+00:16:32.630 --> 00:16:35.680
+<v Speaker 1>And the answer is, all components can't be for everyone.</v>
+
+00:16:37.230 --> 00:16:50.900
+<v Speaker 1>There's this problem that I see when with newer game designers and that they seem to want to design everything with everyone in mind. And the reality is you are doing a disservice.</v>
+
+00:16:52.140 --> 00:17:13.440
+<v Speaker 1>It is going to be very hard for you to make a game that people love if every time you have a decision to make, you go toward the center decision, you go toward the thing that most people would like. This ties very close into the everyone likes, everyone Loves it podcast. So you need to make decisions. You need to push in directions. And what I'm saying today is</v>
+
+00:17:15.100 --> 00:17:23.910
+<v Speaker 1>when I'm making a card, I need to understand who that card is for. I need to have in my mind a picture of OK who am I trying to make happy</v>
+
+00:17:24.590 --> 00:17:30.270
+<v Speaker 1>because when I don't, when I'm not clear if we do like multicentric. Perfect example where</v>
+
+00:17:31.860 --> 00:17:57.510
+<v Speaker 1>I kind of made a card that could have been much beloved by a lot. I mean, I'm not saying nothing, nobody likes it, but it just wasn't an error. Card Guidebook studies, when we do studies on the cards where we ask players, Magic players, what they think and we show them a bunch of cards and they grade them. So we get grades in individual cards. We know how individual cards do. This card did not do well. And the reason that I believe so is we we're not focused on who the audience was.</v>
+
+00:17:59.130 --> 00:18:09.240
+<v Speaker 1>And so when you sort of isolate and when you figure out the key is you want to make decisions for who the audience is and not</v>
+
+00:18:11.580 --> 00:18:15.790
+<v Speaker 1>here, I'll use a different metaphor here to show why this is kind of silly.</v>
+
+00:18:17.280 --> 00:18:23.250
+<v Speaker 1>Imagine if you're riding a horror film, you know, Attack of the Zombies or whatever, and you say, you know what?</v>
+
+00:18:24.000 --> 00:18:54.470
+<v Speaker 1>I, I'm not just gonna cater to horror fans, I'm going to cater to all movie fans. And so I make decisions that optimize it to make it a general movie. The problem I'm going to run into is the general movie audience probably isn't coming to this movie because it's a horror movie, meaning horror fans are coming to this movie, people that like the kind of movie. And so if I kind of make a movie that's for everybody and don't maximize making the movie for horror fans or zombie fans, I'm doing a disservice to my movie</v>
+
+00:18:54.540 --> 00:18:58.740
+<v Speaker 1>because the people are going to come see it are the zombie fans that's just going to see it.</v>
+
+00:18:59.440 --> 00:19:06.850
+<v Speaker 1>And so with your game component, I'm not saying you can't ever make components across over more sections of players. You can</v>
+
+00:19:08.170 --> 00:19:12.680
+<v Speaker 1>that for each one component you should maximize. You should prioritize. I guess is better</v>
+
+00:19:13.660 --> 00:19:39.470
+<v Speaker 1>prioritize who it's for and make sure that every decision you make makes that player happy. Now, sometimes the decisions you make that there's a way to make a second group happy that doesn't diminish making the first group happy. That's fine. I'm not saying each component can't have more than one audience, but you have to sort of prioritize who in your main audience is. So when you're making something, when I'm making a card for example, I'm very conscious in understanding who's supposed to play that card.</v>
+
+00:19:40.180 --> 00:19:42.360
+<v Speaker 1>And then, and this is the hard part,</v>
+
+00:19:43.510 --> 00:19:44.250
+<v Speaker 1>that</v>
+
+00:19:45.610 --> 00:19:54.020
+<v Speaker 1>when you make your component, you have to buckle down and you're going to get criticism. For example, whenever I make a card.</v>
+
+00:19:55.370 --> 00:20:00.140
+<v Speaker 1>So here's here's a very classic example. I make a card for a certain audience in mind.</v>
+
+00:20:01.580 --> 00:20:04.500
+<v Speaker 1>A lot of other people will complain that the card is useless to them,</v>
+
+00:20:05.700 --> 00:20:13.260
+<v Speaker 1>and this is something you will see a lot, especially if you're lucky enough they have a game in which you get feedback from your audience on a regular basis.</v>
+
+00:20:16.730 --> 00:20:19.890
+<v Speaker 1>A very common complaint is I don't like this.</v>
+
+00:20:20.830 --> 00:20:26.150
+<v Speaker 1>And really, when you dig deep, what the what they're saying is this isn't for me.</v>
+
+00:20:27.010 --> 00:20:35.890
+<v Speaker 1>And that you as a game designer have to understand that not every game component can be for every game player. And that you have to suck that up</v>
+
+00:20:37.210 --> 00:20:38.420
+<v Speaker 1>that when somebody</v>
+
+00:20:39.200 --> 00:20:56.150
+<v Speaker 1>like for example, I made a card once called Goblin Pilot, I think it's called Goblin Test Pilot, Test Pilot. And so basically it's this goblin that flies that you can tap it to do damage to a random creature. I think you do 2 damage to a random creature. Now</v>
+
+00:20:56.950 --> 00:21:04.250
+<v Speaker 1>Goblin Test Pilot is a 22 creature I think, so he can kill himself. Whenever you use them, there's some percentage chance that he's going to hit himself.</v>
+
+00:21:05.800 --> 00:21:15.750
+<v Speaker 1>And I had a bunch of others yell at me. They're like, why would I ever play this card? Why would I play this card is a stupid card. You know, some percentage time it just destroys itself. Why would I play that?</v>
+
+00:21:16.540 --> 00:21:23.400
+<v Speaker 1>And what I said is I go here, I'm going to do a little experiment on my social media. I'm going to say, who likes this card?</v>
+
+00:21:24.110 --> 00:21:55.880
+<v Speaker 1>And all these people came out of the woodwork said, ohh, this guy is awesome. I love this card. It's so flavorful. And what people I was trying to demonstrate is the card was made to be a fun, goofy card. It wasn't made to be a competitive card, wasn't made to be a top tournament card. It was made to be a flavorful, fun card because some people when they made decks are just having fun. You know, they're more Timmies and Tammys or Johnnys and Jennys that they're, it's not about winning for them, you know, and not that they don't want to win, but they have to win within the constraints that they want to win.</v>
+
+00:21:56.000 --> 00:22:11.120
+<v Speaker 1>Maybe they want to win with style. Maybe they're just trying to make something super flavorful. Maybe they're trying to make their friends laugh. Maybe they have a weird combo that does something cool. But the point is, that card is a neat card that made a lot of players happy,</v>
+
+00:22:11.930 --> 00:22:28.550
+<v Speaker 1>but the vocal players at first were very unhappy. And so one of the things that you have to kind of buckle down when you're a game designer is you have to sort of do the homework to understand your audience. And then you have to sort of accept the fact that</v>
+
+00:22:29.530 --> 00:22:31.070
+<v Speaker 1>everybody, every player,</v>
+
+00:22:32.690 --> 00:23:02.420
+<v Speaker 1>I mean, I've done a lot to educate Magic players. So Magic players, some of them have slowly come around, but players will always assume that everything was meant for them. And when it doesn't match what they want, they will complain. And you have to be knowledgeable enough and understand your audience enough to know who the audience is. So when you make something and you get negative comments, you're like, OK, I get that this player doesn't like it. And like I said, I talked about this during the Everyone Likes It podcast.</v>
+
+00:23:02.770 --> 00:23:11.160
+<v Speaker 1>Anything that's going to get someone to fall in love with, anything that you're going to do that's going to make someone just be really endeared. Odds are anything that's that</v>
+
+00:23:11.930 --> 00:23:34.460
+<v Speaker 1>emotion, you know, that strong and emotion getter is going to turn some people off the wrong way. Any car that's going to make someone believe it's gonna make somebody hate it and that you need to suck it up. You need to accept that not everybody's gonna love everything you do. That somebody's going to hate some of the stuff you do because it's through the things that players hate. That you make stuff. The players also love</v>
+
+00:23:35.230 --> 00:23:35.600
+<v Speaker 1>that.</v>
+
+00:23:36.470 --> 00:23:37.130
+<v Speaker 1>You know,</v>
+
+00:23:38.510 --> 00:23:51.660
+<v Speaker 1>there is a lot of risk taking to gaming game design, but one of the things that's not really a risk is this idea that if players are unhappy, I have failed as a game designer.</v>
+
+00:23:53.020 --> 00:23:59.170
+<v Speaker 1>That's why I really want you to spend the work and time to understand, OK, who are the different people that play my game?</v>
+
+00:24:00.670 --> 00:24:16.580
+<v Speaker 1>When you sit down and when you apply test and when you interview people, you will discover really cool things. Especially if once again, when you do the interviews, you want the interviews to be about how they feel about things and what they enjoyed and didn't enjoy.</v>
+
+00:24:18.640 --> 00:24:50.150
+<v Speaker 1>You want to be open-ended enough that they give you the like. One of the things that I've found is if you would ask me when I first started getting into doing Magic and back in 95 when I joined the company and said, OK, why do people play Magic, I would've had some answers. And I mean, none of my answers were incorrect, but I did not fully understand the audience at the time I started. And then I spent a lot of time and I still spend a lot of time. I'm still trying to understand the audience. There's still new formats that get played that I want to understand what makes it tick.</v>
+
+00:24:50.400 --> 00:25:20.350
+<v Speaker 1>Now, as players who regularly follow me know, I'm not a giant Commander fan in that I don't like to play Commander. Commander, the format, it's a casual format, usually multiplayer only because I'm just not a big fan of politics. In my Magic, politics happen when you have more than two players. Well, more than two players in which it's more free for all is not defined who's on what side. But I spent a lot of time trying to understand Commander. I spent a lot of time trying to understand what makes it tick and why players like it and what</v>
+
+00:25:20.420 --> 00:25:24.400
+<v Speaker 1>kind of cards we need to design to make people happy with the format</v>
+
+00:25:25.920 --> 00:25:29.650
+<v Speaker 1>that even things like, and at this example of a format that I don't, I,</v>
+
+00:25:30.750 --> 00:25:43.330
+<v Speaker 1>I mean, I play some to understand and I, I watch some, but I mean, I, it's not something that I personally enjoy. But part of being a game designer is not just making the game as it. So here's an economist take I see</v>
+
+00:25:44.800 --> 00:25:53.850
+<v Speaker 1>is when people start doing magic, for example, or young or new magic designers, they tend to design to what they like about the game</v>
+
+00:25:54.540 --> 00:26:17.940
+<v Speaker 1>that what they do is they say, ohh, magic is fun. Here's what I joined about it. Here's things that I would enjoy. Now that's great. It's a wonderful place to start. But one of the things you have to do is you have to start understanding why others like to play. Like a lot of my journey in my 20 plus years of making magic is trying to get better at not just making the magic eye enjoy, but making the magic others enjoy.</v>
+
+00:26:19.810 --> 00:26:42.610
+<v Speaker 1>And that I really have, you know, embracement interval orthos to try to make super flavorful things and embracement internals make very fine-tuned things and embrace my inner Timmy and Tammy, embrace manners, Johnny and Jenny and embrace my mom. I'm Jenny. Jenny. I embrace my inner spike that I need to find those parts of me. So I understand. And one of the things I believe on some level is</v>
+
+00:26:44.050 --> 00:27:14.140
+<v Speaker 1>everybody has a little bit of everything in them. And that even if you're the die hardest of die hardest spikes, even if it's all about winning at whatever cost and you'll play whatever deck you need to. There's moments like I talk about having like a Timmy moment. There was a moment where the correct play was the cast on the giant creature and you had some giant blowout moment and come on, come on, deep in your soul. That was fun. You know, not that you would change decisions, not that you would pick a suboptimal deck</v>
+
+00:27:14.210 --> 00:27:28.580
+<v Speaker 1>to do that, but if it's the right thing to do and you did it, there's something fun about just playing a giant creature and going wow, big spell, whatever. There's visceral fun to that and that even the spikes of Spike can have a tiny moment.</v>
+
+00:27:30.190 --> 00:27:59.400
+<v Speaker 1>And so one of the things that I try to do when I play is I want to capture those moments and I want to figure out where is the fun and different things so that I can aim that way. And so a big part of today's lesson, really the key part of it is that you are not designing like get it out of your head when you're making things that you're just making everything for everybody. That is not the route to success in the game. The right</v>
+
+00:27:59.490 --> 00:28:20.550
+<v Speaker 1>success in the game is doing the knowledge on your own game, doing the homework, understanding the various audiences, and then being able to identify when you make components. Who is that component mostly for. And like I said, it's not that you can't make for multiple people, just somebody's the priority. You have to prioritize somebody when you're making it</v>
+
+00:28:21.320 --> 00:28:32.880
+<v Speaker 1>and that when you have decisions to make, your priority gets to win. Every decision that if I'm making a card for Tammy, that every decision where there's a fork in the road, I take the Tammy Tammy fork</v>
+
+00:28:34.350 --> 00:29:03.710
+<v Speaker 1>and sometimes there's a fork in the road and it doesn't matter. Tammy would like both things. Then I can start making decisions that might make a secondary person happy. You know, I can do that. But once again, you know, I what I've learned time and time again is not to be infringed. So here's my metaphor, metaphor today. I actually learned this lesson. The first time I learned this lesson wasn't making magic actually was playwriting. So I made a play which I've mentioned before called Lego My Ego.</v>
+
+00:29:04.080 --> 00:29:35.290
+<v Speaker 1>And the premise of the play is the main character is trying to decide whether or not to cheat on his girlfriend of 2 1/2 years with a girl he's been obsessed with forever. And it's his emotions arguing about whether or not he's supposed to do this. That's the plan. So I put a bunch of emotions. The play is full of I think there's 11 characters and they're all there's the ID, the ego and the Super ego. And then all the rest of the characters are emotions. Well, save rationalization, that's a defense mechanism. But, and one of the things is some of the emotions in the play are negative</v>
+
+00:29:35.360 --> 00:30:05.220
+<v Speaker 1>potions. There's bitterness, there's depression. You know, there, there are some emotions that are definitely more downbeat emotions. And that one of the things I learned was the audience likes depression. The more depressing depression was, the more bitter bitterness was, the more paranoid paranoia was that what made them like the character was what made them bond to the character. And the idea was that I had this</v>
+
+00:30:05.580 --> 00:30:34.270
+<v Speaker 1>England, they go, oh, well, I wanna make sure depression is entertaining. And the reality is the more depressing depression was that. In fact, the best laughs that depression got was finding a way to take what someone else said and converting it to the most depressing possible way to think about it. That was the comedy of depression. And what I found is when the dust settled, people in fact legs been negative emotions vary much. Depression was very popular. Bitterness was very popular. Paranoia was very popular.</v>
+
+00:30:35.780 --> 00:31:02.700
+<v Speaker 1>What it made me realize was that you have to steer into something. You have to commit to something and that that is where the work shines. And so if I'm going to make a Timmy card, I'm going to make the Timmy Timmy card. I can make. I'm going to lean in. I'm going to make something. You know, what I want to do is I want to express that thing as strong and as loud as I can. My goal is not that.</v>
+
+00:31:03.450 --> 00:31:05.610
+<v Speaker 1>I can't stress this enough that</v>
+
+00:31:06.350 --> 00:31:30.800
+<v Speaker 1>this idea that I want to find the common ground that I wanna make choices that is going to make everybody somewhat happy is a huge mistake. I don't want to make everybody a little bit happy. I want to make one person really happy. I want to make someone fall in love with my game. And the way I do that is I pick somebody, I focus on them and I really commit. I</v>
+
+00:31:32.410 --> 00:32:00.650
+<v Speaker 1>pull no punches. And Molten Sentry, for example, is a good example where we pulled punches, where I could have made that a super exciting Timmy card, or I could have made that super exciting spike card. But in the end, I made a card that nobody likes. And that's, that's The thing is there's this idea that somehow it's dangerous, that leaning in, that committing to something, that pushing towards something is going to cause you game problems. And I'm telling you, it's the exact opposite, that</v>
+
+00:32:01.760 --> 00:32:19.190
+<v Speaker 1>if you make sure that each component, each player of your has some corner of the game that is theirs, that speaks to them, that's exciting. That's the right to success. Like one of Magic's big success has been that we make a wide variety of cards for wide variety of players. And in fact,</v>
+
+00:32:19.950 --> 00:32:49.480
+<v Speaker 1>no player should like every card and every expansion that players should look at some cards and go, I would never play that, man, that's a horrible card. I don't like that card at all. Now, as long as that card starts somebody, and I'm not saying make a card to everybody hates, although every once in a while that's not a horrible thing. But you want to make something in which it's for somebody. And then don't worry about everybody else. Don't worry about everybody else. That everybody else could dislike the card, hate the card, send you, send you nasty emails. It doesn't matter</v>
+
+00:32:49.840 --> 00:33:01.350
+<v Speaker 1>if, if, if the person who's supposed to love it loves it, that's what matters. And that mostly of today's lesson is me trying to sort of really hammer home that</v>
+
+00:33:04.090 --> 00:33:10.810
+<v Speaker 1>a lot of game design is research, A lot of game design is psychology. A lot of game design is</v>
+
+00:33:11.570 --> 00:33:41.590
+<v Speaker 1>putting in the time and energy to understand what makes your game tick. That you got to look not just without, but within. And that a lot of doing that is there's a lot of homework that comes in making a game. And I know that there's this idea that the way a game is made is I locked myself in a room and then I come out and there's a game. And that's not at all what's going on. You need interaction with the public. You need play testing, you need feedback, you need interviews. That a lot of what you need to do</v>
+
+00:33:41.670 --> 00:33:43.830
+<v Speaker 1>is you need to sort of understand</v>
+
+00:33:44.920 --> 00:34:00.540
+<v Speaker 1>who your audience is, what it is they want. Because if you can't lean into things, if you can't push toward the audience that's going to love the thing, you're going to end up with a game that isn't going to shine, that isn't going to speak to people, that isn't going to bond with people. And that</v>
+
+00:34:01.660 --> 00:34:04.850
+<v Speaker 1>the lesson of today is really a lesson of</v>
+
+00:34:07.120 --> 00:34:16.410
+<v Speaker 1>you need if, if you want to make something that is going to bond to your players, that's going to stand out, that's going to stand up to the test of time, that's going to sort of</v>
+
+00:34:18.370 --> 00:34:25.280
+<v Speaker 1>excite in a way that you need a game to excite. It requires you doing work. There's work to be done</v>
+
+00:34:26.580 --> 00:34:27.120
+<v Speaker 1>and</v>
+
+00:34:30.150 --> 00:34:35.580
+<v Speaker 1>as much as I do enjoy interacting with the audience, as much as I do like social media,</v>
+
+00:34:36.400 --> 00:34:46.640
+<v Speaker 1>I believe the secret of my success, the reason I become such a good game designer is that I have dedicated myself to understanding my audience and understanding my game.</v>
+
+00:34:47.320 --> 00:34:49.640
+<v Speaker 1>That I have spent</v>
+
+00:34:50.770 --> 00:35:05.280
+<v Speaker 1>lots and lots of you. And like I said, I invented the psychographics. I, there's so many things that I have done to try to get a handle on ways to explain my audience so that I understand their needs and desires so that I can deliver on their needs and desires.</v>
+
+00:35:06.800 --> 00:35:07.120
+<v Speaker 1>But</v>
+
+00:35:08.780 --> 00:35:38.550
+<v Speaker 1>you know, if you listen to my podcast, I keep coming up and saying again and again that one of the skills you need to be a good game designer is to be a psychologist, is to understand how people work and understand what makes people tick. Because in the end, what makes good game design is making something that people want to play that not just not just play. Once again, I don't want people to play my game. I want people to be a player of my game. That part of their definition, that part I mean that</v>
+
+00:35:38.720 --> 00:35:57.680
+<v Speaker 1>who they are as a person gets intertwined with what my game is, that I could speak to them on the most primal deepest of levels. And to do that and to end to be a game designer that does that requires me to really understand both who my audience is and then make the commitment. Make the bold commitment of</v>
+
+00:35:58.630 --> 00:36:30.050
+<v Speaker 1>dedicating each component to the right person and leaning in, pushing in, making sure that my Timmy card is the tiniest card that I can make, that my Jenny card is that Jimmy'z card I can make, that my Spike card is the spike is card I can make. I have to figure out who the audience is and then maximize the element for them, knowing that I am not doing that for everybody and that each player will get their own section that I'm focusing on them. So in the end, I'm giving everybody something, but not every piece is for every player.</v>
+
+00:36:30.190 --> 00:36:43.580
+<v Speaker 1>Every piece is for somebody, but every piece is not for everybody. OK guys, I'm now at work, so we all know that means this is the end of it. Drive to work instead of talking magic. It's time for me to make it magic. I'll see you next time.</v>
+

@@ -1,0 +1,359 @@
+WEBVTT
+
+00:00:01.120 --> 00:00:30.920
+<v Speaker 1>I'm pulling my driveway. We all know that means it's time for not to drive to work. OK, so today in the last podcast I did, I talked about the console colors and I said one day I should the podcast on the console of colors. And then today I realized that should be today. So today is going to be all about the council of colors. So I'm going to explain sort of what it is, where it came from, how it works. And one of the things that I'm hoping you'll see today is I'm going to go real deep on one little</v>
+
+00:00:31.000 --> 00:01:01.010
+<v Speaker 1>any aspect of something we do at Wizards, just to give you an idea of how much things matter. And with that, how much infrastructure will be built to make sure that we're paying attention to things. OK, so the Council of color. So for those long time listeners in my blog, you clearly know that I love the color pie. And I did an entire podcast on the color pie, the importance of the color pie. I did a three-part series long ago about what I call the golden trifecta, which are the three things</v>
+
+00:01:01.080 --> 00:01:31.950
+<v Speaker 1>genius idea that Richard Garfield created when he first made Magic 1 is the idea of a trading card game. The second is the manna system, and the third is the color pie. So let me, I'll just do a real short version of the code. There's a whole podcast if you want the full drawn out version. To me, the color pie is the core of the identity of the game that Richard came up with the idea of. There was five colors of magic and I explained to my podcast about like the importance of like the color pink mechanically does a lot of important.</v>
+
+00:01:32.030 --> 00:02:02.530
+<v Speaker 1>It's about allowing you into trading card game to have different things, have different power and the manifest and make sure that you can't play on the same back. But the thing that's really interesting about the color pie is it gives the game an ethos that there are things in the game that the game has a psychological underpinning to it that the colors mean something and the colors relationship to each other mean something and there's a correlation between all the colors. And that is a really cool important thing. In fact, when you go to like the root of the game,</v>
+
+00:02:02.600 --> 00:02:33.170
+<v Speaker 1>the core of the game, the foundation of the game, I believe that's the color pie that the flavor comes from the color pie. The mechanics come from the color pie. Like the very essence of like why things do what they do all boils down to the color pie. And as such, I have been a big advocate of the color pie and a protector of the color pie. Like one of the things is the color pie does a lot of important things. One of the most important things it does. I mean, it creates diversity in great, gives an ethos to the game.</v>
+
+00:02:33.350 --> 00:02:34.970
+<v Speaker 1>Another important thing it does is</v>
+
+00:02:35.630 --> 00:03:05.420
+<v Speaker 1>it it keeps the game like one of the one of the most important things about a trading card game is you want to make sure you have lots of different pieces and you want to make sure that all of the powerful things can't go on the same deck. And the color pie helps do that by separating things into different colors. But one of the dangers is if you, over time, it's very easy for you to just make small changes and go, well, we'll just bend here and bend there. And before you know it, you undermine the core of the color pie and it collapses because</v>
+
+00:03:05.570 --> 00:03:11.810
+<v Speaker 1>there's a point at which every color can do everything and there's no delineation. And so we want to make sure that doesn't happen.</v>
+
+00:03:13.260 --> 00:03:17.070
+<v Speaker 1>And it looks in the history of Magic, there is a lot of,</v>
+
+00:03:18.360 --> 00:03:38.990
+<v Speaker 1>there are a lot of cards that got made that shouldn't have gotten made, cards that really like fly in the face of what the color pie is. And so for a long time, what happened is I was the protector of the color pie. And whenever I would see a color pie violation, I'd jump into it and go, okay, white doesn't do this or blue doesn't do that, whatever. And I would defend whatever I thought was needed to be done.</v>
+
+00:03:39.700 --> 00:04:09.700
+<v Speaker 1>The problem was that Magic has like when I first started working on Magic, you know, back in 1995, we made basically three sets a year. And then every other year we made a corset. And that's what Magic was when I first started the company. There's like we made three sets a year, metaphor set every other year. And that really was what Magic was. And so it was very easy for me to pay attention. We didn't, we only made, you know, so many cards a year. And so it was easy for me to sort of</v>
+
+00:04:09.770 --> 00:04:37.650
+<v Speaker 1>just watch. And also in the early days, I was on all the development teams. I was on every single team. So like I was between the, you know, the last part of any part of the process between, you know, the designers designing and the card seeing print is development. So I was there at the tail end and that I could watch for color pie stuff. And I'm not saying nothing slipped by me, you know, or sometimes I would allow something and then it ended up being problematic. I mean I'm not saying I was perfect, but I would allow,</v>
+
+00:04:39.360 --> 00:05:09.350
+<v Speaker 1>you know, early imagine for example has a few crazy cards like Anarchy is one that anarchies are red card that lets you destroy all white permanents. Well one of the problems is red is supposed to be bad. It's one of its weaknesses supposed to be enchantments and white enchantments are a big part of it. One of the reasons 1 of whitey's arsenals against Reds is as white enchantments. Well anarchy just blows up all white cards including enchantments, which is not supposed to do and causes a problem. Like part of the balance between right and red has to do with that white has some answers to red that red doesn't have. Easy simple answers</v>
+
+00:05:09.420 --> 00:05:09.800
+<v Speaker 1>2</v>
+
+00:05:11.180 --> 00:05:34.230
+<v Speaker 1>Anyway, I stopped the anarchies of the world, you know, I stopped like completely like that color doesn't do that thing, you know. And once again I talked about this that the most important part to me is colors of identities. They have philosophies and they have weaknesses. And so part of understanding we bend things all the time. So let me define a bend in a break. So a color bend means</v>
+
+00:05:35.770 --> 00:05:45.110
+<v Speaker 1>I talked before about the mantle, the crust, the mantle, the sorry, the core, the mantle and the crust. The idea is the core is what</v>
+
+00:05:46.540 --> 00:06:16.520
+<v Speaker 1>inner workings of the color pie, where the color pie does every day sort of its normal working. These are the every set. These are the things you see the color pie do. The mantle are these are things the color pie does. Some of the time. It doesn't do it all the time. Like when we do a graveyard set, they've mapped out space in all the colors for some graveyard stuff. But normally, normally red, for example, doesn't do a lot with the graveyard, but in the graveyard said, OK, we found some space that we guess occasionally that's the mantle.</v>
+
+00:06:16.590 --> 00:06:47.970
+<v Speaker 1>It's like, OK, we don't go there all the time, but let me go there some of the time when we need to go there. And the crust is sort of like, philosophically speaking, these colors could maybe do some things that are kind of a stretch for the color. And that's when we get into the bend. It's like a bend and bend means that the color is doing something it doesn't normally do. But philosophically, it's hitting along the line. It's not undermining its weakness, which is important that it's not undoing something. The color is supposed to define the color</v>
+
+00:06:48.290 --> 00:06:54.790
+<v Speaker 1>a break is. It is undoing A weakness. It is doing something the color it is not supposed to do.</v>
+
+00:06:55.910 --> 00:07:26.150
+<v Speaker 1>And so one of the things we look at when we sort of make cards is I'm going to lookout for what are the color bends? What are the color breaks? The reason color bends are important is if you make enough color bends and enough volume, it's a lot like making breaks that you have to be careful how often you do the bands and where and how you do them. And you don't want to do a bend just to do it. You should do a bend because it serves the set. Like if it sets all about the graveyard and we have okay Reds bending a little bit to do more</v>
+
+00:07:26.220 --> 00:07:42.960
+<v Speaker 1>graveyard stuff, OK, that's it's reinforcing the theme it needs to reinforce. But bending when there's not a larger point. Like bending should be done only because it serves the SAT, not cuz hey, well I could kind of do this, you know? You shouldn't be bending without reason and showing you so much bending per set. You don't want infinite bending.</v>
+
+00:07:44.170 --> 00:08:14.520
+<v Speaker 1>So, um, so nearly days. There were three sets. There was of course, every other year I could watch it and I was on all the development teams. So it was very easy for me to monitor that. And it's something that I really early decided that was something important to me. Nobody else of the early, when I first started working out early developers, nobody else really cared about it as much as I did. I, I really, I'm the one that comes. My mom is a psychologist or I mean, she's retired now, but she was a psychologist. I have a big fascination for psychology, you know, the player psychographics, obviously</v>
+
+00:08:14.610 --> 00:08:44.870
+<v Speaker 1>our psychology based and the color by to me is always spoken to me. I'm a writer, obviously, and it gives a lot of motivations and it explains why things get along and why they fight. And anyway, it's a wonderful tool. So I've always been and I've spent a lot of time in energy fleshing out. I've read articles about articles about the color pie. I answer questions all the time. My blog about, OK, let's take characters from elsewhere and what colors are there and why and why for this person, this color, I spent a lot of time understanding why they're</v>
+
+00:08:44.940 --> 00:09:15.540
+<v Speaker 1>lies and why their enemies. And you know that the color pie existed back in alpha, but I spent a lot of time sort of hammering it out and sort of cleaning it up a little bit, much like we've cleaned up the rules and a lot of aspects of the game. I mean, Richard made an amazing things, but we've had 23 years now to fine tune those things. So okay, early days I was on the development teams, I cared about the color pie. I was keeping my eye out for it. Eventually, OK, I've moved on from being a developer to being a designer, which meant I was working earlier on the process. I wasn't the last</v>
+
+00:09:15.640 --> 00:09:33.110
+<v Speaker 1>hands on things, although even in the early days I also was on a lot of development teams that I designed just for the nature of the work that many developers. But eventually it got to the point where I was doing design and not doing development and then I had a peek in from time to time. I would always look at Sats and try to make sure I do a pass on them.</v>
+
+00:09:33.800 --> 00:09:42.950
+<v Speaker 1>But then around Magic 2010, so imagine 2010 was a corset where Aaron Forsythe had this pretty cool idea. He said, you know what,</v>
+
+00:09:43.650 --> 00:10:13.540
+<v Speaker 1>one of the things of course it needs to do is be resonant and do cool things and that sometimes the cards we need don't quite exist. Well, why can't the course just make its own cards? And I was on the design team for Magic 2010 and all of a sudden said, OK, you know what, Corsets. But half the cars and corsets can be new cards is what we decided. So we started making new cards in corset. Normally before, right, there were three sets we did a year and the corset and the course that was only repeats. There weren't any new cards in it. Now like, OK, we're going to do corsets</v>
+
+00:10:13.640 --> 00:10:17.040
+<v Speaker 1>and not just every other year, every year and they're going to have new cards in it.</v>
+
+00:10:17.690 --> 00:10:47.590
+<v Speaker 1>It's like, OK, well that's a few more cards. And that wasn't something I was, you know, it's easy to keep my eye on. It wasn't other than I happen to be on the design team for 2010 cause that was a big shift. But normally I wasn't on core design teams. I was because I was the head designer. I was watching the main expansions And so I kept my eye on the major expansions. But while I was kind of high to keep my eye on the corset. And then we started doing supplemental products. We started doing stuff like conspiracy or stuff like commander decks. We started making new cards for other products. And that was way outside of my scope. That's not</v>
+
+00:10:47.660 --> 00:11:17.680
+<v Speaker 1>OHH and what started happening was more sort of either severe bends or actual breaks we're getting through a chaos warp is a good example of it's a card that was trying to mimic something ready done, but it really allowed red to very clean and easy pinpoint removal of enchantments in the way that this there was very little punishment every once in a while you would get burned, but you know 10% of the time maybe and it wasn't enough. It was like, OK, red now has the answers that needs to this problem without having any repercussions of it under</v>
+
+00:11:17.760 --> 00:11:30.870
+<v Speaker 1>undid the weakness. Um, and it's clear to me that there were more products getting made. And the other thing was as we were advancing, as I was, you know, when I first took over as head designer back in 2003,</v>
+
+00:11:31.920 --> 00:11:48.980
+<v Speaker 1>I, I've been trying to find more and more ways to improve how we do the corset. And of course, that's the expansions. And that involves us doing a lot more with them. And we've started working farther ahead. And now there's exploratory design, exploratory worldbuilding, and there's a lot of pieces and parts going on to making the thing click together.</v>
+
+00:11:50.590 --> 00:11:56.060
+<v Speaker 1>And so, um, the thing that really was important to me was</v>
+
+00:11:56.730 --> 00:11:57.270
+<v Speaker 1>that I,</v>
+
+00:11:57.980 --> 00:12:17.300
+<v Speaker 1>I, there was too much happening, you know, that I was responsible for more and more things in the design side, that I just had less and less time to be policing things, especially in supplemental sets or corsets that I actually wasn't even working on. And little by little things were slipping through that I was unhappy about. And so</v>
+
+00:12:18.710 --> 00:12:24.680
+<v Speaker 1>one of the ideas I had originally was I said, OK, what if I could train my designers to be more,</v>
+
+00:12:25.410 --> 00:12:56.280
+<v Speaker 1>they have a better understanding of the color pie Because I looked at the developers and I said, you know what, the developers all have a really good understanding of costing that if I want to cost the card, I can talk to any developer and say, OK, what does this cost? This is the card What? And any developer can give me a cost that was in spitting distance of not, not that, you know, in the end, it might not have to change one or two manner, but it's in spitting distance. And what I wanted to do was I wanted to provide that tool for my design team. I wanted all the design team to be knowledgeable enough on the color pie that have any developer had a color pie question,</v>
+
+00:12:56.360 --> 00:12:58.190
+<v Speaker 1>they could go to any of the designers to do that.</v>
+
+00:12:59.500 --> 00:13:29.550
+<v Speaker 1>That's why I started doing is I started training the designers in the color pie. Now in general, in order to do designing, you have a decent understanding of the color pie. So the designers already had a pretty good working knowledge. But I did a whole bunch of meetings. We have weekly design meetings. And so I use the weekly design meetings or some of them to walk through each of the callers. And I walked through the mono colors. I walked through all the two colors. I walked through the relationships between the allies, relationships between the enemies, and we mechanically walk through every color. We're</v>
+
+00:13:29.850 --> 00:13:59.420
+<v Speaker 1>OK, let's talk red, Let's write on the board every single thing red can do mechanically. And then I explained philosophically why, why red could do that, why mechanically red did that. And then I talked about where the bends were and where the brakes were. And I talked about the weaknesses of every color. And you know, I, I spent a lot of time sort of downloading all the information I could about the color pie to my designers. And the idea being that look, just as if someone has a costing, they can go to anybody of the developers. And in the end,</v>
+
+00:13:59.630 --> 00:14:29.390
+<v Speaker 1>so if you want the the perfect costing find, you go to Eric Lauer himself and he'll probably help you. But you know, you didn't need to go to Eric lower every time you needed a costing him a card. Any developer could do that. I wanted the same sense for the color pie, which was in the designer will give you in spitting distance. Yeah, there will be a few complicated ones involve new abilities that aren't near anything we've done before. And I'm more than happy to help with something super complicated. But anyway, so the idea is OK, That was the first step. I was going to train my designers to know the color, but I did that. We spent a lot of time on it, weeks and weeks and weeks on it,</v>
+
+00:14:30.570 --> 00:14:34.320
+<v Speaker 1>and then Margot leaves a mark. Gottlieb is the manager to the design team.</v>
+
+00:14:35.660 --> 00:14:36.020
+<v Speaker 1>He</v>
+
+00:14:36.970 --> 00:15:07.070
+<v Speaker 1>Once Upon a time, I used to manage the design team and it became clear that my time was better spent doing products, making, overseeing design itself because we were doing more and more. And so we brought in a manager so that Mark oversaw the people and I oversaw the work. So I was responsible for the work they did, but Mark was responsible for them as people, as them, as employees, and, you know, making sure they're doing all a good manager will do, keeping them happy and make sure they're not getting overworked and all the managerial things that one needs to do.</v>
+
+00:15:07.840 --> 00:15:17.870
+<v Speaker 1>And So what happened was one of the goals that Ghalib had was he was looking to figure out responsibilities for the design team. And as a general thing,</v>
+
+00:15:18.680 --> 00:15:48.130
+<v Speaker 1>I was looking for ways to, you know, one of the victims I got from my boss and Forsyth a long time ago was I needed to figure out what I was doing that somebody else could do because I was doing a lot of stuff. And really the goal for me was to focus more and more on the future that we've been trying to work farther and farther ahead as we've been doing more story. You know, we want to figure out blocks in order to figure out. So we got to figure out mechanics and at least mechanical overview and make sure that, OK, we're telling the story that we can make sets out of.</v>
+
+00:15:48.890 --> 00:15:50.440
+<v Speaker 1>And so as we're doing that,</v>
+
+00:15:51.960 --> 00:16:21.480
+<v Speaker 1>what happened was that like Aaron was like, OK, you got, you have to, in order to take on new work, which is the advanced work, you got to give up some current work. So I spent a lot of time trying to figure out what I was doing that other people could do. And guy who actually had interesting, he said, well, what if we took your color pie out because you are the person overseeing the color pie? What if we give you that up a little bit? What if instead of it all being on your shoulders, we created a team and we used the design team to do that. And I was fascinated, like, look, I know I'm overworked. I know that</v>
+
+00:16:22.250 --> 00:16:52.140
+<v Speaker 1>I knew that things were slipping through the cracks. I just didn't have the time and energy to pay attention to all the different stuff that's getting made. So Mark pitched the idea of a council of colors. I don't know that was the name of the time we came up with the name. And the idea was that there would be 5 people, that each person would take a color and then that they would be responsibility for being the primary person to oversee that color. And then the idea is we would have meetings, and I'll talk about that in a second, in which we talk over the feelings of people and then we as a group,</v>
+
+00:16:52.220 --> 00:17:16.280
+<v Speaker 1>as the council. So the idea was there would be 5 people taking 500 designers. They would be each responsible for color. And that Gottlieb and Eye would sort of be overseeing the process. Once again, got a little bit more oversee the people. I would more oversee this sort of material. But the idea is we would they individually would do stuff and we would get together to do console color meetings and that I would be at those meetings.</v>
+
+00:17:18.990 --> 00:17:48.530
+<v Speaker 1>And OK, so the first thing we had to do is we had to divvy up the colors. So at the time we had five designers that weren't her Gottlieb, which was Ken Nagle, Ethan Fleischer, Sean Main, Gavin Verhey and Jackie Lee. So the idea was OK, we have 5 designers, we have 5 colors, let's give you them up. So the first thing we did is we asked everybody to list in order their preference of colors from first to last. And the way we did it is we went by priority of how long you've been working in design.</v>
+
+00:17:49.600 --> 00:18:03.950
+<v Speaker 1>So Ken Nagle was the, you know, the veteran of the of the five designers. So Ken, for those who don't know, Ken loves green. He is a green made through and through. So it was crystal clear that Ken should be green. It was his number one choice by far.</v>
+
+00:18:05.200 --> 00:18:27.480
+<v Speaker 1>The next technically was Ethan. Ethan and Sean actually started on the same day, but Ethan had his internship in design where Sean had his internship in digital. So the idea there was Ethan had technically been on design slightly longer than John. Once Sean's, both of them got their internship turn into a full time job. Once that happened, both of them are on the design team, but Sean spent some time doing digital before coming to the design team.</v>
+
+00:18:30.680 --> 00:18:35.740
+<v Speaker 1>So it turns out that Ethan wanted blue good enough, Sean one in red good enough.</v>
+
+00:18:37.180 --> 00:18:54.060
+<v Speaker 1>I think both Jackie and Gavin, I don't remember their first choices, but their first choices were either red, green or blue, I believe. But when you looked at their choices, it was clear that between black and white that Gavin was much more interested in black and Jackie was more interested in white. So we made Gavin black and Jackie white</v>
+
+00:18:55.240 --> 00:19:24.640
+<v Speaker 1>and then jewels later joined Jules Robbins and Jules ended up taking artifacts cullis up which which technically was not being monitored, but I like the idea that someone was monitoring it. There is some color identity to color list. I've written about a little bit and just making sure you doing something that really is infringing on a color. It's kind of a jewels job wise. That's what that's what monitoring artifacts mostly is saying. Oh, you're really undercutting red because you should not be giving all colors access to this thing that red supposed to be good at, other</v>
+
+00:19:24.720 --> 00:19:25.880
+<v Speaker 1>aren't supposed to be good at.</v>
+
+00:19:27.480 --> 00:19:56.430
+<v Speaker 1>OK, so here's how the council colors works. So every once in a while there'll be a file that's far enough along that it's time for us to look at it. So we'll say, OK, OK, Council colors, go look at such and such a file. You have a week or two weeks to go look at this file. And what they do is they look at it and they grade every card in the file and scale of one to four. See if I remember correctly. So one means in color pie, like you do this, this is what you do.</v>
+
+00:19:57.280 --> 00:19:58.000
+<v Speaker 1>Um,</v>
+
+00:19:58.700 --> 00:20:11.650
+<v Speaker 1>2 means, OK, there's a little bit of a bend. This is outside the normal realm of the color that sort of place the color normally is. But you're like, I understand why it's making this bend. And so this is an acceptable bend.</v>
+
+00:20:13.300 --> 00:20:42.200
+<v Speaker 1>3 is sort of an unacceptable bend, which is like, well, either you're bending something that's not appropriate. Like maybe there'll be a set where the bend makes sense, but this isn't that set. Like, you know you're making a bend that it's not, it's not playing into what the set is doing. You know that you're bending into place. It's a bend and maybe in the right place is justifiable, but here is not justifiable. And then finally, a four is a break. You just should not be doing this under any regard. You should not be doing this.</v>
+
+00:20:42.400 --> 00:20:48.070
+<v Speaker 1>So what happens is they'll go through their own colors and they will grade one through 4.</v>
+
+00:20:48.780 --> 00:21:17.990
+<v Speaker 1>And then what happens is anything that's created a 2 or above. So the if you're the color Piperson for your color, all your ones like look, I know my color can do those are fine. Anything that's graded 2, three or four is then looked at by the other members of the color consoles and they then graded from a scale of 1 to 4. The reason I say 1 to 4 is it's possible you go that's a bend. Someone else goes, that's a bend. Why can't you call? I normally do that. So you're allowed to great things one.</v>
+
+00:21:19.020 --> 00:21:36.200
+<v Speaker 1>And what happens is we take all the cards that we tally up the scores and then we take the highest weighted cards, meaning the ones that are most marked as being over the line. Now pretty much if you're at a four, if the core person thinks you're a four, that's a problem.</v>
+
+00:21:37.050 --> 00:21:39.040
+<v Speaker 1>And those those we need to get fixed,</v>
+
+00:21:40.590 --> 00:21:43.220
+<v Speaker 1>we talk about them in the group every once in a while.</v>
+
+00:21:44.750 --> 00:21:52.530
+<v Speaker 1>Someone really thinks something before and the rest of the group really thinks it's not. We'll talk though it doesn't happen too much. But really most of our talks about the twos and threes</v>
+
+00:21:53.530 --> 00:21:58.190
+<v Speaker 1>and as everybody grades them, we get weighted scores to look at. So the idea is</v>
+
+00:21:59.370 --> 00:22:30.620
+<v Speaker 1>a card that is going to be in the meeting, it's going to be somewhere between a 1.0 and a 4.0 essentially. I mean, if everybody graded into one to be 120, the odds are you're not looking at it. Everyone graded. In fact, we're not looking at everybody into one because the color, they didn't Grade 1. You would look at it. But anyway, it starts about 1.5, let's say, and goes up to, I mean, everyone greeted A4. We just knock it out. We don't really have fours all that often, but 3.5 or something. And then we talked about it and what we do is we have our meetings and those meetings as well, and we walk through all the changes and talk to them and say, OK, what's going on?</v>
+
+00:22:30.700 --> 00:22:52.550
+<v Speaker 1>And then we'll talk some higher stuff like like the console colors is a place for us to discuss larger issues. Like, OK, this is something and one of the things we'll talk about is especially sometimes in Bens is sometimes bends are us saying, you know what, this color needs some solution, some area. What if we push in this direction and we'll talk a little bit about, OK, that makes sense. No, that's the problem.</v>
+
+00:22:53.860 --> 00:22:55.410
+<v Speaker 1>Like one of the things we'll do,</v>
+
+00:22:56.620 --> 00:23:20.690
+<v Speaker 1>here's an obvious one, is red. Is that some problems recently, not recently and ever since Commander the format started, red is really the way that red normally works, which is kind of the aggro gets you quick color doesn't work great in a long drawn out multiplayer game. And so we've been trying to figure out ways to give red something that is inherently red, that feels red, that makes red have better sense than a commander game.</v>
+
+00:23:23.440 --> 00:23:44.230
+<v Speaker 1>A lot of examples that might be we put in both looting and we put in a rum and gene is going right now because red discards before it draws. And then we also put in impulsive drawing where you get a card, you get exiled card until into turn, you get to play that card, but then it goes away. So it's like card growing, but only very immediate.</v>
+
+00:23:46.150 --> 00:23:49.810
+<v Speaker 1>So we'll talk that meeting will also talk about those kind of things. You know, we'll, we'll,</v>
+
+00:23:51.100 --> 00:24:00.940
+<v Speaker 1>usually what happens is if someone has an idea of how they want to expand the carpet a little bit, they'll make a card and put it in the file. So we can sort of get feedback from people playing and see how they feel. And then the console colors</v>
+
+00:24:01.740 --> 00:24:08.990
+<v Speaker 1>doesn't pass on it, you know, like that's where we sort of, you know, the pedal hits the metal and we talk about things and go, ohh, OK, is this makes sense or not?</v>
+
+00:24:10.700 --> 00:24:34.270
+<v Speaker 1>And one of the things about the color pie is there's debates. Different people see different things about the cowards. Not not in the broad strokes. I think we all agree in the broad strokes, but sometimes in the finesse of the details is especially in areas where the color hasn't done it. And the question is, should it be able to do it when you're messing in kind of version space? It really isn't defined yet.</v>
+
+00:24:36.650 --> 00:25:07.220
+<v Speaker 1>Also, Magic has a lot of precedence in it based on cards we have made. And we have to figure out where does that precedent make sense and where it's like, no, either we messed up in the past or we've shifted our philosophy since then. Now be aware the core philosophies of what the colors represent, that really hasn't changed much. That really has been pretty constant. I mean, I did some work in the early days kind of cleaning up, giving more definite and cleaning up, not quite the word, but giving more definition than Richard had in the early days. You know, Richard definitely set up the conflict</v>
+
+00:25:07.300 --> 00:25:28.640
+<v Speaker 1>it it wasn't as defined and I spent some time more defining them. What exactly are the conflicts in labeling things and getting words to them? But since that early day, since the first maybe five years of magic, the color philosophy is really have not varied much at all. Execution is varied, sort of what's at the core,</v>
+
+00:25:30.120 --> 00:25:45.460
+<v Speaker 1>the color pie is an evolving thing. We're always sort of rethinking what goes where. And sometimes it's a matter of saying, ohh, philosophically, this is not playing out what we want and shifting things or saying, you know what, game play wise, this is problematic.</v>
+
+00:25:46.820 --> 00:26:16.630
+<v Speaker 1>Can we make changes that will improve the gameplay that doesn't undermine what the color pie, how the color pie works and that will have from time to time. And sometimes, like, for example, for a while we moved fog out of green into white because it just philosophically made more sense than white. But then we realized that if something green just needed more than white did mechanically. And so we figured out a way to sort of said, well, OK, here's why it's OK in green. Yeah, kind of an absolute vacuum. It feels more white because white is more about like, OK, I'm going to defend</v>
+
+00:26:16.750 --> 00:26:20.260
+<v Speaker 1>again saying I'm gonna do damage prevention. That's a little more white. But,</v>
+
+00:26:21.550 --> 00:26:51.280
+<v Speaker 1>and that's kind of things we'll experiment around, we'll figure out who does what. We also always looking to make sure we refine weaknesses and understand the weakness of the colors. And a lot of times what we're trying to do is mechanically we're trying to solve problems is a good example. Black was having a problem because it had too many things it couldn't deal with. And Eric Lauer came to me and said, OK, black cannot destroy artifacts, it cannot destroy enchantments, and it cannot destroy planeswalkers. That's too much.</v>
+
+00:26:51.570 --> 00:27:23.420
+<v Speaker 1>Three permanent types that can't deal with that just too much. I need block. You'll deal with one of them. Which philosophically, which one makes sense? And I said, you know what planeswalkers block is all about death blocks all about. You know that, you know, it's hard to use death to kill an object or to kill a magical essence, but you can kill planeswalkers playing other flavor wise, that makes sense. And so we opened up and said, OK, you know, we're going to not let black do that at too low a rarity. Is it something special for black? It's at higher rarities and it's not something you'll see limited all much, but for construction</v>
+
+00:27:23.580 --> 00:27:35.130
+<v Speaker 1>black and do that, black has access to that. And we started doing that. And part of that is that's part of the color pie is trying to figure out when we need things, where to put them and how to use them.</v>
+
+00:27:37.460 --> 00:27:45.270
+<v Speaker 1>And the idea is that the reason to be the color π is or the side, the council of colors is so important is that</v>
+
+00:27:46.140 --> 00:28:15.900
+<v Speaker 1>I've always contended that the color pie is crucial to the game. But I think having more people work on it, like I, I like the idea of making it something that's vital. That's not just like my pet project in some level, when one person is doing something, it's very easy for people go, oh, that's just something you care about. And now having a whole process to it and a whole team dedicated to it, like it really conveys, no, no, this is something everybody needs to be worried about. This is something that's for the health of the game,</v>
+
+00:28:16.050 --> 00:28:19.320
+<v Speaker 1>about my pet project. It is an important component</v>
+
+00:28:21.040 --> 00:28:34.570
+<v Speaker 1>and one of the neat things about doing color pie made. One thing I love about the color pink meaning is Once Upon a time, like all the decision making and all the sort of arguments about color pie we're kind of going on in my head because I'm the only person doing it. So like, OK, I would have to</v>
+
+00:28:35.850 --> 00:29:05.130
+<v Speaker 1>think things through and now I have a whole team that really is motivated and dedicated. And one of the things the analogies I use is I used to do it in my earlier days, I did director, I was a playwright, I also was a director. And one of the things that was interesting about directing was there's this thing where every part is played by an actor and it is the actors part to understand that character and they have no role of understanding other,</v>
+
+00:29:05.450 --> 00:29:35.500
+<v Speaker 1>not that they have to understand other characters. So through the lens of their character, but they're thinking about their character in a way that you are not because they are focused on their character. That's all that's their focus. Your focus is all the characters of the director. And even when I was the writer, because a lot of times when I directed, I wrote the script too and I understood the characters. I wrote the characters, but there was a cleanliness of vision when someone that's all they were thinking about. And they would get to questions that I never asked myself. And they would come and say, hey, why is</v>
+
+00:29:35.600 --> 00:30:05.700
+<v Speaker 1>this line this way? Why is the character doing this? They would ask me questions. And usually there's a reason I did it as a playwright, but as a director, it made me sort of think about it, go, why did I do that? And a lot of times in writing, for example, there's decisions made that are kind of intuitive where you, it feels right, but you don't necessarily understand why you made the decision. And having people come to me and sort of make that claim really is allowed me as both a writer and a director to get clarity. And I found the Color</v>
+
+00:30:05.770 --> 00:30:36.450
+<v Speaker 1>Council colors does the same thing. I love that there's people who all they think about, their focus at least is on a particular color. They're really, they're going down deep on that color. And so I love having really meaty conversations about why is white the way white is or blue or black or red or green. And, you know, walking through and like, as we've been exploring the red, I love testing today. OK, well, no, no, no, red can't do this. But yeah, I think we could do this. And you know, when you're exploring new territory, it's fun to sort of walk out and talk through philosophies.</v>
+
+00:30:36.780 --> 00:30:37.350
+<v Speaker 1>Um,</v>
+
+00:30:38.810 --> 00:31:08.900
+<v Speaker 1>and so one of the things that I really enjoyed in the console colors is having this ability to sort of really stress test for colors in a way that was hard for me to do as a solo project. And they're getting the time and attention and all the cards are getting time and attention. Every set, every supplemental set, every set is going through the console colors. Now, that said, there's some kinks to work out. We're still new. We're still trying to figure out when to look over the file, when to give feedback. If you're too early, then you missed</v>
+
+00:31:08.970 --> 00:31:17.770
+<v Speaker 1>hard later. They get made too late, then it's hard to adapt to your feedback. You know it is. There is a lot of balance issues that we're constantly working on,</v>
+
+00:31:20.810 --> 00:31:24.580
+<v Speaker 1>but I, I love, I love that the council exists and that</v>
+
+00:31:25.890 --> 00:31:44.810
+<v Speaker 1>one of the things is it existing has allowed us to really sort of not only does it make the call by matter for the council colors, I think the rest of the company and in particular, it's very easy. I think sometimes when you're focused on the thing you do to just go, ah, whatever,</v>
+
+00:31:46.410 --> 00:32:17.280
+<v Speaker 1>one of the things that would happen a lot if you go back a couple of years is it's very easy to make bends and justice go, ohh, fine, it's bent. And someone will come talk to me and say, is this OK? Yeah, that's OK. And that we weren't monitoring how many bins got made. You know, I'm saying like, oh, this card in a vacuum is fine. Yeah, it is the problem. Another problem that was happening, the colors is dealing with is a volume issue. It's like, OK, yeah, you could bend something, but you can't bend everything and you can't bend it all in the same set.</v>
+
+00:32:17.400 --> 00:32:30.670
+<v Speaker 1>You know, if this is where your theme is and where your hands are, OK, these cards, they shouldn't be bending. You know, you should pick and choose. You can't. You only get so much bending in your set. There's only so much where you're deviating that general. I talk about how when I make a set that</v>
+
+00:32:31.330 --> 00:32:34.130
+<v Speaker 1>I want to change one or two things I don't want,</v>
+
+00:32:35.730 --> 00:32:55.490
+<v Speaker 1>I'm going to try to make sure that that barely feels like magic. I want to set that it feels like magic, but there's a couple of things about it a little different from normal. That's how color pie bend should work. It's like, well, normally blue doesn't do this, but because this is the theme, we're going to let blue dip its toes in some area that it doesn't normally do because that's where the bend makes sense. That's what reinforces the set</v>
+
+00:32:56.940 --> 00:33:00.730
+<v Speaker 1>and you know, I, I enjoy that we have that luxury now.</v>
+
+00:33:01.980 --> 00:33:03.290
+<v Speaker 1>Like I said, there's a lot.</v>
+
+00:33:04.820 --> 00:33:14.900
+<v Speaker 1>I, I, I actually wrote about the console colors pretty early on in its existence. I mean, it's a little over a year old, so there's a lot to workout. There's a lot of things we're still trying to figure out</v>
+
+00:33:16.140 --> 00:33:19.220
+<v Speaker 1>and I definitely want to involve more people as we can.</v>
+
+00:33:21.210 --> 00:33:25.430
+<v Speaker 1>But anyway, uh, trying to think I'm almost a Rachel school.</v>
+
+00:33:26.810 --> 00:33:31.980
+<v Speaker 1>Those, by the way, that have never listened to my podcast on the color pie. I cannot.</v>
+
+00:33:34.030 --> 00:33:38.210
+<v Speaker 1>The copy is an amazing thing. I spend a whole podcast talking about it, so it is an amazing thing. I</v>
+
+00:33:38.950 --> 00:33:53.220
+<v Speaker 1>I think some people don't quite understand the value of it and what it does for the game. I know there's people that just like ohh, I want it annoys me that in a red deck I just can't destroy enchantment. So just give me a chance instruction please. Like that that's not her bread works</v>
+
+00:33:55.380 --> 00:33:56.500
+<v Speaker 1>and that it's</v>
+
+00:33:57.460 --> 00:34:08.820
+<v Speaker 1>like one of the things that's very interesting is I'll tie the culprit or writing for a second. When you write, one of the things you come to realize about making characters is how important flaws are the characters.</v>
+
+00:34:09.490 --> 00:34:39.540
+<v Speaker 1>That in some ways there's a whole philosophy of writing that flaws define your character. That that the the seed of your character in some ways is the flaw of the character. What about them? How are they different? What what are they believing that causes them problems? And it's in the same way I believe about the colors that one of the things that really identifies what they are is their flaws. The fact that red is so short sighted and doesn't think about the long term. Or that white is so inflexible</v>
+
+00:34:39.610 --> 00:35:09.570
+<v Speaker 1>that can't understand maybe that things are changing. Or that it's nose conceptions are problematic. Or blue and its passivity of its desire so much to to wait and think about what it's going to do. That it lets things happen, things go by without it reacting to it. Or black is so ruthless and so willing to give up whatever it wants to get the power it needs that it'll make decisions and choices that will cause itself problems. Or that green, you know, in its desire to sort of</v>
+
+00:35:09.640 --> 00:35:27.500
+<v Speaker 1>appreciate what is that it doesn't, it has issues with change and with quick change. And it is, well, it's good at adapting slowly. It is very important adapting quickly. And each of the colors definitely has things that it deals with. And that</v>
+
+00:35:29.430 --> 00:36:00.060
+<v Speaker 1>that that's one of the things to me that one of the beauties of the color pie and why the council colors is so important is I want to keep the colors flawed, if you will. I want to make sure they have identities and they do things, but that each one of them has holes in its problems and has ways they think that are strong in some areas but weak in others. And that is why I think that's why the color pie so important. What color is so important is we have someone now to monitor this stuff and specifically monitor it mechanically.</v>
+
+00:36:01.480 --> 00:36:12.600
+<v Speaker 1>You know that that's the IT is so easy to sort of like just make lots of little tiny, little tiny bends and before you know, you've just completely undermined what a color can and can't do.</v>
+
+00:36:13.620 --> 00:36:43.640
+<v Speaker 1>OK, guys, but I'm not driving up to Rachel school. So I hope you appreciated this peak into the council of colors. And and like I said, we're starting like the fact that so much time and energy spent on just this one little facet of the game, which is an important facet, mind you, just kind of shows you how much detail, how much there is and how much we try to do with our detail. And it really matters. So anyway, that my friends, is a council of colors. And as I'm driving up to Rachel school, we all know what that means. It means the end of my drive to work. So instead of talking magic, it's time for me to be making</v>
+
+00:36:43.730 --> 00:36:46.220
+<v Speaker 1>logic. We'll see you guys next time, Ciao.</v>
+

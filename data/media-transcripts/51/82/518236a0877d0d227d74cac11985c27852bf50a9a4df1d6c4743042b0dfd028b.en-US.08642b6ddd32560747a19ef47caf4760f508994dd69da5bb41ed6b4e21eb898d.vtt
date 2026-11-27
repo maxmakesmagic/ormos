@@ -1,0 +1,293 @@
+WEBVTT
+
+00:00:00.600 --> 00:00:27.240
+<v Speaker 1>I'm pulling out of the parking space. We all know that means it's time for another drive to work and meant that I had to drop my kids off at school. But so today we're going to, I get a lot of questions about play testing. So I thought today I was going to send my podcast talking all about playtesting. Now be aware I'm mostly going to talk about design play tests because that's what I do. I'll talk a little bit about development play tests because I've been in a few of those. But OK,</v>
+
+00:00:28.410 --> 00:00:58.230
+<v Speaker 1>so let's ask the first question, which is how do we play tests? And the answer is that we make stickers. So we have a thing we call Multiverse, which is our database. And Multiverse has the ability to produce stickers. We print them on stickers much like you'd put on an envelope, although there we cut them to make them fit on a Magic card. And then we put them on the appropriately, like if it's a green card, it goes on a green Magic card. And so we have old Magic cards that we sticker on. And so our play testing</v>
+
+00:00:58.310 --> 00:01:24.760
+<v Speaker 1>these stickered cards. So what happens is let's say I want to do a play test. There's a guy named Dan. Dan is the man. Dan is the person who arranges things like doing stickers. So you'll go to Dan and say I have a play test in two days or three days. You give enough notice and tell him whether you do push your draft or sealed, if you're set, has certain parameters. Sometimes we're trying to do something where things are just a little bit different.</v>
+
+00:01:26.150 --> 00:01:56.190
+<v Speaker 1>Spiral had a bonus sheet. Innistrad had double faced cards. There's always things that in play testing that are different from normal that you have to sort of make sure Dan understands. And then what happens is the day of your your play test, Dan produces playtest cards for you. Now, back in the day, you used to have to make your own play test cards. In fact, I have stickered a lot of Magic cards. It used to be Once Upon a time you made your own stickers and you stick to them. And so over the years I've ticked a lot of cards. I now live in the glory times where I don't have to stick.</v>
+
+00:01:56.300 --> 00:02:00.670
+<v Speaker 1>There is about. I remember. I remember those days. So what happens is,</v>
+
+00:02:01.660 --> 00:02:32.650
+<v Speaker 1>and the first thing you do is R&amp;D or design design team starts by building the common. So the first play test isn't all common play test. What you will find, by the way, when you play with all Commons is you realize what the other cards are doing for Magic Commons do a good job of explaining sort of the base of what's going on. And the reason you start with Commons is to make sure that the theme of your set is coming through. My famous quote. If your theme is not common, it's not your theme. You want to make sure the reason you start a common is like, can you get the essence of what you're trying to do</v>
+
+00:02:32.740 --> 00:03:02.790
+<v Speaker 1>in simple form in Commons? And so your first play justice with Commons. Now the problem with it all common play test is you have no, there's no major sweeping cars or cars that turn the game around. I mean, there's some kill spells and stuff, but there's not. It is hard when you are losing in all common game to come back. There just aren't the cards that allow you to have a big turnover because those tend to happen at higher rarities and not a common. But the very important thing about Commons is you're trying to get essence of how</v>
+
+00:03:02.860 --> 00:03:03.710
+<v Speaker 1>things feel. So</v>
+
+00:03:04.460 --> 00:03:24.310
+<v Speaker 1>another important thing to remember in common playtests is the goal is not to build the best deck. I know people get a little taken aback when I say that, and in fact, I've talked about this before. We have what we call a flat power level when we play test in the design. And what that means is every card is priced so it could be played.</v>
+
+00:03:25.760 --> 00:03:56.810
+<v Speaker 1>And the reason for that is the goal of playtests, especially early playtests, is just to get experience with the cards is just to say, OK, I played with this. How did it feel? And that a lot of early design is about figuring out what you like and don't like, what works, what synergistic, you know what, where is the magic in your set, if you will. And so a lot of the play test is about trying different cards. So one of the things I say for number 1 is don't keep playing the same deck. The goal isn't to find the best thing,</v>
+
+00:03:56.940 --> 00:04:02.470
+<v Speaker 1>the goal is to experience a lot of different things. So the last time you played red, green. This time don't play red or green.</v>
+
+00:04:04.200 --> 00:04:04.900
+<v Speaker 1>And</v>
+
+00:04:05.550 --> 00:04:22.740
+<v Speaker 1>also I have a what we call the three of rule, which is or the two of rule, I'm not sure what the name of it. You can have two copies of any one card. If you get a third copy of a card, you can trade it in for another card of the same rarity or actually usually trade in for the same rarity, same color.</v>
+
+00:04:24.090 --> 00:04:54.270
+<v Speaker 1>And The only exception is there's some mechanics in which you're trying to get a whole bunch. And then we let you play with more than two of those. But generally the idea is don't play with more than two of a card because I just want you experiencing more different cards. I want you. I mean, the reason let you play with two is sometimes there's interactions with the card itself. So I want those to come up. But especially in early play past, I sort of pushed people toward playing different, playing more different cards, playing more experiences that are different from what they've done before. And like I said the earlier,</v>
+
+00:04:54.340 --> 00:05:22.260
+<v Speaker 1>the role of early play test is for the design team to understand and experience all the different facets within the set. Now, another big thing that goes on early in design is you put in the set more than you intend to stay in this set. And the reason is not everything works. Things will fall out. So what you tend to do in early play test is you over stuff with just different things because for the goal is you want to experience and try different things. You're not early, early design. It's not about synergies. It's not about</v>
+
+00:05:23.750 --> 00:05:32.760
+<v Speaker 1>activity just yet. It is about it's not about creating an environment early. Early is getting the elements that you think are interesting, playing with them and learning what those elements are.</v>
+
+00:05:34.460 --> 00:05:55.890
+<v Speaker 1>OK, so that that's kind of early flight test. And and remember, another important thing has to do with what we call iteration, which is a big part of design is you try stuff, you take, you know, you play with it, you take notes on it, you make changes and then you play again and that cycle goes on and on during the course of design. Normally what happens is early design, the play test come more infrequently</v>
+
+00:05:57.090 --> 00:06:09.530
+<v Speaker 1>and early design I try to play test every three or four weeks. Mid play test I try to play test every other week and late play tests and late design play tests I tried to play do I try to play every week.</v>
+
+00:06:11.340 --> 00:06:40.750
+<v Speaker 1>Basically as the iterative process goes along, you want to shorten the time of iteration because you are making smaller and smaller changes. Early on you might play and make radically different changes might add whole mechanics and take our home mechanics or radically change things and so the file could change significantly. That's why you have a little longer period of time late in design. You are you're fine tuning things now. I mean, sometimes during divine developmental come in and you're making some more substantial changes. But normally during the course of</v>
+
+00:06:40.820 --> 00:06:52.050
+<v Speaker 1>the design, early design is the biggest sweeping changes where as you go along you're making smaller and smaller incremental but important changes. And another big thing about</v>
+
+00:06:53.240 --> 00:06:55.150
+<v Speaker 1>play testing in general is</v>
+
+00:06:56.460 --> 00:07:02.290
+<v Speaker 1>you want to figure out what your MVPS are. So what I mean by that is people always ask about</v>
+
+00:07:03.710 --> 00:07:34.060
+<v Speaker 1>the design of a handle on what the good cards are going to be. And the answer is no because design doesn't decide with the good cards are going to be. We don't we don't even set. I mean, we price things, but we don't determine what the ultimate mana cost is going to be. Development. Does that cause development trying to figure out what they think is good and bad for the environment when they want to push and not push. Our job on design is to figure out where the fun is and make sure we have the cards. So I talked about bearing bearing walls a lot for like what mechanics and what elements are set are the bearing walls of the set meaning</v>
+
+00:07:34.180 --> 00:07:36.300
+<v Speaker 1>don't get rid of those. They they hold everything up.</v>
+
+00:07:37.640 --> 00:07:45.780
+<v Speaker 1>Another important factor of that is you want to make sure that your set has cards that kind of justice shine. That a good example. I'll use Theros</v>
+
+00:07:47.160 --> 00:08:17.320
+<v Speaker 1>errors. When we made Chained to the Rocks and Rescue from the Underworld that those were two cars that really defined kind of what we were going for. They had a nice distinctive feel. They felt very Greek and each one of them was a car design that made sense in the flavor of what we were doing, but we wouldn't normally make. And that's very, very important. And in play testing, you wanna I call them P. What are the cards that are really give special identity to the set that they're in</v>
+
+00:08:17.430 --> 00:08:44.490
+<v Speaker 1>that you wouldn't see these cars anywhere but this set? I mean, it's cool to have a kill spell or a giant growth of something, but we do those all the time. What is really unique to this set that goes ohh, we just wouldn't make that card normally, but it makes perfect sense here. Here we'd make the card and change to the rocks and rest of the underworld. We're clearly that both of those are very quirky cards, but they made sense here. 100 Handed ones is another good one where it made sense here in this set.</v>
+
+00:08:45.210 --> 00:08:50.920
+<v Speaker 1>OK, so early play test, you start with Commons and then you start adding an uncommons.</v>
+
+00:08:52.400 --> 00:09:22.490
+<v Speaker 1>So I talk a lot about ASFAN. So one of the things you have to understand in play testing is that the ratio between comments on comments is 2 to one, which means for every if you counted, if you picked a common card, an uncommon card and then counted every time you saw them, you would see the common card at two times the rate of the uncommon card. OK, people like, wait, what's going on? Remember in a booster pack there are 10 comments. There's 10 comments, 3 on comments, one</v>
+
+00:09:22.590 --> 00:09:52.570
+<v Speaker 1>rare, mythic rare and one land. So you have a there's 10 Commons and three uncommons. But hey, you say wait a minute, 2:50 that's way higher than two to one. That's closer to three to 1. And the answer is there's more comments than uncommon. That's why the ratio works out the way it is. When you're figuring out as fan and all the math, it has to do with what percentage of things exist at different rarities. So how often do you see them? So if every booster pack has three uncommons, well, you know that's out either 6 right now. We're not</v>
+
+00:09:52.640 --> 00:09:59.260
+<v Speaker 1>more now comments 80 these days, but so 3 out of 80 and and 10 out of 101, usually in a large set</v>
+
+00:10:00.020 --> 00:10:01.330
+<v Speaker 1>anyway, Um,</v>
+
+00:10:02.230 --> 00:10:06.420
+<v Speaker 1>so early on you play tests and you figure out sort of what,</v>
+
+00:10:07.890 --> 00:10:13.860
+<v Speaker 1>oh, let me answer this question this Question Time. So how does this actually work? What do we actually do? So here's what we actually do.</v>
+
+00:10:15.070 --> 00:10:44.970
+<v Speaker 1>Really in design, we tend to do sealed, and the reason for that is until you have your archetypes figured out, drafting doesn't really mean much. So early play tests are sealed. What will happen is everybody will get a certain number of cards. It tends to match the equivalent of getting 6 booster packs, which is what you play sealed with in the real world, although we just take the lands out. So you're getting, I guess, 84 cards and then you're getting early in design, you will get,</v>
+
+00:10:45.090 --> 00:10:45.570
+<v Speaker 1>um,</v>
+
+00:10:47.220 --> 00:11:11.640
+<v Speaker 1>we sometimes give a little less than 84. You have uncommons and rares. But anyway, you get your, your sealed deck, you build it and then you play. And the way it works is we play matches two out of three and then we switch out. Sometimes we'll quit before we're completely done. If somebody else is free. A very common thing will happen in design playtest and sometimes development play tests is people will sometimes swap decks. So let me try here to see how that plays.</v>
+
+00:11:13.100 --> 00:11:15.300
+<v Speaker 1>Our play tests are usually two hours long.</v>
+
+00:11:16.000 --> 00:11:24.160
+<v Speaker 1>Ohh, here's another cooking went a little quirky Rd. thing I will teach you about the R&amp;D roll. OK so the beginning of the game you have to figure out who goes first.</v>
+
+00:11:27.330 --> 00:11:30.050
+<v Speaker 1>The way most people do that is they roll 20 sided die</v>
+
+00:11:31.960 --> 00:12:02.210
+<v Speaker 1>that each player rolls a 20 sided die. So Rd. figured out that that was inefficient that why roll 2 dice. So what are the R&amp;D role is one person rolls a die if they roll an odd number, they win and they get to choose player draw. If they get an even number, the opponent wins, they get played or draw. And then the idea is oh, what's it is the same the same value of rolling 2 dice, but you get the same effectiveness only rolling one. The problem we run into is our and understands this, but whenever R&amp;D interfaces</v>
+
+00:12:02.320 --> 00:12:07.730
+<v Speaker 1>with anybody else and tries to somehow teach them the R&amp;D role, it always goes horribly awry.</v>
+
+00:12:09.040 --> 00:12:33.860
+<v Speaker 1>Like, you know, I remember we used to play, we have privileges where we played down the first floor and we're intermingling with other people from the company. So in the early days they used to sort of say, hey guys, you know you wanted the R&amp;D Rd. I tried teaching the and roll and they go OK, why roll the die? It's odd. So I gotta go and they're like, yeah, but I haven't rolled yet. I'm like, no, no, no, see, I rolled odd and it says it's odd. It's me. I've rolled even you would have gone and I just confused them to no end. So</v>
+
+00:12:34.550 --> 00:12:56.520
+<v Speaker 1>now Billy Morano added to the no one else picked up this. Billy added his own special thing because he was trying to minimize people rolling dice off the table. That happened a lot. So Billy's special rule was if you were rolling, if you rolled an odd or rolled A20, you won. But if you rolled off the table, you lost,</v>
+
+00:12:58.010 --> 00:13:03.520
+<v Speaker 1>and that the idea there was in in in. Heavily encourage the person rolling the die to be extra careful with rolling it.</v>
+
+00:13:04.960 --> 00:13:19.180
+<v Speaker 1>I think Arnie didn't like that to still give this advantage to the first player. I mean they had to be more careful Roman die, but they still got the advantage so they never never picked up steam. OK anyway back to the play dead. So you get sealed early on and you build your decks and you play.</v>
+
+00:13:20.980 --> 00:13:50.710
+<v Speaker 1>Usually development is very precise in recording what you did. In fact, when you play in the development playtest, they often will give you a sheet of paper and you have to write down how many of you, how many cards you played, each color, how many artifacts you played, how many non basic lands you played. You know how many rares you played, rares and mythics you played. Sometimes in the set has a specific thing like during Innistrad we marked on my double faced cards you played. So development is a lot more in design.</v>
+
+00:13:50.910 --> 00:14:21.620
+<v Speaker 1>We mostly just look and see what colors people are playing just to get a sense of not that wasn't set balance, that's not balanced, but more like, ohh, did we get enough experience to people seeing things? Ohh, nobody played blue. They're not gonna get real good sense of how blue was. OK, once the play test is done there, then we have a wiki, the R&amp;D wiki. Somebody will post a link to the wiki and say thank you for letting the play test. Please give some feedback. And then people write their feedback on how the play test went. And it might be, oh, I played red, blue.</v>
+
+00:14:21.720 --> 00:14:51.870
+<v Speaker 1>I was drawn in by these two cards. I really liked this thing. I didn't like this other thing all in this one card I played. We need to change it for whatever reason, you need to change it. Oh, another thing, by the way, that happens in playtest. People ask about this too, which is if you are playing with something and becomes instantly apparent that it is wrong, it is broken. It's too, you know, too powerful. It's some it won't work correctly in the rules. You will change it then and there that that is how plays tests works. And for design, which is, oh, this car is a problem. OK, change it. Oh that's too good.</v>
+
+00:14:51.950 --> 00:14:56.210
+<v Speaker 1>It's it's cost all that you know, you on the spot min game, you will change cards.</v>
+
+00:14:58.030 --> 00:15:05.300
+<v Speaker 1>Now The funny thing is when you are drafting, we normally don't change the cards, but when you're playing seals, we do.</v>
+
+00:15:06.530 --> 00:15:36.560
+<v Speaker 1>I mean, sometimes the car just egregious. We will change it mid game, but sometimes when you're drafting because people drafted knowing things, we we left the card stay as they as they are for the plate tests. Ohh. So also let me explain the way the play testing works is every play test sticker has a date on it that it was printed. And what happens is if you change the file enough, then you do a new printing. If you just change a few things, what will happen is the one of the people will go through and just like let's say you only change the cost of four cards. Well, somebody will go find those four cards and maybe</v>
+
+00:15:36.630 --> 00:15:40.180
+<v Speaker 1>happy of those four cards and manually change the mana cost.</v>
+
+00:15:42.310 --> 00:15:46.960
+<v Speaker 1>So once again, umm, if you've ever seen me write up stuff in um</v>
+
+00:15:48.030 --> 00:15:48.790
+<v Speaker 1>in</v>
+
+00:15:49.810 --> 00:16:04.220
+<v Speaker 1>on online like account for example, the plate in the files we'd white is W, blue is you, black is B, red is our green is G, land is L artifacts are A multi color is Z.</v>
+
+00:16:05.660 --> 00:16:07.340
+<v Speaker 1>There's a few others for random things,</v>
+
+00:16:09.320 --> 00:16:28.750
+<v Speaker 1>so we tend to, um, when you play, that's the terminology you're seeing like a design file at a multiverse. Now recently they've been improving the technology of the stickers and now when you get stickers, it actually puts many symbols in. I think they print them on a color copier. So like</v>
+
+00:16:30.400 --> 00:16:57.630
+<v Speaker 1>the the the man of symbols are colored and if you have land that produces one color or two color, it shows you what color of a land to producing and produces three of our color gives you gold. Yeah, by the design sticker technology is constantly improving. When I first got here long ago, like back when I was play testing Mirage, they were they weren't stickers on cards. They were pieces of cardboard that were printed and cut out. And so you were playing with,</v>
+
+00:16:59.890 --> 00:17:29.620
+<v Speaker 1>I mean, there were roughly Magic heart size, but they weren't Magic cards. And then we've quickly early on, I mean, the sticker technology came long ago, but we're constantly refining the sticker technology. In fact, in fact, one of the things that we did, although we don't use this for everyday play testing, is we have a system where you can print cards that look just like the finished card. And this is late in development when all the artists and everything. And it allows us to make sticker cards that look a lot like</v>
+
+00:17:29.690 --> 00:17:59.990
+<v Speaker 1>the real thing. So for play testing with people outside R&amp;D that because one of the things you learn is I'm very used our, and is very used to playing with stickers. It's very off putting when you first start doing it because you're used to playing with magic cards. Magic cards have have, you know, beautiful art and have the frame and the name and the flavor text and, and in play test, you know, we're not using real names. We're not using, there's no flavor texts other than a joke flavor text here or there. You know, we're trying our, our templating</v>
+
+00:18:00.070 --> 00:18:10.370
+<v Speaker 1>is rough. I mean, usually a design early in design, we just sort of do what we make sure people understand what it does and don't worry about templating. Once we get some faith that it is</v>
+
+00:18:11.070 --> 00:18:21.870
+<v Speaker 1>doing what it needs to do, then we get the templates. The editors sort of do a rough template, not a final one, but just close enough that we have a general sense of how worried it's going to be.</v>
+
+00:18:24.980 --> 00:18:54.570
+<v Speaker 1>So the the files, the rules tax is closer to somewhat real, but everything else not is not. And it takes a while to get used to playing with the stickers. Once you do it for a while, you get used to it. But what we've learned is if you're trying to show somebody outside of R&amp;D, you're game what, whether it be magic or anything else, you want to make good looking stickers because people judge a lot on appearance. And even though, even though</v>
+
+00:18:54.810 --> 00:19:17.740
+<v Speaker 1>on their in their head, you know, this art isn't real, these frames aren't real, even though they know that none of it necessarily is the final product. It just warps how people perceive things. And so when I show off, I mean, I've, I've done a lot of new games, a lot a few years. But when I show off a new game, I always make sure that I do enough graphics that it looks like a game because it will throw people. If you're not used to playing with bare bone sticker things, it's just disorienting.</v>
+
+00:19:18.530 --> 00:19:35.530
+<v Speaker 1>OK, so I talked about early play test. We try things out, we see what we like, we do the Commons, we start layering and uncommons. OK, Then we get to the middle part of the playtest Rare start getting in somewhere between the end of the early part in the beginning of the middle part. You don't need all the rare to like</v>
+
+00:19:36.610 --> 00:20:06.560
+<v Speaker 1>in a limited deck you get I think 6 rares. You have 6 packs so you only need 6 rares per people playing. So you don't need all the rares to have experience of playing with rares. So rares tend to enter the file as you come up with them. Now one of the things for those everyone nuts and bolts columns is where I call it design skeleton, which is you have to figure out how many slots you have for everything. Common and uncommon were much tighter and try to keep close to what we actually have. Rarely stay loose for a little while because in rare you're just trying out a lot of different rare cards.</v>
+
+00:20:06.700 --> 00:20:08.590
+<v Speaker 1>And it the</v>
+
+00:20:09.510 --> 00:20:39.240
+<v Speaker 1>rares don't really affect us them too much. So you're not worried about the ads fan or the common uncommon do. So you're trying like, do I have enough? Whatever the tribal you care about in particular set, like I'm I care about goblins, have enough goblins in my in in in in the set. Are goblins showing up enough when I have cards that care about goblins? Are those cards sitting dead in my hand or did enough goblins to make those cards work? That's the kind of thing that design has to fully figure out. That is an environmental, if you will. We don't figure out man across, but we do figure out trying to</v>
+
+00:20:39.480 --> 00:21:08.370
+<v Speaker 1>get numbers in the right ballpark. And now development will come along fine tune what we're doing. OK, so early as I middle play tests, middle design play test, we start doing draft. Usually we rotate between sealed and draft. We get to the middle. The other thing by the way, is not all are play tests are limited playtests. We also do constructed play tests. So we're constructed play tests are in design is we just pick themes. Usually the each player gets a theme and some color combination.</v>
+
+00:21:09.490 --> 00:21:39.220
+<v Speaker 1>Normally what we'll do is we'll pick the mechanics that we're playing with early on and we'll say, OK, this is mechanic X. That mechanic is in black, red and green. OK, Bob, why didn't you take two of the three colors? You can pick whichever 1 you want and make a deck focused on mechanic acts, make a mechanic X deck. And the reason we knew constructed play test is there are things that you just can't see until you try to make the deck that when you're playing limited, the the mechanic exec unlimited</v>
+
+00:21:39.490 --> 00:21:58.350
+<v Speaker 1>is less cards that are dedicated to the theme. But once you get to construct, it's like, OK, I can do what I want. Well, let me look. So early constructed play tests, which doesn't happen. So construction plays don't happen to the middle part of design. Early constructed play tests only use the set you are playing in unless it's a small set and then you get also use the big set.</v>
+
+00:21:59.810 --> 00:22:30.040
+<v Speaker 1>Now once you move along later on, you start being able to use things in standard to get a sense of where this next going to play when it comes out. But early on you're just trying to see if the set itself is providing things that you need. And it informs you a little bit about limited, but it's a lot more about about construction, especially casual constructed, which is what we refer to as people who build ducks. But they have found formats they play the cards they own. So it's really important for that crowd that the there's enough stuff within the booster pack to play with itself that you can combine with the other cards</v>
+
+00:22:30.120 --> 00:22:34.710
+<v Speaker 1>that it all the tools for playing with the new mechanic are there because</v>
+
+00:22:35.870 --> 00:22:42.560
+<v Speaker 1>that anyone said is going to have the most tools to play with its own mechanic. Now we often try to plan ahead,</v>
+
+00:22:43.570 --> 00:22:58.010
+<v Speaker 1>which is if we know we're going to do a theme, we try to make sure that before it there are sets that have cars that go into that theme. So when the card comes into standard, you get a not just play with new cards, but you gotta mix it in with some old cards. And we're always very conscious of that.</v>
+
+00:22:58.840 --> 00:23:13.710
+<v Speaker 1>OK, so medium play test, you alternate your limited play test alternated between sealed and draft, and then you're alternating between limited and constructed. So it's like sealed, constructed draft, constructed, sealed, constructed draft and such.</v>
+
+00:23:16.520 --> 00:23:36.540
+<v Speaker 1>And like I said, the medium places I try to make sure we puts us at least every two weeks. It can be faster than that depending on the set is going. The real question by the way, of when to play test is did I make enough changes that I think there's more to be learned and, and as you move later on the changes to be more and more subtle, but did you make changes that is worth playing in to see?</v>
+
+00:23:37.170 --> 00:24:07.400
+<v Speaker 1>Now, early playtests, we often will play tests twice. And the reason is there's so much material you're trying to get that we often need to play this multiple times just to sort of pick it all up to have a chance to play with different mechanics. Like I said, early on, you're trying to pick things out and figure out what you want to use. So middle playtest, we tend to play once and the role of the middle playtest is to start figuring how things go together. The first set is finding what the pieces are, the second part and the second middle part is figuring out how things go together</v>
+
+00:24:07.470 --> 00:24:38.170
+<v Speaker 1>because you want to structure them in such a way. The other thing that's very common early on in playtest is that we will take mechanics and spread them to all the colors often. And then as we get to the middle part, we start breaking it down like, OK, this mechanic's mostly going to be a red, black, green thing and it's not going to show up in white and blue. Or if it's in white and blue, it's at high rarity. So it's not a limited thing. It's more of a casual constructive thing. So the middle set is starting to figure out the balance of picking, you know, fine tuning, which mechanics do you want, how they play with each other. And then once you, the way I describe it</v>
+
+00:24:38.240 --> 00:25:08.120
+<v Speaker 1>as let's say you're making a wall. Well, first you pick your bricks. Once you pick your bricks, then you got your, your mortar to hold the books together. Why don't you send out your mechanics? Then you got to figure out what are the cars and things that I need to make those things work together. So let's say mechanic X, mechanic Y will show up in red. We're like, OK, are there particular cards that help link X&amp;Y that if you have this in your deck and make you want to play X&amp;Y together? And we have to start thinking about that. So then you move to the late plate, test late.</v>
+
+00:25:08.250 --> 00:25:18.530
+<v Speaker 1>Just like I said, you played this every single week. It's constantly changing. 1 means constantly constantly playing. You're fine tuning every week. I guess the change is lesser than the early on</v>
+
+00:25:20.240 --> 00:25:50.390
+<v Speaker 1>and what happens is early on you care about widespread notes much more. You care about individual notes. I mean, you make notes about individual cards so you can change them, but you're really the bigger issues of early playtest is widespread. Is this working? What mechanics do we want? As you move along, you start fine tuning a lot more on individual cards. You know, lay playtest is how can we make this particular card effective, better? Oh, is this card was tweaked in this way or we changed power toughness or, you know, we did something</v>
+
+00:25:50.480 --> 00:26:04.180
+<v Speaker 1>that this card might play better if it had a small tweak to it. And so you tend to go from macro to micro as you playtest, meaning you start caring about the bigger things. And the more you play, you start solidifying the bigger things and then you start caring about the smaller things.</v>
+
+00:26:05.590 --> 00:26:06.840
+<v Speaker 1>You know, and like,</v>
+
+00:26:08.140 --> 00:26:38.450
+<v Speaker 1>actually maybe is a better example than my, my rock example. My, my brick example is, let's say I know this is a science thing where you take a glass and the teacher fills the glass up with a whole bunch of big rocks and says, is this full? And you go, yeah, looks full. And then he takes small rocks and pour them in. And the small rocks go in between the big rocks. He goes, is this full? And you go, yeah, yeah, that seems pretty full. And then, you know, he pours some sand in</v>
+
+00:26:38.570 --> 00:27:02.180
+<v Speaker 1>and fills it up a bit more of is this full? You go, yeah. And then he pours water in. In this point is there's always smaller things, smaller spaces you can fit things into. And design is a lot like that. As you move along the play testing that you're starting with a bigger things and you start fine tuning and caring much smaller and smaller things to the point at which in late play test you are caring about nuances and how individual cards are working and how combinations of cards are working. Now remember that</v>
+
+00:27:04.400 --> 00:27:34.330
+<v Speaker 1>design is handing this off to development that we're not. I mean, we're done with design, but that the process is not completely done and that there's a lot of things that development is going to care about that design doesn't spend a lot of time on. A big one is mana cost. Another one is design does not figure out the metagame for Standard. So we are not pushing particular things. What we're trying to do is make sure that all of the strategies have viable components that the developers can tweak the knobs to figure out whether to make weaker or stronger</v>
+
+00:27:34.420 --> 00:28:04.420
+<v Speaker 1>based on how it's going to play. Because what we try to do is make sure we're doing mechanic X, mechanic and mechanic Z. Does mechanic have the things that needs to be fun? Does mechanic why have things that needs to be fun? Are there things to make mechanics mechanic? Why maybe play together in the same deck, you know, and you're balancing all those individual elements. The other thing happens during the last part of play testing is the last two months of the large set. Last, the last month of a small set is what we call a divine, which is the crossover between design and development, the clever</v>
+
+00:28:04.930 --> 00:28:07.900
+<v Speaker 1>DEVIGN. And so in divine,</v>
+
+00:28:09.380 --> 00:28:39.920
+<v Speaker 1>development starts playing with the sad. In fact, you have, usually what happens is you have one place that's every week that you both play in. So usually development sometimes plays a little more than design because they're trying to learn all the stuff about the sad. Design plays at least once a week during the final, sometimes more depending on how the sets going. And what happens is while design is making its notes during divine, development is making its notes. So a lot of divine is addressing the larger comments of development because development will start by giving pretty big</v>
+
+00:28:39.990 --> 00:29:09.880
+<v Speaker 1>comments. You know, they might say, here's now be aware during the entire process, development is looped in. At the end of exploratory design, we show our things to development to get feedback. Midway through design, we show development stuff to get feedback. Obviously in the Vine they give lots of feedback. So we're constantly trying to make sure and there is a developer on the design team to sort of address development issues and go here are things I anticipate we might have so the design team can try to figure things out. But it's not till divine that development</v>
+
+00:29:10.000 --> 00:29:40.580
+<v Speaker 1>just giving it sort of major notes. And it's when it starts playing with like, it's like, OK, it's at a place where you can really play with the set. Now notice when I said we got into the middle part that not all the rivers are necessarily done By the time you get to the final, the final third, your rare, I mean nothing. Your ears won't change, but you need to have all the rares and mythic rare slots filled. You need to have a full set. In fact, when you hand the set over, you tend to hand over a little over that, especially in rares and mythics, so that there are some extra cards of the team needs them. Also</v>
+
+00:29:40.800 --> 00:30:09.270
+<v Speaker 1>in a file we do, we call 90 nining, which is when we do something and we don't need it, we take it out. If we really, really believe that if we took it out, but we know that it could go back in in a second, we 66 that a 99 means we took it out because it wasn't fitting anymore. Usually we leave some of the 99 and the 60 sixes for development. The 90 nines are ones like this was interesting, but we shifted. But if you shift back, maybe you'll be interested in this. And 66 is our look. We lost it for space, but it's a good card. If you need it, here's a card</v>
+
+00:30:10.640 --> 00:30:16.170
+<v Speaker 1>and then we do the late play task. And like I said, a lot of the play tests</v>
+
+00:30:16.810 --> 00:30:29.800
+<v Speaker 1>early on like this mechanics doing blah, blah, blah. Or I really like this car, we should do more like it and play test is more like this card is not playing well with that card. Or if we make this tweak to this card, it'll play better with that card.</v>
+
+00:30:32.360 --> 00:30:56.780
+<v Speaker 1>So anyway, hopefully, like I said, my goal today was to get a little more sense of when we play test how we do and what happens. And I get asked about places all the time. People seem very interested in playtests. So. But anyway, I've just parked my car. So we all know that means yes, it's time to end my drive to work. And instead of talking about Magic, it's time for me to be making Magic. I'll talk to you guys next time.</v>
+

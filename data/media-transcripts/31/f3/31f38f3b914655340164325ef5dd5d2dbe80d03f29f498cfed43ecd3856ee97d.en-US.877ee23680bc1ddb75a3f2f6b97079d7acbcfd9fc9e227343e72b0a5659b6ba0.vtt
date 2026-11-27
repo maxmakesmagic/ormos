@@ -1,0 +1,281 @@
+WEBVTT
+
+00:00:00.760 --> 00:00:05.980
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time for another drive to work.</v>
+
+00:00:06.860 --> 00:00:37.770
+<v Speaker 1>OK, so I decided to do a bunch of podcasts about Onslaught and that went for a long time. So I wanted to definitely break it up. And so today it's a little breed that are a little little something a little different to break up the Onslaught posts or podcasts. So today I'm going to answer the question I get asked all the time, which I've answered numerous different places, but never never in a 30 minute increment. So we're going to try it today to see if I can maybe talk about some stuff that I haven't before. So the question is,</v>
+
+00:00:38.000 --> 00:00:59.210
+<v Speaker 1>what is the difference between design and development? So one of the things I mean, here's what I want to do. First I want to explain kind of what design development does, and then I can talk about some of the differences between them and then talk about how we work together and how what design does is fundamentally different what development does. But on some level that we're doing a lot of the same job.</v>
+
+00:01:00.390 --> 00:01:00.870
+<v Speaker 1>OK,</v>
+
+00:01:02.010 --> 00:01:32.250
+<v Speaker 1>So one of the things is the whole concept and design and development is something that Wizards, to the best of my knowledge, we sort of created. It's possible that other people do this, and I was unaware, but when I talked to people in the game industry, the way we structure things a little differently than most. And so today I'm going to walk through that and sort of explain what's going on. So the idea was when Magic first started, that there was a</v>
+
+00:01:32.340 --> 00:01:39.720
+<v Speaker 1>that magic was all done out of house. And what I mean by that is the early days of magic, the people making the sets didn't work it Wizards.</v>
+
+00:01:41.250 --> 00:02:11.370
+<v Speaker 1>So for example, you know, we talk about legends or Ice Age or Mirage or Homelands or even Antiquities. You know, a lot of those early sets were made by people external to the building. Now some of those people external to the building would later not be external to the building and work at the building. And in a few cases like homelands, there were people that worked at Wizards, they just weren't R&amp;D people. They were from other sections of the company. And So what happened early on was somebody would</v>
+
+00:02:11.440 --> 00:02:35.700
+<v Speaker 1>pick the set, would design it, and then R&amp;D would do a pass on it because like, OK, someone made it, now we're going to do a pass on it. And the reason that R&amp;D had to do a pass on it is there's a bunch of factors that's very, very hard for the outsiders to know. Outsiders can come up with cool, neat things, but they might not understand the meta game or what's powerful right now. They have to watch out for that</v>
+
+00:02:37.160 --> 00:02:42.580
+<v Speaker 1>internal R&amp;D very much sort of had to keep an eye on sort of how the cards fit into the bigger picture.</v>
+
+00:02:43.390 --> 00:02:52.030
+<v Speaker 1>So anyway, we flash forward to Tempest. And so Tempest was the first set in which</v>
+
+00:02:53.260 --> 00:03:23.530
+<v Speaker 1>we designed it in house. In fact, this is my set. I was the one who led this. But we've kind of had this process where the designers, people who first sort of created this at were separate from the R&amp;D passes that we've done to make sure that everything worked all right. And so we decided with Tempest, let's just keep this, it's working well for us that the reason design development kind of started originally was one of it was the team outside the building, 1 was the team inside the building. But even when the design went inside the building,</v>
+
+00:03:23.620 --> 00:03:37.470
+<v Speaker 1>we decided to keep the process separate. So let me talk a little bit about what design does and what development does. And I mean, on some level, really what's going on is it's two set of eyes, right? If you want to think of this way, you could think of</v>
+
+00:03:38.220 --> 00:03:48.210
+<v Speaker 1>design development or just design is kind of the early aspect of design and development of the late aspect of design. That what is going on is</v>
+
+00:03:48.870 --> 00:03:57.600
+<v Speaker 1>one of the problems is when you make something, when you creatively make something, you invest yourself in, you get very emotionally invested. And so</v>
+
+00:03:59.040 --> 00:04:26.670
+<v Speaker 1>at some level you lose some objectivity just because as you get very close to your creative work, it's tough to sort of sometimes see things because you're too close to it. In fact, in the writing world, in the publishing world, you have an author and the author has an editor. Why does the author have an editor? Well, one is the editors there to catch simple copy editing type mistakes. You misspelled the word. But bigger than that, the editor is there to be a second,</v>
+
+00:04:28.150 --> 00:04:57.940
+<v Speaker 1>a second opinion on what's being written and that a good editor will comment to the writer and say, you know what? I think this chapter, I'm confused or I'm not sure whether this subplot is really pulling its weight or you're the editor gives actual critique, critical information to the writer to to help help the writer. And I mean, it varies from from writer to editor, but a good editor, somebody who is being the second set of eyes, not just for copy editing,</v>
+
+00:04:58.090 --> 00:05:15.510
+<v Speaker 1>but also to sort of make the author understand things that sometimes when they get real close, they won't see. So in this parallel, I believe that design development, a decent metaphor is a writer, author relationship. And with the author is very aggressive in their what they're willing to do.</v>
+
+00:05:16.170 --> 00:05:27.710
+<v Speaker 1>You know, I don't, I don't mean in the sense of they just copy it. I mean, they're willing to move chapters around or willing to do major stuff to to improve the book in a way that's that's pretty substantial.</v>
+
+00:05:29.050 --> 00:05:41.940
+<v Speaker 1>OK, so here is what design does. Designs job is to figure out. Design starts with a blank piece of paper and they have to take a blank piece of paper and turn it into something.</v>
+
+00:05:43.290 --> 00:05:59.820
+<v Speaker 1>So designs job is to sort of figure out what are we doing? What is this set about? You know, now normally there's a jumping off point that people agree with. The way we work in the seven-year plan now is that a bunch of people all signed off on the general area for the design. So for example,</v>
+
+00:06:01.770 --> 00:06:11.760
+<v Speaker 1>I construct here came out not too long ago and that started because we had signed off on an interesting draft block strategy, have a black</v>
+
+00:06:13.120 --> 00:06:13.950
+<v Speaker 1>a block</v>
+
+00:06:15.300 --> 00:06:19.670
+<v Speaker 1>structure that we liked and then said, you know, we're going to build off of that. That's where we started.</v>
+
+00:06:22.450 --> 00:06:52.580
+<v Speaker 1>And So what happened was designed to figure out where they want to start and then have to make something. So I'm going to use contact here because it's the most recent to sort of talk about how design functions. So design said, OK, we need a jumping off point. We're going to pick this interesting block structure, this block, this drafting structure that we've never done before. And so we had to look at and said, OK, well, assuming this is our jumping off point, this is what we're doing, what does that mean? And the design has to sort of flesh out stuff. And so a lot of what design</v>
+
+00:06:52.660 --> 00:07:19.430
+<v Speaker 1>doing is figuring out the, the structure of, of the set, what is the, the foundation, what, what are we building off of? So the contents are here as an example. We said, OK, we started with the idea that we wanted a certain draft structure. And so the next step was how could we justify that draft structure? And after looking at a whole bunch of different things, we came up the idea of of doing a time travel story</v>
+
+00:07:20.790 --> 00:07:31.600
+<v Speaker 1>that became the germ of what we built around like sort of the the draft structure was the initial idea. And then we came up with an idea that followed that and then that started giving us some definition,</v>
+
+00:07:33.260 --> 00:07:38.970
+<v Speaker 1>then design understanding that was the block structure, then started building the block to match that.</v>
+
+00:07:40.120 --> 00:07:52.510
+<v Speaker 1>Eventually I was, I was the lead designer for Concert Tarkir. So then once I understood what the block was doing, I understand what the set was doing. And then once I knew the set was doing, I had to start creating structure for it.</v>
+
+00:07:53.620 --> 00:07:58.040
+<v Speaker 1>So we knew, for example, that it was going to be</v>
+
+00:07:58.990 --> 00:08:13.840
+<v Speaker 1>we have gone. The creative team told them we needed a world, a flawed world. They came back with Tarkir, which was Sarkin's home world filled with war lording, you know, clans, warring clans run by these warlords known as cons.</v>
+
+00:08:15.300 --> 00:08:44.590
+<v Speaker 1>And so from there we said, OK, well, if we want to show warring clans, well that leads to factioning. We want to have a bunch of different groups. We went to the creative team. We said, how many groups are there going to be? They originally came back with four. We built the thing around 4. Then they said, wait, we think there's a fifth one. So we ended up building on five. Once we were at 5, the because magic is divided into color, 5 is a very important number in, in magic. So once we got to five, I knew</v>
+
+00:08:44.660 --> 00:09:14.460
+<v Speaker 1>that we had involved the color wheel, that it would be too hard to do 5 and not involve the color wheel. It would be fighting just inertia. And from there that led us to the idea of, you know, people been wanting us to do wedge. Oh, maybe this would make sense as a wedge set. That's something people really been wanting. And from there we took all the different components and design put them together. So what design was responsible for is saying, OK, what are the take the first stab with mechanics are you know what what's the structure? How are things put together?</v>
+
+00:09:14.680 --> 00:09:44.690
+<v Speaker 1>Cancer here, is that OK? It's a faction structure. There are 5 factions. They are wedge aligned. We're the ones that figured out where to center the color. And like I said, there's a lot of choices that the block isn't all out yet as as the hearing of this. So I can't, I can't quite explain everything yet, but there are a lot of choices made to match what we were doing with the block structure. But design is responsibility is to figure out what the structure is, what the elements are, how it's put together, what mechanics we think will make it work. So</v>
+
+00:09:44.800 --> 00:10:15.090
+<v Speaker 1>what does what design is doing? It's design is building all the under the under structuring of it and then taking a first stab at what we think will answer things. And the important thing is when design hands off the document development, what we do is we explain our processes. We explain our thought process, we explain what we're up to. So when I hand off the file, you know, concert here to Eric Lauer, who was the lead developer, I'm explaining what I'm doing, what I'm up to. Here are the plans. Here's what the plans were present. It was designed that came up with the idea that the clans</v>
+
+00:10:15.170 --> 00:10:40.550
+<v Speaker 1>represented draconic aspects of the when we work with the creative team. So design works very closely with the creative team to make sure that we are creating something that can be supported by what the creative team dies. So for example, using content example is we knew we needed a world, we went to the creative team and said here's our parameters for the world. We need a flawed world, the world in trouble. And they came back.</v>
+
+00:10:41.640 --> 00:11:06.110
+<v Speaker 1>Then we said, OK, we need factions. And they said, well, in the world we want to do, here's what we want to go for the factions, OK, We compromise on how many factions there were. And then we built each one and we had to go back to the make sure that the colors would match. And one of the things we did is, oh, well, this is these colors and it's maybe skews the clan a little bit. And so each of the clans adjusted to make sure they made sense for the colors they were in. Then design,</v>
+
+00:11:09.160 --> 00:11:21.670
+<v Speaker 1>so more has to do with the larger block structures are for me to talk about now, but more for playing a role if something bigger than the clans. And then the clans each have their own mechanic and so design job to find a mechanic for each of the clan.</v>
+
+00:11:23.380 --> 00:11:37.320
+<v Speaker 1>Now be aware that design is the is the first half of this process, but design is doing is doing the initial work. It's saying what do we think are the cool ideas? The other metaphor I'll use between design development is that design or</v>
+
+00:11:39.080 --> 00:12:10.030
+<v Speaker 1>builders and development fine tuners. You know that that design says, here's a wacky idea for a deck, let's do this. And development says, OK, if you want to accomplish that, here's what we need to do with the deck to make it happen. OK, so now we're we're shifting from design to development. So design comes up with a bunch of ideas when we hand it over the file of consent Archir. We had five clans that were wedged that had particular mechanics that had morphed, and morphed was used in a certain way.</v>
+
+00:12:10.330 --> 00:12:15.410
+<v Speaker 1>Now all along the way we have checkins with development to make sure the development is happy with where we're going.</v>
+
+00:12:16.710 --> 00:12:30.410
+<v Speaker 1>Used to be them design handoff development is like design development. Didn't talk till the handoff happened. Then we created this process we called Divine Dev IGN for those that care, because it's half development, half design, which was better than that development</v>
+
+00:12:31.750 --> 00:12:35.090
+<v Speaker 1>or development I guess. So what happened was</v>
+
+00:12:38.910 --> 00:12:55.070
+<v Speaker 1>we create a divine or divine was is development started a month or two months for a large that before design ended so that development could start looking analytically at the set being designed. Give notes in time for design to adapt to those notes.</v>
+
+00:12:55.910 --> 00:12:59.700
+<v Speaker 1>So what happens? That's how we started. Now we do checkins even earlier.</v>
+
+00:13:01.140 --> 00:13:05.980
+<v Speaker 1>We now do exploratory design, which means that we're looking at ideas even before we get to the design.</v>
+
+00:13:06.840 --> 00:13:22.440
+<v Speaker 1>At the end of exploratory design, we talked to development and we say here's ideas that are going in, here's ideas that design is going to start playing around with just to see if there's any areas that development has concerned with. Then design is chopped into 3 sections</v>
+
+00:13:23.640 --> 00:13:29.040
+<v Speaker 1>and at the end of each section there's kind of a check in with development to make sure see how they're feeling.</v>
+
+00:13:30.650 --> 00:13:31.110
+<v Speaker 1>Umm,</v>
+
+00:13:31.770 --> 00:13:56.330
+<v Speaker 1>and so that the important part is we want to make sure that development is, is happy, we're design is going. Then once the set is handed over to development design, the designer at least keeps their head poked in and just keeps watching what's going on. Often the lead developer will come back to the lead designer saying, here are some changes I want to make. Do you have any issues with these changes? So that there's a that the two vision holders are sort of sharing information.</v>
+
+00:13:57.980 --> 00:14:10.960
+<v Speaker 1>OK, so design set things up. Design says here's the structure, here's a good check, check it mechanics. Here's the vision. Here's what we're aiming at to do. A big part of what I do in design is making sure there's an emotional,</v>
+
+00:14:11.770 --> 00:14:18.560
+<v Speaker 1>some emotional response you're trying to get of the audience. Always explained that to development. Here's what I'm going for. Here's what I'm trying to get the audience to feel when they play.</v>
+
+00:14:19.380 --> 00:14:49.480
+<v Speaker 1>OK, so that all gets taken and given a development. So development job is to be that second set of eyes. So first thing they do. Design does not really worry about costing. We have a development member on the team we call the development representative or the dev Rep, and their job is to make sure that the costing of the cards is playable. Because in design, our goal is we want everything to be playable so we can test it so we can see where the fun is. You know, a lot of what design is trying to do is explore possibilities.</v>
+
+00:14:49.560 --> 00:15:20.040
+<v Speaker 1>So in order to do that, we just want to play a lot of the different cards. So what we do, we do we call costing flat, which means that every card has constant such that probably if you wanted to, you could play in the limited. And the idea is when you play test in design, you're not trying to make the best deck. You're trying to play things you've not played before. So let's say the last place actually played black blue. Maybe the next place you played red green, you're black blue might be better than your red green. You might make a better deck with black blue. But the goal of design is not to test. You're not stress testing</v>
+
+00:15:20.380 --> 00:15:23.350
+<v Speaker 1>because you're not doing environmental stuff that will come during development.</v>
+
+00:15:24.740 --> 00:15:37.970
+<v Speaker 1>So what happens is when it first gets into development, the first thing they do is they start to sort of get a sense of where they want to push power, meaning what do they want to be aggressive on costing and what they want to be less aggressive. So they start doing a little more,</v>
+
+00:15:39.490 --> 00:16:09.320
+<v Speaker 1>a little more fine tuning of the cost. And as development moves along, as they get better and better understanding of what they want, the, the cost get more and more fine-tuned. The point where they're crafting an environment development, remember the early part of, of, of design is all about sort of figuring the possibilities. We want to give a whole bunch of tools and, and, and options to the development team who then slowly narrow down what they're doing. So in some ways design is very open and development is very closed in the sense that</v>
+
+00:16:09.430 --> 00:16:40.290
+<v Speaker 1>designed to looking to find what can get added and development looking at sort of what's carrying its way. Now the role of development is to figure out if something is working or not working. To go back to my editor metaphor, if there is a chapter that's not holding its own weight, the editor could take the chapter out or or make make the author rewrite the chapter. That's kind of a divine will be. So a good example I use and I talked about before, like in industry Rod, we wanted to have the vampires. They were red and black so that vampires are normally black</v>
+
+00:16:40.370 --> 00:17:12.140
+<v Speaker 1>love into red as well. We wanted that tribe to be the aggressive tribe. The problem is red block, left to its own devices, tends to be a little more controlling than aggressive because black and red have the best creature removal. Usually the best strategy in a red black deck is kind of remove threats and then attack as you can. It's not necessarily trying to be fast as it's trying to be efficient. So when we said to the development team, this is our aggressive deck, they're like, oh, I'll go, we need to change some things. And what we had done really wasn't making them as aggressive as they needed to be.</v>
+
+00:17:12.260 --> 00:17:43.680
+<v Speaker 1>So they changed it around. For example, they added the slits mechanic for the mechanic that said, you know, vampires feed on the opponent, so every time they do damage they get a + 1 + 1 counter, they get stronger. And that was a mechanic that said, hey attack, you want to attack an attack quickly, you want to play this cheaply and you want to tackle right away. So they put into it some stuff that made the players play the way the design envisioned it. But that's important distinction here is that designs job was to sort of figure out the field they wanted. And we took a first stab at it. We tried to sort of get where we wanted,</v>
+
+00:17:43.770 --> 00:17:47.810
+<v Speaker 1>but development make sure that the set is doing what needs to get done.</v>
+
+00:17:48.600 --> 00:18:18.710
+<v Speaker 1>And once again, because design isn't adjusting costing isn't isn't it really adjusting the environment as a whole? Because that required like once you start choosing what to cost and what to push, you very much control how people play the environment. And because we know that it's not what we do in design, the development is going to do it what we do. The role of design is to set development up for success. The role of design is to make all the tools necessary that development is able to do their job and that the trick is development.</v>
+
+00:18:18.780 --> 00:18:24.580
+<v Speaker 1>Very good at using tools to fine tune. What they are not good at is making the tools</v>
+
+00:18:25.370 --> 00:18:55.520
+<v Speaker 1>and that a lot of what happens is development is very, very good. If you have a mechanic of saying, oh, we need another car with this mechanic, we understand the mechanic. Oh well, let's make a new effect that's in the mechanic. They can do that very easily. You know, they can extrapolate, You know, I sometimes call it development design, which means development is very, very good of taking a known thing and extrapolating within known areas. That is something they excel at. Oh, well, there's a new mechanic and we need to direct damage spell. They can make that. They can figure out numbers,</v>
+
+00:18:55.600 --> 00:19:15.100
+<v Speaker 1>you can adjust that. That's not a problem. Where development has problems is, oh, this isn't working at all. We need something new that's a lot harder. That's not playing to their strengths. Design strengths is sort of coming up with the the, you know, from blank piece of page to something where development is taking the something and fine tuning it and making it worthwhile.</v>
+
+00:19:16.090 --> 00:19:46.400
+<v Speaker 1>Now development has an entire other thing going on, by the way, which is that Magic has a constructor component where people play decks, Standard being the most popular format. Well, development is in charge of making sure that that system doesn't break. And part of that is figuring out what to push what's being played. What are the decks that prior to this coming out are good decks. And what they're trying to do is make sure that they are mixing up the media game, getting new things, you know, not adding,</v>
+
+00:19:46.760 --> 00:20:16.680
+<v Speaker 1>not adding too much strength to the deck that's already the best deck and making sure that there's new things to do. Another thing designed as a design introduced new fun toys development job is to make sure those fun toys can be played, especially in constructed. Now, not every mechanic is necessarily about constructed. There's mechanics that are fun for limited that really don't have a huge constructive play and development has to figure out what to push where. And one of the big things between design development is design has to make sure that we make enough mechanics and development can push and a lot of.</v>
+
+00:20:16.760 --> 00:20:31.100
+<v Speaker 1>There's a lot of our notes from development is this mechanic we can't push or this mechanic is going to be really hard to get into constructed or into standard or this began it's perfect. Do more of this or sometimes it's like we need more knobs. So when knobs are is</v>
+
+00:20:32.120 --> 00:21:03.840
+<v Speaker 1>when you do a card, there's things that you can adjust. So a mana cost is a knob and activation cost is a knob. Power toughness is a knob. So every card has some knobs. Some mechanics have more knobs. So for example, if you have a mechanic like Kicker where not only do I have a spell, but I can pay a different cost to have the spell it a different, you know, I essentially have two different versions of the card. Well, there's a lot of knobs there, you know, and that at some level the knobbier we make our cards, the more we allow development testing tools to adjust them.</v>
+
+00:21:05.200 --> 00:21:26.380
+<v Speaker 1>But anyway, there's a lot of balance going on. There's a big thing that design spends a lot of time thinking about is overall complexity. Because development has ability to pull to ratchet things in some, but have worked too far off in the complexity. There's only so much development can do to rein it in. And so a lot of what design also doing is matching that complexity to set up development, just put it to the right amount.</v>
+
+00:21:27.460 --> 00:21:45.590
+<v Speaker 1>In a lot of ways, design and development are worked very closely together because our jobs are each dependent on the other one. It's a very symbiotic relationship. Design is dependent upon development to fine tune, but development is dependent on design to to craft the initial things to work with.</v>
+
+00:21:47.290 --> 00:22:11.320
+<v Speaker 1>So for example, I'm head designer, Eric Lauer's head developer. We both happen to be the lead designer developer on concept art here. But our jobs, for example, are a bit different. My job as head designer is I'm in charge of each year figuring out where we're going, what the general feel is emotional beats, you know, I'm trying to craft. What's this world? How will it resonate? How will this feel Fun and different,</v>
+
+00:22:12.590 --> 00:22:26.870
+<v Speaker 1>and that Eric's job is head developer is to make sure that each set is fun, it's playing well, it's balanced that it is. It is making exciting and cool magic and that is doing it in a way that his team can support.</v>
+
+00:22:29.310 --> 00:22:59.350
+<v Speaker 1>So where the overlaps? Well here, here are the big #1 fun. It is design job and it is development job to make the game enjoyable. Now the areas we look at are a little bit different. For example, I spend a lot more time and energy on the feel that when I'm making Industrywide or Pharaohs or even Ravnica or contact here, I'm very conscious on what am I trying to do, what does it feel I'm going for, What is the general gist? What's the emotional beats</v>
+
+00:22:59.440 --> 00:23:29.760
+<v Speaker 1>trying to get what? How do I want the audience? You know, I'm trying to make it fun because I want it to resonate with the player. Eric is trying to make it fun to make sure that you have the tools you need to do what you want to do. You know a lot of Eric jobs to make sure that oh, this in here's the balance of that. This deck is becoming unfun without a counterbalance. Let's make sure to have the counterbalance or ohh, the card flow isn't working well enough. We need to add a little bit of card flow or this is dangerous. So let's make sure we cost it so that it doesn't show up</v>
+
+00:23:29.840 --> 00:23:33.820
+<v Speaker 1>quite have a level where it would become annoying to people, you know, and that</v>
+
+00:23:35.480 --> 00:24:06.270
+<v Speaker 1>both of us are very much trying to make a fun game. But the aspects we're looking at are a bit different. The other thing that we're both very much looking into is there is a theme we are trying to hit. There's a goal we're trying to hit. Now it's design job to sort of set up the bullseye, if you will. But it's development jobs sometimes to move the bullseye to shift the bulls eye. User design figures out what we want to do and the development says, OK, you know, sometimes design has some lofty goals and as development gets their hands on, like, Oh well, some of the stuff you want,</v>
+
+00:24:06.340 --> 00:24:36.780
+<v Speaker 1>I don't know, we can deliver, but we can deliver something similar to what you wanted. And that's a very common discussion I'll have where Eric will come over and talk to me. Usually when he lead developer something, I'm the designer where he's like, OK, see where you were going for. But as we're playing, this is happening. Like one of the things that doesn't really happen in development is in design. We have flat power level. We're just trying to figure out what where the fun lies in a raw sense. Once development gets their hands on it, they cost things correctly. Now all of a sudden</v>
+
+00:24:36.920 --> 00:24:54.880
+<v Speaker 1>they are stress testing the environment. And what we find sometimes is when they stress tests like, ohh, now that players can do whatever they want, now that they're led by winning and that now they're like, what's the best thing I can do here? Sometimes it drifts away from the fun. Now I've talked about this a lot and this is really, really important and this is in design development to work together to do, which is</v>
+
+00:24:55.760 --> 00:25:07.180
+<v Speaker 1>the thing that you're game makes your players do. The players will try to win most of the time and that the game will encourage them to do certain things because those certain things is what will lead to them winning.</v>
+
+00:25:07.900 --> 00:25:38.770
+<v Speaker 1>If those things aren't fun, they will do them and then blame you, the designer, for not being fun. So the job of designer and development is to make sure that what you're set encourages you to do is where the fun is. And so one of the things that development does a lot is sometimes design comes up with a masterful fun plan. Here's the neat thing. And when we're playing with it, we, we're just, we're going where the fun is because we have nothing tells otherwise. Where development, once they start costing things and once it's like, OK, now I'm trying to win, now I'll do whatever it takes,</v>
+
+00:25:38.860 --> 00:25:57.280
+<v Speaker 1>you'll find that, oh, well, the actual correct strategy to win is this. That's not the fun strategy. And what Eric's team has to do is try to figure out how to get it back to the fund, how to deemphasize things that like work but aren't fun, and emphasize things that are fun and make those things work. And so a lot of development is</v>
+
+00:25:58.730 --> 00:26:05.230
+<v Speaker 1>understanding the vision of design, but then aligning it with the realities of what you need to do. Now, remember,</v>
+
+00:26:06.480 --> 00:26:37.130
+<v Speaker 1>they're also dealing with constructed where a lot of it's already locked down. You know, in design, a lot of what when design is working is we're doing limited, We're doing a lot of sort of casual constructed. We're looking at a world where people can are looking at this pool of stuff, mostly because at the time we're working, we don't know exactly what the things are going on. The outside world developments ones spend a lot more time and energy on that. And we are so much more far ahead. It's hard to gauge. They're a lot closer to it. You know, we're a year to two years ahead</v>
+
+00:26:37.220 --> 00:26:43.990
+<v Speaker 1>of where developments at and so it's just it's not worth us to try to figure that out. We don't know. It's too early. And so</v>
+
+00:26:45.770 --> 00:27:14.840
+<v Speaker 1>a lot of what development is doing is looking at what is locked and saying this can't change. How does this new stuff affect that? And sometimes the new stuff has to change to adapt to what is already out there. And one of the most frustrating things is sometimes you'll do something that seems innocent. Like I remember we made Ratchet Bomb and it wasn't until Ratchet Bomb was in the environment when we were doing industry. And we're like, oh, wait a minute, the backside of werewolves don't have a mana cost, which means they died.</v>
+
+00:27:14.920 --> 00:27:45.270
+<v Speaker 1>Ratchet bomb. Ah, we wouldn't have done it that way if we had thought of it ahead of time. But you don't always realize things and development have to work on the fly and adapt with things. Development very much has to adapt with what is going on. But the key here is the design and development are two sympathetic groups working together with the same outcome, which is we want to make an awesome set. And that like I said, at some level designs job is to do everything possible to enable</v>
+
+00:27:45.340 --> 00:28:03.950
+<v Speaker 1>development to make an awesome sack. And that is create vision, create structure, create mechanics, create cool cards, and then hand that all off to development, working with them along the way so the development can take the clay and mold it into the final product.</v>
+
+00:28:04.790 --> 00:28:06.670
+<v Speaker 1>And be aware that</v>
+
+00:28:08.560 --> 00:28:36.730
+<v Speaker 1>one of the things that I really think makes magic Excel and one of things I think is special about R&amp;D department is the fact that we've really taken the design process and broken into two very distinct parts allows us to a get more specialists. Meaning my designer is really designed, the developers really develop that there clearly are some overlapping skills that go on that, you know, there's a reason that designers sort of development teams, development servant design teams, but that it's more about</v>
+
+00:28:38.430 --> 00:28:42.570
+<v Speaker 1>that we really are able to fine tune what, um,</v>
+
+00:28:44.700 --> 00:28:46.060
+<v Speaker 1>how to make that work.</v>
+
+00:28:47.270 --> 00:28:51.660
+<v Speaker 1>Anyway, hopefully, I hope this was illuminating and this really taught you guys kind of</v>
+
+00:28:53.200 --> 00:29:06.420
+<v Speaker 1>what we're up to. And that, my friends, is the difference between design and development. But I've just parked my car, which means, guys, that this is the end of my drive to work. Hope today was informative. I'll talk to you soon.</v>
+

@@ -1,0 +1,371 @@
+WEBVTT
+
+00:00:01.320 --> 00:00:31.770
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time for me to drive to work. OK, so today is another in my series 20 lessons, 20 podcasts based on my GDC talk of 2016. So I'm up to lesson #18 restrictions breed creativity. So a quick caveat. This is probably the lesson I'm most associated with, and as such, it is definitely a topic that I approached quite a number of times on my podcast.</v>
+
+00:00:31.870 --> 00:00:54.110
+<v Speaker 1>So for regular listeners, I'm going to talk about themselves that I know I've talked about before, but a lot of this series is gets a lot of listening from game designers aren't necessarily magic players. So I'm going to talk about some stuff. So just a heads up that I know I hit some of these themes before because I'm talking about something that means a lot to me and I've talked a lot about, OK, so restrictions breed creativity. So</v>
+
+00:00:55.040 --> 00:01:24.980
+<v Speaker 1>let me start as I always do on these things with an example from Magic. So I write a column called Making Magic Every, every Monday since 2002, I've been writing this column. I think I'm up to my 850th column. And so one of the things when we started writing the column, we had this thing. Things have changed a little bit since then, but we first started the way it worked was every other week was a theme week and then every other week</v>
+
+00:01:25.050 --> 00:01:32.720
+<v Speaker 1>from that was not a theme week. So on theme weeks, I would always write to the theme and the non theme weeks I could write whatever I wanted.</v>
+
+00:01:33.520 --> 00:02:03.290
+<v Speaker 1>So the question was which was harder, writing for the theme weeks or writing for the non theme weeks? And the answer was Vernon, theme weeks were significantly harder, Significantly harder. And it gets to the crux of what this whole topic today is about, which is there's this myth about creativity, that being open, having choices makes you more creative than what a creative mind wants</v>
+
+00:02:03.380 --> 00:02:10.900
+<v Speaker 1>is infinite possibilities. And The funny thing is, that's not really how the brain works. That is not</v>
+
+00:02:12.200 --> 00:02:32.650
+<v Speaker 1>when I had my theme week, when I knew my theme week was I go OK, and I had to figure out what I was doing, but I would work within the theme week. And when I didn't have my theme weeks, when I could do anything that was infinitely harder, you know, saying something. In fact, a lot of times I would sort of try to find something. I would give myself some limitations to help myself.</v>
+
+00:02:34.220 --> 00:03:03.930
+<v Speaker 1>So let me talk a little bit about about creativity and about sort. I once again, I did entire podcast on creativity. I wrote an article online called Connect the Dots where I talk about what I believe creativity is. And my whole idea on creativity is it's the ability to connect things that other people don't see as connected. That's what I believe creativity is and I believe it's a skill of that. It's a muscle that you get better with use, but we'll get to that in a second.</v>
+
+00:03:04.050 --> 00:03:34.180
+<v Speaker 1>Let's talk a little bit about about brain chemistry because this will explain a lot about what's going on here. OK, so why is it easier if you have something than if you don't have something? And let me talk about that. So. OK, so the way the brain works is the brain is a really smart organ that it it, it really, it is the smartest organ. So what happens is whenever your brain sees a problem, meets the problem, it goes in it's</v>
+
+00:03:34.250 --> 00:04:03.970
+<v Speaker 1>data banks and goes, wait, have I dealt with this problem before? Let me look it up. And if it has, then it uses the things it used last time. Now, most of the time, this is really, really good that if I want to solve a problem and I solve it, next time I go to solve the problem, if I've already solved it, I don't want my brain to start from scratch again. I want my brain to use the knowledge I learned before. So if I don't know how to do something and I learn how to do it, the next time I'm trying to face that thing. Whoa, whoa,</v>
+
+00:04:04.260 --> 00:04:15.540
+<v Speaker 1>got this. I know how to do this now. Most of the time, that's really good. The brain functioning that way is really helpful. There's no reason why you should relearn something you already know.</v>
+
+00:04:16.690 --> 00:04:46.220
+<v Speaker 1>But, and this is a problem for creativity, is because of this technique of your brain to sort of make things easier by reusing pathways. What happens is if you approach a problem that you've already approached before your brain, it's natural thing to do is approach it from the exact same way, literally with the same neural pathways. Now the problem there is it gets you to the same answer. Now, normally that's a good thing. If I want to know how to do something, if I'm trying to figure out how to</v>
+
+00:04:46.690 --> 00:05:15.050
+<v Speaker 1>book something or whatever I'm trying to do, I'm trying to learn how to do it. I want to come to the same conclusion. I want to go, ohh, this is the way to do it. With creative thought, though, it's the one place where it's a problem. If I'm trying to come up with something different and my brain keeps wanting to come up someplace that's the same, well, that causes a problem. And so one of the things that often happens when you're trying to do game design is if you approach your problems from the same vantage point, you get the same answers. And</v>
+
+00:05:15.870 --> 00:05:45.950
+<v Speaker 1>is is the thing that's even, I guess about this that's subtler is it's not that you're even aware necessarily that using the same neural pathways. When I explain it, when I say, well, here's how the brain works. And you sit back, you. Oh, yeah, yeah, that makes sense. But when you think about how like one of the things that's very interesting is figuring out when what you do, which makes sense in most places doesn't make sense somewhere. So for example, yeah, yeah, yeah. Most of the time when I want to learn how to do something, I want to build on experience from before. But what happens,</v>
+
+00:05:46.030 --> 00:05:55.540
+<v Speaker 1>creative thought, is it just means that I keep coming up with the same answers. And when your goal is to come up with new answers, that can be very frustrating.</v>
+
+00:05:58.360 --> 00:06:15.010
+<v Speaker 1>So the way the really what this means is that if you want to be creative, you have to understand the limitations of your brain or not even the limitations as much as the nature of your brain. So the trick here is if you want to be creative,</v>
+
+00:06:15.760 --> 00:06:30.810
+<v Speaker 1>what that means is you have to get in the habit of learning to give your brain different stimuli. O let me use magic as my example. I right now am working on it's code named cricket and I'm,</v>
+
+00:06:31.390 --> 00:06:39.500
+<v Speaker 1>yeah, I'm working on cricket. I'm in fact doing exposure design on diving and a lot of what's going on is, and this is my</v>
+
+00:06:39.940 --> 00:06:42.790
+<v Speaker 1>25th, Sat 30th set. I don't know, I've let a lot of sets</v>
+
+00:06:44.330 --> 00:07:07.190
+<v Speaker 1>so I I think I've let about 2025 ish sets. So how is it my 25 sets are different from one another? Well, there's a couple of factors. The biggest is one of the things I do whenever I'm making a new set is I try to figure out something to do that I haven't done before. I try to give myself a goal that's a unique goal for that set. So for example,</v>
+
+00:07:08.200 --> 00:07:12.630
+<v Speaker 1>when I do a top down set, meaning I am influenced by some flavor,</v>
+
+00:07:13.500 --> 00:07:43.630
+<v Speaker 1>Well, if I've never done that before, if this is the first time I've ever tried to make Greek mythology or a Gothic horror or, you know, whatever, whatever top down theme I'm doing, right off the bat, I'm like, OK, the first thing I do on top down sets is I make a list of all the things that that thing would want. So right off the bat, well, I haven't done that before. Now sometimes I'm doing what we call bottoms up, which is a mechanical based thing, not a flavor base. And then it's like, OK, like for example, Ravnica came about</v>
+
+00:07:43.750 --> 00:08:01.170
+<v Speaker 1>because we were doing our second ever block dedicated to multicolor. So I literally said, well, what does the last block make you do? And the answer was play lots of colors. So I was like, OK, let's do the opposite. Let's play as few colors as possible while still being multicolor, which meant two color</v>
+
+00:08:02.550 --> 00:08:17.890
+<v Speaker 1>that I I sort of found that space by pushing against where I've been before. So whenever I start a set, one of the things that I always try to do is I try to make sure that I'm just have a different goal in mind. I'm just trying to do something different.</v>
+
+00:08:18.850 --> 00:08:41.670
+<v Speaker 1>Another big thing I do is we have design teams. I try hard not to have the same design teams that I want different stimuli coming in that, for example, that just having different people means I'm going to get different questions, I'm going to get different input, I'm going to get different designs. The part of the way that I make sense different is just having different people getting involved in it.</v>
+
+00:08:42.430 --> 00:09:12.660
+<v Speaker 1>Um, another common thing I will do is that I try to push in certain directions. I like to have a bullseye. So one of the big things I believe about leaving a design is that you, the person in charge of the design, are trying to give direction to your designers. You are trying to make a bullseye to aim for. Now, be aware that just because you aim at one thing at one point doesn't mean that's always where you're aiming. But it's good that the people on your design team, your designers</v>
+
+00:09:12.760 --> 00:09:16.400
+<v Speaker 1>have a direction that they know what they're trying to accomplish.</v>
+
+00:09:17.750 --> 00:09:28.610
+<v Speaker 1>And, and a lot of, of, of what I'm talking about today is I want to make sure that my goal is a unique goal. And then I have a unique set of people that I'm doing that with so that I'm trying to do something I haven't done before.</v>
+
+00:09:29.320 --> 00:09:29.860
+<v Speaker 1>Um,</v>
+
+00:09:30.800 --> 00:09:35.490
+<v Speaker 1>and the big thing about sort of understanding this is that</v>
+
+00:09:36.810 --> 00:09:43.500
+<v Speaker 1>I think people falsely believe that the limitations themselves will inhibit creativity,</v>
+
+00:09:44.730 --> 00:09:49.170
+<v Speaker 1>that, you know, if I have neat creative ideas that, um,</v>
+
+00:09:50.710 --> 00:09:51.330
+<v Speaker 1>and represent</v>
+
+00:09:54.530 --> 00:10:01.410
+<v Speaker 1>that having outside limitations would somehow hamper it. Like the idea essentially is within me. I have this, you know,</v>
+
+00:10:03.390 --> 00:10:10.640
+<v Speaker 1>they used to talk about when they do sculpture, I think Michelangelo believed that the thing he was sculpting was already in the marble. He was just freeing it from the marble.</v>
+
+00:10:11.910 --> 00:10:19.080
+<v Speaker 1>I think there's people that believe that like you had these great ideas and just you have to find the great ideas and the reality is an actual sort of</v>
+
+00:10:21.210 --> 00:10:21.780
+<v Speaker 1>sorry,</v>
+
+00:10:23.300 --> 00:10:24.380
+<v Speaker 1>one more Rick, sorry.</v>
+
+00:10:28.590 --> 00:10:34.610
+<v Speaker 1>I think there's a false blue sometimes, that the idea already exists and all you are doing is discovering it,</v>
+
+00:10:35.330 --> 00:10:40.480
+<v Speaker 1>and that any limitations you do might pull you away from finding this beautiful</v>
+
+00:10:41.210 --> 00:10:43.780
+<v Speaker 1>piece of art trapped in, you know, in limbo.</v>
+
+00:10:46.650 --> 00:10:47.920
+<v Speaker 1>And the reality is</v>
+
+00:10:49.520 --> 00:10:58.230
+<v Speaker 1>that it is this restrictions, it is ideas that tent you tend to build off of. Um, so I'm going to compare the making of an idea to an oyster.</v>
+
+00:11:01.200 --> 00:11:01.650
+<v Speaker 1>Sorry,</v>
+
+00:11:03.300 --> 00:11:11.660
+<v Speaker 1>I'm getting away of my my thoughts. OK, so the way an oyster gets made, for those that don't know, is a clam.</v>
+
+00:11:13.270 --> 00:11:31.960
+<v Speaker 1>We'll get a piece of sand or something in it and the irritants will it will form, it'll make a little whatever the stuff is, but it it starts forming around it. And that actually a Pearl is something that's sort of, there was some irritation and it was dealing with irritation slowly sort of creates this thing.</v>
+
+00:11:33.370 --> 00:11:37.960
+<v Speaker 1>And essentially, The funny thing is I don't think the role of the clam was to make pearls per se.</v>
+
+00:11:39.580 --> 00:11:55.760
+<v Speaker 1>It's not like I hope collect oysters, oysters make pearls, sorry, oysters make pearls, clams, oysters. The the goal of pearls wasn't necessarily like the oyster didn't exist to make the Pearl per se. That the Pearl was a byproduct of it trying to do something.</v>
+
+00:11:56.970 --> 00:12:07.970
+<v Speaker 1>And that a lot of great ideas are a lot like that little grain of sand to make the Pearl, which is you get something in your craw and you try to sort of work around it. And that thing inspires things</v>
+
+00:12:09.520 --> 00:12:12.080
+<v Speaker 1>like a lot of great inspirations for me</v>
+
+00:12:13.020 --> 00:12:33.250
+<v Speaker 1>have come about when I was trying to sort of solve a problem and they would like elegant solutions. I I call them or I'll a lot of where the great, a lot of the Thunderbolt moments are not that I had this idea out of nowhere is I found I had a problem I was trying to solve and the elegant solution came to me. And I think a lot of creative,</v>
+
+00:12:34.900 --> 00:12:47.940
+<v Speaker 1>lot of creativity is in fact elegant problem solving. It's I need to do something, I need to find a solution to this. I can't find an obvious solution and then I find a nonobvious solution, but something that</v>
+
+00:12:48.830 --> 00:13:18.360
+<v Speaker 1>makes me realize, ohh, if I think of it in this way, it opens it up and it gives me some new possibilities. And like I said earlier, I believe creativity is the connecting of things that don't normally connect. So a lot of cool sort of creative moments as, oh, here's something else I have learned in a completely different field that you wouldn't think has anything to do with this, but it does. And if you think of it this way, and you a lot of great insights are applying things you've learned elsewhere to a field that you haven't applied it to.</v>
+
+00:13:18.810 --> 00:13:19.260
+<v Speaker 1>Umm,</v>
+
+00:13:20.340 --> 00:13:41.770
+<v Speaker 1>there's a great book that I'm completely blanking on the name right now that talks a lot about how a lot of great scientific discoveries were in fact people from 1 field bringing their expertise to a different field and saying, Oh well, here's something we know is true in this field if we bring it to this field. And the idea is</v>
+
+00:13:43.970 --> 00:13:49.120
+<v Speaker 1>OHH because this is true in one area. Is there some truth to it in another area</v>
+
+00:13:50.240 --> 00:14:05.030
+<v Speaker 1>from a writing standpoint, I've talked a lot about that. One of the things that's very common is for writers to have a theme, and that theme carries through their work. And a lot of what makes different works is them taking their theme and applying it in different ways.</v>
+
+00:14:06.360 --> 00:14:08.640
+<v Speaker 1>And this idea of sort of</v>
+
+00:14:09.370 --> 00:14:40.380
+<v Speaker 1>you having ideas but crisscrossing, hybridizing the ideas is where I think a lot of things come from. But it is not this idea that I'm nothing, that ideas come from nothing that I just spontaneously make an idea out of whole cloth that doesn't really how the brain works. It's not how ideas work. Usually what happens is it's me forming around something to try to figure that out. So let me get you some practical advice today. So what am I trying to say with this lesson? Creativity restriction, free creativity. What does that mean?</v>
+
+00:14:40.690 --> 00:14:51.910
+<v Speaker 1>OK, number one, it means you want to bring restrictions into your work. The restrictions are not a negative but a positive. And what I mean by that is</v>
+
+00:14:53.320 --> 00:14:54.580
+<v Speaker 1>when you're building something,</v>
+
+00:14:55.420 --> 00:15:05.820
+<v Speaker 1>understand that you having things that speak to you, you having ideas to work around are are good idea that one of the, to me, the creative process is</v>
+
+00:15:06.470 --> 00:15:26.810
+<v Speaker 1>there's a part early on where you're sifting through ideas and then find something that speaks to you. And it's not important that you understand why it speaks to you. That's not even important necessarily. It's just that something about it really makes you keep coming back to it, that there's something about the concept that says</v>
+
+00:15:27.600 --> 00:15:28.500
+<v Speaker 1>this interests me.</v>
+
+00:15:29.260 --> 00:15:42.930
+<v Speaker 1>And then what I say is bring those things into your work, things that just sort of knaw at your, at your consciousness, that sort of like that. There's something about this that really, even if you don't understand why, really intrigues you,</v>
+
+00:15:43.810 --> 00:15:54.690
+<v Speaker 1>because a lot of creativity is building off of something. And so if you start with the thing that just really interests you, you it will build toward interesting things.</v>
+
+00:15:56.110 --> 00:16:01.350
+<v Speaker 1>The second thing is that I want you to understand this dynamic, because</v>
+
+00:16:02.020 --> 00:16:05.890
+<v Speaker 1>often in game design or any creative endeavor, you'll get stuck</v>
+
+00:16:06.550 --> 00:16:07.730
+<v Speaker 1>that you're trying to do something.</v>
+
+00:16:08.840 --> 00:16:17.510
+<v Speaker 1>Then you get what I call the loop, where you sort of keep doing the same thing and getting the same answer, and it just gets frustrating because you just can't seem to break out of it.</v>
+
+00:16:18.220 --> 00:16:30.650
+<v Speaker 1>So what I say there is another great way to use. This is a very good trick, which is sometimes when you're stuck, take a restriction that's not necessary, but put it in anyway.</v>
+
+00:16:31.290 --> 00:16:46.230
+<v Speaker 1>So for example, sometimes I'm trying to design cards and I'm just, I keep designing the same thing. So all those add restriction, I'll just add restriction. And sometimes what I'll do is I'll add a crazy restriction, not even a nonsensical restriction. So like, I'm designing cards. I'm like, OK, OK,</v>
+
+00:16:46.980 --> 00:16:53.070
+<v Speaker 1>I'm going to be inspired by Donuts. I'm going to design the car that reminds me of a donut,</v>
+
+00:16:53.750 --> 00:17:04.530
+<v Speaker 1>or I'm going to design A car that reminds me of Lacrosse, or I'm going to design A car that reminds me of I Love Lucy. I just pick something that is non, that has nothing to do with what I'm doing</v>
+
+00:17:05.140 --> 00:17:18.900
+<v Speaker 1>because what it forces me is it forces my brain to do the thing I'm talking about. I'm now thinking about my problem in a different context that have ever thought before. And then what happens is I can latch on to new things. I can latch on to something different.</v>
+
+00:17:21.340 --> 00:17:27.230
+<v Speaker 1>So this, this, this concept allows you, when you get stuck as a tool to help you.</v>
+
+00:17:29.160 --> 00:17:35.780
+<v Speaker 1>I mean, a lot of what if you listen to a lot of my lessons and stuff, a lot of them is really about human nature.</v>
+
+00:17:37.060 --> 00:18:04.110
+<v Speaker 1>Some of them is about understanding human natures of your player base, but some of them are standing the human nature of you, the person making the game, you, the game designer, that you are human too and you have the same foibles and you will fall into the same traps because there's certain nature, humans work a certain way. And I'm trying to make you understand that when you get your creativity, when you get to sort of artistic thought, that there are traps to fall into that are just</v>
+
+00:18:05.700 --> 00:18:09.550
+<v Speaker 1>human nature traps. The brain is a wondrous thing.</v>
+
+00:18:10.320 --> 00:18:12.110
+<v Speaker 1>The brain will do amazing things, but</v>
+
+00:18:13.830 --> 00:18:18.470
+<v Speaker 1>any tool is only as good as the knowledge of the tool user.</v>
+
+00:18:19.200 --> 00:18:49.730
+<v Speaker 1>And so one of the things about if you're going to be in a field where you're using your brain, where your brain is your tool, you need to spend time understanding it. Like for example, if you're a dancer and your body is your tool, you have to get much better understanding your body. I know a lot of dancing classes is about sort of or even acting classes is about sort of getting you in touch with connecting to your body and how you feel and when your body is telling you things to listen to and understand what it needs.</v>
+
+00:18:51.220 --> 00:18:56.890
+<v Speaker 1>And I believe your brain is similar in that I don't think a lot of people who spend time thinking,</v>
+
+00:18:57.990 --> 00:18:58.850
+<v Speaker 1>spend time</v>
+
+00:18:59.580 --> 00:19:01.010
+<v Speaker 1>understanding their own brain.</v>
+
+00:19:02.320 --> 00:19:05.810
+<v Speaker 1>And that I believe that if you're going to sort of,</v>
+
+00:19:06.450 --> 00:19:36.370
+<v Speaker 1>if your brain is your tool, understand your brain. A lot of today is saying, look, there's things we know about the brain. There's, there's ways the brain works. You know, there's things the brain wants to do. And you the interestingly, being creative is not from a species standpoint, you know, from a biological standpoint, your brain's job is to keep you alive. That's your brain's number one job. And being creative is</v>
+
+00:19:36.450 --> 00:19:40.120
+<v Speaker 1>actually antithetical to a lot of things built into your brain.</v>
+
+00:19:40.790 --> 00:19:50.030
+<v Speaker 1>For example, one of the things that you want to do to survive from a survival standpoint is you want to avoid risk. Risk is bad. Risk kills you</v>
+
+00:19:50.930 --> 00:19:58.070
+<v Speaker 1>that if you're going out and picking berries, you don't want to eat berries you've never eaten before, you want to eat the berries you've eaten before and didn't die from,</v>
+
+00:19:58.750 --> 00:20:03.130
+<v Speaker 1>and that your brain really has a lot of things built into it for survival.</v>
+
+00:20:03.910 --> 00:20:35.400
+<v Speaker 1>You know, now we as a species have kind of got, you know, survival isn't our day-to-day thing anymore. We don't wake up every day going, where am I getting my food? I, I got my food, It's in the fridge. Like, you know, that we've evolved past that. But your brain that that's where it came from. And you have to understand that your brain is not hardwired necessarily to want to be creative. Now there is reasons to problem solve and problem solving is built into your brain. So the tool, if not as if the brain can't problem solve because there are times and places you need to problem solve.</v>
+
+00:20:35.570 --> 00:21:06.210
+<v Speaker 1>What I'm saying is that your brain sort of at its core wants to do some things that sometimes fight your desire when being a creative person. And that you have to understand that. You have to get that. You have to realize that like your brain is going to say, hey, you know how to do something. Yeah, we know how to do that. We've done it before. Let's do it that way. It's kind of funny, one of the big conflicts I have in my job is I'm the head designer. So there's someone called the rules manager. There's been many people that had the job and the goal of the rules</v>
+
+00:21:06.310 --> 00:21:08.800
+<v Speaker 1>manager is to make things consistent,</v>
+
+00:21:09.910 --> 00:21:17.150
+<v Speaker 1>that if we want to do something, their job is to hunt for the template we've already used and try to find a way to do that.</v>
+
+00:21:18.240 --> 00:21:33.350
+<v Speaker 1>But one of the problems is my goals had designer is sometimes I'm trying to find novelty. I'm trying to do things we haven't done and the last thing I want to do is take something that is exciting and new and make it feel less exciting and less new.</v>
+
+00:21:34.660 --> 00:21:48.560
+<v Speaker 1>But the rules managers job is to do that. And that one of the things I've come to realize is, you know, early on I used to butt heads a little more with the rules manager. And what I've come to understand is look, the rules manager doing their job</v>
+
+00:21:49.230 --> 00:21:53.250
+<v Speaker 1>and that if I can use the rules manager understand what they want and what they do,</v>
+
+00:21:54.530 --> 00:22:24.940
+<v Speaker 1>there are tools for me. The, the, the rules manager is not my foil. I mean, I made fun of it like in the comics, but it really the rules manager is a tool for me. But I gotta understand the tool and I have to understand the motivations of the tool in some way. By the way, this is just how to deal with people in general. People have a goal in mind. They have things they prioritize. And if you do not understand that priorities, you will not understand their interactions that if you want to interact with people, I guess true of designers who design team, you understand what motivates them.</v>
+
+00:22:25.230 --> 00:22:35.880
+<v Speaker 1>And a lot of what I'm saying a good designer is, is understanding sort of making your team get what you want out of your design so that that's what they are doing rather than some default that you're not putting.</v>
+
+00:22:37.240 --> 00:23:02.270
+<v Speaker 1>So let me let me give you a different example of the same lesson today, but in a different context. So my wife and I, Laura's my wife, we love throwing parties. I like making games. Laura loves cooking. We love doing planning and stuff. We really enjoy partners. We do a couple of big parties every year. So there was a period of time where all our friends were having babies and we were showing baby showers.</v>
+
+00:23:04.310 --> 00:23:13.450
+<v Speaker 1>And what we learned really quickly was if we wanted to throw a good baby shower, what we needed to do was ask the couple for a theme</v>
+
+00:23:14.180 --> 00:23:22.450
+<v Speaker 1>because we didn't give a theme. What ended up happening was generic baby shower. And they were, they're just all, they were all be the same. Because</v>
+
+00:23:23.160 --> 00:23:26.730
+<v Speaker 1>when you say baby shower, what would you expect? You keep getting the same thing.</v>
+
+00:23:28.230 --> 00:23:58.680
+<v Speaker 1>And what we found was what we wanted to do was not just give baby shower, but do something specialized to the couple that was having the baby. And So what we said is give us a theme and one, one, you know, one of our friends said a carnival. One of our friends said baseball. You know, one of our friends said a picnic. You know, they each people gave us different things. And from that we ended up making like the the crux of of a baby shower. I mean, the things you do in baby shower aren't that different,</v>
+
+00:23:58.980 --> 00:24:28.800
+<v Speaker 1>you know, saying people are bringing gifts for the baby, You're going to play some games that are baby themed. You know, the things you do aren't that different. But all it took was people giving us a theme and all of a sudden it just inspired all sorts of things. And not only that, not only did it just give declarations to the parties of it even impacted the activities itself that we got to play baby themed things, but through the filter of whatever the theme was. And what I found was I was just making more interesting games. You know, I'm saying</v>
+
+00:24:28.990 --> 00:24:59.180
+<v Speaker 1>like I was just, I was being inspired by the theme itself and I was as the person making the games was making just more interesting games that when I was sort of like baby shower, generic baby shower, I was just making the normal baby games. But as soon as I had this like, ohh, but I'm trying to incorporate a carnival or, you know, or how do we make carnival games that are baby games? All of a sudden we're making physical games that we've never done before. You know, when we had the baseball theme, I said, OK, how can I make something</v>
+
+00:24:59.260 --> 00:25:01.700
+<v Speaker 1>is combines baseball with</v>
+
+00:25:02.410 --> 00:25:17.120
+<v Speaker 1>with babies? And I, I came up with a really interesting game where, you know, it's a trivia game. There was a baseball game and you know, it allowed me to sort of do some fun stuff where I, I made things that I would never make. And, and that is a lot of what I'm trying to say is</v>
+
+00:25:18.380 --> 00:25:35.880
+<v Speaker 1>your brain is capable of making all sorts of really cool things, but it requires you, the user of the brain, to understand the inputs to get the outputs you want. And that if you put the same inputs, you're just getting the same output. That's just what's going to happen. So the idea of using restrictions like.</v>
+
+00:25:36.770 --> 00:25:38.220
+<v Speaker 1>My take away from today is</v>
+
+00:25:39.080 --> 00:26:09.100
+<v Speaker 1>not even the restrictions have to exist. Restrictions should exist. You, the designer, should bring restrictions into your design that you should sort of force yourself to go to places you haven't gone because that very act of doing that will lead to better design. It will lead to richer design, more unique design. It'll lead you to doing things and I'll almost to work. I'll leave one last example, which to me is a perfect example, which is double face cards.</v>
+
+00:26:09.170 --> 00:26:25.560
+<v Speaker 1>So that's something that we do in Magic. Normally Magic, there is a front to the card, the face, and there's a back to the card. And for many, many years every card had a front in the back. So we were working in Innistrad, a set of our gothic horror set, and we were trying to figure out how to do werewolves.</v>
+
+00:26:26.340 --> 00:26:42.140
+<v Speaker 1>And So what I said to my team is I laid down parameters. I go, I want to do werewolves. And I said, look, you know, there's two states to a werewolf. Gotta reflect that, you know, the moon's going to come out and the humans going turn the werewolf. And I wanted 2 States and I sort of laid out the things I needed</v>
+
+00:26:42.790 --> 00:26:55.000
+<v Speaker 1>and one of my team members came back with the idea of having a double faced card. We had done it in another game. We make a game called Dual Masters. We've done it and it was kind of exciting there. And I said, ohh, they do in the other game, we could do it here.</v>
+
+00:26:55.730 --> 00:27:26.130
+<v Speaker 1>Um, and at first in the story goes, I've done podcasts this, I was reluctant, but eventually, I mean, I tried it because I always you want to try things, even things you think won't work, you want to try because you never know. And what I found was it turned out to be a wonderful solution. It did really neat things and the audience adored it. I'm not all the audience, but the vast majority there any new idea that's out-of-the-box. There's always people like I hate it, but most people actually liked it. But the point is that the reason we got to double faced cards</v>
+
+00:27:26.530 --> 00:27:57.580
+<v Speaker 1>wasn't us saying, what haven't we done before? No, what God is it double faced cards is me saying, here is a very type parameter I'm trying to solve. You know, and I, I made sure my audience, my sorry, my design team understood that the problem that we were solving. And I laid out a lot of parameters. There are a lot of restrictions. We are doing werewolves. They're gonna be two states. There's going to be human, there's going to be a werewolf. Something's going to change them. You know, like, you know, the moon is going to come out. Like here's all the things we have to represent. And I said, I don't I don't want to just do an okay werewolf.</v>
+
+00:27:57.680 --> 00:28:26.130
+<v Speaker 1>I want to do the noxious toxic whereof it like it was it was something that magic hadn't done very much that I knew if we could capture would really put this set on the map. And industry went on to be a hugely popular set. You know, double faced cards were hugely popular, but it it stemmed from it's not like I said, do anything and we got there. I said, do something specific, which is how we got there. And that the best design is when you're looking for very specific answers and then being willing to be creative in those answers.</v>
+
+00:28:27.310 --> 00:28:32.230
+<v Speaker 1>So when you are designing your set, when you're making your game, when you're, you know,</v>
+
+00:28:32.910 --> 00:28:34.300
+<v Speaker 1>when you're doing that</v>
+
+00:28:35.520 --> 00:29:01.540
+<v Speaker 1>restrictions breed creativity. It is me telling you that your brain is a tool that can help you greatly, but you have to understand your tool and use it properly because if you use your brain properly, you will get dividends. Many, many dividends. Your brain is capable of all sorts of wonderful ideas, but in order to get at those wonderful ideas, you have to understand how it works and, and put the right input so you get the right output.</v>
+
+00:29:02.810 --> 00:29:32.650
+<v Speaker 1>Ohh. So anyway, I'm now it works. I hope, I hope that was fun for you today. Like I said, I've been saying this forever. I really, I'm a big believer in creativity. I'm a big believer in understanding the brain and the brain psychology and how your neurons fire and all that. Because if you're using your brain, if that's the tool you use, understand your brain, understand the tool. And so today is just one. I would recommend even reading books on the brain and understanding. I took the class in college that was all about how the brain perceives.</v>
+
+00:29:32.720 --> 00:29:54.390
+<v Speaker 1>I think that was really amazing class perception support. But anyway, that my friends is all I have to say today on restrictions breed creativity. So anyway, thank you for joining me. But I'm now at work so we all know that means means at the end of my drive to work. So instead of talking magic, it's time for me to be making magic. I'll see you guys all next time. Bye bye.</v>
+

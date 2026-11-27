@@ -1,0 +1,311 @@
+WEBVTT
+
+00:00:01.380 --> 00:00:30.950
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time for another drive, Newark. OK, so today I'm going to talk about the design of something other than Magic. I actually worked at Wizards for a long time, and while in the recent past I've mostly just worked on Magic, ever since I became the head designer in 2003, the vast, vast majority of my time, majority of my time has been on Magic. But before that, I actually worked on a bunch of different games,</v>
+
+00:00:31.040 --> 00:00:59.590
+<v Speaker 1>and so people have been asking me to talk about what design other than Magic that I did. So we're going to try that today and see how it goes. OK, so the game I decided to talk about was the Star Wars trading card game. I'm going to talk about sort of my role on it and about the game and talk about sort of designing it and just working on a different game. A lot of people have expressed interest in sort of hearing about some design stories that are a little different. So here's a whole new game that a lot of you probably never played. OK,</v>
+
+00:01:00.380 --> 00:01:30.440
+<v Speaker 1>let me set the scene. So I think it was back in well it was before the 2nd movie came out. So Attack of the Clones came out in 2002. And so that was our first set was tied into that. So probably we started working my guesses 2000s probably knowing our timetables. So what happened was, so Hasbro had gotten the rights to Star Wars and they were making all the Star Wars toys and everything, and so they came to us and said, you know what,</v>
+
+00:01:30.510 --> 00:01:35.970
+<v Speaker 1>We would like to make a trading card game. You guys are the trading card game. People make us a trading card game,</v>
+
+00:01:37.050 --> 00:01:59.740
+<v Speaker 1>and we were very excited because surprise, surprise, our D is filled with people who like Star Wars. So Richard Garfield was to lead the design and then I was to lead. Well, Richard was to lead the design of the overall game system. He's going to sign the game. And then I was in charge of the first set, which ended up being</v>
+
+00:02:00.940 --> 00:02:31.030
+<v Speaker 1>Attack of the Clones. It was tied in with the, the second movie. And so I, I've done some research to try and remember who was on the design team with Richard and I and I cannot locate it. So I don't remember who it was, Richard and me and some other people. But the thing I do remember was Richard was doing the, the key, the design of the game and that I was supposed to lead the very first set. So we were working closely together so that we could do that. So what happened was we started by doing some time of just overall game</v>
+
+00:02:31.100 --> 00:03:01.200
+<v Speaker 1>system design and then we started working on the actual first set. Richard was more involved in the game design part and less designed and working on the first set. My memory was he was around for that, but I took charge of that part of it. But anyway, so there's already been a trading card game for Star Wars May. In fact, I think there have been multiple. But we were, we were, we wanted to do our take on it. And</v>
+
+00:03:01.320 --> 00:03:31.380
+<v Speaker 1>Richard had a very interesting idea. So Richard's idea was that he wanted to make a miniatures game, but using cards. And so he really wanted to take a lot of the components that make miniatures really fun and bring it to a card game. So the key was here, there was some challenges in making a Star Wars game. Number one was that clearly we had a match like in Magic, we gotta make up whatever story we want because it's our game and it's our story.</v>
+
+00:03:31.450 --> 00:03:54.290
+<v Speaker 1>And if we need to change the story to match the gameplay, we can. We often do, but Star Wars was the Star Wars, right? There was an existing thing. So there are a bunch of challenges. First off, we had to match the IP. It was we had no ability or freedom to do something other than what was the story. So that meant we had to figure out how how best to</v>
+
+00:03:55.560 --> 00:04:04.090
+<v Speaker 1>we had to figure out how best to make a game that felt like a Star Wars game. And then that unto itself is quite a little challenge.</v>
+
+00:04:07.180 --> 00:04:36.030
+<v Speaker 1>And also one of the problems with doing an IP game is you have characters like if you're going to play like one of the things that Richard always realize is that, you know, lifetimes when you would play games that had characters, what would happen is because people wanted, you know, Luke Skywalker or Darth Vader or whatever. I mean, we were doing back of the clones. But go in for a second. You know, the the card you would you would want tend to be things that you kind of want to make the rare</v>
+
+00:04:36.260 --> 00:05:06.520
+<v Speaker 1>cards wearing mythic rare cards of your set. You know, you that's what people most excited for. But if you do that, that means that the everyday play, the limited play is people are just playing with like Stormtrooper or rebel fighter, you know, and that the fun of the game is like, if I'm playing Star Wars, I want to have Luke Skywalker or, you know, Anakin Skywalker or, you know, Padme or whatever I want have characters I know I don't want to fight with like random second extras, right. So we had to figure out how to sort of</v>
+
+00:05:06.630 --> 00:05:15.700
+<v Speaker 1>how do we make a game in which we could make rarer versions of cards that people wanted, but also make the functional everyday game be something that mass expectations.</v>
+
+00:05:17.720 --> 00:05:18.250
+<v Speaker 1>Um,</v>
+
+00:05:19.490 --> 00:05:34.660
+<v Speaker 1>and so, OK, so Richard wanted to sort of embrace A miniatures feel. We wanted to make sure that we could do something that captured the Star Wars IP and we wanted to make sure that we got the characters in your hands. Those are all of the challenges we had.</v>
+
+00:05:35.910 --> 00:05:49.090
+<v Speaker 1>So one of the things we did is we started by watching a lot of Star Wars movies. So at that time there were four-star Star Wars movies out. There was the original 3 original trilogy and Phantom Menace had already been out.</v>
+
+00:05:50.490 --> 00:05:59.920
+<v Speaker 1>Now another really cool thing about this is the set that we were starting with was the set that wasn't out yet. So that meant we got to read the script.</v>
+
+00:06:01.440 --> 00:06:31.680
+<v Speaker 1>And so one interesting thing about it was it was super, super secret, right? And so we got we, we had special permission to read it. But like there were there were rules of aware and when you could read it. And in fact, the way it worked was I at work, somebody had gone to Skywalker Studios because the only way you can read the script was at Skywalker Studios, the only place you can read it in near San Francisco</v>
+
+00:06:31.910 --> 00:06:40.160
+<v Speaker 1>at Sky Skywalker Ranch. Yeah, you had to go there to read it, and it says the only place you could read it. And so somebody had gone down,</v>
+
+00:06:41.620 --> 00:07:13.430
+<v Speaker 1>a guy named Bill Slovak who worked on Dungeons and Dragons, Star Wars, a dungeon, Dragons or Dragons, but role-playing was also doing some Star Wars stuff. They do some role-playing things with Star Wars. So Bill had gone down and read the script and he came, he took throw notes and then he came back and he did a synopsis, which is what we read. So we, we didn't read the actual script. We just read a synopsis script, which was super top secret. Even that was super top secret, like, you know, like we did. It wasn't like e-mail or anything, like you had to go to room and there were</v>
+
+00:07:13.500 --> 00:07:24.960
+<v Speaker 1>special printed copies and you know, it was super, super secret. So that itself finally, it was very cool. It gets cooler. We'll get there in a second. But anyway, so</v>
+
+00:07:27.540 --> 00:07:57.080
+<v Speaker 1>we looked it over and we watched all the films. We watched the first four films and we watched them a bunch of time. Know the sacrifices we make for our art. We watched the Star Wars films a bunch of different times. And the little question was, Richard was really intrigued by the idea of having things, I think they were called units, having dice associated with them. And that what he wanted was he knew it was a combat game, but he wanted something in which there were things that had the advantage, but you didn't. You never quite knew what could win.</v>
+
+00:07:57.930 --> 00:08:00.840
+<v Speaker 1>And so he was really enamored with the idea that</v>
+
+00:08:02.910 --> 00:08:33.230
+<v Speaker 1>there was a amount of damage that got done and that he wanted, I think he wanted persistent damage. So magic doesn't have persistent magic is like you damage something if it doesn't die with into the turn, then the turn is going to heal and go back up. But Richard wanted something that had persistent damage. He wanted to have He wanted battles in which you didn't always know the outcome of the battle. You know, one of the things that he liked about miniatures in general is that miniatures is like, you know, a superior force should win most of the time</v>
+
+00:08:33.300 --> 00:08:41.630
+<v Speaker 1>to win, but there's some suspect you don't always know that's going to win. And so Richard became really connected to the idea of having tightened dice to the game.</v>
+
+00:08:42.950 --> 00:08:53.440
+<v Speaker 1>And the idea was the units ended up having three stats to them. They end up having a speed stat, a power stat, and a health stat I believe is what was called.</v>
+
+00:08:54.930 --> 00:09:25.000
+<v Speaker 1>And so the idea was your speed set was how quick you were. That became important for fighting. So you know what order things got to fight in. Power was how much damage you did, but that was related to how many dice you gotta roll 6 sided dice. And then health was your hit points, to use the D&amp;D term, how many, how many points you have until you were destroyed. And so the idea was we wanted to have, Richard was really keen on having some kind of damage in which you're rolling dice and that there's persistent damage</v>
+
+00:09:25.080 --> 00:09:55.090
+<v Speaker 1>them things, they get damaged, damaged. OK. Something that I really pushed, that Richard embraced quite strongly actually, is I pointed out that one of the things interesting about about Star Wars was that there really were different fields of battle there, different arenas of the fight. And that if you look at most films, you know, whenever that usually that last part of the film, there's a big battle sequence. And it's never just one battle. You know, there's a battle on the ground, there's a battle in space,</v>
+
+00:09:55.200 --> 00:10:07.710
+<v Speaker 1>there's a personal battle with the lightsaber dueling that usually there's multiple different arenas. And so Richard really embraced and said, OK, let's have a game in which there's three different arenas to to fight that there is</v>
+
+00:10:09.710 --> 00:10:39.240
+<v Speaker 1>there was space ground in character. And the idea was that Michalina, in order to win the game, you had a control 3 arenas. And how do you control arena? Why have the only one standing there? So if you have units in an area and your opponent has no units, then you then you control that arena. If if your opponent puts stuff in it, then you have to fight into only one thing remains and then you control it. Now, the thing about it was once you control and arena,</v>
+
+00:10:39.340 --> 00:10:55.290
+<v Speaker 1>your opponent could then get more units into that space to fight you again. So the idea was you had a you had to end the turn in which you were in two arenas that nobody else was in, and then you won and you can fight. The way you clear Marina is you fight.</v>
+
+00:10:56.790 --> 00:11:27.930
+<v Speaker 1>And the cool thing about that was one of things we wanted to do was we wanted to make sure that we represented all the cool things that were Star Wars, right? You wanted the spaceships, you wanted the ground units, you wanted the characters, but having all fight in the same place, Hey, it didn't even make flavor sense. Like my you know, why would my ad at fight your X wing like they're not, they don't make sense. So having three different areas really sort of match the thing and allowed us to make all the different things. And it also meant that in space, we just had to make each thing match the things in its arena.</v>
+
+00:11:28.260 --> 00:11:50.610
+<v Speaker 1>We didn't have to match and add add in verse verse an X wing. We had to match an X wing versus other space vehicles. We had to match an adverse other ground vehicles. We had mentioned the character for character vehicles. So that meant we had three different scales for what things could be. We didn't have to say, Oh, well, sorry, Anakin has to be pretty weak because compared to an add add or compared to a,</v>
+
+00:11:51.720 --> 00:12:22.650
+<v Speaker 1>you know, X wing or whatever. I'm mixing my Star Wars movies here, but you get the gist. So we we got the three different arenas and like I said, Richard was really interested in the idea of using dice as a means. So the game came with a bunch of dice. And the other thing that's really important was the idea that you didn't just outright playthings and magic. It's like, if I can play something, play it immediately goes on to the battlefield if I can play it. The idea in Star Wars was that you build things that if you wanted something,</v>
+
+00:12:22.760 --> 00:12:25.780
+<v Speaker 1>you needed to build toward it and you didn't necessarily</v>
+
+00:12:27.400 --> 00:12:53.760
+<v Speaker 1>get it all at once. So the way it worked was there was a build cost. And the way the build cost work was every turn and you've got a certain amount of force, and then you rolled the dice for additional force, plus some of the units and things you had might grant you additional additional force. And then you spend your force building things. And the idea was, let's say something cost 11 forced to build. What that meant is on one, let's say one turn, you had</v>
+
+00:12:54.500 --> 00:13:24.410
+<v Speaker 1>5 for us to spend. OK, well, you put 5 toward it. You use dice usually to mark and says, OK, I've, I have 5 of the 11 paid for. As soon as you finish paying for it, then you get, you know, soon you finish building it, then you get bring into the battlefield. And So what happens is one of the things is you're sort of every turn there are sort of two different phases. There's the command phase where you would build things and there's the battle phase where you would fight. And once again, the goal was you had, he had</v>
+
+00:13:24.490 --> 00:13:27.070
+<v Speaker 1>cards, you had to get them out. Um,</v>
+
+00:13:28.610 --> 00:13:58.610
+<v Speaker 1>ohh, let me explain. So another another issue we ran into is the character problem. OK, well, we really like we're doing battle for clones. Anakin's the main character. So OK, you want Anakin, Anakin's main character, someone who opens up the battle for the clones. They want to get out of Anakin. But Anakin was only a rare or mythic rare car. I think we did a mythic, I think it's a rare, but Anakin was only a rare. Fancy people would see Anakin and like unlimited, we definitely built this play limited. You never see Anakin. And we didn't want it to be, like I said, we didn't want it to be my, you know,</v>
+
+00:13:58.740 --> 00:14:17.610
+<v Speaker 1>Maya, rebel soldier fights your stormtrooper, whatever that we wanted to have more meaning than that. And So what we ended up with is we made different versions of the characters. And the way it works is when you play another version of the same character, they stack. And what happens is it just you're strengthening your character? So instead of</v>
+
+00:14:19.020 --> 00:14:48.970
+<v Speaker 1>so characters are unique and so there there's some rules for fighting over them. Although one of the things that Richard did in order to match the flavor of story is there's two sides. And so you either play the light side or you play the dark side. And then the light side has characters and the dark side as units and the dark side is units. Now the light units can only play by the light side and the dark news can only play by the dark side. But then you had neutral units because a lot of mercenaries and things, there's things in the Star Wars universe that you know what, whoever pays them the most</v>
+
+00:14:49.040 --> 00:15:15.700
+<v Speaker 1>or whatever, whoever influences them can get them to fight for them. And so there are definitely neutral things. And the idea was anybody could put neutral things in their deck. The other thing about the build cost was I believe in deck construction. I think that the build costs were part of what you were allowed in building your deck. There are certain rules of how much build I think you could have. If I remember correctly, once again, this is 2002, so this is 2000s when I worked on it. So this is 15 years ago. So I'm,</v>
+
+00:15:16.930 --> 00:15:19.600
+<v Speaker 1>I remember the best I can, so I'm a little shaking on a few things.</v>
+
+00:15:22.630 --> 00:15:44.650
+<v Speaker 1>What's the question I want here? Bear with me. OK, so the idea was that if you play a Anakin and then later get another Anakin, you gotta stack the Anakin. And then essentially what you did is it became a boost for the existing Anakin. And so rather than it being a bad thing, rather like, Oh no, I drew an Anakin. It's like, oh good, I can make my Anakin in play even stronger. OK, so,</v>
+
+00:15:45.920 --> 00:16:16.390
+<v Speaker 1>so the way it worked is you first have the build phase, you would get your force. The rule of the game was whenever there's a tie, that dark side wins. So I think the dark side tended to go first on stuff, but each turn you've got so much force and then there's a dice rolled by the light side and then everybody got the force equal to the the die roll, the light side. So there are some variable. The reason that Richard that was we wanted one of the things that's fun is you don't want things to be too predictable.</v>
+
+00:16:16.530 --> 00:16:46.410
+<v Speaker 1>One of the things that magic was really well is that you have some sense what's going to happen, but you don't always know you're draws land. You don't always know you're going to draw that there's some tension of what exactly is going to happen. And Richard wanted to make sure that there was some tension also in the Star Wars game that you know, you can plan ahead, but you didn't quite know exactly what's going to happen. You know, maybe you could finish building something, maybe you couldn't. The other thing, by the way, about building is just because you started building one thing didn't mean you couldn't start building something else. You could build multiple things at a time and sometimes</v>
+
+00:16:46.570 --> 00:16:56.310
+<v Speaker 1>what would happen is in order to maximize your builds, you would build start multiple things at once so that you have some options when you could finish things. Because remember,</v>
+
+00:16:57.590 --> 00:17:17.060
+<v Speaker 1>whenever your opponent beat you in an area, if you didn't quickly get something, that area, they controlled the area if they won. And if they did that in two different arenas, they would win the game. So sometimes you would build a couple different things just to say, OK, who needs me most? You know, I start building something. Oh, wait, wait a minute. I really need to be in this arena. And I I stop switch plans start building for that arena</v>
+
+00:17:18.920 --> 00:17:25.550
+<v Speaker 1>anyway, the the game was active. If you've never played the game, I mean, has been sold in quite a while, but it's a it's a fun game.</v>
+
+00:17:26.880 --> 00:17:57.360
+<v Speaker 1>One of the things about it is the game ended up not doing super well for a very ironic reason, which I'll explain right now, which is the game had a lot of dice in it. So and some of the larger units you could roll, you know, 10s of dice and you could roll a lot of dice. And the problem was people perceived the dice rolling as being too random. And the fact that you rolled so many dice meant, Oh my, you know, you have to roll 20 dice. How random is that? But the thing they miss, which is funny, is</v>
+
+00:17:57.470 --> 00:18:28.480
+<v Speaker 1>the more dice you roll, the less random the game becomes. Because what happens is when you roll one die, there's a swing, right? Can be between A1 and A6, but you have an expected value for a role. And as you roll more dice, you more lean toward the average roll, meaning one die has a wider swing than two dice. That yes, two dyes. You know, one dye could be 1 to 6, two dyes, OK, it could be two to 12. But you're more likely to roll in the middle because you're more likely than anyone</v>
+
+00:18:28.570 --> 00:18:58.530
+<v Speaker 1>high to have a score that adds up toward the middle. So you roll more dice. You do have a wider spread of the possibilities, but you have a more certainty you're gonna roll toward the middle. So ironically, what people perceived as being more random was actually Richard putting enough stuff in to make it less random. And the fact there was so much dice rolling, like, like I said, Richard was trying to get a feel of miniatures. And so he definitely was trying to have a lot of suspense and surprise. And the dice did this cool thing where you</v>
+
+00:18:58.600 --> 00:19:28.760
+<v Speaker 1>kind of new in a matchup who was supposed to win and you knew who was going to win the majority of the time, but you didn't always know there, there was suspense. The other thing that I I've talked a little bit about is speed. Let me add speed. And so the way it worked is in the battle phase, you looked at the speed of your of your thing and then whoever went had the fastest speed in a tie, the dark, dark side, one tie, they went first. And then so in in a battle, it wasn't just that one player went, another player would go, it would go and order the speed. And</v>
+
+00:19:28.890 --> 00:19:59.210
+<v Speaker 1>once something was destroyed, it was gone. So if you could, if you could destroy something before it was it's turn to go, you could prevent its damage from happening. So that was a big part of the strategy sometimes which you use your fast ships. And usually one of the cool things about speed was that speed tended to go in smaller things. And so the idea was that the big things that were powerful, that it had a lot of dice tended to be slower. And so one of the advantages of the reason you want to have smaller things is the smaller things were faster and tended to be</v>
+
+00:19:59.300 --> 00:20:04.160
+<v Speaker 1>more youthful. And you know, there are some neat fights between small and big things. Like a lot of small things.</v>
+
+00:20:05.620 --> 00:20:10.500
+<v Speaker 1>So big things would easily destroy them, but they they would getting hits quicker than than the fast things.</v>
+
+00:20:11.410 --> 00:20:41.340
+<v Speaker 1>Ohh. One of my favorite things, by the way, is so once I did Richard, Richard led the design for the game system. I love the design for the first set. And then afterwards the game got turned over and Henry Stern ended up being the person in charge of the project. So the vast majority of seats, in fact, real quickly here, although the sets we put out, so the first set was was attack of the clones. I did that and that came out in April of 2002. Sith Rising came out in July of 2002. Then A New Hope</v>
+
+00:20:41.410 --> 00:21:11.170
+<v Speaker 1>went back and started doing the old films. October 2002. Notice there was a gap in between the second film and the third film. The first set we did was the first film. This the second film, sorry, Attack of the Clones. The last that we did was Revenge of the Sith was in the third film. So all of Star Wars trading card game fell in between the 2nd and the third film. So after A New Hope, which was October 2002, we did Battle of Yavin, which was February of 2003. Then we did Jedi Guardians which was June of 2003. Then we did Empire Strikes Back which was October of 2003,</v>
+
+00:21:11.420 --> 00:21:42.480
+<v Speaker 1>needed Rogues and Scoundrels which was March of 2004, then Phantom Menace which was May of 2004, then Return of the Jedi which is October 2004 and The Revenge of the Sith which was March of 2005. So it is from 2002 through 2005. So the game came out over 4 years. I think we just had the license for four years until we we got in. We we sort of did a bunch of stuff. I think near the end you can notice as we were running out of time for the license, we just started doing movie we didn't like. We sort of were pacing ourselves and realized that in order to get all the movie stuff out</v>
+
+00:21:42.790 --> 00:21:48.850
+<v Speaker 1>because I, I guess we didn't know when the lesson was gonna end. Or maybe I was gonna extend an end of not getting extended. But anyway,</v>
+
+00:21:50.480 --> 00:21:58.150
+<v Speaker 1>Henry was the one that mostly worked on that, so I'm familiar with the very first set. But anyway, we got to the cool part of story yet.</v>
+
+00:21:59.650 --> 00:22:05.710
+<v Speaker 1>We finished talking the game. Ohh. So the speed story. So yeah, when we were making A New Hope,</v>
+
+00:22:07.000 --> 00:22:37.610
+<v Speaker 1>the first time we had a Han Solo. In fact, we had the very first Han Solo. And so one of the things that we did is we made sure that Han Solo in A New Hope had a speed factor. Then Grido had. And so our our little tribute to in our game, Han shoots first because he's faster anyway, so the speed is pretty cool. So the idea is you could build things, come out, then you fought in different things. And the neat thing about arenas, every once in a while you'd have things in one arena that can affect another arena.</v>
+
+00:22:37.710 --> 00:22:56.450
+<v Speaker 1>Like you'd have a ground thing that could shoot it ships in the air and so it would sit in your ground arena, but it could affect things in the space arena. So there's definitely some crossings between them. There are three different types of facts that match Magic. They were activated abilities, there were static abilities and there trigger abilities. They they work just like Magic did.</v>
+
+00:22:58.700 --> 00:23:28.970
+<v Speaker 1>There are a couple different cuts of the card. So there are units. So there were space units, which were blue, ground units were green, character units were purple. Those units could only go go in there. When that they're they're arena, there are battle cards. They were red. They were kind of instance, but you only use them during battle. There were mission cards, they were yellow. They were things that you had to build that were kind of like battle cards, but you had to build them first. And there was equipment, which was silver, which were the weapons and the vehicles,</v>
+
+00:23:29.050 --> 00:23:50.900
+<v Speaker 1>things that you would attach to your units later on that in the first night that when I did. But we later we make a locations that would act a lot like enchant world, like world enchantments, which is you would play them, they go into certain arena and then they would affect that arena as long as they were there. Early on some of our units were places and later locations would take the role of places in the game.</v>
+
+00:23:52.310 --> 00:23:53.720
+<v Speaker 1>OK, so now</v>
+
+00:23:54.840 --> 00:24:25.810
+<v Speaker 1>another explained the game. Let me talk a little of my, my, my favorite part about this whole experience, which was so I was in charge of the the Revenge of the Sith set. And a lot of that was I wanted to make sure that I was properly reflected in the movie. So Bill had gone and took very lengthy notes and we had this outline to read that had a lot of stuff in it. But I went to talk to the powers that be, the R&amp;D and I said, you know, look, we're trying to like we're Revenge of the Sith, we're going to matching the movie.</v>
+
+00:24:25.900 --> 00:24:36.550
+<v Speaker 1>And look, I got to milk every, you know, now that we know the system and we need ground and unit and personal and like, I'm like, you know, the person only weren't too afraid of</v>
+
+00:24:37.650 --> 00:25:07.540
+<v Speaker 1>and the character we knew all the character. The Star Wars was really exacting and showing us all the characters. We knew all the characters. We mostly knew what all the ships were. But I'm like, you know what? I have to do battle cards. I got 2 action cards. I have to make sure we have enough ground and enough thing. I go look, I really need to see the script. And they're like, look, Mark, the only way to see the script is to go to Skywalker Ranch. I'm like, ah, that is true. And so I convinced them that I should go to Skywalker Ranch. Don't read this</v>
+
+00:25:09.460 --> 00:25:37.710
+<v Speaker 1>which which to be fair, I, I, I actually did believe it was better if I was gonna do revenge of the staff and I was trying to actually reflect the movie that it made a lot of sense that I read in the movie. And so I convinced him to send me to Skywalker Ranch. Let's talk a little bit about my trip to Skywalker Ranch. So one of the things that happened is I took a flight. So it's it's, it's some suburb of San Francisco flight in San Francisco and then I get a rental car and I had to drive there, I think</v>
+
+00:25:37.780 --> 00:26:07.860
+<v Speaker 1>draws and I spend the night in hotel and then the morning I drove up to Skywalker ranch. And one of the things about Skywalker Ranch is I think it's OK. My memory of it was that they took a winery and sort of adapted it into a place. So like one of the things that George Lucas was real big on is he wanted the Skywalker ranch of fuel, real natural. And so they they took a lot of energy. It's not just plays with giant buildings. The buildings are all</v>
+
+00:26:07.930 --> 00:26:11.720
+<v Speaker 1>grain to the like, like they're part of kind of the nature and</v>
+
+00:26:12.360 --> 00:26:43.460
+<v Speaker 1>it was really sort of elegantly built and you know, so from the outside, like the buildings rolling green to nature. Like it wasn't like it wasn't like a corporate campus or anything. It was very there was just a lot of natural stuff. So you go to the gate and you get buzzed in and then I think I got a bad or something and then I met my representative. So whenever I had to deal with Star Wars, I had a lease on that I would talk with. So if I had a question about something, if, you know, if I didn't know, let's say we were building a card or something and like,</v>
+
+00:26:43.530 --> 00:27:13.680
+<v Speaker 1>ohh, there's like, you know, which is supposed to be faster this thing or that thing that I could call this person up and he could do some research for me and help me. And so this is my, my contact at Lucas. So what we had done was we set it up so that I was coming during a time, there's there's licensing days where licensers come. And so I was there during that. So the first thing we did is they came in and there's a licensing conference. And so I came in and it was just all sorts of information about the movie and like I was there</v>
+
+00:27:13.750 --> 00:27:44.990
+<v Speaker 1>and I'm making up these names so they don't don't, but, you know, it's like next to me was the Frito lay guy, and then there was the Sprint guy. And then you're like, like Star Wars is a big deal. And there was a lot of licensing going on, you know, and we were making game for them, but there were people that were just, you know, partners with them and they're going to advertise them. And, and so I came in and they were, remember we all got these little goodie boxes and then we watched a whole bunch of different stuff and they were showing scenes from the movie and, you know, showing the just letting the partners in on stuff that's going on</v>
+
+00:27:45.080 --> 00:27:56.660
+<v Speaker 1>and then giving them a lot of tactical information. Now, the interesting thing about that part was I didn't need to know a lot of it. It was helpful and it was fun. I mean, don't get me wrong, I was super glad I got to see it,</v>
+
+00:27:58.180 --> 00:28:28.260
+<v Speaker 1>but it was. But anyway, it was we, we had lunch, I think. I mean, it's a big, pretty big thing. And I know, like I said, I forget what I got. Like I had my little box. I forget what I got in my box, but little, little, little cool, little Star Wars things. And it was very cool. And then after the presentation, after lunch, I got to meet with my liaison. I forget his name. And then it was time for me to read the script. And so the way it worked was in order with script. I had a garden, this</v>
+
+00:28:28.330 --> 00:28:29.350
+<v Speaker 1>special room</v>
+
+00:28:30.630 --> 00:29:00.630
+<v Speaker 1>and there are all these rules. I don't remember all the rules, but I was allowed to have a pad of paper and a pencil. I was allowed to take notes because I mean, it was aware that I was trying to make sure I could figure out things for my game. So I was a lot to take notes, but I wasn't allowed into cameras or anything. And this is really before the age of camera phone, so that wasn't an issue. But anyway, I was allowed to sit there as long as I wanted and I could read the script and if I had any questions, I could go talk to my leaves on guy and he can answer questions.</v>
+
+00:29:01.080 --> 00:29:27.760
+<v Speaker 1>So I just sat in this nondescript room and I read the script for Attack of the Clones and it was it was awesome. I now be aware like like most old timers, like Phantom Menace came out and I was all excited because Star Wars was up again. And then the movie came out. It wasn't didn't quite live up to what I was hoping for, but you know, I was optimistic and OK, Attack the Clones. I was super optimistic when I was reading the script. You know,</v>
+
+00:29:28.520 --> 00:29:43.480
+<v Speaker 1>they're so it's very hard to tell from a script versus the finished product. And so I was just super excited. The script that I read versus what got made is a little bit different. There was a bunch of sequences that got added different from the script I read, but I was very pumped. It was just</v>
+
+00:29:44.300 --> 00:30:14.390
+<v Speaker 1>as someone who grew up with Star Wars or truly, truly loves Star Wars, um, to just sit at Skywalker Ranch in a room, getting to read the advanced copy of the movie that was coming out in 2 years was just super, super cool. And then the, the last cool part was that they have a store, they have like the official like Lucasfilm store. And so I was able to go to the store and I don't remember all this stuff. I bought some T-shirts and obviously it's funny,</v>
+
+00:30:14.630 --> 00:30:36.000
+<v Speaker 1>here are the two teachers that for some reason I bought. Normally I wear teachers, but one shirts about was this polo shirt that had like the the Lucas Film logo on it. And I don't really wear polo shirts allowed anymore. So I have that shirt I wear a lot. But that shirt I got was I got a THX shirt. So back when I lived in Los Angeles, I had a roommate named Greg who went to USC,</v>
+
+00:30:37.450 --> 00:30:59.650
+<v Speaker 1>the University of Southern California. And USC has a film school. So the the two big film schools are UCLA and USC for those who don't know. And USC is where George Lucas went. And so it's it's it's probably the most prestigious of the film schools. And my my roommate got in to USC really big giant deal. And so</v>
+
+00:31:01.560 --> 00:31:17.220
+<v Speaker 1>he took a course with a guy I think his name is Tom Holman. I apologize I got that wrong. But anyway, what we he took a sound class and what we learned is that Tom Holman is the T and the H in THX</v>
+
+00:31:18.460 --> 00:31:48.570
+<v Speaker 1>and that he was the sound guy. And I think I think he might have been a teacher for for Lucas and that Lucas then pulled him in and that he helped Lucas make TH that's named after him on the sound system. That something that that is something that Lucas film does. Look for those that don't know Lucas film, it really not only did they do the Star Wars movies, they got really in doing special effects and doing sound stuff. And but anyway, I got a THX shirt. Remind me of my roommate and his THX</v>
+
+00:31:48.640 --> 00:32:18.620
+<v Speaker 1>glass and as ironically, all the shirts I bought there. So one shirt. I still have my check shirt. So I have my little polo luxury. I just don't wear polos that often because they don't work with the flannel. So I think I was trying to get extra fancy, but I've since learned that just go with simple T-shirt. But anyway, that was an awesome experience. And one of the things that's really cool is I've done magic has done all sorts of fun and neat things for me. And I've traveled around the world and I meet all sorts of people and I've been all sorts of cool places.</v>
+
+00:32:18.810 --> 00:32:47.720
+<v Speaker 1>But the one thing magic did not to do for me is get me to Starwalker, a Skywalker, Skywalker Ranch, and get her read an advanced copy of a Star Wars film that was being made. And the neat thing about it was because we were working on the script, we were constantly involved with them and learning about what was coming up and what movie was doing. And it's the one time that I was really, really involved in the making of a movie. I'm sorry, the first time there's a magic movie, but we can't talk about that yet. But anyway,</v>
+
+00:32:49.070 --> 00:33:20.620
+<v Speaker 1>it was a, it was a glorious experience. And I really, really, I, I think the Star Wars trading card game is really fun game. It's a little different. It is, I think one of the reasons that it, that it didn't quite do as well as we were hoping is that Richard kind of made a different kind of game with it. And I think people were expecting a more traditional trading card game. And really Richard made what he made was this miniatures game on paper on cards. It is a really fun game if you've never played. It has a lot of drama. Rolling a lot of dice is a blast</v>
+
+00:33:21.250 --> 00:33:51.360
+<v Speaker 1>and like I said, there's a lot of strategy. The game is full and full of strategy. Just cause a lot of dice rolling does not mean by any stretch imagination like the better player will win the majority of the time. You know the you want all your games when you make a game to make sure that the less experienced player has a chance, you need a dream, you need an ability to win. I think games in which the lesser players like I can never win. It's very frustrating for the player to play and this game definitely had had had dramatic moments and</v>
+
+00:33:51.490 --> 00:34:02.390
+<v Speaker 1>exciting things and that sometimes when it was really close. I mean, the reason the dice mattered is look, if I had a giant, giant ship and you had a little tiny ship, look, I'm going to beat you. You know, I'm rolling 20 dice and you're rolling 2.</v>
+
+00:34:03.630 --> 00:34:30.720
+<v Speaker 1>Now there was we did something called critical hits. One of the things the small, the small ships could do is certain ships have critical hits where if you hit a critical hit, if you rolled I think sixes, then you gotta roll extra dice. And so there's an ability for little chip to have this explosive things happen where they could take out a big ship, but it was very rare. But in the movies that happened. So we want to make sure that happens. But anyway, it is a fun game. If you've never played, I know you have to go on eBay or something to get it, but it is actually a very fun game.</v>
+
+00:34:32.190 --> 00:34:37.140
+<v Speaker 1>I actually played quite a bit of it when it was out and it was just. And the other thing that was fun is</v>
+
+00:34:39.090 --> 00:35:08.900
+<v Speaker 1>we worked really hard to match it to Star Wars. And so it has all the characters and all the vehicles and all of the ships and the locations and the weapons and like everything you can imagine, every Star Wars thing you can imagine, it's there. It's in the game. You were playing with it and you were just having awesome Star Wars battles and you're fighting in multiple arenas. And it is really a fun game. And it is one of the things that was great for me is I consider Richard Garfield to be my mentor. He is where I feel like I learned the vast majority</v>
+
+00:35:08.970 --> 00:35:34.470
+<v Speaker 1>of my game design skills. I mean, I've learned a lot from doing and there's a lot of other people I've worked with that have been awesome. But Richard really was the person who I've learned the most from. And Star Wars was a chance where he and I, he and I have worked on magic, but that was the only game that I can remember in which he and I were really closely on making a brand new game. And so that I always have more moments there.</v>
+
+00:35:35.730 --> 00:35:42.780
+<v Speaker 1>I feel very proud that the, the the three arenas, definitely something that I, I helped bring to the game and that</v>
+
+00:35:44.140 --> 00:36:01.950
+<v Speaker 1>it was just exciting. You know, it was exciting working closely with Richard on a not magic product and, and being able to make a game from scratch with him and watch him work and work with him. That was just amazing. So, so anyway, that was a Star Wars trading card game, a very, very different animal. Now I will say, by the way,</v>
+
+00:36:03.450 --> 00:36:36.280
+<v Speaker 1>there are definitely things from that that have influenced magic, although not many of them. It's funny. There was a mechanic called absorb that I put into future site, which reduces damage and absorb was exactly the mechanic from there's a there's a shield mechanic in Star Wars. And Shields allow you to reduce damage. And So what they do is from every die roll, it reduces damage. So if you have a shield one, OK, well, if I roll any ones in the gates, the ones. And so the idea is the bigger Shields you have, the harder it is to hurt something, the higher roles you have to roll.</v>
+
+00:36:36.400 --> 00:37:00.870
+<v Speaker 1>And usually thing with Shields have a lower health, but they have Shields. And so depending on your roles, you know, you really can have bad roles in which you don't harm the ship at all. And I tried to bring that as absorb. Absorb ended up being a little too powerful for magic. So I'm not sure we're going to see that in the future set. Also, there was a meteor card that Henry and May that we directly made. There's a creature magic that every time it takes damage it splits in two</v>
+
+00:37:01.880 --> 00:37:06.270
+<v Speaker 1>and and then it it but it shrinks each time. That was based off the Meteor card.</v>
+
+00:37:08.100 --> 00:37:37.740
+<v Speaker 1>There's a whole mechanic that we made that never got made. That was based on the build costs. I think we called it layaway. There's a magic mechanic where you could casts things like you could build them in Star Wars. We tried that. That never actually never quite made it into the game. I think probably a lot of little things that influence magic. But anyway, one of things in general is any time it's a game designer, you work on a game, you you pick things up through osmosis that affect you. And that I do</v>
+
+00:37:37.810 --> 00:38:04.630
+<v Speaker 1>well that just working on Star Wars has made me a better game designer and doesn't better magic game designer. And they're definitely were influence of working there. But anyway, I'm now in my parking space. So we all know what that means that it's time to end my drive to work. So instead of talking Star Wars, it's time for me to be making magic. So thanks for joining me guys, and I hope you enjoyed a peek at a slightly different kind of game design.</v>
+

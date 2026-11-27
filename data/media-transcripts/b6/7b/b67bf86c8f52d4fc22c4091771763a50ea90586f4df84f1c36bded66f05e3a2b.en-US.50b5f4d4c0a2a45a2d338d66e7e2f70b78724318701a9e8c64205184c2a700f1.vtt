@@ -1,0 +1,311 @@
+WEBVTT
+
+00:00:00.780 --> 00:00:30.810
+<v Speaker 1>I'm playing on my driveway. We all know what that means. It's time for another drive to work. OK, so today's topic is an interesting one. One of the things I'm always trying to do on the podcast is to figure out what are things I can do in a podcast that are best done in a podcast and aren't done in article or aren't done, you know, through some other means, my blog or whatever. So one of the topics that came up. So I work ahead. So for you guys,</v>
+
+00:00:30.880 --> 00:00:46.680
+<v Speaker 1>this is the distant past, but I just recently my article for the state of the of the design article just went up last week or this week. And so there's a lot of discussion that generated, which is good. That's why I write it. So one of the big questions was I talked about</v>
+
+00:00:48.910 --> 00:01:03.840
+<v Speaker 1>one in the stakes I felt they made is that I knew people wanted and chiming matters element and I withheld it to try to make the third set something exciting. In retrospect, I probably should have started in the second set, but anyway. But it led to the following discussion. The following question keeps popping up.</v>
+
+00:01:04.680 --> 00:01:10.060
+<v Speaker 1>OK, OK, uh, you know, Ferris was fun, but when can we expect</v>
+
+00:01:11.340 --> 00:01:18.970
+<v Speaker 1>the enchantment block that is to enchantments what mirrored in is to artifacts? When can we expect that block?</v>
+
+00:01:19.750 --> 00:01:29.090
+<v Speaker 1>And what I realized was it's a complex answer. It was more complex than I could answer in my blog. It's the kind of thing I might be able to do in my article, but it's very</v>
+
+00:01:29.960 --> 00:01:44.590
+<v Speaker 1>I don't have any on that. I I only have one article a week every other week, the theme week. I just don't have a lot of spare weeks in my articles. So I'm like, you know what? This would make a good podcast topic. So the question is today's podcast is Enchantment matters world,</v>
+
+00:01:45.360 --> 00:01:52.460
+<v Speaker 1>where is it? Why you know, when can we expect it? And what I'm trying to say today is not that you,</v>
+
+00:01:53.340 --> 00:02:23.280
+<v Speaker 1>let me be clear, I'm not saying that it'll never happen, but I'm saying that it is a lot harder to do than I think people realize. And I want to explain why it's so hard. One of the things that I like doing with my podcast is kind of going in depth and saying, look, guys, when you dig down deep, there are a lot of issues. Like one of the things I find interesting when new people come to R&amp;D and watch the process that one of the comments they always get is holy moly, you guys discuss everything. You know that there's details that you don't even think about</v>
+
+00:02:23.360 --> 00:02:43.230
+<v Speaker 1>that that is not even a detail the average person even contemplates that we might argue days about, we might argue months about, you know, that there's there's so much little nuance of what we do that we spend a lot of time and energy on it. And so here's an example where I'm going to dig deep today. I'm going to talk about some design, some really</v>
+
+00:02:44.420 --> 00:02:50.290
+<v Speaker 1>dig down deep in the dirt design information today to talk about sort of what you can and can't do.</v>
+
+00:02:51.070 --> 00:02:54.460
+<v Speaker 1>OK, so in order to understand today's topic, I need to explain a couple of things.</v>
+
+00:02:55.470 --> 00:03:25.710
+<v Speaker 1>The first is I need to explain the concept of volume. Um, another way to talk about it also is add spam, which obviously I talk about all the time. So what that means is if you want something to matter, there is some volume in which it's has enough of a presence that it can matter. Now, what that thing is varies from thing to thing. It's not that everything needs to be at the same volume, but there needs to be a volume to make something matter. For example, let's say we're doing a trial, some of the tribal component</v>
+
+00:03:25.820 --> 00:03:56.680
+<v Speaker 1>and I want have goblins matter. Well, you know, I need to have a certain number of goblins in order for goblins to matter. You'll notice in both Onslaught and Lawin, which were strong tribal things, that almost all the common and uncommon creatures were one of the creature types that mattered. That in order to get the volume we needed, we didn't, we couldn't waste any space like in Norman, the weight creature types, you were one of the eight creature types. And in fact, notice in Lorwyn, we actually, even with that, even with limiting ourselves to the creature types, we ran into a problem with</v>
+
+00:03:56.750 --> 00:04:25.290
+<v Speaker 1>still needing a little extra extra booth. So we made changeling, which was based off mistform Ultimus that allowed a creature to be every creature type. And what's changing was, was like the glue we used. So whenever you're saying are there enough blah, well, blah. Plus changeling was the number you had to look at. So by adding changelings and making change links at a certain percentage, we were able to just up the number of every single creature type that mattered. And that's why changing within the set.</v>
+
+00:04:30.060 --> 00:04:56.970
+<v Speaker 1>OK, so number issue is this understanding volume. And like I said, different things need different volumes. It has to do with how many do I need to have at a time to make matter. And I've talked about this before that like what we call threshold 1 is do I just need to have one in play? Like imagine, for example. So let's talk about goblin cards is what talk earlier. A threshold 1 goblin card would say if you have a goblin in play, I gain blah. Or if you have a goblin play when you cast me, get</v>
+
+00:04:57.070 --> 00:05:27.900
+<v Speaker 1>extra bonus or whatever, which means that I just have to have a goblin. I don't need tons of goblins. I just need the single goblin. The other thing that we often do is things where they're scaling, which says for every goblin you have in play, do one damage to target creature or player or all goblins game, whatever those say. Oh, play as many goblins as you can. So if you have more of the first step, the threshold 1, you can be lower in your volume. You just need enough that people can have some expectation of having one in play at a time,</v>
+
+00:05:28.000 --> 00:05:35.770
+<v Speaker 1>which means, you know, a threshold one might might mean you need to play umm, 678 maybe.</v>
+
+00:05:37.510 --> 00:06:07.260
+<v Speaker 1>And if you want things to scale well, then you need to have a lot more. Now when people say to me they want enchantments like artifacts, Meriden was definitely the second cap. It was a lot of scaling effects. I mean, there's a little bit of threshold one. There's a lot more scaling effects when you played original mirror and it's like, you know, the more artifacts of the better, you know, affinity for artifacts, just like I'm cheaper for every artifact you have play a lot of artifacts. You know, these spells aren't good unless you have a lot of artifacts in play. And a lot of the things we did in that set were very much like,</v>
+
+00:06:07.450 --> 00:06:38.140
+<v Speaker 1>OK, every time I play an artifact, something happens. Every time I sack an artifact something, you know, it just said play a lot of artifacts. So what people when they say they want enchantment version of Mirrodin, OK, that's saying you want scalable stuff. Now notice that constellation in during the next was scalable and we'll get there. OK, so #1 volume, there's the volume problem #2 is what we call the the card definition problem. So if you ever listen to any of my podcasts or any articles or read my blog,</v>
+
+00:06:38.450 --> 00:06:50.990
+<v Speaker 1>I am a purist. When it comes to delineations between subsets. Clearly the place on the loudest about it is the color pie. I want, you know, white to be white and blue to blue and black to be black and red to be red and green be green.</v>
+
+00:06:52.150 --> 00:07:20.740
+<v Speaker 1>I want each color to have a clear delineation from the other colors. The same is also true for card types. I don't, I don't harp on this as much as I do on the color pie, but I want creatures to be creatures and chems to be shamans and artifacts. The artifacts and lands to be lands. And that there are rules we set up and like certain car types do something but don't do something else. Lands type 4 or get you mana, the mana affiliated we, you know, with rare occasion we don't do lands that aren't connected to man in some way.</v>
+
+00:07:22.000 --> 00:07:45.080
+<v Speaker 1>You know, enchantments enchant things. They might be local, they might be global, but the flavor of enchantment is it's adding a magical, you know, element to something that that that it's it's forever changing something by granting on a magical element. Artifacts are things are physical things that you are using that have magical properties. So it's important there's delineation,</v>
+
+00:07:45.780 --> 00:07:49.570
+<v Speaker 1>OK, that that's issue #2 that, that I,</v>
+
+00:07:50.350 --> 00:08:20.310
+<v Speaker 1>I believe it is bad. If, you know, one of things you have to be careful of, and this is true of colors, is true of car types, that magic pushes you toward doing what you haven't done. You know, there's a lot of inertia to say, oh, we haven't done this thing, let's do that. And so there's a lot of impetus to bleed, you know, and if you notice every set, we'll do something and we'll believe a little bit. We'll try, we try hard to sort of not, not break anything, but we bleed a little. But but there is inertia to go to places you haven't gone before. And</v>
+
+00:08:20.390 --> 00:08:49.480
+<v Speaker 1>on some level, the reason I hold so fast, the reason I'm just not willing to make red cards destroy enchantments is you gotta hold firm. Colors have to have weaknesses, have these things that ohh, I don't know this color can't deal with that well. And that you want to make sure that there is, you know, the reason that you might not play mono red or, you know, might need a splash a second color or or, you know, if you're playing whatever color you're playing, the reason we want you to sort of think of going to second color is that color does something better than the color you were in. You might want that other color</v>
+
+00:08:50.990 --> 00:08:52.780
+<v Speaker 1>and car types are very similar in that</v>
+
+00:08:53.530 --> 00:09:23.640
+<v Speaker 1>if you blend them all together, I mean, as is artifacts, enchantments already there's a thin line. I mean, one of the things that happened, in fact, if I had magic to start all over again, I would draw much harsher line between enchantments and artifacts. In fact, little story during the design of mirrored in the original Meridian, there's a man named Tyler Bielman who was on the design team of Meriden also at the time with the charge of the creative team. He and I did an exercise where we try to delineate artifacts, enchantments. We were trying to rehaul artifacts and we were going to tow some</v>
+
+00:09:23.760 --> 00:09:53.950
+<v Speaker 1>hard lives and one alliance we're gonna tow, which is what I would do after magic over again is we said, you know what global effects, not artifacts. Bane artifacts don't do that. Artifacts you use the artifact, that enchantment will be the thing that goes OK, everything now does this, you know, and that we weren't the idea was howling mine shouldn't be an artifact. It should be an enchantment. Winter orb shouldn't be an artifact. Should enchantment then Chant means do global things that change the nature of the world</v>
+
+00:09:54.040 --> 00:09:59.480
+<v Speaker 1>and that artifacts physically do things. We didn't make that change. There's too much. Too much.</v>
+
+00:10:00.620 --> 00:10:19.520
+<v Speaker 1>One of the things of the game is there's things where just to get enough inertia that it's hard to change. When I talk about I do this differently. Well, we got 21 years of inertia. It's it's hard to undo things. There's certain things that the game is just committed to and it's hard to hard to somethings are just hard to undo. But anyway, artifacts, enchantments already close. We just have to be so careful.</v>
+
+00:10:20.690 --> 00:10:51.330
+<v Speaker 1>OK #3 is New world order. I have a whole podcast on that if you have no idea what I'm talking about. In a nutshell, New world order says in order to make sure the game is accessible to newer players we tow a line at common on complexity. Now note that doesn't mean anything but uncommon or rare or mythic rare. People who love to say, oh, New World Order is dumbing the game down and like we still make the cards at uncommon rare and mythic rare we would always make, but at common we are making things a little less</v>
+
+00:10:51.400 --> 00:11:02.680
+<v Speaker 1>complex. Now there's lots of other things going on that aren't New World or people like to People like to think New World Order is 8000 things when it's actually one thing and the one thing is, is simplifying complexity common?</v>
+
+00:11:04.050 --> 00:11:09.700
+<v Speaker 1>OK, so those are the three problems that laid out the problems. Now let me talk about what what's going on here. OK so</v>
+
+00:11:10.480 --> 00:11:33.320
+<v Speaker 1>I want to make an enchantment set Allah Mirrodin enchantments, enchantments and shamans all enchantments. OK so here's the first problem, the volume problem. In order to get the volume, you need to have like scalable enchantment effects, you need to have a certain threshold of or turn volume of of enchantments. OK,</v>
+
+00:11:34.400 --> 00:12:03.980
+<v Speaker 1>let's assume that you let's take creatures on next creatures. Well, creatures are 55% of the cards that that's really not the number we need to be looking at. We need to be looking at socially for limited like we call the Asfan. What, how many can you expect to play? So in limited, limited game, you're going to play roughly 16 creatures, 17 land about 7 spells. So let's assume that you, you say I'm going to play everything I can. I will play in the comment</v>
+
+00:12:04.050 --> 00:12:31.290
+<v Speaker 1>every noncreature I will make an enchantment, which means you have 7 enchantments in your deck and that means I'm not playing instants or sorceries, I'm not playing artifacts. You know, I have to figure out how to all my kill cards somehow have to be enchantments. Let's assume you could do that, which which would be fair, be kind of hard, but let's assume you could do that. This is what we did in Pharaohs and what we found was she just not enough? Even if all seven of your cards aren't chemins, it usually just isn't enough.</v>
+
+00:12:32.660 --> 00:12:38.420
+<v Speaker 1>And what that means is in order for you to get the volume you need, you need to dig into creatures.</v>
+
+00:12:39.250 --> 00:12:41.030
+<v Speaker 1>OK, so let's let's explore that.</v>
+
+00:12:42.400 --> 00:12:46.820
+<v Speaker 1>Now we get to the donation problem. So here's the first problem, which is</v>
+
+00:12:48.070 --> 00:13:17.880
+<v Speaker 1>how do you feel like an enchantment? Now you'll notice, by the way, in future sight, there's a called Lucent Lucent Luminaid, which was a three three flyer that was in our enchantment creature. Now, originally when I designed the card, it had a global effect. You know, all creatures get plus one plus one or something. And then it's to simplify the card, I think might turn in with the lead developer needed to move it down rarity. But anyway, he ended up chopping off the effect and just made it a vanilla creature. And the problem I had is what exactly makes that an enchantment creature?</v>
+
+00:13:18.110 --> 00:13:26.500
+<v Speaker 1>You know that it's a dangerous person really like well, I'm just going to label it. Why is it in chemic creature? Because the word enchantments on it. You know that doesn't the</v>
+
+00:13:27.260 --> 00:13:46.010
+<v Speaker 1>the thing that's nice about artifacts, and This is why I think Mirrodin was a much easier job is enchantments come with two very strong things. One is they have a colorless mana cost, which is very distinctive. I mean, yes, yes, every once in a blue moon we do all draws or something has colors, mana, but the</v>
+
+00:13:46.750 --> 00:13:50.270
+<v Speaker 1>most of the time the colored cards are artifacts.</v>
+
+00:13:52.010 --> 00:14:20.980
+<v Speaker 1>Now, the second thing is, artifacts have a pretty strong creative vision, right? They are physical objects. It's a sword, it's an orb, it's an amulet. You know, when I say something, it's an artifact. You have some sense of what we're talking about. Shamans are fuzzier artifacts, a little cleaner. So when I want to make in an artifact, all I have to do is make sure the flavor is there and put a colorless mana cost on it. That means I can make artifact.</v>
+
+00:14:21.060 --> 00:14:29.300
+<v Speaker 1>There's in fact Richard in alpha made artifact creatures. They can be vanilla. You know the the thing that defines them can be done in the mana cost</v>
+
+00:14:30.110 --> 00:14:43.500
+<v Speaker 1>and in the creative, which means that you can make very, very simple cards and feel like it's an artifact. Another thing that's helping you is the idea of artifact creatures are pretty natural. You know that</v>
+
+00:14:45.010 --> 00:14:58.340
+<v Speaker 1>a Gollum is a artificially made creature. It it's, it's, it's a mythology long before the game existed, you know, or a scarecrow or whatever sort of creature you want to make up that that's a created creature.</v>
+
+00:15:00.010 --> 00:15:00.490
+<v Speaker 1>Now,</v>
+
+00:15:01.710 --> 00:15:31.080
+<v Speaker 1>once again, if I had the game to do all over again, I would rethink how we flavored magically made creatures. You know, for example, if alpha had started an illusions were enchantment creatures, maybe even elementals were enchantment creatures. You know, we could have defined a way to go, oh, in the game, this is the flavor of enchantments. It's something in which is magically made. Oh, it's, you know, it's, it's, it's components put together. It's a dalam carved out of silver.</v>
+
+00:15:31.450 --> 00:15:41.320
+<v Speaker 1>That's an artifact. Oh, it's a creature made of magic. It's an illusion. Or it's made of of, you know, magical energy. Ohh, well, that's an enchantment. We could have done that.</v>
+
+00:15:41.980 --> 00:15:57.810
+<v Speaker 1>We didn't. And so the problem now is if I want to do enchantment creatures, I have to justify them as being enchantments now. I can't just do something we've done for years and years and years and haven't called enchantments. We missed the boat. You know, I can't just say, Oh, that's in Christ like, but</v>
+
+00:15:58.680 --> 00:16:22.520
+<v Speaker 1>that's the 20th one of those. We don't because it'll just be non intuitive. The players that built up enough expectation it won't make sense anymore. OK with that means now is in order to make the volume, I have to have creatures on champions, but in order of creatures enchantments, I have to make them feel like enchantments. And here's the next problem, the blurring the line between creatures and enchantments. We put static abilities or you know, global abilities on creatures.</v>
+
+00:16:23.430 --> 00:16:53.640
+<v Speaker 1>So having a creature that says all creatures get plus one plus one, yeah, we did that in alpha. That is something that's now I'm willing to put global effects on creatures and try to go the straight face those enchantment creatures. But even that it's kind of hard because like when we did it, one of the things you'll notice is the reason we still on the bestow creatures in Pharos is those feel like I've never seen those before. Oh, I see why those are enchantments. They can be local enchantments, they can be auras, and they can be creatures.</v>
+
+00:16:53.810 --> 00:17:18.590
+<v Speaker 1>Well, that makes perfect sense. That's why those aren't champion creatures. But it was hard to make, you know? I mean, we tried Born, the guys, for example, definitely made some creatures with effects. And one of the things you'll notice is one of the things we did on a lot of them is we put two effects on it. 2 global effects. Does this enchanting enough? It does A and it does B because you just do A it it doesn't feel. You know that because creatures do it so often, it's hard to feel like it's an enchantment creature.</v>
+
+00:17:22.540 --> 00:17:24.110
+<v Speaker 1>Then we have a second problem,</v>
+
+00:17:25.640 --> 00:17:46.620
+<v Speaker 1>which is this is where New World Order starts peaking in. So let's say I'm willing to say, OK, I'm willing to just accept creatures with with abilities that would go in enchantment, just with the straight face. If this card, you know, if it didn't say creature on it and I read it, I go, OK, seems like a jam. It good enough, good enough. There's an issue. There's blurry lines, It's not clean. But let's assume I'm willing to like, suck that up.</v>
+
+00:17:47.850 --> 00:17:54.150
+<v Speaker 1>OK, here's the next problem. If you look at common, how many global enchantments do we normally do a comma?</v>
+
+00:17:54.860 --> 00:18:13.860
+<v Speaker 1>The answer is usually 0. Every once in a while we'll do one or two. And there's a few things we can do. There are, in fact, The funny thing is it's more more often if a creature with a global ability economy. But OK, so we can do some, but a handful, not that many, you know, even if they're going to stretch it, I'm not sure we get up to the volume we need. We're not going to ask than we need.</v>
+
+00:18:15.350 --> 00:18:22.930
+<v Speaker 1>Plus here's the following problem. There's two different kind of enchantments, right? There's local and global. I'm not sure those are the technical terms anymore, but I'm using them because</v>
+
+00:18:24.070 --> 00:18:30.050
+<v Speaker 1>imagine this thing where we have terms for stuff and then we the terms go away. Except there's no new terms for it like physical anyway.</v>
+
+00:18:30.690 --> 00:18:34.650
+<v Speaker 1>As far as I'm concerned, things off is on. They know counter. Counter means many things.</v>
+
+00:18:36.370 --> 00:18:48.580
+<v Speaker 1>OK so the problem you run into is that you if you have too many, well this local and global enchantments. Local go on a creature or on a thing could be an artifact on the land. Global just sit there.</v>
+
+00:18:49.270 --> 00:18:58.450
+<v Speaker 1>Global effects, especially if they only hit a subset can make a complicated board state. For example, I have one Jim that says all white creatures are plus 1 + 1.</v>
+
+00:18:59.270 --> 00:19:02.060
+<v Speaker 1>Now I have another one that says all</v>
+
+00:19:02.780 --> 00:19:32.620
+<v Speaker 1>all soldiers get plus 1 + 1. Now I have to look at my board. I go, OK, well white soldiers are +2, +2. All white cards that aren't soldiers are plus 1 + 1 and all soldiers that aren't white cards plus 1 + 1. You know, or imagine that even plus 1 + 1, let's say all soldiers have a first strike. You know, I was like, OK, well white soldiers are plus one on 1st, right? You know, and soldiers at first strike, if they're not white and then they're wiping, not soldiers there plus 1 + 1. Like you can imagine, it doesn't take long if you have a bunch of global abilities before they can get</v>
+
+00:19:32.690 --> 00:19:52.510
+<v Speaker 1>complicated, especially if they're affecting A subset. Now on the other hand, local, local enchantments, auras are much simpler. It's like, oh, it's sitting on that creature. I can look at it go OK, well that creature has enhancement. And whenever I have to care about the creature, maybe I look make sure I know how big it is, but unless that creature attacks or block,</v>
+
+00:19:53.320 --> 00:19:56.220
+<v Speaker 1>yeah, at the time I need to figure out what that is, is easier to track.</v>
+
+00:19:56.940 --> 00:20:02.560
+<v Speaker 1>So what we didn't there was he said, OK, well, let's see if we can make use of local agents. It's just easier to keep track of the board state.</v>
+
+00:20:03.940 --> 00:20:08.170
+<v Speaker 1>OK, so there's just a number crunch problem of how many enchantment creatures can we make,</v>
+
+00:20:08.860 --> 00:20:20.170
+<v Speaker 1>you know, because there's something changes we can make and then we can make some enchantment creatures. Now here's the next problem, which is one of the things people complain about in Theros block wasn't wasn't a lot of global enchantments.</v>
+
+00:20:20.920 --> 00:20:51.100
+<v Speaker 1>And the reason there wasn't a lot of global element part of it was is we were trying to make the enchantment creature stand out. But another problem was we were just using up all the enchantment space. You know that there's only so many, there's only so many different enchantment effects before you're just like you've used them and you're bumping you're bumping up into one another. Like one of the problems we run into is there is a certain amount of space for different things. There's so many space for artifacts, so many space for chamber creatures. Now everyone's in while you can steal from one for another. If you notice what we did in there,</v>
+
+00:20:51.190 --> 00:21:21.690
+<v Speaker 1>he says some of our auras kind were filling the role of other cards. You know, we have an order, I think it was +2 plus flash plus 2 + 2. Oh, well, that's a lot like a giant growth. That's a giant growth that sticks around. It's a little bit different, but it had a lot of the functionality like the China growth, you know. And what we can do is we can say, OK, we can, you can maneuver things a little bit so you can take effects that are normally not in one area and push them there. We do that in artifacts lot. When artifacts matter, we take effects that normally aren't artifacts and push them into artifacts. And there's some space</v>
+
+00:21:21.760 --> 00:21:29.580
+<v Speaker 1>do that within the building, the nation of of the context of some space to do that, but there's not infinite spaces. The issue, you know, it's not like so</v>
+
+00:21:30.730 --> 00:22:00.420
+<v Speaker 1>and shamans have less total space of things you can do because in shamans are just narrower than artifacts, for example, because artifacts can do global effects well and they have equipment like pretty much anything enchantments can do, artifacts can do. But artifacts can do more things. They can tap, you know, you know, they you can use them more like I have an ability that I can use once per turn. They they also can function a little more like creatures in that regard where it's harder with enchantments means can't activate, but it's only so many times you can say once per turn.</v>
+
+00:22:00.490 --> 00:22:04.210
+<v Speaker 1>And I mean you can graph capabilities on on an aura.</v>
+
+00:22:05.250 --> 00:22:07.190
+<v Speaker 1>But anyway. OK, so the problem is</v>
+
+00:22:08.390 --> 00:22:14.270
+<v Speaker 1>we need the volume. In order to get the volume, we got to go to creatures, there's limited space and creatures there's limited space on just enchantment</v>
+
+00:22:15.140 --> 00:22:15.930
+<v Speaker 1>design.</v>
+
+00:22:17.130 --> 00:22:22.590
+<v Speaker 1>And so the thing we run into is that there's just have there's just a number of volume issues.</v>
+
+00:22:23.540 --> 00:22:41.070
+<v Speaker 1>Now let's go to the other place. Now let's talk about the cards that make it matter the the enchantment matters cards. So constellation, that's what constellation during the next. So constellation is the kind of thing people are talking about. OK, every time I play enchantment, something happens. Well,</v>
+
+00:22:41.830 --> 00:22:48.510
+<v Speaker 1>but the other problem we ran into is the kind of courage you can do that make and chairman matter. There's less cards you can do,</v>
+
+00:22:49.460 --> 00:23:19.270
+<v Speaker 1>you know, for example, a lot of the ways you make things matter is making creatures matter. But unless you have enough volume of creatures making enchantment creatures matter, there's only so much you can do with that. And like you can only have so many effects, like saying every time I cast Sing XI get a small effect. There's just a limited number of facts you can do that with. And and here's the other things, developmental thing constellation. There were two restrictions.</v>
+
+00:23:19.420 --> 00:23:49.180
+<v Speaker 1>One restriction was how many different effects can we do? But that wasn't the biggest restriction. The biggest restriction is there's just so many of those that you can do. I'm saying that there's some threshold point where especially when they're their own thing and we did that on purpose, but especially when I'm an enchantment and I care about enchantments, you can only make so many of those cards that if I can fill my deck of nothing but constellation cards, it gets overwhelming. Like one of the interesting complaints that I had is where was the enchantment land? OK, you know,</v>
+
+00:23:49.430 --> 00:24:17.500
+<v Speaker 1>Jordan got an artifact lands, why didn't there asking enchantment lands? And the answer basically is cuz mirrored ruined it for everybody. We didn't know any better when I made the artificial lens and mirror and I didn't understand what I was doing. We had never done anything like that before and voila, it broke everything. So when it turns out is being the land is so important, that just being this other thing that you care about, even if you come and play tap is just too good,</v>
+
+00:24:18.300 --> 00:24:47.950
+<v Speaker 1>especially if you wanted things like constellation. The reality is we could not make idle on blossoms and make enchantment land. The 2 cannot coexist. And we wanted to do idle on a blossoms, we wanted to do constellation. And it's like, well look, I can make one or two enchantment lands and then if I make those, there's a whole swath of cards I can't make. Well, that's why I didn't make it. So the other issue is that not only do artifacts have the ability to do more volume and the artifacts have more just general design space you can fill in,</v>
+
+00:24:49.030 --> 00:25:08.280
+<v Speaker 1>but because of those things, because you can spread it out more, you can spread effects out more, you can spread out over more cards, you can dilute it a little more than enchantments get less diluted. And so having effects that care about enchantments, A means there's less of them and B, it means that they're more dangerous that you have to be more careful of how many you have in the environment.</v>
+
+00:25:09.080 --> 00:25:39.900
+<v Speaker 1>Now look, in a perfect world, as I'm saying my standard design, probably we would have started a consolation in born of the gods. Maybe maybe there was some a few cards in Pharaohs that hinted at it. But even Theros was so full that probably the enchantment matter stuff wouldn't have been there. It would have been born in journey. I could have started a set earlier. But even then, even then, that isn't what people are asking for. But people are asking for is where is my enchantment matters blocked like mirrored in And what I'm trying to say today, the reason I'm having this podcast, the reason I'm talking about this for 30 minutes</v>
+
+00:25:40.190 --> 00:25:49.390
+<v Speaker 1>is I don't know if it's possible. I don't know if we can do that. And in order to do what one of two things is going to have to happen, either</v>
+
+00:25:50.280 --> 00:25:59.500
+<v Speaker 1>we have to have some breakthrough and go, ohh, here are some clear way that we can communicate and do the things we need to do and which it all feels right and people intuitively do the right thing,</v>
+
+00:26:00.470 --> 00:26:27.180
+<v Speaker 1>or we talk ourselves into breaking one of the rules. Um, and the problem is the rules I'm talking you are pretty important rules. I mean, the enchantment is so like I said today, enchantments blur so much with both artifacts and creatures. But the last thing I want to do is give up more definition for enchantments like it already is in a place where I feel it's tenuous at best. And so,</v>
+
+00:26:27.890 --> 00:26:58.160
+<v Speaker 1>like I said, like the, the, the thing to remember, and this is hopefully my, my goal of today's podcast is that design is, is layered, meaning that's causual that what you do in one thing affects other things. And that a lot of what I want to do a design, you know, for example, like today, I'm trying to say, OK, what do what do I need to do? If I want to do and enchantment matters, block Allah mirrored in. Well, I'm like, OK, I need volume. That's the number one. I need volume, you know, and what does my volume? And I can</v>
+
+00:26:58.360 --> 00:27:28.920
+<v Speaker 1>physically as fan and there's some technical stuff I would probably do. I was like, OK, how many as in do I need? How many, you know, exactly how many Commons and uncommons. You know, what's the volume I have to get it to make this work. The second thing is, and then I say, OK, where am I getting it from? I need this much. Well, what I have available isn't enough. Meaning that's what gets me into creatures. Like OK, I have to figure a way to make chambres work. I just can't make the whole thing work without a champion creatures. And then once I do that, then I start getting the complexity issues. OK, how do I make the enchantment creatures matter, make them feel intuitive,</v>
+
+00:27:28.990 --> 00:27:49.770
+<v Speaker 1>but not have this problem right? I override the complexity issues have to deal with New World Order and that to be fair, I mean, as much as I was talking about this one topic today, I'm really talking about design in general, which is no matter what my design is, you know, if I'm starting with a weird block structure or I'm starting with a top down design, or I'm starting with</v>
+
+00:27:50.950 --> 00:28:20.770
+<v Speaker 1>now 10210 two color pairs, like whatever I'm starting with, it makes me say, OK, I have a parameter and This is why it's important design. Does this start with some parameter. I know people been asking about kids are like, why a draft structure? Like it's just different. It was a different place to start. It's not even that I built the block around the draft structure. I use the draft structure to figure out what I would need to do to lock in parameters. Use those parameters to find an interesting structure which were the time travel story and then built around a time travel story.</v>
+
+00:28:21.690 --> 00:28:25.850
+<v Speaker 1>But that my point is one of the things that's important when you start your design is</v>
+
+00:28:26.650 --> 00:28:57.260
+<v Speaker 1>something has to be absolute. When I talk about restrictions, creativity, one of the things is when you have nothing to hold on to when anything is possible, you kind of freeze because you're like, well, anything is possible. That doesn't help me. And what you need to do is if you don't have a restriction, make a restriction. And what I like to do when I show her design is saying, OK, here's the thing that matters. This thing matters. And this is the non negotiable. I have to do this. And that gives me a restriction to start on. You know, the way I was talking about it is</v>
+
+00:28:58.120 --> 00:29:23.760
+<v Speaker 1>you need to get traction on your design and that if there's nothing there, there's nowhere to get traction. So what you need to do is just commit to something. And by committing to that thing, you make your first point of traction. And once you have your first point of traction, you can follow along. My my sort of goal of today is to walk you through what do I need to do to do an enchantment world all a mirrored in. And the answer is, wow, there's a lot I have to do and there's some problems to solve.</v>
+
+00:29:24.960 --> 00:29:54.240
+<v Speaker 1>Have to solve the problem of how to get the volume of enchantment creatures that I need in a way that reads without, without violating 1 enchantments are in a way that feels natural. And then I have to figure out how to do the and chairman mattering stuff in a way that development can develop, that we have enough design space to design and development can develop, both of which are giant issues. So what I'm trying to say is for all the people that are begging for this thing that seems so obvious, it's not always so obvious. You know, it's not</v>
+
+00:29:55.400 --> 00:30:24.900
+<v Speaker 1>my goal today is to start to say you're probably not thinking like just because enchantments, I'm sorry, artifacts can do something doesn't mean enchantments can do something. You know why it's not that hard to make land matter? Because 40% of every deck of all decks are land. Why is it not hard to make creatures matter? Because a lot of your Decker creatures, that's not truth and chants. You know, why is it easy to make lots of artifacts? Because it's very flexible in what it does that artifacts normally are a smaller percentage, but you can make them a larger percentage because enchantments</v>
+
+00:30:24.980 --> 00:30:55.060
+<v Speaker 1>sometimes that artifacts just have more to hang your head on. They have a little bit cleaner and more delineate flavor to them and the colorless mana cost, having something that defines them, that sits in the manner cost that doesn't send the rules tax is really important for being able to make a lot of cards. And so why is it so hard to do enchantments when we can do artifacts? Because they're just different card types and they have different rules and do different things. And that it's very easy to look, imagine, go, well, you did something A, I want the same thing with thing B. It's not always that simple. And</v>
+
+00:30:55.170 --> 00:31:15.880
+<v Speaker 1>the goal of today's podcast is it's not that simple. Not that I'm not saying it's impossible. I'm not saying we can't do it. I'm not saying I won't continue to try to figure out how to do it. But I know what people want. And what I'm saying to you is it's just not that easy. It is not a matter of, oh, just do it, you know, oh, you did artifacts, just do enchantments. It's hard.</v>
+
+00:31:16.570 --> 00:31:26.090
+<v Speaker 1>Anyway, I've now parked my car which means that it's time to end my drive to work. So thank you guys for joining me. I hope you enjoyed it and I'll talk to you next time.</v>
+

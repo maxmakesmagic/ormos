@@ -1,0 +1,407 @@
+WEBVTT
+
+00:00:01.330 --> 00:00:32.360
+<v Speaker 1>I'm pulling my driveway. We all know what that means. It's time for another drive. Newark. OK, so today is another in my series. 20 lessons, 20 Podcasts, or I recap 20 important lessons that I've learned over the 20 years or more that I've been making magic. This is based on the GDC speech I gave, so we're up to lesson #14 don't be afraid to be blunt. OK? So for each one of these, I already start with a story from magic. So this one takes us back to Rise of the Eldrazi.</v>
+
+00:00:32.880 --> 00:00:49.470
+<v Speaker 1>OK, so the idea of this set was that, um, we run Zendikar and we learned that these ancient creatures have been trapped inside the world and in Rizzo Drazi, they get out because it's they're called the Drazi. And this is the rise of the old Razi.</v>
+
+00:00:50.970 --> 00:00:56.540
+<v Speaker 1>We had to figure out how to design the Eldrazi. So the Eldrazi we're definitely</v>
+
+00:00:57.810 --> 00:01:24.410
+<v Speaker 1>challenging to design for. So basically the idea was they were giant voracious alien creatures. You know, they were these things that were sort of like, one of the things about them was that one of the reasons they were so hard to fight story wise is no one understood what they wanted. They were kind of a force of nature more than anything else. You you couldn't reason with them. They didn't have any sort of normal sense of reason. So</v>
+
+00:01:25.290 --> 00:01:34.650
+<v Speaker 1>time, they were ancient, ancient, ancient beings. They were huge. There were three of them, the Titans, we called them. So it was</v>
+
+00:01:36.020 --> 00:02:06.090
+<v Speaker 1>Ulamog, Kozilek and Emrakul. Those were the three Eldrazi Titans. And so we were trying to figure out how to play them. How do you make giant, voracious, ancient alien beings? That's tricky. So one of the things we did was, and this is the first time we met them, we obviously they came back and battled presented car. But the first time Brian Tinsman was the head designer, and so he decided to do was</v>
+
+00:02:06.180 --> 00:02:20.740
+<v Speaker 1>just embrace the giantess, and he created something we refer to as battleship magic, which is what if magic sort of just slowed down a little bit and then allowed players to just get out. Huge giant creatures within battled each other.</v>
+
+00:02:23.150 --> 00:02:38.960
+<v Speaker 1>And so the idea was in order to get the human the hugeness of the Eldrazi and note the draws, they were not just the Eldrazi. They created spawns and things, and even their spawns were huge. So we were trying to figure out how to,</v>
+
+00:02:40.050 --> 00:02:43.150
+<v Speaker 1>we were messing around with sort of how to make them</v>
+
+00:02:44.430 --> 00:02:47.540
+<v Speaker 1>flavorful. So to capture the voraciousness,</v>
+
+00:02:49.000 --> 00:03:11.480
+<v Speaker 1>we came up with what was it called? We came up with a mechanic that was called Annihilate. And what Annihilate did is it had a number, Annihilate 4, Annihilate 2. When you attacked with a creature with Annihilate, your opponent had to sacrifice that many permanence. Now that could be lands that can be any permanent, but let's say I had annihilate too. So if I had Annihilate 2, you would have sacrificed 2 permanents every time I attacked.</v>
+
+00:03:13.080 --> 00:03:42.870
+<v Speaker 1>So we tested Annihilate and it proved to be really strong. It was like when you had Annihilate, you wanted to attack. It was a very powerful ability and what tended to happen was it just took a couple of tacks before your opponent was such a such a negative for having to deal with that, that often it would win you the game. Then I mean, we didn't bring Annihilate back in Battle for Zendikar because it proved to be So what we call snowballing. Like once you start attacking without drives, they're just so hard to come back from</v>
+
+00:03:43.050 --> 00:04:12.820
+<v Speaker 1>losing. You know, multiple permanence of turn is just something that you don't rebound from that really tends to, you know, that it really sort of started winning and just kept winning more and more. But anyway, but our problem was we were doing play testing. We had a common creature that had, I think it was a 7/7 or 8/8 and had annihilate on it. And I don't remember now 192. But the point was we had this giant common creature that we wanted you to attack with because</v>
+
+00:04:13.050 --> 00:04:43.490
+<v Speaker 1>so draws the like you were supposed to attack with the Eldrazi. But what we found in play testing is when we play tested with less experienced players, they just got scared. They it took them a while to get out this giant Eldrazi. They finally got it out. And the last thing they want is anything that happened to it. So they weren't attacking with it. And the problem we had is like we knew the ability was powerful. We knew that once you sort of attacked with it and saw how awesome it was, you would attack. But how do you get by that first barrier?</v>
+
+00:04:43.580 --> 00:04:47.830
+<v Speaker 1>How do we get people to attack with it when they've got instinct is, oh, I don't want to put my creature at risk.</v>
+
+00:04:49.600 --> 00:05:19.450
+<v Speaker 1>And so we had a lot of, you know, trying to figure out how exactly to do that. How do we get some major attack with the creature? And finally, the solution that I came up with was what if we just write must attack this creature must attack Avabel or attacks evil. I think the template this creature attacks available attacks every turn available. What we did is if we gave you in our draws and just force your hand, you had to attack with it. Well, then the player like, OK, there's no pressure on them. There's no tension,</v>
+
+00:05:19.540 --> 00:05:43.740
+<v Speaker 1>like that's just what the creature did. I have no choice. If I play the creature, it's got to attack. And then once they attacked with that creature, they started to see the value of attacking with Podraza. And so by making one common creature just mandatory that like, how do we make sure you attack with it? We just force your hand. We forced you to attack with. It was enough to sort of tip the scales and start teaching people about the Eldrazi.</v>
+
+00:05:45.190 --> 00:05:51.980
+<v Speaker 1>And The funny thing is we went through all sort of subtle things and in the end, so</v>
+
+00:05:53.240 --> 00:06:09.690
+<v Speaker 1>there's a story, uh, what's the name of the story? It's a famous Greek story, I think, where I'm blanking on the name of it, but there is a wise soldier or something. And who was it? Was it like,</v>
+
+00:06:10.510 --> 00:06:12.650
+<v Speaker 1>was it David? King David,</v>
+
+00:06:13.320 --> 00:06:39.190
+<v Speaker 1>King Solomon, one of the wise kings of of age-old. They come and there's this knot, there's this super like, I know, very intricate knot made out of like giant string. And there's not is the whole thing is like feet in diameter, 56 feet in diameter because of all the all the interweaving and it's just really complex. Not</v>
+
+00:06:40.680 --> 00:06:52.680
+<v Speaker 1>ohh. Maybe it was Alexander. I think it was Alexander's story. But anyway, there's some omen or something that says that, you know, in order to take the village, you have to untie this knot.</v>
+
+00:06:54.240 --> 00:06:59.580
+<v Speaker 1>And So what he does is the solution is he just takes his sword and he chops it in half.</v>
+
+00:07:01.300 --> 00:07:08.870
+<v Speaker 1>And this was kind of a solution here is like, sometimes you just need a straight blunt answer. You know, there's another classic</v>
+
+00:07:10.670 --> 00:07:19.100
+<v Speaker 1>I used to make magic puzzles, and I made a magic puzzle once where I made this very elaborate setup.</v>
+
+00:07:19.810 --> 00:07:22.380
+<v Speaker 1>Ah, and then I gave you a lightning bolt</v>
+
+00:07:23.080 --> 00:07:48.110
+<v Speaker 1>and you know, there's all these different things and different creatures you can kill and different triggers when the creatures and like all this stuff. But your opponent was at three life and you had a lightning bolt which does 3 damage. So the idea was, it was just this idea that, yeah, you can look and maybe there's an elaborate complicated answer, but you know what? There was a simple answer. Just bolt your opponent. The board didn't matter.</v>
+
+00:07:49.540 --> 00:08:10.590
+<v Speaker 1>And and that was me playing with expectations of puzzles where like you had this expectation that there is this really ornate answer, which normally there was. I just wanted to make a point sometimes that hey, sometimes the answer is direct and simple. So we get to today's lesson. Don't be afraid to be blunt. And I think part of this is</v>
+
+00:08:11.420 --> 00:08:31.100
+<v Speaker 1>when you are an artist, when you are, when you are a creator, you are taught that subtlety is important. You are taught to show, don't tell. You know that you're supposed to, you know, don't be so obvious about what you're doing that you want some subtlety built into it.</v>
+
+00:08:32.630 --> 00:08:44.740
+<v Speaker 1>And a lot of times that's good. You know, a lot of times you want to be subtle. I think stories are better when you sort of have to piece some things out that everything in spoon fed to you. But</v>
+
+00:08:46.080 --> 00:08:57.390
+<v Speaker 1>the the point of today is that I think sometimes in all the lessons of subtlety, in all the lessons of sort of not hitting somebody over the head that you missed that that's a tool.</v>
+
+00:08:58.050 --> 00:09:27.400
+<v Speaker 1>And that's kind of the theme of today's podcast is not that you should always be blunt, not that bluntness is something that's supposed to be used even the majority of the time, but that it's a tool. It is something that you can use. And that too often I think people are worried that if they're blunt, that somehow they're not doing their job or they're not being is artistic as they could be. There's a concert. Like, I don't think that</v>
+
+00:09:29.300 --> 00:09:35.270
+<v Speaker 1>I think a lot of today's left, I mean, different lessons come from different places. I think, you know.</v>
+
+00:09:36.360 --> 00:09:42.610
+<v Speaker 1>So one of my favorite books have you guys don't know this already is a book on creative thinking called A Whack on the Side of the Head by Roger Vanek.</v>
+
+00:09:43.990 --> 00:09:45.940
+<v Speaker 1>Doctor Roger Bennett. He have PhD</v>
+
+00:09:47.470 --> 00:10:14.200
+<v Speaker 1>and one of the things he points out all the time is that one of the things the books about creativity and about the the premise of the book is anybody can be creative. The reason you're not creative is not a lack of the ability to be creative, but the fact that you sort of censor yourself that you create rules that you then won't break. And then a lot of creativity is recognizing your own rules and figuring out when it's OK to break them.</v>
+
+00:10:14.950 --> 00:10:44.940
+<v Speaker 1>And I think the subtlety rule is another one of these rules that you're sort of taught of, ohh, don't be blunt, don't be blunt, don't be blunt. And what you sort of gets glossed over is no, no, no, no, don't always be blunt. You know, it's very easy when you're starting out to just want to be blunt. And I know, for example, I had a class in dialogue. I love dialogue. And I took a class all about dialogue. And what the teacher said was part of what you're doing</v>
+
+00:10:45.010 --> 00:10:54.110
+<v Speaker 1>and dialogue, writing dialogue, is you are trying to a, capture how people speak so it sounds like natural speech and B,</v>
+
+00:10:54.830 --> 00:11:02.700
+<v Speaker 1>you know, people convey information differently. You know, there's a way by which people can get information, and you should understand it.</v>
+
+00:11:04.510 --> 00:11:17.600
+<v Speaker 1>And what you're saying is that often people don't come out and say what they think, you know? And a lot of dialogue writing is figuring out how to say something without always just saying it.</v>
+
+00:11:19.200 --> 00:11:33.140
+<v Speaker 1>And so and I think the same thing is true for any art form. I'm even in game design that part of I talk a lot about what games are are sort of you're mentally challenging the</v>
+
+00:11:34.220 --> 00:11:42.430
+<v Speaker 1>the game player that you're trying to you know, things aren't always what they seem and you have to figure out interesting ways to interact and can you figure out</v>
+
+00:11:43.520 --> 00:11:56.360
+<v Speaker 1>you get to the goal within the rule system in a way that might not be the normal way to do it. So in games there's a lot of pushing people to want to be unorthodox and how they function. And so from that is</v>
+
+00:11:57.000 --> 00:12:00.360
+<v Speaker 1>this cloud messaging of you don't want to be too obvious.</v>
+
+00:12:02.810 --> 00:12:14.720
+<v Speaker 1>So let me talk to some examples where we try to be a little less obvious in magic and some problems that we got into. So for example, Mercadian Masks was a set we made many years ago.</v>
+
+00:12:15.660 --> 00:12:45.940
+<v Speaker 1>Mike Elliott was a lead designer of the AD and Mike came up with a couple of mechanics. The two main mechanics of the set, one was called spell shapers and spell shapers were creatures that you could essentially the flavor was you could turn cards in your hand into a particular spell. So for example, let's waterfront Waterfront Bouncer, for example, could turn any spell in your hand into an unsummon. So basically you spent you spent blue tap and discard a card and now you can summon a creature.</v>
+
+00:12:46.790 --> 00:12:52.830
+<v Speaker 1>And so the idea essentially is the card said, Oh, well, I can turn any card in your hand into this card at this sort of flavor.</v>
+
+00:12:54.200 --> 00:13:11.440
+<v Speaker 1>But the we ended up using a creature type form. They're all spell shapers. But that was the way we signified them. We didn't mark it anyway. We didn't say we didn't give it an ability word or anything. We just they could do that. And they all did a similar thing. They all were fellow shippers.</v>
+
+00:13:12.090 --> 00:13:13.740
+<v Speaker 1>Then he also had mechanic</v>
+
+00:13:15.620 --> 00:13:45.610
+<v Speaker 1>recruiting them. Show what I called it didn't have official name. Not part of the problem. And there were rebels and they were mercenaries. Rebels were white, mercenaries were black. What rebels did is the one drop rebel got to the two drop rebel got you the three drop rebel and immersed in the mercenaries. The three drop mercenary got you the 2 dot mercenary got you the one drop mercenary. So white went up, black went down. For those that aren't familiar with Mercadian masks, up is better than down. The rebels ended up being very, very strong. Mercenaries, not so much.</v>
+
+00:13:46.350 --> 00:14:10.240
+<v Speaker 1>So we had two mechanics. We had, you know, these were legit mechanics. They were a whole bunch of cards. They did something new. But for the spell shapers, we just connected them through a creature type and through the rebels, and the mercenaries we connect them through a creature type. So the set had spell shapers and the set had rebels and mercenaries, but there was nothing to sort of call out the mechanics.</v>
+
+00:14:10.990 --> 00:14:38.020
+<v Speaker 1>But I mean, they were there. I mean, they were and they were loudly there. They it wasn't, they were quiet. There were a lot of fellow shapers. There was a decent amount of bubbles and mercenaries. It was definitely something significant in the deck. And the rebels and mercenaries, even they were linear. They called out, you don't want to play one rebel or mercenary, whole bunch of rebels or mercenary. So seeing one made you go look for others. Yet when the set came out, the number one complaint I got was why do you guys make any new mechanics?</v>
+
+00:14:39.090 --> 00:14:51.930
+<v Speaker 1>And at first I was like, OK, I guys that there's new mechanics and at first, you know, like I have boy, girl twins. And so when they were born</v>
+
+00:14:53.310 --> 00:15:00.710
+<v Speaker 1>and we'd be, we'd have a stroller and we'd be Wheeling them around and,</v>
+
+00:15:01.410 --> 00:15:11.800
+<v Speaker 1>you know, so people would come up to us and they go, ohh, are those twins? And we go, yes, this is Adam, our son Adam, and this is our daughter Sarah. And then they go, are they identical</v>
+
+00:15:12.730 --> 00:15:27.710
+<v Speaker 1>now? I was taking the back of the time because I'm like, well, they're ones a boy and 1 is a girl. That can't be identical. You know, identical means you have the same genes. You know it's split. So you know, you have the same genetic makeup. So you have to be the same sex to be an identical twin.</v>
+
+00:15:29.120 --> 00:15:47.900
+<v Speaker 1>So the first time I heard it, I just my thought process was, oh, OK, that person was the little ignorant of what an identical twins is, but OK. And then it kept getting asked. And then finally, when someone sort of like, it just takes some amount of time before you realize that, oh, I don't think the average person necessarily knows when identical twin is or not. Not</v>
+
+00:15:48.690 --> 00:16:19.400
+<v Speaker 1>like you know, the difference between identical to when the fraternal twin for those that don't know or dichotomous. If you want to save your eternal, it has to do with whether there was 1 egg or two eggs. Do the egg two eggs get fertilized or to 1 egg get fertilized and split in two? And if you split in two, they're identical. The Gen. X are identical, they're identical twins, but they're two different eggs are two different eggs. I mean, they have the same parents, but they're two different eggs. So, you know, the siblings would look alike or siblings could look alike, but they could look radically different. And in the case of my children, they're different sexes.</v>
+
+00:16:19.700 --> 00:16:49.630
+<v Speaker 1>Um, so there's a dynamic that happened with McKay mass that also happened my twins, which is, I finally came to the realization of my twins that like, ohh, my goodness, a lot less people understand what identical twins means than I thought I understood it. I assumed everybody understood it. And I think we're getting masters a similar quality that I always assume that like, hey, I'm a game designer. I really can identify game mechanics really easily. But you know what, that's not something most people are necessarily good at. And</v>
+
+00:16:49.730 --> 00:17:19.710
+<v Speaker 1>when you don't label something that people can miss it. And that when we didn't label OHH, sell shaping or whatever we wanted to call it, you know, give it or give it a name. Actually, Spellshift didn't even do a great job of communicating the idea that these peddlers, they are all sort of St. peddlers, were selling you magic and that you could sort of use that magic to turn your cards into whatever that was. It wasn't particularly well conveyed. And like with the rebels and the mercenaries, if we had just recruiting</v>
+
+00:17:19.790 --> 00:17:20.630
+<v Speaker 1>something,</v>
+
+00:17:22.200 --> 00:17:52.670
+<v Speaker 1>but the lack of a keyword or ability word made people not see the connection. OK, so likewise, there's another example of that is in Urza's Destiny. So Urza's Saga had cycling. That was one of the mechanics. And so I was trying to do a tweak on cycling. So cycling is if the card is in your hand, you can discard the card, a pay to discard the card and draw a card. So I made these creatures that while on the battlefield, you could pay to sacrifice a creature and draw a card. So the idea is,</v>
+
+00:17:52.740 --> 00:18:08.420
+<v Speaker 1>ohh, it's cycling from play. Normally you get rid of the card in your hand. You pay too, man, to get rid of the card in your hand and you get a new card here. You man, you get rid of the creature in play. And the idea there was, oh, you could block with it and then sacrifice it so the creature remains blocked.</v>
+
+00:18:09.830 --> 00:18:19.230
+<v Speaker 1>Damage was on the stack of this point, so you can do damage on the stack tricks. But anyway, there was a bunch of different reasons why I might want to trade the permit I have in play for another card.</v>
+
+00:18:20.620 --> 00:18:50.790
+<v Speaker 1>And so anyway, I was really excited because I felt like, oh, this is a neat take on cycling, but I didn't label it. I didn't say that you get it. It's cycling. I didn't say cycling from play. I didn't do anything. I just did it. And my assumption was, oh, well, clearly you're spending two and cycling in or deciding all cost 2. You're spending two generic mana and you're getting rid of something, a card, and you're getting a replacement card.</v>
+
+00:18:50.950 --> 00:19:21.080
+<v Speaker 1>You know, it seemed really clear to me. And as I started explaining that every time I explain it mostly, and a few people got it, but most people are like, ohh, yeah, I didn't get that. And it happened again and again. And finally you're like, OK, people just people don't see you, the game designer, have a critical eye. Like one of the things that happens all the time in game design is we make a mechanic that structurally is similar to another mechanic but flavorful</v>
+
+00:19:21.160 --> 00:19:27.970
+<v Speaker 1>and gameplay wise is very different. But what happens is because we tend to look through the lens of the mechanics,</v>
+
+00:19:29.750 --> 00:19:36.640
+<v Speaker 1>things will seem really similar to us because we're like, well, that's, that's just this without the trapping. And what we've learned is</v>
+
+00:19:37.530 --> 00:19:59.120
+<v Speaker 1>that the public sees it in its final form. They see with all its flavor, they see it in its in its synergy with things around it. And that you can have two mechanics that kind of in a vacuum playing similar space, but you dress them up a little differently, have different flavor, put them in different environments and have different synergies and the audience doesn't see them as remotely similar. That that's something that we tend to do.</v>
+
+00:20:01.440 --> 00:20:20.070
+<v Speaker 1>Likewise, for example, this example doesn't just go to mechanics, but those were good. So let's talk about stories for cycling. So for a while we were trying to sort of not sort of spoil the story in the cards. So we sort of would like subtly hint at things, you know, So for example, in Pharos</v>
+
+00:20:21.480 --> 00:20:30.270
+<v Speaker 1>at the end of the story, Elizabeth. Spoilers here if you haven't the through story, but it's been a while. Ah, Elsa dies, dies at the hand of Heliod.</v>
+
+00:20:31.800 --> 00:20:50.060
+<v Speaker 1>But we didn't want to spoil the book. So like we, you know, the SEC was sort of like very vague on it. We weren't obvious about it. And So what happened was, I mean, we have a novel. If you read the novel, the novel told you what happened, or novella, I think, for tariffs. But</v>
+
+00:20:51.350 --> 00:21:00.180
+<v Speaker 1>what happened was we were subtle about it. We didn't. We weren't very blatant, especially in the card set that Elspeth died. And then what we learned was</v>
+
+00:21:00.870 --> 00:21:22.180
+<v Speaker 1>people just didn't understand that Elsa died, that we were just like, you know, that what we learned is when we sort of hold back on the story and we're not blunt on the story that people like, that's a pretty major thing that happened. The main character ended the story by dying and the majority of people didn't know it.</v>
+
+00:21:22.820 --> 00:21:32.390
+<v Speaker 1>You know, majority of people like it. When I would bring it up, people like. What do you mean? Well, yeah, she got killed by Heliod. What are you talking about? You know, and</v>
+
+00:21:33.660 --> 00:22:03.220
+<v Speaker 1>that really made us sort of rethink, I mean, a lot of the modern storytelling and I mean, obviously there's amounts of how blunt you want to be, but a lot of the things we try to do in our storytelling now is be a little more up front to make sure that people get at least the general, the idea is let's not be subtle and you getting the general gist of the story. Let's be subtle on some of the details. You know, it's not that like I, I want you to know that Chandra reunites with her mother.</v>
+
+00:22:03.680 --> 00:22:23.050
+<v Speaker 1>Hey, the subtle, what are the emotions she's feeling? Hey, go read the stories. But I want you to know that Shandra and mother, you know, they've got reunited. You know, we put it on a card and like, look, they got reunited. You know, it's a, it's a cathartic moment. They got reunited. You know that we we want to make sure that big moments and things that happen that you're aware of it.</v>
+
+00:22:24.780 --> 00:22:25.740
+<v Speaker 1>So that the</v>
+
+00:22:26.690 --> 00:22:30.970
+<v Speaker 1>a different way to think of this as we talked about today is that</v>
+
+00:22:32.090 --> 00:22:52.390
+<v Speaker 1>I'm so bring back the metaphor I had before. So you have a toolbox. You're one thing I'd like to say is you as an inventor, as a game designer, as a Craftsman of whatever, you have a bunch of tools available to you. And one of the things that I've learned over time is that what separates a good</v>
+
+00:22:53.410 --> 00:22:58.820
+<v Speaker 1>artists, game designer or whatever, from a great one often has to do with their tools.</v>
+
+00:22:59.690 --> 00:23:07.510
+<v Speaker 1>That what happens with somebody who's really good is, you know, And for example, one of the things I say is if you want to be a writer,</v>
+
+00:23:08.690 --> 00:23:35.480
+<v Speaker 1>we read. If you want to be a director, go see movies. You know, if you want to be a game designer, play games. And why is that so important? Because the more games you play, the more things you experience, the more tools that you learn, the more apt you are that. I mean, I think there are a bunch of things that define how good you get to become.</v>
+
+00:23:36.400 --> 00:24:06.480
+<v Speaker 1>One of those things is experience. You've tried things, you know, I'm saying like essentially, there's, there's three things I think that bring wisdom, if you will. One is experience and you've done it. Like one of the reasons I think I'm a pretty good Magic designer is I have done 21, almost 22 years of Magic design. I've been designing Magic cards continually for that long. That means I've made a lot of Magic cards. I've made thousands and thousands and thousands of</v>
+
+00:24:07.460 --> 00:24:18.190
+<v Speaker 1>in fact I've made thousands of Magic cards, have seen print and like I said, like one in 100 card seats print. So you know, if I've seen if I have thousands of cards, that's all print. That means I've designed</v>
+
+00:24:20.530 --> 00:24:50.760
+<v Speaker 1>hundreds of thousands, if not millions of cars. I've designed a lot of Magic cards. I've made a lot and lot of Magic cards, some of which were really bad, but the experience of making them taught me a lot. There's a lot that came from the know how of doing it #2 there is knowledge that part of what makes you better is you learn things. Part of the things, for example, when I am teaching other people is I have a great repository of knowledge in my head that comes from just doing the job for a long time.</v>
+
+00:24:51.000 --> 00:25:21.480
+<v Speaker 1>You know, when someone says let's try thing X, like, ohh, yeah, I've tried thing X. Here's what we learned. You know that I have a lot of lessons in my head. I mean, part of that is experience, and part of that is just I've learned things now they go hand in hand. Experience brings you knowledge. You know, another thing also is part of knowledge is just you've thought about things. I've made a lot of different sets that did a lot of different things that have made me think about magic and a lot of different ways. So I've learned a lot about magic. There's a lot of knowledge game,</v>
+
+00:25:21.550 --> 00:25:41.520
+<v Speaker 1>there's #2 knowledge #3 and this is what I'm talking about today is tools that one of the things that really makes you valuable is learning, whether it be little tricks, it be little means by which you can do things. Like one of the things, for example, I find when I'm teaching young designers or newer designers is</v>
+
+00:25:42.940 --> 00:26:12.970
+<v Speaker 1>there's a lot of stuff I've tried that has worked and I can share that. I can share sort of, hey, here's the thing that you can do, here's something that's available to you. And so if you want to get better, if you want to become a better game designer, those are the three things that you need to think about. You need to. So when I say experience, experience is make games, design games. The more games you've designed, the better you'll get at making games. You want to be a writer or write, you want to be an artist. Draw that. There's nothing</v>
+
+00:26:13.050 --> 00:26:18.200
+<v Speaker 1>knowing that nothing is going to replace the act of doing it and iterating and learning from it</v>
+
+00:26:18.860 --> 00:26:49.430
+<v Speaker 1>#2 like I said, you want to be a game designer, play games, read about games, study games. I know Richard Garfield, for example, not only does he play every game he get his hand on, he has studied the history of games. In fact, he's taught a class in the history of games. Like how exactly did chess come about? How did backgammon come about? How did checkers come about? You know, what are games that you know what, Mankala? There are games that have lasted thousands of years and there's testing. Thing is, chess as you know, it was not always chess. There are things that are in chess</v>
+
+00:26:49.500 --> 00:27:19.620
+<v Speaker 1>now that weren't always a given and their precursors to chess, Chinese chess and a lot of other chess variants that are similar but different. And when you sort of study and look and say, hey, how did this game evolve you? The game designers start to, oh, that is interesting. That's interesting. They did this. And so something that Richard has done and that I say to anybody is, hey, you want to be good at the thing you're good at. And it doesn't matter whether it's games or whatever, but study that thing,</v>
+
+00:27:20.160 --> 00:27:50.640
+<v Speaker 1>you know, I, for example, wanted a great TV shows. I watched a lot of TV. I really wanted to understand how things clicked and how they worked. And I was fascinated. I really, really like pilots. Pilots is the pilot is the first show of a series that introduces the characters and the premise of the series. And pilots are really hard to do because you have to both be the introductory and introduce everything while showing an example of what a sample episode would be like. And I really, really</v>
+
+00:27:50.730 --> 00:28:20.850
+<v Speaker 1>before I got this job, the thing I thought I wanted to do my life was make TV pilots. I really love the idea of crafting a world and making a world and then finding sort of how you introduce that world. And there's a point in time where I would watch every pilot I could get my hands on to. In fact, there's at the Writers Guild of America, which is a Guild I later joined when I became a professional writer. They have a library that anybody used, not just not just skilled members. And you can watch videos. And I went</v>
+
+00:28:20.930 --> 00:28:50.780
+<v Speaker 1>and then I watched every pilot I get my hand on to. And it didn't matter whether I was interested in the show or not. What I wanted to see I was particularly interested in. I watched both our long and sitcom. I was very interested in sitcom. But anyway, I watched both and like, how do you introduce stuff? How do you learn stuff? What are the tricks? And so I educated myself. I got a lot of knowledge. I also did a lot of writing and same game design. Before I worked for Wizards, I made a lot of games. I read about games.</v>
+
+00:28:50.940 --> 00:29:08.920
+<v Speaker 1>There weren't a lot of books about game design at the time, but I found the stuff I could. I read the stuff I could. I went to GAMMA is a convention, a game Manufacturers Association, and there were seminars and game design. When I took seminars and game design, I talked to professional people.</v>
+
+00:29:10.330 --> 00:29:40.660
+<v Speaker 1>I acquire all the knowledge it could. Third thing was tools. And what that is, is a in gathering the knowledge and playing other games and stuff. You know, like one of the most valuable things about playing other games is seeing how they do things, how they solve problems. Because and what I say is not just play the game, but think about how the game ticks. Think about what makes it work. What is the engine that drives the game? What what's the fun of the game? How does the game make you,</v>
+
+00:29:40.930 --> 00:29:49.410
+<v Speaker 1>you know, like all the lessons, all the other lessons I'm giving you through this series, like look at existing games and see how they do it. And</v>
+
+00:29:50.720 --> 00:30:20.050
+<v Speaker 1>usually games you can tell if they've lasted the test of time and play some of the classics and try to understand, OK, why did they do what they do, why they do this, why they do that? And it's also find something I like to do is say, hey, is there someplace, you know, some way? And we always play the original and understand the original and then go, hey, is there some way I could adapt it? Could I, could I take this game and add a few rules and maybe do something to the game that make the game more fun for me, you know, experiment with it. And so</v>
+
+00:30:21.130 --> 00:30:39.430
+<v Speaker 1>the reason that I, when I talk about bluntness is I believe bluntness is a very important tool that people are kind of trained not to use. And The funny thing is when you start out, it's one of the most popular tools you use. People, beginners are incredibly blunt. And what happens is,</v>
+
+00:30:41.820 --> 00:30:44.600
+<v Speaker 1>this is gonna sound a little weird, but you want to be</v>
+
+00:30:46.440 --> 00:31:09.480
+<v Speaker 1>not too blunt with your blunt brush. You want to figure out where you need to be blunt. So when I say don't be afraid to be blunt, I'm not saying that bluntness is the answer. I'm not saying that every problem is a nail, but I am saying that it's a hammer and that at times you'll have nails. And when you need to pound nails in, you know, a hammer is a good thing to have</v>
+
+00:31:11.060 --> 00:31:15.790
+<v Speaker 1>and it is really easy. So I did a podcast talking about</v>
+
+00:31:17.330 --> 00:31:46.880
+<v Speaker 1>don't do things to prove you can. A very common thing that I see people doing is they somehow poopoo the tools and go, oh, that's that's not the tool of a real artist. You know, a real artist is not blunt. So I will never use the blunt hammer. And what I find is when you get experience and you get knowledge, you start to realize that there are tools that you often write off early on that the tools that you're like,</v>
+
+00:31:47.310 --> 00:31:47.840
+<v Speaker 1>it's not</v>
+
+00:31:50.090 --> 00:32:13.350
+<v Speaker 1>when and how you are blunt is not something that should be done lightly. Interestingly, that I'm not saying to be blunt in how you use your bluntness, I'm saying use it carefully, that it is a surgeon's tool and you want to figure out the place to do it. So let me talk through the most common reasons why you might want to use the blood hammer.</v>
+
+00:32:14.290 --> 00:32:43.940
+<v Speaker 1>Number one is, and this is a good example from my razor razor story, is when you try things in your audience just isn't getting it when you try stuff. And when I say is it's fine to start from a subtle place. I have no problem saying, OK, let's not hit them over the head. Let's try to be a little subtle about it. But do play test watch. And This is why it's so important to play this with people that aren't you and your team. You need to play just with people that don't know your game and and ideally are emotionally invested in you</v>
+
+00:32:44.880 --> 00:32:53.760
+<v Speaker 1>because there are things that are obvious for you because you've been playing around with it that there's no way for you to see whether it's something people will understand or not.</v>
+
+00:32:54.750 --> 00:33:07.810
+<v Speaker 1>And so the reason plays are so important is that you need to constantly be testing to people get this. Does it make sense to them? Do they understand it? And so a common theme you will find in these kind of play tasks is players just miss something.</v>
+
+00:33:08.620 --> 00:33:09.210
+<v Speaker 1>And</v>
+
+00:33:10.130 --> 00:33:31.670
+<v Speaker 1>like my example with Mercadian Masks or Is This Destiny or even My Twins, it is so easy when somebody makes a mistake to just gloss it like, wow, that was a weird mistake. I wonder why they made that mistake. And then what you have to say is whenever anybody makes a mistake, you have to say, oh, could this be a mistake a lot of people would make?</v>
+
+00:33:32.370 --> 00:33:36.510
+<v Speaker 1>Um, and you can't use your value judgment, you know too much.</v>
+
+00:33:37.340 --> 00:33:50.600
+<v Speaker 1>Yes, I get the spell shaping is a mechanic and yes, I understand how the mechanic works. And yes, I understand the dynamics of what how you define mechanic. And under any definition, yeah, this is a mechanic. But people didn't see,</v>
+
+00:33:51.780 --> 00:34:12.170
+<v Speaker 1>you know, here's Destiny cycling from play. Look, there's so many reasons. There's so many parallels. Why obviously it is exactly. It's cycling from play. And if I said to somebody, hey, why don't you design a card that cycles from play, they would make the exact same card. But that is not. But the point is, they said that doesn't mean they see it,</v>
+
+00:34:12.830 --> 00:34:17.890
+<v Speaker 1>you know, being obvious or being sort of direct and how you do something doesn't mean people see it. So</v>
+
+00:34:18.590 --> 00:34:25.340
+<v Speaker 1>number one tool for bluntness is when people aren't seeing something. Sometimes what that means is you got to put it in the face</v>
+
+00:34:25.980 --> 00:34:26.430
+<v Speaker 1>that</v>
+
+00:34:27.080 --> 00:34:35.880
+<v Speaker 1>you know you don't want your audience just missing things, so it's OK when you test and iterate and they're not seeing things. It's OK to use it.</v>
+
+00:34:36.720 --> 00:34:47.040
+<v Speaker 1>Um, the other reason you might want to use the blunt hammer is sometimes misdirection that sometimes what you want is like I used to do magic as a kid, like actual participation,</v>
+
+00:34:48.430 --> 00:35:18.540
+<v Speaker 1>magistrates missing my word. I want, you know, making a pull a rabbit out of hat and stuff. And one of the things that I learned in that is a lot of the tricks of magic is sort of pulling focus is making people pay attention to your left hand when your right hand is doing something. And a lot of the tricks I learned there was that you want to make sure people are looking in the wrong place. So bluntness sometimes is a great way to make people look in the wrong place. So sometimes when you</v>
+
+00:35:18.610 --> 00:35:22.390
+<v Speaker 1>wanna mislead, bluntness can be a tool to help people mislead.</v>
+
+00:35:23.300 --> 00:35:24.960
+<v Speaker 1>Another thing is</v>
+
+00:35:25.700 --> 00:35:48.910
+<v Speaker 1>when you have a sequential issue, when you need to build on something, sometimes you need to be blunt, not because people want to eventually figure it out, but they need to figure out really fast because there's things that build upon it that if they don't understand that fast, they won't build upon it. So sometimes bluntness is just for ordering to make people do things in a certain order that the things you need to find the earliest are the bluntest with.</v>
+
+00:35:50.620 --> 00:35:53.340
+<v Speaker 1>And so you know that that is the,</v>
+
+00:35:55.690 --> 00:36:12.410
+<v Speaker 1>you know, like I said, there's a lot of ways to use the bluntness hammer. There's a lot of different tools you can use it with. And like I said, it runs the spectrum from your audience isn't getting something to you're using it as a means to make people focus on it for some reason of how you're doing your design.</v>
+
+00:36:13.090 --> 00:36:13.690
+<v Speaker 1>Um,</v>
+
+00:36:14.370 --> 00:36:20.090
+<v Speaker 1>and you know, the walkway, I'm almost to school today. The walk away today is that</v>
+
+00:36:21.630 --> 00:36:26.930
+<v Speaker 1>you need to make sure that you have every tool available to you. You want a full toolbox</v>
+
+00:36:27.660 --> 00:36:53.870
+<v Speaker 1>and the reason this one got called out for a specific lesson, There's lots of tools and if you, for example, I read a bunch of nuts and bolts articles, right, talk about how to make magic sets. And in there I talked about all sorts of tools like the design skeleton, for example, is a tool that we use in machine design to sort of plot out what we're going to do. And a lot of when I teach people, I like to teach people the tools. The reason I bring this one on, the reason this had a whole lesson to it is,</v>
+
+00:36:54.690 --> 00:37:23.610
+<v Speaker 1>um, I'm fighting something. There are lessons you learned early on in any sort of creative endeavor that you later must unlearn. Like one of the things, for example, when I was a writer is in school, they really pull a lot of common speech out of you that you're taught to write really formally when you're taught writing. And then one of the things that you start to study communications is going, oh, oh, oh, these things you learned early on actually aren't 100% true.</v>
+
+00:37:25.020 --> 00:37:53.870
+<v Speaker 1>That a lot of good communication is being more casual and how you present things. Same with math. There are certain math concepts that they just teach you like this is just true and you have to hire manage to go, well, it's not completely true. And the reason is early on, sometimes you need to learn things and then unlearn them later on. And I think the bluntness rule is one of those things that when you're first starting out, because beginners are so blunt, that you are taught to sort of not be so blunt.</v>
+
+00:37:54.400 --> 00:38:03.350
+<v Speaker 1>And so this is an advanced lesson that says, OK, one of the first things you learn is don't be so blunt. And now what I'm saying is, wait, wait a minute.</v>
+
+00:38:04.230 --> 00:38:11.540
+<v Speaker 1>Blindness is a tool. You can use that tool. Figure out when and where and how to use it, use it effectively, use it to</v>
+
+00:38:12.210 --> 00:38:42.420
+<v Speaker 1>use it on purpose. But you know, be very careful with learning how you use it, but don't throw it away. Don't abandon the tool. It's an important and valuable tool and there are just times when you need to convey the things you need to convey or your people are just players are getting it or whatever. You know you have some reason that you need eyeballs on something and it's a great tool to get the eyeballs there. It is OK in the right place at the right time to force your players hand.</v>
+
+00:38:43.300 --> 00:39:00.040
+<v Speaker 1>And that my friends is lesson #14 don't be afraid to be blunt. But anyway, I'm here at Rachel's school so we all know that means we mean this is the end of my drive to work. So instead of talking magic, it's time for me to be making magic. I'll see you guys next time. Bye bye.</v>
+

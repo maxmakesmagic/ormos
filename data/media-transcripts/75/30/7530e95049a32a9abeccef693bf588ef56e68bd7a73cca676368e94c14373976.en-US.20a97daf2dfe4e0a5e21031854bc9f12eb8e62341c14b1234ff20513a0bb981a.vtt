@@ -1,0 +1,290 @@
+WEBVTT
+
+00:00:00.840 --> 00:00:30.580
+<v Speaker 1>I'm pulling out of the parking lot. We all know what that means. It's time for another drive to work and I dropped my daughter off at her college class. OK, so today I'm going to talk about a big change. Not something up front, but a change behind the scenes. I recently wrote an article about this, but I wanted to go in more detail in a podcast lets me talk a little more than my columns do. So basically I'm going to talk all about vision</v>
+
+00:00:30.650 --> 00:01:01.210
+<v Speaker 1>design, sector design and play design. What is that you say? Well, I'm glad you glad you joined me today. OK. But before I talk about what is what things are becoming, let's go back, talk about what things were. So let's go back, I don't know, 3-4 years. So here's how the system used to work. So prior to the changeover, So we had metamorphosis 1.0 and metamorphosis is 2.0. Metamorphis is 1.0 was the change from large, small, small core,</v>
+
+00:01:01.330 --> 00:01:31.220
+<v Speaker 1>a large, small, large, small. So going to two worlds a year instead of one or two blocks a year instead of 1 and getting rid of the course at and then metamorphism is 2.0 was going from large, small, large, small to going to large, large, large core. I'll get to that. These changes have a lot to do with what's going on behind the scenes, but we'll get there. But anyway, we'll start before any of those apps, before metamorphosis is 1.0 happens. So here's how the system used to work. About 3 1/2 years before something would Sprint.</v>
+
+00:01:31.610 --> 00:01:59.220
+<v Speaker 1>We would spend about a year doing exploratory design. So exploratory design back then was very low key. We meet once a week. It was just the idea of exploratory design. I did a whole podcast on this is we're trying to map out where a set is going, what are the possibilities, what are the problems, what are the challenges. And so exploratory design is not trying to make a card file, it is just trying to explore space so that we get to vision. We have a sense of the space we're playing in.</v>
+
+00:01:59.980 --> 00:02:00.550
+<v Speaker 1>Um,</v>
+
+00:02:01.300 --> 00:02:32.580
+<v Speaker 1>and so we would spend about a year doing exploratory design. Then we'd spend about a year, we spent a year, 12 months doing design and that would start from a blank page. We make a file, We'd figure out what was going on with the, that's about, we make mechanics and we make cards. All the cards, the comment, the uncommons, the rares, mythic rares that when we hand it over to development, we would have a full file. I mean, everything we worked out, we would try to have cycles, but we were making an honest attempt when we handed over the file.</v>
+
+00:02:32.690 --> 00:02:47.750
+<v Speaker 1>They have a, a working file. Not that there wouldn't be changes, obviously development is going to come in and change things, but we were trying to, when we handed over from design, it was complete. You know, if you had to send it to print for the next day, it was a full set, had all the components in it.</v>
+
+00:02:49.460 --> 00:02:55.490
+<v Speaker 1>And then what would happen is development would spend nine months, I believe, maybe slightly longer</v>
+
+00:02:57.350 --> 00:03:27.820
+<v Speaker 1>doing the fine tuning. And development has always been a second set of eyes. They and there's a lot of things that development cared about that design didn't worry about balancing of the cards costing larger formatting stuff. I mean, they would then sort of be the second set of eyes and pound the thing into shape that they needed to do and whatever they needed to change, they would change If they had to change mechanics. I mean, they would change cards all the time, but sometimes they would change mechanics, sometimes they would change sometimes small things. Usually not the major</v>
+
+00:03:27.890 --> 00:03:42.600
+<v Speaker 1>theme, but they might change out small components of it that clearly would change maybe what certain colors were drafting and stuff, But development would then go through it. They would spend 9:00-ish months and then it went to</v>
+
+00:03:43.780 --> 00:03:53.410
+<v Speaker 1>people out, you know outside of R&amp;D mean well I went to editing first inside of R&amp;D and then caps and all sorts of people that had actually make the cards make them happen.</v>
+
+00:03:54.930 --> 00:03:55.550
+<v Speaker 1>And</v>
+
+00:03:56.500 --> 00:04:04.230
+<v Speaker 1>that system was a system that we had had I mean exploratory design was relatively new and within the last five years or so. But</v>
+
+00:04:05.710 --> 00:04:15.290
+<v Speaker 1>we are the design and development process goes all the way back to the very, very beginning. When I walked in the doors back in 95, that would just the way things were.</v>
+
+00:04:15.990 --> 00:04:25.490
+<v Speaker 1>Umm. So one of the things that's interesting is Eric Lauer, who is my sort of eyelid design. He led development Eric</v>
+
+00:04:26.210 --> 00:04:39.240
+<v Speaker 1>Erica has this really interesting Mac to ask questions about things that are just established things and going hey, why, why this? So one day Eric came to me and he said</v>
+
+00:04:40.800 --> 00:04:42.880
+<v Speaker 1>he was very curious about</v>
+
+00:04:44.000 --> 00:04:45.340
+<v Speaker 1>the handoff.</v>
+
+00:04:46.460 --> 00:05:06.440
+<v Speaker 1>Ohh. So actually let me, let me I'm jumping a little bit ahead chronologically. So what had happened was Metamorphosis 1.0 would come along. We had changed from large, small, small core to large, small, large, small. We had done with the core set and we had said instead of having one long block a year, we'd have two blocks that were slightly shorter.</v>
+
+00:05:07.910 --> 00:05:26.300
+<v Speaker 1>And one of the problems that I was trying to deal with is normally under the old system, I would work on the large set, I would sort of map things out and then other people would run the small sets. But I, you know, as the designer would sort of I pre mapped things out so that each of the small sets hadn't identity they understood what they were doing.</v>
+
+00:05:27.610 --> 00:05:30.870
+<v Speaker 1>But under this new version, under Metamorphosis 1.0,</v>
+
+00:05:32.300 --> 00:05:52.500
+<v Speaker 1>there were now 2 worlds a year and I wasn't quite sure how to handle. So the first year we were going to returning to two worlds, going to seminar and going back to Innistrad. So I'm like, OK, at least those worlds are somewhat defined. I worked extra hard during exploratory design to make sure that we sort of define what was going on. But there were known worlds. We've been there before,</v>
+
+00:05:53.620 --> 00:06:02.960
+<v Speaker 1>but then we had three worlds in a row that we've never been to before. I mean, Kaladesh, we had had a glimpse in Origins, but really never been there for a full set.</v>
+
+00:06:04.020 --> 00:06:28.110
+<v Speaker 1>I'm a cat in Excellon. And So what I ended up doing was I did this thing where for six months I Co designed with somebody. I Co designed with Sean Main for Cowfish, with Eastern Fleischer for Almond Cat and with Ken Nagle for Echelon. And the way it would work was so vision, sorry, design is broken up into three components, vision, integration and refinement.</v>
+
+00:06:29.620 --> 00:06:59.070
+<v Speaker 1>Those are usually vision would take about 6 months and then integration, refinement would take about 3 months each. I think about article right once said there were 444, but really I think that wasn't true. I think we spent more time on vision. The one thing about when we all did it together when one person was overseeing it is you could go from village to integration or integration refinement whenever you are ready for it. We have some general guidelines. So we had a sense of where we wanted to be,</v>
+
+00:06:59.710 --> 00:07:06.580
+<v Speaker 1>but because you were doing the whole process, you could shift whenever you wanted to shift as long as at the end of the 12 months you had what you needed.</v>
+
+00:07:07.930 --> 00:07:38.210
+<v Speaker 1>They tended to like to stay in vision a little longer because I wanted to sort of figure out what was going on and spend a little more time sort of getting the essence of it. So basically what happened was we now moved to the system where we had two worlds a year. I really wanted to make sure that I can get in and help define the world so that people could do the design. So what I did was I Co designed and the first six months was essentially was vision. I would lead the set well, if my code designer there, Sean was there for Kaladesh and likewise.</v>
+
+00:07:38.830 --> 00:08:08.200
+<v Speaker 1>And then at six months when we started integration, I would hand over the range to my Co designer and well, I would still be on the team. I would let them run things and that I did that for Cowardice and Almond Cat and Exelon. So that's important to set up that I started creating a system to sort of deal with the new thing. So that's important because that's key to the story. I wanted to bring that up. OK, so error comes to me one day and he says he goes, OK, he goes.</v>
+
+00:08:08.310 --> 00:08:28.490
+<v Speaker 1>I would like the system of of two sets of eyes. I like that one person starts on it, they get invested, they do a lot of work. And then it passes to a second person who gets the start with a, you know, a brand new set of eyes. You know, a fresh set, a fresh, fresh impression that they get is sort of look at it without any of the biases of the person who came before them.</v>
+
+00:08:29.290 --> 00:08:52.060
+<v Speaker 1>And he, he said that he thought that process was really, really good, that it allowed us to make one of the secrets of magic success was that process. But he said to me, he goes, the thing I'm curious about is right now design goes for about a year and then there's a handoff for development that goes about nine months. Why is that the handoff? Why is that the point when it happens</v>
+
+00:08:53.760 --> 00:09:22.400
+<v Speaker 1>and the reason Eric had asked that Let me go a little give a little background on what was going on on development is the way it worked was designed to hand over a file and the development very shortly into development, development would have to make decisions on art, for example, that they'd have to commit to some numbers of piece of art. And once you have art for a card, it's such locking down with the card can do. I mean you have some flexibility. I mean, once you have it doesn't mean you can't change the card at all, but it does start</v>
+
+00:09:23.250 --> 00:09:53.070
+<v Speaker 1>forcing your hand on certain things. The trickiest 1 is creatures, they're flying in their art. So once you say they're flying, it's hard to make them not flying anymore. And there's a little bit of swapping. You could do it, there's a little bit of flexibility, but as you start sort of assigning things and locking things down, you start constraining what choices you can make. So one of the things we have done many years ago is we started this process called Divine where at the last two months of a large set and one month of a small set, the lead developer</v>
+
+00:09:53.150 --> 00:10:04.810
+<v Speaker 1>and come and give notes to the lead designer saying hey, I'm going to be taking the set over soon. Here are concerns I have giving the designer time to sort of adjust to those concerns.</v>
+
+00:10:07.230 --> 00:10:25.300
+<v Speaker 1>And some people went even further, like Dave Humphries has had a tradition of being on the design team. So you could see it from the beginning. Eric a lot of times would poke his head in earlier than divine to give comments that more and more what we realize is as the technology of development got better and better and better,</v>
+
+00:10:26.700 --> 00:10:38.870
+<v Speaker 1>there would be decisions that would need to be made early and earlier to sort of make sure that we were making the right thing. And so development started getting involved early in the process. So Eric was asking was he goes why</v>
+
+00:10:39.670 --> 00:11:08.960
+<v Speaker 1>I understand we have a hand off at this particular point, why is that the handoff? So what I did is I went back and did a little bit of investigation of how the process started. So here's what I learned is in the early days prior to Tempest. So Tempest was the first set I did. Tempest was also the first set designed internally. Now technically by the way, whether light came out before Tempest and he was designed internally, but large sets take longer than a small set. So we started working on Tempest before they started working on the little trivia for you.</v>
+
+00:11:09.980 --> 00:11:39.930
+<v Speaker 1>Prior to that, all design work was done external to the building. If you guys know early magic, a lot of the early designs were done by the playtesters, the East Coast playtesters, which were one of the playtesters with Richard Scapulae, Jim Lynn, Dave Petty, Chris Page. They did antiquities, they did Fallen Empires, they did Ice Age, they did alliances. Well, I called the chess club, which was the play testers that Richard met through the bridge,</v>
+
+00:11:40.000 --> 00:11:56.450
+<v Speaker 1>time inside the bridge that just about bridge club, the bridge club, people he met for the bridge club, that was like Bill Rose, Joel Mick, Charlie Catino, Howard Kleinberg, Don Felice, Elliott Siegel. Those were the people that made Mirage envisions</v>
+
+00:11:59.500 --> 00:12:00.630
+<v Speaker 1>also</v>
+
+00:12:02.020 --> 00:12:27.330
+<v Speaker 1>very Rich, who made spectral Chaos, which was an element that we used to make Invasion. Although that would be that would be a little bit later after this point. Also Peter and Gordon, some people that he knew. Steve Connard was a friend of his. That they had done a lot of role-playing together. Legends was based on a lot of the characters from their role-playing. Yes, Premier Force who was the 1st art director did the Dark</v>
+
+00:12:30.110 --> 00:12:54.340
+<v Speaker 1>Kyle and Scooter which were two people working in. Well Kyle is working in customer service and Scooter was in at the time called continuity. What we now call on the creative team did homelands. So there were a lot of people that did sets in fact up through Tempest and Weatherlight before, before Weatherlight chronologically every set had been done by an outside. Someone outside had done the set. And so</v>
+
+00:12:55.730 --> 00:13:26.360
+<v Speaker 1>the reason that the system was set up is here's how the system originally worked. The people designing the set made a set. They weren't they weren't there was number handoff to them. They were just making a set. That's what they were doing. They were creating and they Tamah, we made a sad and then what happened was there R&amp;D would then look it over because you know, a lot of the external people didn't know all the all the INS and outs what's going on. They didn't necessarily know what was coming before, after it. They didn't necessarily know about</v>
+
+00:13:26.470 --> 00:13:30.030
+<v Speaker 1>formats like Standard. You know, they were just making a set in a vacuum.</v>
+
+00:13:31.280 --> 00:14:01.220
+<v Speaker 1>And also when they were making their sets every, in the early days, every Magic set was innovating. You know, every set was doing something had been done before. So a lot of times once that would do something, the other set which was being designed in isolation had no idea the step before had just introduced something. Like for example, Legends introduced multi color cards. There's like 3 multi color cards in the dark. But I think development added those in because I don't think when Yeshua was making it, he knew there were multi color cards. He didn't know that Legends had multi color cars.</v>
+
+00:14:01.320 --> 00:14:22.780
+<v Speaker 1>I'm not 100% sure on that one. Maybe he knew and added them. But but, but the point was another reason for development was there just was modern technology that had been learned along the way that's being applied. So the original handoff was we're designing something, we are making a complete and final package. That's what we're doing. And the development was the second set of eyes to come in and kind of prove it.</v>
+
+00:14:24.160 --> 00:14:55.500
+<v Speaker 1>You know, in the early days, there was a lot more kind of like the author writes a book and then the editor proofreads the book and makes changes to fix the book. But what had happened over the years was it became more of a collaborative process that when I was designing something, I wasn't designing the end product. I was designing something that would be a good starting point for development to work on that I was making something. You know, there always was this process where I was designing something for the next step in the process.</v>
+
+00:14:55.730 --> 00:15:25.660
+<v Speaker 1>I wasn't designing something ignorant of that. I was actually trying to design stuff that encouraged that. So really what we were doing with the design development had changed over time, but yet the handoff was based upon the premise of the designers were just making the whole thing. And really that wasn't the place we'd been at. And the more we had learned technology and the more we had done development, the more we realized that earlier and earlier in the process as we were defining mechanics, the more that the tournament seen it mattered how things were done. And so</v>
+
+00:15:26.810 --> 00:15:27.820
+<v Speaker 1>Arab, sorry, sad</v>
+
+00:15:30.410 --> 00:15:54.410
+<v Speaker 1>I don't we might be doing this at the wrong time. So meanwhile, take that and combine it with the fact that I was realizing that essentially in order to get this stuff done, I was sort of we're sort of making a three-step process. I was leading something, then my Co designer was leading something, then the developer was leading something and we realized that maybe that was one step too many.</v>
+
+00:15:55.660 --> 00:16:00.020
+<v Speaker 1>And at the time six months. What I realized was</v>
+
+00:16:00.860 --> 00:16:15.480
+<v Speaker 1>the error that I was doing the most important work was in the visionary. I mean, not that my integration refinement wasn't decent, but that was not where the the most important work was. There's a blank piece of paper. What is it? What is this that you know</v>
+
+00:16:16.500 --> 00:16:25.510
+<v Speaker 1>and I'll give you a slide, an example. When Epsilon started, the very, very first sort of world idea of Exelon was A2 sided conflict between,</v>
+
+00:16:26.910 --> 00:16:35.540
+<v Speaker 1>you know, the natives of the continent, Epsilon, and these outsiders, the vampires that were invading. And it was this two sided conflict. And</v>
+
+00:16:36.980 --> 00:17:07.190
+<v Speaker 1>you know, so when we started, it was this very different thing. And a lot of what vision was is trying to figure out of realizing, OK, we had done too many two sided conflicts and nearby we wanted we change. First we tried a three sided conflict, got the pirates brought in. Then we tried A4 sided conflict and ended up getting the dinosaurs in, you know, and then as we started realizing that what we were making was a tribal set, that The thing is, you know, we were introducing 2 really new exciting things, which were dinosaurs and pirates. And they were very tribal. The vampires, which had the strong new</v>
+
+00:17:07.260 --> 00:17:27.400
+<v Speaker 1>identity, we're tribal. We introduced the merfolk and we realized that we were making was a tribal SAD and not just any tribal set and an asymmetric tribal set in which two of the tribes were having a higher profile because they were the new exciting new things. And so it started as sort of this interesting world,</v>
+
+00:17:28.700 --> 00:17:47.580
+<v Speaker 1>world Prime Minister was very much based on this, this two sided conflict. And by the time it came out of vision, it had been shaped into something that's a little more of a dynamic magic set. It still had a really cool creative to it, but it had a sort of mechanical Sheen added that gave it sort of a definition. That's a lot of what vision does.</v>
+
+00:17:49.640 --> 00:18:20.190
+<v Speaker 1>And so anyway, so the idea was, OK, what if we shift so instead of doing design? So another important thing, something that we changed many years ago, if you look at the actual credits, we don't use designer development in the credits. We call it design initial design and we call development final design. And the reason we do that is one of the things that we did is we looked at game industry around us and realized that the terms we use were not synonymous with how the terms are used at other companies. So for example,</v>
+
+00:18:20.290 --> 00:18:43.120
+<v Speaker 1>while we called it development, what they were doing was really designed by the terms of what anybody else was doing. And so we started calling it initial and final design in the credits externally. So when somebody who used to do development went to get another job, they're like, no, no, I'm a designer. Look, I did design work because development, especially in video games, means something different and it's not what they were doing.</v>
+
+00:18:44.400 --> 00:19:04.680
+<v Speaker 1>So one of the things we realize is we're going to change some stuff over, Let's also change the terminology. So essentially what I was doing, and like I said, in a world where we're going two blocks a year, I needed to spend more time on the vision part of it. That is the part where I think my team shines. And</v>
+
+00:19:06.130 --> 00:19:07.010
+<v Speaker 1>and by the way,</v>
+
+00:19:08.720 --> 00:19:12.310
+<v Speaker 1>part of the integration was the idea that</v>
+
+00:19:13.590 --> 00:19:44.330
+<v Speaker 1>the way we used to design and development was design had people that sort of were more specialist at the blue skies stuff and making individual cards in the design team. And the development had more of the balancing type people. And there was a little bit of development still on the design team, a little bit design skill and development team. But the idea here was we'd have a little bit more integration that our teams would be a little more, have a little more going on. And that part of this process was to have the later teams represented so that I'm making sure that I'm making</v>
+
+00:19:44.400 --> 00:20:14.580
+<v Speaker 1>visions that that support what they're doing. So the idea was that we would change from design and development into vision design and set design, play designs coming. That's another important component. I'll get there in a second. So the way it works is vision design changed to be 6 months long. That allowed me to do vision on every single new world, every single block. And the idea was I would have six months to do the large and small set. So I would do the vision for both the large.</v>
+
+00:20:14.660 --> 00:20:25.090
+<v Speaker 1>And the small set exploratory design got knocked down to six months because we obviously didn't have a year anymore. So I got back down to six months</v>
+
+00:20:26.540 --> 00:20:56.810
+<v Speaker 1>eventually would we would knock it down even a little more down to three months as we were trying to tighten some stuff up. And as I said before, we really were being a little bit lackadaisical. We really were taking our time and we realized there was a little bit easier if we condensed it down. The reason we also did that was we wanted to give more time to the creative team to start doing some exploratory world building. So we created a system where they spent a month and a half doing world building. We spent three months doing exploratory design, then they had another month and 1/2 exploratory.</v>
+
+00:20:56.900 --> 00:21:13.760
+<v Speaker 1>We're building to incorporate a lot of stuff we've done in our design. And that was the new process by which we did exploratory, exploratory design. And then I had six months to do design. And then we hand it over from vision design to set design. Set design, the way it works,</v>
+
+00:21:14.860 --> 00:21:44.980
+<v Speaker 1>this has changed over time and I'm going to say how it currently works. This process took a little while to figure out. I understand the design because I walked through the process. I know exactly what we did. The, I don't know the set design quite as exact, but the way it works was it ended up getting originally I think they had 12 months. That ended up being more time they needed, so went to nine months. But the way it works is that six months, then there's a three month hiatus and then three more months. The reason for that gap is there are reasons to want to start set design</v>
+
+00:21:45.050 --> 00:22:01.400
+<v Speaker 1>soon as vision finishes because they want to figure out all the things they need to so they can lock down things like art and things. But at the same time, they want to be as late as possible so they can take real world knowledge and apply it so they can figure out how best to sort of add things that affect the real world.</v>
+
+00:22:03.220 --> 00:22:31.910
+<v Speaker 1>So what happened was we had the system set up and then of our own choosing, we Metamorphosis 2.0 came along, we realized. So one of the things that happened was we do this market research all the time. And one of the things that they let us do is there's certain questions they always ask, but we're allowed to change out. There's a few questions we get every time we do it to ask them new things so we can sort of feel things. So one of the questions that we want we were curious about was which do you prefer? Drafting? Large, Large</v>
+
+00:22:32.060 --> 00:23:02.770
+<v Speaker 1>charge all of the first set or small, small, large part of the small set, part of a large set. And the interesting thing we got back, I think we thought that more people like drafting large, large, large. But the data when we got back was they overwhelmingly liked that it was like over 80%. It was like significantly might have been over 90%. It was, it was the vast majority like that. And one of the things we realized was that there was a lot of challenges of doing small sets, small sets because they were structured</v>
+
+00:23:02.950 --> 00:23:32.740
+<v Speaker 1>and large sets because they had less cards because of a lot of different factors. And because you were mixing into a thing that got locked before you, it made it a lot harder. Small sets were very challenging. And we came to realize that maybe the issue was maybe we were looking at it wrong. What if every sat was just a large set that drafted with itself? And then we said, OK, let's disconnect this idea that worlds are tied to blocks. One of world's what have we can stay in a world as long as we want. And</v>
+
+00:23:32.850 --> 00:24:02.990
+<v Speaker 1>so if we stay in our world, obviously there has to be a reason to stay there more than once. Like something about the world needs to matter. There needs to be a reason to say there are more than one set. But we have that flexibility. And so the idea is, hey, creative people, you have a story to tell. You figure out what you want to do. You figure out how long you're supposed to say somewhere. If it really makes sense to say there are one set, we can stay there one set, two set. We can say the two sets, three sets. We can say the three sets. We can say as long as we need to do as long as it makes sense. But then from a design standpoint, each set gets to be made</v>
+
+00:24:03.100 --> 00:24:33.000
+<v Speaker 1>using the same process. So it allows us to like one of the big things was large and small sets were made physically made differently based on a bunch of criteria. By making them all large, we now can sort of systemize how we do things, make it cleaner. We could have sex because they're drafting with themselves. We don't have problems. Sets are adapting to things are already locked and we solve a lot of problems. Now. The one problem we made under that new system was we were making too many cards that there's a certain number of cards we'd like to make, partly from how many from our resources, how many can we make,</v>
+
+00:24:33.120 --> 00:24:37.090
+<v Speaker 1>and also from how many we want the audience to have in Standard anyone time.</v>
+
+00:24:38.800 --> 00:25:08.960
+<v Speaker 1>And so we had realized we took the course that away. There was reasons we took it away. We had tried to do some other things to take its place. Those other things weren't working quite as well. And we realized to go to the large, large, large world, we needed to bring the corset back. And so we decided to do and I'll do a podcast and this at some point, we revamped the course that it's a little bit different. It's a core set, but not quite the course that they've been. As we get closer, I'll talk to that's a little far out to talk about that. But anyway, we went to large, large, large corset. OK, so now in issue,</v>
+
+00:25:09.030 --> 00:25:39.020
+<v Speaker 1>which is I, it's been set up to do 6 months for one set, six months for the next set, or six months for a large and small set, six months for a large and small set. OK, under this new system, the course that I didn't really need to worry too much about like I did in the past, it's something where I get consulted but I don't need to block out time for it. So meant I had three different sets and 12 months to do the man. Well, if I did six months, six months, six months, OK, that wasn't going to work. I'd have to overlap them and that would cause problems. So OK, we changed the world where it's four months, four months,</v>
+
+00:25:39.090 --> 00:25:53.400
+<v Speaker 1>four months. I've previously been doing 6 months for a large and small set, now is doing four months for just a large set. So when that changed, I made that change over. It's still similar. I just handed off my very first four month vision design and</v>
+
+00:25:54.220 --> 00:26:19.150
+<v Speaker 1>I'm still getting, I'm still trying to figure out exactly the timing and stuff. One of the hard things about changing things is you get in patterns and understand how things work. And then as you start to do it a bunch, you start sort of the you start getting rhythms that you understand that you recognize. And so we did that anyway. So let me quickly get in play design. So what happened was as we were making all these changes,</v>
+
+00:26:20.510 --> 00:26:23.060
+<v Speaker 1>they're adapting to all the changes. One of the problems was</v>
+
+00:26:23.750 --> 00:26:37.370
+<v Speaker 1>a lot of people have a responsibility of looking playing the future, future league and looking at at standard and at at draft and all the different formats. But the problem was there was so much drawing our attention. We were doing so many new things and that</v>
+
+00:26:38.180 --> 00:26:51.490
+<v Speaker 1>it was nobody's primary responsibility to watch the environment. It was a lot of people, 2nd and tertiary responsibility. And So what happened was some things fell through the cracks, caused our focus, got pulled. And obviously, if you look at the last year, you know,</v>
+
+00:26:52.230 --> 00:27:22.820
+<v Speaker 1>every once in a blue moon, I understand maybe we need to ban something. If once every five years we ban something, it means, you know, you know, if we never, ever ban something means we're not pushing the envelope ever. And OK, I get that everyone's in a rare, rare, while maybe we should ban something, but multiple cards three times during the course of the year, that was a problem. And what we realized is that we needed to have a portion of our and D that's primary responsibility was the balance of the environment. That's really, really important. That's how a lot of people enjoy your game. Not everybody, but a lot of people.</v>
+
+00:27:22.940 --> 00:27:52.610
+<v Speaker 1>And so we want to make sure we got that right. So what we did is we got in a guy named Dan Burdick to be the manager, and we've moved over a bunch of people. And then Dan went out and hired some new people fresh off the pro tour and stuff. And we said, you know what, we're going to have a new team that's now going to oversee, oversee who's in charge of making sure that all the formats are balanced. Obviously the primary responsibilities are standard and boosted, draft and sealed. But secondarily, they look at Modern, they look at Commander, they do look at other formats that get played a lot.</v>
+
+00:27:53.450 --> 00:28:05.840
+<v Speaker 1>And the idea is that we're going to use this team from the very, very beginning. My vision design team has to play designer on it, set design will the play designer on it. And then play design has their own period of time where they're doing work on every sets.</v>
+
+00:28:07.370 --> 00:28:36.680
+<v Speaker 1>And the idea is that we now by digging up our three responsibilities into vision design, set design and play design, we have people looking at all different aspects. It's a different way to look at how we do it. In some ways it's free set of eyes instead of two set eyes, although looking at in a different context. So here's how it works now. So we're convinced down to four months. They're now is a month of exploratory world building, 3 months of exploratory design. Then there's four months of</v>
+
+00:28:37.780 --> 00:29:08.120
+<v Speaker 1>of vision design. Then there is 6 months of set design. Then three month hiatus. Then three more months of set design. Then during the last two months of set design, play design begins, and that goes for three months. That goes one month after set design ends. Note that this is still in a time where set design is allowed to change numbers and things. Even though there's pencils down and editing and stuff going on, they still are allowed to change numbers and things. If a card is a problem, it's still in a window where we can fix the problem if you notice a problem. So we've moved</v>
+
+00:29:08.210 --> 00:29:38.500
+<v Speaker 1>system now where if you add up the number, so it's 4 + 4 + 12 + 1. So that's 1717, no 19. So 19 months from the very beginning of the process, the very end of process is now about 19 months. Now after we hand it off, there is there is still a bunch of the cards have to get made and produced and shipped places and there's still a bunch of time after that. So, but we've condensed our time down a little bit and we're just looking at things a little differently.</v>
+
+00:29:38.580 --> 00:29:51.990
+<v Speaker 1>For example, I'm now very focused on vision. I'm not doing integration refinement. I'm really just making sure that every set we do, we figure out what we're doing. We give it an identity. We so one of the things I want something have here,</v>
+
+00:29:53.680 --> 00:30:23.950
+<v Speaker 1>OK, I think probably I will do a podcast on vision design at a different time and and then talk about there's a lot of nuances. I wanna talk about vision design. So that's today was more about the change. So I promised you I will do a vision design podcast in the near future, talking a lot about the nuances of vision design. But anyway, that is the change that we went from a world of design and development, which we had done since the very beginning to now a new world of vision design, set design, play design. And I'm really excited. I really think</v>
+
+00:30:24.020 --> 00:30:52.820
+<v Speaker 1>that one of the things I love about Magic is that we integrated and integrated, we use the wrong word. That one of the things that we always do is we iterate it, that we iterate how we make cards, how we design Magic, and that I love that we're iterating the process by which we make Magic. That there's a lot of cool things that are going on. There's a lot of changes to the system, but I think it's resulting in a better product. So I hope by the first set, by the way that had a vision design team was</v>
+
+00:30:54.180 --> 00:31:05.770
+<v Speaker 1>well rivals of Echelon was kind of in between and it had kind of a combined vision set design team. The first set that had a clear distinctive vision design team was Dominaria.</v>
+
+00:31:07.120 --> 00:31:14.590
+<v Speaker 1>And then the first set that had, um, play design did some consultation on</v>
+
+00:31:15.330 --> 00:31:35.220
+<v Speaker 1>on Dominaria. The first one though, were they had their full play design time was for Milk and the first time they play design integrated into vision itself was an archery. So all this stuff is coming, but Dominaria is kind of the first, the first wheel set you'll see that had vision and had set design, a little bit of play design</v>
+
+00:31:36.890 --> 00:32:08.300
+<v Speaker 1>and it, it got a consult, but it didn't have the full three months like it will in the future. Anyway, that, my friends, is the big change. And like I said, it's a pretty exciting thing. It's not something that you guys necessarily would see if we weren't so transparent with our process. It's not something you would necessarily even know, but we are and I like you guys to know it. So that, my friends, is how the new process works. So anyway, I hope you enjoyed today and I'll enjoy learning it. Like I said, I will soon do a podcast on vision design to go more the nitty gritty of how that's going to work.</v>
+
+00:32:08.400 --> 00:32:09.070
+<v Speaker 1>So anyway,</v>
+
+00:32:10.310 --> 00:32:18.090
+<v Speaker 1>I'm at I'm, I'm parked. My car is parked. So we all know that means this is the end of my drive to work. Instead of talking magic, it's time for me to be making magic. See you guys next time.</v>
+

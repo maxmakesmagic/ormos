@@ -1,0 +1,356 @@
+WEBVTT
+
+00:00:01.010 --> 00:00:30.140
+<v Speaker 1>I'm pulling in the driveway. We all know that means it's time for another drive Newark. OK, so today's podcast is actually kind of a follow up to a podcast I did a couple of years ago called Designing Commons. And so today I'm going to talk about designing uncommons. So I'm going to talk all about, I'm getting the nitty gritty warning. There's some math coming up. I'm going to talk all about sort of how we make uncommons and what role uncommons play in magic. OK, so</v>
+
+00:00:31.920 --> 00:00:49.370
+<v Speaker 1>when I talked about Commons, a lot of the role of Commons was really defining your set, giving definition to your set and very much sort of being the ground, the cement to make limited work. So uncommon lives in an interesting space in which</v>
+
+00:00:50.590 --> 00:01:20.560
+<v Speaker 1>it shares responsibility with Commons to to work in limited because it shows up in enough rarity that you need to care unlimited, but it also has some constructed roles. And so I'm going to talk about sort of the uncommon. This is weird rarity that kind of lives between other rarities. And in fact, if you ask me, which rarity tends to have the most problems with it. I mean, comments is the hardest to design. I've said that before, but uncommons</v>
+
+00:01:20.640 --> 00:01:31.720
+<v Speaker 1>gets overstuffed the easiest. In fact we used to have 60 uncommons and a large set and we eventually moved to 80 because we were getting so jam packed. Like one of the things that happens is,</v>
+
+00:01:33.020 --> 00:01:45.630
+<v Speaker 1>for example, with New World Order, we change what could be a common and we have a much tighter set of rules about complexity of common. And as such, there's things that no longer work at common that we had to move up.</v>
+
+00:01:46.340 --> 00:02:07.920
+<v Speaker 1>Meanwhile, you know, we're always trying to sort of fight for space and rare. And a lot of times rares have to move down. So uncommon both gets Commons moving U and rares moving down. So it is definitely always full of trying to do things. And so I want to walk through today sort of what uncommons are doing. So to start with, we've got to talk math.</v>
+
+00:02:08.560 --> 00:02:24.730
+<v Speaker 1>Remember when I was a kid, I was in my math class, I know many years ago. And I remember saying to my teacher that I would never need to use math, that I was gonna, I was gonna be a writer and I was going to use words. And other than, you know, page numbers and counting up my money, I wouldn't need numbers. And flash forward</v>
+
+00:02:26.100 --> 00:02:56.580
+<v Speaker 1>is math Alot. So I apologize for my math teacher. Kids stay in school learn math and it's important. OK so let's talk a little bit about about pack math. Fun fun fun. OK so in a booster pack, on average you will have 10 common cards, 3 uncommon cards, 1 rare or mythic rare, and one land. So one of the things we need to figure out is when you talk about limited, how often does something show up? So common, for example, there are 101</v>
+
+00:02:56.650 --> 00:03:26.610
+<v Speaker 1>common cards in a large set. Let's to make math a little simpler. We'll assume there's a hundred. OK, so there's 100 cards in a pack. So any particular card in any particular pack, you have one in 100 chance of opening it up. But there are 10 copies of every 10 common slots. So is that 110th of the 100th times 10? So you have a one in 10 chance of opening up any particular comment in any particular booster pack. So 10%. So essentially,</v>
+
+00:03:26.720 --> 00:03:53.800
+<v Speaker 1>if you grab a random booster pack, there's a 10% chance that a particular comment is in that pack. OK, but usually when people play, they play with more than you know. There's two ways to play. They're sealed where you tend to have 5 booster packs, or there's Draft where you tend to have three booster packs. So in five booster packs you playing sealed, you now have 5 packs, each of which have 10%, which means you have a 50% chance, or one in 2%, one in two chance of playing with a particular comment.</v>
+
+00:03:55.800 --> 00:03:58.210
+<v Speaker 1>When I say a particular comment, I mean, you know,</v>
+
+00:03:59.590 --> 00:04:04.240
+<v Speaker 1>just imagine I'm talking about, you know, there's there's a creature called</v>
+
+00:04:05.790 --> 00:04:35.760
+<v Speaker 1>ohh, let's just say there's a skate zombies in this at the chance of you opening scathe zombies, particularly that card, not just any zombie, not just black card, that particular card in a single booster pack of 10% in sealed is 50% in draft. You have 3 packs, so it's 3 out of 10. So that is 30%, roughly one in three, slightly less obviously, but the idea essentially is with Commons, if for any one common normal booster pack of 10% draft is 30% sealed, this 50.</v>
+
+00:04:36.640 --> 00:05:05.730
+<v Speaker 1>OK, now let's talk about uncommon. So uncommon, there are three uncommon flats in the pack and there are 80 uncommons and a large set. So that means chance of getting any one uncommon in a slot is 1 out of 80. But getting it in a booster pack is 3 out of 80, which is about 4%. Now in booster draft when you have 3 packs, that goes up to be 9 out of 80 or roughly 1 ninth, it's 11%. And then if you have 5 packs for sealed,</v>
+
+00:05:05.840 --> 00:05:36.020
+<v Speaker 1>you have a 15 out of 80 or three out of 14, but chance which is basically 21%. So the idea is with uncommons, any particular, any particular booster gives you 4% of getting a specific uncommon, 11% in the draft and 21% in a field. Now by the way, when I say a booster draft, I mean you opening one now it changes a little bit. So it's 11% that you will open you in one of your practical open a particular thing. What are the chances of it</v>
+
+00:05:36.090 --> 00:05:53.250
+<v Speaker 1>just appearing in the draft? Well, eight people are playing in the draft, so multiplied by 8. So if there's 11% chance that you open one, there's an 88% chance that someone opens 1. So you can see. So for example, with comments, there is a</v>
+
+00:05:54.080 --> 00:06:24.140
+<v Speaker 1>240% chance of opening one, which means that now you can open one. But in a in any one draft, there's about 2 1/2 copies of any one particular common card. Slightly less obviously 2.4, but close enough 2 1/2. So when you get to. So what it says is if I have a particular comment, it's pretty much going to not only show up in every draft, show up in multiples in every draft. If I have a particular uncommon, well there's a good chance it</v>
+
+00:06:24.210 --> 00:06:46.370
+<v Speaker 1>show up around 88%. So there's a good chance, but not a guarantee it will. And once again we're talking about percentages. Remember that I'm talking about the average that there actually is a range. So some drafts might have two copies, maybe even 3 copies of a card, some could have zero. That there is a rain for what we're talking about the percent chance of it opening up. And so</v>
+
+00:06:47.790 --> 00:06:54.450
+<v Speaker 1>now the reason I bring you all this math is not just to torture you with math, but to make you understand that</v>
+
+00:06:55.260 --> 00:07:01.990
+<v Speaker 1>one of the things I want to talk about a trading card game in general, I always talked about how one of the</v>
+
+00:07:03.190 --> 00:07:33.240
+<v Speaker 1>one of the great joys of trading card game is you the player never know what you're going to experience. But one of the frustrations for designing trading card game is we the designers never know what you're going to open. And so it is very difficult when you're trying to control an experience. We want to make sure that you have a fun experience. Now, normally when you make a normal game, you get to choose, you know, if I'm designing Monopoly, if I think 4 railroads is the right amount of railroads, well, guess what? That's what you're going to get every time you</v>
+
+00:07:33.310 --> 00:08:03.090
+<v Speaker 1>play. You know, and that would normally when you make a game, you have such precise control over what your audience plays with. But in a training card game, you don't. So rarely really is the one tool we have available for us. Now there's another thing that I've not brought up. All my percentages I've been talking about have been about one particular card. Like if I have one card, but we actually have the tool beyond that, which is we can control how many cards. So let's say, for example, I want to make sure you play with something</v>
+
+00:08:03.610 --> 00:08:33.180
+<v Speaker 1>between common and uncommon. I can determine how many copies of that. So when I talk about as fans, if you listen my podcast, you talk about Aspen all the time. Asman ties into what I'm talking about today, which is how many cars do I need to put in at the various rarities such that when somebody opens a pack, I have some sense of what they're going to open. So for example, let's say I'm making a multi color set and I want to make sure that it's a lot of multicolor cards. So if I set an asfan of two, what that means is</v>
+
+00:08:33.330 --> 00:09:04.030
+<v Speaker 1>between the number of cards I put in all rarities based with the math I'm talking about here there, you know, each average booster pack will have a span of two means two of the cards in your pack will be gold cards. And obviously the more you put it at lower rarities, the higher the as well. The more you put it at lower rarities, the less you need to put in to get the as fan up that if you put a card in that comment, like I said, any one particular card shows up 10% of the time in a booster pack. OK, well you don't need to put that many cards in a common</v>
+
+00:09:04.140 --> 00:09:23.820
+<v Speaker 1>in order to guarantee that you get what you want. Also, by the way, another thing that's important is we have two different types of slots. Normally we have a variable slot which is just like the only thing determining the slide is a rarity. Sometimes though, we do something special. A good example would be the double face cards in</v>
+
+00:09:25.060 --> 00:09:27.520
+<v Speaker 1>the double faced cards in Innistrad and Scared.</v>
+
+00:09:29.110 --> 00:09:59.140
+<v Speaker 1>He's been transferred, Shadows are in the stride or even just basic land in a normal pack. That's what we call a locked slot. What a lock slot means is it's not that you know exactly what's going in that slot, but you know what it's getting pulled from and usually in the lock slot we are giving you something specific. And what that means is you know if you open up an industry rod or a dark ascension or a shadows of introd or an eldritch moon booster pack, you're going to get a double faced card. Well, how do you know that? Because</v>
+
+00:09:59.210 --> 00:10:30.130
+<v Speaker 1>where they lock slot, everyone has one. You are going, I mean, most of the time I should say, I guess there's packing regularities. And so you know you're going to get it just like you know, you're gonna get a basic land if you open up a normal Bush because there's a locked slot to it. So also when doing your math, that's another like there's a lot of factors here for doing your math. But anyway, so first and foremost, one of the thing that's important about Uncommon is it is one of the tools. Like anything we put at uncommon, we have to be willing for people to play with</v>
+
+00:10:30.200 --> 00:10:59.620
+<v Speaker 1>unlimited. Like we don't put things in uncommon that we don't want people playing with unlimited. If a card is bad for limited, then we don't put it at either common or uncommon. Well, what do you mean bad for limited? There's a couple of things. One is there are cards that are so narrow that they just they're wasted space and limited. We try to avoid those that common and uncommon. Normally we call those niche cars. We put them at rare. It's like it doesn't really need thing if you have the right deck for it, but limit it is just too hard to do that.</v>
+
+00:11:01.540 --> 00:11:31.870
+<v Speaker 1>Let me give you an example, like a battle of wits, which is a card that says if you cast this card and your deck has over 200 cards in it, you win the game. Well, oh OK, you know, you could build around that. But in limited, in limited you don't even have 250. You don't even have enough if you played every card you got, if every card you opened, you played and then you added a lot of land in, you know, without playing a crazy amount of land, you can't get to the point where that will work and limit it. But that's a fun card and no one saying we don't want to make those cards.</v>
+
+00:11:31.940 --> 00:11:46.850
+<v Speaker 1>So but the idea is we'll push things up to rare anything that uncommon. The other thing, so one is niche cards and the other thing we don't want is what I call bombs won't be very careful where we put our bombs. What a bomb is is I play this card and</v>
+
+00:11:47.510 --> 00:11:55.600
+<v Speaker 1>you know, barring you do something crazy, I'm probably gonna win. It's so powerful that it's probably going to leave me in the game. Now that said uncommon,</v>
+
+00:11:56.540 --> 00:12:17.530
+<v Speaker 1>so one of the things we do want to have happen is we ramp up between from common up to uncommon in limited and that how do we differentiate what we want a common limited from what we want uncommon limited? Well, there's a couple factors. So number one, I briefly talked about with New Order, it's complexity. We want to make sure that the cards that you are playing</v>
+
+00:12:18.960 --> 00:12:48.950
+<v Speaker 1>common either itself is too complicated, either in comprehension complexity because it's hard to understand what it does, or in board complexity that it really makes the board harder to track. Here's a good example is before New World Order, we used to put Samite healer all the time into limited environments. So samite healer for those that don't know, it costs two mana, two or three mana and it's a one picture that you tap to prevent one damage to any creature or player. And the problem with</v>
+
+00:12:49.020 --> 00:13:19.330
+<v Speaker 1>right heel or was that it really, really complicated math because every combat you got into, you had to adjust for the fact that maybe one creature there would do 1 less damage and it really made a much more complicated board state. And then if you had multiples of them, it made it even more complicated. So what we decided with New World orders that you know what things like that make a complicated board state. We can have them, we want them. It's not even that we don't want them necessarily in limited.</v>
+
+00:13:19.400 --> 00:13:31.220
+<v Speaker 1>Hello Sam and Heather might not be the best example. We've been sort of cooling on Simon Healer, but there are definitely things that we want that are more complicating and we want to limit it. We just don't want a lot of them. So,</v>
+
+00:13:32.440 --> 00:13:38.490
+<v Speaker 1>so a, you might be pushed up from common uncommon because you're a little too complex or a little too bored complex.</v>
+
+00:13:40.050 --> 00:14:10.100
+<v Speaker 1>Also you might be pushed up if we just don't want like one of the things we want to be careful about is we want to have levels as we go up. One of the levels is complexity. Another level is power. Like one of the things we've learned is we want to make sure that the main building blocks of standard are not standard of limited, are not too powerful. And that what we found is if we had too much variance in the Commons, meaning if certain comments were so powerful they just, you know,</v>
+
+00:14:10.190 --> 00:14:16.750
+<v Speaker 1>they themselves made giant swings, it really caused an imbalance. And So what we've been doing lately is</v>
+
+00:14:18.390 --> 00:14:23.140
+<v Speaker 1>to keep to help keep limited a little, a little less</v>
+
+00:14:25.480 --> 00:14:55.110
+<v Speaker 1>limit the variance. You want some variance, but limit the variance is we've been sort of making sure that comment that the power level of common is not disrupting to limited. Now note, that doesn't mean there can't be Commons that are terminal orderly because there's a big difference between what is relevant and limited versus what relevant and constructed. The stuff I'm talking about is very limited focus, which is when we want things, we want to have bombed, we want to have giant moments from big creatures come out and huge effects happen. We don't want that to happen all the time. So we clearly don't want to comment.</v>
+
+00:14:55.210 --> 00:14:56.790
+<v Speaker 1>We also don't want that uncommon</v>
+
+00:14:58.250 --> 00:15:11.330
+<v Speaker 1>that a lot of what happened a lot of were uncommon came from is us saying, well, here's things we don't want to come in and the uncommon like, OK, uncommon, suck it up, you you get it. And so the things that are too complex, things that are</v>
+
+00:15:12.300 --> 00:15:20.270
+<v Speaker 1>might say 2 complex, I mean both comprehensive complex and border complex, strategic complex, we're OK with that comment because that's the kind of thing the beginner doesn't really see.</v>
+
+00:15:21.820 --> 00:15:38.130
+<v Speaker 1>Then also power level, we want to make sure that things that are overpowered. And once again, I mean, in limited, we ramp U. Another thing is size 1 of the things we want to do size, and I'll say splash as well. Those are interconnected is</v>
+
+00:15:39.200 --> 00:16:08.850
+<v Speaker 1>we want the Commons to be good functional cards that, you know, like help, help make a a good game, but we don't want every common card to be Oh my goodness, Oh my God. Like there's a certain amount of splash that we want for higher rarities. And what we've decided is they're common really isn't where we put splash anymore. That uncommon gets to be a place for limited splash, and then rare and mythic rare are for constructed splash. Now once again,</v>
+
+00:16:09.100 --> 00:16:17.440
+<v Speaker 1>it doesn't mean there can't be. And there are common uncommon cards that are good that are good in tournaments. Usually what that means is like. A good example would be</v>
+
+00:16:19.480 --> 00:16:49.300
+<v Speaker 1>what's it called Delver Secrets, which was the common in industry wide. That card was fine and limited because you had to build around it. You know, it was a creature that if you had interest in sorcery, it could turn into from one one to A32 flyer. And the idea was if you could get it turned quickly because the creature came out for I think one man, it was pretty powerful. But if you couldn't turn it quickly, it wasn't nearly as good and so limited good enough to play, but it wasn't overpowering. So that was OK at common</v>
+
+00:16:49.450 --> 00:17:20.020
+<v Speaker 1>Um, and so we want to be very careful of watching sort of what our splash value is. So uncommon gets splashy limited cards. And what that means is things in which can help win a game for you. They're not bombs in the sense that if your opponent can't quickly answer them, they're doomed. But it could be things that OK this that if it goes unchecked for a number of turns, it can help me win the game. It's not like it's going to win the game in one turn. And then one of the things we also do is</v>
+
+00:17:20.130 --> 00:17:50.080
+<v Speaker 1>in order to keep splash level, we also met watch size that we don't want. So one of the things that common is white tends the biggest white creature you'll see. Usually it's three power. A common blue is usually about 3 power with the one exception that we make a serpent usually like A5 power serpent block is about four power red is about four power greens, about 6 power greens, the color of the fatty. So it gets a little bit bigger common, but the idea is we want to save some room to get you excited at higher rarities.</v>
+
+00:17:50.190 --> 00:18:20.340
+<v Speaker 1>And we watched some splash value. So part of that is size. So uncommon also tends to have, you know, the five fives, the six sixes, the things that especially like stuff with evasion is like, OK, I get this out. Or even like A4 forms evasion. It's very common, for example, at uncommon to have like a four four flyer, which is like, OK, this is this is not going to win the game instantaneously. But if I get a 44 flyer out, OK, you got, you know, 4-5 turns to figure out what's going on to stop me or else I'm going to win.</v>
+
+00:18:20.980 --> 00:18:45.410
+<v Speaker 1>Now, given you've chump, chump blocks, I mean, you have like an uncommon card, a splash M common card is something that like you're going to draft highly. It's very much maybe dictate what colors you go into, but it's something the opponent has some ability to answer where rare is where we put stuff that's just like, what are you going to do? It is it's going to be really hard to deal with. Not impossible, but very hard to deal with.</v>
+
+00:18:46.950 --> 00:19:16.280
+<v Speaker 1>The other thing in general, which is sort of a corollary of what I've been saying, is if there's any reason why in limited we don't want too many of anyone particular card, Like we want the card in limited, but we don't want too much of that card. Unlimited uncommon is where we stick to things. Sometimes that has to do with how many breakthrough cards we have. Sometimes that has to do with board complexity. Sometimes it just has to do with, hey, this is more fun if there's not a lot of them. So let me talk about another specialty,</v>
+
+00:19:16.760 --> 00:19:46.720
+<v Speaker 1>uncommon, an uncommon special for limited, what we called the build around. So what the build around is, is when we make magic, one of the things that we do is we want to make sure the draft experience is fun. Not just the first time, not just the second time, not just the 5th, the 10th, the 20th, the 30th. We wanted to make it fun for many, many drafts. And so part of doing that is we create a system by which we build in things for you to discover. And the idea is early on what we do</v>
+
+00:19:46.820 --> 00:20:16.950
+<v Speaker 1>because we want to make it. We want to make early drafting something accessible to everybody. We put a lot of archetypes. Normally in a traditional draft, we'll take each of the two color combinations and make an architect. Sometimes we do one color, sometimes we do three colors, but on average it's the two colors we focus on. You'll notice we often do an uncommon gold card. That's a new staple that we tend to do. That's meant as A to help explain what you're trying to do in draft, to be a guide card if you will. So uncommon. Often we'll do that.</v>
+
+00:20:17.020 --> 00:20:46.840
+<v Speaker 1>Or it's helping making strong messages about what can't, can and can't be drafted drafted. So anyway, the idea is that we work into common all the stuff that we want. Let's say for example, we're making a making red white and we're like, okay, red white is going to have an aggro sort of team up quality. We want to make sure that the cards in common can do that and blue-green is going to do this ramp strategy. Don't get a bigger fatties. OK, we'll make sure the the basic ramp qualities are there and maybe</v>
+
+00:20:47.040 --> 00:21:17.440
+<v Speaker 1>green common that normally has one fatty. Maybe it has a second factor, something we for whatever the theme is what we want to do there. But then the idea is that uncommon then follows up with like the gold cards or the things that really sort of, you know, if you're trying to ramp up bigger things, well, maybe the effect maybe commonly is 1 big thing, but uncommon has a bunch of big things to make sure they're playing green. You have access to some bigger things. So Green will really give support and make sure you understand what the draft is. But in the stuff that's the major</v>
+
+00:21:17.560 --> 00:21:21.610
+<v Speaker 1>off, we want to put it in common so that you understand what it is you're trying to do.</v>
+
+00:21:22.330 --> 00:21:51.220
+<v Speaker 1>But one of the things we want, one of the ways to make draft fun is we want to make sure that there are things to explore beyond the earliest level. The first level is like, OK, let me play the themes of the set. And the second level is kind of OK, let me play the archetypes built into the set. Third level is what we call the builder enemies. And the idea there is it's a card that if you open up in limited, you'll be it will push you in a certain direction. Spider spawning for example from Introd is a classic example of build around.</v>
+
+00:21:52.210 --> 00:22:16.530
+<v Speaker 1>Another thing we do all the time is we make red enchantments, uncommon enchantments that do 2 damage. Whenever you do thing that is relevant to the set you are playing in and that those kind of cards it says OK, I pack, pick one pack. When I get this card and I go OK, I see a strategy. I'm going to now adapt all my drafting to try to follow through and what that is.</v>
+
+00:22:17.830 --> 00:22:30.920
+<v Speaker 1>And because limited, like I said, you know, there's always a chance that maybe a second copy can show up. You might be able to grab that copy. And because your decks built around it, if another copy pops up, there's a better chance that you would get that card than somebody else.</v>
+
+00:22:33.300 --> 00:22:42.250
+<v Speaker 1>The other thing we tend to do at uncommon for limited is things in which they're they're ramped up version of our themes that if</v>
+
+00:22:43.380 --> 00:23:13.550
+<v Speaker 1>red white student aggro strategy uncommon, we'll have even slightly more aggressive agricultures for you. So let me now let me explain the so in limited, you're definitely sort of figuring out what are the higher people aren't going to get a lot of the uncommon. So we want to do is take your themes and ramp them up a little bit. Then you want to add layer and other themes which allow you to do build around things. The other thing, we'll do an uncommon sometimes what we call bridging cards, where we do things,</v>
+
+00:23:13.810 --> 00:23:43.880
+<v Speaker 1>take two different themes in the set and we'll connect them through an uncommon card. And what that does is you get it early. It might encourage you to do a hybrid of two strategies where you normally do one of them, but this card encourages you to hybrid. But in general, that's what uncommon doesn't limited is it's providing sort of extra content. It's helping cement you in directions you're going. It gives you other possible directions. It also is where we tend to put finisher cards for Limited, not the bombs, those go to rare, but cards that like I said, really</v>
+
+00:23:43.980 --> 00:23:55.510
+<v Speaker 1>if you get this out it will help you win the game. Not immediately, not bombs are sort of like I do this in while I can completely swing the game. The uncommon cards I'm talking about are things that</v>
+
+00:23:56.920 --> 00:24:02.290
+<v Speaker 1>will help you win the game, but will help you, you know, through time when the game, not instantaneously when the game.</v>
+
+00:24:03.870 --> 00:24:18.110
+<v Speaker 1>OK, so now let's talk a little bit about constructive because uncommon actually plays another role as well. So let me talk about an idea called an excitement point. And what that means is when you open up a booster pack, there are,</v>
+
+00:24:19.130 --> 00:24:31.170
+<v Speaker 1>let's say, 5 layers of things you might be looking for. I could be somebody who opens up just a few booster packs. Let's say I'm a really casual player and I only buy four or five booster packs in every stat.</v>
+
+00:24:32.320 --> 00:25:01.930
+<v Speaker 1>For me, my excitement point is the comments. And what that means is, well, actually, let me let me go from the opposite end. Let's say that I'm a diehard Magic player and I open boxes and boxes and boxes and boxes of product. What is the what is the thing I'm looking for when I open it up? A pack? I'm looking for the masterpieces. Those are something that are very infrequent, but I have all the cards. I have all the normal cards. I have all the mythic Raiders and the Raiders. The comments down, up, I have them. I've opened up a lot of cards.</v>
+
+00:25:02.010 --> 00:25:32.180
+<v Speaker 1>Well, my excitement point, the thing I'm like, I'm hoping when I open it up is I'm hoping, you know, my focus on is OK, did I get a masterpiece? Let's go down a little bit. Let's take somebody who opens up maybe just a box or two. Well, for them, the mythic rares excitement point because like they don't have all the mythic rares, so they're looking for things and even if they have one they really wanted, maybe they want a second copy of it. So that's what they're looking at. Let's say for example, you open up only a box or maybe a little lesson box.</v>
+
+00:25:32.270 --> 00:26:02.400
+<v Speaker 1>The rare might be your excitement point. You know, that might be the thing to go. OK, that's, you know, yes, I'm excited when I get a mythic rare and excited when I get a masterpiece. But the rare is really where my focus is. I don't have the rares right now. So every rare is what could be exciting. So naturally a little bit, let's say maybe you get half a box every time. Now the uncommons become your excitement point. So the idea is whatever you open up that is that's the lowest, the lowest thing you can get, that you have some whatever is the most certain you'll get, but the least</v>
+
+00:26:02.470 --> 00:26:32.170
+<v Speaker 1>you have is where the excitement point lies. So the idea is some people, and this is one of the things we think about for uncommon is what we want is what kind of person is opening half a box where their excitement point is the uncomment. Now once again, as I started, there are people who have been very few, just a few booster packs in which even the comment of the excitement point, because they didn't have all the cards, they didn't all the comments. And so comments can be exciting for them. We very much think about that. And when we make comments, there's a little bit about how to excite that player,</v>
+
+00:26:32.650 --> 00:27:02.420
+<v Speaker 1>but that player also is excited just by new things, new mechanics and stuff. The accident, little easier. But when you're making uncommon, one of the things is on one side you nothing goes in uncommon that you don't want people playing unlimited. That's the one factor on one side. The other side is you want to make something that people who are at the uncommon excitement point level where they buy few enough things that just the uncommons are where they get really excited. You want to make sure there's things to really excite,</v>
+
+00:27:03.080 --> 00:27:17.630
+<v Speaker 1>and what we've discovered is that limited is a lot like. So let me explain a different kind of I call casual constructing casual constructed. It means the following for my definition. Right now, I own Magic cards, I make decks. My format is the cards I own</v>
+
+00:27:19.070 --> 00:27:44.520
+<v Speaker 1>now traditionally, um, casual constructed often is standard if you're new enough. It's modern if you're not. It's like I've been playing for number of years and I got the cards I got. Now there are some casual players that are that actually go beyond modern. They're playing a long, long, long time and just, you know, they've never got super invested in the sense that they keep buying Magic cards, but you know, they play with what they own.</v>
+
+00:27:45.920 --> 00:28:16.230
+<v Speaker 1>And so one of the things we've learned about limited is limited does a lot to sort of mirror casual constructed because a lot of casual constructed this you play with what you got. And so a lot of your decision making matches kind of how sealed works is OK, well, I'll play the best green creature. This is the best green creature I got in that you'll play so many and you'll go you'll go as deep as your collection allows and that if you need 15 green creatures, well, you're 15 worst green creatures.</v>
+
+00:28:16.350 --> 00:28:23.960
+<v Speaker 1>Make sure that you know, doing the monogramming, whatever you know. And the idea is that your</v>
+
+00:28:24.860 --> 00:28:35.780
+<v Speaker 1>when you're designing uncommons, you want to make sure that there's exciting things for the casual level player, the casual constructed player, because there are a lot of them that all of them, but for a lot of them, they're exciting point is uncommon.</v>
+
+00:28:37.290 --> 00:29:07.060
+<v Speaker 1>And luckily a lot of the things that make casual construction exciting make limited exciting. And so like I said, there's a balance here. We want to have things like the Build Around me cards are wonderful cards for the casual constructed that, you know, it's a card that has a little bit of a challenge and hey, they can then build around it with their cards that so there's an overlap there also a lot of fun things that are when I say sort of limited splashy like Sarah Angel, that is exciting that those cards are quite relevant</v>
+
+00:29:07.300 --> 00:29:11.090
+<v Speaker 1>in a casual construction environment where the power level is just a lot lower.</v>
+
+00:29:12.370 --> 00:29:15.080
+<v Speaker 1>Hey, getting out of four four flyer can be very</v>
+
+00:29:16.570 --> 00:29:42.320
+<v Speaker 1>have a big impact in the game. And so we're looking at uncommons from a construction standpoint is kind of connected to limited in some sense. And that we want things that are impactful and that in low level will matter because obviously seals is much lower level power level than constructed. So we want things that matter in lower level power games that that are, that can be, can be dominant without being overwhelming.</v>
+
+00:29:43.330 --> 00:29:43.830
+<v Speaker 1>Umm,</v>
+
+00:29:45.460 --> 00:29:47.890
+<v Speaker 1>the other thing that goes on is that</v>
+
+00:29:49.760 --> 00:30:12.470
+<v Speaker 1>so if I make a car, so another, here's another reason why rare cars get pushed down to uncommon is they make a card, we play with it and it's fun and it's fun and limited. And then we always look at it like one that's remember is it's not as if rarities, there's not an exact line between rarities. It's not like there's a hard line. There's fuzziness. And then when we look at cards, there are cards with</v>
+
+00:30:13.400 --> 00:30:43.280
+<v Speaker 1>blog called Gray zone cards, which are they overlap 2 rarities. There are cards that could be common or uncommon. There are cards that could be uncommon or rare. They're cards that be rare or mythic rare. And a lot of times it depends on what are you doing. Like one of the things, for example, here's another reason. Another place we'll use uncommon is sometimes we're doing a theme for a set and we want to make sure that theme is prevalent enough. For example, when I when I do artifact blocks mired in specially, although Kaladesh Lester</v>
+
+00:30:43.360 --> 00:31:05.880
+<v Speaker 1>that one of the things that people associate with artifacts is kind of weird quirky artifacts that kind of environmentally do something. They change the environment. The problem is normally when we do artifacts the way a normal set does it is the common artifact is very few common artifacts. Normally it's like manifesting maybe equipment or two. And then uncommon has,</v>
+
+00:31:07.360 --> 00:31:38.410
+<v Speaker 1>I mean, the comment also sometimes artifact creatures comment is a little more detailed than that. But usually the more wacky things we say for rare like, hey, everything's different. But when we're doing an artifact block, one of the things we do is we want to get that quality across. So we take something that normally we do it at rare and the average set and we pull it down to uncommon that we take some of the quirkier artifacts that are simple enough with the complexity is not a problem and limited is not a problem and we pull them down. So that's another thing that uncommon</v>
+
+00:31:38.510 --> 00:31:58.230
+<v Speaker 1>that tends to be as finding what normally would be rare, but helps this set worker, this set shine. Because one of the things about making a set work is you really want to sort of lay up its strengths and play up, you know, you want people to see what's the cool part about it. And we want that cool thing to happen in limited. So there are things sometimes that</v>
+
+00:32:00.170 --> 00:32:29.860
+<v Speaker 1>that we will lower the rarity to make them work. Like I said, an artifact things, we will take uncommon artifacts and sometimes make them common. We'll take rare artifacts and make them uncommon. The same is true for other themes. Like sometimes normally, for example, look at graveyard themes. Yeah, there's not a lot of things that interact with graveyard at lower rarities a little bit, but not a lot. Usually it's a rare enough thing that more higher rarities do it. But in a graveyard set where you care about the graveyard, OK, we're going to pull that down a little bit. And so that's how uncommon gets cards from above.</v>
+
+00:32:29.950 --> 00:32:48.190
+<v Speaker 1>It gets cards from below because you're trying to do limited and you realize things are either cutting into complexity or power or splash or doing something that's being problematic and limited. And the solution to that is often pulling it up to uncommon. That's the way to lower its rarity but allow it to still exist in limited.</v>
+
+00:32:50.180 --> 00:32:50.610
+<v Speaker 1>UM,</v>
+
+00:32:51.460 --> 00:33:05.410
+<v Speaker 1>so it's funny because a lot of like when I, when I did my comment podcast, so much of comments is comments are defined by what defines the environment. And so while there are cards that could be common or uncommon,</v>
+
+00:33:06.150 --> 00:33:36.380
+<v Speaker 1>common kind of knows what it's doing. We're uncommon in a lot of ways is defined by what it's not that it's not common. It's not things you want to show up at that rarity. It's not things you want in that complexity or power level limited or whatever. There's things that you care about that you push up. So a lot of them comes. The very very common thing in limited and unlimited in design is I will ask my team to design common cards and they will give me common cards and we will play with them. And then the ones that stay,</v>
+
+00:33:36.450 --> 00:33:39.210
+<v Speaker 1>well, I like it killed from the file, But the ones that stay</v>
+
+00:33:41.610 --> 00:34:11.580
+<v Speaker 1>often get pushed up in rarity. I mean, there's classic cases of like, for example, Change of the Rocks, which was a passivism variant that you enchanted a mountain. And originally that was a common card. It was really like a very flavorful telling card. And as development played with it, they slowly realized that it was at first too powerful for common. And eventually when I say powerful I mean from a limited standpoint. I was causing too much problem in limited</v>
+
+00:34:11.650 --> 00:34:15.490
+<v Speaker 1>comment and then they tried uncommon still so they ended up making it rare.</v>
+
+00:34:17.820 --> 00:34:21.580
+<v Speaker 1>And so the a lot of things along the way uncommon</v>
+
+00:34:24.040 --> 00:34:30.290
+<v Speaker 1>when the dust settles and the things that are sitting uncommon. Some of them spent time at common, some spent time at rare, mythic, rare</v>
+
+00:34:31.790 --> 00:35:01.720
+<v Speaker 1>and got pushed up or down accordingly. The big thing really when you're looking at your uncommons, like if you take your Commons. So here my metaphor, if Commons are the cake, uncommons are the icing, uncommons are the thing. Like if I'm going to draft a deck and show somebody, obviously the things I'm most excited about in the rears, mythic rares, those are the bombs and such. But if I sort of said, OK, what are the cards that people show off</v>
+
+00:35:01.890 --> 00:35:18.070
+<v Speaker 1>when they drafted excited by It really helped define their deck that does it on a more regular basis. It's the uncommons that the uncommons really are the cards. And like I said, there's the same parallel for casual constructed. They're also the cards that sort of get people excited that aren't buying quite as many cards</v>
+
+00:35:20.630 --> 00:35:25.800
+<v Speaker 1>anyway. I'm almost to racial school. So the last thing I want to sort of talk about is</v>
+
+00:35:27.990 --> 00:35:32.840
+<v Speaker 1>one of the things that happens in Uncommon is, um,</v>
+
+00:35:33.800 --> 00:35:54.420
+<v Speaker 1>you are trying to serve 2 masters that you are trying to make cards that do good work in limited, that sort of play out limited. But in the same sense you're trying to make sure that there are flashy things that could enable deck building at a lower level. Like one of the things to remember is that</v>
+
+00:35:55.280 --> 00:36:10.330
+<v Speaker 1>some people are capable, they can, whatever card they need to build it, they will get that card. Other people don't have that ability and so they're going to play with what they have access to and so on. Commons play a very important role in casual deck building</v>
+
+00:36:11.710 --> 00:36:41.690
+<v Speaker 1>and we want to make sure not only do we want this flash card for limited in this, we want to also make sort of the cards that really help drive and push together decks. If we want to make a deck, for example, that someone could actually play F&amp;M, but that doesn't require lots and lots of rare cards, we lean on uncommon obviously. And so we want to make sure that uncommon has good meaty things that people might want to build around that just don't have access to all the rares. You know, like one of the problems is even</v>
+
+00:36:41.760 --> 00:37:11.800
+<v Speaker 1>you, even if you get 1 rare, getting 4 copies of a rare, you know, if you're not, if you're a lower invested players about how many cars you got. Wow. And so one of the things that's important is no matter how many cards in Magic you buy, whether you buy one pack, 5 packs, 10 packs, half a box, a box, 2 boxes, four boxes, a case, whatever level you buy, whatever cards you buy, we want to make sure that there's a fun experience for you. And that a lot of making that happen is figuring out</v>
+
+00:37:12.010 --> 00:37:40.820
+<v Speaker 1>where are the excitement point is for that players, and then designing that rarity such that you are making sure that the player that relies on that is excited by it. And that uncommons need to be exciting in a certain way to a certain audience. And so a big part of making uncommon is not just being the place to fit things that don't feel elsewhere, but to make sure that you're doing that excitement that you are covering that area.</v>
+
+00:37:42.340 --> 00:38:07.550
+<v Speaker 1>The other thing by the way, is common cards, because their size are a little smaller, tend to don't quite go as high up the curve. And so another thing about uncommon is we let you broaden the curve a little bit to do a little bit bigger things. Now that we don't have smaller things that aren't efficient, smaller things in common, there are, but we want to make sure one of the things, the way to think of it is. So here's they talk about,</v>
+
+00:38:08.790 --> 00:38:09.670
+<v Speaker 1>I don't know, like,</v>
+
+00:38:10.830 --> 00:38:41.270
+<v Speaker 1>ah, why saying whatever were there's a master teaching a student. And the master says to the student, he shows them an empty glass and he says, is the room in this glass, this glass full? And the student goes no. And then he pours like rocks into the glass all the way to the top of the glass. And he says to him, is this fool? Is this full? And the student goes yes. And he goes no. And then he takes small rocks and put us in and fills up the gaps of the bigger rocks.</v>
+
+00:38:41.590 --> 00:39:08.900
+<v Speaker 1>And he goes, now is is full. And the student goes, yes. And the teacher said no. And then he takes water and he pours water into water, fits the edge of glass, you know, And it's like, now is it full? You know, And that the idea is that part of what you're doing is you're always sort of filling in the cracks of what comes before. So that metaphor comments are the big rocks and uncommons are the small rocks in that a lot of what uncommon wants to do is fill in the gaps of what common isn't doing.</v>
+
+00:39:10.440 --> 00:39:40.110
+<v Speaker 1>And I tried. I mean, it's obviously filling out for limited because those are the cards that we depend upon. And then even in constructive, it's filling out in the guise of what can I give you? I want to make sure for the player that gets excited by the uncommons, what kind of cars do you want and need that I could deliver for you? And so when you were looking in your uncommons, a lot of what you want to see is are your uncommons supplementing your comments? Are your uncommons</v>
+
+00:39:40.210 --> 00:40:10.250
+<v Speaker 1>taking the themes that your comments introduced and next leveling it, notching it up like, oh, well, this mechanic exists. OK, now the Commons, the bare bones won, the uncommon gets to be a little bit slasher, a little bigger gets be something that if you draw it early, maybe you're building your deck around, you know, the uncommons get to be the next level up. Obviously at some point I'll talk about designing rares. Where's the next level up again? But it's important when you're thinking of your own comments that you realize that.</v>
+
+00:40:10.320 --> 00:40:41.260
+<v Speaker 1>They are in relationship to your Commons annual later realize your relationship, your comments, it's all connected. But as you're building 1 of the things you want to do is look at your comments and say our what aren't my comments able to do or what are my comments doing that I need to do more of that I didn't need to go to the next level. And that's a lot of more uncommon sets is taking your themes and pulling your themes up and stretching your themes and doing the stronger version of it or the bigger version of the slasher version. Especially with limited and casual constructed in mind.</v>
+
+00:40:42.240 --> 00:40:47.210
+<v Speaker 1>OK well now I'm driving up to Rachel school so we are here. I hope you guys enjoyed this.</v>
+
+00:40:48.550 --> 00:41:19.260
+<v Speaker 1>It was a little more technical, a little matchy, but but the one thing I'm trying to point out is there's a lot of different things we need to care about. And this is just looking at one aspect of one part. This is just one rarity of four rarities that we're constantly trying to deal with. And that normally, by the way, this becomes kind of internalized that when I make a card, I can look at it and get a pretty good sense of what rarity it is or between what rarity is it is. And so this is something you'll eventually will internalize. OK, But I'm now at Rachel School, so we all know that means at the end of my drive to work,</v>
+
+00:41:19.340 --> 00:41:26.700
+<v Speaker 1>instead of making magic, it's time for me to be talking magic. So I said that backwards. Instead of talking magic, it's time for me to be making magic. I'll see you guys next time. Bye bye.</v>
+

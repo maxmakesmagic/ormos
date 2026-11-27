@@ -1,0 +1,392 @@
+WEBVTT
+
+00:00:01.180 --> 00:00:21.150
+<v Speaker 1>Upon and the driveway. We all know that means it's time to drive to work. OK, so today is all about counters, not counterspells. That's a different thing. Some reason we have words that mean multiple things in the game. No, I'm talking about things that you use to mark something.</v>
+
+00:00:22.450 --> 00:00:32.380
+<v Speaker 1>Well, little history. We'll go back to the beginning of the game. Back in alpha, Richard made, I'm not sure what you want to say, 7 or 8 cards, I'll say 8. So he made fungus or</v>
+
+00:00:33.800 --> 00:01:03.050
+<v Speaker 1>fungus. There was a creature, then whenever I got damaged, it got bigger and you used a + 1 + 1 counter to mark that it got bigger. Rock Hydra was a hydra that you could spend mana and give it extra heads and lost heads when it got damaged, but you could give it extra heads and you could spend mana and the heads represented with plus and plus one counters. And you had singer vampire and singer vampire would feast on things whenever it killed something, whenever it damaged something that died, it would then get bigger and you would use plus 1 + 1 counters to mark that.</v>
+
+00:01:04.110 --> 00:01:17.420
+<v Speaker 1>And then it was scavenging ghoul. And scavenging ghoul was this. I wasn't a zombie at the time, but undead creature that as things died it got counters and then they used those counters to represent that it</v>
+
+00:01:18.810 --> 00:01:50.260
+<v Speaker 1>to represent that it got to regenerate. And living artifact helped an artifact and you would mark which artifact helped by putting a counter on it. Or Clockwork Beast was a creature that would come it started with 7 + 1 + 0 counters and as you attacked or blocked with it, as you used it, it would wind down and you had to wind it back up to put the covers back on it. Or Cyclopean Tomb was an artifact that slowly turned your opponents land into swamps and you use counters to mark that now. Gaea's Liege would slowly turn your lens into forest,</v>
+
+00:01:50.350 --> 00:02:19.950
+<v Speaker 1>but for some reason an alpha didn't. It didn't say that you marked it with a counter. It now in Oracle tells you to market with the counter. And being that Cyclopean Tomb and Gaze Leisure really similar to each other, I'm not quite sure why one didn't. One didn't have a counter to market, but I would just point that out. So anyway, my thing here is when the game began in alpha there were 8 cards that Richard realized early on that there are cool effects you want to do that involve memory.</v>
+
+00:02:21.010 --> 00:02:45.380
+<v Speaker 1>Pretty much the rule of thumb in Magic is anything I do is only going to last until the end of the turn. I'm going to giant growth the creature and make it bigger little end of turn, or I'm going to keep a creature from blocking, or I'm going to gain flying, I'm flying for the turn, whatever. I'm only going to do things for till the end of the turn. And if I'm going to do something that's longer than till the end of the turn, then in some way I have to mark it now</v>
+
+00:02:47.530 --> 00:02:57.160
+<v Speaker 1>one second. One way to market obviously is through auras. So you can have and later equipment where you can physically have a card that reminds you that you do that.</v>
+
+00:02:58.380 --> 00:03:29.330
+<v Speaker 1>You can have an enchantment if it triggers, for example, the enchantment can sit out there and say, hey, hey, I'm here, I do this. Sometimes the creature can do that. But anytime you have something, you have to remember it's going to happen. There's a card telling you. But Richard realized that there's some effects. He wanted to last longer than the turn. Now it's funny, in Alpha, there are things he had that lasted long in turn that didn't mark themselves with a counter. For example, slate of mind would change the color of something, change the color word of something. Now most of the time when you change the color</v>
+
+00:03:29.410 --> 00:03:44.520
+<v Speaker 1>word, it was on a spell, but it could change the color of a permanent and they have changed permanently and it wasn't marked. So alpha was a little inconsistent. I'll be open to that. But my point is that Richard realized that at times you wanted to do something and</v>
+
+00:03:45.120 --> 00:04:15.600
+<v Speaker 1>encounters work tool to help you to do that, help you mark things or keep record of the things so that you know that. And ever since the beginning of game, counters have gone on. I, I'm, I'm a giant fan of counters and tokens, not about tokens, Facebook counters. So what I want to do today is I want to talk through sort of like all the different ways we use counters. And one thing that's interesting, by the way, is I'm going to explain a lot of the ways we've used counters. I'm not even going to find all the way we could use counters</v>
+
+00:04:15.740 --> 00:04:46.710
+<v Speaker 1>that one of the neat things about counters is it really does help us. It's a tool to help U.S. Open our design space that one of the things is the game turns 25 years old next year. And so we've been making magic for a long time and being that we work in the future, we've been making magic for more than 25 years worth of product. And so the real question is how do you know what tools do you have to be able to expand that space? And that's always a big thing, and encounters really are one of the major tools to our</v>
+
+00:04:46.780 --> 00:05:03.400
+<v Speaker 1>proposal to really expand into new space. So today we're going to walk through and talk about what all can counters do. OK, so first is the major thing that counters do, the most common thing the counters do, which is you can do the changing of creature sizes in a permanent way.</v>
+
+00:05:04.740 --> 00:05:26.850
+<v Speaker 1>So the most, the most used counter we use is a + 1 + 1 counter. Now you'll notice as I talked about alpha collect web setup plus 1 + 0 counter. And over the years, early years, there was plus one plus, I think there was plus 1 + 1 + 1 + 1 + 2 + O + O + 2 + 2 + 1 + 1 + 2.</v>
+
+00:05:28.220 --> 00:05:57.110
+<v Speaker 1>Lot of a lot of changes. We finally said, look, let's consolidate that. Let's not be so crazy. So our new rule is in any one set, we tend to use just one stat changing counter traditionally. Normally that's plus 1 + 1 + 1 + 1 is super versatile. Like for example, plus 1 + 1 lets you do a couple of things. The biggest thing that lets you do is just literally just adjust size that normally in magic if I play a creature,</v>
+
+00:05:58.170 --> 00:06:28.860
+<v Speaker 1>well it's a site, whatever it is, it is, you know that I play something and it's a lock size. Now with counters, it lets me do variable sizes. For starter, I can do something where like I have X in the cost and it comes with X + 1 + 1 counters. So I can do variable like we call them creature balls. I can do stuff like that. I also take creature that grows over time. Either it grows on a set, either it's turn it grows, or it could be like when a certain event happens, it grows. There are a lot of creatures that sort of say if I do thing X, then I get a counter.</v>
+
+00:06:31.680 --> 00:07:00.890
+<v Speaker 1>We do have cards that have variables that you have to keep counting, for example, like Star star, and then you have to keep track of where you're at. We've been actually in that area, slowly moving toward counting. Once when the thing comes into play, locking down with counters, then just you know what it is, You're not constantly checking. You also need use plus 1 + 1 counters is you can have things that start with plus 1 + 1 counters and then circumstances could remove them. So with plus and plus encounters, you can also do shrinking.</v>
+
+00:07:01.350 --> 00:07:32.020
+<v Speaker 1>I'll get to -1 -, 1 in a second. But you can say, hey, you know, Triskelion, for example, was a classic. It came in with the number of plus and plus encounters and then you could use them to do damage so that it was like it's a 3 three creature essentially because it's a 00 creature with three postal counters and I could remove a counter to do 1 damage to something. That's interesting car. Like do I wanna that allows us to use size as sort of a resource. I can pay for not all of my creature, but some of my creature. I use that as a resource.</v>
+
+00:07:33.040 --> 00:07:37.210
+<v Speaker 1>The other thing that possum possum counters have led us do is</v>
+
+00:07:39.240 --> 00:08:01.370
+<v Speaker 1>you also can sort of have things range in sizes, you know you can do. We've done some cycling where something sort of grows and shrinks over time that you can do it where like the classic is the hammer aids or like they had the spawning cycle. And so they varied between being like one one is up to three threes and they moved around</v>
+
+00:08:02.780 --> 00:08:32.880
+<v Speaker 1>plus and plus o'connors also allow us to make interesting choices like Fabricate, for example, from Calabash sort of said, oh, well, what do you want? You can get this resource in making your creatures bigger or in making more creatures. And it allows us to sort of make a lot of interesting choices. Another thing that we do a lot of let's take a look at outcast from kinds of talk here. So outcast was a mechanic that basically granted plus 1 + 1 counters. What it said is, hey, if you want to take the turn off, not attack and you want to,</v>
+
+00:08:33.030 --> 00:09:04.430
+<v Speaker 1>you know, meditate, if you wanna sort of, you know, use your time to study or whatever, you can get a plus and plus one counter. And then what we often do, we have things that grant plus and encounters is we had things that cared about them. So some of the things that granted some of the less creatures not only granted plus 1 + 1 counters, but also enhanced creatures that had plus 1 + 1 counters. So, you know, all the counters game something so we can also use plus one counters as a marker as well. And there's a lot of cool things you can do with that.</v>
+
+00:09:04.520 --> 00:09:28.500
+<v Speaker 1>Like for example, Graft in original Ravnica in Dissension technically was the simic mechanic and that allowed you to creature come and play with certain amount plus one counters that it then could grant other creatures as you play them. And then one of the cool things was there's a bunch of cards that granted abilities to things, you know, the graph creatures that granted abilities to things plus 1 + 1 counters. Like I can enhance you and then the things I've marked, I can now use you.</v>
+
+00:09:29.750 --> 00:09:42.050
+<v Speaker 1>So puts those cars have a whole bunch of different usage there. Although the first category I'm talking about here is is creature size. And probably the biggest way we use it is just to allow us to have creatures that can change with time over the game.</v>
+
+00:09:42.720 --> 00:10:12.690
+<v Speaker 1>Now, some of the time, most of the time we use plus 1 + 1 counters. Some of the time we use -1 - 1 counters. Almond Cat right now we're using -1 - 1 counters. The nice thing about -1 - 1 counters is it allows you to make a little more of a harsh terrain, a harsh setting. Like one of the things we try to do is we want to use game mechanics to sort of convey something. And so for example, in scarves are mirrored in the Phyrexians were invading, they were a hostile force. Or in Amman Cat, you know, the Gatewatch shows up, but it's,</v>
+
+00:10:12.790 --> 00:10:42.960
+<v Speaker 1>it's not the nice simple world that you think. Even though on the surface it seems nice, there's something wrong about it. And we wanted to sort of get across this, the sense of the harshness of the world. And in both cases -1 -. 1 counters did a really good job of that. You know, Wither and in fact, for example, dealt damage in the form of might as well -1 counters. It allows us to do persistent damage. Normally in magic, when you damage a creature, that damage only lasts until end of turn. Now in general, that that I think is the best way for manager to be played, but it's kind of neat every once in a while to have some</v>
+
+00:10:43.030 --> 00:11:12.960
+<v Speaker 1>consistent damage and go, ohh, well, when something's damaged, it stays damaged. It's not killed, but now it's weaker than it was before. And it also allows you to have smaller creatures do damage and have some relevance to it doing damage. You know, 11 with Wither, for example, you know, normally if I tech with A11 and you have a 2 two or three 3 or 4 four, you just chump lock it right now a big deal. But Wither says, OK, you can block me and you'll kill me, but forever you'll be affected by the fact that you did that. And that is definitely, you know,</v>
+
+00:11:13.040 --> 00:11:13.900
+<v Speaker 1>pretty cool</v>
+
+00:11:15.250 --> 00:11:44.890
+<v Speaker 1>when people ask why, why did you do -1 - 1 more often, Why, why do you, why are you so, so miserly with your -1 - 1 use The major reason. First off, the reason we don't mix them is we like the idea that when you glance at the board and you see a creature and has counters on it, you mostly know what that is, That if you start mixing and matching them, like there's a point in time. In fact, there's a card from the dark called Frankenstein's Monster. And So what happens is when you play the card,</v>
+
+00:11:46.600 --> 00:12:03.030
+<v Speaker 1>you remove some number of creatures from your graveyard and then for each creature removed you, you put a counter on it. But you can put either a + 2 + 0 counter, a + 1 + 1 counter, or a + 0 + 2 counter. So I would look across here Frankenstein's monster, and let's say it had three counters on it.</v>
+
+00:12:04.600 --> 00:12:18.510
+<v Speaker 1>Oh, OK, well, three countries. Let's see. It could be A51 or A42 or A33 or A</v>
+
+00:12:19.380 --> 00:12:48.510
+<v Speaker 1>too far or A15 or a 06. OK, I don't have information. Those countries don't tell me a lot. And so I realized was we wanted to make it easier to process that. We understand by the way that counters are an extra element to the game, that counters come at a cost. They open up a lot of design space and we do use them because of that, but they come at a cost and we actually be careful how often and where we use them. Obviously, I'm in Canada is messing around with</v>
+
+00:12:49.690 --> 00:13:19.440
+<v Speaker 1>trying the the perforated tokens as a tool to maybe help you, you know, to get so you could differentiate different. Like one of the problems we have in general is normally we're careful about how many counters are put on creatures so you understand what the creature is. And so we reason we made the perforated tokens is if something is, for example, exerted, the country doesn't say, hey, I'm bigger, it means I'm exerted. And so we because there's a memory issue, we didn't want to put a counter on it to remind you.</v>
+
+00:13:19.630 --> 00:13:22.750
+<v Speaker 1>He sort of used the perforated things kind of pseudo counters to help you.</v>
+
+00:13:24.190 --> 00:13:54.320
+<v Speaker 1>But anyway, the reason we don't do -1 -, 1 is often is plus 1 + 1 is there's less design space in it. And people go, wait a minute, there are equal and opposite. Should they have equal design space? And the answer is no. And the best way I can explain this to you is I have a 22 creature. I can put an infinite number of plus 1 + 1 counters on that creature. The game will allow me to keep building and doing that as much as I want -1 -, 1. I can put 1 - 1 - 1 counter on it. When I put the second one on it, it's dead. So the problem with -1 -, 1</v>
+
+00:13:54.390 --> 00:14:04.040
+<v Speaker 1>owners is they remove things and they, they, they sort of stop things from happening. They slow down the game and they</v>
+
+00:14:05.470 --> 00:14:35.410
+<v Speaker 1>if you're not careful with them, they make it harder for things to happen. And the state they move toward is removal, where the state the plus and plus one counters moved toward is, you know, more encouraging. Like if my creature gets big enough, then I want to attack with it. Or if my creature gets small enough, I can't attack with it. So it both sort of 1 promotes more the game ending and the other is there's just only so much I can do with -1 -, 1 counters because if I put too much on, I've just killed the creature that it's gone. And like I said,</v>
+
+00:14:35.530 --> 00:14:55.440
+<v Speaker 1>I'm not saying there's zero space in -1 minus. And obviously, you know, we did discuss some mirrored in we're doing, we'll do other -1 -, 1 counter blocks. It's not as if it's not as if they're useless. There's in fact some interesting space to put there. And one of the spaces that we definitely played around with a bit, which is a little bit easier to do with minors, is</v>
+
+00:14:56.230 --> 00:15:13.860
+<v Speaker 1>if you want to use creatures as a cough, you have to build it into the creature. Like I can make Triskelion, and then Triskelion has the cost of itself. But one of the cool things we're able to do with -1 -. 1 Congresses says part of my cost is that you use up the resource of an existing creature, not one that comes with that thing.</v>
+
+00:15:15.080 --> 00:15:23.330
+<v Speaker 1>And for a while we had a mechanic called Ruthless in Amman Kat. And the way that Ruthless worked was I would kick my spouse like, ohh, you know, I can do</v>
+
+00:15:24.680 --> 00:15:50.930
+<v Speaker 1>three damage to a creature, but I could also do three damage to the player. It's controller. If you, you know, put a certain number of miles from counters, maybe let's say one on a creature you control. So they say ruthless one like, oh, well, do you want this extra ability? Well then you gotta weaken one of your creatures. And we liked that. They felt very bossy and it was a harsh world. So it had that nice feel. We ended up doing it but not keywording it. So these two cards that do it, but we ended up using a little bit different. We didn't quite</v>
+
+00:15:51.580 --> 00:16:02.470
+<v Speaker 1>that. Now there's there's cards that just have a resource of having to do that. It's not a choice. I think mostly, although the choice we did give you is you could put it on itself or put it on other creatures and then some of them give you resource for itself.</v>
+
+00:16:04.110 --> 00:16:34.660
+<v Speaker 1>You know, both -1 and plus 1 + 1. Oh, the other neat thing about -1 - 1 counters is I can show growth, but growth that's locked. So for example, it's plus one counters. If I let you grow it, it's just going to grow. I mean, I can artificially tell you can have so many counters. But the nice thing about -1 minus counters, let's say I have a 55. That comes into play with 4 - 1 - 1 counters. And every time you do something, it removes a - 1 - 1 counter. It gets to grow, but in the controlled, locked way in the sense that it's going to stop at 5:00. So there are some cool things -1 - 1 do we are continuing to do</v>
+
+00:16:34.730 --> 00:16:39.310
+<v Speaker 1>and when it makes sense, but we don't mix and match them. So</v>
+
+00:16:40.230 --> 00:17:09.620
+<v Speaker 1>but anyway, the one other creature size thing that I will bring up is level counters. So level counters showed up in Rise of the Eldrazi. So Brandon has been designed that set and he, he made a card back in Eventide. He was on time for Eventide. What's the card called? It was a card that had three states that you could spend mana and upgrade to its second state and spend man upgrade to its third state. And I'm blanking on the card. It's red and white. You guys are all yelling my name right now</v>
+
+00:17:10.200 --> 00:17:17.600
+<v Speaker 1>here. I like that card was fine and very popular with players. So he decided to make a whole series of cards that did that. And so the idea was on level of cards was</v>
+
+00:17:18.540 --> 00:17:48.410
+<v Speaker 1>that you could pay to level them. And then at some like sort of like D&amp;D, they went up in levels. And then at certain at certain levels, it would come with a change in power, toughness and or a change in abilities. So for example, let's say it costs level up, costs three mana 2 and red, let's go on a red creature. So every time I spend 2 and red, I can level up one. And then maybe at Level 3 it gets bigger and then at level 7 it gets bigger. So it sort of gets us resource that says, Hey, you can make this picture bigger,</v>
+
+00:17:48.520 --> 00:18:18.060
+<v Speaker 1>but there's some man that you have to spend overtime to sort of improve it. And there are three separate, both power toughness boxes and rules text boxes. So it literally would sort of, as it upgraded the creature would change. That's a bit more complex than plus 1 + 1 -, 1 -, 1 counters. It's changing abilities. I mean, sometimes plus 1 + 1 counters will say, hey, if you have enough plus counters will grant ability or something. You know, get so many and then you have so many you get trampled. We'll do stuff like that. But this allowed us to do a much wider swing of things</v>
+
+00:18:18.530 --> 00:18:48.710
+<v Speaker 1>and you know, we could grant abilities and not normally with plus and plus encounters if we're putting something extra on usually just a keyword ability where this was along a little more space than that level up was complicated. But it just sort of definitely shows how you can use calendars to change creature size in different ways and change creature abilities as well. OK, the next thing you can do is you can use counters to mark progress. So my example of this one, first example will be quest counters from Zendikar</v>
+
+00:18:48.780 --> 00:19:06.260
+<v Speaker 1>block. So quest counters like I, we are an adventure world. I'm gonna send you on a quest and when you do this thing a certain number of times, I will reward you. Well, how do we do that? Well, we put enchantment out and then it says, OK, every time you do this you get a quest counter and then you have so many quest counters you can trade them in.</v>
+
+00:19:08.140 --> 00:19:37.730
+<v Speaker 1>So the cool thing about that was that here's the place where Contra says, OK, we can track progress overtime. We can sort of see what's going on and we can say, oh, well, you know, you have to do this three times and each time you do it we can mark it. A similar thing would be an Omen Cat with brick counters. We really wanted to make monuments. We were doing sunny Egypt. Like I explained that there's two big sort of trope space to hit. One is bright and sunny living Egypt, and one is dark and dusty, dead Egypt or the Tomb Raider stuff.</v>
+
+00:19:37.940 --> 00:20:08.230
+<v Speaker 1>He decided not to do the second one, do more the first one, like it was a living civilization. And one of the things whenever you see movies about sort of Egypt during the height of Egypt is you see them building things. It's just kind of one of the tropes of ancient Egypt. They're building the pyramids of this thing. So whatever building, they're building stuff. And so we really wanted not just having monuments there, but the idea that the building of monuments itself was part of the experience, part of the trope of Egypt that we were trying to capture. And so by using brick.</v>
+
+00:20:08.310 --> 00:20:38.370
+<v Speaker 1>Owners, we could sort of convey the idea that you're building things. And another point that I'll bring it up here, one of the other neat byproducts of use encounters is the fact that the counters have a name that you go on a quest. So you get quest counters, you're building monuments, you get brick counters that they really help give some flavor to it. Although one of the funny things is one of the rules we have on counters is we try not to use the same name unless it's doing basically the same</v>
+
+00:20:38.440 --> 00:20:59.760
+<v Speaker 1>function. So if we made a new cycle of quests that send you one quest, OK, we can use quest cards for this. No problems doing what a quest counter does. But we wouldn't use quest counters in a different context in countries that do a different thing. And so sometimes we want to use the word, but because we've made so I one point, I was going to list all the words and sort of read off all the different things. Like, OK, there's a lot that's a long list,</v>
+
+00:21:01.260 --> 00:21:23.820
+<v Speaker 1>but you know, and we sometimes run into things like, ohh, we wanna use that, but we used it on this thing. And one of the things we really weigh now, is it long enough? Like, yeah, yeah, yeah. We used that really early to be something slightly different. But wow, it's been 20 years. Can we reclaim a certain name? And we've done that a little bit. But in general, we try not to make names have uniqueness to them.</v>
+
+00:21:25.240 --> 00:21:55.430
+<v Speaker 1>Ohh. The other thing about marketing progress is I used level counters to talk about changing size, but level counters also essentially mark progress in that in a similar way. So it's a crossover between the two. But that's one space that you know, I enjoy is that I can sort of say, OK, there's a larger thing going on here. I'm not asking you to do just one thing. I'm asking you to do a conglomerate things. A lot of magic is like do this one thing and immediately get the reward, pay this man and get this effect. But I like with counters that you sort of</v>
+
+00:21:55.500 --> 00:22:25.540
+<v Speaker 1>draw that out and do things that are bigger than than just the turn. In a lot of ways. That is one of the things that countries do for us is it allows the game to have a continuity beyond the turn because we didn't want to work with memory issues and in general we don't ask you to remember things beyond the turn. It is every once in a while will sometimes ask you for the beginning of the next turn. We'll do that sometimes like rebound goes off now because of your next turn. But pretty much anything beyond your next turn, we like to give you something to mark that by</v>
+
+00:22:25.620 --> 00:22:55.910
+<v Speaker 1>the best counters. OK, now we get into marking time. So there's a bunch of ways to mark time. So marking time means one of two things. Usually either you only have so much time in the game, or you only have so much time until the game. So for example, suspend used time counters to say, hey, how much time until I get my spell? So the idea of suspend was I have a spell, it's cheaper than normal, but I'm paying</v>
+
+00:22:56.010 --> 00:23:26.120
+<v Speaker 1>the cost of time. So like, oh, normally this costs four mana. I get it for one mana, but it's going to take me 4 turns before I get it. O yeah, I'm saving a bunch of mana, but I'm spending time and place of the manna. And the way we were able to do that is we could use the time counters. You would exile the card from your from the game and then you would count it down. You can mark it. So just like for example, you could use it to count up with the progress. You could use it to count down</v>
+
+00:23:26.220 --> 00:23:56.460
+<v Speaker 1>as a means to mark time. The other thing is we Adam mechanic called vanishing, which was redone version of fading that you put counters on to mark how long it stays in play. Like for example, in this case, I get a creature that's cheap, that's pretty powerful, but I only get it for say let's three turns And so each turn I take off the counter. The way it was fading was when I couldn't remove a counter and went away and then vanishing is when I took off the last counter went away. People were playing fading wrong. So we brought it back. We changed the name and</v>
+
+00:23:56.580 --> 00:24:05.250
+<v Speaker 1>slightly tweaked its own play better. So the idea is you have so many counters and then how do I know how many turns? Well, when you take off the last country, it goes away</v>
+
+00:24:07.530 --> 00:24:24.200
+<v Speaker 1>Also like hatchling is something we'll do. I think we did hatchling on the 1313 industry Rod Ludovic test subject it was called. So the idea there is, oh, I have an experiment, I'm hatching. I have this egg I'm hatching and I'm counting down time until it hatches.</v>
+
+00:24:25.890 --> 00:24:37.160
+<v Speaker 1>So there's an example. I mean, in general, with time, we tend to count down with time because it's so long until something happens. So sometimes countries are coming up, sometimes the country you count down,</v>
+
+00:24:38.730 --> 00:25:08.820
+<v Speaker 1>usually the decision of where you count up or down is are you trying to move towards something or away from something. So for example, if something's going to happen in so many turns, I normally will go down like, oh, in three turns, let's keep track of how long before it happens. But something like a quest where I'm like, the way you mentally are processing it is how many, how many have I done? Oh, I've done it twice. Well, I still need to do it. And a lot of that, I mean, obviously we could have done casts like this,</v>
+
+00:25:08.920 --> 00:25:22.020
+<v Speaker 1>encounters, every time you do a quest, take one off. But there's some flavor to it. Like in quest, it's like I'm doing this thing, so I want to mark that I've done it, where in time, it's like I'm marking time for something until it happens.</v>
+
+00:25:23.680 --> 00:25:41.600
+<v Speaker 1>OK. Another thing that you can do is you can mark, you can use counters to mark the states of something. So I'm going to separate this into a couple different categories. The first is to mark the state of yourself. So for example, depletion. So depletion counters are something we first did in</v>
+
+00:25:42.370 --> 00:26:08.700
+<v Speaker 1>Ice Age, I think. So depletion lands or lands, they were dual lands, but when you tapped them, the negative was that come and play untapped is that you put a depletion counter on them. And what that means is when you get to untap, if you have depletion counter on it, you remove the depletion counter instead of untapping. So essentially what it means is the cost of these dual ends is they only untap every other turn. And so that way it's a means by which you can mark the state of them. So you can keep track of that.</v>
+
+00:26:10.010 --> 00:26:40.000
+<v Speaker 1>Other example would be divinity Divinity with a counter we used in Champions of Kamigawa on these, the gods, they weren't called gods. I mean they were flavored as gods. We didn't have God creature type yet. And so the way it works is each of these came in with the divinity counter. And as long as you had the divine encounter, they were indestructible. You couldn't destroy them. But if you remove the counter, you could do something powerful that there was a powerful effect you could do that requires the removing of the counter. So,</v>
+
+00:26:40.080 --> 00:27:05.430
+<v Speaker 1>and created an interesting thing, which is kind of like you're a God, you cannot be destroyed, but you could do something powerful. But the cost of doing it powerful is you open yourself up to, you make yourself vulnerable. And once again, that's a perfect example of kind of just neat spaces we can do with counters. And that's a pretty cool concept, but it just requires memory and OK counters answered very cleanly and simply, and it allows us to do stuff like that.</v>
+
+00:27:06.330 --> 00:27:10.000
+<v Speaker 1>OK. The other thing that we do is we will mark</v>
+
+00:27:11.710 --> 00:27:41.340
+<v Speaker 1>Ohh, OK, let's try one more example of marking state himself is what we did in the last. I think the last commander set 2 commander sets ago experience counters. So one of the problems we were trying to solve is so in command or you have a commander and if the legendary creature that sits in the command zone and you can cast it whenever you want, it's like automatically always castable. Now, once it's killed, it costs two more to bring it back to the second time, and then 4, then 6 keeps going up by two.</v>
+
+00:27:41.960 --> 00:27:50.940
+<v Speaker 1>But the idea is you can keep bringing back your commander, and often you do. It's a big part of your deck is built around it. So one of the things we wanted to do was</v>
+
+00:27:52.030 --> 00:28:21.940
+<v Speaker 1>we wanted to find a way where your commander have some continuity over the game and like, how can we do that? And the problem is every time it comes back out, it kind of starts over again. So we came up this idea called experience Conners and said, OK, well, what if it did something and it marked it with these counters that didn't go away. Now this is an example where the experience doesn't go on the creature, it goes on you, the player. I'll get more of these in a second. It affects the creature, the creature cares about it and it's using you as the market where to put it. But it essentially it says, Hey,</v>
+
+00:28:22.030 --> 00:28:34.910
+<v Speaker 1>I have so much experience and the reason it sits on you, the player is so that it doesn't go away, but it allows you every time you bring it out, it allows your commander to get more powerful over time because it keeps this experience.</v>
+
+00:28:36.340 --> 00:29:06.390
+<v Speaker 1>OK. You can also use it to mark the state of others. So for example, there's a card, one of my favorite cars in Tempe. It's called Bounty hunter. So bounty hunter said when I enter the battlefield, I put a bounty counter on target creature and then I can kill that creature on the flavors really could like in the bunker. Once he's marked you for death, the flavor text is like once you mark for death, the world is made of glass, I think. But that was a neat kind of thing. It's like it can't kill everything and he'll just one thing, but it's sort of has to find the thing, choose the target,</v>
+
+00:29:06.540 --> 00:29:17.010
+<v Speaker 1>and then you now know that this thing is going to kill that thing if you don't deal with it first. Um, so other examples, there's an article or fication which we were messing around with the,</v>
+
+00:29:18.290 --> 00:29:36.390
+<v Speaker 1>the idea that when you attack, you get turned to your creatures get turned to gold. We were trying to make a white version of no mercy. No mercy just kills anything that damages you. So why we did a version where if you attack me, sort of a king minus defense that you could turn to gold and sort, it turns you into a defender.</v>
+
+00:29:37.790 --> 00:29:54.930
+<v Speaker 1>And the idea is sort of like it's a way to mark that. Ohh, this has happened. You know, no mercy kills you. I don't to market. Let's put the graveyard. But now it it's still in play and has a different state so we can mark it. Another example was parallelization. There's a card I played in one of the very first decks I've ever played</v>
+
+00:29:56.270 --> 00:30:26.290
+<v Speaker 1>called Venarian Gold, where you were putting things to sleep and the idea was, or I'm sorry, you were paralyzing them, you were putting this we'll get to sleep in a second. You're parallelizing them and so you would put them on the Preachers and you can mark that they were paralyzed. Now, this is also a crossover, not always it a mark state and others, but also a countdown function where it would mark how long they were paralyzed for that they would slowly come off so they slowly depolarized. Also, we've used sleep counters to show that something been put to sleep.</v>
+
+00:30:26.370 --> 00:30:40.010
+<v Speaker 1>So and there's a lot of meat flavor. There's I've done something to you often tap you, but like with a bounty hunter, not always. Sometimes something different and this sort of shows, OK, there's this long lasting effect that's going to matter that I want to track and I can do that.</v>
+
+00:30:40.860 --> 00:30:55.250
+<v Speaker 1>OK, So we also can mark state not just on the creatures or on permanence, but also on you the player. So the two big examples of this one is poison. So poison is something where if I give poison to my opponent, the first poison card was a card called</v>
+
+00:30:56.730 --> 00:31:24.190
+<v Speaker 1>what was it called? It made snakes. What's it called? It was in legends, it made a snake tokens. I'm blanking on that. It made snake. In fact, there were two cars that are poisoned in legends. But the idea was, and they were both, one was one was snakes and the other was like a scorpion. And the idea is that creatures that literally poison you. And so if you let this creature bite you, well, then it poisons you and enough poison it will kill you.</v>
+
+00:31:25.310 --> 00:31:56.090
+<v Speaker 1>And so there's this neat thing where, you know, poison was able to take a state that talked about youth player. You know, I now have a goal that if I can get enough poison to my opponent, I will win the game. And it keeps it just it now puts it's an alternate win condition. I can use contracts to say, oh, here's the neat thing I can do and I can track it and all of a sudden, OK, you know, have to care. And it allows us to have things that have more of a continuity to them because my one creature that does poison, you know, not only can it do poison, maybe I try</v>
+
+00:31:56.160 --> 00:32:21.510
+<v Speaker 1>did, but now I can play with other preachers that do poison helps me build a deck around it. So Connors definitely allow us to coalesce themes and allow players to, you know, build with them. Now filibusters, the opposite. Filibuster is a counter that you put on yourself. And if you get enough filibuster counters, you win the game. So you can use counters in different ways. Here's more for tracking state where you're trying to figure out what's going on and you can try. It gives you sort of</v>
+
+00:32:22.780 --> 00:32:29.130
+<v Speaker 1>that a lot of these blur. I mean this also is making progress essentially. Like as you poison your opponent you can slowly see the progress you're making.</v>
+
+00:32:30.520 --> 00:32:36.560
+<v Speaker 1>One thing I'll note is like, not that I like removing poison, but leeches is a card that exists that can remove them. So</v>
+
+00:32:37.780 --> 00:32:43.480
+<v Speaker 1>it is Mark you stayed in the sense that it's not just progression all, although it obviously is also progressional.</v>
+
+00:32:44.240 --> 00:33:12.720
+<v Speaker 1>OK, Next, um, let's talk a little bit about another poison counter loyalty counters. So talking about marking utility. So if these things about planeswalkers is when we first made planes walkers, the earliest design we did was we had them have three effects and then every turn in order they did the effect. So turn one they do the first effect, turn 2 they do the second effect. Turn 3 they do the third effect. And there are a lot of cool cards. But when we found out about it was that</v>
+
+00:33:14.000 --> 00:33:15.320
+<v Speaker 1>it felt kind of robotic.</v>
+
+00:33:16.850 --> 00:33:22.230
+<v Speaker 1>So for example, let's say the original Garrick, I think they worked, is like mega token, make a token,</v>
+
+00:33:23.770 --> 00:33:27.140
+<v Speaker 1>you know, overrun your team. So it was like make</v>
+
+00:33:27.820 --> 00:33:37.450
+<v Speaker 1>AT33 token, make it 3 token everybody plus 3 + 3 and trample. But the problem was, let's say you get rid of my tokens, that sometimes he would overgrow.</v>
+
+00:33:38.860 --> 00:33:39.430
+<v Speaker 1>Who was that?</v>
+
+00:33:41.840 --> 00:33:47.940
+<v Speaker 1>Sorry? He would overrun everybody and there was no way to overrun and he felt stupid that he was doing it.</v>
+
+00:33:49.470 --> 00:34:19.370
+<v Speaker 1>So we wanted to give more agency. So we ended up making loyalty contours. And So what loyalty condors was was that we gave this resource to the to the planes Walker and the flavor was, hey, you're asking for a favor. You know, how much goodwill does he have? How loyal are they to you? And some people are very loyal, some left loyal. And then depending on what I ask you do either you want you're happy to do and that's makes you more loyal because hey, thanks for having me do that, or it doesn't really want to do get a little less loyal because you're</v>
+
+00:34:20.050 --> 00:34:37.160
+<v Speaker 1>look, don't ask me to do that. And normally on the planes Walker, the default is there's a small possibility. There's a small minus ability, small, the medium minus ability, and there's a large minus ability that we call the ultimate. And usually the ultimate. It doesn't necessarily win you the game, but puts you in a place where you have a very good chance of winning the game.</v>
+
+00:34:38.710 --> 00:35:07.760
+<v Speaker 1>And so the thing there is we needed to sort of be able to monitor what's going on because we wanted to make a little game. It's like, OK, I come out with so much loyalty and I have a mission. Now. In some ways, like these categories blend a lot. Obviously there's a little bit of marking and resource here, but also you're marking how you're doing. But it really is something unique in that it's sort of allowed us to take a new component</v>
+
+00:35:07.840 --> 00:35:38.390
+<v Speaker 1>and build, build something within that component. You know, planes walkers have a sense of agency now. You feel like they're working towards something. It gives them a personality. And one of the things we really want with the planes walkers is to feel like characters, is to feel like they want to do something and there's a certain quality to them. And by using loyalty counters, we were able to do that. So that's another example where loyalty account, like loyalty counters allowed us to bring the planeswalkers to life. Like mechanically speaking, it gave them,</v>
+
+00:35:38.530 --> 00:36:06.520
+<v Speaker 1>it made them feel, you know, it gives them a personality like like, let's take a step back with that. Like with the advent of counters, we could give cards personality. That's really cool. That's something that I'm not saying you can't do that without the counters, but it's definitely allowed us to expand and to do something with the planes walkers that gave them a larger mission. Otherwise they would be very localized per turn. And this gave us something where there's a larger scope to them.</v>
+
+00:36:09.110 --> 00:36:37.780
+<v Speaker 1>So another thing that lets us do is it allows us to our costs. So the example for this age counters. So there's a mechanic for a long time called cumulative upkeep, which started an Ice Age. It was actually an Evergreen thing for a little while. The way it worked was you had a cumulative upkeep of a cost and then every turn, on turn one, turn 1, you didn't pay anything when you cast it. Then on the first turn you had</v>
+
+00:36:37.860 --> 00:36:52.180
+<v Speaker 1>pay its upkeep, and cure of upkeep meant that you pay the upkeep equal to the number of times that had been in play. So let's say for example it's a blue mana. So in the first upkeep I spend 1 blue mana, On the second upkeep I spend 2 blue mana, On the 3rd upkeep, 3 blue mana.</v>
+
+00:36:53.590 --> 00:37:03.350
+<v Speaker 1>Lost one in the red, and the first upkeep was one in red, then two colors, then 2 red, then three colors and three red. Then four colors are generic. Sorry, 4 generic and four red</v>
+
+00:37:04.910 --> 00:37:06.110
+<v Speaker 1>age counters allowed us</v>
+
+00:37:07.310 --> 00:37:09.750
+<v Speaker 1>to essentially add this cost</v>
+
+00:37:12.160 --> 00:37:13.350
+<v Speaker 1>and the idea was</v>
+
+00:37:15.040 --> 00:37:26.730
+<v Speaker 1>you know normally with cost, the cost to have to be somewhat locked. I mean occasionally do costs that are that care about a variable. So sometimes we'll do that some variable in the game that naturally grows and we</v>
+
+00:37:27.340 --> 00:37:51.610
+<v Speaker 1>make you care about that. But outside of that, there's a lot of this is just too cost in a different way. And like I said, it's Cuban. Bucky was a neat thing and originally when we designed Ice Age just it just had you do it and eventually we use counters because they realized it just was too much. So they're definitely examples in early magic where we tried to not use counters, realized from the actual use of thing of it that it,</v>
+
+00:37:52.900 --> 00:38:07.170
+<v Speaker 1>you know, it caused you problems that the memory issues. And so now like I said, we are willing to make you remember things up to the beginning of your next turn mostly. And it goes much beyond that. Then we're marking it with a counter or a card or something.</v>
+
+00:38:08.460 --> 00:38:13.020
+<v Speaker 1>OK. Another fun thing that countries can do is</v>
+
+00:38:14.490 --> 00:38:24.820
+<v Speaker 1>it can sort of give some sense of permanence. So for this one, I'm going to talk about blaze counters. So blaze counters were what's that Was blaze counters in</v>
+
+00:38:27.210 --> 00:38:31.980
+<v Speaker 1>what was looked under? Vent member here. Ohh. Blaze counters were Obsidian Fireheart,</v>
+
+00:38:33.310 --> 00:38:55.050
+<v Speaker 1>then the car, I'm gonna say in the car, right? Wrong. And what it did was it was a creature that was super hot, that the idea is it would start fires and that even if you got rid of it, there's these fires and the fires hurt you and you know it. It has a sense of permanence to it and it gives an extra sense of flavor. That's another thing that like I mentioned now do the names give you flavor, but allows us to really sort of,</v>
+
+00:38:57.190 --> 00:39:03.340
+<v Speaker 1>you know, talk about the, UM, let's just give a little extra personality to things.</v>
+
+00:39:04.590 --> 00:39:34.600
+<v Speaker 1>OK. The last part of the last category I'm going to talk about today is talking about energy as a resource or sorry, talk about using counters to mark a resource to do energy, to do something in which the allows us to have a resource in the game. On some level, you get royalties of resource. Obviously energy is a little bit different and the idea of energy was energy is a more traditional resource. You do something, you acquire it and you could spend it. But what we wanted to do,</v>
+
+00:39:34.670 --> 00:39:40.040
+<v Speaker 1>because we wanted qualities that function different than mana. Usually the resources they work of the game</v>
+
+00:39:40.900 --> 00:39:47.100
+<v Speaker 1>is you acquire them and then you can spend them. But we wanted something that had sort of that, um,</v>
+
+00:39:47.840 --> 00:40:06.910
+<v Speaker 1>the permanence, like sometimes like, ohh, we sacrifice this creature to do something. We wanted the sense of permanence, but we wanted the fluidity of, of a manual system, like a manual system. So what we were allowed to do with counters for energy was say, OK, we'll put this on you, the player that allows us to connect different cards together.</v>
+
+00:40:09.300 --> 00:40:39.400
+<v Speaker 1>And that's another thing like for example, where energy started. Um, ohh, I talked about, I talked earlier about sort of talked about uses of stuff. So like way, way back in like Homeland, there was serrated arrows that had Arrowhead counters. And I only have so many arrows. When I fire all my arrows, my arrows are gone. And eventually we moved to charge contracts that if I have a magical item, but my magical item is not infinitely useful. A lot of times if you play other fantasy games</v>
+
+00:40:39.480 --> 00:41:10.170
+<v Speaker 1>that gives something like, ohh, my magic wand, what has three uses? I don't have infinite uses. And so we used charge counters to sort of represent that. And then energy came out of us trying to expand that and saying, well, what if when I got a charge counter, I didn't I wasn't just using it on this thing. What if there was some sort of energy that allowed me to use between things? So instead of having card A, they gave me two uses and card B gave me two uses and card C gave me two uses. What if I had 6 uses to use anywhere I wanted between 3:00,</v>
+
+00:41:10.360 --> 00:41:28.080
+<v Speaker 1>which is our energy came about. So it's interesting that counters allowed us to do the earlier technology of like serrated arrows or charge counters where I had so many uses. But it also let me use the combined thing where I'm like, OK, I want to take it to the next level. I want to be able to sort of make it into a resource.</v>
+
+00:41:29.590 --> 00:41:59.640
+<v Speaker 1>And so the cool thing with energy was the fact that I'm keeping on me, the player now I'm in a it was easier to track. I left counter sitting around. You know, one of the problems we had when we were trying the charge counter version where you could use them between each other was just there was a lot of Oh well, this card is those cards, this card is those counters where with energy is all consolidated. How much energy you have? I got six. OK, I can keep it on one place, 1 total. My opponent could just get one number from me. You know, they don't have like before when you're sitting on permanent, it's like, well, if I killed this permit,</v>
+
+00:41:59.740 --> 00:42:21.360
+<v Speaker 1>get rid of three energy, do I want to do that? You know, it just added a lot of complication that wasn't really necessary. So that's one. Another big caveats today about counters is we also work really hard to figure out the cleanest best ways to use counters. That sometimes the best ways for example use counters is not to muddle up and put lots of on permanence, but rather put them together and put them on the player.</v>
+
+00:42:23.350 --> 00:42:24.660
+<v Speaker 1>So I'm all</v>
+
+00:42:26.430 --> 00:42:27.090
+<v Speaker 1>I'm</v>
+
+00:42:27.780 --> 00:42:34.500
+<v Speaker 1>almost to Rachel school. So just want to wrap this up by saying kind of</v>
+
+00:42:35.340 --> 00:42:55.150
+<v Speaker 1>the joy of what to me is the miracle of, of creatures, of what makes creatures sort of the special thing that they are. And the answer is that they are a really interesting and diverse tool that I talk all the time about. One of the neatest things about</v>
+
+00:42:57.180 --> 00:43:05.450
+<v Speaker 1>about designing the game of Magic is I'm always looking to find new spaces to go to new areas. And in order to do that, I really</v>
+
+00:43:06.910 --> 00:43:36.780
+<v Speaker 1>like like any sort of artist, like I need my tools to do that. And what the counter has done for me and all the other designers is it really has opened us up to say, hey, there is a different way to go about this. There's things you're allowed to care about that you normally can't care about. There's ways to track things. There are ways to give permanence to things. There's ways to sort of monitor things. And then the ability to do that, the ability to go the extra length to find the extra thing is really</v>
+
+00:43:36.880 --> 00:43:40.250
+<v Speaker 1>something special and something unique. And so,</v>
+
+00:43:40.960 --> 00:43:59.870
+<v Speaker 1>ah, I just my my today was a nod to counters of saying I love you counters you, you do cool and interesting things. And anyway, I hope you guys enjoyed my little talk today all about counters. But I'm here at Rachel school, so I know that means this is the end of my drive to work. Instead of talking magic, it's time for me to be making magic. See you next time.</v>
+

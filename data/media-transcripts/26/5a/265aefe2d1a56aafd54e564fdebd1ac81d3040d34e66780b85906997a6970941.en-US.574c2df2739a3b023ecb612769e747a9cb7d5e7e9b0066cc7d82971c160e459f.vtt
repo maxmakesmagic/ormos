@@ -1,0 +1,338 @@
+WEBVTT
+
+00:00:01.550 --> 00:00:32.440
+<v Speaker 1>I'm pulling out the parking lot. We don't know. That means it's time for the drive to work and to drop my daughter off at camp again. OK, so today is another in my series 20 years, 20 lessons based on the GDC speech I gave about the 20 things or 20 the things I've learned in 20 years of designing the same game. So I've done 6 podcasts before. I've done that. I've done 6 podcasts so far. So this is #7 so the lesson today I'm going to talk about is allow the ability to make</v>
+
+00:00:32.510 --> 00:00:33.500
+<v Speaker 1>to gain personal.</v>
+
+00:00:34.400 --> 00:00:53.590
+<v Speaker 1>OK, so let me explain. Allow the ability to make the game personal. So let me explain. So first, I always gave an example. So let me tell my little example story to begin with. OK, so this example takes place on a plane to Gencom. So for those that are unaware, Gen. Con is a convention, a game convention every year, usually in the summer.</v>
+
+00:00:54.900 --> 00:01:24.800
+<v Speaker 1>Once Upon a time, it used to be in Milwaukee, I think now it's in Indianapolis. But anyway, it's in the Midwest and it's probably the biggest gaming convention in the United States. Anyway, I was on the plane with a man named Chris Rush, who sadly died just a few months ago. I did a whole podcast on him. If you want to listen no more about him, please listen to my podcast. I talked all about him. Wonderful man, probably best known for being the artist of Black Lotus. He illustrated a whole bunch of cards.</v>
+
+00:01:24.910 --> 00:01:38.840
+<v Speaker 1>He worked at Wizards for awhile. He also was responsible for making the mana symbols. He did the graphic design on the mana symbols with the Premier Force. It was the original art director. But anyway, so Chris and I were on a plane. We both have a time worked for Wizards and so</v>
+
+00:01:39.910 --> 00:01:55.920
+<v Speaker 1>back in the day, which is the user sent a lot of people to Gen. Con like a good chunk of the company and I was part of that good chunk of the company, as was Chris. So as we were flying, we were sitting next to each other and we started talking. Chris and I had were friends and so Chris said to me that he,</v>
+
+00:01:57.530 --> 00:02:10.000
+<v Speaker 1>he had an idea that he couldn't get any traction on, but he wanted to share with me. He was a cool idea. And his idea was what if we took</v>
+
+00:02:11.430 --> 00:02:37.840
+<v Speaker 1>basic lands and then did something different with them? He's like, look, basic lands. Everyone knows what a basic land does. It doesn't need to be, you know, right now they look, they look pretty plain. He goes, we could jazz up a little bit. So his idea was what if instead of just keeping the art to a little box, the whole card could be art because there wasn't a lot you needed to convey on a basic land to convey there was a basic land. What if you just made full art basic lands? That was his idea,</v>
+
+00:02:39.870 --> 00:02:48.810
+<v Speaker 1>and he had pitched the idea to a bunch of people. And the responses he got is, look, that's not what basic lands are. That's not what Magic is. That's not how Magic cards look.</v>
+
+00:02:50.250 --> 00:03:20.570
+<v Speaker 1>And he really tried to do it. He, I mean, and I could listen when he talked to me. He had real passion in it and it really sounded like a cool idea, but he couldn't get any traction on. He couldn't get anybody to do it. But it turns out about a year later, I was working on Unglued, which is the unseats are kind of, they were silver bordered. They weren't meant for tournament play and they kind of broke rules. So I decided, one of the things I decided when I made on Glued was I really wanted a lot of different</v>
+
+00:03:20.640 --> 00:03:51.120
+<v Speaker 1>kinds of things in it. I, I've been inspired by a deck I used to do magic, not the game of magic, but actual magic tricks as a kid. And there's a deck I had bought which just had a lot of neat cards in it, like a 3 1/2 of clothes or a black queen of hearts or half the card was the Jack of diamonds. The other half card was the king of diamonds. They're just weird cards. And the idea was, Hey, I'm not quite sure what you're going to do with this,</v>
+
+00:03:51.210 --> 00:04:21.390
+<v Speaker 1>but you could go do fun magic tricks. These are just weird, quirky things that you could do fun things with. And I got inspired by that when I was making unglue it of just having a lot of cool, weird things. And so one of my ideas was I wanted to do some basic lands. And the idea was basic lands would not be normal basic lands. So when I was thinking of what to do with them, I remembered Chris's idea and I said that sounds like fun. And look, this is a product all about breaking taboos and doing crazy things. So I'm going to do it. And nobody really stopped me because when Christmas trying to do</v>
+
+00:04:21.460 --> 00:04:52.030
+<v Speaker 1>trying to introduce a normal magic people, yeah, that's not normal magic. But when I was trying to do it was a crazy wacky idea. People go, OK, it's a crazy wacky idea. So no one taught me. So I made them an unglued and they were really popular, really, really popular. So I put them in unhinge next time we didn't on set again, really popular. So then we we're working on Zendikar and Zendikar original Zendikar had a land theme. And so the idea was well, maybe people really loved it in normal magic. What if we finally brought 4 lands to</v>
+
+00:04:52.140 --> 00:04:55.140
+<v Speaker 1>black border magic and um,</v>
+
+00:04:56.050 --> 00:05:26.180
+<v Speaker 1>they're like, OK, you know, we had a scene that was land centric and maybe cool for land looked a little different. So we put them in Zendikar huge yet. And then we return to Zendikar battle for Zenda car huge hit. We put them back in. But anyway, the lesson here is I think that if you actually look, one of the things that's interesting is over the years we've made a lot of different basic lands. We made basic lands. We did for a while these lands, the guru lands that were special art, that were really</v>
+
+00:05:26.250 --> 00:05:55.830
+<v Speaker 1>cool. We did land set in actual locations from around the world. We've done all and every set also just does radically different basic land that they might say islands on them, but they look so different from world to world. And in fact, we've even gotten metaphorical like the planes. The planes of Ravnica are buildings. It's not even a traditional plane, but there are no traditional planes. So we had to sort of thing metaphorically, you know, on the city of world. What are the planes?</v>
+
+00:05:56.650 --> 00:06:26.860
+<v Speaker 1>And so one of the things that's really neat is that what we've realized with basic lands is that we've really, people really enjoy the basic lands, which is a fundamental part of the game. But the idea that we've given so many choices and people embrace that choice really hammers home this theme of how much like one of the key things, one of the things that really makes Magic tick is the person playing the game has a lot to say into the game. You actually pick what card is going your deck.</v>
+
+00:06:26.940 --> 00:06:57.130
+<v Speaker 1>And now do you think what cards go on your back? You pick exactly which card goes in your deck that even the basic lands, if you're going to put island in your deck, you have lots and lots of choices of island. You have hundreds of choices of what to put for your basic land, including, like I said, these 4 heartlands that are really popular that players really like. And so one of the things that's interesting lesson there is I think the reason that Chris got shot down was there's this idea of, well, that's not, you know,</v>
+
+00:06:57.200 --> 00:07:28.240
+<v Speaker 1>there's some expectation for what something is. And if we do something a little bit different, Oh well, that won't meet expectation. But we found the opposite to actually be true in magic, that one of the cool things about magic is we let people make a lot of decisions and that choices, I've learned, are a key part of a game that. So let me click in now to talk about some. I swear I'll come back around. So when I was in school, I went to communication school, Boston University, and one of the things we had to take, so in the communication field,</v>
+
+00:07:28.340 --> 00:07:58.390
+<v Speaker 1>there were three different forms of study. I was in broadcast and film, but there also was journalism and there was advertising, public relations, SO3 sections. And the way the communication school worked is you had a major, I was in broadcast and film major, but you'd still have to take classes in the other the other sections to sample them because you didn't actually pick your major, I guess, to your sophomore year. So they made you sample before that so you get a sense of what's broadcast and film like.</v>
+
+00:07:58.470 --> 00:08:00.080
+<v Speaker 1>What is math,</v>
+
+00:08:01.460 --> 00:08:32.380
+<v Speaker 1>you know, mass communications like, what's advertising like? What's journalism like? So I had to take some classes and advertising. So one of the most interesting things I learned my advertising class and this is one of the neat things they say a lot of creativity is just learning different things of different fields and finding how things can apply across fields. I mean, for those that have never listened, I did a podcast, I did an article on this and then a podcast on it talking about how I believe creativity is finding intersections between finding connections to things that the average person doesn't see the connections.</v>
+
+00:08:33.450 --> 00:08:49.600
+<v Speaker 1>But anyway, so I was taking an advertising class and they were talking about how advertising works, just the psychology of advertising. So it's all of advertising is based on this quirk of the human brain, which is if you if you're standing in a</v>
+
+00:08:50.530 --> 00:09:03.180
+<v Speaker 1>are grocery, a grocery aisle and you have to make a decision, you're trying to pick something out and it's not a product you have any experience with before. You're just trying to pick something for the first time. What are you most likely to pick?</v>
+
+00:09:03.880 --> 00:09:07.310
+<v Speaker 1>And the answer is the product you've heard the most of.</v>
+
+00:09:08.390 --> 00:09:12.800
+<v Speaker 1>OK, why? Why is that? And the answer is this is the quirk of the human brain.</v>
+
+00:09:14.130 --> 00:09:44.410
+<v Speaker 1>People associate familiarity with quality. I mean, essentially what happens is if you know something, you assume there's a reason to know it. And because you know it, you assume that means something. And the meaning that you have, you assume that that means that it has value because you know it. And so one of the quirky things about how the brain works is that if I'm looking at stuff, I'm looking in the aisle and I see things, well, the product that I know, I go, oh, I've heard of that. Oh, that must be good. That product I've never heard of,</v>
+
+00:09:44.480 --> 00:10:15.650
+<v Speaker 1>that can't be good. Ever heard of it? That project I've heard OHH, must be good. And the idea is in the in the ambience of other data without any other data to do the human assumption will fall to my familiarity is equal to some sort of quality, because the fact that I know it must mean something and that you prioritize things you know versus things you don't know. Now, on a big evolutionary scale, it makes some sense that, you know, you tend to lean toward things</v>
+
+00:10:15.720 --> 00:10:40.230
+<v Speaker 1>familiar with versus things you're not familiar with. And it would make sense that if I'm buying a product and I'd never heard of it before, but one of them I've heard of it, I guess they buy the one I've heard of. But it it's, it's, it's more, it's a stronger feel of people realize of how important having something, you know, means to you. And why do I bring that up? Because one of the things that's key is</v>
+
+00:10:41.360 --> 00:11:07.390
+<v Speaker 1>you want, I talk all the time. And this is the the caveat is someone plays my game. How do I get them to play a second time? That's the the big break point I always talk about is someone's going to play your game for the first time. OK, now there's a big issue of how they even get to play in the first time, which we'll get to in later lessons. But OK, someone plays your game. How do they what about the game makes them want to stick with the game? And the answer is that</v>
+
+00:11:09.180 --> 00:11:38.970
+<v Speaker 1>the more the game is about something they understand, the more the game is about something that speaks to them, the more it attached we'll get to the game. Familiarity will equal quality in their head. But how do you do that? And the key to doing that is you want to provide a lot of choices. Because the answer is you don't know what matters to people. You don't know what people care about. It's not like everybody cares about the same thing. So the trick here is you can't just do one thing. It's not like, well, everybody will just know thing X. They might not know thing X.</v>
+
+00:11:39.110 --> 00:12:00.170
+<v Speaker 1>So the trick is what you want to do is provide a lot of choices and then let your audience have some ability to customize it so that they can find the things that are familiar to them and choose them. And then if they pick things that are familiar, once again, they'll click in the game and go, oh, this is familiar. I'm comfortable and I will quit quality to it.</v>
+
+00:12:01.610 --> 00:12:04.450
+<v Speaker 1>And I know on some level it seems silly, but</v>
+
+00:12:05.260 --> 00:12:34.910
+<v Speaker 1>looks like ecology is really, really important. If you don't, if you learn nothing else, listen to my podcast. Is your audience, like I talked before about knowing your audience, well, your audience is humans and the human brain functions in a certain way. And part of a lot of my lessons is understanding how humans functions and as a designer, taking advantage of the fact that that's how it works. So one of the things we know is how important comfort is. Always have a comfort, surprise and completion. Well, how important comfort is</v>
+
+00:12:35.080 --> 00:13:05.140
+<v Speaker 1>covered is so important because people want to have a grounding and the way you do that, the way you do that in the game is, I mean, there's a bunch of different ways I talk about residents and other things, but one of the key things is if you give them a bunch of choices and let them choose, let them bring something to the like, let them because one of the things that's neat about it is what I want to do is create a positive experience. How do I do that? Well, I acknowledge the fact that</v>
+
+00:13:05.210 --> 00:13:19.130
+<v Speaker 1>by player has a lot of agency. And the more agency you give them, the more you're able to say, hey, you control your own fate and you can drift toward the things you like. The more you do that, the more you line up</v>
+
+00:13:19.880 --> 00:13:23.180
+<v Speaker 1>that it will mean something to them that will be a personal quality to it.</v>
+
+00:13:25.370 --> 00:13:55.240
+<v Speaker 1>And now there's a couple of different things here. In fact, let me one is you increase the chance of them getting comfortable, knowledgeable thing you you increase them being able to take something that means something to them bring to the game. But the second thing this is also important is that there is a lot of attachment that comes from you getting to make decisions and realizing that your decisions have an impact. One of the big things that I talk about in Magic, but this to another games is you want a sense of ownership.</v>
+
+00:13:55.370 --> 00:14:25.230
+<v Speaker 1>You want a sense of I brought something to the I've brought part of me to this game and I'll get more into this as we into some other lessons. But this is very key to choice, which is why is choice so valuable? Why is so, so important? Because choice, there's a bunch of really interesting things. First and foremost, I just talked about this is choice allows the player to be comfortable and allows them to choose things that resonate with them and mean something to them. That's important. OK,</v>
+
+00:14:25.390 --> 00:14:54.780
+<v Speaker 1>the second thing it does though is it lets them put a touch on it. That feels as if, I mean, this is a reoccurring theme you'll see and the next bunch of lessons. But you want your player to have ownership on the thing they are playing with. You want them to feel connected to it and that there's a big difference. Like one of the things that Magic doesn't does really, really well is when you play a game of I'll just use Monopoly, you play a game of Monopoly.</v>
+
+00:14:56.140 --> 00:15:02.490
+<v Speaker 1>There are decisions to make in the game of Monopoly, and there are things that you can do. There's choices you can make, and</v>
+
+00:15:03.210 --> 00:15:14.660
+<v Speaker 1>Monopoly different, you make choices. But the one thing Magic does, it's a little different than that is Magic lets you define the game you are playing. It lets you make choices that,</v>
+
+00:15:15.390 --> 00:15:45.450
+<v Speaker 1>for example, the deck you were playing is from cards you've chosen. You know, if you play Monopoly, I'm playing on a Monopoly board, I could choose which Monopoly board, you know, I mean, I have some choice of which Monopoly I play, I guess. And when I'm playing a game Monopoly, I could choose what I buy and what I don't buy to some extent. I mean, I have to land on it, but I might go, Oh yeah, I don't want this one. I'm waiting for that one. Whatever I can. I have a little bit of customization. But imagine does really, really well is it says you choose what you want to do. You want to make an elf deck, make</v>
+
+00:15:45.520 --> 00:15:54.760
+<v Speaker 1>elf deck. You want to make a black deck that makes the opponent discard and whatever you want to do. You have a lot of say what you want to do.</v>
+
+00:15:55.550 --> 00:16:02.490
+<v Speaker 1>Now, obviously some people prioritize winning over everything else, and so those decisions put some in certain directions, but other people might</v>
+
+00:16:03.360 --> 00:16:34.070
+<v Speaker 1>value flavor over other things that they just want to have fun. And it's not about having most powerful dog, but having the deck that speaks to them and feels like theirs. So one of the key things that gives them choices is you allow your player to sort of make a closer emotional bond with what they're doing. So choices are very important there and that they allow them to make the bond, they allow them to really connect to themselves. And this goes back like one of the things that I talk a lot about when I talk about choice, when I say, OK, you're game needs choice.</v>
+
+00:16:34.220 --> 00:17:05.310
+<v Speaker 1>What I'm saying at the core is what you want to do is you want to make sure that you're maximizing your player experience, right? Like at the end of I play game one, at the end of the game, I say to myself, OK, what positive things did I get out of this? How much fun was this game? How much did I enjoy the game? How much did the game speak to me? How much did the game resonate on an emotional level for me? Last lesson was all talking about how you want to find the emotion. Well, part of finding the emotion is making sure that the</v>
+
+00:17:05.400 --> 00:17:23.800
+<v Speaker 1>player has the agency to push in the direction that means something to them, something Magic does very well. That If I want the game to be about something light and silly, well, I choose light and silly cards. If I wanted to be very mean and lean and very serious, I can choose that. In fact, one of the things that I like</v>
+
+00:17:24.980 --> 00:17:54.960
+<v Speaker 1>Magic has a color wheel. It's five colors and each color represents something very distinctly different. I think that's a big part of what makes Magic magic because there's a lot of different opportunity to express yourself. There's a lot of different ways to sort of in what you choose and just choosing a color. One things we find is when you go to beginners and Magic, one of the first decisions we make you do is like, OK, pick a color. Now later on you can pick another color and pick more than one color. I mean, it's not as if you, but when people first</v>
+
+00:17:55.030 --> 00:18:25.220
+<v Speaker 1>they're playing, it's a nice clean choice to start making. OK, there's five choices. There's five colors. Each color means something. And then, OK, well, which speaks to me, and this is the thing I'll keep coming back to, is your goal is not to take your game and make your player adapt to your game. Your goal is to take your game and figure out how your game can adapt to your player. So once again, think of this way. Your player comes in</v>
+
+00:18:25.330 --> 00:18:30.390
+<v Speaker 1>tested with things. I talk about them being preloaded, right, That they come and they care about. There's things they care about.</v>
+
+00:18:31.230 --> 00:19:01.150
+<v Speaker 1>Now, part of part of making your game an experience that people want to play is something about something that already speaks to them is in your game. As I talk about residence being so important, but in general, it's like, I like thing X, this game has thing X. So something that Magic does very well in other games can do well is to say, OK, I'm have a lot of different things and I'm going to let my audience pick and choose what they want that way. Let's say you love elves. Let's say you</v>
+
+00:19:01.220 --> 00:19:13.780
+<v Speaker 1>Ohh. I'd love, love, love, love elves. Elves are awesome. I love elves. Elves are great. You know, I love Lord of the Rings, I love Keebler Cookies, I love whatever. I just love elves, right? I love Santa. I love elves.</v>
+
+00:19:15.340 --> 00:19:45.470
+<v Speaker 1>Ohh, guess what? Magic has elves. You can make an elf deck. You can do that, you can build it. And in fact, if you go back in time, if you're willing to look at all the history and magic, elves are centered in green. But we have over the years made white owls, we made black elves. You know, there's other choices of elves you can mix. It's not even a mono green deck if you really doing all the history of elves. Likewise, let's say you love Dragons, or let's say you love being sneaky, or let's say you love just overrunning your opponent with some goofy little thing.</v>
+
+00:19:45.560 --> 00:19:55.250
+<v Speaker 1>All these are options for you. And the idea is by giving you choices, what we let you do is we let you sort of push in the direction that you want to go.</v>
+
+00:19:57.500 --> 00:19:59.390
+<v Speaker 1>The other thing that's nice is.</v>
+
+00:20:02.590 --> 00:20:31.840
+<v Speaker 1>And that's another thing about choices is you don't want to overwhelm your player with choices. What you want to do is give them simple choices and then keep giving them what I call nestled choices. Like Magic first says, OK, hey, what color do you want to play? Pick a color. That's the first thing you have to decide in early Imagine it doesn't matter. You have to really segregate too much. When you first started playing, playing a red deck, that's very common. When I see if you ask somebody what they play and they tell you by color, that's a sign of a beginner.</v>
+
+00:20:31.950 --> 00:20:47.530
+<v Speaker 1>Ohh. I'd play a red deck, which is great. There's nothing wrong with that. It's just a nice, simple way to play. Now as you get more invested in the game and more understanding, OK, there's a lot more detail than just a red deck. Imagine we call archetypes, which are kinds of decks you can play, right? So</v>
+
+00:20:49.270 --> 00:21:18.640
+<v Speaker 1>you know when you're playing a red deck, Ohh, are you playing a burn deck? I am using direct damage to my opponents face to try to do that. Am I using making a goblin deck? Am I playing a lot of little tiny goblins? You know, what am I doing? What kind of deck am I making? So as you graduate up you can go deeper and that that's what it costs about Nestle choices, which is make sure when you give someone a choice that you have a simple clean group of choices to pick from. You want your choices to be very distinct. What is bad is if your choices are too narrow and their decision making,</v>
+
+00:21:19.210 --> 00:21:48.790
+<v Speaker 1>what you don't want to do is say, well, these are almost the same, but they're just different by a little tiny bit. You know, it's sort of like you don't want to say make a choice, but the choice is to beginner will seem like the same thing. That's bad. You want your choices to be clean and clear and deliberate. OK, like one of the things like the magic colors do good job. There's five things to choose from, but they are really distinct. No ones confusing one color for another. They're very distinct from each other. Now, 5 is a lot. You don't always need 52 works, you know,</v>
+
+00:21:49.750 --> 00:21:57.970
+<v Speaker 1>but the key is. So choice not only allows customization, but it also allows agency. Let me explain this a little bit. So</v>
+
+00:21:59.070 --> 00:22:14.730
+<v Speaker 1>when I say to you, OK, you get to do something and early on in gaming that you want to make your point. You want to let your players have choice very early on because one of the things the choice is do is they feel like they are now involved in the game. They had some impact in the game.</v>
+
+00:22:16.040 --> 00:22:33.920
+<v Speaker 1>That one of the things when you make a game, you want your audience feeling invested in it. Well, how do people get invested in something? Why are they invested something? They're invested in something. And this is once again, this is human psychology. The more that something is something that you have been involved in, the more connected you get to it.</v>
+
+00:22:34.790 --> 00:22:36.520
+<v Speaker 1>You know that,</v>
+
+00:22:38.720 --> 00:22:43.490
+<v Speaker 1>you know, I look at things I've done and the more connected to something, the more personal I feel it is,</v>
+
+00:22:44.120 --> 00:22:58.220
+<v Speaker 1>you know? And that the more connected you are to something, the more important you connect to it. That you equate things you are involved in with importance just like you things. You know that</v>
+
+00:22:59.450 --> 00:23:04.390
+<v Speaker 1>people essentially a lot of how we value things has to do with how they affect us.</v>
+
+00:23:05.600 --> 00:23:35.080
+<v Speaker 1>So let's say for example, I worked really hard on something. Well, I'm really proud of that thing. For example, my job, I make magic sets. Well, when a magic set comes out that I worked really hard on, I'm really proud of that. I worked really hard on that. That's something I put a lot of time and energy on. So I feel very emotionally connected to it. So games are no different that if I say to my to the player, you get no decisions, I will tell you what to do. OK, then might enjoy the game. I'm not saying it won't enjoy the game, but if I say to them, Hey, hey, what do you want? Do you want a or</v>
+
+00:23:35.170 --> 00:23:47.700
+<v Speaker 1>me? And they go, what a OK, now do you want to see your dad now? Want to see all of a sudden they're making decisions and their decision making now makes the game more personal to them.</v>
+
+00:23:48.810 --> 00:24:19.140
+<v Speaker 1>Like one of the things we talked about with Magic decks is that there's a high level of of ownership that when you're deck wins, it's not just the deck winning. You have won because the deck, you have lived and breathed and made this deck. You made decisions, you made choices, you built it. It's an extension of you. Way more so than if I said, hey, I mean, for example, in Monopoly you get to pick a piece and even that choice, Oh, do you want to be the dog,</v>
+
+00:24:19.220 --> 00:24:29.590
+<v Speaker 1>the car or the thimble or the top hat? Or maybe they're all pieces. But um, but ohh, I'm always the top hat. I relate to the top at the top hat. That's me. Even little things like that,</v>
+
+00:24:31.210 --> 00:24:47.030
+<v Speaker 1>each choice someone makes, each time someone does something and then it's something they can connect to. Like one of the things, for example, you'll look at is traditions. Why do people do traditions? Why is it so important that hey, every holiday we do thing X?</v>
+
+00:24:47.630 --> 00:24:49.640
+<v Speaker 1>And the answer is that</v>
+
+00:24:50.780 --> 00:25:10.720
+<v Speaker 1>in some ways a holiday is just a holiday. And there's things that come as part of the holiday that just everybody does. And that's group. There's a group community feel to that. But part of it also is in my family, we do thing X. It's something we do and it's funny. Like for example, I've had kids and we've introduced stuff to them and it's become.</v>
+
+00:25:12.220 --> 00:25:14.930
+<v Speaker 1>So for example, those little story I'll tell is</v>
+
+00:25:16.430 --> 00:25:17.830
+<v Speaker 1>everything's giving.</v>
+
+00:25:19.080 --> 00:25:22.280
+<v Speaker 1>My wife's mother used to come for Thanksgiving</v>
+
+00:25:23.140 --> 00:25:28.230
+<v Speaker 1>and she would always bring Donuts. And the reason was is</v>
+
+00:25:30.230 --> 00:26:00.640
+<v Speaker 1>normally what would happen is she would take a bus to get to us and the bus would get to the place that the bus would take her is to a in front of a grocery store. And then we would pick her up at the grocery store. And in the grocery store there were she would always go buy something for you. She would go in and try to buy something for Thanksgiving. And one time she bought Donuts just there was there was easy and we really liked for Donuts. And so she brought Donuts again. Now there came a point where she got</v>
+
+00:26:00.710 --> 00:26:06.870
+<v Speaker 1>throwing up. It was hard for her to come to Thanksgiving. We now go to her, but on actual Thanksgiving Day</v>
+
+00:26:08.190 --> 00:26:15.390
+<v Speaker 1>in the morning we now buy Donuts. It just became a thing or family did that on Thanksgiving morning. We have Donuts.</v>
+
+00:26:16.150 --> 00:26:46.040
+<v Speaker 1>It just it's who know it is. It started out of whatever, you know, I'm saying it, it didn't have great meaning per se, but it took on a meaning it because it was a it was a way to sort of involve Laura's mother and Thanksgiving, even though she couldn't be there. It was a way to sort of this is a tradition that she had started, even though the tradition was more of her just trying to do something to add to the thing. It became a thing and now it's something we do. And there's a good chance that my kids, when they have things getting, we'll have Donuts in the morning as they watch the parade</v>
+
+00:26:46.170 --> 00:27:16.250
+<v Speaker 1>because that's what you do in Thanksgiving. And that's really powerful. I can't express enough how when you make decisions and that becomes part of something, that becomes part of ritual. Like you know, that part of you'll notice when you play a game is there's certain things that you will do and that becomes part of the game playing experience to you. And a lot of that comes with choices. Like I said, what piece you play, Monopoly might seem insignificant, but it really does mean something to some people. Really, that's part of the experience. I'm always</v>
+
+00:27:16.360 --> 00:27:43.370
+<v Speaker 1>top hat. I have to be the top hat. That's what happens when I play this game. And that is another great example of the power of choices. And that choice might seem totally inconsequential. What piece are you? And so when you are building your game, yet another reason that you want to put choices. You allow people for ritual. You allow people to identify, You allow people to do things that put a stamp on the game.</v>
+
+00:27:44.790 --> 00:27:52.630
+<v Speaker 1>And trust me, one of the reasons you want people, the more people ritualize, more people sort of make the game their own,</v>
+
+00:27:53.560 --> 00:28:17.190
+<v Speaker 1>the more they do things in which it has this personal stamp, the tighter the connection, the more the emotional. You know, one of the reasons that I talk about things they walk through a different lessons is that there is a reason behind everything I'm talking about. And today a lot of sort of explaining choices to you is there's so much good that comes from choices. There's so much good that you want your</v>
+
+00:28:18.370 --> 00:28:32.220
+<v Speaker 1>and to be able to make the person, to make it personal and to allow them to make it personal, you really have to let them customize it. You have to let them sort of add ritual to it. You have to let them sort of leaned toward the thing that means something to them,</v>
+
+00:28:32.880 --> 00:28:33.680
+<v Speaker 1>you know, And I</v>
+
+00:28:34.510 --> 00:28:48.890
+<v Speaker 1>the part of this that I sort of say again and again is a lot of people want to try to figure out what's the thing. And the answer is there's not always the thing. A lot of times what there is is there's many things and that you know,</v>
+
+00:28:50.230 --> 00:29:06.900
+<v Speaker 1>the more you can make your game something to many different people. Like one of the things that's fun is I love going to game conventions and walking around the floor and like the gaming room and watch other people play games. It is very illuminating to watch other people play a game, you know,</v>
+
+00:29:07.660 --> 00:29:15.660
+<v Speaker 1>and the reason is that there's a lot of personification that goes in the game. There's a lot of this is how I play the game.</v>
+
+00:29:17.250 --> 00:29:24.340
+<v Speaker 1>You know, a lot. We talk a lot about house rules, right? About how, well, here's a rule we added. When we play, we do this thing,</v>
+
+00:29:25.740 --> 00:29:55.790
+<v Speaker 1>and I always encourage house rules. I always encourage, hey, when you play, make it the game you wanna play. It's OK if the game did something and it wasn't quite what you wanted, you can push in the direction you want. I mean, I always suggest trying what the creator meant so you understand, Because sometimes, look, they spend a lot of energy trying to make the best they can. They might actually know better than you. So try that. But if you do try to go, you know what? I actually like this thing. I adapt games all the time. I'll try it like intended and they go, you know what</v>
+
+00:29:55.870 --> 00:30:01.920
+<v Speaker 1>me this is this little change would make me happier and that a lot of</v>
+
+00:30:02.920 --> 00:30:09.250
+<v Speaker 1>making your game personal is building that into your game of saying, OK, I want to make sure.</v>
+
+00:30:10.350 --> 00:30:16.260
+<v Speaker 1>I mean, people can adapt games and real game players will, but house rules on anything. But don't,</v>
+
+00:30:17.180 --> 00:30:33.560
+<v Speaker 1>don't rely your game on people. Be willing to step outside the game to make decisions. Some will, but that's not everybody. That you wanna make sure the customization falls within your game, the choices fall within your game, and that you let people lean in the direction they want to lean and make choices that they want to make.</v>
+
+00:30:36.600 --> 00:30:41.200
+<v Speaker 1>Like I said, one of the things you'll find as I walk through these lessons is</v>
+
+00:30:41.990 --> 00:31:13.340
+<v Speaker 1>it's not as if each lesson really is the result of one thing. And this is the holistic thing of it. I mean, a lot of what I'm trying to say is, I mean, a lot of them saying today is figure out how to make your game personal. And the number one way to do that is choices. It's not the only way, but it is the easiest way because you don't know your end user as well as your end user knows your end user. You know your audience somewhat, but your audience knows themselves much better and that if you give them the flexibility,</v>
+
+00:31:13.430 --> 00:31:33.020
+<v Speaker 1>like if I say to you make here's a choice to make, you're going to pick the choice that means something to you that I, the game maker, don't need to know. I need to give you interesting choices. I'm almost still works. The last point is when I say choices, I don't mean choices for the sake of making choices. I mean, choices that are clear</v>
+
+00:31:33.850 --> 00:31:51.720
+<v Speaker 1>that they're they're different from one another. It's clear what they mean. And you know that when you want people to make choices, it wants to be OK. They're radically different from each other. And you can see some ramifications of why it might matter. And you want to sort of play into choices that you think will speak to people that will mean something to people.</v>
+
+00:31:53.180 --> 00:32:26.220
+<v Speaker 1>I mean, I'm not saying you can't let them make inconsequential choices. That's OK. But that's not really what's going to speak to the audience. Make sure you're making decisions that actually matter to them. Now, once again, hey, picking piece inconsequential and people, to some people it's a big deal. So I'm not saying that you can't make smaller choices, and that's fine. What I'm saying though, is that you need to make sure that your choices are clear to your audience. They understand the difference between the choices and that they are meaningful to your audience. And once again, there's a range of things. I'm not saying you can't do small things. Small things can mean big</v>
+
+00:32:26.290 --> 00:32:29.780
+<v Speaker 1>things to people, but make sure that your choices are</v>
+
+00:32:30.770 --> 00:32:38.490
+<v Speaker 1>hey. Don't overwhelm them with choices and nest your choices. Don't make all the choices at once.</v>
+
+00:32:40.500 --> 00:33:10.760
+<v Speaker 1>So here's mistakes you can make with making choices. A, the choices seems too similar to each other, so people can't tell them apart. B, the person doesn't understand why they're making the choice. The choice seems meaningless. Or C, there's too many choices and they just get overwhelmed and they clam up. That's another key thing to remember is if your choices aren't clear and simple, if they're too complex and people I don't understand either, I don't know why I'm making a choice. I don't know how to make the choice. That's another careful thing.</v>
+
+00:33:10.840 --> 00:33:20.370
+<v Speaker 1>Giving people choices is making sure you're not overwhelming them with the choices, or being too narrow in what the choices mean so they don't understand what the difference the choices are.</v>
+
+00:33:22.060 --> 00:33:36.850
+<v Speaker 1>And the reason you want to nest is, let them make a choice. OK, now that they've made a choice, OK, based on that choice, let them make other choices. And the reason that's much more comforting is that it allows you to make a bunch of choices, but it only gives them choices once it's relevant to them.</v>
+
+00:33:37.570 --> 00:34:07.340
+<v Speaker 1>Like if I said, let's start picking archetypes before I just start picking color in Magic, well, that would just be harder If I starting with color is nice. It's simple. The colors really have strong meaning. They're really, it's a key part of the game. It's the ethos of the game. It's a great place to start. It's a wonderful place to start with Magic. When I teach people Magic, it's the very first thing I have them pick because it's just a nice easy choice and it's full of lots of resonant choices. That's another thing. By the way, one final thing I'm getting here is if your early choices can be</v>
+
+00:34:07.520 --> 00:34:37.420
+<v Speaker 1>when I say resin mean they're less, they have more external decisions to the game, meaning they rely on things that people don't need to understand the game to understand that make your early choices something that life has taught them. Like the nice thing about colors and magic is you don't need to know anything to pick a color. I describe the colors to in one will speak to you because the colors represent something. And so do you like being sneaky? Or maybe you want to be blue. Are you a rule follower? Maybe you want to be white. Do you follow your passions? Maybe you want to be red that the colors will</v>
+
+00:34:37.520 --> 00:35:08.180
+<v Speaker 1>speak to you, but they speak to you in a general sense, so that's important. A lot of your earliest choices need to be something where the audience can make decision decisions based on previous life knowledge and they don't have to know a lot about the game to make the decision. Now, as the game evolves, they can slowly make more and more in game decisions. But be careful when you're making an early decisions, you want the earliest decisions to be easy to make and based on people's own experiences to make the decision. OK, but guys, so let me wrap up. So the final point today, like I said, the lesson today lesson #7</v>
+
+00:35:08.370 --> 00:35:39.120
+<v Speaker 1>is allow the player the ability to make the game personal. You're you really want the game to speak to the player and the more personal it is, the more it's something that means something to them, the greater chance when the game ends, they go, let's play that again. This game meant something to me. It spoke to me. I felt it I was personal. Remember, familiarity equals quality in people's mind. You want people to finish the game go. That was an awesome game and probably other than awesome game because it spoke to them on a personal level. So make sure when you make</v>
+
+00:35:39.190 --> 00:35:59.770
+<v Speaker 1>the game, you give them the opportunity to make a personal and the first way to do that, we'll get to more in future podcasts, but the first way to do that is give them nice, clean, simple choices. OK guys, Well, that wraps up for today. I'm in my parking space, so we all know that means means the end of my drive to work. Instead of talking magic, it's time for me to be making magic. I'll see you guys next time. Bye bye.</v>
+

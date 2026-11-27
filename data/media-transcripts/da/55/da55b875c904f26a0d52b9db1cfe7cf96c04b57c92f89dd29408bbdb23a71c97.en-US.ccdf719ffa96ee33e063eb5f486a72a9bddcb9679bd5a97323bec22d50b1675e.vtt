@@ -1,0 +1,554 @@
+WEBVTT
+
+00:00:01.540 --> 00:00:30.930
+<v Speaker 1>I'm pulling my driveway. We all know what that means. It's time for him to drive to work. OK, so today's column came about because of a conversation I had on my blog. So today I want to talk about complexity. So one of the things I think is misunderstanding, I argue with people is a lot of people sort of see different things in complexity. A lot of people think it's like what makes games good? And people believe it's what causes problems.</v>
+
+00:00:31.370 --> 00:00:53.500
+<v Speaker 1>I want to talk a little bit about how how I see complexity and that complexity means for games and a lot of game designers listen up or aspiring game designers. So let me talk about what complexity means and how it applies to your game. OK. So quite puts basically complexity to me is a cost</v>
+
+00:00:54.270 --> 00:00:56.420
+<v Speaker 1>that there is</v>
+
+00:00:57.740 --> 00:01:06.470
+<v Speaker 1>there is something you gain from using it, but something that that you spend by using it. And so I want to talk a little bit what that is. So</v>
+
+00:01:09.060 --> 00:01:11.770
+<v Speaker 1>one of the things I talk about when you,</v>
+
+00:01:13.420 --> 00:01:39.290
+<v Speaker 1>there's a couple things you worry about as a game, as a game designer. Number one is will people be able to play my game? I talk about magics barrier to entry. That's so barrier to entry is the term I use, which means I don't know how to play. I need to get to the point where I know how to play. How hard is that? How hard is my barrier to entry? And the thing to remember is that</v>
+
+00:01:39.910 --> 00:02:05.530
+<v Speaker 1>you know, if you're game, if you're game, like Magic for example, is a game that evolves overtime, meaning it's a game that can gain complexity overtime. Some games, they are what they are and they don't necessarily get more complex. But if you're game changes at all, there's this pressure to add things to it. But anyway, the real question is how easy or hard is it for somebody who doesn't know your game to learn your game?</v>
+
+00:02:06.770 --> 00:02:07.380
+<v Speaker 1>And</v>
+
+00:02:09.240 --> 00:02:22.260
+<v Speaker 1>a lot of people gloss that over. A lot of people like, well, they'll learn, you know, I have a cool game. And once they learn it, it's a cool game. And the problem there is that if you, the game designer, aren't thinking about</v>
+
+00:02:23.210 --> 00:02:32.080
+<v Speaker 1>how easy it is for someone who's never played the play, like your game exists because there's people that crossover that that get into that. Now,</v>
+
+00:02:34.270 --> 00:02:54.080
+<v Speaker 1>when you add complexity, what you're saying is I am, I mean, First off, the the first cost is you are adding to your buried entry. Now, there's a bunch of ways to use complexity that doesn't cause that problem, but you have to always be conscious when you're adding any complexity is are you making the game harder to learn?</v>
+
+00:02:55.840 --> 00:03:03.730
+<v Speaker 1>And the thing that I often say to people is like, I, I compare it to writing all the time, which is,</v>
+
+00:03:05.270 --> 00:03:33.500
+<v Speaker 1>does your scene, is your character, is your moment adding to your story? You know, if I'm writing a script and I have this awesome scene, but I'm like, OK, let's say I took that scene out of your movie. Can I understand the movie? Does the movie make sense? And the answer is, yeah, yeah, it makes perfect sense. Like, do you need that scene? I feel that rules and games are similar, which is if I'm adding something to the game and I go, if I just took that out, how would the game be? Would the game be fun? Would the game be fun without that?</v>
+
+00:03:34.780 --> 00:04:00.630
+<v Speaker 1>Like one of the things we do in Magic all the time is we always look back and say, is that that rule holding its weight? A classic example was in Magic we have a rule, or we had a rule called Mana Burn. And the way mana burn worked was that there's a whole system to casting spells. And the idea was that if you had magical energy but didn't have anywhere to spend, it could hurt you.</v>
+
+00:04:02.510 --> 00:04:03.270
+<v Speaker 1>And</v>
+
+00:04:03.920 --> 00:04:25.430
+<v Speaker 1>it was added originally to the game because it was flavorful. You know, it's the idea that I have. And there are cards, you know, Richard Garfield made some cards that took advantage of it because there's a rule of the game and was able to take advantage of it. But I think the reason it exists, to be honest, was he came up with some cool cards that were very flavorful and said, Oh, well, this is just kind of flavorful.</v>
+
+00:04:26.130 --> 00:04:49.840
+<v Speaker 1>But the problem was it was a rule that you kind of had to learn early on because it could matter, or at least people felt like it could matter. It was a kind of rule that people often learned early on. Let's taught early on because it could be relevant. The problem was it wasn't often relevant. It didn't come up very much. In fact, the story I tell them, I've told the story before, but I'll tell it again.</v>
+
+00:04:51.200 --> 00:05:21.890
+<v Speaker 1>We were trying to figure out whether or not to keep matter burn or get rid of manner burn. So we I said to my designers like we're going from the next month, we are going to play all of our design play tests as if mana burn doesn't exist because I want to see what it's like. What problems does it create? What issues does it have? So a month later I said, OK, let's talk what happened. And what happened is nothing happened. It didn't come up, you know, in one month. And all our games of play, testing the situations where men like having mana burn versus not having burned didn't happen.</v>
+
+00:05:22.320 --> 00:05:34.930
+<v Speaker 1>And that was a big sign to me that oh, well, if we can go a whole month through all these different playtests and nothing comes up, hey, that's not a rule that comes up very much. Maybe that's a rule that we don't need to have.</v>
+
+00:05:36.240 --> 00:05:41.610
+<v Speaker 1>And that is a big thing that when I'm looking at complexity is trying to understand</v>
+
+00:05:42.910 --> 00:05:43.160
+<v Speaker 1>how</v>
+
+00:05:44.370 --> 00:05:55.820
+<v Speaker 1>how often it matters. Does it really matter to the game? And that you know, so the first big thing about complexity is you always want to check to make sure that</v>
+
+00:05:57.290 --> 00:05:58.320
+<v Speaker 1>like I like to say</v>
+
+00:05:59.220 --> 00:06:30.300
+<v Speaker 1>the, the, the pot, OK. I think in the positive side of complexity, the positives of complexity is, you know, you're able to add more elements to your game. So the people that enjoy your game, you can get more facets into it. Sometimes you can use it to add flavor. Sometimes you could use it to just get some nuance to the game play. But, and this is important complexity, it isn't that complexity itself adds value to your game. It is not as if I just make something more</v>
+
+00:06:30.370 --> 00:06:34.440
+<v Speaker 1>complex. It makes for a better game. That is not true.</v>
+
+00:06:36.350 --> 00:07:06.100
+<v Speaker 1>The idea is there are things you can add to your game that will give extra value, and anything you add to your game overall adds to the complexity. But do not equate complexity with value. Value will add complexity, but complexity does not always add value Whenever I add something to my game. Like complexity, all complexity cares about. Seriously, complexity is about how many things does somebody have to keep track of</v>
+
+00:07:06.290 --> 00:07:07.730
+<v Speaker 1>in order to play the game?</v>
+
+00:07:08.980 --> 00:07:33.180
+<v Speaker 1>And I, I think a lot of times I talk about complexity in the context of learning the game, and that's important. Like I said, whenever you're evaluating your game, one of the things you have to evaluate is will people play my game? Especially when your game is new, I have an awesome game, Will people play my game? If there's too much between them getting into the game and the game that I'm not enough, people will play and your game will probably not make it.</v>
+
+00:07:34.650 --> 00:08:01.370
+<v Speaker 1>Now once again, there are exceptions. I mean, magic has a perfect exception. Is magic complex? It's not like you can't have a complex game. Magic is very complex. The issue I have is not that it's not complex, but is a complex spent correctly? Is it doing the right work? And that's the big issue for me is I'm not anti complexity. I'm just, I want you to understand that the complexity comes with a cost and is the cost appropriate?</v>
+
+00:08:02.880 --> 00:08:18.010
+<v Speaker 1>So I, you know, I was spending a lot, I spent a lot of time here talking about the beginner, the barred entry. And that's important, but that's not the only thing. So here's another cost of complexity they have to be careful of is complexity talks about how many things I have to keep track of.</v>
+
+00:08:18.770 --> 00:08:19.240
+<v Speaker 1>Um,</v>
+
+00:08:20.180 --> 00:08:25.530
+<v Speaker 1>and the way I, I sort of think of this is imagine taking any game that you play</v>
+
+00:08:26.220 --> 00:08:31.680
+<v Speaker 1>and justice making you care for extra things. Just like, for example, UM,</v>
+
+00:08:32.540 --> 00:08:42.390
+<v Speaker 1>I could say, OK, you play a game and here's a new rule I'm going to add on to any game. It's a new rule. I'm gonna in any game that if it is exactly</v>
+
+00:08:43.640 --> 00:08:47.030
+<v Speaker 1>on the clock, if it is even minute,</v>
+
+00:08:47.710 --> 00:08:48.340
+<v Speaker 1>then</v>
+
+00:08:49.920 --> 00:09:20.450
+<v Speaker 1>you know, you you get some you get some extra ability and it's odd. You don't you know that like for example, if it's even, you can't lose the game when it's even. You can only lose the game when it's odd. You can add that to indie game that it's even in your lunch to lose the game. Well, you can't lose yet. You can't lose until it's odd. OK, now is that making the game any better? It's adding complexity to the game. You now have to sort of track what minute it is and figure out when you're trying to beat somebody. If I want to make sure that I'm trying to defeat them on an</v>
+
+00:09:20.530 --> 00:09:37.050
+<v Speaker 1>in a minute, does that make the game more fun? Not necessarily. Now pretty much go no. One of the issues of complexity is not just the barrier entry issue, but also the issue of how much does a player have to pay attention to. So for this I'm going a little metaphor</v>
+
+00:09:38.760 --> 00:09:41.870
+<v Speaker 1>and my metaphor is that imagine</v>
+
+00:09:42.710 --> 00:09:43.840
+<v Speaker 1>your players</v>
+
+00:09:46.160 --> 00:09:50.300
+<v Speaker 1>capacity to, you know, mental capacity is a cup</v>
+
+00:09:51.070 --> 00:09:52.810
+<v Speaker 1>and you're pouring them some tea.</v>
+
+00:09:54.070 --> 00:09:54.650
+<v Speaker 1>Um,</v>
+
+00:09:56.280 --> 00:10:03.050
+<v Speaker 1>there's a point at which you filled the cup and then you can give them no more tea anymore. Tea you put in the cup is just spilling other tea out of the cup.</v>
+
+00:10:03.780 --> 00:10:32.330
+<v Speaker 1>And so there's a period in a gameplay where you reach what I'll call Max mental capacity, which is, and mind you, different, different players have different capacities, but looks like the average mental capacity. There's a point at which the player can't, can't mentally process everything. And then they are forced into what we call shortcutting, meaning they're like OK, well I'm going to have to make some assumptions on things because I can't track everything.</v>
+
+00:10:33.370 --> 00:10:42.800
+<v Speaker 1>I think one of the problems that games can have is they Max off the opponents mental energy and then what ends up happening is that they end up</v>
+
+00:10:43.950 --> 00:10:51.410
+<v Speaker 1>prioritizing what to care about. And they care. They care about the things they think are important, glossing on the things they don't think are important.</v>
+
+00:10:52.640 --> 00:10:55.090
+<v Speaker 1>And really the question is, is</v>
+
+00:10:56.450 --> 00:11:19.490
+<v Speaker 1>ideally you don't want your tea overfilled. You want your teacup. You want your player not to be overwhelmed by the issue. Because one of the problems with being overwhelmed is people play games to relax. I mean, people play games for many reasons, but one of the reasons it's fun, it's and that well, I think people are willing to sort of push their mental capacities into game. Games are mental.</v>
+
+00:11:20.780 --> 00:11:32.490
+<v Speaker 1>The goal here is not to exhaust them, the goal here is not to overwhelm them. And the other thing is if your game has too much stuff, if you overfill their cup, then what happens is</v>
+
+00:11:33.220 --> 00:11:38.810
+<v Speaker 1>they have to figure out where to put their energy and they might put their energy in the completely wrong place.</v>
+
+00:11:40.620 --> 00:12:10.280
+<v Speaker 1>And what I mean by that is so I talk about make sure we're the fun is not all things are equally fun, not all things you can keep track of or equally fun. And that if you're not careful, what you, what you, the game player want to do is make sure that you understand the experience that you're giving to your players. Because if you don't want, once you sort of take away the control, then the players start making choices that you have less control over and the quality of the game</v>
+
+00:12:11.330 --> 00:12:31.430
+<v Speaker 1>become something that you know you have less control over. That what you want is to create an experience for the players and you want, you want to maximize that experience. You're trying to make an awesome play experience for them. But the more you give details, the more you're making them have to sort of choose what to do and not to do. You're giving up some control of that experience.</v>
+
+00:12:32.260 --> 00:12:32.750
+<v Speaker 1>Um,</v>
+
+00:12:33.770 --> 00:12:46.740
+<v Speaker 1>so for example, let's say you're making your game and you have some small thing that they have to keep track of that some small part of the game. And let's say that small thing doesn't happen very often.</v>
+
+00:12:47.500 --> 00:12:48.090
+<v Speaker 1>Umm,</v>
+
+00:12:48.950 --> 00:13:00.810
+<v Speaker 1>lacking magic, for example. UM, you know, one of the things we'll do when we make a set is one of our rules is that we tried only make you care about one thing you don't normally care about</v>
+
+00:13:01.660 --> 00:13:02.820
+<v Speaker 1>that, you know,</v>
+
+00:13:04.190 --> 00:13:32.040
+<v Speaker 1>for example, in anyone game, there's lots of magic are pretty complex game already. There's a lot of things we could make you care about. There's a lot of elements and there's a lot of interesting game play spaces to go. But what we don't want to do is say, well, let's care about thing A&amp;B&amp;C and DNF that you just would tire the player out. Or once again, you one of two things happens when you overload them complexity wise in game. I mean, obviously barring entry problems, but OK, for the players already injured game, they already accepts your game</v>
+
+00:13:33.340 --> 00:13:42.730
+<v Speaker 1>of either tire them out and you take something which should be fun for them and sort of stress them, or you kind of roll the dice of what they're going to care about.</v>
+
+00:13:44.460 --> 00:13:51.890
+<v Speaker 1>And so let me take the mana burn example for Magic. Here's a rule we had that said, OK, here's the thing you have to care about now.</v>
+
+00:13:52.900 --> 00:14:05.270
+<v Speaker 1>It didn't matter a lot. And it was the kind of thing that, uh, most of the time you could ignore it, but because it existed, it was something that you had just in the back of your brain care about every once in a while.</v>
+
+00:14:07.340 --> 00:14:13.170
+<v Speaker 1>You know, here's another thing that we talked about sometimes is imagine you make a mechanic that says</v>
+
+00:14:14.660 --> 00:14:19.240
+<v Speaker 1>every time you do thing X you get a counter. And if you get so many counters you'll lose the game.</v>
+
+00:14:21.170 --> 00:14:32.080
+<v Speaker 1>So let's say for example, OK, so I have a rule in the game that says every time you touch your face you get a counter. If you get 20 or more counters, you lose the game.</v>
+
+00:14:33.220 --> 00:14:38.850
+<v Speaker 1>OK, so now part of your game is you've added the am I touching my face part of the game.</v>
+
+00:14:39.560 --> 00:14:45.340
+<v Speaker 1>And so now as I'm concentrating on other things, I have to constantly say to myself, Oh my touching my face.</v>
+
+00:14:46.850 --> 00:14:56.940
+<v Speaker 1>Now it is possible that that could be fun. I mean, the onsets play around this space a little bit, but as a general general thumb is</v>
+
+00:14:57.640 --> 00:15:15.450
+<v Speaker 1>if the point of the game is I want people to have strategic concentration somewhere, do I want them to have to like the the things you have to do to keep from touching your face? The kind of energy you have to do is a completely different sort of series of stuff then you might to care about. Am I attacking the right number of creatures?</v>
+
+00:15:16.060 --> 00:15:23.080
+<v Speaker 1>And So what happens is you divide them mental energy like OK, I got it, I got it not touch my face. So I have to, I have to spend some on my energy doing that.</v>
+
+00:15:24.410 --> 00:15:29.000
+<v Speaker 1>And what that means is that they're spending that energy that they could spend somewhere else there.</v>
+
+00:15:31.460 --> 00:15:40.710
+<v Speaker 1>And the point is, is that something that you want to be the case? I mean, that's, that's the biggest question to ask is when you add something in and</v>
+
+00:15:42.340 --> 00:16:11.700
+<v Speaker 1>that the most common complexity problems I see are people add something that in a vacuum is fun, in the right situation is cool, but that it doesn't matter enough that there's not enough focus on it. So that's the next thing to think about with complexity is that complexity sort of forces focus in your game. And it depends, for example, of one of the big things that will vary about how much people care about something is</v>
+
+00:16:12.410 --> 00:16:18.540
+<v Speaker 1>what is the repercussion of caring about or not caring about it. You know, if ignore this rule, what happens?</v>
+
+00:16:19.240 --> 00:16:46.980
+<v Speaker 1>Um, and be aware when you make your game, players will ignore rules that they don't think are important. There's already that built into sort of how people play games that if you have a low stake rule, like for example, I used to play Dungeons and Dragons. I did a whole podcast on that and one of the rules in Dungeon Dragons has to do with weight about how much you're carrying. And supposedly, like, if you put carry too much, there are things you have to care about because, you know,</v>
+
+00:16:47.630 --> 00:17:17.700
+<v Speaker 1>there, there's a real cost to wait. Like an actual like reality. Like if I have to carry it much, if I carry too much, I it exhausts me. I get heavy, you know, and my movement is slower and there's a lot of issues. So there's a whole bunch of rules about weight and, and dungeon Dragons. But when my friends and I were playing, it's like it's you know what? We'll make sure to use common sense. We won't do crazy things. We won't abuse the system. But yeah, we don't want to track everything that it just was a rule we didn't we didn't want to do</v>
+
+00:17:17.770 --> 00:17:21.770
+<v Speaker 1>then one of the cool things about if people in games can put where they want to put their focus on.</v>
+
+00:17:23.260 --> 00:17:25.060
+<v Speaker 1>But if you</v>
+
+00:17:25.710 --> 00:17:56.460
+<v Speaker 1>here, here's another thing where you can lose control of your players is sometimes like either they're going to consciously choose not to care about the role of there's too many rules or they're going to subconsciously care. Consciously means I just we don't need to worry about that. We're not gonna worry about that. And that's plays just abandoning going because players have the right. One thing to remember, I talked about this one. I talk a lot about how when I want you, if you want to become a game designer, what are things you can do? And one thing I say is, hey, you can experiment with existing games and try different rules and see how it plays.</v>
+
+00:17:57.170 --> 00:18:04.580
+<v Speaker 1>People will do that with your game, that if your game is not as compelling as it can be, people will try different things to make it better.</v>
+
+00:18:06.410 --> 00:18:07.220
+<v Speaker 1>And so</v>
+
+00:18:08.610 --> 00:18:28.900
+<v Speaker 1>and other sort of cost of adding complexity to things is you more encourage people to sort of take the game into their own hands, either by consciously removing things or when I say subconsciously look, you can only once your teacup is full, you can only manage so much. And so people will manage everything they can think to manage,</v>
+
+00:18:30.440 --> 00:18:31.310
+<v Speaker 1>but it's not</v>
+
+00:18:32.350 --> 00:18:52.680
+<v Speaker 1>it. It is not that that's the real thing I'm trying to say is when you add stuff to your game that isn't necessarily adding to the fun of the game. It's just adding to the business of the game. You know, that there's a cost to comes to that that I think is not necessarily worth the baggage, worth the wait. You will to my weight analogy.</v>
+
+00:18:54.140 --> 00:18:54.720
+<v Speaker 1>You know that</v>
+
+00:18:55.430 --> 00:19:10.300
+<v Speaker 1>the other big thing to think about complexity is now the positive thing about complexity is that there's nuance and there's strategy. Like this is another of those inherent balances of game design,</v>
+
+00:19:12.250 --> 00:19:19.770
+<v Speaker 1>Barred entry says, look, I need to keep the game simple so people can learn the game. The game is too complex. People can't learn the game. If no one learns game, I have no players.</v>
+
+00:19:20.600 --> 00:19:35.590
+<v Speaker 1>On the flip side, one of the other things about game is strategy, that you want some sort of depth to your game because you want people to play it more than once. One of the things that will bring people back to the game is people going, ohh, there's more to explore, there's more to see.</v>
+
+00:19:36.750 --> 00:20:06.940
+<v Speaker 1>So one of the things that complexity does for you, that's a positive thing or it can be a positive thing is it can add it can add later depth to the game. Once again, caveat is just adding things does not add depth. So when I talk about this, don't fall in the trap of believing that anything I add just makes the game better. The complexity for the sake of complexity for sure doesn't make the game better, but the reason that you do want to sometimes add complexity is.</v>
+
+00:20:07.080 --> 00:20:18.510
+<v Speaker 1>That part of strategic depth and I did a whole podcast on 10 things every game needs, one of which was strategy is you want the players to be able to learn overtime. That</v>
+
+00:20:20.580 --> 00:20:42.550
+<v Speaker 1>in general, you want continuity to your games, not necessarily that the games, the stake of the games continue between them, but the knowledge between them. That one of the things, like I said, there's two big challenges. Use a game designer. Have 1 is when somebody first plays your game, do they when they first learn it, do they want to play it? And the second is, when somebody plays it, do they want to play it again?</v>
+
+00:20:43.500 --> 00:20:55.310
+<v Speaker 1>So here's a delicate balance. If I make my game too complex, I lose on the barred entry that people go, oh, I just, I can't learn it. I can't get into it. It's too much</v>
+
+00:20:56.600 --> 00:21:05.550
+<v Speaker 1>if I don't have enough there players play and go, OK, well I I had fun, but like, I think I've kind of explored the game. There's not much to explore and they don't wanna play again.</v>
+
+00:21:07.030 --> 00:21:21.250
+<v Speaker 1>OK, so here's we move into the second part of today's conversation. OK, so you want some complexity because you want some depth of play and you want to make sure that players want to play again because there's continuity to the game and that</v>
+
+00:21:22.530 --> 00:21:40.810
+<v Speaker 1>either game player feel like as I play the game, there's some general skill I'm learning there there there are things that I now want to. I we talked about how there's branches using 3 metaphor that game play has a lot of decision making, decision making branches in different directions. And that</v>
+
+00:21:42.040 --> 00:22:11.950
+<v Speaker 1>how would you want to do is players explorer 1 aspect knowing that there's other things to explore. Like one of the things we do in Magic is one of the ways to play is drafting, obviously where you open up the pack and you take cards as you open them. I always used to describe this, people who don't play Magic as like a football draft where you're drafting players for football team. So you're drafting cards for your deck. And one of the things we try to do is we put a lot of themes in there so that you can explore different themes.</v>
+
+00:22:12.020 --> 00:22:16.320
+<v Speaker 1>And while you're drafting 1 theme, you can spend a lot of time just drafting one particular theme</v>
+
+00:22:17.050 --> 00:22:24.430
+<v Speaker 1>and get better at that theme. Or you can try drafting different themes overtime. And so there's there's reasons to keep wanting to come back and draft again.</v>
+
+00:22:26.370 --> 00:22:39.660
+<v Speaker 1>OK, so the big question is how can I have the complexity in my game wants so that I can find ways to add added depth and strategy and stuff, but that doesn't necessarily cause my barrier to play to get problematic?</v>
+
+00:22:40.870 --> 00:22:46.120
+<v Speaker 1>OK, so there's a couple ways to do this. We'll talk about this is how to correctly use complexity.</v>
+
+00:22:47.460 --> 00:22:54.170
+<v Speaker 1>OK, so number one I want to introduce the concept that I wrote articles about called lenticular design.</v>
+
+00:22:55.440 --> 00:22:57.580
+<v Speaker 1>So what lenticular design says is,</v>
+
+00:22:58.710 --> 00:23:06.020
+<v Speaker 1>um, your beginner can't see everything. The beginning player knows things, but there's certain facets</v>
+
+00:23:07.230 --> 00:23:28.560
+<v Speaker 1>that they can't see until they learn more. And the idea of lenticular design. So when the lenticular card is that the word is that the cards that are printed that depending how you look at them, they have different pictures. Sort of what they have is they have ridges on them and there's different things put on the ridges. So if you look at it from the left, it looks one way, but if you look at it more from the right, it looks like a different picture.</v>
+
+00:23:29.820 --> 00:23:39.860
+<v Speaker 1>And So what I'm trying to talk about here is that when you make your game, one of the tricks you can do, the first trick you can do is</v>
+
+00:23:41.660 --> 00:23:54.120
+<v Speaker 1>you can figure out what the beginner understands and doesn't understand. And then you can kind of hide your complexity by putting it places where the beginner doesn't think to look.</v>
+
+00:23:56.010 --> 00:24:10.690
+<v Speaker 1>A good example we've learned in Magic, for instance, is there are certain effects. So for example, in magic you have creatures. And one of the things we can do is we can have effects that happen when you play the creatures</v>
+
+00:24:11.640 --> 00:24:35.640
+<v Speaker 1>normally magic, you know, normal creatures, they the creature, not the creatures in play. But sometimes we sort of put a spell effect on the creature. So when you cast it, enter the battlefield effect, we call it in the game. But what we learned when playing with beginners is that the end of the battlefield effects on beginner doesn't think about usually it's sort of like it happened. I play this and it's going to happen.</v>
+
+00:24:36.520 --> 00:24:43.930
+<v Speaker 1>Um, and there's the the mindsets for beginner and magic is it's turn 3.</v>
+
+00:24:44.970 --> 00:24:51.250
+<v Speaker 1>I can catch a creature that costs 3,000,000 plate 3 lands and what do I have to cost 3? And then they play it</v>
+
+00:24:52.390 --> 00:25:01.540
+<v Speaker 1>the more experience plays. Ohh well this creature I could play on the third turn, but it has some utility. Maybe have something else I can do in 3rd turn and I'll save this scripture. I won't use it right away.</v>
+
+00:25:02.340 --> 00:25:12.180
+<v Speaker 1>And what we discovered was that we could take this thing and that there's a little extra play for the players who understood better how to use it.</v>
+
+00:25:12.880 --> 00:25:42.130
+<v Speaker 1>And that's kind of a lenticular design is, is finding aspects where you can do that, where you can do something that's not going to be noticeable by the beginner because it involves some nuance of something. Some one of the things you want to do when you play your game with new players is monitor what parts they get and what they don't. They're also is value, by the way, actually don't talk about this much. There is value of play testing your game with the same people multiple times</v>
+
+00:25:42.760 --> 00:26:04.520
+<v Speaker 1>that not only do you want to test beginners and how they feel, you also want to test sort of does the game have any sort of duration? Is there depth of play is there is there do your players want to keep coming back to the game? So another really good thing when you're play testing a new game is get together a group and have them play it multiple times. Watch what they do as they learn the game that</v>
+
+00:26:06.300 --> 00:26:33.470
+<v Speaker 1>because there's an interesting balance between what they sort of first impressions and sort of what they discover as they play. It's those later play tests where they discover things that will help give you an idea of how you can build in the lenticular stuff because you'll start to see, oh, they've now recognized thing X, which they didn't before. Oh, well, that's something that I might be able to play around with, add some complexity to my game, but in a way the beginners aren't going to see.</v>
+
+00:26:34.880 --> 00:26:35.330
+<v Speaker 1>OK,</v>
+
+00:26:36.010 --> 00:26:54.290
+<v Speaker 1>the next way to add complexity to your game is using resonance. And what I mean by that is your audience already has knowledge. I know it's very easy to think of them being a blank slate, but they're not. They're human beings that have done things that have,</v>
+
+00:26:55.250 --> 00:27:05.580
+<v Speaker 1>you know, interacted with pop culture and, you know, there are people who have experience of things. So another way that you can get complexity in your game is through flavor.</v>
+
+00:27:06.460 --> 00:27:21.570
+<v Speaker 1>And what that means is that if I can take something where my audience already has built in expectations on it, I can add complexity. Because even though it is something extra, the fact that the,</v>
+
+00:27:22.470 --> 00:27:24.040
+<v Speaker 1>the fact that the player, like,</v>
+
+00:27:25.610 --> 00:27:32.450
+<v Speaker 1>let's say for example, in Magic we have a mechanical flying and flying is when I attack</v>
+
+00:27:33.980 --> 00:27:51.970
+<v Speaker 1>a flying creature can only be blocked by another flying creature. And that's one of the easiest rules to learn because it's like, well, if I had a creature in the air and the flu, could the creature in the ground stop the creature in the air? No, it couldn't. It's flying. So it is such an intuitive mechanic that it really just doesn't</v>
+
+00:27:54.840 --> 00:27:55.080
+<v Speaker 1>it</v>
+
+00:27:56.050 --> 00:28:26.690
+<v Speaker 1>that people can pick it up real fast. And that's another thing with complexity is how are you presenting your complexity? And they really powerful way is the more you can use flavor for your complexity, the more your complexity makes sense because it just is naturally follows what's going on, the easier it is for the player. And so one of the things to always keep in mind is, and I talked about this, I did a whole podcast on piggybacking. You can go listen to except I've done multiples on piggybacking.</v>
+
+00:28:27.400 --> 00:28:51.440
+<v Speaker 1>One of the things to think about when you're building your game, and this is one of the things we've learned a lot from Magic is the more you complain space that you're player has expectations. You can use that expectations as a means to teach, as a means to make things easier to do. And that is very funny that I can take. There are cards that I can take and I can just</v>
+
+00:28:52.110 --> 00:29:01.450
+<v Speaker 1>if, if I if if you understand the flavor that makes sense and you strip away the flavor and they don't make sense. And it's like I said it, it is, it is interesting how,</v>
+
+00:29:02.450 --> 00:29:17.840
+<v Speaker 1>you know, as soon as I add on the flavor that ties those things together, the audience goes from ohh, like from what to ohh, OK. And so another big thing in the way you can sort of handle complexity is preface it within context that people understand</v>
+
+00:29:19.870 --> 00:29:49.980
+<v Speaker 1>and limited by this in two sections. One section is resonance, which is just you know this already. You already know this. This is a werewolf Wahida werewolf function. Well, it goes back and forth between being a human and being a werewolf. OK, Yeah. That's how werewolves work. That that we took something that was a little on the complex side, but because we were playing something people knew, OK, the expectation of I play a human and one day will become a werewolf and then it will go back to being a human like, oh, OK,</v>
+
+00:29:50.090 --> 00:30:21.070
+<v Speaker 1>look, that was my that was what I expected of a werewolf. And so even though we had a more complex thing to do that some of our complexity was taken off of people knowing that. The other thing you can do with flavor is you can teach people the flavor and then have the flavor sort of make sense. So resident says they already know it. Ohh, I'd think XI know thing X. The second thing you can do is you can use flavor in your game to build flavor rules to say, OK,</v>
+
+00:30:21.170 --> 00:30:52.190
+<v Speaker 1>while these kind of things do that, Oh, like for example, let's say you're game has some kind of flying like Magic does, and we introduced a brand new creature you've never seen before. It's a blocky block. Oh, a blocky block. What's a block by block? And I say, well, all blocky blocks have wings. They all fly. OK, now you have to learn that a blocky block can fly. But once I teach you that a block by block can fly you, now the second time you see a block</v>
+
+00:30:52.270 --> 00:30:54.420
+<v Speaker 1>like you go, well I know that flies. They have wings</v>
+
+00:30:55.920 --> 00:31:26.360
+<v Speaker 1>or once again, like in magic, we've illustrations, I can show you a brand new creature, but if I put wings on that creature, that so, so OK, I'm there is resonance in which you know what things are. There is flavor in which I teach you things. And then there's the middle ground. So like the wings is the middle ground in which you have resonance of what wings are. So if I put wings on a creature, even though you might not know that creature, at least wings mean something to you. And then there's the full flavor thing where</v>
+
+00:31:26.450 --> 00:31:45.220
+<v Speaker 1>I teach you that this subset of thing you've never seen before all have this property that you understand like they fly, and then you're able to more quickly adapt future versions. That's another big thing to remember with flavor is you can take things that don't connect and make them connect and the audience treats them as a singular thing.</v>
+
+00:31:46.070 --> 00:31:49.020
+<v Speaker 1>So OK, so let me get into chunking since we're talking about</v>
+
+00:31:51.080 --> 00:31:56.260
+<v Speaker 1>the chunking human is not just some flavors. Let me explain this real quick. Um, the human brain</v>
+
+00:31:57.130 --> 00:32:09.930
+<v Speaker 1>can only remember so much at one time that the brain is well aware of this and that there's, there are processing things. One of the big things, for example, is the #3 that in general, the brain can process three things at a time.</v>
+
+00:32:12.230 --> 00:32:23.870
+<v Speaker 1>So what happens when the brain needs to do more than three things at a time? Well, it does something called chunking, and what that is, is it starts trying to connect things together so they can think about them as a singular thing.</v>
+
+00:32:25.920 --> 00:32:44.210
+<v Speaker 1>And the idea is that you can use chunking. It's another way for you to help with complexity. And what Chunking says is if I can make people think of these things together, if thing A and thing B aren't A&amp;B but C, which includes A and includes B, that's easier to think about.</v>
+
+00:32:45.660 --> 00:32:55.770
+<v Speaker 1>So another thing that you can do in your game to help with complexity is you can group things together so that players can learn that A&amp;B go together.</v>
+
+00:32:57.190 --> 00:33:07.620
+<v Speaker 1>I use an example of flavor second ago. Oh, all black fly, black fly. Oh well. And so let's imagine flying like in Magic had a relevant rules thing.</v>
+
+00:33:08.760 --> 00:33:14.140
+<v Speaker 1>If all black and black fly and all flying does this mechanics, I've now chunked that together.</v>
+
+00:33:15.900 --> 00:33:25.650
+<v Speaker 1>So for example, I'll just use magic flying. So flying and magic means that I can't be blocked except I got the Flyers. OK, that's a rule, and I've now</v>
+
+00:33:27.030 --> 00:33:50.710
+<v Speaker 1>chunked that rule to flying by using flavor, by saying OK, well this flavorfully makes sense. OK, got it. Flying. The the realistic thing that birds do, that I understand from the real world, is being connected to this mechanic. Got it. Now I say that this creature, brand new creature I've never seen before, is a flying thing. Now I chunk it together again.</v>
+
+00:33:51.480 --> 00:33:57.700
+<v Speaker 1>So now when I see a blocky block, I'm like, ohh, this rule is inherently part of that thing.</v>
+
+00:33:59.000 --> 00:34:05.560
+<v Speaker 1>What I've done is I've taken a bunch of different things and made them one thing. So I have hiccups here. Let me take a sip of water.</v>
+
+00:34:09.630 --> 00:34:37.190
+<v Speaker 1>OK, so the idea of chunking is that if you were consistent in how you use things such that you allow your players to learn rules about them, even if those rules are brand new. Even though yes, residence is nice, yes, you can use flavor, but simply just connecting things. If people learn that when everything A happens, thing B happens, they start thinking if thing A&amp;B is being a join thing. So another place that you can sort of gain</v>
+
+00:34:37.270 --> 00:34:37.710
+<v Speaker 1>on</v>
+
+00:34:38.580 --> 00:34:40.090
+<v Speaker 1>our help with complexity</v>
+
+00:34:41.570 --> 00:34:54.900
+<v Speaker 1>is by making use of chunking. Flavor will help put chunking, but it doesn't always have to be flavor connected. It could just be I I make people aware that when one thing happens, I need to be track of the other thing.</v>
+
+00:34:57.120 --> 00:35:01.330
+<v Speaker 1>The other thing you can do with complexity is that you can</v>
+
+00:35:02.960 --> 00:35:13.590
+<v Speaker 1>compartmentalize it. And what I mean by that is you can figure out when something, let's say you have part of your game that you think is complex.</v>
+
+00:35:14.790 --> 00:35:20.880
+<v Speaker 1>If you make your player always worry about it, then it's just you're overloading the teacup. It's another thing that they have to worry about.</v>
+
+00:35:21.900 --> 00:35:31.720
+<v Speaker 1>But if you say to them, OK, this thing can only happen at this time that I'm going to let you know when you when you have to worry about it. So for example, in Magic,</v>
+
+00:35:33.420 --> 00:35:47.110
+<v Speaker 1>one of the rules of Magic is when Richard made the game, you have 20 points, 20 life points, and when you go to zero, you lose. But Richard knew like, well, what happens if I'm gaining life or I'm doing something in which that's not ending the game?</v>
+
+00:35:47.730 --> 00:35:53.540
+<v Speaker 1>And so he said, OK, well, there's a deck of cards. When you run out of cards, that is a secondary loss.</v>
+
+00:35:55.680 --> 00:36:26.700
+<v Speaker 1>And there are times in which we care about that and there's there's mechanics that care about it, but in general it's a rule that doesn't apply until it's necessary. O the way the decking tends to work is you don't really think about decking. Most games don't come down to decking. And the only time you ever think about decking is when you recognize that your decks kind of low like, Oh, Mike deck can be an issue. But until you have like 10, unless cards in your deck, it's usually not an issue. So it's something it's it's some element of the game that the way the complexities</v>
+
+00:36:27.150 --> 00:36:34.190
+<v Speaker 1>and check is, it doesn't matter most of the time. And when you're supposed to care about it is locked to a certain thing.</v>
+
+00:36:35.400 --> 00:36:36.250
+<v Speaker 1>No, that's something that</v>
+
+00:36:36.990 --> 00:36:45.050
+<v Speaker 1>that is time based on how long the game goes. There are other things that might be ohh well only during this section of the game. For example, with Magic,</v>
+
+00:36:46.240 --> 00:36:48.270
+<v Speaker 1>you can only cast bells in your turn,</v>
+
+00:36:49.350 --> 00:36:52.640
+<v Speaker 1>except there are certain times when you casts on your opponents turn</v>
+
+00:36:54.040 --> 00:37:25.370
+<v Speaker 1>and Magic is a little freer and we'll let you do that. But one of the things I've seen a lot of other games is that they'll say, OK, you can only do things on my turn on this very specific time period that most of my turn you can't do something, but there's a window where you can. And now we both know when that window is. And so I don't need on your turn. I don't need to worry about doing something until that small window exists. And then I know I can do something and you know I can do something. The idea there is you're sort of choosing when something can happen.</v>
+
+00:37:25.470 --> 00:37:39.190
+<v Speaker 1>That's what compartmentalizing means, is that you say, yes, this is complexity, yes, this matters, but it only matters that it's specific time. So you don't have to worry about it most of the time. You only have to worry about it in certain circumstances</v>
+
+00:37:40.730 --> 00:38:03.650
+<v Speaker 1>and that that's a way for you to have some flexity. And if you compartmentalize properly, if you say well, this complex thing happens only at this time and this complex thing happens at this time. And those are times are not the same time, meaning I never have to worry about both at the same time. Is a way to have the game overall have greater complexity, but any one point in time</v>
+
+00:38:04.570 --> 00:38:07.980
+<v Speaker 1>have lower complexity. So that's another thing to keep in mind by the way,</v>
+
+00:38:09.330 --> 00:38:15.190
+<v Speaker 1>is that it's very easy to think of complexity as being an overall thing. But really what I want to think about it,</v>
+
+00:38:16.550 --> 00:38:45.000
+<v Speaker 1>you know, you're, you're filling the tea of the cup, the T level might lower and rise. So as you're playing, doing play testing and stuff, you can kind of watch and figure out some games, for example, have stages where it's stage 1, stage 2, stage 3, and certain parts of the game don't even come into play until later stages. Like there's some games that go first you do this, but once everybody's done that, now you do this. So that's one way to compare,</v>
+
+00:38:48.220 --> 00:39:16.270
+<v Speaker 1>but another thing to keep track of is to sort of watch where the complexity goes as the game goes along, because you can change. One of the things you can do is if you make the complex thing don't overlap, then you don't have the additive elements of those complexities. So that's what I'll call positioning, which is tied to compartmentalizing, which says that if I sort of are careful where I position things so that when people have to think about things, you don't sort of force two things together</v>
+
+00:39:16.570 --> 00:39:36.300
+<v Speaker 1>is then if you think about when you do things in contracts with other things, then that's another way you can sort of keep complexity in check is say in any one point in time, I have end things to worry about. But N is not all the things the game makes you worry about. I just make you care about different things at different times. That is another way that you can keep complexity down.</v>
+
+00:39:37.920 --> 00:39:44.210
+<v Speaker 1>Um, another matrix that I like to do is with the complexity. Also is sort of</v>
+
+00:39:46.470 --> 00:39:49.900
+<v Speaker 1>making it such that some games introduce it and some don't,</v>
+
+00:39:51.250 --> 00:40:11.310
+<v Speaker 1>and that the idea that I talked about Magic blocks, one of things we do in Magic is each block we say to ourselves, OK, there's one thing you get to care about, you don't normally get to care about. In Zendikar, we made you care about when you play the land. Normally you don't care about when you play a land, just play a land. When you want to play a land, it's not particularly relevant.</v>
+
+00:40:12.780 --> 00:40:43.260
+<v Speaker 1>You know, in Kaladesh we had this whole energy mechanic and we were tracking this entire thing. You never, ever track. And the idea is if you understand what you're doing, you can put complexity in your game if you sort of space it up over time. So not only can you space it within the game, you can space it between the games. You can say, OK, and this really comes in when you have a game that has expansions and stuff where, OK, now we're gonna play the game with something different is going to happen after the two points either have expansions or</v>
+
+00:40:43.420 --> 00:40:44.570
+<v Speaker 1>and this is something</v>
+
+00:40:45.620 --> 00:40:52.350
+<v Speaker 1>that like loves to do. Dan Locks made the minion, among many other games that'll Vaccarino.</v>
+
+00:40:53.940 --> 00:40:58.950
+<v Speaker 1>You could have a game where you have components, but you don't always use all the components every game.</v>
+
+00:41:00.280 --> 00:41:30.270
+<v Speaker 1>Donald does a lot of this in his games. It's a very, very good technique. Like Dominion is you don't play with all the cards every time. So each time you start with and then so the game experience is different place than what components you have. That's another way you can sort of keep complexing and check is don't give the players access to all the elements that they choose some elements and they can mix the elements. Either they mix them by the beginning of the game or how they get introduced to the game changes. The other thing you can do, I'm almost at Rachel's. One last thing you can do</v>
+
+00:41:30.360 --> 00:42:00.960
+<v Speaker 1>is what I call complexity ramping, which is that you build your game. So that and video games do this quite a bit. You look at tutorials. It's like when you start playing tutorial, hey, just care about this one thing. OK, you got this one thing. Well, now I'm adding the second thing. Now care about the second thing. Ramping means that you slowly introduce more things and so that they don't have to experience all the stuff, you know, these sort of slowly introduce them. Video game tutorials do this all the time. If you look at stuff like the legacy games,</v>
+
+00:42:01.200 --> 00:42:31.050
+<v Speaker 1>Risk Legacy and stuff, those are games that have permanent changes that happen overtime. But because the permanent changes happen overtime, they ramp the complexity in it. Magic does it's ramping by it has Amanda system where you just can't play all the spells at once. So how do I keep the complexity and check? Well, yeah, I have expensive spells to do crazy things, but you can't do that till later in the game that the game holds them off. That's like, OK, I can only do these things, and the things that we let you do early</v>
+
+00:42:31.140 --> 00:42:36.500
+<v Speaker 1>tend to be simpler and smaller. And so as the game goes on, we ramp into the complexity.</v>
+
+00:42:38.050 --> 00:43:08.140
+<v Speaker 1>And once again, using Magic as an example, you also want to think about complexity in the context of one game and complexity overall. Those are actually 2 slightly different things is overall has to do with barred entry stuff like how hard is the game to understand? And then within the game is I want to make sure there's a flow to the game itself, that I'm sort of ramping into the complexity or compartment compartmentalizing the complexity that I'm making sure that any one moment in time and playing the game, I'm not overwhelming.</v>
+
+00:43:09.540 --> 00:43:38.640
+<v Speaker 1>I hope today, one of my big goals of today is to show you that complexity is a complex topic. It is not a good or bad thing. It's not a good or evil thing. It is a component. It's something that games need and you have to figure out how and where to use it. It comes at a cost. It means something. It can have an impact on your players, not just your new players, but your existing players, but there's also benefits that come from and if used correctly. And so a lot of what I want to say today</v>
+
+00:43:38.710 --> 00:44:02.920
+<v Speaker 1>is complexity is a valuable tool that can do wonderful things for your game, but it comes at a cost and it can do a lot of dangerous things. And so the key is understanding when and how and why you're using your flexi and make sure you're using correctly, using it right. We want hand your game and make your game more fun. Use it wrong and distances people. It tires out your players and it keeps people from enjoying them as well as it can.</v>
+
+00:44:03.720 --> 00:44:12.300
+<v Speaker 1>OK, I'm now at Rachel's so I want to say this is the end of my drive to work. So instead of talking to Magic, it's time for me to be making Magic. Thanks for joining me today.</v>
+

@@ -1,0 +1,476 @@
+WEBVTT
+
+00:00:01.050 --> 00:00:10.480
+<v Speaker 1>I'm programmed right away. We all know what that means. It's time for another drive to work. OK, so today is a retrospective day. So</v>
+
+00:00:11.590 --> 00:00:34.520
+<v Speaker 1>a while back we changed over the way we made magic. So the old school was the design and development process. So and the new we've moved to a system of vision design, set design, play design. So let me I'm going to walk through and explain real quickly what the difference is. And then what I want to do is say, OK, I've now had a chance to work with this for a couple of years.</v>
+
+00:00:36.030 --> 00:00:56.400
+<v Speaker 1>You guys have actually only seen it. Dominaria is the first set that envisioned design. But I have worked on not just Dominaria, but spaghetti and meatballs, guilds of wrapping, Nika and Ravnica, Lions, Allegiance and milk and archery and baseball and cricket. And I'm currently working on diving and doing advanced stuff on both.</v>
+
+00:00:57.800 --> 00:01:02.400
+<v Speaker 1>A question. I don't think after the name you guys know yet, but anyway,</v>
+
+00:01:03.980 --> 00:01:33.970
+<v Speaker 1>so I've been living in this world for a while. So let me talk a little bit about what the old system was and then I'll the new system. And then my plan for today is to sort of evaluate and say, how do I feel about it? How do I feel that the system is going? I will point out, by the way, that there's a little I was trying to figure out whether or not I wanted to do this now where I've experienced it for a while or whether I want to do in two years when you've experienced it for a little while. And I finally came to the conclusion that I could just do both. One of the things about doing</v>
+
+00:01:34.050 --> 00:02:05.300
+<v Speaker 1>a biweekly podcast or is that right? Biweekly, always confused what that means. Every other week or twice a week, Twice a week, but at least twice a week. I did a lot of topics. Today's is the 560th something podcast, so I got a lot of topics to cover. So whenever the answer is more, I will choose that. So I'm going to talk about it now and if I remember a couple years from now, I will evaluate it also from the end of when you can see the stuff. So today I'll be more me talking in general terms since there's not a lot that you can see yet.</v>
+
+00:02:06.440 --> 00:02:36.470
+<v Speaker 1>But anyway, OK, old system, the system we use for many, many years was the design and development system. And the way that worked is design would work for five, for 12 months before design started, we usually would have exploratory design. Exploratory design was usually somewhere between I think originally was six months long and then became three months long. Current, the current version is 2 months. But so anyway, we would do exploratory design for some amount of time</v>
+
+00:02:36.570 --> 00:02:44.640
+<v Speaker 1>and then we would do 12 months of design and then we'd hand it off to development and they would do, I don't know what nine months of development.</v>
+
+00:02:46.470 --> 00:03:08.540
+<v Speaker 1>And the idea was that it was kind of a long continual process. And that design was sort of figuring out what we wanted things to be, cracking the vision, the fact there were three different sections of design. And we would, it was, what was it? It was a vision. And then it was</v>
+
+00:03:10.160 --> 00:03:11.090
+<v Speaker 1>vision.</v>
+
+00:03:12.610 --> 00:03:43.340
+<v Speaker 1>Always forgot the middle 1 something refinement. I had all podcasts on this. The vision was broken into three parts, sort of. I mean, it wasn't, it was all one team. So what version we did each thing was kind of up to us, but we would sort of figure out what the set was about, start populating it, and then make an honest first attempt at building the set. That's the old system. OK. The new system is we have exploratory design for about two months. Well, there's exploratory world building, which is the creative team sort of figuring out, fleshing out the world</v>
+
+00:03:43.450 --> 00:04:04.660
+<v Speaker 1>and two months of exploratory design. Then there are four months of vision design and vision design. What I always explained the metaphor I use is we're building a house and vision design, like explorer design is about kind of scouting out locations and doing a lot of</v>
+
+00:04:05.410 --> 00:04:35.280
+<v Speaker 1>research work on the kind of houses that are and the different building, you know, just sort of doing some research before you start. Then vision design is kind of like building is being the architect is doing the blueprints. You're not building the house, but you're figuring out what the house is going to look like, what the house is going to be made out of, like the general sense of what the house is going to be. Then set design, which is 9 months long, although there's a gap in the middle for three months where they don't do a lot of work. So it's like 3 months of work, three months off, although they're peeking in</v>
+
+00:04:35.390 --> 00:04:38.020
+<v Speaker 1>and then three months and then after</v>
+
+00:04:39.450 --> 00:04:46.480
+<v Speaker 1>after set design is done, then this sometime and play design. And so set design is building the house. Set design is figuring out. OK,</v>
+
+00:04:47.950 --> 00:04:56.530
+<v Speaker 1>usually visions come up with mechanics and a general theme for this ad, but then set design is about the actual execution of those themes and mechanics.</v>
+
+00:04:58.050 --> 00:05:28.490
+<v Speaker 1>And for, for example, like Envision design for Dominaria, I'll use that since you guys actually know this one. We came up with the idea for sagas that they represented stories, that they had a different layout, that they were you process stuff over time and that they were enchantments. But we didn't actually that most of the sides that were actually put into the product were made during set design. They figured out what stories they wanted to tell and what mechanically how they want to decide is to play.</v>
+
+00:05:29.360 --> 00:05:53.690
+<v Speaker 1>So like Vision came up with the concept of sagas, but set design sort of executed on sagas to make the actual sagas in the set. That's a good example sort of difference between the two. And then play design is all about sort of field testing, making sure that the sets are balanced and are ready for tournament play. It's all about just getting the reps in and making sure that we understand how things play,</v>
+
+00:05:54.400 --> 00:05:54.740
+<v Speaker 1>um,</v>
+
+00:05:56.160 --> 00:06:07.640
+<v Speaker 1>and play design. Play design overlaps a little bit with the end of set design, but I think, I think it's like 3 months total, but one month is an overlap in two months is unique just to play design, I think, if I remember correctly.</v>
+
+00:06:08.960 --> 00:06:21.550
+<v Speaker 1>But anyway, so there's a, it's a radically different system. A lot of the same things get done, but who does them and how it's done and just the way we think about it is different.</v>
+
+00:06:23.000 --> 00:06:28.770
+<v Speaker 1>So what I want to do today is look at the system and say, OK, we have about</v>
+
+00:06:29.400 --> 00:06:43.010
+<v Speaker 1>over 2 years actually, but over 2 years of repentance because Dominaria was the first set and then with the whole next year and the whole year after that. And I'm working at the beginning of the year after that. So we have over 2 1/2 years of</v>
+
+00:06:43.860 --> 00:07:13.770
+<v Speaker 1>fact about two years, 2 1/2 years purchased, three years of of working that that we've done. OK. So the question is what do I think of the I mean this was by the way, I've worked in R&amp;D for a long time. We've had a lot of changes over the years. This is probably the biggest change we've ever had in the way we make magic. I mean, there are things that are that definitely that we've had adaptations and heard my talk on the stages of design. I mean, we've definitely changed how we did things, but those</v>
+
+00:07:13.840 --> 00:07:17.030
+<v Speaker 1>for smaller incremental changes, this is a bit bigger.</v>
+
+00:07:17.870 --> 00:07:41.090
+<v Speaker 1>OK, So what do I think of it? Well, the overview is I like it. I I think there's a really good system. And as Dominaria demonstrates, I really think the finished product I think is improved. So let me walk through a little bit about what I like about the, about the change in general. I'm super pumped on it. I think it's doing really good work. OK, so first let me talk a little bit about</v>
+
+00:07:43.230 --> 00:07:48.960
+<v Speaker 1>one of my favorite things, which is something that I get to do. So under the old system,</v>
+
+00:07:51.450 --> 00:08:16.250
+<v Speaker 1>Ohh, yeah, yeah. So that's before. So it was vision, integration and refinement for the three stages. So before, when I used to do a set, I would spend roughly 1/3 of the time doing vision, meaning I would figure out what the set was about. I would do, I would do the blueprinting as you will. Then integration was sort of figuring out how to actually make cards and what we did and refinement was us trying to clean it up.</v>
+
+00:08:16.930 --> 00:08:18.790
+<v Speaker 1>Um, so</v>
+
+00:08:19.730 --> 00:08:51.180
+<v Speaker 1>one of the things that I like a lot is under the old system, I used to make the large set in the fall and then the large set would kind of figure out what we thought the small sets were doing. But the small sets really just kind of got whatever they're like. We, we did block planning. So I would think ahead and sometimes we'd save mechanics. It, it wasn't that we didn't think about the small sets. It's just that so much of our energy went toward the big set with the philosophy of, well, the little social gain from the knowledge that we get on the big set.</v>
+
+00:08:51.480 --> 00:08:53.830
+<v Speaker 1>Wait, what? You did a certain extent, but it meant that</v>
+
+00:08:54.610 --> 00:08:57.940
+<v Speaker 1>really the fall sets for getting the lion share of our attention.</v>
+
+00:08:59.320 --> 00:09:12.630
+<v Speaker 1>Under the new system, every sat gets the same amount of attention. Now that's really important in a world in which we're not staying in the same place all the time. Like under the old system, you know, the old block system, we were on the same world for three sets and</v>
+
+00:09:13.470 --> 00:09:35.100
+<v Speaker 1>up until Rise of the Eldrazi, usually if we're on the same world, it was mechanically there's a through line, all three, all three sets. What we started doing for a while is every other year we do a third large set that was mechanically different. Rise other Drizzy and absent restored being good examples where it was just a different than what the</v>
+
+00:09:35.830 --> 00:09:53.340
+<v Speaker 1>earlier the same world, but different mechanics. And then you start drafting over. In some ways you can see this is a precursor of our three in one system because at least for one of the Sats we'd make it large draft by itself. Eventually our current system sort of pushed toward all sets of that. All sets are drafted by themselves. All sets are large.</v>
+
+00:09:54.750 --> 00:10:25.470
+<v Speaker 1>And so under that world, I really, there's no way that we would be able to go to, you know, all these different worlds if each world didn't have a time that we can map it out and plan it and figure out what it's doing. And so the, the new system, I mean, one of the things that we realized was that there comes a cost when you're just trying to do more. Like we used to do one world a year, one world. And then we said, OK, we're going to go</v>
+
+00:10:25.550 --> 00:10:56.500
+<v Speaker 1>with a place in which we do 2 worlds a year and now we're into place where we can have up to three worlds in the air. Well, that's a lot of worlds. That's a lot of different possibilities. And one of the things is even when you're going back to an existing world, you still have to understand what you want to do. There's still, you still have to map and plot it out. You know, our, what aspects of the world are you picking up on? What are you repeating? What aren't you repeating? What are the new things you want? You know, like even when we go back to a world, there's usually something that's new about that world.</v>
+
+00:10:56.950 --> 00:11:11.440
+<v Speaker 1>Some words are more structured than others. You know, Ravnica has more of a built-in identity that we know we're doing where something like Zendikar, there's a little bit more flexibility how we want to focus on it. So like the,</v>
+
+00:11:12.500 --> 00:11:13.440
+<v Speaker 1>you know, the</v>
+
+00:11:14.400 --> 00:11:25.850
+<v Speaker 1>so even returns need attention. It's not like, oh, we're going back to a world we know, so we don't need to worry about it. No, every set, no matter what we're doing, needs attention. We need to understand what we're doing and how we're doing it and such.</v>
+
+00:11:27.480 --> 00:11:39.110
+<v Speaker 1>And so the, the thing I really appreciate, but one of the things about the new system is that I get the opportunity to really give time and attention to every set</v>
+
+00:11:40.850 --> 00:12:10.780
+<v Speaker 1>that the, the, the, the thing that is nice under this new system is that instead of giving kind of 12 months of attention to one set, I give four months attention to every set. And as somebody who likes to sort of plot and plan and map it out, I think it just makes for more rich sets. It just makes for better sets. The more vision you do want to set, the more you think about it, the more holistically you plan it out. And once again, we'll use the metaphor like a house with a blueprint.</v>
+
+00:12:11.050 --> 00:12:26.640
+<v Speaker 1>Ohh, she has the better house. It it's just that means that you've you've thought out all of the things and that a lot of kind of, to follow the metaphor, the small sets were kind of like, well, look at the big house and kind of make a house like the big house.</v>
+
+00:12:27.320 --> 00:12:55.630
+<v Speaker 1>And so there will be a lot of coping with the big house would do, but it meant you miss a lot of nuance. I mean a lot. If you go through the history of magic, a lot of the issues I have would be we try to do something within the constraints of what we were doing and then realize, wow, we were smashing our head against the wall like that was like a good example is fifth dawn like we were doing mirrored in and we figured out mirror has some problems. 5th Dawn has to sort of,</v>
+
+00:12:56.690 --> 00:13:00.470
+<v Speaker 1>you know, zig instead of zag so we can sort of like,</v>
+
+00:13:01.460 --> 00:13:11.970
+<v Speaker 1>you know, there's a lot of broken things environment. We knew we couldn't do those. So 5th Dawn really had to try something new, but we hadn't planned for it. So we weren't really set U to enable you to do that</v>
+
+00:13:13.240 --> 00:13:37.240
+<v Speaker 1>or even likewise with even tide, where we switched from ally to enemy. But it was the third set in the block. And this was back before we we came up the idea of having you draft the the the newest at first, like I was trying to have themes in which it was 1 pack of three packs at the end, like how loud you have to be to even make those potentially viable at all. And so</v>
+
+00:13:38.940 --> 00:14:00.230
+<v Speaker 1>a lot of the evolutions to me of R&amp;D has been us figuring out better ways to do things. Now the trade off for me personally is I used to do not just vision, but integration and refinement. I'm passing that off now. So that's another, the next big thing, which is one of the things we realized under the old system was that</v>
+
+00:14:01.700 --> 00:14:02.950
+<v Speaker 1>we would get the, the,</v>
+
+00:14:04.190 --> 00:14:11.080
+<v Speaker 1>the developmental skills. I mean, everything's now designed, I guess by name, but the developmental skills we used to call development,</v>
+
+00:14:12.560 --> 00:14:26.190
+<v Speaker 1>there's a lot of reasons to bring that earlier in the process, because you want to make sure you're building your mechanics from the ground up in a way that allows them to be played maximally. Like one of the problems we tended to run into under the old system was</v>
+
+00:14:28.470 --> 00:14:46.020
+<v Speaker 1>usually design teams were mostly designers and we'd have a developer on them. A development teams, mostly developers, would have one designer on them. But the problem we run into in design was the designers were really, really good at coming up with ideas. We were really good at coming up with new and different and being flavorful,</v>
+
+00:14:47.770 --> 00:15:17.900
+<v Speaker 1>but we weren't as well versed like we would play with the mechanic and it would be a lot of fun and then we'd hand it over to the developers and they would go, OK, we're going to maximize this to win with it. And now the correct way to play didn't end up being the fun way. I've talked about this all the time that you need you need whatever you're set is encouraging your players to do. And I mean they always going to try to win. You got to make sure that that path is fun. And a lot of times we were building our mechanics in such a way that, well, if played a certain way,</v>
+
+00:15:17.970 --> 00:15:43.940
+<v Speaker 1>they were fun, but have optimized if you were trying to win, they weren't always as fun as they could be. Or the other problem sometimes run into is we make something and that that thing wouldn't be very easy to make constructed cards out of. And so one of the one of the things in the new system is we instead of breaking up the designers sort of by early to late, we break them up by their skills.</v>
+
+00:15:45.130 --> 00:15:49.680
+<v Speaker 1>And the idea is we make sure that every team has a certain level of skill set on it.</v>
+
+00:15:51.110 --> 00:15:59.970
+<v Speaker 1>And the other thing that we do right now, which is, well, sorry, I'm jumping around. So one of the big things we do is we make sure that there is a more mix of people. So it is not</v>
+
+00:16:01.390 --> 00:16:14.530
+<v Speaker 1>on, for example, on vision design team, I have people from set design and play design that are looking at things like I usually, for example, have the set, the lead set designer on the vision team. So that as we're sort of mapping things out,</v>
+
+00:16:16.230 --> 00:16:40.140
+<v Speaker 1>they're there to be a sanity check. If they have concerns, they can say, ohh, OK, but I'm worried about this networking with that, or I'm worried about how this will play out. And we have a play designer and plus, and the play designer is taking notes and talking with the play design team of making sure that we're making things that they feel that they can push that, that, you know, they can have, they can make fun play experiences out of. And so that's going to integrated way earlier. And</v>
+
+00:16:41.410 --> 00:16:43.370
+<v Speaker 1>the other thing is that</v>
+
+00:16:45.170 --> 00:16:55.560
+<v Speaker 1>we're sort of focusing. One of the things that R&amp;D has always done well is the idea of play to strength is figure out what you're good at and then let you do that thing.</v>
+
+00:16:57.320 --> 00:17:00.420
+<v Speaker 1>And so one of the things that I realized was, um,</v>
+
+00:17:02.460 --> 00:17:18.180
+<v Speaker 1>I have a lot of skills, but the, the skill with the greatest differential is the vision part of the scale is here's a blank page. It needs to be something. What is this thing? What are you trying to do? What's the essence of it? What are the mechanics and that,</v>
+
+00:17:19.670 --> 00:17:30.130
+<v Speaker 1>you know, I'm, I'm not mad at making cards and I'm not bad of, of, you know, there's plenty of sort of set design work that I, I'm, I'm good at, but</v>
+
+00:17:31.610 --> 00:18:01.540
+<v Speaker 1>I am much better comparatively at sort of the, the large scale sort of holistic stuff. And this new system lets me kind of do that for every set rather than kind of do it. And then the other sets just go, well, follow what I did. It's more like I get to just set up every set. And when I say, I mean my team, I'm not leaving every single vision team. I lead a lot of them, but I delete all of them. And I want to make sure that we are setting ourselves up so that the one of the things that the way I like to think about how we do the job is</v>
+
+00:18:01.900 --> 00:18:08.500
+<v Speaker 1>each team is trying to make the best product for the team that comes after it. So</v>
+
+00:18:09.700 --> 00:18:30.710
+<v Speaker 1>exploratory design wants to set up vision design for success. Vision design wants to set up set design for success. Set design wants to set up play design for success. Each team wants to make sure that what they're doing allows the team after them to thrive. And so one of the interesting things for me is just in the mindset of how I'm doing things.</v>
+
+00:18:32.250 --> 00:18:44.010
+<v Speaker 1>The the I really think about my job is not, I'm not trying to build the house, I'm trying to understand what the house wants to be. And then I'm trying to understand, or I'm trying to,</v>
+
+00:18:45.000 --> 00:19:14.790
+<v Speaker 1>um, make a tool set that will enable the set designer to make something awesome. So a lot of times when I'm playing with mechanic, I'm trying to figure out what flexibility there is with mechanic inside. This is a good example. When we built sagas, we figured out that there were a bunch of different knobs that you could play around with. You could play around with how many different chapters there were. You could play around with whether or not you had the same effect. So repeating effects you could play</v>
+
+00:19:14.860 --> 00:19:23.960
+<v Speaker 1>on with whether or not you know, how did they, how did the things advance? Did you, what kind of control did you have over the advancement?</v>
+
+00:19:25.570 --> 00:19:45.450
+<v Speaker 1>What was it? How was it treated? What you know? Was it its own car type? Wasn't enchantment? Was it legendary? Was it not? We did a lot of things. We mapped that stuff out so that when it got to set design, it was like, here's an idea, here's what it represents. Sagas are stories. It takes place over time. We think that it's an enchantment.</v>
+
+00:19:47.180 --> 00:19:55.690
+<v Speaker 1>I think we hand it off. We said we we think it's legendary, but maybe it's not. So, you know, that's a something you could toggle.</v>
+
+00:19:57.640 --> 00:19:58.240
+<v Speaker 1>And</v>
+
+00:19:58.950 --> 00:20:19.650
+<v Speaker 1>like what we did was we gave them all the component pieces to build sagas out of. And we did some, we designed a bunch of scientists for proof of concept. We sort of showed here's how the kind of things they are, here's the kind of things you can do with them. We showed them how to do ones that are more top down. We showed them ones that sort of.</v>
+
+00:20:20.790 --> 00:20:24.630
+<v Speaker 1>Had mechanical identity, then the flavor of the mechanical identity. We did a bunch of different things.</v>
+
+00:20:25.860 --> 00:20:27.670
+<v Speaker 1>Sorry, no you on here.</v>
+
+00:20:31.680 --> 00:20:37.730
+<v Speaker 1>But then, um, and we demonstrated how to build it out of stories, but then they built their own. So we</v>
+
+00:20:38.910 --> 00:20:50.080
+<v Speaker 1>that I, I like to think that how vision is working is setting up all the tools for set design. And that's a big way, I think now when we're in vision is</v>
+
+00:20:51.220 --> 00:20:55.350
+<v Speaker 1>I always have the set designer with me. Now is that lead and I will say to them,</v>
+
+00:20:56.360 --> 00:21:08.430
+<v Speaker 1>you know, here, let me map out a bunch of things and like, I can't give details of this, but I just hand it over Cricket to Dave Humphries is the set lead for cricket. And one of the things for examples, we took,</v>
+
+00:21:09.650 --> 00:21:21.520
+<v Speaker 1>we took some of our themes and I actually spent the last couple of weeks taking some of our themes and pushing them in different directions to demonstrate a couple of different ways sort of you could use it.</v>
+
+00:21:22.880 --> 00:21:23.520
+<v Speaker 1>And that</v>
+
+00:21:24.190 --> 00:21:33.820
+<v Speaker 1>Dave, you know, then took it and figured out and then through some play testing, figured out all of the different choices we gave him, which ones actually made the most sense. And then</v>
+
+00:21:36.510 --> 00:21:38.570
+<v Speaker 1>anyway, what I'm trying to say is this new system</v>
+
+00:21:39.870 --> 00:22:10.160
+<v Speaker 1>let's us set each other up in a little bit better way. Like one of the the issues I think that was going on in design and development was there was a bunch of work done, especially during refinement, where we would spend all this time fine tuning things, saying, OK, this is what we've made, let's clean it up. And then development will come in and be like, oh, well, a bunch of stuff doesn't work, we got to RIP it out. And then they would spend time sort of making new things. And then obviously they had to refine the things that they made.</v>
+
+00:22:10.260 --> 00:22:41.170
+<v Speaker 1>So like there's a period of time where we were making things and cleaning them up and making them sort of the best version of them that they could be, but they weren't serving the needs of the set. And so they were just getting pulled. And that was kind of a waste of effort. One of the things about the new system that I like a lot is I think we're more time efficient. I think that we are not kind of repeating things anymore, that there was a period of time where we have some sort of parallel where two different teams were kind of doing the same thing. So the second team was kind of redoing some of the work with the first team.</v>
+
+00:22:41.850 --> 00:22:43.960
+<v Speaker 1>And under our new system, it's a lot more</v>
+
+00:22:44.760 --> 00:22:49.660
+<v Speaker 1>crisp of sort of where the the delineations are so that we're not repeating work.</v>
+
+00:22:51.130 --> 00:23:01.760
+<v Speaker 1>The other big, there's a couple of things. One, one of the other big changes has to do with the relationship to how the whole design process matches up to the creative process.</v>
+
+00:23:03.700 --> 00:23:16.130
+<v Speaker 1>The new system allows the exploratory world building. So that early, early on, while we're mapping out what the world can be, they're mapping out. I mean, we're mapping out mechanically, they're mapping out creatively.</v>
+
+00:23:17.080 --> 00:23:26.620
+<v Speaker 1>And there's a lot of interesting things that go on during exploratory where like one of the things that's interesting when you're mapping out where you could go</v>
+
+00:23:27.500 --> 00:23:30.170
+<v Speaker 1>the world, like there's lots of different possibilities.</v>
+
+00:23:30.970 --> 00:24:00.360
+<v Speaker 1>And we talked with the creative team, they start to figure out sort of what they want. And you go back and forth because you start figuring out some interesting mechanical identity and they figure out interesting creative identity. And you're kind of going back and forth to figure out how each one of you can keep the part. That's the best part that you're finding. And then you get inspired. Oh, well, this is a neat idea creatively. It's a mechanical way to copy this, or this is a cool mechanical element. Can we reinforce that in the creative? So that's a larger part of the creative,</v>
+
+00:24:01.300 --> 00:24:05.330
+<v Speaker 1>like a good example of that. This is not under the current process, the process, but</v>
+
+00:24:06.720 --> 00:24:37.880
+<v Speaker 1>the idea that we like the idea of energy in Kaladesh. And then once we had the idea of energy mattered and the energy was this mechanic, the creative team really went really into the idea that this world is shaped by the fact that it has a unique energy source. I'm seeing that the ether was a really defining quality of calabash and that came about because we had made something that made sense, like mechanically we were doing something and they really wanted to pay that off</v>
+
+00:24:37.950 --> 00:24:57.600
+<v Speaker 1>in a way that was organic to the world and really made an interesting world. Like I think the idea of, you know, the government controlling this material that was required for the people to make this stuff. They made it made for an interesting the whole dynamic and the cosmology. Anyway, it was very interesting and that came out of creative trying to match what to mechanics wanted to do.</v>
+
+00:24:59.160 --> 00:25:05.530
+<v Speaker 1>The other big thing about the correlation between them is because of</v>
+
+00:25:06.830 --> 00:25:22.600
+<v Speaker 1>the shift, there's a lot more time building the set before art gets commissioned. One of the problems that development always had is there was such a tight window between development taking over the file and art having to be assigned.</v>
+
+00:25:23.490 --> 00:25:53.340
+<v Speaker 1>And one of the problems is once you, once you come up with art, then that's your art. I mean, this sketch comes in, there's a little bit of tweaking and even once you have art, there's a little bit of wiggle room you have, but not not nearly as much that once I have a picture of a flying creature or maybe flying, a little unfair concretely, but what's that? A picture of a creature. It's hard for that spell not to be a creature. The picture is a creature. And even then and now it's just a creature, but a creature that's doing something. And so if you want to change it,</v>
+
+00:25:53.440 --> 00:26:05.730
+<v Speaker 1>you have to sort of reflect what it's doing, what it's size or sometimes in the card concept thing, they'll build in functionality to match the card. And then it's like, Oh, well, this creature is shooting, you know,</v>
+
+00:26:06.490 --> 00:26:31.600
+<v Speaker 1>laser beams or whatever, you know, lightning bolt is something like, OK, is that drug damage? Like it starts saying that it starts to mean something. And so the change over the new system allows us to be committing or much later in the process of how the cards are made. I mean, it's not, it's more that we're making things earlier than the art, I guess is later. But from a practical standpoint, from the people making the cards, they have a lot more time to sort of play before they have to sort of</v>
+
+00:26:32.900 --> 00:26:44.830
+<v Speaker 1>they have to, you know the one, the way I talk about it, we're building a house is at some point you gotta pour some cement. And once you pour the cement, cement is going to dry and this events going to be there. And now your house has to deal with the fact that that's where the cement is.</v>
+
+00:26:46.900 --> 00:26:57.390
+<v Speaker 1>We got a part of the cement a little later. And that gives us a little more flow of figuring out how we want this meant to be or where we want it to be or what shape we wanted in. You know, it gives us a little more say</v>
+
+00:26:59.560 --> 00:27:08.090
+<v Speaker 1>the other big thing that I appreciate about sort of the new system is, and I just touched on this briefly, I've got a little more detail is</v>
+
+00:27:10.600 --> 00:27:19.870
+<v Speaker 1>the way we kind of approach it and the way we approach the people is a little bit different. Um, like I said, it used to be in the process that,</v>
+
+00:27:21.160 --> 00:27:37.150
+<v Speaker 1>you know, there were designers and developers and designers did more design and developers did more development. And now it's much more like there's car design people and balance people and there's different sort of skills and those skills get spread out through the whole process</v>
+
+00:27:38.900 --> 00:28:00.020
+<v Speaker 1>that I, I want people in the early part of the process who are really good at knowing whether something is going to be balanced. And late in the process, we want people that on the drop of a hat can really craft and make new things that are flavorful. You know, that we, we, we want those skills that spread throughout the whole process. And that's made for a much more organic system.</v>
+
+00:28:01.610 --> 00:28:05.460
+<v Speaker 1>So I'll actually will dominate a little bit. It's the only, the only one you guys have seen so far.</v>
+
+00:28:06.230 --> 00:28:06.750
+<v Speaker 1>Um,</v>
+
+00:28:08.050 --> 00:28:08.480
+<v Speaker 1>that</v>
+
+00:28:09.740 --> 00:28:17.410
+<v Speaker 1>the interesting thing for vision, for example, was so like one of the big challenges. Let me walk through Dominar talk about how each part worked with Dominaria.</v>
+
+00:28:19.160 --> 00:28:23.460
+<v Speaker 1>Dominaria started with the following challenge. We're going back to this world,</v>
+
+00:28:25.210 --> 00:28:32.380
+<v Speaker 1>OK, exploratory team. What does that mean? We're going back to Dominaria. That's where we start. And it's more like, well, our first problem is</v>
+
+00:28:34.490 --> 00:28:36.390
+<v Speaker 1>what? What does it mean to be Dominaria?</v>
+
+00:28:37.080 --> 00:28:46.300
+<v Speaker 1>You know, and and exploratory design said OK, well our first problem is Dominaria has so many different things. Like what? What exactly is returned are supposed to be</v>
+
+00:28:47.030 --> 00:28:51.050
+<v Speaker 1>um, and you know, one of the challenges was</v>
+
+00:28:52.250 --> 00:29:21.980
+<v Speaker 1>we would like to bring Dominaria into the sort of modern world, like how modern world's work in magic. We wanted to be playing, we get to visit and to have an identity. And the problem is because there have been so many worlds, so many different sets on it that it really had a very mixed identity, not a singular identity. So explores our design, spend a lot of time energy talking about what, what is Dominaria and what it represents and what can we do and what are mechanics we can reprint and what are the themes we can look into.</v>
+
+00:29:22.340 --> 00:29:29.270
+<v Speaker 1>Um, and then vision design had to say, OK, taking all the stuff we've learned from what exploratory science done,</v>
+
+00:29:30.200 --> 00:29:35.110
+<v Speaker 1>OK, we need an identity. What does this world and vision was the one that really sort of</v>
+
+00:29:36.410 --> 00:30:05.940
+<v Speaker 1>came up, the idea of history world, that there's a world where the president is shaped by its past and that is very upset. You know, it's a world where losses happen. And the idea that it's the idea of this world of rebirth of yeah, it's a place where bad things seem to always happen, but they always come through. And that there's a real optimistic feel to the world and that, look, if these 8 crazy things didn't stop us, what's going to stop us? We can deal with anything and that</v>
+
+00:30:06.020 --> 00:30:34.510
+<v Speaker 1>rather than make a world those kind of depressed because things go bad all the time, became a world that was like, look, we can live through anything. We're, you know, we're resilient and it really the so vision was sort of trying to figure out that flavor and that feel, the idea that stories were important, the idea that history was important, the idea that we wanted to bring back things. So during vision we came up with with sagas and historic and</v>
+
+00:30:35.600 --> 00:30:44.120
+<v Speaker 1>take our bring kick her back and we did a lot of stuff. You know, the idea of the legendary matters component of just having more legends,</v>
+
+00:30:45.660 --> 00:31:15.720
+<v Speaker 1>I mean, all part of our larger history theme. But we we had all these things that we wanted to do and we sort of brought in and then set design had to take all these ideas we had and just kind of practically build them into a real set. Yeah, Signs are cool. Yeah. Historic's cool. Yeah. Kickers are cool. Mechanic. OK. But how exactly do we make this OK? You want more legendaries, but how do we do that? And you know, they're the ones that came up with the idea of a legend in every pack, the new legendary frame. They came up with</v>
+
+00:31:15.790 --> 00:31:38.230
+<v Speaker 1>dictionary source reads. You know, they, they did a lot of reinforcements of some themes and they figured out how to execute sagas and they sort of refine them and took them from 4:00 to 3:00 chapters and sort of changed. We had originally pitched me a different kind of layout and they figured out how to get the layout to work and how to make it be this unique thing that had a visual sort of the grabbed you, but was didn't feel too different from normal magic,</v>
+
+00:31:39.630 --> 00:32:01.740
+<v Speaker 1>you know, And then play design, which to be honest for Dominaria was just starting to form. So like Domino's, the first set, the play designed an essay on. But it definitely was the sort of the earliest version of play design. But they definitely got to come in and sort of look at themes and look at sort of figure out where can we play up different themes that people would have fun playing those different themes.</v>
+
+00:32:04.050 --> 00:32:28.880
+<v Speaker 1>And the thing I look back on Dominaria is, you know, one of the things that people have asked is a Dominaria huge head. So one of the things internally we've we've asked ourselves is why, like why what made Dominaria is so successful? And it's not one reason. There's a lot of reasons. I think, you know, doing this nostalgic thing, our 25th anniversary was pretty cool. I think just the, the way we approached it,</v>
+
+00:32:30.250 --> 00:32:59.910
+<v Speaker 1>there's a lot of factors that went into why you're successful. But one of the big factors that when we were going through, like we had a big meeting, we're talking about like what did we do? Right? We, we do what's called a postmortem and all our products, which, which a lot of companies do, which is after you're done, after the audience has seen it, after you've seen the feedback from your audience, it's like, OK, now that we have, you know, 2020 hindsight, what, what did we learn from this? What was done correctly, what was done incorrectly?</v>
+
+00:33:00.760 --> 00:33:06.680
+<v Speaker 1>And so one of the things we were doing on Dominaria is we said to ourselves, look, this is really successful, OK,</v>
+
+00:33:08.110 --> 00:33:38.140
+<v Speaker 1>what are there, what is there to learn from this? Did we do anything different from how we've done before? Other things that we've we've done all along that we need to continue doing are the things that even though the set was well received, maybe this was mistakes and we shouldn't do that again. But one of the big conversation was being there was a success is what did we do right, especially what do we do right different from other times. And one of the things that came up very early was the process had changed that the way we handle things, the way we do things</v>
+
+00:33:38.230 --> 00:33:39.940
+<v Speaker 1>made for a cleaner system.</v>
+
+00:33:40.730 --> 00:33:41.660
+<v Speaker 1>And that</v>
+
+00:33:44.510 --> 00:33:57.570
+<v Speaker 1>there was less, you know, work didn't get redone, that handoffs were done in a way that was a little bit cleaner. Ohh, there's a lot more integration to that the current system. Like</v>
+
+00:33:58.370 --> 00:34:24.070
+<v Speaker 1>I love the fact that there's input during vision from play design and set design, and there's feedback during set design, from vision and play design. And then during play design, there's some feedback from vision and from set design vision, by the way, real quick. What I mean by that is one of the things that I have to do from time to time is peek my head back in and just do a sanity check that the overall holistic feel hasn't changed.</v>
+
+00:34:24.830 --> 00:34:25.450
+<v Speaker 1>Um,</v>
+
+00:34:26.990 --> 00:34:34.920
+<v Speaker 1>like Dominaria, for example. Dominaria there is definitely work. Historic took a little a little time to sort of</v>
+
+00:34:36.270 --> 00:34:55.360
+<v Speaker 1>the way we'd handed it off. Like the theme was good and the interconnectivity was kind of cool, but it wasn't quite executed in the way it needed to be. And so I spent extra time during set design sort of creating, batching, the idea of taking multiple things and using a turn to connect them.</v>
+
+00:34:56.600 --> 00:35:02.410
+<v Speaker 1>I, I kind of came up with new technology to capture the thing of what I was trying to capture.</v>
+
+00:35:03.860 --> 00:35:33.310
+<v Speaker 1>And also one of the things that I do, I mean, usually the set designer comes to me or comes to the lead, whoever the vision lead was. So not always me, but when it comes to the lead and when they want to make changes, they want to sanity check for changes. So you know, if Eric's going to change something Domino Eric or, or Dave, because Eric did it for two months, hand it off to Dave. As we were changing on the system, Eric was leading the beginning of all the set designs to get all the set leads up to snuff.</v>
+
+00:35:33.950 --> 00:36:03.960
+<v Speaker 1>Just because it was a new process. Early on, I was just doing all of the vision designs. I wasn't handing it off. I started handing them off, but because of the way it works, Vision design is four months long. There's three of them, so I can lead. I'm capable of leading all of them if need be. But Eric, because it's nine month long, Eric can't and they overlap each other. Eric couldn't lead all the sessions, so for a while he was just sort of setting up the set designs, making sure that things were working well, and then handing them off.</v>
+
+00:36:05.460 --> 00:36:09.150
+<v Speaker 1>And that was the necessity of sort of how long set design goes versus long vision goes.</v>
+
+00:36:11.830 --> 00:36:13.540
+<v Speaker 1>But anyway, um,</v>
+
+00:36:14.460 --> 00:36:17.350
+<v Speaker 1>one of the big things we were doing in the,</v>
+
+00:36:17.770 --> 00:36:23.720
+<v Speaker 1>you know, evaluating what Dominaria did is realizing, looking how the systems had changed. And</v>
+
+00:36:24.730 --> 00:36:29.000
+<v Speaker 1>I mean, the, the thing that I'm excited by, the reason I want to talk about is today is</v>
+
+00:36:30.850 --> 00:37:00.920
+<v Speaker 1>there are changes we make that are kind of very public facing. Like we've added in Evergreen keyword. What's really obvious, we added or we took away at Evergreen keyword or we, we templated something or we changed the rules. That's really forward facing. Of course you're going to see that's literally written on the cards that for example, if you never came to our website or listen to my podcast or never sort of connected with us, never connect with behind the scenes information, you would know there's a new Evergreen keyword because literally on your card there's a new keyword.</v>
+
+00:37:01.260 --> 00:37:31.220
+<v Speaker 1>And maybe you don't know it's Evergreen until you see it for the second or third time, but you'd pick up eventually it's Evergreen. If we change your template, you'll see the new template now a new rule change. Some of those aren't in the cards and maybe it's a little trickier to tell, but this kind of stuff, look, if you're not listening behind the scenes, you have no idea. Like the fact is the fact that Dominaria was made completely differently than, you know, our devastation or not, I guess it was the same set of your earlier a year earlier, which</v>
+
+00:37:31.320 --> 00:37:56.080
+<v Speaker 1>made completely differently. I don't think you necessarily know that. Maybe I mean, what we're hoping is that the quality and then the process sort of seeps through to making a better product. But it's not something that you're going to you're going to look at cards and see that. And so one of the things I like to do in my articles and in my podcast is off all my blog is I like sort of sharing with you what we're doing behind the scenes because I'm a big believer that,</v>
+
+00:37:58.020 --> 00:37:58.800
+<v Speaker 1>you know,</v>
+
+00:38:00.010 --> 00:38:30.080
+<v Speaker 1>I really think to appreciate something, the more you understand it, the more you can appreciate it that that's kind of my general belief. So I like explaining our processes. I like explaining how we do things like explaining our philosophies. Like I think that's a cool thing. So anyway, today was me sort of talking about how I'm very happy. I think we did a really good thing. I think the change is making for better sets. Now the interesting thing for me is it's is radically changed my job in that I used to do a broader</v>
+
+00:38:30.460 --> 00:39:00.510
+<v Speaker 1>area of things and now I'm doing a much narrower area. But the cool thing is, and part of this also is going to the three in one system is I like the link page. I like figuring out what's going on. I like making mechanics. I like the early part of the process just because there's something very neat of making something out of nothing. I know it's intimidating to a lot of people, but it's very exhilarating for me. It's not that it's easy, it's hard,</v>
+
+00:39:00.870 --> 00:39:16.940
+<v Speaker 1>but I think anything that really is is rewarding has to be somewhat hard because part of what makes things rewarding is that you accomplish them. And so if it's like, pick up that brick, OK, pick it up, not that rewarding. I'm not sure why it's a brick, but anyway.</v>
+
+00:39:18.120 --> 00:39:19.610
+<v Speaker 1>Alright, because I'm thinking of physics,</v>
+
+00:39:21.140 --> 00:39:22.520
+<v Speaker 1>Uh, the</v>
+
+00:39:23.200 --> 00:39:52.410
+<v Speaker 1>anyway, so hope my, my take away for today for you guys is this new system is a really good system behind the scenes. It's doing a lot of good stuff. It is allowing us to make a richer, more nuanced set. It's allowing us to sort of spend more time and energy making sure that when you're playing with it, that the fun isn't how you're supposed to play it. It's going to lead to, I think richer environments and plan environments.</v>
+
+00:39:53.670 --> 00:39:54.340
+<v Speaker 1>So I mean, I,</v>
+
+00:39:55.100 --> 00:40:08.040
+<v Speaker 1>I'm really happy with where we're at. And so kind of me looking back is saying, you know, OK, did, did this workout like we hoped to workout? And the answer really is a resounding yes in some level. More so like I, I'll admit.</v>
+
+00:40:09.200 --> 00:40:39.640
+<v Speaker 1>When we first talked about changing, I mean, I was up to it because I like iteration and like trying new things. And I also knew, OK, if we try and it really isn't working, we always could fall back on the way we used to do things because that did work. But having not been through the process and watching this change and really lived in this world for 2 1/2 plus years, this is a better system. It really is. And I think the good news for all of you is you're going to see it in the product you get. I think it just leads to better sets. So you like dominate, that's good,</v>
+
+00:40:39.780 --> 00:41:09.730
+<v Speaker 1>but we have other cool sets coming and I can't wait for you to see guilds of Ravnica, to see Ravnica allegiance, to see milk, to see archery, to see baseball, to see cricket, to see diving. This is all sorts of cool stuff coming, none of which will tell you about that's that's my my burden to bear. But there's a lot of neat things coming and this process has allowed us to build them and craft them in a way that gives each set specialized attention and each set gets to be crafted and shaped to be the best that you can be. And so I'm really</v>
+
+00:41:09.800 --> 00:41:39.170
+<v Speaker 1>treated like I said, two years from now or two years from now, I'm going to be doing the OK now that you've seen the first two years. And I'll talk about this process again with a lot more concrete examples. This was more of the high end. Next time I do this in two years, I get to do the crunchy version where I can talk about this change, in this case, in this stage of that change. And then you guys can compare the two and see which one you like better. But anyway, I'm now parked, so we all know that means this is the end of my drive to work. So instead of talking magic, it's time for me to be making magic to you guys next time.</v>
+

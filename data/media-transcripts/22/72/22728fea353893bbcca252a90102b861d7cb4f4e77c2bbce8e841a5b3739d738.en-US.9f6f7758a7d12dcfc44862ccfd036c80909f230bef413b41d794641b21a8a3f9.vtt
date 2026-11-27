@@ -1,0 +1,665 @@
+WEBVTT
+
+00:00:00.820 --> 00:00:28.710
+<v Speaker 1>I'm pulling another parking lot. You all know that means it's time actually might not know what it means because it's time for drive from work. I don't do a lot of drive from works, but normally when I have a guest, the guest comes with me. So the in the evening we go home and I don't have a lot of opportunity have guests. So Scott say hi. Hello. So Scott Beeson was in the last podcast all about the Transformers TCG. So we're doing another podcast, this time about</v>
+
+00:00:30.150 --> 00:00:30.920
+<v Speaker 1>what is it about?</v>
+
+00:00:30.990 --> 00:00:32.280
+<v Speaker 2>It's about Kaladesh.</v>
+
+00:00:32.290 --> 00:00:54.280
+<v Speaker 1>Yeah, So what I decided was Scott normally works on Duel Masters, but one of the cool things about working at Wizards is occasionally you get to work on magic if you don't work on magic all the time. And Scott was on the team for Kaladesh, so it'd be interesting to hear about. I've talked about Kaladesh, but I thought we need to hear from Kaladesh from a different perspective. So. So Scott talked about how you ended up on the Kaladesh team.</v>
+
+00:00:54.320 --> 00:01:00.200
+<v Speaker 2>Sure. Well, as Mark, as you mentioned, I began working here on the Duel Masters</v>
+
+00:01:00.390 --> 00:01:24.190
+<v Speaker 2>and I've been there for a while and people had told me that it's it takes a while before you get on a magic team because they sort of plan these things out fairly far in advance. But as I understand it, there was some personnel switching and some, you know, people, the spot opened up early. And so I was asked if I wanted to join and I thought for about 3 milliseconds and then said absolutely yes.</v>
+
+00:01:24.700 --> 00:01:30.550
+<v Speaker 1>Yeah, I mean what happened behind the scenes on my side is there was an opening and I said hey, how about</v>
+
+00:01:30.620 --> 00:01:45.560
+<v Speaker 1>God? Alright. Cause obviously I knew you from the Rich sign research and I was interested in having your own design team. So I thought man, I knew that we were doing Kaladesh had an inventors vibe I knew about. And anyway, I thought you'd be well suited for it, so.</v>
+
+00:01:45.660 --> 00:01:50.360
+<v Speaker 2>Well, I had a, I had a great time being on the team and I'm looking forward to talking all about that.</v>
+
+00:01:50.530 --> 00:01:55.980
+<v Speaker 1>OK, So what is your memory? What's your earliest memory of the Kaladesh design team?</v>
+
+00:01:56.090 --> 00:02:00.620
+<v Speaker 2>One of the earliest things I we knew coming in, or at least we had a very strong feeling</v>
+
+00:02:00.690 --> 00:02:31.200
+<v Speaker 2>coming in that energy was going to be one of the main primary mechanics of this. And so we, I guess you'd come out of not vision declaratory design knowing that energy was a good was a good mechanic. So one of the very first things we did was we said, how can we do energy? We talked about different ways that we could do energy. So one of the ways we explored was what you've seen here, where we have energy as a counter on a player.</v>
+
+00:02:32.500 --> 00:02:44.990
+<v Speaker 2>We explored a couple of other versions. One of them was sort of a charge country version, which is where energy ended up initially. But these were just sort of counters on creatures.</v>
+
+00:02:46.520 --> 00:02:48.360
+<v Speaker 1>The way that one worked is they won't.</v>
+
+00:02:49.850 --> 00:03:07.820
+<v Speaker 1>The cards that generate the energy had counters on them, and then you would use the counters off them. So instead of being on a player, it was kind of bent on different things. But if your opponent ever got rid of those things, you'd lost the energy that went that were on those things. But any card that used energy could grab it from anywhere.</v>
+
+00:03:07.890 --> 00:03:20.380
+<v Speaker 2>Right. And we, we, we liked, we initially liked the idea of exploring that because it gave some more interaction. But we also felt that it really took away from the modularity of energy and in the trade-offs</v>
+
+00:03:20.470 --> 00:03:26.960
+<v Speaker 2>decided that it was better to just have energy, something that's a little more protected, a little safer from your opponents interaction.</v>
+
+00:03:28.500 --> 00:03:58.410
+<v Speaker 2>We I also one of my very first pitches was a really weird energy thing, which was that it was some sort of virtual token, not virtually. It was like a, a token that became attached to a creature. So it's like sort of some sort of token Ora or token of chat attachment and was consumed the same way, but it could be interacted with and you could just stick it anywhere. And that I had proposed ideas of, Oh, this here's a creature that</v>
+
+00:03:58.550 --> 00:04:18.920
+<v Speaker 2>mom is an ordinary feature, but when it is energized, it powers up in some ways. And so it's very and the one of the real problems with that is that making very parasitic and like you as an AB mechanic where this thing only worked in the concept in the context of Kaladesh. And so that was one of, I'm sure several reasons why we ended up not going with that version of.</v>
+
+00:04:18.930 --> 00:04:29.550
+<v Speaker 1>The yeah. So what had happened was in exploratory design, we actually explored a couple different ways to do energy. And I was pretty sure coming out exploratory how I wanted to do it, but I wanted the team to sort of</v>
+
+00:04:29.620 --> 00:04:38.280
+<v Speaker 1>try and experiment a couple of different things. And essentially the team came to the same conclusion the exploratory design team did, which was the one that everyone obviously has played with.</v>
+
+00:04:38.390 --> 00:04:44.370
+<v Speaker 2>Yes, the next thing that I remember spending a lot of time on was vehicles.</v>
+
+00:04:45.240 --> 00:04:46.660
+<v Speaker 1>Which which also came out of exploratory.</v>
+
+00:04:46.670 --> 00:04:48.300
+<v Speaker 2>Design right, And we had.</v>
+
+00:04:48.630 --> 00:04:59.520
+<v Speaker 1>But they but they weren't they we vision figured out sorry, normal Zion figured out how to do them. We knew we wanted vehicles coming out of exploratory design, but we they weren't like energy came out of</v>
+
+00:05:00.000 --> 00:05:03.250
+<v Speaker 1>really close to how we did energy vehicles went through a bunch of changes.</v>
+
+00:05:03.260 --> 00:05:29.600
+<v Speaker 2>That's right. I think you know, an exploratory design and even sort of talking about the block just around R&amp;D before this, it was a slam dunk that we wanted to do vehicles. We just we went through a lot of different iterations. Some of the ones that we I recall is going through, we went for through one that was really like reverse equipment almost. It was you had to pay mana to sort of put the creature into the vehicle and then I believe you may have,</v>
+
+00:05:29.670 --> 00:05:41.990
+<v Speaker 2>they had to pay the creature out of the vehicle ended up being very slow and also feeling just too much like equipment. And one of the things we wanted to do was make sure that this felt significantly different from how equipment works.</v>
+
+00:05:42.480 --> 00:05:49.300
+<v Speaker 1>Yeah, I mean the the idea that the equipment inside the equipment, the idea that the vehicle became a creature</v>
+
+00:05:50.100 --> 00:06:04.970
+<v Speaker 1>happened later. That wasn't one of our early incarnations of IT. And even then, when we handed off vehicles to development, IT crew and met TAP and creatures, not empower of creatures.</v>
+
+00:06:05.400 --> 00:06:07.070
+<v Speaker 2>That's right. And we</v>
+
+00:06:08.020 --> 00:06:12.350
+<v Speaker 2>that was one of those cases you've talked about how when design is</v>
+
+00:06:14.070 --> 00:06:25.090
+<v Speaker 2>the difference between sort of design and what play design brings to looking at a mechanic where sort of design plays it in the most fun way. And play design says yes, that's nice, but here's how we'll actually be played.</v>
+
+00:06:25.260 --> 00:06:27.030
+<v Speaker 1>Any competent in competitive?</v>
+
+00:06:27.140 --> 00:06:43.590
+<v Speaker 2>And competitive levels, yeah. And one of the things that they said to us just from the start, they're like, look, anything with crew of greater than one will just never be played. It's too much of A cost at top level competitive levels. And we we're very sad about that. We wanted to, you know, have</v>
+
+00:06:43.700 --> 00:06:49.220
+<v Speaker 2>points where you said, hey, I, I put 2 feet. There's a really big vehicle I want to put two or three creatures in,</v>
+
+00:06:50.550 --> 00:06:57.310
+<v Speaker 2>so fortunately we were able to steal that. The power based version from was it excellent that we.</v>
+
+00:06:57.320 --> 00:07:19.500
+<v Speaker 1>Stole. Yeah, yeah. But what happened, the real quick version of this is we were trying to come up with a way to explore lands that we were playing with the double faced lands. And one of our earlier versions, which you have to sort of conquer the land or to conquer, but you had to stick claim on the land. And the way you did that is by tapping creatures. But to separate it from equipment, we made it</v>
+
+00:07:20.450 --> 00:07:33.530
+<v Speaker 1>total number of power rather than total number of creatures to make it different. And then when development was struggling, I went to them and said, hey guys, there's something we messed around with an Exelon that maybe you want to think about. And it ended up that's what they ended up going with.</v>
+
+00:07:33.620 --> 00:07:50.470
+<v Speaker 2>There's another thing that we spent a lot of time going back and forth on was were vehicles creatures all the time that just couldn't attack or blocked until you activated them? All right, Yeah. Were they artifacts that turned into creatures? And there were some, a number of rules interactions and confusions,</v>
+
+00:07:50.810 --> 00:08:16.660
+<v Speaker 2>but one, there are several reasons we went with the way we did. One of which was we wanted these things to survive, be a little safer from removal and to survive board wipes. And, and we also, we really didn't like the ohh, I've got a vehicle that's empty, nobody's driving it, but because it's a creature, it could grow another vehicle. That was very weird. And it would have required us to say non vehicle, you know.</v>
+
+00:08:16.830 --> 00:08:18.100
+<v Speaker 1>Crew vehicles.</v>
+
+00:08:20.180 --> 00:08:23.490
+<v Speaker 2>We actually talked about, you know, we still have the problem with</v>
+
+00:08:24.570 --> 00:08:31.810
+<v Speaker 2>no, no, no problem. We still had the the situation with the current implementation, which is that ohh, a crude vehicle could create other,</v>
+
+00:08:32.500 --> 00:08:33.850
+<v Speaker 2>but we decided that that was</v>
+
+00:08:34.510 --> 00:08:41.500
+<v Speaker 2>better, more net coolness. Like, it's a little weird in some ways, but it's also really cool when you get into your helicopter and then your helicopter gets into a tank.</v>
+
+00:08:41.590 --> 00:09:04.520
+<v Speaker 1>Yeah, I mean it it didn't happen very often to it. The problem with the other version was when they were always creatures we had to specify because it's just too easy to use your on unequipped vehicle and and crew a vehicle with it. OK, so one of the things that I know we did is we came up with originally 5 mechanics for the set. I'm by the time the dust settled there</v>
+
+00:09:04.610 --> 00:09:08.830
+<v Speaker 1>three mechanics in this ad, but you want to talk about the two mechanics that didn't make it.</v>
+
+00:09:08.840 --> 00:09:20.760
+<v Speaker 2>Sure. So one of the mechanics was called reverse engineer. And this sort of shorthand version of this was you, you heat shimmer an artifact, you get an artifact, It has haste. If it's a feature,</v>
+
+00:09:23.420 --> 00:09:32.770
+<v Speaker 2>you mean the token copy of the artifact. You gave it haste and then you can attack with it. It was a creature. You could use it to abilities if it was a</v>
+
+00:09:33.620 --> 00:09:52.890
+<v Speaker 2>if it was a non creature, right, And then you you lost it in the turn. And we felt that that was very flavorful for the world we were trying to create. And it just gave us lots of opportunities for combining different different artifacts on you're being very Johnny with Johnny or Jenny with the with the set, which was.</v>
+
+00:09:53.540 --> 00:10:03.530
+<v Speaker 1>It was a fun mechanic. It was a complicated mechanic and it definitely, it was like we, I think we could put it a comment just because you don't, we don't do copying and common.</v>
+
+00:10:03.820 --> 00:10:14.850
+<v Speaker 1>And so it was, I think the reason ended up getting removed was we didn't want 5 mechanics. And while there's some cool, fun things that happened with it, I think we ended up putting it on</v>
+
+00:10:15.600 --> 00:10:17.210
+<v Speaker 1>on healing, right?</v>
+
+00:10:18.740 --> 00:10:21.200
+<v Speaker 1>One of her abilities was that, yeah.</v>
+
+00:10:21.210 --> 00:10:22.190
+<v Speaker 2>One of her abilities and.</v>
+
+00:10:22.600 --> 00:10:24.890
+<v Speaker 1>OK. The other mechanic I don't think we've ever talked.</v>
+
+00:10:24.900 --> 00:10:44.210
+<v Speaker 2>About that's right, Ohh, this was this was another one where the the dream of the mechanic was wonderful, but I got bogged down a little bit in the realities. This Med mechanic was initially called Gadgeteer, but then we changed it to Invent because that felt, you know, more exciting and more appropriate.</v>
+
+00:10:45.750 --> 00:10:47.220
+<v Speaker 1>OK. So how did invent work?</v>
+
+00:10:47.290 --> 00:10:55.540
+<v Speaker 2>I'm glad you asked that Mark Invent worked was a keyword action that would go on a creature, and it might be when this creature enters the battlefield.</v>
+
+00:10:55.550 --> 00:10:56.760
+<v Speaker 1>And not just creatures.</v>
+
+00:10:58.620 --> 00:11:12.900
+<v Speaker 2>Ignore it could be you know pay some manner to invent or it could be a writer on a spell. It could be draw 2 cards then invent and what invent said was get a gadget or an invention from your sideboard or from outside of the game and put it into your.</v>
+
+00:11:12.910 --> 00:11:18.020
+<v Speaker 1>Hand and and So what these were was they were cards that you couldn't put in your deck</v>
+
+00:11:19.210 --> 00:11:44.160
+<v Speaker 1>and that they did most of it. It's smaller things. And the idea was that the the flavor of this was that I could sort of on the fly invent things. And so whatever I needed in the moment, I could go get. And the idea was there were a bunch of these inventions and that you whenever you invented, you go got the invention that you needed. But they were all kind of small nichy sort of effects.</v>
+
+00:11:44.410 --> 00:11:49.300
+<v Speaker 2>That's right. And it was the idea was that you would, you would get what you needed in the moment.</v>
+
+00:11:49.380 --> 00:12:10.780
+<v Speaker 2>Ohh, you would say, man, I really wish I had some esoteric effect. And lo and behold, you were smart enough to draft it or you added it to your sideboard when you're building your constructed deck and it was there to save you when you needed it was. But they were, the idea was they were never super powerful effects. They were just just the right drinking effect in the moment.</v>
+
+00:12:11.420 --> 00:12:20.920
+<v Speaker 1>So why isn't it in the sense? There are a couple reasons. One of the biggest problems we had with it was when development started looking at it,</v>
+
+00:12:22.310 --> 00:12:47.350
+<v Speaker 1>it's essentially A tutoring mechanic. And while they were small effects, the problem was if you don't balance it correctly, then people keep getting the same one that instead of being ohh, what affects you want that People tend to gravitate towards certain effects and in order to balance it, it's really hard. So we were trying to make Mitchy things that like, well, this might not be useful a lot of the time, but in the right situation, the right time, it might be very useful.</v>
+
+00:12:48.800 --> 00:13:09.880
+<v Speaker 1>The other problem was there was a lot of complexity that went into sort of balancing it. Essentially what happened was they came back to us and they said, look, energy is going to take a lot of work to balance invention take a lot of work to balance which you care more about because we can't do both. And we picked, I mean, it was an easy pick. Energy was so basically what this that was, we picked energy.</v>
+
+00:13:10.550 --> 00:13:18.260
+<v Speaker 2>Yeah. And I, I suppose there's always hope that something similar to Invent will be put into a future set.</v>
+
+00:13:18.810 --> 00:13:48.370
+<v Speaker 2>But it was, it was fun to draft and it was fun to make those decisions about how you had drafted it. But in the end it was you always my, the biggest problem I had is I always had to try to make it fun. Like it wasn't fun on its own as much as it was. I really wanted it to be fun. And I was always looking for opportunities to make it what I wanted it to be, which is a very dangerous place to be as a designer. You have to have give yourself a little bit of distance to say,</v>
+
+00:13:48.950 --> 00:13:52.690
+<v Speaker 2>so is this fun when you're not trying to make it fun? And that's that's one of the tricks.</v>
+
+00:13:52.840 --> 00:14:19.150
+<v Speaker 1>Yeah, for the one, the the closest we've done is they're not exactly, but contraptions in Unstable has a little bit of the like you had a draft the contraptions in order to play the contraptions and whether or not like one thing you can do in unstable is I can draft 1 contraption and then every time I assemble, I know for sure what I'm going to get. I only have one contraption or I can draft a bunch of them and they have a little bit of.</v>
+
+00:14:19.350 --> 00:14:24.720
+<v Speaker 1>Now contraptions, you don't control the order because it's random where you control the order and</v>
+
+00:14:25.980 --> 00:14:31.990
+<v Speaker 1>invention, but it's it's the closest we've done that something in that in that space, I think.</v>
+
+00:14:32.000 --> 00:14:40.990
+<v Speaker 2>Right, and I think also contraptions are a great way to say here is how you can take a similar mechanic but force the fund by making it a little more random.</v>
+
+00:14:41.300 --> 00:14:48.020
+<v Speaker 1>Right. And the fact that, for example, when you're building your contraption, it only happens every so often and you're sort of</v>
+
+00:14:48.850 --> 00:15:16.020
+<v Speaker 1>putting together different things together. Definitely. I mean it, there's a little bit I mean, we made, even though I'm stable came out after Kaladesh. A lot of unstable was designed before Kaladesh. In fact, originally he was supposed to come out right before Kaladesh. Well, actually originally have a year before that, but at one point is going to come for Caladesi and we decided not to have two steampunk sets right by each other. And so we ended up pushing it back again.</v>
+
+00:15:17.580 --> 00:15:47.650
+<v Speaker 2>Since we're talking about mechanics, I have a fun little anecdote to share about another of the mechanics. OK, which is Fabricates. OK, now this is this is, I thought it was very cool and was very impressive to me. But Mark, you actually designed fabricate in about 30 seconds. We were talking, we had a problem. We had been pulling mechanics out because we were trying to bring the complexity down. We're fairly late in design and we needed a mechanic that was simple and that worked well with what the set was doing. And you sort of,</v>
+
+00:15:47.720 --> 00:16:17.080
+<v Speaker 2>I watched you talk through, well, what's it said to him? Well, we've got, we need something that works with plus 1 + 1 counters because we had a little bit of plus 1 + 1 tribal and we're just doing some stuff, a little more stuff than a regular set does with plus 1 + 1 counters. And we need to care about artifacts. We want something that's getting a few more artifacts there because we have a lot of artifacts going on. We have some cards that had had artifacts mattering in one way or another. And you just talk through that all you said, all right, what if you could get either an artifact or plus 1 + 1 counter? Boom, done. Good to go.</v>
+
+00:16:18.480 --> 00:16:21.870
+<v Speaker 1>Well, the basic idea came fast. We we spent a lot of time in execution.</v>
+
+00:16:21.880 --> 00:16:41.100
+<v Speaker 2>But yes, and I will have to say of all the cards in the set, those are some of the most fun cards to design because a it generally speaking, on average a + 1 + 1 counter is not quite as strong as a 11 token creature. In fact I early on I think the first pass they were 11 flying creatures. If I.</v>
+
+00:16:41.110 --> 00:16:41.990
+<v Speaker 1>Remember, Yeah, I think they.</v>
+
+00:16:42.000 --> 00:16:45.670
+<v Speaker 2>Were and development said those are way too strong, so.</v>
+
+00:16:46.000 --> 00:16:47.800
+<v Speaker 1>You'll you'll always choose the creature,</v>
+
+00:16:47.890 --> 00:17:01.460
+<v Speaker 1>right? And then so we, one of the challenges that we had to do when you built fabricate cards is you had to make usually you gave them some ability that, oh, if they were a little bigger, be better. If they were bigger, they sort of encourage you a little bit to do that.</v>
+
+00:17:01.510 --> 00:17:18.720
+<v Speaker 2>Right, so like if you look at all of the non common fabricate cards, you'll see they have an ability like lifelink that scales with their size or they have, you know, just something that's asking asking you to check their power. Bob Marionette master was one of my favorites of that where it says</v>
+
+00:17:18.790 --> 00:17:30.010
+<v Speaker 2>ohh, I wanna I wanna really get them. I really want both of these. How do I do that? I I think we had, I don't know if it ended up in this set, but we had a card for a while that said when you would fabricate, choose both modes.</v>
+
+00:17:30.360 --> 00:17:31.830
+<v Speaker 1>Yeah, we did have that, but</v>
+
+00:17:32.650 --> 00:17:52.010
+<v Speaker 1>yeah, there there's a card at one point. So one of the things about Innistrad Nitride Kaladesh, sorry, when is Kaladesh was it was Inventor World. So we were trying to make a lot of cool weird crazy artifacts and stuff, and I think we had one at one point which just lets you do all modes whenever you add mode.</v>
+
+00:17:52.020 --> 00:17:53.500
+<v Speaker 2>You would ever choose a mode, You choose all.</v>
+
+00:17:53.510 --> 00:17:57.160
+<v Speaker 1>Modes, Yeah, it was. I think development said it was broken, but anyway it is.</v>
+
+00:17:57.270 --> 00:18:00.880
+<v Speaker 2>I wouldn't be surprised if the rules manager had something to say to you as well about that.</v>
+
+00:18:02.380 --> 00:18:05.640
+<v Speaker 1>I think it worked in the rules, it just was</v>
+
+00:18:07.040 --> 00:18:09.890
+<v Speaker 1>I think development I I remember correctly development kill did not.</v>
+
+00:18:09.900 --> 00:18:11.880
+<v Speaker 2>Rule. Sure, I believe that, yes.</v>
+
+00:18:12.950 --> 00:18:17.280
+<v Speaker 1>OK, So what what else you in? What are the memories you have from from making calendar so?</v>
+
+00:18:17.290 --> 00:18:21.560
+<v Speaker 2>One of my memories we are early on, we had proliferated in the set for awhile.</v>
+
+00:18:21.570 --> 00:18:22.340
+<v Speaker 1>Ohh, we did. Yeah, we.</v>
+
+00:18:22.350 --> 00:18:42.880
+<v Speaker 2>Did we said, hey, we've got some plus 1 + 1 counters, We've got energy proliferators great. And the IT was very good, but it was, it had the problem of being too good with the plus 1 + 1 counters compared to how good it was with the energy. And so you build these proliferate decks that were just ridiculously, you just, you know, scaling creatures up like you wouldn't.</v>
+
+00:18:43.320 --> 00:18:46.010
+<v Speaker 2>You're like, ohh, I got an energy too. That's nice.</v>
+
+00:18:46.070 --> 00:19:13.040
+<v Speaker 1>Yeah, what one of the problems is, so when proliferate, we did it the first time, it was gonna set with -1 -, 1 counters. So when you tended to use it, you tended to put it on your opponents creatures to shrink them. And it's harder, it's not that easy to put minus -1 counters on your phones creatures without them dying usually. And so there wasn't that many. So when you're proliferating, the fact that you're getting more counters didn't wasn't that big a deal. But plus and plus one</v>
+
+00:19:13.110 --> 00:19:31.930
+<v Speaker 1>owners like that was a major theme of the set because we were all about invention and we liked the idea that you were enhancing things and passes. The counters just flavorfully really worked well on the sense of invention. So we had a lot of them in the sad. And so proliferate was just too good, too good.</v>
+
+00:19:32.860 --> 00:19:37.130
+<v Speaker 2>I I actually I just remembered another mechanic I'm not sure. Do you remember inherit?</v>
+
+00:19:37.720 --> 00:19:39.030
+<v Speaker 1>Remind me when inherit was?</v>
+
+00:19:39.040 --> 00:19:43.740
+<v Speaker 2>Inherit was. It was like modular, but it was a more limited modular. It what?</v>
+
+00:19:43.900 --> 00:19:45.610
+<v Speaker 1>Ohh didn't just go on artifact creatures.</v>
+
+00:19:45.620 --> 00:19:55.010
+<v Speaker 2>Right went on adding features and it was like a creature that had a normal size but then it would come with maybe 1 + 1 + 1 counter and it said it when I die you move the plus 1 + 1 counter on to.</v>
+
+00:19:55.020 --> 00:20:03.020
+<v Speaker 1>Somebody else, right? So real quickly modular only when an artifact creatures modular N, they were always 00 creatures.</v>
+
+00:20:03.090 --> 00:20:31.850
+<v Speaker 1>Got n + 1 + 1 counters and when they died, they you put them on an artifact creature on target artifact creature. So the idea of inherent was let's strip out the artifact Ness of it that it was a creature that could go in any creature. And then instead of being 00 with full counters, we tended to put fewer number of counters. So it's like a three three that comes with one counter. So when the 44 creature dies, well, one country gets go somewhere else, but not the full, not all four of them would go.</v>
+
+00:20:32.260 --> 00:20:32.970
+<v Speaker 2>And they we had</v>
+
+00:20:33.110 --> 00:20:36.900
+<v Speaker 2>she ended up being on one card that remained in this that we just didn't keyword.</v>
+
+00:20:36.990 --> 00:20:41.040
+<v Speaker 1>Yeah, yeah. Well, anything else you remember mechanic wise?</v>
+
+00:20:42.620 --> 00:20:57.350
+<v Speaker 2>We I remember we had a stronger plus 1 + 1 tribal than we ended up having. I think we were too close to what cons cons block had done with plus one plus from tribal. But we had the I have I have some notes here,</v>
+
+00:20:58.880 --> 00:21:06.990
+<v Speaker 2>but I can't find it doesn't matter if there was a a four man a card that had you draw a card for each of your creatures with plus 1 + 1 counters. Yeah, we.</v>
+
+00:21:07.060 --> 00:21:15.630
+<v Speaker 1>Yeah, we had a stronger theme and then it turned out, I think the feedback I got was there already is a reward for having the plus 1 + 1 counter your plus 1 + 1.</v>
+
+00:21:17.680 --> 00:21:25.580
+<v Speaker 1>So what we found was we do a little bit of rewards, but we like it already is an upgrade. And so like you can't give too many rewards cause already something that's beneficial.</v>
+
+00:21:27.600 --> 00:21:42.370
+<v Speaker 1>Like one of the things that I know about Kaladesh is we early on had energy, we early on had vehicles and then we spent a lot of time experimenting with a lot of different things. And then you're right, Fabricate was relatively late in the process.</v>
+
+00:21:42.680 --> 00:21:44.530
+<v Speaker 2>Yeah, it was. It was right at the end</v>
+
+00:21:45.390 --> 00:21:50.250
+<v Speaker 2>and but it was, you know, I mean, I think, you know, maybe a month from designing that to</v>
+
+00:21:51.540 --> 00:21:53.710
+<v Speaker 2>he got most of the way there. I mean, it's, it's a,</v>
+
+00:21:55.840 --> 00:22:02.330
+<v Speaker 2>it does a lot that gives you a nice simple choice. There was a point in time where it was, it was more modular. It was</v>
+
+00:22:03.030 --> 00:22:03.260
+<v Speaker 2>just</v>
+
+00:22:04.050 --> 00:22:05.570
+<v Speaker 2>if you had fabricate 3, you could</v>
+
+00:22:06.320 --> 00:22:07.340
+<v Speaker 2>3 + 3.</v>
+
+00:22:07.350 --> 00:22:32.200
+<v Speaker 1>Plus, ohh, any combination, right? We didn't, we tried, I think early on you couldn't choose and we tried for a while one where three meant you got 3 combinations of between counters and tokens and you can mix and match. But that ended up being a little more complicated than necessary. Like that was one of the problems in general is we ended up making five mechanics and then like, OK, there's too much going on. We realized we were just making too many things like, OK, let's dial it back a little bit.</v>
+
+00:22:33.820 --> 00:22:52.130
+<v Speaker 1>And I think we hand it over development. We actually had taken out fabricate and we've turned it over with, we got turned over to the development. It had energy, had vehicles and it had invent in it. And then they said we can't do invent and energy. And we said OK. And then we said we, we suggested, well, why don't you swap with?</v>
+
+00:22:52.140 --> 00:22:53.830
+<v Speaker 2>Fabricate. I remember that, yeah.</v>
+
+00:22:55.540 --> 00:23:07.560
+<v Speaker 1>Because one of the things we have done is we design always will give development whatever anything we've done will give them like, hey, if this inspires you, you want to use it, here's extra stuff we've made. And so we definitely,</v>
+
+00:23:08.320 --> 00:23:17.150
+<v Speaker 1>we definitely hand it over with some other stuff. And yeah, I remember talking with Eric and making this suggestion of, OK, let's take invention out and put put fabricate in.</v>
+
+00:23:18.310 --> 00:23:26.240
+<v Speaker 2>Yeah, that I mean that's I think pushed it to a nice more simplicity and let us focus on the the the coolest part, which was the energy.</v>
+
+00:23:26.650 --> 00:23:30.080
+<v Speaker 1>OK, so any other memories of Calabash? You know I.</v>
+
+00:23:30.230 --> 00:23:44.240
+<v Speaker 2>Just it was a ton of fun designing for it with energy. They're one of my favorite things to do was to take a very stable magic effects and just figure out how to put an energy twist on it.</v>
+
+00:23:45.770 --> 00:24:15.770
+<v Speaker 2>Other hub as a Tendo ice bridge variant was a ton of fun. Last new helium was one of my favorite cards, which is just it's your classic red, you know, creature, your red aggressive creature that you sacrifice it at the end of the turn. And we were able to say, Hey, we can build in a bit of a clock here. So in this version, ohh, sorry, haste creature. So lastly, helium is a three mana 4/4 that comes with two energy and at the end of the turn you have to either sacrifice</v>
+
+00:24:16.130 --> 00:24:17.310
+<v Speaker 2>four spent two energy.</v>
+
+00:24:17.320 --> 00:24:17.880
+<v Speaker 1>Yeah.</v>
+
+00:24:18.630 --> 00:24:23.340
+<v Speaker 2>And so, you know, it was ohh, it's fun. It's like, here's something they had attacked twice on its own and then you're done with.</v>
+
+00:24:23.350 --> 00:24:26.100
+<v Speaker 1>It right with a ball lightning bear and I think with the idea right right.</v>
+
+00:24:26.110 --> 00:24:43.670
+<v Speaker 2>And but the energy lets you say, hey, maybe I can have something feed into this and keep it going until you say, until the board state says it's no longer than you keep around. Or maybe you say, oh, well, I'm not going to be able to attack next turn because you have something too big. I'm just going to throw it away and keep the energy for later. So it's</v>
+
+00:24:44.510 --> 00:25:02.100
+<v Speaker 2>there was a ton of fun having that flexibility. We turned we turned in a a bunch of designs that were classic magic cards with just A twist of energy. And I think that's one of my favorite parts is just to say, how can I give an omage to something that we've seen forever, but do the do?</v>
+
+00:25:02.330 --> 00:25:06.100
+<v Speaker 1>So. So what was your favorite energy card you designed that didn't make it?</v>
+
+00:25:06.270 --> 00:25:14.360
+<v Speaker 2>That did not make it. Well that was the I had an early version of the bristling eye drop. So Bristling Hydra is a four man,</v>
+
+00:25:15.760 --> 00:25:16.020
+<v Speaker 2>4</v>
+
+00:25:17.380 --> 00:25:18.700
+<v Speaker 2>Hydra and it comes with three,</v>
+
+00:25:19.620 --> 00:25:33.770
+<v Speaker 2>and then you can spend energy. So you can spend 3 energy to give a + 1 + 1 in hex proof. That's what the final card was. My pitch for that card initially was something completely different that I thought was really fun, but it would development had a number of problems.</v>
+
+00:25:34.730 --> 00:25:50.840
+<v Speaker 2>It was a XG Hydra, so your classic hydrants is 00 that comes with X + 1 + 1 counters and X energy because we're energy set. And then I, you know, threw on a fun ability that made sense, which was pay for energy. This creature fights anything,</v>
+
+00:25:52.480 --> 00:25:56.510
+<v Speaker 2>and it's possible that development could have fixed it, but they ended up going in.</v>
+
+00:25:58.370 --> 00:26:04.160
+<v Speaker 2>That's what happens. You make several 100 cards, you get a couple dozen that you're really happy with that make it into the set.</v>
+
+00:26:04.370 --> 00:26:28.690
+<v Speaker 1>Yeah, I mean, one of the things that I mean, and now with with vision and and set design even more so a lot of design is about sort of getting the concepts down and you make cards because you want to execute and show proof of concept. But you know, some cards make it through the process, but a lot don't. And so a lot along the way is you make cards that are kind of cool ideas and sometimes they inspire other cards, sometimes for whatever reason they don't work and they get changed.</v>
+
+00:26:28.820 --> 00:26:46.290
+<v Speaker 2>Yeah, I have. I have a folder at my desk that's all of the cards that I've made that have made it to print. And the reality is, as you said, you know, I've touched hundreds of cards, but the number of cards that have a recognizable, you have enough of your DNA in it where you can say like, yeah, that's my card. Our, our, our very small.</v>
+
+00:26:47.750 --> 00:26:52.320
+<v Speaker 2>Yeah, you, you, you have a couple that you make that you fall in love with. Every now and then you get a brain to print</v>
+
+00:26:53.450 --> 00:27:01.400
+<v Speaker 2>apprentice a card where you designed the card and it just works and everything ends up being printed exactly as what you designed initially.</v>
+
+00:27:01.610 --> 00:27:03.090
+<v Speaker 1>Yeah, those are hard. You don't get those that.</v>
+
+00:27:03.100 --> 00:27:06.040
+<v Speaker 2>Often don't get those off and I was very happy I did get one in this set.</v>
+
+00:27:07.540 --> 00:27:09.540
+<v Speaker 1>Yeah. What's your favorite colors part that you made?</v>
+
+00:27:09.610 --> 00:27:25.940
+<v Speaker 2>My favorite color is cardi made. Ohh, my goodness, there's a lot. I'm going to cheat and and choose two. OK, one was Rashmi eternities crafter. OK, which was a top down design for the idea of Rashmi was that she had sort of?</v>
+
+00:27:26.030 --> 00:27:26.990
+<v Speaker 1>She was an inventor.</v>
+
+00:27:27.200 --> 00:27:36.700
+<v Speaker 2>Inventor and she had sort of like seeing how to sort of break through time and space. She had sort of like developed the technology that would lead to the planter bridge.</v>
+
+00:27:37.920 --> 00:28:07.530
+<v Speaker 2>And so my design for that was basically it ended up being like a, a cascade, you know, cascade variant on it was very close to the final card, which is whenever you cast a spell, look at the top card of your deck. If it costs less than the spell you cast, play it. Otherwise put it in your hand. And then the other one I really loved was multiform wonder, which was an A morphling variant, but within energy. And it was a shame that we've already used the name etherly.</v>
+
+00:28:07.830 --> 00:28:09.320
+<v Speaker 2>Yeah, it would have been perfect.</v>
+
+00:28:10.270 --> 00:28:12.560
+<v Speaker 1>OK So what is my favorite design I did?</v>
+
+00:28:12.570 --> 00:28:13.600
+<v Speaker 2>For what's that?</v>
+
+00:28:13.870 --> 00:28:16.540
+<v Speaker 1>Panharmonicon. Ohh. Panharmonicon, Yeah.</v>
+
+00:28:16.550 --> 00:28:19.270
+<v Speaker 2>Which I believe was called either thingamajig or Whatchamacallit.</v>
+
+00:28:19.280 --> 00:28:41.010
+<v Speaker 1>Yeah, yeah, ohh. But I but I didn't. So what happened was so I did the first half of the design, handed the reins over to Sean May and did the second-half and we were both on the team the whole time, but we sort of were Co leading it and it was during Shawn's part of it. And Sean said we're low on just weird artifacts. So I said OK, and then I named them all like</v>
+
+00:28:41.090 --> 00:28:48.420
+<v Speaker 1>Thingamajig, whatchamacallit. And so I remember the original name was, but I just like the idea of</v>
+
+00:28:49.570 --> 00:28:55.400
+<v Speaker 1>of I like doubling things. I'm like, let's double all ETB effects. So I thought that was fun.</v>
+
+00:28:55.670 --> 00:28:58.380
+<v Speaker 2>You know my favorite play test name.</v>
+
+00:28:58.390 --> 00:28:59.680
+<v Speaker 1>Was OK. What's your favorite?</v>
+
+00:28:59.690 --> 00:29:13.800
+<v Speaker 2>Name So is the on the card either flex reservoir OK, which was whenever you cast a spell, gain 1 life for every spell you've cast this turn. Yeah and it says pay 50 life to deal 50 damage right? The play test name of that was Storm.</v>
+
+00:29:15.050 --> 00:29:15.700
+<v Speaker 1>Yeah, ask you.</v>
+
+00:29:17.830 --> 00:29:21.420
+<v Speaker 1>OK. So any other any other like stories about individual cards you remember?</v>
+
+00:29:26.750 --> 00:29:34.500
+<v Speaker 2>So, uh, one of the, one of the things that we designed to support vehicles was, was we wanted to have cards that</v>
+
+00:29:36.030 --> 00:29:46.380
+<v Speaker 2>we're good to crew vehicles. So we have a couple of cards that said, hey, whenever I become tapped, do a thing. Well, I think we had a a pinger and maybe a looter as well that we're just.</v>
+
+00:29:46.390 --> 00:29:52.860
+<v Speaker 1>Cards Yeah, we ended up being a red white thing, right? Yes, we time to the dwarves and ended up being a red white thing.</v>
+
+00:29:52.870 --> 00:30:05.790
+<v Speaker 2>Right. But then the other one we did was we had a couple of pilots that were just really good at driving cars. And my favorite was the Speedway Fanatic, which is just a 21 with haste that whenever he drives.</v>
+
+00:30:07.360 --> 00:30:10.320
+<v Speaker 2>And I just loved the image we had from the beginning</v>
+
+00:30:11.950 --> 00:30:14.380
+<v Speaker 2>concept of just this maniac who</v>
+
+00:30:15.060 --> 00:30:17.140
+<v Speaker 2>hops in a vehicle and runs away with.</v>
+
+00:30:18.030 --> 00:30:34.490
+<v Speaker 1>That's a cool card. OK, so anything that people who obviously people played with, they have been quite awhile. What might not people know like like behind the scenes? What does the most surprising thing behind the scenes people wouldn't know about the making of the set.</v>
+
+00:30:36.740 --> 00:30:40.070
+<v Speaker 2>Oh my goodness. That is a. That is an excellent, excellent question.</v>
+
+00:30:42.050 --> 00:30:43.580
+<v Speaker 1>I was. I'll start.</v>
+
+00:30:45.460 --> 00:31:15.750
+<v Speaker 1>So one of the things that was very interesting about it was the set in the end ended up being very artifact centric. But for most of the design, we actually, we made a conscious decision early on to not focus so much on artifact matters and just try to make really cool interactive stuff. And in the end, we ended up putting a layer of artifact matters because it's an artifact set. But a lot of people think that's where we started. And really we did not do the artifact matter stop. So way, way late in the process, we spent a lot more time</v>
+
+00:31:15.820 --> 00:31:26.080
+<v Speaker 1>trying to make cool interactive things because you're the inventor feel. And so a lot of people want, when I talked about where we started, like we started from a very different place than I think people think we do.</v>
+
+00:31:26.530 --> 00:31:46.840
+<v Speaker 2>You have a a big mantra from the very beginning, which is that this artifacts here are technology and not biology. Yes. And one of the ways that I feel like we to me, the the non tribal Ness of artifacts, for lack of a better term, was part of the expression of that of these artifacts is we don't care about the artifacts because they're artifacts.</v>
+
+00:31:46.970 --> 00:31:53.680
+<v Speaker 2>The artifacts are the things that we that that help us live our lives and help us do our thing.</v>
+
+00:31:54.370 --> 00:32:10.030
+<v Speaker 1>Yeah, one of the things you'll notice, by the way, if you look at the art, the something the creative team did is most the spells have a technological origin rather than a pure magical origin. I mean, magic fuels, obviously fuel thought, the</v>
+
+00:32:11.030 --> 00:32:19.730
+<v Speaker 1>fuels, the items, but it's very much like people are using technology to sort of do the magic of this world, right? I thought that was kind of cool.</v>
+
+00:32:20.830 --> 00:32:25.640
+<v Speaker 2>Oh, we had. Here's a fun little story about the the Gearhulks.</v>
+
+00:32:25.750 --> 00:32:27.930
+<v Speaker 1>OK. So which we're not in till development.</v>
+
+00:32:27.940 --> 00:32:50.820
+<v Speaker 2>They given late they're out in the development was a participated in the development team for a short portion of that as well, which is very exciting for me. But when we were doing the Gearhulks, we knew that we wanted a development, had a request to have some artifacts that required colored mana because they need one of the challenges with an artifact set is that there's you you lose a lot of your color Pi safety</v>
+
+00:32:50.890 --> 00:33:21.190
+<v Speaker 2>and color pie pushing you to do yeah, different, different directions. And so we wanted to have a set, a set of high profile artifacts. And when we were designing them in development, we were got really quickly to four of the five everybody but the red one, we said it should do this. Yep, that sounds great. We did it. And the red one, we took a long time to get to the right one. And that was a situation I'd we had a an ability that was powerful</v>
+
+00:33:21.330 --> 00:33:25.360
+<v Speaker 2>but not particularly fun. And we ended up</v>
+
+00:33:27.130 --> 00:33:56.910
+<v Speaker 2>having a discussion about whether we should have that more powerful ability or the one which ended up on it. The ability that's on there on it is at the when it enters the battlefield, your opponent chooses to either let you draw 3 cards or take damage equal to the total converted mana cost of the top three cards of your deck, which sometimes is a couple of damage and sometimes is 12 or 15 damage. Could be a very swingy and put your opponent in a really awkward position. And even though that card was less</v>
+
+00:33:56.990 --> 00:34:10.980
+<v Speaker 2>objectively powerful than the one that we were considering in his place, we fought really hard to make that one the 1:00 we we kept because it was just so much fun to play, even if it wasn't necessarily the most powerful card.</v>
+
+00:34:11.080 --> 00:34:27.530
+<v Speaker 1>Yeah. Well, one of things is important when you're designing is being fun is more important than being powerful. I mean, not we don't make powerful cars because we do, but you want to make sure that there's good things you get to experience. And that one of the things that I like a lot about Kaladesh is it is definitely one of those sets that has more weird</v>
+
+00:34:27.600 --> 00:34:49.610
+<v Speaker 1>cards in it. That part of us trying to capture the inventors fair and that sort of feel was we did a lot of weirder cards and we pushed down and rarity like a lot of things that would be normally would be a rare artifact. We pushed down to uncommon to get sort of that quirky sense. And I, I cowardice has a lot of that quirkiness to it. One things I I I'm a big, big fan of calendar, so I like playing Calabash.</v>
+
+00:34:49.660 --> 00:34:51.720
+<v Speaker 2>I had. I had a great deal of fun too.</v>
+
+00:34:53.000 --> 00:35:12.940
+<v Speaker 2>One of the other things that we had a lot of just, we're trying to hit the tropes of a very positive world. And so we had cards like Padim, the console of inches, which was just saying like, hey, who's got the coolest thing you could appraise? Yeah. And it's really fun to be like, look, we've come from, I think. I think we've just come from.</v>
+
+00:35:16.340 --> 00:35:20.710
+<v Speaker 1>I'm in, I'm in. No, no, sorry. Kaladesh was ohh, we've come from industry.</v>
+
+00:35:20.720 --> 00:35:44.200
+<v Speaker 2>Yeah, we come from industry and we're like, we've been someplace really dark and scary and we've tried before that we've been battle for center cars. So let's just have an upbeat set. And it was fun to try to find ways in a game that's fundamentally about combat to say, let's have some constructive and and positive tropes that we're trying to hit. And that was a, that was a nice way to sort of hit some, some fun top down designs</v>
+
+00:35:44.980 --> 00:35:45.420
+<v Speaker 2>there.</v>
+
+00:35:46.720 --> 00:35:56.270
+<v Speaker 1>Yes, OK. So we're all, we're not too far from my house. So thinking back on Kaladesh, what is your favorite memory of working on Kaladesh?</v>
+
+00:35:58.450 --> 00:35:59.060
+<v Speaker 2>I</v>
+
+00:36:00.470 --> 00:36:04.360
+<v Speaker 2>so it was actually after the</v>
+
+00:36:05.290 --> 00:36:05.910
+<v Speaker 2>IT was</v>
+
+00:36:06.810 --> 00:36:11.340
+<v Speaker 2>after we had finished the main part of design.</v>
+
+00:36:16.870 --> 00:36:24.830
+<v Speaker 2>We were having a sort of a, we do a thing called play days now and we had done something like a</v>
+
+00:36:25.670 --> 00:36:28.440
+<v Speaker 2>I'll a large draft with a lot of people in it to</v>
+
+00:36:29.780 --> 00:36:36.810
+<v Speaker 2>sort of get ready for a, a handoff to, to development. And I just remember</v>
+
+00:36:38.710 --> 00:36:44.100
+<v Speaker 2>building the most Johnny deck possible. I had a Panharmonicon, I had</v>
+
+00:36:45.420 --> 00:37:01.580
+<v Speaker 2>infinite energy and just, you know, I've been playing this game for 20 years and to be able to do unplanned things with cards that I designed, it's it's a little sappy, but it was just a moment. I'll never forget that I,</v>
+
+00:37:02.720 --> 00:37:16.110
+<v Speaker 2>you know, drafting card after card design. I would actually, you know, be like this car doesn't go my deck at all, but you know, I'm I'm I'm gonna splash blue because I I need to get my rash begin to stack. So, umm, you know,</v>
+
+00:37:17.350 --> 00:37:34.100
+<v Speaker 2>I consider myself incredibly fortunate to have the, the job that I have and the opportunities that I do. And I'm going to get all sappy here, but I just want to say thank you for allowing me to participate in the set. Thank you for running the great designer search so I could get up here in the 1st.</v>
+
+00:37:34.110 --> 00:37:47.740
+<v Speaker 1>Place ohh, you're welcome. It was great having you on the Saturday and it was it was a lot of fun. I I really had a great time making Kaladesh powers was a real fun set to build and it's it is still one of my favorite sets I've made. You know that that I've LED that I it's it's a really fun,</v>
+
+00:37:49.380 --> 00:37:57.540
+<v Speaker 1>but we are now arriving at my home. So I just want to wrap up by thanking you, Scott. It was fun having you both for the both podcast.</v>
+
+00:37:57.550 --> 00:37:58.470
+<v Speaker 2>Thank you very much.</v>
+
+00:37:58.920 --> 00:38:12.810
+<v Speaker 1>And just so people know, in order to be on this podcast, Scott drove to my house from far away just so you could be on the podcast. And so I always, I've had a couple of people do that, but it's always a big honor when people go out of their way just so they could be on the podcast.</v>
+
+00:38:12.820 --> 00:38:14.800
+<v Speaker 2>Well, it was a pleasure to be here and thank you very.</v>
+
+00:38:14.810 --> 00:38:17.730
+<v Speaker 1>Much thanks, it was fun talking cowardice but we are home</v>
+
+00:38:17.850 --> 00:38:29.270
+<v Speaker 1>so we all know that means means it's time to stop talking magic and start eating dinner, so I gotta go. But anyway, guys, thanks for joining us and I'll see you all next time.</v>
+

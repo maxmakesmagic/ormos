@@ -1,0 +1,383 @@
+WEBVTT
+
+00:00:01.090 --> 00:00:31.170
+<v Speaker 1>I'm pulling in my driveway. We all know what that means. It's time for another drive to work. OK, so today's topic. A while back, many years ago, I had Ethan Fleischer as my carpool guest and we talked all about the great designer search. So today I'm going to go more in detail about the very first great designer search. I'll be, I'll be covering a little bit of ground. I talk with Ethan, but mostly I'm going to talk about sort of all the processes, the steps that we went through. So a little more tactical this time. Last time was kind of an overview. And I'm going to talk about the tests people had to take</v>
+
+00:00:31.240 --> 00:01:01.060
+<v Speaker 1>get in and then the challenge is why they were in and justice really hit sort of the highlights of all the different things that went into the great, the first great designer search. So this happened back in fall of 2006. So what happened was my boss at the time was Randy Bueller of Pro Tour Hall Fame Fame. And he said that we had done a lot of one of the ways that we often get developers is we hire interns often off the pro tour</v>
+
+00:01:01.250 --> 00:01:13.950
+<v Speaker 1>and then if they work out, they they'll turn into full time jobs. In fact, I believe almost every developer we have started as an intern. And Randy said to me, you know, we've never had a design intern. So I have allocated some money for a design intern.</v>
+
+00:01:15.300 --> 00:01:39.460
+<v Speaker 1>And then, you know, he said, look, this is your intern to use as a design intern. You can, you can place the design however you want, an intern however you want. So I went home to think about it. So one of the problems is the Proto has been a really good place for developers to find people with that skill set, that to be a good pro player you have to be able to analyze cards and build that acts and break things and figure out meta games and stuff.</v>
+
+00:01:40.560 --> 00:01:49.210
+<v Speaker 1>But those skills don't necessarily apply to being a good designer. And so the question to me was, OK, I thought it was awesome to have a design intern, but how do I find one?</v>
+
+00:01:49.830 --> 00:02:19.600
+<v Speaker 1>And I was at home, you know, we put the kids to bed. My wife and I were watching TV and I think we were watching Project Runway. And I realized that there was a whole genre of reality shows, Project One Way, The Apprentice, Face Off, The Great Baking Show, Last Comic Standing. The idea was that there were some skill you were testing. There's a bunch of people that were good at that thing. And then each week you would have a challenge. And then the person that did the worst would have kicked out and you would continue on.</v>
+
+00:02:19.800 --> 00:02:49.330
+<v Speaker 1>And the idea was you were trying to find the best, you know, whatever it is you were trying to find. And so I came back to Randy and I said, OK, I have an idea. What if I run a reality show in order to do something where people can enter And the winner of the prize for the winner is an internship, a six month design internship. Because every, you know, a lot of people really want to work in our and a lot of people would love to be designers, I think would be very exciting. So we had to work it out. We talked to HR and all this stuff. So</v>
+
+00:02:49.810 --> 00:03:19.940
+<v Speaker 1>So what our HR department said is OK, understand that this is actually a job interview. So you have to follow all the rules of actual job interviews. And there are three requirements that you had in me. This is the three requirements. One is it was actually a job and it was a job in the United States. So you had to be able to work in the United States. Either that meant you had to be a citizen in the United States or actively already have a green card while already have a green card, because this is a temporary position and it</v>
+
+00:03:20.020 --> 00:03:50.110
+<v Speaker 1>it's near impossible to get a green card for a non permanent position and it takes a long time to get a green card. We had budgeted for a certain year. Like anyway, for a number of sadly logistical reasons, we were not able to hire people who couldn't work in the country. I know there's a lot of great designers out there. You know, there's a lot of awesome people who be great designers that aren't American. Sadly, because this was for a job in America, one of the requirements is you had to work or be able to work in America</v>
+
+00:03:50.450 --> 00:04:20.520
+<v Speaker 1>#2 is you had to be an adult. And by American standards, that means 18 had to be 18 years old. And #3 the job was in Renton, WA, you had to relocate. You had to be willing to relocate. So those were the three requirements. You had to be able to work in the United States. You have to be 18. You have to be willing to move to Renton or to Seattle. And if you met those criteria, you could enter. And as we expected, a lot of people entered, Thousands of people entered. It was exciting. And so the way it was</v>
+
+00:04:20.590 --> 00:04:50.190
+<v Speaker 1>set up was there were three judges or either 4 judges. There was me, there was Devin Lowe, who was the head developer at the time, and Aaron Forsyth, who was, I think, working with me on designing the time. And then it's kind of modeling after the judges in American Idol. I wanted to have one judge that was kind of harsh, that was kind of blunt, I guess is better. Someone who just to the point and told you what was wrong and didn't mince words. And I decided it wasn't fair to either me or Aaron or Devin</v>
+
+00:04:51.150 --> 00:05:20.380
+<v Speaker 1>to, to be the bad guy, if you will. So we ended up making Gleemax. I actually have never admitted this. I wrote Gleemax and Gleemax was designed to just be blunt because sometimes when you're looking for feedback, which you really want, is someone just telling you exactly what they mean, exactly what's wrong. And so I try to write Gleemax very short and very blunt. Also, I'm a comedy writer. I tried to give a little humor, but just trying to be super blunt. OK. And then I think Brady, Brady down with was a guest judge. We had one test. We'll talk about it</v>
+
+00:05:20.610 --> 00:05:53.140
+<v Speaker 1>had to do with it brought in creative element to Brady was a guest judge for that. OK, so how did you become a great designer? How do you even get in the door. So the first thing we made you do is we started to enter to say I'm interested in this. We wanted to have a barrier big enough that it would discourage everybody who wasn't serious because the reality was we we had a grade everything we had to look at everything and the people turned in and we knew a lot of people would want would want the job, but not everybody would necessarily want to put the work in for the job. And so the first</v>
+
+00:05:53.230 --> 00:06:21.420
+<v Speaker 1>really was to create a barrier to say, hey, are you serious about this? So we created an essay task that had 10 questions that each question had to be answered between 250 and I think 300 words. So it was a, there was a bunch of work. You write 3000 words. They were hard questions. So we got a chance to see what you thought and understand your reasoning. And it also, if you wrote longer short, if you didn't follow the instructions, that's important. Are you following the instructions?</v>
+
+00:06:23.150 --> 00:06:53.170
+<v Speaker 1>And So what happened was here are the 10 questions. Go through the 10 questions. So first question was introduce yourself. So the first question was, I wanted to get a sense of to know who are you? Why do you want this job? What are you doing? And then now you had 250 to 300 words. And so you had to sort of sell yourself in a condensed way. That's an important skill. The reason we made the questions limited, Hey, I guess we had to read them. But B, part of design is figuring out how to get a lot into a little space. You only have so much rules tax to</v>
+
+00:06:53.250 --> 00:07:23.530
+<v Speaker 1>do your card, and so conservation of idea is really important. So we wanted to be crisp and clear and answering the questions. The other big thing is I wanted to get a little sense of personality and a little sense of background. This was your chance to say a little bit about yourself. A common mistake that people fell into, and I've mentioned this before, but I'll mention again because if you ever interview with Wizards of Coast, a fine piece of advice. A lot of people spent a good chunk of time talking about why they would like the job rather than why we would</v>
+
+00:07:23.610 --> 00:07:35.700
+<v Speaker 1>to hire them. That they. I mean, it's not that we don't want you to be passionate about magic, we do. But there's ways to demonstrate how you've been involved in magic without spending time and energy tongues how much you'd love the job.</v>
+
+00:07:36.350 --> 00:07:48.980
+<v Speaker 1>You know, we want people passionate about magic that that is important, but you loving the job. Most people come to work for Wizards who are magic players are very excited at the job. The idea to work on magic is really exciting thing and So</v>
+
+00:07:50.090 --> 00:08:05.560
+<v Speaker 1>what we really want to hear from you is you being excited to work on magic and really this being your dream opportunity is not news to us. I mean it's nice to see a passion, that part is good, but spend more energy talking about why we would want to hire you, not why you would want to work for us.</v>
+
+00:08:06.580 --> 00:08:11.590
+<v Speaker 1>OK, question number two. Name 3 positive things about mana screw.</v>
+
+00:08:13.160 --> 00:08:21.780
+<v Speaker 1>So this test was that this question was trying to say, OK, not everything is always viewed, you know, like, do you understand the structure of the game?</v>
+
+00:08:22.820 --> 00:08:24.800
+<v Speaker 1>There's a reason manuscript exists.</v>
+
+00:08:26.660 --> 00:08:57.010
+<v Speaker 1>Explain the things that are positive about it. One is you could talk about how it's the byproduct of a very important part of the game. You know that the mandate system is super important. You could talk about how it creates some suspenseful moments. Sometimes you don't have land when you need it and you're not able to play what you want, but you eventually are able to come back. So it sort of puts you at a disadvantage early on, but it allows you to have these dramatic games where you come from behind. You could talk about how it lets the player who's a lesser player have a chance at winning,</v>
+
+00:08:57.120 --> 00:09:27.710
+<v Speaker 1>that a better player can get little man screwed and give a lesser player a chance. They know it's not like playing chess where you're always going to lose to the better player. If they're significantly better than you, you're always gonna lose them. It doesn't happen in Magic. You could talk about how it is a great scapegoat, how if you lose the game that you can just sort of it's something to blame that allows you to sort of protect your ego a little bit. Say it's not my fault I lost there anyway. There are a lot of different reasons and it once again, one of the themes you'll see these questions is I was more interested in you defending your answer</v>
+
+00:09:27.810 --> 00:09:57.940
+<v Speaker 1>then your answer in some, I mean, the answer mattered. I'm kind of curious what you said. But also, even if you pick an answer that was not the answer I would give, did you defend it? Did you give good reasons? If you did, then I was much more excited in your answers. OK, next name a popular existing mechanic and how you'd make it better. So the idea of this question was, look, we're all about incremental change. That's what design is about. Do things improve upon them? So I wanted to say is, hey, could you take something we've done? And I wanted them to take something that was</v>
+
+00:09:58.360 --> 00:10:29.350
+<v Speaker 1>the success. Nothing we've done poorly. Obviously things went poorly, we can do better. Take something that worked and explained to me why, while we did it well, we could have done it better because incremental, if you can make something that is good, 1% better, that is awesome. If you could take something that's already a good thing and just find a little tiny way to do it. So this question was really making people look at the nooks and crannies. Obviously it was a popular mechanic. Probably, you know, there was something pretty successful about it if it was popular, but there was always room for improvement.</v>
+
+00:10:29.420 --> 00:11:00.490
+<v Speaker 1>Find something, figure out, you know, and we also wanted you to sort of take a look at things and look for faults where a lot of people maybe wouldn't look for faults. Just like the the manuscript was like look for positive, maybe we wouldn't look for positives. OK, next, from a design standpoint, what is the best thing about Champion, the Kumagawa. And the next question was from a design standpoint, what was the worst thing about Ravnica? The idea was Champions did not go over really well. It was not a well received set. Ravnica was very well received set. So what we wanted to do is say, OK, let's</v>
+
+00:11:00.560 --> 00:11:20.100
+<v Speaker 1>look for the negative or sorry, the positive in the set received negatively and the negative in set received positively. Because the idea is no matter how good or bad a set is received, there are good things about it and they're bad things about it. So we're talking about Shamala. It played really well, unlimited. It had actually had a very good limited game.</v>
+
+00:11:21.350 --> 00:11:26.020
+<v Speaker 1>Their mechanics in the block that worked really well. Jujitsu was a very good mechanic.</v>
+
+00:11:27.500 --> 00:11:37.690
+<v Speaker 1>You know, I think that the there's something interesting in Splice although is a little too parasitic, but there's some very interesting there. Bushido was a fine mechanic, although</v>
+
+00:11:38.340 --> 00:11:40.390
+<v Speaker 1>probably should have named it something we could repeat it with.</v>
+
+00:11:41.780 --> 00:11:47.560
+<v Speaker 1>But there are a lot of things going on. I mean, flip cards, while had their issues, were very innovative.</v>
+
+00:11:48.850 --> 00:12:01.170
+<v Speaker 1>You know, there were definitely the cycle of Dragons was really well done and it taught us the idea of death triggers as here's the powerful thing that makes you want to attack, but if you're going to get rid of it, then there's reward.</v>
+
+00:12:02.750 --> 00:12:14.450
+<v Speaker 1>There are a lot of different elements that you can point to in Ravnica, for example, where did it fail? Well, not all the mechanics were great. Both the Boris mechanic and the Orzoff mechanic both have a lot, you know, really could have been much better.</v>
+
+00:12:15.170 --> 00:12:17.970
+<v Speaker 1>Um, the Nephilim did not work.</v>
+
+00:12:19.920 --> 00:12:20.910
+<v Speaker 1>You know, the</v>
+
+00:12:21.630 --> 00:12:25.610
+<v Speaker 1>the Yeah, there were a lot of</v>
+
+00:12:26.450 --> 00:12:40.520
+<v Speaker 1>smaller choices, like there's that was very siloed. There wasn't as much interconnection between and when you drafted, there was more desire to sort of cross between guilds. But we did very little to doing the cross pollination. I mean, there were some things we cross pollinated, but</v>
+
+00:12:41.830 --> 00:12:44.650
+<v Speaker 1>so the key is what was positive. Like</v>
+
+00:12:45.750 --> 00:13:15.960
+<v Speaker 1>everything, everything has goods and good and bad. So we're trying to get you the person to kind of figure out where things hang and where where you thought were positive and where we're negative. Once again, by the way, I cared more about your defense. If you thought something was wonderful that I didn't think was wonderful in Kamigawa, but you really explained what you saw in that, that was wonderful. That was great. If you really dislike some Ravnica, there's something that I liked, but you explained why you didn't like it and you explained yourself. That was fine. Once again, the key wasn't to agree with us.</v>
+
+00:13:16.070 --> 00:13:18.440
+<v Speaker 1>The key was to, um,</v>
+
+00:13:19.400 --> 00:13:33.850
+<v Speaker 1>defend and explain and be able to view and see things. I got a lot of, by the way, really interesting suggestions that were things I had not thought of. It made me see elements of Kamigawa in a better life than I did. Made me more critical of parts of Ravnica.</v>
+
+00:13:34.990 --> 00:13:49.740
+<v Speaker 1>OK, which of the three second graphics should the most cards be for? Which for the fewest? OK, so this was so the second graphics are Timmy or Tammy, Johnny or Jenny and Spike. So the question is, which one do we make the most cards for? Now once again,</v>
+
+00:13:50.470 --> 00:14:13.070
+<v Speaker 1>I didn't care if you got the right answer. I cared if you explained properly. A lot of this was you showing that you understand what the psychographics were and how they worked and trying to understand a little bit about our design process, how what kind of cards we made. OK, the technically correct answer is some people say the best kind is we make the most cards for Spike.</v>
+
+00:14:13.770 --> 00:14:44.410
+<v Speaker 1>Now a lot of people go what? Why is that? Because we do a lot of work for limit. In fact, more cars are designed for limited than constructed because constructed has a cap of how many cars we can design for. There's only so many cards that can be relevant constructed, a lot more cars being relevant and limited and draft and seals, the big part of Magic play. So we spent a lot of time, especially on draft and the cards that are sort of geared toward that format. That's a more spiky thing. And so we spent a lot of cars, a lot of our comes and uncommons. We spend a lot of energy sort of optimizing the cards.</v>
+
+00:14:44.490 --> 00:15:15.030
+<v Speaker 1>Spike. No, I'm not saying we don't make Tommy Tommy Commons and uncommons, Johnny uncommons and Commons, but we spend more time on Spike for that regard. Where should we make the fewest for the answer would be Johnny. The reason for that is that Johnny doesn't John and Jenny, they don't need a lot to really get them going. That if you make one cool card that does neat things that can keep me busy for days, for weeks, just, you know, like you just make a cool card. You know that just like Battle For, which is a great</v>
+
+00:15:15.100 --> 00:15:35.180
+<v Speaker 1>example of a really good Johnny card, ended up being a Spike cartoon. But it's just like, OK, you got to build a giant deck. Well, how are you going to do that? How do you maximize and what do you do and what does it mean and how do you know? And that the job is just like, how can I do this? What can I do? And there's lots and lots of possibilities of ways to do something. So you just need less carbs to make Johnny Jenny happy.</v>
+
+00:15:36.160 --> 00:16:06.690
+<v Speaker 1>OK, next question. You must have limited a car type. Which one you would you eliminate? So remember this was I think this was during Time Spiral. So this was before Lorwyn. So there was no planes walkers yet. So this only had six. There are six types at the time, but it's after 6 addition so there's no interrupts or mana sources. So there the six cards at the time obviously were artifacts, creatures, enchantments, instants, land and sorceries. So which would you get rid of?</v>
+
+00:16:07.090 --> 00:16:37.410
+<v Speaker 1>There are answers for any of them. I think the two easiest or the the 2 answers I would give most likely answers. One is instant. You can get rid of instance by making instant a super type. I've talked about this before. So get rid of flash and get rid of the instant card type. Now you have instant source research for instance are and then you get instant creature in any permit with instant means it's a permit with flash. And then instant as a super type just means you can play this card at any time. So that's how you get rid of instance.</v>
+
+00:16:37.480 --> 00:16:53.640
+<v Speaker 1>Now that's a little cheeky. You're technically getting rid of instance, but not getting rid of the card. Essentially. The more OK if that's a cheating answer, although I accept that as a fine answer, is enchantments, artifacts. Enchantments overlap a lot between each other and</v>
+
+00:16:54.960 --> 00:17:24.770
+<v Speaker 1>you know, if you needed to get rid of a car type, you really could get rid of enchantments, and artifacts could really accomplish the things enchantments do. Especially if you allowed yourselves to make colored artifacts, maybe that could fill in the gap. The reason why we get rid of artifacts, sorry champions instead of artifacts, is from a flavor standpoint, artifacts are a lot more easy to do top down and just more in. Champions are trickier to sort of concept where artifacts are much easier to concept and players get more excited by physical things.</v>
+
+00:17:25.120 --> 00:17:44.320
+<v Speaker 1>So I would do that. Now. If you want to get rid of the land, you could try to come up with some mana system that somehow doesn't require us to use the land. If you want to get rid of sorcery heads, you could do something where like everything is an instant but there's maybe inherent restrictions or something. If you want to get rid of</v>
+
+00:17:45.180 --> 00:18:13.120
+<v Speaker 1>artifacts, you just take the enchantment artifact argument and push toward enchantment rather than artifacts. If you want to get rid of creatures, that's the tough one on. There's people that try and they're like oh you just make a lot of token creatures and their sorceries and instants and things that make token creatures but you know it's not cards that make the token creatures anyway. Any answer was acceptable if you made good defense. Some were easier answers to defend than others. The creatures is a hard 1 to defend, but if you defended it, that's what I was looking for.</v>
+
+00:18:14.010 --> 00:18:33.730
+<v Speaker 1>OK, next you have a time machine. You go back in time and you're able to have Richard Garfield make one change. The magic. I wrote a whole article and didn't there podcast about this. So there's lots and lots of things that if we had to do all over again, I would do a little bit differently. The interesting is the Super type is a big one.</v>
+
+00:18:35.290 --> 00:18:42.200
+<v Speaker 1>You know, I I think the way we we do subtypes, I would change a little bit if we started over.</v>
+
+00:18:44.350 --> 00:19:14.280
+<v Speaker 1>I mean, you listen my podcast a whole bunch of different things. One of the new ones, by the way, this wouldn't have been answered the time planeswalkers didn't exist. But I would start the game with planes walkers. I had to start all over again just if for nothing else, to have a lightning bolt, say do three damage to target creature player or planeswalker. That would make things so The Walking this of the rules to sort of fit planes walkers into existing rules text is wonky. And I guess I changed that go back in time, Although once again, for this task that wasn't a legit answer.</v>
+
+00:19:16.130 --> 00:19:25.510
+<v Speaker 1>Or maybe if you're very if you really see the future, I would add planeswalkers, this car that doesn't exist yet. OK, If you're forced to move counter spelling out of blue, what color we move it into,</v>
+
+00:19:26.900 --> 00:19:50.010
+<v Speaker 1>once again, you can pick any color. I think the order that I think is, is how easy it is to defend. White is the easiest to defend. Why does the color of defensiveness and protection and delaying? So I mean, there's a pretty easy defense of saying what if the defensive nature of white just was what counter spells were thought of as being a defensive thing, which could really do it.</v>
+
+00:19:51.570 --> 00:20:21.670
+<v Speaker 1>Second easiest from a philosophical standpoint is probably black because black is the one that's willing to sort of the same rationale why it is discarded. It could be white as counterspells that it's willing to sort of mess with the mind. I'm not really interesting mechanically putting in black because discarding controls are kind of better if they're on the same color to give different colors sort of similar kinds of answers but in different flavor. But black mechanically. I mean from a color pie standpoint. Probably the second easiest to defend next I think.</v>
+
+00:20:21.740 --> 00:20:29.300
+<v Speaker 1>To be red, Red already has a little bit of like I'm sneaking and do things you don't expect and I can change the targets of things.</v>
+
+00:20:30.790 --> 00:20:47.450
+<v Speaker 1>And then green me is kind of the hardest. I could see green protecting its creatures. That makes sense. Just like green sort of grants hexproof to things, to creatures. Green just and we've done a little bit with green countering activations. So there's a defense of green being the anti magic color</v>
+
+00:20:48.860 --> 00:21:08.070
+<v Speaker 1>you can focus. I mean, there's a philosophical defense in all the colors just because you know, they're, if you sort of change what you pretend, what color spells represent, Are you anti, Are you defensive? Are you anti magic? Are you being tricky? Tricky. Depending on how you flavor it, you can really move to different colors.</v>
+
+00:21:08.920 --> 00:21:17.090
+<v Speaker 1>OK, the next is what is the current? What is current magic design doing wrong and how could you do it right? So this was the chance that you to be critical.</v>
+
+00:21:18.360 --> 00:21:30.770
+<v Speaker 1>And one of the things that's important magic design is you have to be critical of other designers work and of your own work. And so this question on the test was really sort of saying, hey, look, we want you to be critical. We want you</v>
+
+00:21:32.080 --> 00:21:44.950
+<v Speaker 1>enforce the person to stand up a little bit and say, hey, I think I'm right. You know, I think you're wrong in the place where I'm right and really sort of own that and defend that. And this was a really interesting question, one most illumining questions. OK, So what happened was</v>
+
+00:21:46.540 --> 00:22:03.270
+<v Speaker 1>I don't remember how many people, lots, lots, lots of people, thousands of people turned to this in. So for the first essay, the first pass, what we did is we skimmed the essays. We made sure that people answered all the questions that they answered correctly. They were in the proper word count and just did a real like</v>
+
+00:22:04.070 --> 00:22:33.660
+<v Speaker 1>did did they give an answer? You know, did they actually answer the question? We didn't go too deep yet. We will reread these later and go in more depth. But the first was sort of like, did you kind of do the homework assigned to you and just give a basic answer? We weren't looking for deepness yet. And if you did that, if you kind of follow the rules and prove you're willing to do the work and just gave a halfway coherent answer, we advance you to Part 2. So Part 2, there are three tasks that to get into the great designer search.</v>
+
+00:22:34.000 --> 00:23:04.130
+<v Speaker 1>Part 1 was multiple choice. I'm sorry. Part 1 was essay question. Part 2 was a multiple choice test. So the multiple choice test was 35 questions. The research two would have 50. And the idea was the way we did it is we wanted 100 people to be able to move to test #3 so the way it worked is we looked at how many people got right and then whatever answer got 100 in. We then let everybody else in at a level where 100 would get in, I think 100 and like 20</v>
+
+00:23:04.200 --> 00:23:16.730
+<v Speaker 1>they got in passes this test. So it turned out you needed to get 30 of the 35 right, which is really good. You can just five questions and still get in. You had to miss 6 to not get in. You got 30 out of 35 right? You advanced to the next section. So,</v>
+
+00:23:18.210 --> 00:23:20.280
+<v Speaker 1>and the idea of the multiple choice test was</v>
+
+00:23:21.650 --> 00:23:31.580
+<v Speaker 1>we needed some kind of objective way to get a whole bunch of people down to all those, you know, thousands of people down to 100. And we need to do in a way that was easy for us to grade,</v>
+
+00:23:32.890 --> 00:23:38.220
+<v Speaker 1>You know, we, we needed something that we quick and efficient. And so, um,</v>
+
+00:23:39.860 --> 00:24:10.650
+<v Speaker 1>what happened was, I think Devin and I wrote this test, we did a lot of going into magic terminology, a lot of stuff that I talked about in my column and stuff, other stuff we've talked about on the website. And the idea being, if you didn't know what the term meant, we'll go look it up. He gave you 24 hours to take the test. It was an open book. I mean, we told you, you couldn't share answers, but you could do whatever research you want and you can look up whatever you needed. And a lot of it was, hey, do you get how we work? Do you get the basic elements of magic? And we tested a lot of different design principles and</v>
+
+00:24:10.970 --> 00:24:14.500
+<v Speaker 1>technology. And do you understand the terminology?</v>
+
+00:24:16.110 --> 00:24:19.080
+<v Speaker 1>OK, so I have some questions to run you through,</v>
+
+00:24:20.400 --> 00:24:50.860
+<v Speaker 1>but I did I decided not to do all of them just because not all of them relate well. And also I decided that I would I would do a sampling. So we're have a sampling of the questions, not all the questions. I did put the entire test up on online. I think you can take it. And then I have all the answers explained all the answers. I'm explain some of them today. But if you want to take the full test. OK, so first the first two questions I'm going to ask you. There's a car here to look at called Mighty Giant. I didn't tell you the casting cost. So Mighty Giant is a 55 creature.</v>
+
+00:24:50.970 --> 00:25:03.620
+<v Speaker 1>Whenever a card name attacks, card means Mighty Giants. Immigrant attacks 3 target creatures can't block this turn. So question number one, what color is that? Is it A white, B blue, C black, D red, or E green?</v>
+
+00:25:05.090 --> 00:25:23.940
+<v Speaker 1>It is red. OK, how do we tell it's red? Well, it's a giant for starters. Flavor wise, giants going a few colors, red being one of them. But what does it do? It has an attack trigger that keeps things from blocking. What color most often keeps things from blocking? Red. Red is the color that keeps things from blocking,</v>
+
+00:25:26.010 --> 00:25:41.140
+<v Speaker 1>Green can make you block something, and blue can make things unblockable. But red is the color that makes you makes things not be able to block. So it's red. Question number 2 is this card most likely a common, B uncommon, or C rare?</v>
+
+00:25:41.780 --> 00:25:51.550
+<v Speaker 1>And the answer is uncommon. The reason is it's a 55 that attacks and keeps three people blocking. 55 is pretty big usually at red common.</v>
+
+00:25:52.980 --> 00:26:24.670
+<v Speaker 1>How we don't get the 55 is rare common in red And if we do give you something like A5 power, usually it's vanilla or French Vanilla wouldn't have an activated ability. It wouldn't have an ability on it other than a keyword. And this is not like one creature camp, like three teachers camp block. That's a pretty big deal. But is it rare worthy? Is the kind of thing we do it rare? No, this is the card that really matters. Unlimited where you have a lot of creatures blocking. So this is the current Medford limited. It's not simple enough to be common. That's flashing enough to be rare, but uncommon is kind of where we put the work horses</v>
+
+00:26:24.740 --> 00:26:53.440
+<v Speaker 1>like you don't want too many unlimited but are good for limited. So this is an uncommon. OK, next, let me give you a different card. Touch me not. So this is a beast. It's an 88 and it has written out shroud in death touch. So can't be the target spells, abilities. And whenever this feels comment damage to a creature comment damage to a creature and destroys it. So what color is this? A white B blue, C black, red, G green. And the answer is</v>
+
+00:26:54.180 --> 00:27:24.160
+<v Speaker 1>green. Why is that? Cause shrub, which is the precursor to hex proof is a green a blue and green ability and death touch is a black and green ability. So if you're a monocolored card, you would be green because green is the color that overlaps the two abilities. What commonality is this? Common, uncommon or rare? Well, it's an 88 shroud death creature that's a rare. I mean green gets the biggest common creatures and every once in a blue moon will make it's made like an 8 four. You know 7784</v>
+
+00:27:24.560 --> 00:27:38.270
+<v Speaker 1>does would be vanilla. Maybe with trample it wouldn't be wouldn't have multiple abilities on it and in general. Is this flashing? Yeah, it's pretty splashy. It's big you can't kill it. It kills everything it touches. Although I've later question that talks about how that's repetitive but</v>
+
+00:27:39.760 --> 00:27:46.790
+<v Speaker 1>because I'm zooming for questions I don't ask all the questions. OK, next card you need to know card loving guy.</v>
+
+00:27:48.200 --> 00:28:18.310
+<v Speaker 1>He's a creature. He tell his creature type 3 three first strike. And here's what's called curiosity. When you just comment damage to a player, he draws a card. Card living draws a card. OK, is this a white black B blue black C black green D red, green E red white. So is it white, black, blue, black, black green red green or red white? It is red green. So this was one of the more missed questions on the test. So let's look at this. It's first striking curiosity. OK, first records primary and white</v>
+
+00:28:18.380 --> 00:28:24.640
+<v Speaker 1>thread happens to be tertiary and black, meaning on on nights occasionally we give it very infrequently.</v>
+
+00:28:26.130 --> 00:28:32.300
+<v Speaker 1>And then it is a curiosity is primary, I think in blue and secondary in green.</v>
+
+00:28:33.740 --> 00:29:03.590
+<v Speaker 1>OK, So if you look at that also when we do multicolor cards, one of the things about tertiary is we don't use them as color defining on multicolor cards that either we use a primary secondary ability. So that means for first write, white and red are the colors we're looking at and for curiosity, it's it's blue and green. OK, so that means we've seen some combination. So let's look at white and black. White could have first strike and black, black doesn't have either. I understand tertiary has first strike, but on a gold card, black would not be the thing defending first right,</v>
+
+00:29:03.730 --> 00:29:19.960
+<v Speaker 1>representing first right. So that doesn't work. OK, Blue black will blue is curiosity black and this is what people through them is because they went back and said, hey, black knight is first right? But once again, it's tertiary. We don't use it very often. It's only used on smaller nights and it's not something we'll use as a defining thing on a multi color card.</v>
+
+00:29:20.670 --> 00:29:44.150
+<v Speaker 1>Black, green, Well green is curiosity, black doesn't have any of them. Red, green or red is first, right? Green is curiosity, Ding Ding Ding D is the correct answer. And then red, white, red and white with the first strike, neither of curiosity. So red white is the correct action answer. OK, next card, see how you like it. Sorcery, target creature and opponent controls that dealt damage. You deals damage to itself equal to its toughness.</v>
+
+00:29:45.660 --> 00:29:46.490
+<v Speaker 1>There's a bunch of</v>
+
+00:29:47.770 --> 00:30:09.280
+<v Speaker 1>well, let me ask you, there's a bunch of mistakes with Kayak later, but that's not what I'm asking today. So what color would this be as a card that deals damage to a creature that's damaged you? It damages itself equals its toughness. Is that white, blue, black, red or green? It is white. White is the color white is played in the space before. White is the one that sort of will do damage to itself.</v>
+
+00:30:10.700 --> 00:30:23.300
+<v Speaker 1>Red, by the way, also occasionally will do that, but white more often does it and black is also done it. I'm giving away their question, but why does #1? White also punishes you for</v>
+
+00:30:24.870 --> 00:30:49.930
+<v Speaker 1>who punishes you for hurting it. You know, you mess with me, I mess with you. So the trigger is white and the fact that himself in the white has done O which colors are most appropriate, White and blue, blue and green, black and red, red and white or green and black? I kind of gives one away. It's a blue and green and the reason is both red and black can do the creatures damage themselves. The trigger is not really it's not something red or black care the most about like but</v>
+
+00:30:51.330 --> 00:31:22.440
+<v Speaker 1>blue and green do not do damage to creatures. So right off the bat, like I mean Greenwald Greenwald do damage to ohh. I don't give away there's a small subset of things green will damage, but mostly green and blue do not do damage just any creature. So they are the choice of for that one. OK, so #16 which of the following is usually not a reason for keywording and new mechanic? So by this is one of the most missed questions number A it makes it easier for players to talk about the mechanic</v>
+
+00:31:23.050 --> 00:31:33.140
+<v Speaker 1>be it opens up design space C and lessons text on the card D It helps market the set or east. It helps ease understanding of other cards that have the same mechanic.</v>
+
+00:31:34.380 --> 00:31:36.600
+<v Speaker 1>So which of those is, um,</v>
+
+00:31:37.590 --> 00:32:06.350
+<v Speaker 1>usually not a reason. And the answer is it lessens text on the card is through a lot of people. And the reason for that is whenever we have new mechanic, we put reminder text to tell you what it does. So it really does not. Now, a lot of people don't think of reminder texts as being taxed, but for a new player, it definitely is taxed. New players are going to all of the card because they need to understand what's going on. So they read reminder text. I understand experience players learn to skip reminder texts because they often don't need it, but that doesn't mean it's not taxed. It is taxed. Beginners have to read it.</v>
+
+00:32:07.490 --> 00:32:27.950
+<v Speaker 1>No it doesn't. Normally less than tax. The one place that lessens tax is on high rarity cards, rare mythic rares. When we have a cool card and we don't have space to fit in the reminder tax, we occasionally leave it off on rare mythic cars. Occasionally it does less in tax. So this reason is not never a reason, but it's not most of the time a reason.</v>
+
+00:32:28.830 --> 00:32:59.090
+<v Speaker 1>OK, so it makes it easier for players to talk about the mechanic. That is true that just being having a word helps facilitate discussion. It opens up design space yes. Now you can refer to it. Now you can record that do things because it happens or talk about things that have that quality. It helps market to set it does people ask all the time what are the new mechanics? Having a named mechanic help sell this at and it helps ease understanding of other cards that show that mechanic. Yes that's the big thing that for understanding the keywords do is once you learn the keyword it makes it easier for other cards to share the same.</v>
+
+00:32:59.160 --> 00:33:02.300
+<v Speaker 1>Sorry could you just said ohh I've learned the keyboard. Ohh, this has the keyword</v>
+
+00:33:03.390 --> 00:33:33.040
+<v Speaker 1>OK question #20 which of the following is not an example of a linear mechanic? A slivers B buyback C affinity D threshold E amplify. So this required your A to go look up mechanics if you didn't happen to know the mechanics. But once again, open book test, you can go do that. So you have to understand what linear means. What's the linear mechanic? This is a magic term, something I've defined in my column. You have to look it up. And what linear means is linear is a mechanic</v>
+
+00:33:33.340 --> 00:33:35.770
+<v Speaker 1>encourage you to play more mechanics like it.</v>
+
+00:33:36.420 --> 00:34:06.450
+<v Speaker 1>So slivers will slivers help slivers. So slivers are definitely near you. If you put one sliver that you want more slivers. Affinity will affinity rewards you for having a certain kind of thing in play. Well, once your deck is doing that, hey, you kind of want to have more things that have affinity. Affinity for artifacts where you wanna deck for artifacts. If you play one affinity for artifacts, you probably want to play more. Threshold is very similar. If I'm being rewarded for having a bunch of cards in my graveyard, and probably I'm doing things to enable that, hey, I want more cards to do that. Amplify cares about particular creature type, what you care about, what your decks full of</v>
+
+00:34:06.520 --> 00:34:36.740
+<v Speaker 1>Frogger type, what you want to buy more cards that care about that creature type. So B buyback, you can play 1 buyback card and having one buyback doesn't really encourage you to play more buyback spells. In fact, because they're kind of mana intensive, you can't often play multiple buybacks and buy them back on the same turn. So buyback actually a little bit discourages you from playing a deck full of buyback cards. So buyback is a nonlinear card, nonlinear term. And this is another example where I was testing vocabulary and like it didn't matter if you knew the vocabulary. Look it up, study it, learn it,</v>
+
+00:34:36.840 --> 00:34:38.890
+<v Speaker 1>and then show to me that you understand what it means.</v>
+
+00:34:39.750 --> 00:34:55.420
+<v Speaker 1>OK question #21 Which of the following statements about the magic colors is incorrect? A White believes the good of the group outweighs the good of the individual. B Blue believes that everyone is born a blank slate to be shaped by its environment.</v>
+
+00:34:56.180 --> 00:35:00.190
+<v Speaker 1>See, Black believes that power should be in the hands of those that can take</v>
+
+00:35:01.120 --> 00:35:04.550
+<v Speaker 1>D Red believes that emotions are more important than intellect.</v>
+
+00:35:05.560 --> 00:35:21.490
+<v Speaker 1>E Green believes that it's up to the individual to change the world. OK, so this was me just understanding some color pie philosophy. Color philosophy is very important. We do a lot of designing of colors. We do a lot of top down design. You having a very intimate knowledge of the color pie is very important.</v>
+
+00:35:24.360 --> 00:35:42.080
+<v Speaker 1>OK, so white believes good the group always good individual. Absolutely. Whites all about the go to the group and go to the good of the group over the individual. B Blue believes that everything is born a blank slate to be shaped by environment. Absolutely tabla rasa, that's a blue concept. Blue believes nature versus nurture. It's on the nurture side.</v>
+
+00:35:43.040 --> 00:36:12.910
+<v Speaker 1>See, Black believes the power should be in the hands of those who can take it. Yes, black does believe that. Black believes might makes right, that you know you, you deserve whatever power that you can take. D Red Blue is that emotions are more important than intellect. Absolutely. The red blue conflict is emotion versus intellect and Redis squarely on the side of a motion. E Green believes that it's up to the individual to change the world. No, that is the wrong answer. Green does believe in natural change, but Green is</v>
+
+00:36:12.980 --> 00:36:29.260
+<v Speaker 1>very against artificial change. Green is about destiny, but green also is very much about the group that it's very the web of life that things interconnect. So a lot of small things about this aren't quite green. So this is the incorrect everything else is square and the colors and this one is not</v>
+
+00:36:30.390 --> 00:37:00.500
+<v Speaker 1>OK. Which of the following is true of modern color pie? White is not allowed to sack creatures. Blue is not allowed to draw multiple cards at instant speed. Blacks not allowed to gain life. Red's not allowed to destroy enchantments. Or green is not allowed to destroy creatures. Did red is not allowed to destroy enchantments? White cansat creatures, but usually it stacks itself to help its team. At the time we did not have a lot of interest in blue car drawing, but we occasionally do it. Block, gain life, Drain life for example is a black life gaining spell. Usually when black gains life, someone else is losing it.</v>
+
+00:37:00.570 --> 00:37:30.680
+<v Speaker 1>That black hand gain life. Just something usually draining out of somebody else. And green can destroy creatures. It doesn't destroy all creatures, and there's a lot of creatures that can destroy. But it is allowed to destroy flying creatures and artifact creatures. So there is a subset creature is lot of destroyed. Which of the following types of spells more often are more often done at instant speed? A creature removal B discard C land searching D land destruction E returning creatures from graveyard to hand. The answer is creature removal. Scratch removal is often done instant speed. It's not always done instant speed, but it often</v>
+
+00:37:31.040 --> 00:37:45.650
+<v Speaker 1>discard is almost always done at sorcery speed, just very, very infrequent instant speed. Land searching likewise is almost always done at sorcery speed. Land instruction almost always done in sorcery speed, and return creatures from the graveyard almost done at sorcery speed. So just kind of looking at the spells and saying, hey,</v>
+
+00:37:47.200 --> 00:37:53.070
+<v Speaker 1>create instruction is done it both, but it's slightly done more than instant than source 3 and all the rest are all mostly sorceries.</v>
+
+00:37:54.140 --> 00:38:24.310
+<v Speaker 1>OK, if we had if we had chosen buyback as a mechanic to bring back for a Guild, which Guild would be the most likely Guild? A Boros B is it C or Zod reactos esimit. So the idea here is do you understand the factions of the guilds? We just did something. Did you get it? Did you get to how the factions worked? The answer here is the is it the is it are all about spells or spell based and buyback is a spell mechanic. The Boros is about aggression. A buyback is a very slow mechanic, a slow control mechanic. That makes sense at all for the Boros</v>
+
+00:38:24.570 --> 00:38:54.840
+<v Speaker 1>Orszag definitely has a little more of a bleeder deck going Um, there are ways you could use buyback in Orzhov, but it's not it's not it doesn't play quite as it's more about permanence that sort of slowly taking advantage of nicking you down rack Dose is once again more about sort of getting rid of the cards in your hand right and absolutely hell bent first time around. So the idea of saving spells and sort of being reactionary and waiting up not particularly rectos</v>
+
+00:38:54.990 --> 00:39:26.600
+<v Speaker 1>and simic simics more about sort of shaping and changing permanence than it is about spells. It's more about sort of we we the scientists are making weird things. They're the biologists. Or is it are more the so anyway, it makes more sense than is it that just mechanic space that is a place closest to that. So the final question we ask you for the most to work. Which of the following is not true? A Timmy redefinition is a less experienced player. B Johnny wants to express something. See, there are cars specifically designed for Spike.</v>
+
+00:39:26.680 --> 00:39:34.250
+<v Speaker 1>D Timmy wants to experience something. E Johnny can be happy winning less than half his games or F Spike wants to prove something. Well,</v>
+
+00:39:35.560 --> 00:39:49.030
+<v Speaker 1>Johnny wants to express something. Once I use that Tammy and Jenny did not exist back then when I wrote this test, Timmy, Danny wanted to experience something. Jenny Jenny wanted to express something. Spike wants to prove something. The definition. So those are all true.</v>
+
+00:39:51.140 --> 00:40:20.410
+<v Speaker 1>John is happy winning less than half his game. Well, if John is trying to do something weird and the weird thing like Johnny and Jenny don't necessarily need to win more, they need to prove they not prove they need to do the fun thing they're trying to do. They could build a weird deck that does a weird thing and it might only win one in 10 times, but it won. It did its thing that can make them happy. They don't. They're the one that least centric. Not that they don't want to win, but if they can be trying to do something where winning isn't the highest priority to them. And cards designed for Spike we.</v>
+
+00:40:20.480 --> 00:40:50.770
+<v Speaker 1>Playing cards the spike all the time I said earlier today that we designed more cards for fight crime than anybody. So the answer was hey, Timmy by definition is a less experienced player no are more inexperienced players Timmy? Yes, but Timmy by definition is not. Just because a lot of inexperienced players might be Timmy does not mean that Timmies are all inexperienced. They're very experienced teams are people who playing Magic since it's beginning that are very Timmy. Timmy does not define yourself by how long you play or how experienced you are. You can be a very</v>
+
+00:40:50.850 --> 00:40:53.590
+<v Speaker 1>experience, very good Magic player and be a Timmy.</v>
+
+00:40:54.450 --> 00:41:18.280
+<v Speaker 1>OK guys, well, I got through the 2nd test, so we're not quite there yet. So we'll have another podcast, right? I continue talking all about the first grade designer search. But hopefully guys, I hope you're enjoying the deep dive. And I'm now at my work because Rachel's on spring break. So anyway, I hope you guys are well. You know what that means. We send to my drive to work instead of talking magic. It's time for me to be making magic. I'll see you guys next time. Bye bye.</v>
+

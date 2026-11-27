@@ -1,0 +1,386 @@
+WEBVTT
+
+00:00:01.190 --> 00:00:30.550
+<v Speaker 1>I'm plugging my driveway. We all know what that means. It's time for another drive Newark. OK, so today's topic is interesting. I came up with my blog. So back in the Set Future site, we printed a card called Mergana Petroglyphs and it was a card that gave a reward to vanilla creatures. And so ever since that people have wanted to like go to Morgando and have vanilla creature matters. And I often say, you know, there's not a lot of</v>
+
+00:00:30.630 --> 00:00:32.410
+<v Speaker 1>design space there and leave it at that.</v>
+
+00:00:33.090 --> 00:00:34.910
+<v Speaker 1>But today</v>
+
+00:00:36.020 --> 00:01:02.270
+<v Speaker 1>I decided to write a little link in your explanation in a dawned on me that as I was writing this make a good podcast. Because for those that like magic designer, this is going to be a really good example of all the sorts of issues we have to deal with. Because by explaining the problems of this thing, it'll show you a lot about our design process. So I thought it be interesting to say, hey, why is it so hard to do vanilla creature matters? So today I want to talk all about that.</v>
+
+00:01:03.670 --> 00:01:34.360
+<v Speaker 1>OK, so for starters, the idea that explain the idea. The idea is vanilla creature matters means I have cards that reward you for having vanilla creatures. Hey, that's awesome. That way it makes even vanilla creatures matter. That's the idea. And Murray got into Patrick. Let's forget what it does. But like all vanilla creatures get +2 +2 or something. OK, so let's dive in to understand this. So First off, let's talk about the ads fan problem. Asfan, for those that don't know, stands for as fan. It talks about</v>
+
+00:01:34.740 --> 00:02:04.730
+<v Speaker 1>how many do I get when I open up a booster pack and I getting enough. Because whenever we want to care about something, we have to worry about as fan. Meaning does it show up in enough. So for example, let's say we're going to do a tribal set where we want you to care about goblins. These goblins in my example, I need enough goblins to show up that you can realistically get goblins because if you're going to care about goblins, you need to have a certain amount of goblins in your deck. Now there's a range of how much you can care about something,</v>
+
+00:02:04.860 --> 00:02:34.740
+<v Speaker 1>so let's walk through that. So at the low end is what we call threshold 1. Threshold 1 means as long as I have one, I think can care about it. So a threshold one card would be like this creature has flying. If you control a goblin. What that means is it's only looking at like you only need one goblin in place. So it's not required. It's the low end of what it can require you and the threshold one card usually requires you to have</v>
+
+00:02:35.000 --> 00:03:04.690
+<v Speaker 1>OHH 5 the lowest, but usually six or seven to be more comfortable. Meaning what are the chances that I'm going to draw this? Now, one of the things we can do with threshold ones is make them relevant. You know, make them relevant so that they you could play them earlier and hey, they get upgraded later if you happen to play the right thing. But even that even a threshold 1 requires a certain amount of play. Now the other end of the spectrum is</v>
+
+00:03:05.550 --> 00:03:35.080
+<v Speaker 1>what we refer to is affect all, which is all your goblins get plus one plus one. Well, that says, hey, the more goblins the better the more goblins you have. You know, that end of the spectrum is something that says, you know, hey, I'm really, really heavy linear meaning, you know, I am better. The more games you have, the better I am. Or count me than on the good example, what account me would be is I have an effect, but the effect is based on how many of that I have for goblins. For example, there was a creature one time</v>
+
+00:03:35.200 --> 00:03:58.980
+<v Speaker 1>blank on the name, but it tapped deal damage equal to the number of goblins you had. Well, wow, that thing is so much more effective if you just have a lot of goblins. O that card says, hey, every creature in your deck pretty much should be goblins. You should have nothing but goblins. This card is so powerful that you really encourage to play nothing but goblins. You know, maybe one or two super powerful, you know, a level creatures, but other than, you know,</v>
+
+00:03:59.700 --> 00:04:15.220
+<v Speaker 1>you know, anecdotal or something that's gonna kill creatures. Other than that that's super efficient. You're mostly just playing goblins and that kind of thing. And so there's a wide vector. So on the sort of the count me into the spectrum that's play as many as possible. So in limited,</v>
+
+00:04:16.470 --> 00:04:35.100
+<v Speaker 1>this issue also is a constructed issue. I'm going to start by talking about limited because limited does a little easier job of showing the problems. Construction has its own set of problems which are a little bit different, but I'm going to mostly talk about limited today just because it demonstrates what I'm trying to say a little better. And also in design,</v>
+
+00:04:37.050 --> 00:05:06.360
+<v Speaker 1>the rule of thumb is limited kind of mirrors what we call casual constructed, which is, hey, I'm going to buy some packs and I'm going to just make a deck out of the packs I buy that that kind of mimics limited to certain extent. And so we just want to make sure that, hey, if you're buying this product and you just kind of building from what you open, can you build something fun? So what this says is it requires a certain aspect to work. If we're going to make a goblin matters that I need enough</v>
+
+00:05:06.490 --> 00:05:36.630
+<v Speaker 1>Collins to make it work now. So the first problem is, OK, how do I do that? I'm going to goblins matter. What's traditionally what we do in stuff like tribal is we concentrate it. We don't try to make goblin something that every color does. We make goblin try to something that's some colors do. Usually nowadays when we do tribal, we try to make two colors care because if you make 1 colored care, you're very limited in how much the deck can be built because it's like oh of all gums are red, then it's</v>
+
+00:05:36.700 --> 00:06:07.200
+<v Speaker 1>Donna red jacket. It just limits the kind of variety. But if we say ohh, goblins are red and black, then all of a sudden, OK, now you can make mono red goblins, mono black albums, red black goblins, red splashback albums, black slash, red jobs. You know, it gives you a bunch of different choices of how you can build it. The other thing we often will do is if we're making two colors, usually once the primary color ones the secondary color, we often like goblins. For example, the prime could be red magic is a lot of red goblins when we chose to make goblins black in</v>
+
+00:06:07.580 --> 00:06:08.720
+<v Speaker 1>Laura, when for example,</v>
+
+00:06:09.680 --> 00:06:39.150
+<v Speaker 1>we knew that if you were just building from your collection, you have more red goblins. So what we tend to do is we tend to put strong rewards in the secondary color to make it more viable. Maybe you want to play the second color. If we put all the strong colors in just the main primary color, then you're just really, especially if you're using all of magic cards, just encourage to solely go the mono color. And so by putting strong, it also allows we we know we had made strong goblin cards in the past in red. So by making a few strong ones in black</v>
+
+00:06:39.440 --> 00:07:00.620
+<v Speaker 1>now giving you a lot more constructed options and even with cat casual constructed options. OK, so the problem with vanilla creatures is we can't not we're not going to make a set with vanilla matters, say, OK, green and white are the vanilla matters colors. So now we're not going to put vanilla cards in blue, blue, black and red.</v>
+
+00:07:02.020 --> 00:07:32.840
+<v Speaker 1>So let me explain what a trap is, because that's an important understanding from a design standpoint. One of the things that you want to do is you want to be careful not to put cards in your set that imply things that aren't true. Because in drafting, if someone's going to pick up your card, we don't want them to go, oh, OK, I got it. So for example, let's say we're making a tribal set and OK, let's say black red goblins are a thing. If we give you a common common goblin in another color,</v>
+
+00:07:33.790 --> 00:08:03.320
+<v Speaker 1>I mean if we give the guy another color at all, but common is the most problematic because it shows up at the time. So let's say for example, I pick UA gob of turn 1 pack one. I pick up a red goblins matter cards. OK, all your goblins are whatever plus 1 + 1 something. Next pack I see a green goblin. I go, oh, a green goblin. So I picked that up. Now I'm like, OK, I'm goblins, I'm red and green goblins. You know, I've seen the red goblin, green goblin. OK, I'm red green. And then you start</v>
+
+00:08:03.390 --> 00:08:33.810
+<v Speaker 1>or maybe in the pack three, you pick up a giant growth or you know, you start picking up some green cards, but you just don't see another green goblin. Where's the green goblins other than in Spiderman? And you're trying to figure out like, where are they? You know what's going on? And then you're draft gets what we call it's a trap because you saw something, it made you assume something and now you're going down a path that isn't going to be fulfilled that we've made a bad experience for you. So what that means is usually when we have themes and that theme, I'm talking about tribal</v>
+
+00:08:33.910 --> 00:09:03.780
+<v Speaker 1>as my example, but it could be a mechanic thing. It could be a linear mechanic. You know, it could be energy, it could be, it could be one of many different things, like something in which you want to sort of group those together. When I say linear, that's word we've talked about that the card that gets other cards like it. So a lot of walking today is linear strategies. Like if I see a card this is all goblins get plus 1 + 1, hey, I want to get goblins as I see a card that works well with energy, maybe I want more energy. If I see a card that says all allies get something</v>
+
+00:09:03.910 --> 00:09:34.050
+<v Speaker 1>or, you know, are all creatures of a particular mechanic, or, you know, I have something that helps token creatures with embalm or whatever. I do something that sort of says, hey, you want other things like it, it sends you down a path. And so we're very careful with our cards to be directional because people, we don't assume that people know the whole set. Yeah, yeah, yeah. The more enfranchised dedicated drafter might, but a lot of people draft the set. They don't necessarily know everything in the set. So we want to be careful not to create traps for them where it sort of implies to do something</v>
+
+00:09:34.170 --> 00:09:50.870
+<v Speaker 1>that the set then bails on. So what that means is when we're putting together a theme, usually we concentrate in colors to avoid that from happening. Also, by concentrating colors, we help solve some of the ascent issues, which is, let's say for example, I need</v>
+
+00:09:52.400 --> 00:10:00.670
+<v Speaker 1>say I am playing, I'm making some sort of robot deck. If we concentrate the robots at red and black, we don't need to make quite as many</v>
+
+00:10:01.300 --> 00:10:15.200
+<v Speaker 1>as many of them than if we put them in every color of the theme runs through all the colors. Wow. Now we have to put support in every color at the level that it can be played with, so that becomes a lot trickier. OK, but here's the problem with vanilla. Vanilla existence is not</v>
+
+00:10:15.960 --> 00:10:44.760
+<v Speaker 1>like goblins are a flavor thing. You know, if we want to have less goblins in the world, you know, we could say, OK, hey, in this world is less goblins, we can do that. But vanilla creatures exist. Their main function is to provide some simplicity in play. And that, you know, if every card is demanding a lot from you, it just gets overwhelming. And it's nice to have some cards to go, hey, I'm just vanilla creature, or I'm just a French vanilla creature. French vanilla vanilla means you have no rules tax. French vanilla means you only have creature keywords.</v>
+
+00:10:45.610 --> 00:11:15.560
+<v Speaker 1>Um, so if I'm trying to make simple cards, usually every set, we tend to make about 5 vanillas, but one per caller. And we usually make, I don't know, 5 to 10 French vanillas depending on the set. French vanilla is being, hey, I just have flying. Hey, maybe I have first right in flying or I have vigilance and 1st strike or whatever. You know, you can have more than one. You can still be French by having more than one keyword, usually a comment. We don't do more than two keywords. So like uncommon and higher usually will have the three keywords. Every once in a blue moon we do it at,</v>
+
+00:11:15.630 --> 00:11:46.830
+<v Speaker 1>but we usually don't. OK, so the issue is we want to have a certain vanillas and French vanillas in the set because we're trying to sort of lessen the weight of the set. How much is going on that? What we found is if every card is something going on, it just becomes mentally taxing to track everything. So what we've learned is, hey, this is just plays better if there's some cards. We also do what we call virtual vanillas, which are cards that do something, but then for the rest of the time they're play virtual. Vanilla means you only matter.</v>
+
+00:11:47.370 --> 00:12:01.830
+<v Speaker 1>They only have an effect that matters the turn they come into play, and then pretty much after that it doesn't matter. So if you have entered the battlefield effect, well, it matters what turn you play it, what it does. But from then on out, you're usually vanilla or French vanilla. So</v>
+
+00:12:03.170 --> 00:12:33.120
+<v Speaker 1>what we want is we want to make a lot of cards when they're in play, look, they just are what they are. Maybe they have a keyword, but they're basically what they are. You, the player to kind of understand it. You don't have to process it every time. And then we have some cars that have an effect and generated a static ability or have a triggered ability or have an activated ability, you know, other effects we can put on things, but we want some number of simplistic things. OK, So what that means is saying, hey, you can't have any vanillas in your colors is a little</v>
+
+00:12:33.200 --> 00:13:03.330
+<v Speaker 1>a little much. We kind of want vanillas in the colors. So it's a little disconcerting to say, well, we wouldn't want vanillas in certain colors. So it's a little bit harder to condense the theme when kind of vanilla, something that's important for us to do and we want to have. And so I don't want to say, well, I'm going to make three colors a little bit more complex because I have Steam. I want to run in two colors. OK, so let's go on the path. Let's say, OK, what if you want to run the theme at all five colors? The problem you run into there is let's get to the Asian issues. OK,</v>
+
+00:13:03.430 --> 00:13:17.760
+<v Speaker 1>How many cards do you need to make some guarantee that you can have the cards you need and you start having to have enough vanillas in common that it really is going to have a weighty feel. So for example, in experts we do usually about 5 uncommon</v>
+
+00:13:19.320 --> 00:13:25.160
+<v Speaker 1>five vanilla creatures, usually a common. That's usually what we do.</v>
+
+00:13:26.390 --> 00:13:57.330
+<v Speaker 1>Ohh. From an asset perspective, there is a hundred 101 common, let's say 100 for math. So basically 5% of the cards are 5% of the Commons are vanilla creatures. OK, well you get 10 cards in your pack, so you can run the math through that, which is if one out of 20 times you get a vanilla and you get 10 comments, that means about every other pack you get a vanilla. OK, well every other pack. So that's an as fan of</v>
+
+00:13:58.330 --> 00:14:28.260
+<v Speaker 1>.5 means you get on average about half of vanilla creature, which means when I say half of an ill creature, that means about every other packet of no creature. That's what as phantom half means of .5. That's not nearly enough if you want to care about your theme. Remember earlier I said OK, even the low end of the spectrum, even the threshold one, I wanna have enough of my deck that I can assume that I've won in play. Even that says, OK, well, I want at least 5,</v>
+
+00:14:28.370 --> 00:14:57.940
+<v Speaker 1>you know, and maybe six or seven. OK, so let's consider the math there. So if it's five per pack, you get 6 packs in limited, that is 3, you would get 3 vanilla cards. OK, well, that's not enough. We're saying that you want to have 5:00 to 7:00 to sort of play a threshold. And that's a threshold one there. That's like that's we do the low end of the spectrum of caring about it. You would need 5 to 7 in your color, in your colors. OK, now let's say we do 1</v>
+
+00:14:58.380 --> 00:15:28.460
+<v Speaker 1>super PAC. We double the number that's 10. Now we do 10A common. OK, let's let's run through that. Now that means in your 6 packs, you get 5. OK, you say, OK, I said the low end is five. Ah, but the problem is that's going to spread across five colors. I need five to seven. You can play in your color pair. So let's say you're playing A2 color deck. If you're playing A2 color deck, that means that 40% of the cards are relevant for your deck. OK. So when I say you have an as fan of a fan of 1 and you have 5 cards,</v>
+
+00:15:28.580 --> 00:15:34.900
+<v Speaker 1>now we take 40% of that number. So 40% of 5 is 2.</v>
+
+00:15:35.500 --> 00:15:47.130
+<v Speaker 1>So now 2 of so you now have two cards that are viable in your deck. You can see where this is going. OK, so if I have two that on my deck and I want to get up to five in my colors,</v>
+
+00:15:49.010 --> 00:15:50.520
+<v Speaker 1>OK, how do I do that?</v>
+
+00:15:52.740 --> 00:16:11.570
+<v Speaker 1>OK, so I now need I'm shy by I need to get I'm at 40%. I'm at only at 40%. So I need to go up, I'm at 2. I need to get to at least 5. And ideally you want like 6. So we're talking like 3 times that. So what's the Aspen we're talking about? We're talking about as fan of about 3</v>
+
+00:16:12.880 --> 00:16:17.120
+<v Speaker 1>now. Once again, that's if every color wants to support this.</v>
+
+00:16:18.220 --> 00:16:36.470
+<v Speaker 1>OK, maybe maybe, I guess I mean so you can start to see the problems here, which is if I want you to have enough vanilla cards to matter, I have to and I we kind of want to know the cards and all the colors, then it starts to become a messy thing. They making it big enough to work requires</v>
+
+00:16:38.180 --> 00:16:38.930
+<v Speaker 1>for second.</v>
+
+00:16:41.290 --> 00:16:49.010
+<v Speaker 1>Sorry. OK. Making it big enough to work requires a volume of vanilla creatures that aren't particularly going to be</v>
+
+00:16:50.570 --> 00:17:20.610
+<v Speaker 1>attractive. OK, so let's talk about that, which is one of the things that you need to do. One of the things you're able to do with goblins, let's say, is let's say for example, that you never draw your goblin card, that you're just playing with goblins. Well, I can make your goblin experience fun because I can just make fun cards that make a fun deck that happened to be goblins. I'm saying I can make an experience for you that if you just play with goblins, I can make a fun deck because I'm making the restriction.</v>
+
+00:17:20.690 --> 00:17:24.080
+<v Speaker 1>You have to be a goblin. There's some restriction there.</v>
+
+00:17:25.960 --> 00:17:31.750
+<v Speaker 1>There's a little bit of a size restriction, although we've done some bigger goblins. So like we've done,</v>
+
+00:17:32.630 --> 00:17:47.720
+<v Speaker 1>we've done goblins as big as like 55. Usually it's either one mutated goblin or a whole bunch of goblins. You know, we tend not to do goblins that are much bigger than 5 five, and even then we don't do 55 goblins all that often, but we've done it. So</v>
+
+00:17:48.340 --> 00:18:17.590
+<v Speaker 1>but the point is within that ray, I mean, it's goblins limit your size a little bit. There's a little bit of a goblin this feel to them, but goblins aren't too much of a problem because they're staple in red, meaning we use them so often that you'll expect a lot in the goblin. The goblins have a lot of range of what they can do and you can flavor them pretty easily. So OK, a goblin really, you have lots of choices, lots of options. Take something like fairies with a little trickier because we decided that all fairies have to fly. So that puts some restrictions on how big they could be and what they're capable of doing.</v>
+
+00:18:18.690 --> 00:18:48.610
+<v Speaker 1>Sometimes we do something like 3 folk there. We tend not to make two tiny tree folks. I mean, sometimes there's size limitations, sometimes there's plays, flavor limitations. We had an issue with Minotaurs and Theros because the creative team didn't want them smaller than 3/3. So there are issues that we run into there, but I still can make interesting cards. The problem with the vanilla creature is I have zero to work with. There's very little I can do now. The one</v>
+
+00:18:48.680 --> 00:19:18.800
+<v Speaker 1>ironically, the one thing I can do with vanilla creatures is I can do some creative stuff with them and I can have them have a fun play a fun creature type. So one of the few things I can do with vanilla creatures is I can make them relevant for triable, but we tend to focus what we do. So if we're making you care about vanilla creatures is that's our thing to care about, then we wouldn't probably make a tribal thing. So like the one thing I can do with the creatures that's interesting gets cut off because if I'm doing a vanilla matters theme,</v>
+
+00:19:18.890 --> 00:19:22.580
+<v Speaker 1>I'm probably not doing a tribal theme. So</v>
+
+00:19:23.760 --> 00:19:39.380
+<v Speaker 1>OK, what can I do to make vanilla creatures interesting there? There's not a lot I can make them creatively fun. They're creative team can go. And I mean, maybe we do for like in future site we did full art basics. So I fill out vanilla creatures. So maybe maybe there we could do something we can mess around with.</v>
+
+00:19:40.860 --> 00:19:43.360
+<v Speaker 1>We can mess around with that, but</v>
+
+00:19:44.690 --> 00:20:14.690
+<v Speaker 1>there's a lot of design issues, which is just having a lot of vanilla creatures with nothing going on. Remember a lot of the ways we we do vanillas in the set is we do virtual vanillas, which is they do something. But after they do that thing, we have a lot of cards that have like into the battlefield effect or haste, essentially virtual vanilla. There's a lot of things that are OK, look, once the dust settles, look, I'm just vanilla creature, but they do something so they don't get account from vanilla matters. So it's. So next problem is.</v>
+
+00:20:15.470 --> 00:20:41.620
+<v Speaker 1>To have the volume of vanillas we need, I have to put a lot of vanillas in the set and then we're talking a volume higher than corset. You know, like corset, it was meant for beginners and like there we would have more bills than possible and the volume I'm talking here would be higher than course levels of venal creatures. So that's OK. How do I make that compelling? How do I make these cards compelling? There's not a lot I can do there. It's pretty hard.</v>
+
+00:20:42.530 --> 00:20:55.170
+<v Speaker 1>OK, now, OK, that's the Aspen problem. How do I make enough vanilla creatures that it can matter that it's relevant that you can get away and do the things you want to do that make these cards worthwhile That</v>
+
+00:20:57.430 --> 00:21:16.220
+<v Speaker 1>and in the volume, they're just not like it's it is hard to make exciting avails not impossible. So I mean we can make sure ohh. The other problem with vanillas is we can push vanillas. It's not hard to push vanillas. I mean, it's not like we can't do it. It's just we only get so much power level per</v>
+
+00:21:17.460 --> 00:21:18.710
+<v Speaker 1>upset and</v>
+
+00:21:19.710 --> 00:21:50.560
+<v Speaker 1>push vanillas really are only attractive to more enfranchised players. Why is that? Because lower level players are bad at looking at power at what we call cost stat ratio. Oh wow, for that cost and those stats that's a good deal. Now there's a few exceptions. If you make a one drop to to a lot of people can figure out that's not too bad, but it is tricky. People don't. When we make what we call a pushed vanilla creature,</v>
+
+00:21:51.020 --> 00:22:13.930
+<v Speaker 1>it is usually tough to realize how good that is. Now, usually the ones that get the most notice is we make a really big creature for as cheap as we can make the really big creature, but there's only so many of those we can make. So the other problem in the vanilla is, is not only can't we make an exciting from a design standpoint, like I can't do anything with them to make them exciting from a gameplay standpoint, even from a power level standpoint,</v>
+
+00:22:15.450 --> 00:22:19.300
+<v Speaker 1>there's a limited amount of how much power you want to put in into them. Now we do,</v>
+
+00:22:20.280 --> 00:22:50.830
+<v Speaker 1>we do occasionally push our vanillas, but usually because they're in theme, usually because there's a tribal theme and we push one that plays in the tribes or you know, there's a three color themes. So we push, you know, there's a multi color theme. So we push a multi color card. You know, there's places where we'll do it where it makes sense. But in the set, all vanillas, we're not just going to push lots and lots of vanillas. You know, maybe in a set we push one vanilla creature. So it also means we have cards we want to make a large volume of that. I can't make it exciting with design and we can't make it exciting with development or don't want to make</v>
+
+00:22:50.900 --> 00:23:20.840
+<v Speaker 1>many of them exciting development. So anyway, OK, so we don't have that problem. Now let's talk about the other end of the problem. Let's make cards that make vanilla creatures matter. So First off, normally the way we would do it in a let's say we're making goblins matter is a lot of what I would do is I would make goblins that make goblins matter. That allows me a couple things. One is if my goblin matters card is itself a goblin Hey, I get accounted for how many goblins side my deck, so it gets</v>
+
+00:23:20.920 --> 00:23:39.550
+<v Speaker 1>my assistant of goblins and there's a lot of tricks of things we can do. So for example, a very common thing is I have a card that activates to affect a goblin hey, but I'm a goblin. So it can always activate to affect itself, but it can affect other things. But in a vacuum that</v>
+
+00:23:40.470 --> 00:24:10.790
+<v Speaker 1>when we talk about AB problem is, an AB problem is I have a design where the A category of cards needs the B category cards to matter. For example, with madness, I need discard. Madness doesn't matter unless things are being discarded. So the madness cards are the cards. And then I need discards that force discard as the B cards. And then there's a lot of problem with AB things. You have to work them out. We do them, but it creates a balance of now I need enough A things and I need enough B things. So to make vanilla matters</v>
+
+00:24:11.520 --> 00:24:41.130
+<v Speaker 1>like to make tribal matters, we solve that problem by crisscrossing, which is hey, I'm a goblin that affects goblins, but I myself have a goblin. So let's say for example, I have a goblin that says, you know, target goblin gets plus 1 + 1 in Haskell in return. Now I can always use it on this thing. So even if I have 0 goblins in my deck other than this card, hey, the card has value to it. It's not useless and it encourages more goblins, but it still has a function</v>
+
+00:24:41.270 --> 00:25:11.560
+<v Speaker 1>even if I only end up with a couple goblins in my deck or even if I have a bunch of jobs. But this is only goblin I draw. It's relevant, but the problem is, you know, vanilla matters has a special problem, which is the second that you put something on the card, it takes away its vanilla Ness. So I can't make a car that cares about villainess that is vanilla. Like, like it's kind of the, you know, it's the catch 22 of vanilla matters design that anytime I make something affect vanilla matters, I'm removing it from being vanilla</v>
+
+00:25:11.630 --> 00:25:41.110
+<v Speaker 1>patterns. OK, so for starters, I walked down this path that makes it an AB problem. And like I said, that in the vacuum is solvable. We do agree problems all the time. But here's the next batch of things, which is OK. So let's say I try to make vanilla matters. How do I do that? Well, a common way we make things matter is by grafting abilities on to them. Hey, all your creatures get some bonus or something. We have to be very careful because</v>
+
+00:25:42.890 --> 00:26:11.860
+<v Speaker 1>I can graph power toughness because going up in power and toughness doesn't actually change vanilla status. I can change your creature type, although once again, I don't think being vital matters means that trial will probably is not the thing. And anything else I do to you, any other bonus I give to you and the other thing I grant you once again takes away your vanilla status. So if for example, I want to say all vanilla creatures get trample, I have a rules problem because OK,</v>
+
+00:26:11.950 --> 00:26:31.290
+<v Speaker 1>hey, creatures out there, you have, you know, I look and see for my vanilla creatures like, hey, look, I have another creature, well, give you trample. OK, you now have trample. Then the static ability checks again and goes, hey, wait a minute, you creature that have trample, you're not a vanilla creature, you can't have trample. So it takes it away. But then the game goes, wait a minute</v>
+
+00:26:32.010 --> 00:26:38.680
+<v Speaker 1>video creature. You don't have trample and so you can't make static granting abilities other than power toughness,</v>
+
+00:26:39.600 --> 00:26:41.100
+<v Speaker 1>you know, So like I can't</v>
+
+00:26:42.650 --> 00:27:13.100
+<v Speaker 1>now I can do it temporarily as one shot, I can do it as triggered. I mean, once again, for each one of these, it's not the problem is unsolvable, but it makes the problem. So for example, I can't do static abilities that grant, let alone I have the problem in general instabilities that I have the volume problem. But even let's say let so anything in which I affect things that have vanilla matters become more problematic. Now the solution there</v>
+
+00:27:13.190 --> 00:27:26.160
+<v Speaker 1>is the reverse, which is OK. I guess I could have things that care if I have an L of things and you can do that and you could do some threshold one in theory. But we all enter the other problem, which is</v>
+
+00:27:26.890 --> 00:27:56.660
+<v Speaker 1>if too many of the things that matter. So for example, UM, usually threshold one wants to be permanent and normally threshold 1 is on creatures, right? Normally, Hey, I gain flying if you have a goblin or whatever that that is going to go on a permanent. The reason we tend to put on permanence is because if I have a spell, let's say have a spell that says, Hey, I get better if you have a goblin. Well, I can't play that spell until I have a goblin in play if I want to matter now</v>
+
+00:27:56.830 --> 00:28:26.980
+<v Speaker 1>they still do that. Usually the way we do those kind of effects is target creature. So I'll just use let's assume there are red green balloons make a giant growth. So normal giant growth is turn creatures plus 3 + 3. So let's say I made turn creatures get +2 +2. But if it's a goblin gets plus 4 + 4 for G for green. So the idea is it's better than a giant growth on a goblin, but worse than a giant growth than anything but a goblin. Well the nice thing about that is Giant growth is kind of the fact that a lot of</v>
+
+00:28:27.060 --> 00:28:35.730
+<v Speaker 1>I don't need the extra bonus so it's still useful even if I don't have goblins out. But hey once I have a goblin then it goes U in usage</v>
+
+00:28:37.550 --> 00:28:40.110
+<v Speaker 1>but it is the</v>
+
+00:28:41.230 --> 00:28:51.340
+<v Speaker 1>the word OK then we get into the rules. Thing is, OK, now I want to care about things that are vanilla matters, so it, well, sorry, I'm jumping out. So anyway,</v>
+
+00:28:52.620 --> 00:29:15.380
+<v Speaker 1>it is harder to do it on spells than it is on permanence. But every permanent you put it on, you're chewing in your space that could fill up with your vanilla creatures. So you have a problem there. OK, so now let's talk about spell space. OK, so I wanna do this. I can't do static abilities. That's really hard to do because it turns them off. So it creates rules for us. You can't really do static abilities.</v>
+
+00:29:16.650 --> 00:29:29.320
+<v Speaker 1>So let's say I just want to effective. Let's say I want to do the giant growth thing. OK, now we get into the templating problem, which is I want to communicate to you that things that are vanilla get affected,</v>
+
+00:29:30.730 --> 00:30:00.100
+<v Speaker 1>as you can see on tetrahydro gloves that like just writing that out. So it's clear is very messy. How exactly do I like vanilla isn't determined. It's a it's a nickname, it's a design term. So I mean, I use vanilla all the time and you guys are like the player base is slowly picked up in the vernacular because I share I share R&amp;D lingo with with the world and the world picks up a lot of the lingo. And so the idea of vanilla creature, you see the talked about it has more relevance for us and it has for you.</v>
+
+00:30:00.170 --> 00:30:30.370
+<v Speaker 1>Most people don't. It's not often you need to care about of vanilla creature. So the reason they have to understand the word for that doesn't come up. But anyway, there's no vocabulary for it, which means that when we want to say it in text, we have to write it out. We have to say and it is wordy. So when I say turn, Christians do. But if it's the goblin, it gets plus 4 + 4. That's really easy because I can say if it's a single word, if it's a goblin, you know, But when I have to say if it is a creature,</v>
+
+00:30:30.470 --> 00:30:40.740
+<v Speaker 1>I don't remember the attacks exactly, but you know, a creature that doesn't have any other text on it or whatever, you know? And that's I'm sure whatever it is to say, it is a mouthful,</v>
+
+00:30:42.180 --> 00:31:11.590
+<v Speaker 1>it's enough of a muscle that I can't even figure it out off the top of my head. Like I can't even go well, would it be, you know, maybe something about a creature that doesn't I I didn't look up murder Patrick, just I assume it has some terminology, But anyway, it is a mouthful. So even on spells where you want to care, wow, every card you make is going to be kind of wordy. And one of the things we want to do is we want to make sure a common that we control our wordiness. So like one of the things I talked about new world order is I talk about red flagging. So New World Order is the thing I</v>
+
+00:31:12.210 --> 00:31:15.380
+<v Speaker 1>Matt plays and I created years ago to try to make common simpler.</v>
+
+00:31:16.370 --> 00:31:42.390
+<v Speaker 1>And the way it works is I have all podcasts on this that certain things you get red flagged for. So one of the things you get red flagged for and what red flag means is, hey, you seem complex. You know, I don't think it's supposed to be a comment. Let's check you out. And we're allowed to let so many red flags through. Usually about 20% of your 10 to 20% can be sort of red flag cars. You got to certain amount of complexity.</v>
+
+00:31:43.460 --> 00:32:13.670
+<v Speaker 1>OK, well the problem here is every card you're going to make that's going to reference this, especially spells, it's going to get hard to reference it without it being kind of wordy, meaning you're going to start red flagging a lot of cards. But if I want the theme to work, I have to have a load of as fan that you have enough cards that care about it. Remember, we don't just haven't asked them problem of the thing that cares about it. We also have asked them problem of I need enough things that care. So for example, let's say I want to care about goblins.</v>
+
+00:32:13.890 --> 00:32:27.760
+<v Speaker 1>I need have enough goblins, but I also need to have enough cards that care about goblins. Otherwise I'm not encouraged to make the goblin deck. Like for example, let's say I have one card that cares about goblins. Why? Might have a lots of games, right? Never draw that card. Now once again,</v>
+
+00:32:29.260 --> 00:32:39.320
+<v Speaker 1>beacon design it such that the the goblin deck doesn't need the goblin tribal card to be interesting or fun, and so it's kind of gravy. So for example, I can make a rich,</v>
+
+00:32:40.060 --> 00:32:48.660
+<v Speaker 1>I can make a lot of neat fun goblin cards and you can play together that are thematically work together that if you never, ever get a goblin matters card, it's still a fun thing to do.</v>
+
+00:32:50.270 --> 00:33:03.210
+<v Speaker 1>But vanilla matters. They can't do that. They're vanilla creatures. So like it's really, really important. Like the the problem to remember is let's say I, OK, so I make a deck that is enough vanilla creatures that</v>
+
+00:33:04.690 --> 00:33:27.990
+<v Speaker 1>I hope I have enough of them that I get one in play to have it matter. By itself, it doesn't do anything. And the problem with a bunch of vanilla creatures is that they actually there's some inherent problems. Like one of the things we have to do in limited is we have to make sure there's things like evasion. We want to make sure that you're going to break creature stalls. And so there's a whole bunch of mechanics and things we do to help break creature stalls. Plus</v>
+
+00:33:29.260 --> 00:33:59.380
+<v Speaker 1>the other thing we do sometimes is we use creatures as a way to sort of rebuild into the battlefield effects. We give them sorcery like qualities to help do things O when you have a lot of vanilla creatures. I can't solve those problems. How do I keep a stalemate from happening? I can't the second I write anything on the cards that are not vanilla. So there's no way inherently to make like to fix vanilla Mastercards within themselves. So is the experience of just playing vanilla cards fun? If I don't draw my vanilla matters? Is it fun? No, it's</v>
+
+00:33:59.450 --> 00:34:30.710
+<v Speaker 1>God, it's just vanilla cars. It's really, I mean, especially for the franchise player, it's simple and it's going to run into problems because the things I normally would do to fix those problems I can't do. Which means, Oh my God, it's even more important that we have the no matter cards and then the volume that it matters because it's only fun if you draw the card. We have to make sure you draw the card. But then we run into the problem that any kind of car that's going to care is naturally going to be a little more complex. So anyway, there's that issue. There's like in order to template that we make cards that are kind of complex,</v>
+
+00:34:30.790 --> 00:34:44.920
+<v Speaker 1>hard to understand, which makes us not want to put them in common. But if we don't have stuff in common, we can't possibly make the ascent to make it matter enough. We don't make it matter enough. Then it's just not fun game play because without it, it's it's, you know, it's vanilla game play. It's as simple as it can be.</v>
+
+00:34:46.540 --> 00:34:50.670
+<v Speaker 1>So as you can see now, now another problem is, um,</v>
+
+00:34:51.710 --> 00:35:21.720
+<v Speaker 1>if I start raising up my vanilla thing, here's another problem I ran into. I have a certain number of facts that I got to get into a color. So think of it in, let's say I'm making goblins. Well, I've certainly read effects I need to do. I need to do some amount of direct damage. I need to destroy artifacts. I need to panic, which is make things not block. I need to do some combat tricks. I need maybe land destruction. You know, there's a bunch of different effects I need and oftentimes you run out of space</v>
+
+00:35:21.840 --> 00:35:51.640
+<v Speaker 1>in your style slots because we tend to have more effects than necessarily always spell slots. And the way we pick up the slack there is by doing some of the stuff we might do in cells on creatures. Hey, what are this creature enter the battlefield, destroyed an artifact or what are this creature when it attacked, made a creature not block. You know, like I can take something effects that sometimes go outside of creatures and put them in creatures. So one of the tools we have available to us is because creatures have values for things they can do, I have some flexibility of where I stick things.</v>
+
+00:35:51.860 --> 00:36:09.280
+<v Speaker 1>That's a really important design thing. So now you come back to me and say, hey, hey, hey, more than normal amount of your creatures need to be vanilla. Meaning I have to now start fighting for space to do things and I have left. It cuts down my flexibility. It cuts down on my ability to sort of make a robust set</v>
+
+00:36:10.120 --> 00:36:40.150
+<v Speaker 1>and remember if I vanilla said which vanilla matters and I already have the problem that look, you just have the milk creatures is not interesting. You put more pressure on me from the other stuff to make the other things like interesting to make sure there's a dynamic game play. So vanilla creatures both make a need for more stuff on other cards and prevent and limit my ability to do that. So like on top of everything else, they both kind of create a problem that is specifically makes it hard to solve. Like</v>
+
+00:36:40.430 --> 00:36:44.280
+<v Speaker 1>this is the problem with vanilla matters is that the</v>
+
+00:36:45.010 --> 00:36:52.610
+<v Speaker 1>the constraints of vanilla matters put more restrictions on you and then the type of restrictions that make it harder to make the set.</v>
+
+00:36:53.360 --> 00:37:05.930
+<v Speaker 1>So it's like, OK, I got to make vanilla matters. There's all sorts of problems with it, but just the mere existence of upping the vanilla cards makes it harder for me to even design the set because I have less flexibility and less room to do what I need to do.</v>
+
+00:37:06.870 --> 00:37:07.380
+<v Speaker 1>Um,</v>
+
+00:37:08.220 --> 00:37:12.850
+<v Speaker 1>so my goal here today I'm I'm I'm not far from from Rachel school Is</v>
+
+00:37:15.230 --> 00:37:29.160
+<v Speaker 1>there's a lot of actors here. You know, does Merganser Petrick lists in a vacuum? Is it a cool card as a one of one time weird thing? Yes, yes, it is. And a lot of people have had fun making their muraganda petroglyphs DX.</v>
+
+00:37:30.890 --> 00:37:33.350
+<v Speaker 1>The issue at hand is not</v>
+
+00:37:34.410 --> 00:37:46.250
+<v Speaker 1>is it a like there's a big difference between I can make one card once that's entertaining and I can make it as a theme that can support limited play, for example. That is,</v>
+
+00:37:47.440 --> 00:38:03.350
+<v Speaker 1>I'm not gonna say impossible. Like I said, there are some solutions. So if you put a gun to my head, then you must do this. How do I do it? I would make it a threshold one thing. So I would I would make you have to play the least number of vanillas possible.</v>
+
+00:38:05.230 --> 00:38:12.180
+<v Speaker 1>I would do a little more token making because technically tokens are Manila. If you don't give them an ability,</v>
+
+00:38:13.830 --> 00:38:15.280
+<v Speaker 1>I would</v>
+
+00:38:16.810 --> 00:38:26.860
+<v Speaker 1>work hard with the template and to see if maybe we make the word that says what a vanilla creature is so we can define it so that we could</v>
+
+00:38:28.380 --> 00:38:32.090
+<v Speaker 1>refer to it. So maybe I would use that to help. Um,</v>
+
+00:38:34.010 --> 00:38:35.750
+<v Speaker 1>I would</v>
+
+00:38:38.220 --> 00:38:49.690
+<v Speaker 1>try to have more cards that care about creatures in general. So I would make mattering about creatures a theme so that I had, for example, like a creature that star, star equals number creatures you have</v>
+
+00:38:51.040 --> 00:39:05.060
+<v Speaker 1>that maybe I can make something where or something like every time crunches the battlefield you do. I can make something where the things around and care about their creatureliness. So that the fact that that means I would have to look and say what does the vanilla creature? What values does it have?</v>
+
+00:39:06.920 --> 00:39:24.700
+<v Speaker 1>The other thing I wonder now that I as I walk through this is like, uh, is there a way maybe have a little bit of tribal Ness because at least they have tribal on them. You're fighting in design space problems, though, because the same kind of cards you'd want to use for Nila matters the same kind of cards you want to tribal. So that might be a dead end, but I guess explore if</v>
+
+00:39:25.510 --> 00:39:30.500
+<v Speaker 1>are there things that I can do in tribal that I can't do in villa matters? I look at that. Um,</v>
+
+00:39:31.270 --> 00:39:31.930
+<v Speaker 1>but anyway,</v>
+
+00:39:32.990 --> 00:39:34.730
+<v Speaker 1>as I tried to explain today, like</v>
+
+00:39:36.590 --> 00:39:45.700
+<v Speaker 1>if I had to solve it there, they're passes, I would go down to try to solve it. But the real question in the end is, are you making compelling play?</v>
+
+00:39:47.080 --> 00:40:17.740
+<v Speaker 1>We talked about before I did a whole podcast on don't do something to prove you can do something. I don't want to make vanilla matters just to prove I can make vanilla matters. I want to make you know matters because it's an awesome theme. It's something that makes fun game play. And so as I explained today, it would be crazy hard to design. But the other big problem is, so I make it. So you're playing with a deck full of vanilla creatures. How much of the time are you having fun? Is that a fun thing? I think there's a little bit of novelty to it. That's why people like Morgan Petroglyphs, because it's super novel.</v>
+
+00:40:17.840 --> 00:40:48.340
+<v Speaker 1>But I believe it's a Navi, a novelty that would fade quickly. And even if we couldn't make it work, I worry that I'm just making you play with on average, making it less fun magic experience on average. There's just it's more games with less going on that's simpler. And that while that maybe, maybe it's OK for beginning entry level thing for more in franchise set with players, that's not something I would want to do. So anyway, that my friends in a long drawn out way is why vanilla matters is a really hard thing to do.</v>
+
+00:40:48.740 --> 00:40:57.750
+<v Speaker 1>But I'm not at regional school so we know that means the end of my drive to work. Instead of talking magic, it's time for me to be making magic. I'll see you guys next time. Bye bye.</v>
+

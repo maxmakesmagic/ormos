@@ -1,0 +1,404 @@
+WEBVTT
+
+00:00:00.980 --> 00:00:31.290
+<v Speaker 1>I'm calling on the driveway. We don't know. That means it's time for me to drive to work. OK, so today is the start of a long series. So I talked about how I went to GDC this year and I gave a speech. So my speech was called 20 years, 20 lessons. It was all about in the 20 years of working on magic on the same game for 20 years, what were what were the 20 lessons that I learned? And I decided it was instead of just doing a single podcast, I was going to do 20 podcasts,</v>
+
+00:00:31.420 --> 00:01:02.440
+<v Speaker 1>one for each lesson. So I'm calling this series 20 Years 20 podcast. Now. I can't call it that. I recall the 20 year, 25 casts. How about 20 podcasts or 20 lessons, 20 podcasts. We'll try that. So 20 lessons, 20 podcasts. OK, so today is lesson #1 So lesson number one was when you fight against human nature or fighting against human nature is a losing battle. That was lesson #1 fighting against human nature is a losing battle. So one of the things to remember</v>
+
+00:01:02.520 --> 00:01:02.960
+<v Speaker 1>is</v>
+
+00:01:03.940 --> 00:01:33.920
+<v Speaker 1>I'm trying to make this series more. I'll talk about magic as my examples obviously, but I would try to make it more general for people who are just general game design theory. So one of the things that I learned is. So I guess I'll start with the story. In my speech, I always had a story, so I'll start with my magic story. OK, so during Time Spiral and we had made suspend. So for those who don't remember what suspend was, suspend allow you to reduce the cost of your spell. And normally we casts a spell in magic. You pay your mana and you casts</v>
+
+00:01:33.990 --> 00:01:46.160
+<v Speaker 1>right away. Well, suspend it was cheaper. You know, you were trading time for money, money being mana in Magic. And so when you cast it, you got it a lot cheaper than normal, but you had to wait so many turns for it to come into play.</v>
+
+00:01:47.060 --> 00:02:17.530
+<v Speaker 1>Technically what would happen is you would exile it for counters on it. Every turn you remove a counter, and when the last counter was removed, it got cast. So a lot of the Time Spiral cards were suspended creatures. And So what would happen is, let's say you suspend someone from four turns. That mean you have to wait turn one, OK, take off counter, not yet. Turn 2, take off a counter, not yet. Turn 3, take off a counter, not yet turn for who I got it. And then players would attack with it because they've been waiting so long</v>
+
+00:02:17.600 --> 00:02:47.630
+<v Speaker 1>to win four turns. They wanted to use it. The problem is when you cast a creature, you're not allowed to attack with unless it has haste because of summoning sickness, right? Creatures can't attack the turn you play them. So the problem was people really had this desire to attack with it because they felt they'd been waiting so long that when they finally had access to it, they wanted to use it. But the problem was that's not the rules of the game. The game doesn't let you do that. And so we try to do a bunch of things to to communicate to people, hey, because of something</v>
+
+00:02:47.850 --> 00:03:17.530
+<v Speaker 1>you can't do this. And so we tried a bunch of different templating things. We tried just spelling out directly in the rules. We first we tried like a reminder text and realize no one read the reminder text. Then we tried putting it directly in the rules. But no matter what we did, the majority of people just kept attacking with it. And so we're trying to figure out how do we keep people from attacking with it. And finally, the solution was stop trying to keep people from attacking with it. Let them attack with it. We gave them a haste.</v>
+
+00:03:17.710 --> 00:03:32.560
+<v Speaker 1>Other creatures came in with haste. They were allowed to attack right away. And this illusion to the problem was instead of trying to make players act the way you wanted them to make, make make what you were doing act the way they wanted to make. So what I said in my in my</v>
+
+00:03:33.290 --> 00:03:41.410
+<v Speaker 1>in my speech is instead of changing your players to match your game, change your game to match your players.</v>
+
+00:03:42.120 --> 00:04:11.870
+<v Speaker 1>So one of the things in general, there are things in life that are so fundamental that they change the way humans function. Like I remember, for example, the first time I got an answering machine. So for those that are too young to remember life pre answering machines, Once Upon a time, if someone called you on the phone, if you weren't there and remember there was no, this was before cell phones, anything phones were plugged into the wall, they were at a location. So if somebody wanted to call and talk to you,</v>
+
+00:04:12.100 --> 00:04:20.750
+<v Speaker 1>you had to be at a location that they knew where you were and you had to pick up the phone and talk to them. So the idea was if I wanted to communicate to somebody, I had to catch them at home.</v>
+
+00:04:21.950 --> 00:04:33.970
+<v Speaker 1>And so it was. It was troubling at times sometimes because if I if I could not catch them, I could not talk to them. There were times when I had, I had something important to say to somebody and it could take a week or more to somehow catch them at home.</v>
+
+00:04:34.610 --> 00:05:05.020
+<v Speaker 1>So eventually I remember I got a, a gift, I was in college, I believe at the time, and my, my parents gave me a gift. It was an answering machine, which is brand new at the time, and an answering machine for those. Obviously I was, you could, someone could call and if you weren't home, it could take a message. They can leave a message for you. And that was revolutionary. It really changed how you function because before, if you knew that someone needed to contact you, you had to be near a phone. And once again, this is before cell phones.</v>
+
+00:05:05.090 --> 00:05:36.070
+<v Speaker 1>One of the phones were on you. And that was very fundamental, doesn't the way it acted, the way people responded, knowing that there was a place by which I could leave information, that someone could retrieve the information changed how you function. And then again, cell phones came off and now the phone is on you. That completely changed how you function. Once Upon a time, if I wanted to meet someone somewhere, we had a plan ahead of time to know where to meet. And then if one of us was late, the other could just sort of wait there and eventually they leave. If they go, well, I guess they're not coming. But there was no way,</v>
+
+00:05:36.150 --> 00:05:58.650
+<v Speaker 1>you know, there's no way to communicate. Now it's like, I'll just, when I get there, I'll call you on your phone because you have a device on you, you know, and these are just examples of things that fundamentally change how humans behave. I'm not saying that you can't do that. It is possible to change human behavior, but it is really, really hard to change human behavior. And so a lot of what I'm saying is</v>
+
+00:06:00.960 --> 00:06:25.310
+<v Speaker 1>assuming your game is so revolutionary that it's going to change the fundamentals of how humans function is a bit naive. And so one of the big lessons I learned, and this is the reason I one of the things about my speech was I put the lessons in order for a reason. This was a very important lesson. And I wanted to start with this lesson because the idea is when you are designing a game like one of my, if you, if you follow along with my,</v>
+
+00:06:26.220 --> 00:06:55.760
+<v Speaker 1>with my writings and stuff. One of the big things is, and I, I spent a lot of time on this, which is you have to understand who you're designing for. There's a very popular expression that's know your audience. Well, guess what? Your audience is human. And that means you have to understand how humans function. One of the things that's interesting is I definitely take psychology classes and my mom, for those who don't know, I mean, she's retired now, but was a psychologist. And one of the things that's interesting is you study psychology is</v>
+
+00:06:56.550 --> 00:07:20.670
+<v Speaker 1>people are individuals, but there are definitely our as you study humanity, as you study people as a whole, there are definitely a lot of people function in certain ways. There's a truism. Like one thing that's really interesting is those do experiments where they go around the world and they will ask different things from different cultures things and certain things change from culture to culture that there</v>
+
+00:07:21.720 --> 00:07:34.930
+<v Speaker 1>there are nurture, not nature based. You know that ohh, you learn to do something, you've learned it and it's a cultural thing and that you go to one culture and people do it a certain way and do another culture. They did a different way. A good example of there is</v>
+
+00:07:36.470 --> 00:07:38.300
+<v Speaker 1>the idea sort of</v>
+
+00:07:39.490 --> 00:07:50.370
+<v Speaker 1>there's, there's a lot of cultural things about what's acceptable and what's not and morals and values and that tends to be very cultural, that what is right and what is wrong can change greatly from culture to culture.</v>
+
+00:07:51.250 --> 00:08:19.880
+<v Speaker 1>But there are other things that transcend that, that are sort of human things. For example, one of them is emotions. Like when they study emotions, it's not like, Oh well, some people have certain emotions, some people, some other emotions. No, no, emotions are pretty basic to the human experience that the idea of being happy or sad or fearful or angry or disgusted, you know, those are all really, really basic human feelings. And so</v>
+
+00:08:21.330 --> 00:08:51.440
+<v Speaker 1>one of the things that you find as you sort of do studies around the world is that there is things that tie humans together. So the reason I bring up emotions is one of the ongoing themes you'll hear throughout my, all my talks is I want you to understand your audience and I want you to understand how your audience functions. And so it's really important to realize that humans, one of the things that unifies how humans function is emotions, that it is a it is a common bond</v>
+
+00:08:51.530 --> 00:09:22.880
+<v Speaker 1>that run throughout all of humanity, all humans. Like, it's very interesting when you they've done this thing where they take faces of people sort of expressing emotions and they go around the globe. You know, they'll go to places where, you know, they go to the deepest, darkest, like villages in the middle of nowhere who haven't had outside, you know, haven't, don't even interact with the outside world. And they'll ask them, like they'll show faces up. Is this guy happy or sad? That's universal. People can look at a human face and know the emotion on the face. That is not something that is learned.</v>
+
+00:09:22.950 --> 00:09:36.060
+<v Speaker 1>That is something that is intrinsic to the human behavior. Or I mean, I guess it's learning some level, but it's not culturally learned. Like happiness is happiness. All humans have happiness. It's not like some cultures have happiness and some cultures don't have happiness.</v>
+
+00:09:37.920 --> 00:09:56.110
+<v Speaker 1>And so one of the things that like one of my ongoing themes that I want to stress here is that what you're trying to do is you're trying to make your game so that you understand the audience as you're making it. That once again, the idea of I'm going to make people fundamentally change to adapt to my game</v>
+
+00:09:56.930 --> 00:09:57.550
+<v Speaker 1>is</v>
+
+00:09:58.550 --> 00:10:13.160
+<v Speaker 1>like I said, I'm not saying you can't make games that change people, and I'm not saying you shouldn't try to make games that change people. But assuming that your game will change people, assuming that people will just function in a way that is not how people normally function is not going to lead to success.</v>
+
+00:10:14.780 --> 00:10:25.290
+<v Speaker 1>Now one of the interesting is in my job, I'm often, I'm often called to do things we haven't done before. So I am called to shock people and that's OK. That's different than what I'm talking about.</v>
+
+00:10:26.610 --> 00:10:52.900
+<v Speaker 1>One of the things I'm trying to figure out is like when humans are faced with something, they don't know, they have to figure it out. That's not necessarily a bad thing. I mean, humans are creatures of comfort. Obviously habit is important to humans, but humans also like surprised. Those who know my, you know, they like comfort, they like surprise, they like completions, the basic elements of how humans function. So it's not that you can't do new and different things and try to make people act in different ways, but</v>
+
+00:10:54.150 --> 00:11:00.200
+<v Speaker 1>whenever I try to make something to fundamentally make people act differently than how they've shown they're normally will act,</v>
+
+00:11:01.200 --> 00:11:02.120
+<v Speaker 1>it's an uphill battle.</v>
+
+00:11:02.820 --> 00:11:07.700
+<v Speaker 1>And a lot of what I've learned Magic is when I have a new mechanic, what we tried to do is</v>
+
+00:11:08.880 --> 00:11:38.920
+<v Speaker 1>we like to take our mechanic and play test it with people that don't know any, they don't know what we're doing. They have Magic players. But one of the things is Wizards has a lot of employees. R&amp;D is a small, tiny fraction of Wizards. So we have a lot of people who do play Magic, who work at Wizards. 1 of the nice things is if you work on a game, that's what you do for a living, most people and say, hey, I should learn how to play the game. I make this game, I should know how to play it. So most people at Wizards a good, I mean the vast majority know how to play Magic. And so we have a lot of</v>
+
+00:11:38.990 --> 00:12:08.790
+<v Speaker 1>people we can test on that don't necessarily know things. And so one of the things we do all the time is we will do a play test. We'll put words on cards, meaning we will spell out on the cards what the cards do so you can read the card. I mean, that information is there. But then we do no other help. We don't guide them. We don't tell them anything. We just let them play and watch what happens. And one of the things that's very interesting that we, I learned that's not just from watching our playtests, but we do what's called focus groups where we get people who are players or non players, whatever. And</v>
+
+00:12:09.010 --> 00:12:26.370
+<v Speaker 1>put them on the other side of A2 sided glass. And then we watch them play. So there's a lot of times where what you do is you get people to play and then you watch them play, step back and watch them play. So here's some things I've learned from years and years and years of doing this. Number one is people don't really read the card.</v>
+
+00:12:27.300 --> 00:12:34.460
+<v Speaker 1>They kind of read the card. They they want to get a gist of what they think it does, but as soon as they think they understand it, they stop reading</v>
+
+00:12:35.260 --> 00:12:51.730
+<v Speaker 1>that. Like literally they read enough until they get to the point where they think they know what it is and then they stop. And a lot of times people will make mistakes that the card just tells them how to do it. They're making they, if they had just completely read the card and understood the card, they wouldn't have had a problem. But they don't.</v>
+
+00:12:52.610 --> 00:13:05.030
+<v Speaker 1>Humans are pretty famous for jumping to conclusions. And so one of the things that's really important, like one of the things I'll talk a lot about is the reason you want to match expectations is you just make your game easier for people to learn.</v>
+
+00:13:06.690 --> 00:13:07.040
+<v Speaker 1>That</v>
+
+00:13:07.730 --> 00:13:13.620
+<v Speaker 1>one of the giant things of game design in general is what I call barrier to entry. That</v>
+
+00:13:14.240 --> 00:13:21.010
+<v Speaker 1>there are, there are points when people can check out if you're game. Well, the biggest time people check out of your game is when they're trying to learn your game</v>
+
+00:13:21.680 --> 00:13:30.850
+<v Speaker 1>that people go, OK, I want to learn this and hopefully some impetus to learn and maybe they know somebody who already plays who enjoys it or whatever. There's something about the game that gives them they want to learn.</v>
+
+00:13:31.450 --> 00:13:32.690
+<v Speaker 1>They will then give it a shot</v>
+
+00:13:33.410 --> 00:13:43.640
+<v Speaker 1>and at the end of that. If they weren't happy, if it wasn't a good experience for them, most people, not all, but most people go, yeah, OK, I tried that. No, I'm not doing that.</v>
+
+00:13:44.900 --> 00:13:59.630
+<v Speaker 1>So the biggest exit point for barrier to entry, the biggest time people will leave your game is when they are learning your game. So one of the things that's really important is making sure that your game functions intuitively, that your game functions the way people expect it to function.</v>
+
+00:14:00.350 --> 00:14:30.200
+<v Speaker 1>And that one of the things that I'm going to hit the theme again and again is you want to understand what your audience expects and then deliver on your audience's expectations. Now, once again, it doesn't mean you can't surprise them. It doesn't mean you can't do things that are different than what they expect. You can, but you can't disorient them on every level of your game. Your game can't be nothing is what you expect. Because I'm telling you, if they play your game and there's no sense of comfort there, once again, remember comfort, surprise,</v>
+
+00:14:30.330 --> 00:14:49.270
+<v Speaker 1>completion, in that order. OK, this communication theory, the first thing you have to do is make someone feel comfortable. Nobody wants surprise until they feel comfort. And so the beginning of your game is you need to get them to understand the basics of what your game is. So they go, oh, I see. What? OK, I got it. I understand what you're trying to do.</v>
+
+00:14:50.440 --> 00:15:16.200
+<v Speaker 1>And when I talk a lot, for example, about, you know, 10 things every game needs, one of the things that I got into was the idea of your game needs a simple, easy, graspable concept. That's what I'm talking about, the hook. Now, the hook, usually something a step above that, something sexy draws than it. But inherent in the idea of a hook is I could sum up what my game is about so you can get the essence of what my game is. You know, magic at its core is fighting with magic. That's what it's about.</v>
+
+00:15:16.870 --> 00:15:33.120
+<v Speaker 1>You know, we're, we're magic users and we're fighting. You know, you don't need to know the word planeswalker. You don't need to understand all the logistics of how exactly everything works. That's in a nutshell what it is. And that sounds fighting with magical duels. That sounds like fun. So remember that</v>
+
+00:15:33.930 --> 00:16:00.900
+<v Speaker 1>one of the things I talk about fighting human nature, What I mean is you have so many, so many battles with your game, You've got to get somebody to learn your game. You gotta get somebody to want to play your game a second time. You want to get someone to continue to play your game. You want to get someone to invest in what you're doing, to learn about your game, to want to, you know, get better at it. There's a lot of things you're trying to get your players to do and part of that is you need to make them feel</v>
+
+00:16:03.530 --> 00:16:33.720
+<v Speaker 1>comfortable for first and foremost, you made they have to understand what's going on. Now, once again, we'll get to surprise. You have to excite them. You have to do some things they don't expect. I'm not saying, yeah, if everything is is run in the mail at some point, go yawn, I'll move on. I mean, they might also leave your game because nothing about them entrances, you know, like here's the the the double edged sword you have to deal with. On one side you want to make sure they can understand it and appreciate it and that they aren't overwhelmed by it. But on the other side, you want to be enough different enough novel.</v>
+
+00:16:33.800 --> 00:17:04.510
+<v Speaker 1>They're like, oh, this is fun. This is, you know, I haven't done this before. And there's a balance you want to get there. There's a balance between being easy to understand and and being novel. So this first lesson fighting human nature, I'm not talking about the novelty at all. Humans like surprise, humans like novelty. So this lesson is not don't have novel things with this lesson is, is be careful when you make your game what your audience expects to do and be really, really careful when you're game fights that expectation.</v>
+
+00:17:05.440 --> 00:17:12.460
+<v Speaker 1>Because if you're game is fighting sort of what the people's intuition is, they're going to keep getting it wrong.</v>
+
+00:17:13.350 --> 00:17:39.390
+<v Speaker 1>And once again, we learned this lesson during to spend, but I will just repeat it one more time, which is it doesn't matter if you clearly spell out to your audience what they're supposed to do. Suspend clearly spelled out what we're supposed to do. A little confusing, I guess, because it would have a lot of operations to it. But this idea that Oh no, no, as long as I explained to my audience, things will be fine. Not good enough. It is not good enough. It's not a matter of just explaining people. And once again,</v>
+
+00:17:40.670 --> 00:17:56.290
+<v Speaker 1>you will write rules. People will read as little of your rules as they can. People will try to figure out your game without reading your rules that they can help it. And even if they read your rules, most people do not read all the rules. They skim the rules. They just, they want to figure out the thing they need to know the skim to find it, find it good, got it and go.</v>
+
+00:17:57.980 --> 00:18:18.080
+<v Speaker 1>Like one of the things, for example, with focus testing is I've watched people play games and not just magic, but different games through focus testing. And it is bang your head on the table frustrating at times because there are things that people will do where they just clearly they will just not even try to use any of the tools you have to help them learn how to play.</v>
+
+00:18:18.850 --> 00:18:45.710
+<v Speaker 1>You know, you will have you will spend months and months and months, sometimes years fine tuning your rules to get it to to a precision so you can teach people what you want to teach them and they'll just ignore it. Where's yet, though, And the craziest thing is they'll read the rules and they'll still get it wrong. You know, they'll even because they'll just jump to conclusions. People will jump to conclusions. And really a lot of this lesson is saying is, is</v>
+
+00:18:46.510 --> 00:19:17.600
+<v Speaker 1>people have a natural like one of the things about writing when I back when in my writing days, one of the things they teach you is there are certain expectations for how stories function. There are certain ways, there are certain kinds of stories, certain structures to stories. And that it's not saying that you can't ever break those structures, but you need to break them for a reason and not just to break them. Like you should not write a story where things don't function the way stories functions just to do it as a general rule of thumb. That's horrible, doing things just to do them. Actually, it's a whole lesson I'll get to later.</v>
+
+00:19:18.560 --> 00:19:37.950
+<v Speaker 1>You, you want to make sure that what you were doing naturally flows. And that's one of the reasons play testing is so important is you wanna make sure that your audience, that your audience is gut instinct is lines up with what you're asking them to do because their gut instinct is wrong. Then you're going to run into problems time and time again.</v>
+
+00:19:39.520 --> 00:20:08.690
+<v Speaker 1>And that's why I think the best game makers understand. Ohh. So for example, here's a story, this is from a story from a whack on the side of the head, my favorite book by Roger Vanek. He talked about how they were trying to figure they went to a college and they were trying to figure out where to put the sidewalks. They want on the sidewalk to be the most efficient possible because there was a grass. There's like a big grassy, you know, giant grassy center court. And they, they wanted to put sidewalks in, you know, passes.</v>
+
+00:20:08.840 --> 00:20:39.770
+<v Speaker 1>So that people could walk on the path, but they didn't know what was the correct way to do it. How do people wanna walk? They wanna walk straight across. They wanna kind of curve like what was the what was the way to do it? And so the solution they finally came up with was don't put it in the end. Just let people walk across the lawn and then come back in a month after school started and see what's worn. What natural path did they take, you know, when people weren't had No, you know, the idea was let people kind of naturally form their past. And then once we realize that</v>
+
+00:20:39.900 --> 00:21:10.070
+<v Speaker 1>and turn those into the actual paths. And I think that is very similar to what we're talking about here, which is that part of what you're trying to do on some level is metaphorically what I just explained is you wanna make your, you want to figure out what pathways your audience wants, your players want. And sometimes what you do is put it out there and see where they go. What do they want to do? How do they want to do it? And that one of the things you have to be open with as a game designer is being open to, they may not do it the way you first thought</v>
+
+00:21:10.140 --> 00:21:10.450
+<v Speaker 1>do it.</v>
+
+00:21:12.020 --> 00:21:32.980
+<v Speaker 1>And the reason is that you have a game, a game designer's mind. There's things you're trying to solve and there's a lot of attraction to things that are simple. There's a lot of traction to things that combine components to lower complexity. Like there's a lot of things using game designer want to do to make things,</v>
+
+00:21:33.810 --> 00:21:45.040
+<v Speaker 1>I don't know, feel better. And a lot of times those instincts are dead on. But sometimes they tend to fight what players want to do. Sometimes you'll talk yourself out of like, well, like a good example is,</v>
+
+00:21:46.770 --> 00:22:15.100
+<v Speaker 1>I mean, I actually use this, I used this example later on for a different lesson, but I want to go the specifics of it. But there was a mechanic that I someone played, tested it and they, they used it a certain way. And they're like, aren't players just going to do this? And my answer was, oh, no, no, no, they're not going to do that because that's not, you know, I don't think they'll do that. I think they're going to do this other thing. And he's like, well, but that's if they want to win, this is the way they should do it. And I'm like, yeah, yeah. But that's not the fun way to do it. They should do this other way</v>
+
+00:22:16.400 --> 00:22:43.740
+<v Speaker 1>that I just didn't listen to him, you know, and really what he was saying was he's like, look, I'm going to try to do what I'm going to do. And this is naturally, it seems like what I according to what you're doing, this is what I'm posed to be doing. And I, I talked myself out of it. And you really, really have to listen to your plate after your playtesters are going to give you golden information about what is and isn't matching their own intuitions. And they're not going to word it like that. By the way, they're not going to say I have intuition this. They're just going to say that things feel off or things feel wrong.</v>
+
+00:22:45.230 --> 00:22:45.900
+<v Speaker 1>And once again,</v>
+
+00:22:47.470 --> 00:22:49.980
+<v Speaker 1>the reason why I do a lot of different testing with different people is</v>
+
+00:22:51.650 --> 00:22:56.660
+<v Speaker 1>anyone individual might believe a sort of thing or feel a certain way. But what you'll find is</v>
+
+00:22:57.470 --> 00:23:01.520
+<v Speaker 1>people as a whole will tend to lean in One Direction that human nature will kick in. And</v>
+
+00:23:03.070 --> 00:23:34.680
+<v Speaker 1>usually there's something that the majority will do. They have to spend. Not spend is a good example. There are people I met, Eric Lauer being one of them who is complete. That's not how they function. You know, Eric is a very logical person. And to him, look, there's a rule when creatures come into play, you can't attack with them. Well, why does this one work different in that role? That would that our thing was hard for him. It didn't intuitively mess how he thought the game wouldn't work. But he was the minority. The majority of players didn't feel that way, didn't function that way. So we made the change because we wanted to match where the majority of players were at.</v>
+
+00:23:34.980 --> 00:23:40.520
+<v Speaker 1>But be aware when you're testing that they're going to be individuals that don't follow that It's not 100% of your audience.</v>
+
+00:23:41.350 --> 00:23:57.760
+<v Speaker 1>Human nature is consistent overall, but it's not consistent on a person by person basis. There might be things that most people do that one individual person can't do, which is why play testing with a group of people is important. You want to not just try one or two because you can get swings when you're using a small sample size. You need to test enough.</v>
+
+00:23:59.640 --> 00:24:03.330
+<v Speaker 1>So another thing, by the way, is that they talk about complexity a little bit.</v>
+
+00:24:05.510 --> 00:24:17.430
+<v Speaker 1>One of the other, the other big things that is a game designer you're always facing is the specter of complexity. When I talk about our exit points, one of the big things that causes exit points is complexity.</v>
+
+00:24:18.990 --> 00:24:21.510
+<v Speaker 1>People, as a general rule, don't like to feel dumb,</v>
+
+00:24:22.180 --> 00:24:32.720
+<v Speaker 1>you know, And that when they can't get something, when they're trying to play a game or do it right, do whatever. If at some point they just can't understand something, they quit it because it makes them feel bad</v>
+
+00:24:33.320 --> 00:25:03.390
+<v Speaker 1>that you don't want to feel bad about yourself. And there's a point in which you're like, I don't understand this. I don't want to deal with it anymore. It's just it's making me feel bad about me. Now. Be aware once again, the gamer might the there's a big difference between what we call core and casual gamers. Core gamers are gamers that like gaming is their hobby. They are dedicated to gaming. They are very hard. You know, they are hardcore. They are serious about their gaming. And a core gamer is willing to spend a lot more time and energy figuring something out.</v>
+
+00:25:03.540 --> 00:25:19.390
+<v Speaker 1>They'll play much more complex games, they'll play, they'll play more copies of the game without completely understanding that what's going on. Like 1/4 gamer, we'll, we'll often play the same game multiple times without completely understanding it so they can figure it out. But that's a core gamer. That's someone who's like gaming is their thing,</v>
+
+00:25:20.220 --> 00:25:26.820
+<v Speaker 1>a casual gamer, somebody who gaming is fun. It's usually more social, but it's something that they enjoy doing. But on a</v>
+
+00:25:27.560 --> 00:25:28.530
+<v Speaker 1>they don't do it as often</v>
+
+00:25:30.570 --> 00:26:00.330
+<v Speaker 1>usually. And a casual gamer, it's more about the experience. You know, it's less about sort of conquering the rules that the gaming is a means usually to some other things, not a means unto itself. With the core gamer, the game itself is a lot of the shooting for. So the casual gamer, one of the things is their bar for for is much lower. They're not going to play multiple times like one of the they used to say is you need to be able to give an elevator pitch of your game.</v>
+
+00:26:00.400 --> 00:26:07.180
+<v Speaker 1>What I mean by that is describe your game and justice a few senses to get somebody to play. Why should I play this game? Well,</v>
+
+00:26:08.020 --> 00:26:31.700
+<v Speaker 1>here is in a very short amount of time, in just a few sentences, something that makes me go, oh, that sounds interesting. Now, your elevator pitch doesn't have to be verbal. Like one of the things Magic can do is like, look at these cards. These are really pretty. I mean, there's different ways to draw people in. Could be visual, could be oral. I mean, could be. There's lots of ways to do it. But you need something that says, OK, in a very short period of time, in under 30 seconds, I make people go, oh, that's interesting. I want to know more</v>
+
+00:26:32.640 --> 00:26:45.200
+<v Speaker 1>then, um, when you're teaching them what you want to do is for at least for a casual player, you want to sort of have really no more than 5 minutes to explain the rules. And even then, the shorter can be the better.</v>
+
+00:26:46.020 --> 00:26:56.680
+<v Speaker 1>You know, I'm, I'm more, I'm more core gamer is, is willing to like play through an entire game without understanding what's going on. But a casual gamer, if they've finished the first game and they don't, they don't understand what's going on, mean,</v>
+
+00:26:57.550 --> 00:27:01.810
+<v Speaker 1>hey, they didn't have fun and B, they don't understand things, they're more likely to walk away.</v>
+
+00:27:02.500 --> 00:27:07.510
+<v Speaker 1>So another thing that's really important about sort of matching intuition and matching human nature, if you will, is</v>
+
+00:27:08.160 --> 00:27:11.330
+<v Speaker 1>the more that you do what the player expects you to do,</v>
+
+00:27:12.120 --> 00:27:38.450
+<v Speaker 1>the less there is to learn. But this the easier learning is that if I want to play a game and my first intuition, the first thing I would do is wrong is not playing the game correctly. Well, then I'm just more likely to bounce off the game. But if I do something and then my my gut instinct is to do something and that's just the right thing to do, it'll feel more natural. And that's a general sense of, I don't think people think of games this way. But when people,</v>
+
+00:27:39.250 --> 00:27:42.290
+<v Speaker 1>for example, think, use my dressing, dressing room metaphor,</v>
+
+00:27:42.970 --> 00:27:55.750
+<v Speaker 1>I want to buy a piece of clothing. So I go to the store and I take and I go the dressing room and I put it on and I look at it. I go, do I like how it feels or like how it looks? You know, am I happy with the experience that is this piece of clothing?</v>
+
+00:27:56.740 --> 00:28:09.450
+<v Speaker 1>I would argue that games there's a dressing room period that that when you first enter a game, the first time you play a game, you are trying that game on for size. Do I like it? Do I like how it feel? Do I sort of like how I look playing it?</v>
+
+00:28:11.360 --> 00:28:40.930
+<v Speaker 1>And The thing is, the more negative emotions that are attached to that experience, the more I feel awkward or I feel dumb or I just feel out of sorts. You know, if I play the game and I'm happy and I'm laughing, I'm having fun and I'm, you know, it is creating positive emotions, then that's a good dressing room experience. I'm like, oh, this look, this dress looks good or this shirt looks good or this these pants look good and I'm buying it, you know, but if I have a negative experience and I'm like, oh, I don't understand or wait a minute, that doesn't feel right. Or if I have some experience, it just</v>
+
+00:28:41.320 --> 00:28:56.140
+<v Speaker 1>where I'm at. I'm ill at ease where something just feels off. I'm more likely to give up. I'm more likely to go and not for me. These pants, not for me. You know, the shirt, not for me. This dress, not for me. Whatever I'm trying on, not for me.</v>
+
+00:28:58.100 --> 00:29:10.940
+<v Speaker 1>And that I think one of the things when I talk about fighting against human nature is an uphill battle is you don't want an uphill battle. You don't wanna battle you. When you're trying to get something to learn a game, you want to be careful. I mean,</v>
+
+00:29:11.600 --> 00:29:33.050
+<v Speaker 1>once again, it's not the players can't have any stress in the system, but you want the stress in the right places. You want them. Like for example, if there are a lot of interesting decisions and they're hard decisions to make, that's not necessarily going to drive a player away. I mean it, it can depending on the kind of player, but pretty much like, oh, here's a neat and interesting decision that is more fun,</v>
+
+00:29:33.760 --> 00:29:34.340
+<v Speaker 1>you know,</v>
+
+00:29:35.000 --> 00:29:44.710
+<v Speaker 1>but I don't understand how to play. That's not fun. You know, you're willing to accept a little bit of it because in learning there's like, OK, I I don't know. And I need to do things to know.</v>
+
+00:29:46.030 --> 00:30:03.250
+<v Speaker 1>But fundamentally, there's a point at which you're like, OK, I just don't get it. OK, moving on. Not for me, not my pants, not, you know, I've tried it. It's not for me. And that one of the things that is so important about matching the expectation is that when things make players</v>
+
+00:30:04.450 --> 00:30:08.390
+<v Speaker 1>disconnect, that that's a negative emotion that this, you know,</v>
+
+00:30:09.290 --> 00:30:21.210
+<v Speaker 1>leans them closer to stepping away from your game. And so one of the things that I talked about not one fight human nature is you want to sort of have your game when someone plays it just it feels right.</v>
+
+00:30:22.880 --> 00:30:23.460
+<v Speaker 1>And</v>
+
+00:30:24.330 --> 00:30:54.620
+<v Speaker 1>I mean, I'm gonna get into this a little bit on in my next my next. I mean, notice these products are not consecutive, but I'll I'll be doing this series from time to time. And next time I'm going a little bit of perception. So this this overlaps that lesson. But you do want things to feel correct for the audience. And it's really important that when they first start playing, you want your rules to feel correct. You want your game play to feel correct. And part of doing that is, is understanding expectations and meeting expectations. Now, once again,</v>
+
+00:30:54.720 --> 00:31:25.010
+<v Speaker 1>that is not saying you can't surprise people. That is not saying you can't do something they don't expect. That's fine. And by the way, that is fun. The correctly surprised, correctly used is a lot of fun. But the place not to put that is where it's like, well, people would expect to do this. So I'm just going to change this for no reason. I'm just going to change it to change it. I'm just going to do this to be different. That is very dangerous. And like I said, I'm not saying you can't do that, but there needs to be purpose behind it. You need to be making the change</v>
+
+00:31:25.090 --> 00:31:27.150
+<v Speaker 1>very much because you mean to make the change.</v>
+
+00:31:28.670 --> 00:31:48.420
+<v Speaker 1>So one of the big I'm trying for each of these talks, I started talking about the take away. So my big take away is the importance of play testing and the importance of understanding. So it's not just a matter of play testing, It's a matter of when people play, watching people and try to get a sense of where there's discomfort.</v>
+
+00:31:50.390 --> 00:31:54.720
+<v Speaker 1>I mentioned this before another podcast, but one of the signs of whether or not</v>
+
+00:31:55.470 --> 00:31:59.130
+<v Speaker 1>your game is succeeding is by watching the emotions of the player.</v>
+
+00:32:00.420 --> 00:32:00.860
+<v Speaker 1>Um,</v>
+
+00:32:01.600 --> 00:32:04.090
+<v Speaker 1>are they experiencing things that are</v>
+
+00:32:04.890 --> 00:32:07.020
+<v Speaker 1>in general, are they having</v>
+
+00:32:08.460 --> 00:32:38.190
+<v Speaker 1>positive emotions? And that doesn't mean, for example, they can't like, yes, people can get puzzled by things or people can have moments. Like, I'm not saying that all your emotions need to be happy emotions, although be careful in general, You know, you don't make games too many unhappy things. There's times and places for games. Like, I'm not saying you can't make them, but you need to be careful with that. But you want to make sure that whatever it is, you want your, your players to experience like, and this is not, this is an upcoming lesson too. These all tie together which</v>
+
+00:32:38.380 --> 00:32:39.320
+<v Speaker 1>think of these last. Listen,</v>
+
+00:32:40.960 --> 00:32:48.290
+<v Speaker 1>you want to make sure that when you are play testing and watching, you want to understand what are you trying to evoke out of your audience and then watch and make sure that is happening</v>
+
+00:32:49.860 --> 00:32:50.350
+<v Speaker 1>and that</v>
+
+00:32:51.270 --> 00:33:22.300
+<v Speaker 1>another thing is after you're done play testing. That's important. Once you're done play testing, the next thing you wanna do is you wanna get feedback directly from your audience. In R&amp;D, we tend to write up notes. Usually when you do focus testing, you talk directly with them. You have somebody who's an expert at asking questions, Usually not. You come in and ask the questions. It's important by the way, that the people answering the questions don't think that you are the person has anything to do with the game. If you happen to be the one asking them questions. Once again, I'll trust this again, if people believe</v>
+
+00:33:22.390 --> 00:33:52.420
+<v Speaker 1>that saying something bad will upset the person they're talking with, they won't say it. It's just general human nature that don't fight human nature generally that if if I feel like ohh, I say something and I'm affecting the person right across from me, like, Oh well, I'm you know, you've learned sort of societally to not do that. So if you are the one asking questions about your game, do not let them know that you're the one that made the game. It will warp their answers. But anyway, talk to them, get feedback, find out what they like and didn't like.</v>
+
+00:33:52.500 --> 00:33:53.000
+<v Speaker 1>And then</v>
+
+00:33:55.060 --> 00:34:24.500
+<v Speaker 1>if something didn't work for them, try to figure out why it didn't work. What about it? A really good question to ask people if they do something incorrect is what do they expect to happen? And why do they expect that to happen? You'll get very illuminating answers. A lot of times you'll say, oh, well, expected this because blah. And you're like, oh, that's a very good point. OK, let me take that into account and you can learn a lot of things. Wow, he funny. As I'm talking, I'm realizing how many other lessons I'm hitting. But I will come back</v>
+
+00:34:24.570 --> 00:34:24.930
+<v Speaker 1>down</v>
+
+00:34:26.450 --> 00:34:31.670
+<v Speaker 1>anyway. I'm not too far from my daughter's school today, so let's let's wrap this up. So anyway,</v>
+
+00:34:34.910 --> 00:34:43.390
+<v Speaker 1>you do not want to fight human nature if you can help it. And that one of the things that in short, what that means is</v>
+
+00:34:45.180 --> 00:34:56.490
+<v Speaker 1>when you make your game, you want to understand the essence of your game. What is your game trying to do? You want to have a nice elevator, patchable version of it that you can explain to somebody. And then you want to make sure that you're game</v>
+
+00:34:57.740 --> 00:35:28.750
+<v Speaker 1>flow wise matches the expectations. Meaning when you give the elevator pitch, you're going to set expectations. And this is really important too. A lot of matching human behavior is proper expectation setting that you want to make sure that your audience knows what they're expecting so they can expect the right thing. If you've set false expectations, the problem you run into is people will be ill at ease. They will they will feel bad because they expected one thing and got a different thing. So sometimes</v>
+
+00:35:28.890 --> 00:35:41.830
+<v Speaker 1>when with human nature, it's a problem of not properly setting the expectations for what to expect, that if you set it properly, it will match, you know it will match human behavior, you just set it up incorrectly. That's a very common problem.</v>
+
+00:35:43.370 --> 00:35:47.620
+<v Speaker 1>So anyway, I'm hoping today that you see</v>
+
+00:35:48.570 --> 00:36:16.410
+<v Speaker 1>your audience is human. They have certain expectations. It is your job as the game designer to understand those expectations and pick your battles carefully. Once again, I'm not saying you can never sort of fly against expectation or intuition, but you really got to be doing it for a reason and don't do it a lot. In general, you should understand what your audience expects, how they expected, and then use that as a template to figure out how best to make your game.</v>
+
+00:36:17.460 --> 00:36:21.280
+<v Speaker 1>And I will, I believe, almost disbelieve with this thought, which is</v>
+
+00:36:23.520 --> 00:36:53.550
+<v Speaker 1>you, the person making the game are trying. Your goal is not to test your audience necessarily. Your goal is to provide an experience for your audience and that involves testing them. But you're not testing what they're willing to do to play the game. That's not where you want to test them. You don't want to test them to see are they willing to to do this? You want to test them. And here's the fun thing. Here's the things they want to do and test them in the spaces they want to be where the fun lies.</v>
+
+00:36:53.630 --> 00:37:22.610
+<v Speaker 1>Once again, I'm talking about lots of other lessons. But anyway, human nature, it's important to understand that you need to understand human nature to be a game designer. Follow that through. Understand what your game, what your players want. Use play testing to understand that. Talk with them to understand it. And then once again, do not change the players to match your game. Change your game to match your players. OK guys, I'm now in a parking space. We all know that means means the end of my drive to work instead of talking magic. Time for me to be making magic. I'll see you guys next time.</v>
+

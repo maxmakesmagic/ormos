@@ -1,0 +1,509 @@
+WEBVTT
+
+00:00:00.930 --> 00:00:31.580
+<v Speaker 1>I'm pulling my driveway. We all know what that means. It's time for the drive to work. OK. So one of the questions I get all the time is what is it like from a day-to-day perspective? And there's something that I haven't talked too much about that I thought I would spend today talking about to give you guys sort of an interesting aspect of the job. And the reason this came up is recently George Fan, creator of Plants Versus Zombies, has come to work at Wizards for six months.</v>
+
+00:00:31.860 --> 00:01:01.910
+<v Speaker 1>Um, he expressed that he's a longtime magic fan and he expressed that he, the way it came about is he had entered the GDS 3, the 3rd grade designer Surge and wrote to me and said that one of the reasons he entered was he had always thought it'd be fun to work at Wizards for six months. Now he didn't obviously make the top 8, but I said to George, I go, oh, well, if you're interested in doing that, that's something we could probably work out. So we brought George in And so for six months, he's coming in sort of a, something new. We're trying where this is not a long term job. This is just like,</v>
+
+00:01:01.990 --> 00:01:12.880
+<v Speaker 1>hey, here's a cool, here's something George has always wanted to do. We'd love to have George for awhile, pick his brain. And so for six months, we get George in the office. Anyway, the reason I bring that up is that</v>
+
+00:01:14.220 --> 00:01:44.460
+<v Speaker 1>while trying to introduce George, what's going on? There's a phenomenon that I'm aware of. But just hearing somebody on the outside say it really brought it to the forefront, which is one of the quirky things about magic is magic is constantly making different things and that all those things are going on at once, but always at different levels. So what I want to do today is talk about like today, right now, what is going on like in my life, in Wizards life in R&amp;D.</v>
+
+00:01:44.540 --> 00:01:49.560
+<v Speaker 1>So and give you a sense of the just the amount of things that are happening.</v>
+
+00:01:50.720 --> 00:02:15.470
+<v Speaker 1>OK, so let's just start with we're talking to start with main sets. OK, So this month is August. I know I recorded ahead of time. So it's August when I'm saying this. So this month we started fencing exploratory design. And as I explained, I did a whole podcast on exploratory design. The idea is we get a bunch of people and we're just</v>
+
+00:02:16.370 --> 00:02:46.910
+<v Speaker 1>sort of spitballing about like, I have general ideas of what, what fencing wants to be. And so I have areas I, I want us to look at and we're exploring the areas. And the idea of the exploratory design is you go wide but shallow and that we're trying lots of different things to sort of get a sense of, OK, we're going to build the house. My house metaphor vision design is going to build the house. But wow, we need to do some research. What are the hot houses right now? And if you know if we want to do certain styles,</v>
+
+00:02:46.980 --> 00:02:52.730
+<v Speaker 1>what does that mean? And it's kind of doing the prep work before you actually start doing the building, if you will.</v>
+
+00:02:54.380 --> 00:03:23.350
+<v Speaker 1>And so exploratory design is a lot of blue sky design. And it's all about sort of getting a general sense of where we're going. OK, so we started fencing exploratory design. Also at the same time this month, equestrian vision design is starting. So equestrian. So we already had exploratory design for equestrian, but now we're getting division design. Now we're trying to figure out what exactly how are we going to build this? What are we going to do to build it?</v>
+
+00:03:24.850 --> 00:03:54.690
+<v Speaker 1>And I'm on the team, I'm not running the team, but I'm on the equestrian team. And like, part of my job is even when I don't run articular vision design teams, I oversee the whole process. So I work with the person that's running it to make sure that everything is going smoothly. Also, I tend to be on the design teams. I find it's just the easiest way to keep track of what's going on and it allows me to contribute and make cards and suggest ideas. So a question designed to start. We have four months. So normally exploratory design goes anywhere from 2:00 to 3:00</v>
+
+00:03:54.770 --> 00:04:00.060
+<v Speaker 1>depending on the project. Vision goes on for four months. So we're starting a question right now,</v>
+
+00:04:01.810 --> 00:04:02.860
+<v Speaker 1>and</v>
+
+00:04:04.540 --> 00:04:15.560
+<v Speaker 1>that is us trying to figure out what exactly it is and how it's going to work. And we're gonna we're gonna build a file as to sort of demonstrate what the vision of the project is so the set design can later build the real set.</v>
+
+00:04:16.770 --> 00:04:27.270
+<v Speaker 1>Also diving vision is not done yet. December tends to be, we have time off for the holidays and based on kind of how our</v>
+
+00:04:28.040 --> 00:04:56.450
+<v Speaker 1>vacation thing works, a lot of people take vacation in December. The short version of it is that it doesn't turn over if you don't use it. And so at the end of the year, people like, oh, I have vacation left. If I don't use it, it's going to go away. I'm going to use it. So December tends to be a low ebb in our office. And so normally there are 12 months out of the year. There's three sets in Vision 444, but we've started doing for the fall set is starting not in</v>
+
+00:04:57.610 --> 00:05:27.620
+<v Speaker 1>September, but in August, meaning that the four months can end before we get to December. So we're not sort of losing a month to the holiday, the holiday month. And this means there's an overlap of a month. Not a giant deal, but doesn't mean. So I am right now trying to finish diving. I'm running diving and diving is in the last month. Now we're like today we have a play test with the play design team to sort of get a sense of, OK, what do you think of this mechanics? Are these workable? Do you think</v>
+
+00:05:27.690 --> 00:05:43.130
+<v Speaker 1>they're balanceable? You know, are there are issues with them? Vision meets with play design at a 2 month mark and the three month mark to get a general sense of where they're going. And the big reason we would play design is to understand like</v>
+
+00:05:43.810 --> 00:05:51.240
+<v Speaker 1>are we trying to build something that fundamentally set design is going to have trouble building? And that's really important to understand of</v>
+
+00:05:53.110 --> 00:06:12.890
+<v Speaker 1>can this mechanic a be balanced, but also can this mechanic, if we want to make, if we want to push it for constructed, will this mechanic let us do that or are there problems inherent in the system? Now, sometimes the problems are, oh, it's doing something we've never done before. We have to figure out how to do that and by meeting with Play Design early,</v>
+
+00:06:13.850 --> 00:06:18.940
+<v Speaker 1>it helps sort of set the tone and get people to understand what exactly it's trying to do so that they can they can do it.</v>
+
+00:06:20.110 --> 00:06:33.820
+<v Speaker 1>OK. That is diving cricket. Cricket is in set design. I hand it over cricket. Three months ago when I stopped doing cricket, I, I let cricket vision design. Cricket is now in set design. I know that said</v>
+
+00:06:36.050 --> 00:07:05.440
+<v Speaker 1>they had a play test yesterday and I have had a chance to play with a little bit of real excited with Dave Humphries is still set lead. I'm excited with what Dave is doing with the set and I feel like Vision came up with a really cool idea. Set design is really following through on that, finding ways to improve on it, which is what set design does. And anyway, so that is an early set design. OK, then we get to baseball. Baseball is in middle of set design, so it is definitely sort of chugging along.</v>
+
+00:07:06.220 --> 00:07:35.580
+<v Speaker 1>You know, it, it's had, it's been set designed for a while now, but there's still lots of things to figure out. So they're still working. Then archery. Archery is in late set design. Archery is, I think they have another month before set designs up, a month or two before set design is up, but they're in the final stages, sort of figuring out the final touches before they hand off the file. Then you get core 2020. Core 2020 I think is in like super late set design. I think it's almost done</v>
+
+00:07:35.650 --> 00:07:59.130
+<v Speaker 1>set design. I don't think we haven't seen the slideshow yet. So it's not usually we see a slideshow in into the Magic meeting. We'll see a slideshow usually a week or two before it needs to get handed off. So that when we see this live show, that's a sign that it's super late in the process. It's enough time to give a few notes, but it's usually the sign that it's really coming close to being handed off,</v>
+
+00:08:01.160 --> 00:08:12.780
+<v Speaker 1>I think. Then we get to milk. So milk is the fall of the sorry, the spring set of 2020,</v>
+
+00:08:14.180 --> 00:08:38.570
+<v Speaker 1>is that right? 2020? No, of 2019, it's next year's, next year's from set and that is basically done. I don't think it's been, I think it's still in caps. Caps is the department that sort of lays everything out, makes the digital files like we make cards and then they have to turn them into something that the printer can print. So I think I think milk is in caps</v>
+
+00:08:40.160 --> 00:08:51.470
+<v Speaker 1>and then after that we go back. It's Robbie Niko Allegiance. So that said is done. In fact, that said, I'm not sure if that the printer yet or not, but it's close if it's not already there.</v>
+
+00:08:52.930 --> 00:09:23.700
+<v Speaker 1>And that's, that we're, I know marketing, marketing is starting to do all their preliminary work on milk and on Ravnica allegiance and on guilt of Ravnica. I mean, they, I think they're starting milk right now. So the other two sets are sort of inflow. So once we're done and we hand it off, then the marketing team is trying to figure out, OK, how are we selling this? What's the set about? What's the theme? What kind of advertising you want to do? You know, how do we want to get people excited for the upcoming set? So they're busy working on that.</v>
+
+00:09:23.910 --> 00:09:54.040
+<v Speaker 1>Also at some point we have to do the release plan, which is OK, what is the pre release? How are we going to let people know about the set, what cards we want to show first? What do we want them to know? What kind of articles do we want to write? You know, we have to figure out. So we get to like gills around Mecca, which is printed already and it's going to come out this fall or it's printing. I'm not sure if all of its done printed, but some of it's printed because what happens is once they do the first print, they send it back to us to do what we call a print test so that we can</v>
+
+00:09:54.110 --> 00:10:24.070
+<v Speaker 1>figure out whether there's something, you know, is it being printed correctly? Is there some steak or something. And I know we did the print test already on Gilda Radner. So at least the printing is started now. Gilda Radner has coming up pretty soon. Guilds Ravnica. I in fact, next week, I think I, I write my preview article because I work about a month ahead and the previews are about, as I talk a little over a month ahead of the previous happening. So we have to walk through all the different things we need to do to preview</v>
+
+00:10:24.160 --> 00:10:24.510
+<v Speaker 1>set.</v>
+
+00:10:25.190 --> 00:10:54.620
+<v Speaker 1>OK, so after that, then we get to core 2019. Well, that's that just came out from my timeline. It came out recently. And so I'm dealing with all the repercussions of that, of people having questions or people having issues or doing interviews or whatever we need to do around that. I'm one of the spokespeople. So whatever the current set out is something that I have to deal with. And so like 2019 is most recent set out and even Dominaria, which is the step before it</v>
+
+00:10:55.240 --> 00:10:59.910
+<v Speaker 1>came out not that long ago, I'll still get some Dominarian questions. So still things that are on people's radar.</v>
+
+00:11:02.160 --> 00:11:05.800
+<v Speaker 1>So anyway, as you can see, um,</v>
+
+00:11:07.360 --> 00:11:12.690
+<v Speaker 1>I mean, and once again, I've only so far got into the standard legal sets.</v>
+
+00:11:14.750 --> 00:11:25.640
+<v Speaker 1>I right now have to keep track of fencing and equestrian and diving and cricket and baseball and archery</v>
+
+00:11:26.790 --> 00:11:27.980
+<v Speaker 1>and core 2020</v>
+
+00:11:28.910 --> 00:11:29.640
+<v Speaker 1>and Milk</v>
+
+00:11:30.480 --> 00:11:45.660
+<v Speaker 1>and arrived in Allegiance and Guilds of Ravnica and Core 2019 and to some extent Dominaria. Like all of that. All of that is going on now. That's just the core sets and of course that's just the standard legal sets.</v>
+
+00:11:46.380 --> 00:11:59.460
+<v Speaker 1>Now every year we do an innovative product, innovative product for example, this year was Battle Bond. So there's always an innovative product going on. There are always, you know, various other type products happening.</v>
+
+00:12:00.970 --> 00:12:12.960
+<v Speaker 1>So you know, there there's commander products and there's there's a variety of different things. So not only all the standard stuff going on, all that stuff's going on. OK, so we have to deal with</v>
+
+00:12:14.230 --> 00:12:15.830
+<v Speaker 1>I personally, for example,</v>
+
+00:12:17.200 --> 00:12:47.110
+<v Speaker 1>I've less responsibility for the non standard legal sets, but I still got to be aware of them. As someone who's in charge of making new mechanics, I, you know, if commander makes a new mechanic or if the innovative product makes a new mechanic, I need to track that I didn't know what it is. So I make sure that we're not doing something in one of our sets that's too similar to that. Like for example, Ipsilon changed what it's doing because Conspiracy 2 needed a mechanic that was too similar to what I was going to do in Excellon. So</v>
+
+00:12:47.200 --> 00:12:59.980
+<v Speaker 1>the fact that that set did that meant I had to change epsilon. So like you have to keep up on all the various products because even things that I'm not directly responsible for could have impacts on the things I'm directly responsible for. So I have to keep track of that.</v>
+
+00:13:02.000 --> 00:13:13.320
+<v Speaker 1>And then layered on top of that is the future. So another big part of my job is I have to help map out the future. Like right now I'm talking about sets that work</v>
+
+00:13:14.170 --> 00:13:19.140
+<v Speaker 1>currently working on, but we have to map out stuff like we have to sort of put together.</v>
+
+00:13:20.730 --> 00:13:46.590
+<v Speaker 1>I always called the seven-year plan, but it it varies how far advance we are. But we need to sort of let the powers that be at work sort of say, OK, here's what's coming. Here's what we're planning to do. Here are for many years in the future. Here's what we plan to do. Here's the sets we plan to do. Here's the world's we plan to use. Here's the story, the overall story we think we're doing. Like what exactly is going on? Let's sort of explain to you and tell you this is the essence of what is happening.</v>
+
+00:13:47.990 --> 00:13:48.320
+<v Speaker 1>And</v>
+
+00:13:49.630 --> 00:14:02.080
+<v Speaker 1>one of the things about my job is that I have to do a lot of sort of future testing. So for example, right now there's a project that came up that we're not sure what to do with.</v>
+
+00:14:03.450 --> 00:14:14.100
+<v Speaker 1>And it's the kind of thing that maybe it could be a standard legal set. Maybe it's supposed to be a supplemental set. Maybe it's something different. We're not quite sure it's, it's a neat idea. And when we first,</v>
+
+00:14:15.530 --> 00:14:32.700
+<v Speaker 1>when, when the idea first came out, we weren't quite sure. And so like I've been assigned, you know, in my, in my voluminous spare time to do some work on this and do some testing and say, OK, well, if you were going to make it, what would it be? How would you do that? So I have to think about that and start to put together ideas of, OK, if I were going to do something</v>
+
+00:14:33.570 --> 00:14:49.600
+<v Speaker 1>and I got to do some future work and pull some other people in and do that. Also, for example, there's another big project I'm working on right now where we are testing out some stuff and I have to do some prep work. In fact, some of the sets that we're testing aren't even in</v>
+
+00:14:50.440 --> 00:14:55.880
+<v Speaker 1>exploratory design yet. You know, some of the stuff we're looking at is stuff that's stuff that's</v>
+
+00:14:56.700 --> 00:15:03.160
+<v Speaker 1>I will often work on things that are ahead of us doing exploratory or vision on. And so I have to do some sort of</v>
+
+00:15:04.270 --> 00:15:18.120
+<v Speaker 1>a little bit of of head work to sort of test some things. And so that requires me sort of coordinating. And sometimes, like one of the things that's really interesting is the more I've been doing this job, the farther ahead I'm asked to look</v>
+
+00:15:19.200 --> 00:15:47.810
+<v Speaker 1>like. There was a period when I first started doing this job where really I was just looking at the block I was working on, the year I was working on. Yeah, I had a rough idea. I would do like 7 year sort of things where I would do like rough, rough ideas of where I'm going, but they usually were pretty rough. And as time has gone on, we were getting more and more detailed on where we're going. Like in order to get signed off, it's like, OK, well what's the world? OK, what's the story? OK, what's the mechanics? What's the mechanical heart</v>
+
+00:15:49.260 --> 00:15:54.650
+<v Speaker 1>then? I have to work on stuff that's like way in the future. Well, we know way little about, you know,</v>
+
+00:15:56.240 --> 00:16:14.280
+<v Speaker 1>and I'm sort of, and not only am I have to work and figure out sort of what each set wants to be, I also have to look at them in conjunction with each other and saying, well, if this set is this and this set is that, then there's synergy with this between the sets, but not too much synergy. So there's some the game will twist and turn. So I have to look at all that stuff.</v>
+
+00:16:15.600 --> 00:16:17.590
+<v Speaker 1>Umm, and then</v>
+
+00:16:19.950 --> 00:16:24.630
+<v Speaker 1>none of that is even looking at sort of on ongoing stuff like</v>
+
+00:16:25.930 --> 00:16:28.530
+<v Speaker 1>they have meetings that we do every week. I talked about some of these.</v>
+
+00:16:31.220 --> 00:16:46.900
+<v Speaker 1>Monday has a manager meeting. It doesn't always happen every Monday, but there's an R&amp;D manager meeting that I often have to go to. Tuesday there's the Magic meeting, which is a lot of download of information. Actually, Wednesday, Thursdays is now.</v>
+
+00:16:48.700 --> 00:16:49.300
+<v Speaker 1>What's it called</v>
+
+00:16:50.640 --> 00:16:55.830
+<v Speaker 1>like in the name of the meeting? It's the meeting where we talk about sort of fine, fine details,</v>
+
+00:16:57.360 --> 00:17:10.340
+<v Speaker 1>card crafting, carcraft used on Wednesdays and Thursdays. So now we sort of talk about things having to do with rule changes or color pie or structural things, things that are for design developers, very crunchy topics.</v>
+
+00:17:12.450 --> 00:17:18.470
+<v Speaker 1>Also like there's the console colors that I help oversee and that it's not a weekly meeting, but we need</v>
+
+00:17:19.710 --> 00:17:36.510
+<v Speaker 1>once or twice a month. And we go over different things that sets 1 to do and talk about whether it makes sense in the color pie and whether we're somehow violating what's going on. And a lot of times they'll make designs. We're like, well, this is a bend and it's OK, and this is a bend. And rather you not do this here, this is a break. You can't do that. And</v>
+
+00:17:37.920 --> 00:17:40.940
+<v Speaker 1>so there's a lot of overseeing on that kind of thing.</v>
+
+00:17:42.900 --> 00:18:05.130
+<v Speaker 1>And then like, for example, the great designer search just ended. There's always this ongoing, we need to find new employees and we need to train our existing employees. And there's a lot of work that goes into sort of teaching and getting people up to speed. If they're new, it just sort of getting the lay of the land for them. For example, George started. So I'm spending some time right now working with George, getting him up to speed.</v>
+
+00:18:06.480 --> 00:18:09.820
+<v Speaker 1>You know, Ari, the winner of the GS3, starts</v>
+
+00:18:11.630 --> 00:18:24.850
+<v Speaker 1>in September and so there's some prep work to make sure he has the tools and stuff he needs. So there's a lot of work, sort of people work that happens. And then</v>
+
+00:18:27.600 --> 00:18:31.180
+<v Speaker 1>one of the things that Rd. likes to do is have a lot of check-ins.</v>
+
+00:18:33.190 --> 00:18:38.220
+<v Speaker 1>Often we'll sit down and we'll take a look at a set in flight and see how the set is doing.</v>
+
+00:18:39.500 --> 00:18:58.110
+<v Speaker 1>Ideally, I try to peek in on sets from time to time. I mean, that's a whole other thing I need to do is I work on exploratory and vision and then I hand off the set. But I need to sort of keep, keep, keep abreast of what's going on a little bit just to make sure that they're not sort of fundamentally violated something that's core to the experience of what was built.</v>
+
+00:19:00.010 --> 00:19:28.900
+<v Speaker 1>I mean, usually it doesn't happen, but every once in a while, like with Dominaria where, you know, build, this wasn't really up in historic and historic was kind of the glue that was holding everything together. And I did spend a bunch of time, that's a good example where I had to go back and I had to sort of produce some material and design some stuff and sort of just prove the concept and then do enough research that I could sort of say, look, this is understandable by the audience and stuff like that. So there's that stuff that goes on,</v>
+
+00:19:31.120 --> 00:19:41.210
+<v Speaker 1>then there is play testing. And another way that I can stay up to date on different sets is play testing the set, and there's always play tests going on.</v>
+
+00:19:43.950 --> 00:19:48.630
+<v Speaker 1>Usually the way it works is the earlier the plate test is, the more likely it is to be</v>
+
+00:19:49.650 --> 00:20:03.880
+<v Speaker 1>either sealed or some sort of preconstructed deck. And then as we get later in the process you start getting drafting and constructed where people get to make their own deck rather than pre made for them.</v>
+
+00:20:05.390 --> 00:20:27.450
+<v Speaker 1>And, and the other thing is Rd. does these things called play days where roughly once a month, sometimes it's more than once a month. We don't do our normal work and instead we all play a set that's currently in some format, usually somewhere in set design and get a chance for everybody to be on board. Like the one thing that's unique about me is</v>
+
+00:20:29.000 --> 00:20:33.070
+<v Speaker 1>me and a few other higher up people is I have to track everything.</v>
+
+00:20:33.860 --> 00:20:38.840
+<v Speaker 1>Like some people who work in R&amp;D, they just work on certain projects and other projects are kind of</v>
+
+00:20:39.920 --> 00:21:09.890
+<v Speaker 1>a mystery to them. They don't work on them because I have everything has to go through me. I, I have more of an eye on everything. So I, I, and like I said, some of the higher up people sort of have to monitor everything. But that there's a lot of people, for example, where you'll work on archery, but not baseball or cricket and then work on diving, but not a question and that. So a lot of people will see one or two of the sets and maybe one of the supplemental sets. But, and for example, I have a lot of viewpoints on the main</v>
+
+00:21:09.960 --> 00:21:39.940
+<v Speaker 1>that's I've less on the supplemental slides. I'm aware of what's going on, but I, I've less vision on that or less visibility on that. So one of the things that's important play design, not play design play days is that it gives us a chance to sort of see where things are at and get a sense like normally for me, it's I either oversaw something or at least was on the vision design team. And then I can sort of say, oh, what is set design done with this?</v>
+
+00:21:40.010 --> 00:21:46.100
+<v Speaker 1>Where is it at? And I can give some notes and usually as someone who's worked on the file earlier on, there's some,</v>
+
+00:21:47.410 --> 00:21:55.960
+<v Speaker 1>there's some insight I might have of, oh, you know, you're doing this, but maybe think of that or you drifted a little bit from this idea. Have you thought about this and give a bunch of feedback?</v>
+
+00:21:59.450 --> 00:22:09.920
+<v Speaker 1>Also on top of that, I have my social media. I have well, so I write my article. I do that on Fridays</v>
+
+00:22:11.470 --> 00:22:15.980
+<v Speaker 1>and I have my podcast, which obviously I do as I'm driving to work,</v>
+
+00:22:17.180 --> 00:22:27.660
+<v Speaker 1>have my daily comic. I have my daily poll. I answered a lot of questions on my blog. Now, a lot of that is done outside of work. In fact,</v>
+
+00:22:29.200 --> 00:22:29.840
+<v Speaker 1>I mean, I, I,</v>
+
+00:22:30.750 --> 00:23:01.460
+<v Speaker 1>I write at home on Fridays, which I'm going to do my column. My podcasts are done on my drive to work and most of my social media is done outside of Wizards. I do a little bit at work, especially if there are sometimes issues pop up and I'll sometimes jump in if there's stuff to talk about. And the other thing that happens is sometimes I go to meetings and I arrive a few minutes early. So I'll hop on, answer a few questions. So usually if you see me answering questions during the day, I'll work day. That just means that I have some downtime and so</v>
+
+00:23:01.560 --> 00:23:31.950
+<v Speaker 1>while I'm waiting around I answer questions, but that's a whole other aspect and something else that I need to keep track of. One of the things that being spokesperson is there are issues that pop up during the day. Now having stuff like my blog and my Twitter make it pretty easy because people when they are concerned about something will directly contact me. So if there's some little mini crisis of the day, I hear about it because people and I use crisis servant quotes every day. There's something that somebody is upset about.</v>
+
+00:23:32.040 --> 00:23:41.040
+<v Speaker 1>Sometimes they're realistic things to be said about. Sometimes it's sort of OK. I'm not quite sure why you're so upset about this, but people will get very upset about random things.</v>
+
+00:23:42.590 --> 00:23:55.780
+<v Speaker 1>But part of my job also is keeping track of that. So in the morning I will do it. Definitely do a little bit of reading and just get a sense of OK, what are the topics of the day and what are people saying and get a little sense of that.</v>
+
+00:23:57.050 --> 00:24:00.800
+<v Speaker 1>Another thing that we do a lot of is we have a new</v>
+
+00:24:02.190 --> 00:24:25.120
+<v Speaker 1>software we've been using to communicate in R&amp;D. And so there's a certain amount of ketchup, like people will post things and write things and I have to, I try to do it daily, sometimes every other day, but just sort of catch up on, OK, what's going on and people have issues or what's, you know, sort of if there's any fighters in R&amp;D or any issues in R&amp;D, be aware of what that stuff is.</v>
+
+00:24:28.790 --> 00:24:30.650
+<v Speaker 1>And um,</v>
+
+00:24:31.830 --> 00:24:33.940
+<v Speaker 1>also there is</v>
+
+00:24:36.410 --> 00:24:44.780
+<v Speaker 1>also. I also have other projects, some of which all of which are, most of which I would say are magic related.</v>
+
+00:24:46.330 --> 00:24:50.480
+<v Speaker 1>There are some other projects I've been working on, some of which for quite a while.</v>
+
+00:24:51.850 --> 00:25:13.020
+<v Speaker 1>One of the things behind the scenes is that I like to sort of try some new things from time to time. So sometimes I work on stuff and then I'll pitch the powers that be. I'm getting, I'm getting tons of time, a little bit of time to work on some larger things that I think will help. And there's a variety of different means and ways that we do that. But I,</v>
+
+00:25:13.830 --> 00:25:14.560
+<v Speaker 1>you know,</v>
+
+00:25:16.070 --> 00:25:22.600
+<v Speaker 1>you know, today at lunch, I have one project that I have a lunch meeting that I'm going to have to talk to someone who's worked with me on the project and figure that out.</v>
+
+00:25:24.240 --> 00:25:54.370
+<v Speaker 1>You know, there are, there's a variety of different, you know, part of working on other projects that are normally I work on projects that are part of the pipeline. So there's, those are all on deadline and scheduled and like, OK, I gotta get this done by that time. But then I have projects that are a little looser, like I want to do something and I'm trying to either start something or tweak how we do something. And those are a little different. The timeline is a little different for those. So I don't need to.</v>
+
+00:25:54.850 --> 00:25:57.760
+<v Speaker 1>It's a little less deadline oriented, but on the,</v>
+
+00:25:58.800 --> 00:26:08.670
+<v Speaker 1>but on the downside, it requires me to be a little more proactive about sort of making sure that I keep continuing on to the next step since there's no sort of definitive deadline.</v>
+
+00:26:09.680 --> 00:26:10.330
+<v Speaker 1>Um,</v>
+
+00:26:12.310 --> 00:26:15.640
+<v Speaker 1>what else are we doing on time? Get some traffic today.</v>
+
+00:26:16.580 --> 00:26:32.830
+<v Speaker 1>I see I should. Normally I would be at work in about 4 minutes but I am not going to be. So I'm hoping this is one of those topics. I often talk with this. I have topics that are about half an hour, maybe stretch a little bit more, and then I get traffic and I'm like, oh, can I stretch a lot a bit more?</v>
+
+00:26:34.210 --> 00:26:36.570
+<v Speaker 1>OK, Other daily tasks to worry about.</v>
+
+00:26:38.070 --> 00:26:42.430
+<v Speaker 1>There are some logistical tasks that go come on and about.</v>
+
+00:26:43.510 --> 00:26:47.180
+<v Speaker 1>Like I said, we were constantly sort of changing how we do things.</v>
+
+00:26:48.810 --> 00:27:05.400
+<v Speaker 1>For example, the process by which we schedule meetings keep sort of changing. And so like, we recently revamped it and we've ramped in a way that hope will make it easier to do the thing we're doing. But there's growing pains whenever you change systems</v>
+
+00:27:08.820 --> 00:27:29.750
+<v Speaker 1>also every month. The way it works is we have a grid system. OK, So real quickly since I have the time, one of the problems is we have a lot of people and a lot of projects. Well, in order to work on a project, we have to make sure that we have a team and a time in which the entire team can meet.</v>
+
+00:27:31.460 --> 00:27:42.270
+<v Speaker 1>And one of the problems we used to run into was, OK, I put you on four teams and the teams go to try to find times to meet. And there's no time because there's no point where all four people have a free time.</v>
+
+00:27:43.010 --> 00:28:13.640
+<v Speaker 1>And, and, and like, people were missing meetings because, like, you know, the only time I could find free, one day a week you're going to miss and one day a week you're gonna miss it. And it just was ugly. So we came up with the thing we called the grid. So what the grid does is there's a master person who schedules the team meetings with consultation. And what they do is the grid are two hour chunks during the course of the week. Certain times are pulled out, stuff like the Tuesday meeting where we know that it's a conflict.</v>
+
+00:28:13.800 --> 00:28:14.700
+<v Speaker 1>And I think,</v>
+
+00:28:15.560 --> 00:28:18.880
+<v Speaker 1>um, there's like something like 15,</v>
+
+00:28:20.880 --> 00:28:31.290
+<v Speaker 1>14 or 15 two hour chunks that you can get out of the out of the work week. And then what you do is for each one of those, there are two slots per</v>
+
+00:28:32.360 --> 00:28:39.610
+<v Speaker 1>who's per slot. And all you need to do is make sure that those two teams don't overlap in people.</v>
+
+00:28:41.150 --> 00:29:03.610
+<v Speaker 1>So, you know, maybe fencing, fencing exploratory design and cricket set design both meet on Tuesdays from 11:50 and that that team is no overlap. So it's fine that they meet at the same time. And what you do is for each team there's three meetings during the course of the week and then you get mapped out. So</v>
+
+00:29:04.920 --> 00:29:18.470
+<v Speaker 1>fencing exploratory and cricket set design, for example, would meet at the same times all week long. Since those slots we know are are safe now exploratory design tends to use two of the two hour blocks.</v>
+
+00:29:19.980 --> 00:29:34.460
+<v Speaker 1>564 Charlie uses 2/1 hour not not the full 2 hours and Vision uses 2 two hours, but not the full 3 two hours. So each person, each team sort of allocates this time. But anyway, we have this grid system so that we make sure that</v>
+
+00:29:36.320 --> 00:29:43.350
+<v Speaker 1>that everybody can have meetings and be able to go and then any of the teams you're on, it's the priority. Meaning any other things you book have to meet the</v>
+
+00:29:44.050 --> 00:29:47.060
+<v Speaker 1>they have to match your teams. Your teams come first as far as priority</v>
+
+00:29:48.500 --> 00:30:18.650
+<v Speaker 1>and then there's the juggling of the room. So we make sure we have rooms available because one of the problems in general we have is there's just not tons of rooms. And there's, especially when you have larger meetings, only so many rooms can accommodate larger meetings. So anyway, there's a lot of figuring that out. So like there's a whole bunch of logistics. It's not that I'm personally responsible for logistics. I'm not. We have people that are, but I have to work with them. And a lot of times they'll, you know, they'll send us, OK, here's my first pass. I'm like, Oh, well, you didn't</v>
+
+00:30:18.720 --> 00:30:48.870
+<v Speaker 1>to this person on my team and here's why I need this person. Or you made a team that's a good team, but it's missing this thing and we have to constantly be doing stuff like that. So there's a lot of business sort of stuff goes going on. Another big thing, I'm not a manager, but I do have responsibility to sort of do some people work, as they say. Sometimes that's talking individually to members of my team to make sure that I understand what I want from them. Maybe it's talking, let's say,</v>
+
+00:30:48.940 --> 00:31:02.580
+<v Speaker 1>not running a vision design team, although one to one with a vision, the lead of vision design to make sure that we're on the same page and what decisions were being made. I have a one-on-one with my boss, with Aaron. I meet with him once a week to make sure that he and I are on the same page.</v>
+
+00:31:03.880 --> 00:31:16.190
+<v Speaker 1>So there's a lot of one-on-one meetings with different people to sort of make sure that you and that person are aligned or whatever, whatever it is that you need to be aligned on. And we have that kind of stuff</v>
+
+00:31:17.690 --> 00:31:20.460
+<v Speaker 1>also. There is a lot of,</v>
+
+00:31:21.740 --> 00:31:37.740
+<v Speaker 1>I'll call it set management because it goes on. For example, I'm often working with new mechanics. So I need to sort of have some time with Eli, that's the rules manager and say, okay, Eli, I want to do thing AB or C. How do I do that? What do I need to do with it? How do I?</v>
+
+00:31:38.390 --> 00:31:40.280
+<v Speaker 1>How do I make it such that</v>
+
+00:31:42.170 --> 00:31:55.020
+<v Speaker 1>this will work, you know, and that one of the things early on is I will always consult with Eli to make sure the rules work. I'll sometimes talk to 1 the editors to make sure that I rough templating that's in the ballpark,</v>
+
+00:31:56.610 --> 00:32:28.280
+<v Speaker 1>and sometimes I have to go talk to the creative team. A lot of the work of vision design is designing a set that matches the vision of the world. But one of the tricky things about the way we do it is our world concepting happens after vision is done. Now, given vision feed lot information that helps define the world, but I need to be talking with the creative team and making sure, hey, that the things I'm doing are thinking about, you know, or here's a neat idea that mechanically makes sense. Is that something you guys can work with, you know, with that contradict anything you're trying to do in the world building? Or might that inspire something about the world building?</v>
+
+00:32:28.480 --> 00:32:38.030
+<v Speaker 1>One of the reasons we wait till after vision design to do the world concepting is sometimes vision as cool ideas that will very much inspire and affect how how the world will be built.</v>
+
+00:32:39.870 --> 00:32:42.520
+<v Speaker 1>And there there's, there's that thing that has to be managed.</v>
+
+00:32:47.520 --> 00:32:48.480
+<v Speaker 1>Anything else?</v>
+
+00:32:49.980 --> 00:32:52.770
+<v Speaker 1>There's a lot. That's one of the things that's funny in</v>
+
+00:32:56.080 --> 00:33:25.890
+<v Speaker 1>sometimes I'll be home, you know, and I'm getting older, but I'll just forget something. And I, I, I talked to my doctor about, hey, I'm starting to like forget random things at home. Never at work though, always at home. And it goes, yeah, you just, he goes. Your job is, you are, your brain is on, is in the red zone all the time. You know, the amount of things you have to process is just huge. So sometimes your home, your brain is like, I'm tired. You don't really need to know that. Whatever, you'll figure it out</v>
+
+00:33:26.010 --> 00:33:36.080
+<v Speaker 1>and I'll I'll forget very basic things even in the car, like I'm driving. You can tell that like I sometimes I'm just remember the name of a card and like, OK, my brain doesn't have the capacity right now. I remember the name of that card.</v>
+
+00:33:38.120 --> 00:33:38.730
+<v Speaker 1>But</v>
+
+00:33:40.260 --> 00:33:48.380
+<v Speaker 1>and finally, by the way, I guess I'm almost almost to work the, the final piece is there's a certain amount of what I'll call,</v>
+
+00:33:49.770 --> 00:33:50.260
+<v Speaker 1>ah,</v>
+
+00:33:51.040 --> 00:33:57.380
+<v Speaker 1>sort of downtime at work, meaning there's a certain amount of just chatting or joking or talking,</v>
+
+00:33:58.040 --> 00:34:17.150
+<v Speaker 1>you know, whatever the topic of the day is. You know, I talk about the comic. I do another day of R&amp;D productivity lost. We'll talk about different random conversations we have where we'll talk about Who Will Win a basketball, the cast of Lord of the Rings or the cast of Star Wars and silly things.</v>
+
+00:34:18.490 --> 00:34:21.450
+<v Speaker 1>And some of that is, you know,</v>
+
+00:34:22.130 --> 00:34:28.860
+<v Speaker 1>part of the job is we do a lot of thinking and there's a lot going on. And part of it is you just need to sort of relax a little bit and goof around. And</v>
+
+00:34:30.510 --> 00:34:44.900
+<v Speaker 1>part of having a good team dynamic is being comfortable with the people that you're working with. And so just having a lot of solar conversations and stuff. I mean, a lot of the conversations are about magic. I actually, in fact, I even got to that. We have a lot of off the cuff conversations.</v>
+
+00:34:46.300 --> 00:35:03.040
+<v Speaker 1>More of them actually are about magic than not about magic. That'll happen a lot. Things will pop up. Sometimes there's things the day on social media I'll talk to people about. Sometimes the larger projects, Sometimes there's some issue on a group discussion will come up and then it spills over into the pit where we sort of argue things.</v>
+
+00:35:04.560 --> 00:35:34.370
+<v Speaker 1>You know, one of the things that I often talk about, but it's until you work at Wizards, you might not realize, is the amount of energy that goes into every decision, even decisions that seem so minor. Like we will have our discussions and our fights about things that you probably never even thought about, but we'll have conversations about it. We'll talk about tweaks on templating or applications in tournaments or all sorts of things we have to care about digital,</v>
+
+00:35:34.520 --> 00:35:42.520
+<v Speaker 1>how this might play in digital, this and that, things that kind of as a random play, as just an average player. You don't necessarily need to care about a lot of those things, but we do.</v>
+
+00:35:44.460 --> 00:35:47.250
+<v Speaker 1>So there's a lot of time spent</v>
+
+00:35:48.470 --> 00:35:57.360
+<v Speaker 1>managing some of that stuff and and talking through some of that stuff. And also a lot will happen if somebody has an idea they're trying to solve their own problem or I have an idea,</v>
+
+00:35:58.680 --> 00:36:12.310
+<v Speaker 1>you know, I'm trying to do something and I have an idea, but I'm not sure what I think about it. So maybe I'll talk to people go what do you think of this mechanic or think of this card or, or a lot of times, for example, I make something, but I need a costed. So go to play design and go, OK, I made a card cost this for me. What would this cost?</v>
+
+00:36:14.080 --> 00:36:16.210
+<v Speaker 1>And so there's a lot of interplay there.</v>
+
+00:36:17.420 --> 00:36:23.690
+<v Speaker 1>A decent amount of of daily work is just interacting with other people, and that is</v>
+
+00:36:25.390 --> 00:36:26.940
+<v Speaker 1>another part of the job.</v>
+
+00:36:29.490 --> 00:36:49.780
+<v Speaker 1>Ohh. And then there's there's just there's stuff like keeping track of your e-mail. And I have both a public e-mail and a private e-mail. So I gotta keep track of my work e-mail. But also I give out my e-mail address or my public e-mail address every week in my column. And so people will write to me. And sometimes they talk about social media, sometimes write to me. I have to keep up with that.</v>
+
+00:36:51.790 --> 00:36:57.640
+<v Speaker 1>You know, people will send me stuff in the mail to sign. I have to make sure every once in a while I stopped so I can sign that and mail this stuff back to people.</v>
+
+00:37:00.160 --> 00:37:03.970
+<v Speaker 1>There's just endless. And then one of the things that I hopefully the point of today's</v>
+
+00:37:05.230 --> 00:37:35.010
+<v Speaker 1>topic was, is that the amount of things going on is kind of staggering. Like the one thing my job is not is boring. My job is never boring. I've had one or two boring jobs in my life, like the kind of job where like you get off at 5 and so you watch the clock tick from 5:58 to 5:59 to 6:00 and like the second the clock ticks 6:00, you're out of there because you you're done.</v>
+
+00:37:35.980 --> 00:37:45.650
+<v Speaker 1>This is not that kind of job. This is the kind of job where like, ohh, the day into 20 minutes ago. I gotta get home. You know, we're, I'm so caught up in something that I didn't realize what time it is</v>
+
+00:37:46.910 --> 00:38:16.940
+<v Speaker 1>and it's in the drawer. I mean, I, I'm not trying to say that I don't enjoy my job because I do enjoy my job. It's actually an awesome, awesome job. And I like being busy and I like having a lot of things. I like sort of being able to jump around between different things. From a creative standpoint, I think it helps that I'm not sort of trying to solve the same problem nonstop, that I different problems and that the cross pollination of different problems sometimes will help me solve problems where when I move your problem from a different area, it just makes me think differently about the problem. So sometimes</v>
+
+00:38:17.030 --> 00:38:26.040
+<v Speaker 1>I find solutions just in the cross pollinations of my problems, which is pretty handy. But really the point of today was sort of saying to you,</v>
+
+00:38:27.950 --> 00:38:34.340
+<v Speaker 1>there's a lot going on. I mean, if if you guys sometimes are overwhelmed on your end of and other sets coming out,</v>
+
+00:38:35.640 --> 00:39:05.800
+<v Speaker 1>you know, at least from a player perspective, you know, you can, you can spend a lot of focus on what the latest thing is. Now they're standard things in which you have to care somewhat about some other sets, but you can spend a lot of focus on what the latest thing is. Where we don't have that luxury that whatever I'm working on, there is something down the pipeline that I have to do advanced work on and there's something I've already done that I have to sort of keep checking in on to make sure that it's going OK or there's something far enough on the pipeline that the public's about to find out.</v>
+
+00:39:05.880 --> 00:39:16.410
+<v Speaker 1>I didn't. I had to kick into my other job and sort of make sure the players understand what's going on. And we have a market plan that will make people excited for the set. And, you know, there's always constant things going on. So</v>
+
+00:39:17.900 --> 00:39:20.810
+<v Speaker 1>I guess the point of today's ride was, uh,</v>
+
+00:39:21.560 --> 00:39:27.750
+<v Speaker 1>R&amp;D is a busy, busy place with a lot going on. So I hope you guys find this interesting. You know,</v>
+
+00:39:28.430 --> 00:39:54.980
+<v Speaker 1>I I'm 550 plus podcasts in so I'm always trying to find new things to talk about. So anyway, I would love your feedback on this. Was this interesting me sort of like this talking about the everyday of our and just sort of the busy work of R&amp;D. I hope this was a fun topic, but I'm now at work. So we all know that means means at the end of my drive to work, instead of talking magic, it's time for me to be making magic. I'll see you guys next time.</v>
+

@@ -1,0 +1,368 @@
+WEBVTT
+
+00:00:01.040 --> 00:00:05.850
+<v Speaker 1>I'm pulling out the driveway. We all know that means it's time for another drive to work.</v>
+
+00:00:06.610 --> 00:00:29.660
+<v Speaker 1>OK, so for those that might not ever watch me on my Vine, I know how to juggle. And so today I'm going to juggle on my podcast, but metaphorically speaking. So not too long ago, I started a new series talking about different color pairs. I have a serious 20 years and 20 podcasts. I have a series called Lessons Learned,</v>
+
+00:00:31.100 --> 00:01:02.060
+<v Speaker 1>have a little, I guess, pseudo series of tales from the blah, which is all about stories from the pro tour. But anyway, I'm going to start a new series because I I like having lots of balls in the air. So my new series is based on a podcast that I already did, which is based on an article, which was based on a speech I gave to my daughter's fifth grade class. So for those that are unaware, when my daughter was in fifth grade, she had a teacher got him Mr. Nichols, very awesome teacher who had them do a one of their projects for the American Revolution</v>
+
+00:01:02.180 --> 00:01:32.120
+<v Speaker 1>was they had to make a game based on the American Revolution. And when he found out that I was a game designer, he asked if I could come in and talk to the kids to explain some basic rules about games. So I put together a speech to explain to the kids the basic things games needed and that turned into a speech, which turned into an article, which turned into podcasts called 10 Things Every Game Needs. The more I thought about it, the more I realized that, I mean, I did a brief overview in my podcast, but usually these topics is pretty deep.</v>
+
+00:01:32.210 --> 00:02:02.420
+<v Speaker 1>So I've decided is I'm going to dedicate over a period of some amount of time, 10 podcasts in which I take each one and I go in depth and I talk about it. You know, not like when I did my podcast, I was like 30 minutes. I did, you know, 3 or 4 minutes on each one. I'm going to go a little deeper this time. I'm going to talk about, you know, I'm going to get my hands dirty and really talk about each of these 10 things, why they matter, what they do for the game. And anyway, this is for the game lovers out there, the game designers, either game designers or game</v>
+
+00:02:02.490 --> 00:02:33.300
+<v Speaker 1>center wannabes. I'm going in deep. I'm talking game design. OK, so let's start with #1 So for those who don't remember on the recap real quickly is the 10 things every game needs. Number 1 is a goal or goals. Number 2 is rules #3 is interaction #4 is a catchup feature #5 is inertia #6 is still prize #7 strategy #8 is fun #9 is flavor #10 is a hook. I should trust that these are, I mean, they're in order. That makes some sense,</v>
+
+00:02:33.370 --> 00:02:48.160
+<v Speaker 1>although they're not in a prioritization order, they're just an order that logically makes sense when I'm explaining it. So today is all about goals. I want to talk about why your game needs a goal or goals. OK. So to 1st understand this, let me explain a little bit about.</v>
+
+00:02:49.140 --> 00:02:52.110
+<v Speaker 1>SO way back in the day when I first got to R&amp;D,</v>
+
+00:02:54.700 --> 00:03:24.110
+<v Speaker 1>the man who made Magic, guy named Richard Garfield has always been kind of my mentor in game design. And when I first got to Wizards, there was a folder something we could discuss in called Kickshaw. And what Kickshaw was, was a place where we could just discuss sort of things about game design in general. And whatever topic we had it, this was a place for us to sort of discuss stuff. So one of the topics that I always remember I thought was fascinating is what is the difference</v>
+
+00:03:24.280 --> 00:03:54.280
+<v Speaker 1>between a game, a toy, a puzzle and a sport? And it's tricky when you actually, I mean, it's one of those things you do, of course I know what's what. But when you start trying to describe, it gets a little trickier. I bring that up today because the difference between game and a toy has a lot to do with today's topic. It's a real quickly the difference between a game and a toy has to do with the goal. And let me explain in a game there,</v>
+
+00:03:54.350 --> 00:04:24.860
+<v Speaker 1>the goal, there's something you were trying to do and the you win the game by accomplishing the goal. With a toy, there's no established goal. Now a person could make up a goal for themselves, but the point is a toy, the playing with the toy is the experience unto itself. There's no, you know that a game you are trying to sort of mentally challenge yourself, you're trying to sort of prove you can accomplish something. And with the toy, you were just having fun with the experience of playing</v>
+
+00:04:24.930 --> 00:04:46.080
+<v Speaker 1>with it. Now that doesn't mean a toy can't have challenging properties to it, and that doesn't mean the game can't be playful, because both are true. So my example of talking about difference between game and a toy is a game called Minecraft. So for those that are unaware, it's a very, very popular game. So let me assume you know nothing of it. I will explain. Most of you probably heard of it.</v>
+
+00:04:47.210 --> 00:04:59.120
+<v Speaker 1>So what Minecraft is, it's a video game in which the world is made-up of cubes. Basically everything in the world is made-up of cubes. And the idea of the game is</v>
+
+00:05:00.510 --> 00:05:01.790
+<v Speaker 1>you can</v>
+
+00:05:03.040 --> 00:05:33.730
+<v Speaker 1>find, you find things and put in your inventory and then you can use them to combine and build and make things and that you can build up a world. Now when you play, there's two different ways to play. 1 plays what they call creative and creative you have access to everything. The game has all these different resources and creative, you just have access to everything you want and there's nothing. There's no exterior threats or anything that you just you can sit and play and do your thing. In survival,</v>
+
+00:05:33.840 --> 00:06:03.230
+<v Speaker 1>you start with nothing. You have to acquire everything you need and there are there is day and there is night in Minecraft. I think days like there's like 10 minutes per day in 10 minutes per night, something like that. I don't actually play Minecraft. My son plays all the time. So most of my knowledge of Minecraft comes from watching my son play at night. Monster spawn at night and attack you and so you need to protect yourself against the monsters.</v>
+
+00:06:03.840 --> 00:06:18.200
+<v Speaker 1>OK the reason I bring this up is I believe the following to be true. I believe Minecraft played on creative is a toy and Minecraft playing Minecraft on survival is a game. So let me explain what I mean by that.</v>
+
+00:06:19.730 --> 00:06:43.350
+<v Speaker 1>Minecraft in creative is essentially Legos and Legos are a toy, which is here is this resource. You can do amazing things. Now be aware, it's not that you can't create a goal. You could say, OK, I'm going to build a replica of Mount Rushmore. I'm going to build the tallest tower I can build. I'm going to make</v>
+
+00:06:44.030 --> 00:07:14.500
+<v Speaker 1>a rubber club in my house. I mean, you could do whatever you want. It's not that you can't self create a goal, but the difference between a toy and a game is a toy doesn't come with it. A preset goal. You can do what you want. Now, for example, there are things like if you look at Legos, sometimes in Legos you get you buy something in which it's meant to be a thing and they give you instruction booklet and they say this is the thing. So toys can have focus at times. Clearly it's like, OK, well, I'm going to try to build</v>
+
+00:07:14.570 --> 00:07:31.480
+<v Speaker 1>this thing. But once again, the the big difference there also is they give you step by step how to do it. It's not like they go, here's a picture, figure it out. It's we're going to explain to you how to do this. And then a game, you don't explain the challenge. There's a challenge of trying to accomplish the goal without knowing how to do it.</v>
+
+00:07:33.070 --> 00:07:52.930
+<v Speaker 1>So in survival, let me explain the survival Minecraft. It's interesting because it's does a really good job of explaining a a key part of games. OK, so in in a game, there is a goal you need to accomplish. Now I should stress there's two different types of goals. There is what is called an active goal, and there's what's called a passive goal.</v>
+
+00:07:53.580 --> 00:08:23.590
+<v Speaker 1>And active goal says you must do something. For example, in chess, there's an act of goal. To win the game, you must capture the opponent's king. It is active. You must do that to win. Minecraft origami Tetris, there's a passive goal. The passive goal is essentially, don't lose. Some external force is going to try to make you lose. Don't let that external force make you lose. In Minecraft there are zombies and monsters</v>
+
+00:08:23.670 --> 00:08:41.820
+<v Speaker 1>come and attack you at night. And also note another important thing is in creative Minecraft you have access to everything. The acquiring of things is not a part of the part of the experience. You have everything. In survival you don't have everything. So part</v>
+
+00:08:42.480 --> 00:09:12.650
+<v Speaker 1>and on some level, I mean Minecraft is both an active and passive goal, though more passive than active. The passive goal survive monsters will attack, you don't die. The active goal is acquire the things you need. Now, the other thing about Minecraft is if you, as you get involved, there are some larger active goals, like you slowly figure out that there you need to go. There's other places you travel to. And in order to like win the game, you need to figure out how to get to those places and then defeat the things in those places.</v>
+
+00:09:12.760 --> 00:09:17.060
+<v Speaker 1>Like I believe the way you win kind of the big game is by defeating something called</v>
+
+00:09:18.560 --> 00:09:48.410
+<v Speaker 1>the Ender Dragon, which is lives in its own special world. And you have to figure out how to get to that world. But to get to that world, you need items from a different world. And you know, there there's a sequence of events that you need to figure out in order to get to that state. That's a game. You have to figure out how to do it. You have to acquire the tools. Meanwhile, there's this passive force that you have to resist against. So let's take a different game. Let's take Tetris. Tetris also have a passive goal. So Tetris, the goal of Tetris is you have blocked that fall. The blocks are all made-up</v>
+
+00:09:48.500 --> 00:09:53.000
+<v Speaker 1>of shapes that are squares of four,</v>
+
+00:09:54.200 --> 00:10:24.290
+<v Speaker 1>and there's one square of three, I guess. Anyway, these shapes fall and you have to maneuver the shapes. If you ever have a straight line across, you eliminate that whole row. Meanwhile you are building upwards. If you go above a certain level, you lose the game. And so the key of the game is as he shapes fall, you have to make sure to position them so you're clearing the levels to keep the layering down. Meanwhile, what happens is as the game progresses, the speed of the pieces falling gets faster and faster.</v>
+
+00:10:24.530 --> 00:10:27.340
+<v Speaker 1>So that's a good example of a game in which</v>
+
+00:10:28.620 --> 00:10:56.390
+<v Speaker 1>it's very there's a passive goal, meaning you're not trying to do anything, you're trying to stay alive. Usually in the passive game, some external force is trying to stop you and you have to not let the external force stop you. With an active goal, you need to do something. If you don't do that thing, then you you can't win until that thing is done. OK, so the big question of today is why exactly do you need a goal? What does a goal do for you? What's the point of having a goal in the game?</v>
+
+00:10:57.490 --> 00:11:27.950
+<v Speaker 1>OK, There's a bunch of reasons I'm gonna explain to you, OK? Number one, why do you need a goal? It gives direction to the game. And what I mean by that is a lot of I've talked about this, that one of my roles as head designer or roles as lead designer of a set is my job is creating the bullseye is setting vision. And a lot of setting vision is just getting everybody who is working on your project to be working in the same</v>
+
+00:11:28.080 --> 00:11:57.970
+<v Speaker 1>fraction. A lot of the goal of elite designer of a set or as head designer of magic is I'm constantly trying to set bullseyes and goals and direction that what the point of vision is to say to everybody, here's what we're trying to do. Because what you want, if people don't have a unified vision, they're each trying to do a separate thing, you know? So on some level, what I'm trying to do, not, not the game design inherently is a game. But if you want to think of it for this example,</v>
+
+00:11:58.090 --> 00:12:09.150
+<v Speaker 1>I'm trying to make sure that all the people playing on my, all the people working on my project have the same goal. That part of setting vision is setting a unified goal.</v>
+
+00:12:09.910 --> 00:12:15.800
+<v Speaker 1>So the idea is you want to make sure that you are giving direction to your players.</v>
+
+00:12:16.750 --> 00:12:23.760
+<v Speaker 1>Now note when I say goal or goals, sometimes your game will not have a singular goal but multiple goals.</v>
+
+00:12:25.290 --> 00:12:29.230
+<v Speaker 1>And that's it has a lot to do with the kind of game you are making.</v>
+
+00:12:30.390 --> 00:12:48.960
+<v Speaker 1>Now if you are making a a single player game in which the player is playing against a set of environment that's not other players, PV, EV, will you have a little more flexibility to give them more options? Because one of the things that a goal does is,</v>
+
+00:12:50.390 --> 00:13:02.380
+<v Speaker 1>well, I meant the second at least interaction, which I'll get to in a second. But a goal is supposed to set direction for each of the players so that they know where they're going and they know what it's responsible of them.</v>
+
+00:13:04.350 --> 00:13:13.100
+<v Speaker 1>It is important. Like when I talk about, I mean, let me give this caveat, gives caveat during my original 10 things you need when I say 10 things you need.</v>
+
+00:13:14.160 --> 00:13:29.820
+<v Speaker 1>When you teach somebody my metaphors, when you teach somebody how to paint, you teach them. You know, you start with painting a bowl of fruit. You do realistic. Like, let's see if I can take what I see and put it on paper as realistically as I can. You know, start with Cubism. You don't start with, you know, you don't start</v>
+
+00:13:30.610 --> 00:13:43.720
+<v Speaker 1>when you first teach somebody how to paint. You teach the basics. You wanna learn light and, and structure and, and shading and all the things you need, you know, color and things you need to understand to be able to do painting.</v>
+
+00:13:45.490 --> 00:13:59.040
+<v Speaker 1>Game design, it's the same thing. These are basics. Your first game wants to have all 10 things I'm talking about. Now, are there games that don't have all 10? Yes, there are games that find a way to not do one of the things I'm talking about.</v>
+
+00:14:00.660 --> 00:14:05.000
+<v Speaker 1>That doesn't mean though, when you were. I think we think they're very important. We learn. So</v>
+
+00:14:05.740 --> 00:14:17.660
+<v Speaker 1>with that caveat out of the way, I do believe when you're first starting to make a game, it is very important that your goal is so fundamental that in pond describing the somebody, what the game is, you tell them the goal.</v>
+
+00:14:21.240 --> 00:14:31.970
+<v Speaker 1>Remember, when someone sits down to play a game, the very first thing they want to know, the very first thing is how do I win? What do I need to do? What's the point of this game?</v>
+
+00:14:33.220 --> 00:14:46.730
+<v Speaker 1>So the reason you have a goal is that you need to have a point you need to have. You need to give direction to your players. This is what you're trying to do. Now remember I stated that the point of the game is a mental challenge</v>
+
+00:14:48.610 --> 00:14:49.130
+<v Speaker 1>now</v>
+
+00:14:49.770 --> 00:15:19.520
+<v Speaker 1>real quickly, but I don't game versus toy versus puzzle for sport. When you start getting into a physical challenge, you start bleeding into sports. Now obviously sports have a mental component, games kind of physical component. But the the dividing line we made between games and sports was that game more lead toward a mental a mental challenge in sports more lead toward a physical challenge. Meaning in order to be a great game player, there's more requiring of your mental faculties to be a great sports</v>
+
+00:15:19.750 --> 00:15:43.040
+<v Speaker 1>percent. There's more relying on your physical properties. So that's how we separate game from sport. Like I said, it's a fuzzy line. There's lots of things to fall in the middle. There's clearly games. They have a physical component that you wouldn't think of as being sports. So these definitions, one of the things we had a lot of fun in our folder when we were talking about it is it's very easy to go, hey, it's this thing, you know,</v>
+
+00:15:44.250 --> 00:15:44.660
+<v Speaker 1>anyway,</v>
+
+00:15:45.610 --> 00:16:10.250
+<v Speaker 1>one of these days I'll do a whole podcast on what is and isn't a game. And then you'll learn, you'll learn, you know, that's all its own, it's own podcast. OK, So number one, you give direction, it makes all everybody understand what they are trying to do. It gives the game a point, it gives you a focus. It makes you, the player understand what I'm trying to do. Now, remember, games are a mental challenge. In order for you to be able to change yourself mentally, you have to understand what it is you are trying to do.</v>
+
+00:16:11.530 --> 00:16:32.510
+<v Speaker 1>If the game, for example, are very common mistake sometimes begin at game players will make is they don't give a clear a clear goal to the player and then the players trying to hunt around for what the goal is. Now a sometimes the mistake is they don't give a goal and then it's it's a fruitless task to try and figure out what you're doing or be a very common thing is they give too many goals.</v>
+
+00:16:33.230 --> 00:16:41.570
+<v Speaker 1>My advice to you when you first starting out is stick to one goal. Give your game a singular goal. Now that said, Magic as a good example.</v>
+
+00:16:42.230 --> 00:17:00.780
+<v Speaker 1>There are essentially is one goal, and the goal is to defeat the opponent by driving their life to 20 down to 0. Now Magic happens, I have a few other there actually are some alternative goals that you can win with. For example, I can deck you. I can put your entire deck into the into your graveyard when you go to draw. If you're unable to draw, you lose the game.</v>
+
+00:17:01.490 --> 00:17:07.140
+<v Speaker 1>Now, I don't teach people that goal. When I first teach people magic, it's a goal that I'll tell them about. So like</v>
+
+00:17:08.400 --> 00:17:25.730
+<v Speaker 1>usually what you want is 1 primary goal, the goal you explain. If you have a few other goals worked in and in advance game, that's OK. And the basic game you kind of want to keep it really clear. But it is very important that your goal is simple and direct and the players understand it. And that's another important point, which is,</v>
+
+00:17:26.490 --> 00:17:37.900
+<v Speaker 1>um, even if you're game is complex, even if your rule, there's lots of rules, lots going on, you still want a clean, crisp, clear goal.</v>
+
+00:17:38.650 --> 00:18:09.920
+<v Speaker 1>It if your opponent, if you're sorry, your players, if your players are taking too much trying time trying to understand the goal, you have failed that. The point of a goal is to provide the direction. So it is not supposed to be confusing. It is not supposed to be ambiguous. A goal should be very clear cut what you want. Now, how do accomplish that goal doesn't have to be so clear cut. You know, it's fine to say here's your goal in the place. So how do I do that? It's OK for your players to struggle with how to accomplish the goal.</v>
+
+00:18:10.030 --> 00:18:16.160
+<v Speaker 1>That is where some of the fun comes in. But it shouldn't be struggling to understand the goal or sometimes people,</v>
+
+00:18:16.860 --> 00:18:26.330
+<v Speaker 1>I mean like once again, I'm not saying you can't do mitigate complex games to do this, but sometimes people will make games in which part of the game is to figure out what the point of the game is.</v>
+
+00:18:27.010 --> 00:18:30.840
+<v Speaker 1>And like I said, I'm not saying there aren't games like that. That's not a good beginner game.</v>
+
+00:18:32.890 --> 00:18:55.900
+<v Speaker 1>Like the story I'll give here is a little metaphor is I took a writing class in college and in my writing class, like the very first story I wrote is I wrote a story in the form of, I know guys remember the thing called the Book of Lists, which was a book that just had lots and lots of lists in it. So I wrote a story in which the entire story was told through lists</v>
+
+00:18:57.920 --> 00:19:02.720
+<v Speaker 1>and my class argued in the class of whether what I did was a story or not.</v>
+
+00:19:03.990 --> 00:19:06.350
+<v Speaker 1>And my teacher pulled me aside. My teacher said,</v>
+
+00:19:07.260 --> 00:19:38.120
+<v Speaker 1>look, I, I understand what you're doing. You're playing with narrative structure. That's cool. But let's try this before we start messing around with narrative structure. Let's just learn the basics. Let's tell the story. Stop screwing around and just tell a story. What I would like is for your next story that the class doesn't debate whether or not it's a story just for me, please just tell a story. And I have the same sort of thing for game designer is one of the things that people love</v>
+
+00:19:38.190 --> 00:19:41.150
+<v Speaker 1>do and game designers love to do. This is kind of</v>
+
+00:19:41.980 --> 00:19:50.770
+<v Speaker 1>fighting against the rules themselves. How can I accomplish my way in a way that nobody else has ever accomplished them? And I'm not saying down the road you can't make games that do that,</v>
+
+00:19:51.710 --> 00:19:54.780
+<v Speaker 1>but I'm saying your first time out she just make a simple game,</v>
+
+00:19:55.460 --> 00:20:22.760
+<v Speaker 1>you know, prove that you can draw the bowl of fruit, make a game in which it's crisp and clear what you're doing. And in general, you want your audience to understand what the goal is. It is very, very important that the goal itself is not ambiguous. That's laid out. That's I mean, like I said, the first thing you want to tell people is what the goal is. OK, So what else does the goal do? So the number #2 is that allows for an infrastructure.</v>
+
+00:20:23.970 --> 00:20:28.070
+<v Speaker 1>So let's say for example, you want to hang a hammock.</v>
+
+00:20:28.730 --> 00:20:45.880
+<v Speaker 1>My, my, my new metaphor. I like my metaphors. You want to you want to hang a hammock. Well, what do you need to hang a hammock? You need 2 posts or two trees, but you need to attach it to two things. Games are very similar, which is you need a place to start. You need a place to end.</v>
+
+00:20:47.870 --> 00:21:05.360
+<v Speaker 1>Usually starting, I mean, you have to figure out where you're going to start as a game. You know, it's how many cards do they have in their hand, how many, how much money do they start from the bank, whatever. You got to figure out where they start. That's important. You need to know that pretty upfront, and the players need to know that up front, and then you need to know where you're going</v>
+
+00:21:07.180 --> 00:21:15.740
+<v Speaker 1>with those two points. That allows you to create the infrastructure that allows you to create the set of rules, which is number 2 and the 10 things every game needs.</v>
+
+00:21:17.090 --> 00:21:38.510
+<v Speaker 1>So another thing the goal does is it makes the anchor point that it gives you that in order to create a set of rules in order to hang your hammock, you need to have the two endpoints. And that's very, very important. You need to know where you're going to start. You need to know where you're going to end. And that's another thing, for example, talk about writing again, that one of the things that I had a really good writing teacher that said,</v>
+
+00:21:39.770 --> 00:22:10.600
+<v Speaker 1>when you write, you need to know before you start where you're going, what is the end of your story? Now, that doesn't mean, and this is true for game design as well. It doesn't mean during the discovery process of making the game that you can't change your endpoint. Sometimes you have a story, you know where it's going and you end up shifting and go somewhere else. Sometimes you have a game and while you play the game, you realize, oh, I got the wrong goal. That is fine, but you still need to make a goal that when you start, you have to have a goal that's clarified that if you're going to make your game,</v>
+
+00:22:10.710 --> 00:22:40.520
+<v Speaker 1>you need to understand where you start or your player start, where your players end. And without that, you can't build the infrastructure, you can't build the rules. And so another reason the goal is so important is that you need to map out what is going on. Like when you're telling the story, if you, the writer don't know where you're going with the story, if you don't know the ending of your story, you often have a really hard time. And so I used my parallel here between a trap and writing and a trap in game design. Sometimes people come up with a cool concept for a game. They go,</v>
+
+00:22:40.710 --> 00:22:42.020
+<v Speaker 1>wouldn't be needed to do this thing,</v>
+
+00:22:42.820 --> 00:23:13.480
+<v Speaker 1>but they don't come up with the goal. And So what happens is they kind of flounder around trying to say, well, how could people do this thing? And what they realize is the act of whatever they're doing is fun, but you're still fundamentally need a goal to give them. Hey, it's great that this activity is fun, but what are you trying to do? How do you do it? What is the point? And without the point, you will just flounder. And, and like I said, a lot of what I'm trying to explain in this series is that each of these 10 things relies on the others</v>
+
+00:23:13.560 --> 00:23:21.420
+<v Speaker 1>work that if you want rules, will you need a goal. The reason I put goal before I put rules is you can't make rules until you have a goal.</v>
+
+00:23:22.330 --> 00:23:40.660
+<v Speaker 1>There is a, a logic to my order that I listed the 10 things, by the way, That doesn't mean they're in order of importance, but they are an order of thought process that you have to sort of attack them as you think about things. OK #3 it leads to conflict in the game. This is important</v>
+
+00:23:41.650 --> 00:23:42.000
+<v Speaker 1>if</v>
+
+00:23:42.610 --> 00:24:13.340
+<v Speaker 1>one of the things you need. So interaction is #3 on my top 10 things or my 10 things in the game needs. So we're interaction says is what makes the game fun is that the different players of the game are interact with one another. That it's possible to create a game where we go, it's called gold fishing, where each person is doing their own thing and they're not interacting with anybody else. They're doing their own thing. But what happens is often when you're doing that, that if the players don't feel like actions they take</v>
+
+00:24:13.460 --> 00:24:35.990
+<v Speaker 1>interacts, then it's like I'm playing my own game simultaneously. Do you playing your own game? Part of makes the game fun is having the interaction between the players, so having a goal. So one of the things is important is if all the players have the same goal. And most of the time, once again, that's where you want to start. You want all your players to have the same goal, especially if there's a singular goal.</v>
+
+00:24:37.140 --> 00:24:47.940
+<v Speaker 1>I'm not saying there's not advantages for different goals, but for your basic first game, have all your have one goal, Have all your players have the same goal. And the reason this is important is it leads to conflict.</v>
+
+00:24:48.540 --> 00:24:49.330
+<v Speaker 1>Now remember,</v>
+
+00:24:50.390 --> 00:25:16.960
+<v Speaker 1>usually when you have a game, there is one winner. Once in a while there's a game with one loser. Sometimes there's game with multiple winners. But traditionally a game has one winner. And the reason that the goal does a good job providing conflict is because everybody can accomplish the goal. One person's going to accomplish it first. And so by having a goal and having a target and having a bullseye, you are going to make the players have to interact with each other.</v>
+
+00:25:18.140 --> 00:25:33.280
+<v Speaker 1>And that's also why when you're starting out, what have one goal and have all the players have the same goal because that way they are fighting with each other. If every single player has the same goal with, it's going to cause conflict because they're going to have to fight with each other trying to get the goal.</v>
+
+00:25:34.540 --> 00:25:37.180
+<v Speaker 1>And usually what happens is that</v>
+
+00:25:38.540 --> 00:25:57.920
+<v Speaker 1>part of accomplishing the goal is if you're trying to beat somebody else there, one of the strategies can start to become is instead of me accomplishing pushing toward the goal, I push other people away from the goal. And that adds some dynamism to the game. It can add to strategy. You can add other elements that you need in your in your top 10, not top 10, but you know 10 things every game.</v>
+
+00:26:00.230 --> 00:26:01.530
+<v Speaker 1>OK #4</v>
+
+00:26:03.020 --> 00:26:05.390
+<v Speaker 1>it keeps momentum in the game. So another thing</v>
+
+00:26:06.580 --> 00:26:36.620
+<v Speaker 1>not worth it #5 I believe #5 is inertia. So, um, by having something that everybody's working toward, there's a measuring stick and that there's an advancement in the game. If you starting point and you have an ending point, that means that players can track where they are, that they can see how close they are to the end. Now, sometimes they might not understand where they, you know, they're games in which you might not know exactly how close you are to the end, but it gives you some sense. You know, as you get closer, you know,</v>
+
+00:26:36.700 --> 00:27:06.630
+<v Speaker 1>that creates the sense of inertia and momentum. That's important that you want to sense that when players are playing your game, you definitely want them to feel like the game is going ahead. One of the biggest problems with games, by the way, is the sense that the game is going nowhere. The players are spinning and going in circles or spinning their wheels. You know that one of the things is important is you want the game to feel like it's advancing. And what a goal does is by having a goal, it helps people make a yardstick by which to measure to go.</v>
+
+00:27:06.720 --> 00:27:36.480
+<v Speaker 1>How am I doing? Oh, well, I'm closer to this turn than I was last turn, you know. And it, it, you want to feel like you are doing something. One of the things that's very important to understand game design is players do not, humans do not like powerlessness. You do not want to feel as if nothing you're doing matters. You want to feel as if there is that you are making traction, that you were doing something. And a goal is a very important part of this because having the goal there</v>
+
+00:27:36.730 --> 00:27:58.480
+<v Speaker 1>just keep players feel like they are advancing in are doing something because they can see themselves being closer to the goal. For example, sometimes the goal is like acquire so much of something. Well, you know, I, I have some of it. I'm closer than when I had none of it. Now I have more of it, you know, and that you really allow yourself so that the players.</v>
+
+00:27:59.230 --> 00:28:02.860
+<v Speaker 1>One of the things that you want, and I'll talk about this all during the series, is</v>
+
+00:28:04.360 --> 00:28:31.270
+<v Speaker 1>you are trying to make sure something is fun for players. How do you do that? Well, it can't. It can't. Winning can't be the only source of fun because if winning is the only source of fun, then there's a lot of frustration that's going to happen to your game, that the act of playing your game. There has to be moments of fun in it. There has to be moments for people are enjoying themselves and I'll get to fun later on in the series. But you want to make sure that your game has little micro.</v>
+
+00:28:32.360 --> 00:28:50.890
+<v Speaker 1>There's micro games in it. There's things that you are doing and that one of the things that Gold does is by giving you means of things you have to do every time you achieve a little thing. You know, let's say I have to acquire 7 things where every time I get one thing, I feel like I've won that mini part of the game. I've advanced him the next level</v>
+
+00:28:52.390 --> 00:29:01.000
+<v Speaker 1>and leveling is a very important concept of gaming. I'll probably do a podcast at some point on this. The idea that you want people want to feel like there is</v>
+
+00:29:02.150 --> 00:29:08.040
+<v Speaker 1>that they are improving as the game goes along, that they are getting closer to the end that they are,</v>
+
+00:29:09.810 --> 00:29:21.580
+<v Speaker 1>that people like to see self improvement. And so anyway, leveling allows you to do that. Having a goal provides you to be able to get to the levels and that is one way by which you can show accomplishment in the game.</v>
+
+00:29:22.600 --> 00:29:29.040
+<v Speaker 1>OK, the final thing that goals do does for you is it can create a bond between players.</v>
+
+00:29:30.250 --> 00:29:41.390
+<v Speaker 1>Now interesting I previously said it creates conflict between players. How does it create a bond between players? And the answer is one of the things that helps unite people is a common purpose</v>
+
+00:29:42.130 --> 00:29:42.850
+<v Speaker 1>is</v>
+
+00:29:43.720 --> 00:29:45.160
+<v Speaker 1>that when people,</v>
+
+00:29:45.830 --> 00:29:51.760
+<v Speaker 1>a lot of what makes you bond with another person is you and that person went through a similar experience.</v>
+
+00:29:52.590 --> 00:30:10.450
+<v Speaker 1>You know, whether it's being on a sports team, it's being in a play, it's working a job, that it's, you know, being in the Army. I mean, whatever it is we talk about tight bonds, it comes from the fact that you and another group of people went through a shared experience and interacted with it.</v>
+
+00:30:11.940 --> 00:30:20.610
+<v Speaker 1>So a within the game, it helps create a sense of bonding and between games, this is an important thing. So let's say for example, I</v>
+
+00:30:22.070 --> 00:30:48.950
+<v Speaker 1>we go back to Minecraft. Now there are clearly is a shared experience between creative Minecraft players because I built this. What did you build? At least you're using similar tools. And it's not as if people who share a game don't have a love of the game. I've definitely met people who are Lego enthusiasts who made other Lego enthusiasts. They get to share that enthusiasm. But, and here's a fundamental difference, when I play with Legos and you play with Legos,</v>
+
+00:30:49.630 --> 00:31:19.540
+<v Speaker 1>we're using the same pieces, but what I'm doing with them, what you're doing them might not be the same thing, you know? So like in Minecraft, if I'm playing creative Minecraft, playing create Minecraft, I might be building the Taj Mahal and you might be creating the tallest tower. We're not necessarily having the same experience, but you go to survival now, you go to what I consider to be a game and I meet someone else playing, playing survival Minecraft and I might go to them. How do you survive the first night? What did you do when you met the creepers? What do you like that the creepers</v>
+
+00:31:19.610 --> 00:31:49.950
+<v Speaker 1>for these zombies that explode that are the most iconic monsters in the game for those that are in Minecraft? So the, The thing is when you have shared experiences and allows players playing the game not together, but separately to now compare notes and have a shared experience. Like one of the things that's awesome, but Magic is that I can meet someone who's played Magic. He and I or she and I are whoever I talk with can sit down and talk and not even play. Imagine, just talk about our own experiences with Magic</v>
+
+00:31:50.030 --> 00:32:03.090
+<v Speaker 1>and right off the bat we will find overlaps. You know, like when I draft consent Tarkir, I like to draft Jets guy me too. I like to draft Jesse guy, you know, or I like to do obs on or whatever, but you know,</v>
+
+00:32:04.190 --> 00:32:34.290
+<v Speaker 1>you start having shared experiences. We go Ohh, I I like this mechanic or I do this, you know, and that part of having a shared goal is it leads to the players having shared experiences that if you in these Minecraft Minecraft is survive, right. Well, they're very common things you have to do to survive. So when I meet another Minecraft player who's played on survival, right off the bat, I'm starting to talk to them about what they did. What are those experiences? So having a goal both with</v>
+
+00:32:34.360 --> 00:32:46.930
+<v Speaker 1>in the game Bonds players together because they're going through a shared experience and external to the game Bonds players together because it gives them shared experiences that they can relate to to sort of create a community.</v>
+
+00:32:48.680 --> 00:33:13.580
+<v Speaker 1>So see goals do all sorts of things. So one I'm almost to work, but one of the one of the things I want to do with this series is try to explain to you kind of the rationale behind what's going on. When I say games need things, that's because there's a lot more happening under the surface. And one of the things I want to do with this podcast series podcast is make you realize a lot of the dynamics that are happening.</v>
+
+00:33:14.590 --> 00:33:16.470
+<v Speaker 1>So. So let's quickly recap.</v>
+
+00:33:17.400 --> 00:33:17.850
+<v Speaker 1>Um,</v>
+
+00:33:19.010 --> 00:33:49.080
+<v Speaker 1>so you want your game to have you want your game to have a goal for beginners. What I'm saying is have one goal, have a shared goal, meaning all your players are trying to accomplish the same goal. See more advanced, you can have multiple goals, your players working toward different goals. I'm not saying that can eventually happen, but I recommend your first game focus. And the reasons to recap that it's very important to have goals is to give direction puts all your players going in the same direction, doing the same thing. It allows for an infrastructure. It makes that hammock</v>
+
+00:33:49.180 --> 00:34:07.730
+<v Speaker 1>by having the beginning and the ending. It allows you to build the structure between them and make a set of rules. It leads to conflict in the game. It makes interaction when you and I want the same thing. It forces us to start to interact with each other, and often in games it makes us start to have to deal with one another in a way that creates the dynamism in the game.</v>
+
+00:34:08.570 --> 00:34:34.010
+<v Speaker 1>Four, it keeps momentum in the game and it makes a sense of progress that as you see you're advancing toward the goal, you feel that things are happening and that's really important. And five, it creates a bond within the game that when people play, they have a shared experience within the game and between games. So it both helps make players bond with each other while playing and it helps players bond between with other players that played the same game.</v>
+
+00:34:34.810 --> 00:35:04.800
+<v Speaker 1>And that, my friends, is why you want a goal. So I hope you guys are enjoying this all. Like I said, you got I'm not gonna be doing this in direct order. This will be a series while doing time to time, much like you know, 20 years in 25 casts. But anyway, I hope you guys enjoyed the first outing and I'll give you a little taste of what this series will be like. I'm very excited. I enjoy doing these game design everyones, and so this is a lot of fun. But anyway, I've just parked my car in the parking lot, which means that this is the end of my drive</v>
+
+00:35:04.870 --> 00:35:06.550
+<v Speaker 1>work. I'll talk to you guys next time.</v>
+

@@ -1,0 +1,482 @@
+WEBVTT
+
+00:00:01.420 --> 00:00:30.850
+<v Speaker 1>Upon my driveway. We all know that means it's time to drive to work OK, so today is the first day of the design of fate reforged. I'm going to talk all about so I already did a a series podcast seven of them on concert Tarkir. So today I'm going to start doing my podcast of multiple podcasts I assume on fate reforged. So we're into the middle block of the cons of Turkey or side the middle set of the constant Turker block. So</v>
+
+00:00:31.310 --> 00:00:47.740
+<v Speaker 1>let's jump in. OK, so when I tried for constant care, we knew going in that the entire point of the block was we started with a drafting method. We knew that we were going to do large, small, large, and something that I've always wanted to try</v>
+
+00:00:49.500 --> 00:01:13.410
+<v Speaker 1>was the idea of having the middle block be drafted with both the 1st and the last sets. Little did I know that this was going to be the last three said block. So I got in my desire right under the wire to try something. OK, so once we knew that, we then spent some time, we did exploratory design, the first one of the first ever, in fact the first ever, and we came up with the idea of a time travel set.</v>
+
+00:01:14.170 --> 00:01:20.580
+<v Speaker 1>So what that meant was the middle set was the past. We were gonna go back to the path to discover</v>
+
+00:01:22.030 --> 00:01:51.860
+<v Speaker 1>what? So the idea essentially was. Our main character comes to the present day, Things are bad. He finds a way to go back to the past, and then he fundamentally needs to change something to change his world. So the story we need to tell was a story in which our main character happens to be Sarkhan Vol goes back into the past to try to change something. Well, what does he want to change? Well, Sarkin loves Dragons. He's revered Dragons. That's always been a big thing of Sarkin. His world has no Dragons. They've been killed off.</v>
+
+00:01:51.960 --> 00:02:09.390
+<v Speaker 1>So what if Sarkin went back in time and changed it so the Dragons weren't killed off? That's the story. So there are a whole bunch of things that needed to get figured out on our end, the design end. We knew what we had been doing for concerts. Our cars had already been designed, in fact, by the way. Actually, this is important thing to understand.</v>
+
+00:02:10.740 --> 00:02:29.670
+<v Speaker 1>We started designing Dragonstar care before we started Fate Reforged, and so I understand why is a large set has a year design a year's worth of design. Small sets used to have four months. We're shifting it now towards closer to six months, but regardless, in order to get</v>
+
+00:02:30.760 --> 00:03:00.790
+<v Speaker 1>Dranzer, Kier came out, had to finish it gets released in three to four months after Fate Reforged, which means it needs to be done roughly the same equivalent of time. But because we had longer to work on it, we actually started first. So Fate Reforge favor Forge was in a really tricky place because what we wanted to do was we wanted have the middle set mean one thing with the first large set and the different thing with the second large set. And so we were in this weird place where we needed</v>
+
+00:03:00.860 --> 00:03:04.520
+<v Speaker 1>sort of giving an identity, but an identity that could sort of</v>
+
+00:03:05.310 --> 00:03:09.360
+<v Speaker 1>evolve as the things around it evolved. OK, so</v>
+
+00:03:11.080 --> 00:03:40.970
+<v Speaker 1>real quick, I don't talk too much about the team anymore, but Ken Nagle was the person I put in charge of the set. He was the lead designer also on the set with Jennifer Clark, Wilkes, Ethan Fleischer, Dave Humphries, Gavin Verhey and myself. So we had a big challenge. By the way, Dave Humphries was not only on the design team, he was the lead developer. Dave likes to do that. Dave likes to be on the design teams that he's lead developing so that he gets a really good sense of what's going on. He's the only developer I know that does that,</v>
+
+00:03:41.040 --> 00:04:11.920
+<v Speaker 1>so I actually think it's interesting. It gives him an insight I think a lot of other developers don't have. But anyway. OK, so the big truck we needed to figure out was how. So we knew on one side we've constructed our here construct here is a wedge set about clams. OK, so we needed to support a set. When you draft with that set, it was all about 3 color play and playing clans. OK, On the other side, we knew that we had an ally color dragon set. I've talked about this before. Originally dragon was going to be enemy colored.</v>
+
+00:04:12.020 --> 00:04:42.290
+<v Speaker 1>It turned out drafting was too similar. It played too much the same way. So we ended up having to shift it. Now once again, we had started drinking some care. We knew it was an ally set, we knew it was an allied dragon set. So the question was OK, this set on one side had a play with a three color wedge set, on the other side had to play with an allied dragon set. How do you do that? What do you need to do? So that was the first big challenge. Speaking of things or challenges, I realize I have no gas so I have not actually filled up my gas tank on the show.</v>
+
+00:04:42.420 --> 00:05:03.830
+<v Speaker 1>I did it once I think so this is the second time. So you guys get my drive to work means you get what I get to do when I drive to work and today I gotta get gas. So if you hear outside noise, that is because I'm getting gas because that is something I have to do. But anyway, I will continue the podcast while I get casts because nothing shall stop. Nothing shall stop the</v>
+
+00:05:05.550 --> 00:05:11.160
+<v Speaker 1>this podcast. OK, so how do we on one side show</v>
+
+00:05:12.650 --> 00:05:19.100
+<v Speaker 1>a three color set, another side show A2 color set? How do we do that? That that was the big challenge.</v>
+
+00:05:20.860 --> 00:05:22.710
+<v Speaker 1>OK, so here was the the thing.</v>
+
+00:05:23.860 --> 00:05:30.510
+<v Speaker 1>We knew that we couldn't have three color gold cards in the set because three color gold cards</v>
+
+00:05:31.330 --> 00:05:33.340
+<v Speaker 1>wouldn't make any sense from the second card</v>
+
+00:05:34.810 --> 00:05:45.060
+<v Speaker 1>with a third set with Dragstar here. So we knew that we needed to. We knew we needed to have stuff that played with three color, but itself wasn't three color.</v>
+
+00:05:46.940 --> 00:06:16.410
+<v Speaker 1>So the question is, how do you do that? I mean, that's that's a very tricky animal of how to do so. The question is how does one pull that off? Meanwhile, we have the problem of we have Dragons in the second set and we're back in the past in which Dragons were still alive. So how do we acknowledge that it's the past, but at the same time set up Dragons the next set. For anyone who's ever read my state of design for the 2015 we aired in some ways, but I'll get there. OK so</v>
+
+00:06:16.500 --> 00:06:47.660
+<v Speaker 1>the thing we want to figure out is 3 color set on one side, 2 colors on the other side. That meant we couldn't have gold cut. We experimented with Gold Cup, we thought about gold cards, but the problem we ran into was the gold cards so made you want to play three color that when you drafted them with the ally color set, it still pushed you toward three color. But the set didn't really enable that. So we would have cards that would trick you into doing something they wouldn't pay off. So the answer was OK, we couldn't specifically have a three color gold cards. The solution of all places</v>
+
+00:06:47.730 --> 00:07:18.090
+<v Speaker 1>came from a mechanic from Ravnica Ball places. A gold set was hybrid. Hybrid has this nice thing where you can if I have a monocolor card with a hybrid cost and the hybrid are the two other cards in the clan, then I still it feels like a three color card in the sense that it requires it can require all three colors to use, but it technically also is playable in A2 color. So the idea is if I have let's say I'm doing ABS on and I have a green card</v>
+
+00:07:18.160 --> 00:07:32.020
+<v Speaker 1>that is an has white and black as activation cost. Well green white is ally. So if I play that in Dragons I can just treat it like a green white card. But if I play it with cons, I can treat it like an obs on card. A green, white, black card.</v>
+
+00:07:33.710 --> 00:07:41.670
+<v Speaker 1>Um. And so the trick there was hybrid allowed. If the hybrid wasn't the only answer, hybrid was the first answer. We need to have a couple of different answers to make it work.</v>
+
+00:07:42.490 --> 00:08:13.140
+<v Speaker 1>OK. The next thing that we needed to do was find out other ways to make cards relevant and feel like 3 color will only being actually two color. The other trick we did is we took cards that cared about permanence. There were certain color. So imagine you had a green card that said I want a white or black permanent in play. Once again in an Abzan deck. It's great. It is green, it reference white, it reference black. It feels like 3 color. But once you get it to A2 color environment, that card only really needs to have, you know, you can play in green white</v>
+
+00:08:13.220 --> 00:08:43.180
+<v Speaker 1>as long as he gets white, it does what it needs to do. So between caring about permanence and hybrid, we've managed to start making the kind of card we needed, which was the card that felt like a clan felt three color, but it wasn't. I mean, but was playable in a 2 colored back and two color ally deck specifically. The other thing to keep in mind was the general premise we had of the set was we were in the past. And so the idea was the clans existed, but they were sort of proto clans.</v>
+
+00:08:43.270 --> 00:09:05.850
+<v Speaker 1>They were the early version of plans. So if you ever looked at the watermarks in this at what the creative team did, it did pretty well was the watermarks exist and they're still are clans, but they're sort of proto versions of the clans. The watermarks, it's clear that the eye is the eye for Jeskai, but it's style is slightly different. It's a little simpler. And so it's important to sort of build that in to make that make sense.</v>
+
+00:09:07.400 --> 00:09:07.700
+<v Speaker 1>Umm,</v>
+
+00:09:08.680 --> 00:09:13.430
+<v Speaker 1>for those wondering, it is taking a long time. Punk yesterday. I don't know My my thing is going very slowly.</v>
+
+00:09:15.260 --> 00:09:32.450
+<v Speaker 1>So we knew that we wanted to have factions. We knew we wanted to have the clan. The proto clans were there. The the things that would become ultimately the clans of content require had to exist, But that wasn't the only thing. We also had to have Dragons. So one of the big debates we had, and like I said, I think we aired a little off on this one, but</v>
+
+00:09:34.010 --> 00:09:56.810
+<v Speaker 1>we were back in a world of Dragons. You know, it's very important in the creative team really stressed this that we were back in the time when Dragons existed. If Sarkin, if there weren't Dragons everywhere, well then what's the promise of the set? The promise of the set was we are, you know, Sarkin returned to a time of Dragons. So one of the big things to figure out was how to get that sense of Dragons in a way that would pay that off.</v>
+
+00:09:58.290 --> 00:10:01.580
+<v Speaker 1>So what we ended up doing was we ended up having</v>
+
+00:10:03.860 --> 00:10:08.630
+<v Speaker 1>it's not giving my receipt. Well, I I guess I will have to pass on my receipt. OK, back in the car.</v>
+
+00:10:09.910 --> 00:10:12.120
+<v Speaker 1>So one of the things we had to figure out was</v>
+
+00:10:12.920 --> 00:10:34.300
+<v Speaker 1>talk about that. One of the hard things about doing, I don't normally get gas while I do this is I have to keep track of multiple things at once. And so I apologize that I'm a little more distracted when I'm doing a second thing, but you have my full attention again, we're back to recording. OK, so where was I? We were trying to figure out, trying to figure how Dragons. So</v>
+
+00:10:36.810 --> 00:11:04.780
+<v Speaker 1>here's the challenge. The set that came after us was the dragon set. We were sort of paying off Dragons in a big, big splashy way. So it was important that we don't out drag in the dragon set. But the same set is important to establish the path. And the defining quality of the path was we were at a crossroads in time in which the Dragons still existed. And if shark had kept the Dragons alive, we know we were going to a world where the Dragons were</v>
+
+00:11:04.990 --> 00:11:35.090
+<v Speaker 1>masters of the clans, if you will. The So one of the things to figure out was how many Dragons was the right number of Dragons. The other thing was we knew we needed to introduce the Dragons would become the clan Lords. So we know for sure, for sure there was going to be a cycle of Dragons, legendary Dragons that would we would see here as younger versions and then see in the drive started here as the dragon Lord. So we knew we were doing those. There was a big fight of whether or not we were supposed to have just those and I,</v>
+
+00:11:35.390 --> 00:11:59.000
+<v Speaker 1>I really want to just those only because I did not want to step on the dragon set. I knew that. And when we ended up doing was in order to feel like there's enough Dragons, that was the past. We made a cycle of monocolor Dragons that we stuck at on common, I believe. And then we had one common dragon, which was it sort of you attacked within and then went back to your hand. So it</v>
+
+00:12:00.220 --> 00:12:10.780
+<v Speaker 1>it, it was actually, I think you sacrificed it, but the idea was it felt more like a direct damage spells than actual dragon, although it was put in the style of a dragon. So it definitely would feel like a dragon.</v>
+
+00:12:11.940 --> 00:12:13.210
+<v Speaker 1>OK so</v>
+
+00:12:15.610 --> 00:12:39.770
+<v Speaker 1>that ended up making 11 dragon. So turns out that having 11 Dragons, having one common, 5 uncommon and five rares. The reason we made the legendary ones rare was we knew we wanted space to have mythic rare because we wanted them to be more grandiose in their dragon Lord fan. So we put them at rare to give ourselves some space. But anyway, what that ended up doing was we had a higher ascended Dragons than any set in the history of magic,</v>
+
+00:12:40.920 --> 00:12:44.530
+<v Speaker 1>which really wasn't. I mean, looking back in retrospect, I I feel like</v>
+
+00:12:45.190 --> 00:13:06.090
+<v Speaker 1>we needed to find a way. Now that thing you'll notice about Dragonstalker is Dragons show up all the time in the background of the art. And that's also true in Dragon Turtle. In fact, even even more true in Drag Jerk here. But the real question going back was could we have conveyed dragoness in a way that didn't require so many actual creature type Dragons</v>
+
+00:13:07.510 --> 00:13:16.930
+<v Speaker 1>and that that was one of the things sometimes that you would get torn in design. Is that what you want for design and when you want for the creative are slightly different like</v>
+
+00:13:17.650 --> 00:13:29.630
+<v Speaker 1>I was? I mean from a purely design standpoint, we all we needed was the dragon for legendary Dragons that would turn into the dragon Lords. That's all we really needed to have design wise. But flavor wise,</v>
+
+00:13:30.270 --> 00:13:51.240
+<v Speaker 1>did we really sell the idea that Sarkin went back in time and now it's a world where Dragons our live if you just didn't have any Dragons? And I'm torn. I guess I wish we could have found like maybe if we found a solution like the common. First of all, the comments should have been the comment should have been like I'm frustrated right here. Didn't end up with a common dragon. We tried and design, but it ended up not being there.</v>
+
+00:13:52.540 --> 00:14:13.810
+<v Speaker 1>If that for sure, for sure. The comment should have been Dragonair that that's easy. I think what I would have done is maybe try to see if there was a way to do something like the common and uncommon. So there's some cards in which Dragons appear, they're dragging tokens or something where there's some dragging this to it, but just have the accent and Dragons be a lot lower. I think that was my biggest problem was</v>
+
+00:14:15.240 --> 00:14:23.450
+<v Speaker 1>it's really, really hard to have the dragon nest dragon set of all dragon times when they set before it is the most dragon set ever up to that time that that made things hard.</v>
+
+00:14:25.520 --> 00:14:39.850
+<v Speaker 1>OK, so the the step by the way, I got glossed over a few important little points. So that came out in January 23rd, 2015. Have 185 cards, so 70 common, 60 uncommon, 35 rare, 10 mythic rare.</v>
+
+00:14:42.310 --> 00:14:43.190
+<v Speaker 1>So at the time,</v>
+
+00:14:44.450 --> 00:14:47.700
+<v Speaker 1>there's a time where magic large sets had,</v>
+
+00:14:49.300 --> 00:14:59.370
+<v Speaker 1>I'm sorry, small sets had 60 uncommons. We eventually shifted up to 80 uncommons. This was part of the transition of us getting there. I think small sets now all have 80</v>
+
+00:15:00.670 --> 00:15:08.280
+<v Speaker 1>and part of changing over to the two block system require us having some more cards at small. We wanted to start drafting the small set first and have two packs of it</v>
+
+00:15:10.160 --> 00:15:18.490
+<v Speaker 1>look at there. That's the future anyway. So this one has 70, which is a little more than we normally did, but not as much as we eventually would get to.</v>
+
+00:15:22.280 --> 00:15:27.780
+<v Speaker 1>We also did this cool thing with the basic land where the tap lands from</v>
+
+00:15:28.690 --> 00:15:58.980
+<v Speaker 1>that basically you had a chance of getting with new art, the tap land or with old art, the fetch lands. We're in the land slots and in a rarity of equal value to sort of how rare they were. But there was this extra bonus sort of land thing you could get. So you're able to get some of it dual lands from conduct here. The tap lands that you got mana that came in tap, but you got mana, not mana. You got a life from them. Those had new art and then the fetchlands</v>
+
+00:15:59.070 --> 00:16:02.050
+<v Speaker 1>were the same art that they were in concert here.</v>
+
+00:16:03.630 --> 00:16:33.270
+<v Speaker 1>OK, so now comes the bigger structure. So we use hybrid as a trick to sort of let you play 3 color and also play 2 color. But there was a much bigger structural thing we had to figure out and that was OK. So we're in the dynamic of the set was we started and we were in present day, present day talk. Here we go back in the past, we're in past dark here we come back. We're an alternate reality present our here Sarkin has saved Ugin. Oh, let me talk a little bit about that. So that was a big question. So</v>
+
+00:16:34.020 --> 00:17:00.680
+<v Speaker 1>one of the things that we do when we build a block is we go to the creative team with our needs. So for example, we had created an archetype. We were talking a time travel story, but here's all we needed. We needed a world that was in peril. We needed a hero that went back in the past and changed some fundamental thing. And then the new world was the shift of the fundamental thing. So we had gone the creative team and said to them, OK, what's the world in peril? What's the world that we end up with?</v>
+
+00:17:04.160 --> 00:17:19.530
+<v Speaker 1>And they have given us the idea of Starkings home world of a clan in Asian based clan world where the world world where the clans were all fighting. And then it turned into a dragon world.</v>
+
+00:17:20.770 --> 00:17:24.480
+<v Speaker 1>And they liked the idea of it being Tarkir, which was</v>
+
+00:17:26.660 --> 00:17:56.150
+<v Speaker 1>what's the name, sucking ball sucking balls home plane, because we knew that he came from a plane in which he revered dragon for the Dragons had been killed off. So this seemed like a cool place to return. We knew it was a war world sort of place and that you have the head fusion of different Asian sort of cultures and it was dragoness. But it allowed us the opportunity to go back in the past and change that and then make it a world of Dragons. OK, so we had all that. So when we went in, we the</v>
+
+00:17:56.830 --> 00:18:19.460
+<v Speaker 1>well, we said the creative team was look, OK, we know we're starting in Parkinson's war-torn home and we know we're ending up with dragon worlds. OK, so something has to happen. Sarkin has to go back in the past and somehow save the Dragons. But how you save the Dragons? Why you saved all that? Well, why? We knew why because he loves Dragons. But how does he do it? So there are a bunch of different things.</v>
+
+00:18:21.590 --> 00:18:26.670
+<v Speaker 1>Something that they latched on very, very early was the idea of Oh, no, actually</v>
+
+00:18:27.320 --> 00:18:57.350
+<v Speaker 1>the first thing they talked about was that tried to remember ohh. So another thing that we had done during exploratory design was I wanted a through line, mechanical through line through this. That meaning I wanted, I knew that each of the factions were to get their own flavoring in their own mechanic, but I wanted to have something that ran through everything that I could show the the evolution of past, present, past, alternate present. And so we ended up doing that with face down</v>
+
+00:18:57.420 --> 00:19:06.940
+<v Speaker 1>card. So more for the mechanic in the first set, we wanted to have a proto version in the second set and then we wanted to have a tweaked version of in 3rd set.</v>
+
+00:19:09.230 --> 00:19:40.220
+<v Speaker 1>So once we knew we were doing that, the creative team started playing around the idea of dragon magic. That maybe in the past the Dragons had created magic and the humans is somehow subverted it over time and maybe even they use that magic as a meme. Subvert the Dragons that by using the dragon magic, the humans version of it sort of used it to hide their identity so the Dragons couldn't recognize them and then were able to kill them. That was the original idea so the man is OK. Why exactly did the Dragons die off?</v>
+
+00:19:40.440 --> 00:19:45.690
+<v Speaker 1>And so the creative team had had to figure out, OK, well, what what happened in the Dragons died off.</v>
+
+00:19:47.020 --> 00:19:58.120
+<v Speaker 1>And then they they liked the idea that there was something that was preventing new Dragons from being born and that since new Dragons weren't being born, that allowed the,</v>
+
+00:19:59.260 --> 00:20:11.750
+<v Speaker 1>that allowed the clans as they killed off the Dragons, there's no new Dragons. And that once that happened. So the quick question is, OK, how can we make a singular event in which that was true and for a while?</v>
+
+00:20:13.440 --> 00:20:18.650
+<v Speaker 1>They played around the idea that was the passing of the dragon magic that was important and that there was this,</v>
+
+00:20:19.910 --> 00:20:25.930
+<v Speaker 1>remember the story? There's an emperor who was I think a human emperor who got the dragon magic and</v>
+
+00:20:26.770 --> 00:20:56.510
+<v Speaker 1>was able to negotiate and get the human magic and passes it on to the humans. And so the original version was they had to kill the emperor. That was like the original, go back in time and kill the emperor. And then the creative team decided two things. One, they didn't live idea that Sarkin was going to change by killing things. It felt like we were trying to save the Dragons, so we should save something, not kill something that I felt weird like how you saved the Dragons by killing a thing that felt sort of fighting itself. So eventually they said, OK,</v>
+
+00:20:56.710 --> 00:21:23.490
+<v Speaker 1>let's let's have him save somebody. And then they realized that they had a they had worked something into circus's back story that made perfect sense, which was Sarkin had been hearing voices. So for those in our story, Sarkin got sent to Zendikar by Nicole Bolas, I believe. And Sarkin has started hearing voices while he was on Zendikar. If you remember Sarkhan the mad, he was going mad.</v>
+
+00:21:25.570 --> 00:21:28.110
+<v Speaker 1>And at the time the question was</v>
+
+00:21:28.880 --> 00:21:40.650
+<v Speaker 1>what were the voices? And we said, you know what those voices, what are those voices were from Ogen And we know Ugin had been on Zendikar cause Organ was one of the three planes walkers that had trapped the Eldrazi.</v>
+
+00:21:42.010 --> 00:22:12.300
+<v Speaker 1>And so it like this idea of we didn't originally know where Hogan was from. We had never defined Rubin from well, what if Ugin was from Turkey or the world of Dragons. Logan's a dragon. What if it was from this world? And then they came up with the idea of what if Logan is his death was the reason the Dragons died off. What if his death was something has something to do with prevention of making more Dragons? And so they've come up with this thing called the dragon Tempest, which was on Tarkir. Dragons</v>
+
+00:22:12.370 --> 00:22:26.450
+<v Speaker 1>weren't born sort of the normal way that there are these natural things called Tempest that were formed, and Dragons got formed out of The Tempest. And what if there was a person who their embodiment sort of safeguarded these tempests and that person was</v>
+
+00:22:27.510 --> 00:22:57.380
+<v Speaker 1>now the other cool thing? If you go back in time there, I think it was an economic. There was something with Nicole Bolas where someone asked him about Uggen and Nicole Bolas makes a comment about how he left him in the ground, the implication that he had killed Logan. Now, we knew at the time that Nicol Bolas is a very unreliable source, that Nicole could say he did something, but did he? Who knows? But we liked the idea. There's this thread that Nicole Bolas had claimed he had killed Ugin and like, oh,</v>
+
+00:22:57.470 --> 00:23:10.330
+<v Speaker 1>OK, we need Sarkin to save again. There's a there's this unresolved threat of Bolus maybe has killed Ugin. What if that was what went on? So what if they go back in time and they managed to save?</v>
+
+00:23:12.310 --> 00:23:20.750
+<v Speaker 1>They managed to Sarkin saves Ugen after his fight with the cold bolus. All the pieces kind of came together. Now, this is one of the things where</v>
+
+00:23:22.430 --> 00:23:52.680
+<v Speaker 1>I I think that there's a lot of times when you have a lot of threads, they kind of lead in a direction and this was something where it kind of naturally came together. It's possible maybe even when they got the seeds got planted originally they were going in this direction and just we picked up on that. But anyway, it, it made for a pretty cool story of, okay, Sharky's going back in time. What is he going to do? He is going to save Ugin. How's he going to begin from the fight against Nicol Bolas? Now there are a whole bunch of problems had to get solved, which was</v>
+
+00:23:54.170 --> 00:23:54.910
+<v Speaker 1>that</v>
+
+00:23:55.950 --> 00:24:26.320
+<v Speaker 1>the one of the big things that we wanted to do is make sure that the changing of the times affected Tarkir, but didn't affect a lot of other things. And so the idea was they wanted organ to be saved, but basically wake up present day, not be saved back in the past and that we can be alive to go do so we decided, I guess when they were trying to figure out how much time made sense of the dragon solid killed off they it was like 1300 years. So they didn't want Logan alive and prancing around the multiverse for 1300 years.</v>
+
+00:24:26.400 --> 00:24:49.910
+<v Speaker 1>Obviously he would do things that would change things. So the idea was and they wanted Bolus to still believe that moving was dead. They didn't want to like in the middle of the fight save again. So the idea was Nicole Bolas kills Eugen or mortally wounds Olgin. Olguin is dying, so Ogan puts himself in a cocoon and sends out a message to the future,</v>
+
+00:24:51.100 --> 00:24:52.780
+<v Speaker 1>which ends up coming to</v>
+
+00:24:53.910 --> 00:24:56.830
+<v Speaker 1>someone else from his world, which is Sarkhan Vol.</v>
+
+00:24:57.490 --> 00:25:27.220
+<v Speaker 1>And um, the beacon gets him back to the time and it's through the magic Mugen that is able to traverse through time and he comes back to save him. But by saving him, what he does is he basically gets in this healing cocoon so that he won't die, that he's in the process of dying and that certain comes back both he gets to see the fight, both leaves and then he goes and he mends Ugin and help set him up with this cocoon so that Ugin will later</v>
+
+00:25:27.680 --> 00:25:40.950
+<v Speaker 1>heal. And so Logan takes us 1300 years to heal so that when we see him in the modern day storyline, he's just come out of his cocoon. So when we he had he interacts. Obviously he's in the storyline for Battle for Zendikar.</v>
+
+00:25:42.560 --> 00:26:03.600
+<v Speaker 1>In fact, I think what happens is, um, Sarkin had come trying to find Ugin because he knew the Zendikar on Zendikar. The Eldrazi gotten out and he knew they needed to do something about it. So he was trying to find him. And so if you see him in the original storyline, he shows up in the original story and then</v>
+
+00:26:05.440 --> 00:26:15.270
+<v Speaker 1>what happens is sorry, starting goes back in time changes thing not to dragon set. So and then Circon shows up in the alternate timeline and Ugin is there for him to find.</v>
+
+00:26:17.600 --> 00:26:28.460
+<v Speaker 1>So that's one example of the story. And then the fact that Logan is there, we wanted to make sure that the outcome of the story mattered for magic going forward, but didn't completely rewrite the the story thus far.</v>
+
+00:26:29.610 --> 00:27:00.320
+<v Speaker 1>OK, anyway, my deviation into the story. OK, so now we knew we had the following, which is we wanted to have this mechanic that was running through, which was a face down. So what happened there was we had come up in exploratory design. We had come to the realization that what we wanted was a proto version of morph, meaning something that felt like would one day evolve into morph. And we came up with a mechanic. We have time. We called recruit. You guys now know it is manifest and the idea was</v>
+
+00:27:00.420 --> 00:27:17.550
+<v Speaker 1>it just took cards and made them that face down to two creatures the original version didn't have built into the ability to turn up if you're a creature that came later. And the idea was I'm just on some level I'm making tokens, but if the token was a</v>
+
+00:27:18.050 --> 00:27:35.870
+<v Speaker 1>face down card that had Morph, Will could turn up. And one of the cool things was with Morph, there's no surprise when I play face down creature, you know when I play face down creature that it's a Morph creature. There's no suspense there. You don't know what Morph creature. The suspense has to do with what it is, but not the fact that it's an unknown thing.</v>
+
+00:27:39.630 --> 00:27:45.250
+<v Speaker 1>But with Manifest, I now got a 22 face down creature in play that you didn't know whether it was a more or not.</v>
+
+00:27:47.000 --> 00:28:16.790
+<v Speaker 1>And there's a lot of debate by the way, when we have this in playtests, we knew over the complicated mechanic, you know, we knew that. But it was during Divine that Dave Humphries, like I said, it was on the design team, came up the suggestion of what if built into it was it was a creature could turn itself face up because there's a little too dependent on morph. And that way it allowed you to play it in a deck that didn't even have more features. And it was more like originally, if you didn't have more features, it mostly was just a token making mechanic,</v>
+
+00:28:16.890 --> 00:28:18.820
+<v Speaker 1>a slightly complicated token making mechanic</v>
+
+00:28:20.270 --> 00:28:50.120
+<v Speaker 1>that threaten more. I mean, you didn't have more virus talk about this. Your opponent doesn't know whether or not in the limited environment you have more. So it was more than just the two creatures, 2 creatures at least had the threat of being a more feature. But if you didn't actually have more, if there wasn't a lot you could do. So Dave suggestion was to sort of allow you to turn it face up. Anyway, we liked it, it played well. Our big concern was there was a lot going on. And I'll get to the mechanics in a second. There's a lot, a lot of moving pieces and having a mechanic that was</v>
+
+00:28:50.450 --> 00:28:59.290
+<v Speaker 1>on some ways trickier than Morph and more going on than morph we were worried about. But we played tested, we left it in design, we left it in for development</v>
+
+00:29:00.610 --> 00:29:30.490
+<v Speaker 1>and development played it and they felt the same way, designed it, which was really was fun. It was a fun mechanic, but we knew it was a bit complex. We said, OK, we're going to do it. But we tried really hard to make sure that the stuff around it was not as not quite as complex. I think morph being the face down mechanic, being this whole block really made us sort of make everything around it a little simpler. But anyway, we did it. I'm glad we did. The audience really liked it. But it definitely did add an extra layer of complication cause manifest. I mean, luckily if you know more,</v>
+
+00:29:30.570 --> 00:29:54.220
+<v Speaker 1>manifest isn't super confusing if you know morph, but if you're unfamiliar with morph, it's a pretty complex mechanic because it is in some ways everything morphs, but more but more complicated. Originally when we played around with it, I think they all came off the top of your library. And then we decided that we could branch off a little bit. Mostly came off the top of your library, but it came from a few other places as well.</v>
+
+00:29:55.050 --> 00:30:24.790
+<v Speaker 1>OK, so we had manifest. So now how do we feel like we're the the junction point, the crossway point between two different things. So one was we wanted to have elements of consent dark here in the design. We wand of the elements of dragging shark here. So the idea was you would see stuff that some of it would drift to be one set and the other would drift to be the other set. So the idea we came up with is we had five clans. We knew we were going to keep the proto clans.</v>
+
+00:30:25.060 --> 00:30:32.590
+<v Speaker 1>What if only some of the clans have the mechanic that you saw in cons? What if a few of the clans had mechanics that you saw in Dragons?</v>
+
+00:30:33.770 --> 00:31:03.450
+<v Speaker 1>So one of the things we did in Dragons once again, remember dragon starters first was in Dragons. We made mechanics for each of the five plans, if you will remember they shift in Alec Kara clans in in Dragons, and we gave them a mechanic that you could that would play nicely with the mechanic that went through. So really, by the way, the original idea was that we would have the clans and they would have names and those names would go all the way through the block that</v>
+
+00:31:03.550 --> 00:31:33.380
+<v Speaker 1>the Jess guy were red, white, blue, and then go back to the past and they they were more white and blue with a little bit of red. And then you go to the the alternate present and they were white. It was white blue. There was no more no more red in it. The problem was we had never given names to the wedges and we knew that people were so badly wanted to use those names for the wedges that we were afraid we would confuse people, You know, that have just guy wasn't the third set, But in that's that just guy didn't mean red, white, blue. It meant white, blue. It would be confusing. So we ended up</v>
+
+00:31:34.100 --> 00:31:43.190
+<v Speaker 1>calling the clans in the dragon set after the Dragons that were the dragon Lords. So Ojai became sort of the clan, if you will, just named after the dragon.</v>
+
+00:31:43.890 --> 00:31:44.490
+<v Speaker 1>Um,</v>
+
+00:31:46.300 --> 00:32:12.730
+<v Speaker 1>So what? Well, the menthol was there was a through line that like once again, the reason that I sent to the color not in the enemy color was each clan did have a even though the name change, there was an identity that went all the way through. So there was a blue based cunning clan that started as Jess guy and would turn into Ojai. It would start as red, white, blue. It become white blue with a little bit of red and it would end up being</v>
+
+00:32:13.990 --> 00:32:14.590
+<v Speaker 1>white blue.</v>
+
+00:32:15.310 --> 00:32:33.510
+<v Speaker 1>And we want to do is make sure that whatever mechanic we gave to that clan in the first set, in the second set or sorry and Dragons, it would play nicely because we knew either in Kansas Ark here or sorry, either in favor of forge when you play with favors Forge or when you play forge drive through here, you would have them overlap.</v>
+
+00:32:34.310 --> 00:32:46.290
+<v Speaker 1>And we ended up doing a split of three and two because we knew we introducing manifest and because we'd have two mechanics that meant we'd we'd have two other new mechanics introduced in favor Forge and the three remaining ones would be in Dragnet Tarkir.</v>
+
+00:32:47.660 --> 00:32:50.080
+<v Speaker 1>The idea was we set up the system where</v>
+
+00:32:51.280 --> 00:33:16.820
+<v Speaker 1>any color version of the clan had a mechanic 2 color version the clan had a mechanic and there are synergies between those mechanics. Now favor forge didn't figure out those mechanics. The dragon, one dragon to Tarkir figured those out. So what had happened was we knew the following is we knew that we wanted to carry over Delve that delve had come back and we we knew we had more to do with delve. We knew we didn't want to do</v>
+
+00:33:18.150 --> 00:33:42.150
+<v Speaker 1>OHH Outlast because last night the absent mechanic things out last because there wasn't a lot of design space. So we knew we wanted to change that. So we knew the white green mechanic in Dragons would have to change. We knew the black blue wouldn't change, or I'm sorry, we knew the black blue. I mean, everything was gonna change in Dragons, but we knew that it wouldn't change in Fate Reforged</v>
+
+00:33:43.990 --> 00:33:44.850
+<v Speaker 1>We</v>
+
+00:33:45.570 --> 00:34:15.310
+<v Speaker 1>when for the mechanic, so raid had a lot of space left, so we were happy to do raid outlast didn't. So we didn't want to outlast delved into. We want to delve and when do people been looking forward for Dell for so long? Ferocious We knew there was more design space, but we were more than happy to give it up. We knew it was going to be probably the least favorite mechanic ended up being least favorite mechanic. Oh, and prowess. We really like process. We wanted to keep doing prowess. We did have the time knows going to come Evergreen, so we saw a lot more design space in it. Turns out there's tons of space</v>
+
+00:34:15.470 --> 00:34:18.680
+<v Speaker 1>when Evergreen so we knew for sure we wanted to delve in prowess.</v>
+
+00:34:19.870 --> 00:34:33.440
+<v Speaker 1>We know we didn't want to last. So the question was would red green be the second one with new mechanic or were black red with a new mechanic? So it turns out in Dragons are here, we ended up making a mechanic called Dash</v>
+
+00:34:34.730 --> 00:34:43.970
+<v Speaker 1>that were played really nicely and we we decided we really that had enough design space we'd bring it back. So even though we liked raid, we decided to bring dash back. We went back and forth between</v>
+
+00:34:45.620 --> 00:34:50.450
+<v Speaker 1>neurologist. Once we did that, we knew the red, white, green mechanic would be back. So we knew that we were going ferocious forward</v>
+
+00:34:52.070 --> 00:34:52.920
+<v Speaker 1>and so</v>
+
+00:34:53.710 --> 00:35:23.680
+<v Speaker 1>and then we'd end to make formidable for dragon stroke here. OK, So once we figure that out, then OK, we knew that 2 new mechanics, black red would be dash, dash versus mechanic where you could play the card and then for the dash cost, you could play it and get haste. But if you did that, then it came back to your turn, ended turn. And then again, it seemed real simple. And it was nice in that you could put on a creature and literally just be cheaper so you could talk quicker, but you also could do a lot of things into the battlefield effects and leaves the battlefield. You do a lot of tricks with it, so</v>
+
+00:35:23.800 --> 00:35:37.670
+<v Speaker 1>and it ended up being a very fun mechanic. It was the first mechanic we made in Dragon Tarkir. Interestingly, bolster, which was a mechanic that when you bolstered you put a + 1 + 1 counter bolster N you put n + 1 counter on the creature with the lowest</v>
+
+00:35:39.010 --> 00:35:43.070
+<v Speaker 1>with power toughness. I think it's power. But anyway,</v>
+
+00:35:45.270 --> 00:36:15.960
+<v Speaker 1>Bowser was the last mechanic we made, so Dragons took his time figuring out. Meanwhile, favorite force was bouncing around trying to figure out like what to do. And like I said, for a while we were thinking maybe instead of the Blackbird mechanic, the red green mechanic would be the new mechanic. But once we settled on the OK, we knew white green and black red, but we didn't know what the white green mechanic was going to be. We figured out, because once we knew we wanted to dash and black red that that and and we knew that we needed to do white green, that mechanic took a while to find. We started Favor Forge without knowing what the mechanic</v>
+
+00:36:16.030 --> 00:36:23.770
+<v Speaker 1>does and that Dragons kept changing and around and whenever Dragons changed around, they were forged, were changed around. So it was definitely pretty tricky.</v>
+
+00:36:24.570 --> 00:36:29.880
+<v Speaker 1>For those wondering, by the way, I'm looking at my clock, there is heavy traffic day there. They're doing some,</v>
+
+00:36:30.450 --> 00:36:45.260
+<v Speaker 1>I don't know, something going on in Seattle today. I was warned there be extra traffic. So it turns out there is extra traffic. So luckily there's lots to talk about favor forge. So I'm no No Fear that I can't fill up this podcast. There's lots to talk about. OK, back to favorites.</v>
+
+00:36:46.810 --> 00:37:04.650
+<v Speaker 1>OK, so we figured out eventually won bolster, we figured out dash. So we knew that the new mechanics being introduced in the set would be manifest, dash and bolster, all of which are really fun mechanics. Boston to take a while. We did through go through a bunch of different things and the other thing that we wanted to make sure was</v>
+
+00:37:06.100 --> 00:37:36.520
+<v Speaker 1>even though we so remember that the overlap between the three color clan mechanic and the two color clan mechanic had to be synergistic. So we knew some of those would overlap, would favor forest played cons and somewhat overlap when Fate reforged played with Dragons. And so we wanted to make sure that that cards that enable those things were stuck in Fate Reforged to make sure whichever version you played were smooth. The other big thing we did is they were forged.</v>
+
+00:37:37.810 --> 00:38:06.490
+<v Speaker 1>Obviously you need a structure, but the theme which was handed to it was the idea of this was the focal point of history. This was the fulcrum. This was where choices were going to be made. So one of the things we wanted to make sure was we wanted to have this theme of choice and change of the idea that you, the player, are making decision and that decision has an outcome. So thematically, Sarkin had to make a choice in the story. He had to go back now. I mean, obviously he was going to make it that that that,</v>
+
+00:38:06.820 --> 00:38:36.100
+<v Speaker 1>but from a story standpoint, Cirkin has a big decision to make. He has to go back. He decide whether or not to save Ogen now obviously goes back. Obviously he does it. But I mean, it needed to be a true decision. It needed to be something he needed to figure out from a story standpoint. And so we like the idea of change of choice as being a big part of the set. So one of the things we did is I'm going to talk about the cycles in a second that we built in a bunch of different ways to have choice.</v>
+
+00:38:38.460 --> 00:38:44.670
+<v Speaker 1>So there are. So in general, we like modal stuff. So this set was a little more modal than normal,</v>
+
+00:38:46.010 --> 00:39:16.000
+<v Speaker 1>meaning that we model something that we use to describe saying you have a choice. Do you want to do A, you want to B Interestingly, Gavin Verhey was on the design team. There was a lot of model stuff that went on and Gavin felt like the cars were looking a little busy. So Gavin mocked up some cards using bullet points to demonstrate how we could do them with bullet points and people. So like how it looked that we made the decision and started with Favor Forge. We changed how we do modal styles. So now we do models those bullet points to say choose one bullet point, a bullet point</v>
+
+00:39:16.070 --> 00:39:21.600
+<v Speaker 1>he. Sometimes the new model does more than two choices. For this set, it was a two choice model was the theme.</v>
+
+00:39:22.360 --> 00:39:52.690
+<v Speaker 1>OK, so as in every set, you want to do some cycles. So we had a bunch of choices. The two highest profile choice cycles. Probably the highest was what we call the sieges. So what the seizures were is you had a pick and they represented it was two different. It was enchantment that had two different outcomes. So you could choose chairman affect one or in fact them enchantment. It's hard to say enchantment effect one or enchantment effect two. And the idea was we flavor</v>
+
+00:39:52.760 --> 00:40:22.020
+<v Speaker 1>them. So one was more con like and one was more dragonlike. And we went through a lot of decisions of how to sort of flavor this because the idea was are you going to come route or the dragon route? Meanwhile, by the way, we also made one other card, Crux of Fate, which was a card that we had made pretty early on, which was we wanted to definitely play the idea of are you choosing drugs or not choosing dragon? So we made a wrath of God called Crux of Fate.</v>
+
+00:40:22.770 --> 00:40:52.700
+<v Speaker 1>Like around the guy that either destroyed all Dragons or destroyed all non Dragons. And we ended up putting the fight between bolus and Eugene on it. And it was a pretty cool, cool card in that it really we one of those cards we made we knew would be the first card we'd show from the set because it just did a good job of explaining the crux point in history. The decision circuit hadn't made the idea of a set that that is at the cross points. And so I mean not that obviously all the like in the in the dragon future. It's</v>
+
+00:40:52.790 --> 00:41:23.240
+<v Speaker 1>all dragon for kill. That's not literal, but it's it did a nice job of sort of figuratively, sort of showing the conflict at hand here and that the crux of fate Austin name. So the sieges and the crusade. We did something cool, by the way, which was there were special versions of them in foil that were lenticular that showed you two different pictures on it depending on how you look at it or not. The picture didn't change. The picture did the same. The foil of the watermark would change.</v>
+
+00:41:23.330 --> 00:41:55.260
+<v Speaker 1>So if you looked at it one way, it looked like the clan watermark. You looked at other way, it looked like the dragon clan watermark. And so I talked about how they had made a proto version of the watermarks. They also made a version of the watermarks when they went to be the dragon clan, so that there's a little reminiscent of it. And the clans all the way through admired the same thing. So if you were the clan of the Eye of the dragon that stayed through the cunning, the cunning part stayed all the way through and the settlement of the eye stayed all the way through. So anyway, there's a cool thing for those that didn't realize it.</v>
+
+00:41:56.170 --> 00:42:00.260
+<v Speaker 1>The other thing that we did was there a cycle of Commons, what they called,</v>
+
+00:42:01.800 --> 00:42:16.260
+<v Speaker 1>I don't have to have names. And So what they did is when they came into play, you got to choose whether or not there was a counter, a + 1 + 1 counter on it, or whether or not there was an effect that happened. So essentially, they could be a little bigger or they could have a spell effect that came along with them. You chose what you wanted.</v>
+
+00:42:17.660 --> 00:42:21.190
+<v Speaker 1>So the idea was, I think the flavor was</v>
+
+00:42:23.500 --> 00:42:46.300
+<v Speaker 1>kind of in one version of the world, they got toughened up another version they were able to do their magic. And you know, once again, the the a lot of times when you get a motif, it's more important than a theme that you sort of the idea is choice was important. And then we played up choice as a design, mechanical design thing. It's not that every choice was actually the choice dark and had made, but just the idea of the set about choices. I think that was pretty important.</v>
+
+00:42:48.570 --> 00:43:12.980
+<v Speaker 1>So anyway, we put a whole bunch of different cycles in this. I'm almost to work, so I'm going to just talk about the cycles real quickly and then I will wrap up for the day. And then starting next time I'll talk about the cards. OK, so the first thing that we did there was a cycle of enemy color activations. So one of the ways it definitely gets you to sort of play with other things was to have all color activations.</v>
+
+00:43:14.590 --> 00:43:20.420
+<v Speaker 1>We hybrid was nice because offset color hybrid activations allowed you to</v>
+
+00:43:22.020 --> 00:43:28.210
+<v Speaker 1>play a card and feel like you were in part of a three color tribe, but when you got to 2 Coral World it would work just as fine.</v>
+
+00:43:29.570 --> 00:43:31.050
+<v Speaker 1>Who did allied colored?</v>
+
+00:43:33.670 --> 00:44:03.440
+<v Speaker 1>Ohh, we did Alec color dragon, so we did the dragon. We did a cycle of dragon through legendary that would turn into the Dragons that become the dragon Lords. We also did a cycle, I think it uncommon of monocolor Dragons just to convey the idea that we're in a world where Dragons are alive again. We did the sieges, which I was talking about earlier, which was the enchantment where you made a choice and we ended up having to choose between Dragons and cons. We spent a long time figuring out what were the words, but in the end, hey, what are you choosing between? Are the Dragons</v>
+
+00:44:03.640 --> 00:44:05.070
+<v Speaker 1>rule of the con is gonna rule</v>
+
+00:44:06.610 --> 00:44:07.230
+<v Speaker 1>had</v>
+
+00:44:08.530 --> 00:44:38.410
+<v Speaker 1>clan matter creatures and those were creatures where if you had the right color that they were monocolored creatures that if you had a permanent of one of the two colors in their clan of three color clan, then they gained an ability. We had common cycle of common manifest creatures. We had common enemy color instance. Oh, because we wanted you to draft and pick toward enemies for purposes of conduit archier. It's something we did that we knew wouldn't get as much use when you drafted the other set, but would help you draft times</v>
+
+00:44:38.970 --> 00:44:50.840
+<v Speaker 1>contact here. We dropped that We made the model truck. We choose Connor or the effect we made ruin marks, which were or as the cost 2 and C. So two and a callus. I'm sorry, two and a colored mana.</v>
+
+00:44:52.710 --> 00:45:11.020
+<v Speaker 1>So two colors and a white, blue, black, red or green. And then it gave the creature plus 2 + 2 and it gave an ability if you had a permanent of the correct type. So it was another thing that said, hey, I give you this. But if you have one of these two colors, which wasn't the clan colors, the three color wedge colors, then you got an extra ability.</v>
+
+00:45:12.710 --> 00:45:13.650
+<v Speaker 1>And then,</v>
+
+00:45:14.690 --> 00:45:15.450
+<v Speaker 1>um,</v>
+
+00:45:17.000 --> 00:45:47.000
+<v Speaker 1>ohh. Then we made a manifest cycle just in jest guy. But anyway, and then we have we printed the lands from from concert dark hair. OK, so as you can see, today we did all sorts of things to put this set together. I'm not quite done talking about this, but I'm going to get to the card part because a we're I spent a good 45 minutes talking to you. So next time I'll start with the cards. And as I do the card stories, I'll get to a lot of other pieces about the set. So anyway, that's a long podcast with a lot of traffic and got some gas so that my friends in a good 45 minute</v>
+
+00:45:47.070 --> 00:45:59.130
+<v Speaker 1>club is the beginning of my favorite for podcasts. But I'm in my product space so we all know that means that means is the end of my drive to work. Instead of talking magic, it's time for me to be making magic. I'll see you guys soon.</v>
+

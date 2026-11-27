@@ -1,0 +1,461 @@
+WEBVTT
+
+00:00:01.740 --> 00:00:30.210
+<v Speaker 1>I'm plowing my driveway. We all know that means it's time for another drive. Newark. OK, so today I'm going to talk about a very important distinction in games and talk about all the ramifications of what it means and how it affects magic. So today we'll talk about the difference between choices and options. So let me first explain my terms and then I'll talk about the importance. OK, so if you look up in the dictionary, choices and options are synonyms of each other.</v>
+
+00:00:30.340 --> 00:00:30.520
+<v Speaker 1>So</v>
+
+00:00:31.570 --> 00:01:01.760
+<v Speaker 1>be aware I'm going to give some definitions to separate the two to talk about a concept and how it's slightly different. So bear in mind I'm I'm loading these words with meaning that are not necessarily found in the normal dictionary. OK, so from a game standpoint, here's the difference between choices and options. A choice means you have to choose between something and option is you can choose things that are additive.</v>
+
+00:01:01.870 --> 00:01:27.850
+<v Speaker 1>So let me explain what that means. So for example, an option is like when you buy a car, you have options. You could get air conditioning, you could get power steering, you get power windows. You could get, you know, you have things that the car can have, but those things do not negate one another that if I want to get power steering, it doesn't have any impact on whether I get power windows, right? I get</v>
+
+00:01:29.350 --> 00:01:48.150
+<v Speaker 1>I hate her or, you know, air conditioning or whatever. It has no correlation that it's additive that, you know, if I'm going to get the best car I could possibly get, hey, wouldn't I want to have all those things? Wouldn't I want to have air conditioning and power steering and power windows? I would want it. All</v>
+
+00:01:48.940 --> 00:02:16.440
+<v Speaker 1>choices are in which I have to choose something. So do you know I'm going into the Barber and get a haircut? Do I want my hair cut short or my haircut long? Those they, they occupied the same space. If I choose to cut it short, I can't choose to cut it long. That a choice is something in which you're making. You're choosing in a way that I it cuts off other options</v>
+
+00:02:17.970 --> 00:02:40.550
+<v Speaker 1>to change the world options there. It cuts off other choices. So the idea of a decision that's a choice is OK, do you want A or B? But you cannot have A and B where option is do you want ARB? And you can have A and you can have B. You know, in fact, if A&amp;B is the option, with the choice it's A or B, and with options it's A</v>
+
+00:02:41.260 --> 00:02:54.330
+<v Speaker 1>or B or A&amp;B. Those are my choices. So one of the things important understanding in game design is when you have choices and when you have options and the importance of each.</v>
+
+00:02:55.720 --> 00:03:04.640
+<v Speaker 1>My contention is that choices make for better games than options in most cases. And what I mean by that is</v>
+
+00:03:06.270 --> 00:03:35.700
+<v Speaker 1>there is this illusion that the more power of the player has to do what they want somehow it's a better game. But The funny thing is that flies in the face of the essence of what a game is. So I've talked about this a lot. This is important for this discussion, which is a game is purposely a test. You, the game designer, are not making things easy on the game player. I've often talked about my game design lamp,</v>
+
+00:03:35.800 --> 00:04:07.200
+<v Speaker 1>you know, and the idea is if a lamp designer was, you know, was making a game out of a lamp, they wouldn't make it easy to use. You wouldn't know how to turn it on or off. You know, that part of the game of the lamp would be to figure out how to turn it on. Now, normally we design things, ease of use is super important that if I'm designing just an everyday object, I'm designing a lamp, I'm designing a car, I'm designing a radio that whatever I'm designing, I want to make sure that people using it, you know, like one of the things I love about Apple products</v>
+
+00:04:07.280 --> 00:04:37.350
+<v Speaker 1>in nothing but me and the Apple products is the simplicity of the design. You know, the idea that the iPhone, for example, when it was originally designed, had one button on it was genius. You know, the idea like before that what happened was they kept putting more and more buttons on things and it's finally like, you know what, let it gets more and more confusing the more buttons you put in things. Let's just figure out the key things we need and and have a button for the sole functionality you know and that a lot</v>
+
+00:04:37.420 --> 00:04:43.150
+<v Speaker 1>of clean design is making sure it's easy and clear what you're doing</v>
+
+00:04:43.880 --> 00:05:04.170
+<v Speaker 1>now in game design here's the interesting thing number one in game design is you are trying to challenge the player you're trying to you're trying to challenge them so they can overcome the challenge. The part of the fun of gaming is testing yourself, usually mentally but sometimes physically. And it's</v>
+
+00:05:04.870 --> 00:05:09.390
+<v Speaker 1>the the the thrill of trying to, in a safe space, be tested.</v>
+
+00:05:10.120 --> 00:05:19.010
+<v Speaker 1>OK, so the thing about choices is choices do more what games do, which is not make things easy for you,</v>
+
+00:05:19.740 --> 00:05:41.790
+<v Speaker 1>that if I could say to you, hey, you just could do whatever you want. That is appealing from a sense of hey, isn't it good to have what I want? If I buy a car, I don't want to be told I can have air conditioning or power steering. I won't be told I have air conditioning and power steering if I want both that you know,</v>
+
+00:05:43.180 --> 00:05:43.520
+<v Speaker 1>the</v>
+
+00:05:44.280 --> 00:06:14.850
+<v Speaker 1>you want your orders to be additive in life because hey, life just better if you have more options available to you. But in the game, the game isn't life. A game is trying to make things hard on you. In fact, ironically, life doesn't always give you life often gives you choices and options. And it would be nice in life if sometimes you had options where you were given choices. But I think a lot of weight games are that same sort of thing that if you want to make something challenging for somebody, you want to say, OK, you have to choose between things.</v>
+
+00:06:15.070 --> 00:06:24.630
+<v Speaker 1>So look, I use the most obvious example in Magic, which is people always saying, why are there sorceries? Why isn't everything just an instant?</v>
+
+00:06:25.710 --> 00:06:40.640
+<v Speaker 1>And the answer is that if everything were interested, you'd have to make a lot less interesting decisions. And the reason is what an instance says to do from a gameplay standpoint is save your mana and don't do this until you absolutely, positively have to do it.</v>
+
+00:06:41.250 --> 00:07:00.550
+<v Speaker 1>And So what happens is a lot, if you have a lot of instance, you sort of don't play, you sort of wait for the moment and it makes you be really reactive. And you don't really have to make key decisions because the decisions are often made for you like, oh, I have things in my hand. Well, until you do something, have to react to it. I don't do anything</v>
+
+00:07:01.770 --> 00:07:06.880
+<v Speaker 1>but with sorceries, let's say card drawing example. I mean we do do instant cart drawing, but</v>
+
+00:07:08.230 --> 00:07:21.280
+<v Speaker 1>if I give you a card wrong spell as an instant, what that says is let's wait to see if I can do anything else and then the end of my opponents turn right before I'm about to untap. If I don't have any other means to use this manna, I'm going to draw cards.</v>
+
+00:07:22.240 --> 00:07:48.370
+<v Speaker 1>OK, now let's change it to a sorcery. I put it on a sorcery and it says, OK, on your turn. Do you want to use this resource? Because if you use this resource, if you spend mana and draw cards, you're not going to have the manna. Now you will have cards and maybe if you have other men of those cards can be valuable to you, you know, but there's there's an interesting choice to be had there, which is figuring out is spending the man that now and not having the man on my your opponents turn worth it?</v>
+
+00:07:49.460 --> 00:07:49.940
+<v Speaker 1>Um,</v>
+
+00:07:51.020 --> 00:08:22.490
+<v Speaker 1>because one of the things that blue decks used to do all the time that we had to sort of shift away was is we were a little too interested in happy in blue. We slept blue of everything interested in speed. And it causes all sorts of problems because the correct answer was just always play reactive and never, I mean, you didn't have to do a lot of thinking because there's a lot about, OK, just at the end of my opponent turn, if certain things haven't done, I'll do it then. And so there never was any, any stress about when to draw cards. I draw cards when I have the man at the end of my opponent's turn. And now as we started making more sorceries</v>
+
+00:08:22.570 --> 00:08:42.980
+<v Speaker 1>like ohh, now I gotta make interesting choices about what I'm going to do. And, and once again, that is one of the key differences between choices and options is that in general, there is, there's this myth, there's this myth that players have that says that the more control they have, the better the game is, which is</v>
+
+00:08:44.340 --> 00:09:00.270
+<v Speaker 1>Blaine Leandro, that players purposely, when they put their hands in the, in the troll, a game designer are asking for restrictions. They're asking for limitations that for example, you know, I have a game and it's called the push the button game. And there's the button.</v>
+
+00:09:01.720 --> 00:09:26.460
+<v Speaker 1>Ohh. Is there any option to push the button? No. Is there any rules of pushing button? No. Well, that's a pretty boring game. You know you'll win every time. That what people want is they want the challenge. They want to be tested. They want to figure out how they accomplish the goal given to them given the limitations of restrictions placed upon them. That is what makes games interesting. So this idea that the more freedom the player has, the better the game is, that just</v>
+
+00:09:27.300 --> 00:09:57.470
+<v Speaker 1>plainly contradicts what a game is a game. I mean, I do believe there are games for younger kids and stuff that are a little less but but most games, games for adults. Look, there is something in the way that's preventing you from doing what you wanting to do, which is what makes it an interesting game. So following along that line, why would options be better than choices? Most of the time what we want to do is say to the player, you have to weigh things, you know, then that's just such a more interesting decision. You know, do you want A or B or A&amp;B</v>
+
+00:09:57.580 --> 00:09:59.540
+<v Speaker 1>or you want A or B?</v>
+
+00:10:00.220 --> 00:10:11.010
+<v Speaker 1>Now we make intertwine. We make split cards with Fuse. I mean, we occasionally do make the option version. We occasionally you know what you can, you can choose what you want.</v>
+
+00:10:12.400 --> 00:10:37.290
+<v Speaker 1>And now when we tend to do options, by the way, notice that the options don't often come free. They come in additional cost. So in some ways there's still a choice to be made, which is so let's say something like entwined. So entwine says you can do affect a or effect B or pay more and get A&amp;B. Now, I would argue that it's not even a completely an option. There's still a choice there because they requires manage to do</v>
+
+00:10:39.180 --> 00:11:09.400
+<v Speaker 1>the true options we do is occasion, we'll say choose one or both. And there's there's two modes. And really what we're doing is we're giving you both modes and we're just allowing you for ease of gameplay to opt out of one of the modes. So technically that's options, but not even really because really what we intend is you get A&amp;B, you get A&amp;B and we say A or B because sometimes you can't do or can't do B. We want to play the spell. But if you look at something like intwine, we're like, okay, entwine</v>
+
+00:11:09.530 --> 00:11:39.300
+<v Speaker 1>as you may do affect A or you may do affect B, but if you pay an additional cost, you have A or B. There is a choice there because what it's saying is they're wanna use my mana, but I wanna optimize this card. So even some of our option choices same same is true with split cards Infuse which which of the two split cards I want to play? Oh, if I you know, I have the ability to play both If I have the manna, the fuel cards are a little more optional. Yes, because in twins makes you pay the extra cost. I guess few cards make you pay the second cost for the second card. So,</v>
+
+00:11:39.980 --> 00:11:42.440
+<v Speaker 1>but my point is that</v>
+
+00:11:44.030 --> 00:12:14.140
+<v Speaker 1>if you look at most ways we do modal stuff in magic, the modal is not you have, you have you get to do everything. Usually the model is hey, you get to do one of these things. So for example, let's take charms. That's been a very popular mechanic. We do so charms for first in Mirage. And it's just like, hey, it doesn't cost a lot and you get 3 choices you want AB or C and none of which originally chunks were, none of which is really worth a card that if we just made a car that put A on it. You probably never play it because it's not</v>
+
+00:12:14.210 --> 00:12:21.310
+<v Speaker 1>4th A, but the flexibility of being A or B or C is good enough that it's worth playing.</v>
+
+00:12:23.590 --> 00:12:54.360
+<v Speaker 1>But, and this is important is what makes charms interesting is, um, there's power in one of the things that's neat about choice that if you look at magic, we've done a lot of a lot of things where players get to choose. There's a lot of modal stuff. There's, you know, there's a lot of things in which, right, there's the split cards in the kickers and the, the charms and the commands and there's just a lot of different kinds of things we do where you get to choose something where you get a choice when you play it, you get a choice. We like choices. But once again, in those cases,</v>
+
+00:12:54.440 --> 00:13:06.010
+<v Speaker 1>it's not as if you can choose everything. And even the few cases like Entwine or Fuse where we get to let you pick both modes, there's a cost to be able to play both modes. It's not just for free.</v>
+
+00:13:06.950 --> 00:13:07.410
+<v Speaker 1>Umm,</v>
+
+00:13:08.960 --> 00:13:14.260
+<v Speaker 1>so so let's let's examine. So I'll approach this from a different standpoint. So</v>
+
+00:13:15.590 --> 00:13:45.670
+<v Speaker 1>back in six edition of the game, we made a new role with something we call the the stack, which has to do with how you play your spells. But one of the things that we did at the time was to line everything up. We allowed you to put damage on the stack. And what that meant was that let's say we're going to get in a fight. So I I have a tutor creature that I can sacrifice to let's say draw cards. And so you attack leader 32 creature and I blocked my 2 creature. What happened?</v>
+
+00:13:45.740 --> 00:14:05.200
+<v Speaker 1>Because we could say I put damage on the stack, which means OK, this damage is going to happen, it's now waiting to happen. But in response to that, I can now do something like sacrifice my creature. So what happens is I was able to block your 3/2 with my 22, kill it with my 22 and then sacrifice my creature to draw some cards.</v>
+
+00:14:05.910 --> 00:14:34.610
+<v Speaker 1>OK, so I was both able to use the creature as a creature and kill the thing that's going to block, but get also use it as a resource. So I was kind of double dipping there and what happened was it was non intuitive for most players. So we took it away. So in the M10 rule change, we took away damage on the stack and people got really mad. They're like, why are you dumbing down the game? Why are you making the game less of a good game? And what I said is, look, it's the same issue of choices versus option, which is</v>
+
+00:14:36.310 --> 00:14:46.880
+<v Speaker 1>if I'm blocking your creature and I have the manner to use my creature, why wouldn't I do that? The creature is going to die for I've already used it. It's already a dead creature</v>
+
+00:14:48.240 --> 00:14:58.070
+<v Speaker 1>and we're going to damage of the stack. What we said is look, if your opponent is attacking with the three two, you have a choice. You have a choice. You can block that 32 and kill it with your 22,</v>
+
+00:14:58.750 --> 00:15:06.560
+<v Speaker 1>or you could you could jump like it. Meaning I keep the damage from happening, but I don't get to kill the creature. So</v>
+
+00:15:07.670 --> 00:15:16.900
+<v Speaker 1>under the current rules, I'm allowed to block a creature and then sacrifice it. And I don't do any damage to the creature of my creature, but I do keep it from damaging me. So now you have a choice</v>
+
+00:15:17.970 --> 00:15:43.630
+<v Speaker 1>and the choice is OK, do I want to kill his creature or do I want to get the cards out of the creature I want it the ability, which do I want to do? Before with damage on the stack, there was no choice. It was just options. It's like, would you like to kill the picture? Yes, I would. Would you like to sacrifice for an event? Yes, I would. And so you got to double dip in it and it didn't lead a better game play because the correct the correct play was to get both. That was just the correct play</v>
+
+00:15:44.250 --> 00:16:01.700
+<v Speaker 1>and now it's like, OK, now I have to make a choice between which is better? Is it better to kill the creature or is it better to get the ability, you know, the effect of the ability, you know, I'm going to lose my creature, but what do I want for losing it? And that choice just makes forget for better game play because</v>
+
+00:16:02.730 --> 00:16:11.700
+<v Speaker 1>you're always going to choose both. When both as an option, you're going. When you have the option of both, you're going to choose that option that is just better and</v>
+
+00:16:12.420 --> 00:16:29.510
+<v Speaker 1>it is not. One of the things that we want to do as game designers is we want to make you think. We want to challenge you. We want to mentally challenge you. You know, I never want to make things super easy, you know? Now, that doesn't mean I can't do things. I mean, one of the tricky things about</v>
+
+00:16:31.490 --> 00:16:32.420
+<v Speaker 1>about how</v>
+
+00:16:33.080 --> 00:16:41.890
+<v Speaker 1>one of the challenges of game design is there's a balance between wanting to make sure that there are interesting decisions for your player in the same sense,</v>
+
+00:16:42.750 --> 00:16:46.670
+<v Speaker 1>not overwhelming them. I mean, one of the things is</v>
+
+00:16:47.330 --> 00:16:47.820
+<v Speaker 1>that,</v>
+
+00:16:48.840 --> 00:16:52.450
+<v Speaker 1>well, this, this is about choice in general. Sorry, this is about just decisions in general.</v>
+
+00:16:53.850 --> 00:17:24.560
+<v Speaker 1>One of the reasons you don't give your your player endless decisions is it can freeze up a player that if I say to you, OK, there's 18 things you can do, which is the 18 things can I do, You're like, OK, what are the 18 things again? Because when you play a game, there's a desire to try to maximize your choices. I'm challenging you. I'm being mentally challenged, OK, I'm up to the challenge. I want to optimize what I'm doing. And what happens is if you give somebody too many decisions, you know, too many, too many choices or options,</v>
+
+00:17:24.660 --> 00:17:27.070
+<v Speaker 1>it freezes them up that the average person</v>
+
+00:17:27.790 --> 00:17:55.830
+<v Speaker 1>there, there is an amount that they can handle before they freeze up. For example, one of the things we learned, we've done a lot of focus testing. So focus testing is where we take people, we put them in a room, we give them some amount of instructions. Sometimes it's very little, sometimes a lot. And then we watch them play. I mean, it's a two way mirror, one way, one way mirror. I mean, the person in the room understands being watched, but they don't see us, they don't see a reactions. So one of the interesting things is</v>
+
+00:17:57.030 --> 00:18:01.810
+<v Speaker 1>if you overload somebody with too many choices or options, what do they do?</v>
+
+00:18:02.640 --> 00:18:06.220
+<v Speaker 1>They make decisions, they ignore them and justice make decisions</v>
+
+00:18:06.900 --> 00:18:08.050
+<v Speaker 1>on some gut level</v>
+
+00:18:08.690 --> 00:18:13.070
+<v Speaker 1>for example, and this is easily seen for beginners in attacking and blocking.</v>
+
+00:18:14.470 --> 00:18:17.010
+<v Speaker 1>Once attacking, blocking it too complex,</v>
+
+00:18:17.760 --> 00:18:19.160
+<v Speaker 1>they fall to some simple</v>
+
+00:18:19.880 --> 00:18:48.850
+<v Speaker 1>either they don't attack at all or you know, they find a flyer that you know can't be blocked and just attacked with the flyer. You know they they come up with some simple thing. They when the math is too complex, there's one thing to say. I have one picture of 1 creature. OK, I can figure that math out, but I have 6 creatures and you have 8 creatures. I either I'm just not going to attack or I'm going to talk with everything or I'm going to attack with the flyer. I'm going to pick some shortcut that I can use to go, well,</v>
+
+00:18:49.950 --> 00:19:03.360
+<v Speaker 1>this is yeah, I'm just going to make a ballpark guess based on something. I'm going to pick something that I know and I'm not gonna process all the information. That is what happened. When you overrun people with too many choices or options, when too many decisions is they just</v>
+
+00:19:03.970 --> 00:19:07.010
+<v Speaker 1>they stopped trying to figure out, they stopped trying to optimize.</v>
+
+00:19:08.250 --> 00:19:19.450
+<v Speaker 1>So one of the things I think people get confused is there are definitely players who are more advanced or like loaded on 18 decisions. I can make it. That doesn't necessarily</v>
+
+00:19:20.270 --> 00:19:35.560
+<v Speaker 1>there's a mistake there between people feeling that because they can handle a lot of decisions that it's better for having them. And this is where the choices option comes into play. Even if you can handle 18 decisions, that doesn't necessarily mean it makes it for better to have that many decisions.</v>
+
+00:19:37.210 --> 00:19:47.630
+<v Speaker 1>That part of what makes a good game is I talk a lot about simplicity and elegance and that part of what you want is you want good decisions, not decisions.</v>
+
+00:19:48.330 --> 00:19:56.120
+<v Speaker 1>This idea that decisions in the vacuum, you know, decisions that are quality to decisions. It is not like every decision I make a player make it has equal value.</v>
+
+00:19:57.840 --> 00:19:59.170
+<v Speaker 1>I mean for example.</v>
+
+00:20:00.720 --> 00:20:10.360
+<v Speaker 1>Every time you play the game of chess, for example, before you make a move I can make, you choose to take off a shoe, and you have to find out whether take off a left shoe or the right shoe.</v>
+
+00:20:11.360 --> 00:20:14.570
+<v Speaker 1>OK, Is that interesting decision? Does that make chess a better game?</v>
+
+00:20:15.270 --> 00:20:45.460
+<v Speaker 1>No, the choosing the left shoe versus Richard doesn't even mean anything to the game, you know, and there's a lot of decisions that a aren't particularly relevant. Sometimes they seem relevant, but they aren't relevant. There's a lot of issues. You have to make sure you know what, 99.9% of game play, it's not going to matter. So why? Why make the why? Why give the player the illusion they're doing is going to matter if it's not going to matter. But that's not particularly good decision. Another decision sometimes people make is where it's something that</v>
+
+00:20:45.700 --> 00:21:03.270
+<v Speaker 1>could matter, but it's more tracking something for the sake of tracking it that it doesn't matter very often. And it's like, well, this could matter in one out of 20 games. So every game I I need to keep track of it. And that's not particularly good decision making there that, you know, like</v>
+
+00:21:03.980 --> 00:21:12.600
+<v Speaker 1>one of the things, one of the ways to separate good, good players from bad is to burden them with decisions until somebody can't handle it.</v>
+
+00:21:13.280 --> 00:21:44.670
+<v Speaker 1>But a, that makes the game not fun for the player who's not good, and it makes the game for the good player just more tiring. Like I can make you, you know, for example, use my chest example a little different. I could say to you, every minute on the minute, you have to ring a bell. And if you don't, you randomly lose a piece off the board. OK, so now I've given decision that does affect gameplay, that if you are not careful this is going to really impact you. Maybe maybe very badly impact you.</v>
+
+00:21:44.890 --> 00:21:55.580
+<v Speaker 1>Now is that a better game of chess? Is the bell ringing game of chess better than every minute after ring this bell that while I play have to keep track of the clock so that on the minute I can ring the bell</v>
+
+00:21:56.800 --> 00:22:24.870
+<v Speaker 1>I've gave you decision has big impact on the gameplay. Might even the game might even hinge on it because if I randomly lose my king, I lose the game. So there's a, you know, assuming you all the pieces are there. Well, no matter how many pieces you have, there's always a chance you're gonna lose the game because I think it grabs the king you lose. So you have to pay attention to that. It's too important not to pay attention to and losing a piece is a big deal. So OK, well, now I'm forced to pay attention to that. Hey game designer, you made me pay attention.</v>
+
+00:22:25.600 --> 00:22:35.480
+<v Speaker 1>But but we as game designers have to figure out is is that worth it? OK, I'm now I, I've added watching clocks to chess. You know,</v>
+
+00:22:36.130 --> 00:22:53.700
+<v Speaker 1>it makes it harder to concentrate on the chest. And there's even players that go, ohh, well, bell ringing chess test the good players because the bad player has been all the time thinking about the bell. But the good player, you know, they can learn when the bells has to come and they can, you know, they can have they can process better so they can they can think about their moves better.</v>
+
+00:22:54.360 --> 00:23:13.930
+<v Speaker 1>And I'm like, that does not make a better game of chess. Watch that and and then bell ring chest becomes all the sensation. No, it doesn't make it better game of chess. Having to watch a clock. While it might matter, like you can always make things matter to the player as a game designer, you just make the result something that's impact the game. That doesn't mean it makes it far better game.</v>
+
+00:23:15.360 --> 00:23:23.960
+<v Speaker 1>When you are making a decision, does the decision? Is making the decision something inherent to the game that makes the player have to test themselves in a way that</v>
+
+00:23:24.830 --> 00:23:26.290
+<v Speaker 1>that played how the game plays?</v>
+
+00:23:28.150 --> 00:23:46.340
+<v Speaker 1>Like I could add bell ringing to magic, but all that does is just pull your concentration and that doesn't make for a better gameplay. In fact it makes for worse gameplay because people are going to make more abrupt decisions and less methodic decisions. That particularly makes makes good magic play, nor good just play.</v>
+
+00:23:47.920 --> 00:23:49.030
+<v Speaker 1>So the issue is,</v>
+
+00:23:49.870 --> 00:24:07.560
+<v Speaker 1>in general, you have to be careful how many decisions you do, no matter what. My argument today is that when you because decisions have to be carefully weighed, that more decisions is not better than less decisions. You you have to be very careful about your decisions. You, the game designer have to</v>
+
+00:24:08.490 --> 00:24:13.170
+<v Speaker 1>you should weigh each decision you're making your player make very carefully</v>
+
+00:24:13.830 --> 00:24:14.700
+<v Speaker 1>because</v>
+
+00:24:15.680 --> 00:24:45.630
+<v Speaker 1>there is stress you're adding to the system when you choose it poorly. And the idea is what you want to do when you make a game is pick the right number of decisions make make them interesting decisions and good decisions and game effective decisions and balance them the right amount. What you don't want to do is being good at your game should not be being able to multitask so many different things about things that might minutely matter better than other players. That that is a that is a game that very few people can appreciate and B,</v>
+
+00:24:45.710 --> 00:25:08.660
+<v Speaker 1>even for the good players. Like like I said, if I went to some pro players probably did a better the bell ringing magic game, would they enjoy it more? I doubt it. You know, I don't think adding in that component does anything that makes the game overall a more important game. It might make it more, oh, here's another important thing. There is different kind of skill testing,</v>
+
+00:25:09.530 --> 00:25:15.160
+<v Speaker 1>yes, I could add in some component and if you get good at that skill then you have a better chance you've got good at that skill.</v>
+
+00:25:15.860 --> 00:25:25.320
+<v Speaker 1>You know, I could add to Magic a rule that says, OK, you know, every turn you have to throw peanut up in the air and catch it in your mouth, and if you miss you randomly lose the card.</v>
+
+00:25:25.990 --> 00:25:42.180
+<v Speaker 1>OK, well the better. The better peanut Magic player would be the one that learns how to catch a peanut in their mouth. Does that make it a better Magic game? No. That making people learn a skill that is relevant only because you're telling them it's important doesn't inherently make it more fun.</v>
+
+00:25:43.810 --> 00:25:44.890
+<v Speaker 1>Now, if I</v>
+
+00:25:45.910 --> 00:25:50.280
+<v Speaker 1>like one of the things we're choices actually do make it a lot more fun is</v>
+
+00:25:52.000 --> 00:26:02.410
+<v Speaker 1>one of the things that's neat to do to a player is say to them there are paths to make in a lot of ways. Um, when you think about your game, what you're doing is you're saying</v>
+
+00:26:03.790 --> 00:26:28.260
+<v Speaker 1>there's pathways for you to choose, and I am letting you have some understanding of what those pathways are. So the more experienced you are, the farther out you can think about what your decisions are. In fact, the difference between a good Magic player and a bad Magic player, or to be fair, a good game player or bad game player that bad. I'm using that term in experience versus inexperience about that is how far ahead they're able to think</v>
+
+00:26:28.900 --> 00:26:31.640
+<v Speaker 1>from what from focus groups. What we learned about Magic players who are</v>
+
+00:26:32.290 --> 00:26:41.920
+<v Speaker 1>more inexperienced is they don't think very far ahead when it's their turn. They look at their hand and the question they ask themselves is can I play something?</v>
+
+00:26:42.810 --> 00:26:44.010
+<v Speaker 1>And the answer is yes,</v>
+
+00:26:45.480 --> 00:26:46.340
+<v Speaker 1>most often they play it.</v>
+
+00:26:47.380 --> 00:27:17.450
+<v Speaker 1>And when you get more experience, it's like, what can I do? Is that beneficial? Do I want to do that now? But a beginning player, just like they're so focused on can I play things and do I have the manna? And they're so focused on the now that all the decisions about what I'm doing this turn, the idea that you make a decision based on next term. Like, one of the things about really good players is they'll make decisions that aren't relevant for a while because they're thinking out for numerous turns. Or</v>
+
+00:27:18.400 --> 00:27:40.630
+<v Speaker 1>sometimes they're saying, OK, I'm back in the corner and my route to victory is this thing that it's my only route to victory. But I'm aware that it's my route to victory. And so I'm going to go down that path. And my goal of this game is to try to get far enough along in my path of victory that my opponent doesn't understand what I'm up to, to try to stop me, to see if I can win this way.</v>
+
+00:27:41.290 --> 00:27:44.430
+<v Speaker 1>That that's an interesting thing to see a good player to do, where the</v>
+
+00:27:45.600 --> 00:27:47.980
+<v Speaker 1>the good player thinks as many turns heads are able to think</v>
+
+00:27:49.220 --> 00:27:56.850
+<v Speaker 1>some of those limitations of how much information the game gives them. Magic is one of those games that gives you a lot of information so you can look decently far ahead.</v>
+
+00:27:58.320 --> 00:28:00.060
+<v Speaker 1>So one of the things about choices is</v>
+
+00:28:01.680 --> 00:28:11.060
+<v Speaker 1>it plays into that basic thing of the gameplay, which is I'm trying to map out future terms. OK. Well, if I give you choices, I play into that</v>
+
+00:28:12.900 --> 00:28:16.080
+<v Speaker 1>and they give you options. I'm not really particularly. I mean,</v>
+
+00:28:16.820 --> 00:28:32.440
+<v Speaker 1>if they give you options, most of the time it's figuring out how to optimize it. So you're getting both things. No, I'm not, I'm not saying there's not some skill on that. There is some still on that, but I think people overvalue the amount of still on that versus the amount of skill necessary in making key choices.</v>
+
+00:28:33.660 --> 00:28:35.680
+<v Speaker 1>I mean, another thing in general, um,</v>
+
+00:28:36.460 --> 00:28:56.640
+<v Speaker 1>I mean, a lot of what today's topic is talking about decision making for the, for the, for the game player and something that I don't think that game designers think enough about that. I mean, it's important thing about which is every decision you're making your player make, every decision you need to stop and say to yourself, is this decision worth its weight in the game?</v>
+
+00:28:57.480 --> 00:28:59.820
+<v Speaker 1>And here's another way to think of game plays is</v>
+
+00:29:00.460 --> 00:29:06.070
+<v Speaker 1>you only get to do so much in your game that if you're trying to be elegant, if you're trying to if you're trying to</v>
+
+00:29:07.330 --> 00:29:16.170
+<v Speaker 1>have some simplicity to your game, what you're I talk a lot in writing movies. I was a quote I've had a lot in movies that I got from a writing teacher, which is</v>
+
+00:29:17.960 --> 00:29:21.510
+<v Speaker 1>no movie is worth the scene. No scene is worth a line.</v>
+
+00:29:22.180 --> 00:29:52.720
+<v Speaker 1>And what that means is that no matter how good your scene is in a movie, if you have the most, it's the most awesome scene. It's hilarious. And but if if the movie doesn't need the scene, the scene has to go. That you can't keep a scene in a movie because it's an awesome scene if it doesn't advance the larger goals of the script. Likewise, let's say you have the pickiest of line. They're always awesome lined. But if it doesn't serve the scene, if it doesn't help the scene, the line has to go. And the idea there in writing, and this is true of any art,</v>
+
+00:29:52.930 --> 00:30:04.210
+<v Speaker 1>which is the goal of an artist, is to figure out what their art has to have versus not what is necessary for the art. And anything that's not necessary, you got to boot out</v>
+
+00:30:04.990 --> 00:30:15.520
+<v Speaker 1>that if you're seeing isn't isn't helping advance the story out. If you're line isn't advancing your scene out, if some component of your painting isn't helping the overall thing out.</v>
+
+00:30:16.180 --> 00:30:46.570
+<v Speaker 1>If some series of notes isn't helping your song out, that you want to maximize what you're doing. And that the thing, one of the things that you as a game designer are most focused on is what decisions are you foisting among your players? That you want to make goals and you want to make rules. And then you want to sort of guide your player to say, OK, now that I've defined what they have to do and then define how they can do it. What have I done? What decisions am I making them make?</v>
+
+00:30:46.670 --> 00:31:16.670
+<v Speaker 1>And then for each decision, you've got to look at it and you got to say is this a good decision? And ask yourself a couple questions. Number one is does it advance the game? If it doesn't advance the game out, not advancing, just like the you know, the scene not advancing movie. If the decision is not advancing the game if not helping move your player. This is the inertia thing I talked about in my 10 things is if you're not making them, make decisions that impact them, advancing towards their goal or or working through the rules.</v>
+
+00:31:16.760 --> 00:31:26.840
+<v Speaker 1>If you're not making. If they're decisions, don't make the game end. If they're not leading toward the game. If the decisions don't advance toward the end of the game, get rid of them. They're not doing you any good.</v>
+
+00:31:27.660 --> 00:31:55.930
+<v Speaker 1>So #1 how they contribute to the game #2 are they interesting decisions? Actually, that's the wrong question. Are they fun decisions? This is interesting versus funny talk a lot about which is not isn't mentally stimulating. Is it actually something that that has a visual impact as you play, you know that a lot of your decisions which you want to do is you want to make sure that there's something interesting that, sorry, I keep using interesting. There's something inherently fun to it. I want to make the decision,</v>
+
+00:31:56.690 --> 00:32:27.340
+<v Speaker 1>you know, I, I, the person playing the game, go, wow, what am I gonna do? You know, the goal of decision making isn't to tax the player. Like you are the ally to the game player, not the enemy. Just because you are making life hard for them, you're doing it for them. You're so this important lesson, by the way, You, the game designer, are the friend of the game player. You're trying to make the guess of game playing experience for them. You're not trying to challenge them to the point that they break.</v>
+
+00:32:27.430 --> 00:32:30.830
+<v Speaker 1>It's not like haha they can't finish the game either. Game designer of 1.</v>
+
+00:32:31.550 --> 00:33:02.320
+<v Speaker 1>If your game is too complicated for them and they stop playing, you failed. If their game is no fun for you, you failed. Your job is to make a game where they challenge themselves but have a good time doing so. And so when you're giving decisions, you have to say to themselves, is this a fun decision? Is this something that players will enjoy having to think about? You know, if you're making a decision and it's it's important, but all it's just so it's so taxing and so hard to figure out and it's just adding stress to the system.</v>
+
+00:33:02.440 --> 00:33:32.520
+<v Speaker 1>You don't want a lot of that. I'm not saying you can't have some of that, but what you want to do is make decisions that are interesting and fun decisions. And one of the things we try really hard to do when we make decisions is make sure that it's a decision. What we don't want to do is it's A or B, but A is right 99% of the time. Then what are you doing there? Why? Why give them B as a choice? You know, when you give them choices, you want to make sure that A&amp;B are both things that they could choose. Now A might be right more of the time or maybe in a certain decades more often right, But you want</v>
+
+00:33:32.590 --> 00:33:35.950
+<v Speaker 1>to be that mean something and not to be this a relevant thing that almost never matters.</v>
+
+00:33:37.740 --> 00:34:07.530
+<v Speaker 1>The other thing we're looking at decisions is you want to make sure that you only get so many decisions that you have to be aware of their cognitive load, which is how much things are they concentrating on. And as I said before, we learned the focus group, once you override cognitive load, the the human default is to start making sort of gut decisions is you just start saying, OK, I can't, I know I can't process information. So I'm just going to sort of do the best I can. I'm going to make it off the gut and</v>
+
+00:34:08.400 --> 00:34:26.710
+<v Speaker 1>there is there's some interesting space there, but in general, it's a problem that if your opponent like there's too much for me to decide, ah, screw it, you, you have a problem. You don't want your you don't want your player throwing the towel in because the game has overwhelmed them. That is, that is not</v>
+
+00:34:28.550 --> 00:34:38.450
+<v Speaker 1>for most games. I, I guess there's some super advanced games that break this rule, but in general, you don't want your game to overwhelm your, your player that you don't want that the decision is,</v>
+
+00:34:39.500 --> 00:35:09.480
+<v Speaker 1>is, is is is, is, is adding to the game. Is it, is it something that's fun for the player to have to decide between? And how much cognitively is it adding? How much cognitive load is it adding? Because one of the things that your decisions, they don't live in a vacuum. It's not that each decision, this decision or yes or no, at some point you got to go back and say, OK, given all these decisions, is this too many decisions? And the answer is yes. Then you got to go back and figure out how to pull some decisions out of things. And that don't fall in the trap of saying, well, each individual decision in a vacuum is fine. Well,</v>
+
+00:35:09.550 --> 00:35:20.340
+<v Speaker 1>it doesn't matter. You know, For example, I could ask you a simple question and you'd be fine. And there's some point in which I just overload you a simple questions where it's just, there's only so many questions you can process at a time.</v>
+
+00:35:21.020 --> 00:35:38.410
+<v Speaker 1>No, maybe, maybe that's 10, maybe it's 20, maybe it's 100, maybe 1000. There's a point where you break and the goal of your game, you're not the enemy of your player. The goal of your game is not to break the player. Your goal of the player is to challenge the player at an appropriate level that it is fun for them to figure out what to do.</v>
+
+00:35:40.570 --> 00:36:09.170
+<v Speaker 1>So for example, I'll give my analogy here, the jigsaw puzzle. So I like doing jigsaw puzzles. My wife and I, sometimes my cable do jigsaw puzzles. And what we've learned is there's this thing that jigsaw play passes do where they try to see how hard they can make the puzzle. OK, this puzzle, all the shapes are the same shape and all the pieces are the same color. And what OK, what I want, what I look for in a puzzle is I want a puzzle with lots and lots of details. Because to me,</v>
+
+00:36:09.340 --> 00:36:40.000
+<v Speaker 1>fun putting the puzzle together is trying to find where all the pieces go in the puzzle. It's not, I don't wanna puzzle that. Like, I mean, I'm not saying it's not people that enjoy this, but I don't enjoy it that I don't wanna puzzle where like I'm like, OK, I'm past the part that's fun for me. Now let's do the part that's not fun. Because what happens is it makes it a not fun experience. My goal, my puzzle is I want the first piece we fund. I want the last piece to be fun. I want the whole process to be fun. So I'm going to try to pick something and I feel a lot of</v>
+
+00:36:40.070 --> 00:36:43.910
+<v Speaker 1>these game designers do with some of the puzzle designers do, which</v>
+
+00:36:45.420 --> 00:37:06.570
+<v Speaker 1>once again, there's a new audience and maybe wants that. But but most puzzle player, the goal of the puzzle is not to challenge the point where it's not even fun anymore. They want to challenge themselves in a way that is still fun for them. And I think a lot of people missed that. And I think we're talking about choices and options is trying to understand what's the best way to make them, what's the best way to make decisions for your player. And that</v>
+
+00:37:07.990 --> 00:37:18.270
+<v Speaker 1>it it is important to not overwhelm them and it's important not to make them make so many decisions that they just don't have the ability to even enjoy. Like one thing that's true, by the way, is</v>
+
+00:37:20.260 --> 00:37:51.070
+<v Speaker 1>I can give you fun decisions and I can give you enough fun decisions that it stops being fun. Like interesting. One of the things I learned at work, coming to work at Wizards is you get asked to do projects and there's a lot of sometimes you're assigned projects, but often you're asked if you want to do them. You people will come and say, hey, I have a project, would you like to be part of it? And one of the dangers that Wizards is that there's so many projects that really are fun that you take too many. And this is exactly this problem, which is I can give you fun decisions, but at some point my fun decisions</v>
+
+00:37:51.160 --> 00:38:17.880
+<v Speaker 1>aren't fun anymore because the volume of the decisions overwhelm you, you know, ohh, this project sounds fun. This project sounds fun. Well, at some point I have too many projects and like none of it's fun because I can't handle it all. And that when you're making your player make decisions, you have to think about that as well. So one of the things when you're making, you're trying to make your player make decisions is trying to understand where are the most interesting and fun decisions for them. And</v>
+
+00:38:19.600 --> 00:38:49.530
+<v Speaker 1>maximize on those. There's another reason why I think choices is most often better than options is. What I want to do is I don't want to give you a billion decisions. I want to give you a few key decisions that matter. And choices matter in very potent way where options do not. Options are if I can have A and BI will take A&amp;B, choices are which do I care more about A or BI can't have both A&amp;B. So I really have to figure out what I want more.</v>
+
+00:38:50.170 --> 00:39:04.920
+<v Speaker 1>We're options is just like, OK, I want A and B. Maybe if I have to get one for the other, I gotta choose what order to get them in because it's better to have a first and B And there's there's some decision making there, but not as much as choices. And so one of my big things today is</v>
+
+00:39:06.590 --> 00:39:36.640
+<v Speaker 1>when you are making your player make decisions, you want to be methodic in what those decisions are. And be careful that there there is this misnomer that if each thing in a vacuum, you know Well, there's a couple myths dispelled today. I got to wrap up. Myth #1 is more decisions is better, not true. Myth #2 is that the harder the decision, the better? Not true. And myth #3</v>
+
+00:39:36.710 --> 00:40:07.050
+<v Speaker 1>is that it is your job to mid #3 is that that somehow if your players have too easy of a time that you, the game designer failed and that's also a myth. And then the point is your job as game designer is to make the game fun for your game player at the end of the experience. You know, when we did a focus testing, one of the most important questions we asked was, was this fun? Would you play this again? Would you recommend this to your friends?</v>
+
+00:40:07.130 --> 00:40:25.720
+<v Speaker 1>Did you have a good time? Because that is what matters most. You are not seeing how much you can test them. This is not a goal of of how challenging could I be. It's did I put the challenge level at the right amount so that my opponent had some challenge but had fun doing it and had a fun overall experience.</v>
+
+00:40:26.700 --> 00:40:45.120
+<v Speaker 1>OK, guys, anyway, that is choice versus option. My, my, my talk all about decisions. So I had a little traffic days. You got extra long podcast. Hope you guys appreciate it. But I'm now in my parking space. We know that means the end of my drive to work. So instead of talking magic, it's time for me to be making magic. I'll see you guys next time.</v>
+

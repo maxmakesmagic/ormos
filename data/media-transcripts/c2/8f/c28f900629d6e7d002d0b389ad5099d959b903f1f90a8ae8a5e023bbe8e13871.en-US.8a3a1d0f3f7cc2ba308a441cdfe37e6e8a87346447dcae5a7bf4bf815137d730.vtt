@@ -1,0 +1,308 @@
+WEBVTT
+
+00:00:01.240 --> 00:00:30.960
+<v Speaker 1>I'm pulling my driveway. We all know what that means. It's time for the drive to work. OK, so today is a game designer. You talk, I'm gonna talk. This is a This is a topic that I got from my blog, The Importances of Strengths and Weaknesses in your Game. So I'm just going to use magic a lot to explain this, but this is a general principle I'm going to explain. That's true for all games, not just magic. So why do games want to have strings?</v>
+
+00:00:31.030 --> 00:01:01.450
+<v Speaker 1>The weaknesses. The strange part probably isn't too hard to explain, although it is part of the bigger picture. The weakness is a little trickier, but I'll explain it all. Why? Why should things be good at things and bad at things, you know? OK, so First off, let's explain a structural thing. So I've talked before about what the purpose of the game is. The purpose of a game is not to make things easy for the game player. I've often talked about how if you made, when you make a lamp,</v>
+
+00:01:01.530 --> 00:01:31.500
+<v Speaker 1>if someone makes a lamp, the goal of the lamps to turn the lamp on. And you want to make sure it's as easy as possible to turn on the lamp, that the the switch to turn it on is the most obvious place and you know how to turn it on and off. It's obvious that normally when you design something, the whole goal of the design is to make it as easy to use, as functional as possible. But that's not what games do. The goal of the game is to challenge you. The goal of the game is to put up some resistance because it's the act of overcoming the obstacles.</v>
+
+00:01:31.600 --> 00:01:54.760
+<v Speaker 1>That is the point of the game, that it's not like I'm supposed to make a set of rules for you. Like the goal of the game is to push this red button. OK, go. I push the red button. Ohh, I'm done. Not very compelling game. The push the red button game probably not a big seller. So what we want in the game is we want to make sure that there are obstacles built in. We want to make sure that the act of achieving what you're achieving is not easy to do,</v>
+
+00:01:56.780 --> 00:02:05.320
+<v Speaker 1>and we want to make sure that our game is robust. You know, we want to make sure that the game itself is both challenging and it's fun.</v>
+
+00:02:06.010 --> 00:02:35.710
+<v Speaker 1>OK, So what what does all this have to do with strengths and weaknesses? OK, so first and foremost, your game is going to have some kind of structuring to it, some kind of factioning or something about your game. There'll be choices to make for your player because part of making obstacles interesting is giving your opponent means to overcome the obstacles. So basically when you make a game, you're like, OK, here is the goal of the game. You're supposed to do thing X.</v>
+
+00:02:36.110 --> 00:02:58.780
+<v Speaker 1>Here are the rules that explain why it's not so easy to do thing X. Because the thing X were easy to do. It wouldn't be fun and it wouldn't be a game. You know, like I said, the design of the game is to get in the way of the game player, to make them work, to have to solve it. Because what a game is doing is testing the player, is making them use their skills to figure it out.</v>
+
+00:02:59.810 --> 00:03:11.440
+<v Speaker 1>OK, So what that means is if I want you to solve the goal of my game, and I make rules to do that, I need to give you choices. I've talked a lot about my GDC, talk about why choices are important.</v>
+
+00:03:12.710 --> 00:03:14.300
+<v Speaker 1>The other big thing that's important is</v>
+
+00:03:15.850 --> 00:03:45.980
+<v Speaker 1>if I just give you only one option, well then it's pretty clear what you need to do. If I'm trying to make it challenging for you, well, I give you many options because some of them may not work. You know, I want to give you different choices of what to do. So because you want a game to have a lot of choices and you tend to want customization, you want decisions. A lot of the reasons I've talked about this in a bigger picture why you want them, but your game wants a lot of things that lets the player have input on what they're doing. Because of that, most games</v>
+
+00:03:46.050 --> 00:04:15.910
+<v Speaker 1>need some kind of structure. And what that means is that you want to give your player choices. And usually to do that you have different, I'll call them factions. It could just be different groupings. It could be, you know, the idea is sort of magic. We have colors. There's five colors of magic. That one of the ways to make it interesting is to say, OK, you've got to achieve this thing. I'm trying to drive my opponent from 20 down to 0. That's the goal of Magic, and to do that,</v>
+
+00:04:16.060 --> 00:04:25.220
+<v Speaker 1>I'm going to give you different resources to do that. Now, Magic, it's a game of magic. Obviously that's the name, but I'm gonna give you there's five different kinds of magic.</v>
+
+00:04:25.890 --> 00:04:55.920
+<v Speaker 1>And on top of that, we also have artifacts that are no color. So, you know, in some ways there's a six way to do it. So I'm giving you a bunch of different things you can choose from to do it. I'm building a structure in for you to choose. OK. And the reason that is crucial is that I want my I want my players to have to figure out how to do things. And in order to do that, I want to give them choices. And because I want them to bond with the game, because I want them to sort of get connected. I want to have decisions. I want to have customization. I want</v>
+
+00:04:55.990 --> 00:05:18.580
+<v Speaker 1>have exploration. I want them to have a tree of decisions they get to explore and a tree of options they get to explore. I want to have lots of different things that they may or may not want to use. OK so now I've explained that a game has to have component elements to it that to make it compelling game. Usually you want to have choices. Now,</v>
+
+00:05:19.760 --> 00:05:34.700
+<v Speaker 1>the simpler the game, the less choices there are. You know, tic-tac-toe doesn't have tons of choices, you know, mostly picking where you put things. But I'm talking about a game that a little bit deeper than tic tac toe that you want to make sure that there are different things to do and</v>
+
+00:05:36.190 --> 00:06:06.200
+<v Speaker 1>you wanna make sure that you're different factions are. It's like let's say for example, I make 5 factions like in Magic and one of them is really good. The other 4 suck. Well then I would just use the really good one. If for example in Magic, I mean, one could argue blue was overpowered. But let's say for example, I made the game and one color is the only way to win and the other four colors just aren't nearly as good as the one color. You'll play the one color and that isn't as compelling a game. So what that means</v>
+
+00:06:06.270 --> 00:06:17.950
+<v Speaker 1>says you want to take the components of your game and you wanna make sure that each component has reasons you'd want to use it and reasons why maybe you don't want to use it so that you would think using other components.</v>
+
+00:06:19.690 --> 00:06:41.110
+<v Speaker 1>So in Magic, this was what Richard Garfield really came up with was called the color pie. So the idea is, OK, so let's think magic. I mean, it's obviously the thing I was talking about as the example of today's thing. OK, so Richard created a mana system that allowed you to</v>
+
+00:06:41.900 --> 00:06:57.590
+<v Speaker 1>slowly build up overtime to place bowls. You know, the way magic works is you have your lands and you have your spell costs, and the idea is I get a lay of land every turn. I don't always have a land to play, but I'm slowly building up my manner so that I can cast bigger and bigger spells.</v>
+
+00:06:59.150 --> 00:07:11.460
+<v Speaker 1>That system push you toward only playing one resource because in order to cast a spell, I need the right color. And if I just play one color well, then I'm guaranteed that I'll have the color I need.</v>
+
+00:07:13.190 --> 00:07:25.260
+<v Speaker 1>And So what Richer realized is that it's important to give each color different strengths because he wants to, and weaknesses because the idea is</v>
+
+00:07:26.130 --> 00:07:56.240
+<v Speaker 1>I want you to play a color, but if you only play one color, I need to make sure that there's reasons you would explore a second color. Like for example, Magic's mana system says to you only play one color, you are just in a better world. The managed system works better if you're only playing one color. OK, so how exactly does Richard get people to play more than one color? And the answer is strengths and weaknesses. By taking each color and giving it some strengths</v>
+
+00:07:56.330 --> 00:08:26.480
+<v Speaker 1>and giving it some weaknesses, what you do is you create this encouragement system that says, you know what, I might need more colors. So for example, I'm playing one color. Let's say I'm playing red. Well, build into red are some weaknesses. For example, red is very short sighted, so it tends to have a faster game and has less long term elements. Also, sometimes a very blatant weakness like red blows things up. That's how red is really big on destruction.</v>
+
+00:08:26.670 --> 00:08:56.620
+<v Speaker 1>But how do you blow up something that isn't tangible? And so red has trouble with enchantments because enchantments, you know, a person I can throw a lightning bolt at a land. I can, you know, I can, I can do things destructively to it. An artifact, I could literally blow the artifact up. But what do I do? Do I non tangible thing? How do I Red can't deal with that? So the issue is, you know, but on the plus side, Red, for example, is really good at direct damage. Red's really good at destroying things. It's really good at</v>
+
+00:08:56.720 --> 00:09:26.850
+<v Speaker 1>it has the most aggressive game of the five colors. You know, it can come up very fast and it has haste, so the creature is going to attack right away, and it has its best to direct damage. So it's really good at sort of dealing with creatures and doing damage directly to players. So the idea is there's a reason why you want to play a red. But if I play only rad, I start having problems. Let's say, for example, my opponent is playing a really potent enchantment. Well, what do I do in red is I don't have an easy answer to that problem.</v>
+
+00:09:26.970 --> 00:09:57.230
+<v Speaker 1>So what happens is it says, oh, well, if I play a second color, that second color can fill in for my weaknesses and give me access to new strengths. So the idea is the reason I'm encouraged to consider a second color is because of the fact that built into each color our strengths and weaknesses. You know it. Actually, the entire color pie in Magic was created as a means to encourage people to spread out and think about playing more</v>
+
+00:09:57.300 --> 00:09:58.040
+<v Speaker 1>for one color.</v>
+
+00:09:58.680 --> 00:10:19.840
+<v Speaker 1>Now the Manor system does a good job of punishing if you play too many colors. So this is nice. This is nice tension that goes on in the game where one thing about the game says lay as few callers as possible, which is the mantis system, and one thing about the game says play as many colors as you can, which is the color pie. Because each color has strengths. The more colors you play, the access to more strengths you have.</v>
+
+00:10:21.530 --> 00:10:34.650
+<v Speaker 1>Now, another thing that this does, which is very important is, um, it's not. I mean, we want to make sure that you have choices to make. We want to make sure that each choice gives you different options. But another thing is</v>
+
+00:10:35.410 --> 00:11:05.300
+<v Speaker 1>one of the things that, for example, one thing that makes the color pie sing is that the colors have makes sense, that the colors have a flavor to them. And that Richard didn't just say, I'm just going to take all my mechanics and divvy it up in five. He said, no, no, no, I'm going to come up with a system that makes sense flavorfully. And then I'm going to use that as a guidance to figure out where I put my mechanics. So the idea it's not, I mean one of the things that's neat about the color pie is each of the colors it is not</v>
+
+00:11:05.380 --> 00:11:35.530
+<v Speaker 1>the rich richer introduced the idea of the essence of what the color is. If I say to somebody, what do you think the color white does, that people will start guessing things that white actually does. You know, white being defensive or being the color of the goody 2 shoe characters or you know, having the more moral sense, a lot of that would make sense. Likewise, black magic, you know, the term black magic already existed. You know, there's a feel for it. And that what Richard did was he said, OK, I'm going to figure out how to take the flavors</v>
+
+00:11:35.600 --> 00:11:53.740
+<v Speaker 1>they want. And this is where strings and weaknesses become important, not just from a structural game play standpoint, but also from a flavor standpoint. That the fact that like even me explaining to you why red can't destroy enchantments, it is, oh register destructive, but it's</v>
+
+00:11:54.980 --> 00:12:24.890
+<v Speaker 1>destructive in a very physical way. When I run into something that isn't quite as physical, red goes, I don't know how to deal with the thing I can't blow U. How do I deal with that? And so it's weaknesses also gives identity to it. The fact that red is the fastest color, meaning, you know, one of the things that we wanted to get about red is red is, is very short term, you know, short, like do it in the moment, don't think of the long term ramifications color. So that gives an identity that we were able to mechanically give it.</v>
+
+00:12:25.170 --> 00:12:55.270
+<v Speaker 1>And the nice thing about that is it gave it an identity and it allowed us to have strengths and weaknesses that reinforce that identity. Ohh, well, red's really good at being aggressive. Well, let's give it a lot of aggressive cards. One of the strengths is aggressiveness. Oh, red is really short term thinking. So it doesn't have a good long term strategy. OK, there's one of the weaknesses that we make. Read more about doing things fast and that if that strategy doesn't work, really starts to have more problems. And so the strengths and weaknesses</v>
+
+00:12:55.350 --> 00:13:26.360
+<v Speaker 1>don't, don't only, you know, just give them mechanical identity. Um, they also sort of define the flavor. They sort of actually, they mesh it. That part of what makes, and I took this all the time that when people talk about bends and breaks of the color pie, usually what makes a break or one of the major things that makes a break is it undermines the inherent essence of the weakness of the color. If the color isn't supposed to do something and it's what defines A weakness for the color undoing, that is where you start getting breaks in the color pie.</v>
+
+00:13:26.720 --> 00:13:45.280
+<v Speaker 1>That if you made a red card that said, ohh, I have a really flavorful red wave destroying enchantments. I'm like, whoa, whoa, whoa, whoa. Reds inability to destroy enchantments is a key part of its color. That's one of the things that makes you go, oh, I have problems dealing with this issue. I might need a second color. I by myself can't necessarily deal with everything,</v>
+
+00:13:46.000 --> 00:13:48.810
+<v Speaker 1>OK, which ties us into the next thing, which is</v>
+
+00:13:50.140 --> 00:14:19.090
+<v Speaker 1>strategy. You want strategy in your game, right? You want people to be able to, with time, figure out, once again, you'll see, by the way, like I'm talking to a lot of the components that tie into the 10 things every game needs, which is a different podcast to talk about strategy and rules and a goal. And all this all ties together. All my talks tied together in one big mega talk. So anyway, you want strategy in your game, right? You want there to be reasons that people get better with time.</v>
+
+00:14:20.110 --> 00:14:49.600
+<v Speaker 1>People can use their experience to enhance further times playing the game. So the thing that we strengths and weaknesses do is one of the things about the game is you don't necessarily have to advertise your strengths and weaknesses. In fact, what you want to do is there's a thing in writing where they show, don't tell. One of the signs of sort of a novice writer, a screenwriter especially, is that if they want to get a point across, they have the characters physically,</v>
+
+00:14:50.070 --> 00:15:20.130
+<v Speaker 1>verbally say it. Ohh wow. I have a problem with closed in spaces because in my youth I once was trapped in a closet. You know that what you want is if your characters claustrophobic, don't have him say you know he or she's claustrophobic. Trap them somewhere in tight space. Watch them panic, maybe do a flashback of them in their youth. Whatever caused this thing in the 1st place. You know I'm saying show them. Show them suffering from the thing they suffer from. Don't just say it</v>
+
+00:15:20.570 --> 00:15:51.360
+<v Speaker 1>and the same is true for games, which is that I mean, I if you listen to my podcast and stuff and that's for the more advanced. I don't think that the first time you start playing match, the first thing you listen to my podcast is we want you to explore the game and figure out what colors are good at what are they bad at? You know, you want to sort of understand that there it gives you things to learn it. You know, part of getting better at the game is understanding the nuances of where things are good and bad. And because magic keeps</v>
+
+00:15:51.460 --> 00:16:22.110
+<v Speaker 1>reinventing itself, we keep making more cards in anyone environment. Things that might have been true in one environment might not always be true that Reds weaknesses can ebb and flow some not that they ever go away completely, but it's possible in one world. Well, Red's weakness to this problem isn't quite as bad as it is in other worlds or you know, record have a weakness that is normally not a big deal. But in this environment, that weakness that gets played up because the fact that has it is much more an issue. For example,</v>
+
+00:16:22.260 --> 00:16:52.860
+<v Speaker 1>the lack of trouble with it with artifacts. It doesn't destroy artifacts. Black uses death a lot. And the problem is you can't use death to kill an artifact artifact picture, but you can't use death to kill an artifact. So black has trouble getting rid of artifacts. Normally not a giant deal. Black has a lot of answers to things. But in an artifact block, in a set, all but artifacts, artifacts are just at a higher amount than normal. Oh, blacks, that weakness, that's becoming more of a thing for black, it's a bigger issue. And so</v>
+
+00:16:53.090 --> 00:17:23.200
+<v Speaker 1>the strengths and weaknesses give your player the opportunity to try to figure things out. And as they figure things out, it starts giving them new challenges. Like one of the neat things about having strengths and weaknesses is you have to figure out what the strengths and weaknesses are, how it's affecting you, and then adapt accordingly. Either I have to figure out when I want to bring in another color in Magic, when I want to swap colors, or I need to figure out and this is what leads to a lot of fun. Game play</v>
+
+00:17:23.290 --> 00:17:53.200
+<v Speaker 1>is OK, I have a challenge I need to deal with problem X, I'm playing with color Y, maybe color XY and Z. And I got to figure out how to solve that problem with the resources I have in hand. OK, I'm playing mono red and my opponent has an enchantment. OK well how do I deal with it? I can't destroy the enchantment. Is there another way to do it? Like for a long time 1 of Reds big adversaries was circles of protection which were enchantments that the opponent could use to stop damage. And red is all about speed and beating you</v>
+
+00:17:53.290 --> 00:18:23.270
+<v Speaker 1>musically and doing damage. Well, circles and protection, especially protection, red was very effective. But one of the things is we gave red tools to sort of sideways tools to deal with circles of protection. And one of the key things was figuring out how to use that. How do I find tools that don't answer the problem maybe in the most direct way, but answer an indirect way? And the idea is by having strengths and weaknesses built in, you can sort of lean on your strengths and try to work around your weaknesses. It gives you something,</v>
+
+00:18:23.350 --> 00:18:32.740
+<v Speaker 1>you know, Like I said, one of the goals of your game is to make your player challenge themselves and figure things out and sort of rise to the occasion</v>
+
+00:18:34.160 --> 00:18:47.760
+<v Speaker 1>if you talk about what makes you feel good when you play a game. I remember Aaron Hoffman from a GC talk couple years ago talked about the definition of fun. And I said, she said that it was the idea of overcoming,</v>
+
+00:18:48.970 --> 00:19:19.270
+<v Speaker 1>that you want to have something that's hurting you and then through some sort of mastery loop you overcome it. So what that means is, OK, I'm suffering in some way. Oh, I figure out by doing some sequence of events I can solve that problem. And then I do that sequence events. I figure that out. And then the act of not being in that problem anymore, of getting out of it is very compelling. And that is what she says. That's what is fun. I figured out how to do it. You know, in gaming, a lot of fun is going,</v>
+
+00:19:19.360 --> 00:19:49.520
+<v Speaker 1>there's a problem, what can I do about it? Oh, OK, that is I could do this. You know, if I do like one of the neat things about playing Magic, for example, is you get yourself into trouble and you might say, OK, OK, how do I get out of this? And you figure out some multi turn plan to do it. And like, OK, my 1 route to victory is this thing that's not super likely, but it's my only route to victory. So what I'm going to do is dedicate all my resources to get into that route to victory and I'm going to take advantage of my strengths. I have work around</v>
+
+00:19:49.640 --> 00:19:51.050
+<v Speaker 1>weaknesses to get there</v>
+
+00:19:52.270 --> 00:19:59.760
+<v Speaker 1>and when you do that, when you accomplish it, when you have some obstacle in your way and you overcome it, it is very, very fun and so.</v>
+
+00:20:00.670 --> 00:20:01.240
+<v Speaker 1>Like I say,</v>
+
+00:20:01.890 --> 00:20:12.200
+<v Speaker 1>I don't think I have to sell people why to make make things good. That's not of course you want things that are good. The harder cells why things should be bad? Where's the coolness of bad</v>
+
+00:20:13.640 --> 00:20:43.350
+<v Speaker 1>And one of the things that I remember this examples from a Wacom said my favorite book by Roger Vanek's book on creative thinking. You never heard me mentioned. I mentioned all the time he talks about how one of the things that's interesting is to take concepts and examine them and say, is this always true? And one of the things about strengths is that strengths are always an advantage and weaknesses are always a disadvantage. And the answer is no. Sometimes weakness can be an advantage.</v>
+
+00:20:43.650 --> 00:20:53.520
+<v Speaker 1>Can that be? For example, let's take the fuse. OK, so one of the things is you have a circuit box in which you have all your electrical things running in and you can turn it on and off.</v>
+
+00:20:54.870 --> 00:21:24.880
+<v Speaker 1>You don't want some sort of surge of some kind to blow up your electrical box. That what you want is you want a controlled way to make sure if something goes wrong that it is not damaging to you. So that's where the fuse comes from. The fuse is designed to be the weakest link in the circuit the fuse is designed to go. If anything's going to break, I'm going to break. And I'm a little I'm a little cheapy nothing. I'm a little tiny thing. So, you know, getting more of me is easy. I'm</v>
+
+00:21:24.950 --> 00:21:55.170
+<v Speaker 1>very expendable and so being the weak element is a strength of Fuse takes advantage of its weakness as a strength. So that's the other thing that I'm trying to say is that part of making a game exciting is you want to make sure that the players, like the weaknesses can be at times used tactically by your players in a way that can be advantageous. And for you as a player, sometimes having a weakness allows you to do something</v>
+
+00:21:55.260 --> 00:22:08.210
+<v Speaker 1>that you couldn't normally do. That weakness is a tool. Weakness is a positive thing for you, the game builder, the game designer, because you can use the weakness to help direct things, to help create the system you want.</v>
+
+00:22:09.540 --> 00:22:29.590
+<v Speaker 1>Now the other thing that it does in a larger sense is the combination of strengths and weaknesses. Build what we call them meta game. So what a meta game is actually two different kinds of meta games. One meta game I talk all the time, is the idea that your game is more than just the game. That's one definition of meta game. The other is the idea that there's</v>
+
+00:22:30.600 --> 00:22:32.070
+<v Speaker 1>and interconnected</v>
+
+00:22:33.330 --> 00:22:39.180
+<v Speaker 1>web of strategies saying, OK, I want to play this game, I want to be competitive. What's the way to win?</v>
+
+00:22:40.520 --> 00:23:10.700
+<v Speaker 1>And what you want is you want there to be a an evolution. Like for example, if there's one best strategy and all you need to do is play that one strategy and you'll always win and that's what you do. That's kind of boring, right? It's like, Oh, I just do thing X. Well, OK, maybe the active figuring that out is interesting, but then the game gets boring. But if you say, OK, for example, my opponent is doing a certain strategy, well because the game is built into it shrinks and weaknesses,</v>
+
+00:23:10.820 --> 00:23:14.790
+<v Speaker 1>I could take advantage of their weaknesses to try to find a counter answer.</v>
+
+00:23:15.530 --> 00:23:20.610
+<v Speaker 1>You know, like for example, if my if I'm playing somebody and they're playing a monocolor deck,</v>
+
+00:23:21.740 --> 00:23:52.010
+<v Speaker 1>because we've built in weaknesses to the colors that if you know what your opponents playing, you can sort of aim to figure if you know what they're doing, you now are entitled to build things that prey on the weaknesses of your opponent. That having the strengths and weaknesses means that you can say, OK, I'm going to take advantage of my strengths and I'm gonna take advantage of knowing my opponents weaknesses to deal with it. And what the meta game is about is, you know, a lot of talk about a meta game having a lot of our rock</v>
+
+00:23:52.090 --> 00:24:22.370
+<v Speaker 1>precious quality to it, meaning that some element beats another element, which beats the third element, which beats the first element. Now, rock, paper, scissors don't have to have three components always. But the idea is when we say a rock, paper, scissors environment, it means that everything has an answer and that those answers are circular quality to the answers. Meaning that what is good at any one moment in time has to do with the combination of what people are playing. And the easy way to think about it is if 75% of the audience is playing rock,</v>
+
+00:24:22.520 --> 00:24:40.000
+<v Speaker 1>I want bring paper to the tournament. But if students, people are playing paper well, then I want to be playing scissors. You know that you want to figure out what is dominant in the combination of what people are playing. And the reason that's possible, the reason that you get rock, paper scissors meta games is because there are weaknesses in here in the system.</v>
+
+00:24:40.730 --> 00:24:59.360
+<v Speaker 1>You know, if I said I'm just going to make one faction the best thing and put no weaknesses in it and it's just awesome. Well then why would you ever play anything else? Why would you ever do anything else? But because their weakness is built in, that means if something gets good, OK, now there's ways that answers to combat it, to stop it that you make</v>
+
+00:25:00.720 --> 00:25:31.420
+<v Speaker 1>having vulnerabilities is important in your game because you want people to be able to take advantage of the vulnerabilities. You want people, you know you want weaknesses there because you want to make sure that there is a constant flux of what is going on. And so it both allows you to have the strategy to sort of learn about it, but it allows you to have the larger essence of the game. The meta game will have some flux to it because you know, if everybody, I mean real common thing that will happen is something is good</v>
+
+00:25:31.750 --> 00:25:51.950
+<v Speaker 1>and people know it's good and they start playing more of that because it's good, it's winning. And then people say, OK, I know this thing is winning. Let's figure out what beats that thing. And they build something that's that's designed to be that thing. But the act of making it be that thing, the act of getting the strength necessary to combat that other decks weaknesses</v>
+
+00:25:53.020 --> 00:26:04.570
+<v Speaker 1>open up new weaknesses. You know, let's say, for example, because one of the things that's neat about the game is there are there are threats and there are answers and that not every faction can</v>
+
+00:26:05.630 --> 00:26:29.950
+<v Speaker 1>not only faction has every threat and not every faction has every answer. And so the idea is you create this interesting combination where I'm constantly sort of figuring out what threats I want to win with and figuring out what answers I need to answer other people's threats. And so if you think of strengths and weaknesses as being threats and answers, the fact that you mix up the threats and answers makes things very robust.</v>
+
+00:26:31.540 --> 00:26:32.520
+<v Speaker 1>Now, in general,</v>
+
+00:26:33.290 --> 00:27:03.000
+<v Speaker 1>um, strings do a lot of good things psychologically for your game. You want your players to have a feeling of power. You want your players to have a feeling of purpose. You want your players have a feeling of, of agency strengths. Do that. You know, one of the neat things is when I'm playing Magic, for example, whatever color I'm playing, we make sure that our strategies that are very, I wanna be the guy that just counterspells everything I'm playing. We called permission where I stop whatever you do and I'm being tricky sneaky. I gotta play blue.</v>
+
+00:27:03.180 --> 00:27:34.350
+<v Speaker 1>2000 does it very well, but the act of doing that, the act like blue has inherent weaknesses. So if I want to feel that way, I get to do that. You know, I get it. Like if I really like the feel of congruence spelling going ha ha, sorry your thing doesn't happen. OK, I gotta play blue. If I really like sort of messing with you and getting in your mind, making you discard cards and you know, that gives me black. If I wanted to be defensive and protect things and sort of, you know, play a little bit more of a defensive</v>
+
+00:27:34.420 --> 00:28:02.620
+<v Speaker 1>game, I get to be white. If I want to blow things up and be very aggressive and in your face, I get to be red. If I want to sort of like slowly build U and make giant creatures and sort of like have this really big, you know, overrun you with this creature as well, that gets to be green. So by giving things, by giving things strength to giving these weaknesses, I really or well, by giving them strengths, I give them a sense of power, a sense of agency, a sense of</v>
+
+00:28:02.800 --> 00:28:25.370
+<v Speaker 1>a potency on like this is what this is. And there's a really there's a really great feeling when things are working and you have the identity really good that strengths really end. Strengths encourage action. Strengths make you do things. OK, I'm good at thing X, I'm going to do thing X. So strings are very good in empowering the player and making the play. I'm saying there's a lot of</v>
+
+00:28:27.210 --> 00:28:55.130
+<v Speaker 1>vicarious Ness in games that sometimes in life you feel weak because you know, you can't always do what you want to do in real life. But in games, because you have the control, you're like, I'm gonna, you know, I'm gonna play magic, I'm gonna be a powerful wizard. I'm a powerful spells and I'm gonna summon mighty things. And there's a really sense of like, curiously being powerful and strength like you do that, having strengths in your game, having things you could be good at and really make you feel awesome.</v>
+
+00:28:56.130 --> 00:29:01.940
+<v Speaker 1>Um, now The funny thing is, I think when you look at weaknesses, people feel like,</v>
+
+00:29:04.130 --> 00:29:23.400
+<v Speaker 1>ohh, but weaknesses, you know, weaknesses don't give me that feeling of power. But one of the things that remind people of is when you, I'll go to fiction for this example, when you write a character, characters have strengths, but The funny thing is they're more defined by their weaknesses than their strengths. You know,</v>
+
+00:29:25.260 --> 00:29:55.540
+<v Speaker 1>you want your character to have strengths. You want them to be good at things. You know, you want your character to excel. And so obviously I want my character to be able to do things that normal people can't do or at least be good at something, something my character, there's some place they excel, you know, and so I get a show people watching my character excel. But is it exciting? And my character has no weaknesses, no negative to them, no flaws. No, it's not that. What makes characters shine is the fact that they have inherent</v>
+
+00:29:55.620 --> 00:30:25.930
+<v Speaker 1>cost to them and in the game, part of what makes the flavor work really well, part of what makes it feel more real, part of what makes it feel that creates the opportunities that you need. Like I said, fun is about overcoming obstacles, that you need the obstacles, and that there is a very real sense to feeling weak in games. That part of what you're trying to do is you want the sense of power, but you also want the idea that</v>
+
+00:30:26.000 --> 00:30:56.250
+<v Speaker 1>that at times that our weaknesses and that grounds your game. It makes me feel more human. It makes it feel more real and and it creates the opportunities for joy. And that yes, there's great thrill in doing the things that's powerful, but there's also thrill in sort of figuring out how to what the weaknesses are to how to overcome that. And So what I'm trying to say is I strengths and weaknesses are not opposites of each other.</v>
+
+00:30:56.300 --> 00:31:18.780
+<v Speaker 1>I know it sounds like they're opposites, but from a game design stand, burn game design standpoint, there are tools. In fact, there are tools that work in conjunction with each other. The strengths and weaknesses aren't in game design terms. It's not like if I give strength, I have to give up weakness or something. They're not opposites. It's more of it allows me to make something that has depth to it.</v>
+
+00:31:20.350 --> 00:31:50.330
+<v Speaker 1>One of the days I'll do a podcast about the importance of depth. But one of the things in general is when you build something, you wanna make sure that it feels that there are different things to explore and different avenues. And that one of the neat things about having strengths and weaknesses is you create a sense of depth. You get to see, oh, there's interesting tradeoffs. It's like, Oh, well, I could be really good at thinking A&amp;B but bad at C&amp;B or, or I could be good at B&amp;C and OK, but bad at D&amp;E or I'd be good at</v>
+
+00:31:50.530 --> 00:32:00.150
+<v Speaker 1>see and horrible at B, but OK, you know, and that that's a lot of the choices you make is trying to figure out where you want to,</v>
+
+00:32:01.170 --> 00:32:14.160
+<v Speaker 1>you know, the the the layering and nuance that you want between the strengths and the weaknesses and the hopefully I mean, like my goals today almost done, but my goal today is to make you realize that</v>
+
+00:32:15.870 --> 00:32:28.540
+<v Speaker 1>strengths are a tool to make your player feel feel good and give purpose and give direction. So are weaknesses. Everything shrinks, does weakness is due to a certain extent, but in a different regard.</v>
+
+00:32:30.410 --> 00:32:55.680
+<v Speaker 1>I mean strengths are the thing that make you feel powerful and make you feel potent and give you agency. We desire the things that challenge yourself and make you sort of think and problem solve but combine together. That is the essence of what they are sort of combined, that gives the game and the elements of the game, the factions in the game, sort of a realistic feel.</v>
+
+00:32:57.080 --> 00:33:03.930
+<v Speaker 1>We realize that gives it a human feel. How about that? I talk all the time about how</v>
+
+00:33:04.750 --> 00:33:08.110
+<v Speaker 1>if you want your game succeed, you have to understand how humans function.</v>
+
+00:33:08.850 --> 00:33:16.760
+<v Speaker 1>Um, humans. Just in psychological terms. Humans need strengths and weaknesses to to do what they do. That</v>
+
+00:33:18.280 --> 00:33:19.810
+<v Speaker 1>you know you</v>
+
+00:33:21.050 --> 00:33:21.860
+<v Speaker 1>without</v>
+
+00:33:22.950 --> 00:33:39.060
+<v Speaker 1>without having your strings, you wouldn't feel good about I can do things, but also without having your weaknesses, you wouldn't wouldn't feel like you accomplished things. You wouldn't feel like you you wouldn't have the satisfaction of overcoming things. And that both of those are very key.</v>
+
+00:33:39.850 --> 00:34:11.460
+<v Speaker 1>So my walk away today is when you're designing your game, try to figure out in each component that you're doing, what are the components strengths and what are their weaknesses. And if you find that anyone component has no strengths or has no weaknesses or not enough strength and not enough weaknesses, that's the problem. You know that you really need to embrace both strengths and weaknesses as key tools to customizing your game. And that one of the things that you should be asking at some point</v>
+
+00:34:11.580 --> 00:34:42.190
+<v Speaker 1>is you should be looking in the different components and saying, OK, what is the strength of this strategy? What is the weakness of this strategy? What's the strength of this component? What's the weakness of this component? What's the strength of this aspect? What's the go through all the different pieces of your game and say, OK, what makes my my player feel good? What makes them have that sense of power? And what are they overcoming? You know, what, what, what can't they do that makes them look elsewhere? And when you do that, when you combine and when you figure out</v>
+
+00:34:42.260 --> 00:35:11.680
+<v Speaker 1>how do you strengthen weaknesses properly, you will make a game that is just much richer to play, that is much more fun, that is had strategy. It's more long lasting. You know, all the different things. If you run through all my 10 things, every game needs strengths and weaknesses weaves it away in and out of that. It helps you. You want your rules to help reinforce the strength and weaknesses. You want the goal to be something that makes people have to rely on their strengths, but to fight, you know, and and overcome their weaknesses.</v>
+
+00:35:12.460 --> 00:35:31.020
+<v Speaker 1>Part of getting strategy, part of getting flavor, part of even create inertia, you know, part of getting your ketchup feature. All these different components of the game can be woven in by using your strengths and weaknesses properly in how you build your game. And so as I drive my daughter to school, I will say,</v>
+
+00:35:31.770 --> 00:36:01.680
+<v Speaker 1>think about that each time you're working on any component of your game, always sort of question yourself and say, OK, does this component, if I push strength in this component and if I push weaknesses in this component? And that in the larger sense of the game, is there reasons that doing this will help me and the reasons that doing this will hurt me? And what you will find is properly used, that shrinks and weaknesses will make your game a better game. OK, I'm now original school so I'll know that means in this end of my drive</v>
+
+00:36:01.800 --> 00:36:05.570
+<v Speaker 1>work to set of talking magic. It's time for me to be making magic. I'll see you guys next time.</v>
+
